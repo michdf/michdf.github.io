@@ -109,6 +109,7 @@ section {
 .text-container p:nth-child(3) {
     font-size: 18px;
     font-style: italic; 
+    color: #4D4D4D; 
 }
 
 .text-container p:nth-child(4) {
@@ -119,7 +120,7 @@ section {
 
 .text-container p:nth-child(5) {
     font-size: 16px;
-    color: #ff7b00; 
+    color: #4D4D4D; 
 }
 
 .text-container p:nth-child(6) {
