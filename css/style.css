@@ -84,9 +84,48 @@ section {
     margin: 0 auto;
 }
 
-.text-container p {
-    line-height: 1.5;
-    margin-bottom: 20px;
+@font-face {
+    font-family: 'retro';
+    src: url('font/retro_computer_personal_use.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Minecraft';
+    src: url('font/Minecraft.ttf') format('truetype');
+}
+
+
+.text-container p:nth-child(1) {
+    font-size: 24px;
+    font-family: 'Minecraft',sans-serif;
+}
+
+.text-container p:nth-child(2) {
+    font-size: 36px;
+    font-family: 'retro',sans-serif;
+    font-weight: bold;
+}
+
+.text-container p:nth-child(3) {
+    font-size: 18px;
+    font-style: italic; 
+}
+
+.text-container p:nth-child(4) {
+    font-size: 20px;
+    line-height: 1.8;
+    font-family: 'Minecraft',sans-serif; 
+}
+
+.text-container p:nth-child(5) {
+    font-size: 16px;
+    color: #ff7b00; 
+}
+
+.text-container p:nth-child(6) {
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
 }
 
 .text-container button {
@@ -224,6 +263,7 @@ footer {
     color: #fff;
     text-align: center;
     padding: 40px 20px;
+    font-family: 'Minecraft',sans-serif;
 }
 
 .social-icons {
