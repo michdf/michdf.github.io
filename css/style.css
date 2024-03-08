@@ -84,17 +84,6 @@ section {
     margin: 0 auto;
 }
 
-@font-face {
-    font-family: 'retro';
-    src: url('font/retro_computer_personal_use.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Minecraft';
-    src: url('font/Minecraft.ttf') format('truetype');
-}
-
-
 .text-container p:nth-child(1) {
     font-size: 24px;
     font-family: 'Minecraft',sans-serif;
