@@ -41,23 +41,23 @@ for article in articles:
     if article.select_one('a.adv-eksternal') is not None:
         continue
     
-    # Extract the title
+    # Judul
     title = article.select_one('h3 > span').text.strip()
 
-    # Extract the category
+    # Kategori
     category = article.select_one('span.kanal-info').text.strip()
 
-    # Extract the publish time dengan get_publish_time
+    # Olah Waktu Publikasi
     publish_time = get_publish_time(article.select_one('div.date').text.strip().split('-')[-1].strip())
 
-    # Format the publish time as string
+    # Formatting Waktu Publikasi
     publish_time_str = publish_time.strftime("%d-%m-%Y %H:%M")
 
     # Create a dictionary for the news item
     news_item = {
         "title": title,
         "category": category,
-        "publish_time": publish_time_str,  # Use the formatted string
+        "publish_time": publish_time_str,
     }
 
     # Append the news item to the list
@@ -67,3 +67,8 @@ for article in articles:
 with open('Scrap_Berita/republika.json', 'w') as json_file:
     json.dump(news_items, json_file, indent=4)
 
+# Waktu scrapping
+scrap_time = datetime.now().strftime("%d-%m-%Y %H:%M")
+
+with open('Scrap_Berita/Scrap_Time.json', 'w') as json_file:
+    json.dump(scrap_time, json_file, indent=4) 

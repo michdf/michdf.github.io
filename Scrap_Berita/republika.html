@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UwU</title>
+    <title>Berita Terkini di Republika.co.id</title>
     <link rel="stylesheet" href="style.css">
     <script src="main.js"></script>
     <link href="https://fonts.cdnfonts.com/css/minecraft-4" rel="stylesheet">
@@ -33,7 +33,10 @@
     <div class="title">
         <h3> Tabel Hasil Scrapping Republika</h3>
     </div>
-
+    <!-- Waktu scrap diambil dari JSON Scrap_Time.json -->
+    <div class="scrap-time">
+        <p>Waktu Scrap: <span id="scrap-time"></span></p>
+    </div>
     <table>
         <thead>
             <tr>
@@ -71,7 +74,14 @@
                         `;
                         republika.appendChild(row);
                     });
-                });             
+                });  
+                
+            fetch('Scrap_Time.json')
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data)
+                    document.getElementById('scrap-time').textContent = data;
+                });
     </script>
 </body>
 </html>
