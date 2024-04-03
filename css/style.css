@@ -156,6 +156,7 @@ section {
 .Skill-text,
 .Harapan-text {
     margin-bottom: 20px;
+    font-family: 'Minecraft',sans-serif;
 }
 
 .Profil-col,
@@ -210,6 +211,31 @@ section {
     gap: 20px;
 }
 
+.photo-container > div {
+    position: relative;
+    margin: 10px;
+    text-align: center;
+}
+
+.photo-container span {
+    position: absolute;
+    bottom: -25px; /* Jarak antara foto dan teks */
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Latar belakang teks */
+    color: white; /* Warna teks */
+    padding: 5px;
+    font-size: 14px; /* Ukuran teks */
+    visibility: hidden; /* Sembunyikan teks awalnya */
+    opacity: 0; /* Sembunyikan teks awalnya */
+    transition: opacity 0.3s ease-in-out; /* Efek transisi saat menampilkan teks */
+}
+
+.photo-container > div:hover span {
+    visibility: visible;
+    opacity: 1;
+}
+
 .photo {
     width: 200px;
     height: 200px;
@@ -217,6 +243,11 @@ section {
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
+}
+
+.photo-title {
+    font-family: 'Minecraft',sans-serif;
+
 }
 
 .photo:hover {
@@ -236,6 +267,7 @@ section {
 
 .Map-Judul {
     margin-bottom: 20px;
+    font-family: 'Minecraft',sans-serif;
 }
 
 .Map-container {
@@ -315,6 +347,10 @@ footer {
 .social i {
     font-size: 20px;
     color: #2b2b2b;
+}
+
+.hidden {
+    display: none;
 }
 
 /* Media Queries */

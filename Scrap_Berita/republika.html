@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UwU</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js"></script>
+    <link href="https://fonts.cdnfonts.com/css/minecraft-4" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">  
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="#" class="logo">MICHO</a>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="../index.html" class="active">Home</a></li>
+                <li><a href="../index.html#Profil">Biodata</a></li>
+                <li><a href="../index.html#Skill">Skill</a></li>
+                <li><a href="../index.html#Harapan">Harapan</a></li>
+                <li><a href="#">Berita</a></li>
+            </ul>
+        </nav>
+    </header>
+    <!-- Tabel hasil scrapping -->
+    <div class="title">
+        <h3> Tabel Hasil Scrapping Republika</h3>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>No</th>
+                <th>Judul</th>
+                <th>Kategori</th>
+                <th>Waktu Rilis Berita</th>
+            </tr>
+        </thead>
+        <tbody id="republika"></tbody>
+    </table>
+
+    <!-- Social Icons -->
+   <div class="social">
+    <a href="https://web.facebook.com/micho.d.firmansyah"><i class="fab fa-facebook-f"></i></a>
+    <a href="https://wa.me/+6281319474321"><i class="fab fa-whatsapp"></i></a>
+    <a href="https://instagram.com/michdf_27"><i class="fab fa-instagram"></i></a>
+    <a href="https://www.linkedin.com/in/micho-dhani-firmansyah/"><i class="fab fa-linkedin"></i></a>
+    </div>
+
+    <!-- Hasil Scrapping -->
+    <script>
+           const republika = document.getElementById('republika');
+    
+            fetch('republika.json')
+                .then(response => response.json())
+                .then(data => {
+                    data.forEach((news, index) => {
+                        const row = document.createElement('tr');
+                        row.innerHTML = `
+                            <td>${index + 1}</td>
+                            <td>${news.title}</td>
+                            <td>${news.category}</td>
+                            <td>${news.publish_time}</td>
+                        `;
+                        republika.appendChild(row);
+                    });
+                });             
+    </script>
+</body>
+</html>
+

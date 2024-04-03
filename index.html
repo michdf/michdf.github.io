@@ -6,6 +6,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>Micho's Website</title>
    <link rel="stylesheet" href="css/style.css">
+   <script src="js/main.js"></script>
    <link href="https://fonts.cdnfonts.com/css/minecraft-4" rel="stylesheet">
    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 </head>
@@ -18,12 +19,14 @@
                <span class="bar"></span>
                <span class="bar"></span>
                <span class="bar"></span>
+               <span class="bar"></span>
            </div>
            <ul class="nav-menu">
                <li><a href="#" class="active">Home</a></li>
                <li><a href="#Profil">Biodata</a></li>
                <li><a href="#Skill">Skill</a></li>
                <li><a href="#Harapan">Harapan</a></li>
+               <li><a href="/Scrap_Berita/republika.html">Berita</a></li>
            </ul>
        </nav>
    </header>
@@ -38,7 +41,7 @@
            <p>"Be Diligent So You Can Be Lazy"</p>
            <p> </p>
            <button class="Intro-btn" onclick="location.href='https://youtu.be/phdjsZhvWd0?si=XemUKjekmmOiBteU'">My Intro</button>
-           <button class="memories-btn ">My Memories</button>
+           <button class="memories-btn" onclick="window.location.href = '#Memory'">My Memories</button>
        </div>
        <img alt="model" class="model" src="\img\Micho.jpeg">  
    </section>
@@ -66,15 +69,31 @@
 
    <!-- My Memories -->
    <section>
-       <div class="photo-title">
+       <div class="photo-title" id="Memory">
            <h2>My Memories</h2>
        </div>
        <div class="photo-container">
-           <img class="photo" src="\img\Gambar1.jpeg" alt="Teacher's Day!">
-           <img class="photo" src="\img\Gambar2.jpeg" alt="Year Book Photo📸">
-           <img class="photo" src="\img\Gambar3.jpeg" alt="Drama Day!">
-           <img class="photo" src="\img\Gambar4.jpeg" alt="Buka Puasa Bersama">
-           <img class="photo" src="\img\Gambar5.jpeg" alt="Me with My Bro!">
+        <div id="photo1">
+            <img class="photo" src="\img\Gambar1.jpeg" alt="Teacher's Day!">
+            <span class="hidden">Teacher's Day!</span>
+        </div>
+        <div id="photo2">
+            <img class="photo" src="\img\Gambar2.jpeg" alt="Year Book Photo📸">
+            <span class="hidden">Year Book Photo📸</span>
+        </div>
+        <div id="photo3">
+            <img class="photo" id="photo3" src="\img\Gambar3.jpeg" alt="Drama Day!">
+            <span class="hidden">Drama Day!</span>
+        </div>
+        <div id="photo4">
+            <img class="photo" id="photo4" src="\img\Gambar4.jpeg" alt="Buka Puasa Bersama">
+            <span class="hidden">Buka Puasa Bersama</span>
+        </div>
+        <div id="photo5">
+            <img class="photo" id="photo5" src="\img\Gambar5.jpeg" alt="Me with My Bro!">
+            <span class="hidden">Me with My Bro!</span>
+        </div>
+
        </div>
    </section>
 
