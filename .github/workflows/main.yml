@@ -23,7 +23,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Melakukan scraping
-        run: cd Scrap_Berita && python republika.py
+        run: python Scrap_Berita/republika.py
 
       - name: commit files
         run: |
