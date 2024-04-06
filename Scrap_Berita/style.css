@@ -168,6 +168,10 @@ tbody tr:nth-child(odd) {
     color: #2b2b2b;
 }
 
+.scrap-time{
+    margin-left: 10%;
+}
+
 /* Media Queries */
 @media (max-width: 768px){
     .hamburger {
