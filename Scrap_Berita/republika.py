@@ -28,6 +28,15 @@ for article in articles:
 
     # Memisahkan teks untuk mendapatkan hanya tanggal dan waktu
     publish_time = date_text.split('-')[-1].strip()
+    if "detik" in publish_time:
+        publish_time = datetime.now() - timedelta(seconds=int(publish_time.split()[0]))
+        publish_time = publish_time.strftime("%d-%m-%Y %H:%M")
+    if "menit" in publish_time:
+        publish_time = datetime.now() - timedelta(minutes=int(publish_time.split()[0]))
+        publish_time = publish_time.strftime("%d-%m-%Y %H:%M")
+    if "jam" in publish_time:
+        publish_time = datetime.now() - timedelta(hours=int(publish_time.split()[0]))
+        publish_time = publish_time.strftime("%d-%m-%Y %H:%M")
 
     # Create a dictionary for the news item
     news_item = {
