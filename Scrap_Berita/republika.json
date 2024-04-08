@@ -1,5 +1,179 @@
 [
     {
+        "title": "PLN Dukung Pelayanan Angkot Listrik di Bogor",
+        "category": "Ekonomi",
+        "publish_time": "08-04-2024 11:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/sbmeuk490/pln-dukung-pelayanan-angkot-listrik-di-bogor"
+    },
+    {
+        "title": "Pendorong Belanja Online, Shopee Perbarui Kebijakan Pengembalian Barang",
+        "category": "Ekonomi",
+        "publish_time": "08-04-2024 11:02",
+        "news_link": "https://ekonomi.republika.co.id/berita/sbmeop490/pendorong-belanja-online-shopee-perbarui-kebijakan-pengembalian-barang"
+    },
+    {
+        "title": "Motor Riders Dominate Total Traveler on the Puncak Line",
+        "category": "En",
+        "publish_time": "9 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/sbmej0451/motor-riders-dominate-total-traveler-on-the-puncak-line"
+    },
+    {
+        "title": "Jalur Pantura Semarang-Jakarta Ramai Lancar Selama One Way Jalan Tol",
+        "category": "News",
+        "publish_time": "08-04-2024 10:56",
+        "news_link": "https://news.republika.co.id/berita/sbmeev425/jalur-pantura-semarangjakarta-ramai-lancar-selama-one-way-jalan-tol"
+    },
+    {
+        "title": "Pertamina Antisipasi Lonjakan Pembelian BBM di Bandung Raya dan Priangan Timur",
+        "category": "Ekonomi",
+        "publish_time": "08-04-2024 10:55",
+        "news_link": "https://ekonomi.republika.co.id/berita/sbmed2423/pertamina-antisipasi-lonjakan-pembelian-bbm-di-bandung-raya-dan-priangan-timur"
+    },
+    {
+        "title": "Genangan Banjir Surut, Lalu Lintas di Pantura Kaligawe Semarang Terpantau Lancar",
+        "category": "Rejogja",
+        "publish_time": "08-04-2024 10:50",
+        "news_link": "https://rejogja.republika.co.id/berita/sbme3z432/genangan-banjir-surut-lalu-lintas-di-pantura-kaligawe-semarang-terpantau-lancar"
+    },
+    {
+        "title": "Bahlil Ungkap Kemungkinan Jokowi akan Jadi Penasihat Khusus Prabowo",
+        "category": "News",
+        "publish_time": "08-04-2024 10:49",
+        "news_link": "https://news.republika.co.id/berita/sbma4t377/bahlil-ungkap-kemungkinan-jokowi-akan-jadi-penasihat-khusus-prabowo"
+    },
+    {
+        "title": "Jalan Satu Arah Diberlakukan di Kawasan Pasar Pusat Kemacetan Arus Mudik Garut",
+        "category": "Rejabar",
+        "publish_time": "08-04-2024 10:49",
+        "news_link": "https://rejabar.republika.co.id/berita/sbmdio463/jalan-satu-arah-diberlakukan-di-kawasan-pasar-pusat-kemacetan-arus-mudik-garut"
+    },
+    {
+        "title": "Mukena dan Sajadah Traveling di Thamrin City Jadi Incaran",
+        "category": "Sharia",
+        "publish_time": "08-04-2024 10:49",
+        "news_link": "https://sharia.republika.co.id/berita/sbm6za457/mukena-dan-sajadah-traveling-di-thamrin-city-jadi-incaran"
+    },
+    {
+        "title": "Jackie Chan Ultah ke-70: Tiap Dengar Angka Ini, Jantung Saya Seakan Berhenti Sejenak",
+        "category": "Ameera",
+        "publish_time": "08-04-2024 10:48",
+        "news_link": "https://ameera.republika.co.id/berita/sbme19425/jackie-chan-ultah-ke70-tiap-dengar-angka-ini-jantung-saya-seakan-berhenti-sejenak"
+    },
+    {
+        "title": "Ini Lima Tips Tinggalkan Rumah Saat Mudik Lebaran untuk Cegah Kebakaran",
+        "category": "News",
+        "publish_time": "08-04-2024 10:47",
+        "news_link": "https://news.republika.co.id/berita/sbmbxt348/ini-lima-tips-tinggalkan-rumah-saat-mudik-lebaran-untuk-cegah-kebakaran"
+    },
+    {
+        "title": "Gelar Bukber dengan Para Warga, Mardiono Doa Bersama PPP Lolos Parliamentary Threshold",
+        "category": "News",
+        "publish_time": "08-04-2024 10:45",
+        "news_link": "https://news.republika.co.id/berita/sbm05a456/gelar-bukber-dengan-para-warga-mardiono-doa-bersama-ppp-lolos-parliamentary-threshold"
+    },
+    {
+        "title": "Pertamina Catat Peningkatan Konsumsi BBM di H-3 Idul Fitri Pertamax Paling Tinggi",
+        "category": "Ekonomi",
+        "publish_time": "08-04-2024 10:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/sbmdnn349/pertamina-catat-peningkatan-konsumsi-bbm-di-h3-idul-fitri-pertamax-paling-tinggi"
+    },
+    {
+        "title": "Kementerian ESDM Sebut Konsumsi Bensin RON 95 Naik 32 Persen",
+        "category": "Ekonomi",
+        "publish_time": "08-04-2024 10:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/sbm6mi457/kementerian-esdm-sebut-konsumsi-bensin-ron-95-naik-32-persen"
+    },
+    {
+        "title": "Aneka Toko Kue Kering Ramai di Pasar Kosambi",
+        "category": "Visual",
+        "publish_time": "08-04-2024 10:39",
+        "news_link": "https://visual.republika.co.id/berita/sbmc4j491/aneka-toko-kue-kering-ramai-di-pasar-kosambi"
+    },
+    {
+        "title": "Modifikasi Cuaca akan Dilakukan Antisipasi Abu Vulkanik Gunung Marapi di Bandara",
+        "category": "Resumatra",
+        "publish_time": "08-04-2024 10:34",
+        "news_link": "https://republika.co.id/berita/sbmddx463/modifikasi-cuaca-akan-dilakukan-antisipasi-abu-vulkanik-gunung-marapi-di-bandara"
+    },
+    {
+        "title": "Kapolri Pastikan Keamanan Pemudik",
+        "category": "Video",
+        "publish_time": "08-04-2024 10:30",
+        "news_link": "https://tv.republika.co.id/berita/sbmd7u313/kapolri-pastikan-keamanan-pemudik"
+    },
+    {
+        "title": "Pengamat: Ada Perang Bintang, Pilkada DKI Bakal Jadi 'Pertempuran' Paling Menarik",
+        "category": "News",
+        "publish_time": "08-04-2024 10:29",
+        "news_link": "https://news.republika.co.id/berita/sbm8ai377/pengamat-ada-perang-bintang-pilkada-dki-bakal-jadi-pertempuran-paling-menarik"
+    },
+    {
+        "title": "Terminal Mengwi Bali Buka Layanan Kesehatan dan Bilik Laktasi Pemudik",
+        "category": "Ramadhan",
+        "publish_time": "08-04-2024 10:29",
+        "news_link": "https://ramadhan.republika.co.id/berita/sbm63y457/terminal-mengwi-bali-buka-layanan-kesehatan-dan-bilik-laktasi-pemudik"
+    },
+    {
+        "title": "Pengguna Tol Diimbau Tetap Berada di Jalur Saat Ikut Jalur Contraflow",
+        "category": "News",
+        "publish_time": "08-04-2024 10:26",
+        "news_link": "https://news.republika.co.id/berita/sbmd0f425/pengguna-tol-diimbau-tetap-berada-di-jalur-saat-ikut-jalur-contraflow"
+    },
+    {
+        "title": "Kemenag Solok Lakukan Pengawasan JPH Serentak untuk Wajib Halal 2024",
+        "category": "Sharia",
+        "publish_time": "08-04-2024 10:19",
+        "news_link": "https://sharia.republika.co.id/berita/sbm5sz457/kemenag-solok-lakukan-pengawasan-jph-serentak-untuk-wajib-halal-2024"
+    },
+    {
+        "title": "Ramadhan Keliling, Komunitas Seni dan Budaya Huma Rumil Berbagi Keceriaan Bersama Anak-anak",
+        "category": "Network",
+        "publish_time": "08-04-2024 10:18",
+        "news_link": "https://ruzka.republika.co.id/komunitas/1674529298/ramadhan-keliling-komunitas-seni-dan-budaya-huma-rumil-berbagi-keceriaan-bersama-anak-anak"
+    },
+    {
+        "title": "Pengelola Ragunan Siapkan Kantong Parkir Sambut Wisatawan Selama Libur Lebaran",
+        "category": "Ramadhan",
+        "publish_time": "08-04-2024 10:18",
+        "news_link": "https://ramadhan.republika.co.id/berita/sbmcnc425/pengelola-ragunan-siapkan-kantong-parkir-sambut-wisatawan-selama-libur-lebaran"
+    },
+    {
+        "title": "Jelang Lebaran, Jalanan di Jakarta Lengang",
+        "category": "Ramadhan",
+        "publish_time": "08-04-2024 10:18",
+        "news_link": "https://ramadhan.republika.co.id/berita/sbmcmo423/jelang-lebaran-jalanan-di-jakarta-lengang"
+    },
+    {
+        "title": "Menhub Ungkap Tiga Titik Arus Mudik di Jalur Darat Butuh Penanganan Khusus",
+        "category": "Ekonomi",
+        "publish_time": "08-04-2024 10:17",
+        "news_link": "https://ekonomi.republika.co.id/berita/sbmcls490/menhub-ungkap-tiga-titik-arus-mudik-di-jalur-darat-butuh-penanganan-khusus"
+    },
+    {
+        "title": "Contraflow Tol Japek Kembali Diberlakukan, Pengemudi Harus Berhati-hati",
+        "category": "News",
+        "publish_time": "08-04-2024 10:17",
+        "news_link": "https://www.republika.id/posts/51903/contraflow-tol-japek-kembali-diberlakukan-pengemudi-harus-berhati-hati"
+    },
+    {
+        "title": "Jelang Lebaran, Harga Daging Sapi Melonjak",
+        "category": "Ekonomi",
+        "publish_time": "08-04-2024 10:16",
+        "news_link": "https://www.republika.id/posts/51901/jelang-lebaran-harga-daging-sapi-melonjak"
+    },
+    {
+        "title": "Gerbang Tol Cikampek Utama Terpantau Ramai Lancar",
+        "category": "Visual",
+        "publish_time": "08-04-2024 10:14",
+        "news_link": "https://visual.republika.co.id/berita/sbmbw7491/gerbang-tol-cikampek-utama-terpantau-ramai-lancar"
+    },
+    {
+        "title": "Wisata di Sukabumi Viral Gara-Gara Will Smith, Sandiaga: Luar Biasa",
+        "category": "Sharia",
+        "publish_time": "08-04-2024 10:12",
+        "news_link": "https://sharia.republika.co.id/berita/sbmce5490/wisata-di-sukabumi-viral-garagara-will-smith-sandiaga-luar-biasa"
+    },
+    {
         "title": "Zee JKT48 Segera 'Lulus' dari Grup, Bikin Unggahan Menyentuh di Instagram",
         "category": "Ameera",
         "publish_time": "08-04-2024 10:11",
@@ -26,277 +200,103 @@
     {
         "title": "Peserta Mudik Gratis Gelombang Dua Naik KM Dobonsolo Tiba di Semarang",
         "category": "Ekonomi",
-        "publish_time": "08-04-2024 10:07",
+        "publish_time": "08-04-2024 10:08",
         "news_link": "https://ekonomi.republika.co.id/berita/sbmc4g490/peserta-mudik-gratis-gelombang-dua-naik-km-dobonsolo-tiba-di-semarang"
     },
     {
         "title": "Mudik dengan Transportasi Antarpulau di Ternate",
         "category": "Visual",
-        "publish_time": "08-04-2024 10:04",
+        "publish_time": "08-04-2024 10:08",
         "news_link": "https://visual.republika.co.id/berita/sbmbi0491/mudik-dengan-transportasi-antarpulau-di-ternate"
     },
     {
         "title": "Libur Lebaran di Objek Wisata Bantul, Ini Ketentuan Tarif Parkirnya",
         "category": "Rejogja",
-        "publish_time": "08-04-2024 10:04",
+        "publish_time": "08-04-2024 10:08",
         "news_link": "https://rejogja.republika.co.id/berita/sbmbzy432/libur-lebaran-di-objek-wisata-bantul-ini-ketentuan-tarif-parkirnya"
     },
     {
         "title": "Zurich Syariah Optimistis Kinerja Asuransi Kendaraan Positif Selama Mudik",
         "category": "Sharia",
-        "publish_time": "08-04-2024 10:01",
+        "publish_time": "08-04-2024 10:08",
         "news_link": "https://sharia.republika.co.id/berita/sbmbu0490/zurich-syariah-optimistis-kinerja-asuransi-kendaraan-positif-selama-mudik"
     },
     {
         "title": "PAUD Tunas Bangsa 03 Gelar Acara \u2018Berbagi Takjil\u2019 di Bulan Suci Ramadhan",
         "category": "Ramadhan",
-        "publish_time": "08-04-2024 10:00",
+        "publish_time": "08-04-2024 10:08",
         "news_link": "https://ramadhan.republika.co.id/berita/sbln6i257/paud-tunas-bangsa-03-gelar-acara-berbagi-takjil-di-bulan-suci-ramadhan"
     },
     {
         "title": "Permohonan Bocah Palestina kepada Presiden Amerika Serikat Joe Biden",
         "category": "Khazanah",
-        "publish_time": "08-04-2024 09:59",
+        "publish_time": "08-04-2024 10:08",
         "news_link": "https://khazanah.republika.co.id/berita/sbm7ze451/permohonan-bocah-palestina-kepada-presiden-amerika-serikat-joe-biden"
     },
     {
         "title": "Tiga Orang Tewas Akibat Kecelakaan di Tol Pekanbaru-Dumai",
         "category": "Resumatra",
-        "publish_time": "08-04-2024 09:58",
+        "publish_time": "08-04-2024 10:08",
         "news_link": "https://republika.co.id/berita/sbmbpd348/tiga-orang-tewas-akibat-kecelakaan-di-tol-pekanbaru-dumai"
     },
     {
         "title": "Siaga Kelistrikan Idul Fitri 1445 H, PLN Siap Jaga Keandalan Kelistrikan Sistem Jawa, Madura dan Bali",
         "category": "Network",
-        "publish_time": "08-04-2024 09:58",
+        "publish_time": "08-04-2024 10:08",
         "news_link": "https://ruzka.republika.co.id/ekonomi/1674529226/siaga-kelistrikan-idul-fitri-1445-h-pln-siap-jaga-keandalan-kelistrikan-sistem-jawa-madura-dan-bali"
     },
     {
         "title": "Direktur BRI Tinjau Langsung Operasional Layanan Libur Lebaran",
         "category": "Ekonomi",
-        "publish_time": "08-04-2024 09:58",
+        "publish_time": "08-04-2024 10:08",
         "news_link": "https://ekonomi.republika.co.id/berita/sbmbos423/direktur-bri-tinjau-langsung-operasional-layanan-libur-lebaran"
     },
     {
         "title": "BRI Buka Layanan Operasional Terbatas Selama Periode Libur Lebaran",
         "category": "Ekonomi",
-        "publish_time": "08-04-2024 09:55",
+        "publish_time": "08-04-2024 10:08",
         "news_link": "https://ekonomi.republika.co.id/berita/sbmble490/bri-buka-layanan-operasional-terbatas-selama-periode-libur-lebaran"
     },
     {
         "title": "Penuhi Kebutuhan Nasabah Selama Lebaran, BSI Tetap Buka 570 Cabang",
         "category": "Sharia",
-        "publish_time": "08-04-2024 09:51",
+        "publish_time": "08-04-2024 10:08",
         "news_link": "https://sharia.republika.co.id/berita/sbmbdm490/penuhi-kebutuhan-nasabah-selama-lebaran-bsi-tetap-buka-570-cabang"
-    },
-    {
-        "title": "Pangkalpinang Sediakan 700 Ekor Sapi Potong Sambut Lebaran",
-        "category": "News",
-        "publish_time": "08-04-2024 09:49",
-        "news_link": "https://news.republika.co.id/berita/sbm4wx457/pangkalpinang-sediakan-700-ekor-sapi-potong-sambut-lebaran"
     },
     {
         "title": "Bahlil: Realisasi Investasi di IKN Tunggu Sidang Pilpres di MK",
         "category": "News",
-        "publish_time": "08-04-2024 09:49",
+        "publish_time": "08-04-2024 10:08",
         "news_link": "https://news.republika.co.id/berita/sbm7ej377/bahlil-realisasi-investasi-di-ikn-tunggu-sidang-pilpres-di-mk"
+    },
+    {
+        "title": "Pangkalpinang Sediakan 700 Ekor Sapi Potong Sambut Lebaran",
+        "category": "News",
+        "publish_time": "08-04-2024 10:08",
+        "news_link": "https://news.republika.co.id/berita/sbm4wx457/pangkalpinang-sediakan-700-ekor-sapi-potong-sambut-lebaran"
     },
     {
         "title": "Tempat Rekreasi Puncak Bogor Siap Sambut Pemudik pada Idul Fitri",
         "category": "Ramadhan",
-        "publish_time": "08-04-2024 09:49",
+        "publish_time": "08-04-2024 10:08",
         "news_link": "https://ramadhan.republika.co.id/berita/sbm7n0451/tempat-rekreasi-puncak-bogor-siap-sambut-pemudik-pada-idul-fitri"
     },
     {
         "title": "Hari Pertama Penerapan One Way di Sumbar Pengendara Dilarang Lawan Arus",
         "category": "Ramadhan",
-        "publish_time": "08-04-2024 09:41",
+        "publish_time": "08-04-2024 10:08",
         "news_link": "https://ramadhan.republika.co.id/berita/sbmaxq349/hari-pertama-penerapan-one-way-di-sumbar-pengendara-dilarang-lawan-arus"
     },
     {
         "title": "'Queen of Tears' Cetak Rating Tertinggi Ke-3 dalam Sejarah tvN, Kalahkan 'Reply 1998'",
         "category": "Ameera",
-        "publish_time": "08-04-2024 09:40",
+        "publish_time": "08-04-2024 10:08",
         "news_link": "https://ameera.republika.co.id/berita/sbmaw8425/queen-of-tears-cetak-rating-tertinggi-ke3-dalam-sejarah-tvn-kalahkan-reply-1998"
     },
     {
         "title": "Itera Berharap Hilal 1 Syawal Dapat Diamati Ketika Langit Cerah",
         "category": "News",
-        "publish_time": "08-04-2024 09:39",
+        "publish_time": "08-04-2024 10:08",
         "news_link": "https://news.republika.co.id/berita/sbm4fm457/itera-berharap-hilal-1-syawal-dapat-diamati-ketika-langit-cerah"
-    },
-    {
-        "title": "PHBI Papua: Shalat Idul Fitri di halaman Kantor Gubernur Papua",
-        "category": "Ramadhan",
-        "publish_time": "08-04-2024 09:39",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbm7ht451/phbi-papua-shalat-idul-fitri-di-halaman-kantor-gubernur-papua"
-    },
-    {
-        "title": "Jelang lebaran Pasar Thrifting Cimol di Banjiri Pembeli",
-        "category": "Visual",
-        "publish_time": "08-04-2024 09:37",
-        "news_link": "https://visual.republika.co.id/berita/sbmar7491/jelang-lebaran-pasar-thrifting-cimol-di-banjiri-pembeli"
-    },
-    {
-        "title": "Menparekraf: Wisata Puncak Bogor Siap Menerima Pengunjung Lebaran",
-        "category": "Sharia",
-        "publish_time": "08-04-2024 09:32",
-        "news_link": "https://sharia.republika.co.id/berita/sbmahl490/menparekraf-wisata-puncak-bogor-siap-menerima-pengunjung-lebaran"
-    },
-    {
-        "title": "Cegah Kecelakaan, Pemudik Diimbau Istirahat Jika Lelah di Perjalanan Mudik",
-        "category": "News",
-        "publish_time": "08-04-2024 09:31",
-        "news_link": "https://news.republika.co.id/berita/sbmagy425/cegah-kecelakaan-pemudik-diimbau-istirahat-jika-lelah-di-perjalanan-mudik"
-    },
-    {
-        "title": "Soal Jamaah Aolia, KH Zainut: Imbau Muslim Selektif Memilih Guru Agama",
-        "category": "Khazanah",
-        "publish_time": "08-04-2024 09:30",
-        "news_link": "https://khazanah.republika.co.id/berita/sbm52p430/soal-jamaah-aolia-kh-zainut-imbau-muslim-selektif-memilih-guru-agama"
-    },
-    {
-        "title": "Bantah Sekjen PDIP, Mantan Penyidik KPK: Harun Masiku Itu Pelaku",
-        "category": "News",
-        "publish_time": "08-04-2024 09:29",
-        "news_link": "https://news.republika.co.id/berita/sbm771377/bantah-sekjen-pdip-mantan-penyidik-kpk-harun-masiku-itu-pelaku"
-    },
-    {
-        "title": "Festival Tumbilotohe di Gorontalo Digelar Lebih 'Hijau'",
-        "category": "Sharia",
-        "publish_time": "08-04-2024 09:29",
-        "news_link": "https://sharia.republika.co.id/berita/sbm40h457/festival-tumbilotohe-di-gorontalo-digelar-lebih-hijau"
-    },
-    {
-        "title": "KAI Daop 1 Berangkatkan 370 Ribu Pemudik Hingga H-2 Idul Fitri",
-        "category": "Ramadhan",
-        "publish_time": "08-04-2024 09:29",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbm7a2451/kai-daop-1-berangkatkan-370-ribu-pemudik-hingga-h2-idul-fitri"
-    },
-    {
-        "title": "Forpi Yogyakarta Minta PKL dan Jukir Nuthuk Harga Ditindak Tegas",
-        "category": "Rejogja",
-        "publish_time": "08-04-2024 09:20",
-        "news_link": "https://rejogja.republika.co.id/berita/sbm9xg432/forpi-yogyakarta-minta-pkl-dan-jukir-nuthuk-harga-ditindak-tegas"
-    },
-    {
-        "title": "Pemudik Motor di Ciwandan Disanjung Paling Nurut",
-        "category": "Ramadhan",
-        "publish_time": "08-04-2024 09:19",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbm3md457/pemudik-motor-di-ciwandan-disanjung-paling-nurut"
-    },
-    {
-        "title": "Muslim Bali Bersiap Merayakan Hari Kemenangan Idul Fitri",
-        "category": "Ramadhan",
-        "publish_time": "08-04-2024 09:19",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbm74v451/muslim-bali-bersiap-merayakan-hari-kemenangan-idul-fitri"
-    },
-    {
-        "title": "Aksi Heroik Polisi Indramayu Lawan Arus\u00a0 Kawal Ambulance Korban Kecelakaan\u00a0 di Tol Cipali",
-        "category": "Ramadhan",
-        "publish_time": "08-04-2024 09:18",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbm9vd349/aksi-heroik-polisi-indramayu-lawan-arus-kawal-ambulance-korban-kecelakaan-di-tol-cipali"
-    },
-    {
-        "title": "4 Momen Hubungan yang Dapat Mengubah Kepribadian Anda",
-        "category": "Retizen",
-        "publish_time": "08-04-2024 09:18",
-        "news_link": "https://retizen.republika.co.id/posts/300490/4-momen-hubungan-yang-dapat-mengubah-kepribadian-anda"
-    },
-    {
-        "title": "13 Kantong Mayat Dibawa Petugas dari Lokasi Kecelakaan Tol Jakarta-Cikampek KM 58",
-        "category": "News",
-        "publish_time": "08-04-2024 09:13",
-        "news_link": "https://news.republika.co.id/berita/sbm9ly425/13-kantong-mayat-dibawa-petugas-dari-lokasi-kecelakaan-tol-jakartacikampek-km-58"
-    },
-    {
-        "title": "Libur Lebaran Panjang, Hanya 4 Persen Karyawan Ambil Cuti",
-        "category": "Ekonomi",
-        "publish_time": "08-04-2024 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sbj8za457/libur-lebaran-panjang-hanya-4-persen-karyawan-ambil-cuti"
-    },
-    {
-        "title": "Yang Mudik via Jalur Puncak, Ini Sembilan Titik Rawan Macet di Jalur Puncak Bogor",
-        "category": "Ramadhan",
-        "publish_time": "08-04-2024 09:12",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbm6y4451/yang-mudik-via-jalur-puncak-ini-sembilan-titik-rawan-macet-di-jalur-puncak-bogor"
-    },
-    {
-        "title": "Rusia Kembali Tuduh Ukraina Serang PLTN Zaporizhzhia",
-        "category": "Internasional",
-        "publish_time": "08-04-2024 09:12",
-        "news_link": "https://internasional.republika.co.id/berita/sbm97h349/rusia-kembali-tuduh-ukraina-serang-pltn-zaporizhzhia"
-    },
-    {
-        "title": "Dua Korban Luka Dalam Kecelakaan di KM 58 Masih Dirawat di RS Rosela",
-        "category": "News",
-        "publish_time": "08-04-2024 09:12",
-        "news_link": "https://news.republika.co.id/berita/sbm92l377/dua-korban-luka-dalam-kecelakaan-di-km-58-masih-dirawat-di-rs-rosela"
-    },
-    {
-        "title": "Mobil tak Kunjung Masuk Kapal, Pemudik di Pelabuhan Merak Protes",
-        "category": "Ramadhan",
-        "publish_time": "08-04-2024 09:12",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbm915490/mobil-tak-kunjung-masuk-kapal-pemudik-di-pelabuhan-merak-protes"
-    },
-    {
-        "title": "Satpol PP DKI Kerahkan Ribuan Personel Selama Libur Idul Fitri",
-        "category": "Ramadhan",
-        "publish_time": "08-04-2024 09:12",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbm6en451/satpol-pp-dki-kerahkan-ribuan-personel-selama-libur-idul-fitri"
-    },
-    {
-        "title": "WhatsApp Versi Beta Luncurkan Tampilan Tanpa Warna",
-        "category": "Tekno",
-        "publish_time": "08-04-2024 09:12",
-        "news_link": "https://tekno.republika.co.id/berita/sbm8tm370/whatsapp-versi-beta-luncurkan-tampilan-tanpa-warna"
-    },
-    {
-        "title": "Kesedihan Generasi Salaf Ketika Ditinggalkan Ramadhan",
-        "category": "Ramadhan",
-        "publish_time": "08-04-2024 09:12",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbm8bm451/kesedihan-generasi-salaf-ketika-ditinggalkan-ramadhan"
-    },
-    {
-        "title": "Pengamat Tata Kota Ajak Masyarakat Lestarikan Lebaran Hijau",
-        "category": "Ramadhan",
-        "publish_time": "08-04-2024 09:12",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbm6at451/pengamat-tata-kota-ajak-masyarakat-lestarikan-lebaran-hijau"
-    },
-    {
-        "title": "Survei Lingkar UI, Elektabilitas Imam Budi Hartono Seng Ada Lawan di Pilkada Depok, Supian Suri Paling Buncit",
-        "category": "Network",
-        "publish_time": "08-04-2024 09:12",
-        "news_link": "https://ruzka.republika.co.id/nasional/1674528923/survei-lingkar-ui-elektabilitas-imam-budi-hartono-seng-ada-lawan-di-pilkada-depok-supian-suri-paling-buncit"
-    },
-    {
-        "title": "Kemenhub Investigasi Mendalam Kecelakaan Maut di Tol Japek",
-        "category": "Ramadhan",
-        "publish_time": "08-04-2024 09:12",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbm1hd330/kemenhub-investigasi-mendalam-kecelakaan-maut-di-tol-japek"
-    },
-    {
-        "title": "Bos Mercedes Yakin Max Verstappen Jadi Pembalap Tercepat Musim Ini",
-        "category": "Sport",
-        "publish_time": "08-04-2024 08:12",
-        "news_link": "https://sport.republika.co.id/berita/sbm7cz463/bos-mercedes-yakin-max-verstappen-jadi-pembalap-tercepat-musim-ini"
-    },
-    {
-        "title": "Menko PMK: Inafis Proses Identifikasi 12 Korban Tewas Terbakar di Grandmax",
-        "category": "News",
-        "publish_time": "08-04-2024 08:12",
-        "news_link": "https://news.republika.co.id/berita/sbm7tp377/menko-pmk-inafis-proses-identifikasi-12-korban-tewas-terbakar-di-grandmax"
-    },
-    {
-        "title": "Balas Serangan Israel, Iran Pastikan tak Ada Kedutaan Israel yang Aman",
-        "category": "Khazanah",
-        "publish_time": "08-04-2024 08:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sbm64s451/balas-serangan-israel-iran-pastikan-tak-ada-kedutaan-israel-yang-aman"
-    },
-    {
-        "title": "Pakar Jelaskan Alasan Pantai Timur Australia Diguyur Hujan Deras Ekstrem",
-        "category": "Esgnow",
-        "publish_time": "08-04-2024 08:12",
-        "news_link": "https://esgnow.republika.co.id/berita/sbm71x463/pakar-jelaskan-alasan-pantai-timur-australia-diguyur-hujan-deras-ekstrem"
     }
 ]
