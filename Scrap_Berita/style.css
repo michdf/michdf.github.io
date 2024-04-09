@@ -82,6 +82,7 @@ th, td {
     border: 1px solid black;
     padding: 8px;
     text-align: left;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 th {
@@ -170,6 +171,77 @@ tbody tr:nth-child(odd) {
 
 .scrap-time{
     margin-left: 10%;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: solid;
+}
+
+footer {
+    background-color: #5a5a5a;
+    color: #fff;
+    text-align: center;
+    padding: 40px 20px;
+    font-family: 'Minecraft',sans-serif;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.social-icons a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background-color: #e6e3e3;
+    border-radius: 50%;
+    margin: 0 10px;
+    transition: background-color 0.3s ease;
+}
+
+.social-icons a:hover {
+    background-color: #818181;
+}
+
+.social-icons a i {
+    color: #000;
+}
+
+.copyright {
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.social {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    z-index: 100;
+}
+
+.social a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    border: 1px solid #cbcbcb;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.social a:hover {
+    background-color: #6e6e6e;
+}
+
+.social i {
+    font-size: 20px;
+    color: #2b2b2b;
 }
 
 /* Media Queries */
@@ -204,6 +276,7 @@ tbody tr:nth-child(odd) {
 
     .nav-menu.active {
         left: 0;
+        font-family: 'Minecraft', sans-serif;
     }
 
     .nav-menu li {
