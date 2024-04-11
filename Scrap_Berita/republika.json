@@ -1,74 +1,158 @@
 [
     {
+        "title": "Jaga Kesehatan Fisik Selama Mudik, Pemudik Diimbau Manfaatkan Pos Kesehatan",
+        "category": "News",
+        "publish_time": "11-04-2024 01:45",
+        "news_link": "https://news.republika.co.id/berita/sbr7np463/jaga-kesehatan-fisik-selama-mudik-pemudik-diimbau-manfaatkan-pos-kesehatan"
+    },
+    {
+        "title": "Layanan KRL dan Kereta Bandaran Soetta Dimaksimalkan Selama Lebaran",
+        "category": "News",
+        "publish_time": "11-04-2024 01:30",
+        "news_link": "https://news.republika.co.id/berita/sbr7j7463/layanan-krl-dan-kereta-bandaran-soetta-dimaksimalkan-selama-lebaran"
+    },
+    {
+        "title": "8 Faktor Dasar yang Perlu Diperhatikan untuk Jaga Tubuh Tetap Sehat",
+        "category": "Ameera",
+        "publish_time": "11-04-2024 01:29",
+        "news_link": "https://ameera.republika.co.id/berita/sbr842425/8-faktor-dasar-yang-perlu-diperhatikan-untuk-jaga-tubuh-tetap-sehat"
+    },
+    {
+        "title": "BMKG: Sebagian Besar Daerah di Indonesia Berpotensi Cuaca Ekstrem",
+        "category": "News",
+        "publish_time": "11-04-2024 01:24",
+        "news_link": "https://news.republika.co.id/berita/sbr7w7502/bmkg-sebagian-besar-daerah-di-indonesia-berpotensi-cuaca-ekstrem"
+    },
+    {
+        "title": "Ada Kabar Pesta Petasan, Polres Bangkalan Sita Satu Pikap",
+        "category": "Rejogja",
+        "publish_time": "11-04-2024 01:23",
+        "news_link": "https://rejogja.republika.co.id/berita/sbr7v4432/ada-kabar-pesta-petasan-polres-bangkalan-sita-satu-pikap"
+    },
+    {
+        "title": "Sekilas Kehidupan Media di Cina",
+        "category": "Internasional",
+        "publish_time": "11-04-2024 01:21",
+        "news_link": "https://internasional.republika.co.id/berita/sbnr37488/sekilas-kehidupan-media-di-cina"
+    },
+    {
+        "title": "Jadi Destinasi Libur Lebaran, Puluhan Ribu Orang Kunjungi Ancol",
+        "category": "Sharia",
+        "publish_time": "11-04-2024 01:16",
+        "news_link": "https://sharia.republika.co.id/berita/sbr7ie502/jadi-destinasi-libur-lebaran-puluhan-ribu-orang-kunjungi-ancol"
+    },
+    {
+        "title": "Suara Kemerdekaan Palestina Sudah Bergaung di Bandung 69 Tahun Lalu",
+        "category": "Internasional",
+        "publish_time": "11-04-2024 01:15",
+        "news_link": "https://internasional.republika.co.id/berita/sblww2488/suara-kemerdekaan-palestina-sudah-bergaung-di-bandung-69-tahun-lalu"
+    },
+    {
+        "title": "Seluruh Moda Transportasi di Denpasar Alami Lonjakan Penumpang",
+        "category": "News",
+        "publish_time": "11-04-2024 01:13",
+        "news_link": "https://news.republika.co.id/berita/sbr7dx463/seluruh-moda-transportasi-di-denpasar-alami-lonjakan-penumpang"
+    },
+    {
+        "title": "Daripada Beli Samsung Galaxy S24, Mending Pilih 5 Ponsel Ini",
+        "category": "Network",
+        "publish_time": "11-04-2024 01:05",
+        "news_link": "https://impresi.republika.co.id/didaktika/1694533268/daripada-beli-samsung-galaxy-s24-mending-pilih-5-ponsel-ini"
+    },
+    {
+        "title": "Zionisme dan Israel Adalah Bukti Doktrin Agama dan Politik Berpadu Meski Tujuannya Jahat",
+        "category": "Khazanah",
+        "publish_time": "11-04-2024 01:00",
+        "news_link": "https://khazanah.republika.co.id/berita/sbr1wv320/zionisme-dan-israel-adalah-bukti-doktrin-agama-dan-politik-berpadu-meski-tujuannya-jahat"
+    },
+    {
+        "title": "Kebenaran Sulit yang Perlu Kita Dengar",
+        "category": "Retizen",
+        "publish_time": "11-04-2024 00:51",
+        "news_link": "https://retizen.republika.co.id/posts/300828/kebenaran-sulit-yang-perlu-kita-dengar"
+    },
+    {
+        "title": "Studi: Penuaan Lebih Cepat Tingkatkan Risiko Kanker",
+        "category": "Retizen",
+        "publish_time": "11-04-2024 00:50",
+        "news_link": "https://retizen.republika.co.id/posts/300847/studi-penuaan-lebih-cepat-tingkatkan-risiko-kanker"
+    },
+    {
+        "title": "Goodbye Insecure! Sambut Hidup Baru dengan 7 Kebiasaan Ini",
+        "category": "Retizen",
+        "publish_time": "11-04-2024 00:50",
+        "news_link": "https://retizen.republika.co.id/posts/300882/goodbye-insecure-sambut-hidup-baru-dengan-7-kebiasaan-ini"
+    },
+    {
         "title": "Wisatawan Diimbau tidak Merokok Sembarangan di Kawasan Malioboro",
         "category": "Rejogja",
-        "publish_time": "11-04-2024 00:45",
+        "publish_time": "11-04-2024 00:46",
         "news_link": "https://rejogja.republika.co.id/berita/sbr5g5463/wisatawan-diimbau-tidak-merokok-sembarangan-di-kawasan-malioboro"
     },
     {
         "title": "Momentum Idul Fitri 1445 Hijriah: Memperkokoh Persatuan dan Aksi Bersyukur dalam Masyarakat",
         "category": "Network",
-        "publish_time": "11-04-2024 00:39",
+        "publish_time": "11-04-2024 00:46",
         "news_link": "https://topnews62.com/posts/300876/momentum-idul-fitri-1445-hijriah-memperkokoh-persatuan-dan-aksi-bersyukur-dalam-masyarakat"
     },
     {
         "title": "Inovasi Terkini dalam Akomodasi Membuat Wisata Menarik bagi Pengunjung",
         "category": "Network",
-        "publish_time": "11-04-2024 00:37",
+        "publish_time": "11-04-2024 00:46",
         "news_link": "https://topnews62.com/posts/300878/inovasi-terkini-dalam-akomodasi-membuat-wisata-menarik-bagi-pengunjung"
     },
     {
         "title": "Mau Selamat Sampai Tujuan, Kenali Kegunaan Bahu Jalan Tol",
         "category": "Network",
-        "publish_time": "11-04-2024 00:37",
+        "publish_time": "11-04-2024 00:46",
         "news_link": "https://motoresto.id/posts/300860/mau-selamat-sampai-tujuan-kenali-kegunaan-bahu-jalan-tol"
     },
     {
         "title": "Paris Hilton Ungkap Alasan Belum Membagikan Foto Bayi Perempuannya",
         "category": "Network",
-        "publish_time": "11-04-2024 00:36",
+        "publish_time": "11-04-2024 00:46",
         "news_link": "https://impresiupdate.id/posts/300877/paris-hilton-ungkap-alasan-belum-membagikan-foto-bayi-perempuannya"
     },
     {
         "title": "Kapolres Indramayu Gelar Patroli Skala Besar di Malam Takbiran",
         "category": "Rejabar",
-        "publish_time": "11-04-2024 00:27",
+        "publish_time": "11-04-2024 00:46",
         "news_link": "https://rejabar.republika.co.id/berita/sbr5an463/kapolres-indramayu-gelar-patroli-skala-besar-di-malam-takbiran"
     },
     {
-        "title": "Semangat Nenek-nenek Belajar Mengaji dan Khatam Alquran di Pesantren Ramadhan Lansia",
+        "title": "Semangat Nenek-Nenek Belajar Mengaji dan Khatam Alquran di Pesantren Ramadhan Lansia",
         "category": "Rejabar",
-        "publish_time": "11-04-2024 00:23",
+        "publish_time": "11-04-2024 00:46",
         "news_link": "https://rejabar.republika.co.id/berita/sbqdn4512/semangat-neneknenek-belajar-mengaji-dan-khatam-alquran-di-pesantren-ramadhan-lansia"
     },
     {
         "title": "Contraflow Tol Jakarta-Cikampek Diperpanjang dari KM 47 Hingga KM 65 Saat Lebaran",
         "category": "Ramadhan",
-        "publish_time": "11-04-2024 00:17",
+        "publish_time": "11-04-2024 00:46",
         "news_link": "https://ramadhan.republika.co.id/berita/sbr4tm425/contraflow-tol-jakartacikampek-diperpanjang-dari-km-47-hingga-km-65-saat-lebaran"
     },
     {
         "title": "Daop 7: Volume Penumpang Kereta Api Saat Hari Raya Idul Fitri Tinggi",
         "category": "Ekonomi",
-        "publish_time": "11-04-2024 00:02",
+        "publish_time": "10-04-2024 23:46",
         "news_link": "https://ekonomi.republika.co.id/berita/sbr44y502/daop-7-volume-penumpang-kereta-api-saat-hari-raya-idul-fitri-tinggi"
     },
     {
         "title": "Tips Sehat Konsumsi Hidangan Lebaran, Jangan Panaskan Makanan Bersantan Berulang-ulang",
         "category": "Ameera",
-        "publish_time": "11-04-2024 00:01",
+        "publish_time": "10-04-2024 23:46",
         "news_link": "https://ameera.republika.co.id/berita/sbr42n425/tips-sehat-konsumsi-hidangan-lebaran-jangan-panaskan-makanan-bersantan-berulangulang"
     },
     {
         "title": "Pendaftaran Jalur Mandiri Utul UGM 2024 Segera Dibuka, Ujian di Tujuh Lokasi",
         "category": "Network",
-        "publish_time": "10-04-2024 23:59",
+        "publish_time": "10-04-2024 23:46",
         "news_link": "https://kampus.republika.co.id/info-kampus/1624533896/pendaftaran-jalur-mandiri-utul-ugm-2024-segera-dibuka-ujian-di-tujuh-lokasi"
     },
     {
         "title": "WFH Diusulkan untuk Bantu Urai Kepadatan Arus Balik",
         "category": "News",
-        "publish_time": "10-04-2024 23:55",
+        "publish_time": "10-04-2024 23:46",
         "news_link": "https://www.republika.id/posts/51945/wfh-diusulkan-untuk-bantu-urai-kepadatan-arus-balik"
     },
     {
@@ -78,225 +162,141 @@
         "news_link": "https://rejabar.republika.co.id/berita/sbmsij512/oleholeh-lebaran-khas-indramayu-nastar-mangga-mimide-merambah-sampai-hongkong"
     },
     {
-        "title": "Klopp Ingatkan Pemain Waspadai Kedisplinan Tinggi Atalanta",
+        "title": "Klopp Ingatkan Pemain Waspadai Kedisiplinan Tinggi Atalanta",
         "category": "Sport",
-        "publish_time": "10-04-2024 23:45",
-        "news_link": "https://sport.republika.co.id/berita/sbr1l1348/klopp-ingatkan-pemain-waspadai-kedisplinan-tinggi-atalanta"
+        "publish_time": "10-04-2024 23:46",
+        "news_link": "https://sport.republika.co.id/berita/sbr1l1348/klopp-ingatkan-pemain-waspadai-kedisiplinan-tinggi-atalanta"
     },
     {
         "title": "Pesawat Luar Angkasa NASA Memotret Papan Selancar Misterius yang Mengorbit Bulan, Apaan Tuh?",
         "category": "Network",
-        "publish_time": "10-04-2024 23:45",
+        "publish_time": "10-04-2024 23:46",
         "news_link": "https://impresi.republika.co.id/didaktika/1694533885/pesawat-luar-angkasa-nasa-memotret-papan-selancar-misterius-yang-mengorbit-bulan-apaan-tuh"
     },
     {
-        "title": "Cerita Pejuang Mudik, Harus Service Motor Mogok Berkali-kali demi Obati Rindu ke Ayah",
+        "title": "Cerita Pejuang Mudik, Harus Servis Motor Mogok Berkali-kali demi Obati Rindu ke Ayah",
         "category": "Rejabar",
-        "publish_time": "10-04-2024 22:45",
-        "news_link": "https://rejabar.republika.co.id/berita/sboo9n512/cerita-pejuang-mudik-harus-service-motor-mogok-berkalikali-demi-obati-rindu-ke-ayah"
+        "publish_time": "10-04-2024 22:46",
+        "news_link": "https://rejabar.republika.co.id/berita/sboo9n512/cerita-pejuang-mudik-harus-servis-motor-mogok-berkalikali-demi-obati-rindu-ke-ayah"
     },
     {
         "title": "Kepercayaan Diri Bawa Fajar/Rian Melaju ke 16 Besar Bulu Tangkis 2024",
         "category": "Sport",
-        "publish_time": "10-04-2024 22:45",
+        "publish_time": "10-04-2024 22:46",
         "news_link": "https://sport.republika.co.id/berita/sbr1ss348/kepercayaan-diri-bawa-fajarrian-melaju-ke-16-besar-bulu-tangkis-2024"
     },
     {
         "title": "Samsung Next Cabut dari Israel",
         "category": "Internasional",
-        "publish_time": "10-04-2024 22:45",
+        "publish_time": "10-04-2024 22:46",
         "news_link": "https://internasional.republika.co.id/berita/sbr1oo393/samsung-next-cabut-dari-israel"
     },
     {
         "title": "Rehan/Lisa Diadang Yuta/Arisa pada Babak Pertama BAC 2024",
         "category": "Sport",
-        "publish_time": "10-04-2024 22:45",
+        "publish_time": "10-04-2024 22:46",
         "news_link": "https://sport.republika.co.id/berita/sbr1a7348/rehanlisa-diadang-yutaarisa-pada-babak-pertama-bac-2024"
     },
     {
         "title": "Jejak Yahudi dan Zionisme di Indonesia, Nyata Ada Tapi tak Kasatmata?",
         "category": "Khazanah",
-        "publish_time": "10-04-2024 22:45",
+        "publish_time": "10-04-2024 22:46",
         "news_link": "https://khazanah.republika.co.id/berita/sbr0nc320/jejak-yahudi-dan-zionisme-di-indonesia-nyata-ada-tapi-tak-kasatmata"
     },
     {
         "title": "Prakiraan Cuaca Kamis, Sebagian Jakarta Diguyur Hujan pada Siang Sampai Malam Hari",
         "category": "News",
-        "publish_time": "10-04-2024 22:45",
+        "publish_time": "10-04-2024 22:46",
         "news_link": "https://news.republika.co.id/berita/sbr0sw348/prakiraan-cuaca-kamis-sebagian-jakarta-diguyur-hujan-pada-siang-sampai-malam-hari"
     },
     {
         "title": "Keren Nih...Baterai Bisa Isi Daya Sendiri dengan Menyerap Perubahan Suhu di Sekitarnya",
         "category": "Network",
-        "publish_time": "10-04-2024 22:45",
+        "publish_time": "10-04-2024 22:46",
         "news_link": "https://impresiupdate.id/posts/300865/keren-nih-baterai-bisa-isi-daya-sendiri-dengan-menyerap-perubahan-suhu-di-sekitarnya"
     },
     {
         "title": "Pemkot Depok, Memaknai  Hari Raya Idul Fitri Sebagai Hari Kemenangan",
         "category": "Network",
-        "publish_time": "10-04-2024 22:45",
+        "publish_time": "10-04-2024 22:46",
         "news_link": "https://topnews62.com/posts/300864/pemkot-depok-memaknai-hari-raya-idul-fitri-sebagai-hari-kemenangan"
     },
     {
         "title": "Gnabry Terancam tak Bisa Bela Munchen Saat Hadapi Arsenal pada Leg Kedua",
         "category": "Sport",
-        "publish_time": "10-04-2024 22:45",
+        "publish_time": "10-04-2024 22:46",
         "news_link": "https://sport.republika.co.id/berita/sbqrxl348/gnabry-terancam-tak-bisa-bela-munchen-saat-hadapi-arsenal-pada-leg-kedua"
     },
     {
         "title": "Israel Bunuh Tujuh Anak-Cucu Pimpinan Hamas saat Berlebaran",
         "category": "News",
-        "publish_time": "10-04-2024 22:45",
+        "publish_time": "10-04-2024 22:46",
         "news_link": "https://www.republika.id/posts/51946/israel-bunuh-tujuh-anak-cucu-pimpinan-hamas-saat-berlebaran"
     },
     {
         "title": "Medan Zoo Siap Sambut Wisatawan  di Libur Idul Fitri",
         "category": "News",
-        "publish_time": "10-04-2024 22:45",
+        "publish_time": "10-04-2024 22:46",
         "news_link": "https://news.republika.co.id/berita/sbnrh7488/medan-zoo-siap-sambut-wisatawan-di-libur-idul-fitri"
     },
     {
         "title": "Bermacam Atraksi Seni Budaya akan Digelar di Banyuwangi Saat Libur Lebaran",
         "category": "Rejogja",
-        "publish_time": "10-04-2024 22:45",
+        "publish_time": "10-04-2024 22:46",
         "news_link": "https://rejogja.republika.co.id/berita/sboz2k432/bermacam-atraksi-seni-budaya-akan-digelar-di-banyuwangi-saat-libur-lebaran"
     },
     {
         "title": "Cara Menghindari Keracunan Makanan Saat Periode Liburan",
         "category": "Ameera",
-        "publish_time": "10-04-2024 22:45",
+        "publish_time": "10-04-2024 22:46",
         "news_link": "https://ameera.republika.co.id/berita/sbqzg1430/cara-menghindari-keracunan-makanan-saat-periode-liburan"
     },
     {
         "title": "Dejan/Gloria Siapkan Diri Lebih Baik untuk Babak 16 Besar Kejuaraan Bulu Tangkis Asia 2024",
         "category": "Sport",
-        "publish_time": "10-04-2024 22:45",
+        "publish_time": "10-04-2024 22:46",
         "news_link": "https://sport.republika.co.id/berita/sbqrge348/dejangloria-siapkan-diri-lebih-baik-untuk-babak-16-besar-kejuaraan-bulu-tangkis-asia-2024"
     },
     {
         "title": "Pertahanan Solid Atletico Hadirkan Kemenangan Tipis Atas Dortmund di Liga Champions",
         "category": "Sport",
-        "publish_time": "10-04-2024 22:45",
+        "publish_time": "10-04-2024 22:46",
         "news_link": "https://sport.republika.co.id/berita/sbqzcb348/pertahanan-solid-atletico-hadirkan-kemenangan-tipis-atas-dortmund-di-liga-champions"
     },
     {
         "title": "Israel Bunuh Tiga Putra dan Dua Cucu Pemimpin Hamas",
         "category": "Internasional",
-        "publish_time": "10-04-2024 22:45",
+        "publish_time": "10-04-2024 22:46",
         "news_link": "https://internasional.republika.co.id/berita/sbqzb3430/israel-bunuh-tiga-putra-dan-dua-cucu-pemimpin-hamas"
     },
     {
         "title": "Haedar Ajak Umat Muslim Bangun Keseimbangan dalam Hidup",
         "category": "Khazanah",
-        "publish_time": "10-04-2024 21:45",
+        "publish_time": "10-04-2024 21:46",
         "news_link": "https://khazanah.republika.co.id/berita/sbqz5s430/haedar-ajak-umat-muslim-bangun-keseimbangan-dalam-hidup"
     },
     {
         "title": "Pemenang Nobel Peter Higgs, yang Usulkan Teori Partikel Keberadaan Tuhan, Meninggal Usia 94",
         "category": "Network",
-        "publish_time": "10-04-2024 21:45",
+        "publish_time": "10-04-2024 21:46",
         "news_link": "https://impresi.republika.co.id/sosok/1694533766/pemenang-nobel-peter-higgs-yang-usulkan-teori-partikel-keberadaan-tuhan-meninggal-usia-94"
     },
     {
         "title": "Libur Lebaran, Ditargetkan 60 Ribu Wisatawan Kunjungi Objek Wisata di Temanggung",
         "category": "Rejogja",
-        "publish_time": "10-04-2024 21:45",
+        "publish_time": "10-04-2024 21:46",
         "news_link": "https://rejogja.republika.co.id/berita/sboy12432/libur-lebaran-ditargetkan-60-ribu-wisatawan-kunjungi-objek-wisata-di-temanggung"
     },
     {
         "title": "Biden: Netanyahu Lakukan Kesalahan di Gaza",
         "category": "Internasional",
-        "publish_time": "10-04-2024 21:45",
+        "publish_time": "10-04-2024 21:46",
         "news_link": "https://www.republika.id/posts/51940/biden-netanyahu-lakukan-kesalahan-di-gaza"
     },
     {
         "title": "Pengakuan Kemerdekaan Palestina Kian Dekat",
         "category": "Internasional",
-        "publish_time": "10-04-2024 21:45",
+        "publish_time": "10-04-2024 21:46",
         "news_link": "https://www.republika.id/posts/51941/pengakuan-kemerdekaan-palestina-kian-dekat"
-    },
-    {
-        "title": "Barcelona Buat PSG tak Berdaya, Menang di Paris Lewat Dua Gol Raphinha",
-        "category": "Sport",
-        "publish_time": "10-04-2024 21:45",
-        "news_link": "https://sport.republika.co.id/berita/sbqxma348/barcelona-buat-psg-tak-berdaya-menang-di-paris-lewat-dua-gol-raphinha"
-    },
-    {
-        "title": "Libur Lebaran, Pengawasan di Kawasan Wisata Pantai Trenggalek Ditingkatkan",
-        "category": "Rejogja",
-        "publish_time": "10-04-2024 21:45",
-        "news_link": "https://rejogja.republika.co.id/berita/sbjkgy432/libur-lebaran-pengawasan-di-kawasan-wisata-pantai-trenggalek-ditingkatkan"
-    },
-    {
-        "title": "Kesedihan di Gaza Bayangi Idul Fitri di Al-Aqsa",
-        "category": "Internasional",
-        "publish_time": "10-04-2024 21:45",
-        "news_link": "https://www.republika.id/posts/51939/kesedihan-di-gaza-bayangi-idul-fitri-di-al-aqsa%c2%a0"
-    },
-    {
-        "title": "Ronaldo Ucapkan Selamat Idul Fitri",
-        "category": "Sport",
-        "publish_time": "10-04-2024 21:45",
-        "news_link": "https://sport.republika.co.id/berita/sbqoyo348/ronaldo-ucapkan-selamat-idul-fitri"
-    },
-    {
-        "title": "Idul Fitri, Bombardir Israel tak Berhenti",
-        "category": "Internasional",
-        "publish_time": "10-04-2024 21:45",
-        "news_link": "https://www.republika.id/posts/51937/idul-fitri-bombardir-israel-tak-berhenti"
-    },
-    {
-        "title": "Wisata Libur Lebaran di Taman Pintar Yogyakarta, Ada Wahana Baru",
-        "category": "Rejogja",
-        "publish_time": "10-04-2024 20:45",
-        "news_link": "https://rejogja.republika.co.id/berita/sbn2wg432/wisata-libur-lebaran-di-taman-pintar-yogyakarta-ada-wahana-baru"
-    },
-    {
-        "title": "Prilly Latuconsina Klarifikasi Setelah Dikritik Pakai Gas Melon Buat Siapkan Menu Lebaran",
-        "category": "Ameera",
-        "publish_time": "10-04-2024 20:45",
-        "news_link": "https://ameera.republika.co.id/berita/sbqqap414/prilly-latuconsina-klarifikasi-setelah-dikritik-pakai-gas-melon-buat-siapkan-menu-lebaran"
-    },
-    {
-        "title": "47 Unit SPKLU Ini Gratis Selama Arus Balik Lebaran",
-        "category": "Ekonomi",
-        "publish_time": "10-04-2024 20:45",
-        "news_link": "https://ekonomi.republika.co.id/berita/sbq8p1502/47-unit-spklu-ini-gratis-selama-arus-balik-lebaran"
-    },
-    {
-        "title": "Ini Sosok Bek Bologna yang Sedang Diincar Oleh MU",
-        "category": "Sport",
-        "publish_time": "10-04-2024 20:45",
-        "news_link": "https://sport.republika.co.id/berita/sbn9ot456/ini-sosok-bek-bologna-yang-sedang-diincar-oleh-mu"
-    },
-    {
-        "title": "Kementerian Investasi Cek Tata Kelola Investasi PT Vale",
-        "category": "Ekonomi",
-        "publish_time": "10-04-2024 20:45",
-        "news_link": "https://ekonomi.republika.co.id/berita/sbq8fd502/kementerian-investasi-cek-tata-kelola-investasi-pt-vale"
-    },
-    {
-        "title": "Sarinah Rayakan Idul Fitri dengan Rangkaian Produk Fashion dan Kriya Terbaik Indonesia",
-        "category": "Ekonomi",
-        "publish_time": "10-04-2024 19:45",
-        "news_link": "https://ekonomi.republika.co.id/berita/sbqtdo349/sarinah-rayakan-idul-fitri-dengan-rangkaian-produk-fashion-dan-kriya-terbaik-indonesia"
-    },
-    {
-        "title": "Red Bull Bangkit dengan Sabet Dua Podium Teratas GP Jepang, Siap Mendominasi F1 Lagi",
-        "category": "Sport",
-        "publish_time": "10-04-2024 19:45",
-        "news_link": "https://sport.republika.co.id/berita/sbn9jn456/red-bull-bangkit-dengan-sabet-dua-podium-teratas-gp-jepang-siap-mendominasi-f1-lagi"
-    },
-    {
-        "title": "Rukyatul Hilal Dinilai Memperkuat Ukhuwah dan Kebinekaan Bangsa",
-        "category": "Ramadhan",
-        "publish_time": "10-04-2024 19:45",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbq9um415/rukyatul-hilal-dinilai-memperkuat-ukhuwah-dan-kebinekaan-bangsa"
-    },
-    {
-        "title": "Menko PMK Ingatkan Pemudik Agar Tertib Saat Arus Balik Mudik",
-        "category": "News",
-        "publish_time": "10-04-2024 19:45",
-        "news_link": "https://news.republika.co.id/berita/sbq82z502/menko-pmk-ingatkan-pemudik-agar-tertib-saat-arus-balik-mudik"
     }
 ]
