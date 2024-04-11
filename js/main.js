@@ -41,3 +41,25 @@ window.addEventListener('load', function() {
         memorySection.scrollIntoView({ behavior: 'smooth' });
     }
 }
+
+const text = "Micho Dhani Firmansyah";
+let index = 0;
+let timer = null;
+
+function typeText() {
+    document.getElementById('text').innerText += text[index];
+    index++;
+
+    if (index >= text.length) {
+        clearInterval(timer);
+        document.getElementById('cursor').style.display = 'none';
+    }
+
+    if (index < text.length) {
+        timer = setTimeout(typeText, 100);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    timer = setTimeout(typeText, 100);
+});

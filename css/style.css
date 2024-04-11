@@ -42,6 +42,15 @@ nav {
     font-weight: bold;
 }
 
+#cursor {
+    display: inline-block;
+    vertical-align: middle;
+    width: 8px;
+    height: 24px;
+    background-color: #000;
+    animation: blink 1s infinite;
+}
+
 .nav-menu {
     display: flex;
     align-items: center;
@@ -94,6 +103,8 @@ section:first-of-type{
     max-width: 600px;
     margin: 0 auto;
     margin-left: 15%;
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .text-container p:nth-child(1) {
@@ -106,11 +117,11 @@ section:first-of-type{
     font-family: 'Minecraft',sans-serif;
 }
 
-.text-container p:nth-child(3) {
+/* .text-container p:nth-child(3) {
     font-size: 36px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-}
+} */
 
 .text-container p:nth-child(4) {
     font-size: 18px;
@@ -378,6 +389,12 @@ footer {
 
 .hidden {
     display: none;
+}
+
+@keyframes blink {
+    50% {
+      opacity: 0;
+    }
 }
 
 /* Media Queries */
