@@ -1,146 +1,278 @@
 [
     {
-        "title": "Berpantun Tentang Ikan, Dubes Iran: Indonesia Yang Aku Sayangi, Selamat Hari Raya Idul Fit",
+        "title": "Jasa Raharja Jamin Seluruh Korban Kecelakaan Bus Rosalia Indah",
+        "category": "News",
+        "publish_time": "11-04-2024 12:17",
+        "news_link": "https://news.republika.co.id/berita/sbs0tl366/jasa-raharja-jamin-seluruh-korban-kecelakaan-bus-rosalia-indah"
+    },
+    {
+        "title": "Lebih dari 1,5 Juta Kendaraan Tinggalkan Wilayah Jabodetabek Selama Mudik Lebaran",
+        "category": "News",
+        "publish_time": "11-04-2024 12:15",
+        "news_link": "https://news.republika.co.id/berita/sbs226320/lebih-dari-15-juta-kendaraan-tinggalkan-wilayah-jabodetabek-selama-mudik-lebaran"
+    },
+    {
+        "title": "Libur Lebaran, Saatnya Orang Tua Optimalkan Pengasuhan",
+        "category": "Ameera",
+        "publish_time": "11-04-2024 12:14",
+        "news_link": "https://ameera.republika.co.id/berita/sbqrco414/libur-lebaran-saatnya-orang-tua-optimalkan-pengasuhan"
+    },
+    {
+        "title": "Urai Kepadatan Lalin di Jalur Puncak , Polres Bogor Lakukan Contraflow di Tol Jagorawi",
+        "category": "Visual",
+        "publish_time": "11-04-2024 12:14",
+        "news_link": "https://visual.republika.co.id/berita/sbs1tv375/urai-kepadatan-lalin-di-jalur-puncak-polres-bogor-lakukan-contraflow-di-tol-jagorawi"
+    },
+    {
+        "title": "Kemlu Nyatakan tak Ada WNI dalam Daftar Korban Penembakan di Philadelphia",
         "category": "Internasional",
-        "publish_time": "11-04-2024 11:08",
-        "news_link": "https://internasional.republika.co.id/berita/sbryxe257/berpantun-tentang-ikan-dubes-iran-indonesia-yang-aku-sayangi-selamat-hari-raya-idul-fit"
+        "publish_time": "11-04-2024 12:11",
+        "news_link": "https://internasional.republika.co.id/berita/sbs1we320/kemlu-nyatakan-tak-ada-wni-dalam-daftar-korban-penembakan-di-philadelphia"
+    },
+    {
+        "title": "Senyum Prabowo Ditanya Soal Wacana Pertemuan dengan Megawati",
+        "category": "News",
+        "publish_time": "11-04-2024 12:07",
+        "news_link": "https://news.republika.co.id/berita/sbrwye330/senyum-prabowo-ditanya-soal-wacana-pertemuan-dengan-megawati"
+    },
+    {
+        "title": "Menikmati Wisata Jans Park Jatinangor",
+        "category": "Visual",
+        "publish_time": "11-04-2024 12:01",
+        "news_link": "https://visual.republika.co.id/berita/sbs1ea375/menikmati-wisata-jans-park-jatinangor"
+    },
+    {
+        "title": "Rasulullah SAW Pernah Terkena Santet? Begini Riwayat yang Mengisahkannya",
+        "category": "Islam Digest",
+        "publish_time": "11-04-2024 12:00",
+        "news_link": "https://islamdigest.republika.co.id/berita/sbs1dx320/rasulullah-saw-pernah-terkena-santet-begini-riwayat-yang-mengisahkannya"
+    },
+    {
+        "title": "Habis Makan Banyak Saat Lebaran, 6 Hal Ini Perlu Anda Lakukan",
+        "category": "Ameera",
+        "publish_time": "11-04-2024 11:59",
+        "news_link": "https://ameera.republika.co.id/berita/sbqp8y414/habis-makan-banyak-saat-lebaran-6-hal-ini-perlu-anda-lakukan"
+    },
+    {
+        "title": "Iran dan Israel di Ambang Saling Mengebom Fasilitas Nuklir",
+        "category": "Internasional",
+        "publish_time": "11-04-2024 11:50",
+        "news_link": "https://internasional.republika.co.id/berita/sbqcst409/iran-dan-israel-di-ambang-saling-mengebom-fasilitas-nuklir"
+    },
+    {
+        "title": "Kemana Libur Lebaran Idul Fitri 1445 H? Ini Tempat Wisata Unggulan di Depok",
+        "category": "Network",
+        "publish_time": "11-04-2024 11:49",
+        "news_link": "https://ruzka.republika.co.id/gaya-hidup/1674534963/kemana-libur-lebaran-idul-fitri-1445-h-ini-tempat-wisata-unggulan-di-depok"
+    },
+    {
+        "title": "KBRI Bandar Seri Begawan Gelar Sholat Idul Fitri pada Kamis",
+        "category": "Ramadhan",
+        "publish_time": "11-04-2024 11:44",
+        "news_link": "https://ramadhan.republika.co.id/berita/sbrzx6366/kbri-bandar-seri-begawan-gelar-sholat-idul-fitri-pada-kamis"
+    },
+    {
+        "title": "Terungkap Proposal Gencatan Senjata Israel yang Ditolak Hamas",
+        "category": "Internasional",
+        "publish_time": "11-04-2024 11:37",
+        "news_link": "https://internasional.republika.co.id/berita/sbq95a409/terungkap-proposal-gencatan-senjata-israel-yang-ditolak-hamas"
+    },
+    {
+        "title": "Mudah dan Praktis, Nasabah Bisa Bayar Zakat dan Sedekah Lewat BRImo",
+        "category": "Ekonomi",
+        "publish_time": "11-04-2024 11:37",
+        "news_link": "https://ekonomi.republika.co.id/berita/sbs0au349/mudah-dan-praktis-nasabah-bisa-bayar-zakat-dan-sedekah-lewat-brimo"
+    },
+    {
+        "title": "Volume Penumpang Arus Balik Mulai Terlihat di Stasiun Wilayah Daop 7 Madiun",
+        "category": "News",
+        "publish_time": "11-04-2024 11:36",
+        "news_link": "https://news.republika.co.id/berita/sbs0a5425/volume-penumpang-arus-balik-mulai-terlihat-di-stasiun-wilayah-daop-7-madiun"
+    },
+    {
+        "title": "Staf UNICEF Hampir Jadi Korban Serangan Israel",
+        "category": "Internasional",
+        "publish_time": "11-04-2024 11:34",
+        "news_link": "https://internasional.republika.co.id/berita/sbryz4366/staf-unicef-hampir-jadi-korban-serangan-israel"
+    },
+    {
+        "title": "Ragunan Siapkan Atraksi Spesial 14 April Rayakan Ulang Tahun Gorila Komo",
+        "category": "News",
+        "publish_time": "11-04-2024 11:30",
+        "news_link": "https://news.republika.co.id/berita/sbrzz8425/ragunan-siapkan-atraksi-spesial-14-april-rayakan-ulang-tahun-gorila-komo"
+    },
+    {
+        "title": "Jalur Menuju Kawasan Pantai Carita Macet Lima Kilometer",
+        "category": "Ramadhan",
+        "publish_time": "11-04-2024 11:24",
+        "news_link": "https://ramadhan.republika.co.id/berita/sbryp3366/jalur-menuju-kawasan-pantai-carita-macet-lima-kilometer"
+    },
+    {
+        "title": "Hizbullah Ubah Permukiman Israel di Utara Pendudukan Palestina Jadi 'Kota Hantu'",
+        "category": "Internasional",
+        "publish_time": "11-04-2024 11:22",
+        "news_link": "https://internasional.republika.co.id/berita/sbn75b409/hizbullah-ubah-permukiman-israel-di-utara-pendudukan-palestina-jadi-kota-hantu"
+    },
+    {
+        "title": "Gerindra Klaim 80 Persen Lawan Politik Sudah Move On",
+        "category": "News",
+        "publish_time": "11-04-2024 11:18",
+        "news_link": "https://news.republika.co.id/berita/sbrlwd330/gerindra-klaim-80-persen-lawan-politik-sudah-move-on"
+    },
+    {
+        "title": "Cerita Lebaran Perdana di KBRI Beijing",
+        "category": "Ramadhan",
+        "publish_time": "11-04-2024 11:17",
+        "news_link": "https://ramadhan.republika.co.id/berita/sbrxzd366/cerita-lebaran-perdana-di-kbri-beijing"
+    },
+    {
+        "title": "10 Fakta Angka Menarik dari Kemenangan Barcelona Atas PSG",
+        "category": "Sport",
+        "publish_time": "11-04-2024 11:17",
+        "news_link": "https://sport.republika.co.id/berita/sbrycq348/10-fakta-angka-menarik-dari-kemenangan-barcelona-atas-psg"
+    },
+    {
+        "title": "Berpantun Tentang Ikan, Dubes Iran: Indonesia yang Aku Sayangi, Selamat Hari Idul Fitri",
+        "category": "Internasional",
+        "publish_time": "11-04-2024 11:17",
+        "news_link": "https://internasional.republika.co.id/berita/sbryxe257/berpantun-tentang-ikan-dubes-iran-indonesia-yang-aku-sayangi-selamat-hari-idul-fitri"
     },
     {
         "title": "Sebanyak 1,87 Juta Kendaraan Diprediksi ke Jabotabek pada Arus Balik",
         "category": "Ramadhan",
-        "publish_time": "11-04-2024 11:05",
+        "publish_time": "11-04-2024 11:17",
         "news_link": "https://ramadhan.republika.co.id/berita/sbrysx370/sebanyak-187-juta-kendaraan-diprediksi-ke-jabotabek-pada-arus-balik"
     },
     {
         "title": "Infografis Jadwal Pilkada Serentak 2024",
         "category": "Visual",
-        "publish_time": "11-04-2024 11:04",
+        "publish_time": "11-04-2024 11:17",
         "news_link": "https://visual.republika.co.id/berita/sbl89i409/infografis-jadwal-pilkada-serentak-2024"
     },
     {
         "title": "BMKG Balikpapan Ingatkan Warga Waspadai Pasang Laut 2,9 Meter pada 11-20 April",
         "category": "News",
-        "publish_time": "11-04-2024 11:03",
+        "publish_time": "11-04-2024 11:17",
         "news_link": "https://news.republika.co.id/berita/sbryon425/bmkg-balikpapan-ingatkan-warga-waspadai-pasang-laut-29-meter-pada-1120-april"
     },
     {
         "title": "Pengunjung Ragunan Nikmati Piknik Sebagai Momen Kumpul Keluarga",
         "category": "Ramadhan",
-        "publish_time": "11-04-2024 11:00",
+        "publish_time": "11-04-2024 11:17",
         "news_link": "https://ramadhan.republika.co.id/berita/sbryb0366/pengunjung-ragunan-nikmati-piknik-sebagai-momen-kumpul-keluarga"
     },
     {
         "title": "Empat Ciri Orang yang Bertakwa Menurut Sayyidina Ali",
         "category": "Network",
-        "publish_time": "11-04-2024 10:57",
+        "publish_time": "11-04-2024 11:17",
         "news_link": "https://sajada.id/posts/300959/empat-ciri-orang-yang-bertakwa-menurut-sayyidina-ali"
     },
     {
         "title": "NASA Tangkap Gambar \u2018Papan Selancar\u2019 Misterius yang Mengorbit Bulan",
         "category": "Tekno",
-        "publish_time": "11-04-2024 10:57",
+        "publish_time": "11-04-2024 11:17",
         "news_link": "https://tekno.republika.co.id/berita/sbryfd370/nasa-tangkap-gambar-papan-selancar-misterius-yang-mengorbit-bulan"
     },
     {
         "title": "Bertemu dan Berdiskusi dengan Massimo Moratti, Erick Thohir: Forza Inter",
         "category": "Sport",
-        "publish_time": "11-04-2024 10:55",
+        "publish_time": "11-04-2024 11:17",
         "news_link": "https://sport.republika.co.id/berita/sbrxxm348/bertemu-dan-berdiskusi-dengan-massimo-moratti-erick-thohir-forza-inter"
     },
     {
         "title": "Jasa Raharja Jamin Korban Kecelakaan Bus Rosalia Indah Dapat Santunan",
         "category": "Ekonomi",
-        "publish_time": "11-04-2024 10:53",
+        "publish_time": "11-04-2024 11:17",
         "news_link": "https://ekonomi.republika.co.id/berita/sbry8n370/jasa-raharja-jamin-korban-kecelakaan-bus-rosalia-indah-dapat-santunan"
     },
     {
-        "title": "Tips Makan Enak Tanpa Muncul Masalah Saat Lebaran",
+        "title": "Tips Makan Enak tanpa Muncul Masalah Saat Lebaran",
         "category": "Ameera",
-        "publish_time": "11-04-2024 10:50",
+        "publish_time": "11-04-2024 11:17",
         "news_link": "https://ameera.republika.co.id/berita/sbb42r423/tips-makan-enak-tanpa-muncul-masalah-saat-lebaran"
     },
     {
         "title": "Siap Akui Kemerdekaan Palestina, PM Spanyol Bakal Yakinkan Negara-Negara Eropa",
         "category": "Internasional",
-        "publish_time": "11-04-2024 10:47",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://internasional.republika.co.id/berita/sbrxz7414/siap-akui-kemerdekaan-palestina-pm-spanyol-bakal-yakinkan-negaranegara-eropa"
     },
     {
         "title": "Kejuaraan Asia 2024: Besok Lawan Jagoan Cina, Ginting Anggap Partai Final",
         "category": "Network",
-        "publish_time": "11-04-2024 10:45",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://badmintonews.id/posts/300954/kejuaraan-asia-2024-besok-lawan-jagoan-cina-ginting-anggap-partai-final"
     },
     {
         "title": "Kondektur Rosalia Indah Jadi Salah Satu Korban Meninggal Kecelakaan",
         "category": "News",
-        "publish_time": "11-04-2024 10:45",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://news.republika.co.id/berita/sbrww8366/kondektur-rosalia-indah-jadi-salah-satu-korban-meninggal-kecelakaan"
     },
     {
         "title": "Gerindra Ungkap Ada Upaya Percepatan Rekonsiliasi dengan PDIP",
         "category": "News",
-        "publish_time": "11-04-2024 10:39",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://news.republika.co.id/berita/sbrouc330/gerindra-ungkap-ada-upaya-percepatan-rekonsiliasi-dengan-pdip"
     },
     {
         "title": "Ginting Tantang Li Shi Feng di Perempat Final Kejuaraan Bulu Tangkis Asia 2024",
         "category": "Sport",
-        "publish_time": "11-04-2024 10:38",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://sport.republika.co.id/berita/sbrxiz348/ginting-tantang-li-shi-feng-di-perempat-final-kejuaraan-bulu-tangkis-asia-2024"
     },
     {
         "title": "Mengapa Ribuan Meteorit Hilang dari Antartika?",
         "category": "Tekno",
-        "publish_time": "11-04-2024 10:38",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://tekno.republika.co.id/berita/sbrxiq370/mengapa-ribuan-meteorit-hilang-dari-antartika"
     },
     {
         "title": "Rusia Kritik Amerika, Desak Penerapan Resolusi Genjatan Senjata Gaza DK PBB",
         "category": "Internasional",
-        "publish_time": "11-04-2024 10:37",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://internasional.republika.co.id/berita/sbrxhh320/rusia-kritik-amerika-desak-penerapan-resolusi-genjatan-senjata-gaza-dk-pbb"
     },
     {
         "title": "Gregoria Susul Jonatan ke Perempat Final Kejuaraan Bulu Tangkis Asia 2024",
         "category": "Sport",
-        "publish_time": "11-04-2024 10:33",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://sport.republika.co.id/berita/sbrxbj348/gregoria-susul-jonatan-ke-perempat-final-kejuaraan-bulu-tangkis-asia-2024"
     },
     {
         "title": "Polri: 199 Kecelakaan Terjadi di Hari Lebaran",
         "category": "Ramadhan",
-        "publish_time": "11-04-2024 10:27",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://ramadhan.republika.co.id/berita/sbrl41330/polri-199-kecelakaan-terjadi-di-hari-lebaran"
     },
     {
         "title": "Kejuaraan Asia 2024: Pertemuan ke-12 Gregoria vs Chen Yufei",
         "category": "Network",
-        "publish_time": "11-04-2024 10:27",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://badmintonews.id/posts/300949/kejuaraan-asia-2024-pertemuan-ke-12-gregoria-vs-chen-yufei"
     },
     {
         "title": "Jonatan Christie Wakil Pertama Indonesia di Perempat Final Kejuaraan Bulu Tangkis Asia",
         "category": "Sport",
-        "publish_time": "11-04-2024 10:26",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://sport.republika.co.id/berita/sbrwyt348/jonatan-christie-wakil-pertama-indonesia-di-perempat-final-kejuaraan-bulu-tangkis-asia"
     },
     {
         "title": "Konsumsi Pertamax Turbo Tembus 104 Persen pada Periode Mudik",
         "category": "Ekonomi",
-        "publish_time": "11-04-2024 10:21",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://ekonomi.republika.co.id/berita/sbrwrv370/konsumsi-pertamax-turbo-tembus-104-persen-pada-periode-mudik"
     },
     {
         "title": "Selain Gaza, Warga Lebanon Juga Rayakan Idul Fitri di Tengah Teror Serangan Zionis Israel",
         "category": "Khazanah",
-        "publish_time": "11-04-2024 10:21",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://khazanah.republika.co.id/berita/sbrwr8320/selain-gaza-warga-lebanon-juga-rayakan-idul-fitri-di-tengah-teror-serangan-zionis-israel"
     },
     {
         "title": "Jaga Festival Balon Udara, Polres Wonosobo Pastikan tak Ganggu Penerbangan",
         "category": "Ramadhan",
-        "publish_time": "11-04-2024 10:20",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://ramadhan.republika.co.id/berita/sbru09414/jaga-festival-balon-udara-polres-wonosobo-pastikan-tak-ganggu-penerbangan"
     },
     {
@@ -152,151 +284,19 @@
     {
         "title": "Tips Aman Berkendara di Jalan Pegunungan yang Terjal",
         "category": "Ameera",
-        "publish_time": "11-04-2024 10:15",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://ameera.republika.co.id/berita/sbb2ha423/tips-aman-berkendara-di-jalan-pegunungan-yang-terjal"
     },
     {
         "title": "Apple Peringatkan Pengguna di 92 Negara Tentang Serangan Tentara Bayaran",
         "category": "Tekno",
-        "publish_time": "11-04-2024 10:15",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://tekno.republika.co.id/berita/sbrwgz370/apple-peringatkan-pengguna-di-92-negara-tentang-serangan-tentara-bayaran"
     },
     {
         "title": "Zaskia Adya Mecca Ungkap Hanung Selalu Bawa Karpet Merah untuk Sholat Id",
         "category": "Ameera",
-        "publish_time": "11-04-2024 10:10",
+        "publish_time": "11-04-2024 10:17",
         "news_link": "https://ameera.republika.co.id/berita/sbqqxz414/zaskia-adya-mecca-ungkap-hanung-selalu-bawa-karpet-merah-untuk-sholat-id"
-    },
-    {
-        "title": "Alquran Abadikan Kemampuan Nabi Sulaiman Kendalikan Angin di Bumi Palestina",
-        "category": "Iqra",
-        "publish_time": "11-04-2024 10:09",
-        "news_link": "https://iqra.republika.co.id/berita/sbrw5m320/alquran-abadikan-kemampuan-nabi-sulaiman-kendalikan-angin-di-bumi-palestina"
-    },
-    {
-        "title": "Kecelakaan Bus Rosalia Indah di Tol Batang, Sejumlah Penumpang Terlempar Keluar",
-        "category": "Rejogja",
-        "publish_time": "11-04-2024 10:09",
-        "news_link": "https://rejogja.republika.co.id/berita/sbrvrt432/kecelakaan-bus-rosalia-indah-di-tol-batang-sejumlah-penumpang-terlempar-keluar"
-    },
-    {
-        "title": "Mengapa Sopir Grandmax Banting Setir Hingga Tertabrak Bus, Ini Analisis Pakar Forensik",
-        "category": "News",
-        "publish_time": "11-04-2024 10:09",
-        "news_link": "https://news.republika.co.id/berita/sbrelb377/mengapa-sopir-grandmax-banting-setir-hingga-tertabrak-bus-ini-analisis-pakar-forensik"
-    },
-    {
-        "title": "Xi Jinping: Tidak Ada yang Bisa Hentikan 'Reuni Keluarga' dengan Taiwan",
-        "category": "Internasional",
-        "publish_time": "11-04-2024 10:09",
-        "news_link": "https://internasional.republika.co.id/berita/sbrrtu257/xi-jinping-tidak-ada-yang-bisa-hentikan-reuni-keluarga-dengan-taiwan"
-    },
-    {
-        "title": "Pengamat: Keanggotaan RI Dalam FATF Efektif Cegah Pendanaan Terorisme",
-        "category": "News",
-        "publish_time": "11-04-2024 10:09",
-        "news_link": "https://news.republika.co.id/berita/sbo118377/pengamat-keanggotaan-ri-dalam-fatf-efektif-cegah-pendanaan-terorisme"
-    },
-    {
-        "title": "Hingga H+1, Jasa Marga: Lalin ke Arah Timur Terpantau Tinggi",
-        "category": "Ameera",
-        "publish_time": "11-04-2024 10:09",
-        "news_link": "https://ameera.republika.co.id/berita/sbrv0w370/hingga-h1-jasa-marga-lalin-ke-arah-timur-terpantau-tinggi"
-    },
-    {
-        "title": "MK Jadwalkan Penyampaian Kesimpulan PHPU, Tim Anies Mengaku Punya Jurus Pamungkas",
-        "category": "News",
-        "publish_time": "11-04-2024 10:09",
-        "news_link": "https://news.republika.co.id/berita/sbrno3330/mk-jadwalkan-penyampaian-kesimpulan-phpu-tim-anies-mengaku-punya-jurus-pamungkas"
-    },
-    {
-        "title": "Ingat! Pola Makan tak Sehat Faktor Utama Penyakit Jantung",
-        "category": "Ameera",
-        "publish_time": "11-04-2024 10:09",
-        "news_link": "https://ameera.republika.co.id/berita/sbb1l9423/ingat-pola-makan-tak-sehat-faktor-utama-penyakit-jantung"
-    },
-    {
-        "title": "Akses Masuk Jalan Tol Layang MBZ Diberlakukan Buka Tutup Situasional",
-        "category": "Ramadhan",
-        "publish_time": "11-04-2024 09:09",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbru7r366/akses-masuk-jalan-tol-layang-mbz-diberlakukan-buka-tutup-situasional"
-    },
-    {
-        "title": "Maruarar Sirait Urus Kartu Tanda Anggota untuk Bergabung ke Gerindra",
-        "category": "News",
-        "publish_time": "11-04-2024 09:09",
-        "news_link": "https://news.republika.co.id/berita/sbqe9n377/maruarar-sirait-urus-kartu-tanda-anggota-untuk-bergabung-ke-gerindra"
-    },
-    {
-        "title": "Pascalongsor, Jalan Tol Bocimi Dibuka Satu Jalur dari Bogor ke Sukabumi",
-        "category": "Network",
-        "publish_time": "11-04-2024 09:09",
-        "news_link": "https://bandung24jam.id/posts/300948/pascalongsor-jalan-tol-bocimi-dibuka-satu-jalur-dari-bogor-ke-sukabumi"
-    },
-    {
-        "title": "Hari Kedua Lebaran, Monas Dikunjungi Puluhan Ribu Wisatawan",
-        "category": "Rejakarta",
-        "publish_time": "11-04-2024 09:09",
-        "news_link": "https://republika.co.id/berita/sbruel485/hari-kedua-lebaran-monas-dikunjungi-puluhan-ribu-wisatawan"
-    },
-    {
-        "title": "Ragunan Diprediksi Tembus 90 Ribu Pengunjung pada Lebaran Kedua",
-        "category": "Video",
-        "publish_time": "11-04-2024 09:09",
-        "news_link": "https://tv.republika.co.id/berita/sbrud7418/ragunan-diprediksi-tembus-90-ribu-pengunjung-pada-lebaran-kedua"
-    },
-    {
-        "title": "Gencatan Senjata Belum Nyata, Turki Batasi Ekspor ke Israel",
-        "category": "Khazanah",
-        "publish_time": "11-04-2024 09:09",
-        "news_link": "https://khazanah.republika.co.id/berita/sbogem366/gencatan-senjata-belum-nyata-turki-batasi-ekspor-ke-israel"
-    },
-    {
-        "title": "Libur Lebaran, Area Wisata Candi Borobudur Dibuka Lebih Lama",
-        "category": "Rejogja",
-        "publish_time": "11-04-2024 09:09",
-        "news_link": "https://rejogja.republika.co.id/berita/sbru6z432/libur-lebaran-area-wisata-candi-borobudur-dibuka-lebih-lama"
-    },
-    {
-        "title": "Pakar Gizi Sarankan Masyarakat Seimbangkan Konsumsi Opor Dengan Serat",
-        "category": "Ameera",
-        "publish_time": "11-04-2024 09:09",
-        "news_link": "https://ameera.republika.co.id/berita/sbru3h502/pakar-gizi-sarankan-masyarakat-seimbangkan-konsumsi-opor-dengan-serat"
-    },
-    {
-        "title": "Penyebab Kecelakaan Tol KM 58, KNKT: Pengemudi GranMax Bekerja Melebihi Waktu",
-        "category": "Rejabar",
-        "publish_time": "11-04-2024 09:09",
-        "news_link": "https://rejabar.republika.co.id/berita/sbru22485/penyebab-kecelakaan-tol-km-58-knkt-pengemudi-granmax-bekerja-melebihi-waktu"
-    },
-    {
-        "title": "Kapolres Batang: Bus Rosalia Indah Bawa Pemudik Tujuan Jatim",
-        "category": "Ramadhan",
-        "publish_time": "11-04-2024 09:09",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbrnhi330/kapolres-batang-bus-rosalia-indah-bawa-pemudik-tujuan-jatim"
-    },
-    {
-        "title": "Cerita Ibu Hamil Hampir Melahirkan di Kereta saat Lebaran",
-        "category": "News",
-        "publish_time": "11-04-2024 09:09",
-        "news_link": "https://news.republika.co.id/berita/sbrtsj502/cerita-ibu-hamil-hampir-melahirkan-di-kereta-saat-lebaran"
-    },
-    {
-        "title": "Soal Kemenangan Paslon 02, Pengamat: Rakyat Ingin Pilih Pemimpin Tegas",
-        "category": "News",
-        "publish_time": "11-04-2024 09:09",
-        "news_link": "https://news.republika.co.id/berita/sbo0r4377/soal-kemenangan-paslon-02-pengamat-rakyat-ingin-pilih-pemimpin-tegas"
-    },
-    {
-        "title": "Unggahan IG Verrel Bramasta dan Putri Zulhas Bikin Heboh",
-        "category": "News",
-        "publish_time": "11-04-2024 09:09",
-        "news_link": "https://news.republika.co.id/berita/sbrtil318/unggahan-ig-verrel-bramasta-dan-putri-zulhas-bikin-heboh"
-    },
-    {
-        "title": "Dishub Bantul Tambah 4 Pos Pantau di Jalur Wisata Libur Lebaran",
-        "category": "Ramadhan",
-        "publish_time": "11-04-2024 09:09",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbrtpm425/dishub-bantul-tambah-4-pos-pantau-di-jalur-wisata-libur-lebaran"
     }
 ]
