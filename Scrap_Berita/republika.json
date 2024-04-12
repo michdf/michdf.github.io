@@ -1,5 +1,185 @@
 [
     {
+        "title": "Agar tak Terjebak Macet, Menhub Sarankan Masyarakat Agar Balik Lebih Awal",
+        "category": "Ramadhan",
+        "publish_time": "12-04-2024 07:08",
+        "news_link": "https://ramadhan.republika.co.id/berita/sbtiim349/agar-tak-terjebak-macet-menhub-sarankan-masyarakat-agar-balik-lebih-awal"
+    },
+    {
+        "title": "Ini Kata Van Dijk Penyebab Liverpool Dibantai Atalanta di Anfield",
+        "category": "Sport",
+        "publish_time": "12-04-2024 07:06",
+        "news_link": "https://sport.republika.co.id/berita/sbtieb348/ini-kata-van-dijk-penyebab-liverpool-dibantai-atalanta-di-anfield"
+    },
+    {
+        "title": "PDIP Diprediksi Beroposisi Bila Gagal Dapatkan Posisi Ketua DPR",
+        "category": "News",
+        "publish_time": "12-04-2024 07:05",
+        "news_link": "https://news.republika.co.id/berita/sbtgwt330/pdip-diprediksi-beroposisi-bila-gagal-dapatkan-posisi-ketua-dpr"
+    },
+    {
+        "title": "KAI Palembang: Jumlah Penumpang Capai 40.202 Orang",
+        "category": "Ramadhan",
+        "publish_time": "12-04-2024 07:02",
+        "news_link": "https://ramadhan.republika.co.id/berita/sbti7h451/kai-palembang-jumlah-penumpang-capai-40202-orang"
+    },
+    {
+        "title": "ASDP: 41.280 Penumpang Turun di Pelabuhan Merak pada H+1 Idul Fitri",
+        "category": "Ramadhan",
+        "publish_time": "12-04-2024 07:00",
+        "news_link": "https://ramadhan.republika.co.id/berita/sbti5g370/asdp-41280-penumpang-turun-di-pelabuhan-merak-pada-h1-idul-fitri"
+    },
+    {
+        "title": "DTW Ulun Danu Beratan Siap Pentaskan Kebudayaan Tari Kecak",
+        "category": "Ekonomi",
+        "publish_time": "12-04-2024 07:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/sbtdr8457/dtw-ulun-danu-beratan-siap-pentaskan-kebudayaan-tari-kecak"
+    },
+    {
+        "title": "Arus Balik Lebaran, Kapolres Bantul Minta Pengendara yang Lelah Istirahat Dulu",
+        "category": "Rejogja",
+        "publish_time": "12-04-2024 06:54",
+        "news_link": "https://rejogja.republika.co.id/berita/sbthvh432/arus-balik-lebaran-kapolres-bantul-minta-pengendara-yang-lelah-istirahat-dulu"
+    },
+    {
+        "title": "Penembakan Antar Remaja Terjadi di Philadelphia",
+        "category": "Video",
+        "publish_time": "12-04-2024 06:54",
+        "news_link": "https://tv.republika.co.id/berita/sbthum467/penembakan-antar-remaja-terjadi-di-philadelphia"
+    },
+    {
+        "title": "Istana: Jokowi ke Medan Kunjungi Anak Cucu",
+        "category": "News",
+        "publish_time": "12-04-2024 06:54",
+        "news_link": "https://news.republika.co.id/berita/sbthjk430/istana-jokowi-ke-medan-kunjungi-anak-cucu"
+    },
+    {
+        "title": "Dibantai Atalanta di Anfield, Salah Satu Noda Hitam Dalam Karier Cemerlang Klopp",
+        "category": "Sport",
+        "publish_time": "12-04-2024 06:53",
+        "news_link": "https://sport.republika.co.id/berita/sbthos430/dibantai-atalanta-di-anfield-salah-satu-noda-hitam-dalam-karier-cemerlang-klopp"
+    },
+    {
+        "title": "KPI Kirim Teguran 2 Acara Ramadhan, Salah Satunya Acaranya Raffi Ahmad",
+        "category": "News",
+        "publish_time": "12-04-2024 06:49",
+        "news_link": "https://news.republika.co.id/berita/sbtg2k330/kpi-kirim-teguran-2-acara-ramadhan-salah-satunya-acaranya-raffi-ahmad"
+    },
+    {
+        "title": "Alonso Kembali Tunjukkan Kejeniusannya, Leverkusen Di Ambang Treble",
+        "category": "Sport",
+        "publish_time": "12-04-2024 06:46",
+        "news_link": "https://sport.republika.co.id/berita/sbth6f430/alonso-kembali-tunjukkan-kejeniusannya-leverkusen-di-ambang-treble"
+    },
+    {
+        "title": "Instagram akan Buramkan Gambar Telanjang dalam Pesan yang Dikirim ke Anak di Bawah Umur",
+        "category": "Tekno",
+        "publish_time": "12-04-2024 06:46",
+        "news_link": "https://tekno.republika.co.id/berita/sbthc7430/instagram-akan-buramkan-gambar-telanjang-dalam-pesan-yang-dikirim-ke-anak-di-bawah-umur"
+    },
+    {
+        "title": "Khatib di Bantul yang Bahas Pemilu Curang Dosen Nonaktif UAD",
+        "category": "News",
+        "publish_time": "12-04-2024 06:45",
+        "news_link": "https://news.republika.co.id/berita/sbthgk484/khatib-di-bantul-yang-bahas-pemilu-curang-dosen-nonaktif-uad"
+    },
+    {
+        "title": "Kapal Pesiar Singgahi Bali di Masa Libur Lebaran 2024",
+        "category": "Ekonomi",
+        "publish_time": "12-04-2024 06:45",
+        "news_link": "https://ekonomi.republika.co.id/berita/sbtdir457/kapal-pesiar-singgahi-bali-di-masa-libur-lebaran-2024"
+    },
+    {
+        "title": "Milan Terkapar di San Siro, Pioli: Kami Terlalu Memberikan Banyak Ruang",
+        "category": "Sport",
+        "publish_time": "12-04-2024 06:44",
+        "news_link": "https://sport.republika.co.id/berita/sbth23430/milan-terkapar-di-san-siro-pioli-kami-terlalu-memberikan-banyak-ruang"
+    },
+    {
+        "title": "Pertahankan Melakukan Amal Baik Meski Ramadhan Usai",
+        "category": "Ramadhan",
+        "publish_time": "12-04-2024 06:40",
+        "news_link": "https://ramadhan.republika.co.id/berita/sbtgxa430/pertahankan-melakukan-amal-baik-meski-ramadhan-usai"
+    },
+    {
+        "title": "Jepang Jadi Negara Kedua yang Daratkan Astronautnya di Bulan",
+        "category": "Tekno",
+        "publish_time": "12-04-2024 06:39",
+        "news_link": "https://tekno.republika.co.id/berita/sbth6i370/jepang-jadi-negara-kedua-yang-daratkan-astronautnya-di-bulan"
+    },
+    {
+        "title": "Arus Balik Lebaran, Polisi Ingatkan Pemudik Siapkan Stamina",
+        "category": "Ramadhan",
+        "publish_time": "12-04-2024 06:34",
+        "news_link": "https://ramadhan.republika.co.id/berita/sbtfrz330/arus-balik-lebaran-polisi-ingatkan-pemudik-siapkan-stamina"
+    },
+    {
+        "title": "Pertahankan Semangat Ramadhan",
+        "category": "Ramadhan",
+        "publish_time": "12-04-2024 06:32",
+        "news_link": "https://ramadhan.republika.co.id/berita/sbtgte430/pertahankan-semangat-ramadhan"
+    },
+    {
+        "title": "Perajin: Pasar Domestik Angkat Prospek Kerajinan Bambu Gianyar",
+        "category": "Ekonomi",
+        "publish_time": "12-04-2024 06:30",
+        "news_link": "https://ekonomi.republika.co.id/berita/sbtdak457/perajin-pasar-domestik-angkat-prospek-kerajinan-bambu-gianyar"
+    },
+    {
+        "title": "Langkah Antisipasi Polisi Hadapi Peningkatan Kendaraan pada Lebaran di Puncak",
+        "category": "News",
+        "publish_time": "12-04-2024 06:28",
+        "news_link": "https://news.republika.co.id/berita/sbtgmx451/langkah-antisipasi-polisi-hadapi-peningkatan-kendaraan-pada-lebaran-di-puncak"
+    },
+    {
+        "title": "Benarkah Hanya Presiden Jokowi yang Rayakan Lebaran Idul Fitri di Luar Jakarta? Bung Karno....",
+        "category": "Network",
+        "publish_time": "12-04-2024 06:26",
+        "news_link": "https://oohya.republika.co.id/pitan/1744536151/benarkah-hanya-presiden-jokowi-yang-rayakan-lebaran-idul-fitri-di-luar-jakarta-bung-karno"
+    },
+    {
+        "title": "PBSI Bersyukur Loloskan Wakil di Semua Nomor Bulu Tangkis Olimpiade Paris 2024",
+        "category": "Sport",
+        "publish_time": "12-04-2024 06:26",
+        "news_link": "https://sport.republika.co.id/berita/sbtgjh348/pbsi-bersyukur-loloskan-wakil-di-semua-nomor-bulu-tangkis-olimpiade-paris-2024"
+    },
+    {
+        "title": "Penyanyi Park Bo-ram Meninggal Dunia pada Usia 30 Tahun",
+        "category": "Ameera",
+        "publish_time": "12-04-2024 06:22",
+        "news_link": "https://ameera.republika.co.id/berita/sbtgd9370/penyanyi-park-boram-meninggal-dunia-pada-usia-30-tahun"
+    },
+    {
+        "title": "Lebih dari 500 Ribu Kematian Akibat Stroke Disebabkan oleh Suhu Ekstrem",
+        "category": "Network",
+        "publish_time": "12-04-2024 06:22",
+        "news_link": "https://impresiupdate.id/posts/301016/lebih-dari-500-ribu-kematian-akibat-stroke-disebabkan-oleh-suhu-ekstrem"
+    },
+    {
+        "title": "UNY Buka Jalur Mandiri Prestasi Akademik D4 dan S1, Kesempatan Lolos Tanpa Tes",
+        "category": "Network",
+        "publish_time": "12-04-2024 06:19",
+        "news_link": "https://kampus.republika.co.id/info-kampus/1624536146/uny-buka-jalur-mandiri-prestasi-akademik-d4-dan-s1-kesempatan-lolos-tanpa-tes"
+    },
+    {
+        "title": "Polisi Atur Arus Kendaraan di Jalur Banjarwangi Garut yang Kena Longsor",
+        "category": "Ramadhan",
+        "publish_time": "12-04-2024 06:18",
+        "news_link": "https://ramadhan.republika.co.id/berita/sbtfkk330/polisi-atur-arus-kendaraan-di-jalur-banjarwangi-garut-yang-kena-longsor"
+    },
+    {
+        "title": "Masyarakat Akui Kemudahan Isi Daya di SPKLU PLN Saat Mudik Lebaran",
+        "category": "Ekonomi",
+        "publish_time": "12-04-2024 06:15",
+        "news_link": "https://ekonomi.republika.co.id/berita/sbtcq1457/masyarakat-akui-kemudahan-isi-daya-di-spklu-pln-saat-mudik-lebaran"
+    },
+    {
+        "title": "Jadi Tersangka, Sopir Bus Rosalia Langsung Ditahan",
+        "category": "News",
+        "publish_time": "12-04-2024 06:14",
+        "news_link": "https://www.republika.id/posts/51972/jadi-tersangka-sopir-bus-rosalia-langsung-ditahan"
+    },
+    {
         "title": "Menhub: 1.236 Penerbangan Layani Penumpang di Puncak Arus Mudik",
         "category": "News",
         "publish_time": "12-04-2024 06:13",
@@ -20,283 +200,103 @@
     {
         "title": "Thamsil Linrung: Semoga Ketakwaan Kita dalam Posisi Puncak Usai Ramadhan",
         "category": "Video",
-        "publish_time": "12-04-2024 06:08",
+        "publish_time": "12-04-2024 06:11",
         "news_link": "https://tv.republika.co.id/berita/sbtfps313/thamsil-linrung-semoga-ketakwaan-kita-dalam-posisi-puncak-usai-ramadhan"
     },
     {
         "title": "Keanu Reeves Kembali sebagai John Wick di Spin-Off yang Dinanti-nantikan",
         "category": "Ameera",
-        "publish_time": "12-04-2024 06:05",
+        "publish_time": "12-04-2024 06:11",
         "news_link": "https://ameera.republika.co.id/berita/sbtfkx370/keanu-reeves-kembali-sebagai-john-wick-di-spinoff-yang-dinantinantikan"
     },
     {
         "title": "Wisatawan di Pantai Selatan Jateng dan DIY Diminta Waspada Pasang Laut",
         "category": "Rejogja",
-        "publish_time": "12-04-2024 06:04",
+        "publish_time": "12-04-2024 06:11",
         "news_link": "https://rejogja.republika.co.id/berita/sbtfjv432/wisatawan-di-pantai-selatan-jateng-dan-diy-diminta-waspada-pasang-laut"
     },
     {
         "title": "Jalur Fungsional Tol Jogja-Solo Dibuka untuk Lancarkan Arus Balik",
         "category": "Ramadhan",
-        "publish_time": "12-04-2024 06:02",
+        "publish_time": "12-04-2024 06:11",
         "news_link": "https://ramadhan.republika.co.id/berita/sbte4t349/jalur-fungsional-tol-jogjasolo-dibuka-untuk-lancarkan-arus-balik"
     },
     {
         "title": "Baznas: Pengumpulan Zakat Fitrah di Tangerang Selama Ramadhan Capai Rp 8,7\u00a0 Miliar",
         "category": "News",
-        "publish_time": "12-04-2024 06:01",
+        "publish_time": "12-04-2024 06:11",
         "news_link": "https://news.republika.co.id/berita/sbtfeh370/baznas-pengumpulan-zakat-fitrah-di-tangerang-selama-ramadhan-capai-rp-87-miliar"
     },
     {
         "title": "Bencana Banjir Tewaskan Seorang Warga di Pasuruan",
         "category": "News",
-        "publish_time": "12-04-2024 06:00",
+        "publish_time": "12-04-2024 06:11",
         "news_link": "https://news.republika.co.id/berita/sbtfdn330/bencana-banjir-tewaskan-seorang-warga-di-pasuruan"
-    },
-    {
-        "title": "Okupansi Hotel di Nusa Dua Saat Libur Lebaran Capai 80 Persen",
-        "category": "Ekonomi",
-        "publish_time": "12-04-2024 05:59",
-        "news_link": "https://ekonomi.republika.co.id/berita/sbtc8k457/okupansi-hotel-di-nusa-dua-saat-libur-lebaran-capai-80-persen"
     },
     {
         "title": "Foreign Ministry of Indonesia: No Plan to Establish Relations with Israel",
         "category": "En",
-        "publish_time": "14 minutes ago",
+        "publish_time": "1 hours ago",
         "news_link": "https://en.republika.co.id/berita/sbte9k451/foreign-ministry-of-indonesia-no-plan-to-establish-relations-with-israel"
+    },
+    {
+        "title": "Okupansi Hotel di Nusa Dua Saat Libur Lebaran Capai 80 Persen",
+        "category": "Ekonomi",
+        "publish_time": "12-04-2024 06:11",
+        "news_link": "https://ekonomi.republika.co.id/berita/sbtc8k457/okupansi-hotel-di-nusa-dua-saat-libur-lebaran-capai-80-persen"
     },
     {
         "title": "Sistem One Way Arus Balik Tol Kalikangkung Semarang ke Cikampek Dimulai Besok Siang",
         "category": "Ramadhan",
-        "publish_time": "12-04-2024 05:58",
+        "publish_time": "12-04-2024 06:11",
         "news_link": "https://ramadhan.republika.co.id/berita/sbtf9r425/sistem-one-way-arus-balik-tol-kalikangkung-semarang-ke-cikampek-dimulai-besok-siang"
     },
     {
         "title": "Bertemu Airlangga Hampir Dua Jam, Prabowo: Ngomong Ini dan Itu",
         "category": "News",
-        "publish_time": "12-04-2024 05:53",
+        "publish_time": "12-04-2024 06:11",
         "news_link": "https://news.republika.co.id/berita/sbtf1w484/bertemu-airlangga-hampir-dua-jam-prabowo-ngomong-ini-dan-itu"
     },
     {
         "title": "Dinilai Lalai, Sopir Bus Rosalia Indah Ditetapkan Tersangka, Langsung Ditahan",
         "category": "Rejogja",
-        "publish_time": "12-04-2024 05:53",
+        "publish_time": "12-04-2024 06:11",
         "news_link": "https://rejogja.republika.co.id/berita/sbtf1q432/dinilai-lalai-sopir-bus-rosalia-indah-ditetapkan-tersangka-langsung-ditahan"
     },
     {
         "title": "Universitas BSI Ekspansi Kampus Demi Pendidikan Digital Merata",
         "category": "News",
-        "publish_time": "12-04-2024 05:50",
+        "publish_time": "12-04-2024 06:11",
         "news_link": "https://news.republika.co.id/berita/sbtewz463/universitas-bsi-ekspansi-kampus-demi-pendidikan-digital-merata"
     },
     {
         "title": "Lelang Pembangunan Gudang Produksi Rokok SIHT Ditargetkan pada Mei Ini",
         "category": "News",
-        "publish_time": "12-04-2024 05:44",
+        "publish_time": "12-04-2024 06:11",
         "news_link": "https://news.republika.co.id/berita/sbscbl457/lelang-pembangunan-gudang-produksi-rokok-siht-ditargetkan-pada-mei-ini"
     },
     {
         "title": "Ketua TPN Ganjar-Mahfud Temui Ketua TKN Prabowo-Gibran",
         "category": "News",
-        "publish_time": "12-04-2024 05:43",
+        "publish_time": "12-04-2024 06:11",
         "news_link": "https://news.republika.co.id/berita/sbtc1f349/ketua-tpn-ganjarmahfud-temui-ketua-tkn-prabowogibran"
     },
     {
         "title": "Petugas Terapkan Delay System Cegah Kepadatan di Pelabuhan Bakauheni",
         "category": "Ramadhan",
-        "publish_time": "12-04-2024 05:41",
+        "publish_time": "12-04-2024 05:11",
         "news_link": "https://ramadhan.republika.co.id/berita/sbtegi370/petugas-terapkan-delay-system-cegah-kepadatan-di-pelabuhan-bakauheni"
     },
     {
         "title": "Penggunaan Lagu K-Pop di Indonesia Kini Perlu Izin, Apa Kata Pengamat Musik?",
         "category": "Ameera",
-        "publish_time": "12-04-2024 05:40",
+        "publish_time": "12-04-2024 05:11",
         "news_link": "https://ameera.republika.co.id/berita/sbtegg425/penggunaan-lagu-kpop-di-indonesia-kini-perlu-izin-apa-kata-pengamat-musik"
     },
     {
         "title": "Tuntunan Lengkap Doa Selama Perjalanan Hingga Tiba di Rumah",
         "category": "Iqra",
-        "publish_time": "12-04-2024 05:39",
+        "publish_time": "12-04-2024 05:11",
         "news_link": "https://iqra.republika.co.id/berita/sbtd9w451/tuntunan-lengkap-doa-selama-perjalanan-hingga-tiba-di-rumah"
-    },
-    {
-        "title": "Jasa Marga: Pemberlakuan One Way Saat Arus Balik Hari Ini Ditunda",
-        "category": "Ekonomi",
-        "publish_time": "12-04-2024 05:31",
-        "news_link": "https://ekonomi.republika.co.id/berita/sbte12502/jasa-marga-pemberlakuan-one-way-saat-arus-balik-hari-ini-ditunda"
-    },
-    {
-        "title": "Indonesia tak Kenal Oposisi, Bamsoet Ajak Seluruh Parpol Gabung Pemerintah",
-        "category": "News",
-        "publish_time": "12-04-2024 05:29",
-        "news_link": "https://news.republika.co.id/berita/sbtdy2484/indonesia-tak-kenal-oposisi-bamsoet-ajak-seluruh-parpol-gabung-pemerintah"
-    },
-    {
-        "title": "Indef Minta Pemerintah Cermati Urgensi Skema Power Wheeling",
-        "category": "Ekonomi",
-        "publish_time": "12-04-2024 05:29",
-        "news_link": "https://ekonomi.republika.co.id/berita/sbsc0r457/indef-minta-pemerintah-cermati-urgensi-skema-power-wheeling"
-    },
-    {
-        "title": "Istana: Silaturahmi Jokowi-Megawati Sedang Dicarikan Waktu",
-        "category": "News",
-        "publish_time": "12-04-2024 05:26",
-        "news_link": "https://news.republika.co.id/berita/sbtb8e349/istana-silaturahmi-jokowimegawati-sedang-dicarikan-waktu"
-    },
-    {
-        "title": "Cyber University, Kampus Fintech Pertama di Indonesia dengan Program CLP",
-        "category": "News",
-        "publish_time": "12-04-2024 05:24",
-        "news_link": "https://news.republika.co.id/berita/sbta9b463/cyber-university-kampus-fintech-pertama-di-indonesia-dengan-program-clp"
-    },
-    {
-        "title": "Akankah Akhir Kisah \u2018Parasyte: The Grey\u2019 Sama dengan  Versi Manga?",
-        "category": "Ameera",
-        "publish_time": "12-04-2024 05:24",
-        "news_link": "https://ameera.republika.co.id/berita/sbtdo8425/akankah-akhir-kisah-parasyte-the-grey-sama-dengan-versi-manga"
-    },
-    {
-        "title": "Monitoring Obyek Wisata, Kapolres Indramayu Pastikan Keselamatan Wisatawan",
-        "category": "Rejabar",
-        "publish_time": "12-04-2024 05:22",
-        "news_link": "https://rejabar.republika.co.id/berita/sbtdm6512/monitoring-obyek-wisata-kapolres-indramayu-pastikan-keselamatan-wisatawan"
-    },
-    {
-        "title": "Polisi Tetapkan Sopir Bus Rosalia Indah Jadi Tersangka",
-        "category": "News",
-        "publish_time": "12-04-2024 05:21",
-        "news_link": "https://news.republika.co.id/berita/sbtdkc484/polisi-tetapkan-sopir-bus-rosalia-indah-jadi-tersangka"
-    },
-    {
-        "title": "Nekat Salip Mobil, Pengendara Alami Kecelakaan di Jalan Jogja-Wonosari",
-        "category": "News",
-        "publish_time": "12-04-2024 05:18",
-        "news_link": "https://news.republika.co.id/berita/sbtavm349/nekat-salip-mobil-pengendara-alami-kecelakaan-di-jalan-jogjawonosari"
-    },
-    {
-        "title": "Buntut Pengusiran Staf Kedubes, Rusia Panggil Dubes Austria",
-        "category": "Internasional",
-        "publish_time": "12-04-2024 05:17",
-        "news_link": "https://internasional.republika.co.id/berita/sbtddh488/buntut-pengusiran-staf-kedubes-rusia-panggil-dubes-austria"
-    },
-    {
-        "title": "Bioskop Online Luncurkan Fitur Terbaru 'Download'",
-        "category": "Ekonomi",
-        "publish_time": "12-04-2024 05:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/sbsbmp457/bioskop-online-luncurkan-fitur-terbaru-download"
-    },
-    {
-        "title": "Masa Ketika Imam Bukhari Dizalimi, Kitab Shahih Haditsnya pun Dicerca",
-        "category": "Iqra",
-        "publish_time": "12-04-2024 05:13",
-        "news_link": "https://iqra.republika.co.id/berita/sbtd3t451/masa-ketika-imam-bukhari-dizalimi-kitab-shahih-haditsnya-pun-dicerca"
-    },
-    {
-        "title": "Polisi Tetapkan Sopir Bus Rosalia Indah Sebagai Tersangka",
-        "category": "News",
-        "publish_time": "12-04-2024 05:13",
-        "news_link": "https://news.republika.co.id/berita/sbtcqw370/polisi-tetapkan-sopir-bus-rosalia-indah-sebagai-tersangka"
-    },
-    {
-        "title": "Westlife Gelar Konser Eksklusif di Yogyakarta Juni 2024, tak Diadakan di Kota Lain",
-        "category": "Ameera",
-        "publish_time": "12-04-2024 05:13",
-        "news_link": "https://ameera.republika.co.id/berita/sbtcjt425/westlife-gelar-konser-eksklusif-di-yogyakarta-juni-2024-tak-diadakan-di-kota-lain"
-    },
-    {
-        "title": "Prodi Digital Entrepreneur Cyber University Jadi Peluang Bagi Generasi Digital",
-        "category": "News",
-        "publish_time": "12-04-2024 05:13",
-        "news_link": "https://news.republika.co.id/berita/sbt9w7463/prodi-digital-entrepreneur-cyber-university-jadi-peluang-bagi-generasi-digital"
-    },
-    {
-        "title": "Naskah Khutbah Jumat: Raih Ketenangan dan Kemuliaan dengan Saling Memaafkan di Hari Raya",
-        "category": "Iqra",
-        "publish_time": "12-04-2024 05:13",
-        "news_link": "https://iqra.republika.co.id/berita/sbtc0f366/naskah-khutbah-jumat-raih-ketenangan-dan-kemuliaan-dengan-saling-memaafkan-di-hari-raya"
-    },
-    {
-        "title": "Lebih Ketat Jaga Kesehatan Selama Musim Pancaroba",
-        "category": "Ameera",
-        "publish_time": "12-04-2024 05:13",
-        "news_link": "https://ameera.republika.co.id/berita/sbtbxa488/lebih-ketat-jaga-kesehatan-selama-musim-pancaroba"
-    },
-    {
-        "title": "Tips Aman Gunakan Jalur Contraflow Agar Selamat Sampai Tujuan",
-        "category": "Ramadhan",
-        "publish_time": "12-04-2024 05:13",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbtbup425/tips-aman-gunakan-jalur-contraflow-agar-selamat-sampai-tujuan"
-    },
-    {
-        "title": "Kronologi Bapak-Anak Terseret Ombak di Pantai Paseban Jember, Satu Orang Meninggal",
-        "category": "Rejogja",
-        "publish_time": "12-04-2024 04:13",
-        "news_link": "https://rejogja.republika.co.id/berita/sbtblt432/kronologi-bapakanak-terseret-ombak-di-pantai-paseban-jember-satu-orang-meninggal"
-    },
-    {
-        "title": "Peretas Jual Data Pertahanan Israel Seharga 50 Bitcoin",
-        "category": "Internasional",
-        "publish_time": "12-04-2024 04:13",
-        "news_link": "https://internasional.republika.co.id/berita/sbtblr488/peretas-jual-data-pertahanan-israel-seharga-50-bitcoin"
-    },
-    {
-        "title": "Menunggu Balasan Iran, Israel Gelar Latihan Serangan Jarak Jauh",
-        "category": "Internasional",
-        "publish_time": "12-04-2024 04:13",
-        "news_link": "https://internasional.republika.co.id/berita/sbtb0y488/menunggu-balasan-iran-israel-gelar-latihan-serangan-jarak-jauh"
-    },
-    {
-        "title": "Universitas BSI Berikan Layanan Konseling Bagi Mahasiswa dengan Menggandeng Psikolog",
-        "category": "News",
-        "publish_time": "12-04-2024 04:13",
-        "news_link": "https://news.republika.co.id/berita/sbt9m2463/universitas-bsi-berikan-layanan-konseling-bagi-mahasiswa-dengan-menggandeng-psikolog"
-    },
-    {
-        "title": "RI Dilaporkan akan Rajut Hubungan dengan Israel demi OECD, Ini Bantahan Kemlu",
-        "category": "News",
-        "publish_time": "12-04-2024 04:13",
-        "news_link": "https://www.republika.id/posts/51968/ri-dilaporkan-akan-rajut-hubungan-dengan-israel-demi-oecd-ini-bantahan-kemlu"
-    },
-    {
-        "title": "Anak Cucu Dibunuh, Ismail Haniyeh tak Melunak di Meja Perundingan",
-        "category": "Internasional",
-        "publish_time": "12-04-2024 04:13",
-        "news_link": "https://www.republika.id/posts/51970/anak-cucu-dibunuh-ismail-haniyeh-tak-melunak-di-meja-perundingan"
-    },
-    {
-        "title": "Banjir di Beberapa Wilayah Jawa Timur, Petugas dan Warga Trenggalek Gotong Royong Bersihkan Sampah",
-        "category": "Network",
-        "publish_time": "12-04-2024 04:13",
-        "news_link": "https://topnews62.com/posts/301049/banjir-di-beberapa-wilayah-jawa-timur-petugas-dan-warga-trenggalek-gotong-royong-bersihkan-sampah"
-    },
-    {
-        "title": "Lenny Kravitz Rilis Lagu Upbeat 'Human'",
-        "category": "Network",
-        "publish_time": "12-04-2024 04:13",
-        "news_link": "https://impresiupdate.id/posts/301009/lenny-kravitz-rilis-lagu-upbeat-human-"
-    },
-    {
-        "title": "Banjir di Bandar Lampung, Lagu Lama",
-        "category": "Network",
-        "publish_time": "12-04-2024 04:13",
-        "news_link": "https://kingdomsriwijaya.id/posts/301032/banjir-di-bandar-lampung-lagu-lama"
-    },
-    {
-        "title": "Hari Ketiga Lebaran, Pengamanan di Ancol Diperketat",
-        "category": "News",
-        "publish_time": "12-04-2024 04:13",
-        "news_link": "https://news.republika.co.id/berita/sbtand488/hari-ketiga-lebaran-pengamanan-di-ancol-diperketat"
-    },
-    {
-        "title": "Lebaran yang Meriah di Desa Kalimanggis, Temanggung: Kebersamaan Muslim dan Buddha",
-        "category": "Network",
-        "publish_time": "12-04-2024 04:13",
-        "news_link": "https://topnews62.com/posts/300994/lebaran-yang-meriah-di-desa-kalimanggis-temanggung-kebersamaan-muslim-dan-buddha"
-    },
-    {
-        "title": "Hari Ini, Contraflow Tol Jakarta-Cikampek Berlaku. Ini Pesan untuk Pengendara",
-        "category": "Ekonomi",
-        "publish_time": "12-04-2024 04:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sbtag5502/hari-ini-contraflow-tol-jakartacikampek-berlaku-ini-pesan-untuk-pengendara"
     }
 ]
