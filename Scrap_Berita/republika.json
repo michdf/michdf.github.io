@@ -1,5 +1,65 @@
 [
     {
+        "title": "BRIN : Pemanfaatan Obat Herbal untuk Hewan Kian Masif",
+        "category": "Ekonomi",
+        "publish_time": "14 April 2024, 01:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/sbvfsd457/brin-pemanfaatan-obat-herbal-untuk-hewan-kian-masif"
+    },
+    {
+        "title": "Polres Bogor Berlakukan One Way di Kawasan Puncak Selama 10 Jam",
+        "category": "News",
+        "publish_time": "14 April 2024, 01:09",
+        "news_link": "https://news.republika.co.id/berita/sbw2ec409/polres-bogor-berlakukan-one-way-di-kawasan-puncak-selama-10-jam"
+    },
+    {
+        "title": "Vinales, Acosta, dan Marquez Start dari Baris Depan di GP Amerika",
+        "category": "Sport",
+        "publish_time": "14 April 2024, 01:06",
+        "news_link": "https://sport.republika.co.id/berita/sbw7nl409/vinales-acosta-dan-marquez-start-dari-baris-depan-di-gp-amerika"
+    },
+    {
+        "title": "Gasak Luton Town 5-1, Manchester City Sementara di Puncak Klasemen Liga Primer Inggris",
+        "category": "Sport",
+        "publish_time": "14 April 2024, 01:01",
+        "news_link": "https://sport.republika.co.id/berita/sbw7ej409/gasak-luton-town-51-manchester-city-sementara-di-puncak-klasemen-liga-primer-inggris"
+    },
+    {
+        "title": "Pengunjung Kebun Raya Bogor Tembus 10 Ribu Orang pada H+2 Lebaran",
+        "category": "News",
+        "publish_time": "14 April 2024, 00:55",
+        "news_link": "https://news.republika.co.id/berita/sbw4hz409/pengunjung-kebun-raya-bogor-tembus-10-ribu-orang-pada-h2-lebaran"
+    },
+    {
+        "title": "Hafalkanlah, Meskipun tak Hafal-Hafal",
+        "category": "Network",
+        "publish_time": "14 April 2024, 00:48",
+        "news_link": "https://sajada.id/posts/301233/hafalkanlah-meskipun-tak-hafal-hafal"
+    },
+    {
+        "title": "Iran Sita Kapal Kontainer Milik Pengusaha Israel di Selat Hormuz, Ini Respons IDF",
+        "category": "Internasional",
+        "publish_time": "14 April 2024, 00:34",
+        "news_link": "https://internasional.republika.co.id/berita/sbw665409/iran-sita-kapal-kontainer-milik-pengusaha-israel-di-selat-hormuz-ini-respons-idf"
+    },
+    {
+        "title": "Selain Siksa Kubur, Ini 6 Rekomendasi Film Horor Joko Anwar dengan Rating Tertinggi",
+        "category": "Ameera",
+        "publish_time": "14 April 2024, 00:18",
+        "news_link": "https://ameera.republika.co.id/berita/sbvzqk425/selain-siksa-kubur-ini-6-rekomendasi-film-horor-joko-anwar-dengan-rating-tertinggi"
+    },
+    {
+        "title": "Iran Ancang-Ancang Serang Israel, Negara-Negara Arab Ikut 'Panik' dan Ingatkan AS",
+        "category": "Internasional",
+        "publish_time": "14 April 2024, 00:17",
+        "news_link": "https://internasional.republika.co.id/berita/sbvsr0409/iran-ancangancang-serang-israel-negaranegara-arab-ikut-panik-dan-ingatkan-as"
+    },
+    {
+        "title": "Justin Hubner Antar Cerezo Osaka Puncaki J1 League",
+        "category": "Sport",
+        "publish_time": "14 April 2024, 00:07",
+        "news_link": "https://sport.republika.co.id/berita/sbw26m409/justin-hubner-antar-cerezo-osaka-puncaki-j1-league"
+    },
+    {
         "title": "'Kopi Adalah Media'",
         "category": "Video",
         "publish_time": "14 April 2024, 00:06",
@@ -12,16 +72,16 @@
         "news_link": "https://news.republika.co.id/berita/sbw4pu456/sebanyak-112569-orang-kunjungi-taman-margasatwa-ragunan-h3-lebaran"
     },
     {
-        "title": "Tempat Wisata Ramai Pengunjung Hingga \u2018tak Sempat\u2019 Sholat, Bolehkah Dijamak?",
-        "category": "Ameera",
-        "publish_time": "14 April 2024, 00:02",
-        "news_link": "https://ameera.republika.co.id/berita/sbvxxb425/tempat-wisata-ramai-pengunjung-hingga-tak-sempat-sholat-bolehkah-dijamak"
-    },
-    {
         "title": "Taman Margasatwa Ragunan Dikunjungi 112 Ribu Wisatawan pada H+2 Lebaran",
         "category": "News",
         "publish_time": "14 April 2024, 00:02",
         "news_link": "https://news.republika.co.id/berita/sbw20d409/taman-margasatwa-ragunan-dikunjungi-112-ribu-wisatawan-pada-h2-lebaran"
+    },
+    {
+        "title": "Tempat Wisata Ramai Pengunjung Hingga \u2018tak Sempat\u2019 Sholat, Bolehkah Dijamak?",
+        "category": "Ameera",
+        "publish_time": "14 April 2024, 00:02",
+        "news_link": "https://ameera.republika.co.id/berita/sbvxxb425/tempat-wisata-ramai-pengunjung-hingga-tak-sempat-sholat-bolehkah-dijamak"
     },
     {
         "title": "Arus Balik di Sulsel Mulai Padat",
@@ -238,65 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "13 April 2024, 20:49",
         "news_link": "https://ekonomi.republika.co.id/berita/sbvvq6490/bph-migas-pastikan-stok-avtur-di-bandara-soekarno-hatta-aman-saat-arus-balik"
-    },
-    {
-        "title": "Ancol, Masih Favorit Wisatawan di Libur Lebaran",
-        "category": "Video",
-        "publish_time": "13 April 2024, 20:49",
-        "news_link": "https://tv.republika.co.id/berita/sbvvq0313/ancol-masih-favorit-wisatawan-di-libur-lebaran"
-    },
-    {
-        "title": "Pengunjung Ragunan Diminta Waspadai Pelaku Hipnotis",
-        "category": "News",
-        "publish_time": "13 April 2024, 20:42",
-        "news_link": "https://news.republika.co.id/berita/sbvvf6425/pengunjung-ragunan-diminta-waspadai-pelaku-hipnotis"
-    },
-    {
-        "title": "KAI Daop 1 Catat 46 Ribu Pemudik Kembali ke Jakarta Hari Ini",
-        "category": "Ramadhan",
-        "publish_time": "13 April 2024, 20:33",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbvuzx425/kai-daop-1-catat-46-ribu-pemudik-kembali-ke-jakarta-hari-ini"
-    },
-    {
-        "title": "Enam Jalur Mandiri UIN Jakarta 2024 Segera Dibuka, Cek Ketentuan Proses Seleksi dan Jadwal Pendaftaran",
-        "category": "Network",
-        "publish_time": "13 April 2024, 20:32",
-        "news_link": "https://kampus.republika.co.id/info-kampus/1624538461/enam-jalur-mandiri-uin-jakarta-2024-segera-dibuka-cek-ketentuan-proses-seleksi-dan-jadwal-pendaftaran"
-    },
-    {
-        "title": "Tol Bocimi Digunakan Fungsional untuk Arus Balik Lebaran",
-        "category": "Visual",
-        "publish_time": "13 April 2024, 20:25",
-        "news_link": "https://visual.republika.co.id/berita/sbvmr6491/tol-bocimi-digunakan-fungsional-untuk-arus-balik-lebaran"
-    },
-    {
-        "title": "Berikut Jadwal dan Prediksi Starting XI RCD Mallorca vs Real Madrid Malam Ini",
-        "category": "Sport",
-        "publish_time": "13 April 2024, 20:19",
-        "news_link": "https://sport.republika.co.id/berita/sbvsxj456/berikut-jadwal-dan-prediksi-starting-xi-rcd-mallorca-vs-real-madrid-malam-ini"
-    },
-    {
-        "title": "Menko PMK: WFH Dua Hari Hanya untuk ASN",
-        "category": "Ekonomi",
-        "publish_time": "13 April 2024, 20:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sbvu1w490/menko-pmk-wfh-dua-hari-hanya-untuk-asn"
-    },
-    {
-        "title": "Arus Balik, Jasa Marga: 113 Ribu Kendaraan Masuk GT Cikampek",
-        "category": "Ekonomi",
-        "publish_time": "13 April 2024, 19:58",
-        "news_link": "https://ekonomi.republika.co.id/berita/sbvtdp490/arus-balik-jasa-marga-113-ribu-kendaraan-masuk-gt-cikampek"
-    },
-    {
-        "title": "Penjelasan Tawasul\u00a0yang Sesuai Tradisi Ulama",
-        "category": "Iqra",
-        "publish_time": "13 April 2024, 19:57",
-        "news_link": "https://iqra.republika.co.id/berita/sbvqoi451/penjelasan-tawasulyang-sesuai-tradisi-ulama"
-    },
-    {
-        "title": "Polri: 60.028 Kendaraan Memasuki Jakarta pada H+1 Lebaran",
-        "category": "Ramadhan",
-        "publish_time": "13 April 2024, 19:53",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbvpyw430/polri-60028-kendaraan-memasuki-jakarta-pada-h1-lebaran"
     }
 ]
