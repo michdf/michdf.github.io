@@ -1,5 +1,53 @@
 [
     {
+        "title": "MPR Dukung Upaya Penindakan Tegas TNI Terhadap OPM",
+        "category": "News",
+        "publish_time": "14 April 2024, 03:06",
+        "news_link": "https://news.republika.co.id/berita/sbw57o409/mpr-dukung-upaya-penindakan-tegas-tni-terhadap-opm"
+    },
+    {
+        "title": "Israel Setop Aktivitas Sekolah, Netanyahu 'Mengungsi' ke Bunker, Serangan Iran Kian Dekat",
+        "category": "Internasional",
+        "publish_time": "14 April 2024, 02:55",
+        "news_link": "https://internasional.republika.co.id/berita/sbwcog409/israel-setop-aktivitas-sekolah-netanyahu-mengungsi-ke-bunker-serangan-iran-kian-dekat"
+    },
+    {
+        "title": "Perempuan Gayo Aceh Dibina Kembangkan Produk Serat Nanas",
+        "category": "News",
+        "publish_time": "14 April 2024, 02:50",
+        "news_link": "https://news.republika.co.id/berita/sbw3yo457/perempuan-gayo-aceh-dibina-kembangkan-produk-serat-nanas"
+    },
+    {
+        "title": "BKKBN Tekankan Pentingnya Peran Ibu Bagi Keluarga",
+        "category": "Ameera",
+        "publish_time": "14 April 2024, 02:40",
+        "news_link": "https://ameera.republika.co.id/berita/sbw3n1457/bkkbn-tekankan-pentingnya-peran-ibu-bagi-keluarga"
+    },
+    {
+        "title": "Jadwal Olahraga Ahad: Jonatan Christie Berlaga di Final Kejuaraan Bulu Tangkis Asia",
+        "category": "Sport",
+        "publish_time": "14 April 2024, 02:36",
+        "news_link": "https://sport.republika.co.id/berita/sbw3ly409/jadwal-olahraga-ahad-jonatan-christie-berlaga-di-final-kejuaraan-bulu-tangkis-asia"
+    },
+    {
+        "title": "Jasa Raharja Gandeng Guru Bangun Kesadaran Siswa Jaga Keselamatan Berlalu Lintas",
+        "category": "Ekonomi",
+        "publish_time": "14 April 2024, 02:30",
+        "news_link": "https://ekonomi.republika.co.id/berita/sbw3gn457/jasa-raharja-gandeng-guru-bangun-kesadaran-siswa-jaga-keselamatan-berlalu-lintas"
+    },
+    {
+        "title": "Menperin: Potensi Besar Industri Halal Harus Kita Ambil",
+        "category": "Sharia",
+        "publish_time": "14 April 2024, 02:20",
+        "news_link": "https://sharia.republika.co.id/berita/sbw37n457/menperin-potensi-besar-industri-halal-harus-kita-ambil"
+    },
+    {
+        "title": "BKKBN Ingatkan Pentingnya Keluarga Turunkan Nilai Luhur Kepada Anak",
+        "category": "Ameera",
+        "publish_time": "14 April 2024, 02:10",
+        "news_link": "https://ameera.republika.co.id/berita/sbw2v0457/bkkbn-ingatkan-pentingnya-keluarga-turunkan-nilai-luhur-kepada-anak"
+    },
+    {
         "title": "Ini Antisipasi Polri Cegah Kecelakaan Saat Pemberlakuan Contraflow Arus Balik",
         "category": "News",
         "publish_time": "14 April 2024, 02:01",
@@ -250,53 +298,5 @@
         "category": "Ramadhan",
         "publish_time": "13 April 2024, 22:01",
         "news_link": "https://ramadhan.republika.co.id/berita/sbvz2w349/malam-ini-jalur-pantura-cirebon-mulai-dipadati-pemudik-arus-balik"
-    },
-    {
-        "title": "Police Strategy to Anticipate Accident in Dieng",
-        "category": "En",
-        "publish_time": "Saturday, 13 April 2024, 21:54",
-        "news_link": "https://en.republika.co.id/berita/sbvqg7451/police-strategy-to-anticipate-accident-in-dieng"
-    },
-    {
-        "title": "Menhub: Pembangunan Jalur Kereta Simpang Joglo Rampung pada September",
-        "category": "Ekonomi",
-        "publish_time": "13 April 2024, 21:50",
-        "news_link": "https://ekonomi.republika.co.id/berita/sbvykw490/menhub-pembangunan-jalur-kereta-simpang-joglo-rampung-pada-september"
-    },
-    {
-        "title": "Polri Prediksi Puncak Arus Balik Terjadi Besok atau Lusa",
-        "category": "Ramadhan",
-        "publish_time": "13 April 2024, 21:43",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbvy81349/polri-prediksi-puncak-arus-balik-terjadi-besok-atau-lusa"
-    },
-    {
-        "title": "Tingkat Kunjungan Wisatawan ke Candi Borobudur Tinggi",
-        "category": "News",
-        "publish_time": "13 April 2024, 21:43",
-        "news_link": "https://news.republika.co.id/berita/sbvvjq456/tingkat-kunjungan-wisatawan-ke-candi-borobudur-tinggi"
-    },
-    {
-        "title": "Pengendara Diimbau Kurangi Kecepatan di Area Longsor Tol Bocimi",
-        "category": "Ekonomi",
-        "publish_time": "13 April 2024, 21:40",
-        "news_link": "https://ekonomi.republika.co.id/berita/sbvy2p490/pengendara-diimbau-kurangi-kecepatan-di-area-longsor-tol-bocimi"
-    },
-    {
-        "title": "Objek Wisata Diserbu Pengunjung, Ini Arahan Pj Wali Kota Cirebon",
-        "category": "Ramadhan",
-        "publish_time": "13 April 2024, 21:35",
-        "news_link": "https://ramadhan.republika.co.id/berita/sbvxv8349/objek-wisata-diserbu-pengunjung-ini-arahan-pj-wali-kota-cirebon"
-    },
-    {
-        "title": "Misi Balas Dendam Iran Dimulai, Kapal Miliarder Israel Disita",
-        "category": "Internasional",
-        "publish_time": "13 April 2024, 21:32",
-        "news_link": "https://www.republika.id/posts/51998/misi-balas-dendam-iran-dimulai-kapal-miliarder-israel-disita"
-    },
-    {
-        "title": "WNI di Sydney Diimbau Waspada Menyusul Insiden Penikaman",
-        "category": "Internasional",
-        "publish_time": "13 April 2024, 21:29",
-        "news_link": "https://internasional.republika.co.id/berita/sbvxlv328/wni-di-sydney-diimbau-waspada-menyusul-insiden-penikaman"
     }
 ]
