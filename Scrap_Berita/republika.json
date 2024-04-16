@@ -1,158 +1,278 @@
 [
     {
+        "title": "Matahari Buatan Korea Selatan Pecahkan Rekor Reaktor Fusi",
+        "category": "Tekno",
+        "publish_time": "16-04-2024 08:09",
+        "news_link": "https://tekno.republika.co.id/berita/sc0zzx370/matahari-buatan-korea-selatan-pecahkan-rekor-reaktor-fusi"
+    },
+    {
+        "title": "Redakan Konflik Iran-Israel, Jokowi Minta Menlu Upayakan Diplomasi",
+        "category": "News",
+        "publish_time": "16-04-2024 08:07",
+        "news_link": "https://news.republika.co.id/berita/sc0zwz484/redakan-konflik-iranisrael-jokowi-minta-menlu-upayakan-diplomasi"
+    },
+    {
+        "title": "Simeone Waspadai Kekuatan Tuan Rumah Dortmund Jelang Leg Kedua Perempat Liga Champions",
+        "category": "Sport",
+        "publish_time": "16-04-2024 08:07",
+        "news_link": "https://sport.republika.co.id/berita/sc0zwu348/simeone-waspadai-kekuatan-tuan-rumah-dortmund-jelang-leg-kedua-perempat-liga-champions"
+    },
+    {
+        "title": "Penanggung Jawab Properti Senjata Film Rust Divonis 18 Bulan Atas Kematian Sinematografer",
+        "category": "Ameera",
+        "publish_time": "16-04-2024 08:07",
+        "news_link": "https://ameera.republika.co.id/berita/sc0zwq414/penanggung-jawab-properti-senjata-film-rust-divonis-18-bulan-atas-kematian-sinematografer"
+    },
+    {
+        "title": "Arus Balik Penumpang Bus AKAP di Terminal Kampung Rambutan Meningkat",
+        "category": "Visual",
+        "publish_time": "16-04-2024 08:06",
+        "news_link": "https://visual.republika.co.id/berita/sc0zuv375/arus-balik-penumpang-bus-akap-di-terminal-kampung-rambutan-meningkat"
+    },
+    {
+        "title": "Menkominfo: Starlink Siap Uji Coba di IKN Bulan Depan",
+        "category": "Tekno",
+        "publish_time": "16-04-2024 08:05",
+        "news_link": "https://tekno.republika.co.id/berita/sc0rq9488/menkominfo-starlink-siap-uji-coba-di-ikn-bulan-depan"
+    },
+    {
+        "title": "Menko Airlangga Bilang Harga Minyak Mentah Sudah di Atas Asumsi APBN",
+        "category": "Ekonomi",
+        "publish_time": "16-04-2024 08:02",
+        "news_link": "https://ekonomi.republika.co.id/berita/sc0zoe502/menko-airlangga-bilang-harga-minyak-mentah-sudah-di-atas-asumsi-apbn"
+    },
+    {
+        "title": "Petugas VAR yang Bantu Nasrullo Kabirov saat Pimpin Qatar Vs Indonesia Warga Thailand",
+        "category": "Sport",
+        "publish_time": "16-04-2024 08:00",
+        "news_link": "https://sport.republika.co.id/berita/sc0zlt456/petugas-var-yang-bantu-nasrullo-kabirov-saat-pimpin-qatar-vs-indonesia-warga-thailand"
+    },
+    {
+        "title": "PJ Gubernur Jatim Mengaku tak Tahu Bupati Sidoarjo Ditetapkan Tersangka Oleh KPK",
+        "category": "News",
+        "publish_time": "16-04-2024 07:55",
+        "news_link": "https://news.republika.co.id/berita/sc0w2r436/pj-gubernur-jatim-mengaku-tak-tahu-bupati-sidoarjo-ditetapkan-tersangka-oleh-kpk"
+    },
+    {
+        "title": "Leverkusen Pastikan akan Pertahankan Mantan Kapten Arsenal",
+        "category": "Sport",
+        "publish_time": "16-04-2024 07:51",
+        "news_link": "https://sport.republika.co.id/berita/sc0z6z456/leverkusen-pastikan-akan-pertahankan-mantan-kapten-arsenal"
+    },
+    {
+        "title": "Di balik Keinginan Gubernur Mengganti Nama Masjid Raya Sumbar",
+        "category": "Khazanah",
+        "publish_time": "16-04-2024 07:48",
+        "news_link": "https://khazanah.republika.co.id/berita/sc0z1j430/di-balik-keinginan-gubernur-mengganti-nama-masjid-raya-sumbar"
+    },
+    {
+        "title": "Vietnam Airlines Sesuaikan Jalur Penerbangan Melalui Timur Tengah",
+        "category": "Internasional",
+        "publish_time": "16-04-2024 07:48",
+        "news_link": "https://internasional.republika.co.id/berita/sc0z0w370/vietnam-airlines-sesuaikan-jalur-penerbangan-melalui-timur-tengah"
+    },
+    {
+        "title": "Polres Ponorogo Usut Balon Udara yang Jatuh di Persawahan",
+        "category": "Rejogja",
+        "publish_time": "16-04-2024 07:45",
+        "news_link": "https://rejogja.republika.co.id/berita/sc0yx4432/polres-ponorogo-usut-balon-udara-yang-jatuh-di-persawahan"
+    },
+    {
+        "title": "15 Perusahaan Terbaik di Indonesia versi LinkedIn, Lima Teratas BUMN",
+        "category": "Ekonomi",
+        "publish_time": "16-04-2024 07:45",
+        "news_link": "https://ekonomi.republika.co.id/berita/sc0ywg423/15-perusahaan-terbaik-di-indonesia-versi-linkedin-lima-teratas-bumn"
+    },
+    {
+        "title": "Pemprov Banten Perkuat Bangun Pendidikan dan Infrastruktur pada 2025",
+        "category": "News",
+        "publish_time": "16-04-2024 07:35",
+        "news_link": "https://news.republika.co.id/berita/sc0ygf423/pemprov-banten-perkuat-bangun-pendidikan-dan-infrastruktur-pada-2025"
+    },
+    {
+        "title": "Hujan Lebat dan Angin Kencang Siap Mengancam Sepekan ke Depan",
+        "category": "News",
+        "publish_time": "16-04-2024 07:24",
+        "news_link": "https://news.republika.co.id/berita/sc0rgn488/hujan-lebat-dan-angin-kencang-siap-mengancam-sepekan-ke-depan"
+    },
+    {
+        "title": "Polisi Evakuasi Mayat yang Terkubur di Lantai Rumah di Bandung Barat",
+        "category": "Rejabar",
+        "publish_time": "16-04-2024 07:21",
+        "news_link": "https://rejabar.republika.co.id/berita/sc0xru512/polisi-evakuasi-mayat-yang-terkubur-di-lantai-rumah-di-bandung-barat"
+    },
+    {
+        "title": "Mantan Kepala Rutan KPK yang Jadi di Kasus Pungli Ajukan Praperadilan",
+        "category": "News",
+        "publish_time": "16-04-2024 07:19",
+        "news_link": "https://news.republika.co.id/berita/sc0vxx436/mantan-kepala-rutan-kpk-yang-jadi-di-kasus-pungli-ajukan-praperadilan"
+    },
+    {
+        "title": "Giliran Akun IG Federasi Sepak Bola Tajikistan Diserbu Penggemar Garuda, Ada Apa?",
+        "category": "Sport",
+        "publish_time": "16-04-2024 07:19",
+        "news_link": "https://sport.republika.co.id/berita/sc0xom456/giliran-akun-ig-federasi-sepak-bola-tajikistan-diserbu-penggemar-garuda-ada-apa"
+    },
+    {
+        "title": "ASN Pemprov DKJ yang Bolos pada Hari Pertama Kerja akan Diberikan Sanksi",
+        "category": "Visual",
+        "publish_time": "16-04-2024 07:14",
+        "news_link": "https://visual.republika.co.id/berita/sc0tvd375/asn-pemprov-dkj-yang-bolos-pada-hari-pertama-kerja-akan-diberikan-sanksi"
+    },
+    {
         "title": "Shah Mohammed Reza Pahlavi dan Masa Ketika Iran Disetir Barat",
         "category": "Internasional",
         "publish_time": "16-04-2024 07:12",
         "news_link": "https://internasional.republika.co.id/berita/sc0xbh430/shah-mohammed-reza-pahlavi-dan-masa-ketika-iran-disetir-barat"
     },
     {
-        "title": "Pelaku Sakit Hati Ongkos Kerja Rp 300 Ribu Tak Dibayar Jadi Motif Pembunuhan di Bandung",
+        "title": "Pelaku Sakit Hati Ongkos Kerja Rp 300 Ribu tak Dibayar Jadi Motif Pembunuhan di Bandung",
         "category": "Rejabar",
-        "publish_time": "16-04-2024 07:11",
+        "publish_time": "16-04-2024 07:12",
         "news_link": "https://rejabar.republika.co.id/berita/sc0xah512/pelaku-sakit-hati-ongkos-kerja-rp-300-ribu-tak-dibayar-jadi-motif-pembunuhan-di-bandung"
     },
     {
         "title": "AHY: Fokus Badan Pertanahan Nasional Berantas Mafia",
         "category": "News",
-        "publish_time": "16-04-2024 07:10",
+        "publish_time": "16-04-2024 07:12",
         "news_link": "https://news.republika.co.id/berita/sc0x9j456/ahy-fokus-badan-pertanahan-nasional-berantas-mafia"
     },
     {
         "title": "Terungkap Motif Pembunuhan dengan Mayat Dikubur di Rumah di Bandung Barat, Ternyata...",
         "category": "News",
-        "publish_time": "16-04-2024 07:10",
+        "publish_time": "16-04-2024 07:12",
         "news_link": "https://news.republika.co.id/berita/sc0vqv436/terungkap-motif-pembunuhan-dengan-mayat-dikubur-di-rumah-di-bandung-barat-ternyata"
     },
     {
         "title": "Menperin: Currency Swap Jadi Opsi Jaga Ketahanan Manufaktur",
         "category": "Ekonomi",
-        "publish_time": "16-04-2024 07:09",
+        "publish_time": "16-04-2024 07:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sc0x70502/menperin-currency-swap-jadi-opsi-jaga-ketahanan-manufaktur"
     },
     {
         "title": "Jadi Tersangka KPK, Tim Pengacara Bupati Sidoarjo Bakal Lakukan Upaya Hukum",
         "category": "News",
-        "publish_time": "16-04-2024 07:01",
+        "publish_time": "16-04-2024 07:12",
         "news_link": "https://news.republika.co.id/berita/sc0u8t436/jadi-tersangka-kpk-tim-pengacara-bupati-sidoarjo-bakal-lakukan-upaya-hukum"
     },
     {
         "title": "Jasa Marga: 162 Ribu Kendaraan Kembali ke Jabodetabek dari Arah Timur",
         "category": "News",
-        "publish_time": "16-04-2024 07:00",
+        "publish_time": "16-04-2024 07:12",
         "news_link": "https://news.republika.co.id/berita/sc0wt0502/jasa-marga-162-ribu-kendaraan-kembali-ke-jabodetabek-dari-arah-timur"
     },
     {
         "title": "Temuan Mayat Terkubur di Rumah di Bandung Barat, Pelaku Ingin Hilangkan Jejak",
         "category": "Rejabar",
-        "publish_time": "16-04-2024 06:59",
+        "publish_time": "16-04-2024 07:12",
         "news_link": "https://rejabar.republika.co.id/berita/sc0wq7512/temuan-mayat-terkubur-di-rumah-di-bandung-barat-pelaku-ingin-hilangkan-jejak"
     },
     {
         "title": "Pj Heru Budi Bilang tak Ada WFH, Ini Klarifikasi BKD DKI Jakarta",
         "category": "News",
-        "publish_time": "16-04-2024 06:51",
+        "publish_time": "16-04-2024 07:12",
         "news_link": "https://news.republika.co.id/berita/sc0vdu436/pj-heru-budi-bilang-tak-ada-wfh-ini-klarifikasi-bkd-dki-jakarta"
     },
     {
         "title": "BI Pastikan Stabilisasi Nilai Tukar Rupiah di Tengah Konflik Global",
         "category": "Ekonomi",
-        "publish_time": "16-04-2024 06:43",
+        "publish_time": "16-04-2024 07:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sc0w10423/bi-pastikan-stabilisasi-nilai-tukar-rupiah-di-tengah-konflik-global"
     },
     {
         "title": "Kreator Tokyo Revengers Buat Manga Baru, Malah Banjir Hujatan",
         "category": "Network",
-        "publish_time": "16-04-2024 06:42",
+        "publish_time": "16-04-2024 06:12",
         "news_link": "https://jedadulu.com/posts/301586/kreator-tokyo-revengers-buat-manga-baru-malah-banjir-hujatan"
     },
     {
         "title": "4 Hero Fighter MLBB Terlemah, Hanya Orang Tertentu yang Bisa Menggunakannya!",
         "category": "Network",
-        "publish_time": "16-04-2024 06:42",
+        "publish_time": "16-04-2024 06:12",
         "news_link": "https://foreveresports.id/posts/301608/4-hero-fighter-mlbb-terlemah-hanya-orang-tertentu-yang-bisa-menggunakannya-"
     },
     {
         "title": "Rupiah Terancam Terus Melemah, Gubernur BI: BI Selalu Berada di Pasar",
         "category": "Ekonomi",
-        "publish_time": "16-04-2024 06:42",
+        "publish_time": "16-04-2024 06:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sc0vyj502/rupiah-terancam-terus-melemah-gubernur-bi-bi-selalu-berada-di-pasar"
     },
     {
         "title": "Justin Hubner dan Ribuan Orang Ucapkan Selamat Qatar 'Pasti' Juara Piala Asia U-23",
         "category": "Sport",
-        "publish_time": "16-04-2024 06:41",
+        "publish_time": "16-04-2024 06:12",
         "news_link": "https://sport.republika.co.id/berita/sc0vwl456/justin-hubner-dan-ribuan-orang-ucapkan-selamat-qatar-pasti-juara-piala-asia-u23"
     },
     {
         "title": "Soal PPP Gabung Koalisi Prabowo-Gibran, Airlangga: Nanti Dibahas",
         "category": "Pemilu Kita",
-        "publish_time": "16-04-2024 06:39",
+        "publish_time": "16-04-2024 06:12",
         "news_link": "https://pemilukita.republika.co.id/berita/sc0u1b436/soal-ppp-gabung-koalisi-prabowogibran-airlangga-nanti-dibahas"
     },
     {
         "title": "Airlangga: Konflik Iran-Israel Picu Lonjakan Harga Minyak",
         "category": "Ekonomi",
-        "publish_time": "16-04-2024 06:35",
+        "publish_time": "16-04-2024 06:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sc0vnl502/airlangga-konflik-iranisrael-picu-lonjakan-harga-minyak"
     },
     {
-        "title": "Presiden Korsel akan Sampaikan Pernyataan Publik Usai Kalah Pemilu",
+        "title": "Presiden Korsel akan Sampaikan Pernyataan Publik Seusai Kalah Pemilu",
         "category": "Internasional",
-        "publish_time": "16-04-2024 06:35",
-        "news_link": "https://internasional.republika.co.id/berita/sc0ldn488/presiden-korsel-akan-sampaikan-pernyataan-publik-usai-kalah-pemilu"
+        "publish_time": "16-04-2024 06:12",
+        "news_link": "https://internasional.republika.co.id/berita/sc0ldn488/presiden-korsel-akan-sampaikan-pernyataan-publik-seusai-kalah-pemilu"
     },
     {
         "title": "Temuan Mayat Terkubur di Rumah di Bandung Barat, Polisi Berhasil Tangkap Pelaku",
         "category": "Rejabar",
-        "publish_time": "16-04-2024 06:30",
+        "publish_time": "16-04-2024 06:12",
         "news_link": "https://rejabar.republika.co.id/berita/sc0pya430/temuan-mayat-terkubur-di-rumah-di-bandung-barat-polisi-berhasil-tangkap-pelaku"
     },
     {
         "title": "PDIP Dukung PPP Lakukan Komunikasi Politik dengan Parpol Lain",
         "category": "News",
-        "publish_time": "16-04-2024 06:29",
+        "publish_time": "16-04-2024 06:12",
         "news_link": "https://news.republika.co.id/berita/sc0tv8436/pdip-dukung-ppp-lakukan-komunikasi-politik-dengan-parpol-lain"
     },
     {
         "title": "Gambaran Nabi Muhammad SAW dalam Perang: Sosok tidak Kenal Takut",
         "category": "Islam Digest",
-        "publish_time": "16-04-2024 06:26",
+        "publish_time": "16-04-2024 06:12",
         "news_link": "https://islamdigest.republika.co.id/berita/sc0v79366/gambaran-nabi-muhammad-saw-dalam-perang-sosok-tidak-kenal-takut"
     },
     {
         "title": "Kemen ESDM Soroti Pengaruh Selat Hormuz pada Stabilitas Harga Minyak",
         "category": "Ekonomi",
-        "publish_time": "16-04-2024 06:25",
+        "publish_time": "16-04-2024 06:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sc0v6n502/kemen-esdm-soroti-pengaruh-selat-hormuz-pada-stabilitas-harga-minyak"
     },
     {
         "title": "Presiden Jokowi Kumpulkan Menteri Bahas Konflik Iran-Israel",
         "category": "Internasional",
-        "publish_time": "16-04-2024 06:24",
+        "publish_time": "16-04-2024 06:12",
         "news_link": "https://internasional.republika.co.id/berita/sc0v46436/presiden-jokowi-kumpulkan-menteri-bahas-konflik-iranisrael"
     },
     {
         "title": "Produk Kopi Indonesia Dominasi Pasar Mesir dengan Nilai Rp 1,4 Triliun",
         "category": "Sharia",
-        "publish_time": "16-04-2024 06:22",
+        "publish_time": "16-04-2024 06:12",
         "news_link": "https://sharia.republika.co.id/berita/sc0v0v502/produk-kopi-indonesia-dominasi-pasar-mesir-dengan-nilai-rp-14-triliun"
     },
     {
         "title": "Rumah Sakit Al-Amal di Gaza Kembali Beroperasi",
         "category": "Internasional",
-        "publish_time": "16-04-2024 06:20",
+        "publish_time": "16-04-2024 06:12",
         "news_link": "https://internasional.republika.co.id/berita/sc0lz0488/rumah-sakit-alamal-di-gaza-kembali-beroperasi"
     },
     {
         "title": "Airlangga: Presiden Siapkan Langkah Terkait Konflik Timur Tengah",
         "category": "News",
-        "publish_time": "16-04-2024 06:15",
+        "publish_time": "16-04-2024 06:12",
         "news_link": "https://news.republika.co.id/berita/sc0te0436/airlangga-presiden-siapkan-langkah-terkait-konflik-timur-tengah"
     },
     {
         "title": "Pelajar di Jayapura Kembali Memulai Aktivitas Belajar Pasca Libur Lebaran",
         "category": "Visual",
-        "publish_time": "16-04-2024 06:15",
+        "publish_time": "16-04-2024 06:12",
         "news_link": "https://visual.republika.co.id/berita/sc0tls375/pelajar-di-jayapura-kembali-memulai-aktivitas-belajar-pasca-libur-lebaran"
     },
     {
@@ -178,125 +298,5 @@
         "category": "Rejogja",
         "publish_time": "16-04-2024 06:12",
         "news_link": "https://rejogja.republika.co.id/berita/sc0udp432/jadi-tersangka-kasus-dugaan-korupsi-bupati-sidoarjo-muhdlor-ali-minta-didoakan"
-    },
-    {
-        "title": "Survei BI: Keyakinan Konsumen Terhadap Kondisi Ekonomi Meningkat",
-        "category": "Ekonomi",
-        "publish_time": "16-04-2024 06:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sc0u4b349/survei-bi-keyakinan-konsumen-terhadap-kondisi-ekonomi-meningkat"
-    },
-    {
-        "title": "Jutaan Akun Warganet Indonesia 'Bertamu' ke Instagram Wasit Nasrullo Kabirov",
-        "category": "Sport",
-        "publish_time": "16-04-2024 06:12",
-        "news_link": "https://sport.republika.co.id/berita/sc0u0b456/jutaan-akun-warganet-indonesia-bertamu-ke-instagram-wasit-nasrullo-kabirov"
-    },
-    {
-        "title": "Penyuluh Agama dan Penghulu Diminta Dukung Empat Program Prioritas",
-        "category": "Ihram",
-        "publish_time": "16-04-2024 06:12",
-        "news_link": "https://ihram.republika.co.id/berita/sc0per430/penyuluh-agama-dan-penghulu-diminta-dukung-empat-program-prioritas"
-    },
-    {
-        "title": "Menko: Fundamental Ekonomi RI Cukup Kuat Redam Dampak Konflik Timteng",
-        "category": "Ekonomi",
-        "publish_time": "16-04-2024 06:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sc0tyx502/menko-fundamental-ekonomi-ri-cukup-kuat-redam-dampak-konflik-timteng"
-    },
-    {
-        "title": "Heru Tegaskan tak Ada WFH Bagi ASN Pemprov DKI Jakarta",
-        "category": "News",
-        "publish_time": "16-04-2024 06:12",
-        "news_link": "https://news.republika.co.id/berita/sc0twn366/heru-tegaskan-tak-ada-wfh-bagi-asn-pemprov-dki-jakarta"
-    },
-    {
-        "title": "Minta Jajarannya Sidak ASN yang belum Masuk, Pj Heru: DKI Jakarta tidak Ada WFH",
-        "category": "News",
-        "publish_time": "16-04-2024 06:12",
-        "news_link": "https://news.republika.co.id/berita/sc0ttf349/minta-jajarannya-sidak-asn-yang-belum-masuk-pj-heru-dki-jakarta-tidak-ada-wfh"
-    },
-    {
-        "title": "Standar Ganda, Dubes Israel Sebut Serangan Iran Ancaman Perdamaian",
-        "category": "Internasional",
-        "publish_time": "16-04-2024 06:12",
-        "news_link": "https://internasional.republika.co.id/berita/sc0g84488/standar-ganda-dubes-israel-sebut-serangan-iran-ancaman-perdamaian"
-    },
-    {
-        "title": "Sadis! Bripda OB Ditemukan Meninggal dengan Luka Tusuk di Sekujur Tubuh di Papua",
-        "category": "News",
-        "publish_time": "16-04-2024 06:12",
-        "news_link": "https://news.republika.co.id/berita/sc0swc436/sadis-bripda-ob-ditemukan-meninggal-dengan-luka-tusuk-di-sekujur-tubuh-di-papua"
-    },
-    {
-        "title": "Israel Masih Pikir-pikir untuk Balas Serangan Iran",
-        "category": "Internasional",
-        "publish_time": "16-04-2024 06:12",
-        "news_link": "https://internasional.republika.co.id/berita/sc0lis488/israel-masih-pikirpikir-untuk-balas-serangan-iran"
-    },
-    {
-        "title": "Puncak Arus Balik, Penumpang Bandara AP II Tembus 309 Ribu Orang",
-        "category": "Ekonomi",
-        "publish_time": "16-04-2024 06:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sc0tnt502/puncak-arus-balik-penumpang-bandara-ap-ii-tembus-309-ribu-orang"
-    },
-    {
-        "title": "Megawati Ajukan Diri sebagai Amicus Curiae: Palu MK Merupakan Palu Emas",
-        "category": "Pemilu Kita",
-        "publish_time": "16-04-2024 06:12",
-        "news_link": "https://pemilukita.republika.co.id/berita/sc0tm8436/megawati-ajukan-diri-sebagai-amicus-curiae-palu-mk-merupakan-palu-emas"
-    },
-    {
-        "title": "Halal Bihalal ASN Pemkot Bandung di Hari Pertama Kerja",
-        "category": "Rejabar",
-        "publish_time": "16-04-2024 06:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sc0tis375/halal-bihalal-asn-pemkot-bandung-di-hari-pertama-kerja"
-    },
-    {
-        "title": "Cuaca Ekstrem di Jateng Masih akan Berlangsung Hingga 18 April",
-        "category": "News",
-        "publish_time": "16-04-2024 06:12",
-        "news_link": "https://news.republika.co.id/berita/sc0tj7366/cuaca-ekstrem-di-jateng-masih-akan-berlangsung-hingga-18-april"
-    },
-    {
-        "title": "Disdukcapil Bandung Lakukan Operasi Adminduk di Terminal Cicaheum",
-        "category": "Visual",
-        "publish_time": "16-04-2024 06:12",
-        "news_link": "https://visual.republika.co.id/berita/sc0sr8375/disdukcapil-bandung-lakukan-operasi-adminduk-di-terminal-cicaheum"
-    },
-    {
-        "title": "Serangkaian Serangan Israel ke Iran, dari Bom Hingga Virus",
-        "category": "Internasional",
-        "publish_time": "16-04-2024 06:12",
-        "news_link": "https://internasional.republika.co.id/berita/sc0t7h472/serangkaian-serangan-israel-ke-iran-dari-bom-hingga-virus"
-    },
-    {
-        "title": "Berstatus Tersangka Korupsi, Bupati Sidoarjo Dicegah Keluar Negeri",
-        "category": "News",
-        "publish_time": "16-04-2024 05:12",
-        "news_link": "https://news.republika.co.id/berita/sc0snt436/berstatus-tersangka-korupsi-bupati-sidoarjo-dicegah-keluar-negeri"
-    },
-    {
-        "title": "Menteri PUPR: Progres Rumah Menteri di IKN Capai 80 Persen",
-        "category": "Ekonomi",
-        "publish_time": "16-04-2024 05:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sc0t2d502/menteri-pupr-progres-rumah-menteri-di-ikn-capai-80-persen"
-    },
-    {
-        "title": "Bawaslu RI Sebut Kemungkinan Pindah ke IKN pada 2029",
-        "category": "News",
-        "publish_time": "16-04-2024 05:12",
-        "news_link": "https://news.republika.co.id/berita/sc0t04349/bawaslu-ri-sebut-kemungkinan-pindah-ke-ikn-pada-2029"
-    },
-    {
-        "title": "UNY Buka Delapan Jalur Mandiri 2024, Ini Jadwal Lengkap Semua Jalur S1 dan D4",
-        "category": "Network",
-        "publish_time": "16-04-2024 05:12",
-        "news_link": "https://kampus.republika.co.id/info-kampus/1624544926/uny-buka-delapan-jalur-mandiri-2024-ini-jadwal-lengkap-semua-jalur-s1-dan-d4"
-    },
-    {
-        "title": "Ekonom: Optimalisasi SRBI dan SVBI Redam Volatilitas Rupiah",
-        "category": "Ekonomi",
-        "publish_time": "16-04-2024 05:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sc0sum502/ekonom-optimalisasi-srbi-dan-svbi-redam-volatilitas-rupiah"
     }
 ]
