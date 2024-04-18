@@ -1,26 +1,56 @@
 [
     {
-        "title": "Pengumuman Tender Umum (E-tendering) Angkasa Pura II",
-        "category": "Native",
-        "publish_time": "18 April 2024, 01:00",
-        "news_link": "https://www.republika.co.id/berita/sc31zw325/pengumuman-tender-umum-e-tendering-angkasa-pura-ii"
+        "title": "Naskah Khutbah Jumat: Janji, Ringan Diucapkan Berat Ditunaikan",
+        "category": "Iqra",
+        "publish_time": "18-04-2024 22:05",
+        "news_link": "https://iqra.republika.co.id/berita/sc5bez366/naskah-khutbah-jumat-janji-ringan-diucapkan-berat-ditunaikan"
+    },
+    {
+        "title": "Dokter Ingatkan Jangan Sering Sentuh Struk Belanja, Ternyata Ini Alasannya",
+        "category": "Ameera",
+        "publish_time": "18-04-2024 22:01",
+        "news_link": "https://ameera.republika.co.id/berita/sc58t2414/dokter-ingatkan-jangan-sering-sentuh-struk-belanja-ternyata-ini-alasannya"
+    },
+    {
+        "title": "Setelah 10 Tahun, Kim Soo-hyun akan Isi OST Dramanya Sendiri \"Queen of Tears\"",
+        "category": "Network",
+        "publish_time": "18-04-2024 21:57",
+        "news_link": "https://asiastar.id/posts/302258/setelah-10-tahun-kim-soo-hyun-akan-isi-ost-dramanya-sendiri-queen-of-tears-"
+    },
+    {
+        "title": "Tuntunan Bagi Orang yang Punya Banyak Istri tapi Hendak Berhaji",
+        "category": "Ihram",
+        "publish_time": "18-04-2024 21:45",
+        "news_link": "https://ihram.republika.co.id/berita/sc5dwp366/tuntunan-bagi-orang-yang-punya-banyak-istri-tapi-hendak-berhaji"
+    },
+    {
+        "title": "Cara Sembuhkan Anak Sakit Berdasarkan Ajaran Nabi Muhammad",
+        "category": "Islam Digest",
+        "publish_time": "18-04-2024 21:25",
+        "news_link": "https://islamdigest.republika.co.id/berita/sc50de366/cara-sembuhkan-anak-sakit-berdasarkan-ajaran-nabi-muhammad"
+    },
+    {
+        "title": "OJK Catat Penyaluran Kredit di Sumbagsel Capai Rp 278,29 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "18-04-2024 21:22",
+        "news_link": "https://ekonomi.republika.co.id/berita/sc5cd3423/ojk-catat-penyaluran-kredit-di-sumbagsel-capai-rp-27829-triliun"
     },
     {
         "title": "Sendi Puji Capaian Bima Arya Selama Memimpin Kota Bogor",
         "category": "News",
-        "publish_time": "18-04-2024 20:55",
+        "publish_time": "18-04-2024 21:09",
         "news_link": "https://news.republika.co.id/berita/sc5hzq318/sendi-puji-capaian-bima-arya-selama-memimpin-kota-bogor"
     },
     {
         "title": "Waspada Kejahatan Digital Modus Impersonation, Salah Satunya Melalui Telegram",
         "category": "Ekonomi",
-        "publish_time": "18-04-2024 20:50",
+        "publish_time": "18-04-2024 21:09",
         "news_link": "https://ekonomi.republika.co.id/berita/sc4u3i502/waspada-kejahatan-digital-modus-impersonation-salah-satunya-melalui-telegram"
     },
     {
         "title": "ASEAN Desak Penghentian Kekerasan Terkait Konflik di Myanmar",
         "category": "Internasional",
-        "publish_time": "18-04-2024 20:28",
+        "publish_time": "18-04-2024 20:09",
         "news_link": "https://internasional.republika.co.id/berita/sc5ck0423/asean-desak-penghentian-kekerasan-terkait-konflik-di-myanmar"
     },
     {
@@ -86,7 +116,7 @@
     {
         "title": "Jokowi Asks China to Invest in IKN",
         "category": "En",
-        "publish_time": "4 hours ago",
+        "publish_time": "5 hours ago",
         "news_link": "https://en.republika.co.id/berita/sc4zs0451/jokowi-asks-china-to-invest-in-ikn"
     },
     {
@@ -110,7 +140,7 @@
     {
         "title": "31,448 People Visit Various Tourist Objects in Garut West Java",
         "category": "En",
-        "publish_time": "4 hours ago",
+        "publish_time": "5 hours ago",
         "news_link": "https://en.republika.co.id/berita/sc4zo7451/31448-people-visit-various-tourist-objects-in-garut-west-java"
     },
     {
@@ -146,7 +176,7 @@
     {
         "title": "Jakarta Government Expects TransJakarta Kalideres-Airport Temporary Fare IDR 3,500",
         "category": "En",
-        "publish_time": "4 hours ago",
+        "publish_time": "5 hours ago",
         "news_link": "https://en.republika.co.id/berita/sc4ziv451/jakarta-government-expects-transjakarta-kalideresairport-temporary-fare-idr-3500"
     },
     {
@@ -268,41 +298,5 @@
         "category": "News",
         "publish_time": "18-04-2024 16:09",
         "news_link": "https://news.republika.co.id/berita/sc5bo5377/pdip-syaratkan-kader-yang-ingin-maju-jadi-kepala-daerah-tak-boleh-bohong"
-    },
-    {
-        "title": "Grebek Dua Markas Geng Motor di Indramayu, Polisi Amankan 16 Orang",
-        "category": "News",
-        "publish_time": "18-04-2024 16:09",
-        "news_link": "https://news.republika.co.id/berita/sc5bn5423/grebek-dua-markas-geng-motor-di-indramayu-polisi-amankan-16-orang"
-    },
-    {
-        "title": "AHY: Kepastian Hukum atas Tanah Dorong Investasi",
-        "category": "News",
-        "publish_time": "18-04-2024 16:09",
-        "news_link": "https://news.republika.co.id/berita/sc5bmn349/ahy-kepastian-hukum-atas-tanah-dorong-investasi"
-    },
-    {
-        "title": "PUPR: Istana Negara dan Kantor Presiden di IKN Beroperasi Fungsional Mulai Juli",
-        "category": "Ekonomi",
-        "publish_time": "18-04-2024 16:09",
-        "news_link": "https://ekonomi.republika.co.id/berita/sc5blt490/pupr-istana-negara-dan-kantor-presiden-di-ikn-beroperasi-fungsional-mulai-juli"
-    },
-    {
-        "title": "6.807 Pemudik Kembali ke Pulau Jawa Lewat Pelabuhan Ciwandan",
-        "category": "Ramadhan",
-        "publish_time": "18-04-2024 16:09",
-        "news_link": "https://ramadhan.republika.co.id/berita/sc5bi3425/6807-pemudik-kembali-ke-pulau-jawa-lewat-pelabuhan-ciwandan"
-    },
-    {
-        "title": "35 Tahun Beroperasi, BRI Insurance Berkomitmen Tingkatkan Kinerja",
-        "category": "Ekonomi",
-        "publish_time": "18-04-2024 16:09",
-        "news_link": "https://ekonomi.republika.co.id/berita/sc5bhf370/35-tahun-beroperasi-bri-insurance-berkomitmen-tingkatkan-kinerja"
-    },
-    {
-        "title": "Hadapi Ketidakpastian, Hippindo Fokus Tumbuhkan Perdagangan Dalam Negeri",
-        "category": "Ekonomi",
-        "publish_time": "18-04-2024 16:09",
-        "news_link": "https://ekonomi.republika.co.id/berita/sc5beg490/hadapi-ketidakpastian-hippindo-fokus-tumbuhkan-perdagangan-dalam-negeri"
     }
 ]
