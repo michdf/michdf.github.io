@@ -1,5 +1,179 @@
 [
     {
+        "title": "KAI Bandung Nyatakan Perjalanan KA Periode Milir-Mudik Berjalan Lancar",
+        "category": "Ekonomi",
+        "publish_time": "19-04-2024 13:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/sc6xy6502/kai-bandung-nyatakan-perjalanan-ka-periode-milirmudik-berjalan-lancar"
+    },
+    {
+        "title": "Bertemu Tony Blair, Airlangga Mengaku Bahas Digitalisasi dan Cyber Security",
+        "category": "Ekonomi",
+        "publish_time": "19-04-2024 13:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/sc6xy2436/bertemu-tony-blair-airlangga-mengaku-bahas-digitalisasi-dan-cyber-security"
+    },
+    {
+        "title": "IMF Nilai Vietnam Punya Banyak Peluang Ekonomi dari Digitalisasi",
+        "category": "Ekonomi",
+        "publish_time": "19-04-2024 13:07",
+        "news_link": "https://ekonomi.republika.co.id/berita/sc6xsl502/imf-nilai-vietnam-punya-banyak-peluang-ekonomi-dari-digitalisasi"
+    },
+    {
+        "title": "Pengumpulan Zakat Lewat Tokopedia Capai Rp 7,8 Miliar Sepanjang Ramadhan Lalu",
+        "category": "Sharia",
+        "publish_time": "19-04-2024 13:02",
+        "news_link": "https://sharia.republika.co.id/berita/sc6xl4502/pengumpulan-zakat-lewat-tokopedia-capai-rp-78-miliar-sepanjang-ramadhan-lalu"
+    },
+    {
+        "title": "Polisi Ungkap Penyebab Kebakaran Ruko Mampang Tewaskan 7 Orang",
+        "category": "News",
+        "publish_time": "19-04-2024 13:02",
+        "news_link": "https://news.republika.co.id/berita/sc6xk7484/polisi-ungkap-penyebab-kebakaran-ruko-mampang-tewaskan-7-orang"
+    },
+    {
+        "title": "Pendeta Gilbert Harus Tahu: Duduk Tasyahud Sangat Bermanfaat Secara Medis",
+        "category": "Network",
+        "publish_time": "19-04-2024 13:02",
+        "news_link": "https://diagnosa.id/posts/302476/pendeta-gilbert-harus-tahu-duduk-tasyahud-sangat-bermanfaat-secara-medis"
+    },
+    {
+        "title": "Terduga Penipuan Catering yang Catut Nama Masjid Raya Sheikh Zayed Ternyata Menantu Korban",
+        "category": "News",
+        "publish_time": "19-04-2024 13:00",
+        "news_link": "https://news.republika.co.id/berita/sc6xhd436/terduga-penipuan-catering-yang-catut-nama-masjid-raya-sheikh-zayed-ternyata-menantu-korban"
+    },
+    {
+        "title": "Kemenag Sulut Galang Dana Ringankan Beban Korban Gunung Ruang",
+        "category": "Khazanah",
+        "publish_time": "19-04-2024 12:59",
+        "news_link": "https://khazanah.republika.co.id/berita/sc6gng451/kemenag-sulut-galang-dana-ringankan-beban-korban-gunung-ruang"
+    },
+    {
+        "title": "Dua Warga Solok Terluka Akibat Diserang Beruang Madu",
+        "category": "News",
+        "publish_time": "19-04-2024 12:57",
+        "news_link": "https://news.republika.co.id/berita/sc6xcc366/dua-warga-solok-terluka-akibat-diserang-beruang-madu"
+    },
+    {
+        "title": "Anak Komedian Isa Bajaj Diduga Jadi Korban Kekerasan: Pulang Nangis, Kemaluannya Berdarah",
+        "category": "Ameera",
+        "publish_time": "19-04-2024 12:54",
+        "news_link": "https://ameera.republika.co.id/berita/sc6x6o425/anak-komedian-isa-bajaj-diduga-jadi-korban-kekerasan-pulang-nangis-kemaluannya-berdarah"
+    },
+    {
+        "title": "38 Rumah di Sukamakmur Bogor Rusak Diterjang Angin Kencang",
+        "category": "News",
+        "publish_time": "19-04-2024 12:51",
+        "news_link": "https://news.republika.co.id/berita/sc6x2d366/38-rumah-di-sukamakmur-bogor-rusak-diterjang-angin-kencang"
+    },
+    {
+        "title": "Saling Serang Iran-Israel, Bank Mandiri Jaga Likuiditas",
+        "category": "Ekonomi",
+        "publish_time": "19-04-2024 12:48",
+        "news_link": "https://ekonomi.republika.co.id/berita/sc6wxc490/saling-serang-iranisrael-bank-mandiri-jaga-likuiditas"
+    },
+    {
+        "title": "Kondisi Geopolitik Memanas, Pertamina Hitung Cermat Risiko Kenaikan Biaya",
+        "category": "Ekonomi",
+        "publish_time": "19-04-2024 12:44",
+        "news_link": "https://ekonomi.republika.co.id/berita/sc6wpj490/kondisi-geopolitik-memanas-pertamina-hitung-cermat-risiko-kenaikan-biaya"
+    },
+    {
+        "title": "Tokopedia Dorong Peningkatan Bisnis Ramah Lingkungan",
+        "category": "Esgnow",
+        "publish_time": "19-04-2024 12:43",
+        "news_link": "https://esgnow.republika.co.id/berita/sc6woo457/tokopedia-dorong-peningkatan-bisnis-ramah-lingkungan"
+    },
+    {
+        "title": "Anak Enam Tahun Tenggelam di Kolam Renang di Bekasi",
+        "category": "Rejakarta",
+        "publish_time": "19-04-2024 12:41",
+        "news_link": "https://republika.co.id/berita/sc6wil430/anak-enam-tahun-tenggelam-di-kolam-renang-di-bekasi"
+    },
+    {
+        "title": "Kericuhan Sempat Warnai Aksi Demo di Patung Kuda",
+        "category": "Video",
+        "publish_time": "19-04-2024 12:40",
+        "news_link": "https://tv.republika.co.id/berita/sc6wiy467/kericuhan-sempat-warnai-aksi-demo-di-patung-kuda"
+    },
+    {
+        "title": "BIJB Kertajati Catat Jumlah Penumpang Angkutan Lebaran Lampaui Target",
+        "category": "Ekonomi",
+        "publish_time": "19-04-2024 12:38",
+        "news_link": "https://ekonomi.republika.co.id/berita/sc6wg6457/bijb-kertajati-catat-jumlah-penumpang-angkutan-lebaran-lampaui-target"
+    },
+    {
+        "title": "Bikin Berat Rupiah, Aliran Modal Asing Kabur Rp 21,46 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "19-04-2024 12:37",
+        "news_link": "https://ekonomi.republika.co.id/berita/sc6wey490/bikin-berat-rupiah-aliran-modal-asing-kabur-rp-2146-triliun"
+    },
+    {
+        "title": "Interaksi Terakhir Pengasuh dan Panda Fu Bao Bikin Warganet Emosional dan Menangis",
+        "category": "Ameera",
+        "publish_time": "19-04-2024 12:37",
+        "news_link": "https://ameera.republika.co.id/berita/sc6wel425/interaksi-terakhir-pengasuh-dan-panda-fu-bao-bikin-warganet-emosional-dan-menangis"
+    },
+    {
+        "title": "'Banjir' Amicus Curiae di MK, Guru Besar Unpad: Karena Rasa Keadilan Masyarakat Terusik",
+        "category": "News",
+        "publish_time": "19-04-2024 12:36",
+        "news_link": "https://news.republika.co.id/berita/sc6wdc409/banjir-amicus-curiae-di-mk-guru-besar-unpad-karena-rasa-keadilan-masyarakat-terusik"
+    },
+    {
+        "title": "Koalisi Musisi untuk Gaza Gelar Aksi Didepan Kedubes AS",
+        "category": "Visual",
+        "publish_time": "19-04-2024 12:34",
+        "news_link": "https://visual.republika.co.id/berita/sc6vir491/koalisi-musisi-untuk-gaza-gelar-aksi-didepan-kedubes-as"
+    },
+    {
+        "title": "Bank Mandiri Resmi Umumkan Tim Proliga 2024 Putri, Jakarta Livin' Mandiri (JLM)",
+        "category": "Sport",
+        "publish_time": "19-04-2024 12:33",
+        "news_link": "https://sport.republika.co.id/berita/sc6w7d423/bank-mandiri-resmi-umumkan-tim-proliga-2024-putri-jakarta-livin-mandiri-jlm"
+    },
+    {
+        "title": "Bank Diminta Miliki Kebijakan Kesejahteraan Hewan",
+        "category": "Esgnow",
+        "publish_time": "19-04-2024 12:31",
+        "news_link": "https://esgnow.republika.co.id/berita/sc6w3w457/bank-diminta-miliki-kebijakan-kesejahteraan-hewan"
+    },
+    {
+        "title": "Perdana Hadir di Jakarta, Pokemon Playlab Targetkan 1 Juta Pengunjung",
+        "category": "Ameera",
+        "publish_time": "19-04-2024 12:29",
+        "news_link": "https://ameera.republika.co.id/berita/sc6uuw414/perdana-hadir-di-jakarta-pokemon-playlab-targetkan-1-juta-pengunjung"
+    },
+    {
+        "title": "Australia Desak Warganya Segera Tinggalkan Israel",
+        "category": "Internasional",
+        "publish_time": "19-04-2024 12:24",
+        "news_link": "https://internasional.republika.co.id/berita/sc6vt1366/australia-desak-warganya-segera-tinggalkan-israel"
+    },
+    {
+        "title": "Lebih dari Sejuta Penumpang Datang dan Berangkat dari Bandara Bali Selama Lebaran",
+        "category": "Ekonomi",
+        "publish_time": "19-04-2024 12:23",
+        "news_link": "https://ekonomi.republika.co.id/berita/sc6vrb457/lebih-dari-sejuta-penumpang-datang-dan-berangkat-dari-bandara-bali-selama-lebaran"
+    },
+    {
+        "title": "Bupati Purbalingga Serahkan Bantuan untuk Keluarga Terdampak Longsor di Kaliori",
+        "category": "Rejogja",
+        "publish_time": "19-04-2024 12:22",
+        "news_link": "https://rejogja.republika.co.id/berita/sc6vp1432/bupati-purbalingga-serahkan-bantuan-untuk-keluarga-terdampak-longsor-di-kaliori"
+    },
+    {
+        "title": "Dituding Hasto Sering Bohong, Gibran: Bahasanya Meresahkan",
+        "category": "News",
+        "publish_time": "19-04-2024 12:21",
+        "news_link": "https://news.republika.co.id/berita/sc6vot484/dituding-hasto-sering-bohong-gibran-bahasanya-meresahkan"
+    },
+    {
+        "title": "Keberangkatan 389 Calon Jamaah Haji Aceh Besar Dibagi Dua Kloter",
+        "category": "Ihram",
+        "publish_time": "19-04-2024 12:19",
+        "news_link": "https://ihram.republika.co.id/berita/sc6vl7366/keberangkatan-389-calon-jamaah-haji-aceh-besar-dibagi-dua-kloter"
+    },
+    {
         "title": "Tokopedia Catat Penghimpunan Zakat dan Donasi Capai Rp 7,8 Miliar",
         "category": "Sharia",
         "publish_time": "19-04-2024 12:17",
@@ -8,295 +182,121 @@
     {
         "title": "Jamaah Haji Embarkasi Banjarmasin Mulai Berangkat 12 Mei 2024",
         "category": "Ihram",
-        "publish_time": "19-04-2024 12:10",
+        "publish_time": "19-04-2024 12:11",
         "news_link": "https://ihram.republika.co.id/berita/sc6v48366/jamaah-haji-embarkasi-banjarmasin-mulai-berangkat-12-mei-2024"
     },
     {
         "title": "Tujuh Orang Tewas Terbakar, Camat Mampang Minta Tempat Usaha Utamakan Keselamatan",
         "category": "Rejakarta",
-        "publish_time": "19-04-2024 12:08",
+        "publish_time": "19-04-2024 12:11",
         "news_link": "https://republika.co.id/berita/sc6v23485/tujuh-orang-tewas-terbakar-camat-mampang-minta-tempat-usaha-utamakan-keselamatan"
     },
     {
         "title": "Polri Kawal Penyelenggaraan Pemilu Hingga Tuntas",
         "category": "Pemilu Kita",
-        "publish_time": "19-04-2024 12:06",
+        "publish_time": "19-04-2024 12:11",
         "news_link": "https://pemilukita.republika.co.id/berita/sc6ut9430/polri-kawal-penyelenggaraan-pemilu-hingga-tuntas"
     },
     {
         "title": "Renovasi Stasiun Yogyakarta Kembali Dilanjutkan Usai Lebaran",
         "category": "News",
-        "publish_time": "19-04-2024 12:02",
+        "publish_time": "19-04-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sc6usc366/renovasi-stasiun-yogyakarta-kembali-dilanjutkan-usai-lebaran"
     },
     {
         "title": "Analis Sebut Penurunan Harga Bitcoin Cuma Sementara, Nanti juga Naik Lagi Usai Halving",
         "category": "Network",
-        "publish_time": "19-04-2024 12:02",
+        "publish_time": "19-04-2024 12:11",
         "news_link": "https://genpop.id/posts/302452/analis-sebut-penurunan-harga-bitcoin-cuma-sementara-nanti-juga-naik-lagi-usai-halving"
     },
     {
         "title": "Bandara Sam Ratulangi Masih Ditutup Akibat Abu Vulkanik Gunung Ruang",
         "category": "Resulawesi",
-        "publish_time": "19-04-2024 12:00",
+        "publish_time": "19-04-2024 12:11",
         "news_link": "https://republika.co.id/berita/sc6unp485/bandara-sam-ratulangi-masih-ditutup-akibat-abu-vulkanik-gunung-ruang"
     },
     {
         "title": "Kuasa Hukum Sebut Korban Baru Laporkan Ketua KPU ke DKPP, Belum ke Kepolisian",
         "category": "News",
-        "publish_time": "19-04-2024 11:58",
+        "publish_time": "19-04-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sc6ulc409/kuasa-hukum-sebut-korban-baru-laporkan-ketua-kpu-ke-dkpp-belum-ke-kepolisian"
     },
     {
         "title": "Ribuan 'Tumor Gelembung' yang Selimuti Wajah dan Tubuh Wanita Trinidad Berhasil Dibuang",
         "category": "Ameera",
-        "publish_time": "19-04-2024 11:56",
+        "publish_time": "19-04-2024 12:11",
         "news_link": "https://ameera.republika.co.id/berita/sc6uif414/ribuan-tumor-gelembung-yang-selimuti-wajah-dan-tubuh-wanita-trinidad-berhasil-dibuang"
     },
     {
         "title": "Erick Thohir Potong Tumpeng Peringati HUT ke-94 PSSI",
         "category": "Visual",
-        "publish_time": "19-04-2024 11:47",
+        "publish_time": "19-04-2024 12:11",
         "news_link": "https://visual.republika.co.id/berita/sc6u2l491/erick-thohir-potong-tumpeng-peringati-hut-ke94-pssi"
     },
     {
         "title": "Mencari Hakikat Harta Karun? Simak\u00a0Kisah Orang Kaya Sombong dari Bani Israil",
         "category": "Islam Digest",
-        "publish_time": "19-04-2024 11:43",
+        "publish_time": "19-04-2024 12:11",
         "news_link": "https://islamdigest.republika.co.id/berita/sc6tkz430/mencari-hakikat-harta-karun-simakkisah-orang-kaya-sombong-dari-bani-israil"
     },
     {
         "title": "TNI AU dan AS Dipastikan Gelar Latihan Bersama Cope West MAF 2024",
         "category": "News",
-        "publish_time": "19-04-2024 11:43",
+        "publish_time": "19-04-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sc6tvi484/tni-au-dan-as-dipastikan-gelar-latihan-bersama-cope-west-maf-2024"
     },
     {
         "title": "Soal Isu Keterlibatan Sejumlah Artis di Kasus Timah, Ini Kata Kejagung",
         "category": "News",
-        "publish_time": "19-04-2024 11:41",
+        "publish_time": "19-04-2024 11:11",
         "news_link": "https://news.republika.co.id/berita/sc6tte409/soal-isu-keterlibatan-sejumlah-artis-di-kasus-timah-ini-kata-kejagung"
     },
     {
         "title": "Cara Daftar Program Bantuan Pesantren dan Pendidikan Keagamaan Islam 2024",
         "category": "Khazanah",
-        "publish_time": "19-04-2024 11:41",
+        "publish_time": "19-04-2024 11:11",
         "news_link": "https://khazanah.republika.co.id/berita/sc6tt2366/cara-daftar-program-bantuan-pesantren-dan-pendidikan-keagamaan-islam-2024"
     },
     {
         "title": "Pemindahan ASN ke IKN Mulai Tahun Ini",
         "category": "News",
-        "publish_time": "19-04-2024 11:39",
+        "publish_time": "19-04-2024 11:11",
         "news_link": "https://www.republika.id/posts/52147/pemindahan-asn-ke-ikn-mulai-tahun-ini"
     },
     {
         "title": "PSSI Fokus Wujudkan Sepak Bola Bersih dan Berprestasi",
         "category": "Sport",
-        "publish_time": "19-04-2024 11:38",
+        "publish_time": "19-04-2024 11:11",
         "news_link": "https://www.republika.id/posts/52143/pssi-fokus-wujudkan-sepak-bola-bersih-dan-berprestasi"
     },
     {
         "title": "Harga Minyak Naik, ESDM Kebut Aturan Pembatasan Subsidi BBM",
         "category": "Ekonomi",
-        "publish_time": "19-04-2024 11:38",
+        "publish_time": "19-04-2024 11:11",
         "news_link": "https://www.republika.id/posts/52140/harga-minyak-naik-esdm-percepat-aturan-pembatasan-subsidi-bbm"
     },
     {
         "title": "Polisi Kasih Mahar Emas Palsu ke Anak Camat, Pernikahannya tidak Sah?",
         "category": "Ameera",
-        "publish_time": "19-04-2024 11:37",
+        "publish_time": "19-04-2024 11:11",
         "news_link": "https://ameera.republika.co.id/berita/sc6tm8414/polisi-kasih-mahar-emas-palsu-ke-anak-camat-pernikahannya-tidak-sah"
     },
     {
         "title": "Perempuan di Nigeria Didorong Lebih Berperan Dalam Ekonomi Digital",
         "category": "Video",
-        "publish_time": "19-04-2024 11:30",
+        "publish_time": "19-04-2024 11:11",
         "news_link": "https://tv.republika.co.id/berita/sc6nfx467/perempuan-di-nigeria-didorong-lebih-berperan-dalam-ekonomi-digital"
     },
     {
         "title": "Dapur Umum Disiapkan untuk Warga Terdampak Banjir Lahar Dingin di Lumajang",
         "category": "Rejogja",
-        "publish_time": "19-04-2024 11:26",
+        "publish_time": "19-04-2024 11:11",
         "news_link": "https://rejogja.republika.co.id/berita/sc6t32432/dapur-umum-disiapkan-untuk-warga-terdampak-banjir-lahar-dingin-di-lumajang"
     },
     {
         "title": "Khofifah Optimistis Putusan MK tidak Ubah Hasil Pilpres 2024",
         "category": "News",
-        "publish_time": "19-04-2024 11:25",
+        "publish_time": "19-04-2024 11:11",
         "news_link": "https://news.republika.co.id/berita/sc6t2f484/khofifah-optimistis-putusan-mk-tidak-ubah-hasil-pilpres-2024"
-    },
-    {
-        "title": "Sempat Aksi Bakar Ban, Massa Aksi di Patung Kuda Bubarkan Diri",
-        "category": "News",
-        "publish_time": "19-04-2024 11:20",
-        "news_link": "https://news.republika.co.id/berita/sc6sty484/sempat-aksi-bakar-ban-massa-aksi-di-patung-kuda-bubarkan-diri"
-    },
-    {
-        "title": "Jadwal Tayang Aang: The Last Airbender Ditunda, Transformers One Gimana?",
-        "category": "Ameera",
-        "publish_time": "19-04-2024 11:18",
-        "news_link": "https://ameera.republika.co.id/berita/sc6skk414/jadwal-tayang-aang-the-last-airbender-ditunda-transformers-one-gimana"
-    },
-    {
-        "title": "AHY Tegaskan Siap Kawal Transisi Pemerintahan Jokowi ke Prabowo",
-        "category": "News",
-        "publish_time": "19-04-2024 11:18",
-        "news_link": "https://news.republika.co.id/berita/sc6ka7436/ahy-tegaskan-siap-kawal-transisi-pemerintahan-jokowi-ke-prabowo"
-    },
-    {
-        "title": "Harga Bawang Merah Meroket, Tembus Rp 60 Ribu per Kilogram",
-        "category": "Ekonomi",
-        "publish_time": "19-04-2024 11:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/sc6s44490/harga-bawang-merah-meroket-tembus-rp-60-ribu-per-kilogram"
-    },
-    {
-        "title": "Doa Ketika Melihat Petir atau Kilat",
-        "category": "Network",
-        "publish_time": "19-04-2024 11:18",
-        "news_link": "https://sajada.id/posts/302448/doa-ketika-melihat-petir-atau-kilat"
-    },
-    {
-        "title": "Perdagangan IHSG Ditutup Memerah",
-        "category": "Visual",
-        "publish_time": "19-04-2024 11:18",
-        "news_link": "https://visual.republika.co.id/berita/sc6s34491/perdagangan-ihsg-ditutup-memerah"
-    },
-    {
-        "title": "AS Bantah Izinkan Israel Menginvasi Rafah Supaya Iran tak Dibalas Besar-besaran",
-        "category": "Internasional",
-        "publish_time": "19-04-2024 11:18",
-        "news_link": "https://internasional.republika.co.id/berita/sc6s2g414/as-bantah-izinkan-israel-menginvasi-rafah-supaya-iran-tak-dibalas-besarbesaran"
-    },
-    {
-        "title": "Alonso Isyaratkan Pensiun Setelah Akhiri Kontrak dengan Aston Martin",
-        "category": "Sport",
-        "publish_time": "19-04-2024 11:18",
-        "news_link": "https://sport.republika.co.id/berita/sc6s18348/alonso-isyaratkan-pensiun-setelah-akhiri-kontrak-dengan-aston-martin"
-    },
-    {
-        "title": "Pelita Air Catat Ketepatan Waktu Penerbangan 95 Persen Saat Arus Balik",
-        "category": "News",
-        "publish_time": "19-04-2024 11:18",
-        "news_link": "https://news.republika.co.id/berita/sc6rv0484/pelita-air-catat-ketepatan-waktu-penerbangan-95-persen-saat-arus-balik"
-    },
-    {
-        "title": "Konflik Iran-Israel Bikin Bursa Saham Anjlok, Ada yang Lebih Parah dari Indonesia",
-        "category": "Ekonomi",
-        "publish_time": "19-04-2024 11:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/sc6ruj490/konflik-iranisrael-bikin-bursa-saham-anjlok-ada-yang-lebih-parah-dari-indonesia"
-    },
-    {
-        "title": "Bukan Cuma STY, Pelatih Australia U-23 Juga Akui Kehebatan Ernando Ari",
-        "category": "Sport",
-        "publish_time": "19-04-2024 11:18",
-        "news_link": "https://sport.republika.co.id/berita/sc6rs7348/bukan-cuma-sty-pelatih-australia-u23-juga-akui-kehebatan-ernando-ari"
-    },
-    {
-        "title": "Israel Serang Iran, IHSG Makin Amblas",
-        "category": "Ekonomi",
-        "publish_time": "19-04-2024 11:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/sc6rmk490/israel-serang-iran-ihsg-makin-amblas"
-    },
-    {
-        "title": "Yolla Yuliana Ungkap Persiapan Mepet Jelang Lawan Red Sparks",
-        "category": "Sport",
-        "publish_time": "19-04-2024 11:18",
-        "news_link": "https://sport.republika.co.id/berita/sc6rdr348/yolla-yuliana-ungkap-persiapan-mepet-jelang-lawan-red-sparks"
-    },
-    {
-        "title": "KPK Jadwalkan Pemanggilan Ulang Bupati Sidoarjo Pekan Depan",
-        "category": "News",
-        "publish_time": "19-04-2024 10:18",
-        "news_link": "https://news.republika.co.id/berita/sc6q1k436/kpk-jadwalkan-pemanggilan-ulang-bupati-sidoarjo-pekan-depan"
-    },
-    {
-        "title": "Utang Luar Negeri Swasta Lanjutkan Tren Kontraksi Pertumbuhan",
-        "category": "Ekonomi",
-        "publish_time": "19-04-2024 10:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/sc6r3a490/utang-luar-negeri-swasta-lanjutkan-tren-kontraksi-pertumbuhan"
-    },
-    {
-        "title": "Beredar 'Bocoran' Putusan Pilpres di Medsos, MK: Bukan dari Kami",
-        "category": "News",
-        "publish_time": "19-04-2024 10:18",
-        "news_link": "https://news.republika.co.id/berita/sc6r33484/beredar-bocoran-putusan-pilpres-di-medsos-mk-bukan-dari-kami"
-    },
-    {
-        "title": "Erick Ingatkan HUT ke-94 PSSI Bukan Hanya Selebrasi",
-        "category": "Sport",
-        "publish_time": "19-04-2024 10:18",
-        "news_link": "https://sport.republika.co.id/berita/sc6r2u348/erick-ingatkan-hut-ke94-pssi-bukan-hanya-selebrasi"
-    },
-    {
-        "title": "Bantu Pompanisasi, Mentan Pacu Lamongan Tanam Padi Tiga Kali Setahun",
-        "category": "Ekonomi",
-        "publish_time": "19-04-2024 10:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/sc6qxu490/bantu-pompanisasi-mentan-pacu-lamongan-tanam-padi-tiga-kali-setahun"
-    },
-    {
-        "title": "Kedatangan Penumpang Kereta ke Jakarta Masih Tinggi H+8 Lebaran",
-        "category": "Ramadhan",
-        "publish_time": "19-04-2024 10:18",
-        "news_link": "https://ramadhan.republika.co.id/berita/sc6qv5425/kedatangan-penumpang-kereta-ke-jakarta-masih-tinggi-h8-lebaran"
-    },
-    {
-        "title": "Beredar Video Asusila Diduga Napi di Lapas, Ini Kata Kemenkumham Jateng",
-        "category": "Rejogja",
-        "publish_time": "19-04-2024 10:18",
-        "news_link": "https://rejogja.republika.co.id/berita/sc6qsk432/beredar-video-asusila-diduga-napi-di-lapas-ini-kata-kemenkumham-jateng"
-    },
-    {
-        "title": "Tujuh Korban Kebakaran Toko Figura Mampang Alami Luka Bakar 90 Persen",
-        "category": "News",
-        "publish_time": "19-04-2024 10:18",
-        "news_link": "https://news.republika.co.id/berita/sc6qrf366/tujuh-korban-kebakaran-toko-figura-mampang-alami-luka-bakar-90-persen"
-    },
-    {
-        "title": "Bos BI Pastikan Stabilitas Rupiah Terjaga",
-        "category": "Ekonomi",
-        "publish_time": "19-04-2024 10:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/sc6qqu490/bos-bi-pastikan-stabilitas-rupiah-terjaga"
-    },
-    {
-        "title": "Menkominfo Sebut Satgas Gunakan Tiga Langkah Berantas Judi Online",
-        "category": "News",
-        "publish_time": "19-04-2024 10:18",
-        "news_link": "https://news.republika.co.id/berita/sc6qlu349/menkominfo-sebut-satgas-gunakan-tiga-langkah-berantas-judi-online"
-    },
-    {
-        "title": "Jasa Marga Prediksi Masih akan Ada Pergerakan Arus Balik Akhir Pekan Ini",
-        "category": "Ekonomi",
-        "publish_time": "19-04-2024 10:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/sc6qln490/jasa-marga-prediksi-masih-akan-ada-pergerakan-arus-balik-akhir-pekan-ini"
-    },
-    {
-        "title": "Wajah Berbeda Massa Aksi di Patung Kuda: Kelompok Pertama Shalat Berjamaah, Lainnya Joget",
-        "category": "News",
-        "publish_time": "19-04-2024 10:18",
-        "news_link": "https://news.republika.co.id/berita/sc6ptk436/wajah-berbeda-massa-aksi-di-patung-kuda-kelompok-pertama-shalat-berjamaah-lainnya-joget"
-    },
-    {
-        "title": "Tampilkan Henry Cavill-Margot Robbie, Trailer James Bond Palsu Capai 2 Juta Penayangan",
-        "category": "Ameera",
-        "publish_time": "19-04-2024 10:18",
-        "news_link": "https://ameera.republika.co.id/berita/sc6qk6414/tampilkan-henry-cavillmargot-robbie-trailer-james-bond-palsu-capai-2-juta-penayangan"
-    },
-    {
-        "title": "Oleh Sultan Agung Diadu dengan Banteng, Harimau Jawa Benarkah Belum Punah? Begini Kata Peneliti BRIN",
-        "category": "Network",
-        "publish_time": "19-04-2024 10:18",
-        "news_link": "https://oohya.republika.co.id/lincak/1744556282/oleh-sultan-agung-diadu-dengan-banteng-harimau-jawa-benarkah-belum-punah-begini-kata-peneliti-brin"
-    },
-    {
-        "title": "Oleh Sultan Agung Diadu dengan Prajurit, Harimau Jawa Benarkah Belum Punah? Begini Kata Peneliti BRIN",
-        "category": "Network",
-        "publish_time": "19-04-2024 10:18",
-        "news_link": "https://oohya.republika.co.id/lincak/1744556282/oleh-sultan-agung-diadu-dengan-prajurit-harimau-jawa-benarkah-belum-punah-begini-kata-peneliti-brin"
-    },
-    {
-        "title": "Akibat Erupsi Gunung Ruang, Maskapai Grup Lion Air di Bandara Ternate Belum Beroperasi",
-        "category": "Ekonomi",
-        "publish_time": "19-04-2024 10:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/sc6qg5502/akibat-erupsi-gunung-ruang-maskapai-grup-lion-air-di-bandara-ternate-belum-beroperasi"
     }
 ]
