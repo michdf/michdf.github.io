@@ -1,8 +1,242 @@
 [
     {
+        "title": "Reaksi Keras China Hadapi Tudingan Xenophobia dari AS",
+        "category": "Internasional",
+        "publish_time": "22-04-2024 13:10",
+        "news_link": "https://internasional.republika.co.id/berita/scc4kh488/reaksi-keras-china-hadapi-tudingan-xenophobia-dari-as"
+    },
+    {
+        "title": "Zhou Merasa Emosional Bisa Membalap di GP China untuk Pertama Kalinya",
+        "category": "Sport",
+        "publish_time": "22-04-2024 13:04",
+        "news_link": "https://sport.republika.co.id/berita/scchn2348/zhou-merasa-emosional-bisa-membalap-di-gp-china-untuk-pertama-kalinya"
+    },
+    {
+        "title": "TKN Sebut Prabowo Ikut Simak Dissenting Opinion dalam Putusan MK",
+        "category": "Pemilu Kita",
+        "publish_time": "22-04-2024 13:03",
+        "news_link": "https://pemilukita.republika.co.id/berita/scchmg436/tkn-sebut-prabowo-ikut-simak-dissenting-opinion-dalam-putusan-mk"
+    },
+    {
+        "title": "3 Perkara yang Binasakan Umat Manusia dan Contohnya yang Diabadikan Alquran",
+        "category": "Khazanah",
+        "publish_time": "22-04-2024 13:03",
+        "news_link": "https://khazanah.republika.co.id/berita/scchly320/3-perkara-yang-binasakan-umat-manusia-dan-contohnya-yang-diabadikan-alquran"
+    },
+    {
+        "title": "Bertemu Surya Paloh di Kantor Nasdem, Anies: Tugas Sudah Dijalankan",
+        "category": "News",
+        "publish_time": "22-04-2024 13:03",
+        "news_link": "https://news.republika.co.id/berita/scchku377/bertemu-surya-paloh-di-kantor-nasdem-anies-tugas-sudah-dijalankan"
+    },
+    {
+        "title": "Karikatur Opini Republika : Indonesia Kuat",
+        "category": "Visual",
+        "publish_time": "22-04-2024 13:00",
+        "news_link": "https://visual.republika.co.id/berita/scc7s8375/karikatur-opini-republika-indonesia-kuat"
+    },
+    {
+        "title": "Hasil Liga 1 : Persikabo 1973 Kalah dari Persis Solo",
+        "category": "Visual",
+        "publish_time": "22-04-2024 13:00",
+        "news_link": "https://visual.republika.co.id/berita/scch91375/hasil-liga-1-persikabo-1973-kalah-dari-persis-solo"
+    },
+    {
+        "title": "Gempa M 5,1 Guncang Pacitan, Warga Kaget",
+        "category": "Rejogja",
+        "publish_time": "22-04-2024 12:59",
+        "news_link": "https://rejogja.republika.co.id/berita/scchfl432/gempa-m-51-guncang-pacitan-warga-kaget"
+    },
+    {
+        "title": "Singgung Putusan MK, Otto Hasibuan: Ini Kemenangan Seluruh Rakyat",
+        "category": "News",
+        "publish_time": "22-04-2024 12:56",
+        "news_link": "https://news.republika.co.id/berita/scch5g484/singgung-putusan-mk-otto-hasibuan-ini-kemenangan-seluruh-rakyat"
+    },
+    {
+        "title": "Setiap Wanita Berisiko Kanker Serviks, Tes HPV Bagus Ketimbang Pap Smear?",
+        "category": "Ameera",
+        "publish_time": "22-04-2024 12:55",
+        "news_link": "https://ameera.republika.co.id/berita/scch8g370/setiap-wanita-berisiko-kanker-serviks-tes-hpv-bagus-ketimbang-pap-smear"
+    },
+    {
+        "title": "Bandung BJB Tandamata Optimistis Kian Kompetitif di Proliga 2024",
+        "category": "Ekonomi",
+        "publish_time": "22-04-2024 12:55",
+        "news_link": "https://ekonomi.republika.co.id/berita/scch7z463/bandung-bjb-tandamata-optimistis-kian-kompetitif-di-proliga-2024"
+    },
+    {
+        "title": "Dukung Pariwisata Berkelanjutan, Tiket.com Luncurkan Fitur Tiket Green",
+        "category": "Visual",
+        "publish_time": "22-04-2024 12:54",
+        "news_link": "https://visual.republika.co.id/berita/scch69375/dukung-pariwisata-berkelanjutan-tiketcom-luncurkan-fitur-tiket-green"
+    },
+    {
+        "title": "Amalan-Amalan Penghapus Doa",
+        "category": "Video",
+        "publish_time": "22-04-2024 12:53",
+        "news_link": "https://tv.republika.co.id/berita/scch4l313/amalanamalan-penghapus-doa"
+    },
+    {
+        "title": "Ekspor Durian ke China Dinilai Semakin Potensial",
+        "category": "Ekonomi",
+        "publish_time": "22-04-2024 12:52",
+        "news_link": "https://ekonomi.republika.co.id/berita/scbxu0490/ekspor-durian-ke-china-dinilai-semakin-potensial"
+    },
+    {
+        "title": "Dua Ayat Ini Peringatkan Agar Selalu Waspada terhadap Yahudi",
+        "category": "Iqra",
+        "publish_time": "22-04-2024 12:48",
+        "news_link": "https://iqra.republika.co.id/berita/scce83430/dua-ayat-ini-peringatkan-agar-selalu-waspada-terhadap-yahudi"
+    },
+    {
+        "title": "Watertoren, Landmark Kota Palembang Sejak Zaman Kolonial",
+        "category": "Network",
+        "publish_time": "22-04-2024 12:46",
+        "news_link": "https://sumatralink.id/posts/302959/watertoren-landmark-kota-palembang-sejak-zaman-kolonial"
+    },
+    {
+        "title": "KAI Layani 4,39 Juta Penumpang di Masa Angkutan Lebaran 2024",
+        "category": "Network",
+        "publish_time": "22-04-2024 12:46",
+        "news_link": "https://kreta.id/posts/302948/kai-layani-4-39-juta-penumpang-di-masa-angkutan-lebaran-2024"
+    },
+    {
+        "title": "Ditanya Soal Hak Angket, Ganjar: Nanti Ruang di Parlemen Politik",
+        "category": "News",
+        "publish_time": "22-04-2024 12:45",
+        "news_link": "https://news.republika.co.id/berita/sccgs2377/ditanya-soal-hak-angket-ganjar-nanti-ruang-di-parlemen-politik"
+    },
+    {
+        "title": "Kejakgung Sita Perusahaan Timah Terkait Tersangka Harvey Moeis",
+        "category": "News",
+        "publish_time": "22-04-2024 12:45",
+        "news_link": "https://news.republika.co.id/berita/sccggl430/kejakgung-sita-perusahaan-timah-terkait-tersangka-harvey-moeis"
+    },
+    {
+        "title": "Rektor UMJ Sebut Moralitas Jadi Nilai Penting dalam Demokrasi",
+        "category": "News",
+        "publish_time": "22-04-2024 12:41",
+        "news_link": "https://news.republika.co.id/berita/sccgla463/rektor-umj-sebut-moralitas-jadi-nilai-penting-dalam-demokrasi"
+    },
+    {
+        "title": "Dunia Usaha Hormati Keputusan MK Terkait Pilpres",
+        "category": "Ekonomi",
+        "publish_time": "22-04-2024 12:41",
+        "news_link": "https://ekonomi.republika.co.id/berita/sccgl9349/dunia-usaha-hormati-keputusan-mk-terkait-pilpres"
+    },
+    {
+        "title": "Kolaborasi MPKU Muhammadiyah dan Swasta untuk Cegah Stunting Bantu Siswa Raih Prestasi",
+        "category": "Network",
+        "publish_time": "22-04-2024 12:41",
+        "news_link": "https://cari.republika.co.id/posts/302976/kolaborasi-mpku-muhammadiyah-dan-swasta-untuk-cegah-stunting-bantu-siswa-raih-prestasi"
+    },
+    {
+        "title": "Gunung Ruang Turun Status Jadi Siaga, Udara Sekitar Masih Mengandung Gas Sulfur Dioksida",
+        "category": "News",
+        "publish_time": "22-04-2024 12:40",
+        "news_link": "https://news.republika.co.id/berita/sccgjc414/gunung-ruang-turun-status-jadi-siaga-udara-sekitar-masih-mengandung-gas-sulfur-dioksida"
+    },
+    {
+        "title": "Turnamen 'Mandiri 3X3 Indonesia' Hadirkan FIBA Lite Quest",
+        "category": "Sport",
+        "publish_time": "22-04-2024 12:38",
+        "news_link": "https://sport.republika.co.id/berita/sccgfs257/turnamen-mandiri-3x3-indonesia-hadirkan-fiba-lite-quest"
+    },
+    {
+        "title": "Peringatan Hari Kartini, Bupati Sleman Ingin Perempuan Trengginas",
+        "category": "Rejogja",
+        "publish_time": "22-04-2024 12:37",
+        "news_link": "https://rejogja.republika.co.id/berita/sccgeo432/peringatan-hari-kartini-bupati-sleman-ingin-perempuan-trengginas"
+    },
+    {
+        "title": "Ekstremis Yahudi Berupaya Sembelih Hewan di Masjid Al Aqsa",
+        "category": "Khazanah",
+        "publish_time": "22-04-2024 12:36",
+        "news_link": "https://khazanah.republika.co.id/berita/sccgc5366/ekstremis-yahudi-berupaya-sembelih-hewan-di-masjid-al-aqsa"
+    },
+    {
+        "title": "Nusron: Ada Partai Pendukung Anies dan Ganjar yang akan Gabung Prabowo",
+        "category": "News",
+        "publish_time": "22-04-2024 12:34",
+        "news_link": "https://news.republika.co.id/berita/sccg98377/nusron-ada-partai-pendukung-anies-dan-ganjar-yang-akan-gabung-prabowo"
+    },
+    {
+        "title": "Polisi Ringkus Empat Orang Geng Motor Slotter yang Lakukan Penganiayaan di Bandung",
+        "category": "Rejabar",
+        "publish_time": "22-04-2024 12:30",
+        "news_link": "https://rejabar.republika.co.id/berita/sccg24512/polisi-ringkus-empat-orang-geng-motor-slotter-yang-lakukan-penganiayaan-di-bandung"
+    },
+    {
+        "title": "Gerakan Sedekah Sepatu untuk Pelajar di Indramayu",
+        "category": "Visual",
+        "publish_time": "22-04-2024 12:30",
+        "news_link": "https://visual.republika.co.id/berita/sccekf375/gerakan-sedekah-sepatu-untuk-pelajar-di-indramayu"
+    },
+    {
+        "title": "Hewan Peliharaan Bisa Tularkan Bakteri Kebal Antibiotik, Lakukan Ini Kalau Kucing Sakit",
+        "category": "Ameera",
+        "publish_time": "22-04-2024 12:29",
+        "news_link": "https://ameera.republika.co.id/berita/sccg1b414/hewan-peliharaan-bisa-tularkan-bakteri-kebal-antibiotik-lakukan-ini-kalau-kucing-sakit"
+    },
+    {
+        "title": "Ini Alasan Kepulangan Nathan Tjoe-A-Oen Usai Timnas U-23 Lolos 8 Besar",
+        "category": "Sport",
+        "publish_time": "22-04-2024 12:29",
+        "news_link": "https://sport.republika.co.id/berita/sccfdh257/ini-alasan-kepulangan-nathan-tjoeaoen-usai-timnas-u23-lolos-8-besar"
+    },
+    {
+        "title": "BCA Salurkan Kredit Hijau Rp 197,4 Triliun per Maret 2024",
+        "category": "Ekonomi",
+        "publish_time": "22-04-2024 12:28",
+        "news_link": "https://ekonomi.republika.co.id/berita/sccfyz349/bca-salurkan-kredit-hijau-rp-1974-triliun-per-maret-2024"
+    },
+    {
+        "title": "The Fed Tunda Penurunan Suku Bunga",
+        "category": "Video",
+        "publish_time": "22-04-2024 12:27",
+        "news_link": "https://tv.republika.co.id/berita/sccdx6467/the-fed-tunda-penurunan-suku-bunga"
+    },
+    {
+        "title": "164 Warga Cirebon Dirawat karena DBD",
+        "category": "News",
+        "publish_time": "22-04-2024 12:26",
+        "news_link": "https://news.republika.co.id/berita/sccfw1366/164-warga-cirebon-dirawat-karena-dbd"
+    },
+    {
+        "title": "UMJ Fasilitasi Beasiswa Pendidikan Bagi Warga Persyarikatan Kabupaten Garut",
+        "category": "News",
+        "publish_time": "22-04-2024 12:25",
+        "news_link": "https://news.republika.co.id/berita/sccfus463/umj-fasilitasi-beasiswa-pendidikan-bagi-warga-persyarikatan-kabupaten-garut"
+    },
+    {
+        "title": "Kapan Waktu Tepat Pemberian Parasetamol Ketika Anak Demam?",
+        "category": "Ameera",
+        "publish_time": "22-04-2024 12:22",
+        "news_link": "https://ameera.republika.co.id/berita/sccfor425/kapan-waktu-tepat-pemberian-parasetamol-ketika-anak-demam"
+    },
+    {
+        "title": "Prabowo Nilai Perdebatan di MK Dinamika yang Sehat untuk Bangun Bangsa",
+        "category": "News",
+        "publish_time": "22-04-2024 12:21",
+        "news_link": "https://news.republika.co.id/berita/sccfns349/prabowo-nilai-perdebatan-di-mk-dinamika-yang-sehat-untuk-bangun-bangsa"
+    },
+    {
+        "title": "Brutalnya Serangan Israel di Tepi Barat",
+        "category": "Internasional",
+        "publish_time": "22-04-2024 12:20",
+        "news_link": "https://internasional.republika.co.id/berita/scc47f488/brutalnya-serangan-israel-di-tepi-barat"
+    },
+    {
+        "title": "Soal Pertemuan Prabowo dengan Megawati, TKN: Sedang Mencocokkan Waktu",
+        "category": "News",
+        "publish_time": "22-04-2024 12:20",
+        "news_link": "https://news.republika.co.id/berita/sccflb377/soal-pertemuan-prabowo-dengan-megawati-tkn-sedang-mencocokkan-waktu"
+    },
+    {
         "title": "Furniture Rotan Siap Ekspor di Cirebon Ludes Terbakar Dilahap Si Jago Merah",
         "category": "Rejabar",
-        "publish_time": "22-04-2024 12:16",
+        "publish_time": "22-04-2024 12:17",
         "news_link": "https://rejabar.republika.co.id/berita/sccfgl512/furniture-rotan-siap-ekspor-di-cirebon-ludes-terbakar-dilahap-si-jago-merah"
     },
     {
@@ -14,289 +248,55 @@
     {
         "title": "Dampak Konflik Iran-Israel Bisa Sampai ke Indonesia, Pemerintah Diingatkan tak Main-Main",
         "category": "Ekonomi",
-        "publish_time": "22-04-2024 12:13",
+        "publish_time": "22-04-2024 12:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sccfb5457/dampak-konflik-iranisrael-bisa-sampai-ke-indonesia-pemerintah-diingatkan-tak-mainmain"
     },
     {
         "title": "50 Lebih Warga Keracunan Makanan Hajatan Nikah, 2 Orang Meninggal Dunia",
         "category": "News",
-        "publish_time": "22-04-2024 12:10",
+        "publish_time": "22-04-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sccf6e425/50-lebih-warga-keracunan-makanan-hajatan-nikah-2-orang-meninggal-dunia"
     },
     {
         "title": "Warga Ambon Diajak Investasi Tanam Pohon untuk Bumi Lestari",
         "category": "Esgnow",
-        "publish_time": "22-04-2024 12:09",
+        "publish_time": "22-04-2024 12:11",
         "news_link": "https://esgnow.republika.co.id/berita/sccf50457/warga-ambon-diajak-investasi-tanam-pohon-untuk-bumi-lestari"
     },
     {
         "title": "Tiga Hakim Disenting Opinion Putusan MK Terkait Pilpres, Ini Kata Yusril",
         "category": "Video",
-        "publish_time": "22-04-2024 12:06",
+        "publish_time": "22-04-2024 12:11",
         "news_link": "https://tv.republika.co.id/berita/scceze313/tiga-hakim-disenting-opinion-putusan-mk-terkait-pilpres-ini-kata-yusril"
     },
     {
         "title": "BCA: Kredit Konsumer Naik 14,9 Persen pada Kuartal I 2024",
         "category": "Ekonomi",
-        "publish_time": "22-04-2024 12:06",
+        "publish_time": "22-04-2024 12:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sccez6457/bca-kredit-konsumer-naik-149-persen-pada-kuartal-i-2024"
     },
     {
         "title": "Surya Paloh Sebut Saatnya Tutup Buku Lama, Sinyal Bakal Merapat ke Prabowo?",
         "category": "News",
-        "publish_time": "22-04-2024 12:05",
+        "publish_time": "22-04-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sccexk349/surya-paloh-sebut-saatnya-tutup-buku-lama-sinyal-bakal-merapat-ke-prabowo"
     },
     {
         "title": "Tiga Kapal Nelayan Tradisional Natuna Ditangkap di Perairan Malaysia",
         "category": "News",
-        "publish_time": "22-04-2024 12:02",
+        "publish_time": "22-04-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/scc3za488/tiga-kapal-nelayan-tradisional-natuna-ditangkap-di-perairan-malaysia"
     },
     {
         "title": "Erick Thohir: So, Coach Shin Tae Yong Stay With Us?",
         "category": "Sport",
-        "publish_time": "22-04-2024 12:00",
+        "publish_time": "22-04-2024 12:11",
         "news_link": "https://sport.republika.co.id/berita/sccea7257/erick-thohir-so-coach-shin-tae-yong-stay-with-us"
     },
     {
         "title": "Kecewa Putusan MK, Massa Demonstran Bakar Atribut Aksi di Kawasan Patung Kuda Jakarta",
         "category": "Visual",
-        "publish_time": "22-04-2024 11:59",
+        "publish_time": "22-04-2024 12:11",
         "news_link": "https://visual.republika.co.id/berita/scce5b375/kecewa-putusan-mk-massa-demonstran-bakar-atribut-aksi-di-kawasan-patung-kuda-jakarta"
-    },
-    {
-        "title": "Polisi Sita 800 Tabung Elpiji 3 Kg dari Pangkalan Nakal di Kalsel",
-        "category": "News",
-        "publish_time": "22-04-2024 11:59",
-        "news_link": "https://news.republika.co.id/berita/sccen6425/polisi-sita-800-tabung-elpiji-3-kg-dari-pangkalan-nakal-di-kalsel"
-    },
-    {
-        "title": "Hizbullah Jatuhkan Pesawat Nirawak Israel di Lebanon Selatan",
-        "category": "Internasional",
-        "publish_time": "22-04-2024 11:57",
-        "news_link": "https://internasional.republika.co.id/berita/scc3nj488/hizbullah-jatuhkan-pesawat-nirawak-israel-di-lebanon-selatan"
-    },
-    {
-        "title": "Sebut Pelaku dan Korban Pembunuhan Miliki Hubungan Gelap, Polisi: RN Sudah Miliki Suami",
-        "category": "News",
-        "publish_time": "22-04-2024 11:54",
-        "news_link": "https://news.republika.co.id/berita/sccefm349/sebut-pelaku-dan-korban-pembunuhan-miliki-hubungan-gelap-polisi-rn-sudah-miliki-suami"
-    },
-    {
-        "title": "Siapa Gadis Medang yang Jadi Rebutan Batara Wisnu dan Batara Guru? Halo Warga Grobogan, Ada yang Tahu?",
-        "category": "Network",
-        "publish_time": "22-04-2024 11:53",
-        "news_link": "https://oohya.republika.co.id/kendeng/1744565766/siapa-gadis-medang-yang-jadi-rebutan-batara-wisnu-dan-batara-guru-halo-warga-grobogan-ada-yang-tahu"
-    },
-    {
-        "title": "Pemimpin parlemen Minta Inggris Tiru Iron Dome Israel",
-        "category": "Internasional",
-        "publish_time": "22-04-2024 11:52",
-        "news_link": "https://internasional.republika.co.id/berita/scc0rq488/pemimpin-parlemen-minta-inggris-tiru-iron-dome-israel"
-    },
-    {
-        "title": "Kaum Muda Dinilai Harus Berperan Optimal dalam Transisi Energi",
-        "category": "Esgnow",
-        "publish_time": "22-04-2024 11:51",
-        "news_link": "https://esgnow.republika.co.id/berita/sccea1457/kaum-muda-dinilai-harus-berperan-optimal-dalam-transisi-energi"
-    },
-    {
-        "title": "Ini 4 Tips Mengembalikan Tidur yang Berkualitas Seusai Puasa Bulan Ramadan",
-        "category": "Network",
-        "publish_time": "22-04-2024 11:50",
-        "news_link": "https://cari.republika.co.id/posts/302955/ini-4-tips-mengembalikan-tidur-yang-berkualitas-seusai-puasa-bulan-ramadan"
-    },
-    {
-        "title": "Hadits ke-16 Arbain Nawawi: Jangan Marah",
-        "category": "Network",
-        "publish_time": "22-04-2024 11:46",
-        "news_link": "https://sajada.id/posts/302947/hadits-ke-16-arbain-nawawi-jangan-marah"
-    },
-    {
-        "title": "MK Tolak Gugatan, Pakar: Prabowo-Gibran Pemenang Pilpres 2024",
-        "category": "Pemilu Kita",
-        "publish_time": "22-04-2024 11:45",
-        "news_link": "https://pemilukita.republika.co.id/berita/scce0b430/mk-tolak-gugatan-pakar-prabowogibran-pemenang-pilpres-2024"
-    },
-    {
-        "title": "Wisatawan China Jatuh ke Jurang Saat Foto di Kawah Ijen, Menparekraf Beri Imbauan Tegas",
-        "category": "Ameera",
-        "publish_time": "22-04-2024 11:44",
-        "news_link": "https://ameera.republika.co.id/berita/sccdz2425/wisatawan-china-jatuh-ke-jurang-saat-foto-di-kawah-ijen-menparekraf-beri-imbauan-tegas"
-    },
-    {
-        "title": "Indonesia Masukkan HFC di Dokumen Target Pengurangan Emisi",
-        "category": "Esgnow",
-        "publish_time": "22-04-2024 11:44",
-        "news_link": "https://esgnow.republika.co.id/berita/sccdys457/indonesia-masukkan-hfc-di-dokumen-target-pengurangan-emisi"
-    },
-    {
-        "title": "Sri Mulyani Pamer Pengalaman RI Tangani Covid-19 di Forum IMF",
-        "category": "Ekonomi",
-        "publish_time": "22-04-2024 11:44",
-        "news_link": "https://ekonomi.republika.co.id/berita/sccdyg490/sri-mulyani-pamer-pengalaman-ri-tangani-covid19-di-forum-imf"
-    },
-    {
-        "title": "Survei Indikator Dinilai Perkuat Adanya Skenario Pembubaran KPK",
-        "category": "News",
-        "publish_time": "22-04-2024 11:43",
-        "news_link": "https://news.republika.co.id/berita/sccdwv409/survei-indikator-dinilai-perkuat-adanya-skenario-pembubaran-kpk"
-    },
-    {
-        "title": "Meski Kecewa, PKS Pilih Hormati Putusan MK",
-        "category": "News",
-        "publish_time": "22-04-2024 11:42",
-        "news_link": "https://news.republika.co.id/berita/sccdmz484/meski-kecewa-pks-pilih-hormati-putusan-mk"
-    },
-    {
-        "title": "Akses Jalan Padang-Kerinci Sudah Bisa Dilalui",
-        "category": "Resumatra",
-        "publish_time": "22-04-2024 11:42",
-        "news_link": "https://republika.co.id/berita/sccb8g430/akses-jalan-padang-kerinci-sudah-bisa-dilalui"
-    },
-    {
-        "title": "Kemenperin Selesaikan Regulasi Pendukung Permendag 36",
-        "category": "Ekonomi",
-        "publish_time": "22-04-2024 11:39",
-        "news_link": "https://ekonomi.republika.co.id/berita/sccdps457/kemenperin-selesaikan-regulasi-pendukung-permendag-36"
-    },
-    {
-        "title": "Di Perempat Final, Erick Berharap Nyali Timnas Indonesia U-23 Semakin Bertaji",
-        "category": "Sport",
-        "publish_time": "22-04-2024 11:37",
-        "news_link": "https://sport.republika.co.id/berita/sccdn2257/di-perempat-final-erick-berharap-nyali-timnas-indonesia-u23-semakin-bertaji"
-    },
-    {
-        "title": "Daud Kim Mengaku Sudah Kembalikan Uang Sumbangan Pembangunan Masjid di Korea",
-        "category": "Ameera",
-        "publish_time": "22-04-2024 11:37",
-        "news_link": "https://ameera.republika.co.id/berita/sccdn1414/daud-kim-mengaku-sudah-kembalikan-uang-sumbangan-pembangunan-masjid-di-korea"
-    },
-    {
-        "title": "Produksi melimpah, Harga Gabah Kering di Madiun Turun Drastis",
-        "category": "Visual",
-        "publish_time": "22-04-2024 11:34",
-        "news_link": "https://visual.republika.co.id/berita/sccdiu375/produksi-melimpah-harga-gabah-kering-di-madiun-turun-drastis"
-    },
-    {
-        "title": "Pengamat Nilai Kemenangan Timnas Indonesia U-23 Atas Yordania U-23 Fantastis",
-        "category": "Sport",
-        "publish_time": "22-04-2024 11:33",
-        "news_link": "https://sport.republika.co.id/berita/sccdgj348/pengamat-nilai-kemenangan-timnas-indonesia-u23-atas-yordania-u23-fantastis"
-    },
-    {
-        "title": "Pungutan Iuran Pariwisata di Tiket Pesawat, Pengamat Beri Peringatan",
-        "category": "Ekonomi",
-        "publish_time": "22-04-2024 11:32",
-        "news_link": "https://ekonomi.republika.co.id/berita/sccdey457/pungutan-iuran-pariwisata-di-tiket-pesawat-pengamat-beri-peringatan"
-    },
-    {
-        "title": "PBNU Ucapkan Selamat Bertugas Kepada Prabowo-Gibran",
-        "category": "News",
-        "publish_time": "22-04-2024 11:31",
-        "news_link": "https://news.republika.co.id/berita/sccddd349/pbnu-ucapkan-selamat-bertugas-kepada-prabowogibran"
-    },
-    {
-        "title": "Dissenting Opinion, Arief Hidayat Nilai PHPU Pilpres Seharusnya Kabul Sebagian",
-        "category": "News",
-        "publish_time": "22-04-2024 11:30",
-        "news_link": "https://news.republika.co.id/berita/sccdb3409/dissenting-opinion-arief-hidayat-nilai-phpu-pilpres-seharusnya-kabul-sebagian"
-    },
-    {
-        "title": "China Tegaskan tak Ingin Terlibat dalam Perang di Tengah Gejolak Geopolitik",
-        "category": "Internasional",
-        "publish_time": "22-04-2024 11:29",
-        "news_link": "https://internasional.republika.co.id/berita/scc0bq488/china-tegaskan-tak-ingin-terlibat-dalam-perang-di-tengah-gejolak-geopolitik"
-    },
-    {
-        "title": "Perang Dinilai Berdampak Besar Pada Perubahan Iklim",
-        "category": "Video",
-        "publish_time": "22-04-2024 11:27",
-        "news_link": "https://tv.republika.co.id/berita/sccd5v467/perang-dinilai-berdampak-besar-pada-perubahan-iklim"
-    },
-    {
-        "title": "Bakal Ada Pungutan Dana Pariwisata di Tiket Pesawat? Ini Penjelasan Sandiaga",
-        "category": "Ekonomi",
-        "publish_time": "22-04-2024 11:25",
-        "news_link": "https://ekonomi.republika.co.id/berita/sccd3q490/bakal-ada-pungutan-dana-pariwisata-di-tiket-pesawat-ini-penjelasan-sandiaga"
-    },
-    {
-        "title": "Polisi Ringkus empat Anggota Geng Motor Slotter Usai Aniaya Kelompok Lain",
-        "category": "News",
-        "publish_time": "22-04-2024 11:25",
-        "news_link": "https://news.republika.co.id/berita/sccd2r349/polisi-ringkus-empat-anggota-geng-motor-slotter-usai-aniaya-kelompok-lain"
-    },
-    {
-        "title": "Rencana Netanyahu Tingkatkan Tekanan Militer agar Hamas Bebaskan Sandera",
-        "category": "Internasional",
-        "publish_time": "22-04-2024 11:24",
-        "news_link": "https://internasional.republika.co.id/berita/scc1fr488/rencana-netanyahu-tingkatkan-tekanan-militer-agar-hamas-bebaskan-sandera"
-    },
-    {
-        "title": "Aksi Penanaman Mangrove Peringati Hari Bumi Sedunia",
-        "category": "Visual",
-        "publish_time": "22-04-2024 11:23",
-        "news_link": "https://visual.republika.co.id/berita/sccczm375/aksi-penanaman-mangrove-peringati-hari-bumi-sedunia"
-    },
-    {
-        "title": "Paus Fransiskus Serukan Dialog dan Diplomasi untuk Konflik Timur Tengah",
-        "category": "Internasional",
-        "publish_time": "22-04-2024 11:19",
-        "news_link": "https://internasional.republika.co.id/berita/scc14l488/paus-fransiskus-serukan-dialog-dan-diplomasi-untuk-konflik-timur-tengah"
-    },
-    {
-        "title": "M Nigara: Ini Penampilan Terindah Timnas Sepanjang Meliput Sepak Bola Indonesia Sejak 1980",
-        "category": "Sport",
-        "publish_time": "22-04-2024 11:19",
-        "news_link": "https://sport.republika.co.id/berita/sccchm348/m-nigara-ini-penampilan-terindah-timnas-sepanjang-meliput-sepak-bola-indonesia-sejak-1980"
-    },
-    {
-        "title": "Kemenkes: Perubahan Iklim 2024 Membuat Kasus DBD di Indonesia Kembali Naik",
-        "category": "Ameera",
-        "publish_time": "22-04-2024 11:19",
-        "news_link": "https://ameera.republika.co.id/berita/sccchi425/kemenkes-perubahan-iklim-2024-membuat-kasus-dbd-di-indonesia-kembali-naik"
-    },
-    {
-        "title": "Giliran Pabrik Timah yang Disita Kejakgung",
-        "category": "News",
-        "publish_time": "22-04-2024 11:19",
-        "news_link": "https://www.republika.id/posts/52204/giliran-pabrik-timah-yang-disita-kejakgung"
-    },
-    {
-        "title": "Perubahan Iklim Terus Mengikis Terumbu Karang Florida",
-        "category": "Video",
-        "publish_time": "22-04-2024 11:19",
-        "news_link": "https://tv.republika.co.id/berita/sccceg418/perubahan-iklim-terus-mengikis-terumbu-karang-florida"
-    },
-    {
-        "title": "Irak Peringatkan Bahaya Eskalasi Militer di Konflik Israel-Iran",
-        "category": "Internasional",
-        "publish_time": "22-04-2024 11:19",
-        "news_link": "https://internasional.republika.co.id/berita/scbzap488/irak-peringatkan-bahaya-eskalasi-militer-di-konflik-israeliran"
-    },
-    {
-        "title": "BCA Kantongi Laba Bersih Rp 12,9 Triliun pada Kuartal I 2024",
-        "category": "Ekonomi",
-        "publish_time": "22-04-2024 11:19",
-        "news_link": "https://ekonomi.republika.co.id/berita/sccc88370/bca-kantongi-laba-bersih-rp-129-triliun-pada-kuartal-i-2024"
-    },
-    {
-        "title": "Dewas Diminta Periksa Wakil Ketua KPK Alexander Marwata, Ini Alasannya",
-        "category": "News",
-        "publish_time": "22-04-2024 11:19",
-        "news_link": "https://news.republika.co.id/berita/sccc6u409/dewas-diminta-periksa-wakil-ketua-kpk-alexander-marwata-ini-alasannya"
-    },
-    {
-        "title": "Gagal Cegah Serangan Hamas, Kepala Intelijen Israel Mundur",
-        "category": "Khazanah",
-        "publish_time": "22-04-2024 11:19",
-        "news_link": "https://khazanah.republika.co.id/berita/sccc5p366/gagal-cegah-serangan-hamas-kepala-intelijen-israel-mundur"
-    },
-    {
-        "title": "Surya Paloh Terima Putusan MK Soal Sengketa Pilpres",
-        "category": "News",
-        "publish_time": "22-04-2024 11:19",
-        "news_link": "https://news.republika.co.id/berita/sccbw8377/surya-paloh-terima-putusan-mk-soal-sengketa-pilpres"
     }
 ]
