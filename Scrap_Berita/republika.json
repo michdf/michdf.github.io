@@ -1,104 +1,260 @@
 [
     {
-        "title": "Ini 3 Hakim MK Beda Pendapat\u00a0dalam Penolakan Gugatan Tim Amin",
+        "title": "Razia Pertama Seusai lebaran Lebaran, Jalur Transjakarta Jatinegara Jadi Target",
         "category": "News",
-        "publish_time": "22-04-2024 07:09",
-        "news_link": "https://news.republika.co.id/berita/scc17z330/ini-3-hakim-mk-beda-pendapatdalam-penolakan-gugatan-tim-amin"
+        "publish_time": "22-04-2024 08:14",
+        "news_link": "https://news.republika.co.id/berita/scc482330/razia-pertama-seusai-lebaran-lebaran-jalur-transjakarta-jatinegara-jadi-target"
+    },
+    {
+        "title": "Saldi Isra: Penyalahgunaan Bansos Bisa Ditiru di Pilkada",
+        "category": "News",
+        "publish_time": "22-04-2024 08:13",
+        "news_link": "https://news.republika.co.id/berita/scc475409/saldi-isra-penyalahgunaan-bansos-bisa-ditiru-di-pilkada"
+    },
+    {
+        "title": "London Maraton 2024 Perjuangkan Semangat Kartini",
+        "category": "Network",
+        "publish_time": "22-04-2024 08:12",
+        "news_link": "https://asiastar.id/posts/302912/london-maraton-2024-perjuangkan-semangat-kartini"
+    },
+    {
+        "title": "Celah Pelanggaran yang Digarisbawahi dalam Putusan MK",
+        "category": "News",
+        "publish_time": "22-04-2024 08:09",
+        "news_link": "https://www.republika.id/posts/52191/celah-pelanggaran-yang-disinggung-dalam-putusan-mk"
+    },
+    {
+        "title": "Dissenting Opinion Saldi Isra: Ada Ketidaknetralan Kepala Daerah dan Kamuflase Bansos",
+        "category": "News",
+        "publish_time": "22-04-2024 08:08",
+        "news_link": "https://news.republika.co.id/berita/scc3xu409/dissenting-opinion-saldi-isra-ada-ketidaknetralan-kepala-daerah-dan-kamuflase-bansos"
+    },
+    {
+        "title": "Dilaporkan ke Polda karena Temui Koruptor, Alexander Marwata: Ada yang Ingin KPK Gaduh",
+        "category": "News",
+        "publish_time": "22-04-2024 08:08",
+        "news_link": "https://news.republika.co.id/berita/scc3xh330/dilaporkan-ke-polda-karena-temui-koruptor-alexander-marwata-ada-yang-ingin-kpk-gaduh"
+    },
+    {
+        "title": "Massa Aksi Sholat Berjamaah di Kawasan Patung Kuda",
+        "category": "News",
+        "publish_time": "22-04-2024 08:01",
+        "news_link": "https://news.republika.co.id/berita/scc3lx366/massa-aksi-sholat-berjamaah-di-kawasan-patung-kuda"
+    },
+    {
+        "title": "Direktur Eksekutif Hukum LPS Nikahkan Putranya, Presiden Jokowi Jadi Saksi",
+        "category": "Rejogja",
+        "publish_time": "22-04-2024 07:54",
+        "news_link": "https://rejogja.republika.co.id/berita/scc0y1291/direktur-eksekutif-hukum-lps-nikahkan-putranya-presiden-jokowi-jadi-saksi"
+    },
+    {
+        "title": "Anggota DKPP Mengaku Masih Proses Aduan Dugaan Asusila Ketua KPU",
+        "category": "News",
+        "publish_time": "22-04-2024 07:50",
+        "news_link": "https://news.republika.co.id/berita/scc34u330/anggota-dkpp-mengaku-masih-proses-aduan-dugaan-asusila-ketua-kpu"
+    },
+    {
+        "title": "Tradisi Syawalan di Indonesia, Ini Hukumnya Menurut Pandangan Ulama NU",
+        "category": "Khazanah",
+        "publish_time": "22-04-2024 07:48",
+        "news_link": "https://khazanah.republika.co.id/berita/scc31i366/tradisi-syawalan-di-indonesia-ini-hukumnya-menurut-pandangan-ulama-nu"
+    },
+    {
+        "title": "Apakah Oposisi Diperlukan?",
+        "category": "Video",
+        "publish_time": "22-04-2024 07:47",
+        "news_link": "https://tv.republika.co.id/berita/scc2zt418/apakah-oposisi-diperlukan"
+    },
+    {
+        "title": "Menengok Perhelatan Beijing International Film Festival",
+        "category": "Ameera",
+        "publish_time": "22-04-2024 07:47",
+        "news_link": "https://ameera.republika.co.id/berita/scc2zs370/menengok-perhelatan-beijing-international-film-festival"
+    },
+    {
+        "title": "Gelar Pelatihan Kerja, Pemkab Situbondo Fasilitasi 172 Peserta",
+        "category": "Rejogja",
+        "publish_time": "22-04-2024 07:47",
+        "news_link": "https://rejogja.republika.co.id/berita/scc2yq432/gelar-pelatihan-kerja-pemkab-situbondo-fasilitasi-172-peserta"
+    },
+    {
+        "title": "Dinas Pariwisata dan Ekonomi Kreatif DKI Jakarta Dorong Promosi Wisata Jakarta ke Mancanegara",
+        "category": "Network",
+        "publish_time": "22-04-2024 07:44",
+        "news_link": "https://cari.republika.co.id/posts/302920/dinas-pariwisata-dan-ekonomi-kreatif-dki-jakarta-dorong-promosi-wisata-jakarta-ke-mancanegara"
+    },
+    {
+        "title": "Lindungi Industri dalam Negeri, Kemenperin Rampungkan Regulasi Turunan Permendag",
+        "category": "Ekonomi",
+        "publish_time": "22-04-2024 07:41",
+        "news_link": "https://ekonomi.republika.co.id/berita/scc2ky430/lindungi-industri-dalam-negeri-kemenperin-rampungkan-regulasi-turunan-permendag"
+    },
+    {
+        "title": "Dissenting Opinion Saldi Isra: Seharusnya MK Perintahkan Pemungutan Suara Ulang",
+        "category": "News",
+        "publish_time": "22-04-2024 07:37",
+        "news_link": "https://news.republika.co.id/berita/scc2jb484/dissenting-opinion-saldi-isra-seharusnya-mk-perintahkan-pemungutan-suara-ulang"
+    },
+    {
+        "title": "Sosok 'Imam Ghazali Kecil' dari Jawa",
+        "category": "Islam Digest",
+        "publish_time": "22-04-2024 07:36",
+        "news_link": "https://www.republika.id/posts/52190/sosok-imam-ghazali-kecil-dari-jawa"
+    },
+    {
+        "title": "Celah Penyebab Terjadinya Pelanggaran\u00a0Pemilu Menurut MK",
+        "category": "News",
+        "publish_time": "22-04-2024 07:31",
+        "news_link": "https://news.republika.co.id/berita/scc27x409/celah-penyebab-terjadinya-pelanggaranpemilu-menurut-mk"
+    },
+    {
+        "title": "Viral Mobil Mati Mesin di Kali Kuning Merapi, Ternyata Bukan yang Pertama",
+        "category": "Ameera",
+        "publish_time": "22-04-2024 07:29",
+        "news_link": "https://ameera.republika.co.id/berita/scc25k370/viral-mobil-mati-mesin-di-kali-kuning-merapi-ternyata-bukan-yang-pertama"
+    },
+    {
+        "title": "Timnas Indonesia U-23 Tanpa Nathan di Perempat Final Piala Asia U-23",
+        "category": "Sport",
+        "publish_time": "22-04-2024 07:28",
+        "news_link": "https://sport.republika.co.id/berita/scc23o348/timnas-indonesia-u23-tanpa-nathan-di-perempat-final-piala-asia-u23"
+    },
+    {
+        "title": "Tim Puslabfor Polri Olah TKP Kebakaran Mampang",
+        "category": "News",
+        "publish_time": "22-04-2024 07:26",
+        "news_link": "https://news.republika.co.id/berita/scc212330/tim-puslabfor-polri-olah-tkp-kebakaran-mampang"
+    },
+    {
+        "title": "MK tak Yakin Jokowi Salurkan Bansos untuk Untungkan Prabowo-Gibran",
+        "category": "News",
+        "publish_time": "22-04-2024 07:17",
+        "news_link": "https://news.republika.co.id/berita/scc1le330/mk-tak-yakin-jokowi-salurkan-bansos-untuk-untungkan-prabowogibran"
+    },
+    {
+        "title": "KAI Klarifikasi Jumlah Korban Meninggal Akibat Tabrakan di Sumsel",
+        "category": "Ekonomi",
+        "publish_time": "22-04-2024 07:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/scc100457/kai-klarifikasi-jumlah-korban-meninggal-akibat-tabrakan-di-sumsel"
+    },
+    {
+        "title": "Presiden Jokowi Enggan Campuri Putusan MK",
+        "category": "News",
+        "publish_time": "22-04-2024 07:14",
+        "news_link": "https://news.republika.co.id/berita/scc1fg330/presiden-jokowi-enggan-campuri-putusan-mk"
+    },
+    {
+        "title": "Penurunan Minat Fakultas yang Dianggap Sudah Jenuh jadi Tantangan PTS",
+        "category": "Rejabar",
+        "publish_time": "22-04-2024 07:14",
+        "news_link": "https://rejabar.republika.co.id/berita/scc1e6512/penurunan-minat-fakultas-yang-dianggap-sudah-jenuh-jadi-tantangan-pts"
+    },
+    {
+        "title": "Bioskop Rakyat Ajak Penonton Sambut Kebangkitan Sinema Negeri",
+        "category": "Ameera",
+        "publish_time": "22-04-2024 07:14",
+        "news_link": "https://ameera.republika.co.id/berita/scc19t370/bioskop-rakyat-ajak-penonton-sambut-kebangkitan-sinema-negeri"
+    },
+    {
+        "title": "Ini 3 Hakim MK yang Beda Pendapat\u00a0dalam Penolakan Gugatan Tim Amin",
+        "category": "News",
+        "publish_time": "22-04-2024 07:14",
+        "news_link": "https://news.republika.co.id/berita/scc17z330/ini-3-hakim-mk-yang-beda-pendapatdalam-penolakan-gugatan-tim-amin"
     },
     {
         "title": "MK Sebut Penanganan Pelanggaran TSM Bukan Kewenangannya",
         "category": "News",
-        "publish_time": "22-04-2024 07:08",
+        "publish_time": "22-04-2024 07:14",
         "news_link": "https://news.republika.co.id/berita/scc15w484/mk-sebut-penanganan-pelanggaran-tsm-bukan-kewenangannya"
     },
     {
         "title": "Bantuan AS untuk Israel, CAIR: Hubungan Muslim Amerika dengan Biden di Titik Terendah",
         "category": "Khazanah",
-        "publish_time": "22-04-2024 07:08",
+        "publish_time": "22-04-2024 07:14",
         "news_link": "https://khazanah.republika.co.id/berita/scc15p366/bantuan-as-untuk-israel-cair-hubungan-muslim-amerika-dengan-biden-di-titik-terendah"
     },
     {
         "title": "KH Shaleh Darat, Mahaguru Para Tokoh Bangsa",
         "category": "Islam Digest",
-        "publish_time": "22-04-2024 07:06",
+        "publish_time": "22-04-2024 07:14",
         "news_link": "https://www.republika.id/posts/52189/kh-shaleh-darat-mahaguru-para-tokoh-bangsa"
     },
     {
         "title": "Dua Heli Militer Jepang Kecelakaan, Penyebab Belum Diketahui",
         "category": "Internasional",
-        "publish_time": "22-04-2024 07:04",
+        "publish_time": "22-04-2024 07:14",
         "news_link": "https://internasional.republika.co.id/berita/scc0yk370/dua-heli-militer-jepang-kecelakaan-penyebab-belum-diketahui"
     },
     {
         "title": "Tak Ada Lawan Mudah Bagi Timnas U-23 di Perempat Final Piala Asia U-23",
         "category": "Sport",
-        "publish_time": "22-04-2024 07:03",
+        "publish_time": "22-04-2024 07:14",
         "news_link": "https://sport.republika.co.id/berita/scc0x1348/tak-ada-lawan-mudah-bagi-timnas-u23-di-perempat-final-piala-asia-u23"
     },
     {
         "title": "Basarnas Sebut tak Ada Laporan Dugaan Pesawat Jatuh di Nagekeo NTT",
         "category": "News",
-        "publish_time": "22-04-2024 07:00",
+        "publish_time": "22-04-2024 07:14",
         "news_link": "https://news.republika.co.id/berita/scc0gr457/basarnas-sebut-tak-ada-laporan-dugaan-pesawat-jatuh-di-nagekeo-ntt"
     },
     {
         "title": "MK Tolak Gugatan Anies-Muhaimin",
         "category": "News",
-        "publish_time": "22-04-2024 06:53",
+        "publish_time": "22-04-2024 07:14",
         "news_link": "https://news.republika.co.id/berita/scc0hs409/mk-tolak-gugatan-aniesmuhaimin"
     },
     {
         "title": "Tarif Cukai Dua Digit Suburkan Rokok Ilegal, Rumusan CHT 2025 Dinilai Perlu Ditinjau Ulang",
         "category": "Rejogja",
-        "publish_time": "22-04-2024 06:53",
+        "publish_time": "22-04-2024 07:14",
         "news_link": "https://rejogja.republika.co.id/berita/scc0gu291/tarif-cukai-dua-digit-suburkan-rokok-ilegal-rumusan-cht-2025-dinilai-perlu-ditinjau-ulang"
     },
     {
         "title": "Perjuangan Melintasi Akses ke Sekolah Terdampak Banjir Lahar Hujan Semeru",
         "category": "Visual",
-        "publish_time": "22-04-2024 06:50",
+        "publish_time": "22-04-2024 07:14",
         "news_link": "https://visual.republika.co.id/berita/scbze5491/perjuangan-melintasi-akses-ke-sekolah-terdampak-banjir-lahar-hujan-semeru"
     },
     {
         "title": "Jangan Bingung, Ini Bedanya Visa Kunjungan Wisata dan Visa on Arrival",
         "category": "News",
-        "publish_time": "22-04-2024 06:48",
+        "publish_time": "22-04-2024 07:14",
         "news_link": "https://news.republika.co.id/berita/scc08n370/jangan-bingung-ini-bedanya-visa-kunjungan-wisata-dan-visa-on-arrival"
     },
     {
-        "title": "Beredar Info Pesawat Wings Air Jatuh Di Kupang, AirNav Indonesia: Hoaks",
+        "title": "Beredar Info Pesawat Wings Air Jatuh di Kupang, AirNav Indonesia: Hoaks",
         "category": "Ekonomi",
-        "publish_time": "22-04-2024 06:45",
+        "publish_time": "22-04-2024 06:14",
         "news_link": "https://ekonomi.republika.co.id/berita/scbzza457/beredar-info-pesawat-wings-air-jatuh-di-kupang-airnav-indonesia-hoaks"
     },
     {
         "title": "Fakta Baru: Bahan Penting Penyusun Kehidupan Lebih Mudah Terbentuk di Luar Angkasa",
         "category": "Network",
-        "publish_time": "22-04-2024 06:37",
+        "publish_time": "22-04-2024 06:14",
         "news_link": "https://antariksa.republika.co.id/sains/1714564594/fakta-baru-bahan-penting-penyusun-kehidupan-lebih-mudah-terbentuk-di-luar-angkasa"
     },
     {
         "title": "BNPB: Skenario Evakuasi Warga Penting Walau Status Gunung Ruang Turun",
         "category": "News",
-        "publish_time": "22-04-2024 06:31",
+        "publish_time": "22-04-2024 06:14",
         "news_link": "https://news.republika.co.id/berita/scbzfs423/bnpb-skenario-evakuasi-warga-penting-walau-status-gunung-ruang-turun"
     },
     {
         "title": "Portugis Serbu Pasai Fatahillah Lari, Kenapa Portugis Kalah dari Fatahillah di Sunda Kelapa?",
         "category": "Network",
-        "publish_time": "22-04-2024 06:30",
+        "publish_time": "22-04-2024 06:14",
         "news_link": "https://oohya.republika.co.id/lincak/1744564555/portugis-serbu-pasai-fatahillah-lari-kenapa-portugis-kalah-dari-fatahillah-di-sunda-kelapa"
     },
     {
-        "title": "Acil Odah Inisiasi\u00a0 Gerakan \"Perempuan Menanam\" Ribuan Pohon",
+        "title": "Acil Odah Inisiasi\u00a0 Gerakan 'Perempuan Ribuan Pohon'",
         "category": "News",
-        "publish_time": "22-04-2024 06:25",
-        "news_link": "https://news.republika.co.id/berita/scbz63423/acil-odah-inisiasi-gerakan-perempuan-menanam-ribuan-pohon"
+        "publish_time": "22-04-2024 06:14",
+        "news_link": "https://news.republika.co.id/berita/scbz63423/acil-odah-inisiasi-gerakan-perempuan-ribuan-pohon"
     },
     {
         "title": "PVMBG: Status Gunung Ruang Turun ke Level Siaga",
         "category": "News",
-        "publish_time": "22-04-2024 06:18",
+        "publish_time": "22-04-2024 06:14",
         "news_link": "https://news.republika.co.id/berita/scbyuy370/pvmbg-status-gunung-ruang-turun-ke-level-siaga"
     },
     {
@@ -116,187 +272,31 @@
     {
         "title": "Gunakan Material Hijau di IKN, PUPR: Bisa Kurangi Emisi Karbon",
         "category": "Esgnow",
-        "publish_time": "22-04-2024 06:11",
+        "publish_time": "22-04-2024 06:14",
         "news_link": "https://esgnow.republika.co.id/berita/scbyi9490/gunakan-material-hijau-di-ikn-pupr-bisa-kurangi-emisi-karbon"
     },
     {
         "title": "Halal Bihalal Pesantren Nuu Waar, Ustadz Fadzlan Garamatan: Momen Tingkatkan Kualitas Sant",
         "category": "Khazanah",
-        "publish_time": "22-04-2024 06:10",
+        "publish_time": "22-04-2024 06:14",
         "news_link": "https://khazanah.republika.co.id/berita/scbyhk313/halal-bihalal-pesantren-nuu-waar-ustadz-fadzlan-garamatan-momen-tingkatkan-kualitas-sant"
     },
     {
         "title": "Gibran Ajak Semua Pihak Hormati Putusan MK",
         "category": "News",
-        "publish_time": "22-04-2024 06:10",
+        "publish_time": "22-04-2024 06:14",
         "news_link": "https://news.republika.co.id/berita/scbydu484/gibran-ajak-semua-pihak-hormati-putusan-mk"
     },
     {
         "title": "Jangan Gadaikan Akidahmu Demi Dunia",
         "category": "Retizen",
-        "publish_time": "22-04-2024 06:10",
+        "publish_time": "22-04-2024 06:14",
         "news_link": "https://retizen.republika.co.id/posts/302901/jangan-gadaikan-akidahmu-demi-dunia"
     },
     {
         "title": "Konsep Pemeliharaan Harta dalam Perspektif Konvensional dan Syari'ah",
         "category": "Retizen",
-        "publish_time": "22-04-2024 06:10",
+        "publish_time": "22-04-2024 06:14",
         "news_link": "https://retizen.republika.co.id/posts/302900/konsep-pemeliharaan-harta-dalam-perspektif-konvensional-dan-syariah"
-    },
-    {
-        "title": "BI: Kegiatan Dunia Usaha Meningkat pada Kuartal I 2024",
-        "category": "Ekonomi",
-        "publish_time": "22-04-2024 06:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/scbyat490/bi-kegiatan-dunia-usaha-meningkat-pada-kuartal-i-2024"
-    },
-    {
-        "title": "Ekonom: Cadangan Devisa Tahan Laju Pelemahan Rupiah",
-        "category": "Ekonomi",
-        "publish_time": "22-04-2024 06:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/scby1r490/ekonom-cadangan-devisa-tahan-laju-pelemahan-rupiah"
-    },
-    {
-        "title": "Hakim MK: Jokowi Endorse Prabowo-Gibran tak Langgar Hukum",
-        "category": "News",
-        "publish_time": "22-04-2024 06:10",
-        "news_link": "https://news.republika.co.id/berita/scbxr1484/hakim-mk-jokowi-endorse-prabowogibran-tak-langgar-hukum"
-    },
-    {
-        "title": "Ini Dampak Buruk Konsumsi Gula Berlebihan pada Bayi",
-        "category": "Ameera",
-        "publish_time": "22-04-2024 06:10",
-        "news_link": "https://ameera.republika.co.id/berita/scbxy4370/ini-dampak-buruk-konsumsi-gula-berlebihan-pada-bayi"
-    },
-    {
-        "title": "Majukan Muba, Pj Bupati Sandi Fahlevi Diperkuat Sekda Apriyadi",
-        "category": "News",
-        "publish_time": "22-04-2024 06:10",
-        "news_link": "https://news.republika.co.id/berita/scbxt3423/majukan-muba-pj-bupati-sandi-fahlevi-diperkuat-sekda-apriyadi"
-    },
-    {
-        "title": "Korsel Buat Perjanjian Sediakan Dana Kerja Sama Ekonomi untuk Ukraina",
-        "category": "Internasional",
-        "publish_time": "22-04-2024 06:10",
-        "news_link": "https://internasional.republika.co.id/berita/scbxpp370/korsel-buat-perjanjian-sediakan-dana-kerja-sama-ekonomi-untuk-ukraina"
-    },
-    {
-        "title": "Sistem Pembayaran Angkot Listrik di Kota Bogor akan Semakin Lengkap dan Variatif",
-        "category": "Rejabar",
-        "publish_time": "22-04-2024 06:10",
-        "news_link": "https://rejabar.republika.co.id/berita/scbxk7512/sistem-pembayaran-angkot-listrik-di-kota-bogor-akan-semakin-lengkap-dan-variatif"
-    },
-    {
-        "title": "Menhan Prabowo Bekerja Seperti Biasanya Saat Putusan MK Dibacakan",
-        "category": "News",
-        "publish_time": "22-04-2024 06:10",
-        "news_link": "https://news.republika.co.id/berita/scbxby484/menhan-prabowo-bekerja-seperti-biasanya-saat-putusan-mk-dibacakan"
-    },
-    {
-        "title": "Penerbangan ke Manado Belum Pulih, Warga Pilih Gunakan Kapal",
-        "category": "Ekonomi",
-        "publish_time": "22-04-2024 06:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/scbxhu490/penerbangan-ke-manado-belum-pulih-warga-pilih-gunakan-kapal"
-    },
-    {
-        "title": "UIN Malang Sediakan 1.842 Kursi di Jalur UM PTKIN 2024, Cek Daya Tampung 14 Prodi",
-        "category": "Network",
-        "publish_time": "22-04-2024 06:10",
-        "news_link": "https://kampus.republika.co.id/info-kampus/1624564465/uin-malang-sediakan-1842-kursi-di-jalur-um-ptkin-2024-cek-daya-tampung-14-prodi"
-    },
-    {
-        "title": "MK Nilai Dalil AMIN Soal Jokowi Dukung Gibran Jadi Cawapres tak Cukup Kuat",
-        "category": "News",
-        "publish_time": "22-04-2024 05:10",
-        "news_link": "https://news.republika.co.id/berita/scbx3o409/mk-nilai-dalil-amin-soal-jokowi-dukung-gibran-jadi-cawapres-tak-cukup-kuat"
-    },
-    {
-        "title": "Hadapi Gejolak Geopolitik, OJK Cegah Bank Tertimpa Masalah",
-        "category": "Ekonomi",
-        "publish_time": "22-04-2024 05:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/scbx19490/hadapi-gejolak-geopolitik-ojk-cegah-bank-tertimpa-masalah"
-    },
-    {
-        "title": "Ajang Balap Mobil Sri Lanka Tewaskan Tujuh Orang",
-        "category": "Internasional",
-        "publish_time": "22-04-2024 05:10",
-        "news_link": "https://internasional.republika.co.id/berita/scbww5370/ajang-balap-mobil-sri-lanka-tewaskan-tujuh-orang"
-    },
-    {
-        "title": "Flypass F16 Puncaki HUT ke-78 TNI AU di Yogyakarta",
-        "category": "Visual",
-        "publish_time": "22-04-2024 05:10",
-        "news_link": "https://visual.republika.co.id/berita/scbvsj491/flypass-f16-puncaki-hut-ke78-tni-au-di-yogyakarta"
-    },
-    {
-        "title": "Satpam Apotek Jadi Korban Begal di Bandung, Alami Luka Akibat Sabetan Golok",
-        "category": "Rejabar",
-        "publish_time": "22-04-2024 05:10",
-        "news_link": "https://rejabar.republika.co.id/berita/scbwr3512/satpam-apotek-jadi-korban-begal-di-bandung-alami-luka-akibat-sabetan-golok"
-    },
-    {
-        "title": "Solusi terhadap Komersialisasi Pendidikan Islam",
-        "category": "Retizen",
-        "publish_time": "22-04-2024 05:10",
-        "news_link": "https://retizen.republika.co.id/posts/302895/solusi-terhadap-komersialisasi-pendidikan-islam"
-    },
-    {
-        "title": "Pembangunan Tahap Awal Rutan Semarang Tuntas, Daya Tampung 550 Orang",
-        "category": "Rejogja",
-        "publish_time": "22-04-2024 05:10",
-        "news_link": "https://rejogja.republika.co.id/berita/scbwpw432/pembangunan-tahap-awal-rutan-semarang-tuntas-daya-tampung-550-orang"
-    },
-    {
-        "title": "Tokoh Masyarakat Kukusan Pradi Supriatna, Lebaran Kukusan Membantu Angkat Potensi UMKM",
-        "category": "Network",
-        "publish_time": "22-04-2024 05:10",
-        "news_link": "https://ruzka.republika.co.id/gaya-hidup/1674564404/tokoh-masyarakat-kukusan-pradi-supriatna-lebaran-kukusan-membantu-angkat-potensi-umkm"
-    },
-    {
-        "title": "Polisi Jaga Ketat Area Gedung Mahkamah Konstitusi",
-        "category": "Video",
-        "publish_time": "22-04-2024 05:10",
-        "news_link": "https://tv.republika.co.id/berita/scbwl6313/polisi-jaga-ketat-area-gedung-mahkamah-konstitusi"
-    },
-    {
-        "title": "DKI Terapkan Inovasi Pengendali Banjir di Kawasan Rawan Terendam",
-        "category": "Rejakarta",
-        "publish_time": "22-04-2024 05:10",
-        "news_link": "https://republika.co.id/berita/scbwfs485/dki-terapkan-inovasi-pengendali-banjir-di-kawasan-rawan-terendam"
-    },
-    {
-        "title": "Juara Lagi, Verstappen Mendominasi Grand Prix Tiongkok",
-        "category": "Network",
-        "publish_time": "22-04-2024 05:10",
-        "news_link": "https://motoresto.id/posts/302770/juara-lagi-verstappen-mendominasi-grand-prix-tiongkok"
-    },
-    {
-        "title": "Dewan Fiqih Islam Adakan Pertemuan Bahas Isu Kontemporer",
-        "category": "Ihram",
-        "publish_time": "22-04-2024 05:10",
-        "news_link": "https://ihram.republika.co.id/berita/scbwd2366/dewan-fiqih-islam-adakan-pertemuan-bahas-isu-kontemporer"
-    },
-    {
-        "title": "STY Ingin Bawa Timnas Melangkah Lebih Jauh di Piala Asia U-23",
-        "category": "Sport",
-        "publish_time": "22-04-2024 05:10",
-        "news_link": "https://www.republika.id/posts/52187/sty-ingin-bawa-timnas-melangkah-lebih-jauh-di-piala-asia-u-23"
-    },
-    {
-        "title": "Timnas Indonesia yang tak Berhenti Cetak Sejarah",
-        "category": "Sport",
-        "publish_time": "22-04-2024 05:10",
-        "news_link": "https://sport.republika.co.id/berita/scbw3t348/timnas-indonesia-yang-tak-berhenti-cetak-sejarah"
-    },
-    {
-        "title": "Hakim Temukan Fakta Hukum Korelasi Positif Bansos dengan Pasangan Calon",
-        "category": "News",
-        "publish_time": "22-04-2024 05:10",
-        "news_link": "https://news.republika.co.id/berita/scbw3k409/hakim-temukan-fakta-hukum-korelasi-positif-bansos-dengan-pasangan-calon"
-    },
-    {
-        "title": "Avrist Assurance Berbagi Kebahagiaan Bersama Anak-Anak Berkebutuhan Khusus di Panti YPLB Nusantara D",
-        "category": "Network",
-        "publish_time": "22-04-2024 05:10",
-        "news_link": "https://cari.republika.co.id/posts/302896/avrist-assurance-berbagi-kebahagiaan-bersama-anak-anak-berkebutuhan-khusus-di-panti-yplb-nusantara-depok"
     }
 ]
