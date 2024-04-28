@@ -1,21 +1,153 @@
 [
     {
+        "title": "Parade Scudetto Inter Penuhi Jalanan Kota Milan",
+        "category": "Visual",
+        "publish_time": "28 April 2024, 23:10",
+        "news_link": "https://visual.republika.co.id/berita/scnrqj491/parade-scudetto-inter-penuhi-jalanan-kota-milan"
+    },
+    {
+        "title": "Sejumlah Bos Pengusaha Indonesia Sumbangkan Rp 23 M untuk Timnas, Ini Respons Erick Thohir",
+        "category": "Sport",
+        "publish_time": "28 April 2024, 23:08",
+        "news_link": "https://sport.republika.co.id/berita/scnu5u456/sejumlah-bos-pengusaha-indonesia-sumbangkan-rp-23-m-untuk-timnas-ini-respons-erick-thohir"
+    },
+    {
+        "title": "Khofifah Akui Nyaman dan Produktif Bersama Emil Dardak",
+        "category": "News",
+        "publish_time": "28 April 2024, 23:05",
+        "news_link": "https://news.republika.co.id/berita/scnmti330/khofifah-akui-nyaman-dan-produktif-bersama-emil-dardak"
+    },
+    {
+        "title": "BPBD: 77 Kepala Keluarga di Jatisari Cianjur Diungsikan",
+        "category": "News",
+        "publish_time": "28 April 2024, 22:57",
+        "news_link": "https://news.republika.co.id/berita/scntnu320/bpbd-77-kepala-keluarga-di-jatisari-cianjur-diungsikan"
+    },
+    {
+        "title": "Meski Nikah Beda Agama, Shakh Rukh Khan Kagumi Rasulullah: Bela Islam Agenda Terpenting",
+        "category": "Khazanah",
+        "publish_time": "28 April 2024, 22:52",
+        "news_link": "https://khazanah.republika.co.id/berita/scntg8320/meski-nikah-beda-agama-shakh-rukh-khan-kagumi-rasulullah-bela-islam-agenda-terpenting"
+    },
+    {
+        "title": "Marc Marquez Akhirnya Podium, Bagnaia Menjadi yang Tercepat",
+        "category": "Visual",
+        "publish_time": "28 April 2024, 22:50",
+        "news_link": "https://visual.republika.co.id/berita/scnr2c491/marc-marquez-akhirnya-podium-bagnaia-menjadi-yang-tercepat"
+    },
+    {
+        "title": "Lawan Uzbekistan, Indonesia Siap Berikan Lebih dari Apa yang Ditunjukkan di Laga vs Korsel",
+        "category": "Sport",
+        "publish_time": "28 April 2024, 22:48",
+        "news_link": "https://sport.republika.co.id/berita/scnsqa456/lawan-uzbekistan-indonesia-siap-berikan-lebih-dari-apa-yang-ditunjukkan-di-laga-vs-korsel"
+    },
+    {
+        "title": "Lima Orang Terluka ditabrak Oleh Mobil Listrik Ini di Sebuah Pameran Otomotif",
+        "category": "Network",
+        "publish_time": "28 April 2024, 22:39",
+        "news_link": "https://motoresto.id/posts/304008/lima-orang-terluka-ditabrak-oleh-mobil-listrik-ini-di-sebuah-pameran-otomotif"
+    },
+    {
+        "title": "BPBD Sukabumi : 21 Unit Rumah di 18 Kecamatan Rusak Terdampak Gempa Garut",
+        "category": "Network",
+        "publish_time": "28 April 2024, 22:39",
+        "news_link": "https://bandung24jam.id/posts/304009/bpbd-sukabumi-21-unit-rumah-di-18-kecamatan-rusak-terdampak-gempa-garut"
+    },
+    {
+        "title": "Hari Puisi Nasional, Mahfud MD Bacakan Puisi dalam Halal Bihalal Guyub Bersama Alumni UII",
+        "category": "Network",
+        "publish_time": "28 April 2024, 22:38",
+        "news_link": "https://jedadulu.com/posts/304014/hari-puisi-nasional-mahfud-md-bacakan-puisi-dalam-halal-bihalal-guyub-bersama-alumni-uii"
+    },
+    {
+        "title": "Piala Thomas Uber 2024: Pelatih Minta Tim Putra Waspadai Ganda Thailand",
+        "category": "Network",
+        "publish_time": "28 April 2024, 22:38",
+        "news_link": "https://badmintonews.id/posts/304016/piala-thomas-uber-2024-pelatih-minta-tim-putra-waspadai-ganda-thailand"
+    },
+    {
+        "title": "Mengenal Saung Angklung Katineung, Tempat Edukasi dan Produksi Angklung di Sukabumi",
+        "category": "Network",
+        "publish_time": "28 April 2024, 22:38",
+        "news_link": "https://bandung24jam.id/posts/304019/mengenal-saung-angklung-katineung-tempat-edukasi-dan-produksi-angklung-di-sukabumi"
+    },
+    {
+        "title": "Tekiro Mechanic Competition 2024 Mencari Mekanik Top Masa Depan Indonesia",
+        "category": "Network",
+        "publish_time": "28 April 2024, 22:38",
+        "news_link": "https://motoresto.id/posts/304020/tekiro-mechanic-competition-2024-mencari-mekanik-top-masa-depan-indonesia"
+    },
+    {
+        "title": "Piala Thomas Uber 2024: Fajar Alfian Bertekad Bawa Pulang Piala Thomas",
+        "category": "Network",
+        "publish_time": "28 April 2024, 22:38",
+        "news_link": "https://badmintonews.id/posts/304021/piala-thomas-uber-2024-fajar-alfian-bertekad-bawa-pulang-piala-thomas"
+    },
+    {
+        "title": "Puluhan Rumah di Sukabumi Rusak Terdampak Gempa Garut Magnitudo 6.5",
+        "category": "Network",
+        "publish_time": "28 April 2024, 22:37",
+        "news_link": "https://bandung24jam.id/posts/304026/puluhan-rumah-di-sukabumi-rusak-terdampak-gempa-garut-magnitudo-6-5"
+    },
+    {
+        "title": "24 Mahasiswa Program Kampus Merdeka Datangi Istana Kesultanan Palembang",
+        "category": "Network",
+        "publish_time": "28 April 2024, 22:37",
+        "news_link": "https://kingdomsriwijaya.id/posts/304047/24-mahasiswa-program-kampus-merdeka-datangi-istana-kesultanan-palembang"
+    },
+    {
+        "title": "Mandat atau Plt yang Disematkan kepada Manusia sebagai Khalifah Fil Ardl",
+        "category": "Network",
+        "publish_time": "28 April 2024, 22:37",
+        "news_link": "https://topnews62.com/posts/303965/mandat-atau-plt-yang-disematkan-kepada-manusia-sebagai-khalifah-fil-ardl"
+    },
+    {
+        "title": "Barang Bukti Penangkapan Artis Rio Reifan, 3 Paket Sabu dan 12 Butir Alprazolam",
+        "category": "News",
+        "publish_time": "28 April 2024, 22:35",
+        "news_link": "https://news.republika.co.id/berita/scnmne330/barang-bukti-penangkapan-artis-rio-reifan-3-paket-sabu-dan-12-butir-alprazolam"
+    },
+    {
+        "title": "Hasil Derbi London Utara, Spurs Dipermalukan Arsenal di Rumah Sendiri",
+        "category": "Sport",
+        "publish_time": "28 April 2024, 22:33",
+        "news_link": "https://sport.republika.co.id/berita/scnsj0456/hasil-derbi-london-utara-spurs-dipermalukan-arsenal-di-rumah-sendiri"
+    },
+    {
+        "title": "Tunjukkan Dukungan, Bos-Bos Pengusaha Tanah Air Kumpulkan Rp 23 Miliar untuk Timnas",
+        "category": "Sport",
+        "publish_time": "28 April 2024, 22:20",
+        "news_link": "https://sport.republika.co.id/berita/scnrh6456/tunjukkan-dukungan-bosbos-pengusaha-tanah-air-kumpulkan-rp-23-miliar-untuk-timnas"
+    },
+    {
+        "title": "Kembali Terjerat Kasus Narkoba, Polisi: Rio Reifan Mengaku Khilaf",
+        "category": "News",
+        "publish_time": "28 April 2024, 22:20",
+        "news_link": "https://news.republika.co.id/berita/scnn56330/kembali-terjerat-kasus-narkoba-polisi-rio-reifan-mengaku-khilaf"
+    },
+    {
+        "title": "Promosikan Seni Budaya, Festival Semarapura 2024 Digelar Meriah",
+        "category": "Visual",
+        "publish_time": "28 April 2024, 22:20",
+        "news_link": "https://visual.republika.co.id/berita/scnpqw491/promosikan-seni-budaya-festival-semarapura-2024-digelar-meriah"
+    },
+    {
         "title": "Pelaku Aksi Koboi Todong Pistol di Bandung Ditangkap",
         "category": "News",
         "publish_time": "28 April 2024, 22:05",
         "news_link": "https://news.republika.co.id/berita/scnmf4330/pelaku-aksi-koboi-todong-pistol-di-bandung-ditangkap"
     },
     {
-        "title": "Di Depan Para Pebisnis Kakap, Erick Thohir: Sepak Bola Mempersatukan Kita",
+        "title": "Di Depan Para Pebisnis Tanah Air, Erick Thohir: Sepak Bola Mempersatukan Kita",
         "category": "Sport",
         "publish_time": "28 April 2024, 22:00",
-        "news_link": "https://sport.republika.co.id/berita/scnqs8456/di-depan-para-pebisnis-kakap-erick-thohir-sepak-bola-mempersatukan-kita"
+        "news_link": "https://sport.republika.co.id/berita/scnqs8456/di-depan-para-pebisnis-tanah-air-erick-thohir-sepak-bola-mempersatukan-kita"
     },
     {
-        "title": "Influencer Promosikan Suplemen Embel-Embel Sehat, Masyarakat Diimbau tak Langsunh Percaya",
+        "title": "Influencer Promosikan Suplemen Embel-Embel Sehat, Masyarakat Diimbau tak Langsung Percaya",
         "category": "Ameera",
         "publish_time": "28 April 2024, 21:52",
-        "news_link": "https://ameera.republika.co.id/berita/scnqoa425/influencer-promosikan-suplemen-embelembel-sehat-masyarakat-diimbau-tak-langsunh-percaya"
+        "news_link": "https://ameera.republika.co.id/berita/scnqoa425/influencer-promosikan-suplemen-embelembel-sehat-masyarakat-diimbau-tak-langsung-percaya"
     },
     {
         "title": "Pemkot Yogyakarta Terus Menyisir Tumpukan Sampah di Jalan",
@@ -24,7 +156,7 @@
         "news_link": "https://news.republika.co.id/berita/scnm33330/pemkot-yogyakarta-terus-menyisir-tumpukan-sampah-di-jalan"
     },
     {
-        "title": "Shin Tae-yong Sudah Paham Kekuatan Utama Uzbekistan U-23, Ini Pemikirannya",
+        "title": "Shin Tae-Yong Sudah Paham Kekuatan Utama Uzbekistan U-23, Ini Pemikirannya",
         "category": "Sport",
         "publish_time": "28 April 2024, 21:49",
         "news_link": "https://sport.republika.co.id/berita/scnqbb456/shin-taeyong-sudah-paham-kekuatan-utama-uzbekistan-u23-ini-pemikirannya"
@@ -42,7 +174,7 @@
         "news_link": "https://sport.republika.co.id/berita/scnpzi456/ibl-allstar-2024-team-future-kembali-kalahkan-legacy"
     },
     {
-        "title": "Waketum PAN: Tim Transisi Jokowi ke Prabowo Tidak Ada Hambatan",
+        "title": "Waketum PAN: Tim Transisi Jokowi ke Prabowo tidak Ada Hambatan",
         "category": "News",
         "publish_time": "28 April 2024, 21:35",
         "news_link": "https://news.republika.co.id/berita/scnlvb330/waketum-pan-tim-transisi-jokowi-ke-prabowo-tidak-ada-hambatan"
@@ -72,10 +204,10 @@
         "news_link": "https://news.republika.co.id/berita/scnlpi330/prabowo-keberlanjutan-juga-butuh-perbaikan"
     },
     {
-        "title": "Inter Milan Menang dikandang 2-0 melawan Torino",
+        "title": "Inter Milan Menang 2-0 di Kandang Melawan Torino",
         "category": "Visual",
         "publish_time": "28 April 2024, 21:20",
-        "news_link": "https://visual.republika.co.id/berita/scnp5c491/inter-milan-menang-dikandang-20-melawan-torino"
+        "news_link": "https://visual.republika.co.id/berita/scnp5c491/inter-milan-menang-20-di-kandang-melawan-torino"
     },
     {
         "title": "BPBD: Gempa Garut Akibatkan Tiang Listrik Roboh di Cianjur",
@@ -166,137 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "28 April 2024, 20:16",
         "news_link": "https://ekonomi.republika.co.id/berita/scnm7x463/dorong-inklusi-keuangan-indonesia-bri-perkuat-kolaborasi-strategis-dengan-microsoft"
-    },
-    {
-        "title": "Apindo Jabar Kerja Sama dengan Beberapa Kampus Tumbuhkan Minat Berwirausaha Mahasiswa",
-        "category": "Rejabar",
-        "publish_time": "28 April 2024, 20:16",
-        "news_link": "https://rejabar.republika.co.id/berita/scnm6y512/apindo-jabar-kerja-sama-dengan-beberapa-kampus-tumbuhkan-minat-berwirausaha-mahasiswa"
-    },
-    {
-        "title": "Rumah Rusak di Bandung Imbas Gempa yang Berpusat di Garut",
-        "category": "Visual",
-        "publish_time": "28 April 2024, 20:15",
-        "news_link": "https://visual.republika.co.id/berita/scnky6491/rumah-rusak-di-bandung-imbas-gempa-yang-berpusat-di-garut"
-    },
-    {
-        "title": "Polisi Amankan Puluhan Remaja Anggota Gangster Bakal Tawuran di Semarang",
-        "category": "News",
-        "publish_time": "28 April 2024, 20:05",
-        "news_link": "https://news.republika.co.id/berita/scnhqs330/polisi-amankan-puluhan-remaja-anggota-gangster-bakal-tawuran-di-semarang"
-    },
-    {
-        "title": "Rusia Hancurkan 17 Drone yang Diluncurkan dari Ukraina",
-        "category": "Internasional",
-        "publish_time": "28 April 2024, 19:58",
-        "news_link": "https://internasional.republika.co.id/berita/scn7o8488/rusia-hancurkan-17-drone-yang-diluncurkan-dari-ukraina"
-    },
-    {
-        "title": "Bertarung Ketat, Marquez tak Kuasa Bendung Pecco Bagnaia Menangkan MotoGP Spanyol 2024",
-        "category": "Sport",
-        "publish_time": "28 April 2024, 19:55",
-        "news_link": "https://sport.republika.co.id/berita/scnl7p456/bertarung-ketat-marquez-tak-kuasa-bendung-pecco-bagnaia-menangkan-motogp-spanyol-2024"
-    },
-    {
-        "title": "PAN Sambut Baik Aksi Prabowo Silaturahmi ke Berbagai Parpol",
-        "category": "News",
-        "publish_time": "28 April 2024, 19:50",
-        "news_link": "https://news.republika.co.id/berita/scnh7e330/pan-sambut-baik-aksi-prabowo-silaturahmi-ke-berbagai-parpol"
-    },
-    {
-        "title": "Pertamina Pastikan Fasilitas Aman Pascagempa Garut",
-        "category": "Rejabar",
-        "publish_time": "28 April 2024, 19:47",
-        "news_link": "https://rejabar.republika.co.id/berita/scnkvf512/pertamina-pastikan-fasilitas-aman-pascagempa-garut"
-    },
-    {
-        "title": "Pj Gubernur Bey Sebut Aktivitas Warga Terdampak Gempa Garut Normal: Ibu-Ibu Sudah Botram",
-        "category": "Rejabar",
-        "publish_time": "28 April 2024, 19:40",
-        "news_link": "https://rejabar.republika.co.id/berita/scnkk8512/pj-gubernur-bey-sebut-aktivitas-warga-terdampak-gempa-garut-normal-ibuibu-sudah-botram"
-    },
-    {
-        "title": "BPBD DKI Ungkap 3 Sumber Ancaman Gempa di Jakarta",
-        "category": "News",
-        "publish_time": "28 April 2024, 19:35",
-        "news_link": "https://news.republika.co.id/berita/scngyv330/bpbd-dki-ungkap-3-sumber-ancaman-gempa-di-jakarta"
-    },
-    {
-        "title": "Gaharnya Uzbekistan U-23; Berbaju Asia, Bergaya Eropa",
-        "category": "Sport",
-        "publish_time": "28 April 2024, 19:27",
-        "news_link": "https://sport.republika.co.id/berita/scnjkj456/gaharnya-uzbekistan-u23-berbaju-asia-bergaya-eropa"
-    },
-    {
-        "title": "Persebaya Surabaya Kalahkan Persik Kediri",
-        "category": "Visual",
-        "publish_time": "28 April 2024, 19:26",
-        "news_link": "https://visual.republika.co.id/berita/scnjve491/persebaya-surabaya-kalahkan-persik-kediri"
-    },
-    {
-        "title": "Filipina Tiadakan Sementara Sekolah Tatap Muka karena Cuaca Panas Ekstrem",
-        "category": "Esgnow",
-        "publish_time": "28 April 2024, 19:25",
-        "news_link": "https://esgnow.republika.co.id/berita/scnju7425/filipina-tiadakan-sementara-sekolah-tatap-muka-karena-cuaca-panas-ekstrem"
-    },
-    {
-        "title": "Pascagempa Garut, BMKG Ingatkan Masyarakat Waspadai Potensi Longsor dan Banjir Bandang",
-        "category": "Rejabar",
-        "publish_time": "28 April 2024, 19:24",
-        "news_link": "https://rejabar.republika.co.id/berita/scnjt7512/pascagempa-garut-bmkg-ingatkan-masyarakat-waspadai-potensi-longsor-dan-banjir-bandang"
-    },
-    {
-        "title": "Prabowo Akui Jokowi Sangat Membantu Siapkan Diri Sebelum Dilantik",
-        "category": "News",
-        "publish_time": "28 April 2024, 19:20",
-        "news_link": "https://news.republika.co.id/berita/scngot330/prabowo-akui-jokowi-sangat-membantu-siapkan-diri-sebelum-dilantik"
-    },
-    {
-        "title": "Masyarakat Diimbau Waspada Potensi Longsor dan Banjir Bandang Setelah Gempa Garut M 6,2",
-        "category": "News",
-        "publish_time": "28 April 2024, 19:16",
-        "news_link": "https://news.republika.co.id/berita/scnjfm425/masyarakat-diimbau-waspada-potensi-longsor-dan-banjir-bandang-setelah-gempa-garut-m-62"
-    },
-    {
-        "title": "Diplomat: Bantuan AS Wujud Kepanikan akan Jatuhnya Rezim Zelenskyy",
-        "category": "Internasional",
-        "publish_time": "28 April 2024, 19:08",
-        "news_link": "https://internasional.republika.co.id/berita/scn8b4488/diplomat-bantuan-as-wujud-kepanikan-akan-jatuhnya-rezim-zelenskyy"
-    },
-    {
-        "title": "Tiket Semifinal Piala Asia U-23 Indonesia Vs Uzbekistan Ludes, Jepang Vs Irak Sepi",
-        "category": "Sport",
-        "publish_time": "28 April 2024, 19:07",
-        "news_link": "https://sport.republika.co.id/berita/scnj1b456/tiket-semifinal-piala-asia-u23-indonesia-vs-uzbekistan-ludes-jepang-vs-irak-sepi"
-    },
-    {
-        "title": "Batik Haji 2024 Kembali Diperkenalkan, Ini Filosofi di Balik Warna dan Motifnya",
-        "category": "Ihram",
-        "publish_time": "28 April 2024, 19:07",
-        "news_link": "https://ihram.republika.co.id/berita/scnizp320/batik-haji-2024-kembali-diperkenalkan-ini-filosofi-di-balik-warna-dan-motifnya"
-    },
-    {
-        "title": "Belarus Desak Ukraina Lakukan Pembicaraan Damai dengan Rusia",
-        "category": "Internasional",
-        "publish_time": "28 April 2024, 19:03",
-        "news_link": "https://internasional.republika.co.id/berita/scn7x4488/belarus-desak-ukraina-lakukan-pembicaraan-damai-dengan-rusia"
-    },
-    {
-        "title": "Imigrasi Bali Akhirnya Deportasi Hyoyeon SNSD Hingga Dita Karang",
-        "category": "News",
-        "publish_time": "28 April 2024, 19:01",
-        "news_link": "https://news.republika.co.id/berita/scnfs5330/imigrasi-bali-akhirnya-deportasi-hyoyeon-snsd-hingga-dita-karang"
-    },
-    {
-        "title": "Hari Tari Sedunia, Bakul Budaya FIB UI Pentaskan Tari Jejer Jaran Dhawuk Secara Massal",
-        "category": "Network",
-        "publish_time": "28 April 2024, 18:59",
-        "news_link": "https://ruzka.republika.co.id/komunitas/1674593082/hari-tari-sedunia-bakul-budaya-fib-ui-pentaskan-tari-jejer-jaran-dhawuk-secara-massal"
-    },
-    {
-        "title": "Konflik Hybe dan CEO Ador Min Hee-Jin Berlanjut, NewJeans Jadi \u2018Rebutan\u2019",
-        "category": "Ameera",
-        "publish_time": "28 April 2024, 18:54",
-        "news_link": "https://ameera.republika.co.id/berita/scnifi425/konflik-hybe-dan-ceo-ador-min-heejin-berlanjut-newjeans-jadi-rebutan"
     }
 ]
