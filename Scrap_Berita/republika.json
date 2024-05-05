@@ -1,15 +1,57 @@
 [
     {
-        "title": "Chen EXO Lakukan Aegyo di Panggung Saranghaeyo Indonesia, Penggemar Riuh",
+        "title": "Turki: Pengakuan Atas Negara Palestina Jadi Pukulan Telak Buat Israel",
+        "category": "Internasional",
+        "publish_time": "05 May 2024, 11:00",
+        "news_link": "https://internasional.republika.co.id/berita/sczu7u414/turki-pengakuan-atas-negara-palestina-jadi-pukulan-telak-buat-israel"
+    },
+    {
+        "title": "Demokrat Sebut tak Perlu Semua Parpol Diajak Bergabung Koalisi",
+        "category": "News",
+        "publish_time": "05 May 2024, 10:43",
+        "news_link": "https://news.republika.co.id/berita/sczros436/demokrat-sebut-tak-perlu-semua-parpol-diajak-bergabung-koalisi"
+    },
+    {
+        "title": "Le Sserafim Dituding Selipkan Propaganda Jepang Lewat Adegan Video Musik 'Burn the Bridge'",
         "category": "Ameera",
-        "publish_time": "05 May 2024, 10:10",
-        "news_link": "https://ameera.republika.co.id/berita/sczsc1414/chen-exo-lakukan-aegyo-di-panggung-saranghaeyo-indonesia-penggemar-riuh"
+        "publish_time": "05 May 2024, 10:35",
+        "news_link": "https://ameera.republika.co.id/berita/scztgy414/le-sserafim-dituding-selipkan-propaganda-jepang-lewat-adegan-video-musik-burn-the-bridge"
+    },
+    {
+        "title": "Kenapa Cucu Sultan Agung Pindah Ibu Kota ke Pajang? Dari Pajang Padahal Sudah Dipindah ke Mataram oleh Kakek Sultan Agung",
+        "category": "Network",
+        "publish_time": "05 May 2024, 10:32",
+        "news_link": "https://oohya.republika.co.id/lincak/1744618427/kenapa-cucu-sultan-agung-pindah-ibu-kota-ke-pajang-dari-pajang-padahal-sudah-dipindah-ke-mataram-oleh-kakek-sultan-agung"
+    },
+    {
+        "title": "Gregoria Kalah Dua Set Langsung Lawan Wakil Tuan Rumah, Indonesia Tertinggal dari China",
+        "category": "Sport",
+        "publish_time": "05 May 2024, 10:27",
+        "news_link": "https://sport.republika.co.id/berita/sczt0k436/gregoria-kalah-dua-set-langsung-lawan-wakil-tuan-rumah-indonesia-tertinggal-dari-china"
+    },
+    {
+        "title": "Man City Pesta Gol Kalahkan Wolverhampton 5-1",
+        "category": "Visual",
+        "publish_time": "05 May 2024, 10:22",
+        "news_link": "https://visual.republika.co.id/berita/scztdo491/man-city-pesta-gol-kalahkan-wolverhampton-51"
+    },
+    {
+        "title": "TV Saudi: Hamas Setuju untuk Bebaskan 33 Warga Israel yang Disandera",
+        "category": "Internasional",
+        "publish_time": "05 May 2024, 10:20",
+        "news_link": "https://internasional.republika.co.id/berita/sczsz2414/tv-saudi-hamas-setuju-untuk-bebaskan-33-warga-israel-yang-disandera"
     },
     {
         "title": "Kasus Tewasnya Taruna Mengungkap Masih Ada Tradisi Penganiayaan Senior ke Junior di STIP",
         "category": "News",
         "publish_time": "05 May 2024, 10:10",
         "news_link": "https://news.republika.co.id/berita/sczsmc436/kasus-tewasnya-taruna-mengungkap-masih-ada-tradisi-penganiayaan-senior-ke-junior-di-stip"
+    },
+    {
+        "title": "Chen EXO Lakukan Aegyo di Panggung Saranghaeyo Indonesia, Penggemar Riuh",
+        "category": "Ameera",
+        "publish_time": "05 May 2024, 10:10",
+        "news_link": "https://ameera.republika.co.id/berita/sczsc1414/chen-exo-lakukan-aegyo-di-panggung-saranghaeyo-indonesia-penggemar-riuh"
     },
     {
         "title": "Politikus Gerindra Sebut PKB sebagai Salah Satu Kunci di Parlemen",
@@ -126,10 +168,10 @@
         "news_link": "https://pemilukita.republika.co.id/berita/sczntx436/politikus-gerindra-tak-sulit-untuk-merangkul-pkb"
     },
     {
-        "title": "Tubuhnya Terlipat Sejak Masih SD, Pemuda China Selangkah Lebih Dekat untuk Berdiri Tegak",
+        "title": "Derita Ankylosing Spondylitis, Tubuh Pemuda China 'Tertekuk' Menyerupai Huruf Z",
         "category": "Ameera",
         "publish_time": "05 May 2024, 08:26",
-        "news_link": "https://ameera.republika.co.id/berita/sczo0k414/tubuhnya-terlipat-sejak-masih-sd-pemuda-china-selangkah-lebih-dekat-untuk-berdiri-tegak"
+        "news_link": "https://ameera.republika.co.id/berita/sczo0k414/derita-ankylosing-spondylitis-tubuh-pemuda-china-tertekuk-menyerupai-huruf-z"
     },
     {
         "title": "Berjuang Empat Tahun di Tengah Kerugian, Pabrik Sepatu Bata di Purwakarta Akhirnya Tutup",
@@ -256,47 +298,5 @@
         "category": "Ameera",
         "publish_time": "05 May 2024, 06:40",
         "news_link": "https://ameera.republika.co.id/berita/sczi4u414/rentan-alami-kekerasan-anakanak-dan-remaja-diserukan-jangan-pacaran"
-    },
-    {
-        "title": "Islam Anjurkan Giat Cari Rezeki, Tapi Bukan Untuk Bermegah-megahan",
-        "category": "Islam Digest",
-        "publish_time": "05 May 2024, 06:40",
-        "news_link": "https://islamdigest.republika.co.id/berita/scziys430/islam-anjurkan-giat-cari-rezeki-tapi-bukan-untuk-bermegahmegahan"
-    },
-    {
-        "title": "Penelitian Ungkap Mengapa Banyak Pelajar di Jerman Ingin Masuk Islam",
-        "category": "Khazanah",
-        "publish_time": "05 May 2024, 06:33",
-        "news_link": "https://khazanah.republika.co.id/berita/sczisg430/penelitian-ungkap-mengapa-banyak-pelajar-di-jerman-ingin-masuk-islam"
-    },
-    {
-        "title": "Pembiayaan Mikro dan Ultra Mikro BRI Capai Rp 622,6 Triliun",
-        "category": "Ekonomi",
-        "publish_time": "05 May 2024, 06:33",
-        "news_link": "https://ekonomi.republika.co.id/berita/sczira472/pembiayaan-mikro-dan-ultra-mikro-bri-capai-rp-6226-triliun"
-    },
-    {
-        "title": "Pandemi Sudah Lewat, Pakar Sesali Laporan Baru WHO Soal Cara Penularan Covid-19",
-        "category": "Ameera",
-        "publish_time": "05 May 2024, 06:25",
-        "news_link": "https://ameera.republika.co.id/berita/sczhep414/pandemi-sudah-lewat-pakar-sesali-laporan-baru-who-soal-cara-penularan-covid19"
-    },
-    {
-        "title": "Arab Saudi Berambisi Tingkatkan Jumlah Jemaah Umrah Asal Indonesia",
-        "category": "Network",
-        "publish_time": "05 May 2024, 06:10",
-        "news_link": "https://topnews62.com/posts/305018/arab-saudi-berambisi-tingkatkan-jumlah-jemaah-umrah-asal-indonesia"
-    },
-    {
-        "title": "Dukungan BUMN Bikin Olahraga Indonesia Semakin Moncer",
-        "category": "Sport",
-        "publish_time": "05 May 2024, 06:06",
-        "news_link": "https://sport.republika.co.id/berita/sczhiq415/dukungan-bumn-bikin-olahraga-indonesia-semakin-moncer"
-    },
-    {
-        "title": "Verstappen Ungguli Leclerc pada Sesi Sprint Race GP Miami",
-        "category": "Sport",
-        "publish_time": "05 May 2024, 06:06",
-        "news_link": "https://sport.republika.co.id/berita/sczhif348/verstappen-ungguli-leclerc-pada-sesi-sprint-race-gp-miami"
     }
 ]
