@@ -1,15 +1,93 @@
 [
     {
+        "title": "Richie Sambora Merasa Kurang Perhatian Sewaktu Awal Hengkang dari Bon Jovi",
+        "category": "Ameera",
+        "publish_time": "05 May 2024, 08:50",
+        "news_link": "https://ameera.republika.co.id/berita/sczp3j414/richie-sambora-merasa-kurang-perhatian-sewaktu-awal-hengkang-dari-bon-jovi"
+    },
+    {
+        "title": "Kapolres Belu Dilaporkan Dugaan Pemerasan, Polda NTT Kirim Tim Selidiki",
+        "category": "News",
+        "publish_time": "05 May 2024, 08:45",
+        "news_link": "https://news.republika.co.id/berita/sczo0g436/kapolres-belu-dilaporkan-dugaan-pemerasan-polda-ntt-kirim-tim-selidiki"
+    },
+    {
+        "title": "Saudi Tekankan Persatuan Islam dan Dukungan Palestina Pada Persiapan KTT OKI",
+        "category": "Khazanah",
+        "publish_time": "05 May 2024, 08:38",
+        "news_link": "https://khazanah.republika.co.id/berita/sczoil430/saudi-tekankan-persatuan-islam-dan-dukungan-palestina-pada-persiapan-ktt-oki"
+    },
+    {
+        "title": "Politikus Gerindra: tak Sulit untuk Merangkul PKB",
+        "category": "Pemilu Kita",
+        "publish_time": "05 May 2024, 08:35",
+        "news_link": "https://pemilukita.republika.co.id/berita/sczntx436/politikus-gerindra-tak-sulit-untuk-merangkul-pkb"
+    },
+    {
+        "title": "Tubuhnya Terlipat Sejak Masih SD, Pemuda China Selangkah Lebih Dekat untuk Berdiri Tegak",
+        "category": "Ameera",
+        "publish_time": "05 May 2024, 08:26",
+        "news_link": "https://ameera.republika.co.id/berita/sczo0k414/tubuhnya-terlipat-sejak-masih-sd-pemuda-china-selangkah-lebih-dekat-untuk-berdiri-tegak"
+    },
+    {
+        "title": "Berjuang Empat Tahun di Tengah Kerugian, Pabrik Sepatu Bata di Purwakarta Akhirnya Tutup",
+        "category": "Ekonomi",
+        "publish_time": "05 May 2024, 08:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/scznov436/berjuang-empat-tahun-di-tengah-kerugian-pabrik-sepatu-bata-di-purwakarta-akhirnya-tutup"
+    },
+    {
+        "title": "Masinton: PDIP Sudah Teruji, Nggak Ada Engap-engapnya di Luar",
+        "category": "News",
+        "publish_time": "05 May 2024, 08:10",
+        "news_link": "https://news.republika.co.id/berita/sczn90436/masinton-pdip-sudah-teruji-nggak-ada-engapengapnya-di-luar"
+    },
+    {
+        "title": "Kementerian Bakal Investigasi Skandal Dugaan Sajaegi BTS, Army Pasang Badan",
+        "category": "Ameera",
+        "publish_time": "05 May 2024, 08:09",
+        "news_link": "https://ameera.republika.co.id/berita/sczn77414/kementerian-bakal-investigasi-skandal-dugaan-sajaegi-bts-army-pasang-badan"
+    },
+    {
+        "title": "Demokrat Ingatkan Parpol yang Gabung Koalisi Prabowo: Jangan Rasanya seperti Oposisi",
+        "category": "News",
+        "publish_time": "05 May 2024, 08:00",
+        "news_link": "https://news.republika.co.id/berita/sczlxn430/demokrat-ingatkan-parpol-yang-gabung-koalisi-prabowo-jangan-rasanya-seperti-oposisi"
+    },
+    {
+        "title": "Muhaimin Minta Masukan Akar Rumput Soal Peluang PKB Gabung Koalisi Prabowo",
+        "category": "Pemilu Kita",
+        "publish_time": "05 May 2024, 07:58",
+        "news_link": "https://pemilukita.republika.co.id/berita/sczlxk436/muhaimin-minta-masukan-akar-rumput-soal-peluang-pkb-gabung-koalisi-prabowo"
+    },
+    {
+        "title": "Ferrari Luncurkan Ferrari 12Cilindri Tanpa Turbo, Tanpa Hybrid",
+        "category": "Network",
+        "publish_time": "05 May 2024, 07:53",
+        "news_link": "https://motoresto.id/posts/304968/ferrari-luncurkan-ferrari-12cilindri-tanpa-turbo-tanpa-hybrid"
+    },
+    {
+        "title": "Rekomendasi Drama Korea Selatan Romantis Terbaik",
+        "category": "Retizen",
+        "publish_time": "05 May 2024, 07:53",
+        "news_link": "https://retizen.republika.co.id/posts/305017/rekomendasi-drama-korea-selatan-romantis-terbaik"
+    },
+    {
+        "title": "Quovadis Scopusisme",
+        "category": "Retizen",
+        "publish_time": "05 May 2024, 07:52",
+        "news_link": "https://retizen.republika.co.id/posts/305021/quovadis-scopusisme"
+    },
+    {
         "title": "Kompolnas Surati Polda Sulut Pertanyakan Identitas Pengusaha Bos Brigadir RAT",
         "category": "News",
         "publish_time": "05 May 2024, 07:45",
         "news_link": "https://news.republika.co.id/berita/sczlsg436/kompolnas-surati-polda-sulut-pertanyakan-identitas-pengusaha-bos-brigadir-rat"
     },
     {
-        "title": "Tutup Jendela Lagi! Kualitas Udara Jakarta tidak Sehat Pagi Ini, Terburuk Keempat di Dunia",
+        "title": "Tutup Jendela Lagi! Kualitas Udara Jakarta Terburuk Keempat di Dunia Pagi Ini",
         "category": "News",
         "publish_time": "05 May 2024, 07:43",
-        "news_link": "https://news.republika.co.id/berita/sczm0p414/tutup-jendela-lagi-kualitas-udara-jakarta-tidak-sehat-pagi-ini-terburuk-keempat-di-dunia"
+        "news_link": "https://news.republika.co.id/berita/sczm0p414/tutup-jendela-lagi-kualitas-udara-jakarta-terburuk-keempat-di-dunia-pagi-ini"
     },
     {
         "title": "Bolehkah Mendesak Allah Kabulkan Doa Kita?",
@@ -220,83 +298,5 @@
         "category": "Visual",
         "publish_time": "04 May 2024, 23:51",
         "news_link": "https://visual.republika.co.id/berita/scz05a375/semarak-parade-seni-dan-budaya-di-semarang-night-carnival"
-    },
-    {
-        "title": "Suarakan Perdamaian Dunia, Muslimat NU Inisiasi Komite Perempuan Indonesia",
-        "category": "Khazanah",
-        "publish_time": "04 May 2024, 23:48",
-        "news_link": "https://khazanah.republika.co.id/berita/scz00j320/suarakan-perdamaian-dunia-muslimat-nu-inisiasi-komite-perempuan-indonesia"
-    },
-    {
-        "title": "Direktorat Tindak Pidana Narkoba Bareskrim Gerebek Villa di Bali Diduga Pabrik Narkoba",
-        "category": "News",
-        "publish_time": "04 May 2024, 23:43",
-        "news_link": "https://news.republika.co.id/berita/scyz13456/direktorat-tindak-pidana-narkoba-bareskrim-gerebek-villa-di-bali-diduga-pabrik-narkoba"
-    },
-    {
-        "title": "Kisah Perawat Ditolak Oleh Pasien Hanya Sebab Dia Muslimah dan Berhijab",
-        "category": "Khazanah",
-        "publish_time": "04 May 2024, 23:42",
-        "news_link": "https://khazanah.republika.co.id/berita/scyzq8320/kisah-perawat-ditolak-oleh-pasien-hanya-sebab-dia-muslimah-dan-berhijab"
-    },
-    {
-        "title": "Real Madrid Kalahkan Cadiz 3-0, di Ambang Juara La Liga Spanyol",
-        "category": "Sport",
-        "publish_time": "04 May 2024, 23:32",
-        "news_link": "https://sport.republika.co.id/berita/scyz9q348/real-madrid-kalahkan-cadiz-30-di-ambang-juara-la-liga-spanyol"
-    },
-    {
-        "title": "Warga Diduga Teroris OPM Akhirnya Dilepaskan Setelah tak Terbukti",
-        "category": "News",
-        "publish_time": "04 May 2024, 23:31",
-        "news_link": "https://news.republika.co.id/berita/scyz8e320/warga-diduga-teroris-opm-akhirnya-dilepaskan-setelah-tak-terbukti"
-    },
-    {
-        "title": "Pontianak Didorong Jadi Kota Olahraga",
-        "category": "News",
-        "publish_time": "04 May 2024, 23:20",
-        "news_link": "https://news.republika.co.id/berita/scyye4456/pontianak-didorong-jadi-kota-olahraga"
-    },
-    {
-        "title": "Masinton Pasaribu: Oposisi Diperlukan untuk Kontrol Kekuasaan",
-        "category": "News",
-        "publish_time": "04 May 2024, 23:14",
-        "news_link": "https://news.republika.co.id/berita/scyygb320/masinton-pasaribu-oposisi-diperlukan-untuk-kontrol-kekuasaan"
-    },
-    {
-        "title": "Terjadi Pergeseran Pemenang Pileg di Kabupaten Pasaman Barat Sumbar",
-        "category": "News",
-        "publish_time": "04 May 2024, 23:10",
-        "news_link": "https://news.republika.co.id/berita/scyy9e456/terjadi-pergeseran-pemenang-pileg-di-kabupaten-pasaman-barat-sumbar"
-    },
-    {
-        "title": "Tata Kelola Keuangan Bisa Picu Masalah Rumah Tangga? Begini Prinsip Syariatnya",
-        "category": "Islam Digest",
-        "publish_time": "04 May 2024, 23:04",
-        "news_link": "https://islamdigest.republika.co.id/berita/scyxza320/tata-kelola-keuangan-bisa-picu-masalah-rumah-tangga-begini-prinsip-syariatnya"
-    },
-    {
-        "title": "Klub Elkan Baggott Ipswich Promosi ke Liga Primer untuk Pertama Kalinya dalam 22 Tahun",
-        "category": "Sport",
-        "publish_time": "04 May 2024, 23:00",
-        "news_link": "https://sport.republika.co.id/berita/scyxsm348/klub-elkan-baggott-ipswich-promosi-ke-liga-primer-untuk-pertama-kalinya-dalam-22-tahun"
-    },
-    {
-        "title": "Amnesty: Usut Kekerasan Aparat terhadap Demo Mahasiswa di Makassar",
-        "category": "News",
-        "publish_time": "04 May 2024, 22:50",
-        "news_link": "https://news.republika.co.id/berita/scyxbt320/amnesty-usut-kekerasan-aparat-terhadap-demo-mahasiswa-di-makassar"
-    },
-    {
-        "title": "Barcelona Incar Gelandang Arsenal untuk Perkuat Lini Tengah",
-        "category": "Sport",
-        "publish_time": "04 May 2024, 22:48",
-        "news_link": "https://sport.republika.co.id/berita/scyx92456/barcelona-incar-gelandang-arsenal-untuk-perkuat-lini-tengah"
-    },
-    {
-        "title": "Pengungsi Gunung Ruang Diminta Saring Informasi yang Diterima",
-        "category": "News",
-        "publish_time": "04 May 2024, 22:45",
-        "news_link": "https://news.republika.co.id/berita/scyx4m456/pengungsi-gunung-ruang-diminta-saring-informasi-yang-diterima"
     }
 ]
