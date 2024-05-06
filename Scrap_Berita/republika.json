@@ -1,5 +1,185 @@
 [
     {
+        "title": "Yoga dan Meditasi jadi Aktivitas Wisata Baru di Parapuar Labuan Bajo",
+        "category": "Ekonomi",
+        "publish_time": "06-05-2024 15:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/sd2jku457/yoga-dan-meditasi-jadi-aktivitas-wisata-baru-di-parapuar-labuan-bajo"
+    },
+    {
+        "title": "Kisah AO PNM Mekaar di Kupang, Keluar Zona Nyaman untuk Beri Kenyamanan Keluarga",
+        "category": "News",
+        "publish_time": "06-05-2024 15:03",
+        "news_link": "https://news.republika.co.id/berita/sd2c9a456/kisah-ao-pnm-mekaar-di-kupang-keluar-zona-nyaman-untuk-beri-kenyamanan-keluarga"
+    },
+    {
+        "title": "Pernikahan Miliarder Umar Kamani dan Nada Adelle Dikabarkan Telan Biaya Rp 402 Miliar",
+        "category": "Ameera",
+        "publish_time": "06-05-2024 15:03",
+        "news_link": "https://ameera.republika.co.id/berita/sd2kib425/pernikahan-miliarder-umar-kamani-dan-nada-adelle-dikabarkan-telan-biaya-rp-402-miliar"
+    },
+    {
+        "title": "Senyum Sumringah Ganjar saat Hadiri Halal Bihalal TPN",
+        "category": "Visual",
+        "publish_time": "06-05-2024 14:59",
+        "news_link": "https://visual.republika.co.id/berita/sd2j4c375/senyum-sumringah-ganjar-saat-hadiri-halal-bihalal-tpn"
+    },
+    {
+        "title": "637 Calon Jamaah Haji Pontianak Ikut Bimbingan Manasik",
+        "category": "Ihram",
+        "publish_time": "06-05-2024 14:58",
+        "news_link": "https://ihram.republika.co.id/berita/sd2k9m366/637-calon-jamaah-haji-pontianak-ikut-bimbingan-manasik"
+    },
+    {
+        "title": "BPS Catat Indeks Ketimpangan Gender 2023 Menurun, Apa Artinya?",
+        "category": "Ekonomi",
+        "publish_time": "06-05-2024 14:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/sd2k6y502/bps-catat-indeks-ketimpangan-gender-2023-menurun-apa-artinya"
+    },
+    {
+        "title": "Pemkot Madiun Bebaskan Denda PBB, Ini Ketentuannya",
+        "category": "Rejogja",
+        "publish_time": "06-05-2024 14:56",
+        "news_link": "https://rejogja.republika.co.id/berita/sd2k6l432/pemkot-madiun-bebaskan-denda-pbb-ini-ketentuannya"
+    },
+    {
+        "title": "Calon Jamaah Haji Bangka Berangkat pada 15 dan 17 Mei 2024",
+        "category": "Ihram",
+        "publish_time": "06-05-2024 14:54",
+        "news_link": "https://ihram.republika.co.id/berita/sd2k3w366/calon-jamaah-haji-bangka-berangkat-pada-15-dan-17-mei-2024"
+    },
+    {
+        "title": "Bupati Banjar Kalsel Lepas Keberangkatan 452 Calon Jamaah Haji",
+        "category": "Ihram",
+        "publish_time": "06-05-2024 14:51",
+        "news_link": "https://ihram.republika.co.id/berita/sd2jy7366/bupati-banjar-kalsel-lepas-keberangkatan-452-calon-jamaah-haji"
+    },
+    {
+        "title": "Pemkab Bogor Targetkan Geopark Pongkor Masuk UNESCO Global Geoparks",
+        "category": "Sharia",
+        "publish_time": "06-05-2024 14:49",
+        "news_link": "https://sharia.republika.co.id/berita/sd2jb4457/pemkab-bogor-targetkan-geopark-pongkor-masuk-unesco-global-geoparks"
+    },
+    {
+        "title": "Dapat Surat Tilang Melalui Whatsapp? Cek Dulu Nomor Telepon Pengirimnya",
+        "category": "Ameera",
+        "publish_time": "06-05-2024 14:48",
+        "news_link": "https://ameera.republika.co.id/berita/sd2ju0414/dapat-surat-tilang-melalui-whatsapp-cek-dulu-nomor-telepon-pengirimnya"
+    },
+    {
+        "title": "Imigrasi Surabaya Pastikan Siap Layani Jamaah Haji 2024",
+        "category": "Ihram",
+        "publish_time": "06-05-2024 14:47",
+        "news_link": "https://ihram.republika.co.id/berita/sd2jre366/imigrasi-surabaya-pastikan-siap-layani-jamaah-haji-2024"
+    },
+    {
+        "title": "Evaluasi Mudik, Menko PMK: Presiden Minta Rest Area Diperbanyak",
+        "category": "Video",
+        "publish_time": "06-05-2024 14:46",
+        "news_link": "https://tv.republika.co.id/berita/sd2jqa313/evaluasi-mudik-menko-pmk-presiden-minta-rest-area-diperbanyak"
+    },
+    {
+        "title": "Calon Jamaah Haji Kloter 7 Sulbar Berangkat 17 Mei 2024",
+        "category": "Ihram",
+        "publish_time": "06-05-2024 14:43",
+        "news_link": "https://ihram.republika.co.id/berita/sd2jkv366/calon-jamaah-haji-kloter-7-sulbar-berangkat-17-mei-2024"
+    },
+    {
+        "title": "Asrama Haji Surabaya Perhatikan Calhaj Kebutuhan Khusus dan Lansia",
+        "category": "Rejogja",
+        "publish_time": "06-05-2024 14:41",
+        "news_link": "https://rejogja.republika.co.id/berita/sd2jhu432/asrama-haji-surabaya-perhatikan-calhaj-kebutuhan-khusus-dan-lansia"
+    },
+    {
+        "title": "Seleksi PTN Jalur SMMPTN-Barat Sudah Dibuka, Tersedia Kuota 16.564",
+        "category": "News",
+        "publish_time": "06-05-2024 14:39",
+        "news_link": "https://news.republika.co.id/berita/sd2jev414/seleksi-ptn-jalur-smmptnbarat-sudah-dibuka-tersedia-kuota-16564"
+    },
+    {
+        "title": "Investasi Microsoft di Indonesia Lebih Kecil dari Malaysia, Ini Respons Pemerintah",
+        "category": "Ekonomi",
+        "publish_time": "06-05-2024 14:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/sd2j51457/investasi-microsoft-di-indonesia-lebih-kecil-dari-malaysia-ini-respons-pemerintah"
+    },
+    {
+        "title": "Kemenag Sulbar Prioritaskan Pelayanan 73 Calon Jamaah Haji Lansia",
+        "category": "Ihram",
+        "publish_time": "06-05-2024 14:39",
+        "news_link": "https://ihram.republika.co.id/berita/sd2jdy366/kemenag-sulbar-prioritaskan-pelayanan-73-calon-jamaah-haji-lansia"
+    },
+    {
+        "title": "Dewas KPK Tetap Gelar Sidang Etik Nurul Ghufron Pekan Depan",
+        "category": "News",
+        "publish_time": "06-05-2024 14:37",
+        "news_link": "https://news.republika.co.id/berita/sd2jbz330/dewas-kpk-tetap-gelar-sidang-etik-nurul-ghufron-pekan-depan"
+    },
+    {
+        "title": "Kena Malaria, Mengapa Ibu Hamil Bisa Sampai Anemia dan Melahirkan Sebelum Waktunya?",
+        "category": "Ameera",
+        "publish_time": "06-05-2024 14:34",
+        "news_link": "https://ameera.republika.co.id/berita/sd2gcr414/kena-malaria-mengapa-ibu-hamil-bisa-sampai-anemia-dan-melahirkan-sebelum-waktunya"
+    },
+    {
+        "title": "Antisipasi Sampah Kondom, Pemkot Jakbar Pasang Lampu Sorot di RTH Angke",
+        "category": "News",
+        "publish_time": "06-05-2024 14:30",
+        "news_link": "https://news.republika.co.id/berita/sd2izw330/antisipasi-sampah-kondom-pemkot-jakbar-pasang-lampu-sorot-di-rth-angke"
+    },
+    {
+        "title": "Gerakan Tanam Komoditas Diyakini Bisa Tekan Laju Inflasi di Daerah",
+        "category": "Ekonomi",
+        "publish_time": "06-05-2024 14:30",
+        "news_link": "https://ekonomi.republika.co.id/berita/sd2izq414/gerakan-tanam-komoditas-diyakini-bisa-tekan-laju-inflasi-di-daerah"
+    },
+    {
+        "title": "Penumpang dari Luar Negeri Wajib Bayar Kelebihan Barang Bawaan, Berapa?",
+        "category": "Ekonomi",
+        "publish_time": "06-05-2024 14:30",
+        "news_link": "https://ekonomi.republika.co.id/berita/sd2iy5457/penumpang-dari-luar-negeri-wajib-bayar-kelebihan-barang-bawaan-berapa"
+    },
+    {
+        "title": "Derita Masiroh, 22 Tahun Hilang Kotak di Suriah, Terjebak Perang, Dianggap Telah Meninggal",
+        "category": "Rejabar",
+        "publish_time": "06-05-2024 14:30",
+        "news_link": "https://rejabar.republika.co.id/berita/sd2iz4512/derita-masiroh-22-tahun-hilang-kotak-di-suriah-terjebak-perang-dianggap-telah-meninggal"
+    },
+    {
+        "title": "Gibran Klaim Presidential Club untuk Wadahi Masukan dari Sesepuh",
+        "category": "Pemilu Kita",
+        "publish_time": "06-05-2024 14:29",
+        "news_link": "https://pemilukita.republika.co.id/berita/sd280c436/gibran-klaim-presidential-club-untuk-wadahi-masukan-dari-sesepuh"
+    },
+    {
+        "title": "Jika Besok tak Datang Pemeriksaan, KPK Bakal Jemput Paksa Bupati Sidoarjo",
+        "category": "News",
+        "publish_time": "06-05-2024 14:25",
+        "news_link": "https://news.republika.co.id/berita/sd2irv330/jika-besok-tak-datang-pemeriksaan-kpk-bakal-jemput-paksa-bupati-sidoarjo"
+    },
+    {
+        "title": "Ditnarkoba Bareskrim Polri Rilis Pengungkapan Kasus Narkoba",
+        "category": "Visual",
+        "publish_time": "06-05-2024 14:25",
+        "news_link": "https://visual.republika.co.id/berita/sd2irh375/ditnarkoba-bareskrim-polri-rilis-pengungkapan-kasus-narkoba"
+    },
+    {
+        "title": "Jajaki Kerja Sama Perdagangan di Indonesia, Ini Sektor yang Diminati Pengusaha Dubai",
+        "category": "Sharia",
+        "publish_time": "06-05-2024 14:22",
+        "news_link": "https://sharia.republika.co.id/berita/sd2im8457/jajaki-kerja-sama-perdagangan-di-indonesia-ini-sektor-yang-diminati-pengusaha-dubai"
+    },
+    {
+        "title": "Sekda Jabar Herman Motivasi ASN Jabar Agar Beri Layanan Prima ke Masyarakat",
+        "category": "Rejabar",
+        "publish_time": "06-05-2024 14:21",
+        "news_link": "https://rejabar.republika.co.id/berita/sd2ikq512/sekda-jabar-herman-motivasi-asn-jabar-agar-beri-layanan-prima-ke-masyarakat"
+    },
+    {
+        "title": "KPK: Gratifikasi dan TPPU Eko Darmanto Capai Rp 37,7 Miliar",
+        "category": "News",
+        "publish_time": "06-05-2024 14:15",
+        "news_link": "https://news.republika.co.id/berita/sd2ibd330/kpk-gratifikasi-dan-tppu-eko-darmanto-capai-rp-377-miliar"
+    },
+    {
         "title": "Samator Genjot Pengembangan EBT untuk Transisi Energi",
         "category": "Ekonomi",
         "publish_time": "06-05-2024 14:10",
@@ -8,295 +188,115 @@
     {
         "title": "Pabrik Bata Tutup, Ini Kenangan Pj Gubernur Jabar Bey dengan Sandal Bata",
         "category": "Rejabar",
-        "publish_time": "06-05-2024 14:09",
+        "publish_time": "06-05-2024 14:10",
         "news_link": "https://rejabar.republika.co.id/berita/sd2hyr512/pabrik-bata-tutup-ini-kenangan-pj-gubernur-jabar-bey-dengan-sandal-bata"
     },
     {
-        "title": "Usia Kerja di Korsel Turun Drastis Karena Rendahnya Tingkat Kelahiran",
+        "title": "Usia Kerja di Korsel Turun Drastis karena Rendahnya Tingkat Kelahiran",
         "category": "Ekonomi",
-        "publish_time": "06-05-2024 14:08",
+        "publish_time": "06-05-2024 14:10",
         "news_link": "https://ekonomi.republika.co.id/berita/sd2hx8502/usia-kerja-di-korsel-turun-drastis-karena-rendahnya-tingkat-kelahiran"
     },
     {
         "title": "Dirut Abhinaya: Niatkan untuk Haji Sedari Muda",
         "category": "Video",
-        "publish_time": "06-05-2024 14:07",
+        "publish_time": "06-05-2024 14:10",
         "news_link": "https://tv.republika.co.id/berita/sd27on418/dirut-abhinaya-niatkan-untuk-haji-sedari-muda"
     },
     {
         "title": "Anies Dinilai Berpeluang Besar Menang Jika Maju di Pilgub DKI",
         "category": "Pemilu Kita",
-        "publish_time": "06-05-2024 14:05",
+        "publish_time": "06-05-2024 14:10",
         "news_link": "https://pemilukita.republika.co.id/berita/sd2fvz436/anies-dinilai-berpeluang-besar-menang-jika-maju-di-pilgub-dki"
     },
     {
         "title": "Kemenag Jabar Ingatkan Calon Jamaah Haji Jaga Kondisi di Tanah Suci",
         "category": "Ihram",
-        "publish_time": "06-05-2024 14:02",
+        "publish_time": "06-05-2024 14:10",
         "news_link": "https://ihram.republika.co.id/berita/sd2ezn430/kemenag-jabar-ingatkan-calon-jamaah-haji-jaga-kondisi-di-tanah-suci"
     },
     {
         "title": "Ikuti Asoka Challenge, Novia Bachmid Tuai Pujian",
         "category": "Ameera",
-        "publish_time": "06-05-2024 14:00",
+        "publish_time": "06-05-2024 14:10",
         "news_link": "https://ameera.republika.co.id/berita/sd2guc414/ikuti-asoka-challenge-novia-bachmid-tuai-pujian"
     },
     {
         "title": "Usai Jalani Tes Kejiwaan, Tarsum Ditahan di Tempat Khusus tak Disatukan Tahanan Lain",
         "category": "Rejabar",
-        "publish_time": "06-05-2024 13:51",
+        "publish_time": "06-05-2024 14:10",
         "news_link": "https://rejabar.republika.co.id/berita/sd2h5l512/usai-jalani-tes-kejiwaan-tarsum-ditahan-di-tempat-khusus-tak-disatukan-tahanan-lain"
     },
     {
         "title": "Sultan Soroti Sampah Dibuang ke Bekas Tambang di Gunungkidul",
         "category": "Rejogja",
-        "publish_time": "06-05-2024 13:50",
+        "publish_time": "06-05-2024 14:10",
         "news_link": "https://rejogja.republika.co.id/berita/sd2h2r432/sultan-soroti-sampah-dibuang-ke-bekas-tambang-di-gunungkidul"
     },
     {
         "title": "Polisi Sebut Tersangka Mutilasi di Ciamis Mulai Stabil Bisa Diajak Bicara",
         "category": "Rejabar",
-        "publish_time": "06-05-2024 13:46",
+        "publish_time": "06-05-2024 14:10",
         "news_link": "https://rejabar.republika.co.id/berita/sd2gwf512/polisi-sebut-tersangka-mutilasi-di-ciamis-mulai-stabil-bisa-diajak-bicara"
     },
     {
-        "title": "Modus Gunakan SPK Fiktif dan Rugikan Rp 80 Miliar, Kemenperin Bebastugaskan Pejabatnya",
+        "title": "Modus Gunakan SPK Fiktif dan Rugikan Rp 80 Miliar, Kemenperin Bebas Tugaskan Pejabatnya",
         "category": "News",
-        "publish_time": "06-05-2024 13:45",
-        "news_link": "https://news.republika.co.id/berita/sd2foi436/modus-gunakan-spk-fiktif-dan-rugikan-rp-80-miliar-kemenperin-bebastugaskan-pejabatnya"
+        "publish_time": "06-05-2024 14:10",
+        "news_link": "https://news.republika.co.id/berita/sd2foi436/modus-gunakan-spk-fiktif-dan-rugikan-rp-80-miliar-kemenperin-bebas-tugaskan-pejabatnya"
     },
     {
         "title": "Kemenko Marves: World Water Forum Buka Peluang Investasi Air",
         "category": "Ekonomi",
-        "publish_time": "06-05-2024 13:41",
+        "publish_time": "06-05-2024 14:10",
         "news_link": "https://ekonomi.republika.co.id/berita/sd2gp7457/kemenko-marves-world-water-forum-buka-peluang-investasi-air"
     },
     {
         "title": "Kemenag Jabar Ingatkan Calon Jamaah Haji Jaga Kondisi di Tanah Suci",
         "category": "Rejabar",
-        "publish_time": "06-05-2024 13:35",
+        "publish_time": "06-05-2024 13:10",
         "news_link": "https://rejabar.republika.co.id/berita/sd2ge9512/kemenag-jabar-ingatkan-calon-jamaah-haji-jaga-kondisi-di-tanah-suci"
     },
     {
         "title": "Profil Islam di Jerman saat Ini",
         "category": "Ihram",
-        "publish_time": "06-05-2024 13:33",
+        "publish_time": "06-05-2024 13:10",
         "news_link": "https://ihram.republika.co.id/berita/sd2g70430/profil-islam-di-jerman-saat-ini"
     },
     {
         "title": "Dikpora Bantul Kaji Sekolah Rusak, Ada 41",
         "category": "Rejogja",
-        "publish_time": "06-05-2024 13:33",
+        "publish_time": "06-05-2024 13:10",
         "news_link": "https://rejogja.republika.co.id/berita/sd2gaq432/dikpora-bantul-kaji-sekolah-rusak-ada-41"
     },
     {
         "title": "Halal Bihalal Akabri, Prabowo dan SBY Ajak Alumni Berbuat yang Terbaik untuk Bangsa",
         "category": "Video",
-        "publish_time": "06-05-2024 13:32",
+        "publish_time": "06-05-2024 13:10",
         "news_link": "https://tv.republika.co.id/berita/sd2g9t313/halal-bihalal-akabri-prabowo-dan-sby-ajak-alumni-berbuat-yang-terbaik-untuk-bangsa"
     },
     {
         "title": "Terancam Dipecat Manchester United, Ten Hag Buka Pembicaraan dengan Muenchen",
         "category": "Sport",
-        "publish_time": "06-05-2024 13:32",
+        "publish_time": "06-05-2024 13:10",
         "news_link": "https://sport.republika.co.id/berita/sd2dnq430/terancam-dipecat-manchester-united-ten-hag-buka-pembicaraan-dengan-muenchen"
     },
     {
         "title": "PKS Usung Istri Eks Walkot Oded M Danial dan Asep Mulyadi Jadi Balon Wali Kota Bandung",
         "category": "Rejabar",
-        "publish_time": "06-05-2024 13:28",
+        "publish_time": "06-05-2024 13:10",
         "news_link": "https://rejabar.republika.co.id/berita/sd2g2j512/pks-usung-istri-eks-walkot-oded-m-danial-dan-asep-mulyadi-jadi-balon-wali-kota-bandung"
     },
     {
         "title": "Oknum Prajurit Diduga Termbak Warga di Sulsel, KSAL: Tak Ada yang Kebal Hukum",
         "category": "News",
-        "publish_time": "06-05-2024 13:27",
+        "publish_time": "06-05-2024 13:10",
         "news_link": "https://news.republika.co.id/berita/sd2ffo436/oknum-prajurit-diduga-termbak-warga-di-sulsel-ksal-tak-ada-yang-kebal-hukum"
     },
     {
         "title": "Mendag: Barang Kiriman TKI Tertahan Bea Cukai Boleh Diambil Pakai Permendag Terbaru",
         "category": "Ekonomi",
-        "publish_time": "06-05-2024 13:26",
+        "publish_time": "06-05-2024 13:10",
         "news_link": "https://ekonomi.republika.co.id/berita/sd2g01430/mendag-barang-kiriman-tki-tertahan-bea-cukai-boleh-diambil-pakai-permendag-terbaru"
-    },
-    {
-        "title": "Menteri PUPR: Progres Lapangan Upacara IKN Capai 90 Persen",
-        "category": "Ekonomi",
-        "publish_time": "06-05-2024 13:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/sd2fv4490/menteri-pupr-progres-lapangan-upacara-ikn-capai-90-persen"
-    },
-    {
-        "title": "Cuaca Panas Sedang Menyengat, Heat Stroke Perlu Dicegah Bukan Cuma dengan Minum",
-        "category": "Ameera",
-        "publish_time": "06-05-2024 13:23",
-        "news_link": "https://ameera.republika.co.id/berita/sd2fv4414/cuaca-panas-sedang-menyengat-heat-stroke-perlu-dicegah-bukan-cuma-dengan-minum"
-    },
-    {
-        "title": "Julen Lopetegui Terima Persyaratan West Ham untuk Gantikan David Moyes",
-        "category": "Sport",
-        "publish_time": "06-05-2024 13:23",
-        "news_link": "https://sport.republika.co.id/berita/sd2fri430/julen-lopetegui-terima-persyaratan-west-ham-untuk-gantikan-david-moyes"
-    },
-    {
-        "title": "Kemenag Agam Berikan 10 Kali Manasik Bagi Calon Jamaah Haji",
-        "category": "Ihram",
-        "publish_time": "06-05-2024 13:21",
-        "news_link": "https://ihram.republika.co.id/berita/sd2frk366/kemenag-agam-berikan-10-kali-manasik-bagi-calon-jamaah-haji"
-    },
-    {
-        "title": "Guardiola Pastikan Timnya Bertekad Menangkan Semua Pertandingan Sisa Musim Ini",
-        "category": "Sport",
-        "publish_time": "06-05-2024 13:20",
-        "news_link": "https://sport.republika.co.id/berita/sd2bzf456/guardiola-pastikan-timnya-bertekad-menangkan-semua-pertandingan-sisa-musim-ini"
-    },
-    {
-        "title": "Polisi Tangkap 4 Pelaku Pembacokan Salah Sasaran ke Pemuda di Cicalengka Bandung",
-        "category": "Rejabar",
-        "publish_time": "06-05-2024 13:19",
-        "news_link": "https://rejabar.republika.co.id/berita/sd2fnl512/polisi-tangkap-4-pelaku-pembacokan-salah-sasaran-ke-pemuda-di-cicalengka-bandung"
-    },
-    {
-        "title": "Tingkatkan Produksi Lewat Pompanisasi, Sekjen Kementan Berbagi Tips dan Pengalaman",
-        "category": "Ekonomi",
-        "publish_time": "06-05-2024 13:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/sd2flk423/tingkatkan-produksi-lewat-pompanisasi-sekjen-kementan-berbagi-tips-dan-pengalaman"
-    },
-    {
-        "title": "CIMB Niaga Luncurkan Reksa Dana Syariah ASEAN dengan Mata Uang Dolar AS",
-        "category": "Sharia",
-        "publish_time": "06-05-2024 13:17",
-        "news_link": "https://sharia.republika.co.id/berita/sd2fkp349/cimb-niaga-luncurkan-reksa-dana-syariah-asean-dengan-mata-uang-dolar-as"
-    },
-    {
-        "title": "Mataram Bolehkan PKL Berjualan di Asrama Haji, Tapi Ada Aturannya",
-        "category": "Ihram",
-        "publish_time": "06-05-2024 13:14",
-        "news_link": "https://ihram.republika.co.id/berita/sd2ffq366/mataram-bolehkan-pkl-berjualan-di-asrama-haji-tapi-ada-aturannya"
-    },
-    {
-        "title": "Setelah Pengunjung Masjid Al Jabbar, Giliran Wisatawan Curug Ciburial Bogor Kena Pungli",
-        "category": "Ameera",
-        "publish_time": "06-05-2024 13:13",
-        "news_link": "https://ameera.republika.co.id/berita/sd2fdn414/setelah-pengunjung-masjid-al-jabbar-giliran-wisatawan-curug-ciburial-bogor-kena-pungli"
-    },
-    {
-        "title": "Dukung Pengasuhan Ideal, Nasyiatul Aisyiyah Cetak Fasilitator Sekolah Parenting",
-        "category": "Khazanah",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sd2f7i423/dukung-pengasuhan-ideal-nasyiatul-aisyiyah-cetak-fasilitator-sekolah-parenting"
-    },
-    {
-        "title": "Calon Jamaah Haji Barito Utara Berangkat ke Tanah Suci 15 Mei 2024",
-        "category": "Ihram",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://ihram.republika.co.id/berita/sd2f6m366/calon-jamaah-haji-barito-utara-berangkat-ke-tanah-suci-15-mei-2024"
-    },
-    {
-        "title": "Kejagung Periksa Evaluator RKAB di Kementerian ESDM Terkait Penyidikan Korupsi Timah",
-        "category": "News",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://news.republika.co.id/berita/sd2f3t436/kejagung-periksa-evaluator-rkab-di-kementerian-esdm-terkait-penyidikan-korupsi-timah"
-    },
-    {
-        "title": "Kemenag Cari Skenario Jika Bandara Minangkabau tidak Beroperasi Akibat Erupsi",
-        "category": "Ihram",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://ihram.republika.co.id/berita/sd2ezv366/kemenag-cari-skenario-jika-bandara-minangkabau-tidak-beroperasi-akibat-erupsi"
-    },
-    {
-        "title": "Laptop Seri Swift Go yang Maksimalkan AI jadi Favorit di Bandung",
-        "category": "Network",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://bandung24jam.republika.co.id/posts/305321/laptop-seri-swift-go-yang-maksimalkan-ai-jadi-favorit-di-bandung"
-    },
-    {
-        "title": "Dubai International Chamber Targetkan Nilai Perdagangan dengan RI Capai USD 10 Miliar",
-        "category": "Network",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://genpop.republika.co.id/posts/305320/dubai-international-chamber-targetkan-nilai-perdagangan-dengan-ri-capai-usd-10-miliar"
-    },
-    {
-        "title": "Jumlah PMI Asal Majalengka Cukup Tinggi, Ini Lima Kecamatan Penyumbang Terbanyak",
-        "category": "Rejabar",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sd2etu430/jumlah-pmi-asal-majalengka-cukup-tinggi-ini-lima-kecamatan-penyumbang-terbanyak"
-    },
-    {
-        "title": "Aktor John Cusack Apresiasi Keberhasilan Demo Pro Palestina Mahasiswa UC Riverside",
-        "category": "Ameera",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://ameera.republika.co.id/berita/sd2evt414/aktor-john-cusack-apresiasi-keberhasilan-demo-pro-palestina-mahasiswa-uc-riverside"
-    },
-    {
-        "title": "Legislator Ungkap Sejumlah Catatan Terkait Rencana Kenaikan Tarif KRL",
-        "category": "News",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://news.republika.co.id/berita/sd2eqk423/legislator-ungkap-sejumlah-catatan-terkait-rencana-kenaikan-tarif-krl"
-    },
-    {
-        "title": "63 Ribu Warga Medan Terima BLT Dana Bansos Tahap Kedua",
-        "category": "Visual",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://visual.republika.co.id/berita/sd2bbo375/63-ribu-warga-medan-terima-blt-dana-bansos-tahap-kedua"
-    },
-    {
-        "title": "546 Calon Jamaah Haji Kutai Kartanegara Siap Berangkat",
-        "category": "Ihram",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://ihram.republika.co.id/berita/sd2epm366/546-calon-jamaah-haji-kutai-kartanegara-siap-berangkat"
-    },
-    {
-        "title": "Xi Jinping Angkat Isu Palestina dalam Kunjungannya ke Prancis",
-        "category": "Internasional",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://internasional.republika.co.id/berita/sd2ej4430/xi-jinping-angkat-isu-palestina-dalam-kunjungannya-ke-prancis"
-    },
-    {
-        "title": "Bey Machmudin Mengaku Punya Kenangan dengan Alas Kaki Bata",
-        "category": "News",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://news.republika.co.id/berita/sd2ejd330/bey-machmudin-mengaku-punya-kenangan-dengan-alas-kaki-bata"
-    },
-    {
-        "title": "Keberangkatan Calon Jamaah Haji Pontianak Dibagi Tiga Kloter",
-        "category": "Ihram",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://ihram.republika.co.id/berita/sd2eir366/keberangkatan-calon-jamaah-haji-pontianak-dibagi-tiga-kloter"
-    },
-    {
-        "title": "Liverpool dan Manchester United Disebut Incar Daftar Pemain yang Sama di Musim Panas",
-        "category": "Sport",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://sport.republika.co.id/berita/sd2buq456/liverpool-dan-manchester-united-disebut-incar-daftar-pemain-yang-sama-di-musim-panas"
-    },
-    {
-        "title": "Menlu Retno: OKI Harus Bersatu Bela Palestina",
-        "category": "News",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://news.republika.co.id/berita/sd2ehs423/menlu-retno-oki-harus-bersatu-bela-palestina"
-    },
-    {
-        "title": "Calon Jamaah Haji Yogyakarta Berangkat Lewat Bandara Adi Soemarmo",
-        "category": "Ihram",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://ihram.republika.co.id/berita/sd2ecp366/calon-jamaah-haji-yogyakarta-berangkat-lewat-bandara-adi-soemarmo"
-    },
-    {
-        "title": "Gibran: Makan Siang Gratis Bakal Fokus di Beberapa Lokasi",
-        "category": "News",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://news.republika.co.id/berita/sd2e82330/gibran-makan-siang-gratis-bakal-fokus-di-beberapa-lokasi"
-    },
-    {
-        "title": "Pengamat: Cabang Olahraga Harus Maksimalkan Dukungan BUMN",
-        "category": "Sport",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://sport.republika.co.id/berita/sd2e7w423/pengamat-cabang-olahraga-harus-maksimalkan-dukungan-bumn"
-    },
-    {
-        "title": "Ingat! Jangan Tertipu Oknum Janjikan Berangkat Haji tanpa Visa Haji",
-        "category": "Ihram",
-        "publish_time": "06-05-2024 13:11",
-        "news_link": "https://ihram.republika.co.id/berita/sd2dzd366/ingat-jangan-tertipu-oknum-janjikan-berangkat-haji-tanpa-visa-haji"
     }
 ]
