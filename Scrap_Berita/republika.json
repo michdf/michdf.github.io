@@ -6,123 +6,291 @@
         "news_link": "https://www.republika.co.id/berita/sd3jie325/request-for-bids-plant-design-supply-and-installation-two-envelope-bidding-process-without-prequalification"
     },
     {
+        "title": "Negara-Negara Eks Uni Soviet Peringati Hari Kemenangan ke-79 Perang Dunia",
+        "category": "Internasional",
+        "publish_time": "09-05-2024 15:09",
+        "news_link": "https://internasional.republika.co.id/berita/sd84s7366/negaranegara-eks-uni-soviet-peringati-hari-kemenangan-ke79-perang-dunia"
+    },
+    {
+        "title": "Jelang Libur Panjang, ASDP Layani 1.814 Orang dari Jawa Menuju Bali",
+        "category": "Ekonomi",
+        "publish_time": "09-05-2024 15:09",
+        "news_link": "https://ekonomi.republika.co.id/berita/sd84rs457/jelang-libur-panjang-asdp-layani-1814-orang-dari-jawa-menuju-bali"
+    },
+    {
+        "title": "TikTok akan Otomatis Beri Label Pada Konten yang Dihasilkan AI",
+        "category": "Tekno",
+        "publish_time": "09-05-2024 15:07",
+        "news_link": "https://tekno.republika.co.id/berita/sd84nv349/tiktok-akan-otomatis-beri-label-pada-konten-yang-dihasilkan-ai"
+    },
+    {
+        "title": "Indonesia Gagal ke Olimpiade 2024 Usai Takluk 0-1 dari Guinea",
+        "category": "Sport",
+        "publish_time": "09-05-2024 15:06",
+        "news_link": "https://sport.republika.co.id/berita/sd84m4456/indonesia-gagal-ke-olimpiade-2024-usai-takluk-01-dari-guinea"
+    },
+    {
+        "title": "Shin Tae-yong Diganjar Kartu Merah Buntut Protes ke Wasit",
+        "category": "Rejabar",
+        "publish_time": "09-05-2024 15:06",
+        "news_link": "https://rejabar.republika.co.id/berita/sd84lv512/shin-taeyong-diganjar-kartu-merah-buntut-protes-ke-wasit"
+    },
+    {
+        "title": "Libur Panjang, Penumpang Pesawat di Bandara AP II Diperkirakan Tembus 1 Juta",
+        "category": "Ekonomi",
+        "publish_time": "09-05-2024 15:02",
+        "news_link": "https://ekonomi.republika.co.id/berita/sd84fk457/libur-panjang-penumpang-pesawat-di-bandara-ap-ii-diperkirakan-tembus-1-juta"
+    },
+    {
+        "title": "Geliat Aktivitas Nelayan di TPI Kalibaru",
+        "category": "Visual",
+        "publish_time": "09-05-2024 15:00",
+        "news_link": "https://visual.republika.co.id/berita/sd7yx5375/geliat-aktivitas-nelayan-di-tpi-kalibaru"
+    },
+    {
+        "title": "Teks Doa Minta Jatah Menteri ke Prabowo, Dibacakan oleh Politikus PAN",
+        "category": "News",
+        "publish_time": "09-05-2024 14:59",
+        "news_link": "https://news.republika.co.id/berita/sd84ah430/teks-doa-minta-jatah-menteri-ke-prabowo-dibacakan-oleh-politikus-pan"
+    },
+    {
+        "title": "Antisipasi Balap Liar, Polisi Tingkatkan Patroli di Jalan Gunung Sahari",
+        "category": "News",
+        "publish_time": "09-05-2024 14:59",
+        "news_link": "https://news.republika.co.id/berita/sd84a7425/antisipasi-balap-liar-polisi-tingkatkan-patroli-di-jalan-gunung-sahari"
+    },
+    {
+        "title": "Sekda Jabar Pastikan Penanganan Warga Terdampak Ledakan Gudmurah Bogor Cepat Terselesaikan",
+        "category": "Rejabar",
+        "publish_time": "09-05-2024 14:58",
+        "news_link": "https://rejabar.republika.co.id/berita/sd849h512/sekda-jabar-pastikan-penanganan-warga-terdampak-ledakan-gudmurah-bogor-cepat-terselesaikan"
+    },
+    {
+        "title": "PKS Legislators Ask Jakarta Provincial Government to Facilitate Minimarket Parking Officer",
+        "category": "En",
+        "publish_time": "14 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/sd7qft451/pks-legislators-ask-jakarta-provincial-government-to-facilitate-minimarket-parking-officer"
+    },
+    {
+        "title": "Punya Masalah Bertubi-tubi Meski Bergelimang Harta? Ini Penyebabnya",
+        "category": "Ihram",
+        "publish_time": "09-05-2024 14:55",
+        "news_link": "https://ihram.republika.co.id/berita/sd841j430/punya-masalah-bertubitubi-meski-bergelimang-harta-ini-penyebabnya"
+    },
+    {
+        "title": "Quartararo Bersemangat Lakoni Seri Le Mans",
+        "category": "Sport",
+        "publish_time": "09-05-2024 14:52",
+        "news_link": "https://sport.republika.co.id/berita/sd83za456/quartararo-bersemangat-lakoni-seri-le-mans"
+    },
+    {
+        "title": "Belum Genap Setahun Hyundai Recall Ioniq 6, Ini Masalahnya",
+        "category": "Ekonomi",
+        "publish_time": "09-05-2024 14:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/sd83wd457/belum-genap-setahun-hyundai-recall-ioniq-6-ini-masalahnya"
+    },
+    {
+        "title": "Ellips Shine Sister Goes to Campus Sambangi Kampus Fikom Unpad",
+        "category": "Network",
+        "publish_time": "09-05-2024 14:50",
+        "news_link": "https://cari.republika.co.id/posts/305890/ellips-shine-sister-goes-to-campus-sambangi-kampus-fikom-unpad"
+    },
+    {
+        "title": "Rihlah Prisma At Tin ke Al Jabbar Jadi Momentum Kebangkitan",
+        "category": "Khazanah",
+        "publish_time": "09-05-2024 14:46",
+        "news_link": "https://khazanah.republika.co.id/berita/sd83lh430/rihlah-prisma-at-tin-ke-al-jabbar-jadi-momentum-kebangkitan"
+    },
+    {
+        "title": "Sejarah Yesus Kristus Disebut Isa Almasih di Indonesia",
+        "category": "Network",
+        "publish_time": "09-05-2024 14:45",
+        "news_link": "https://oohya.republika.co.id/pitan/1744635157/sejarah-yesus-kristus-disebut-isa-almasih-di-indonesia"
+    },
+    {
+        "title": "Kemenhub Pastikan Ada Penambahan Dermaga di Lintas Merak-Bakauheni",
+        "category": "Ekonomi",
+        "publish_time": "09-05-2024 14:45",
+        "news_link": "https://ekonomi.republika.co.id/berita/sd83nb457/kemenhub-pastikan-ada-penambahan-dermaga-di-lintas-merakbakauheni"
+    },
+    {
+        "title": "Libur Panjang, Volume Penumpang Whoosh Meningkat 28 Persen",
+        "category": "Rejabar",
+        "publish_time": "09-05-2024 14:43",
+        "news_link": "https://rejabar.republika.co.id/berita/sd83ku512/libur-panjang-volume-penumpang-whoosh-meningkat-28-persen"
+    },
+    {
+        "title": "Apple Luncurkan iPad Pro Terbaru, Desain Tipis dan Ringan dengan Chip M4 Terbaru",
+        "category": "Tekno",
+        "publish_time": "09-05-2024 14:41",
+        "news_link": "https://tekno.republika.co.id/berita/sd83fz425/apple-luncurkan-ipad-pro-terbaru-desain-tipis-dan-ringan-dengan-chip-m4-terbaru"
+    },
+    {
+        "title": "Ribuan Warga Padati Alun-alun Puspawangi, Nobar Indonesia vs Guinea",
+        "category": "Rejabar",
+        "publish_time": "09-05-2024 14:36",
+        "news_link": "https://rejabar.republika.co.id/berita/sd8392512/ribuan-warga-padati-alunalun-puspawangi-nobar-indonesia-vs-guinea"
+    },
+    {
+        "title": "27 Universitas Terbaik di Surabaya Versi EduRank 2024, Unair, ITS, dan Unesa Teratas",
+        "category": "Network",
+        "publish_time": "09-05-2024 14:35",
+        "news_link": "https://kampus.republika.co.id/info-kampus/1624635188/27-universitas-terbaik-di-surabaya-versi-edurank-2024-unair-its-dan-unesa-teratas"
+    },
+    {
+        "title": "Wuling Hadirkan Program Menarik via Spreading Joy Into The World",
+        "category": "Ekonomi",
+        "publish_time": "09-05-2024 14:33",
+        "news_link": "https://ekonomi.republika.co.id/berita/sd8341457/wuling-hadirkan-program-menarik-via-spreading-joy-into-the-world"
+    },
+    {
+        "title": "5 Artis yang Sering Pakai Kebaya di Berbagai Acara, Tampak Cantik dan Anggun",
+        "category": "Ameera",
+        "publish_time": "09-05-2024 14:31",
+        "news_link": "https://ameera.republika.co.id/berita/sd82zr425/5-artis-yang-sering-pakai-kebaya-di-berbagai-acara-tampak-cantik-dan-anggun"
+    },
+    {
+        "title": "Libur Panjang, Polres Garut Antisipasi Kepadatan Lalu Lintas di Jalur Wisata",
+        "category": "Rejabar",
+        "publish_time": "09-05-2024 14:28",
+        "news_link": "https://rejabar.republika.co.id/berita/sd82ug512/libur-panjang-polres-garut-antisipasi-kepadatan-lalu-lintas-di-jalur-wisata"
+    },
+    {
+        "title": "Puji Madrid, Carlo Ancelotti: Ini adalahTiim Terbaik yang Pernah Saya Latih",
+        "category": "Sport",
+        "publish_time": "09-05-2024 14:21",
+        "news_link": "https://sport.republika.co.id/berita/sd82jy456/puji-madrid-carlo-ancelotti-ini-adalahtiim-terbaik-yang-pernah-saya-latih"
+    },
+    {
+        "title": "KPK Didorong Periksa Anggota BPK yang Keluarkan WTP Kementan era SYL",
+        "category": "Network",
+        "publish_time": "09-05-2024 14:17",
+        "news_link": "https://genpop.republika.co.id/posts/305885/kpk-didorong-periksa-anggota-bpk-yang-keluarkan-wtp-kementan-era-syl"
+    },
+    {
+        "title": "Kenaikan Jumlah Penumpang Kereta Api di Hari Libur Panjang Akhir Pekan",
+        "category": "Visual",
+        "publish_time": "09-05-2024 14:15",
+        "news_link": "https://visual.republika.co.id/berita/sd81vr375/kenaikan-jumlah-penumpang-kereta-api-di-hari-libur-panjang-akhir-pekan"
+    },
+    {
         "title": "Air Danau Kawah Gunung Dempo Berubah dari Toska Menjadi Abu, Apa Penyebabnya?",
         "category": "News",
-        "publish_time": "09-05-2024 14:07",
+        "publish_time": "09-05-2024 14:12",
         "news_link": "https://news.republika.co.id/berita/sd81wn425/air-danau-kawah-gunung-dempo-berubah-dari-toska-menjadi-abu-apa-penyebabnya"
     },
     {
         "title": "Rektor UMB Ingatkan Pentingnya Integritas dalam Kepemimpinan",
         "category": "News",
-        "publish_time": "09-05-2024 14:03",
+        "publish_time": "09-05-2024 14:12",
         "news_link": "https://news.republika.co.id/berita/sd81ls430/rektor-umb-ingatkan-pentingnya-integritas-dalam-kepemimpinan"
     },
     {
         "title": "Taiwan Deteksi 23 Jet Tempur dan Lima Kapal China Dekati Wilayahnya",
         "category": "Internasional",
-        "publish_time": "09-05-2024 14:03",
+        "publish_time": "09-05-2024 14:12",
         "news_link": "https://internasional.republika.co.id/berita/sd81pn484/taiwan-deteksi-23-jet-tempur-dan-lima-kapal-china-dekati-wilayahnya"
     },
     {
         "title": "Kapolres Indramayu Cek Kesiapan Akhir Asrama Haji dan Jalur Kedatangan Calhaj",
         "category": "Rejabar",
-        "publish_time": "09-05-2024 14:01",
+        "publish_time": "09-05-2024 14:12",
         "news_link": "https://rejabar.republika.co.id/berita/sd81n3512/kapolres-indramayu-cek-kesiapan-akhir-asrama-haji-dan-jalur-kedatangan-calhaj"
     },
     {
         "title": "Pameran IISM dan Indonesia Cold Chain Expo Hadirkan Inovasi Rantai Pasokan Makanan",
         "category": "Visual",
-        "publish_time": "09-05-2024 14:00",
+        "publish_time": "09-05-2024 14:12",
         "news_link": "https://visual.republika.co.id/berita/sd81kf375/pameran-iism-dan-indonesia-cold-chain-expo-hadirkan-inovasi-rantai-pasokan-makanan"
     },
     {
         "title": "Suara Dukungan untuk Palestina di Aksi Kamisan Bandung",
         "category": "Visual",
-        "publish_time": "09-05-2024 13:59",
+        "publish_time": "09-05-2024 14:12",
         "news_link": "https://visual.republika.co.id/berita/sd7z69375/suara-dukungan-untuk-palestina-di-aksi-kamisan-bandung"
     },
     {
         "title": "Infografis Wacana 40 Kementerian Prabowo-Gibran Terganjal Aturan",
         "category": "Visual",
-        "publish_time": "09-05-2024 13:57",
+        "publish_time": "09-05-2024 14:12",
         "news_link": "https://visual.republika.co.id/berita/sd81gn409/infografis-wacana-40-kementerian-prabowogibran-terganjal-aturan"
     },
     {
         "title": "Dihukum Penalti, Indonesia U-23 Tertinggal 0-1 dari Guinea U-23",
         "category": "Sport",
-        "publish_time": "09-05-2024 13:57",
+        "publish_time": "09-05-2024 14:12",
         "news_link": "https://sport.republika.co.id/berita/sd8184456/dihukum-penalti-indonesia-u23-tertinggal-01-dari-guinea-u23"
     },
     {
         "title": "Paksa Hubungan Sesama Jenis, Ceuceu Berakhir dengan Tusukan Pisau di Leher",
         "category": "News",
-        "publish_time": "09-05-2024 13:56",
+        "publish_time": "09-05-2024 14:12",
         "news_link": "https://news.republika.co.id/berita/sd81de425/paksa-hubungan-sesama-jenis-ceuceu-berakhir-dengan-tusukan-pisau-di-leher"
     },
     {
         "title": "Kemenag Siapkan 25 Tema Khutbah Jumat untuk Juli Hingga Desember 2024",
         "category": "Khazanah",
-        "publish_time": "09-05-2024 13:54",
+        "publish_time": "09-05-2024 14:12",
         "news_link": "https://khazanah.republika.co.id/berita/sd81bk320/kemenag-siapkan-25-tema-khutbah-jumat-untuk-juli-hingga-desember-2024"
     },
     {
         "title": "DKI Provincial Government Renovates 15 Slum Houses in Tanah Tinggi",
         "category": "En",
-        "publish_time": "18 minutes ago",
+        "publish_time": "1 hours ago",
         "news_link": "https://en.republika.co.id/berita/sd7q6i451/dki-provincial-government-renovates-15-slum-houses-in-tanah-tinggi"
     },
     {
         "title": "Minat Warga Kota Bandung Berwisata Medis ke Malaysia Tinggi",
         "category": "Rejabar",
-        "publish_time": "09-05-2024 13:51",
+        "publish_time": "09-05-2024 14:12",
         "news_link": "https://rejabar.republika.co.id/berita/sd815d512/minat-warga-kota-bandung-berwisata-medis-ke-malaysia-tinggi"
     },
     {
         "title": "7 Film yang Dianggap Punya OST Terbaik Sepanjang Masa",
         "category": "Ameera",
-        "publish_time": "09-05-2024 13:41",
+        "publish_time": "09-05-2024 13:12",
         "news_link": "https://ameera.republika.co.id/berita/sd80pq425/7-film-yang-dianggap-punya-ost-terbaik-sepanjang-masa"
     },
     {
         "title": "Mengapa Sering Ada Fenomena Banyak Harta Tapi Keluarganya Berantakan?",
         "category": "Khazanah",
-        "publish_time": "09-05-2024 13:34",
+        "publish_time": "09-05-2024 13:12",
         "news_link": "https://khazanah.republika.co.id/berita/sd80dl320/mengapa-sering-ada-fenomena-banyak-harta-tapi-keluarganya-berantakan"
     },
     {
         "title": "Jelang Paralimpiade Paris, Atlet Paralimpik Ikuti Pelatnas",
         "category": "Visual",
-        "publish_time": "09-05-2024 13:29",
+        "publish_time": "09-05-2024 13:12",
         "news_link": "https://visual.republika.co.id/berita/sd7yml375/jelang-paralimpiade-paris-atlet-paralimpik-ikuti-pelatnas"
     },
     {
         "title": "Planet Berlian 55 Cancri Kembali Terbungkus Atmosfer Kedua yang Tebal",
         "category": "Network",
-        "publish_time": "09-05-2024 13:29",
+        "publish_time": "09-05-2024 13:12",
         "news_link": "https://antariksa.republika.co.id/sains/1714634841/planet-berlian-55-cancri-kembali-terbungkus-atmosfer-kedua-yang-tebal"
     },
     {
         "title": "Perumdam Siap Suplai Air Bersih di Asrama Haji Indramayu",
         "category": "Ihram",
-        "publish_time": "09-05-2024 13:26",
+        "publish_time": "09-05-2024 13:12",
         "news_link": "https://ihram.republika.co.id/berita/sd800i366/perumdam-siap-suplai-air-bersih-di-asrama-haji-indramayu"
     },
     {
         "title": "Tips Jaga Gaya Hidup Seimbang Agar Tetap Sehat dan Semangat",
         "category": "Ameera",
-        "publish_time": "09-05-2024 13:26",
+        "publish_time": "09-05-2024 13:12",
         "news_link": "https://ameera.republika.co.id/berita/sd8006425/tips-jaga-gaya-hidup-seimbang-agar-tetap-sehat-dan-semangat"
     },
     {
         "title": "Prajurit Israel Berguguran Dirudal Hizbullah di Front Utara",
         "category": "Internasional",
-        "publish_time": "09-05-2024 13:21",
+        "publish_time": "09-05-2024 13:12",
         "news_link": "https://internasional.republika.co.id/berita/sd7zry393/prajurit-israel-berguguran-dirudal-hizbullah-di-front-utara"
     },
     {
         "title": "Basarnas Cari Remaja Perempuan Terseret Arus Sungai di Luwu Timur",
         "category": "News",
-        "publish_time": "09-05-2024 13:19",
+        "publish_time": "09-05-2024 13:12",
         "news_link": "https://news.republika.co.id/berita/sd7zos366/basarnas-cari-remaja-perempuan-terseret-arus-sungai-di-luwu-timur"
     },
     {
@@ -134,175 +302,7 @@
     {
         "title": "Masyarakat Diminta tak Bully Marselino",
         "category": "Sport",
-        "publish_time": "09-05-2024 13:10",
+        "publish_time": "09-05-2024 13:12",
         "news_link": "https://sport.republika.co.id/berita/sd7z8d456/masyarakat-diminta-tak-bully-marselino"
-    },
-    {
-        "title": "Sebanyak 15 Ribu Anak Terbunuh Akibat Serangan Israel di Jalur Gaza",
-        "category": "Internasional",
-        "publish_time": "09-05-2024 13:10",
-        "news_link": "https://internasional.republika.co.id/berita/sd7w6o409/sebanyak-15-ribu-anak-terbunuh-akibat-serangan-israel-di-jalur-gaza"
-    },
-    {
-        "title": "Gandeng AKI, Perusahaan Ini Siap Dukung Pembangunan Nasional",
-        "category": "News",
-        "publish_time": "09-05-2024 13:10",
-        "news_link": "https://news.republika.co.id/berita/sd81ps484/gandeng-aki-perusahaan-ini-siap-dukung-pembangunan-nasional"
-    },
-    {
-        "title": "Disambut Zulhas, Prabowo Hadiri Bimtek Anggota DPRD PAN di Jakarta",
-        "category": "News",
-        "publish_time": "09-05-2024 13:10",
-        "news_link": "https://news.republika.co.id/berita/sd7yy4484/disambut-zulhas-prabowo-hadiri-bimtek-anggota-dprd-pan-di-jakarta"
-    },
-    {
-        "title": "Pemkab Cianjur Dukung Usulan Pemekaran Cianjur Selatan yang Digagas Pemprov Jabar",
-        "category": "Rejabar",
-        "publish_time": "09-05-2024 13:10",
-        "news_link": "https://rejabar.republika.co.id/berita/sd7yk5512/pemkab-cianjur-dukung-usulan-pemekaran-cianjur-selatan-yang-digagas-pemprov-jabar"
-    },
-    {
-        "title": "Indonesia Vs Guinea: Bagas Kaffa Masuk Starting XI, Witan Sulaeman Kapten",
-        "category": "Sport",
-        "publish_time": "09-05-2024 13:10",
-        "news_link": "https://sport.republika.co.id/berita/sd7yes409/indonesia-vs-guinea-bagas-kaffa-masuk-starting-xi-witan-sulaeman-kapten"
-    },
-    {
-        "title": "Supporting Independence of Palestine is Mandate of the 1945 Constitution",
-        "category": "En",
-        "publish_time": "1 hours ago",
-        "news_link": "https://en.republika.co.id/berita/sd7q4c451/supporting-independence-of-palestine-is-mandate-of-the-1945-constitution"
-    },
-    {
-        "title": "Pantai Marunda, Destinasi Wisata Alternatif di Pesisir Jakarta",
-        "category": "Visual",
-        "publish_time": "09-05-2024 13:10",
-        "news_link": "https://visual.republika.co.id/berita/sd7yh4375/pantai-marunda-destinasi-wisata-alternatif-di-pesisir-jakarta"
-    },
-    {
-        "title": "Timnas Indonesia U-23 Harus Andalkan Kolektivitas",
-        "category": "Sport",
-        "publish_time": "09-05-2024 13:10",
-        "news_link": "https://sport.republika.co.id/berita/sd7y8m456/timnas-indonesia-u23-harus-andalkan-kolektivitas"
-    },
-    {
-        "title": "Lantamal X/Jayapura Gagalkan Penyelundupan 13,43 Kg Ganja Asal Papua Nugini",
-        "category": "News",
-        "publish_time": "09-05-2024 13:10",
-        "news_link": "https://news.republika.co.id/berita/sd7y5r484/lantamal-xjayapura-gagalkan-penyelundupan-1343-kg-ganja-asal-papua-nugini"
-    },
-    {
-        "title": "Shin Tae-yong Janji Timnas Indonesia U-23 Berikan Segalanya",
-        "category": "Sport",
-        "publish_time": "09-05-2024 13:10",
-        "news_link": "https://sport.republika.co.id/berita/sd7y06456/shin-taeyong-janji-timnas-indonesia-u23-berikan-segalanya"
-    },
-    {
-        "title": "Resmi, Ini Starting XI Indonesia vs Guinea, Witan Jadi Kapten",
-        "category": "Sport",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://sport.republika.co.id/berita/sd7xtn456/resmi-ini-starting-xi-indonesia-vs-guinea-witan-jadi-kapten"
-    },
-    {
-        "title": "Menhub Siapkan Bantuan Pendidikan untuk Adik Korban Kekerasan Senior STIP",
-        "category": "News",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://news.republika.co.id/berita/sd7wen409/menhub-siapkan-bantuan-pendidikan-untuk-adik-korban-kekerasan-senior-stip"
-    },
-    {
-        "title": "Jamin tak Ada Pungli di Obyek Wisata di Cianjur, Bupati: Laporkan Jika Ada Pungli",
-        "category": "Rejabar",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://rejabar.republika.co.id/berita/sd7xak512/jamin-tak-ada-pungli-di-obyek-wisata-di-cianjur-bupati-laporkan-jika-ada-pungli"
-    },
-    {
-        "title": "Proses Imigrasi Jamaah Embarkasi Kertajati Dilakukan di Asrama Haji Indramayu",
-        "category": "Ihram",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://ihram.republika.co.id/berita/sd7wsy366/proses-imigrasi-jamaah-embarkasi-kertajati-dilakukan-di-asrama-haji-indramayu"
-    },
-    {
-        "title": "PVMBG: Aktivitas Abu Vulkanik Gunung Ibu di Maluku Utara Meningkat",
-        "category": "News",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://news.republika.co.id/berita/sd7voa436/pvmbg-aktivitas-abu-vulkanik-gunung-ibu-di-maluku-utara-meningkat"
-    },
-    {
-        "title": "Kondisi Jembatan di Pesisir Selatan Sumbar yang Terputus Akibat Banjir Bandang",
-        "category": "Visual",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://visual.republika.co.id/berita/sd7vg6375/kondisi-jembatan-di-pesisir-selatan-sumbar-yang-terputus-akibat-banjir-bandang"
-    },
-    {
-        "title": "Kepala Disdik Jabar Siap Diberhentikan dari Jabatan Jika PPDB 2024 tak Berjalan Baik",
-        "category": "Rejabar",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://rejabar.republika.co.id/berita/sd7wiw512/kepala-disdik-jabar-siap-diberhentikan-dari-jabatan-jika-ppdb-2024-tak-berjalan-baik"
-    },
-    {
-        "title": "Keberangkatan 1.762 Calon Jamaah Haji Tangerang Dibagi Lima Kloter",
-        "category": "Ihram",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://ihram.republika.co.id/berita/sd7waz366/keberangkatan-1762-calon-jamaah-haji-tangerang-dibagi-lima-kloter"
-    },
-    {
-        "title": "Libur Panjang, Lalin di Tol Jabodetabek dan Jawa Barat Meningkat",
-        "category": "News",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://news.republika.co.id/berita/sd7w7i330/libur-panjang-lalin-di-tol-jabodetabek-dan-jawa-barat-meningkat"
-    },
-    {
-        "title": "Rektor Universitas Surakarta Resmi Daftar Pilkada Solo Lewat Gerindra",
-        "category": "Pemilu Kita",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://pemilukita.republika.co.id/berita/sd7vir436/rektor-universitas-surakarta-resmi-daftar-pilkada-solo-lewat-gerindra"
-    },
-    {
-        "title": "Prediksi Starting XI Timnas Indonesia U-23 Malam Ini, Tanpa Rizky Ridho-Hubner-Baggot",
-        "category": "Sport",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://sport.republika.co.id/berita/sd7voc456/prediksi-starting-xi-timnas-indonesia-u23-malam-ini-tanpa-rizky-ridhohubnerbaggot"
-    },
-    {
-        "title": "Empat Kapal Perang Dikerahkan dalam Latopslagab di Laut Jawa dan Bali",
-        "category": "News",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://news.republika.co.id/berita/sd7vjk484/empat-kapal-perang-dikerahkan-dalam-latopslagab-di-laut-jawa-dan-bali"
-    },
-    {
-        "title": "Garuda Muda Harus Diapresiasi Apapun Hasil Indonesia Vs Guinea, Hindari Ujaran Kebencian",
-        "category": "News",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://news.republika.co.id/berita/sd7vg0409/garuda-muda-harus-diapresiasi-apapun-hasil-indonesia-vs-guinea-hindari-ujaran-kebencian"
-    },
-    {
-        "title": "Laga Play-Off Indonesia Vs Guinea, Nobar Kembali Digelar di Alun-alun Puspawangi",
-        "category": "Rejabar",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://rejabar.republika.co.id/berita/sd7ves512/laga-playoff-indonesia-vs-guinea-nobar-kembali-digelar-di-alunalun-puspawangi"
-    },
-    {
-        "title": "Status Gunung Ibu Halmahera Naik Jadi Siaga Level III",
-        "category": "Visual",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://visual.republika.co.id/berita/sd7vdc375/status-gunung-ibu-halmahera-naik-jadi-siaga-level-iii"
-    },
-    {
-        "title": "RS Polri: Ada Tanda-Tanda Depresi pada Pria yang Lukai Ibu Kandung",
-        "category": "News",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://news.republika.co.id/berita/sd7v9r436/rs-polri-ada-tandatanda-depresi-pada-pria-yang-lukai-ibu-kandung"
-    },
-    {
-        "title": "PTPN Salurkan 5,5 Ton Bantuan Sembako Bagi Korban Banjir Bandang Luwu",
-        "category": "Ekonomi",
-        "publish_time": "09-05-2024 12:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/sd7v78463/ptpn-salurkan-55-ton-bantuan-sembako-bagi-korban-banjir-bandang-luwu"
-    },
-    {
-        "title": "Ditengah Isu Penambahan Nomenklatur, DPR: Revisi UU Kementerian Diperlukan Ikuti Zaman",
-        "category": "News",
-        "publish_time": "09-05-2024 11:10",
-        "news_link": "https://news.republika.co.id/berita/sd7v2b436/ditengah-isu-penambahan-nomenklatur-dpr-revisi-uu-kementerian-diperlukan-ikuti-zaman"
     }
 ]
