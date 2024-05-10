@@ -1,98 +1,254 @@
 [
     {
+        "title": "Jenazah Pedangdut Jhony Iskandar Dikuburkan di Pemakaman Keluarga",
+        "category": "News",
+        "publish_time": "10-05-2024 10:10",
+        "news_link": "https://news.republika.co.id/berita/sd9lm2425/jenazah-pedangdut-jhony-iskandar-dikuburkan-di-pemakaman-keluarga"
+    },
+    {
+        "title": "Pupuk Indonesia Salurkan 80 Ton Beras untuk Korban Banjir di Sulsel",
+        "category": "Esgnow",
+        "publish_time": "10-05-2024 10:09",
+        "news_link": "https://esgnow.republika.co.id/berita/sd9kra457/pupuk-indonesia-salurkan-80-ton-beras-untuk-korban-banjir-di-sulsel"
+    },
+    {
+        "title": "Tes Kesehatan Kru Dapur Asrama Haji Embarkasi Surabaya",
+        "category": "Visual",
+        "publish_time": "10-05-2024 10:08",
+        "news_link": "https://visual.republika.co.id/berita/sd9lid491/tes-kesehatan-kru-dapur-asrama-haji-embarkasi-surabaya"
+    },
+    {
+        "title": "Selamat dari Kecelakaan Maut, Ketua Bawaslu Sempat Minta Pindah Posisi Duduk",
+        "category": "News",
+        "publish_time": "10-05-2024 10:07",
+        "news_link": "https://news.republika.co.id/berita/sd9lh1456/selamat-dari-kecelakaan-maut-ketua-bawaslu-sempat-minta-pindah-posisi-duduk"
+    },
+    {
+        "title": "Aksi Kamisan di Gelar di Bandung Suarakan Pelanggaran HAM di Palestina",
+        "category": "Network",
+        "publish_time": "10-05-2024 10:05",
+        "news_link": "https://bandung24jam.id/posts/305998/aksi-kamisan-di-gelar-di-bandung-suarakan-pelanggaran-ham-di-palestina"
+    },
+    {
+        "title": "KAI Catat Jumlah Penumpang di Stasiun Malang Naik 30 Persen",
+        "category": "News",
+        "publish_time": "10-05-2024 10:04",
+        "news_link": "https://news.republika.co.id/berita/sd9lbh330/kai-catat-jumlah-penumpang-di-stasiun-malang-naik-30-persen"
+    },
+    {
+        "title": "Busana Idol K-Pop di Met Gala 2024 Dikritik, Dulu 'Gila-gilaan' Sekarang Biasa Saja?",
+        "category": "Ameera",
+        "publish_time": "10-05-2024 10:02",
+        "news_link": "https://ameera.republika.co.id/berita/sd9l87425/busana-idol-kpop-di-met-gala-2024-dikritik-dulu-gilagilaan-sekarang-biasa-saja"
+    },
+    {
+        "title": "Pembunuh Wanita Muda Lemari Kosan Tertangkap, Sakit Hati Korban Minta Uang Kencan Dimuka",
+        "category": "Rejabar",
+        "publish_time": "10-05-2024 10:01",
+        "news_link": "https://rejabar.republika.co.id/berita/sd9l65512/pembunuh-wanita-muda-lemari-kosan-tertangkap-sakit-hati-korban-minta-uang-kencan-dimuka"
+    },
+    {
+        "title": "Gelar Aksi Solidaritas Bela Palestina, Mahasiswa UII Sampaikan Lima Sikap Tegas",
+        "category": "Rejogja",
+        "publish_time": "10-05-2024 10:00",
+        "news_link": "https://rejogja.republika.co.id/berita/sd9l57291/gelar-aksi-solidaritas-bela-palestina-mahasiswa-uii-sampaikan-lima-sikap-tegas"
+    },
+    {
+        "title": "APPSI Siapkan Pelatihan Digital Bagi Pedagang di Pasar Tradisional",
+        "category": "Ekonomi",
+        "publish_time": "10-05-2024 09:59",
+        "news_link": "https://ekonomi.republika.co.id/berita/sd9kjm457/appsi-siapkan-pelatihan-digital-bagi-pedagang-di-pasar-tradisional"
+    },
+    {
+        "title": "Maju Pilbup Sleman, Danang Ungkap Sejumlah Kriteria Calon Pendampingnya",
+        "category": "Rejogja",
+        "publish_time": "10-05-2024 09:53",
+        "news_link": "https://rejogja.republika.co.id/berita/sd9ktl291/maju-pilbup-sleman-danang-ungkap-sejumlah-kriteria-calon-pendampingnya"
+    },
+    {
+        "title": "Megawati Ajak Pemain Voli Putri Indonesia Berani Berkarir di Luar Negeri",
+        "category": "Sport",
+        "publish_time": "10-05-2024 09:51",
+        "news_link": "https://sport.republika.co.id/berita/sd9kpe330/megawati-ajak-pemain-voli-putri-indonesia-berani-berkarir-di-luar-negeri"
+    },
+    {
+        "title": "Kebutuhan Logistik Meningkat Seiring Banyaknya UMKM Gunakan Digital",
+        "category": "Ekonomi",
+        "publish_time": "10-05-2024 09:48",
+        "news_link": "https://ekonomi.republika.co.id/berita/sd9klq423/kebutuhan-logistik-meningkat-seiring-banyaknya-umkm-gunakan-digital"
+    },
+    {
+        "title": "Gedung Putih Sebut Israel Masih Terima 'Sebagian Besar' Senjata dari AS",
+        "category": "Internasional",
+        "publish_time": "10-05-2024 09:45",
+        "news_link": "https://internasional.republika.co.id/berita/sd9kgz425/gedung-putih-sebut-israel-masih-terima-sebagian-besar-senjata-dari-as"
+    },
+    {
+        "title": "Tanggapan Alonso Lihat Timnya yang tak Juga Alami Kekalahan",
+        "category": "Sport",
+        "publish_time": "10-05-2024 09:45",
+        "news_link": "https://sport.republika.co.id/berita/sd9kgb456/tanggapan-alonso-lihat-timnya-yang-tak-juga-alami-kekalahan"
+    },
+    {
+        "title": "KLHK Paparkan Penurunan Tingkat Deforestasi Indonesia di Forum PBB",
+        "category": "Esgnow",
+        "publish_time": "10-05-2024 09:44",
+        "news_link": "https://esgnow.republika.co.id/berita/sd9k9i457/klhk-paparkan-penurunan-tingkat-deforestasi-indonesia-di-forum-pbb"
+    },
+    {
+        "title": "Polisi Ungkap Kronologi Diduga ODGJ Hantam Kepala Wanita dengan Batu di Bekasi",
+        "category": "News",
+        "publish_time": "10-05-2024 09:41",
+        "news_link": "https://news.republika.co.id/berita/sd9ka5330/polisi-ungkap-kronologi-diduga-odgj-hantam-kepala-wanita-dengan-batu-di-bekasi"
+    },
+    {
+        "title": "KSP Dorong Percepatan Pengembangan Bali Maritime Tourism Hub",
+        "category": "News",
+        "publish_time": "10-05-2024 09:40",
+        "news_link": "https://news.republika.co.id/berita/sd9k78484/ksp-dorong-percepatan-pengembangan-bali-maritime-tourism-hub"
+    },
+    {
+        "title": "Jhony Iskandar, Sosok Pedangdut Jenaka yang Kini Telah Tiada",
+        "category": "Ameera",
+        "publish_time": "10-05-2024 09:34",
+        "news_link": "https://ameera.republika.co.id/berita/sd9jxh425/jhony-iskandar-sosok-pedangdut-jenaka-yang-kini-telah-tiada"
+    },
+    {
+        "title": "Pertamina Tegaskan Pertamax Green 95 Bukan Pengganti Pertalite",
+        "category": "Ekonomi",
+        "publish_time": "10-05-2024 09:33",
+        "news_link": "https://ekonomi.republika.co.id/berita/sd9jwg490/pertamina-tegaskan-pertamax-green-95-bukan-pengganti-pertalite"
+    },
+    {
+        "title": "Pemkab Kepulauan Seribu Mulai Manfaatkan Lahan untuk Tanaman Pangan",
+        "category": "News",
+        "publish_time": "10-05-2024 09:33",
+        "news_link": "https://news.republika.co.id/berita/sd9jvd457/pemkab-kepulauan-seribu-mulai-manfaatkan-lahan-untuk-tanaman-pangan"
+    },
+    {
+        "title": "PKS dan Golkar Duetkan Imam-Ririn di Pilwalkot Depok 2024",
+        "category": "News",
+        "publish_time": "10-05-2024 09:32",
+        "news_link": "https://news.republika.co.id/berita/sd9juo409/pks-dan-golkar-duetkan-imamririn-di-pilwalkot-depok-2024"
+    },
+    {
+        "title": "Okupansi Angkutan KA di Daop Jember Meningkat Saat Libur Panjang",
+        "category": "Ekonomi",
+        "publish_time": "10-05-2024 09:26",
+        "news_link": "https://ekonomi.republika.co.id/berita/sd9jki457/okupansi-angkutan-ka-di-daop-jember-meningkat-saat-libur-panjang"
+    },
+    {
+        "title": "Legislator Prihatin Penurunan Angka Prevalensi Stunting Masih Rendah",
+        "category": "Dpr Ri",
+        "publish_time": "10-05-2024 09:26",
+        "news_link": "https://republika.co.id/berita/sd9jkg423/legislator-prihatin-penurunan-angka-prevalensi-stunting-masih-rendah"
+    },
+    {
+        "title": "Ada Kabar Kurang Sedap Bagi Suporter Persib dan Bali United",
+        "category": "Sport",
+        "publish_time": "10-05-2024 09:23",
+        "news_link": "https://sport.republika.co.id/berita/sd9jfl456/ada-kabar-kurang-sedap-bagi-suporter-persib-dan-bali-united"
+    },
+    {
+        "title": "Rizky Febian Nikahi Mahalini, Satu Kali Ijab Langsung Sah",
+        "category": "Ameera",
+        "publish_time": "10-05-2024 09:18",
+        "news_link": "https://ameera.republika.co.id/berita/sd9j80425/rizky-febian-nikahi-mahalini-satu-kali-ijab-langsung-sah"
+    },
+    {
         "title": "Lobi Khofifah yang Ingin Duet dengan Emil",
         "category": "News",
-        "publish_time": "10-05-2024 09:07",
+        "publish_time": "10-05-2024 09:11",
         "news_link": "https://www.republika.id/posts/52675/lobi-khofifah-yang-ingin-duet-dengan-emil"
     },
     {
         "title": "Simak Perubahan pada Desain Terbaru Aplikasi WhatsApp",
         "category": "Tekno",
-        "publish_time": "10-05-2024 08:49",
+        "publish_time": "10-05-2024 09:11",
         "news_link": "https://tekno.republika.co.id/berita/sd9hvj370/simak-perubahan-pada-desain-terbaru-aplikasi-whatsapp"
     },
     {
         "title": "Ribuan Pengunjung Tercatat Kunjungi Taman Margasatwa Ragunan",
         "category": "Visual",
-        "publish_time": "10-05-2024 08:49",
+        "publish_time": "10-05-2024 09:11",
         "news_link": "https://visual.republika.co.id/berita/sd9h8f491/ribuan-pengunjung-tercatat-kunjungi-taman-margasatwa-ragunan"
     },
     {
         "title": "Ahok: Gubernur Jakarta Harus Serahkan Nomor HP-nya ke Warga",
         "category": "News",
-        "publish_time": "10-05-2024 08:46",
+        "publish_time": "10-05-2024 09:11",
         "news_link": "https://news.republika.co.id/berita/sd9hiw484/ahok-gubernur-jakarta-harus-serahkan-nomor-hpnya-ke-warga"
     },
     {
         "title": "Presiden FIFA Takjub dengan Betapa Menjanjikannya Masa Depan Timnas Indonesia",
         "category": "Sport",
-        "publish_time": "10-05-2024 08:46",
+        "publish_time": "10-05-2024 09:11",
         "news_link": "https://sport.republika.co.id/berita/sd9hps456/presiden-fifa-takjub-dengan-betapa-menjanjikannya-masa-depan-timnas-indonesia"
     },
     {
         "title": "Sudirman Said Bakal Maju Jadi Cagub Jakarta Lewat Jalur Independen",
         "category": "News",
-        "publish_time": "10-05-2024 08:46",
+        "publish_time": "10-05-2024 09:11",
         "news_link": "https://news.republika.co.id/berita/sd9hpb409/sudirman-said-bakal-maju-jadi-cagub-jakarta-lewat-jalur-independen"
     },
     {
         "title": "Orang Kepercayaan Anies Bakal Maju Cagub Jakarta Melalui Jalur Independen",
         "category": "News",
-        "publish_time": "10-05-2024 08:44",
+        "publish_time": "10-05-2024 09:11",
         "news_link": "https://www.republika.id/posts/52674/orang-kepercayaan-anies-maju-cagub-jakarta-melalui-jalur-independen"
     },
     {
         "title": "KPK Percepat Pemberkasan Perkara Usai Upaya Praperadilan Eks Karutan Kandas",
         "category": "News",
-        "publish_time": "10-05-2024 08:40",
+        "publish_time": "10-05-2024 08:11",
         "news_link": "https://news.republika.co.id/berita/sd9hfk409/kpk-percepat-pemberkasan-perkara-usai-upaya-praperadilan-eks-karutan-kandas"
     },
     {
         "title": "Nyentil Imam, Kalau Jadi Wali Kota Depok Jangan Baperan Dong",
         "category": "Network",
-        "publish_time": "10-05-2024 08:40",
+        "publish_time": "10-05-2024 08:11",
         "news_link": "https://ruzka.republika.co.id/komunitas/1674637565/nyentil-imam-kalau-jadi-wali-kota-depok-jangan-baperan-dong"
     },
     {
         "title": "PAN Serahkan ke Khofifah Tentukan Cawagub Pendamping",
         "category": "News",
-        "publish_time": "10-05-2024 08:30",
+        "publish_time": "10-05-2024 08:11",
         "news_link": "https://news.republika.co.id/berita/sd9gss484/pan-serahkan-ke-khofifah-tentukan-cawagub-pendamping"
     },
     {
         "title": "Aksi Pencuri Gasak Perhiasan dan Uang di Bandung, Pura-pura jadi Tamu Acara Syukuran",
         "category": "Rejabar",
-        "publish_time": "10-05-2024 08:28",
+        "publish_time": "10-05-2024 08:11",
         "news_link": "https://rejabar.republika.co.id/berita/sd9gv9512/aksi-pencuri-gasak-perhiasan-dan-uang-di-bandung-purapura-jadi-tamu-acara-syukuran"
     },
     {
         "title": "Peter Jackson Garap Film Baru The Lord of the Rings, Rencanakan Debut pada 2026",
         "category": "Ameera",
-        "publish_time": "10-05-2024 08:23",
+        "publish_time": "10-05-2024 08:11",
         "news_link": "https://ameera.republika.co.id/berita/sd9gnq370/peter-jackson-garap-film-baru-the-lord-of-the-rings-rencanakan-debut-pada-2026"
     },
     {
         "title": "Khofifah Harap Gerindra, Golkar, PAN Setujui Duetnya dengan Emil di Pilgub Jatim",
         "category": "News",
-        "publish_time": "10-05-2024 08:21",
+        "publish_time": "10-05-2024 08:11",
         "news_link": "https://news.republika.co.id/berita/sd9gkr409/khofifah-harap-gerindra-golkar-pan-setujui-duetnya-dengan-emil-di-pilgub-jatim"
     },
     {
         "title": "Firasat Ortu Didatangi Lewat Mimpi, Mayat Wanita Muda Ditemukan Tewas di Lemari Kosan",
         "category": "Rejabar",
-        "publish_time": "10-05-2024 08:19",
+        "publish_time": "10-05-2024 08:11",
         "news_link": "https://rejabar.republika.co.id/berita/sd9ghn512/firasat-ortu-didatangi-lewat-mimpi-mayat-wanita-muda-ditemukan-tewas-di-lemari-kosan"
     },
     {
         "title": "Asrama Haji Bekasi Siap Kedatangan Calon Jamaah Haji Esok",
         "category": "Visual",
-        "publish_time": "10-05-2024 08:18",
+        "publish_time": "10-05-2024 08:11",
         "news_link": "https://visual.republika.co.id/berita/sd9gfz491/asrama-haji-bekasi-siap-kedatangan-calon-jamaah-haji-esok"
     },
     {
         "title": "Presiden Diingatkan tak Pilih Pansel KPK Seperti Periode Sebelumnya",
         "category": "News",
-        "publish_time": "10-05-2024 08:18",
+        "publish_time": "10-05-2024 08:11",
         "news_link": "https://www.republika.id/posts/52672/presiden-diingatkan-tak-pilih-pansel-kpk-seperti-periode-sebelumnya"
     },
     {
@@ -142,161 +298,5 @@
         "category": "News",
         "publish_time": "10-05-2024 07:11",
         "news_link": "https://news.republika.co.id/berita/sd9e5x484/mahfud-md-ungkap-bergesernya-kecurangan-pemilu"
-    },
-    {
-        "title": "Sarjana Terbaik, Ini Sisi Lain Sosok Kader Khofifah Penyusun Roadmap Perempuan dan Anak",
-        "category": "Network",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://cari.republika.co.id/posts/305994/sarjana-terbaik-ini-sisi-lain-sosok-kader-khofifah-penyusun-roadmap-perempuan-dan-anak"
-    },
-    {
-        "title": "Respons Angkuh Netanyahu Usai Biden Ancam Setop Kirim Senjata Jika Israel Serang Rafah",
-        "category": "News",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://news.republika.co.id/berita/sd9e37409/respons-angkuh-netanyahu-usai-biden-ancam-setop-kirim-senjata-jika-israel-serang-rafah"
-    },
-    {
-        "title": "PSI Sebut Kaesang Targetkan Kemenangan pada Pilwakot Solo",
-        "category": "News",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://news.republika.co.id/berita/sd9dvz484/psi-sebut-kaesang-targetkan-kemenangan-pada-pilwakot-solo"
-    },
-    {
-        "title": "Waspada Modus Haji Tanpa Antri",
-        "category": "Ihram",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://ihram.republika.co.id/berita/sd9dsw430/waspada-modus-haji-tanpa-antri"
-    },
-    {
-        "title": "Pemprov DIY Siapkan Manajemen Risiko Bencana di Kawasan Sumbu Filosofi",
-        "category": "News",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://news.republika.co.id/berita/sd9du7330/pemprov-diy-siapkan-manajemen-risiko-bencana-di-kawasan-sumbu-filosofi"
-    },
-    {
-        "title": "Industri Zakat Perlu Pijakan yang Kokoh",
-        "category": "Retizen",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://retizen.republika.co.id/posts/305987/industri-zakat-perlu-pijakan-yang-kokoh"
-    },
-    {
-        "title": "Legislator Minta Pemprov Bina Juru Parkir Liar di Jakarta",
-        "category": "News",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://news.republika.co.id/berita/sd9dn7330/legislator-minta-pemprov-bina-juru-parkir-liar-di-jakarta"
-    },
-    {
-        "title": "Membanggakan, Kafilah Muba Sabet Juara Umum Lomba MTQ Provinsi Sumsel 2024",
-        "category": "News",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://news.republika.co.id/berita/sd9dk8349/membanggakan-kafilah-muba-sabet-juara-umum-lomba-mtq-provinsi-sumsel-2024"
-    },
-    {
-        "title": "Yuk, Sayangi Adik",
-        "category": "Retizen",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://retizen.republika.co.id/posts/305937/yuk-sayangi-adik"
-    },
-    {
-        "title": "Infografis Tukang Parkir Liar di Minimarket Bikin\u00a0Resah, Ditertibkan",
-        "category": "Visual",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://visual.republika.co.id/berita/sd9bfh409/infografis-tukang-parkir-liar-di-minimarket-bikinresah-ditertibkan"
-    },
-    {
-        "title": "Danpaspampres Beri Brevet Kehormatan Setia Waspada kepada 28 Perwira TNI AU",
-        "category": "Network",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://seputarmiliter.id/posts/305990/danpaspampres-beri-brevet-kehormatan-setia-waspada-kepada-28-perwira-tni-au"
-    },
-    {
-        "title": "Jadwal Kapal Doloronda 11-17 Mei 2024,  Berlayar dari  Surabaya hingga Ambon",
-        "category": "Network",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://shippingcargo.co.id/posts/305988/jadwal-kapal-doloronda-11-17-mei-2024-berlayar-dari-surabaya-hingga-ambon"
-    },
-    {
-        "title": "Wacana 40 Kementerian, Gerindra: Apakah Salah Mengakomodasi Kawan-Kawan?",
-        "category": "News",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://www.republika.id/posts/52667/wacana-40-kementerian-gerindra-apakah-salah-mengakomodasi-kawan-kawan"
-    },
-    {
-        "title": "Akademisi: Dana Haji Jaga Stabilitas Keuangan Bank Syariah",
-        "category": "Sharia",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://sharia.republika.co.id/berita/sd9cgi457/akademisi-dana-haji-jaga-stabilitas-keuangan-bank-syariah"
-    },
-    {
-        "title": "Kemenag Apresiasi Farhan yang Berani Menghalau Pengeroyokan di Pamulang",
-        "category": "News",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://news.republika.co.id/berita/sd9d45330/kemenag-apresiasi-farhan-yang-berani-menghalau-pengeroyokan-di-pamulang"
-    },
-    {
-        "title": "Perbanyaklah Sholawat di Hari Jumat",
-        "category": "Video",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://tv.republika.co.id/berita/sd9d1v313/perbanyaklah-sholawat-di-hari-jumat"
-    },
-    {
-        "title": "MES DIY Serukan Pembuatan Roadmap Halal di Yogyakarta",
-        "category": "Rejogja",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://rejogja.republika.co.id/berita/sd9cpq291/mes-diy-serukan-pembuatan-roadmap-halal-di-yogyakarta"
-    },
-    {
-        "title": "Perkuat Distribusi, Badan Pangan Ingin Perbanyak Cold Storage",
-        "category": "Ekonomi",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sd9col490/perkuat-distribusi-badan-pangan-ingin-perbanyak-cold-storage"
-    },
-    {
-        "title": "Rektor UNRI Cabut Laporan Terhadap Mahasiswanya",
-        "category": "News",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://news.republika.co.id/berita/sd9cmu330/rektor-unri-cabut-laporan-terhadap-mahasiswanya"
-    },
-    {
-        "title": "Polisi Ungkap Kekerasan Terhadap Anak di Sleman: Pelaku Tembak Korban dengan Senapan Angin",
-        "category": "News",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://news.republika.co.id/berita/sd9cjp349/polisi-ungkap-kekerasan-terhadap-anak-di-sleman-pelaku-tembak-korban-dengan-senapan-angin"
-    },
-    {
-        "title": "Pakar: Indonesia Perlu Maksimalkan Produksi Pangan yang Sesuai",
-        "category": "Ekonomi",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sbw50u457/pakar-indonesia-perlu-maksimalkan-produksi-pangan-yang-sesuai"
-    },
-    {
-        "title": "Komentar Si Joker Setelah Dinobatkan Sebagai 'Pangeran' NBA untuk Ketiga Kalinya",
-        "category": "Sport",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://sport.republika.co.id/berita/sd9cht456/komentar-si-joker-setelah-dinobatkan-sebagai-pangeran-nba-untuk-ketiga-kalinya"
-    },
-    {
-        "title": "Forum Kota Depok Sehat Dukung Intensifikasi dan Integrasi Pelayanan KBKR",
-        "category": "Network",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://ruzka.republika.co.id/komunitas/1674637149/forum-kota-depok-sehat-dukung-intensifikasi-dan-integrasi-pelayanan-kbkr"
-    },
-    {
-        "title": "Lecehkan 6 Anak, Seorang Pria Babak Belur Dihakimi Massa",
-        "category": "News",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://news.republika.co.id/berita/sd9c4o330/lecehkan-6-anak-seorang-pria-babak-belur-dihakimi-massa"
-    },
-    {
-        "title": "Obat Pilek Ini Diklaim Berhasil Bikin Wanita Hamil, Ini Kata Ahli Kesehatan",
-        "category": "Ameera",
-        "publish_time": "10-05-2024 07:11",
-        "news_link": "https://ameera.republika.co.id/berita/sd9c0y425/obat-pilek-ini-diklaim-berhasil-bikin-wanita-hamil-ini-kata-ahli-kesehatan"
-    },
-    {
-        "title": "Wakil KSAU Bahas Latihan Bersama dengan AU Jepang",
-        "category": "News",
-        "publish_time": "10-05-2024 06:11",
-        "news_link": "https://news.republika.co.id/berita/sd9by4484/wakil-ksau-bahas-latihan-bersama-dengan-au-jepang"
     }
 ]
