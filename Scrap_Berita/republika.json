@@ -1,134 +1,236 @@
 [
     {
+        "title": "Saksi Ungkap Tagihan Umroh \"Komandan SYL\" yang Capai Rp 1,7 M",
+        "category": "News",
+        "publish_time": "13-05-2024 15:11",
+        "news_link": "https://news.republika.co.id/berita/sdfjje328/saksi-ungkap-tagihan-umroh-komandan-syl-yang-capai-rp-17-m"
+    },
+    {
+        "title": "'Seberapapun Santunan dan Perhatian Enggak Bisa Kembalikan Anak Saya'",
+        "category": "News",
+        "publish_time": "13-05-2024 15:06",
+        "news_link": "https://news.republika.co.id/berita/sdfjaj328/seberapapun-santunan-dan-perhatian-enggak-bisa-kembalikan-anak-saya"
+    },
+    {
+        "title": "Amerika Serikat Juga Tengah Investigas Potensi Pelanggaran Israel di Jalur Gaza",
+        "category": "Internasional",
+        "publish_time": "13-05-2024 15:03",
+        "news_link": "https://internasional.republika.co.id/berita/sdfj6v320/amerika-serikat-juga-tengah-investigas-potensi-pelanggaran-israel-di-jalur-gaza"
+    },
+    {
+        "title": "OJK Tegaskan Likuditas Perbankan Memadai",
+        "category": "Ekonomi",
+        "publish_time": "13-05-2024 15:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/sdfj6a502/ojk-tegaskan-likuditas-perbankan-memadai"
+    },
+    {
+        "title": "Tiga Bandara Injourney Layani Calon Jamaah Haji Lewat Makkah Route",
+        "category": "Ihram",
+        "publish_time": "13-05-2024 15:00",
+        "news_link": "https://ihram.republika.co.id/berita/sdfj18502/tiga-bandara-injourney-layani-calon-jamaah-haji-lewat-makkah-route"
+    },
+    {
+        "title": "Dirjen Kementan Kena Semprot SYL Tiap Telat Setoran",
+        "category": "News",
+        "publish_time": "13-05-2024 14:56",
+        "news_link": "https://news.republika.co.id/berita/sdfivc328/dirjen-kementan-kena-semprot-syl-tiap-telat-setoran"
+    },
+    {
+        "title": "BNPB: Status Tanggap Darurat Lahar Dingin Berlaku 14 Hari",
+        "category": "News",
+        "publish_time": "13-05-2024 14:53",
+        "news_link": "https://news.republika.co.id/berita/sdfip5320/bnpb-status-tanggap-darurat-lahar-dingin-berlaku-14-hari"
+    },
+    {
+        "title": "Korban Selamat Kecelakaan Bus Ciater Suka Bengong dan Ingat Temannya",
+        "category": "News",
+        "publish_time": "13-05-2024 14:47",
+        "news_link": "https://news.republika.co.id/berita/sdfigc328/korban-selamat-kecelakaan-bus-ciater-suka-bengong-dan-ingat-temannya"
+    },
+    {
+        "title": "Memperbanyak Geopark Jadi Jurus Lindungi Kekayaan Alam Natuna",
+        "category": "Esgnow",
+        "publish_time": "13-05-2024 14:35",
+        "news_link": "https://esgnow.republika.co.id/berita/sdfhvo328/memperbanyak-geopark-jadi-jurus-lindungi-kekayaan-alam-natuna"
+    },
+    {
+        "title": "DKI Bentuk Tim untuk Tertibkan Juru Parkir Liar di Jakarta",
+        "category": "News",
+        "publish_time": "13-05-2024 14:34",
+        "news_link": "https://news.republika.co.id/berita/sdf5zp370/dki-bentuk-tim-untuk-tertibkan-juru-parkir-liar-di-jakarta"
+    },
+    {
+        "title": "Upaya Penanggulangan Sampah,  TPST Berteknologi RDF akan Dibangun",
+        "category": "Visual",
+        "publish_time": "13-05-2024 14:34",
+        "news_link": "https://visual.republika.co.id/berita/sdfd55491/upaya-penanggulangan-sampah-tpst-berteknologi-rdf-akan-dibangun"
+    },
+    {
+        "title": "Ancol Was Visited By 130,000 Tourists Last Week",
+        "category": "En",
+        "publish_time": "37 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/sdff5d451/ancol-was-visited-by-130000-tourists-last-week"
+    },
+    {
+        "title": "Hal yang Dikagumi Sarjana Barat Non-Muslim tentang Nabi Muhammad SAW",
+        "category": "Islam Digest",
+        "publish_time": "13-05-2024 14:31",
+        "news_link": "https://islamdigest.republika.co.id/berita/sdfho7320/hal-yang-dikagumi-sarjana-barat-nonmuslim-tentang-nabi-muhammad-saw"
+    },
+    {
+        "title": "Turki Berjanji Tekan Israel Hingga Palestina Merdeka, Ibaratkan Hitler Tersinggung",
+        "category": "Internasional",
+        "publish_time": "13-05-2024 14:22",
+        "news_link": "https://internasional.republika.co.id/berita/sdfh9v320/turki-berjanji-tekan-israel-hingga-palestina-merdeka-ibaratkan-hitler-tersinggung"
+    },
+    {
+        "title": "Pimpinan Istimewa Pemuda Muhammadiyah Eropa-Mediterania Terbentuk",
+        "category": "Network",
+        "publish_time": "13-05-2024 14:20",
+        "news_link": "https://genpop.republika.co.id/posts/306496/pimpinan-istimewa-pemuda-muhammadiyah-eropa-mediterania-terbentuk"
+    },
+    {
+        "title": "Bank Syariah Didorong Jaga Ketahanan dan Pertumbuhan Berkelanjutan",
+        "category": "Sharia",
+        "publish_time": "13-05-2024 14:17",
+        "news_link": "https://sharia.republika.co.id/berita/sdfh12502/bank-syariah-didorong-jaga-ketahanan-dan-pertumbuhan-berkelanjutan"
+    },
+    {
+        "title": "Porsche Perkenalkan 911 Hybrid Akhir Mei",
+        "category": "Ekonomi",
+        "publish_time": "13-05-2024 14:11",
+        "news_link": "https://ekonomi.republika.co.id/berita/sdfgru502/porsche-perkenalkan-911-hybrid-akhir-mei"
+    },
+    {
         "title": "Bahlil Ajak Kolaborasi Investor Australia Kembangkan Baterai EV",
         "category": "Ekonomi",
-        "publish_time": "13-05-2024 14:07",
+        "publish_time": "13-05-2024 14:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sdfgkk502/bahlil-ajak-kolaborasi-investor-australia-kembangkan-baterai-ev"
     },
     {
         "title": "Gelombang Panas Membuat 10 Kota di Meksiko Catatkan Rekor Suhu",
         "category": "Esgnow",
-        "publish_time": "13-05-2024 14:06",
+        "publish_time": "13-05-2024 14:11",
         "news_link": "https://esgnow.republika.co.id/berita/sdf5jg370/gelombang-panas-membuat-10-kota-di-meksiko-catatkan-rekor-suhu"
     },
     {
-        "title": "OJK Minta Bank Blokir 5 Ribu Rekening Judi Online",
+        "title": "OJK Minta Bank Blokir 5.000 Rekening Judi Online",
         "category": "Ekonomi",
-        "publish_time": "13-05-2024 14:02",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdfgbk502/ojk-minta-bank-blokir-5-ribu-rekening-judi-online"
+        "publish_time": "13-05-2024 14:11",
+        "news_link": "https://ekonomi.republika.co.id/berita/sdfgbk502/ojk-minta-bank-blokir-5000-rekening-judi-online"
     },
     {
         "title": "Rasulullah SAW Juga Pernah Marah, Begini Batasannya",
         "category": "Khazanah",
-        "publish_time": "13-05-2024 14:01",
+        "publish_time": "13-05-2024 14:11",
         "news_link": "https://khazanah.republika.co.id/berita/sdfg9n320/rasulullah-saw-juga-pernah-marah-begini-batasannya"
     },
     {
         "title": "Usut Kasus Timah, Kejakgung Periksa Penyelenggara Negara",
         "category": "News",
-        "publish_time": "13-05-2024 13:57",
+        "publish_time": "13-05-2024 14:11",
         "news_link": "https://news.republika.co.id/berita/sdfg3i318/usut-kasus-timah-kejakgung-periksa-penyelenggara-negara"
     },
     {
         "title": "Apa Itu Adenomiosis? Kondisi Ini Diderita 1 dari 5 Wanita",
         "category": "Network",
-        "publish_time": "13-05-2024 13:51",
+        "publish_time": "13-05-2024 14:11",
         "news_link": "https://impresiupdate.id/posts/306354/apa-itu-adenomiosis-kondisi-ini-diderita-1-dari-5-wanita"
     },
     {
-        "title": "Banjir Bandang Terjang Tanah Datar Sumatera Barat",
+        "title": "Banjir Bandang Terjang Tanah Datar Sumatra Barat",
         "category": "Video",
-        "publish_time": "13-05-2024 13:47",
-        "news_link": "https://tv.republika.co.id/berita/sdffne313/banjir-bandang-terjang-tanah-datar-sumatera-barat"
+        "publish_time": "13-05-2024 14:11",
+        "news_link": "https://tv.republika.co.id/berita/sdffne313/banjir-bandang-terjang-tanah-datar-sumatra-barat"
     },
     {
-        "title": "Ekspektasi Penurnan Suku Bunga The Fed Berkurang",
+        "title": "Ekspektasi Penurunan Suku Bunga The Fed Berkurang",
         "category": "Ekonomi",
-        "publish_time": "13-05-2024 13:46",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdffke502/ekspektasi-penurnan-suku-bunga-the-fed-berkurang"
+        "publish_time": "13-05-2024 14:11",
+        "news_link": "https://ekonomi.republika.co.id/berita/sdffke502/ekspektasi-penurunan-suku-bunga-the-fed-berkurang"
     },
     {
-        "title": "BBM Pertalite masih Tersedia di SPBU Pemuda Rawamangun",
+        "title": "BBM Pertalite Masih Tersedia di SPBU Pemuda Rawamangun",
         "category": "Visual",
-        "publish_time": "13-05-2024 13:45",
+        "publish_time": "13-05-2024 14:11",
         "news_link": "https://visual.republika.co.id/berita/sdfcjx491/bbm-pertalite-masih-tersedia-di-spbu-pemuda-rawamangun"
     },
     {
         "title": "129 Angkutan Sekolah Gratis Disiapkan untuk Pelajar SMP di Magetan",
         "category": "Rejogja",
-        "publish_time": "13-05-2024 13:43",
+        "publish_time": "13-05-2024 14:11",
         "news_link": "https://rejogja.republika.co.id/berita/sdffg1432/129-angkutan-sekolah-gratis-disiapkan-untuk-pelajar-smp-di-magetan"
     },
     {
         "title": "Aturan Spin Off Bank Syariah Berikan Kontribusi Bagi Industri Perbankan Syariah",
         "category": "Sharia",
-        "publish_time": "13-05-2024 13:42",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://sharia.republika.co.id/berita/sdffea502/aturan-spin-off-bank-syariah-berikan-kontribusi-bagi-industri-perbankan-syariah"
     },
     {
         "title": "Kementerian BUMN Apresiasi Langkah Perumnas Bikin Apartemen Modern di Jakbar",
         "category": "Ekonomi",
-        "publish_time": "13-05-2024 13:40",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sdfes5370/kementerian-bumn-apresiasi-langkah-perumnas-bikin-apartemen-modern-di-jakbar"
     },
     {
         "title": "3 Ayat Alquran Ini Jelaskan Mengapa Hidup di Dunia tak Lepas dari Cobaan dan Ujian",
         "category": "Iqra",
-        "publish_time": "13-05-2024 13:32",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://iqra.republika.co.id/berita/sdfexe320/3-ayat-alquran-ini-jelaskan-mengapa-hidup-di-dunia-tak-lepas-dari-cobaan-dan-ujian"
     },
     {
         "title": "Pasca Pemeriksaan Internal, Kepala Kantor Bea Cukai Purwakarta Dicopot dari Jabatannya",
         "category": "Beacukai",
-        "publish_time": "13-05-2024 13:29",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://republika.co.id/berita/sdfeta463/pasca-pemeriksaan-internal-kepala-kantor-bea-cukai-purwakarta-dicopot-dari-jabatannya"
     },
     {
         "title": "Menparekraf Siap Edukasi Pelaku Wisata untuk Pastikan Kembali Kelayakan Bus Pariwisata",
         "category": "News",
-        "publish_time": "13-05-2024 13:28",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://news.republika.co.id/berita/sdfera425/menparekraf-siap-edukasi-pelaku-wisata-untuk-pastikan-kembali-kelayakan-bus-pariwisata"
     },
     {
         "title": "CIMB Niaga Syariah Kembangkan Ekosistem Haji dan Umrah",
         "category": "Sharia",
-        "publish_time": "13-05-2024 13:28",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://sharia.republika.co.id/berita/sdfer4502/cimb-niaga-syariah-kembangkan-ekosistem-haji-dan-umrah"
     },
     {
         "title": "Ini Cara Jasmine Nadya Jaga Stamina Saat Bekerja",
         "category": "Ameera",
-        "publish_time": "13-05-2024 13:27",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://ameera.republika.co.id/berita/sdf6i7370/ini-cara-jasmine-nadya-jaga-stamina-saat-bekerja"
     },
     {
         "title": "Kasus DBD di DIY Meningkat Dua Kali Lipat",
         "category": "Rejogja",
-        "publish_time": "13-05-2024 13:26",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://rejogja.republika.co.id/berita/sdfeob432/kasus-dbd-di-diy-meningkat-dua-kali-lipat"
     },
     {
         "title": "Presiden: Impor Beras Hanya Lima Persen dari Kebutuhan",
         "category": "Ekonomi",
-        "publish_time": "13-05-2024 13:23",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://www.republika.id/posts/52724/presiden-impor-beras-hanya-lima-persen-dari-kebutuhan"
     },
     {
         "title": "Tips Beribadah di Masjid Nabawi",
         "category": "Ihram",
-        "publish_time": "13-05-2024 13:22",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://ihram.republika.co.id/berita/sdfeh3313/tips-beribadah-di-masjid-nabawi"
     },
     {
         "title": "HUAWEI Watch Fit 3 Tawarkan Pengalaman Baru Bagi Pengguna",
         "category": "Tekno",
-        "publish_time": "13-05-2024 13:21",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://tekno.republika.co.id/berita/sdfefs370/huawei-watch-fit-3-tawarkan-pengalaman-baru-bagi-pengguna"
     },
     {
         "title": "Isbal yang Kerap Dibahas Salafi, Benarkah Haram?",
         "category": "Islam Digest",
-        "publish_time": "13-05-2024 13:15",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://islamdigest.republika.co.id/berita/sdfe5b451/isbal-yang-kerap-dibahas-salafi-benarkah-haram"
     },
     {
@@ -140,163 +242,61 @@
     {
         "title": "Potensi Cuaca Ekstrem di Sumbar Diprediksi Masih Terjadi Sepekan ke Depan",
         "category": "News",
-        "publish_time": "13-05-2024 13:10",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://news.republika.co.id/berita/sdfdwh425/potensi-cuaca-ekstrem-di-sumbar-diprediksi-masih-terjadi-sepekan-ke-depan"
     },
     {
         "title": "Rawan Pencurian Ternak, Polres Kulon Progo Minta Satkamling Diaktifkan",
         "category": "Rejogja",
-        "publish_time": "13-05-2024 13:10",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://rejogja.republika.co.id/berita/sdfdsn432/rawan-pencurian-ternak-polres-kulon-progo-minta-satkamling-diaktifkan"
     },
     {
         "title": "Pengurus DMI Ikut Bicara Mengenai Fenomena Salafi, Begini Penjelasannya",
         "category": "Khazanah",
-        "publish_time": "13-05-2024 13:10",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://khazanah.republika.co.id/berita/sdfdg2451/pengurus-dmi-ikut-bicara-mengenai-fenomena-salafi-begini-penjelasannya"
     },
     {
         "title": "KPU DKI Verifikasi Dokumen Dukungan Bacagub Dharma Pongrekun",
         "category": "News",
-        "publish_time": "13-05-2024 13:10",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://news.republika.co.id/berita/sdfdcs330/kpu-dki-verifikasi-dokumen-dukungan-bacagub-dharma-pongrekun"
     },
     {
         "title": "Peduli Bocah Depresi Gara-Gara HP Hasil Menabung Dijual Ibu, Warga Swadaya Belikan Sepeda",
         "category": "Rejabar",
-        "publish_time": "13-05-2024 13:10",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://rejabar.republika.co.id/berita/sdfda4512/peduli-bocah-depresi-garagara-hp-hasil-menabung-dijual-ibu-warga-swadaya-belikan-sepeda"
     },
     {
         "title": "Tanpa Nusuk, Jamaah Haji Indonesia Bisa Masuk Raudhah Pakai Tasreh dari Pemerintah",
         "category": "Ihram",
-        "publish_time": "13-05-2024 13:10",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://ihram.republika.co.id/berita/sdfd62348/tanpa-nusuk-jamaah-haji-indonesia-bisa-masuk-raudhah-pakai-tasreh-dari-pemerintah"
     },
     {
         "title": "UI Mengaku Tetapkan UKT dan IPI Sesuai Aturan Kemendikburistek",
         "category": "News",
-        "publish_time": "13-05-2024 13:10",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://news.republika.co.id/berita/sdfd4u330/ui-mengaku-tetapkan-ukt-dan-ipi-sesuai-aturan-kemendikburistek"
     },
     {
         "title": "KPK Tahan 3 Tersangka Kasus Korupsi Pengadaan Lahan PTPN XI",
         "category": "Visual",
-        "publish_time": "13-05-2024 13:10",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://visual.republika.co.id/berita/sdfcc5491/kpk-tahan-3-tersangka-kasus-korupsi-pengadaan-lahan-ptpn-xi"
     },
     {
         "title": "Pembunuhan Mahasiswi di Malang pada 2022 Akhirnya Terungkap, Ini Kronologinya",
         "category": "Rejogja",
-        "publish_time": "13-05-2024 13:10",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://rejogja.republika.co.id/berita/sdfcqz432/pembunuhan-mahasiswi-di-malang-pada-2022-akhirnya-terungkap-ini-kronologinya"
     },
     {
         "title": "Sutradarai Video Klip RM BTS, Lee Sung-Jin Takut Dideportasi, Mengapa?",
         "category": "Ameera",
-        "publish_time": "13-05-2024 13:10",
+        "publish_time": "13-05-2024 13:11",
         "news_link": "https://ameera.republika.co.id/berita/sdfcqd425/sutradarai-video-klip-rm-bts-lee-sungjin-takut-dideportasi-mengapa"
-    },
-    {
-        "title": "Indo Barometer: 90 Persen Masyarakat Puas dengan Kinerja Jokowi",
-        "category": "News",
-        "publish_time": "13-05-2024 13:10",
-        "news_link": "https://news.republika.co.id/berita/sdfcme330/indo-barometer-90-persen-masyarakat-puas-dengan-kinerja-jokowi"
-    },
-    {
-        "title": "Penyelesaian Sampah Jadi Prioritas, Pj Gubernur Jabar Bey Ingin Bandung jadi Percontohan",
-        "category": "Rejabar",
-        "publish_time": "13-05-2024 12:10",
-        "news_link": "https://rejabar.republika.co.id/berita/sdfcib512/penyelesaian-sampah-jadi-prioritas-pj-gubernur-jabar-bey-ingin-bandung-jadi-percontohan"
-    },
-    {
-        "title": "Kabaharkam: Bali Jadi Proyek Percontohan Polisi Pariwisata",
-        "category": "News",
-        "publish_time": "13-05-2024 12:10",
-        "news_link": "https://news.republika.co.id/berita/sdfcg1330/kabaharkam-bali-jadi-proyek-percontohan-polisi-pariwisata"
-    },
-    {
-        "title": "Saksi: Syahrul Yasin Minta Pejabat Kementan Sediakan 13 Ribu Paket Sembako",
-        "category": "News",
-        "publish_time": "13-05-2024 12:10",
-        "news_link": "https://news.republika.co.id/berita/sdfc4q330/saksi-syahrul-yasin-minta-pejabat-kementan-sediakan-13-ribu-paket-sembako"
-    },
-    {
-        "title": "Calon Jamaah Haji Asal Banten Didomonasi Lansia, Tertua 108 Tahun",
-        "category": "Ihram",
-        "publish_time": "13-05-2024 12:10",
-        "news_link": "https://ihram.republika.co.id/berita/sdf6x3484/calon-jamaah-haji-asal-banten-didomonasi-lansia-tertua-108-tahun"
-    },
-    {
-        "title": "Tips Bagi Jamaah Haji Agar tidak Tersesat",
-        "category": "Visual",
-        "publish_time": "13-05-2024 12:10",
-        "news_link": "https://visual.republika.co.id/berita/sdfbvo457/tips-bagi-jamaah-haji-agar-tidak-tersesat"
-    },
-    {
-        "title": "YLKI Ungkap Manfaat Sertifikasi Halal Bagi Suatu Produk",
-        "category": "Ameera",
-        "publish_time": "13-05-2024 12:10",
-        "news_link": "https://ameera.republika.co.id/berita/sdfbqz425/ylki-ungkap-manfaat-sertifikasi-halal-bagi-suatu-produk"
-    },
-    {
-        "title": "Volume Perdagangan Karbon Capai 572 Ribu Ton",
-        "category": "Esgnow",
-        "publish_time": "13-05-2024 12:10",
-        "news_link": "https://esgnow.republika.co.id/berita/sdfbbp457/volume-perdagangan-karbon-capai-572-ribu-ton"
-    },
-    {
-        "title": "Saat Bung Karno Puji 'Wahabi'",
-        "category": "News",
-        "publish_time": "13-05-2024 12:10",
-        "news_link": "https://news.republika.co.id/berita/sdfbba393/saat-bung-karno-puji-wahabi"
-    },
-    {
-        "title": "Persib Adaptasi Cuaca Bali",
-        "category": "Sport",
-        "publish_time": "13-05-2024 12:10",
-        "news_link": "https://sport.republika.co.id/berita/sdfbb6456/persib-adaptasi-cuaca-bali"
-    },
-    {
-        "title": "121 Hektare Lahan Negara Diselamatkan dari Penggarap Kebun Dolok Ilir PTPN IV",
-        "category": "Ekonomi",
-        "publish_time": "13-05-2024 12:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdfb93463/121-hektare-lahan-negara-diselamatkan-dari-penggarap-kebun-dolok-ilir-ptpn-iv"
-    },
-    {
-        "title": "Pabrik Penangkapan Karbon Langsung Terbesar di Dunia Beroperasi di Islandia",
-        "category": "Tekno",
-        "publish_time": "13-05-2024 12:10",
-        "news_link": "https://tekno.republika.co.id/berita/sdfamg370/pabrik-penangkapan-karbon-langsung-terbesar-di-dunia-beroperasi-di-islandia"
-    },
-    {
-        "title": "ICEF 2024 Siap Jadi Ajang Belanja Produk Pemerintah Terbesar, Digelar Akhir Mei",
-        "category": "Network",
-        "publish_time": "13-05-2024 12:10",
-        "news_link": "https://magenta.republika.co.id/news/1704647546/icef-2024-siap-jadi-ajang-belanja-produk-pemerintah-terbesar-digelar-akhir-mei"
-    },
-    {
-        "title": "Masyarakat Diimbau Hindari Konsumsi Suplemen Penguat Imun dalam Pengobatan Lupus",
-        "category": "Ameera",
-        "publish_time": "13-05-2024 12:10",
-        "news_link": "https://ameera.republika.co.id/berita/sdfb20425/masyarakat-diimbau-hindari-konsumsi-suplemen-penguat-imun-dalam-pengobatan-lupus"
-    },
-    {
-        "title": "Kemenparekraf Gelar Pekan Kesehatan 2024 Dorong Medical Tourism",
-        "category": "Ekonomi",
-        "publish_time": "13-05-2024 12:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdfayg457/kemenparekraf-gelar-pekan-kesehatan-2024-dorong-medical-tourism"
-    },
-    {
-        "title": "Jumlah BPR Turun 66, Kinerja Meningkat",
-        "category": "Ekonomi",
-        "publish_time": "13-05-2024 12:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdfatb463/jumlah-bpr-turun-66-kinerja-meningkat"
-    },
-    {
-        "title": "Kemendag Siapkan Dua Kebijakan Baru Terkait Minyak Goreng",
-        "category": "Ekonomi",
-        "publish_time": "13-05-2024 12:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdfakw457/kemendag-siapkan-dua-kebijakan-baru-terkait-minyak-goreng"
     }
 ]
