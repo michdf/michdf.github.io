@@ -1,9 +1,129 @@
 [
     {
-        "title": "The Lord of the Rings: The Hunt for Gollum Ungkap Kisah Tersembungi di Middle-Earth",
+        "title": "Saat Negara Lain Mengecam Zionis, DPR AS Sahkan UU Bantuan Keamanan Israel",
+        "category": "Internasional",
+        "publish_time": "17-05-2024 13:11",
+        "news_link": "https://internasional.republika.co.id/berita/sdmsmc377/saat-negara-lain-mengecam-zionis-dpr-as-sahkan-uu-bantuan-keamanan-israel"
+    },
+    {
+        "title": "Pegiat Saham Pemula Belajar Menjadi Trader Andal",
+        "category": "Ekonomi",
+        "publish_time": "17-05-2024 13:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/sdmslm484/pegiat-saham-pemula-belajar-menjadi-trader-andal"
+    },
+    {
+        "title": "Dewan Nasional KEK Harap Pemprov PBD Fokus Bangun KEK Sorong",
+        "category": "Ekonomi",
+        "publish_time": "17-05-2024 13:09",
+        "news_link": "https://ekonomi.republika.co.id/berita/sdmoa7457/dewan-nasional-kek-harap-pemprov-pbd-fokus-bangun-kek-sorong"
+    },
+    {
+        "title": "Penabrak Wanita Hamil Hingga tak Sadarkan Diri di Gambir Ditangkap",
+        "category": "News",
+        "publish_time": "17-05-2024 13:03",
+        "news_link": "https://news.republika.co.id/berita/sdmsac330/penabrak-wanita-hamil-hingga-tak-sadarkan-diri-di-gambir-ditangkap"
+    },
+    {
+        "title": "Jelang Tradisi Seba, Ribuan Warga Badui Jalan Kaki Menuju Pendopo Lebak",
+        "category": "Visual",
+        "publish_time": "17-05-2024 13:03",
+        "news_link": "https://visual.republika.co.id/berita/sdmsa3375/jelang-tradisi-seba-ribuan-warga-badui-jalan-kaki-menuju-pendopo-lebak"
+    },
+    {
+        "title": "Meta Hadapi Penyelidikan Uni Eropa Atas Risiko Keselamatan Anak",
+        "category": "Tekno",
+        "publish_time": "17-05-2024 12:55",
+        "news_link": "https://tekno.republika.co.id/berita/sdmrwy370/meta-hadapi-penyelidikan-uni-eropa-atas-risiko-keselamatan-anak"
+    },
+    {
+        "title": "Kekaguman Mahatma Gandhi: Islam Jaya Karena Kesederhanaan Rasulullah SAW",
+        "category": "Khazanah",
+        "publish_time": "17-05-2024 12:54",
+        "news_link": "https://khazanah.republika.co.id/berita/sdmrve320/kekaguman-mahatma-gandhi-islam-jaya-karena-kesederhanaan-rasulullah-saw"
+    },
+    {
+        "title": "Wapres: Buku Jadi Syarat Lahirnya Intelektualitas",
+        "category": "News",
+        "publish_time": "17-05-2024 12:49",
+        "news_link": "https://news.republika.co.id/berita/sdmnhx457/wapres-buku-jadi-syarat-lahirnya-intelektualitas"
+    },
+    {
+        "title": "Kemenkes koleksi 4.000 Data Genomik untuk Pantau Beragam Penyakit Genetik di Indonesia",
         "category": "Ameera",
-        "publish_time": "17-05-2024 12:18",
-        "news_link": "https://ameera.republika.co.id/berita/sdmq6a370/the-lord-of-the-rings-the-hunt-for-gollum-ungkap-kisah-tersembungi-di-middleearth"
+        "publish_time": "17-05-2024 12:45",
+        "news_link": "https://ameera.republika.co.id/berita/sdmrh8349/kemenkes-koleksi-4000-data-genomik-untuk-pantau-beragam-penyakit-genetik-di-indonesia"
+    },
+    {
+        "title": "BPBD Garut Waspadai Potensi Kebakaran Hutan Saat Musim Kemarau",
+        "category": "News",
+        "publish_time": "17-05-2024 12:44",
+        "news_link": "https://news.republika.co.id/berita/sdmred425/bpbd-garut-waspadai-potensi-kebakaran-hutan-saat-musim-kemarau"
+    },
+    {
+        "title": "Afsel Minta Mahkamah Internasional Perintahkan Israel Hentikan Serangan ke Rafah",
+        "category": "Internasional",
+        "publish_time": "17-05-2024 12:42",
+        "news_link": "https://internasional.republika.co.id/berita/sdmrb8370/afsel-minta-mahkamah-internasional-perintahkan-israel-hentikan-serangan-ke-rafah"
+    },
+    {
+        "title": "KLHK Sebut Ada Potensi Lebih Banyak Penemuan Jenis Anggrek di Papua",
+        "category": "Esgnow",
+        "publish_time": "17-05-2024 12:39",
+        "news_link": "https://esgnow.republika.co.id/berita/sdmna2457/klhk-sebut-ada-potensi-lebih-banyak-penemuan-jenis-anggrek-di-papua"
+    },
+    {
+        "title": "Atlet Angkat Besi Indonesia Siap Raih Kejayaan di Olimpiade Paris",
+        "category": "Sport",
+        "publish_time": "17-05-2024 12:35",
+        "news_link": "https://sport.republika.co.id/berita/sdmr0c456/atlet-angkat-besi-indonesia-siap-raih-kejayaan-di-olimpiade-paris"
+    },
+    {
+        "title": "Guru Terduga Rudapaksa Muridnya Diamankan Polresta Jayapura",
+        "category": "News",
+        "publish_time": "17-05-2024 12:31",
+        "news_link": "https://news.republika.co.id/berita/sdmqsl456/guru-terduga-rudapaksa-muridnya-diamankan-polresta-jayapura"
+    },
+    {
+        "title": "Gelar RUPST, BSI Tetapkan Dividen Rp18,54 per Lembar Saham",
+        "category": "Visual",
+        "publish_time": "17-05-2024 12:29",
+        "news_link": "https://visual.republika.co.id/berita/sdmqql491/gelar-rupst-bsi-tetapkan-dividen-rp1854-per-lembar-saham"
+    },
+    {
+        "title": "Kemenperin Incar Pasar Nontradisional Industri Elektronika Telematika",
+        "category": "Ekonomi",
+        "publish_time": "17-05-2024 12:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/sdmmz3457/kemenperin-incar-pasar-nontradisional-industri-elektronika-telematika"
+    },
+    {
+        "title": "Grup K-Pop 2NE1 Rayakan 15 Tahun Debut, Rilis Foto Kebersamaan Member",
+        "category": "Ameera",
+        "publish_time": "17-05-2024 12:28",
+        "news_link": "https://ameera.republika.co.id/berita/sdmqnr425/grup-kpop-2ne1-rayakan-15-tahun-debut-rilis-foto-kebersamaan-member"
+    },
+    {
+        "title": "Kasus Pembunuhan Vina, Ini Permohonan Ayahanda Eky untuk Netizen Indonesia",
+        "category": "News",
+        "publish_time": "17-05-2024 12:24",
+        "news_link": "https://news.republika.co.id/berita/sdmqh4377/kasus-pembunuhan-vina-ini-permohonan-ayahanda-eky-untuk-netizen-indonesia"
+    },
+    {
+        "title": "Bagaimana Gajah Melakukan Salam-salaman di antara Mereka?",
+        "category": "Retizen",
+        "publish_time": "17-05-2024 12:19",
+        "news_link": "https://retizen.republika.co.id/posts/307265/bagaimana-gajah-melakukan-salam-salaman-di-antara-mereka"
+    },
+    {
+        "title": "Mentan: Kami tak akan Pandang Bulu dalam Berantas Korupsi di Kementan",
+        "category": "Ekonomi",
+        "publish_time": "17-05-2024 12:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/sdmmoo457/mentan-kami-tak-akan-pandang-bulu-dalam-berantas-korupsi-di-kementan"
+    },
+    {
+        "title": "The Lord of the Rings: The Hunt for Gollum Ungkap Kisah Tersembunyi di Middle-Earth",
+        "category": "Ameera",
+        "publish_time": "17-05-2024 12:17",
+        "news_link": "https://ameera.republika.co.id/berita/sdmq6a370/the-lord-of-the-rings-the-hunt-for-gollum-ungkap-kisah-tersembunyi-di-middleearth"
     },
     {
         "title": "Kupas Tuntas Dinamika Perjalanan JKN, Dirut BPJS Kesehatan Rilis Buku Terbaru",
@@ -12,291 +132,171 @@
         "news_link": "https://news.republika.co.id/berita/sdmpw5349/kupas-tuntas-dinamika-perjalanan-jkn-dirut-bpjs-kesehatan-rilis-buku-terbaru"
     },
     {
-        "title": "Kementerian ESDM Tingkatkan Kebijakan Demi Tarik Minat Investor Migas",
+        "title": "Kementerian ESDM Tingkatkan Kebijakan demi Tarik Minat Investor Migas",
         "category": "Ekonomi",
-        "publish_time": "17-05-2024 12:09",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sdmmh5457/kementerian-esdm-tingkatkan-kebijakan-demi-tarik-minat-investor-migas"
     },
     {
-        "title": "Tafsir Ayat Tentang Perintah Allah SWT Kepada Umat Muslim untuk Tidak Mengingkari Janji",
+        "title": "Tafsir Ayat tentang Perintah Allah SWT kepada Umat Muslim untuk tidak Mengingkari Janji",
         "category": "Iqra",
-        "publish_time": "17-05-2024 12:06",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://iqra.republika.co.id/berita/sdmp9w430/tafsir-ayat-tentang-perintah-allah-swt-kepada-umat-muslim-untuk-tidak-mengingkari-janji"
     },
     {
         "title": "Pemerintah Terbitkan Permendag 8/2024 Soal Larangan Batas Barang Impor",
         "category": "Ekonomi",
-        "publish_time": "17-05-2024 12:06",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sdmpne502/pemerintah-terbitkan-permendag-82024-soal-larangan-batas-barang-impor"
     },
     {
         "title": "Ilmuwan China Ciptakan 'Baterai Air' yang Lebih Unggul daripada Litium",
         "category": "Tekno",
-        "publish_time": "17-05-2024 12:06",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://tekno.republika.co.id/berita/sdmpnd370/ilmuwan-china-ciptakan-baterai-air-yang-lebih-unggul-daripada-litium"
     },
     {
         "title": "PDIP Tuding Presiden Jokowi Jelas Cawe-Cawe pada Pilkada 2024",
         "category": "News",
-        "publish_time": "17-05-2024 12:02",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sdmphf484/pdip-tuding-presiden-jokowi-jelas-cawecawe-pada-pilkada-2024"
     },
     {
-        "title": "Tafsir Ayat Tentang Pentingnya Menjaga Amanah",
+        "title": "Tafsir Ayat tentang Pentingnya Menjaga Amanah",
         "category": "Iqra",
-        "publish_time": "17-05-2024 12:02",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://iqra.republika.co.id/berita/sdmp63430/tafsir-ayat-tentang-pentingnya-menjaga-amanah"
     },
     {
         "title": "Prabowo Terima Zayed Medal dari UEA, Ini Kata Pengamat",
         "category": "News",
-        "publish_time": "17-05-2024 11:59",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sdmp1k430/prabowo-terima-zayed-medal-dari-uea-ini-kata-pengamat"
     },
     {
         "title": "13 Negara Layangkan Surat ke Israel Peringatkan Serangan di Rafah",
         "category": "Internasional",
-        "publish_time": "17-05-2024 11:57",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://internasional.republika.co.id/berita/sdmp7y377/13-negara-layangkan-surat-ke-israel-peringatkan-serangan-di-rafah"
     },
     {
         "title": "Menyelami Dunia Anak dan Tumbuh Bersama Mereka dengan Buku",
         "category": "News",
-        "publish_time": "17-05-2024 11:56",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sdmp76370/menyelami-dunia-anak-dan-tumbuh-bersama-mereka-dengan-buku"
     },
     {
         "title": "Polresta Tangerang Tangkap Tiga Pelaku Bentrok Antar-Gangster di Balaraja",
         "category": "News",
-        "publish_time": "17-05-2024 11:54",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sdmp3z409/polresta-tangerang-tangkap-tiga-pelaku-bentrok-antargangster-di-balaraja"
     },
     {
-        "title": "Produsen Prochiz Catat Penjualan Melonjak Jadi Rp 339,08 miliar",
+        "title": "Produsen Prochiz Catat Penjualan Melonjak Jadi Rp 339,08 Miliar",
         "category": "Ekonomi",
-        "publish_time": "17-05-2024 11:53",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sdmp1h349/produsen-prochiz-catat-penjualan-melonjak-jadi-rp-33908-miliar"
     },
     {
         "title": "Rakerkomwil III APEKSI di Depok, Bahas Isu Strategi Kolaborasi Pengentasan Permasalahan Perkotaan Menuju Indonesia Emas 2045",
         "category": "Network",
-        "publish_time": "17-05-2024 11:53",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://ruzka.republika.co.id/nasional/1674663086/rakerkomwil-iii-apeksi-di-depok-bahas-isu-strategi-kolaborasi-pengentasan-permasalahan-perkotaan-menuju-indonesia-emas-2045"
     },
     {
         "title": "UAE Peringatkan Eskalasi Kawasan Menyusul Invasi Israel ke Rafah",
         "category": "Internasional",
-        "publish_time": "17-05-2024 11:52",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://internasional.republika.co.id/berita/sdmp00502/uae-peringatkan-eskalasi-kawasan-menyusul-invasi-israel-ke-rafah"
     },
     {
         "title": "Dinas PUPR dan Apjatel Mulai Tata Kabel Sekitar Jembatan Otista Bogor",
         "category": "News",
-        "publish_time": "17-05-2024 11:49",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sdmli3457/dinas-pupr-dan-apjatel-mulai-tata-kabel-sekitar-jembatan-otista-bogor"
     },
     {
         "title": "Polisi Proses Laporan Dugaan Penistaan Agama oleh Pejabat Kemenhub",
         "category": "News",
-        "publish_time": "17-05-2024 11:49",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sdmoue377/polisi-proses-laporan-dugaan-penistaan-agama-oleh-pejabat-kemenhub"
     },
     {
         "title": "Bea Cukai Ungkap Pengiriman Rokok Ilegal dari Luar Jawa Menuju Jepara",
         "category": "Beacukai",
-        "publish_time": "17-05-2024 11:46",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://republika.co.id/berita/sdmoqf349/bea-cukai-ungkap-pengiriman-rokok-ilegal-dari-luar-jawa-menuju-jepara"
     },
     {
         "title": "Inilah yang Dikatakan Jenazah Saat Diusung atau Dibawa Menuju Pemakaman",
         "category": "Network",
-        "publish_time": "17-05-2024 11:43",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://sajada.id/posts/307273/inilah-yang-dikatakan-jenazah-saat-diusung-atau-dibawa-menuju-pemakaman"
     },
     {
         "title": "Ngabalin Bantah PDIP Soal Pernyataan 'Jokowi Sangat Sibuk dan Menyibukkan Diri'",
         "category": "News",
-        "publish_time": "17-05-2024 11:43",
+        "publish_time": "17-05-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sdmokx409/ngabalin-bantah-pdip-soal-pernyataan-jokowi-sangat-sibuk-dan-menyibukkan-diri"
     },
     {
         "title": "LPPOM MUI: Penundaan Wajib Halal 2024 Harus Diiringi Perhatian di Hulu",
         "category": "Sharia",
-        "publish_time": "17-05-2024 11:39",
+        "publish_time": "17-05-2024 11:11",
         "news_link": "https://sharia.republika.co.id/berita/sdml7x457/lppom-mui-penundaan-wajib-halal-2024-harus-diiringi-perhatian-di-hulu"
     },
     {
         "title": "Tersangka Narkoba Epy Kusnandar Depresi Sehingga Dirawat di RSKO",
         "category": "News",
-        "publish_time": "17-05-2024 11:39",
+        "publish_time": "17-05-2024 11:11",
         "news_link": "https://news.republika.co.id/berita/sdmoe7370/tersangka-narkoba-epy-kusnandar-depresi-sehingga-dirawat-di-rsko"
     },
     {
         "title": "Ronald Koeman Panggil 30 Pemain untuk Perkuat Belanda di Euro 2024",
         "category": "Sport",
-        "publish_time": "17-05-2024 11:38",
+        "publish_time": "17-05-2024 11:11",
         "news_link": "https://sport.republika.co.id/berita/sdmod2348/ronald-koeman-panggil-30-pemain-untuk-perkuat-belanda-di-euro-2024"
     },
     {
         "title": "Polres Karawang Tetapkan Dua Remaja Sebagai Tersangka Kasus Sodomi Terhadap Sejumlah Anak",
         "category": "News",
-        "publish_time": "17-05-2024 11:36",
+        "publish_time": "17-05-2024 11:11",
         "news_link": "https://news.republika.co.id/berita/sdmo9d409/polres-karawang-tetapkan-dua-remaja-sebagai-tersangka-kasus-sodomi-terhadap-sejumlah-anak"
     },
     {
-        "title": "Pj Gubernur Jabar Bey Tunjuk Kasatpol PP jadi Plh Kadisdik Jabar",
+        "title": "Pj Gubernur Jabar Bey Tunjuk Kasatpol PP Jadi Plh Kadisdik Jabar",
         "category": "Rejabar",
-        "publish_time": "17-05-2024 11:34",
+        "publish_time": "17-05-2024 11:11",
         "news_link": "https://rejabar.republika.co.id/berita/sdmo5y512/pj-gubernur-jabar-bey-tunjuk-kasatpol-pp-jadi-plh-kadisdik-jabar"
     },
     {
         "title": "Sajeriah: Kuasa Allah Membawaku ke Tanah Suci",
         "category": "Ihram",
-        "publish_time": "17-05-2024 11:34",
+        "publish_time": "17-05-2024 11:11",
         "news_link": "https://ihram.republika.co.id/berita/sdmo5a313/sajeriah-kuasa-allah-membawaku-ke-tanah-suci"
     },
     {
         "title": "Emak-Emak Bongkar Dugaan Praktik Penyelundupan Manusia ke Australia",
         "category": "News",
-        "publish_time": "17-05-2024 11:33",
+        "publish_time": "17-05-2024 11:11",
         "news_link": "https://news.republika.co.id/berita/sdmo3o484/emakemak-bongkar-dugaan-praktik-penyelundupan-manusia-ke-australia"
     },
     {
         "title": "Korea Utara Tembakkan Rudal Balistik Jarak Pendek ke Laut Timur",
         "category": "Internasional",
-        "publish_time": "17-05-2024 11:32",
+        "publish_time": "17-05-2024 11:11",
         "news_link": "https://internasional.republika.co.id/berita/sdmo2u370/korea-utara-tembakkan-rudal-balistik-jarak-pendek-ke-laut-timur"
     },
     {
         "title": "Jelang Waisak, BRI Bagi 1.000 Paket Sembako pada Umat Buddha di Temanggung",
         "category": "Esgnow",
-        "publish_time": "17-05-2024 11:31",
+        "publish_time": "17-05-2024 11:11",
         "news_link": "https://esgnow.republika.co.id/berita/sdmo0n349/jelang-waisak-bri-bagi-1000-paket-sembako-pada-umat-buddha-di-temanggung"
     },
     {
         "title": "Duo Mercedes Hamilton dan Russell Tetap Bersabar Jalani F1 Musim Ini",
         "category": "Sport",
-        "publish_time": "17-05-2024 11:31",
+        "publish_time": "17-05-2024 11:11",
         "news_link": "https://sport.republika.co.id/berita/sdmo0i348/duo-mercedes-hamilton-dan-russell-tetap-bersabar-jalani-f1-musim-ini"
-    },
-    {
-        "title": "Berebut Tangkap Ikan, Tradisi Ngubek Empang Setu Cilodong Kearifan Budaya Lokal",
-        "category": "Network",
-        "publish_time": "17-05-2024 11:31",
-        "news_link": "https://topnews62.com/posts/307268/berebut-tangkap-ikan-tradisi-ngubek-empang-setu-cilodong-kearifan-budaya-lokal"
-    },
-    {
-        "title": "Panen Jagung Masih Berlimpah, Pemerintah Optimalkan Serap Hasil Panen Petani",
-        "category": "Ekonomi",
-        "publish_time": "17-05-2024 11:29",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdmjut502/panen-jagung-masih-berlimpah-pemerintah-optimalkan-serap-hasil-panen-petani"
-    },
-    {
-        "title": "Menparekraf dan Pelaku Usaha Parekraf Bali Bahas Isu Pariwisata Terkini",
-        "category": "Ekonomi",
-        "publish_time": "17-05-2024 11:29",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdml20457/menparekraf-dan-pelaku-usaha-parekraf-bali-bahas-isu-pariwisata-terkini"
-    },
-    {
-        "title": "Alasan Dewas KPK Tunda Sidang Pembelaan Nurul Ghufron",
-        "category": "News",
-        "publish_time": "17-05-2024 11:25",
-        "news_link": "https://news.republika.co.id/berita/sdmnre377/alasan-dewas-kpk-tunda-sidang-pembelaan-nurul-ghufron"
-    },
-    {
-        "title": "Dewan Pers: RUU Penyiaran Upaya Memberangus Pers",
-        "category": "News",
-        "publish_time": "17-05-2024 11:24",
-        "news_link": "https://www.republika.id/posts/52864/dewan-pers-ruu-penyiaran-upaya-memberangus-pers"
-    },
-    {
-        "title": "BI Catat Modal Asing Masuk Bersih di Indonesia Capai Rp 22,06 Triliun",
-        "category": "Ekonomi",
-        "publish_time": "17-05-2024 11:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdmnlc502/bi-catat-modal-asing-masuk-bersih-di-indonesia-capai-rp-2206-triliun"
-    },
-    {
-        "title": "Febby Rastanty dan Aliando Syarief Beradu Akting di Film Horor Narik Sukmo",
-        "category": "Ameera",
-        "publish_time": "17-05-2024 11:21",
-        "news_link": "https://ameera.republika.co.id/berita/sdmnkq370/febby-rastanty-dan-aliando-syarief-beradu-akting-di-film-horor-narik-sukmo"
-    },
-    {
-        "title": "KLHK Akselerasi Implementasi FOLU Net Sink Lewat Sosialisasi di Jatim",
-        "category": "Esgnow",
-        "publish_time": "17-05-2024 11:19",
-        "news_link": "https://esgnow.republika.co.id/berita/sdmjws457/klhk-akselerasi-implementasi-folu-net-sink-lewat-sosialisasi-di-jatim"
-    },
-    {
-        "title": "Thiago Alcantara Juga Tinggalkan Liverpool Musim Panas Ini",
-        "category": "Sport",
-        "publish_time": "17-05-2024 11:19",
-        "news_link": "https://sport.republika.co.id/berita/sdmngf348/thiago-alcantara-juga-tinggalkan-liverpool-musim-panas-ini"
-    },
-    {
-        "title": "Cerita Jukir Liar: Kalau Udah Nggak Ada Razia, Balik Lagi",
-        "category": "News",
-        "publish_time": "17-05-2024 11:18",
-        "news_link": "https://www.republika.id/posts/52860/cerita-jukir-liar-kalau-udah-nggak-ada-razia-balik-lagi"
-    },
-    {
-        "title": "Relawan: Sudirman Said Jajaki Lima Parpol untuk Nyagub di Pilgub Jakarta 2024",
-        "category": "News",
-        "publish_time": "17-05-2024 11:18",
-        "news_link": "https://news.republika.co.id/berita/sdmn2q377/relawan-sudirman-said-jajaki-lima-parpol-untuk-nyagub-di-pilgub-jakarta-2024"
-    },
-    {
-        "title": "PT Pos Ubah Aset Gedung Jadi Creative Hub Pengembangan E-Sport",
-        "category": "Ekonomi",
-        "publish_time": "17-05-2024 11:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdmjpe457/pt-pos-ubah-aset-gedung-jadi-creative-hub-pengembangan-esport"
-    },
-    {
-        "title": "Alhamdulillah, BSI akan Bagikan Dividen Rp 855 Miliar",
-        "category": "Sharia",
-        "publish_time": "17-05-2024 11:18",
-        "news_link": "https://sharia.republika.co.id/berita/sdmmr2502/alhamdulillah-bsi-akan-bagikan-dividen-rp-855-miliar"
-    },
-    {
-        "title": "BNPB Bersama BMKG Perkuat Sistem Peringatan Dini Banjir Lahar Dingin",
-        "category": "News",
-        "publish_time": "17-05-2024 11:18",
-        "news_link": "https://news.republika.co.id/berita/sdmmno370/bnpb-bersama-bmkg-perkuat-sistem-peringatan-dini-banjir-lahar-dingin"
-    },
-    {
-        "title": "Jelang Idul Adha, Ini Tips Menjajal Bisnis Hewan Kurban",
-        "category": "Sindikasi",
-        "publish_time": "17-05-2024 11:18",
-        "news_link": "https://sindikasi.republika.co.id/berita/sdmmk39816000/jelang-idul-adha-ini-tips-menjajal-bisnis-hewan-kurban"
-    },
-    {
-        "title": "IEU-CEPA tak Kunjung Usai, Airlangga: RI Ingin Diperlakukan Adil",
-        "category": "Ekonomi",
-        "publish_time": "17-05-2024 11:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdmecb502/ieucepa-tak-kunjung-usai-airlangga-ri-ingin-diperlakukan-adil"
-    },
-    {
-        "title": "Dalam RUPST, BSI Rombak Susunan Direksi dan Komisaris",
-        "category": "Sharia",
-        "publish_time": "17-05-2024 11:18",
-        "news_link": "https://sharia.republika.co.id/berita/sdmmjt502/dalam-rupst-bsi-rombak-susunan-direksi-dan-komisaris"
-    },
-    {
-        "title": "Pekan Ketiga Mei, Aliran Modal Asing Masuk RI Tembus Rp 22,06 Triliun",
-        "category": "Ekonomi",
-        "publish_time": "17-05-2024 11:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdmmji349/pekan-ketiga-mei-aliran-modal-asing-masuk-ri-tembus-rp-2206-triliun"
-    },
-    {
-        "title": "KemenPPPA: Kecelakaan di Ciater Akibat Kelalaian Pihak Dewasa",
-        "category": "Ameera",
-        "publish_time": "17-05-2024 11:18",
-        "news_link": "https://ameera.republika.co.id/berita/sdmmb2370/kemenpppa-kecelakaan-di-ciater-akibat-kelalaian-pihak-dewasa"
-    },
-    {
-        "title": "Polda Metro Jaya Ikut Bantu Buru Tiga Buron Pelaku Pembunuhan Vina",
-        "category": "News",
-        "publish_time": "17-05-2024 11:18",
-        "news_link": "https://news.republika.co.id/berita/sdmm3z409/polda-metro-jaya-ikut-bantu-buru-tiga-buron-pelaku-pembunuhan-vina"
     }
 ]
