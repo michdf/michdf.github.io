@@ -1,5 +1,191 @@
 [
     {
+        "title": "Dokter dan Artificial Intelligence (AI)",
+        "category": "Retizen",
+        "publish_time": "17-05-2024 10:10",
+        "news_link": "https://retizen.republika.co.id/posts/307137/dokter-dan-artificial-intelligence-ai"
+    },
+    {
+        "title": "Tujuh Tahun IEU-CEPA tak Kunjung Rampung, Airlangga: RI Ingin Diperlakukan Adil",
+        "category": "Ekonomi",
+        "publish_time": "17-05-2024 10:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/sdmi9y457/tujuh-tahun-ieucepa-tak-kunjung-rampung-airlangga-ri-ingin-diperlakukan-adil"
+    },
+    {
+        "title": "Kisah Ummu Syarik dan Air Misterius yang Membuat Penduduk Makkah Bersyahadat",
+        "category": "Islam Digest",
+        "publish_time": "17-05-2024 10:03",
+        "news_link": "https://islamdigest.republika.co.id/berita/sdmjxm320/kisah-ummu-syarik-dan-air-misterius-yang-membuat-penduduk-makkah-bersyahadat"
+    },
+    {
+        "title": "Sajeriah Menyaksikan Tanah Suci Lewat Mata Hati",
+        "category": "Khazanah",
+        "publish_time": "17-05-2024 10:01",
+        "news_link": "https://www.republika.id/posts/52862/sajeriah-menyaksikan-tanah-suci-lewat-mata-hati"
+    },
+    {
+        "title": "Kementerian ESDM Tingkatkan Kebijakan Demi Tarik Minat Investor Migas",
+        "category": "Ekonomi",
+        "publish_time": "17-05-2024 10:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/sdme3f502/kementerian-esdm-tingkatkan-kebijakan-demi-tarik-minat-investor-migas"
+    },
+    {
+        "title": "Perpustakaan, Pusat Pembelajaran yang Tertinggalkan",
+        "category": "Retizen",
+        "publish_time": "17-05-2024 09:59",
+        "news_link": "https://retizen.republika.co.id/posts/307223/perpustakaan-pusat-pembelajaran-yang-tertinggalkan"
+    },
+    {
+        "title": "Tips Agar Dimudahkan Segala Urusan Via Jalur Langit!",
+        "category": "Retizen",
+        "publish_time": "17-05-2024 09:59",
+        "news_link": "https://retizen.republika.co.id/posts/307238/tips-agar-dimudahkan-segala-urusan-via-jalur-langit"
+    },
+    {
+        "title": "Al Muktabar Kembali Dilantik Menjadi Pj Gubernur Banten",
+        "category": "News",
+        "publish_time": "17-05-2024 09:59",
+        "news_link": "https://news.republika.co.id/berita/sdmjq2423/al-muktabar-kembali-dilantik-menjadi-pj-gubernur-banten"
+    },
+    {
+        "title": "BPKH Gelar Operasi Katarak Gratis di Jatim",
+        "category": "Khazanah",
+        "publish_time": "17-05-2024 09:58",
+        "news_link": "https://khazanah.republika.co.id/berita/sdmjoy483/bpkh-gelar-operasi-katarak-gratis-di-jatim"
+    },
+    {
+        "title": "KPPPA: Study Tour Jadi Hak Anak",
+        "category": "News",
+        "publish_time": "17-05-2024 09:57",
+        "news_link": "https://news.republika.co.id/berita/sdmjnp330/kpppa-study-tour-jadi-hak-anak"
+    },
+    {
+        "title": "Nekat Merokok di Saudi, Begini Sanksi yang akan Diterima Jamaah Haji",
+        "category": "Ihram",
+        "publish_time": "17-05-2024 09:57",
+        "news_link": "https://ihram.republika.co.id/berita/sdmjno313/nekat-merokok-di-saudi-begini-sanksi-yang-akan-diterima-jamaah-haji"
+    },
+    {
+        "title": "Jalan Gedebage Selatan  Akses Baru ke Masjid Al Jabbar Diresmikan",
+        "category": "Network",
+        "publish_time": "17-05-2024 09:54",
+        "news_link": "https://bandung24jam.id/posts/307233/jalan-gedebage-selatan-akses-baru-ke-masjid-al-jabbar-diresmikan"
+    },
+    {
+        "title": "Ngebet ke Luar Negeri? AirAsia Promo Rute Jakarta-Perth Mulai Rp 1 Jutaan!",
+        "category": "Network",
+        "publish_time": "17-05-2024 09:51",
+        "news_link": "https://matapantura.republika.co.id/posts/307246/ngebet-ke-luar-negeri-airasia-promo-rute-jakarta-perth-mulai-rp-1-jutaan-"
+    },
+    {
+        "title": "Kemenpora: Kejuaraan Dunia Barongsai Bisa Tingkatkan Sport Tourism",
+        "category": "Sharia",
+        "publish_time": "17-05-2024 09:50",
+        "news_link": "https://sharia.republika.co.id/berita/sdmhxi457/kemenpora-kejuaraan-dunia-barongsai-bisa-tingkatkan-sport-tourism"
+    },
+    {
+        "title": "Lima Persaingan Tokoh dalam Film yang Ikonik",
+        "category": "Ameera",
+        "publish_time": "17-05-2024 09:49",
+        "news_link": "https://ameera.republika.co.id/berita/sdmget370/lima-persaingan-tokoh-dalam-film-yang-ikonik"
+    },
+    {
+        "title": "Airlangga Akui Pertemuan dengan Khofifah Bahas Pilkada Jatim",
+        "category": "News",
+        "publish_time": "17-05-2024 09:49",
+        "news_link": "https://news.republika.co.id/berita/sdmj99330/airlangga-akui-pertemuan-dengan-khofifah-bahas-pilkada-jatim"
+    },
+    {
+        "title": "UI dan EVOS Berkolaborasi Tingkatkan Ekonomi Industri Kreatif",
+        "category": "News",
+        "publish_time": "17-05-2024 09:40",
+        "news_link": "https://news.republika.co.id/berita/sdmhoh457/ui-dan-evos-berkolaborasi-tingkatkan-ekonomi-industri-kreatif"
+    },
+    {
+        "title": "Menanti 14 Tahun, Lansia Disabilitas asal Pare-Pare Akhirnya Berangkat Haji",
+        "category": "Ihram",
+        "publish_time": "17-05-2024 09:34",
+        "news_link": "https://ihram.republika.co.id/berita/sdmg09370/menanti-14-tahun-lansia-disabilitas-asal-parepare-akhirnya-berangkat-haji"
+    },
+    {
+        "title": "BPOM Diminta Proakif Atasi Isu Seputar Bromat di AMKD",
+        "category": "News",
+        "publish_time": "17-05-2024 09:33",
+        "news_link": "https://news.republika.co.id/berita/sdmij7484/bpom-diminta-proakif-atasi-isu-seputar-bromat-di-amkd"
+    },
+    {
+        "title": "GNPIP: Inovasi Bank Indonesia untuk Kendalikan Inflasi Pangan di Sumatra",
+        "category": "Ekonomi",
+        "publish_time": "17-05-2024 09:32",
+        "news_link": "https://ekonomi.republika.co.id/berita/sdmih0349/gnpip-inovasi-bank-indonesia-untuk-kendalikan-inflasi-pangan-di-sumatra"
+    },
+    {
+        "title": "Pelatih Klub Inggris Milik Erick Thohir Ini Yakin Bisa Berjaya di Play-off",
+        "category": "Sport",
+        "publish_time": "17-05-2024 09:31",
+        "news_link": "https://sport.republika.co.id/berita/sdmig2456/pelatih-klub-inggris-milik-erick-thohir-ini-yakin-bisa-berjaya-di-playoff"
+    },
+    {
+        "title": "Delegasi World Water Forum Mulai Berdatangan di Bali",
+        "category": "News",
+        "publish_time": "17-05-2024 09:30",
+        "news_link": "https://news.republika.co.id/berita/sdmh9r457/delegasi-world-water-forum-mulai-berdatangan-di-bali"
+    },
+    {
+        "title": "Liga Arab Desak Pengerahan Pasukan Perdamaian PBB di Palestina",
+        "category": "Internasional",
+        "publish_time": "17-05-2024 09:30",
+        "news_link": "https://internasional.republika.co.id/berita/sdmduj502/liga-arab-desak-pengerahan-pasukan-perdamaian-pbb-di-palestina"
+    },
+    {
+        "title": "Jamaah Haji Demensia Jangan Ditinggal Sendirian",
+        "category": "Ihram",
+        "publish_time": "17-05-2024 09:25",
+        "news_link": "https://ihram.republika.co.id/berita/sdmi6e313/jamaah-haji-demensia-jangan-ditinggal-sendirian"
+    },
+    {
+        "title": "Cinta Laura Tampil Anggun di Cannes Film Festival, Gaun \u2018Burung\u2019-nya Curi Perhatian",
+        "category": "Ameera",
+        "publish_time": "17-05-2024 09:23",
+        "news_link": "https://ameera.republika.co.id/berita/sdmi2k425/cinta-laura-tampil-anggun-di-cannes-film-festival-gaun-burungnya-curi-perhatian"
+    },
+    {
+        "title": "Wakapolres Indramayu Hadiri Pelepasan Calhaj Menuju Asrama Haji",
+        "category": "Rejabar",
+        "publish_time": "17-05-2024 09:22",
+        "news_link": "https://rejabar.republika.co.id/berita/sdmi0r512/wakapolres-indramayu-hadiri-pelepasan-calhaj-menuju-asrama-haji"
+    },
+    {
+        "title": "Heru Budi Beri Peringatan Jika Ada yang Terima Setoran Juru Parkir",
+        "category": "News",
+        "publish_time": "17-05-2024 09:20",
+        "news_link": "https://news.republika.co.id/berita/sdmhy0330/heru-budi-beri-peringatan-jika-ada-yang-terima-setoran-juru-parkir"
+    },
+    {
+        "title": "Harga Kripto Rebound, Ini Saran Analis untuk Para Investor",
+        "category": "Ekonomi",
+        "publish_time": "17-05-2024 09:20",
+        "news_link": "https://ekonomi.republika.co.id/berita/sdmh1q457/harga-kripto-rebound-ini-saran-analis-untuk-para-investor"
+    },
+    {
+        "title": "Sukses Ekspor, Produk Tenun Asal Yogyakarta Tembus Pasar Empat Negara Ini",
+        "category": "Beacukai",
+        "publish_time": "17-05-2024 09:19",
+        "news_link": "https://republika.co.id/berita/sdmhvy349/sukses-ekspor-produk-tenun-asal-yogyakarta-tembus-pasar-empat-negara-ini"
+    },
+    {
+        "title": "Kemenkes: TBC Baru Dapat Dieliminasi di Indonesia pada 2045",
+        "category": "Ameera",
+        "publish_time": "17-05-2024 09:18",
+        "news_link": "https://ameera.republika.co.id/berita/sdmfsg370/kemenkes-tbc-baru-dapat-dieliminasi-di-indonesia-pada-2045"
+    },
+    {
+        "title": "Masuki Kemarau, Pemprov DKI Mulai Siapkan Water Mist Tekan Polusi",
+        "category": "News",
+        "publish_time": "17-05-2024 09:14",
+        "news_link": "https://news.republika.co.id/berita/sdmhmz330/masuki-kemarau-pemprov-dki-mulai-siapkan-water-mist-tekan-polusi"
+    },
+    {
         "title": "Pemkab Bekasi Gencarkan Bangun Infrastruktur di Muaragembong",
         "category": "News",
         "publish_time": "17-05-2024 09:11",
@@ -8,295 +194,109 @@
     {
         "title": "Data Inflasi AS Kerek Harga Bitcoin",
         "category": "Ekonomi",
-        "publish_time": "17-05-2024 09:09",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sdmgxl457/data-inflasi-as-kerek-harga-bitcoin"
     },
     {
         "title": "Kala Petugas Zakat Nabi Disuap",
         "category": "Islam Digest",
-        "publish_time": "17-05-2024 09:08",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://www.republika.id/posts/52847/kala-petugas-zakat-nabi-disuap"
     },
     {
         "title": "Kiprah Bisnis Penyewaan Limusin Milik Diaspora Indonesia di Amerika Serikat",
         "category": "Video",
-        "publish_time": "17-05-2024 09:08",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://tv.republika.co.id/berita/sdmhed467/kiprah-bisnis-penyewaan-limusin-milik-diaspora-indonesia-di-amerika-serikat"
     },
     {
         "title": "Jimin BTS Dirumorkan Kencan dengan Song Da-eun, Kok Bisa? Begini Awal Mulanya",
         "category": "Ameera",
-        "publish_time": "17-05-2024 09:06",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://ameera.republika.co.id/berita/sdmhb4425/jimin-bts-dirumorkan-kencan-dengan-song-daeun-kok-bisa-begini-awal-mulanya"
     },
     {
         "title": "Begini Cara Ruth Sahanaya Lepaskan Diri dari Gangguan Insomnia",
         "category": "Ameera",
-        "publish_time": "17-05-2024 09:01",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://ameera.republika.co.id/berita/sdmfj2370/begini-cara-ruth-sahanaya-lepaskan-diri-dari-gangguan-insomnia"
     },
     {
         "title": "BPH Migas Sebut Pemda Berperan Penting Dalam Pengawasan BBM Subsidi",
         "category": "Ekonomi",
-        "publish_time": "17-05-2024 08:59",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sdmdph502/bph-migas-sebut-pemda-berperan-penting-dalam-pengawasan-bbm-subsidi"
     },
     {
         "title": "Aksi Mahasiswa Bela Palestina di Gedung Sate Bandung",
         "category": "Visual",
-        "publish_time": "17-05-2024 08:59",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://visual.republika.co.id/berita/sdmga7375/aksi-mahasiswa-bela-palestina-di-gedung-sate-bandung"
     },
     {
         "title": "Rumah Modular Baja Ringan Disebut Jadi Solusi Hunian Ramah Lingkungan",
         "category": "Esgnow",
-        "publish_time": "17-05-2024 08:59",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://esgnow.republika.co.id/berita/sdmg5l457/rumah-modular-baja-ringan-disebut-jadi-solusi-hunian-ramah-lingkungan"
     },
     {
         "title": "FIFA Terus Tunda Sanksi untuk Israel",
         "category": "Sport",
-        "publish_time": "17-05-2024 08:58",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://sport.republika.co.id/berita/sdmgxu393/fifa-terus-tunda-sanksi-untuk-israel"
     },
     {
         "title": "Dehidrasi Musuh Jamaah Haji, Begini Cara Mencegahnya",
         "category": "Ihram",
-        "publish_time": "17-05-2024 08:56",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://ihram.republika.co.id/berita/sdmgtq313/dehidrasi-musuh-jamaah-haji-begini-cara-mencegahnya"
     },
     {
         "title": "Baleg Bantah Revisi UU Penyiaran Berangus Kebebasan Pers",
         "category": "News",
-        "publish_time": "17-05-2024 08:55",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://news.republika.co.id/berita/sdmgsk436/baleg-bantah-revisi-uu-penyiaran-berangus-kebebasan-pers"
     },
     {
         "title": "KPK Fasilitasi BPK Periksa Syahrul Yasin Limpo",
         "category": "News",
-        "publish_time": "17-05-2024 08:54",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://news.republika.co.id/berita/sdmgrp330/kpk-fasilitasi-bpk-periksa-syahrul-yasin-limpo"
     },
     {
         "title": "Disdik Solo Tetap Perbolehkan Tur Studi Siswa, Tapi Ada Syaratnya",
         "category": "Rejogja",
-        "publish_time": "17-05-2024 08:53",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://rejogja.republika.co.id/berita/sdmgpp432/disdik-solo-tetap-perbolehkan-tur-studi-siswa-tapi-ada-syaratnya"
     },
     {
         "title": "Cerita Epi, Juru Parkir Liar yang Kini Bergelut dengan Rasa Was-Was Terjaring Razia Dishub",
         "category": "News",
-        "publish_time": "17-05-2024 08:51",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://news.republika.co.id/berita/sdmgms436/cerita-epi-juru-parkir-liar-yang-kini-bergelut-dengan-rasa-waswas-terjaring-razia-dishub"
     },
     {
         "title": "Heru Budi: Pembebasan Lahan Terdampak Normalisasi Ciliwung Terus Berlangsung",
         "category": "News",
-        "publish_time": "17-05-2024 08:49",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://news.republika.co.id/berita/sdmghv330/heru-budi-pembebasan-lahan-terdampak-normalisasi-ciliwung-terus-berlangsung"
     },
     {
         "title": "Menperin: Industri Manufaktur Tingkatkan Perekonomian Daerah",
         "category": "Ekonomi",
-        "publish_time": "17-05-2024 08:44",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sdmfuh457/menperin-industri-manufaktur-tingkatkan-perekonomian-daerah"
     },
     {
         "title": "Bea Cukai Bekasi Resmikan Kawasan Berikat Mandiri PT LG Electronics Indonesia",
         "category": "Beacukai",
-        "publish_time": "17-05-2024 08:44",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://republika.co.id/berita/sdmgae349/bea-cukai-bekasi-resmikan-kawasan-berikat-mandiri-pt-lg-electronics-indonesia"
     },
     {
         "title": "Apple Segera Hadirkan Teknologi Eye Tracking di iPhone dan iPad Terbaru",
         "category": "Tekno",
-        "publish_time": "17-05-2024 08:43",
+        "publish_time": "17-05-2024 09:11",
         "news_link": "https://tekno.republika.co.id/berita/sdmf7m370/apple-segera-hadirkan-teknologi-eye-tracking-di-iphone-dan-ipad-terbaru"
-    },
-    {
-        "title": "Anggaran Terus Bertambah, tapi Biaya Pendidikan Justru Kian Mahal",
-        "category": "Visual",
-        "publish_time": "17-05-2024 08:41",
-        "news_link": "https://visual.republika.co.id/berita/sdmg5k487/anggaran-terus-bertambah-tapi-biaya-pendidikan-justru-kian-mahal"
-    },
-    {
-        "title": "Whoosh Terkoneksi ke Lapangan Golf dari Stasiun Tegalluar dan Padalarang",
-        "category": "News",
-        "publish_time": "17-05-2024 08:41",
-        "news_link": "https://news.republika.co.id/berita/sdmg4r484/whoosh-terkoneksi-ke-lapangan-golf-dari-stasiun-tegalluar-dan-padalarang"
-    },
-    {
-        "title": "Bertemu Presiden Joko Widodo, Gubernur Jenderal AS Diajak Keliling Kebun Raya Bogor",
-        "category": "Visual",
-        "publish_time": "17-05-2024 08:40",
-        "news_link": "https://visual.republika.co.id/berita/sdmg3l375/bertemu-presiden-joko-widodo-gubernur-jenderal-as-diajak-keliling-kebun-raya-bogor"
-    },
-    {
-        "title": "Komisi I Klaim Draf Revisi UU Penyiaran yang Beredar Belum Sempurna dan Multitafsir",
-        "category": "News",
-        "publish_time": "17-05-2024 08:40",
-        "news_link": "https://news.republika.co.id/berita/sdmg2x436/komisi-i-klaim-draf-revisi-uu-penyiaran-yang-beredar-belum-sempurna-dan-multitafsir"
-    },
-    {
-        "title": "Bagaimana Memulai Kebun Permakultur dengan Lahan Terbatas",
-        "category": "Network",
-        "publish_time": "17-05-2024 08:38",
-        "news_link": "https://fifarm.id/posts/307217/bagaimana-memulai-kebun-permakultur-dengan-lahan-terbatas"
-    },
-    {
-        "title": "Makanan Organik dan Kesehatan: Mengungkap Manfaat Tersembunyi",
-        "category": "Network",
-        "publish_time": "17-05-2024 08:37",
-        "news_link": "https://fifarm.id/posts/307207/makanan-organik-dan-kesehatan-mengungkap-manfaat-tersembunyi"
-    },
-    {
-        "title": "SMA Islam Ini Gelar Research Expo, Buat Sedotan Ramah Lingkungan Hingga Biogas",
-        "category": "Network",
-        "publish_time": "17-05-2024 08:37",
-        "news_link": "https://bandung24jam.republika.co.id/posts/307227/sma-islam-ini-gelar-research-expo-buat-sedotan-ramah-lingkungan-hingga-biogas"
-    },
-    {
-        "title": "Legislator Minta Pemprov DKI Rekrut Juru Parkir Liar yang Dirazia",
-        "category": "News",
-        "publish_time": "17-05-2024 08:31",
-        "news_link": "https://news.republika.co.id/berita/sdmfou330/legislator-minta-pemprov-dki-rekrut-juru-parkir-liar-yang-dirazia"
-    },
-    {
-        "title": "Ini Jawaban Heru Saat Ditanya Soal Restu Jokowi di Pilgub DKI",
-        "category": "News",
-        "publish_time": "17-05-2024 08:30",
-        "news_link": "https://news.republika.co.id/berita/sdmfml377/ini-jawaban-heru-saat-ditanya-soal-restu-jokowi-di-pilgub-dki"
-    },
-    {
-        "title": "Penggiat Soroti Peran Padang Lamun Indonesia dalam Konservasi Dugong",
-        "category": "Esgnow",
-        "publish_time": "17-05-2024 08:29",
-        "news_link": "https://esgnow.republika.co.id/berita/sdmep3457/penggiat-soroti-peran-padang-lamun-indonesia-dalam-konservasi-dugong"
-    },
-    {
-        "title": "Jika Israel Serang Rafah, Joe Biden: Amerika Serikat tidak Akan Pasok Senjata",
-        "category": "Video",
-        "publish_time": "17-05-2024 08:26",
-        "news_link": "https://tv.republika.co.id/berita/sdmfgp418/jika-israel-serang-rafah-joe-biden-amerika-serikat-tidak-akan-pasok-senjata"
-    },
-    {
-        "title": "Sinergi Antarinstansi Gagalkan Pengiriman 13 Kg Ganja melalui Jasa Ekspedisi",
-        "category": "Beacukai",
-        "publish_time": "17-05-2024 08:25",
-        "news_link": "https://republika.co.id/berita/sdmfdw349/sinergi-antarinstansi-gagalkan-pengiriman-13-kg-ganja-melalui-jasa-ekspedisi"
-    },
-    {
-        "title": "Pesan Ruth Sahanaya ke Musisi Muda: Attitude Nomor Satu",
-        "category": "Ameera",
-        "publish_time": "17-05-2024 08:23",
-        "news_link": "https://ameera.republika.co.id/berita/sdmeuz370/pesan-ruth-sahanaya-ke-musisi-muda-attitude-nomor-satu"
-    },
-    {
-        "title": "Wali Kota Surabaya Tegaskan Larangan Tur Studi Siswa ke Luar Daerah",
-        "category": "Rejogja",
-        "publish_time": "17-05-2024 08:23",
-        "news_link": "https://rejogja.republika.co.id/berita/sdmfbt432/wali-kota-surabaya-tegaskan-larangan-tur-studi-siswa-ke-luar-daerah"
-    },
-    {
-        "title": "Standard Chartered Perkirakan Ekonomi Indonesia 2024 Tumbuh 5,1 Persen",
-        "category": "Ekonomi",
-        "publish_time": "17-05-2024 08:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdmegv457/standard-chartered-perkirakan-ekonomi-indonesia-2024-tumbuh-51-persen"
-    },
-    {
-        "title": "Mengintip Potensi Pasar Mobil Bekas Listrik, Seperti Apa ?",
-        "category": "Network",
-        "publish_time": "17-05-2024 08:12",
-        "news_link": "https://motoresto.id/posts/307164/mengintip-potensi-pasar-mobil-bekas-listrik-seperti-apa-"
-    },
-    {
-        "title": "Bisakah Vitamin C Membantu Menurunkan Tekanan Darah?",
-        "category": "Network",
-        "publish_time": "17-05-2024 08:12",
-        "news_link": "https://impresiupdate.id/posts/307158/bisakah-vitamin-c-membantu-menurunkan-tekanan-darah-"
-    },
-    {
-        "title": "Delapan Tantangan Ekonomi Pemerintahan Prabowo-Gibran",
-        "category": "Ekonomi",
-        "publish_time": "17-05-2024 08:12",
-        "news_link": "https://www.republika.id/posts/52846/delapan-tantangan-ekonomi-pemerintahan-prabowo-gibran"
-    },
-    {
-        "title": "PBB Revisi Prediksi Pertumbuhan Global Jadi 2,7 Persen",
-        "category": "Ekonomi",
-        "publish_time": "17-05-2024 08:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdmelo370/pbb-revisi-prediksi-pertumbuhan-global-jadi-27-persen"
-    },
-    {
-        "title": "Percepatan Transisi Energi Butuh Dana Besar",
-        "category": "Ekonomi",
-        "publish_time": "17-05-2024 08:12",
-        "news_link": "https://www.republika.id/posts/52855/percepatan-transisi-energi-butuh-dana-besar"
-    },
-    {
-        "title": "Beda DPP dan Fraksi PDIP Terhadap Revisi UU Kementerian Negara",
-        "category": "News",
-        "publish_time": "17-05-2024 08:12",
-        "news_link": "https://news.republika.co.id/berita/sdmelc377/beda-dpp-dan-fraksi-pdip-terhadap-revisi-uu-kementerian-negara"
-    },
-    {
-        "title": "Siswa SMA California Menciptakan 'Musik Luar Angkasa' Baru",
-        "category": "Network",
-        "publish_time": "17-05-2024 08:12",
-        "news_link": "https://impresiupdate.id/posts/307140/siswa-sma-california-menciptakan-musik-luar-angkasa-baru"
-    },
-    {
-        "title": "Lanny: Ribka Bilang Hatinya Sudah Tidak di Bulutangkis",
-        "category": "Network",
-        "publish_time": "17-05-2024 08:12",
-        "news_link": "https://badmintonews.id/posts/307124/lanny-ribka-bilang-hatinya-sudah-tidak-di-bulutangkis"
-    },
-    {
-        "title": "Mobil Hybrid Ini Bisa Tempuh Jakarta-Probolinggo Hanya dengan Satu Kali Pengisian Bahan Bakar",
-        "category": "Network",
-        "publish_time": "17-05-2024 08:12",
-        "news_link": "https://motoresto.id/posts/307080/mobil-hybrid-ini-bisa-tempuh-jakarta-probolinggo-hanya-dengan-satu-kali-pengisian-bahan-bakar"
-    },
-    {
-        "title": "Apri/Fadia Tegaskan Siap Bertarung di Olimpiade 2024",
-        "category": "Network",
-        "publish_time": "17-05-2024 08:12",
-        "news_link": "https://badmintonews.id/posts/307112/apri-fadia-tegaskan-siap-bertarung-di-olimpiade-2024"
-    },
-    {
-        "title": "Angin Khajuj, Awal Pendirian Kakbah di Baitullah",
-        "category": "Network",
-        "publish_time": "17-05-2024 08:12",
-        "news_link": "https://sumatralink.id/posts/307107/angin-khajuj-awal-pendirian-kakbah-di-baitullah"
-    },
-    {
-        "title": "Bantah JK, KPK Yakin Buktikan Korupsi Eks Dirut Pertamina Karen Agustiawan",
-        "category": "News",
-        "publish_time": "17-05-2024 08:12",
-        "news_link": "https://news.republika.co.id/berita/sdme9q484/bantah-jk-kpk-yakin-buktikan-korupsi-eks-dirut-pertamina-karen-agustiawan"
-    },
-    {
-        "title": "Olahraga Kardiovaskular yang Bagus untuk Meningkatkan Kinerja Jantung",
-        "category": "Sindikasi",
-        "publish_time": "17-05-2024 08:12",
-        "news_link": "https://sindikasi.republika.co.id/berita/sdme85316000/olahraga-kardiovaskular-yang-bagus-untuk-meningkatkan-kinerja-jantung"
-    },
-    {
-        "title": "Makanan Yang Baik untuk Jantung: Dari Sayuran Hijau hingga Cokelat Hitam",
-        "category": "Sindikasi",
-        "publish_time": "17-05-2024 08:12",
-        "news_link": "https://sindikasi.republika.co.id/berita/sdme836416000/makanan-yang-baik-untuk-jantung-dari-sayuran-hijau-hingga-cokelat-hitam"
-    },
-    {
-        "title": "Risalah Sidang Ungkap Kekejian Pembunuhan Vina, Diperkosa Bergantian dan Disabet Samurai",
-        "category": "News",
-        "publish_time": "17-05-2024 08:12",
-        "news_link": "https://news.republika.co.id/berita/sdmdzj377/risalah-sidang-ungkap-kekejian-pembunuhan-vina-diperkosa-bergantian-dan-disabet-samurai"
-    },
-    {
-        "title": "Penertiban Juru Parkir Liar di Jakarta: 72 Orang Terjaring di Hari Kedua",
-        "category": "News",
-        "publish_time": "17-05-2024 08:12",
-        "news_link": "https://news.republika.co.id/berita/sdmdws349/penertiban-juru-parkir-liar-di-jakarta-72-orang-terjaring-di-hari-kedua"
     }
 ]
