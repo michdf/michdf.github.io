@@ -1,116 +1,242 @@
 [
     {
+        "title": "Senator AS Ini Dukung Surat Penangkapan ICC Terhadap Benjamin Netanyahu",
+        "category": "Internasional",
+        "publish_time": "23-05-2024 12:17",
+        "news_link": "https://internasional.republika.co.id/berita/sdxu4y377/senator-as-ini-dukung-surat-penangkapan-icc-terhadap-benjamin-netanyahu"
+    },
+    {
+        "title": "Tingkat Mikroplastik di Antartika Semakin Memburuk",
+        "category": "Esgnow",
+        "publish_time": "23-05-2024 12:16",
+        "news_link": "https://esgnow.republika.co.id/berita/sdxu4g370/tingkat-mikroplastik-di-antartika-semakin-memburuk"
+    },
+    {
+        "title": "Weekend Seru di TikTok Food Fest 2024, Ada Banyak Promo dari BRI!",
+        "category": "Ekonomi",
+        "publish_time": "23-05-2024 12:11",
+        "news_link": "https://ekonomi.republika.co.id/berita/sdxtvp423/weekend-seru-di-tiktok-food-fest-2024-ada-banyak-promo-dari-bri"
+    },
+    {
+        "title": "Kejati Jateng Tahan Empat Orang Tersangka Kasus Korupsi Bank Mandiri Semarang",
+        "category": "News",
+        "publish_time": "23-05-2024 12:11",
+        "news_link": "https://news.republika.co.id/berita/sdxtui484/kejati-jateng-tahan-empat-orang-tersangka-kasus-korupsi-bank-mandiri-semarang"
+    },
+    {
+        "title": "Kru Eksibisi WWF Asal Korsel Ditemukan Meninggal di Kamar Hotel",
+        "category": "News",
+        "publish_time": "23-05-2024 12:08",
+        "news_link": "https://news.republika.co.id/berita/sdxtqy377/kru-eksibisi-wwf-asal-korsel-ditemukan-meninggal-di-kamar-hotel"
+    },
+    {
+        "title": "Ini Isi Hati Xabi Alonso Setelah Leverkusen Alami Pembantaian di Final Liga Europa",
+        "category": "Sport",
+        "publish_time": "23-05-2024 12:08",
+        "news_link": "https://sport.republika.co.id/berita/sdxtpo456/ini-isi-hati-xabi-alonso-setelah-leverkusen-alami-pembantaian-di-final-liga-europa"
+    },
+    {
+        "title": "Kesaksian Penumpang Saat Penerbangan SQ321 Alami Turbulensi Ekstrem",
+        "category": "Internasional",
+        "publish_time": "23-05-2024 12:04",
+        "news_link": "https://internasional.republika.co.id/berita/sdxtjt370/kesaksian-penumpang-saat-penerbangan-sq321-alami-turbulensi-ekstrem"
+    },
+    {
+        "title": "Ketum PSSI Sambut Hangat Program Makan Siang Gratis Bagi Anak",
+        "category": "Sport",
+        "publish_time": "23-05-2024 12:02",
+        "news_link": "https://sport.republika.co.id/berita/sdxtfj456/ketum-pssi-sambut-hangat-program-makan-siang-gratis-bagi-anak"
+    },
+    {
+        "title": "Dua Golongan Umat Muslim yang Tidak akan Dapat Syafaat Nabi Muhammad",
+        "category": "Islam Digest",
+        "publish_time": "23-05-2024 11:59",
+        "news_link": "https://islamdigest.republika.co.id/berita/sdxrxp430/dua-golongan-umat-muslim-yang-tidak-akan-dapat-syafaat-nabi-muhammad"
+    },
+    {
+        "title": "Peminat Ibadah Umroh dan Haji di Bandung Tinggi",
+        "category": "Ihram",
+        "publish_time": "23-05-2024 11:59",
+        "news_link": "https://ihram.republika.co.id/berita/sdxq5o430/peminat-ibadah-umroh-dan-haji-di-bandung-tinggi"
+    },
+    {
+        "title": "Gasperini Sebut Kesuksesan Atalanta Layak Dicatat di Dalam Sejarah",
+        "category": "Sport",
+        "publish_time": "23-05-2024 11:59",
+        "news_link": "https://sport.republika.co.id/berita/sdxtaz370/gasperini-sebut-kesuksesan-atalanta-layak-dicatat-di-dalam-sejarah"
+    },
+    {
+        "title": "Pemilik iPhone 7 Berkesemaptan Dapat Ganti Rugi Rp 560 Miliar, Syaratnya?",
+        "category": "Tekno",
+        "publish_time": "23-05-2024 11:55",
+        "news_link": "https://tekno.republika.co.id/berita/sdxt3y370/pemilik-iphone-7-berkesemaptan-dapat-ganti-rugi-rp-560-miliar-syaratnya"
+    },
+    {
+        "title": "Pesawat Pengangkut Jamaah Haji Embarkasi Solo Alami Masalah Teknis",
+        "category": "Ihram",
+        "publish_time": "23-05-2024 11:48",
+        "news_link": "https://ihram.republika.co.id/berita/sdxst7430/pesawat-pengangkut-jamaah-haji-embarkasi-solo-alami-masalah-teknis"
+    },
+    {
+        "title": "Pertajam Strategi Bisnis Ritel, Mirae Asset Angkat Direktur Baru",
+        "category": "Ekonomi",
+        "publish_time": "23-05-2024 11:46",
+        "news_link": "https://ekonomi.republika.co.id/berita/sdxsp9370/pertajam-strategi-bisnis-ritel-mirae-asset-angkat-direktur-baru"
+    },
+    {
+        "title": "29.134 Jamaah Haji Tiba di Makkah, Ini yang Harus Diperhatikan Saat di Hotel",
+        "category": "Khazanah",
+        "publish_time": "23-05-2024 11:39",
+        "news_link": "https://khazanah.republika.co.id/berita/sdxs6u430/29134-jamaah-haji-tiba-di-makkah-ini-yang-harus-diperhatikan-saat-di-hotel"
+    },
+    {
+        "title": "Surat dalam Alquran Ini Kelak Jadi Syafaat, Dianjurkan Membacanya Sebelum Tidur",
+        "category": "Iqra",
+        "publish_time": "23-05-2024 11:29",
+        "news_link": "https://iqra.republika.co.id/berita/sdxq0k430/surat-dalam-alquran-ini-kelak-jadi-syafaat-dianjurkan-membacanya-sebelum-tidur"
+    },
+    {
+        "title": "Prabowo Janji Kurangi Bahkan Gratiskan UKT Perguruan Tinggi Negeri, Ini Rencananya",
+        "category": "News",
+        "publish_time": "23-05-2024 11:24",
+        "news_link": "https://news.republika.co.id/berita/sdxrox349/prabowo-janji-kurangi-bahkan-gratiskan-ukt-perguruan-tinggi-negeri-ini-rencananya"
+    },
+    {
+        "title": "Universitas BSI Karawang Berikan Beasiswa untuk Lulusan Terbaik SMK Industri Mandiri",
+        "category": "News",
+        "publish_time": "23-05-2024 11:23",
+        "news_link": "https://news.republika.co.id/berita/sdxrn7423/universitas-bsi-karawang-berikan-beasiswa-untuk-lulusan-terbaik-smk-industri-mandiri"
+    },
+    {
+        "title": "Heboh Bentrok PKL dengan Petugas Satpol PP Kembali Terjadi di Dalem Kaum Bandung",
+        "category": "Rejabar",
+        "publish_time": "23-05-2024 11:20",
+        "news_link": "https://rejabar.republika.co.id/berita/sdxr5g512/heboh-bentrok-pkl-dengan-petugas-satpol-pp-kembali-terjadi-di-dalem-kaum-bandung"
+    },
+    {
+        "title": "Liburan di Puncak-Cipanas-Cianjur dengan Kendaraan Listrik? Ini Lokasi 9 SPKLU Terdekat",
+        "category": "News",
+        "publish_time": "23-05-2024 11:20",
+        "news_link": "https://news.republika.co.id/berita/sdxr4j349/liburan-di-puncakcipanascianjur-dengan-kendaraan-listrik-ini-lokasi-9-spklu-terdekat"
+    },
+    {
         "title": "Prestasi Gemilang Mahasiswa Universitas BSI Raih Medali Emas di NESO",
         "category": "News",
-        "publish_time": "23-05-2024 11:08",
+        "publish_time": "23-05-2024 11:20",
         "news_link": "https://news.republika.co.id/berita/sdxqy4423/prestasi-gemilang-mahasiswa-universitas-bsi-raih-medali-emas-di-neso"
     },
     {
-        "title": "Dua pembalap Pertamina Enduro VR46 Siap Bersaing di Katalunya dan Mugello",
+        "title": "Kupas Tuntas FDV di Industri Kripto",
+        "category": "Network",
+        "publish_time": "23-05-2024 11:20",
+        "news_link": "https://digitaldonat.republika.co.id/cryptolab/1754683412/kupas-tuntas-fdv-di-industri-kripto"
+    },
+    {
+        "title": "Dua Pembalap Pertamina Enduro VR46 Siap Bersaing di Katalunya dan Mugello",
         "category": "Sport",
-        "publish_time": "23-05-2024 11:06",
+        "publish_time": "23-05-2024 11:20",
         "news_link": "https://sport.republika.co.id/berita/sdxquk456/dua-pembalap-pertamina-enduro-vr46-siap-bersaing-di-katalunya-dan-mugello"
     },
     {
         "title": "Ini Kenangan Ridwan Kamil ke Mantan Bupati Acep Purnama: Saya Bersaksi Almarhum Orang Baik",
         "category": "Rejabar",
-        "publish_time": "23-05-2024 11:04",
+        "publish_time": "23-05-2024 11:20",
         "news_link": "https://rejabar.republika.co.id/berita/sdxqq1512/ini-kenangan-ridwan-kamil-ke-mantan-bupati-acep-purnama-saya-bersaksi-almarhum-orang-baik"
     },
     {
         "title": "Beredar Isu Tepung Gorengan Dicampur dengan Narkoba, Ini Faktanya Menurut Polisi",
         "category": "News",
-        "publish_time": "23-05-2024 11:00",
+        "publish_time": "23-05-2024 11:20",
         "news_link": "https://news.republika.co.id/berita/sdxpy5377/beredar-isu-tepung-gorengan-dicampur-dengan-narkoba-ini-faktanya-menurut-polisi"
     },
     {
         "title": "Disebut dalam Alquran, Bawang Putih Rupanya Punya Manfaat Besar",
         "category": "Iqra",
-        "publish_time": "23-05-2024 11:00",
+        "publish_time": "23-05-2024 11:20",
         "news_link": "https://iqra.republika.co.id/berita/sdxpwn430/disebut-dalam-alquran-bawang-putih-rupanya-punya-manfaat-besar"
     },
     {
         "title": "Perkenalkan Industri Kripto Lewat Standup Comedy di BLK 2024",
         "category": "Network",
-        "publish_time": "23-05-2024 10:55",
+        "publish_time": "23-05-2024 11:20",
         "news_link": "https://digitaldonat.republika.co.id/cryptolab/1754683365/perkenalkan-industri-kripto-lewat-standup-comedy-di-blk-2024"
     },
     {
         "title": "Relawan Warung IBH Resmi Dideklarasikan",
         "category": "Network",
-        "publish_time": "23-05-2024 10:55",
+        "publish_time": "23-05-2024 11:20",
         "news_link": "https://kareba.republika.co.id/posts/308526/relawan-warung-ibh-resmi-dideklarasikan"
     },
     {
         "title": "Keberangkatan 11 Calon Jamaah Haji Lampung Tertunda",
         "category": "Ihram",
-        "publish_time": "23-05-2024 10:54",
+        "publish_time": "23-05-2024 11:20",
         "news_link": "https://ihram.republika.co.id/berita/sdxqac430/keberangkatan-11-calon-jamaah-haji-lampung-tertunda"
     },
     {
         "title": "Biden dan Trump Kompak Terkait Kebijakan Tarif Impor Produk Cina",
         "category": "Video",
-        "publish_time": "23-05-2024 10:52",
+        "publish_time": "23-05-2024 11:20",
         "news_link": "https://tv.republika.co.id/berita/sdxq6k418/biden-dan-trump-kompak-terkait-kebijakan-tarif-impor-produk-cina"
     },
     {
         "title": "Polrestro Jaksel Ciduk 11 Remaja Bersenjata Tajam yang akan Tawuran",
         "category": "News",
-        "publish_time": "23-05-2024 10:51",
+        "publish_time": "23-05-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sdxq4k484/polrestro-jaksel-ciduk-11-remaja-bersenjata-tajam-yang-akan-tawuran"
     },
     {
         "title": "Jejak Hutan dan Sumber Air Pada Nama-Nama Jalan dan Wilayah di Bandung",
         "category": "Network",
-        "publish_time": "23-05-2024 10:49",
+        "publish_time": "23-05-2024 10:20",
         "news_link": "https://sekitarbandung.id/posts/308494/jejak-hutan-dan-sumber-air-pada-nama-nama-jalan-dan-wilayah-di-bandung"
     },
     {
         "title": "Korban Meninggal Galodo Sumbar Bertambah Menjadi  Total 62 Orang",
         "category": "Network",
-        "publish_time": "23-05-2024 10:49",
+        "publish_time": "23-05-2024 10:20",
         "news_link": "https://topnews62.com/posts/308496/korban-meninggal-galodo-sumbar-bertambah-menjadi-total-62-orang"
     },
     {
         "title": "Sebuah Angkot Terlibat Kecelakaan dengan Truk Sampah di Jalan Sudirman Bogor",
         "category": "Rejabar",
-        "publish_time": "23-05-2024 10:47",
+        "publish_time": "23-05-2024 10:20",
         "news_link": "https://rejabar.republika.co.id/berita/sdxpz8512/sebuah-angkot-terlibat-kecelakaan-dengan-truk-sampah-di-jalan-sudirman-bogor"
     },
     {
         "title": "Bagaimana Menebus Dosa Zina?",
         "category": "Islam Digest",
-        "publish_time": "23-05-2024 10:43",
+        "publish_time": "23-05-2024 10:20",
         "news_link": "https://islamdigest.republika.co.id/berita/sdxpr4430/bagaimana-menebus-dosa-zina"
     },
     {
-        "title": "Tentara Israel Lemparkan Alquran ke Kobaran Api Reruntuhan Masjid di Gaza",
+        "title": "Ini Detik-Detik Tentara Israel Lemparkan Alquran ke Kobaran Api Reruntuhan Masjid di Gaza",
         "category": "Internasional",
-        "publish_time": "23-05-2024 10:40",
-        "news_link": "https://internasional.republika.co.id/berita/sdxpnl377/tentara-israel-lemparkan-alquran-ke-kobaran-api-reruntuhan-masjid-di-gaza"
+        "publish_time": "23-05-2024 10:20",
+        "news_link": "https://internasional.republika.co.id/berita/sdxpnl377/ini-detikdetik-tentara-israel-lemparkan-alquran-ke-kobaran-api-reruntuhan-masjid-di-gaza"
     },
     {
         "title": "Kulineran, Nonton Konser, dan Cari Kerja di FIFGroup 35th Localicious",
         "category": "Network",
-        "publish_time": "23-05-2024 10:39",
+        "publish_time": "23-05-2024 10:20",
         "news_link": "https://oohya.republika.co.id/pitan/1744683247/kulineran-nonton-konser-dan-cari-kerja-di-fifgroup-35th-localicious"
     },
     {
         "title": "Peringati Hari Raya Waisak, BRI Peduli Salurkan Bantuan Sarana Pra-sarana Vihara",
         "category": "Ekonomi",
-        "publish_time": "23-05-2024 10:35",
+        "publish_time": "23-05-2024 10:20",
         "news_link": "https://ekonomi.republika.co.id/berita/sdxpef423/peringati-hari-raya-waisak-bri-peduli-salurkan-bantuan-sarana-prasarana-vihara"
     },
     {
         "title": "Setelah Memutus Hubungan dengan Israel, Kolombia Kini Buka Kedubes di Ramallah Palestina",
         "category": "Internasional",
-        "publish_time": "23-05-2024 10:32",
+        "publish_time": "23-05-2024 10:20",
         "news_link": "https://internasional.republika.co.id/berita/sdxp9y456/setelah-memutus-hubungan-dengan-israel-kolombia-kini-buka-kedubes-di-ramallah-palestina"
     },
     {
         "title": "Dishub Periksa Bus Pariwisata yang Alami Kecelakaan Maut di Tol Jombang",
         "category": "Visual",
-        "publish_time": "23-05-2024 10:30",
+        "publish_time": "23-05-2024 10:20",
         "news_link": "https://visual.republika.co.id/berita/sdxok2375/dishub-periksa-bus-pariwisata-yang-alami-kecelakaan-maut-di-tol-jombang"
     },
     {
@@ -122,181 +248,55 @@
     {
         "title": "Ketum DPP LDII Ajak Semua Pihak Junjung Cita-Cita Pendiri Negara Ini",
         "category": "News",
-        "publish_time": "23-05-2024 10:15",
+        "publish_time": "23-05-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sdxoho456/ketum-dpp-ldii-ajak-semua-pihak-junjung-citacita-pendiri-negara-ini"
     },
     {
         "title": "Gelombang Kedua Jamaah Calon Haji Tiba di Asrama Haji Embarkasi Surabaya",
         "category": "Visual",
-        "publish_time": "23-05-2024 10:13",
+        "publish_time": "23-05-2024 10:20",
         "news_link": "https://visual.republika.co.id/berita/sdxodv375/gelombang-kedua-jamaah-calon-haji-tiba-di-asrama-haji-embarkasi-surabaya"
     },
     {
         "title": "Zulhas Beri Sembako 40 Truk untuk Pengungsi Banjir Bandang Sumbar",
         "category": "News",
-        "publish_time": "23-05-2024 10:11",
+        "publish_time": "23-05-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sdxo43484/zulhas-beri-sembako-40-truk-untuk-pengungsi-banjir-bandang-sumbar"
     },
     {
         "title": "Universitas BSI Bogor Siap Adakan Workshop EduTech bagi Tenaga Pendidik",
         "category": "News",
-        "publish_time": "23-05-2024 10:11",
+        "publish_time": "23-05-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sdxo29423/universitas-bsi-bogor-siap-adakan-workshop-edutech-bagi-tenaga-pendidik"
     },
     {
         "title": "Imam Mushala di Jakbar Ditikam Hingga Tewas di Tempat Wudhu, Pelaku Pakai Kalung",
         "category": "News",
-        "publish_time": "23-05-2024 10:11",
+        "publish_time": "23-05-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sdxnr5377/imam-mushala-di-jakbar-ditikam-hingga-tewas-di-tempat-wudhu-pelaku-pakai-kalung"
     },
     {
         "title": "Siswa-Siswi SMKN 1 Cikampek Dapat Beasiswa Jalur Undangan dari Universitas BSI Cikampek",
         "category": "News",
-        "publish_time": "23-05-2024 10:11",
+        "publish_time": "23-05-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sdxnix423/siswasiswi-smkn-1-cikampek-dapat-beasiswa-jalur-undangan-dari-universitas-bsi-cikampek"
     },
     {
         "title": "Industri Sebut Pencabutan Permendag 36/2023 Hanya Untungkan Importir Nakal",
         "category": "Ekonomi",
-        "publish_time": "23-05-2024 10:11",
+        "publish_time": "23-05-2024 09:20",
         "news_link": "https://ekonomi.republika.co.id/berita/sdxn8q349/industri-sebut-pencabutan-permendag-362023-hanya-untungkan-importir-nakal"
     },
     {
         "title": "Pelaku Skandal Burning Sun Jalani Hukuman yang Singkat di Penjara, Ini Daftarnya",
         "category": "Ameera",
-        "publish_time": "23-05-2024 10:11",
+        "publish_time": "23-05-2024 09:20",
         "news_link": "https://ameera.republika.co.id/berita/sdxn27370/pelaku-skandal-burning-sun-jalani-hukuman-yang-singkat-di-penjara-ini-daftarnya"
     },
     {
         "title": "Bayar Tagihan Antiribet Pakai BRImo, Bikin Kesehatan Mental Ibu Tetap Terjaga",
         "category": "Ekonomi",
-        "publish_time": "23-05-2024 09:11",
+        "publish_time": "23-05-2024 09:20",
         "news_link": "https://ekonomi.republika.co.id/berita/sdxmw3423/bayar-tagihan-antiribet-pakai-brimo-bikin-kesehatan-mental-ibu-tetap-terjaga"
-    },
-    {
-        "title": "KPK Ancam Orang yang Tutupi Tanda Sita Rumah SYL di Sulsel",
-        "category": "News",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sdxmp1377/kpk-ancam-orang-yang-tutupi-tanda-sita-rumah-syl-di-sulsel"
-    },
-    {
-        "title": "Jelang Libur Waisak, Lalu Lintas Tol Luar Jawa Naik",
-        "category": "Ekonomi",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdxmof490/jelang-libur-waisak-lalu-lintas-tol-luar-jawa-naik"
-    },
-    {
-        "title": "Penelitian Sebut Hutan Hujan Amazon Pulih Lebih Lama karena Kekeringan",
-        "category": "Internasional",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://internasional.republika.co.id/berita/sdxmmp370/penelitian-sebut-hutan-hujan-amazon-pulih-lebih-lama-karena-kekeringan"
-    },
-    {
-        "title": "Drainase Buruk, Jalan Sumur Bor Banten Tergenang Banjir",
-        "category": "Visual",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://visual.republika.co.id/berita/sdxmik375/drainase-buruk-jalan-sumur-bor-banten-tergenang-banjir"
-    },
-    {
-        "title": "Polsek Cilincing Buru Pelaku Penganiayaan Warga Cilincing",
-        "category": "News",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sdxmhk484/polsek-cilincing-buru-pelaku-penganiayaan-warga-cilincing"
-    },
-    {
-        "title": "45 Ribu Ayam Milik Anggota DPRD Sragen Mati Terpanggang Usai Kandang Terbakar",
-        "category": "News",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sdxmhf349/45-ribu-ayam-milik-anggota-dprd-sragen-mati-terpanggang-usai-kandang-terbakar"
-    },
-    {
-        "title": "Halal Bi Halal Jawara Depok Sembari Diisi Pelatihan Membuat Dimsum, Cilok dan Tahu Bakso",
-        "category": "Network",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://kareba.republika.co.id/posts/308511/halal-bi-halal-jawara-depok-sembari-diisi-pelatihan-membuat-dimsum-cilok-dan-tahu-bakso"
-    },
-    {
-        "title": "Pj Heru: Warga Jakarta Telah Merasakan Pelayanan yang Cepat dan Mudah",
-        "category": "News",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sdxlz3484/pj-heru-warga-jakarta-telah-merasakan-pelayanan-yang-cepat-dan-mudah"
-    },
-    {
-        "title": "Komisi I DPRD Jabar Sambut Positif RoD dengan DPRD Chungcheongnam-do Korsel",
-        "category": "News",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sdxlyt349/komisi-i-dprd-jabar-sambut-positif-rod-dengan-dprd-chungcheongnamdo-korsel"
-    },
-    {
-        "title": "Indonesia Bawa Usulan Hari Danau Sedunia ke Majelis Umum PBB",
-        "category": "Esgnow",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://esgnow.republika.co.id/berita/sdxluz490/indonesia-bawa-usulan-hari-danau-sedunia-ke-majelis-umum-pbb"
-    },
-    {
-        "title": "Bagnaia Mulai Jengah Dikejar Marquez, Ingin Bangkit di GP Katalunya",
-        "category": "Sport",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://sport.republika.co.id/berita/sdxln5456/bagnaia-mulai-jengah-dikejar-marquez-ingin-bangkit-di-gp-katalunya"
-    },
-    {
-        "title": "Gempa Bumi M 2,8 Menguncang Sumedang",
-        "category": "Rejabar",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sdxlja512/gempa-bumi-m-28-menguncang-sumedang"
-    },
-    {
-        "title": "Disdik DKI Minta Sekolah Perketat Keamanan Sarana dan Prasarana",
-        "category": "News",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sdxlfd484/disdik-dki-minta-sekolah-perketat-keamanan-sarana-dan-prasarana"
-    },
-    {
-        "title": "Jual Sapi Secara Online, Seorang Warga Bantul Tertipu Hingga Rugi Rp 50 Juta",
-        "category": "News",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sdxlcl423/jual-sapi-secara-online-seorang-warga-bantul-tertipu-hingga-rugi-rp-50-juta"
-    },
-    {
-        "title": "Global Water Fund Bisa Bantu Proyek Infrastruktur Air, Ini Penjelasan PUPR",
-        "category": "Ekonomi",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdxlck490/global-water-fund-bisa-bantu-proyek-infrastruktur-air-ini-penjelasan-pupr"
-    },
-    {
-        "title": "Strategi Korsel Agar Lebih Dikenal dengan Manfaatkan Minat Global Terhadap Budayanya",
-        "category": "Ameera",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://ameera.republika.co.id/berita/sdxl2u370/strategi-korsel-agar-lebih-dikenal-dengan-manfaatkan-minat-global-terhadap-budayanya"
-    },
-    {
-        "title": "Kerusuhan di Kaledonia Baru Bikin Tambang Nikel Setop Produksi, Ada Andil Indonesia?",
-        "category": "Ekonomi",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdxkw2490/kerusuhan-di-kaledonia-baru-bikin-tambang-nikel-setop-produksi-ada-andil-indonesia"
-    },
-    {
-        "title": "Mantan Bupati Kuningan Acep Purnama Meninggal Dunia Dirawat Intensif",
-        "category": "Rejabar",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sdxktd512/mantan-bupati-kuningan-acep-purnama-meninggal-dunia-dirawat-intensif"
-    },
-    {
-        "title": "Polisi Kantongi Identitas Penikam Imam Mushala di Kedoya Utara Jakarta",
-        "category": "Rejabar",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sdxkgo512/polisi-kantongi-identitas-penikam-imam-mushala-di-kedoya-utara-jakarta"
-    },
-    {
-        "title": "Kementerian ESDM Gandeng Kedubes AS Akselerasi Ekosistem Kendaraan Listrik",
-        "category": "Esgnow",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://esgnow.republika.co.id/berita/sdxkgc423/kementerian-esdm-gandeng-kedubes-as-akselerasi-ekosistem-kendaraan-listrik"
-    },
-    {
-        "title": "Undang Sopir Angkot, Sendi Fardiansyah Dengarkan Curhatan Mereka",
-        "category": "News",
-        "publish_time": "23-05-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sdxn4y318/undang-sopir-angkot-sendi-fardiansyah-dengarkan-curhatan-mereka"
     }
 ]
