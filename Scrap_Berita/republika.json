@@ -1,5 +1,113 @@
 [
     {
+        "title": "Mantan Anak Buah Guardiola Selangkah Lagi Jadi Pelatih Munchen",
+        "category": "Sport",
+        "publish_time": "23-05-2024 07:07",
+        "news_link": "https://sport.republika.co.id/berita/sdxfet456/mantan-anak-buah-guardiola-selangkah-lagi-jadi-pelatih-munchen"
+    },
+    {
+        "title": "Pembatasan Satu Alamat Tiga KK di Jakarta, Legislator: Merepotkan Warga Miskin",
+        "category": "News",
+        "publish_time": "23-05-2024 06:59",
+        "news_link": "https://news.republika.co.id/berita/sdxffh349/pembatasan-satu-alamat-tiga-kk-di-jakarta-legislator-merepotkan-warga-miskin"
+    },
+    {
+        "title": "Hyundai Siap Umumkan Harga Palisade XRT dan All New Kona Electric",
+        "category": "Ekonomi",
+        "publish_time": "23-05-2024 06:58",
+        "news_link": "https://ekonomi.republika.co.id/berita/sdxfd5370/hyundai-siap-umumkan-harga-palisade-xrt-dan-all-new-kona-electric"
+    },
+    {
+        "title": "Duo Yamaha Monster Energy Makin Percaya Diri Hadapi MotoGP Katalunya",
+        "category": "Sport",
+        "publish_time": "23-05-2024 06:54",
+        "news_link": "https://sport.republika.co.id/berita/sdxf6q456/duo-yamaha-monster-energy-makin-percaya-diri-hadapi-motogp-katalunya"
+    },
+    {
+        "title": "Upaya Mendorong Transformasi Digital dan Pembangunan Berkelanjutan di Indonesia",
+        "category": "Network",
+        "publish_time": "23-05-2024 06:54",
+        "news_link": "https://boyanesia.republika.co.id/serba-serbi/1644682562/upaya-mendorong-transformasi-digital-dan-pembangunan-berkelanjutan-di-indonesia"
+    },
+    {
+        "title": "Pakar: Merekam Orang tanpa Izin Langgar Hukum dan Etika",
+        "category": "News",
+        "publish_time": "23-05-2024 06:53",
+        "news_link": "https://news.republika.co.id/berita/sdxez8484/pakar-merekam-orang-tanpa-izin-langgar-hukum-dan-etika"
+    },
+    {
+        "title": "Berapa Banyak Biji Kopi yang Dihasilkan dari Sehektare Kebun Kopi",
+        "category": "News",
+        "publish_time": "23-05-2024 06:50",
+        "news_link": "https://news.republika.co.id/berita/sdxezw451/berapa-banyak-biji-kopi-yang-dihasilkan-dari-sehektare-kebun-kopi"
+    },
+    {
+        "title": "Orang Australia Sangat Menyukai Kopi Indonesia, ini Penjelasannya",
+        "category": "News",
+        "publish_time": "23-05-2024 06:48",
+        "news_link": "https://news.republika.co.id/berita/sdxevu451/orang-australia-sangat-menyukai-kopi-indonesia-ini-penjelasannya"
+    },
+    {
+        "title": "Kawasan Produksi Kopi Jadi Destinasi Agrowisata Bernilai Tinggi",
+        "category": "News",
+        "publish_time": "23-05-2024 06:45",
+        "news_link": "https://news.republika.co.id/berita/sdxer7451/kawasan-produksi-kopi-jadi-destinasi-agrowisata-bernilai-tinggi"
+    },
+    {
+        "title": "Terkenal Nikmat, Kopi Indonesia Diburu Banyak Orang di Australia",
+        "category": "News",
+        "publish_time": "23-05-2024 06:42",
+        "news_link": "https://news.republika.co.id/berita/sdxem0451/terkenal-nikmat-kopi-indonesia-diburu-banyak-orang-di-australia"
+    },
+    {
+        "title": "UMJ Gelar Pelatihan Kehumasan, Protokol, Serta Media untuk Tendik dan Mahasiswa",
+        "category": "News",
+        "publish_time": "23-05-2024 06:40",
+        "news_link": "https://news.republika.co.id/berita/sdxeaj349/umj-gelar-pelatihan-kehumasan-protokol-serta-media-untuk-tendik-dan-mahasiswa"
+    },
+    {
+        "title": "Harumkan Nama Indonesia, Barista Wanita Tunjukkan Kopi Indonesia Terbaik di Dunia",
+        "category": "News",
+        "publish_time": "23-05-2024 06:35",
+        "news_link": "https://news.republika.co.id/berita/sdxebj451/harumkan-nama-indonesia-barista-wanita-tunjukkan-kopi-indonesia-terbaik-di-dunia"
+    },
+    {
+        "title": "Produsen Kopi Lokal Harus Percaya Diri Tembus Pasar Dunia",
+        "category": "News",
+        "publish_time": "23-05-2024 06:32",
+        "news_link": "https://news.republika.co.id/berita/sdxe62451/produsen-kopi-lokal-harus-percaya-diri-tembus-pasar-dunia"
+    },
+    {
+        "title": "Tingkatkan Penggunaan Biodiesel, Lemigas Uji Coba B40 pada Kereta Api",
+        "category": "Ekonomi",
+        "publish_time": "23-05-2024 06:31",
+        "news_link": "https://ekonomi.republika.co.id/berita/sdxe4h490/tingkatkan-penggunaan-biodiesel-lemigas-uji-coba-b40-pada-kereta-api"
+    },
+    {
+        "title": "Tiga Hal yang Harus Diketahui Setiap Muslim pada Bulan Dzulhijjah",
+        "category": "Ihram",
+        "publish_time": "23-05-2024 06:29",
+        "news_link": "https://ihram.republika.co.id/berita/sdxe0e451/tiga-hal-yang-harus-diketahui-setiap-muslim-pada-bulan-dzulhijjah"
+    },
+    {
+        "title": "Pengadilan Agama Natuna Gelar Sidang Perceraian Keliling Tiap Kecamatan",
+        "category": "News",
+        "publish_time": "23-05-2024 06:27",
+        "news_link": "https://news.republika.co.id/berita/sdx8im484/pengadilan-agama-natuna-gelar-sidang-perceraian-keliling-tiap-kecamatan"
+    },
+    {
+        "title": "Walau Sudah Disetujui Kemendikbud, Unsoed Nyatakan Siap Apabila Besaran UKT Dievaluasi",
+        "category": "News",
+        "publish_time": "23-05-2024 06:21",
+        "news_link": "https://news.republika.co.id/berita/sdxdo3349/walau-sudah-disetujui-kemendikbud-unsoed-nyatakan-siap-apabila-besaran-ukt-dievaluasi"
+    },
+    {
+        "title": "Doa dan Zikir Bersama untuk Masyarakat Sumbar",
+        "category": "Network",
+        "publish_time": "23-05-2024 06:18",
+        "news_link": "https://rublikasi.com/posts/308485/doa-dan-zikir-bersama-untuk-masyarakat-sumbar"
+    },
+    {
         "title": "Perilaku Sederhana Berpahala\u00a0untuk Sesama Muslim",
         "category": "Islam Digest",
         "publish_time": "23-05-2024 06:15",
@@ -14,289 +122,181 @@
     {
         "title": "Krisis Pengangguran Gen Z: Ancaman Serius Bagi Bonus Demografi Indonesia 2045",
         "category": "News",
-        "publish_time": "23-05-2024 06:06",
+        "publish_time": "23-05-2024 06:10",
         "news_link": "https://news.republika.co.id/berita/sdxcyf349/krisis-pengangguran-gen-z-ancaman-serius-bagi-bonus-demografi-indonesia-2045"
     },
     {
         "title": "6 Amalan Sederhana yang Membuat Seseorang Masuk Surga",
         "category": "Iqra",
-        "publish_time": "23-05-2024 06:05",
+        "publish_time": "23-05-2024 06:10",
         "news_link": "https://iqra.republika.co.id/berita/sdxcxe451/6-amalan-sederhana-yang-membuat-seseorang-masuk-surga"
     },
     {
         "title": "Perkuat Pertahanan Udara, TNI AU Bahas Kerja Sama Alutsista dengan Airbus",
         "category": "News",
-        "publish_time": "23-05-2024 05:58",
+        "publish_time": "23-05-2024 06:10",
         "news_link": "https://news.republika.co.id/berita/sdxcll451/perkuat-pertahanan-udara-tni-au-bahas-kerja-sama-alutsista-dengan-airbus"
     },
     {
         "title": "Scarlett Johansson Sebut OpenAI Gunakan Suaranya untuk Asisten Suara \u2018Sky\u2019",
         "category": "Tekno",
-        "publish_time": "23-05-2024 05:52",
+        "publish_time": "23-05-2024 06:10",
         "news_link": "https://tekno.republika.co.id/berita/sdxcav370/scarlett-johansson-sebut-openai-gunakan-suaranya-untuk-asisten-suara-sky"
     },
     {
         "title": "Indonesia Tunjukkan Kepemimpinan Global dalam Isu Air di World Water Forum 2024",
         "category": "Ekonomi",
-        "publish_time": "23-05-2024 05:48",
+        "publish_time": "23-05-2024 06:10",
         "news_link": "https://ekonomi.republika.co.id/berita/sdxc09349/indonesia-tunjukkan-kepemimpinan-global-dalam-isu-air-di-world-water-forum-2024"
     },
     {
         "title": "Cetak Hattrick ke Gawang Leverkusen, Ademola Lookman Berkaca-Kaca",
         "category": "Sport",
-        "publish_time": "23-05-2024 05:42",
+        "publish_time": "23-05-2024 06:10",
         "news_link": "https://sport.republika.co.id/berita/sdxbuk456/cetak-hattrick-ke-gawang-leverkusen-ademola-lookman-berkacakaca"
     },
     {
         "title": "Kejagung Belum Tahan Dua Tersangka Korupsi Timah karena Sakit",
         "category": "News",
-        "publish_time": "23-05-2024 05:39",
+        "publish_time": "23-05-2024 05:10",
         "news_link": "https://news.republika.co.id/berita/sdx6fr484/kejagung-belum-tahan-dua-tersangka-korupsi-timah-karena-sakit"
     },
     {
         "title": "PalmCo Regional 1 Gelar Upgrading Humas: Tingkatkan Keterampilan Jurnalisme Digital",
         "category": "Ekonomi",
-        "publish_time": "23-05-2024 05:33",
+        "publish_time": "23-05-2024 05:10",
         "news_link": "https://ekonomi.republika.co.id/berita/sdxbf8349/palmco-regional-1-gelar-upgrading-humas-tingkatkan-keterampilan-jurnalisme-digital"
     },
     {
         "title": "Kandang di Sragen Terbakar, Lima Kambing Hangus Terpanggang",
         "category": "News",
-        "publish_time": "23-05-2024 05:27",
+        "publish_time": "23-05-2024 05:10",
         "news_link": "https://news.republika.co.id/berita/sdxb5w484/kandang-di-sragen-terbakar-lima-kambing-hangus-terpanggang"
     },
     {
         "title": "Pemerintah Targetkan Pengembangan 2 Juta Mobil Listrik",
         "category": "Ekonomi",
-        "publish_time": "23-05-2024 05:19",
+        "publish_time": "23-05-2024 05:10",
         "news_link": "https://ekonomi.republika.co.id/berita/sdxat3370/pemerintah-targetkan-pengembangan-2-juta-mobil-listrik"
     },
     {
         "title": "AS Tetap Menentang Pengakuan Sepihak Atas Palestina",
         "category": "Internasional",
-        "publish_time": "23-05-2024 05:15",
+        "publish_time": "23-05-2024 05:10",
         "news_link": "https://internasional.republika.co.id/berita/sdxal9370/as-tetap-menentang-pengakuan-sepihak-atas-palestina"
     },
     {
         "title": "Saksi Sebut Kementan Pinjamkan Mobil Dinas ke Cucu SYL pada 2020-2023",
         "category": "News",
-        "publish_time": "23-05-2024 05:15",
+        "publish_time": "23-05-2024 05:10",
         "news_link": "https://news.republika.co.id/berita/sdx81f484/saksi-sebut-kementan-pinjamkan-mobil-dinas-ke-cucu-syl-pada-20202023"
     },
     {
         "title": "WWF Inisiasi Pusat Ketahanan Air dan Iklim di Asia Pasifik",
         "category": "Esgnow",
-        "publish_time": "23-05-2024 05:15",
+        "publish_time": "23-05-2024 05:10",
         "news_link": "https://esgnow.republika.co.id/berita/sdx9jg328/wwf-inisiasi-pusat-ketahanan-air-dan-iklim-di-asia-pasifik"
     },
     {
         "title": "Meski UU Perlindungannya Disahkan pada 2022, Data Pribadi Masih Sering Bocor",
         "category": "Ekonomi",
-        "publish_time": "23-05-2024 05:15",
+        "publish_time": "23-05-2024 05:10",
         "news_link": "https://ekonomi.republika.co.id/berita/sdx9hr502/meski-uu-perlindungannya-disahkan-pada-2022-data-pribadi-masih-sering-bocor"
     },
     {
         "title": "Overpopulasi Rusak Paru-Paru Kota, Kok Bisa?",
         "category": "Video",
-        "publish_time": "23-05-2024 05:15",
+        "publish_time": "23-05-2024 05:10",
         "news_link": "https://tv.republika.co.id/berita/sdx6zf467/overpopulasi-rusak-paruparu-kota-kok-bisa"
     },
     {
         "title": "Ini Strategi Percepatan Pemanfaatan Kendaraan Listrik di Indonesia",
         "category": "Ekonomi",
-        "publish_time": "23-05-2024 04:15",
+        "publish_time": "23-05-2024 04:10",
         "news_link": "https://ekonomi.republika.co.id/berita/sdx8zq328/ini-strategi-percepatan-pemanfaatan-kendaraan-listrik-di-indonesia"
     },
     {
         "title": "Baznas tak Akan Gunakan Dana ZIS Jika Dilibatkan Program Makan Gratis",
         "category": "News",
-        "publish_time": "23-05-2024 04:15",
+        "publish_time": "23-05-2024 04:10",
         "news_link": "https://news.republika.co.id/berita/sdx8tw502/baznas-tak-akan-gunakan-dana-zis-jika-dilibatkan-program-makan-gratis"
     },
     {
         "title": "Mahfud Nilai Wajar Penolakan Penambahan Kementerian",
         "category": "News",
-        "publish_time": "23-05-2024 04:15",
+        "publish_time": "23-05-2024 04:10",
         "news_link": "https://news.republika.co.id/berita/sdx8ix328/mahfud-nilai-wajar-penolakan-penambahan-kementerian"
     },
     {
         "title": "Peruri\u00a0Rebranding,\u00a0Siap Jalankan Tugas Canggihkan Pemerintahan",
         "category": "Ekonomi",
-        "publish_time": "23-05-2024 04:15",
+        "publish_time": "23-05-2024 04:10",
         "news_link": "https://ekonomi.republika.co.id/berita/sdx8lb502/perurirebrandingsiap-jalankan-tugas-canggihkan-pemerintahan"
     },
     {
         "title": "Libur Panjang Waisak, Daop 3 Cirebon Siapkan 20.198 Tempat Duduk",
         "category": "Rejabar",
-        "publish_time": "23-05-2024 04:15",
+        "publish_time": "23-05-2024 04:10",
         "news_link": "https://rejabar.republika.co.id/berita/sdx8jq512/libur-panjang-waisak-daop-3-cirebon-siapkan-20198-tempat-duduk"
     },
     {
         "title": "Rehan/Lisa ke Perempat Final Malaysia Masters 2024",
         "category": "Sport",
-        "publish_time": "23-05-2024 04:15",
+        "publish_time": "23-05-2024 04:10",
         "news_link": "https://sport.republika.co.id/berita/sdx86k328/rehanlisa-ke-perempat-final-malaysia-masters-2024"
     },
     {
         "title": "Indonesia Serukan Kesetaraan Akses Air Bersih di Pulau-Pulau Kecil",
         "category": "Esgnow",
-        "publish_time": "23-05-2024 04:15",
+        "publish_time": "23-05-2024 04:10",
         "news_link": "https://esgnow.republika.co.id/berita/sdx7rf328/indonesia-serukan-kesetaraan-akses-air-bersih-di-pulaupulau-kecil"
     },
     {
         "title": "Kepadatan Lalin Jalur Puncak di Libur Panjang Waisak",
         "category": "Visual",
-        "publish_time": "23-05-2024 04:15",
+        "publish_time": "23-05-2024 04:10",
         "news_link": "https://visual.republika.co.id/berita/sdx7j1375/kepadatan-lalin-jalur-puncak-di-libur-panjang-waisak"
     },
     {
         "title": "Apresiasi,  Satpol PP Depok Tebang Baliho Tak Berizin di Simpang Ramanda Margonda",
         "category": "Network",
-        "publish_time": "23-05-2024 04:15",
+        "publish_time": "23-05-2024 04:10",
         "news_link": "https://ruzka.republika.co.id/news/1674682040/apresiasi-satpol-pp-depok-tebang-baliho-tak-berizin-di-simpang-ramanda-margonda"
     },
     {
         "title": "Gelombang Eropa Dukung Palestina Makin Besar di PBB, Israel Panik",
         "category": "Internasional",
-        "publish_time": "23-05-2024 04:15",
+        "publish_time": "23-05-2024 04:10",
         "news_link": "https://internasional.republika.co.id/berita/sdx7an502/gelombang-eropa-dukung-palestina-makin-besar-di-pbb-israel-panik"
     },
     {
         "title": "Jamaah Haji Makan 27 Kali di Madinah dan 84 Kali di Makkah",
         "category": "Ihram",
-        "publish_time": "23-05-2024 04:15",
+        "publish_time": "23-05-2024 04:10",
         "news_link": "https://ihram.republika.co.id/berita/sdx6yq502/jamaah-haji-makan-27-kali-di-madinah-dan-84-kali-di-makkah"
     },
     {
         "title": "Walhi Gelar Aksi Peduli Lingkungan di Citarum",
         "category": "Network",
-        "publish_time": "23-05-2024 04:15",
+        "publish_time": "23-05-2024 04:10",
         "news_link": "https://bandung24jam.id/posts/308458/walhi-gelar-aksi-peduli-lingkungan-di-citarum"
     },
     {
         "title": "Musim Haji, Hewan Kurban di Lampung Tersedia Lebih",
         "category": "Network",
-        "publish_time": "23-05-2024 04:15",
+        "publish_time": "23-05-2024 04:10",
         "news_link": "https://sumatralink.id/posts/308446/musim-haji-hewan-kurban-di-lampung-tersedia-lebih"
     },
     {
         "title": "Pakar: Vaksin Dengue Solusi Preventif Lindungi Diri dari DBD",
         "category": "Ameera",
-        "publish_time": "23-05-2024 04:15",
+        "publish_time": "23-05-2024 04:10",
         "news_link": "https://ameera.republika.co.id/berita/sdx69k328/pakar-vaksin-dengue-solusi-preventif-lindungi-diri-dari-dbd"
     },
     {
         "title": "Pentingnya Tetap Pakai Sabuk Pengaman Selama di Pesawat",
         "category": "Video",
-        "publish_time": "23-05-2024 03:15",
+        "publish_time": "23-05-2024 04:10",
         "news_link": "https://tv.republika.co.id/berita/sdx6fy467/pentingnya-tetap-pakai-sabuk-pengaman-selama-di-pesawat"
-    },
-    {
-        "title": "Pemerintah Guyur\u00a0Rp\u00a07,27 Triliun Buat\u00a0Subsidi Motor Listrik",
-        "category": "Ekonomi",
-        "publish_time": "23-05-2024 03:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdx62y502/pemerintah-guyurrp727-triliun-buatsubsidi-motor-listrik"
-    },
-    {
-        "title": "Netanyahu: Pengakuan Palestina tidak akan Membawa Perdamaian",
-        "category": "Internasional",
-        "publish_time": "23-05-2024 03:15",
-        "news_link": "https://internasional.republika.co.id/berita/sdx5gb328/netanyahu-pengakuan-palestina-tidak-akan-membawa-perdamaian"
-    },
-    {
-        "title": "Israel Batalkan Serangan Besar ke Rafah Seusai Bicara dengan AS",
-        "category": "Internasional",
-        "publish_time": "23-05-2024 03:15",
-        "news_link": "https://internasional.republika.co.id/berita/sdx4w8328/israel-batalkan-serangan-besar-ke-rafah-seusai-bicara-dengan-as"
-    },
-    {
-        "title": "Bung Karno Ngaku Pelagak, Kok Maunya Naik Kuda Tua dan Jinak Saat Pawai Hari Angkatan Perang?",
-        "category": "Network",
-        "publish_time": "23-05-2024 03:15",
-        "news_link": "https://oohya.republika.co.id/lincak/1744681777/bung-karno-ngaku-pelagak-kok-maunya-naik-kuda-tua-dan-jinak-saat-pawai-hari-angkatan-perang"
-    },
-    {
-        "title": "Pemimpin Global Bahas Pembiayaan Campuran untuk Ketahanan Air dan Iklim",
-        "category": "Esgnow",
-        "publish_time": "23-05-2024 03:15",
-        "news_link": "https://esgnow.republika.co.id/berita/sdx49s328/pemimpin-global-bahas-pembiayaan-campuran-untuk-ketahanan-air-dan-iklim"
-    },
-    {
-        "title": "Benarkah Malaikat Jadi Makhluk Pertama yang Menunaikan Ibadah Haji?",
-        "category": "Islam Digest",
-        "publish_time": "23-05-2024 03:15",
-        "news_link": "https://www.republika.id/posts/52996/benarkah-malaikat-jadi-makhluk-pertama-yang-menunaikan-ibadah-haji"
-    },
-    {
-        "title": "Alasan Neta Luncurkan Lebih Dulu Neta V-II Varian Tertinggi",
-        "category": "Ekonomi",
-        "publish_time": "23-05-2024 03:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdx3nr328/alasan-neta-luncurkan-lebih-dulu-neta-vii-varian-tertinggi"
-    },
-    {
-        "title": "Pejabat Tinggi 68 Negara Hadiri Upacara Penghormatan Bagi Raisi",
-        "category": "Internasional",
-        "publish_time": "23-05-2024 02:15",
-        "news_link": "https://internasional.republika.co.id/berita/sdx36t328/pejabat-tinggi-68-negara-hadiri-upacara-penghormatan-bagi-raisi"
-    },
-    {
-        "title": "Ini Target Pemerintah untuk Populasi Kendaraan Listrik Tahun 2030",
-        "category": "Ekonomi",
-        "publish_time": "23-05-2024 02:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdx32e502/ini-target-pemerintah-untuk-populasi-kendaraan-listrik-tahun-2030"
-    },
-    {
-        "title": "Kuasa Hukum: Korban Dugaan Asusila Ketua KPU Ingin Perjuangkan Nasib",
-        "category": "News",
-        "publish_time": "23-05-2024 02:15",
-        "news_link": "https://news.republika.co.id/berita/sdx2ws328/kuasa-hukum-korban-dugaan-asusila-ketua-kpu-ingin-perjuangkan-nasib"
-    },
-    {
-        "title": "Optimistis Jalani Penugasan Sebagai GovTech Indonesia, Peruri Bawa Spirit Lewat Logo Baru",
-        "category": "Tekno",
-        "publish_time": "23-05-2024 02:15",
-        "news_link": "https://tekno.republika.co.id/berita/sdx2er456/optimistis-jalani-penugasan-sebagai-govtech-indonesia-peruri-bawa-spirit-lewat-logo-baru"
-    },
-    {
-        "title": "Kinerja Jaringan Universitas Hasanuddin Semakin Optimal dengan Pemanfaatan Netmonk Prime",
-        "category": "News",
-        "publish_time": "23-05-2024 02:15",
-        "news_link": "https://news.republika.co.id/berita/sdx2hx349/kinerja-jaringan-universitas-hasanuddin-semakin-optimal-dengan-pemanfaatan-netmonk-prime"
-    },
-    {
-        "title": "Menteri ESDM Tetapkan Harga Acuan untuk Batu Bara dan Mineral Bulan Mei 2024",
-        "category": "Ekonomi",
-        "publish_time": "23-05-2024 02:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdx24f502/menteri-esdm-tetapkan-harga-acuan-untuk-batu-bara-dan-mineral-bulan-mei-2024"
-    },
-    {
-        "title": "WWF 2024: Komitmen dan Langkah Nyata Pertamina Kelola Keberlangsungan Air",
-        "category": "Ekonomi",
-        "publish_time": "23-05-2024 02:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdx20i349/wwf-2024-komitmen-dan-langkah-nyata-pertamina-kelola-keberlangsungan-air"
-    },
-    {
-        "title": "Laufey Tambah Jadwal Tampil di Java Jazz Festival 2024",
-        "category": "Ameera",
-        "publish_time": "23-05-2024 02:15",
-        "news_link": "https://ameera.republika.co.id/berita/sdx1tq328/laufey-tambah-jadwal-tampil-di-java-jazz-festival-2024"
-    },
-    {
-        "title": "Ketua KPU Bantah Tudingan Asusila Perempuan Panitia Pemilu Belanda",
-        "category": "News",
-        "publish_time": "23-05-2024 01:15",
-        "news_link": "https://news.republika.co.id/berita/sdx0u1328/ketua-kpu-bantah-tudingan-asusila-perempuan-panitia-pemilu-belanda"
-    },
-    {
-        "title": "Bawa Atalanta Juara Liga Europa, Gasperini Tergoda Napoli yang Disebutnya 'Wanita Cantik'",
-        "category": "Sport",
-        "publish_time": "23-05-2024 01:15",
-        "news_link": "https://sport.republika.co.id/berita/sdx0oy456/bawa-atalanta-juara-liga-europa-gasperini-tergoda-napoli-yang-disebutnya-wanita-cantik"
-    },
-    {
-        "title": "Mahasiswa Miskin Terakhir yang Boleh Kuliah di Kampus Negeri",
-        "category": "Kolom",
-        "publish_time": "23-05-2024 01:15",
-        "news_link": "https://news.republika.co.id/berita/sdx0c2393/mahasiswa-miskin-terakhir-yang-boleh-kuliah-di-kampus-negeri"
     }
 ]
