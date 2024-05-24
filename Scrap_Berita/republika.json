@@ -1,5 +1,53 @@
 [
     {
+        "title": "BMKG Targetkan Tabur 30 Ton Garam ke Langit di Sekitar Gunung Marapi",
+        "category": "News",
+        "publish_time": "25 May 2024, 06:05",
+        "news_link": "https://news.republika.co.id/berita/sdzvjg366/bmkg-targetkan-tabur-30-ton-garam-ke-langit-di-sekitar-gunung-marapi"
+    },
+    {
+        "title": "Sudirman Said Terang-terangan Siap Maju pada Pilgub Jakarta 2024",
+        "category": "News",
+        "publish_time": "25 May 2024, 06:00",
+        "news_link": "https://news.republika.co.id/berita/se0hxn484/sudirman-said-terangterangan-siap-maju-pada-pilgub-jakarta-2024"
+    },
+    {
+        "title": "KKP-AS Perkuat Kemitraan Pengembangan SDM Kelautan Perikanan",
+        "category": "News",
+        "publish_time": "25 May 2024, 06:00",
+        "news_link": "https://news.republika.co.id/berita/se0glc451/kkpas-perkuat-kemitraan-pengembangan-sdm-kelautan-perikanan"
+    },
+    {
+        "title": "Waduh, Windows Segera Hentikan 3 Aplikasi Ikonik Ini",
+        "category": "Network",
+        "publish_time": "25 May 2024, 05:38",
+        "news_link": "https://impresi.republika.co.id/tangsel/1694688182/waduh-windows-segera-hentikan-3-aplikasi-ikonik-ini"
+    },
+    {
+        "title": "Analisis Pengamat Mengapa Parpol-Parpol Masih Ingin Usung Anies di Pilgub Jakarta",
+        "category": "News",
+        "publish_time": "25 May 2024, 05:34",
+        "news_link": "https://news.republika.co.id/berita/se06nw409/analisis-pengamat-mengapa-parpolparpol-masih-ingin-usung-anies-di-pilgub-jakarta"
+    },
+    {
+        "title": "Selama Jamaah Haji Indonesia di Makkah, Bolehkah Umroh Berkali-kali?",
+        "category": "Ihram",
+        "publish_time": "25 May 2024, 05:30",
+        "news_link": "https://ihram.republika.co.id/berita/sdzwah366/selama-jamaah-haji-indonesia-di-makkah-bolehkah-umroh-berkalikali"
+    },
+    {
+        "title": "Wow, Samsung Galaxy Z FOLD6 Slim Tiba-Tiba Muncul, Begini Spek Detailnya",
+        "category": "Network",
+        "publish_time": "25 May 2024, 05:23",
+        "news_link": "https://impresi.republika.co.id/didaktika/1694688168/wow-samsung-galaxy-z-fold6-slim-tiba-tiba-muncul-begini-spek-detailnya"
+    },
+    {
+        "title": "KKP Pastikan Kesiapan Penjaminan Mutu Hulu Hilir",
+        "category": "Ekonomi",
+        "publish_time": "25 May 2024, 05:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/se0ggm451/kkp-pastikan-kesiapan-penjaminan-mutu-hulu-hilir"
+    },
+    {
         "title": "World Water Forum, ICW Ingatkan Korupsi Tata Kelola Air di Indonesia",
         "category": "News",
         "publish_time": "25 May 2024, 05:08",
@@ -18,10 +66,10 @@
         "news_link": "https://ihram.republika.co.id/berita/sdzuqt366/alhamdulillah-392-calon-jamaah-haji-kloter-10-ntb-tiba-di-tanah-suci"
     },
     {
-        "title": "Alami Cyberbullying, Mengapa Anak Seharusnya tak Membalas Komentar Jahat di Media Sosial?",
+        "title": "Jadi Korban Cyberbullying, Mengapa Anak Harus Hindari Balas Komen Jahat di Media Sosial?",
         "category": "Ameera",
         "publish_time": "25 May 2024, 05:04",
-        "news_link": "https://ameera.republika.co.id/berita/sdzz7w414/alami-cyberbullying-mengapa-anak-seharusnya-tak-membalas-komentar-jahat-di-media-sosial"
+        "news_link": "https://ameera.republika.co.id/berita/sdzz7w414/jadi-korban-cyberbullying-mengapa-anak-harus-hindari-balas-komen-jahat-di-media-sosial"
     },
     {
         "title": "Apa Itu Smart Card yang Wajib Dipakai Jamaah Haji Selama di Tanah Suci",
@@ -250,53 +298,5 @@
         "category": "Ameera",
         "publish_time": "24 May 2024, 22:33",
         "news_link": "https://ameera.republika.co.id/berita/sdzxvm425/menparekraf-apresiasi-bni-java-jazz-yang-siap-daur-ulang-sampah-selama-festival"
-    },
-    {
-        "title": "Jakbar Police Officers Visited Home of Ustaz Saidi Who was Stabbed While Praying",
-        "category": "En",
-        "publish_time": "Friday, 24 May 2024, 22:32",
-        "news_link": "https://en.republika.co.id/berita/sdziea451/jakbar-police-officers-visited-home-of-ustaz-saidi-who-was-stabbed-while-praying"
-    },
-    {
-        "title": "Sleman Berangkatkan Kloter Pertama Calon Jamaah Haji",
-        "category": "News",
-        "publish_time": "24 May 2024, 22:21",
-        "news_link": "https://news.republika.co.id/berita/sdzwuj456/sleman-berangkatkan-kloter-pertama-calon-jamaah-haji"
-    },
-    {
-        "title": "Resmi Ditutup, Indonesia Serahkan Estafet World Water Forum 11 ke Arab Saudi",
-        "category": "Ekonomi",
-        "publish_time": "24 May 2024, 22:20",
-        "news_link": "https://ekonomi.republika.co.id/berita/sdzxag349/resmi-ditutup-indonesia-serahkan-estafet-world-water-forum-11-ke-arab-saudi"
-    },
-    {
-        "title": "Sorong City Announces 234 Candidates for Hajj of this Year",
-        "category": "En",
-        "publish_time": "Friday, 24 May 2024, 22:15",
-        "news_link": "https://en.republika.co.id/berita/sdzj6p451/sorong-city-announces-234-candidates-for-hajj-of-this-year"
-    },
-    {
-        "title": "Istana: Presiden tak dalam Posisi Menanggapi Pidato Megawati",
-        "category": "News",
-        "publish_time": "24 May 2024, 22:13",
-        "news_link": "https://news.republika.co.id/berita/sdzwyp377/istana-presiden-tak-dalam-posisi-menanggapi-pidato-megawati"
-    },
-    {
-        "title": "Dapat Hibah Dana UEA, Dispora Solo akan Lanjutkan Pembangunan di Tiga Lokasi Ini",
-        "category": "News",
-        "publish_time": "24 May 2024, 22:12",
-        "news_link": "https://news.republika.co.id/berita/sdzwx4349/dapat-hibah-dana-uea-dispora-solo-akan-lanjutkan-pembangunan-di-tiga-lokasi-ini"
-    },
-    {
-        "title": "Operasi SAR Medevac Kru Kapal Panama",
-        "category": "Visual",
-        "publish_time": "24 May 2024, 22:10",
-        "news_link": "https://visual.republika.co.id/berita/sdzt73491/operasi-sar-medevac-kru-kapal-panama"
-    },
-    {
-        "title": "Bersiap Hadapi Olimpiade, Lifter Indonesia Konsisten Atur Jam Tidur",
-        "category": "Sport",
-        "publish_time": "24 May 2024, 22:09",
-        "news_link": "https://sport.republika.co.id/berita/sdzwra456/bersiap-hadapi-olimpiade-lifter-indonesia-konsisten-atur-jam-tidur"
     }
 ]
