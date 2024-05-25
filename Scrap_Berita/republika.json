@@ -1,5 +1,53 @@
 [
     {
+        "title": "Penerbangan Haji Bermasalah, Menhub Tindak Tegas Garuda Indonesia",
+        "category": "Ekonomi",
+        "publish_time": "25 May 2024, 11:04",
+        "news_link": "https://ekonomi.republika.co.id/berita/se0wnh370/penerbangan-haji-bermasalah-menhub-tindak-tegas-garuda-indonesia"
+    },
+    {
+        "title": "Kilang Pertamina Balikpapan yang Terbakar Sudah Dipadamkan",
+        "category": "News",
+        "publish_time": "25 May 2024, 10:57",
+        "news_link": "https://news.republika.co.id/berita/se0wcj484/kilang-pertamina-balikpapan-yang-terbakar-sudah-dipadamkan"
+    },
+    {
+        "title": "Bantu Korban Banjir Sumbar, Baznas RI Lakukan Aksi Resik dan Distribusi Air Bersih",
+        "category": "Khazanah",
+        "publish_time": "25 May 2024, 10:53",
+        "news_link": "https://khazanah.republika.co.id/berita/se0w4r423/bantu-korban-banjir-sumbar-baznas-ri-lakukan-aksi-resik-dan-distribusi-air-bersih"
+    },
+    {
+        "title": "Tesla Bangun Pabrik Baterai di Shanghai Meski Ketegangan AS-China Meningkat",
+        "category": "Ekonomi",
+        "publish_time": "25 May 2024, 10:32",
+        "news_link": "https://ekonomi.republika.co.id/berita/se0v5v370/tesla-bangun-pabrik-baterai-di-shanghai-meski-ketegangan-aschina-meningkat"
+    },
+    {
+        "title": "Kurban di Dompet Dhuafa, Dorong Berdayakan Peternak di Seluruh Indonesia",
+        "category": "Khazanah",
+        "publish_time": "25 May 2024, 10:21",
+        "news_link": "https://khazanah.republika.co.id/berita/se0uns423/kurban-di-dompet-dhuafa-dorong-berdayakan-peternak-di-seluruh-indonesia"
+    },
+    {
+        "title": "FUJIFILM Luncurkan Dua Kamera Digital Mirrorless dan Dua Lensa Terbaru di Indonesia",
+        "category": "Tekno",
+        "publish_time": "25 May 2024, 10:20",
+        "news_link": "https://tekno.republika.co.id/berita/se0ulh370/fujifilm-luncurkan-dua-kamera-digital-mirrorless-dan-dua-lensa-terbaru-di-indonesia"
+    },
+    {
+        "title": "Basarnas Evakuasi Warga Negara Filipina Alami Kecelakaan di Kapal",
+        "category": "News",
+        "publish_time": "25 May 2024, 10:19",
+        "news_link": "https://news.republika.co.id/berita/se0uk1451/basarnas-evakuasi-warga-negara-filipina-alami-kecelakaan-di-kapal"
+    },
+    {
+        "title": "Harga Emas Antam Stabil Rp 1,325 Juta per Gram",
+        "category": "Ekonomi",
+        "publish_time": "25 May 2024, 10:13",
+        "news_link": "https://ekonomi.republika.co.id/berita/se0ub1370/harga-emas-antam-stabil-rp-1325-juta-per-gram"
+    },
+    {
         "title": "Keberangkatan Jamaah Calon Haji Papua Barat Daya",
         "category": "Visual",
         "publish_time": "25 May 2024, 10:13",
@@ -250,53 +298,5 @@
         "category": "Sport",
         "publish_time": "25 May 2024, 06:30",
         "news_link": "https://sport.republika.co.id/berita/se0jye370/martin-dan-aleix-espargaro-bergantian-pimpin-hari-pertama-gp-catalunya"
-    },
-    {
-        "title": "BNPB: Tidak Ada Korban Jiwa dari Banjir di Manokwari",
-        "category": "News",
-        "publish_time": "25 May 2024, 06:30",
-        "news_link": "https://news.republika.co.id/berita/se0gwx451/bnpb-tidak-ada-korban-jiwa-dari-banjir-di-manokwari"
-    },
-    {
-        "title": "China Bagian Utara Bersiap Hadapi Musim Panas yang Dingin",
-        "category": "Tekno",
-        "publish_time": "25 May 2024, 06:22",
-        "news_link": "https://tekno.republika.co.id/berita/se0jl3370/china-bagian-utara-bersiap-hadapi-musim-panas-yang-dingin"
-    },
-    {
-        "title": "10 SMA Terbaik di Jabodetabek, Pilihan untuk PPDB 2024",
-        "category": "Network",
-        "publish_time": "25 May 2024, 06:21",
-        "news_link": "https://kampus.republika.co.id/info-kampus/1624688234/10-sma-terbaik-di-jabodetabek-pilihan-untuk-ppdb-2024"
-    },
-    {
-        "title": "Rekernas Pertama Tanpa Jokowi, PDIP Bahas 3 Hal",
-        "category": "News",
-        "publish_time": "25 May 2024, 06:15",
-        "news_link": "https://news.republika.co.id/berita/se0gpi451/rekernas-pertama-tanpa-jokowi-pdip-bahas-3-hal"
-    },
-    {
-        "title": "World Water Forum ke-10 Resmi Ditutup, Ini Deretan Hasilnya",
-        "category": "News",
-        "publish_time": "25 May 2024, 06:14",
-        "news_link": "https://news.republika.co.id/berita/se0ify484/world-water-forum-ke10-resmi-ditutup-ini-deretan-hasilnya"
-    },
-    {
-        "title": "BMKG Targetkan Tabur 30 Ton Garam ke Langit di Sekitar Gunung Marapi",
-        "category": "News",
-        "publish_time": "25 May 2024, 06:05",
-        "news_link": "https://news.republika.co.id/berita/sdzvjg366/bmkg-targetkan-tabur-30-ton-garam-ke-langit-di-sekitar-gunung-marapi"
-    },
-    {
-        "title": "Sudirman Said Terang-terangan Siap Maju pada Pilgub Jakarta 2024",
-        "category": "News",
-        "publish_time": "25 May 2024, 06:00",
-        "news_link": "https://news.republika.co.id/berita/se0hxn484/sudirman-said-terangterangan-siap-maju-pada-pilgub-jakarta-2024"
-    },
-    {
-        "title": "KKP-AS Perkuat Kemitraan Pengembangan SDM Kelautan Perikanan",
-        "category": "News",
-        "publish_time": "25 May 2024, 06:00",
-        "news_link": "https://news.republika.co.id/berita/se0glc451/kkpas-perkuat-kemitraan-pengembangan-sdm-kelautan-perikanan"
     }
 ]
