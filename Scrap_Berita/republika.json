@@ -1,5 +1,77 @@
 [
     {
+        "title": "Dosen UNM Beri Pelatihan Pembuatan Database Pada Pengurus PKK Cibubur",
+        "category": "News",
+        "publish_time": "26 May 2024, 15:10",
+        "news_link": "https://news.republika.co.id/berita/se2zuc463/dosen-unm-beri-pelatihan-pembuatan-database-pada-pengurus-pkk-cibubur"
+    },
+    {
+        "title": "Puan: Demokrasi Indonesia Membutuhkan Kontrol dan Penyeimbang",
+        "category": "News",
+        "publish_time": "26 May 2024, 15:10",
+        "news_link": "https://news.republika.co.id/berita/se32fv436/puan-demokrasi-indonesia-membutuhkan-kontrol-dan-penyeimbang"
+    },
+    {
+        "title": "DPR:\u00a0BNI Java Jazz\u00a0Jadi\u00a0Sarana Edukasi Keuangan Anak Muda",
+        "category": "Ekonomi",
+        "publish_time": "26 May 2024, 15:04",
+        "news_link": "https://ekonomi.republika.co.id/berita/se32ff502/dprbni-java-jazzjadisarana-edukasi-keuangan-anak-muda"
+    },
+    {
+        "title": "Rakernas PDIP Mohon Kesediaan Megawati Jadi Ketum Periode 2025-2030",
+        "category": "News",
+        "publish_time": "26 May 2024, 15:00",
+        "news_link": "https://news.republika.co.id/berita/se328l436/rakernas-pdip-mohon-kesediaan-megawati-jadi-ketum-periode-20252030"
+    },
+    {
+        "title": "Hasil Rakernas V PDIP: Pemilu 2024 Adalah Paling Buruk dalam Sejarah Demokrasi Indonesia",
+        "category": "News",
+        "publish_time": "26 May 2024, 14:55",
+        "news_link": "https://news.republika.co.id/berita/se3201436/hasil-rakernas-v-pdip-pemilu-2024-adalah-paling-buruk-dalam-sejarah-demokrasi-indonesia"
+    },
+    {
+        "title": "Polda Jabar Revisi Jumlah DPO Pembunuhan Vina dari Tiga Jadi Satu Orang, Mengapa?",
+        "category": "News",
+        "publish_time": "26 May 2024, 14:51",
+        "news_link": "https://news.republika.co.id/berita/se31t3436/polda-jabar-revisi-jumlah-dpo-pembunuhan-vina-dari-tiga-jadi-satu-orang-mengapa"
+    },
+    {
+        "title": "OJK Dorong UMKM dan Pariwisata Jadi Pilar Utama Ekonomi Nasional",
+        "category": "Ekonomi",
+        "publish_time": "26 May 2024, 14:48",
+        "news_link": "https://ekonomi.republika.co.id/berita/se31ox502/ojk-dorong-umkm-dan-pariwisata-jadi-pilar-utama-ekonomi-nasional"
+    },
+    {
+        "title": "Manfaat Tanaman Herbal untuk Obat Tambahan Diabetes",
+        "category": "Ameera",
+        "publish_time": "26 May 2024, 14:43",
+        "news_link": "https://ameera.republika.co.id/berita/se31gc502/manfaat-tanaman-herbal-untuk-obat-tambahan-diabetes"
+    },
+    {
+        "title": "Surat Alquran Ini akan Membuat Anggota Tubuh Bersaksi Cegah Siksa dari Pembacanya",
+        "category": "Iqra",
+        "publish_time": "26 May 2024, 14:31",
+        "news_link": "https://iqra.republika.co.id/berita/se30wl320/surat-alquran-ini-akan-membuat-anggota-tubuh-bersaksi-cegah-siksa-dari-pembacanya"
+    },
+    {
+        "title": "Peningkatan Jumlah Wisatawan di Kawasan Gunung Bromo pada Momen Libur Panjang Waisak",
+        "category": "Visual",
+        "publish_time": "26 May 2024, 14:30",
+        "news_link": "https://visual.republika.co.id/berita/se2zps375/peningkatan-jumlah-wisatawan-di-kawasan-gunung-bromo-pada-momen-libur-panjang-waisak"
+    },
+    {
+        "title": "BRI Berikan Promo Menarik di Alun Alun Indonesia, Voucher Hingga Diskon Hingga 50 Persen",
+        "category": "Ekonomi",
+        "publish_time": "26 May 2024, 14:18",
+        "news_link": "https://ekonomi.republika.co.id/berita/se30ay463/bri-berikan-promo-menarik-di-alun-alun-indonesia-voucher-hingga-diskon-hingga-50-persen"
+    },
+    {
+        "title": "Mendagri Perintahkan Pemda Wajib Libatkan PWI dalam Sosialisasi Pilkada Serentak 2024",
+        "category": "Network",
+        "publish_time": "26 May 2024, 14:12",
+        "news_link": "https://ruzka.republika.co.id/nasional/1674691948/mendagri-perintahkan-pemda-wajib-libatkan-pwi-dalam-sosialisasi-pilkada-serentak-2024"
+    },
+    {
         "title": "UNM Gelar Sosialisasi Kampus Mengajar Angkatan ke-8 Tahun 2024",
         "category": "News",
         "publish_time": "26 May 2024, 14:10",
@@ -12,10 +84,10 @@
         "news_link": "https://news.republika.co.id/berita/se2zo0409/polisi-sebut-orang-tua-pegi-terlibat-di-kasus-pembunuhan-vina-ini-dugaan-perannya"
     },
     {
-        "title": "3 Negara Mayoritas Islam Non Arab Ini Dukung Penuh Putusan Mahkamah Internasional",
+        "title": "3 Negara Mayoritas Islam Non Arab Ini Dukung Putusan Mahkamah Internasional Terkait Israel",
         "category": "Khazanah",
         "publish_time": "26 May 2024, 14:03",
-        "news_link": "https://khazanah.republika.co.id/berita/se2zlo320/3-negara-mayoritas-islam-non-arab-ini-dukung-penuh-putusan-mahkamah-internasional"
+        "news_link": "https://khazanah.republika.co.id/berita/se2zlo320/3-negara-mayoritas-islam-non-arab-ini-dukung-putusan-mahkamah-internasional-terkait-israel"
     },
     {
         "title": "Penampakan Sosok Pegi Setiawan, Terduga Pelaku Kasus Pembunuhan Vina Cirebon",
@@ -226,77 +298,5 @@
         "category": "Khazanah",
         "publish_time": "26 May 2024, 10:12",
         "news_link": "https://khazanah.republika.co.id/berita/se2owa320/minoritas-kristen-pakistan-kembali-alami-intimidasi-hingga-kekerasan"
-    },
-    {
-        "title": "Anjing Meme Viral Kabosu Dikabarkan Mati, Ternyata Punya Kisah Kelam di Hidupnya",
-        "category": "Ameera",
-        "publish_time": "26 May 2024, 10:05",
-        "news_link": "https://ameera.republika.co.id/berita/se2okn425/anjing-meme-viral-kabosu-dikabarkan-mati-ternyata-punya-kisah-kelam-di-hidupnya"
-    },
-    {
-        "title": "Mahasiswa INU Tasikmalaya Gelar Pameran Foto dan Nobar Film",
-        "category": "Network",
-        "publish_time": "26 May 2024, 09:54",
-        "news_link": "https://kampus.republika.co.id/news/1624691257/mahasiswa-inu-tasikmalaya-gelar-pameran-foto-dan-nobar-film"
-    },
-    {
-        "title": "Gemuruh Fans Sambut Penampilan Laufey di BNI Java Jazz Festival",
-        "category": "Ameera",
-        "publish_time": "26 May 2024, 09:33",
-        "news_link": "https://ameera.republika.co.id/berita/se2n3j425/gemuruh-fans-sambut-penampilan-laufey-di-bni-java-jazz-festival"
-    },
-    {
-        "title": "Mau Bebaskan Sandera, Tentara Israel Malah Ditawan Pejuang Palestina",
-        "category": "Internasional",
-        "publish_time": "26 May 2024, 09:27",
-        "news_link": "https://internasional.republika.co.id/berita/se2mtb393/mau-bebaskan-sandera-tentara-israel-malah-ditawan-pejuang-palestina"
-    },
-    {
-        "title": "Kementerian BUMN: Penjaminan Kredit UMKM Dapat Tarik Investor",
-        "category": "Ekonomi",
-        "publish_time": "26 May 2024, 09:24",
-        "news_link": "https://ekonomi.republika.co.id/berita/se2mpd490/kementerian-bumn-penjaminan-kredit-umkm-dapat-tarik-investor"
-    },
-    {
-        "title": "Soal Jadi Ketum PDIP Gantikan Megawati, Puan: Berdoa Saja, Insya Allah",
-        "category": "News",
-        "publish_time": "26 May 2024, 09:07",
-        "news_link": "https://news.republika.co.id/berita/se2lw3436/soal-jadi-ketum-pdip-gantikan-megawati-puan-berdoa-saja-insya-allah"
-    },
-    {
-        "title": "Band Korea CNBLUE Tuntaskan Rindu dengan Penggemar di Indonesia",
-        "category": "Ameera",
-        "publish_time": "26 May 2024, 08:36",
-        "news_link": "https://ameera.republika.co.id/berita/se2kha425/band-korea-cnblue-tuntaskan-rindu-dengan-penggemar-di-indonesia"
-    },
-    {
-        "title": "Kementan Ajak UMKM Jeli Lihat Potensi Bisnis Pangan",
-        "category": "Ekonomi",
-        "publish_time": "26 May 2024, 08:32",
-        "news_link": "https://ekonomi.republika.co.id/berita/se2kar490/kementan-ajak-umkm-jeli-lihat-potensi-bisnis-pangan"
-    },
-    {
-        "title": "Tiga Wisatawan Terseret Ombak di Pantai Parangtritis",
-        "category": "Rejogja",
-        "publish_time": "26 May 2024, 08:21",
-        "news_link": "https://rejogja.republika.co.id/berita/se2jrh291/tiga-wisatawan-terseret-ombak-di-pantai-parangtritis"
-    },
-    {
-        "title": "15 Jamaah Haji Indonesia Wafat, Keseluruhannya Masuk Kategori Risti",
-        "category": "Ihram",
-        "publish_time": "26 May 2024, 08:18",
-        "news_link": "https://ihram.republika.co.id/berita/se2jn6320/15-jamaah-haji-indonesia-wafat-keseluruhannya-masuk-kategori-risti"
-    },
-    {
-        "title": "Tiga Aliran Musik Diramu Dinamis oleh Scatter The Atoms That remain",
-        "category": "Visual",
-        "publish_time": "26 May 2024, 08:15",
-        "news_link": "https://visual.republika.co.id/berita/se1z0r491/tiga-aliran-musik-diramu-dinamis-oleh-scatter-the-atoms-that-remain"
-    },
-    {
-        "title": "Seribu Lebih Calon Jamaah Haji di Bantul Mulai Diberangkatkan",
-        "category": "Rejogja",
-        "publish_time": "26 May 2024, 08:14",
-        "news_link": "https://rejogja.republika.co.id/berita/se2jg7291/seribu-lebih-calon-jamaah-haji-di-bantul-mulai-diberangkatkan"
     }
 ]
