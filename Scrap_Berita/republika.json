@@ -1,98 +1,242 @@
 [
     {
+        "title": "Warga Kembali Desak Pemekaran di Wilayah Bogor Timur",
+        "category": "Rejabar",
+        "publish_time": "27-05-2024 08:13",
+        "news_link": "https://rejabar.republika.co.id/berita/se4xiw291/warga-kembali-desak-pemekaran-di-wilayah-bogor-timur"
+    },
+    {
+        "title": "Usai Bertemu Jokowi, Menteri Nadiem Umumkan UKT Batal Naik",
+        "category": "News",
+        "publish_time": "27-05-2024 08:13",
+        "news_link": "https://news.republika.co.id/berita/se4xiu484/usai-bertemu-jokowi-menteri-nadiem-umumkan-ukt-batal-naik"
+    },
+    {
+        "title": "Tok! Pemerintah Batalkan Kenaikan UKT Tahun Ini",
+        "category": "News",
+        "publish_time": "27-05-2024 08:11",
+        "news_link": "https://news.republika.co.id/berita/se4xfv377/tok-pemerintah-batalkan-kenaikan-ukt-tahun-ini"
+    },
+    {
+        "title": "Anggota Densus Buntuti Jampidsus, Komisi III DPR: Banyak Spekulasi Muncul Bak Kasus Sambo",
+        "category": "News",
+        "publish_time": "27-05-2024 08:07",
+        "news_link": "https://news.republika.co.id/berita/se4x8t377/anggota-densus-buntuti-jampidsus-komisi-iii-dpr-banyak-spekulasi-muncul-bak-kasus-sambo"
+    },
+    {
+        "title": "Transjakarta Buka Rute Stasiun Klender-Pulogadung Lewat JIEP",
+        "category": "News",
+        "publish_time": "27-05-2024 08:05",
+        "news_link": "https://news.republika.co.id/berita/se4x5d484/transjakarta-buka-rute-stasiun-klenderpulogadung-lewat-jiep"
+    },
+    {
+        "title": "Heechul Super Junior Beri Kejutan Mengharukan di Pernikahan Ryeowook",
+        "category": "Ameera",
+        "publish_time": "27-05-2024 08:04",
+        "news_link": "https://ameera.republika.co.id/berita/se4x3r425/heechul-super-junior-beri-kejutan-mengharukan-di-pernikahan-ryeowook"
+    },
+    {
+        "title": "Bea Cukai Ambon Layani Ekspor Pala Maluku yang Nilainya Tembus Rp 1,4 Miliar",
+        "category": "Beacukai",
+        "publish_time": "27-05-2024 08:02",
+        "news_link": "https://republika.co.id/berita/se4x0t349/bea-cukai-ambon-layani-ekspor-pala-maluku-yang-nilainya-tembus-rp-14-miliar"
+    },
+    {
+        "title": "Polisi: Tak Ada Anak Pejabat Terlibat Pembunuhan Vina",
+        "category": "News",
+        "publish_time": "27-05-2024 08:00",
+        "news_link": "https://news.republika.co.id/berita/se4wx0377/polisi-tak-ada-anak-pejabat-terlibat-pembunuhan-vina"
+    },
+    {
+        "title": "Relawan Kombatan Datangi Markas PKS, Minta Usung Anies pada Pilkada Jakarta 2024",
+        "category": "News",
+        "publish_time": "27-05-2024 07:58",
+        "news_link": "https://news.republika.co.id/berita/se4wtb484/relawan-kombatan-datangi-markas-pks-minta-usung-anies-pada-pilkada-jakarta-2024"
+    },
+    {
+        "title": "Rumah Zakat Gelar \"A Day to Shine and Smile\" di Trans Studio Bandung",
+        "category": "Khazanah",
+        "publish_time": "27-05-2024 07:54",
+        "news_link": "https://khazanah.republika.co.id/berita/se4wnq349/rumah-zakat-gelar-a-day-to-shine-and-smile-di-trans-studio-bandung"
+    },
+    {
+        "title": "DPK di Perbankan Tumbuh 8,21 Persen, Kredit untuk UMKM Diharapkan Meningkat",
+        "category": "Ekonomi",
+        "publish_time": "27-05-2024 07:53",
+        "news_link": "https://ekonomi.republika.co.id/berita/se4wm5487/dpk-di-perbankan-tumbuh-821-persen-kredit-untuk-umkm-diharapkan-meningkat"
+    },
+    {
+        "title": "Hadirkan GovTech, Misi RI Percepat Integrasi Beragam Layanan",
+        "category": "Ekonomi",
+        "publish_time": "27-05-2024 07:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/se4wg5490/hadirkan-govtech-misi-ri-percepat-integrasi-beragam-layanan"
+    },
+    {
+        "title": "Rombongan Jamaah Haji Kabupaten Labuhanbatu Gunakan Kereta Api Luar Biasa",
+        "category": "Network",
+        "publish_time": "27-05-2024 07:44",
+        "news_link": "https://kreta.id/posts/309223/rombongan-jamaah-haji-kabupaten-labuhanbatu-gunakan-kereta-api-luar-biasa"
+    },
+    {
+        "title": "KAI Catat Lonjakan Penumpang 23 Persen pada Periode Long Weekend Waisak",
+        "category": "Network",
+        "publish_time": "27-05-2024 07:43",
+        "news_link": "https://kreta.id/posts/309219/kai-catat-lonjakan-penumpang-23-persen-pada-periode-long-weekend-waisak"
+    },
+    {
+        "title": "Diluncurkan Jokowi, Erick: GovTech Akselerasi Pelayanan Pemerintah",
+        "category": "Ekonomi",
+        "publish_time": "27-05-2024 07:35",
+        "news_link": "https://ekonomi.republika.co.id/berita/se4vr2490/diluncurkan-jokowi-erick-govtech-akselerasi-pelayanan-pemerintah"
+    },
+    {
+        "title": "Kobbie Mainoo, Perayaan Gelar Piala FA, dan Pemain Muslim MU",
+        "category": "Sport",
+        "publish_time": "27-05-2024 07:32",
+        "news_link": "https://sport.republika.co.id/berita/se4vmz348/kobbie-mainoo-perayaan-gelar-piala-fa-dan-pemain-muslim-mu"
+    },
+    {
+        "title": "Berapa Tahun Manusia Tidur? Ini Perhitungan Imam Ghazali dan Caranya Agar Jadi Ibadah",
+        "category": "Islam Digest",
+        "publish_time": "27-05-2024 07:32",
+        "news_link": "https://islamdigest.republika.co.id/berita/se4vm5320/berapa-tahun-manusia-tidur-ini-perhitungan-imam-ghazali-dan-caranya-agar-jadi-ibadah"
+    },
+    {
+        "title": "Ayah Sherlina Berharap Ketiga Tersangka Pembunuh Putrinya Dihukum Seberat-beratnya",
+        "category": "News",
+        "publish_time": "27-05-2024 07:30",
+        "news_link": "https://news.republika.co.id/berita/se4uzz436/ayah-sherlina-berharap-ketiga-tersangka-pembunuh-putrinya-dihukum-seberatberatnya"
+    },
+    {
+        "title": "Israel Olok-olok Spanyol Buntut Aku Palestina, Menlu Albares: Memalukan dan Tercela",
+        "category": "Internasional",
+        "publish_time": "27-05-2024 07:27",
+        "news_link": "https://internasional.republika.co.id/berita/se4ve8320/israel-olokolok-spanyol-buntut-aku-palestina-menlu-albares-memalukan-dan-tercela"
+    },
+    {
+        "title": "Menengok Museum Maritim Pertama di Negeri Tirai Bambu",
+        "category": "Internasional",
+        "publish_time": "27-05-2024 07:25",
+        "news_link": "https://internasional.republika.co.id/berita/se4q11488/menengok-museum-maritim-pertama-di-negeri-tirai-bambu"
+    },
+    {
+        "title": "PRNU RJB Akan Maksimalkan Potensi Warga Nahdliyyin",
+        "category": "Network",
+        "publish_time": "27-05-2024 07:24",
+        "news_link": "https://sajada.id/posts/309227/prnu-rjb-akan-maksimalkan-potensi-warga-nahdliyyin"
+    },
+    {
+        "title": "Terima Nota Keberatan Mantan Hakim Agung, Hakim Minta Gazalba Saleh Dibebaskan",
+        "category": "News",
+        "publish_time": "27-05-2024 07:23",
+        "news_link": "https://news.republika.co.id/berita/se4ut4436/terima-nota-keberatan-mantan-hakim-agung-hakim-minta-gazalba-saleh-dibebaskan"
+    },
+    {
+        "title": "Pemimpin Jepang, Cina dan Korsel Akan Bertemu Hari Ini",
+        "category": "Internasional",
+        "publish_time": "27-05-2024 07:14",
+        "news_link": "https://internasional.republika.co.id/berita/se4pj9488/pemimpin-jepang-cina-dan-korsel-akan-bertemu-hari-ini"
+    },
+    {
         "title": "Dua Belas Orang Terluka Akibat Turbulensi di Qatar Airways",
         "category": "Internasional",
-        "publish_time": "27-05-2024 07:11",
+        "publish_time": "27-05-2024 07:14",
         "news_link": "https://internasional.republika.co.id/berita/se4p8d488/dua-belas-orang-terluka-akibat-turbulensi-di-qatar-airways"
+    },
+    {
+        "title": "Lewat Aplikasi Kawal Haji, Jamaah Bisa Laporan Langsung Masalah di Tanah Suci",
+        "category": "Ihram",
+        "publish_time": "27-05-2024 07:14",
+        "news_link": "https://ihram.republika.co.id/berita/se4ue6430/lewat-aplikasi-kawal-haji-jamaah-bisa-laporan-langsung-masalah-di-tanah-suci"
     },
     {
         "title": "Terungkap, Korban Sempat Diracun Hingga Dicekik dalam Kasus Pembunuhan di Sukoharjo",
         "category": "News",
-        "publish_time": "27-05-2024 07:09",
+        "publish_time": "27-05-2024 07:14",
         "news_link": "https://news.republika.co.id/berita/se4ul9436/terungkap-korban-sempat-diracun-hingga-dicekik-dalam-kasus-pembunuhan-di-sukoharjo"
     },
     {
         "title": "Jawaban Mengapa Tidur Disebutkan Alquran dan Persamaannya dengan Kematian",
         "category": "Iqra",
-        "publish_time": "27-05-2024 07:01",
+        "publish_time": "27-05-2024 07:14",
         "news_link": "https://iqra.republika.co.id/berita/se4u73320/jawaban-mengapa-tidur-disebutkan-alquran-dan-persamaannya-dengan-kematian"
     },
     {
         "title": "AS Dorong Pengembangan Rantai Pasok Mobil Listrik di Kawasan Tenggara",
         "category": "Video",
-        "publish_time": "27-05-2024 06:59",
+        "publish_time": "27-05-2024 07:14",
         "news_link": "https://tv.republika.co.id/berita/se4u3p467/as-dorong-pengembangan-rantai-pasok-mobil-listrik-di-kawasan-tenggara"
     },
     {
         "title": "Rahasia Asmaul Husna Al-Quddus dan 3 Hikmah yang Bisa Diambil",
         "category": "Islam Digest",
-        "publish_time": "27-05-2024 06:55",
+        "publish_time": "27-05-2024 07:14",
         "news_link": "https://islamdigest.republika.co.id/berita/se4twp320/rahasia-asmaul-husna-alquddus-dan-3-hikmah-yang-bisa-diambil"
     },
     {
         "title": "Presiden Jokowi Panggil Nadiem ke Istana di Tengah Isu Kenaikan UKT",
         "category": "News",
-        "publish_time": "27-05-2024 06:54",
+        "publish_time": "27-05-2024 07:14",
         "news_link": "https://news.republika.co.id/berita/se4tw1377/presiden-jokowi-panggil-nadiem-ke-istana-di-tengah-isu-kenaikan-ukt"
     },
     {
         "title": "Tujuh Pelaku Sindikat Pencurian Bermodus Fogging Beraksi di Cirebon Berhasil Diamankan",
         "category": "Rejabar",
-        "publish_time": "27-05-2024 06:53",
+        "publish_time": "27-05-2024 07:14",
         "news_link": "https://rejabar.republika.co.id/berita/se4tta512/tujuh-pelaku-sindikat-pencurian-bermodus-fogging-beraksi-di-cirebon-berhasil-diamankan"
     },
     {
         "title": "Kesaksian Kuat Orang-Orang Dekat: Pegi di Bandung Saat Pembunuhan Vina",
         "category": "News",
-        "publish_time": "27-05-2024 06:42",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://www.republika.id/posts/53065/kesaksian-kuat-orang-orang-dekat-pegi-di-bandung-saat-pembunuhan-vina"
     },
     {
         "title": "Aksi Tolak RUU Penyiaran di Depan Gedung DPR",
         "category": "Visual",
-        "publish_time": "27-05-2024 06:42",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://visual.republika.co.id/berita/se4tbq375/aksi-tolak-ruu-penyiaran-di-depan-gedung-dpr"
     },
     {
         "title": "Gubernur Kalteng Pimpin Upacara Hari Jadi Ke-67 Provinsi Kalteng",
         "category": "News",
-        "publish_time": "27-05-2024 06:33",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://news.republika.co.id/berita/se4swt349/gubernur-kalteng-pimpin-upacara-hari-jadi-ke67-provinsi-kalteng"
     },
     {
         "title": "Lapangan Kerja Terbatas di Subang, Penyebab Warga Memilih Jadi Pekerja Migran",
         "category": "Rejabar",
-        "publish_time": "27-05-2024 06:33",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://rejabar.republika.co.id/berita/se4swk512/lapangan-kerja-terbatas-di-subang-penyebab-warga-memilih-jadi-pekerja-migran"
     },
     {
         "title": "Legislator Minta Kejagung dan Polri Segera Jelaskan Kasus Densus Buntuti Jampidsus",
         "category": "News",
-        "publish_time": "27-05-2024 06:28",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://news.republika.co.id/berita/se4sf4484/legislator-minta-kejagung-dan-polri-segera-jelaskan-kasus-densus-buntuti-jampidsus"
     },
     {
         "title": "Polres Sukoharjo Gelar Rekonstruksi 27 Adegan Kasus Pembunuhan di Polokarto",
         "category": "News",
-        "publish_time": "27-05-2024 06:27",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://news.republika.co.id/berita/se4se5436/polres-sukoharjo-gelar-rekonstruksi-27-adegan-kasus-pembunuhan-di-polokarto"
     },
     {
         "title": "Houthi Bebaskan Lebih dari 100 Narapidana",
         "category": "Internasional",
-        "publish_time": "27-05-2024 06:20",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://internasional.republika.co.id/berita/se4pr0488/houthi-bebaskan-lebih-dari-100-narapidana"
     },
     {
         "title": "Kesaksian Pemilik Kontrakan: Saat Pembunuhan Vina, Pegi Kerja di Rancamanyar",
         "category": "News",
-        "publish_time": "27-05-2024 06:19",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://news.republika.co.id/berita/se4s8g436/kesaksian-pemilik-kontrakan-saat-pembunuhan-vina-pegi-kerja-di-rancamanyar"
     },
     {
         "title": "Aksi Nyata BTN Bersama Pegawai BUMN dalam Menyambut Hari Kebangkitan Nasional",
         "category": "Ekonomi",
-        "publish_time": "27-05-2024 06:18",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://ekonomi.republika.co.id/berita/se4s7h349/aksi-nyata-btn-bersama-pegawai-bumn-dalam-menyambut-hari-kebangkitan-nasional"
     },
     {
@@ -104,199 +248,55 @@
     {
         "title": "Serangan Roket Hamas dan Trik Netanyahu Justifikasi Serangan Rafah",
         "category": "Internasional",
-        "publish_time": "27-05-2024 06:11",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://internasional.republika.co.id/berita/se4p2y488/serangan-roket-hamas-dan-trik-netanyahu-justifikasi-serangan-rafah"
     },
     {
         "title": "Demokrat Pastikan Usung Yoyok Sukawi Maju Cawalkot Semarang",
         "category": "News",
-        "publish_time": "27-05-2024 06:11",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://news.republika.co.id/berita/se4rgu484/demokrat-pastikan-usung-yoyok-sukawi-maju-cawalkot-semarang"
     },
     {
         "title": "Sindikat Pencurian Bermodus Fogging Beraksi di Cirebon",
         "category": "Rejabar",
-        "publish_time": "27-05-2024 06:11",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://rejabar.republika.co.id/berita/se4r3j430/sindikat-pencurian-bermodus-fogging-beraksi-di-cirebon"
     },
     {
         "title": "Ancaman Hukuman Mati Pegi dan Tangis Kartini: Saya tak Terima, Anak Saya tak Bersalah",
         "category": "Rejabar",
-        "publish_time": "27-05-2024 06:11",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://rejabar.republika.co.id/berita/se4ra5512/ancaman-hukuman-mati-pegi-dan-tangis-kartini-saya-tak-terima-anak-saya-tak-bersalah"
     },
     {
         "title": "Aliran Dana Asing Terus Keluar, Bagaimana Proyeksi IHSG?",
         "category": "Ekonomi",
-        "publish_time": "27-05-2024 06:11",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://ekonomi.republika.co.id/berita/se4r90490/aliran-dana-asing-terus-keluar-bagaimana-proyeksi-ihsg"
     },
     {
         "title": "Kartini Yakin Pegi tak Bersalah, Tegaskan akan Berjuang Membela Sang Anak",
         "category": "News",
-        "publish_time": "27-05-2024 06:11",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://news.republika.co.id/berita/se4qxa377/kartini-yakin-pegi-tak-bersalah-tegaskan-akan-berjuang-membela-sang-anak"
     },
     {
         "title": "Pertumbuhan Uang Beredar Mengecil, Ini Penjelasan Bank Indonesia",
         "category": "Ekonomi",
-        "publish_time": "27-05-2024 06:11",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://ekonomi.republika.co.id/berita/se4qwy490/pertumbuhan-uang-beredar-mengecil-ini-penjelasan-bank-indonesia"
     },
     {
-        "title": "Pentingnya Adaptasi Teknologi bagi Generasi Milenial",
+        "title": "Pentingnya Adaptasi Teknologi Bagi Generasi Milenial",
         "category": "News",
-        "publish_time": "27-05-2024 06:11",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://news.republika.co.id/berita/se4qur349/pentingnya-adaptasi-teknologi-bagi-generasi-milenial"
     },
     {
         "title": "Mengapa tak Ada Istilah Sholat Tarawih di Masa Nabi Muhammad?",
         "category": "Islam Digest",
-        "publish_time": "27-05-2024 06:11",
+        "publish_time": "27-05-2024 06:14",
         "news_link": "https://islamdigest.republika.co.id/berita/se4qe2430/mengapa-tak-ada-istilah-sholat-tarawih-di-masa-nabi-muhammad"
-    },
-    {
-        "title": "Universitas BSI Pontianak Ajak Mahasiswa Pahami Pentingnya Validasi Pasar dalam Bisnis",
-        "category": "News",
-        "publish_time": "27-05-2024 06:11",
-        "news_link": "https://news.republika.co.id/berita/se4qj7349/universitas-bsi-pontianak-ajak-mahasiswa-pahami-pentingnya-validasi-pasar-dalam-bisnis"
-    },
-    {
-        "title": "Kesaksian Pemilik Kontrakan Soal Nama Pegi Jadi Robi: Sejak Kecil Dipanggil Robi",
-        "category": "Rejabar",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://rejabar.republika.co.id/berita/se4qcz512/kesaksian-pemilik-kontrakan-soal-nama-pegi-jadi-robi-sejak-kecil-dipanggil-robi"
-    },
-    {
-        "title": "Polres Sukoharjo Gelar Rekonstruksi 27 Adegan Kasus Pembunuhan di Polokarto",
-        "category": "Rejogja",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://rejogja.republika.co.id/berita/se4q72291/polres-sukoharjo-gelar-rekonstruksi-27-adegan-kasus-pembunuhan-di-polokarto"
-    },
-    {
-        "title": "Gaya Hidup Sehat, Ayo Rutin Cek Angka Trigliserida",
-        "category": "Network",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://ruzkaindonesia.id/posts/309206/gaya-hidup-sehat-ayo-rutin-cek-angka-trigliserida"
-    },
-    {
-        "title": "KI Jakarta Desak Pemkot Jaktim Buka Penyebab Banjir di Condet",
-        "category": "News",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://news.republika.co.id/berita/se4q0t484/ki-jakarta-desak-pemkot-jaktim-buka-penyebab-banjir-di-condet"
-    },
-    {
-        "title": "LPPM Universitas BSI Gelar Workshop Peningkatan Tata Kelola Pengelolaan Jurnal Ilmiah",
-        "category": "News",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://news.republika.co.id/berita/se4pv2349/lppm-universitas-bsi-gelar-workshop-peningkatan-tata-kelola-pengelolaan-jurnal-ilmiah"
-    },
-    {
-        "title": "Penyelewengan Elpiji Subsidi Marak",
-        "category": "Ekonomi",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://www.republika.id/posts/53047/penyelewengan-elpiji-subsidi-marak"
-    },
-    {
-        "title": "Suharsono: Saat Hari Pembunuhan, Pegi Ada di Bandung",
-        "category": "News",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://news.republika.co.id/berita/se4pi8377/suharsono-saat-hari-pembunuhan-pegi-ada-di-bandung"
-    },
-    {
-        "title": "Kesaksian Pemilik Kontrakan Pegi Setiawan : Saat Pembunuhan, Pegi Kerja di Rancamanyar",
-        "category": "Rejabar",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://rejabar.republika.co.id/berita/se4phx512/kesaksian-pemilik-kontrakan-pegi-setiawan-saat-pembunuhan-pegi-kerja-di-rancamanyar"
-    },
-    {
-        "title": "Kehadiran Starlink dan Pentingnya Menjaga Kedaulatan Siber",
-        "category": "News",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://www.republika.id/posts/53049/kehadiran-starlink-dan-pentingnya-menjaga-kedaulatan-siber"
-    },
-    {
-        "title": "Cermati Invest Weekly Update 27 Mei 2024",
-        "category": "Sindikasi",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://sindikasi.republika.co.id/berita/se4p923416000/cermati-invest-weekly-update-27-mei-2024"
-    },
-    {
-        "title": "Jaksa Agung dan Kapolri Tampil Mesra di Tengah Kabar Jampidsus Dibuntuti Densus",
-        "category": "News",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://news.republika.co.id/berita/se4p5n484/jaksa-agung-dan-kapolri-tampil-mesra-di-tengah-kabar-jampidsus-dibuntuti-densus"
-    },
-    {
-        "title": "Lebih dari 20 Warga Sipil Tewas Dalam Serangan Orang tak Dikenal di Mali",
-        "category": "Internasional",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://internasional.republika.co.id/berita/se4ovr488/lebih-dari-20-warga-sipil-tewas-dalam-serangan-orang-tak-dikenal-di-mali"
-    },
-    {
-        "title": "Keluarga Vina Heran Mengapa DPO Pembunuhan Berubah dari Tiga Jadi Satu, Beda dengan BAP",
-        "category": "News",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://news.republika.co.id/berita/se4okn377/keluarga-vina-heran-mengapa-dpo-pembunuhan-berubah-dari-tiga-jadi-satu-beda-dengan-bap"
-    },
-    {
-        "title": "Presiden Taiwan Sampaikan Niat Bekerja sama ke Cina",
-        "category": "Internasional",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://internasional.republika.co.id/berita/se4okm488/presiden-taiwan-sampaikan-niat-bekerja-sama-ke-cina"
-    },
-    {
-        "title": "Benarkah AS Berencana Cabut Larangan Penjualan Senjata Serang ke Arab Saudi?",
-        "category": "Internasional",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://internasional.republika.co.id/berita/se4od0488/benarkah-as-berencana-cabut-larangan-penjualan-senjata-serang-ke-arab-saudi"
-    },
-    {
-        "title": "Presiden Jokowi Luncurkan GovtTech Indonesia di Istana",
-        "category": "News",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://news.republika.co.id/berita/se4o95484/presiden-jokowi-luncurkan-govttech-indonesia-di-istana"
-    },
-    {
-        "title": "Kesaksian Pemilik Kontrakan, Agak Mustahil Pegi Lakukan Pembunuhan :tak Seperti Genk Motor",
-        "category": "Rejabar",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://rejabar.republika.co.id/berita/se4o85512/kesaksian-pemilik-kontrakan-agak-mustahil-pegi-lakukan-pembunuhan-tak-seperti-genk-motor"
-    },
-    {
-        "title": "Jenazah Korban Kebakaran di Taman Hiburan India 'tak Bisa Dikenali'",
-        "category": "Internasional",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://internasional.republika.co.id/berita/se4o4s488/jenazah-korban-kebakaran-di-taman-hiburan-india-tak-bisa-dikenali"
-    },
-    {
-        "title": "Perjalanan 63 Tahun Keberhasilan dan Dedikasi Bank Bjb dalam Melayani Masyarakat",
-        "category": "Ekonomi",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/se4o37349/perjalanan-63-tahun-keberhasilan-dan-dedikasi-bank-bjb-dalam-melayani-masyarakat"
-    },
-    {
-        "title": "Arab Saudi Tunjuk Duta Besar untuk Suriah Pertama dalam Satu Dekade Lebih",
-        "category": "Internasional",
-        "publish_time": "27-05-2024 05:11",
-        "news_link": "https://internasional.republika.co.id/berita/se4nrn488/arab-saudi-tunjuk-duta-besar-untuk-suriah-pertama-dalam-satu-dekade-lebih"
-    },
-    {
-        "title": "Mereka yang Disebut Pencuri Ketika Sholat Menurut Rasulullah SAW dan Pesan Imam Ghazali",
-        "category": "Khazanah",
-        "publish_time": "27-05-2024 04:11",
-        "news_link": "https://khazanah.republika.co.id/berita/se4nph320/mereka-yang-disebut-pencuri-ketika-sholat-menurut-rasulullah-saw-dan-pesan-imam-ghazali"
-    },
-    {
-        "title": "Tentaranya Ditangkapi Hamas, Israel Bom Tenda Pengungsi",
-        "category": "Internasional",
-        "publish_time": "27-05-2024 04:11",
-        "news_link": "https://www.republika.id/posts/53062/tentaranya-ditangkapi-hamas-israel-bom-tenda-pengungsi"
-    },
-    {
-        "title": "Pegi Otak Pembunuhan Vina, Pemilik Kontrakan:  Agak Mustahil!",
-        "category": "News",
-        "publish_time": "27-05-2024 04:11",
-        "news_link": "https://news.republika.co.id/berita/se4my3377/pegi-otak-pembunuhan-vina-pemilik-kontrakan-agak-mustahil"
     }
 ]
