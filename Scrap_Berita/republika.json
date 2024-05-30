@@ -1,5 +1,47 @@
 [
     {
+        "title": "Presiden Jokowi Lakukan Kunjungan Kerja ke Sumsel",
+        "category": "News",
+        "publish_time": "30-05-2024 02:23",
+        "news_link": "https://news.republika.co.id/berita/sea1br484/presiden-jokowi-lakukan-kunjungan-kerja-ke-sumsel"
+    },
+    {
+        "title": "PTS Terbaik Jakarta 2024: Universitas BSI Ungguli Universitas Tarumanagara dan Trisakti",
+        "category": "News",
+        "publish_time": "30-05-2024 02:21",
+        "news_link": "https://news.republika.co.id/berita/sea18u349/pts-terbaik-jakarta-2024-universitas-bsi-ungguli-universitas-tarumanagara-dan-trisakti"
+    },
+    {
+        "title": "Panca, Pembunuh Empat Anak di Jagakarsa Didakwa Pasal Berlabis",
+        "category": "News",
+        "publish_time": "30-05-2024 02:18",
+        "news_link": "https://news.republika.co.id/berita/sea12d484/panca-pembunuh-empat-anak-di-jagakarsa-didakwa-pasal-berlabis"
+    },
+    {
+        "title": "Serukan Gencatan Senjata di Gaza, Dua Lipa: Membakar Anak-anak Hidup-hidup Tidak Pernah Bisa Dibenarkan",
+        "category": "Network",
+        "publish_time": "30-05-2024 02:14",
+        "news_link": "https://impresi.republika.co.id/sosok/1694705934/serukan-gencatan-senjata-di-gaza-dua-lipa-membakar-anak-anak-hidup-hidup-tidak-pernah-bisa-dibenarkan"
+    },
+    {
+        "title": "Kuasa Hukum Bakal Ajukan Penangguhan Penahanan Pegi Setiawan",
+        "category": "Rejabar",
+        "publish_time": "30-05-2024 02:12",
+        "news_link": "https://rejabar.republika.co.id/berita/sea0sv512/kuasa-hukum-bakal-ajukan-penangguhan-penahanan-pegi-setiawan"
+    },
+    {
+        "title": "AS Ganti Bus Sekolah Jadi Bus Listrik, Kucurkan Dana Rp 14 Triliun",
+        "category": "Esgnow",
+        "publish_time": "30-05-2024 02:11",
+        "news_link": "https://esgnow.republika.co.id/berita/sea0r1370/as-ganti-bus-sekolah-jadi-bus-listrik-kucurkan-dana-rp-14-triliun"
+    },
+    {
+        "title": "Tiggo 5X Ditarik dari Pasar Filipina, Chery Indonesia Buka Suara",
+        "category": "Ekonomi",
+        "publish_time": "30-05-2024 01:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/sea02b370/tiggo-5x-ditarik-dari-pasar-filipina-chery-indonesia-buka-suara"
+    },
+    {
         "title": "Di Mana Pegi Setiawan Saat Polisi Gelar Pra Rekonstruksi?",
         "category": "Rejabar",
         "publish_time": "30-05-2024 01:50",
@@ -26,277 +68,235 @@
     {
         "title": "AS: Israel Harus Singkirkan Semua Penghalang Bantuan Kemanusiaan",
         "category": "News",
-        "publish_time": "30-05-2024 01:23",
+        "publish_time": "30-05-2024 01:27",
         "news_link": "https://news.republika.co.id/berita/se9yk2370/as-israel-harus-singkirkan-semua-penghalang-bantuan-kemanusiaan"
     },
     {
         "title": "Pengiriman Ekspor dan Domestik Jagung Gorontalo",
         "category": "Visual",
-        "publish_time": "30-05-2024 01:16",
+        "publish_time": "30-05-2024 01:27",
         "news_link": "https://visual.republika.co.id/berita/se9d3r491/pengiriman-ekspor-dan-domestik-jagung-gorontalo"
     },
     {
         "title": "Lima Fakta Jampidsus Dikuntit Anggota Densus 88, Nama Febrie Adriansyah Masuk Profiling",
         "category": "News",
-        "publish_time": "30-05-2024 01:12",
+        "publish_time": "30-05-2024 01:27",
         "news_link": "https://news.republika.co.id/berita/se9y13377/lima-fakta-jampidsus-dikuntit-anggota-densus-88-nama-febrie-adriansyah-masuk-profiling"
     },
     {
         "title": "AS Ogah Sanksi Mahkamah Pidana Internasional, Netanyahu Ngambek",
         "category": "News",
-        "publish_time": "30-05-2024 00:55",
+        "publish_time": "30-05-2024 00:27",
         "news_link": "https://news.republika.co.id/berita/se9wt6393/as-ogah-sanksi-mahkamah-pidana-internasional-netanyahu-ngambek"
     },
     {
         "title": "BMKG: Potensi Hujan dengan Petir Terjang Mayoritas Wilayah RI",
         "category": "News",
-        "publish_time": "30-05-2024 00:55",
+        "publish_time": "30-05-2024 00:27",
         "news_link": "https://news.republika.co.id/berita/se9wkd370/bmkg-potensi-hujan-dengan-petir-terjang-mayoritas-wilayah-ri"
     },
     {
         "title": "Jaga Ekosistem, Pupuk Kaltim Turunkan Ratusan Media Terumbu di Maratua",
         "category": "Esgnow",
-        "publish_time": "30-05-2024 00:55",
+        "publish_time": "30-05-2024 00:27",
         "news_link": "https://esgnow.republika.co.id/berita/se9wfi370/jaga-ekosistem-pupuk-kaltim-turunkan-ratusan-media-terumbu-di-maratua"
     },
     {
         "title": "Israel Klaim Serangan Udara ke Rafah Digelar dengan Presisi",
         "category": "News",
-        "publish_time": "30-05-2024 00:55",
+        "publish_time": "30-05-2024 00:27",
         "news_link": "https://news.republika.co.id/berita/se9w94370/israel-klaim-serangan-udara-ke-rafah-digelar-dengan-presisi"
     },
     {
         "title": "Saat 10 Crane Mengangkat Kain Kiswah Ka'bah",
         "category": "Khazanah",
-        "publish_time": "30-05-2024 00:55",
+        "publish_time": "30-05-2024 00:27",
         "news_link": "https://www.republika.id/posts/53139/saat-10-crane-mengangkat-kain-kiswah-kabah"
     },
     {
         "title": "Wapres Minta Travel tak Salahgunakan Visa Umrah untuk Haji",
         "category": "Khazanah",
-        "publish_time": "30-05-2024 00:55",
+        "publish_time": "30-05-2024 00:27",
         "news_link": "https://www.republika.id/posts/53154/wapres-minta-travel-tak-salahgunakan-visa-umrah-untuk-haji"
     },
     {
         "title": "Pelatihan Penyembelihan Hewan Kurban Sesuai Syariat Islam",
         "category": "Visual",
-        "publish_time": "30-05-2024 00:55",
+        "publish_time": "30-05-2024 00:27",
         "news_link": "https://visual.republika.co.id/berita/se9cti491/pelatihan-penyembelihan-hewan-kurban-sesuai-syariat-islam"
     },
     {
         "title": "Identitas Mayat Pria dalam Toren di Pondok Aren Buronan Kasus Narkoba",
         "category": "News",
-        "publish_time": "30-05-2024 00:55",
+        "publish_time": "30-05-2024 00:27",
         "news_link": "https://news.republika.co.id/berita/se9vza484/identitas-mayat-pria-dalam-toren-di-pondok-aren-buronan-kasus-narkoba"
     },
     {
         "title": "Meksiko Ikut Gugat Israel ke Mahkamah Internasional",
         "category": "News",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "30-05-2024 00:27",
         "news_link": "https://www.republika.id/posts/53135/meksiko-ikut-gugat-israel-ke-mahkamah-internasional"
     },
     {
         "title": "Abaikan Kecaman Dunia, Israel Lanjutkan Pembantaian di Rafah",
         "category": "News",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "30-05-2024 00:27",
         "news_link": "https://www.republika.id/posts/53111/abaikan-kecaman-dunia-israel-lanjutkan-pembantaian-di-rafah"
     },
     {
         "title": "Jatuh di Lubang yang Sama di Gaza, Tentara IDF Berguguran",
         "category": "News",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "30-05-2024 00:27",
         "news_link": "https://www.republika.id/posts/53150/jatuh-di-lubang-yang-sama-di-gaza-tentara-idf-berguguran"
     },
     {
         "title": "China Desak Israel Hentikan Serangan Brutal di Kamp Pengungsi Rafah",
         "category": "News",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "30-05-2024 00:27",
         "news_link": "https://news.republika.co.id/berita/se9vgz349/china-desak-israel-hentikan-serangan-brutal-di-kamp-pengungsi-rafah"
     },
     {
         "title": "3 Nabi dan Rasul yang Diutus Allah SWT Berdakwah di Mesir dan Keahlian Mereka",
         "category": "Khazanah",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "30-05-2024 00:27",
         "news_link": "https://khazanah.republika.co.id/berita/se9vem320/3-nabi-dan-rasul-yang-diutus-allah-swt-berdakwah-di-mesir-dan-keahlian-mereka"
     },
     {
         "title": "Megakorupsi Timah Diusut Kejagung, MUI Dorong Pengesahan UU Perampasan Aset",
         "category": "News",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "30-05-2024 00:27",
         "news_link": "https://news.republika.co.id/berita/se9vc3484/megakorupsi-timah-diusut-kejagung-mui-dorong-pengesahan-uu-perampasan-aset"
     },
     {
         "title": "Utang Budi, Alasan Eks Mentan SYL Pekerjakan Pedangdut Nayunda",
         "category": "News",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "30-05-2024 00:27",
         "news_link": "https://news.republika.co.id/berita/se9uu8370/utang-budi-alasan-eks-mentan-syl-pekerjakan-pedangdut-nayunda"
     },
     {
         "title": "Pakar: Bergerak 150 Menit Sehari Bantu Lansia Tetap Bisa Aktif",
         "category": "Ameera",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "30-05-2024 00:27",
         "news_link": "https://ameera.republika.co.id/berita/se9ure349/pakar-bergerak-150-menit-sehari-bantu-lansia-tetap-bisa-aktif"
     },
     {
         "title": "Ada Pembangunan Saluran, Masyarakat Diimbau Hindari Jalan Ciledug",
         "category": "News",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://news.republika.co.id/berita/se9rzj484/ada-pembangunan-saluran-masyarakat-diimbau-hindari-jalan-ciledug"
     },
     {
         "title": "Studi: Perubahan Iklim Memiliki Dampak Ekonomi Jangka Panjang",
         "category": "Ameera",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://ameera.republika.co.id/berita/se9u6r349/studi-perubahan-iklim-memiliki-dampak-ekonomi-jangka-panjang"
     },
     {
         "title": "Duduk Sila di Lantai Ternyata Bawa Manfaat Bagi Kesehatan",
         "category": "Ameera",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://ameera.republika.co.id/berita/se9u66425/duduk-sila-di-lantai-ternyata-bawa-manfaat-bagi-kesehatan"
     },
     {
         "title": "Buka Ijtima Ulama Komisi Fatwa, Wapres Minta Ulama Istiqamah Jaga Umat dan Bangsa",
         "category": "Khazanah",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://khazanah.republika.co.id/berita/se9u07320/buka-ijtima-ulama-komisi-fatwa-wapres-minta-ulama-istiqamah-jaga-umat-dan-bangsa"
     },
     {
         "title": "Jampidsus: Urusan Penguntitan Diambil Alih Jaksa Agung",
         "category": "News",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://www.republika.id/posts/53146/jampidsus-urusan-penguntitan-diambil-alih-jaksa-agung"
     },
     {
         "title": "Fred Vasseur: Kemenangan Ferrari di Monaco Dongkrak Performa Charles  Leclerc",
         "category": "Network",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://motoresto.id/posts/309720/fred-vasseur-kemenangan-ferrari-di-monaco-dongkrak-performa-charles-leclerc"
     },
     {
         "title": "Polisi Tangkap Tiga Pelaku Pembunuhan yang Juga Anggota Geng Motor",
         "category": "News",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://news.republika.co.id/berita/se9rfe484/polisi-tangkap-tiga-pelaku-pembunuhan-yang-juga-anggota-geng-motor"
     },
     {
         "title": "Mengintip Isi Samsung One UI 7, Apa yang Menarik?",
         "category": "Network",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://impresi.republika.co.id/didaktika/1694705619/mengintip-isi-samsung-one-ui-7-apa-yang-menarik"
     },
     {
         "title": "Sidak SPBE di Temanggung, Cegah Praktik Kecurangan Volume LPG",
         "category": "Visual",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://visual.republika.co.id/berita/se9d0h491/sidak-spbe-di-temanggung-cegah-praktik-kecurangan-volume-lpg"
     },
     {
         "title": "Erdogan: Semangat PBB Mati di Gaza",
         "category": "News",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://news.republika.co.id/berita/se9th3320/erdogan-semangat-pbb-mati-di-gaza"
     },
     {
         "title": "Permendikbudristek 2024 tidak Dicabut, Kenaikan UKT Masih Mungkin Terjadi",
         "category": "News",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://news.republika.co.id/berita/se9tgd349/permendikbudristek-2024-tidak-dicabut-kenaikan-ukt-masih-mungkin-terjadi"
     },
     {
         "title": "Kerugian Negara Kasus Timah Bertambah Jadi Rp 300 Triliun",
         "category": "News",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://www.republika.id/posts/53141/kerugian-negara-kasus-timah-bertambah-jadi-rp-300-triliun"
     },
     {
         "title": "Polisi Selidiki Kasus Meninggalnya Perempuan Usai Suntik Payudara di Sleman",
         "category": "Rejogja",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://rejogja.republika.co.id/berita/se9sun291/polisi-selidiki-kasus-meninggalnya-perempuan-usai-suntik-payudara-di-sleman"
     },
     {
         "title": "Jalur Mandiri Ujian Tulis UNJ 2024 Sudah Dibuka, Cek Ketentuan Lengkapnya",
         "category": "Network",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://kampus.republika.co.id/info-kampus/1624705601/jalur-mandiri-ujian-tulis-unj-2024-sudah-dibuka-cek-ketentuan-lengkapnya"
     },
     {
         "title": "Glowies Beauty Raih Kesuksesan Gemilang dengan Shopee Live, Penjualan Hingga 3 Kali Lipat",
         "category": "Ekonomi",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://ekonomi.republika.co.id/berita/se93z9423/glowies-beauty-raih-kesuksesan-gemilang-dengan-shopee-live-penjualan-hingga-3-kali-lipat"
     },
     {
         "title": "Jampidsus Tetapkan Enam General Manager PT Antam Tersangka Korupsi",
         "category": "News",
-        "publish_time": "29-05-2024 23:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://news.republika.co.id/berita/se9qhg484/jampidsus-tetapkan-enam-general-manager-pt-antam-tersangka-korupsi"
     },
     {
         "title": "Pemuda Israel Berbondong-bondong Tolak Wajib Militer",
         "category": "News",
-        "publish_time": "29-05-2024 22:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://www.republika.id/posts/53152/pemuda-israel-berbondong-bondong-tolak-wajib-militer"
     },
     {
         "title": "6 Alasan Mengapa Salafi Mudah Masuk di Muhammadiyah",
         "category": "Khazanah",
-        "publish_time": "29-05-2024 22:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://khazanah.republika.co.id/berita/se9ssy320/6-alasan-mengapa-salafi-mudah-masuk-di-muhammadiyah"
     },
     {
         "title": "Misi 'Mustahil' Super Hercules di Gaza yang Berhasil Dituntaskan",
         "category": "News",
-        "publish_time": "29-05-2024 22:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://news.republika.co.id/berita/se924j484/misi-mustahil-super-hercules-di-gaza-yang-berhasil-dituntaskan"
     },
     {
         "title": "Pendiri Komandankey Dorong Edukasi Pentingnya Kunci Duplikat",
         "category": "Rejogja",
-        "publish_time": "29-05-2024 22:55",
+        "publish_time": "29-05-2024 23:27",
         "news_link": "https://rejogja.republika.co.id/berita/se9sko291/pendiri-komandankey-dorong-edukasi-pentingnya-kunci-duplikat"
-    },
-    {
-        "title": "Dirut PT Bhanda Kuncoro Wibowo Dituntut Rugikan Negara Rp 127 Miliar",
-        "category": "News",
-        "publish_time": "29-05-2024 22:55",
-        "news_link": "https://news.republika.co.id/berita/se9r4q484/dirut-pt-bhanda-kuncoro-wibowo-dituntut-rugikan-negara-rp-127-miliar"
-    },
-    {
-        "title": "Koeman Berjudi Masukkan Nama De Jong dan Depay ke Skuad Belanda untuk Euro 2024",
-        "category": "News",
-        "publish_time": "29-05-2024 22:55",
-        "news_link": "https://news.republika.co.id/berita/se9rvh348/koeman-berjudi-masukkan-nama-de-jong-dan-depay-ke-skuad-belanda-untuk-euro-2024"
-    },
-    {
-        "title": "Kejar Akurasi, Pertamina Komitmen Terapkan Pengawasan dan Uji Sampel Berkala di SPBE",
-        "category": "Rejogja",
-        "publish_time": "29-05-2024 22:55",
-        "news_link": "https://rejogja.republika.co.id/berita/se9rns291/kejar-akurasi-pertamina-komitmen-terapkan-pengawasan-dan-uji-sampel-berkala-di-spbe"
-    },
-    {
-        "title": "Pemuda Israel Sepakat Tolak Wajib Militer Hingga Rela Dipenjara",
-        "category": "Khazanah",
-        "publish_time": "29-05-2024 22:55",
-        "news_link": "https://khazanah.republika.co.id/berita/se9rmg430/pemuda-israel-sepakat-tolak-wajib-militer-hingga-rela-dipenjara"
-    },
-    {
-        "title": "Olympiakos Juara Liga Konferensi Europa, Kalahkan Fiorentina pada Perpanjangan Waktu",
-        "category": "News",
-        "publish_time": "29-05-2024 22:55",
-        "news_link": "https://news.republika.co.id/berita/se9rjn348/olympiakos-juara-liga-konferensi-europa-kalahkan-fiorentina-pada-perpanjangan-waktu"
-    },
-    {
-        "title": "Fenomena Friendship Marriage Marak di Jepang, Apa Itu?",
-        "category": "Ameera",
-        "publish_time": "29-05-2024 22:55",
-        "news_link": "https://ameera.republika.co.id/berita/se9r4b425/fenomena-friendship-marriage-marak-di-jepang-apa-itu"
-    },
-    {
-        "title": "Persiapan Upacara Harlah Pancasila Terus Dipantau",
-        "category": "Resumatra",
-        "publish_time": "29-05-2024 22:55",
-        "news_link": "https://republika.co.id/berita/se9qww430/persiapan-upacara-harlah-pancasila-terus-dipantau"
     }
 ]
