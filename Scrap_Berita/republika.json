@@ -1,5 +1,95 @@
 [
     {
+        "title": "Marak Penipuan Online, Polda DIY Sosialisasikan Aplikasi Cekajadulu.id",
+        "category": "Rejogja",
+        "publish_time": "01 June 2024, 20:09",
+        "news_link": "https://rejogja.republika.co.id/berita/seekb9430/marak-penipuan-online-polda-diy-sosialisasikan-aplikasi-cekajaduluid"
+    },
+    {
+        "title": "Persib Bandung Juara Liga 1, Wa Haji Umuh: Juara Tanpa Rekayasa",
+        "category": "Rejabar",
+        "publish_time": "01 June 2024, 20:04",
+        "news_link": "https://rejabar.republika.co.id/berita/seekbz512/persib-bandung-juara-liga-1-wa-haji-umuh-juara-tanpa-rekayasa"
+    },
+    {
+        "title": "Seorang WNA Tewas Terjatuh di Bukit Anak Dara Rinjani Lombok",
+        "category": "News",
+        "publish_time": "01 June 2024, 20:04",
+        "news_link": "https://news.republika.co.id/berita/seekax370/seorang-wna-tewas-terjatuh-di-bukit-anak-dara-rinjani-lombok"
+    },
+    {
+        "title": "Semua Jamaah Haji Gelombang I Sudah Diberangkatkan ke Makkah",
+        "category": "Khazanah",
+        "publish_time": "01 June 2024, 19:54",
+        "news_link": "https://khazanah.republika.co.id/berita/seejr4430/semua-jamaah-haji-gelombang-i-sudah-diberangkatkan-ke-makkah"
+    },
+    {
+        "title": "Ribuan Bobotoh Tumpah Ruah ke Jalan Ikuti Pawai Juara Persib Bandung",
+        "category": "Visual",
+        "publish_time": "01 June 2024, 19:53",
+        "news_link": "https://visual.republika.co.id/berita/seejty375/ribuan-bobotoh-tumpah-ruah-ke-jalan-ikuti-pawai-juara-persib-bandung"
+    },
+    {
+        "title": "Soal Putusan MA Hapus Usia Minimal, KPU DKI Jakarta Tunggu PKPU",
+        "category": "News",
+        "publish_time": "01 June 2024, 19:52",
+        "news_link": "https://news.republika.co.id/berita/seejri484/soal-putusan-ma-hapus-usia-minimal-kpu-dki-jakarta-tunggu-pkpu"
+    },
+    {
+        "title": "Jabal Rumat, Saksi Gugurnya Hamzah Paman Tercinta Nabi Muhammad",
+        "category": "Khazanah",
+        "publish_time": "01 June 2024, 19:49",
+        "news_link": "https://khazanah.republika.co.id/berita/seejhf430/jabal-rumat-saksi-gugurnya-hamzah-paman-tercinta-nabi-muhammad"
+    },
+    {
+        "title": "BRIDS Jadi Penjamin Pelaksana Emisi Efek Sukuk ESG BSI",
+        "category": "Sharia",
+        "publish_time": "01 June 2024, 19:48",
+        "news_link": "https://sharia.republika.co.id/berita/seejky468/brids-jadi-penjamin-pelaksana-emisi-efek-sukuk-esg-bsi"
+    },
+    {
+        "title": "Pasokan Surplus, Badan Pangan Perkuat Cadangan Beras Pemerintah",
+        "category": "Ekonomi",
+        "publish_time": "01 June 2024, 19:46",
+        "news_link": "https://ekonomi.republika.co.id/berita/seejhq490/pasokan-surplus-badan-pangan-perkuat-cadangan-beras-pemerintah"
+    },
+    {
+        "title": "Tumpukan Sampah di Depo-Depo di Yogyakarta Dibersihkan",
+        "category": "Rejogja",
+        "publish_time": "01 June 2024, 19:27",
+        "news_link": "https://rejogja.republika.co.id/berita/seeilb291/tumpukan-sampah-di-depodepo-di-yogyakarta-dibersihkan"
+    },
+    {
+        "title": "25 Tahun Terus Tumbuh Tuk Bangun Asa, Sederet Komitmen PNM Peduli Bangun Negeri",
+        "category": "Ekonomi",
+        "publish_time": "01 June 2024, 19:25",
+        "news_link": "https://ekonomi.republika.co.id/berita/seeiiv423/25-tahun-terus-tumbuh-tuk-bangun-asa-sederet-komitmen-pnm-peduli-bangun-negeri"
+    },
+    {
+        "title": "Hujan Deras, Jalan Margonda Banjir, Depok Macet Total",
+        "category": "Network",
+        "publish_time": "01 June 2024, 19:24",
+        "news_link": "https://ruzka.republika.co.id/news/1674715019/hujan-deras-jalan-margonda-banjir-depok-macet-total"
+    },
+    {
+        "title": "Bening's Glow Clinic\u00a0 Buka Cabang ke-68, di Kota Cimahi",
+        "category": "Ameera",
+        "publish_time": "01 June 2024, 19:21",
+        "news_link": "https://ameera.republika.co.id/berita/seeiby423/benings-glow-clinic-buka-cabang-ke68-di-kota-cimahi"
+    },
+    {
+        "title": "IEA: Adopsi Teknologi Bersih yang Cepat Bisa Membuat Energi Jadi Lebih Murah",
+        "category": "Esgnow",
+        "publish_time": "01 June 2024, 19:19",
+        "news_link": "https://esgnow.republika.co.id/berita/seei8u370/iea-adopsi-teknologi-bersih-yang-cepat-bisa-membuat-energi-jadi-lebih-murah"
+    },
+    {
+        "title": "Satu Dekade Terakhir, PHE Cetak Pertumbuhan Produksi 8 Persen",
+        "category": "Ekonomi",
+        "publish_time": "01 June 2024, 19:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/seei89490/satu-dekade-terakhir-phe-cetak-pertumbuhan-produksi-8-persen"
+    },
+    {
         "title": "Kontroversi Tapera, Apernas Beri Masukan ke Pemerintah",
         "category": "Rejogja",
         "publish_time": "01 June 2024, 19:17",
@@ -82,6 +172,12 @@
         "category": "News",
         "publish_time": "01 June 2024, 18:23",
         "news_link": "https://news.republika.co.id/berita/seefmu456/jude-bellingham-berharap-raih-kemenangan-di-liga-champions-dan-euro-2024"
+    },
+    {
+        "title": "Ini Cara Hasnuryadi Sulaiman Melepas Kangen ke Almarhum Ortunya",
+        "category": "News",
+        "publish_time": "01 June 2024, 18:19",
+        "news_link": "https://news.republika.co.id/berita/seejb5318/ini-cara-hasnuryadi-sulaiman-melepas-kangen-ke-almarhum-ortunya"
     },
     {
         "title": "Bank Sampah Widuri Mampang Masuk 6 Besar Lomba 3R DLHK Depok",
@@ -202,101 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "01 June 2024, 16:57",
         "news_link": "https://ekonomi.republika.co.id/berita/seebnc423/presiden-jokowi-apresiasi-blok-rokan-penghasil-migas-terbesar-di-indonesia"
-    },
-    {
-        "title": "Mendag: Tabung Berkarat Sebabkan Volume LPG 3 Kg Berkurang",
-        "category": "Ekonomi",
-        "publish_time": "01 June 2024, 16:56",
-        "news_link": "https://ekonomi.republika.co.id/berita/seebll370/mendag-tabung-berkarat-sebabkan-volume-lpg-3-kg-berkurang"
-    },
-    {
-        "title": "Universitas BSI\u00a0Solo Urutan Pertama Kampus Swasta di Solo Versi UniRank 2024",
-        "category": "News",
-        "publish_time": "01 June 2024, 16:49",
-        "news_link": "https://news.republika.co.id/berita/see2yt423/universitas-bsisolo-urutan-pertama-kampus-swasta-di-solo-versi-unirank-2024"
-    },
-    {
-        "title": "BRI Perkuat Komitmen Jaga Ekosistem Laut",
-        "category": "Esgnow",
-        "publish_time": "01 June 2024, 16:42",
-        "news_link": "https://esgnow.republika.co.id/berita/seeay2490/bri-perkuat-komitmen-jaga-ekosistem-laut"
-    },
-    {
-        "title": "Merespon Penggunaan Spyware, FISIP UI Gelar Seminar",
-        "category": "Rejabar",
-        "publish_time": "01 June 2024, 16:37",
-        "news_link": "https://rejabar.republika.co.id/berita/seeaqq512/merespon-penggunaan-spyware-fisip-ui-gelar-seminar"
-    },
-    {
-        "title": "Laba Bersih Emiten Properti Ini Naik 352 Persen, Didorong Pembangunan IKN",
-        "category": "Ekonomi",
-        "publish_time": "01 June 2024, 16:37",
-        "news_link": "https://ekonomi.republika.co.id/berita/seeaq0490/laba-bersih-emiten-properti-ini-naik-352-persen-didorong-pembangunan-ikn"
-    },
-    {
-        "title": "Pembangunan Gedung di Menteng Dikeluhkan, Walkot Jakpus Bentuk Tim",
-        "category": "News",
-        "publish_time": "01 June 2024, 16:35",
-        "news_link": "https://news.republika.co.id/berita/seeant484/pembangunan-gedung-di-menteng-dikeluhkan-walkot-jakpus-bentuk-tim"
-    },
-    {
-        "title": "Perbaikan Ruas Jalan di Lembah Anai Dikebut, Ditargetkan Selesai Juli 2024",
-        "category": "Visual",
-        "publish_time": "01 June 2024, 16:28",
-        "news_link": "https://visual.republika.co.id/berita/seeabp375/perbaikan-ruas-jalan-di-lembah-anai-dikebut-ditargetkan-selesai-juli-2024"
-    },
-    {
-        "title": "Bank Mandiri Bakal Ajak Nasabah Nonton Olimpiade di Paris, Ini Caranya",
-        "category": "Ekonomi",
-        "publish_time": "01 June 2024, 16:19",
-        "news_link": "https://ekonomi.republika.co.id/berita/see9wv490/bank-mandiri-bakal-ajak-nasabah-nonton-olimpiade-di-paris-ini-caranya"
-    },
-    {
-        "title": "Prabowo: RI Siap Kirim Pasukan Perdamaian ke Gaza, Palestina",
-        "category": "News",
-        "publish_time": "01 June 2024, 16:19",
-        "news_link": "https://news.republika.co.id/berita/see9wd484/prabowo-ri-siap-kirim-pasukan-perdamaian-ke-gaza-palestina"
-    },
-    {
-        "title": "ICMI Kecam Keras Agresi Israel di Rafah, Serangan Mengusik Kemanusiaan dan Perdamaian",
-        "category": "News",
-        "publish_time": "01 June 2024, 16:09",
-        "news_link": "https://news.republika.co.id/berita/see9g3423/icmi-kecam-keras-agresi-israel-di-rafah-serangan-mengusik-kemanusiaan-dan-perdamaian"
-    },
-    {
-        "title": "Warga Masuk Ancol Gratis Mulai Hari Ini, Berikut Syaratnya",
-        "category": "News",
-        "publish_time": "01 June 2024, 15:57",
-        "news_link": "https://news.republika.co.id/berita/see8vl484/warga-masuk-ancol-gratis-mulai-hari-ini-berikut-syaratnya"
-    },
-    {
-        "title": "BNPB Lakukan Demolisi, Hancurkan Batu Gunung Marapi di Agam",
-        "category": "News",
-        "publish_time": "01 June 2024, 15:57",
-        "news_link": "https://news.republika.co.id/berita/see8v0370/bnpb-lakukan-demolisi-hancurkan-batu-gunung-marapi-di-agam"
-    },
-    {
-        "title": "Ribuan Bobotoh Padati Jalan Pasteur Bersiap Sambut Persib Bandung",
-        "category": "Rejabar",
-        "publish_time": "01 June 2024, 15:48",
-        "news_link": "https://rejabar.republika.co.id/berita/see8gu512/ribuan-bobotoh-padati-jalan-pasteur-bersiap-sambut-persib-bandung"
-    },
-    {
-        "title": "Aryo Djojohadikusumo Terpilih Jadi Ketum PP Persatuan Olahraga Berkuda Seluruh Indonesia",
-        "category": "News",
-        "publish_time": "01 June 2024, 15:42",
-        "news_link": "https://news.republika.co.id/berita/see871456/aryo-djojohadikusumo-terpilih-jadi-ketum-pp-persatuan-olahraga-berkuda-seluruh-indonesia"
-    },
-    {
-        "title": "Anak Terpapar Asap Rokok Berisiko Organ Alami Gangguan",
-        "category": "News",
-        "publish_time": "01 June 2024, 15:34",
-        "news_link": "https://news.republika.co.id/berita/see7tf484/anak-terpapar-asap-rokok-berisiko-organ-alami-gangguan"
-    },
-    {
-        "title": "Antisipasi Kemacetan Konvoi Persib, Polisi Imbau Kendaraan Keluar di Gerbang Tol Baros",
-        "category": "Rejabar",
-        "publish_time": "01 June 2024, 15:21",
-        "news_link": "https://rejabar.republika.co.id/berita/see77b512/antisipasi-kemacetan-konvoi-persib-polisi-imbau-kendaraan-keluar-di-gerbang-tol-baros"
     }
 ]
