@@ -1,15 +1,99 @@
 [
     {
+        "title": "Tingkatkan Layanan, Pertamina Patra Niaga Lakukan Pengintegrasian Sistem",
+        "category": "Ekonomi",
+        "publish_time": "01 June 2024, 22:08",
+        "news_link": "https://ekonomi.republika.co.id/berita/seeq1o513/tingkatkan-layanan-pertamina-patra-niaga-lakukan-pengintegrasian-sistem"
+    },
+    {
+        "title": "Kolaborasi Bombastis Streetfighter V4 S Livery Ducati X Supreme!",
+        "category": "Network",
+        "publish_time": "01 June 2024, 21:53",
+        "news_link": "https://motoresto.id/posts/310451/kolaborasi-bombastis-streetfighter-v4-s-livery-ducati-x-supreme-"
+    },
+    {
+        "title": "Menhan Prabowo Serukan Investigasi Tragedi Rafah di Palestina",
+        "category": "Network",
+        "publish_time": "01 June 2024, 21:52",
+        "news_link": "https://seputarmiliter.id/posts/310480/menhan-prabowo-serukan-investigasi-tragedi-rafah-di-palestina"
+    },
+    {
+        "title": "Singapore Open 2024: Fajar/Rian Berpeluang Raih Juara Pertama Kalinya",
+        "category": "Network",
+        "publish_time": "01 June 2024, 21:52",
+        "news_link": "https://badmintonews.id/posts/310484/singapore-open-2024-fajar-rian-berpeluang-raih-juara-pertama-kalinya"
+    },
+    {
+        "title": "Rezaldi Hehanusa Cetak Sejarah Juarai Gelar Liga 1 Bersama Persija dan Persib",
+        "category": "News",
+        "publish_time": "01 June 2024, 21:52",
+        "news_link": "https://news.republika.co.id/berita/seemok430/rezaldi-hehanusa-cetak-sejarah-juarai-gelar-liga-1-bersama-persija-dan-persib"
+    },
+    {
+        "title": "Hari Lahir Pancasila, Pj Gubernur Jabar Bey: Pancasila Terbukti Mampu Persatukan Kita",
+        "category": "Rejabar",
+        "publish_time": "01 June 2024, 21:47",
+        "news_link": "https://rejabar.republika.co.id/berita/seep3y512/hari-lahir-pancasila-pj-gubernur-jabar-bey-pancasila-terbukti-mampu-persatukan-kita"
+    },
+    {
+        "title": "Sekjen PBB Sambut Baik Tawaran Genjatan Senjata Hamas-Israel dari Biden",
+        "category": "News",
+        "publish_time": "01 June 2024, 21:38",
+        "news_link": "https://news.republika.co.id/berita/seeoo7320/sekjen-pbb-sambut-baik-tawaran-genjatan-senjata-hamasisrael-dari-biden"
+    },
+    {
+        "title": "Seorang Pelajar Tewas Usai Terjatuh dari Mobil Saat Arak-Arakan Bobotoh di Flyover Bandung",
+        "category": "Rejabar",
+        "publish_time": "01 June 2024, 21:33",
+        "news_link": "https://rejabar.republika.co.id/berita/seeofc512/seorang-pelajar-tewas-usai-terjatuh-dari-mobil-saat-arakarakan-bobotoh-di-flyover-bandung"
+    },
+    {
+        "title": "Banjir Rob Rendam Puluhan Rumah Warga di Indramayu",
+        "category": "Visual",
+        "publish_time": "01 June 2024, 21:30",
+        "news_link": "https://visual.republika.co.id/berita/seeksw375/banjir-rob-rendam-puluhan-rumah-warga-di-indramayu"
+    },
+    {
+        "title": "Empat Jamaah Haji Embarkasi Batam Meninggal di Tanah Suci",
+        "category": "Khazanah",
+        "publish_time": "01 June 2024, 21:27",
+        "news_link": "https://khazanah.republika.co.id/berita/seenzj430/empat-jamaah-haji-embarkasi-batam-meninggal-di-tanah-suci"
+    },
+    {
+        "title": "Jamaah Terakhir di Madinah yang Diberangkatkan ke Makkah dalam Kondisi Sehat",
+        "category": "Khazanah",
+        "publish_time": "01 June 2024, 21:25",
+        "news_link": "https://khazanah.republika.co.id/berita/seeo34320/jamaah-terakhir-di-madinah-yang-diberangkatkan-ke-makkah-dalam-kondisi-sehat"
+    },
+    {
+        "title": "Sebagian Jamaah Haji yang Sakit Masih di Madinah",
+        "category": "Khazanah",
+        "publish_time": "01 June 2024, 21:22",
+        "news_link": "https://khazanah.republika.co.id/berita/seenqt430/sebagian-jamaah-haji-yang-sakit-masih-di-madinah"
+    },
+    {
+        "title": "Rombongan Terakhir Jamaah Haji di Madinah Sudah Diberangkatkan ke Makkah",
+        "category": "Khazanah",
+        "publish_time": "01 June 2024, 21:19",
+        "news_link": "https://khazanah.republika.co.id/berita/seenlc430/rombongan-terakhir-jamaah-haji-di-madinah-sudah-diberangkatkan-ke-makkah"
+    },
+    {
+        "title": "Airlangga: Ormas Keagamaan Dapat Prioritas Khusus Kelola Tambang Batubara",
+        "category": "News",
+        "publish_time": "01 June 2024, 21:17",
+        "news_link": "https://news.republika.co.id/berita/seenox320/airlangga-ormas-keagamaan-dapat-prioritas-khusus-kelola-tambang-batubara"
+    },
+    {
         "title": "Kemendikbudristek Buat Pedoman PPKMB 2024",
         "category": "News",
         "publish_time": "01 June 2024, 21:09",
         "news_link": "https://news.republika.co.id/berita/seeko0430/kemendikbudristek-buat-pedoman-ppkmb-2024"
     },
     {
-        "title": "Bukan Tanpa Alasan, Ini Sebabnya Jamaah Haji Perempuan tak Belanja Sendirian",
+        "title": "Pedagang di Saudi Genit-Genit, Jamaah Haji Perempuan Sebaiknya tak Belanja Sendirian",
         "category": "Khazanah",
         "publish_time": "01 June 2024, 21:08",
-        "news_link": "https://khazanah.republika.co.id/berita/seen6x430/bukan-tanpa-alasan-ini-sebabnya-jamaah-haji-perempuan-tak-belanja-sendirian"
+        "news_link": "https://khazanah.republika.co.id/berita/seen6x430/pedagang-di-saudi-genitgenit-jamaah-haji-perempuan-sebaiknya-tak-belanja-sendirian"
     },
     {
         "title": "Edin Terzic: Kemenangan atas Madrid di Wembley akan Jadi Cerita Istimewa untuk Dortmund",
@@ -214,89 +298,5 @@
         "category": "News",
         "publish_time": "01 June 2024, 18:54",
         "news_link": "https://news.republika.co.id/berita/seeh2m370/volume-kendaraan-jalur-wisata-puncak-meningkat-hingga-dua-kali-lipat"
-    },
-    {
-        "title": "Loong Weekend, Jalur Menuju Puncak Macet Parah",
-        "category": "News",
-        "publish_time": "01 June 2024, 18:54",
-        "news_link": "https://news.republika.co.id/berita/seeh2h484/loong-weekend-jalur-menuju-puncak-macet-parah"
-    },
-    {
-        "title": "Cegah Kekerasan Perempuan dan Anak, Pemkot Yogya Bentuk Gugus Tugas",
-        "category": "Rejogja",
-        "publish_time": "01 June 2024, 18:53",
-        "news_link": "https://rejogja.republika.co.id/berita/seeh0o291/cegah-kekerasan-perempuan-dan-anak-pemkot-yogya-bentuk-gugus-tugas"
-    },
-    {
-        "title": "Akad Massal di BTN, Puluhan Konsumen Resmi Huni Nawa Village Bantul",
-        "category": "Rejogja",
-        "publish_time": "01 June 2024, 18:45",
-        "news_link": "https://rejogja.republika.co.id/berita/seegnu291/akad-massal-di-btn-puluhan-konsumen-resmi-huni-nawa-village-bantul"
-    },
-    {
-        "title": "Stasiun KCIC Menuju Bandara Halim Kini Tersambung Layanan Shuttle",
-        "category": "News",
-        "publish_time": "01 June 2024, 18:44",
-        "news_link": "https://news.republika.co.id/berita/seegmd484/stasiun-kcic-menuju-bandara-halim-kini-tersambung-layanan-shuttle"
-    },
-    {
-        "title": "Senyum Sumringah Ciro Alves, David Da Silva Hingga Bojan Disambut Ribuan Bobotoh",
-        "category": "Rejabar",
-        "publish_time": "01 June 2024, 18:36",
-        "news_link": "https://rejabar.republika.co.id/berita/seeg8d512/senyum-sumringah-ciro-alves-david-da-silva-hingga-bojan-disambut-ribuan-bobotoh"
-    },
-    {
-        "title": "Poltergeist dan Phobetor, Eksoplanet Pertama yang Ditemukan Ilmuwan, Mengubah Pandangan tentang Alam Semesta",
-        "category": "Network",
-        "publish_time": "01 June 2024, 18:35",
-        "news_link": "https://antariksa.republika.co.id/ulasan/1714713951/poltergeist-dan-phobetor-eksoplanet-pertama-yang-ditemukan-ilmuwan-mengubah-pandangan-tentang-alam-semesta"
-    },
-    {
-        "title": "Pemain NBA Marques Bolden dan Grant Williams Beri Pelatihan Basket untuk Pelajar",
-        "category": "Visual",
-        "publish_time": "01 June 2024, 18:30",
-        "news_link": "https://visual.republika.co.id/berita/seebvu375/pemain-nba-marques-bolden-dan-grant-williams-beri-pelatihan-basket-untuk-pelajar"
-    },
-    {
-        "title": "Mendag Yakin Masyarakat Taat pada Aturan Pembelian LPG 3 Kg dengan KTP",
-        "category": "Ekonomi",
-        "publish_time": "01 June 2024, 18:28",
-        "news_link": "https://ekonomi.republika.co.id/berita/seefut370/mendag-yakin-masyarakat-taat-pada-aturan-pembelian-lpg-3-kg-dengan-ktp"
-    },
-    {
-        "title": "Jude Bellingham Berharap Raih Kemenangan di Liga Champions dan Euro 2024",
-        "category": "News",
-        "publish_time": "01 June 2024, 18:23",
-        "news_link": "https://news.republika.co.id/berita/seefmu456/jude-bellingham-berharap-raih-kemenangan-di-liga-champions-dan-euro-2024"
-    },
-    {
-        "title": "Ini Cara Hasnuryadi Sulaiman Melepas Kangen ke Almarhum Ortunya",
-        "category": "News",
-        "publish_time": "01 June 2024, 18:19",
-        "news_link": "https://news.republika.co.id/berita/seejb5318/ini-cara-hasnuryadi-sulaiman-melepas-kangen-ke-almarhum-ortunya"
-    },
-    {
-        "title": "Bank Sampah Widuri Mampang Masuk 6 Besar Lomba 3R DLHK Depok",
-        "category": "Network",
-        "publish_time": "01 June 2024, 18:13",
-        "news_link": "https://ruzka.republika.co.id/komunitas/1674714847/bank-sampah-widuri-mampang-masuk-6-besar-lomba-3r-dlhk-depok"
-    },
-    {
-        "title": "Kebutuhan Hewan Kurban di Bantul Capai Puluhan Ribu Ekor",
-        "category": "Rejogja",
-        "publish_time": "01 June 2024, 18:12",
-        "news_link": "https://rejogja.republika.co.id/berita/seef4l291/kebutuhan-hewan-kurban-di-bantul-capai-puluhan-ribu-ekor"
-    },
-    {
-        "title": "Kemenag Beri Pesan untuk Para Jemaah Calhaj Kota Depok",
-        "category": "Network",
-        "publish_time": "01 June 2024, 18:04",
-        "news_link": "https://ruzka.republika.co.id/nasional/1674714824/kemenag-beri-pesan-untuk-para-jemaah-calhaj-kota-depok"
-    },
-    {
-        "title": "Apa bedanya 'Tanggal Kedaluwarsa' dan 'Tanggal Baik Sebelum'?",
-        "category": "Ameera",
-        "publish_time": "01 June 2024, 18:01",
-        "news_link": "https://ameera.republika.co.id/berita/seeemv370/apa-bedanya-tanggal-kedaluwarsa-dan-tanggal-baik-sebelum"
     }
 ]
