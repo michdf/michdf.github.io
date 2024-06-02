@@ -1,9 +1,111 @@
 [
     {
+        "title": "Pelajaran dari Nabi Daud",
+        "category": "Khazanah",
+        "publish_time": "02 June 2024, 22:03",
+        "news_link": "https://khazanah.republika.co.id/berita/segkie430/pelajaran-dari-nabi-daud"
+    },
+    {
+        "title": "Mendag Pastikan Stok Pangan Aman dan Harga Terkendali Jelang Idul Adha",
+        "category": "Ekonomi",
+        "publish_time": "02 June 2024, 22:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/segj19502/mendag-pastikan-stok-pangan-aman-dan-harga-terkendali-jelang-idul-adha"
+    },
+    {
+        "title": "Sholatlah Meski dalam Keadaan Terdesak",
+        "category": "Iqra",
+        "publish_time": "02 June 2024, 21:57",
+        "news_link": "https://iqra.republika.co.id/berita/segk13430/sholatlah-meski-dalam-keadaan-terdesak"
+    },
+    {
+        "title": "Pemerintah AS Ajukan Gugatan Anti-Monopoli Terhadap Raksasa Tiket Konser",
+        "category": "Video",
+        "publish_time": "02 June 2024, 21:54",
+        "news_link": "https://tv.republika.co.id/berita/segk2i418/pemerintah-as-ajukan-gugatan-antimonopoli-terhadap-raksasa-tiket-konser"
+    },
+    {
+        "title": "Larangan Nikah Beda Agama",
+        "category": "Iqra",
+        "publish_time": "02 June 2024, 21:52",
+        "news_link": "https://iqra.republika.co.id/berita/segjn2430/larangan-nikah-beda-agama"
+    },
+    {
+        "title": "Memetakan Polemik Pulau Rempang",
+        "category": "Retizen",
+        "publish_time": "02 June 2024, 21:51",
+        "news_link": "https://retizen.republika.co.id/posts/310622/memetakan-polemik-pulau-rempang"
+    },
+    {
+        "title": "7 Alasan Anda Mengalami Mimpi Buruk",
+        "category": "Retizen",
+        "publish_time": "02 June 2024, 21:51",
+        "news_link": "https://retizen.republika.co.id/posts/310639/7-alasan-anda-mengalami-mimpi-buruk"
+    },
+    {
+        "title": "Presiden Israel Dukung\u00a0Proposal\u00a0Biden Soal Gencatan Senjata Gaza, Bagaimana Netanyahu?",
+        "category": "News",
+        "publish_time": "02 June 2024, 21:49",
+        "news_link": "https://news.republika.co.id/berita/segjvb502/presiden-israel-dukungproposalbiden-soal-gencatan-senjata-gaza-bagaimana-netanyahu"
+    },
+    {
+        "title": "Larangan Menyombongkan Garis Keturunan",
+        "category": "Iqra",
+        "publish_time": "02 June 2024, 21:47",
+        "news_link": "https://iqra.republika.co.id/berita/segjr3430/larangan-menyombongkan-garis-keturunan"
+    },
+    {
+        "title": "Perintah Allah untuk Berbakti Kepada Ibu",
+        "category": "Iqra",
+        "publish_time": "02 June 2024, 21:38",
+        "news_link": "https://iqra.republika.co.id/berita/segjbp430/perintah-allah-untuk-berbakti-kepada-ibu"
+    },
+    {
+        "title": "Lagu Kolaborasi Alan Walker dan Raffi-Nagita In Your Eyes Dirilis Hari Ini",
+        "category": "Network",
+        "publish_time": "02 June 2024, 21:37",
+        "news_link": "https://filmusiku.com/posts/310621/lagu-kolaborasi-alan-walker-dan-raffi-nagita-in-your-eyes-dirilis-hari-ini"
+    },
+    {
+        "title": "Singapore Open 2024: Meski Hanya Finalis, Fajar/Rian Tetap Puas",
+        "category": "Network",
+        "publish_time": "02 June 2024, 21:36",
+        "news_link": "https://badmintonews.id/posts/310638/singapore-open-2024-meski-hanya-finalis-fajar-rian-tetap-puas"
+    },
+    {
+        "title": "Rekor Baru, Teleskop James Webb Temukan Galaksi Terjauh, Paling Awal Setelah Big Bang",
+        "category": "Network",
+        "publish_time": "02 June 2024, 21:27",
+        "news_link": "https://antariksa.republika.co.id/sains/1714717728/rekor-baru-teleskop-james-webb-temukan-galaksi-terjauh-paling-awal-setelah-big-bang"
+    },
+    {
+        "title": "Ekonomi Syariah Indonesia Masih Nomor 3 Dunia, Airlangga: Tidak Masuk Akal",
+        "category": "Sharia",
+        "publish_time": "02 June 2024, 21:27",
+        "news_link": "https://sharia.republika.co.id/berita/segitu502/ekonomi-syariah-indonesia-masih-nomor-3-dunia-airlangga-tidak-masuk-akal"
+    },
+    {
+        "title": "Perjanjian Aqabah di Bulan Dzulhijah",
+        "category": "Khazanah",
+        "publish_time": "02 June 2024, 21:19",
+        "news_link": "https://khazanah.republika.co.id/berita/segiao430/perjanjian-aqabah-di-bulan-dzulhijah"
+    },
+    {
+        "title": "Shin Tae-yong Ungkap Alasan Bawa Malik Risaldi dan Dimas Drajat ke Skuad Garuda",
+        "category": "News",
+        "publish_time": "02 June 2024, 21:11",
+        "news_link": "https://news.republika.co.id/berita/segi2s348/shin-taeyong-ungkap-alasan-bawa-malik-risaldi-dan-dimas-drajat-ke-skuad-garuda"
+    },
+    {
         "title": "Mengurangi Penggunaan Pestisida dengan Lampu Perangkap Hama",
         "category": "Visual",
         "publish_time": "02 June 2024, 21:05",
         "news_link": "https://visual.republika.co.id/berita/segg0z491/mengurangi-penggunaan-pestisida-dengan-lampu-perangkap-hama"
+    },
+    {
+        "title": "Besok Dibuka Pendaftaran PPDB Online Depok Tingkat SMAN/SMKN, Persiapkan Dokumennya dan Ini Cara Daftarnya",
+        "category": "Network",
+        "publish_time": "02 June 2024, 21:02",
+        "news_link": "https://ruzka.republika.co.id/sekolah/1674717626/besok-dibuka-pendaftaran-ppdb-online-depok-tingkat-smansmkn-persiapkan-dokumennya-dan-ini-cara-daftarnya"
     },
     {
         "title": "Dirut PNM Dorong Generasi Muda Peka pada Mereka yang Butuhkan",
@@ -196,107 +298,5 @@
         "category": "Rejabar",
         "publish_time": "02 June 2024, 18:07",
         "news_link": "https://rejabar.republika.co.id/berita/seg9k6512/pemkot-cirebon-pastikan-hibah-rp-36-miliar-pilkada-2024-disalurkan-pekan-kedua-juni"
-    },
-    {
-        "title": "Pandangan Empat Imam Mazhab tentang Ziarah Kubur",
-        "category": "Network",
-        "publish_time": "02 June 2024, 18:06",
-        "news_link": "https://sajada.id/posts/310609/pandangan-empat-imam-mazhab-tentang-ziarah-kubur"
-    },
-    {
-        "title": "Pertamina Foundation Raih Top CSR Awards 2024",
-        "category": "Esgnow",
-        "publish_time": "02 June 2024, 18:05",
-        "news_link": "https://esgnow.republika.co.id/berita/seg9gr349/pertamina-foundation-raih-top-csr-awards-2024"
-    },
-    {
-        "title": "Keluarga tidak Perlu Antar Jamaah Haji Sampai Asrama",
-        "category": "Khazanah",
-        "publish_time": "02 June 2024, 18:00",
-        "news_link": "https://khazanah.republika.co.id/berita/seg69m451/keluarga-tidak-perlu-antar-jamaah-haji-sampai-asrama"
-    },
-    {
-        "title": "Pertamina Kembali Buka Program Beasiswa Prestasi untuk Putra Putri Riau",
-        "category": "News",
-        "publish_time": "02 June 2024, 17:49",
-        "news_link": "https://news.republika.co.id/berita/seg8pr349/pertamina-kembali-buka-program-beasiswa-prestasi-untuk-putra-putri-riau"
-    },
-    {
-        "title": "Sekjen DMI: Dakwah Mengkafirkan Bukan Dakwah Kemasjidan Tapi Sektarian",
-        "category": "Rejabar",
-        "publish_time": "02 June 2024, 17:45",
-        "news_link": "https://rejabar.republika.co.id/berita/seg8jv512/sekjen-dmi-dakwah-mengkafirkan-bukan-dakwah-kemasjidan-tapi-sektarian"
-    },
-    {
-        "title": "Menyentuh! Bupati Dadang Supriatna Ajak Puluhan Anak Yatim Piatu Singgah ke Ruang Kerjanya",
-        "category": "Rejabar",
-        "publish_time": "02 June 2024, 17:37",
-        "news_link": "https://rejabar.republika.co.id/berita/seg876349/menyentuh-bupati-dadang-supriatna-ajak-puluhan-anak-yatim-piatu-singgah-ke-ruang-kerjanya"
-    },
-    {
-        "title": "Pilbup Majalengka di Depan Mata, Sosok Eman Suherman Turut Didorong Maju",
-        "category": "Rejabar",
-        "publish_time": "02 June 2024, 17:35",
-        "news_link": "https://rejabar.republika.co.id/berita/seg838456/pilbup-majalengka-di-depan-mata-sosok-eman-suherman-turut-didorong-maju"
-    },
-    {
-        "title": "Jamaah Haji yang Meninggal Bertambah Jadi 32 Orang",
-        "category": "Khazanah",
-        "publish_time": "02 June 2024, 17:32",
-        "news_link": "https://khazanah.republika.co.id/berita/seg7i5430/jamaah-haji-yang-meninggal-bertambah-jadi-32-orang"
-    },
-    {
-        "title": "Ijtima Ulama MUI Serukan Penggunaan Produk dalam Negeri",
-        "category": "Khazanah",
-        "publish_time": "02 June 2024, 17:31",
-        "news_link": "https://khazanah.republika.co.id/berita/seg762430/ijtima-ulama-mui-serukan-penggunaan-produk-dalam-negeri"
-    },
-    {
-        "title": "Universitas BSI Kampus Pontianak Berikan Beasiswa Juara untuk Hafidz Alquran",
-        "category": "News",
-        "publish_time": "02 June 2024, 17:23",
-        "news_link": "https://news.republika.co.id/berita/seg7je349/universitas-bsi-kampus-pontianak-berikan-beasiswa-juara-untuk-hafidz-alquran"
-    },
-    {
-        "title": "KAI Logistik Targetkan Penanganan Pengiriman Batu Bara 28 Juta Ton",
-        "category": "Ekonomi",
-        "publish_time": "02 June 2024, 17:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/seg6go349/kai-logistik-targetkan-penanganan-pengiriman-batu-bara-28-juta-ton"
-    },
-    {
-        "title": "Tiga Landasan Ketentuan Penggunaan Visa untuk Haji",
-        "category": "Khazanah",
-        "publish_time": "02 June 2024, 17:15",
-        "news_link": "https://khazanah.republika.co.id/berita/seg63n451/tiga-landasan-ketentuan-penggunaan-visa-untuk-haji"
-    },
-    {
-        "title": "KH Masyhuril Ingatkan Dakwah Bukan untuk Membuat Perpecahan",
-        "category": "Khazanah",
-        "publish_time": "02 June 2024, 17:10",
-        "news_link": "https://khazanah.republika.co.id/berita/seg6td430/kh-masyhuril-ingatkan-dakwah-bukan-untuk-membuat-perpecahan"
-    },
-    {
-        "title": "Marak Kekerasan Seksual, Himapstra UGM Adakan Serial Pelatihan Edukasi KBGO di Bantul",
-        "category": "Rejogja",
-        "publish_time": "02 June 2024, 17:06",
-        "news_link": "https://rejogja.republika.co.id/berita/sefzav291/marak-kekerasan-seksual-himapstra-ugm-adakan-serial-pelatihan-edukasi-kbgo-di-bantul"
-    },
-    {
-        "title": "Ustadz Derry Sulaiman: Dakwah Mestinya Menyalakan Cahaya bukan Mencaci Kegelapan",
-        "category": "Khazanah",
-        "publish_time": "02 June 2024, 17:02",
-        "news_link": "https://khazanah.republika.co.id/berita/seg6fr430/ustadz-derry-sulaiman-dakwah-mestinya-menyalakan-cahaya-bukan-mencaci-kegelapan"
-    },
-    {
-        "title": "UKT IAIN Kendari Rp 400 ribu hingga Rp 4,4 Juta",
-        "category": "Khazanah",
-        "publish_time": "02 June 2024, 17:00",
-        "news_link": "https://khazanah.republika.co.id/berita/seg5zr451/ukt-iain-kendari-rp-400-ribu-hingga-rp-44-juta"
-    },
-    {
-        "title": "Skor Kacamata Tutup Babak Pertama Laga Uji Coba Indonesia Vs Tanzania",
-        "category": "News",
-        "publish_time": "02 June 2024, 16:59",
-        "news_link": "https://news.republika.co.id/berita/seg6et348/skor-kacamata-tutup-babak-pertama-laga-uji-coba-indonesia-vs-tanzania"
     }
 ]
