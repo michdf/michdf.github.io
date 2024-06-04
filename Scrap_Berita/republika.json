@@ -1,134 +1,218 @@
 [
     {
+        "title": "Muhammadiyah Respons 40 Ribu Jamaah RI tak akan Mabit di Muzdalifah",
+        "category": "Khazanah",
+        "publish_time": "04-06-2024 05:08",
+        "news_link": "https://khazanah.republika.co.id/berita/sejiai458/muhammadiyah-respons-40-ribu-jamaah-ri-tak-akan-mabit-di-muzdalifah"
+    },
+    {
+        "title": "Bantuan Sembako untuk Gaza dari Indonesia Terus Dialirkan",
+        "category": "News",
+        "publish_time": "04-06-2024 05:05",
+        "news_link": "https://news.republika.co.id/berita/seji65456/bantuan-sembako-untuk-gaza-dari-indonesia-terus-dialirkan"
+    },
+    {
+        "title": "Raih Capaian Terindeks DOAJ, Jurnal PILAR Buka Pintu Akses Global di Bidang Ilmu Komputer",
+        "category": "News",
+        "publish_time": "04-06-2024 05:04",
+        "news_link": "https://news.republika.co.id/berita/seji3i490/raih-capaian-terindeks-doaj-jurnal-pilar-buka-pintu-akses-global-di-bidang-ilmu-komputer"
+    },
+    {
+        "title": "Selamatkan Lingkungan, PNM Latih Nasabah Kelola Sampah",
+        "category": "Esgnow",
+        "publish_time": "04-06-2024 04:59",
+        "news_link": "https://esgnow.republika.co.id/berita/sejgng416/selamatkan-lingkungan-pnm-latih-nasabah-kelola-sampah"
+    },
+    {
+        "title": "Ini Waktu Terbaik Mengonsumsi Protein, Menurut Ahli Diet",
+        "category": "Retizen",
+        "publish_time": "04-06-2024 04:49",
+        "news_link": "https://retizen.republika.co.id/posts/310973/ini-waktu-terbaik-mengonsumsi-protein-menurut-ahli-diet"
+    },
+    {
+        "title": "Mengapa KPK Periksa Mahasiswa Terkait Buron Harun Masiku?",
+        "category": "News",
+        "publish_time": "04-06-2024 04:47",
+        "news_link": "https://news.republika.co.id/berita/sejhb9409/mengapa-kpk-periksa-mahasiswa-terkait-buron-harun-masiku"
+    },
+    {
+        "title": "Perkuat Kualitas Pendidikan Kesehatan, Holding RS BUMN Jalin Sinergi dengan IJN Malaysia",
+        "category": "Ekonomi",
+        "publish_time": "04-06-2024 04:47",
+        "news_link": "https://ekonomi.republika.co.id/berita/sejhav490/perkuat-kualitas-pendidikan-kesehatan-holding-rs-bumn-jalin-sinergi-dengan-ijn-malaysia"
+    },
+    {
+        "title": "Jokowi Minta Pemda Bangun Kota yang Hijau dan Nyaman Dihuni",
+        "category": "Esgnow",
+        "publish_time": "04-06-2024 04:44",
+        "news_link": "https://esgnow.republika.co.id/berita/sejdth416/jokowi-minta-pemda-bangun-kota-yang-hijau-dan-nyaman-dihuni"
+    },
+    {
+        "title": "Bea Cukai Sintete Gagalkan Penyelundupan Sembako Ilegal asal Malaysia",
+        "category": "Beacukai",
+        "publish_time": "04-06-2024 04:33",
+        "news_link": "https://republika.co.id/berita/sejgog490/bea-cukai-sintete-gagalkan-penyelundupan-sembako-ilegal-asal-malaysia%c2%a0"
+    },
+    {
+        "title": "Polri Serahkan Buronan Nomor 1 Thailand Sore Ini di Bandara Soetta",
+        "category": "News",
+        "publish_time": "04-06-2024 04:30",
+        "news_link": "https://news.republika.co.id/berita/sejgis484/polri-serahkan-buronan-nomor-1-thailand-sore-ini-di-bandara-soetta"
+    },
+    {
+        "title": "Penjualan Sapi dan Kambing Kurban di Indramayu Mulai Ramai, Ini Kisaran Harganya",
+        "category": "Rejabar",
+        "publish_time": "04-06-2024 04:29",
+        "news_link": "https://rejabar.republika.co.id/berita/sejghk512/penjualan-sapi-dan-kambing-kurban-di-indramayu-mulai-ramai-ini-kisaran-harganya"
+    },
+    {
+        "title": "Detik-Detik Serangan Udara Zionis Israel Menghantam Kamp Pengungsi Al Bureije Gaza",
+        "category": "Visual",
+        "publish_time": "04-06-2024 04:23",
+        "news_link": "https://visual.republika.co.id/berita/sejg77491/detikdetik-serangan-udara-zionis-israel-menghantam-kamp-pengungsi-al-bureije-gaza"
+    },
+    {
+        "title": "Prof HE Mujahidin Kembali Dilantik Menjadi Rektor Universitas Ibn Khaldun Bogor",
+        "category": "Network",
+        "publish_time": "04-06-2024 04:22",
+        "news_link": "https://kampus.republika.co.id/news/1624723171/prof-he-mujahidin-kembali-dilantik-menjadi-rektor-universitas-ibn-khaldun-bogor"
+    },
+    {
+        "title": "Cegah Stunting Sejak Dini, Pelindo dan Rumah Zakat Gelar Edukasi Gizi",
+        "category": "Khazanah",
+        "publish_time": "04-06-2024 04:18",
+        "news_link": "https://khazanah.republika.co.id/berita/sejfyl490/cegah-stunting-sejak-dini-pelindo-dan-rumah-zakat-gelar-edukasi-gizi"
+    },
+    {
         "title": "Jumat Ini, Kemenag Pantau Hilal Bulan Zulhijjah 1445 H",
         "category": "Khazanah",
-        "publish_time": "04-06-2024 04:11",
+        "publish_time": "04-06-2024 04:13",
         "news_link": "https://khazanah.republika.co.id/berita/sejfm4458/jumat-ini-kemenag-pantau-hilal-bulan-zulhijjah-1445-h"
     },
     {
         "title": "Performa Semakin Cemerlang, Timnas Indonesia Dapat Dukungan hinga Luar Lapangan",
         "category": "Video",
-        "publish_time": "04-06-2024 04:09",
+        "publish_time": "04-06-2024 04:13",
         "news_link": "https://tv.republika.co.id/berita/sejfjy418/performa-semakin-cemerlang-timnas-indonesia-dapat-dukungan-hinga-luar-lapangan"
     },
     {
         "title": "Melalui Kampung Gebyar Pancasila, Dompet Dhuafa Ajak Masyarakat Rawat Sejarah",
         "category": "Khazanah",
-        "publish_time": "04-06-2024 04:09",
+        "publish_time": "04-06-2024 04:13",
         "news_link": "https://khazanah.republika.co.id/berita/sejfiz490/melalui-kampung-gebyar-pancasila-dompet-dhuafa-ajak-masyarakat-rawat-sejarah"
     },
     {
         "title": "Presiden Jokowi Resmikan Pusat Program Penghijauan IKN di Mentawir",
         "category": "News",
-        "publish_time": "04-06-2024 04:06",
+        "publish_time": "04-06-2024 04:13",
         "news_link": "https://news.republika.co.id/berita/sejfdl484/presiden-jokowi-resmikan-pusat-program-penghijauan-ikn-di-mentawir"
     },
     {
         "title": "Dugaan Ada Kecurangan, Tiga Model Ini Stop Produksi, Toyota: Kami Minta Maaf",
         "category": "Network",
-        "publish_time": "04-06-2024 04:00",
+        "publish_time": "04-06-2024 04:13",
         "news_link": "https://motoresto.id/posts/310968/dugaan-ada-kecurangan-tiga-model-ini-stop-produksi-toyota-kami-minta-maaf"
     },
     {
         "title": "Trailer Bridgerton 3 (Part 2) Dirilis, Identitas Lady Whistledown Nyaris Terbongkar",
         "category": "Network",
-        "publish_time": "04-06-2024 03:59",
+        "publish_time": "04-06-2024 04:13",
         "news_link": "https://filmusiku.com/posts/310963/trailer-bridgerton-3-part-2-dirilis-identitas-lady-whistledown-nyaris-terbongkar"
     },
     {
         "title": "Konsumsi BBM Honda Beat Terbaru 60,6 km/L, Apa Istimewanya?",
         "category": "Network",
-        "publish_time": "04-06-2024 03:59",
+        "publish_time": "04-06-2024 04:13",
         "news_link": "https://motoresto.id/posts/310891/konsumsi-bbm-honda-beat-terbaru-60-6-km-l-apa-istimewanya-"
     },
     {
         "title": "Minum Kopi Bisa Memengaruhi Kesehatan Ginjal",
         "category": "Network",
-        "publish_time": "04-06-2024 03:59",
+        "publish_time": "04-06-2024 04:13",
         "news_link": "https://impresiupdate.id/posts/310951/minum-kopi-bisa-memengaruhi-kesehatan-ginjal"
     },
     {
         "title": "Secukupnya Saja Mencintai Harta",
         "category": "Khazanah",
-        "publish_time": "04-06-2024 03:57",
+        "publish_time": "04-06-2024 04:13",
         "news_link": "https://khazanah.republika.co.id/berita/sejeyn458/secukupnya-saja-mencintai-harta"
     },
     {
         "title": "Bola Liar Mundurnya Bambang Susantono, Bakal Mengancam IKN?",
         "category": "News",
-        "publish_time": "04-06-2024 03:53",
+        "publish_time": "04-06-2024 04:13",
         "news_link": "https://news.republika.co.id/berita/sejes7377/bola-liar-mundurnya-bambang-susantono-bakal-mengancam-ikn"
     },
     {
         "title": "Jenguk Anaknya, Kartini Bawakan Pisang dan Telur Asin Kesukaan Pegi Setiawan",
         "category": "Rejabar",
-        "publish_time": "04-06-2024 03:52",
+        "publish_time": "04-06-2024 04:13",
         "news_link": "https://rejabar.republika.co.id/berita/sejeqv512/jenguk-anaknya-kartini-bawakan-pisang-dan-telur-asin-kesukaan-pegi-setiawan"
     },
     {
         "title": "Bank Mandiri Kembali Raih Posisi Puncak Kredit Sindikasi",
         "category": "Ekonomi",
-        "publish_time": "04-06-2024 03:51",
+        "publish_time": "04-06-2024 04:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sejeol502/bank-mandiri-kembali-raih-posisi-puncak-kredit-sindikasi"
     },
     {
         "title": "Beli Gas 3 Kg Perlu Bawa KTP, Pertamina Patra Niaga: Agar Subsidi Tepat Sasaran",
         "category": "Ekonomi",
-        "publish_time": "04-06-2024 03:48",
+        "publish_time": "04-06-2024 04:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sejejy349/beli-gas-3-kg-perlu-bawa-ktp-pertamina-patra-niaga-agar-subsidi-tepat-sasaran"
     },
     {
         "title": "Hasto Penuhi Panggilan Polda Metro Jaya, PDIP Curigai Ada Upaya Bungkam Suara-Suara Kritis",
         "category": "News",
-        "publish_time": "04-06-2024 03:45",
+        "publish_time": "04-06-2024 04:13",
         "news_link": "https://news.republika.co.id/berita/sejeeg409/hasto-penuhi-panggilan-polda-metro-jaya-pdip-curigai-ada-upaya-bungkam-suarasuara-kritis"
     },
     {
         "title": "Berdayakan Ekonomi Umat, Kemenag Jaktim Gandeng Lembaga Amil Zakat",
         "category": "Network",
-        "publish_time": "04-06-2024 03:42",
+        "publish_time": "04-06-2024 03:13",
         "news_link": "https://boyanesia.republika.co.id/news/1644722961/berdayakan-ekonomi-umat-kemenag-jaktim-gandeng-lembaga-amil-zakat"
     },
     {
         "title": "NIK Warga Jakarta yang Sudah Dinonaktifkan Bisa Diaktifkan Kembali, Ini Kata Disdukcapil",
         "category": "News",
-        "publish_time": "04-06-2024 03:36",
+        "publish_time": "04-06-2024 03:13",
         "news_link": "https://news.republika.co.id/berita/seje02409/nik-warga-jakarta-yang-sudah-dinonaktifkan-bisa-diaktifkan-kembali-ini-kata-disdukcapil"
     },
     {
         "title": "Semangat Mengurangi Sampah Fashion Digelorakan Bakul Budaya dan Makara Art Center UI",
         "category": "Network",
-        "publish_time": "04-06-2024 03:31",
+        "publish_time": "04-06-2024 03:13",
         "news_link": "https://ruzka.republika.co.id/komunitas/1674722908/semangat-mengurangi-sampah-fashion-digelorakan-bakul-budaya-dan-makara-art-center-ui"
     },
     {
         "title": "PBB: Tingkat Kematian Akibat Bencana Menurun",
         "category": "Esgnow",
-        "publish_time": "04-06-2024 03:30",
+        "publish_time": "04-06-2024 03:13",
         "news_link": "https://esgnow.republika.co.id/berita/sejc0u416/pbb-tingkat-kematian-akibat-bencana-menurun"
     },
     {
         "title": "Lewat Produk Cat Recycled, Mowilex Mampu Kurangi Jejak Karbon 60 Persen",
         "category": "Ekonomi",
-        "publish_time": "04-06-2024 03:30",
+        "publish_time": "04-06-2024 03:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sejdpf349/lewat-produk-cat-recycled-mowilex-mampu-kurangi-jejak-karbon-60-persen"
     },
     {
         "title": "Konsulat Israel di San Francisco Digeruduk Demonstran Pro-Palestina",
         "category": "News",
-        "publish_time": "04-06-2024 03:27",
+        "publish_time": "04-06-2024 03:13",
         "news_link": "https://news.republika.co.id/berita/sejdkn393/konsulat-israel-di-san-francisco-digeruduk-demonstran-propalestina"
     },
     {
         "title": "Ilmuwan Temukan Senyawa Ganja di Dalam Tanaman yang Sama Sekali Berbeda",
         "category": "Network",
-        "publish_time": "04-06-2024 03:25",
+        "publish_time": "04-06-2024 03:13",
         "news_link": "https://impresi.republika.co.id/news/1694722878/ilmuwan-temukan-senyawa-ganja-di-dalam-tanaman-yang-sama-sekali-berbeda"
     },
     {
         "title": "Mahasiswa Prodi Hubungan Masyarakat Universitas BSI Siap Sambut PR Award 2024",
         "category": "News",
-        "publish_time": "04-06-2024 03:23",
+        "publish_time": "04-06-2024 03:13",
         "news_link": "https://news.republika.co.id/berita/sejded490/mahasiswa-prodi-hubungan-masyarakat-universitas-bsi-siap-sambut-pr-award-2024"
     },
     {
@@ -214,89 +298,5 @@
         "category": "News",
         "publish_time": "04-06-2024 02:13",
         "news_link": "https://news.republika.co.id/berita/sejahw484/beijing-tuding-pertemuan-menhan-as-korsel-dan-jepang-untuk-serang-china"
-    },
-    {
-        "title": "Trailer Venom 3 Dirilis, Justru Bikin Bingung Fans",
-        "category": "Ameera",
-        "publish_time": "04-06-2024 02:13",
-        "news_link": "https://ameera.republika.co.id/berita/sej9vq425/trailer-venom-3-dirilis-justru-bikin-bingung-fans"
-    },
-    {
-        "title": "Jung Kook Rilis 'Never Let Go', Penghormatan Untuk ARMY BTS",
-        "category": "Network",
-        "publish_time": "04-06-2024 02:13",
-        "news_link": "https://impresi.republika.co.id/musik/1694722514/jung-kook-rilis-never-let-go-penghormatan-untuk-army-bts"
-    },
-    {
-        "title": "Israel Utara Derita Kebakaran Hebat Dibombardir Roket Hizbullah",
-        "category": "Khazanah",
-        "publish_time": "04-06-2024 02:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sej9jw483/israel-utara-derita-kebakaran-hebat-dibombardir-roket-hizbullah"
-    },
-    {
-        "title": "Dilema Bibi: Didesak Biden Terima Proposal Gencatan Senjata, Diancam Digulingkan Ben-Gvir",
-        "category": "News",
-        "publish_time": "04-06-2024 02:13",
-        "news_link": "https://news.republika.co.id/berita/sej9es409/dilema-bibi-didesak-biden-terima-proposal-gencatan-senjata-diancam-digulingkan-bengvir"
-    },
-    {
-        "title": "KPK Minta Kepala Daerah Tindak Tegas PNS yang Berbuat Curang di PPDB",
-        "category": "Rejabar",
-        "publish_time": "04-06-2024 02:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sej942512/kpk-minta-kepala-daerah-tindak-tegas-pns-yang-berbuat-curang-di-ppdb"
-    },
-    {
-        "title": "Jejak PDIP dan PKS Dulu Dukung, Sekarang Kompak Tolak Iuran Tapera",
-        "category": "News",
-        "publish_time": "04-06-2024 02:13",
-        "news_link": "https://news.republika.co.id/berita/sej8ub484/jejak-pdip-dan-pks-dulu-dukung-sekarang-kompak-tolak-iuran-tapera"
-    },
-    {
-        "title": "Miley Cyrus Mengecam Grammy Awards",
-        "category": "Network",
-        "publish_time": "04-06-2024 01:13",
-        "news_link": "https://impresi.republika.co.id/sana-sini/1694722428/miley-cyrus-mengecam-grammy-awards"
-    },
-    {
-        "title": "Haruskah Muslimah Berangkat Haji dengan Mahram?",
-        "category": "Khazanah",
-        "publish_time": "04-06-2024 01:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sej8o2458/haruskah-muslimah-berangkat-haji-dengan-mahram"
-    },
-    {
-        "title": "Puluhan Pasar Tradisional di Bandung akan Gunakan Transaksi Non Tunai",
-        "category": "Rejabar",
-        "publish_time": "04-06-2024 01:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sej8o1512/puluhan-pasar-tradisional-di-bandung-akan-gunakan-transaksi-non-tunai"
-    },
-    {
-        "title": "Gemini AI Hadirkan Opsi Bahasa Indonesia, Begini Cara Memakainya",
-        "category": "Ameera",
-        "publish_time": "04-06-2024 01:13",
-        "news_link": "https://ameera.republika.co.id/berita/sej8ib425/gemini-ai-hadirkan-opsi-bahasa-indonesia-begini-cara-memakainya"
-    },
-    {
-        "title": "Cara Screenshot Panjang di iPhone, Mudah dan Cepat",
-        "category": "Network",
-        "publish_time": "04-06-2024 01:13",
-        "news_link": "https://ruangtekno.republika.co.id/how-to/1684722401/cara-screenshot-panjang-di-iphone-mudah-dan-cepat"
-    },
-    {
-        "title": "PLTS Terbesar Dunia di Xinjiang Mulai Menyala",
-        "category": "Esgnow",
-        "publish_time": "04-06-2024 01:13",
-        "news_link": "https://esgnow.republika.co.id/berita/sej8b3416/plts-terbesar-dunia-di-xinjiang-mulai-menyala"
-    },
-    {
-        "title": "Server PPDB Sempat Down di Hari Pertama, Sekda Jabar Minta Ada Alternatif Solusi Pendaftar",
-        "category": "Rejabar",
-        "publish_time": "04-06-2024 01:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sej883512/server-ppdb-sempat-down-di-hari-pertama-sekda-jabar-minta-ada-alternatif-solusi-pendaftar"
-    },
-    {
-        "title": "Ragam Respons terhadap Proposal Baru Terkait Gaza",
-        "category": "Video",
-        "publish_time": "04-06-2024 01:13",
-        "news_link": "https://tv.republika.co.id/berita/sej84f418/ragam-respons-terhadap-proposal-baru-terkait-gaza"
     }
 ]
