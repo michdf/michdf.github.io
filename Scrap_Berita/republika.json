@@ -1,62 +1,278 @@
 [
     {
+        "title": "PT PAL dan Naval Group Siap Kembangkan Fregat Multi Misi Belharra",
+        "category": "Network",
+        "publish_time": "05-06-2024 00:47",
+        "news_link": "https://seputarmiliter.id/posts/311157/pt-pal-dan-naval-group-siap-kembangkan-fregat-multi-misi-belharra"
+    },
+    {
+        "title": "PPIH Dapat Kiriman 100 Kursi Roda untuk Jamaah Haji Lansia",
+        "category": "Khazanah",
+        "publish_time": "05-06-2024 00:45",
+        "news_link": "https://khazanah.republika.co.id/berita/sel0sd458/ppih-dapat-kiriman-100-kursi-roda-untuk-jamaah-haji-lansia"
+    },
+    {
+        "title": "Masih Ingin Berangkat Haji tanpa Visa Resmi?",
+        "category": "Khazanah",
+        "publish_time": "05-06-2024 00:43",
+        "news_link": "https://khazanah.republika.co.id/berita/sel0p1430/masih-ingin-berangkat-haji-tanpa-visa-resmi"
+    },
+    {
+        "title": "Pelaku Kejahatan Jalanan di Bantul Diringkus Polisi",
+        "category": "Rejogja",
+        "publish_time": "05-06-2024 00:41",
+        "news_link": "https://rejogja.republika.co.id/berita/sel0l5291/pelaku-kejahatan-jalanan-di-bantul-diringkus-polisi"
+    },
+    {
+        "title": "Persis: Ormas Dapat Lahan Konsesi, Selama Ini Tambang Dinikmati Kelompok Tertentu",
+        "category": "Khazanah",
+        "publish_time": "05-06-2024 00:33",
+        "news_link": "https://khazanah.republika.co.id/berita/sel087483/persis-ormas-dapat-lahan-konsesi-selama-ini-tambang-dinikmati-kelompok-tertentu"
+    },
+    {
+        "title": "Tiga Kunci Keberkahan untuk Pedagang",
+        "category": "Khazanah",
+        "publish_time": "05-06-2024 00:33",
+        "news_link": "https://khazanah.republika.co.id/berita/sel07q458/tiga-kunci-keberkahan-untuk-pedagang"
+    },
+    {
+        "title": "Hutan Papua, Benteng Krisis Iklim yang Harus Dijaga",
+        "category": "Esgnow",
+        "publish_time": "05-06-2024 00:30",
+        "news_link": "https://esgnow.republika.co.id/berita/sekz13416/hutan-papua-benteng-krisis-iklim-yang-harus-dijaga"
+    },
+    {
+        "title": "Ormas yang Ajukan Usaha Tambang Hanya NU, BKPM: 15 Hari Dapat Terbit Izinnya",
+        "category": "Ekonomi",
+        "publish_time": "05-06-2024 00:26",
+        "news_link": "https://ekonomi.republika.co.id/berita/sekzvv490/ormas-yang-ajukan-usaha-tambang-hanya-nu-bkpm-15-hari-dapat-terbit-izinnya"
+    },
+    {
+        "title": "OJK Sebut Dua Akad Paling Populer di Bank Syariah",
+        "category": "Sharia",
+        "publish_time": "05-06-2024 00:24",
+        "news_link": "https://sharia.republika.co.id/berita/sekzsk502/ojk-sebut-dua-akad-paling-populer-di-bank-syariah"
+    },
+    {
+        "title": "Dukung Literasi AI, Universitas Kristen Indonesia dan University of Southern California Dirikan AI Center di Indonesia",
+        "category": "Network",
+        "publish_time": "05-06-2024 00:22",
+        "news_link": "https://impresi.republika.co.id/news/1694726024/dukung-literasi-ai-universitas-kristen-indonesia-dan-university-of-southern-california-dirikan-ai-center-di-indonesia"
+    },
+    {
+        "title": "Tesla Pangkas Jadwal Produksi Mobil Listrik di Jerman, Ini Alasannya",
+        "category": "Ekonomi",
+        "publish_time": "05-06-2024 00:22",
+        "news_link": "https://ekonomi.republika.co.id/berita/sekzpb349/tesla-pangkas-jadwal-produksi-mobil-listrik-di-jerman-ini-alasannya"
+    },
+    {
+        "title": "Berangkat ke Singapura, Airlangga Bakal Bertemu Menteri Perdagangan AS",
+        "category": "Ekonomi",
+        "publish_time": "05-06-2024 00:20",
+        "news_link": "https://ekonomi.republika.co.id/berita/sekzli490/berangkat-ke-singapura-airlangga-bakal-bertemu-menteri-perdagangan-as"
+    },
+    {
+        "title": "Standar Tinggi Claudia Sheinbaum",
+        "category": "Rejogja",
+        "publish_time": "05-06-2024 00:18",
+        "news_link": "https://rejogja.republika.co.id/berita/sekzia291/standar-tinggi-claudia-sheinbaum"
+    },
+    {
+        "title": "Tiga Nasihat Ibnu \u2018Athaillah untuk Hidup Lebih Tenteram",
+        "category": "Khazanah",
+        "publish_time": "05-06-2024 00:16",
+        "news_link": "https://khazanah.republika.co.id/berita/sekzfq458/tiga-nasihat-ibnu-athaillah-untuk-hidup-lebih-tenteram"
+    },
+    {
+        "title": "Perawatan 13 Jamaah RI Tersebar di Enam Lokasi di Madinah, Ini Lokasinya",
+        "category": "Khazanah",
+        "publish_time": "05-06-2024 00:13",
+        "news_link": "https://khazanah.republika.co.id/berita/sekzax483/perawatan-13-jamaah-ri-tersebar-di-enam-lokasi-di-madinah-ini-lokasinya"
+    },
+    {
+        "title": "Mengubah Pasir Menjadi Emas Hijau: Inovasi China dalam Menaklukkan Gurun",
+        "category": "Network",
+        "publish_time": "05-06-2024 00:10",
+        "news_link": "https://fifarm.id/posts/311149/mengubah-pasir-menjadi-emas-hijau-inovasi-china-dalam-menaklukkan-gurun"
+    },
+    {
+        "title": "Tiga Buah Kegemaran Nabi dan Khasiatnya",
+        "category": "Khazanah",
+        "publish_time": "05-06-2024 00:05",
+        "news_link": "https://khazanah.republika.co.id/berita/sekywz458/tiga-buah-kegemaran-nabi-dan-khasiatnya"
+    },
+    {
+        "title": "Kawal Demokrasi Menuju Indonesia Emas, ARUN Gelar Munas Pertama",
+        "category": "News",
+        "publish_time": "05-06-2024 00:02",
+        "news_link": "https://news.republika.co.id/berita/sekysk456/kawal-demokrasi-menuju-indonesia-emas-arun-gelar-munas-pertama"
+    },
+    {
+        "title": "Menang Penghargaan Militer, Begini Harapan J-Hope BTS",
+        "category": "Network",
+        "publish_time": "05-06-2024 00:01",
+        "news_link": "https://impresi.republika.co.id/sosok/1694725974/menang-penghargaan-militer-begini-harapan-j-hope-bts"
+    },
+    {
+        "title": "Delapan Bus Shalawat Dikerahkan untuk Layani Jamaah Haji Lansia",
+        "category": "Khazanah",
+        "publish_time": "05-06-2024 00:00",
+        "news_link": "https://khazanah.republika.co.id/berita/sekv0d430/delapan-bus-shalawat-dikerahkan-untuk-layani-jamaah-haji-lansia"
+    },
+    {
+        "title": "Mampukah Hizbullah Kalahkan Israel Lewat Perang Terbuka?",
+        "category": "News",
+        "publish_time": "04-06-2024 23:55",
+        "news_link": "https://news.republika.co.id/berita/sekyfw393/mampukah-hizbullah-kalahkan-israel-lewat-perang-terbuka"
+    },
+    {
+        "title": "Bung Karno dan Islam",
+        "category": "Khazanah",
+        "publish_time": "04-06-2024 23:54",
+        "news_link": "https://khazanah.republika.co.id/berita/sekyec458/bung-karno-dan-islam"
+    },
+    {
+        "title": "Bisa Raup Cuan, Ini 10 Trik Foto Keren Pakai Ponsel",
+        "category": "Network",
+        "publish_time": "04-06-2024 23:50",
+        "news_link": "https://impresi.republika.co.id/didaktika/1694725957/bisa-raup-cuan-ini-10-trik-foto-keren-pakai-ponsel"
+    },
+    {
+        "title": "Detik-Detik Rudal Hizbullah Targetkan Pos Militer Israel, Berikut Videonya",
+        "category": "Khazanah",
+        "publish_time": "04-06-2024 23:50",
+        "news_link": "https://khazanah.republika.co.id/berita/sekxtk483/detikdetik-rudal-hizbullah-targetkan-pos-militer-israel-berikut-videonya"
+    },
+    {
+        "title": "Menumbuhkan Generasi Rabbani",
+        "category": "Retizen",
+        "publish_time": "04-06-2024 23:50",
+        "news_link": "https://retizen.republika.co.id/posts/311124/menumbuhkan-generasi-rabbani"
+    },
+    {
+        "title": "Momen Kebenaran di Tengah Kesesatan",
+        "category": "Retizen",
+        "publish_time": "04-06-2024 23:50",
+        "news_link": "https://retizen.republika.co.id/posts/311145/momen-kebenaran-di-tengah-kesesatan"
+    },
+    {
+        "title": "Nyaman Beraktivitas saat Cuaca Panas, Berikut Tips dari PLN",
+        "category": "Network",
+        "publish_time": "04-06-2024 23:50",
+        "news_link": "https://matapantura.republika.co.id/posts/311148/nyaman-beraktivitas-saat-cuaca-panas-berikut-tips-dari-pln"
+    },
+    {
+        "title": "Pertamina Siap Kembangkan Energi Bersih untuk IKN",
+        "category": "Esgnow",
+        "publish_time": "04-06-2024 23:50",
+        "news_link": "https://esgnow.republika.co.id/berita/sekxlz416/pertamina-siap-kembangkan-energi-bersih-untuk-ikn"
+    },
+    {
+        "title": "Pakar Intelijen: Pramuka Harus Tetap Eksis dan Wajib",
+        "category": "Rejogja",
+        "publish_time": "04-06-2024 23:50",
+        "news_link": "https://rejogja.republika.co.id/berita/sekpm4291/pakar-intelijen-pramuka-harus-tetap-eksis-dan-wajib"
+    },
+    {
+        "title": "Claudia Sheinbaum, Presiden Perempuan Pertama Meksiko yang Juga Keturunan Yahudi",
+        "category": "News",
+        "publish_time": "04-06-2024 23:50",
+        "news_link": "https://news.republika.co.id/berita/sek60u409/claudia-sheinbaum-presiden-perempuan-pertama-meksiko-yang-juga-keturunan-yahudi"
+    },
+    {
+        "title": "FIK UMJ Gelar Angkat Sumpah Ners 2023-2024",
+        "category": "Network",
+        "publish_time": "04-06-2024 23:50",
+        "news_link": "https://matapantura.republika.co.id/posts/311147/fik-umj-gelar-angkat-sumpah-ners-2023-2024"
+    },
+    {
+        "title": "Orang Arab Saudi dan Mukimin Ternyata tak Bisa Setiap Tahun Naik Haji",
+        "category": "Khazanah",
+        "publish_time": "04-06-2024 23:50",
+        "news_link": "https://khazanah.republika.co.id/berita/sekuqk430/orang-arab-saudi-dan-mukimin-ternyata-tak-bisa-setiap-tahun-naik-haji"
+    },
+    {
+        "title": "Nabi dan Umatnya: \"Kita Akan Selalu Bersama, Cinta!\"",
+        "category": "Network",
+        "publish_time": "04-06-2024 23:50",
+        "news_link": "https://topnews62.com/posts/311141/nabi-dan-umatnya-kita-akan-selalu-bersama-cinta-"
+    },
+    {
+        "title": "Kala Ahli Sebut Ada Potensi Tol MBZ tak Capai 75 Tahun Masa Ideal Operasi",
+        "category": "News",
+        "publish_time": "04-06-2024 22:50",
+        "news_link": "https://news.republika.co.id/berita/sek4hs409/kala-ahli-sebut-ada-potensi-tol-mbz-tak-capai-75-tahun-masa-ideal-operasi"
+    },
+    {
+        "title": "Hari Kedua Indonesia Open: Berharap Wakil Merah-Putih tak Tersandung",
+        "category": "News",
+        "publish_time": "04-06-2024 22:50",
+        "news_link": "https://news.republika.co.id/berita/sekwpp348/hari-kedua-indonesia-open-berharap-wakil-merahputih-tak-tersandung"
+    },
+    {
+        "title": "Sabilillah, Tradisi Orang Arab Bersedekah: Halal Halal Halal...",
+        "category": "Khazanah",
+        "publish_time": "04-06-2024 22:50",
+        "news_link": "https://khazanah.republika.co.id/berita/sekwog483/sabilillah-tradisi-orang-arab-bersedekah-halal-halal-halal"
+    },
+    {
         "title": "X akan Buka Pintu Pornografi, Berikut Hukumnya dalam Islam",
         "category": "Khazanah",
-        "publish_time": "04-06-2024 23:09",
+        "publish_time": "04-06-2024 22:50",
         "news_link": "https://khazanah.republika.co.id/berita/sekaiy483/x-akan-buka-pintu-pornografi-berikut-hukumnya-dalam-islam"
     },
     {
         "title": "Israel-Hizbullah di Ambang Perang Terbuka",
         "category": "News",
-        "publish_time": "04-06-2024 23:09",
+        "publish_time": "04-06-2024 22:50",
         "news_link": "https://news.republika.co.id/berita/sekwca393/israelhizbullah-di-ambang-perang-terbuka"
     },
     {
         "title": "Harun Masiku Diburu Lagi dan Hasto Dipanggil Polisi, PDIP dalam Tekanan tak Jadi Oposisi?",
         "category": "News",
-        "publish_time": "04-06-2024 23:02",
+        "publish_time": "04-06-2024 22:50",
         "news_link": "https://news.republika.co.id/berita/sek2fk409/harun-masiku-diburu-lagi-dan-hasto-dipanggil-polisi-pdip-dalam-tekanan-tak-jadi-oposisi"
     },
     {
         "title": "Pemkab Bantul Serahkan Bantuan untuk Rumah tak Layak Huni",
         "category": "Rejogja",
-        "publish_time": "04-06-2024 23:01",
+        "publish_time": "04-06-2024 22:50",
         "news_link": "https://rejogja.republika.co.id/berita/sekvyo291/pemkab-bantul-serahkan-bantuan-untuk-rumah-tak-layak-huni"
     },
     {
         "title": "Masjid Nabawi Sepi Ditinggal Jamaah Haji Indonesia",
         "category": "Khazanah",
-        "publish_time": "04-06-2024 23:00",
+        "publish_time": "04-06-2024 22:50",
         "news_link": "https://khazanah.republika.co.id/berita/sekulk430/masjid-nabawi-sepi-ditinggal-jamaah-haji-indonesia"
     },
     {
         "title": "Sabar dan Hikmah di Balik Musibah",
         "category": "Khazanah",
-        "publish_time": "04-06-2024 23:00",
+        "publish_time": "04-06-2024 22:50",
         "news_link": "https://www.republika.id/posts/53267/sabar-dan-hikmah-di-balik-musibah"
     },
     {
         "title": "Tenggelam Kabar Ustadz Syaiful Karim, Kini Muncul Abuya Ghufron Berbahasa Arab Oplosan",
         "category": "Khazanah",
-        "publish_time": "04-06-2024 22:59",
+        "publish_time": "04-06-2024 22:50",
         "news_link": "https://khazanah.republika.co.id/berita/sekvu5320/tenggelam-kabar-ustadz-syaiful-karim-kini-muncul-abuya-ghufron-berbahasa-arab-oplosan"
     },
     {
         "title": "REQComm: Elektabilitas Media Sosial dan Daring Kusnanto Saidi Teratas",
         "category": "News",
-        "publish_time": "04-06-2024 22:58",
+        "publish_time": "04-06-2024 22:50",
         "news_link": "https://news.republika.co.id/berita/sekvsk484/reqcomm-elektabilitas-media-sosial-dan-daring-kusnanto-saidi-teratas"
     },
     {
         "title": "Hasil Laga Persahabatan: Portugal Gulung Finlandia, Italia Ditahan Imbang Turki",
         "category": "News",
-        "publish_time": "04-06-2024 22:56",
+        "publish_time": "04-06-2024 22:50",
         "news_link": "https://news.republika.co.id/berita/sekvqf348/hasil-laga-persahabatan-portugal-gulung-finlandia-italia-ditahan-imbang-turki"
     },
     {
         "title": "Doa Selepas Sholat Dhuha Versi NU Beserta Latin dan Terjemahan",
         "category": "Iqra",
-        "publish_time": "04-06-2024 22:54",
+        "publish_time": "04-06-2024 22:50",
         "news_link": "https://iqra.republika.co.id/berita/sek9n5483/doa-selepas-sholat-dhuha-versi-nu-beserta-latin-dan-terjemahan"
     },
     {
@@ -68,235 +284,19 @@
     {
         "title": "Perusahaan Tambang Masih Banyak yang Baru Berjalan Menuju Sustainable",
         "category": "Ekonomi",
-        "publish_time": "04-06-2024 22:46",
+        "publish_time": "04-06-2024 22:50",
         "news_link": "https://ekonomi.republika.co.id/berita/sekv8k484/perusahaan-tambang-masih-banyak-yang-baru-berjalan-menuju-sustainable"
     },
     {
         "title": "Bahagianya Putrie, Hafizah Difabel Netra yang Sampai ke Kakbah",
         "category": "Khazanah",
-        "publish_time": "04-06-2024 22:43",
+        "publish_time": "04-06-2024 22:50",
         "news_link": "https://khazanah.republika.co.id/berita/sekv49483/bahagianya-putrie-hafizah-difabel-netra-yang-sampai-ke-kakbah"
     },
     {
         "title": "35 Tahun Lalu, Babak Berdarah di Gerbang Surgawi",
         "category": "News",
-        "publish_time": "04-06-2024 22:42",
+        "publish_time": "04-06-2024 22:50",
         "news_link": "https://news.republika.co.id/berita/sekv2b393/35-tahun-lalu-babak-berdarah-di-gerbang-surgawi"
-    },
-    {
-        "title": "Komisi VIII: Hak Jamaah Reguler Terancam Jamaah Visa non Haji",
-        "category": "Khazanah",
-        "publish_time": "04-06-2024 22:42",
-        "news_link": "https://khazanah.republika.co.id/berita/sek8zr483/komisi-viii-hak-jamaah-reguler-terancam-jamaah-visa-non-haji"
-    },
-    {
-        "title": "Fakultas Hukum Unika Atma Jaya Fasilitasi Mahasiswa dengan Platform Daring Internasional",
-        "category": "Rejogja",
-        "publish_time": "04-06-2024 22:30",
-        "news_link": "https://rejogja.republika.co.id/berita/sekp5r291/fakultas-hukum-unika-atma-jaya-fasilitasi-mahasiswa-dengan-platform-daring-internasional"
-    },
-    {
-        "title": "Istiqamah: Antara Pancasila dan Pengurai Benang",
-        "category": "Kolom",
-        "publish_time": "04-06-2024 22:30",
-        "news_link": "https://www.republika.id/posts/53271/istiqamah-antara-pancasila-dan-pengurai-benang"
-    },
-    {
-        "title": "Lagi, Lima Jamaah RI Ditangkap Polisi Saudi",
-        "category": "Khazanah",
-        "publish_time": "04-06-2024 22:23",
-        "news_link": "https://khazanah.republika.co.id/berita/seku71483/lagi-lima-jamaah-ri-ditangkap-polisi-saudi"
-    },
-    {
-        "title": "Kaesang Bicara Peluang Maju Pilkada Jakarta: Tunggu Kejutan Bulan Agustus",
-        "category": "News",
-        "publish_time": "04-06-2024 22:20",
-        "news_link": "https://news.republika.co.id/berita/sek2mc487/kaesang-bicara-peluang-maju-pilkada-jakarta-tunggu-kejutan-bulan-agustus"
-    },
-    {
-        "title": "PSI Resmi Usung Khofifah-Emil, Ini Harapan Kaesang Soal Sinergi dengan Prabowo",
-        "category": "News",
-        "publish_time": "04-06-2024 22:12",
-        "news_link": "https://news.republika.co.id/berita/sek0xx487/psi-resmi-usung-khofifahemil-ini-harapan-kaesang-soal-sinergi-dengan-prabowo"
-    },
-    {
-        "title": "PBB Kecam Maraknya Pembunuhan Warga Palestina oleh Israel di Tepi Barat",
-        "category": "News",
-        "publish_time": "04-06-2024 22:12",
-        "news_link": "https://www.republika.id/posts/53269/pbb-kecam-maraknya-pembunuhan-warga-palestina-oleh-israel-di-tepi-barat"
-    },
-    {
-        "title": "Suraqah bin Malik dan Tunainya Janji Nabi",
-        "category": "Khazanah",
-        "publish_time": "04-06-2024 22:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sek9pf458/suraqah-bin-malik-dan-tunainya-janji-nabi"
-    },
-    {
-        "title": "15 Ribu Anak-Anak Syahid di Gaza, Kebanyakan Siswa",
-        "category": "News",
-        "publish_time": "04-06-2024 22:12",
-        "news_link": "https://www.republika.id/posts/53270/15-ribu-anak-anak-syahid-di-gaza-kebanyakan-siswa%c2%a0"
-    },
-    {
-        "title": "Kisah Sahabat Nabi, Sa\u2019id bin Zaid",
-        "category": "Khazanah",
-        "publish_time": "04-06-2024 22:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sek965458/kisah-sahabat-nabi-said-bin-zaid"
-    },
-    {
-        "title": "Kontroversi UKT, Massa Serukan 10 Tuntutan dalam Aksi Gerakan APATIS",
-        "category": "Rejogja",
-        "publish_time": "04-06-2024 21:12",
-        "news_link": "https://rejogja.republika.co.id/berita/sekqjh291/kontroversi-ukt-massa-serukan-10-tuntutan-dalam-aksi-gerakan-apatis"
-    },
-    {
-        "title": "Nikmati Suasana Depok dengan Pedoman Jadwal Sholat Hari Ini, 4 Juni 2024",
-        "category": "Khazanah",
-        "publish_time": "04-06-2024 21:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sekj0q366/nikmati-suasana-depok-dengan-pedoman-jadwal-sholat-hari-ini-4-juni-2024"
-    },
-    {
-        "title": "Ketum PSSI Erick Thohir Bahagia Calvin Verdonk Resmi WNI, Proyeksi Main Lawan Filipina",
-        "category": "News",
-        "publish_time": "04-06-2024 21:12",
-        "news_link": "https://news.republika.co.id/berita/sekppd348/ketum-pssi-erick-thohir-bahagia-calvin-verdonk-resmi-wni-proyeksi-main-lawan-filipina"
-    },
-    {
-        "title": "Visa Palsu, PBNU: Hajinya Sah, tapi Berdosa",
-        "category": "Network",
-        "publish_time": "04-06-2024 17:12",
-        "news_link": "https://sajada.id/posts/311132/visa-palsu-pbnu-hajinya-sah-tapi-berdosa"
-    },
-    {
-        "title": "Ini Hal yang tak Boleh Dilakukan Orang Tua Saat Beri Makan Anak",
-        "category": "Ameera",
-        "publish_time": "04-06-2024 17:12",
-        "news_link": "https://ameera.republika.co.id/berita/sekg2t425/ini-hal-yang-tak-boleh-dilakukan-orang-tua-saat-beri-makan-anak"
-    },
-    {
-        "title": "Bobby Nyatakan Siap Lawan Ahok di Pilkada Sumut",
-        "category": "News",
-        "publish_time": "04-06-2024 17:12",
-        "news_link": "https://news.republika.co.id/berita/sekfq3377/bobby-nyatakan-siap-lawan-ahok-di-pilkada-sumut"
-    },
-    {
-        "title": "Mantan Kepala BAIS TNI: Aneh Jika Densus Penguntit Jampidsus tak Disanksi",
-        "category": "News",
-        "publish_time": "04-06-2024 17:12",
-        "news_link": "https://news.republika.co.id/berita/sekfk6377/mantan-kepala-bais-tni-aneh-jika-densus-penguntit-jampidsus-tak-disanksi"
-    },
-    {
-        "title": "Tanpa AC atau Kipas, Ini Trik Tidur Nyenyak Saat Suhu Panas",
-        "category": "Ameera",
-        "publish_time": "04-06-2024 17:12",
-        "news_link": "https://ameera.republika.co.id/berita/sekfib425/tanpa-ac-atau-kipas-ini-trik-tidur-nyenyak-saat-suhu-panas"
-    },
-    {
-        "title": "Gardu Induk Transmisi Terganggu, Jaringan Listrik di Palembang Padam",
-        "category": "Visual",
-        "publish_time": "04-06-2024 17:12",
-        "news_link": "https://visual.republika.co.id/berita/sekc0p375/gardu-induk-transmisi-terganggu-jaringan-listrik-di-palembang-padam"
-    },
-    {
-        "title": "BNI Implementasikan Remunerasi Berbasis Saham",
-        "category": "Ekonomi",
-        "publish_time": "04-06-2024 17:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sekf2d349/bni-implementasikan-remunerasi-berbasis-saham"
-    },
-    {
-        "title": "Bencana Longsor di Area Penambangan Pasir, Satu Orang Meninggal Dunia",
-        "category": "Visual",
-        "publish_time": "04-06-2024 17:12",
-        "news_link": "https://visual.republika.co.id/berita/sekbwl375/bencana-longsor-di-area-penambangan-pasir-satu-orang-meninggal-dunia"
-    },
-    {
-        "title": "Sekolah Indonesia Cairo Buka Lowongan Guru Sejumlah Mata Pelajaran",
-        "category": "Khazanah",
-        "publish_time": "04-06-2024 17:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sejmw4451/sekolah-indonesia-cairo-buka-lowongan-guru-sejumlah-mata-pelajaran"
-    },
-    {
-        "title": "Dokter Tegaskan Pentingnya Keamanan Pangan Cegah Penyakit pada Anak",
-        "category": "Ameera",
-        "publish_time": "04-06-2024 17:12",
-        "news_link": "https://ameera.republika.co.id/berita/sekeid425/dokter-tegaskan-pentingnya-keamanan-pangan-cegah-penyakit-pada-anak"
-    },
-    {
-        "title": "Dinilai Terbukti Fitnah Ahmad Sahroni, Selebgram Adam Deni Divonis 6 Bulan Penjara",
-        "category": "News",
-        "publish_time": "04-06-2024 16:12",
-        "news_link": "https://news.republika.co.id/berita/sek0s9409/dinilai-terbukti-fitnah-ahmad-sahroni-selebgram-adam-deni-divonis-6-bulan-penjara"
-    },
-    {
-        "title": "Gelombang Tinggi, Nelayan Banten Pilih Libur Melaut",
-        "category": "Visual",
-        "publish_time": "04-06-2024 16:12",
-        "news_link": "https://visual.republika.co.id/berita/sekbu9375/gelombang-tinggi-nelayan-banten-pilih-libur-melaut"
-    },
-    {
-        "title": "Acungkan Jempol, Adam Deni Divonis Enam Bulan Penjara",
-        "category": "Visual",
-        "publish_time": "04-06-2024 16:12",
-        "news_link": "https://visual.republika.co.id/berita/sekbrl375/acungkan-jempol-adam-deni-divonis-enam-bulan-penjara"
-    },
-    {
-        "title": "Sosialisasi Desa Tangguh Bencana di Ciamis",
-        "category": "Visual",
-        "publish_time": "04-06-2024 16:12",
-        "news_link": "https://visual.republika.co.id/berita/sekboa375/sosialisasi-desa-tangguh-bencana-di-ciamis"
-    },
-    {
-        "title": "Tips Hindari Pengeluaran Membengkak Saat Traveling",
-        "category": "Ameera",
-        "publish_time": "04-06-2024 16:12",
-        "news_link": "https://ameera.republika.co.id/berita/sekdch425/tips-hindari-pengeluaran-membengkak-saat-traveling"
-    },
-    {
-        "title": "FIK UMJ Gelar Angkat Sumpah Ners 2023-2024",
-        "category": "Visual",
-        "publish_time": "04-06-2024 16:12",
-        "news_link": "https://visual.republika.co.id/berita/sekdau375/fik-umj-gelar-angkat-sumpah-ners-20232024"
-    },
-    {
-        "title": "BP Tapera Telah Kembalikan Tabungan Perumahan Rakyat Senilai Rp 4,2 Triliun",
-        "category": "Visual",
-        "publish_time": "04-06-2024 16:12",
-        "news_link": "https://visual.republika.co.id/berita/sekave375/bp-tapera-telah-kembalikan-tabungan-perumahan-rakyat-senilai-rp-42-triliun"
-    },
-    {
-        "title": "Keutamaan dan Niat Sholat Tahajud yang Menggetarkan Jiwa",
-        "category": "Iqra",
-        "publish_time": "04-06-2024 16:12",
-        "news_link": "https://iqra.republika.co.id/berita/sejwjy366/keutamaan-dan-niat-sholat-tahajud-yang-menggetarkan-jiwa"
-    },
-    {
-        "title": "Ketua MPR Sambangi DPP Nasdem, Gagas Rekonsiliasi Nasional usai Pilpres",
-        "category": "Visual",
-        "publish_time": "04-06-2024 16:12",
-        "news_link": "https://visual.republika.co.id/berita/sekaem375/ketua-mpr-sambangi-dpp-nasdem-gagas-rekonsiliasi-nasional-usai-pilpres"
-    },
-    {
-        "title": "Kejutan, Ester Nurumi Singkirkan Nozomi Okuhara di Indonesia Open 2024",
-        "category": "Visual",
-        "publish_time": "04-06-2024 16:12",
-        "news_link": "https://visual.republika.co.id/berita/seka8x375/kejutan-ester-nurumi-singkirkan-nozomi-okuhara-di-indonesia-open-2024"
-    },
-    {
-        "title": "Dekatkan Layanan, Ditlantas Polda Jatim Luncurkan Inovasi Motor Samsat Dulur",
-        "category": "Visual",
-        "publish_time": "04-06-2024 15:12",
-        "news_link": "https://visual.republika.co.id/berita/sekb3n375/dekatkan-layanan-ditlantas-polda-jatim-luncurkan-inovasi-motor-samsat-dulur"
-    },
-    {
-        "title": "Pelimpahan Berkas Dua Tersangka Kasus Dugaan Korupsi Timah",
-        "category": "Visual",
-        "publish_time": "04-06-2024 15:12",
-        "news_link": "https://visual.republika.co.id/berita/sek9y1375/pelimpahan-berkas-dua-tersangka-kasus-dugaan-korupsi-timah"
-    },
-    {
-        "title": "BSIP dan Pemkot Bogor Gelar Bursa Hewan Qurban",
-        "category": "Network",
-        "publish_time": "04-06-2024 15:12",
-        "news_link": "https://genpop.republika.co.id/posts/311107/bsip-dan-pemkot-bogor-gelar-bursa-hewan-qurban"
     }
 ]
