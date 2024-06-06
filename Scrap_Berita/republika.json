@@ -1,74 +1,212 @@
 [
     {
+        "title": "Toyota Indonesia Buka Suara Soal Skandal Toyota Jepang",
+        "category": "Ekonomi",
+        "publish_time": "06-06-2024 06:15",
+        "news_link": "https://ekonomi.republika.co.id/berita/senapf468/toyota-indonesia-buka-suara-soal-skandal-toyota-jepang"
+    },
+    {
+        "title": "Gibran Temui Khofifah di Surabaya, Agenda Khusus untuk Pilgub Jatim?",
+        "category": "News",
+        "publish_time": "06-06-2024 06:14",
+        "news_link": "https://news.republika.co.id/berita/senanu487/gibran-temui-khofifah-di-surabaya-agenda-khusus-untuk-pilgub-jatim"
+    },
+    {
+        "title": "Laboratorium Sucofindo Dukung Pengembangan Ekonomi Halmahera Timur",
+        "category": "Ekonomi",
+        "publish_time": "06-06-2024 06:06",
+        "news_link": "https://ekonomi.republika.co.id/berita/senaai370/laboratorium-sucofindo-dukung-pengembangan-ekonomi-halmahera-timur"
+    },
+    {
+        "title": "3 Rekomendasi Museum untuk Bangkitkan Semangat Nasionalisme",
+        "category": "Ameera",
+        "publish_time": "06-06-2024 06:02",
+        "news_link": "https://ameera.republika.co.id/berita/sena37328/3-rekomendasi-museum-untuk-bangkitkan-semangat-nasionalisme"
+    },
+    {
+        "title": "Anak Mantan Mentan SYL Bersedia Kesaksiannya Diadu Soal Aliran Uang",
+        "category": "News",
+        "publish_time": "06-06-2024 05:57",
+        "news_link": "https://news.republika.co.id/berita/sen9uz487/anak-mantan-mentan-syl-bersedia-kesaksiannya-diadu-soal-aliran-uang"
+    },
+    {
+        "title": "Perusahaan Pelayaran Indonesia Jual Kapal Panamax Tua ke Pasar Demolisi dengan Harga Terjangkau",
+        "category": "Network",
+        "publish_time": "06-06-2024 05:54",
+        "news_link": "https://shippingcargo.co.id/posts/311446/perusahaan-pelayaran-indonesia-jual-kapal-panamax-tua-ke-pasar-demolisi-dengan-harga-terjangkau"
+    },
+    {
+        "title": "Ilmuwan Ciptakan Cokelat Baru dengan Bahan Rahasia, Lebih Sehat dan Hemat",
+        "category": "Network",
+        "publish_time": "06-06-2024 05:54",
+        "news_link": "https://impresiupdate.id/posts/311445/ilmuwan-ciptakan-cokelat-baru-dengan-bahan-rahasia-lebih-sehat-dan-hemat"
+    },
+    {
+        "title": "Band Rock Keanu Reeves, Dogstar, Gelar Tur Musim Panas di AS",
+        "category": "Network",
+        "publish_time": "06-06-2024 05:54",
+        "news_link": "https://impresiupdate.id/posts/311444/band-rock-keanu-reeves-dogstar-gelar-tur-musim-panas-di-as"
+    },
+    {
+        "title": "Indonesia Open 2024: Dejan/Gloria Geprek Juara Dunia dengan Skor Afrika",
+        "category": "Network",
+        "publish_time": "06-06-2024 05:54",
+        "news_link": "https://badmintonews.id/posts/311442/indonesia-open-2024-dejan-gloria-geprek-juara-dunia-dengan-skor-afrika"
+    },
+    {
+        "title": "Dua Tahun Tertunda, Mobil Listrik Volvo EX90 Akhirnya Memasuki Tahap Produksi",
+        "category": "Ekonomi",
+        "publish_time": "06-06-2024 05:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/sen9jz349/dua-tahun-tertunda-mobil-listrik-volvo-ex90-akhirnya-memasuki-tahap-produksi"
+    },
+    {
+        "title": "Masjid Agung Solo dan Kawasan Bakal Direnovasi, Telan Anggaran Rp 16 Miliar",
+        "category": "Khazanah",
+        "publish_time": "06-06-2024 05:49",
+        "news_link": "https://khazanah.republika.co.id/berita/sen9j4366/masjid-agung-solo-dan-kawasan-bakal-direnovasi-telan-anggaran-rp-16-miliar"
+    },
+    {
+        "title": "Puluhan Warga Terdampak Pipa PDAM Pecah di Bandung Bersih-Bersih Rumah",
+        "category": "Rejabar",
+        "publish_time": "06-06-2024 05:39",
+        "news_link": "https://rejabar.republika.co.id/berita/sen919512/puluhan-warga-terdampak-pipa-pdam-pecah-di-bandung-bersihbersih-rumah"
+    },
+    {
+        "title": "Besok Pendaftaran PPDB Jabar 2024 Jenjang SMA/SMK Tahap 1 Ditutup, Ini Solusi Jika Ada Kendala Secara Online",
+        "category": "Network",
+        "publish_time": "06-06-2024 05:35",
+        "news_link": "https://kampus.republika.co.id/sekolah/1624731354/besok-pendaftaran-ppdb-jabar-2024-jenjang-smasmk-tahap-1-ditutup-ini-solusi-jika-ada-kendala-secara-online"
+    },
+    {
+        "title": "Bumi Kian Panas, Pakar Standar dan Karbon dari 16 Negara Kumpul di Jakarta",
+        "category": "Network",
+        "publish_time": "06-06-2024 05:34",
+        "news_link": "https://oohya.republika.co.id/egek/1744731278/bumi-kian-panas-pakar-standar-dan-karbon-dari-16-negara-kumpul-di-jakarta"
+    },
+    {
+        "title": "Ular Piton Sepanjang Hampir Lima Meter Dievakuasi Petugas Damkar",
+        "category": "Rejabar",
+        "publish_time": "06-06-2024 05:32",
+        "news_link": "https://rejabar.republika.co.id/berita/sen8q3512/ular-piton-sepanjang-hampir-lima-meter-dievakuasi-petugas-damkar"
+    },
+    {
+        "title": "ASDP Capai Laba Tertinggi Sepanjang Sejarah Perseroan, Senilai Rp 637 Miliar",
+        "category": "Ekonomi",
+        "publish_time": "06-06-2024 05:30",
+        "news_link": "https://ekonomi.republika.co.id/berita/sen8nb349/asdp-capai-laba-tertinggi-sepanjang-sejarah-perseroan-senilai-rp-637-miliar"
+    },
+    {
+        "title": "Instrumen Investasi Hijau Diminati Investor, Ini Alasannya",
+        "category": "Esgnow",
+        "publish_time": "06-06-2024 05:30",
+        "news_link": "https://esgnow.republika.co.id/berita/sen6l7416/instrumen-investasi-hijau-diminati-investor-ini-alasannya"
+    },
+    {
+        "title": "Presiden Apresiasi BTN Bangun Gedung di IKN, Dukung Ekonomi Masa Depan",
+        "category": "Ekonomi",
+        "publish_time": "06-06-2024 05:23",
+        "news_link": "https://ekonomi.republika.co.id/berita/sen8at423/presiden-apresiasi-btn-bangun-gedung-di-ikn-dukung-ekonomi-masa-depan"
+    },
+    {
+        "title": "Mimpi Menjadikan Candi Muaro Jambi Melebihi Angkor Wat",
+        "category": "News",
+        "publish_time": "06-06-2024 05:21",
+        "news_link": "https://news.republika.co.id/berita/sen2qt328/mimpi-menjadikan-candi-muaro-jambi-melebihi-angkor-wat"
+    },
+    {
+        "title": "Bio Farma Didorong Cari Formula Perbaiki Performa",
+        "category": "Ekonomi",
+        "publish_time": "06-06-2024 05:20",
+        "news_link": "https://ekonomi.republika.co.id/berita/sen86a370/bio-farma-didorong-cari-formula-perbaiki-performa"
+    },
+    {
+        "title": "Alasan Cucu Eks Mentan SYL Sering Tukar Dolar, Ada Hubungan dengan Tambang",
+        "category": "News",
+        "publish_time": "06-06-2024 05:15",
+        "news_link": "https://news.republika.co.id/berita/sen7ww487/alasan-cucu-eks-mentan-syl-sering-tukar-dolar-ada-hubungan-dengan-tambang"
+    },
+    {
+        "title": "Hutan Adat Papua Terancam, Ini Sikap Presiden Jokowi",
+        "category": "Esgnow",
+        "publish_time": "06-06-2024 05:15",
+        "news_link": "https://esgnow.republika.co.id/berita/sen7ti416/hutan-adat-papua-terancam-ini-sikap-presiden-jokowi"
+    },
+    {
         "title": "Dejan/Gloria Melaju ke Babak Perempat Final",
         "category": "Visual",
-        "publish_time": "06-06-2024 05:09",
+        "publish_time": "06-06-2024 05:15",
         "news_link": "https://visual.republika.co.id/berita/sen55l491/dejangloria-melaju-ke-babak-perempat-final"
     },
     {
         "title": "Bea Cukai Edukasi Calon Pekerja Migran dalam Orientasi Pra-Pemberangkatan",
         "category": "Beacukai",
-        "publish_time": "06-06-2024 05:08",
+        "publish_time": "06-06-2024 05:15",
         "news_link": "https://republika.co.id/berita/sen7my423/bea-cukai-edukasi-calon-pekerja-migran-dalam-orientasi-pra-pemberangkatan"
     },
     {
         "title": "Waspada Pengintaian, Kejagung akan Tembak Jatuh Drone Melintas Kompleks Adhyaksa",
         "category": "News",
-        "publish_time": "06-06-2024 05:08",
+        "publish_time": "06-06-2024 05:15",
         "news_link": "https://news.republika.co.id/berita/sen7m3377/waspada-pengintaian-kejagung-akan-tembak-jatuh-drone-melintas-kompleks-adhyaksa"
+    },
+    {
+        "title": "Sa'i Membangun Harapan dan Keyakinan",
+        "category": "Network",
+        "publish_time": "06-06-2024 05:15",
+        "news_link": "https://magenta.republika.co.id/khazanah/1704731095/sai-membangun-harapan-dan-keyakinan"
     },
     {
         "title": "Produsen Keripik Kulit Ikan ''Rafins Snack'' Mendunia, Berkat KUR BRI",
         "category": "Ekonomi",
-        "publish_time": "06-06-2024 05:01",
+        "publish_time": "06-06-2024 05:15",
         "news_link": "https://ekonomi.republika.co.id/berita/sen7be423/produsen-keripik-kulit-ikan-rafins-snack-mendunia-berkat-kur-bri"
     },
     {
         "title": "KPK Kebut Perburuan Harun Masiku, Hasto Diperiksa Pekan Depan",
         "category": "News",
-        "publish_time": "06-06-2024 04:57",
+        "publish_time": "06-06-2024 05:15",
         "news_link": "https://news.republika.co.id/berita/sen751487/kpk-kebut-perburuan-harun-masiku-hasto-diperiksa-pekan-depan"
     },
     {
         "title": "Resep Lancar Masuk ke Surga",
         "category": "Khazanah",
-        "publish_time": "06-06-2024 04:50",
+        "publish_time": "06-06-2024 05:15",
         "news_link": "https://khazanah.republika.co.id/berita/sen6t8458/resep-lancar-masuk-ke-surga"
     },
     {
         "title": "Kronologi Drone Pengintai di Kejagung Ditembak Jatuh, Ternyata Bukan yang Pertama",
         "category": "News",
-        "publish_time": "06-06-2024 04:48",
+        "publish_time": "06-06-2024 05:15",
         "news_link": "https://news.republika.co.id/berita/sen6oq487/kronologi-drone-pengintai-di-kejagung-ditembak-jatuh-ternyata-bukan-yang-pertama"
     },
     {
         "title": "Gaza Genting! Pembantaian oleh Israel Makin Menggila",
         "category": "News",
-        "publish_time": "06-06-2024 04:46",
+        "publish_time": "06-06-2024 05:15",
         "news_link": "https://news.republika.co.id/berita/sen6ls393/gaza-genting-pembantaian-oleh-israel-makin-menggila"
     },
     {
         "title": "Studi: Pemanasan Bumi Capai Rekor tapi tidak Ada Bukti Perubahan Iklim Semakin Cepat",
         "category": "Esgnow",
-        "publish_time": "06-06-2024 04:36",
+        "publish_time": "06-06-2024 04:15",
         "news_link": "https://esgnow.republika.co.id/berita/sen0sd370/studi-pemanasan-bumi-capai-rekor-tapi-tidak-ada-bukti-perubahan-iklim-semakin-cepat"
     },
     {
         "title": "Pria yang Disunat Lebih Kecil Kemungkinan Tertular HIV",
         "category": "Network",
-        "publish_time": "06-06-2024 04:36",
+        "publish_time": "06-06-2024 04:15",
         "news_link": "https://impresi.republika.co.id/news/1694731054/pria-yang-disunat-lebih-kecil-kemungkinan-tertular-hiv"
     },
     {
         "title": "SANF dan Astra Financial Terapkan Integrasi Pelayanan Kesehatan Prima Pertama di Pandeglang",
         "category": "Network",
-        "publish_time": "06-06-2024 04:23",
+        "publish_time": "06-06-2024 04:15",
         "news_link": "https://cari.republika.co.id/posts/311449/sanf-dan-astra-financial-terapkan-integrasi-pelayanan-kesehatan-prima-pertama-di-pandeglang"
     },
     {
         "title": "Doa agar Dikaruniai Anak yang Saleh",
         "category": "Iqra",
-        "publish_time": "06-06-2024 04:21",
+        "publish_time": "06-06-2024 04:15",
         "news_link": "https://iqra.republika.co.id/berita/sen5gv458/doa-agar-dikaruniai-anak-yang-saleh"
     },
     {
@@ -80,223 +218,85 @@
     {
         "title": "Senam Ceria Pengungsi Terdampak Erupsi Gunung Ibu",
         "category": "Visual",
-        "publish_time": "06-06-2024 04:12",
+        "publish_time": "06-06-2024 04:15",
         "news_link": "https://visual.republika.co.id/berita/sen514491/senam-ceria-pengungsi-terdampak-erupsi-gunung-ibu"
     },
     {
         "title": "Gejala Awal Kerusakan Hati yang Jarang Disadari",
         "category": "Ameera",
-        "publish_time": "06-06-2024 04:11",
+        "publish_time": "06-06-2024 04:15",
         "news_link": "https://ameera.republika.co.id/berita/sen4zt425/gejala-awal-kerusakan-hati-yang-jarang-disadari"
     },
     {
         "title": "Calon Jamaah Haji Asal Embarkasi Aceh Meninggal di Makkah",
         "category": "Khazanah",
-        "publish_time": "06-06-2024 04:11",
+        "publish_time": "06-06-2024 04:15",
         "news_link": "https://khazanah.republika.co.id/berita/sen4sq484/calon-jamaah-haji-asal-embarkasi-aceh-meninggal-di-makkah"
     },
     {
         "title": "Pemkab Indramayu Usulkan Perubahan RTRW, Dukung Segi Tiga Rebana",
         "category": "Rejabar",
-        "publish_time": "06-06-2024 04:11",
+        "publish_time": "06-06-2024 04:15",
         "news_link": "https://rejabar.republika.co.id/berita/sen4pg512/pemkab-indramayu-usulkan-perubahan-rtrw-dukung-segi-tiga-rebana"
     },
     {
         "title": "Dorong Pemanfaatan Teknologi AI di Dunia Pendidika, Universitas BSI Gelar Workshop EduTech",
         "category": "News",
-        "publish_time": "06-06-2024 04:11",
+        "publish_time": "06-06-2024 04:15",
         "news_link": "https://news.republika.co.id/berita/semyzc423/dorong-pemanfaatan-teknologi-ai-di-dunia-pendidika-universitas-bsi-gelar-workshop-edutech"
     },
     {
         "title": "Bung Kus: Ketenangan Kunci Timnas Indonesia Raih Hasil Positif Lawan Irak",
         "category": "News",
-        "publish_time": "06-06-2024 04:11",
+        "publish_time": "06-06-2024 04:15",
         "news_link": "https://news.republika.co.id/berita/sen49u348/bung-kus-ketenangan-kunci-timnas-indonesia-raih-hasil-positif-lawan-irak"
     },
     {
         "title": "Kenapa Sih Nggak Semua Orang Cocok Jadi Trader Kripto",
         "category": "Ameera",
-        "publish_time": "06-06-2024 04:11",
+        "publish_time": "06-06-2024 04:15",
         "news_link": "https://ameera.republika.co.id/berita/sen47i328/kenapa-sih-nggak-semua-orang-cocok-jadi-trader-kripto"
     },
     {
         "title": "95 Rumah Terdampak Akibat Pipa PDAM Jebol di Bandung",
         "category": "Rejabar",
-        "publish_time": "06-06-2024 04:11",
+        "publish_time": "06-06-2024 04:15",
         "news_link": "https://rejabar.republika.co.id/berita/sen465512/95-rumah-terdampak-akibat-pipa-pdam-jebol-di-bandung"
     },
     {
         "title": "Putin: Gaza Seperti Bukan Perang,Tapi Pemusnahan Warga Sipil",
         "category": "News",
-        "publish_time": "06-06-2024 04:11",
+        "publish_time": "06-06-2024 04:15",
         "news_link": "https://news.republika.co.id/berita/sen43r377/putin-gaza-seperti-bukan-perangtapi-pemusnahan-warga-sipil"
     },
     {
         "title": "Ini Doa ketika Dizalimi Orang Lain",
         "category": "Iqra",
-        "publish_time": "06-06-2024 04:11",
+        "publish_time": "06-06-2024 04:15",
         "news_link": "https://iqra.republika.co.id/berita/sen415458/ini-doa-ketika-dizalimi-orang-lain"
     },
     {
         "title": "Cek 1.381 Hewan Kurban di Bandung, Tim Belum Temukan yang Sakit",
         "category": "Rejabar",
-        "publish_time": "06-06-2024 04:11",
+        "publish_time": "06-06-2024 03:15",
         "news_link": "https://rejabar.republika.co.id/berita/sen3mv512/cek-1381-hewan-kurban-di-bandung-tim-belum-temukan-yang-sakit"
     },
     {
         "title": "Ini Cara Redam Irak yang Piawai Maksimalkan Crossing, Kurniawan: Good Luck Timnas!",
         "category": "News",
-        "publish_time": "06-06-2024 04:11",
+        "publish_time": "06-06-2024 03:15",
         "news_link": "https://news.republika.co.id/berita/sen3mr348/ini-cara-redam-irak-yang-piawai-maksimalkan-crossing-kurniawan-good-luck-timnas"
     },
     {
         "title": "Album + Film Konser Blur \u2018Live at Wembley Stadium\u2019 Dirilis Juli Mendatang",
         "category": "Network",
-        "publish_time": "06-06-2024 03:11",
+        "publish_time": "06-06-2024 03:15",
         "news_link": "https://impresi.republika.co.id/musik/1694730784/album-film-konser-blur-live-at-wembley-stadium-dirilis-juli-mendatang"
     },
     {
         "title": "Bacaan Shalawat Ummi, Arab, Latin, dan Terjemahannya",
         "category": "Network",
-        "publish_time": "06-06-2024 03:11",
+        "publish_time": "06-06-2024 03:15",
         "news_link": "https://sajada.id/posts/311434/bacaan-shalawat-ummi-arab-latin-dan-terjemahannya"
-    },
-    {
-        "title": "Keseruan Dokter Kecantikan Mengikuti Cadaver Training Pyfaesthetic di Manila",
-        "category": "Network",
-        "publish_time": "06-06-2024 03:11",
-        "news_link": "https://impresi.republika.co.id/sana-sini/1694730800/keseruan-dokter-kecantikan-mengikuti-cadaver-training-pyfaesthetic-di-manila"
-    },
-    {
-        "title": "Dana Muhammadiyah Rp 15 Triliun Dialihkan ke Syariah Bukopin, Mega Syariah, dan Muamalat",
-        "category": "Sharia",
-        "publish_time": "06-06-2024 03:11",
-        "news_link": "https://sharia.republika.co.id/berita/sen3kb484/dana-muhammadiyah-rp-15-triliun-dialihkan-ke-syariah-bukopin-mega-syariah-dan-muamalat"
-    },
-    {
-        "title": "Komunitas Penjaga Laut Buka Donasi Transplantasi Terumbu Karang",
-        "category": "Esgnow",
-        "publish_time": "06-06-2024 03:11",
-        "news_link": "https://esgnow.republika.co.id/berita/sen3hn328/komunitas-penjaga-laut-buka-donasi-transplantasi-terumbu-karang"
-    },
-    {
-        "title": "Aksi Barbar Israel, Sekolah Gaza Dibom, 32 Orang Terbunuh Termasuk Anak-Anak",
-        "category": "News",
-        "publish_time": "06-06-2024 03:11",
-        "news_link": "https://news.republika.co.id/berita/sen3gh377/aksi-barbar-israel-sekolah-gaza-dibom-32-orang-terbunuh-termasuk-anakanak"
-    },
-    {
-        "title": "Wapres Sebut Ekonomi Syariah Bukan demi Umat Islam Semata",
-        "category": "News",
-        "publish_time": "06-06-2024 03:11",
-        "news_link": "https://news.republika.co.id/berita/sen2si484/wapres-sebut-ekonomi-syariah-bukan-demi-umat-islam-semata"
-    },
-    {
-        "title": "Dua Organisasi Besar Nasrani 'Kompak' Soal Tambang untuk Ormas",
-        "category": "News",
-        "publish_time": "06-06-2024 03:11",
-        "news_link": "https://news.republika.co.id/berita/sen2qr458/dua-organisasi-besar-nasrani-kompak-soal-tambang-untuk-ormas"
-    },
-    {
-        "title": "Billie Eilish Bocorkan Video Musik \u2018Chihiro\u2019 yang Dirilis Hari Ini",
-        "category": "Network",
-        "publish_time": "06-06-2024 03:11",
-        "news_link": "https://impresi.republika.co.id/musik/1694730680/billie-eilish-bocorkan-video-musik-chihiro-yang-dirilis-hari-ini"
-    },
-    {
-        "title": "Soal Penguntitan Jampidus, Mahfud Kutip Cerita Orang Lama di Densus dan Sindir Mafia Timah",
-        "category": "News",
-        "publish_time": "06-06-2024 03:11",
-        "news_link": "https://news.republika.co.id/berita/sen2ij377/soal-penguntitan-jampidus-mahfud-kutip-cerita-orang-lama-di-densus-dan-sindir-mafia-timah"
-    },
-    {
-        "title": "Donor Darah Ke-115, BCA dan PPATK Kumpulkan 411 Kantong Darah",
-        "category": "Network",
-        "publish_time": "06-06-2024 03:11",
-        "news_link": "https://impresi.republika.co.id/news/1694730608/donor-darah-ke-115-bca-dan-ppatk-kumpulkan-411-kantong-darah"
-    },
-    {
-        "title": "Budi Karya Minta Anggaran Kemenhub 2025 Ditambah Rp 15,75 triliun",
-        "category": "News",
-        "publish_time": "06-06-2024 03:11",
-        "news_link": "https://news.republika.co.id/berita/sen26r484/budi-karya-minta-anggaran-kemenhub-2025-ditambah-rp-1575-triliun"
-    },
-    {
-        "title": "Cinema XXI Teruskan Program Keberlanjutan",
-        "category": "Esgnow",
-        "publish_time": "06-06-2024 03:11",
-        "news_link": "https://esgnow.republika.co.id/berita/sen0xg416/cinema-xxi-teruskan-program-keberlanjutan"
-    },
-    {
-        "title": "Universitas BSi Gelar Workshop Video Editing dengan CapCut di P4 Jakbar",
-        "category": "News",
-        "publish_time": "06-06-2024 03:11",
-        "news_link": "https://news.republika.co.id/berita/semyrp423/universitas-bsi-gelar-workshop-video-editing-dengan-capcut-di-p4-jakbar"
-    },
-    {
-        "title": "Rakit Penyebarangan Darurat di Magelang",
-        "category": "Visual",
-        "publish_time": "06-06-2024 03:11",
-        "news_link": "https://visual.republika.co.id/berita/sen19f491/rakit-penyebarangan-darurat-di-magelang"
-    },
-    {
-        "title": "Pipa PDAM Jebol di Bandung Sebabkan Dua Rumah Rusak, Penyebab Belum Dapat Dipastikan",
-        "category": "Rejabar",
-        "publish_time": "06-06-2024 03:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sen156512/pipa-pdam-jebol-di-bandung-sebabkan-dua-rumah-rusak-penyebab-belum-dapat-dipastikan"
-    },
-    {
-        "title": "Melihat Prosesi Tegak Tiang Tuo Jelang Pembangunan Museum Muarajambi",
-        "category": "Ameera",
-        "publish_time": "06-06-2024 03:11",
-        "news_link": "https://ameera.republika.co.id/berita/sen0z5328/melihat-prosesi-tegak-tiang-tuo-jelang-pembangunan-museum-muarajambi"
-    },
-    {
-        "title": "IHSG Diprediksi Mendatar Seiring Sentimen Domestik dan Global",
-        "category": "Ekonomi",
-        "publish_time": "06-06-2024 03:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sen0y2370/ihsg-diprediksi-mendatar-seiring-sentimen-domestik-dan-global"
-    },
-    {
-        "title": "Dulu Volkshuisvesting kini Tapera, Jatuh Bangun Perumahan Rakyat",
-        "category": "News",
-        "publish_time": "06-06-2024 02:11",
-        "news_link": "https://news.republika.co.id/berita/sen0qk393/dulu-volkshuisvesting-kini-tapera-jatuh-bangun-perumahan-rakyat"
-    },
-    {
-        "title": "Rainbow Six Siege Year 9 Resmi Hadir!, Berikut Tampilan Season 1",
-        "category": "Network",
-        "publish_time": "06-06-2024 02:11",
-        "news_link": "https://foreveresports.id/posts/311367/rainbow-six-siege-year-9-resmi-hadir-berikut-tampilan-season-1"
-    },
-    {
-        "title": "Bappenda Bogor Adakan Program Penghapusan Denda PBB pada Juni-Agustus",
-        "category": "Network",
-        "publish_time": "06-06-2024 02:11",
-        "news_link": "https://ruzkaindonesia.id/posts/311416/bappenda-bogor-adakan-program-penghapusan-denda-pbb-pada-juni-agustus"
-    },
-    {
-        "title": "Bahaya Stres Bagi Otak Manusia, Jangan Anggap Remeh",
-        "category": "Ameera",
-        "publish_time": "06-06-2024 02:11",
-        "news_link": "https://ameera.republika.co.id/berita/semxl9425/bahaya-stres-bagi-otak-manusia-jangan-anggap-remeh"
-    },
-    {
-        "title": "Noel Gallagher Rilis Serial dokumenter \u2018Council Skies\u2019 yang Disutradarai Putrinya Ana\u00efs",
-        "category": "Network",
-        "publish_time": "06-06-2024 02:11",
-        "news_link": "https://impresi.republika.co.id/sana-sini/1694730381/noel-gallagher-rilis-serial-dokumenter-council-skies-yang-disutradarai-putrinya-ana\u00efs"
-    },
-    {
-        "title": "Slovenia, Negara Uni Eropa dan Anggota NATO Resmi Akui Negara Palestina",
-        "category": "News",
-        "publish_time": "06-06-2024 02:11",
-        "news_link": "https://news.republika.co.id/berita/semzwk484/slovenia-negara-uni-eropa-dan-anggota-nato-resmi-akui-negara-palestina"
-    },
-    {
-        "title": "Museum Muarajambi Dibangun Jadi yang Terluas di Indonesia",
-        "category": "News",
-        "publish_time": "06-06-2024 02:11",
-        "news_link": "https://news.republika.co.id/berita/semzw6328/museum-muarajambi-dibangun-jadi-yang-terluas-di-indonesia"
     }
 ]
