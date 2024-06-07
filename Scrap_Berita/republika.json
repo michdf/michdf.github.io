@@ -1,5 +1,83 @@
 [
     {
+        "title": "Pj Gubernur Jabar Bey Sebut Sekda KBB Gantikan Arsan Latif jadi Plh Bupati Bandung Barat",
+        "category": "Rejabar",
+        "publish_time": "07-06-2024 13:11",
+        "news_link": "https://rejabar.republika.co.id/berita/seponh512/pj-gubernur-jabar-bey-sebut-sekda-kbb-gantikan-arsan-latif-jadi-plh-bupati-bandung-barat"
+    },
+    {
+        "title": "Terungkap, Begini Kinerja Keuangan BSI di Tengah Isu Penarikan Dana Muhammadiyah",
+        "category": "Sharia",
+        "publish_time": "07-06-2024 13:09",
+        "news_link": "https://sharia.republika.co.id/berita/sepok8502/terungkap-begini-kinerja-keuangan-bsi-di-tengah-isu-penarikan-dana-muhammadiyah"
+    },
+    {
+        "title": "Dari Iman, Lahir Keberanian",
+        "category": "Khazanah",
+        "publish_time": "07-06-2024 13:08",
+        "news_link": "https://www.republika.id/posts/53335/dari-iman-lahir-keberanian"
+    },
+    {
+        "title": "Indonesia Open 2024: Sabar/Reza Jadi Wakil Pertama ke Semifinal",
+        "category": "Network",
+        "publish_time": "07-06-2024 12:58",
+        "news_link": "https://badmintonews.id/posts/311840/indonesia-open-2024-sabar-reza-jadi-wakil-pertama-ke-semifinal"
+    },
+    {
+        "title": "Kota Bandung Potensial untuk Kembangkan Wisata Medis",
+        "category": "Rejabar",
+        "publish_time": "07-06-2024 12:49",
+        "news_link": "https://rejabar.republika.co.id/berita/sepnny512/kota-bandung-potensial-untuk-kembangkan-wisata-medis"
+    },
+    {
+        "title": "Produksi Baterai EV Sangat Krusial",
+        "category": "Video",
+        "publish_time": "07-06-2024 12:48",
+        "news_link": "https://tv.republika.co.id/berita/sepnmd216/produksi-baterai-ev-sangat-krusial"
+    },
+    {
+        "title": "Filipina Janji Berikan Perlawanan Terbaik ke Indonesia Meski tak Punya Peluang",
+        "category": "News",
+        "publish_time": "07-06-2024 12:40",
+        "news_link": "https://news.republika.co.id/berita/sepn91348/filipina-janji-berikan-perlawanan-terbaik-ke-indonesia-meski-tak-punya-peluang"
+    },
+    {
+        "title": "Khofifah Confirms to Run Election with Emil Dardak",
+        "category": "En",
+        "publish_time": "33 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/sepn7z291/khofifah-confirms-to-run-election-with-emil-dardak"
+    },
+    {
+        "title": "Polisi: Ketua PSI Batam Konsumsi Narkoba Sejak 2011",
+        "category": "News",
+        "publish_time": "07-06-2024 12:38",
+        "news_link": "https://news.republika.co.id/berita/sepn5h377/polisi-ketua-psi-batam-konsumsi-narkoba-sejak-2011"
+    },
+    {
+        "title": "Dukung Pendidikan Agama di Daerah Terpencil,\u00a0 BMM Luncurkan Program Sedekah Beras",
+        "category": "Khazanah",
+        "publish_time": "07-06-2024 12:34",
+        "news_link": "https://khazanah.republika.co.id/berita/sepmcb451/dukung-pendidikan-agama-di-daerah-terpencil-bmm-luncurkan-program-sedekah-beras"
+    },
+    {
+        "title": "Ketika Istri Memberi Saran kepada Suami",
+        "category": "Khazanah",
+        "publish_time": "07-06-2024 12:30",
+        "news_link": "https://www.republika.id/posts/53334/ketika-istri-memberi-saran-kepada-suami"
+    },
+    {
+        "title": "Tingkatkan Respons Kesiapsiagaan Siswa, UI Beri Pelatihan Tanggap Darurat Kebakaran di SMAN 1 Depok",
+        "category": "Network",
+        "publish_time": "07-06-2024 12:27",
+        "news_link": "https://ruzka.republika.co.id/sekolah/1674736635/tingkatkan-respons-kesiapsiagaan-siswa-ui-beri-pelatihan-tanggap-darurat-kebakaran-di-sman-1-depok"
+    },
+    {
+        "title": "AHY Akui Masih Ada 2.084 Hektar Lahan di IKN yang Belum Dibebaskan",
+        "category": "News",
+        "publish_time": "07-06-2024 12:22",
+        "news_link": "https://news.republika.co.id/berita/sepmds377/ahy-akui-masih-ada-2084-hektar-lahan-di-ikn-yang-belum-dibebaskan"
+    },
+    {
         "title": "Menjaga Tradisi di DAS Batanghari Tetap Hidup di Tengah Arus Modernisasi",
         "category": "News",
         "publish_time": "07-06-2024 12:16",
@@ -8,7 +86,7 @@
     {
         "title": "LPPM UMJ Berkolaborasi dengan LRI UMY, Melangkah Menuju Internasionalisasi Penelitian",
         "category": "News",
-        "publish_time": "07-06-2024 12:15",
+        "publish_time": "07-06-2024 12:14",
         "news_link": "https://news.republika.co.id/berita/sepm1e423/lppm-umj-berkolaborasi-dengan-lri-umy-melangkah-menuju-internasionalisasi-penelitian"
     },
     {
@@ -20,283 +98,205 @@
     {
         "title": "Pegiat Medsos Indonesia Ditangkap Polisi Arab karena Tawarkan Visa Non Haji",
         "category": "Khazanah",
-        "publish_time": "07-06-2024 12:11",
+        "publish_time": "07-06-2024 12:13",
         "news_link": "https://khazanah.republika.co.id/berita/seplv1451/pegiat-medsos-indonesia-ditangkap-polisi-arab-karena-tawarkan-visa-non-haji"
     },
     {
         "title": "Shayne Pattynama Siap Bersaing dengan Calvin Verdonk di Timnas Indonesia",
         "category": "News",
-        "publish_time": "07-06-2024 12:06",
+        "publish_time": "07-06-2024 12:13",
         "news_link": "https://news.republika.co.id/berita/seplml348/shayne-pattynama-siap-bersaing-dengan-calvin-verdonk-di-timnas-indonesia"
     },
     {
         "title": "Modi Bikin Sejarah, Berkuasa Tiga Kali Berturut-turut",
         "category": "News",
-        "publish_time": "07-06-2024 12:06",
+        "publish_time": "07-06-2024 12:13",
         "news_link": "https://news.republika.co.id/berita/seplm9393/modi-bikin-sejarah-berkuasa-tiga-kali-berturutturut"
     },
     {
         "title": "Prabowo Ajak Khofifah Evakuasi 1.000 Warga Palestina",
         "category": "News",
-        "publish_time": "07-06-2024 11:58",
+        "publish_time": "07-06-2024 12:13",
         "news_link": "https://news.republika.co.id/berita/sepl9t487/prabowo-ajak-khofifah-evakuasi-1000-warga-palestina"
     },
     {
         "title": "Khofifah Tegaskan akan Maju Pilgub Bersama Emil",
         "category": "News",
-        "publish_time": "07-06-2024 11:54",
+        "publish_time": "07-06-2024 12:13",
         "news_link": "https://news.republika.co.id/berita/sepl34377/khofifah-tegaskan-akan-maju-pilgub-bersama-emil"
     },
     {
         "title": "Usai Mencekik Nabi, Pendeta Yahudi Ini Ikhlas Masuk Islam",
         "category": "Khazanah",
-        "publish_time": "07-06-2024 11:49",
+        "publish_time": "07-06-2024 12:13",
         "news_link": "https://www.republika.id/posts/53332/usai-mencekik-nabi-pendeta-yahudi-ini-ikhlas-masuk-islam"
     },
     {
         "title": "Nasdem Majukan Ilham Habibie di Pilgub Jabar, Pakar: Cukup Mengejutkan",
         "category": "News",
-        "publish_time": "07-06-2024 11:47",
+        "publish_time": "07-06-2024 12:13",
         "news_link": "https://news.republika.co.id/berita/sepks0377/nasdem-majukan-ilham-habibie-di-pilgub-jabar-pakar-cukup-mengejutkan"
     },
     {
         "title": "Menua Bahagia Bersama Pasangan, Siapkan Dana Pensiun Sedari Dini, Berapa Idealnya?",
         "category": "Network",
-        "publish_time": "07-06-2024 11:31",
+        "publish_time": "07-06-2024 11:13",
         "news_link": "https://ibuwarung.republika.co.id/uang/1724736466/menua-bahagia-bersama-pasangan-siapkan-dana-pensiun-sedari-dini-berapa-idealnya"
     },
     {
         "title": "Suroto Ungkap Pertanyaan Penyidik ke Terduga Pembunuh Vina Saat Olah TKP",
         "category": "News",
-        "publish_time": "07-06-2024 11:30",
+        "publish_time": "07-06-2024 11:13",
         "news_link": "https://news.republika.co.id/berita/sepjyg377/suroto-ungkap-pertanyaan-penyidik-ke-terduga-pembunuh-vina-saat-olah-tkp"
     },
     {
         "title": "Mantan Pemain Timnas Apresiasi Permainan Garuda Lawan Irak, Tinggal Benahi Kekurangan",
         "category": "News",
-        "publish_time": "07-06-2024 11:26",
+        "publish_time": "07-06-2024 11:13",
         "news_link": "https://news.republika.co.id/berita/sepjrh348/mantan-pemain-timnas-apresiasi-permainan-garuda-lawan-irak-tinggal-benahi-kekurangan"
     },
     {
         "title": "Seleksi Mandiri Ujian Tertulis Untidar (SMUT UNTIDAR 2024) Dibuka, Cek Persyaratan, Jadwal, dan Biaya Kuliah",
         "category": "Network",
-        "publish_time": "07-06-2024 11:21",
+        "publish_time": "07-06-2024 11:13",
         "news_link": "https://kampus.republika.co.id/info-kampus/1624736313/seleksi-mandiri-ujian-tertulis-untidar-smut-untidar-2024-dibuka-cek-persyaratan-jadwal-dan-biaya-kuliah"
     },
     {
         "title": "Gojek dan GoPay Dorong Digitalisasi Ekosistem\u00a0di Kawasan Ibu Kota Nusantara",
         "category": "Network",
-        "publish_time": "07-06-2024 11:21",
+        "publish_time": "07-06-2024 11:13",
         "news_link": "https://ibuwarung.republika.co.id/teknologi/1724736425/gojek-dan-gopay-dorong-digitalisasi-ekosistemdi-kawasan-ibu-kota-nusantara"
     },
     {
         "title": "Shayne Pattynama Akui Timnas Indonesia Seharusnya Cetak Banyak Gol ke Gawang Irak",
         "category": "News",
-        "publish_time": "07-06-2024 11:21",
+        "publish_time": "07-06-2024 11:13",
         "news_link": "https://news.republika.co.id/berita/sepjca348/shayne-pattynama-akui-timnas-indonesia-seharusnya-cetak-banyak-gol-ke-gawang-irak"
     },
     {
         "title": "Soal Gaza, Joe Biden: Saya Rasa Netanyahu Mendengarkan Saya",
         "category": "News",
-        "publish_time": "07-06-2024 11:21",
+        "publish_time": "07-06-2024 11:13",
         "news_link": "https://news.republika.co.id/berita/sepjbb377/soal-gaza-joe-biden-saya-rasa-netanyahu-mendengarkan-saya"
     },
     {
         "title": "SYL Sesumbar Siap Jual Aset untuk Biaya Penggantian dalam Perkara Cuci Uang",
         "category": "News",
-        "publish_time": "07-06-2024 11:21",
+        "publish_time": "07-06-2024 11:13",
         "news_link": "https://news.republika.co.id/berita/sepj9b487/syl-sesumbar-siap-jual-aset-untuk-biaya-penggantian-dalam-perkara-cuci-uang"
     },
     {
         "title": "GraPARI Mekkah, Hadirkan Kemudahan Akses Komunikasi bagi Jamaah Haji Pengguna Telkomsel",
         "category": "Ekonomi",
-        "publish_time": "07-06-2024 11:21",
+        "publish_time": "07-06-2024 11:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sep5yq423/grapari-mekkah-hadirkan-kemudahan-akses-komunikasi-bagi-jamaah-haji-pengguna-telkomsel"
     },
     {
         "title": "Soal Muhammadiyah Tarik Dana dari BSI, Ini Komentar Erick Thohir",
         "category": "Sharia",
-        "publish_time": "07-06-2024 11:21",
+        "publish_time": "07-06-2024 11:13",
         "news_link": "https://sharia.republika.co.id/berita/sepir0423/soal-muhammadiyah-tarik-dana-dari-bsi-ini-komentar-erick-thohir"
     },
     {
         "title": "Kebakaran di Lahan Basah Brasil melonjak 980 persen",
         "category": "News",
-        "publish_time": "07-06-2024 11:21",
+        "publish_time": "07-06-2024 11:13",
         "news_link": "https://news.republika.co.id/berita/sepijd430/kebakaran-di-lahan-basah-brasil-melonjak-980-persen"
     },
     {
         "title": "Partai Gerindra Resmi Dukung Pasangan Khofifah-Emil di Pilgub Jatim 2024",
         "category": "News",
-        "publish_time": "07-06-2024 11:21",
+        "publish_time": "07-06-2024 11:13",
         "news_link": "https://news.republika.co.id/berita/sepif6484/partai-gerindra-resmi-dukung-pasangan-khofifahemil-di-pilgub-jatim-2024"
     },
     {
         "title": "Ini Alasan Suroto, Saksi Kunci Penolong Vina Eky yang Terima Tawaran Dilindungi LPSK",
         "category": "Rejabar",
-        "publish_time": "07-06-2024 11:21",
+        "publish_time": "07-06-2024 11:13",
         "news_link": "https://rejabar.republika.co.id/berita/sepiei512/ini-alasan-suroto-saksi-kunci-penolong-vina-eky-yang-terima-tawaran-dilindungi-lpsk"
     },
     {
         "title": "Dradjad: Prabowo Berkomitmen Penuh Lanjutkan IKN",
         "category": "News",
-        "publish_time": "07-06-2024 10:21",
+        "publish_time": "07-06-2024 11:13",
         "news_link": "https://news.republika.co.id/berita/sepi4o318/dradjad-prabowo-berkomitmen-penuh-lanjutkan-ikn"
     },
     {
         "title": "Erick Minta Telkom dan Telkomsel Bersiap Hadapi Persaingan",
         "category": "News",
-        "publish_time": "07-06-2024 10:21",
+        "publish_time": "07-06-2024 11:13",
         "news_link": "https://news.republika.co.id/berita/sepi2a423/erick-minta-telkom-dan-telkomsel-bersiap-hadapi-persaingan"
     },
     {
         "title": "Terkait RUU Cuti Ibu Hamil, Apindo Jabar Minta Kejelasan Soal Indikator 'Kondisi Khusus'",
         "category": "Rejabar",
-        "publish_time": "07-06-2024 10:21",
+        "publish_time": "07-06-2024 11:13",
         "news_link": "https://rejabar.republika.co.id/berita/sephy4512/terkait-ruu-cuti-ibu-hamil-apindo-jabar-minta-kejelasan-soal-indikator-kondisi-khusus"
     },
     {
         "title": "Operasional Bus Shalawat Dihentikan Sementara Mulai 11 Juni",
         "category": "Khazanah",
-        "publish_time": "07-06-2024 10:21",
+        "publish_time": "07-06-2024 10:13",
         "news_link": "https://khazanah.republika.co.id/berita/sephlk430/operasional-bus-shalawat-dihentikan-sementara-mulai-11-juni"
     },
     {
         "title": "Separatis Kembali Serang Warga Sipil di Papua Tengah, Satu Dikabarkan Meninggal",
         "category": "News",
-        "publish_time": "07-06-2024 10:21",
+        "publish_time": "07-06-2024 10:13",
         "news_link": "https://news.republika.co.id/berita/sephlb487/separatis-kembali-serang-warga-sipil-di-papua-tengah-satu-dikabarkan-meninggal"
     },
     {
         "title": "Erick Ungkap Realisasi Serapan Kementerian BUMN Hingga 98,57 Persen",
         "category": "Ekonomi",
-        "publish_time": "07-06-2024 10:21",
+        "publish_time": "07-06-2024 10:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sephk6423/erick-ungkap-realisasi-serapan-kementerian-bumn-hingga-9857-persen"
     },
     {
         "title": "Prabowo Terima Kehadiran Pasangan Khofifah-Emil di Kediamannya",
         "category": "News",
-        "publish_time": "07-06-2024 10:21",
+        "publish_time": "07-06-2024 10:13",
         "news_link": "https://news.republika.co.id/berita/sephiu484/prabowo-terima-kehadiran-pasangan-khofifahemil-di-kediamannya"
     },
     {
         "title": "Sukuk ESG BSI Raih Antusiasme Pasar, Capai Rp 9 Triliun",
         "category": "Network",
-        "publish_time": "07-06-2024 10:21",
+        "publish_time": "07-06-2024 10:13",
         "news_link": "https://bandung24jam.republika.co.id/posts/311816/sukuk-esg-bsi-raih-antusiasme-pasar-capai-rp-9-triliun"
     },
     {
         "title": "Nusa Mandiri Innovation Center akan Gelar Workshop Class Innovation",
         "category": "News",
-        "publish_time": "07-06-2024 10:21",
+        "publish_time": "07-06-2024 10:13",
         "news_link": "https://news.republika.co.id/berita/sephdd423/nusa-mandiri-innovation-center-akan-gelar-workshop-class-innovation"
     },
     {
         "title": "Adhyaksa Farmel Juara Liga 3 Nasional, Kalahkan Persibo di Partai Puncak",
         "category": "News",
-        "publish_time": "07-06-2024 10:21",
+        "publish_time": "07-06-2024 10:13",
         "news_link": "https://news.republika.co.id/berita/sephbb348/adhyaksa-farmel-juara-liga-3-nasional-kalahkan-persibo-di-partai-puncak"
     },
     {
         "title": "Selebgram Indonesia Ditangkap Polisi Saudi Karena Menawarkan Visa Non Haji",
         "category": "Khazanah",
-        "publish_time": "07-06-2024 10:21",
+        "publish_time": "07-06-2024 10:13",
         "news_link": "https://khazanah.republika.co.id/berita/seph93430/selebgram-indonesia-ditangkap-polisi-saudi-karena-menawarkan-visa-non-haji"
     },
     {
         "title": "Upaya Lautan Luas Terapkan Prinsip ESG",
         "category": "Network",
-        "publish_time": "07-06-2024 10:21",
+        "publish_time": "07-06-2024 10:13",
         "news_link": "https://genpop.republika.co.id/posts/311804/upaya-lautan-luas-terapkan-prinsip-esg"
     },
     {
         "title": "BMKG Beri Peringatan Dini Potensi Cuaca Buruk dan Gelombang Tinggi di Bali",
         "category": "Visual",
-        "publish_time": "07-06-2024 10:21",
+        "publish_time": "07-06-2024 10:13",
         "news_link": "https://visual.republika.co.id/berita/sepfgp375/bmkg-beri-peringatan-dini-potensi-cuaca-buruk-dan-gelombang-tinggi-di-bali"
     },
     {
         "title": "Inilah Pemenang Inovasi Pertamina APQ Awards ke-14 tahun 2024",
         "category": "Ekonomi",
-        "publish_time": "07-06-2024 10:21",
+        "publish_time": "07-06-2024 10:13",
         "news_link": "https://ekonomi.republika.co.id/berita/seph5l423/inilah-pemenang-inovasi-pertamina-apq-awards-ke14-tahun-2024"
-    },
-    {
-        "title": "PBNU Reaffirms Mine Management Pay Attention to Indigenous and Environmental Rights",
-        "category": "En",
-        "publish_time": "2 hours ago",
-        "news_link": "https://en.republika.co.id/berita/sepgx8415/pbnu-reaffirms-mine-management-pay-attention-to-indigenous-and-environmental-rights"
-    },
-    {
-        "title": "Kota Bandung Targetkan Jadi Tujuan Wisata Pasar Inovatif Modern",
-        "category": "Network",
-        "publish_time": "07-06-2024 10:21",
-        "news_link": "https://bandung24jam.republika.co.id/posts/311814/kota-bandung-targetkan-jadi-tujuan-wisata-pasar-inovatif-modern"
-    },
-    {
-        "title": "Sudah Melalui Penelitian Mendalam, Bahlil Sebut Izin Tambang PBNU Terbit Pekan Depan",
-        "category": "Ekonomi",
-        "publish_time": "07-06-2024 10:21",
-        "news_link": "https://ekonomi.republika.co.id/berita/sepgr8370/sudah-melalui-penelitian-mendalam-bahlil-sebut-izin-tambang-pbnu-terbit-pekan-depan"
-    },
-    {
-        "title": "Friday Car Free di Balai Kota, Disambut Antusias Warga",
-        "category": "Network",
-        "publish_time": "07-06-2024 10:21",
-        "news_link": "https://bandung24jam.id/posts/311812/friday-car-free-di-balai-kota-disambut-antusias-warga"
-    },
-    {
-        "title": "OJK Says There Is Plenty of Room to Accelerate Indonesia's Sharia Capital Market",
-        "category": "En",
-        "publish_time": "2 hours ago",
-        "news_link": "https://en.republika.co.id/berita/sepglz415/ojk-says-there-is-plenty-of-room-to-accelerate-indonesias-sharia-capital-market"
-    },
-    {
-        "title": "Saksi Kunci Penolong Vina dan Eky Resmi Dilindungi LPSK, Ini Alasannya",
-        "category": "News",
-        "publish_time": "07-06-2024 10:21",
-        "news_link": "https://news.republika.co.id/berita/sepgfo487/saksi-kunci-penolong-vina-dan-eky-resmi-dilindungi-lpsk-ini-alasannya"
-    },
-    {
-        "title": "Universitas BSI dan PT Padma Raharja Sentosa Siap Gelar Campus Recruitment",
-        "category": "News",
-        "publish_time": "07-06-2024 10:21",
-        "news_link": "https://news.republika.co.id/berita/sepgeg370/universitas-bsi-dan-pt-padma-raharja-sentosa-siap-gelar-campus-recruitment"
-    },
-    {
-        "title": "Para Mahasiswa Ini Khawatir Boikot tanpa Kriteria Jelas Bisa Ganggu Peluang Kerja",
-        "category": "Network",
-        "publish_time": "07-06-2024 10:21",
-        "news_link": "https://cari.republika.co.id/posts/311811/para-mahasiswa-ini-khawatir-boikot-tanpa-kriteria-jelas-bisa-ganggu-peluang-kerja"
-    },
-    {
-        "title": "Pernah Lahirkan Atlet Nasional, Sukabumi Ingin Kembalikan Masa Kejayaan di Bulutangkis",
-        "category": "Network",
-        "publish_time": "07-06-2024 10:21",
-        "news_link": "https://bandung24jam.id/posts/311808/pernah-lahirkan-atlet-nasional-sukabumi-ingin-kembalikan-masa-kejayaan-di-bulutangkis"
-    },
-    {
-        "title": "UGM Jadi Lokasi Kickoff Pelaksanaan BIGC 2024",
-        "category": "Rejogja",
-        "publish_time": "07-06-2024 10:21",
-        "news_link": "https://rejogja.republika.co.id/berita/sepfv9291/ugm-jadi-lokasi-kickoff-pelaksanaan-bigc-2024"
-    },
-    {
-        "title": "Tes Urine Sopir Bus Pembawa Jamaah Haji di Tapsel, ini Hasilnya",
-        "category": "Khazanah",
-        "publish_time": "07-06-2024 10:21",
-        "news_link": "https://khazanah.republika.co.id/berita/sepaot451/tes-urine-sopir-bus-pembawa-jamaah-haji-di-tapsel-ini-hasilnya"
-    },
-    {
-        "title": "Manajemen Pecat Sekuriti Plaza Indonesia yang Aniaya Anjing Pelacak",
-        "category": "News",
-        "publish_time": "07-06-2024 10:21",
-        "news_link": "https://news.republika.co.id/berita/sepfpt484/manajemen-pecat-sekuriti-plaza-indonesia-yang-aniaya-anjing-pelacak"
-    },
-    {
-        "title": "KPK Gathers Evidence Alleged Harun Masiku Was Intentionally Concealed",
-        "category": "En",
-        "publish_time": "2 hours ago",
-        "news_link": "https://en.republika.co.id/berita/sepfj3415/kpk-gathers-evidence-alleged-harun-masiku-was-intentionally-concealed"
     }
 ]
