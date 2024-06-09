@@ -1,5 +1,77 @@
 [
     {
+        "title": "UMM Kirim Tim Dosen Ajarkan Bahasa Indonesia ke Pelajar Thailand Selatan",
+        "category": "News",
+        "publish_time": "09 June 2024, 11:07",
+        "news_link": "https://news.republika.co.id/berita/sesot9484/umm-kirim-tim-dosen-ajarkan-bahasa-indonesia-ke-pelajar-thailand-selatan"
+    },
+    {
+        "title": "Garuda Pertiwi Kalahkan Bahrain, Erick Thohir: Kemenangan Ini Harus Jadi Penambah Semangat",
+        "category": "News",
+        "publish_time": "09 June 2024, 11:06",
+        "news_link": "https://news.republika.co.id/berita/sesor8487/garuda-pertiwi-kalahkan-bahrain-erick-thohir-kemenangan-ini-harus-jadi-penambah-semangat"
+    },
+    {
+        "title": "PBB Ingatkan 'Neraka Iklim' Setelah Dunia Capai Rekor Suhu Tertinggi",
+        "category": "Video",
+        "publish_time": "09 June 2024, 10:56",
+        "news_link": "https://tv.republika.co.id/berita/sesoah418/pbb-ingatkan-neraka-iklim-setelah-dunia-capai-rekor-suhu-tertinggi"
+    },
+    {
+        "title": "Eross Sheila On 7 Lelang Gitar \u2018Bersejarah\u2019 demi Bantu Warga Gaza Palestina",
+        "category": "Ameera",
+        "publish_time": "09 June 2024, 10:50",
+        "news_link": "https://ameera.republika.co.id/berita/seso0p425/eross-sheila-on-7-lelang-gitar-bersejarah-demi-bantu-warga-gaza-palestina"
+    },
+    {
+        "title": "Menteri AHY Undang Ustadz Syafiq Riza Basalamah Ceramah di Widya Chandra",
+        "category": "News",
+        "publish_time": "09 June 2024, 10:50",
+        "news_link": "https://news.republika.co.id/berita/seso0i484/menteri-ahy-undang-ustadz-syafiq-riza-basalamah-ceramah-di-widya-chandra"
+    },
+    {
+        "title": "Dua Kader Golkar Ini Diusulkan di Pilkada Cianjur",
+        "category": "News",
+        "publish_time": "09 June 2024, 10:49",
+        "news_link": "https://news.republika.co.id/berita/sesnxu487/dua-kader-golkar-ini-diusulkan-di-pilkada-cianjur"
+    },
+    {
+        "title": "Jangan Sepelakan Kulit Kusam Bisa Buat Percaya Diri Menurun, Ini Cara Perawatannya",
+        "category": "Rejabar",
+        "publish_time": "09 June 2024, 10:49",
+        "news_link": "https://rejabar.republika.co.id/berita/sesnxs512/jangan-sepelakan-kulit-kusam-bisa-buat-percaya-diri-menurun-ini-cara-perawatannya"
+    },
+    {
+        "title": "Pembelaan Hasto Soal Perkara di Polda Metro Jaya, Merasa Dikriminalisasi",
+        "category": "News",
+        "publish_time": "09 June 2024, 10:40",
+        "news_link": "https://news.republika.co.id/berita/sesnjr487/pembelaan-hasto-soal-perkara-di-polda-metro-jaya-merasa-dikriminalisasi"
+    },
+    {
+        "title": "Kota Bandung Pecahkan Rekor Permainan Angklung Nonstop Terlama di Indonesia Hingga 12 Jam",
+        "category": "Rejabar",
+        "publish_time": "09 June 2024, 10:38",
+        "news_link": "https://rejabar.republika.co.id/berita/sesngx512/kota-bandung-pecahkan-rekor-permainan-angklung-nonstop-terlama-di-indonesia-hingga-12-jam"
+    },
+    {
+        "title": "Perlu Optimalkan Kekuatan Militer dari OKI untuk Hentikan Israel",
+        "category": "Video",
+        "publish_time": "09 June 2024, 10:28",
+        "news_link": "https://tv.republika.co.id/berita/sesmz7418/perlu-optimalkan-kekuatan-militer-dari-oki-untuk-hentikan-israel"
+    },
+    {
+        "title": "Lulusan Terbaik FMIPA UPI Sediakan Makan Gratis Jumat Siang",
+        "category": "Network",
+        "publish_time": "09 June 2024, 10:23",
+        "news_link": "https://oohya.republika.co.id/pitan/1744740465/lulusan-terbaik-fmipa-upi-sediakan-makan-gratis-jumat-siang"
+    },
+    {
+        "title": "Para Istri Banyak Gugat Cerai Suami di Indramayu, Alasan Ini Mendominasi",
+        "category": "News",
+        "publish_time": "09 June 2024, 10:17",
+        "news_link": "https://news.republika.co.id/berita/sesmgv487/para-istri-banyak-gugat-cerai-suami-di-indramayu-alasan-ini-mendominasi"
+    },
+    {
         "title": "Sekjen PAN tak Sepakat Wacana Presiden Kembali Dipilih MPR",
         "category": "News",
         "publish_time": "09 June 2024, 10:10",
@@ -18,10 +90,10 @@
         "news_link": "https://analisis.republika.co.id/berita/seslkn320/program-makan-siang-gratis-dalam-tinjauan-investasi-dan-kesehatan"
     },
     {
-        "title": "Libur Usai, Semangat Kerja Amblas Jelang Hari Senin? Jangan Panik, Ini Solusinya",
+        "title": "Libur Usai, Semangat Kerja Amblas Jelang Senin? Jangan Panik, Ini Solusinya",
         "category": "Ameera",
         "publish_time": "09 June 2024, 09:54",
-        "news_link": "https://ameera.republika.co.id/berita/seslez425/libur-usai-semangat-kerja-amblas-jelang-hari-senin-jangan-panik-ini-solusinya"
+        "news_link": "https://ameera.republika.co.id/berita/seslez425/libur-usai-semangat-kerja-amblas-jelang-senin-jangan-panik-ini-solusinya"
     },
     {
         "title": "Sikap Prabowo Soal Izin Tambang untuk Ormas Diungkap Elite Gerindra",
@@ -226,77 +298,5 @@
         "category": "Khazanah",
         "publish_time": "09 June 2024, 06:48",
         "news_link": "https://khazanah.republika.co.id/berita/sesct8320/10-peristiwa-agung-yang-terjadi-pada-bulan-dzulhijjah-dalam-riwayat-ibnu-abbas"
-    },
-    {
-        "title": "PKB Siapkan Calon Kuat Penantang Khofifah-Emil yang Didukung Prabowo, Ini Bocorannya",
-        "category": "News",
-        "publish_time": "09 June 2024, 06:43",
-        "news_link": "https://news.republika.co.id/berita/sescke487/pkb-siapkan-calon-kuat-penantang-khofifahemil-yang-didukung-prabowo-ini-bocorannya"
-    },
-    {
-        "title": "Israel Dibantu Tim Amerika Bebaskan 4 Sandera di Nuseirat, 200 Warga Palestina Terbunuh",
-        "category": "News",
-        "publish_time": "09 June 2024, 06:18",
-        "news_link": "https://news.republika.co.id/berita/sesbf6377/israel-dibantu-tim-amerika-bebaskan-4-sandera-di-nuseirat-200-warga-palestina-terbunuh"
-    },
-    {
-        "title": "Belgia Bekuk Luksemburg, Denmark Bungkam Norwegia",
-        "category": "News",
-        "publish_time": "09 June 2024, 06:15",
-        "news_link": "https://news.republika.co.id/berita/sesb90487/belgia-bekuk-luksemburg-denmark-bungkam-norwegia"
-    },
-    {
-        "title": "Belajar dari Imam Al-Ghazali, Mengapa Justru Mundur Saat di Puncak Karier?",
-        "category": "Khazanah",
-        "publish_time": "09 June 2024, 06:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sesb8l320/belajar-dari-imam-alghazali-mengapa-justru-mundur-saat-di-puncak-karier"
-    },
-    {
-        "title": "Tren di Sleman Menurun, Wabup Ajak Masyarakat Sukseskan Pencegahan Stunting",
-        "category": "Rejogja",
-        "publish_time": "09 June 2024, 06:10",
-        "news_link": "https://rejogja.republika.co.id/berita/sesb16291/tren-di-sleman-menurun-wabup-ajak-masyarakat-sukseskan-pencegahan-stunting"
-    },
-    {
-        "title": "Ini Bentuk Tes Psikologi yang Dijalani Pegi Setiawan, Terduga Pembunuh Vina",
-        "category": "News",
-        "publish_time": "09 June 2024, 05:57",
-        "news_link": "https://news.republika.co.id/berita/sesafa377/ini-bentuk-tes-psikologi-yang-dijalani-pegi-setiawan-terduga-pembunuh-vina"
-    },
-    {
-        "title": "Modric Pimpin Kroasia Kalahkan Portugal dalam Pemanasan Euro, Spanyol Menang Telak",
-        "category": "News",
-        "publish_time": "09 June 2024, 05:06",
-        "news_link": "https://news.republika.co.id/berita/ses82m348/modric-pimpin-kroasia-kalahkan-portugal-dalam-pemanasan-euro-spanyol-menang-telak"
-    },
-    {
-        "title": "Berapa Biaya Dam Jamaah Haji Indonesia Terbaru? Ini Panduan Cara Membayarnya",
-        "category": "Khazanah",
-        "publish_time": "09 June 2024, 05:05",
-        "news_link": "https://khazanah.republika.co.id/berita/sero96366/berapa-biaya-dam-jamaah-haji-indonesia-terbaru-ini-panduan-cara-membayarnya"
-    },
-    {
-        "title": "Jadi Penonton di Rumah Sendiri, Hasil Indonesia Open 2024 Alarm bagi PBSI Jelang Olimpiade",
-        "category": "News",
-        "publish_time": "09 June 2024, 04:40",
-        "news_link": "https://news.republika.co.id/berita/ses6v7348/jadi-penonton-di-rumah-sendiri-hasil-indonesia-open-2024-alarm-bagi-pbsi-jelang-olimpiade"
-    },
-    {
-        "title": "5 Hal yang Membuat Rezeki Datang Sendiri Menjemput Anda",
-        "category": "Khazanah",
-        "publish_time": "09 June 2024, 04:05",
-        "news_link": "https://khazanah.republika.co.id/berita/s9lnhz366/5-hal-yang-membuat-rezeki-datang-sendiri-menjemput-anda"
-    },
-    {
-        "title": "Turnamen Toulon: Timnas U-20 Telan Kekalahan 1-4 Lawan Jepang U-19",
-        "category": "News",
-        "publish_time": "09 June 2024, 03:37",
-        "news_link": "https://news.republika.co.id/berita/ses3y1348/turnamen-toulon-timnas-u20-telan-kekalahan-14-lawan-jepang-u19"
-    },
-    {
-        "title": "Perkataan Semut yang Membuat Nabi Sulaiman Tertawa Puas",
-        "category": "Iqra",
-        "publish_time": "09 June 2024, 00:00",
-        "news_link": "https://iqra.republika.co.id/berita/serafn451/perkataan-semut-yang-membuat-nabi-sulaiman-tertawa-puas"
     }
 ]
