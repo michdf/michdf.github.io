@@ -1,5 +1,143 @@
 [
     {
+        "title": "Jadwal Sholat Kota Bogor 11 Juni 2024",
+        "category": "Khazanah",
+        "publish_time": "11-06-2024 10:10",
+        "news_link": "https://khazanah.republika.co.id/berita/sewuwm430/jadwal-sholat-kota-bogor-11-juni-2024"
+    },
+    {
+        "title": "LPDP: Akumulasi Dana Abadi di Bidang Pendidikan Capai Rp 154,1 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "11-06-2024 10:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/sewuwk490/lpdp-akumulasi-dana-abadi-di-bidang-pendidikan-capai-rp-1541-triliun"
+    },
+    {
+        "title": "Peringati Hari Lanjut Usia, Pelindo\u00a0Gandeng\u00a0Rumah Zakat Hadirkan Layanan Kesehatan Gratis",
+        "category": "Khazanah",
+        "publish_time": "11-06-2024 10:09",
+        "news_link": "https://khazanah.republika.co.id/berita/sewuwj423/peringati-hari-lanjut-usia-pelindogandengrumah-zakat-hadirkan-layanan-kesehatan-gratis"
+    },
+    {
+        "title": "Ini Prediksi Starting XI Indonesia Vs Filipina, Jay Idzes Starter",
+        "category": "News",
+        "publish_time": "11-06-2024 10:07",
+        "news_link": "https://news.republika.co.id/berita/sewui6348/ini-prediksi-starting-xi-indonesia-vs-filipina-jay-idzes-starter"
+    },
+    {
+        "title": "Bea Cukai Musnahkan Barang Kena Cukai Ilegal Senilai Empat Miliar Rupiah",
+        "category": "Beacukai",
+        "publish_time": "11-06-2024 10:06",
+        "news_link": "https://republika.co.id/berita/sews5t423/bea-cukai-musnahkan-barang-kena-cukai-ilegal-senilai-empat-miliar-rupiah"
+    },
+    {
+        "title": "Riset: Kota Besar di Jawa Surplus Kurban, Daerah Pedesaan Defisit",
+        "category": "Khazanah",
+        "publish_time": "11-06-2024 10:02",
+        "news_link": "https://www.republika.id/posts/53376/riset-kota-besar-di-jawa-surplus-kurban-daerah-pedesaan-defisit"
+    },
+    {
+        "title": "Tolak Tes Psikologi Ibu Pegi, Kuasa Hukum : Tak Ada Relevansinya dengan Pembunuhan Vina",
+        "category": "Rejabar",
+        "publish_time": "11-06-2024 10:00",
+        "news_link": "https://rejabar.republika.co.id/berita/sewugt512/tolak-tes-psikologi-ibu-pegi-kuasa-hukum-tak-ada-relevansinya-dengan-pembunuhan-vina"
+    },
+    {
+        "title": "Gelombang Panas, Meksiko Pasang AC untuk Selamatkan Satwa",
+        "category": "Esgnow",
+        "publish_time": "11-06-2024 10:00",
+        "news_link": "https://esgnow.republika.co.id/berita/sewr37416/gelombang-panas-meksiko-pasang-ac-untuk-selamatkan-satwa"
+    },
+    {
+        "title": "Peserta Takbir Keliling Diminta tak Gunakan Speaker Terlalu Keras",
+        "category": "Rejogja",
+        "publish_time": "11-06-2024 09:57",
+        "news_link": "https://rejogja.republika.co.id/berita/sewubc291/peserta-takbir-keliling-diminta-tak-gunakan-speaker-terlalu-keras"
+    },
+    {
+        "title": "BP Tapera Ungkap Penerima Manfaat KPR Subsidi Didominasi Pekerja Swasta",
+        "category": "Ekonomi",
+        "publish_time": "11-06-2024 09:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/sewuaq490/bp-tapera-ungkap-penerima-manfaat-kpr-subsidi-didominasi-pekerja-swasta"
+    },
+    {
+        "title": "2.086 Personel Siap Amankan Laga Indonesia Vs Filipina di SUGBK Senayan",
+        "category": "News",
+        "publish_time": "11-06-2024 09:53",
+        "news_link": "https://news.republika.co.id/berita/sewu5g348/2086-personel-siap-amankan-laga-indonesia-vs-filipina-di-sugbk-senayan"
+    },
+    {
+        "title": "Communication Awards Bahas Fenomena Fast Fashion di Indonesia",
+        "category": "Rejogja",
+        "publish_time": "11-06-2024 09:50",
+        "news_link": "https://rejogja.republika.co.id/berita/sewtzz291/communication-awards-bahas-fenomena-fast-fashion-di-indonesia"
+    },
+    {
+        "title": "BRILink Mekaar Mengubah Hidup, Sumarni Raih Omzet Besar dan Apresiasi BRI",
+        "category": "Ekonomi",
+        "publish_time": "11-06-2024 09:48",
+        "news_link": "https://ekonomi.republika.co.id/berita/sewtxd423/brilink-mekaar-mengubah-hidup-sumarni-raih-omzet-besar-dan-apresiasi-bri"
+    },
+    {
+        "title": "Posyandu di Depok Berperan Penting dalam Wujudkan Kota Sehat",
+        "category": "Network",
+        "publish_time": "11-06-2024 09:44",
+        "news_link": "https://ruzka.republika.co.id/serba-serbi/1674748900/posyandu-di-depok-berperan-penting-dalam-wujudkan-kota-sehat"
+    },
+    {
+        "title": "Mengenal Securities Crowd Funding, Solusi Pendanaan dan Investasi untuk UMKM Naik Kelas",
+        "category": "Ekonomi",
+        "publish_time": "11-06-2024 09:41",
+        "news_link": "https://ekonomi.republika.co.id/berita/sev3op502/mengenal-securities-crowd-funding-solusi-pendanaan-dan-investasi-untuk-umkm-naik-kelas"
+    },
+    {
+        "title": "Kukids Playdate, Ketika Belajar Bisa Menyenangkan dan Bermanfaat",
+        "category": "Ameera",
+        "publish_time": "11-06-2024 09:38",
+        "news_link": "https://ameera.republika.co.id/berita/sewtff425/kukids-playdate-ketika-belajar-bisa-menyenangkan-dan-bermanfaat"
+    },
+    {
+        "title": "RI Masuk Lima Negara Terkorup, Anwar Abbas Minta Prabowo Bangun Penjara Bagi Koruptor",
+        "category": "Khazanah",
+        "publish_time": "11-06-2024 09:37",
+        "news_link": "https://khazanah.republika.co.id/berita/sewtet483/ri-masuk-lima-negara-terkorup-anwar-abbas-minta-prabowo-bangun-penjara-bagi-koruptor"
+    },
+    {
+        "title": "Polri Minta Tambahan Anggaran Rp 60 Triliun untuk Tahun 2025",
+        "category": "News",
+        "publish_time": "11-06-2024 09:35",
+        "news_link": "https://news.republika.co.id/berita/sewtb6484/polri-minta-tambahan-anggaran-rp-60-triliun-untuk-tahun-2025"
+    },
+    {
+        "title": "Berbagai Program Pemkot Depok untuk Kesejahteraan Lansia, Termasuk Anggaran",
+        "category": "Network",
+        "publish_time": "11-06-2024 09:30",
+        "news_link": "https://ruzka.republika.co.id/serba-serbi/1674748858/berbagai-program-pemkot-depok-untuk-kesejahteraan-lansia-termasuk-anggaran"
+    },
+    {
+        "title": "UII dan Kemenkop UKM Tingkatkan Kapasitas 30 Startup di DIY",
+        "category": "Rejogja",
+        "publish_time": "11-06-2024 09:19",
+        "news_link": "https://rejogja.republika.co.id/berita/sewsku291/uii-dan-kemenkop-ukm-tingkatkan-kapasitas-30-startup-di-diy"
+    },
+    {
+        "title": "Membaca Al-Qur'an Menjadi Kunci Keberkahan dalam Hidup",
+        "category": "Retizen",
+        "publish_time": "11-06-2024 09:18",
+        "news_link": "https://retizen.republika.co.id/posts/312694/membaca-al-quran-menjadi-kunci-keberkahan-dalam-hidup"
+    },
+    {
+        "title": "BSI Dorong Digitalisasi 24 Ribu UMKM",
+        "category": "Sharia",
+        "publish_time": "11-06-2024 09:17",
+        "news_link": "https://sharia.republika.co.id/berita/sewsh6490/bsi-dorong-digitalisasi-24-ribu-umkm"
+    },
+    {
+        "title": "Briptu FN Bakar Suami tidak Terjadi karena Sebab Tunggal",
+        "category": "News",
+        "publish_time": "11-06-2024 09:17",
+        "news_link": "https://www.republika.id/posts/53374/briptu-fn-bakar-suami-tidak-terjadi-karena-sebab-tunggal"
+    },
+    {
         "title": "Jelang Idul Adha, Masjid Salman Beri Pelatihan ke 142 Juru Sembelih DKM se-Jabar",
         "category": "Rejabar",
         "publish_time": "11-06-2024 09:12",
@@ -14,289 +152,151 @@
     {
         "title": "BP Tapera: Untuk Bantu Satu Orang MBR Perlu Ada 150 'Penabung Mulia'",
         "category": "Ekonomi",
-        "publish_time": "11-06-2024 09:10",
+        "publish_time": "11-06-2024 09:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sews4c490/bp-tapera-untuk-bantu-satu-orang-mbr-perlu-ada-150-penabung-mulia"
     },
     {
         "title": "AHY Ajukan Anggaran Kementerian ATR/BPN Tahun 2025 Sebesar Rp 14 triliun",
         "category": "News",
-        "publish_time": "11-06-2024 09:05",
+        "publish_time": "11-06-2024 09:12",
         "news_link": "https://news.republika.co.id/berita/sewrwv484/ahy-ajukan-anggaran-kementerian-atrbpn-tahun-2025-sebesar-rp-14-triliun"
     },
     {
         "title": "Cek Fitur ADAS pada Mobil Listrik Baru NETA dengan Harga di Bawah Rp 300 Juta",
         "category": "Ekonomi",
-        "publish_time": "11-06-2024 09:04",
+        "publish_time": "11-06-2024 09:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sewrub349/cek-fitur-adas-pada-mobil-listrik-baru-neta-dengan-harga-di-bawah-rp-300-juta"
     },
     {
         "title": "Hamas Terima Resolusi Gencatan Senjata DK PBB",
         "category": "News",
-        "publish_time": "11-06-2024 09:01",
+        "publish_time": "11-06-2024 09:12",
         "news_link": "https://news.republika.co.id/berita/sewrq0393/hamas-terima-resolusi-gencatan-senjata-dk-pbb"
     },
     {
         "title": "Bank bjb Tawarkan Savings Bond Retail Seri SBR013 dengan Kupon 6.60 Persen",
         "category": "Ekonomi",
-        "publish_time": "11-06-2024 09:00",
+        "publish_time": "11-06-2024 09:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sewrp0423/bank-bjb-tawarkan-savings-bond-retail-seri-sbr013-dengan-kupon-660-persen"
     },
     {
         "title": "Kisah Sahabat Nabi yang Gemar Bercanda",
         "category": "Khazanah",
-        "publish_time": "11-06-2024 08:57",
+        "publish_time": "11-06-2024 09:12",
         "news_link": "https://khazanah.republika.co.id/berita/sewrj2458/kisah-sahabat-nabi-yang-gemar-bercanda"
     },
     {
         "title": "Innovation Prototype Jadi Hal yang Dibahas oleh Sejumlah Ahli dalam Diskusi di Esa Unggul",
         "category": "News",
-        "publish_time": "11-06-2024 08:55",
+        "publish_time": "11-06-2024 09:12",
         "news_link": "https://news.republika.co.id/berita/sewqim456/innovation-prototype-jadi-hal-yang-dibahas-oleh-sejumlah-ahli-dalam-diskusi-di-esa-unggul"
     },
     {
         "title": "Edukasi KBGO di Dusun Puton, HIMAPSTRA UGM Hadirkan Komisioner KPAI",
         "category": "Rejogja",
-        "publish_time": "11-06-2024 08:52",
+        "publish_time": "11-06-2024 09:12",
         "news_link": "https://rejogja.republika.co.id/berita/sewrb7291/edukasi-kbgo-di-dusun-puton-himapstra-ugm-hadirkan-komisioner-kpai"
     },
     {
         "title": "Pemegang Saham GoTo Setuju Buyback Senilai Rp 3,2 Triliun",
         "category": "Ekonomi",
-        "publish_time": "11-06-2024 08:49",
+        "publish_time": "11-06-2024 09:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sewr5w484/pemegang-saham-goto-setuju-buyback-senilai-rp-32-triliun"
     },
     {
         "title": "Tips Agar Bisa Berkurban untuk Milenial!",
         "category": "Retizen",
-        "publish_time": "11-06-2024 08:46",
+        "publish_time": "11-06-2024 09:12",
         "news_link": "https://retizen.republika.co.id/posts/312710/tips-agar-bisa-berkurban-untuk-milenial"
     },
     {
         "title": "Beri Pelayanan Prima, Kanwil Bea Cukai Banten Raih Penghargaan dari Stakeholder",
         "category": "Beacukai",
-        "publish_time": "11-06-2024 08:46",
+        "publish_time": "11-06-2024 09:12",
         "news_link": "https://republika.co.id/berita/sewr0m423/beri-pelayanan-prima-kanwil-bea-cukai-banten-raih-penghargaan-dari-stakeholder"
     },
     {
         "title": "Australia Open 2024: Hendra/Ahsan Melaju ke Babak Kedua",
         "category": "Network",
-        "publish_time": "11-06-2024 08:45",
+        "publish_time": "11-06-2024 09:12",
         "news_link": "https://badmintonews.id/posts/312707/australia-open-2024-hendra-ahsan-melaju-ke-babak-kedua"
     },
     {
         "title": "Ini Komitmen BSI Bangun UMKM, Pembiayaan Tembus Rp 46,69 Triliun dan Naik 17 Persen",
         "category": "Ekonomi",
-        "publish_time": "11-06-2024 08:41",
+        "publish_time": "11-06-2024 08:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sewqsz490/ini-komitmen-bsi-bangun-umkm-pembiayaan-tembus-rp-4669-triliun-dan-naik-17-persen"
     },
     {
         "title": "Bea Cukai Jayapura Tindak Paket Berisi Ribuan Butir Narkoba di Sebuah Jasa Ekspedisi",
         "category": "Beacukai",
-        "publish_time": "11-06-2024 08:40",
+        "publish_time": "11-06-2024 08:12",
         "news_link": "https://republika.co.id/berita/sewqqj423/bea-cukai-jayapura-tindak-paket-berisi-ribuan-butir-narkoba-di-sebuah-jasa-ekspedisi"
     },
     {
         "title": "KPK \u2018Cari\u2019 Harun Masiku di Ponsel Hasto",
         "category": "News",
-        "publish_time": "11-06-2024 08:40",
+        "publish_time": "11-06-2024 08:12",
         "news_link": "https://www.republika.id/posts/53373/kpk-%e2%80%98cari%e2%80%99-harun-masiku-di-ponsel-hasto"
     },
     {
         "title": "MUI: Ikuti Aturan Negara Dalam Melaksanakan Haji",
         "category": "Khazanah",
-        "publish_time": "11-06-2024 08:40",
+        "publish_time": "11-06-2024 08:12",
         "news_link": "https://khazanah.republika.co.id/berita/sewqqa458/mui-ikuti-aturan-negara-dalam-melaksanakan-haji"
     },
     {
         "title": "Member BTS Bakal Berkumpul Sambut Jin Selesai Wamil",
         "category": "Ameera",
-        "publish_time": "11-06-2024 08:37",
+        "publish_time": "11-06-2024 08:12",
         "news_link": "https://ameera.republika.co.id/berita/sewqlw425/member-bts-bakal-berkumpul-sambut-jin-selesai-wamil"
     },
     {
         "title": "Lagi, 1 Pelaku Pengeroyokan Bos Rental di Sukolilo Ditangkap, Perannya Ikut Tendang Korban",
         "category": "News",
-        "publish_time": "11-06-2024 08:36",
+        "publish_time": "11-06-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/sewqjl377/lagi-1-pelaku-pengeroyokan-bos-rental-di-sukolilo-ditangkap-perannya-ikut-tendang-korban"
     },
     {
         "title": "Hati-Hati Pencurian Data Pribadi untuk Pinjol Ilegal, Begini Pesan PNM Mekaar",
         "category": "Ekonomi",
-        "publish_time": "11-06-2024 08:33",
+        "publish_time": "11-06-2024 08:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sewqes423/hatihati-pencurian-data-pribadi-untuk-pinjol-ilegal-begini-pesan-pnm-mekaar"
     },
     {
         "title": "Ratusan Lampu Tenaga Surya Terangi Jalan di Cilacap",
         "category": "Esgnow",
-        "publish_time": "11-06-2024 08:30",
+        "publish_time": "11-06-2024 08:12",
         "news_link": "https://esgnow.republika.co.id/berita/sewklh416/ratusan-lampu-tenaga-surya-terangi-jalan-di-cilacap"
     },
     {
         "title": "Ini Hitung-Hitungan PDIP Jika Calonkan Anies, Termasuk Bila Dipasangkan Charles Honoris",
         "category": "News",
-        "publish_time": "11-06-2024 08:27",
+        "publish_time": "11-06-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/sewq57377/ini-hitunghitungan-pdip-jika-calonkan-anies-termasuk-bila-dipasangkan-charles-honoris"
     },
     {
         "title": "Bukan olok-olok, Canda dan Jenaka Dibolehkan Dalam Islam",
         "category": "Khazanah",
-        "publish_time": "11-06-2024 08:25",
+        "publish_time": "11-06-2024 08:12",
         "news_link": "https://khazanah.republika.co.id/berita/sewq16458/bukan-olokolok-canda-dan-jenaka-dibolehkan-dalam-islam"
     },
     {
         "title": "Kaprodi Pendidikan Agama Islam FAI UMJ Raih Gelar Doktor",
         "category": "News",
-        "publish_time": "11-06-2024 08:20",
+        "publish_time": "11-06-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/sewpue423/kaprodi-pendidikan-agama-islam-fai-umj-raih-gelar-doktor"
     },
     {
         "title": "Ini Penegasan Ketua KPK Soal Penyitaan HP dan Tas Hasto Kristiyanto",
         "category": "News",
-        "publish_time": "11-06-2024 08:17",
+        "publish_time": "11-06-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/sewpot409/ini-penegasan-ketua-kpk-soal-penyitaan-hp-dan-tas-hasto-kristiyanto"
     },
     {
         "title": "Bahaya Judi Online Bagi Keharmonisan Rumah Tangga, Jauhi Jeratnya!",
         "category": "Ameera",
-        "publish_time": "11-06-2024 08:17",
+        "publish_time": "11-06-2024 08:12",
         "news_link": "https://ameera.republika.co.id/berita/sewpo0425/bahaya-judi-online-bagi-keharmonisan-rumah-tangga-jauhi-jeratnya"
-    },
-    {
-        "title": "Upaya Sosialisasi Program Amanah di CFD Banda Aceh Disambut Antusias Anak Muda",
-        "category": "News",
-        "publish_time": "11-06-2024 08:17",
-        "news_link": "https://news.republika.co.id/berita/sewpo0456/upaya-sosialisasi-program-amanah-di-cfd-banda-aceh-disambut-antusias-anak-muda"
-    },
-    {
-        "title": "Jamaah RI Diminta Pahami Manasik, Jangan Sampai Hajinya tidak Sah",
-        "category": "Khazanah",
-        "publish_time": "11-06-2024 08:15",
-        "news_link": "https://khazanah.republika.co.id/berita/sewpl3483/jamaah-ri-diminta-pahami-manasik-jangan-sampai-hajinya-tidak-sah"
-    },
-    {
-        "title": "Lagi-lagi Drone Israel KO Dihantam Misil Hizbullah",
-        "category": "News",
-        "publish_time": "11-06-2024 08:15",
-        "news_link": "https://news.republika.co.id/berita/sewpkk377/lagilagi-drone-israel-ko-dihantam-misil-hizbullah"
-    },
-    {
-        "title": "KPK Minta Anggaran 2025 Ditambah Rp 117 Miliar, Jadi Rp 1,354 Triliun",
-        "category": "News",
-        "publish_time": "11-06-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sewpip487/kpk-minta-anggaran-2025-ditambah-rp-117-miliar-jadi-rp-1354-triliun"
-    },
-    {
-        "title": "Disdik DKI Sudah Miliki Data Remaja di Video 'Ini Darah Anak Palestina'",
-        "category": "News",
-        "publish_time": "11-06-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sewp0a483/disdik-dki-sudah-miliki-data-remaja-di-video-ini-darah-anak-palestina"
-    },
-    {
-        "title": "Israel Akui Satu Komandan dan Tiga Prajurit Tewas Dijebak Pejuang Palestina",
-        "category": "News",
-        "publish_time": "11-06-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sewoxx393/israel-akui-satu-komandan-dan-tiga-prajurit-tewas-dijebak-pejuang-palestina"
-    },
-    {
-        "title": "Antisipasi Wabah PMK, Petugas Kesehatan Hewan Lakukan Penyuntikan Antibiotik",
-        "category": "Visual",
-        "publish_time": "11-06-2024 08:13",
-        "news_link": "https://visual.republika.co.id/berita/sewjs4375/antisipasi-wabah-pmk-petugas-kesehatan-hewan-lakukan-penyuntikan-antibiotik"
-    },
-    {
-        "title": "Lima Prioritas PT Vale Indonesia (INCO), Salah Satunya Ada Implementasi ESG",
-        "category": "Ekonomi",
-        "publish_time": "11-06-2024 08:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sewov7423/lima-prioritas-pt-vale-indonesia-inco-salah-satunya-ada-implementasi-esg"
-    },
-    {
-        "title": "Panggilan Tes Psikologi Ibu Pegi untuk Kasus Vina Ditolak Kuasa Hukum, Ini Alasannya",
-        "category": "News",
-        "publish_time": "11-06-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sewop9409/panggilan-tes-psikologi-ibu-pegi-untuk-kasus-vina-ditolak-kuasa-hukum-ini-alasannya"
-    },
-    {
-        "title": "Upacara 17 Agustus Digelar Hybrid di IKN dan Jakarta, Jokowi: Ini Masa Transisi",
-        "category": "News",
-        "publish_time": "11-06-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sewol4377/upacara-17-agustus-digelar-hybrid-di-ikn-dan-jakarta-jokowi-ini-masa-transisi"
-    },
-    {
-        "title": "Akibat Perubahan Iklim, Warga Panama Lakukan Eksodus",
-        "category": "Video",
-        "publish_time": "11-06-2024 08:13",
-        "news_link": "https://tv.republika.co.id/berita/sewog0418/akibat-perubahan-iklim-warga-panama-lakukan-eksodus"
-    },
-    {
-        "title": "Polisi Ciduk Pengancam dan Pemeras Ria Ricis di Jaktim",
-        "category": "News",
-        "publish_time": "11-06-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sewoa3484/polisi-ciduk-pengancam-dan-pemeras-ria-ricis-di-jaktim"
-    },
-    {
-        "title": "BPKH Limited: Hotel Jamaah Kini Ada Pedagang Bakso Hingga Soto",
-        "category": "Khazanah",
-        "publish_time": "11-06-2024 08:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sewo68483/bpkh-limited-hotel-jamaah-kini-ada-pedagang-bakso-hingga-soto"
-    },
-    {
-        "title": "Dokter RSCM Ungkap Beberapa Jenis Obat Ini Bikin Tulang Cepat Rapuh",
-        "category": "Ameera",
-        "publish_time": "11-06-2024 08:13",
-        "news_link": "https://ameera.republika.co.id/berita/sewo5o487/dokter-rscm-ungkap-beberapa-jenis-obat-ini-bikin-tulang-cepat-rapuh"
-    },
-    {
-        "title": "Survei BI: Penjualan Eceran Mei 2024 Diperkirakan Meningkat",
-        "category": "Ekonomi",
-        "publish_time": "11-06-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sewnxn423/survei-bi-penjualan-eceran-mei-2024-diperkirakan-meningkat"
-    },
-    {
-        "title": "Ini Keutamaan Akal Manusia Menurut Islam",
-        "category": "Khazanah",
-        "publish_time": "11-06-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sewnsg458/ini-keutamaan-akal-manusia-menurut-islam"
-    },
-    {
-        "title": "RUU BUMN Ditargetkan Rampung di Akhir Pemerintahan Jokowi",
-        "category": "Ekonomi",
-        "publish_time": "11-06-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sewnoy490/ruu-bumn-ditargetkan-rampung-di-akhir-pemerintahan-jokowi"
-    },
-    {
-        "title": "Disdik DKI Jakarta Kecam Perilaku di Konten Candaan Korban Genosida Palestina",
-        "category": "News",
-        "publish_time": "11-06-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/sewnlu409/disdik-dki-jakarta-kecam-perilaku-di-konten-candaan-korban-genosida-palestina"
-    },
-    {
-        "title": "Jika Istri Lebih dari Satu Bagaimana Pembagian Uang Belanjanya?",
-        "category": "Iqra",
-        "publish_time": "11-06-2024 07:13",
-        "news_link": "https://iqra.republika.co.id/berita/sewm76430/jika-istri-lebih-dari-satu-bagaimana-pembagian-uang-belanjanya"
-    },
-    {
-        "title": "Cerai Halal Tapi Dibenci Allah SWT, Ini Haditsnya",
-        "category": "Khazanah",
-        "publish_time": "11-06-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sewmpf430/cerai-halal-tapi-dibenci-allah-swt-ini-haditsnya"
-    },
-    {
-        "title": "Pakar Hukum Pidana Nilai Wajar Ada Permohonan Baru Perlindungan Saksi Kasus Vina",
-        "category": "News",
-        "publish_time": "11-06-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/sewn5m348/pakar-hukum-pidana-nilai-wajar-ada-permohonan-baru-perlindungan-saksi-kasus-vina"
-    },
-    {
-        "title": "Banyak Kasus Perceraian, Ketahui Tata Cara Talak Sesuai Syariah",
-        "category": "Khazanah",
-        "publish_time": "11-06-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sewn93458/banyak-kasus-perceraian-ketahui-tata-cara-talak-sesuai-syariah"
-    },
-    {
-        "title": "Jin BTS Selesai Wamil Besok, Lagu \u2018Super Tuna\u2019 Meroket di iTunes",
-        "category": "Ameera",
-        "publish_time": "11-06-2024 07:13",
-        "news_link": "https://ameera.republika.co.id/berita/sewn82425/jin-bts-selesai-wamil-besok-lagu-super-tuna-meroket-di-itunes"
     }
 ]
