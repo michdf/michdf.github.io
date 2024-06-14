@@ -1,92 +1,200 @@
 [
     {
+        "title": "Perseteruan Memanas, Habib Bahar Datangi Markas Sayyid Qori di Tangerang",
+        "category": "News",
+        "publish_time": "14-06-2024 04:10",
+        "news_link": "https://news.republika.co.id/berita/sf1y9z484/perseteruan-memanas-habib-bahar-datangi-markas-sayyid-qori-di-tangerang"
+    },
+    {
+        "title": "Chandra Hamzah: Keberhasilan Transformasi BUMN Berkat Perbaikan Sistem dan Orang",
+        "category": "Ekonomi",
+        "publish_time": "14-06-2024 04:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/sf1xy0370/chandra-hamzah-keberhasilan-transformasi-bumn-berkat-perbaikan-sistem-dan-orang"
+    },
+    {
+        "title": "Andar Nubowo Pimpin Maarif Institute, Fokus 3 Bidang",
+        "category": "Khazanah",
+        "publish_time": "14-06-2024 04:02",
+        "news_link": "https://khazanah.republika.co.id/berita/sf1xvq458/andar-nubowo-pimpin-maarif-institute-fokus-3-bidang"
+    },
+    {
+        "title": "765 Petugas Haji Berangkat ke Arafah Pastikan Fasilitas untuk Jamaah",
+        "category": "Khazanah",
+        "publish_time": "14-06-2024 04:00",
+        "news_link": "https://khazanah.republika.co.id/berita/sf1xsq451/765-petugas-haji-berangkat-ke-arafah-pastikan-fasilitas-untuk-jamaah"
+    },
+    {
+        "title": "Jadwal Sholat Hari Ini di Tangerang: 14 Juni 2024, Pentingnya Menjaga Waktu Sholat",
+        "category": "Khazanah",
+        "publish_time": "14-06-2024 04:00",
+        "news_link": "https://khazanah.republika.co.id/berita/sf1urx430/jadwal-sholat-hari-ini-di-tangerang-14-juni-2024-pentingnya-menjaga-waktu-sholat"
+    },
+    {
+        "title": "Pupuk Indonesia Raih Rp 1,3 Triliun dari Kontribusi Inovasi",
+        "category": "Ekonomi",
+        "publish_time": "14-06-2024 03:55",
+        "news_link": "https://ekonomi.republika.co.id/berita/sf1wqc370/pupuk-indonesia-raih-rp-13-triliun-dari-kontribusi-inovasi"
+    },
+    {
+        "title": "AHY Prioritas Utama Menteri dari Demokrat, Incar Menkopolhukam?",
+        "category": "News",
+        "publish_time": "14-06-2024 03:53",
+        "news_link": "https://news.republika.co.id/berita/sf1xhp377/ahy-prioritas-utama-menteri-dari-demokrat-incar-menkopolhukam"
+    },
+    {
+        "title": "Pemerintah Pertimbangkan Pelaku Judi Online Masuk Daftar Bansos",
+        "category": "Ekonomi",
+        "publish_time": "14-06-2024 03:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/sf1xci370/pemerintah-pertimbangkan-pelaku-judi-online-masuk-daftar-bansos"
+    },
+    {
+        "title": "Suzuki Ungkap Rahasia Memilih Motor Baru agar tak Salah Pilih dan Sesuai Budget",
+        "category": "Ekonomi",
+        "publish_time": "14-06-2024 03:49",
+        "news_link": "https://ekonomi.republika.co.id/berita/sf1xap349/suzuki-ungkap-rahasia-memilih-motor-baru-agar-tak-salah-pilih-dan-sesuai-budget"
+    },
+    {
+        "title": "Umat Islam RI Puasa Arafah Ahad Lusa Saat Idul Adha di Saudi, Apa Hukumnya?",
+        "category": "Khazanah",
+        "publish_time": "14-06-2024 03:47",
+        "news_link": "https://khazanah.republika.co.id/berita/sf1x7r483/umat-islam-ri-puasa-arafah-ahad-lusa-saat-idul-adha-di-saudi-apa-hukumnya"
+    },
+    {
+        "title": "Erick Thohir Suarakan Optimisme Timnas Indonesia Bisa Lolos Kualifikasi Piala Dunia 2026",
+        "category": "News",
+        "publish_time": "14-06-2024 03:38",
+        "news_link": "https://news.republika.co.id/berita/sf1wrt348/erick-thohir-suarakan-optimisme-timnas-indonesia-bisa-lolos-kualifikasi-piala-dunia-2026"
+    },
+    {
+        "title": "Gugatannya Paling Banyak Dikabulkan MK, Ini Kata Nasdem",
+        "category": "News",
+        "publish_time": "14-06-2024 03:34",
+        "news_link": "https://news.republika.co.id/berita/sf1wkq377/gugatannya-paling-banyak-dikabulkan-mk-ini-kata-nasdem"
+    },
+    {
+        "title": "Menteri Garda Nasional Arab Saudi Cek Persiapan Ppasukan Haji",
+        "category": "Khazanah",
+        "publish_time": "14-06-2024 03:33",
+        "news_link": "https://khazanah.republika.co.id/berita/sf1ocb451/menteri-garda-nasional-arab-saudi-cek-persiapan-ppasukan-haji"
+    },
+    {
+        "title": "IHSG Sepekan Tertekan, Ini Strategi OJK",
+        "category": "Ekonomi",
+        "publish_time": "14-06-2024 03:32",
+        "news_link": "https://ekonomi.republika.co.id/berita/sf1wis370/ihsg-sepekan-tertekan-ini-strategi-ojk"
+    },
+    {
+        "title": "Nasib Pilu Hadi, Dituduh Bunuh Vina \u2013 Eky, Gagal Menikah, dan Rumah Dijual",
+        "category": "Rejabar",
+        "publish_time": "14-06-2024 03:25",
+        "news_link": "https://rejabar.republika.co.id/berita/sf1w6h512/nasib-pilu-hadi-dituduh-bunuh-vina-eky-gagal-menikah-dan-rumah-dijual"
+    },
+    {
+        "title": "Universitas BSI Ikuti Sosialisasi Road to HAKTEKNAS Ke-29 InaRI Expo & IEMS 2024",
+        "category": "News",
+        "publish_time": "14-06-2024 03:16",
+        "news_link": "https://news.republika.co.id/berita/sf1vs3370/universitas-bsi-ikuti-sosialisasi-road-to-hakteknas-ke29-inari-expo-iems-2024"
+    },
+    {
+        "title": "Coldplay Bocorkan Single Baru \u2018feelslikeimfallinginlove\u2019 dari Album ke 10 'Moon Music'",
+        "category": "Network",
+        "publish_time": "14-06-2024 03:16",
+        "news_link": "https://impresi.republika.co.id/musik/1694758915/coldplay-bocorkan-single-baru-feelslikeimfallinginlove-dari-album-ke-10-moon-music"
+    },
+    {
+        "title": "Raffi Ahmad Tarik Investasi Beach Club di Gunungkidul",
+        "category": "Rejogja",
+        "publish_time": "14-06-2024 03:13",
+        "news_link": "https://rejogja.republika.co.id/berita/sf1vmm291/raffi-ahmad-tarik-investasi-beach-club-di-gunungkidul"
+    },
+    {
         "title": "'Perencanaan Keuangan dan Teknologi Bantu Generasi Muda Beli Rumah'",
         "category": "Rejogja",
-        "publish_time": "14-06-2024 03:06",
+        "publish_time": "14-06-2024 03:13",
         "news_link": "https://rejogja.republika.co.id/berita/sf1vaa291/perencanaan-keuangan-dan-teknologi-bantu-generasi-muda-beli-rumah"
     },
     {
         "title": "Jumlah WNA yang Ditindak Imigrasi Melonjak Nyaris 100 Persen",
         "category": "News",
-        "publish_time": "14-06-2024 03:04",
+        "publish_time": "14-06-2024 03:13",
         "news_link": "https://news.republika.co.id/berita/sf1v6v393/jumlah-wna-yang-ditindak-imigrasi-melonjak-nyaris-100-persen"
     },
     {
         "title": "Harga Emas Antam Merosot Rp 8.000 di Akhir Pekan",
         "category": "Ekonomi",
-        "publish_time": "14-06-2024 02:54",
+        "publish_time": "14-06-2024 03:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sf1uql370/harga-emas-antam-merosot-rp-8000-di-akhir-pekan"
     },
     {
         "title": "Perempuan Didorong Berperan dalam Penanganan Perubahan Iklim",
         "category": "Esgnow",
-        "publish_time": "14-06-2024 02:54",
+        "publish_time": "14-06-2024 03:13",
         "news_link": "https://esgnow.republika.co.id/berita/sf1uq4416/perempuan-didorong-berperan-dalam-penanganan-perubahan-iklim"
     },
     {
         "title": "Analis Sebut Pertentangan Internal Israel Halangi Penuntasan Konflik di Gaza",
         "category": "Video",
-        "publish_time": "14-06-2024 02:50",
+        "publish_time": "14-06-2024 03:13",
         "news_link": "https://tv.republika.co.id/berita/sf1ujy467/analis-sebut-pertentangan-internal-israel-halangi-penuntasan-konflik-di-gaza"
     },
     {
         "title": "Inilah Keunggulan Prodi Sistem Informasi Akuntansi Universitas BSI Kampus Pontianak",
         "category": "News",
-        "publish_time": "14-06-2024 02:47",
+        "publish_time": "14-06-2024 03:13",
         "news_link": "https://news.republika.co.id/berita/sf1udy370/inilah-keunggulan-prodi-sistem-informasi-akuntansi-universitas-bsi-kampus-pontianak"
     },
     {
         "title": "Diumumkan di Konser ke 100, Taylor Swift: Eras Tour Berakhir Desember",
         "category": "Network",
-        "publish_time": "14-06-2024 02:41",
+        "publish_time": "14-06-2024 02:13",
         "news_link": "https://impresi.republika.co.id/musik/1694758754/diumumkan-di-konser-ke-100-taylor-swift-eras-tour-berakhir-desember"
     },
     {
         "title": "Prodi Sistem Informasi Universitas BSI Kampus Pontianak Tawarkan Berbagai Keunggulan",
         "category": "News",
-        "publish_time": "14-06-2024 02:33",
+        "publish_time": "14-06-2024 02:13",
         "news_link": "https://news.republika.co.id/berita/sf1tqx370/prodi-sistem-informasi-universitas-bsi-kampus-pontianak-tawarkan-berbagai-keunggulan"
     },
     {
         "title": "Jelang Idul Adha, Israel Masih Terus Bombardir Gaza",
         "category": "News",
-        "publish_time": "14-06-2024 02:32",
+        "publish_time": "14-06-2024 02:13",
         "news_link": "https://news.republika.co.id/berita/sf1tq4393/jelang-idul-adha-israel-masih-terus-bombardir-gaza"
     },
     {
         "title": "Dahulukan Naik Haji atau Membantu Anak-anak Miskin?",
         "category": "Khazanah",
-        "publish_time": "14-06-2024 02:29",
+        "publish_time": "14-06-2024 02:13",
         "news_link": "https://khazanah.republika.co.id/berita/sf1o4v451/dahulukan-naik-haji-atau-membantu-anakanak-miskin"
     },
     {
         "title": "Bantah Rumor Reuni Spice Girls, David Beckham: Tidak akan Terjadi!",
         "category": "Network",
-        "publish_time": "14-06-2024 02:27",
+        "publish_time": "14-06-2024 02:13",
         "news_link": "https://impresi.republika.co.id/sana-sini/1694758681/bantah-rumor-reuni-spice-girls-david-beckham-tidak-akan-terjadi"
     },
     {
         "title": "Dompet Dhuafa Bersama Hayat Yolu Ajak Masyarakat Indonesia Berkurban Bagi Rakyat Palestina",
         "category": "Khazanah",
-        "publish_time": "14-06-2024 02:25",
+        "publish_time": "14-06-2024 02:13",
         "news_link": "https://khazanah.republika.co.id/berita/sf1tes370/dompet-dhuafa-bersama-hayat-yolu-ajak-masyarakat-indonesia-berkurban-bagi-rakyat-palestina"
     },
     {
         "title": "Solo Ditetapkan Sebagai Tuan Rumah PEPARNAS 2024 Oktober Mendatang",
         "category": "Rejogja",
-        "publish_time": "14-06-2024 02:25",
+        "publish_time": "14-06-2024 02:13",
         "news_link": "https://rejogja.republika.co.id/berita/sf1tdv291/solo-ditetapkan-sebagai-tuan-rumah-peparnas-2024-oktober-mendatang"
     },
     {
         "title": "Statistik Unik Piala Eropa: Tuan Rumah Euro Sulit Juara, Peluangnya Hanya 19 Persen",
         "category": "News",
-        "publish_time": "14-06-2024 02:24",
+        "publish_time": "14-06-2024 02:13",
         "news_link": "https://news.republika.co.id/berita/sf1tcj348/statistik-unik-piala-eropa-tuan-rumah-euro-sulit-juara-peluangnya-hanya-19-persen"
     },
     {
         "title": "Iptu Rudiana Ayah Almarhum Eki Telah Jalani Pemeriksaan",
         "category": "News",
-        "publish_time": "14-06-2024 02:23",
+        "publish_time": "14-06-2024 02:13",
         "news_link": "https://news.republika.co.id/berita/sf1ta7377/iptu-rudiana-ayah-almarhum-eki-telah-jalani-pemeriksaan"
     },
     {
@@ -98,205 +206,97 @@
     {
         "title": "Dua Metode Ini Penyebab Hari Idul Adha Muhammadiyah dan Arab Saudi Beda, Ikut Siapa?",
         "category": "Khazanah",
-        "publish_time": "14-06-2024 02:12",
+        "publish_time": "14-06-2024 02:13",
         "news_link": "https://khazanah.republika.co.id/berita/sf1sqe483/dua-metode-ini-penyebab-hari-idul-adha-muhammadiyah-dan-arab-saudi-beda-ikut-siapa"
     },
     {
         "title": "BPS Dana Rp 6 Triliun untuk Gelar Sensus Ekonomi 2026, Buat Apa Saja Uangnya?",
         "category": "Ekonomi",
-        "publish_time": "14-06-2024 02:12",
+        "publish_time": "14-06-2024 02:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sf1s1f370/bps-dana-rp-6-triliun-untuk-gelar-sensus-ekonomi-2026-buat-apa-saja-uangnya"
     },
     {
         "title": "Perundingan Pendanaan Iklim Global Alami Kebuntuan",
         "category": "Esgnow",
-        "publish_time": "14-06-2024 02:12",
+        "publish_time": "14-06-2024 02:13",
         "news_link": "https://esgnow.republika.co.id/berita/sf1s1f416/perundingan-pendanaan-iklim-global-alami-kebuntuan"
     },
     {
         "title": "UIN Yogyakarta Buka Jalur Mandiri Portofolio Nilai UTBK dan UM PTIN 2024",
         "category": "Network",
-        "publish_time": "14-06-2024 02:12",
+        "publish_time": "14-06-2024 02:13",
         "news_link": "https://kampus.republika.co.id/info-kampus/1624758584/uin-yogyakarta-buka-jalur-mandiri-portofolio-nilai-utbk-dan-um-ptin-2024"
     },
     {
         "title": "Aplikasi AI Mana yang Terbaik: Microsoft Copilot, Gemini, Claude 3 atau ChatGPT?",
         "category": "Network",
-        "publish_time": "14-06-2024 02:12",
+        "publish_time": "14-06-2024 02:13",
         "news_link": "https://fifarm.id/posts/312918/aplikasi-ai-mana-yang-terbaik-microsoft-copilot-gemini-claude-3-atau-chatgpt"
     },
     {
         "title": "Nabi Ibrohim AS Perintahkan Ismail Ganti Palang Pintu",
         "category": "Network",
-        "publish_time": "14-06-2024 02:12",
+        "publish_time": "14-06-2024 02:13",
         "news_link": "https://sumatralink.id/posts/313343/nabi-ibrohim-as-perintahkan-ismail-ganti-palang-pintu"
     },
     {
         "title": "Korsel Siap Abaikan Indonesia Terkait Pengembangan Jet KF-21 Boramae",
         "category": "Network",
-        "publish_time": "14-06-2024 02:12",
+        "publish_time": "14-06-2024 02:13",
         "news_link": "https://seputarmiliter.id/posts/313345/korsel-siap-abaikan-indonesia-terkait-pengembangan-jet-kf-21-boramae"
     },
     {
         "title": "Reforma Agraria Summit, AHY Evaluasi Sumbatan di Sektor Agraria",
         "category": "News",
-        "publish_time": "14-06-2024 01:12",
+        "publish_time": "14-06-2024 01:13",
         "news_link": "https://news.republika.co.id/berita/sf1qx2377/reforma-agraria-summit-ahy-evaluasi-sumbatan-di-sektor-agraria"
     },
     {
         "title": "Bolehkah Seorang Wanita Pergi Haji tanpa Didampingi Suami atau Mahramnya?",
         "category": "Khazanah",
-        "publish_time": "14-06-2024 01:12",
+        "publish_time": "14-06-2024 01:13",
         "news_link": "https://khazanah.republika.co.id/berita/sf1nzx451/bolehkah-seorang-wanita-pergi-haji-tanpa-didampingi-suami-atau-mahramnya"
     },
     {
         "title": "Indra Sjafri Bertekad Loloskan Timnas U-19 ke Piala Asia",
         "category": "News",
-        "publish_time": "14-06-2024 01:12",
+        "publish_time": "14-06-2024 01:13",
         "news_link": "https://news.republika.co.id/berita/sf1ql5348/indra-sjafri-bertekad-loloskan-timnas-u19-ke-piala-asia"
     },
     {
         "title": "Bareskim Rekomendasikan Staf Hasto Ajukan Gugatan Praperadilan",
         "category": "News",
-        "publish_time": "14-06-2024 01:12",
+        "publish_time": "14-06-2024 01:13",
         "news_link": "https://news.republika.co.id/berita/sf1qfu377/bareskim-rekomendasikan-staf-hasto-ajukan-gugatan-praperadilan"
     },
     {
         "title": "Raih Penghargaan Special Award BIA 2024, Direksi PNM: Tambah Motivasi",
         "category": "Ekonomi",
-        "publish_time": "14-06-2024 01:12",
+        "publish_time": "14-06-2024 01:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sf1q9u370/raih-penghargaan-special-award-bia-2024-direksi-pnm-tambah-motivasi"
     },
     {
         "title": "Bek Jepang Ini Jadi Pembelian Pertama Kompany di Bayern Munchen",
         "category": "News",
-        "publish_time": "14-06-2024 01:12",
+        "publish_time": "14-06-2024 01:13",
         "news_link": "https://news.republika.co.id/berita/sf1pjx348/bek-jepang-ini-jadi-pembelian-pertama-kompany-di-bayern-munchen"
     },
     {
         "title": "Kejahatannya Terungkap, Israel Semakin Dikucilkan Negara-Negara Dunia",
         "category": "News",
-        "publish_time": "14-06-2024 01:12",
+        "publish_time": "14-06-2024 01:13",
         "news_link": "https://news.republika.co.id/berita/sf1pgl393/kejahatannya-terungkap-israel-semakin-dikucilkan-negaranegara-dunia"
     },
     {
         "title": "Tidak Ada Tekanan Bagi Skotlandia Jelang Hadapi Jerman pada Laga Pembuka Euro 2024",
         "category": "News",
-        "publish_time": "14-06-2024 01:12",
+        "publish_time": "14-06-2024 01:13",
         "news_link": "https://news.republika.co.id/berita/sf1oyc348/tidak-ada-tekanan-bagi-skotlandia-jelang-hadapi-jerman-pada-laga-pembuka-euro-2024"
     },
     {
         "title": "Perintah Menteri Agama terkait Puncak Haji",
         "category": "Khazanah",
-        "publish_time": "14-06-2024 01:12",
+        "publish_time": "14-06-2024 01:13",
         "news_link": "https://khazanah.republika.co.id/berita/sf1h28451/perintah-menteri-agama-terkait-puncak-haji"
-    },
-    {
-        "title": "Penmaba Jalur Nilai UTBK UNJ 2024 Sudah Dibuka, Cek Persyaratan, Jadwal, dan Kuota Semua Prodi",
-        "category": "Network",
-        "publish_time": "14-06-2024 00:12",
-        "news_link": "https://kampus.republika.co.id/info-kampus/1624758390/penmaba-jalur-nilai-utbk-unj-2024-sudah-dibuka-cek-persyaratan-jadwal-dan-kuota-semua-prodi"
-    },
-    {
-        "title": "Ini Cara Produsen Mobil China Hindari Kenaikan Tarif Bea Masuk Uni Eropa",
-        "category": "Ekonomi",
-        "publish_time": "14-06-2024 00:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sf1oes349/ini-cara-produsen-mobil-china-hindari-kenaikan-tarif-bea-masuk-uni-eropa"
-    },
-    {
-        "title": "Selesai Wamil, Kualitas Suara Jin BTS Bikin Kaget, Simak Penyebabnya",
-        "category": "Network",
-        "publish_time": "14-06-2024 00:12",
-        "news_link": "https://impresi.republika.co.id/leisure/1694758383/selesai-wamil-kualitas-suara-jin-bts-bikin-kaget-simak-penyebabnya"
-    },
-    {
-        "title": "BMKG Ingatkan Wmpat Provinsi Siaga Potensi Banjir Hingga 20 Juni 2024",
-        "category": "News",
-        "publish_time": "14-06-2024 00:12",
-        "news_link": "https://news.republika.co.id/berita/sf1o3e370/bmkg-ingatkan-wmpat-provinsi-siaga-potensi-banjir-hingga-20-juni-2024"
-    },
-    {
-        "title": "Diminta Hamas Jadi Penjamin Kesepakatan dengan Israel, Ini Tanggapan China",
-        "category": "News",
-        "publish_time": "14-06-2024 00:12",
-        "news_link": "https://news.republika.co.id/berita/sf1nq4370/diminta-hamas-jadi-penjamin-kesepakatan-dengan-israel-ini-tanggapan-china"
-    },
-    {
-        "title": "Demokrat dan Kekhawatiran Terhadap Anies",
-        "category": "News",
-        "publish_time": "14-06-2024 00:12",
-        "news_link": "https://news.republika.co.id/berita/sf1mt6377/demokrat-dan-kekhawatiran-terhadap-anies"
-    },
-    {
-        "title": "Asyik, Sekarang Makin Mudah Pakai Chat WhatsApp, Ini Solusinya",
-        "category": "Network",
-        "publish_time": "14-06-2024 00:12",
-        "news_link": "https://impresi.republika.co.id/didaktika/1694758319/asyik-sekarang-makin-mudah-pakai-chat-whatsapp-ini-solusinya"
-    },
-    {
-        "title": "Nuansa Baru Suporter Timnas Indonesia di Tribun Stadion GBK",
-        "category": "Visual",
-        "publish_time": "14-06-2024 00:12",
-        "news_link": "https://visual.republika.co.id/berita/sf18kz375/nuansa-baru-suporter-timnas-indonesia-di-tribun-stadion-gbk"
-    },
-    {
-        "title": "Hikmah Puasa Arafah",
-        "category": "Visual",
-        "publish_time": "13-06-2024 23:12",
-        "news_link": "https://visual.republika.co.id/berita/sf1luf458/hikmah-puasa-arafah"
-    },
-    {
-        "title": "Skema dan Skenario Pergerakan Jamaah Indonesia saat Puncak Haji",
-        "category": "Khazanah",
-        "publish_time": "13-06-2024 23:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sf1gvj451/skema-dan-skenario-pergerakan-jamaah-indonesia-saat-puncak-haji"
-    },
-    {
-        "title": "Siap-Siap, Jakarta akan Diguyur Hujan Disertai Petir pada Jumat Malam",
-        "category": "News",
-        "publish_time": "13-06-2024 23:12",
-        "news_link": "https://news.republika.co.id/berita/sf1l4l348/siapsiap-jakarta-akan-diguyur-hujan-disertai-petir-pada-jumat-malam"
-    },
-    {
-        "title": "Sandiaga Prihatin dan Minta Maaf Gagal Bawa PPP ke Senayan",
-        "category": "News",
-        "publish_time": "13-06-2024 23:12",
-        "news_link": "https://news.republika.co.id/berita/sf1l15377/sandiaga-prihatin-dan-minta-maaf-gagal-bawa-ppp-ke-senayan"
-    },
-    {
-        "title": "Bakauheni Harbour City Jadi Ikon Pariwisata Baru di Lampung",
-        "category": "News",
-        "publish_time": "13-06-2024 23:12",
-        "news_link": "https://news.republika.co.id/berita/sf1ig2484/bakauheni-harbour-city-jadi-ikon-pariwisata-baru-di-lampung"
-    },
-    {
-        "title": "Jerman Vs Skotlandia Buka Pesta Sepak Bola Euro 2024, Die Mannschaft Percaya Diri",
-        "category": "News",
-        "publish_time": "13-06-2024 23:12",
-        "news_link": "https://news.republika.co.id/berita/sf1kv6348/jerman-vs-skotlandia-buka-pesta-sepak-bola-euro-2024-die-mannschaft-percaya-diri"
-    },
-    {
-        "title": "AHY Berantas Calo Tanah Lewat Percepatan Layanan Sertifikat",
-        "category": "News",
-        "publish_time": "13-06-2024 23:12",
-        "news_link": "https://news.republika.co.id/berita/sf1kqf377/ahy-berantas-calo-tanah-lewat-percepatan-layanan-sertifikat"
-    },
-    {
-        "title": "Ikut Tarwiyah, Tujuh Jamaah Indonesia Berpakaian Ihram Pergi ke Mina Jalan Kaki",
-        "category": "Khazanah",
-        "publish_time": "13-06-2024 23:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sf1k44483/ikut-tarwiyah-tujuh-jamaah-indonesia-berpakaian-ihram-pergi-ke-mina-jalan-kaki"
-    },
-    {
-        "title": "Jamaah Dapat Makan 3 Kali Sehari di Armuzna, Tak Perlu Bawa Peralatan Masak dan Sembako",
-        "category": "Khazanah",
-        "publish_time": "13-06-2024 23:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sf1gpk451/jamaah-dapat-makan-3-kali-sehari-di-armuzna-tak-perlu-bawa-peralatan-masak-dan-sembako"
-    },
-    {
-        "title": "Saatnya Kita Berkurban",
-        "category": "Khazanah",
-        "publish_time": "13-06-2024 23:12",
-        "news_link": "https://www.republika.id/posts/53403/saatnya-kita-berkurban"
     }
 ]
