@@ -1,5 +1,95 @@
 [
     {
+        "title": "Presiden: Waspadai Ancaman 'Neraka Iklim'",
+        "category": "Esgnow",
+        "publish_time": "14-06-2024 07:10",
+        "news_link": "https://esgnow.republika.co.id/berita/sf26l4416/presiden-waspadai-ancaman-neraka-iklim"
+    },
+    {
+        "title": "Empat Kondisi Hewan tidak Sah Dikurbankan",
+        "category": "Khazanah",
+        "publish_time": "14-06-2024 07:05",
+        "news_link": "https://khazanah.republika.co.id/berita/sf26e2430/empat-kondisi-hewan-tidak-sah-dikurbankan"
+    },
+    {
+        "title": "MTA Bakal Gelar Sholat Id Lebih Awal di 16 Juni Mendatang",
+        "category": "Khazanah",
+        "publish_time": "14-06-2024 07:01",
+        "news_link": "https://khazanah.republika.co.id/berita/sf2660430/mta-bakal-gelar-sholat-id-lebih-awal-di-16-juni-mendatang"
+    },
+    {
+        "title": "Operasi Bersama Bea Cukai dan Polri Bongkar Clandestine Lab di Medan",
+        "category": "Beacukai",
+        "publish_time": "14-06-2024 07:00",
+        "news_link": "https://republika.co.id/berita/sf264y490/operasi-bersama-bea-cukai-dan-polri-bongkar-clandestine-lab-di-medan"
+    },
+    {
+        "title": "Tenda Jamaah Indonesia di Arafah Kini Lebih Tahan Panas dan tak Lagi Beralaskan Tanah",
+        "category": "Khazanah",
+        "publish_time": "14-06-2024 06:59",
+        "news_link": "https://khazanah.republika.co.id/berita/sf1z4n451/tenda-jamaah-indonesia-di-arafah-kini-lebih-tahan-panas-dan-tak-lagi-beralaskan-tanah"
+    },
+    {
+        "title": "PPIH Medan: Perbanyak Dzikir dan Doa Jelang Puncak Haji",
+        "category": "Khazanah",
+        "publish_time": "14-06-2024 06:59",
+        "news_link": "https://khazanah.republika.co.id/berita/sf25oo430/ppih-medan-perbanyak-dzikir-dan-doa-jelang-puncak-haji"
+    },
+    {
+        "title": "Studi: Pemanasan Global Tingkatkan Risiko Kesehatan Jantung",
+        "category": "Esgnow",
+        "publish_time": "14-06-2024 06:51",
+        "news_link": "https://esgnow.republika.co.id/berita/sf25qj416/studi-pemanasan-global-tingkatkan-risiko-kesehatan-jantung"
+    },
+    {
+        "title": "Pembangunan Ibu Kota Nusantara Perlu Partisipasi Publik",
+        "category": "Ekonomi",
+        "publish_time": "14-06-2024 06:45",
+        "news_link": "https://ekonomi.republika.co.id/berita/sf25g9370/pembangunan-ibu-kota-nusantara-perlu-partisipasi-publik"
+    },
+    {
+        "title": "Cegah Hewan Stres, Muhammadiyah Minta Pemotongan Kurban Dilakukan Sesuai Syariat",
+        "category": "Khazanah",
+        "publish_time": "14-06-2024 06:40",
+        "news_link": "https://khazanah.republika.co.id/berita/sf256y483/cegah-hewan-stres-muhammadiyah-minta-pemotongan-kurban-dilakukan-sesuai-syariat"
+    },
+    {
+        "title": "Drama Pembunuhan Vina, Menkumham ke Polisi: Usut Tuntas, Sudah Jadi Pembicaraan Nasional",
+        "category": "News",
+        "publish_time": "14-06-2024 06:35",
+        "news_link": "https://news.republika.co.id/berita/sf24zw377/drama-pembunuhan-vina-menkumham-ke-polisi-usut-tuntas-sudah-jadi-pembicaraan-nasional"
+    },
+    {
+        "title": "Minibus Tabrak Truk di Tol Cisumdawu, Dua Orang Tewas",
+        "category": "Rejabar",
+        "publish_time": "14-06-2024 06:32",
+        "news_link": "https://rejabar.republika.co.id/berita/sf24u3512/minibus-tabrak-truk-di-tol-cisumdawu-dua-orang-tewas"
+    },
+    {
+        "title": "Diperiksa KPK, Hasto Sindir Hukum Sekarang Lebih Buruk dari Orde Baru",
+        "category": "News",
+        "publish_time": "14-06-2024 06:31",
+        "news_link": "https://news.republika.co.id/berita/sf24sz484/diperiksa-kpk-hasto-sindir-hukum-sekarang-lebih-buruk-dari-orde-baru"
+    },
+    {
+        "title": "Baru Pertama Kali, Jamaah Indonesia akan Dapatkan Konsumsi Penuh di Armuzna",
+        "category": "Khazanah",
+        "publish_time": "14-06-2024 06:23",
+        "news_link": "https://khazanah.republika.co.id/berita/sf1yzx451/baru-pertama-kali-jamaah-indonesia-akan-dapatkan-konsumsi-penuh-di-armuzna"
+    },
+    {
+        "title": "Polisi Tembak Residivis Spesialisasi Curanmor di Bandung",
+        "category": "Rejabar",
+        "publish_time": "14-06-2024 06:23",
+        "news_link": "https://rejabar.republika.co.id/berita/sf24fk512/polisi-tembak-residivis-spesialisasi-curanmor-di-bandung"
+    },
+    {
+        "title": "Ini Satu-satunya Cara untuk Menjegal Anies di Pilkada Jakarta Menurut Pengamat",
+        "category": "News",
+        "publish_time": "14-06-2024 06:16",
+        "news_link": "https://news.republika.co.id/berita/sf2446377/ini-satusatunya-cara-untuk-menjegal-anies-di-pilkada-jakarta-menurut-pengamat"
+    },
+    {
         "title": "Toilet di Armuzna Lebih Luas dan Ramah Lansia-Difabel",
         "category": "Khazanah",
         "publish_time": "14-06-2024 06:12",
@@ -8,295 +98,205 @@
     {
         "title": "Indonesia-Finlandia Perkuat Kerja Sama Energi Bersih",
         "category": "Esgnow",
-        "publish_time": "14-06-2024 05:59",
+        "publish_time": "14-06-2024 06:11",
         "news_link": "https://esgnow.republika.co.id/berita/sf1yfs416/indonesiafinlandia-perkuat-kerja-sama-energi-bersih"
     },
     {
         "title": "Perwira Kostrad Penilap Duit Prajurit untuk Judi Online Diwajibkan Mengganti",
         "category": "News",
-        "publish_time": "14-06-2024 05:48",
+        "publish_time": "14-06-2024 06:11",
         "news_link": "https://news.republika.co.id/berita/sf22sw484/perwira-kostrad-penilap-duit-prajurit-untuk-judi-online-diwajibkan-mengganti"
     },
     {
         "title": "Debit Air di Bendungan Alale Naik, Bone Bolango Siaga Darurat Bencana",
         "category": "Visual",
-        "publish_time": "14-06-2024 05:42",
+        "publish_time": "14-06-2024 06:11",
         "news_link": "https://visual.republika.co.id/berita/sf22jv375/debit-air-di-bendungan-alale-naik-bone-bolango-siaga-darurat-bencana"
     },
     {
         "title": "Kunjungi Bali, AHY Luncurkan Program Sertifikat Tanah Jemput di Tempat",
         "category": "Video",
-        "publish_time": "14-06-2024 05:40",
+        "publish_time": "14-06-2024 05:11",
         "news_link": "https://tv.republika.co.id/berita/sf22gg313/kunjungi-bali-ahy-luncurkan-program-sertifikat-tanah-jemput-di-tempat"
     },
     {
         "title": "UMM Luncurkan Satgas PPKS, Ingin Cegah Kasus Kekerasan Seksual",
         "category": "News",
-        "publish_time": "14-06-2024 05:25",
+        "publish_time": "14-06-2024 05:11",
         "news_link": "https://news.republika.co.id/berita/sf21ro484/umm-luncurkan-satgas-ppks-ingin-cegah-kasus-kekerasan-seksual"
     },
     {
         "title": "HP Tentara Disidak, Jika Terlibat Judol Bakal Kena Sanksi Tegas",
         "category": "News",
-        "publish_time": "14-06-2024 05:23",
+        "publish_time": "14-06-2024 05:11",
         "news_link": "https://news.republika.co.id/berita/sf21nh377/hp-tentara-disidak-jika-terlibat-judol-bakal-kena-sanksi-tegas"
     },
     {
         "title": "IM57+ Institute Duga Ada Upaya Kriminalisasi Penyidik KPK di Kasus Penyitaan Ponsel Hasto",
         "category": "News",
-        "publish_time": "14-06-2024 05:15",
+        "publish_time": "14-06-2024 05:11",
         "news_link": "https://news.republika.co.id/berita/sf21an377/im57-institute-duga-ada-upaya-kriminalisasi-penyidik-kpk-di-kasus-penyitaan-ponsel-hasto"
     },
     {
         "title": "Cerita Nasabah PNM Ciptakan Inovasi Olahan Bunga Mawar",
         "category": "Ekonomi",
-        "publish_time": "14-06-2024 05:15",
+        "publish_time": "14-06-2024 05:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sf2060370/cerita-nasabah-pnm-ciptakan-inovasi-olahan-bunga-mawar"
     },
     {
         "title": "Wow...Ilmuwan Ciptakan 'Green Floor' Bisa Didaur Ulang Gantikan Baja dalam Konstruksi",
         "category": "Network",
-        "publish_time": "14-06-2024 05:15",
+        "publish_time": "14-06-2024 05:11",
         "news_link": "https://impresiupdate.id/posts/313392/wow-ilmuwan-ciptakan-green-floor-bisa-didaur-ulang-gantikan-baja-dalam-konstruksi"
     },
     {
         "title": "Suasana Kota Makkah Jelang Puncak Haji",
         "category": "Khazanah",
-        "publish_time": "14-06-2024 05:15",
+        "publish_time": "14-06-2024 05:11",
         "news_link": "https://khazanah.republika.co.id/berita/sf1ycn451/suasana-kota-makkah-jelang-puncak-haji"
     },
     {
         "title": "Puluhan Mahasiswa di Bandung Antusias Nobar Film Pendiri HMI Lafran Pane",
         "category": "Rejabar",
-        "publish_time": "14-06-2024 05:15",
+        "publish_time": "14-06-2024 05:11",
         "news_link": "https://rejabar.republika.co.id/berita/sf20r7512/puluhan-mahasiswa-di-bandung-antusias-nobar-film-pendiri-hmi-lafran-pane"
     },
     {
         "title": "Nikmati Sensasi Menjadi Masinis di Simulator LRT Jakarta yang Bakal Ramaikan Jakarta Fair",
         "category": "Ekonomi",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 05:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sey5t8370/nikmati-sensasi-menjadi-masinis-di-simulator-lrt-jakarta-yang-bakal-ramaikan-jakarta-fair"
     },
     {
         "title": "Kroasia Bertekad Tuntaskan Dendam ke Spanyol pada Laga Pembuka Grup B Euro 2024",
         "category": "News",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://news.republika.co.id/berita/sf1xzs348/kroasia-bertekad-tuntaskan-dendam-ke-spanyol-pada-laga-pembuka-grup-b-euro-2024"
     },
     {
         "title": "Di Simeulue Aceh, Persediaan Sapi untuk Idul Adha Berlimpah",
         "category": "Khazanah",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://khazanah.republika.co.id/berita/sf1oj0451/di-simeulue-aceh-persediaan-sapi-untuk-idul-adha-berlimpah"
     },
     {
         "title": "UII Kampus Islam Nomor 1 di Indonesia Versi THE WUR 2024",
         "category": "Rejogja",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://rejogja.republika.co.id/berita/sf1zc0291/uii-kampus-islam-nomor-1-di-indonesia-versi-the-wur-2024"
     },
     {
         "title": "Akibat Gelombang Panas, Yunani Tutup Semakin Banyak Destinasi Wisata",
         "category": "Esgnow",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://esgnow.republika.co.id/berita/sf1w5o416/akibat-gelombang-panas-yunani-tutup-semakin-banyak-destinasi-wisata"
     },
     {
         "title": "Iptu Rudiana Ayah Almarhum Eki Telah Jalani Pemeriksaan, Polda Siapkan Berkas Perkara",
         "category": "Rejabar",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://rejabar.republika.co.id/berita/sf1z33512/iptu-rudiana-ayah-almarhum-eki-telah-jalani-pemeriksaan-polda-siapkan-berkas-perkara"
     },
     {
         "title": "Putusan MK Soal Irman, Jimly Asshiddiqie: Jalankan Saja Jangan Diperdebatkan",
         "category": "News",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://news.republika.co.id/berita/sf1yzy318/putusan-mk-soal-irman-jimly-asshiddiqie-jalankan-saja-jangan-diperdebatkan"
     },
     {
         "title": "Alat Pengolah Sampah di DIY Selesai Dipasang pada Pertengahan 2024",
         "category": "Rejogja",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://rejogja.republika.co.id/berita/sf1vgc291/alat-pengolah-sampah-di-diy-selesai-dipasang-pada-pertengahan-2024"
     },
     {
         "title": "Nabung Emas Dapat Cashback? Cuma Pakai BRImo",
         "category": "Ekonomi",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sf1yr7370/nabung-emas-dapat-cashback-cuma-pakai-brimo"
     },
     {
         "title": "Perseteruan Memanas, Habib Bahar Datangi Markas Sayyid Qori di Tangerang",
         "category": "News",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://news.republika.co.id/berita/sf1y9z484/perseteruan-memanas-habib-bahar-datangi-markas-sayyid-qori-di-tangerang"
     },
     {
         "title": "Chandra Hamzah: Keberhasilan Transformasi BUMN Berkat Perbaikan Sistem dan Orang",
         "category": "Ekonomi",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sf1xy0370/chandra-hamzah-keberhasilan-transformasi-bumn-berkat-perbaikan-sistem-dan-orang"
     },
     {
         "title": "Andar Nubowo Pimpin Maarif Institute, Fokus 3 Bidang",
         "category": "Khazanah",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://khazanah.republika.co.id/berita/sf1xvq458/andar-nubowo-pimpin-maarif-institute-fokus-3-bidang"
     },
     {
         "title": "765 Petugas Haji Berangkat ke Arafah Pastikan Fasilitas untuk Jamaah",
         "category": "Khazanah",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://khazanah.republika.co.id/berita/sf1xsq451/765-petugas-haji-berangkat-ke-arafah-pastikan-fasilitas-untuk-jamaah"
     },
     {
         "title": "Jadwal Sholat Hari Ini di Tangerang: 14 Juni 2024, Pentingnya Menjaga Waktu Sholat",
         "category": "Khazanah",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://khazanah.republika.co.id/berita/sf1urx430/jadwal-sholat-hari-ini-di-tangerang-14-juni-2024-pentingnya-menjaga-waktu-sholat"
     },
     {
         "title": "Pupuk Indonesia Raih Rp 1,3 Triliun dari Kontribusi Inovasi",
         "category": "Ekonomi",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sf1wqc370/pupuk-indonesia-raih-rp-13-triliun-dari-kontribusi-inovasi"
     },
     {
         "title": "AHY Prioritas Utama Menteri dari Demokrat, Incar Menkopolhukam?",
         "category": "News",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://news.republika.co.id/berita/sf1xhp377/ahy-prioritas-utama-menteri-dari-demokrat-incar-menkopolhukam"
     },
     {
-        "title": "Pemerintah Pertimbangkan Pelaku Judi Online Masuk Daftar Bansos",
+        "title": "Pemerintah Pertimbangkan Pelaku Judi Online Masuk Daftar Penerima Bansos",
         "category": "Ekonomi",
-        "publish_time": "14-06-2024 04:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/sf1xci370/pemerintah-pertimbangkan-pelaku-judi-online-masuk-daftar-bansos"
+        "publish_time": "14-06-2024 04:11",
+        "news_link": "https://ekonomi.republika.co.id/berita/sf1xci370/pemerintah-pertimbangkan-pelaku-judi-online-masuk-daftar-penerima-bansos"
     },
     {
         "title": "Suzuki Ungkap Rahasia Memilih Motor Baru agar tak Salah Pilih dan Sesuai Budget",
         "category": "Ekonomi",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sf1xap349/suzuki-ungkap-rahasia-memilih-motor-baru-agar-tak-salah-pilih-dan-sesuai-budget"
     },
     {
         "title": "Umat Islam RI Puasa Arafah Saat Idul Adha di Saudi, Benarkah Dilarang Nabi?",
         "category": "Khazanah",
-        "publish_time": "14-06-2024 04:15",
+        "publish_time": "14-06-2024 04:11",
         "news_link": "https://khazanah.republika.co.id/berita/sf1x7r483/umat-islam-ri-puasa-arafah-saat-idul-adha-di-saudi-benarkah-dilarang-nabi"
     },
     {
         "title": "Erick Thohir Suarakan Optimisme Timnas Indonesia Bisa Lolos Kualifikasi Piala Dunia 2026",
         "category": "News",
-        "publish_time": "14-06-2024 03:15",
+        "publish_time": "14-06-2024 03:11",
         "news_link": "https://news.republika.co.id/berita/sf1wrt348/erick-thohir-suarakan-optimisme-timnas-indonesia-bisa-lolos-kualifikasi-piala-dunia-2026"
     },
     {
         "title": "Gugatannya Paling Banyak Dikabulkan MK, Ini Kata Nasdem",
         "category": "News",
-        "publish_time": "14-06-2024 03:15",
+        "publish_time": "14-06-2024 03:11",
         "news_link": "https://news.republika.co.id/berita/sf1wkq377/gugatannya-paling-banyak-dikabulkan-mk-ini-kata-nasdem"
     },
     {
         "title": "Menteri Garda Nasional Arab Saudi Cek Persiapan Ppasukan Haji",
         "category": "Khazanah",
-        "publish_time": "14-06-2024 03:15",
+        "publish_time": "14-06-2024 03:11",
         "news_link": "https://khazanah.republika.co.id/berita/sf1ocb451/menteri-garda-nasional-arab-saudi-cek-persiapan-ppasukan-haji"
     },
     {
         "title": "IHSG Sepekan Tertekan, Ini Strategi OJK",
         "category": "Ekonomi",
-        "publish_time": "14-06-2024 03:15",
+        "publish_time": "14-06-2024 03:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sf1wis370/ihsg-sepekan-tertekan-ini-strategi-ojk"
-    },
-    {
-        "title": "Nasib Pilu Hadi, Dituduh Bunuh Vina \u2013 Eky, Gagal Menikah, dan Rumah Dijual",
-        "category": "Rejabar",
-        "publish_time": "14-06-2024 03:15",
-        "news_link": "https://rejabar.republika.co.id/berita/sf1w6h512/nasib-pilu-hadi-dituduh-bunuh-vina-eky-gagal-menikah-dan-rumah-dijual"
-    },
-    {
-        "title": "Universitas BSI Ikuti Sosialisasi Road to HAKTEKNAS Ke-29 InaRI Expo & IEMS 2024",
-        "category": "News",
-        "publish_time": "14-06-2024 03:15",
-        "news_link": "https://news.republika.co.id/berita/sf1vs3370/universitas-bsi-ikuti-sosialisasi-road-to-hakteknas-ke29-inari-expo-iems-2024"
-    },
-    {
-        "title": "Coldplay Bocorkan Single Baru \u2018feelslikeimfallinginlove\u2019 dari Album ke 10 'Moon Music'",
-        "category": "Network",
-        "publish_time": "14-06-2024 03:15",
-        "news_link": "https://impresi.republika.co.id/musik/1694758915/coldplay-bocorkan-single-baru-feelslikeimfallinginlove-dari-album-ke-10-moon-music"
-    },
-    {
-        "title": "Raffi Ahmad Tarik Investasi Beach Club di Gunungkidul",
-        "category": "Rejogja",
-        "publish_time": "14-06-2024 03:15",
-        "news_link": "https://rejogja.republika.co.id/berita/sf1vmm291/raffi-ahmad-tarik-investasi-beach-club-di-gunungkidul"
-    },
-    {
-        "title": "'Perencanaan Keuangan dan Teknologi Bantu Generasi Muda Beli Rumah'",
-        "category": "Rejogja",
-        "publish_time": "14-06-2024 03:15",
-        "news_link": "https://rejogja.republika.co.id/berita/sf1vaa291/perencanaan-keuangan-dan-teknologi-bantu-generasi-muda-beli-rumah"
-    },
-    {
-        "title": "Jumlah WNA yang Ditindak Imigrasi Melonjak Nyaris 100 Persen",
-        "category": "News",
-        "publish_time": "14-06-2024 03:15",
-        "news_link": "https://news.republika.co.id/berita/sf1v6v393/jumlah-wna-yang-ditindak-imigrasi-melonjak-nyaris-100-persen"
-    },
-    {
-        "title": "Harga Emas Antam Merosot Rp 8.000 di Akhir Pekan",
-        "category": "Ekonomi",
-        "publish_time": "14-06-2024 03:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/sf1uql370/harga-emas-antam-merosot-rp-8000-di-akhir-pekan"
-    },
-    {
-        "title": "Perempuan Didorong Berperan dalam Penanganan Perubahan Iklim",
-        "category": "Esgnow",
-        "publish_time": "14-06-2024 03:15",
-        "news_link": "https://esgnow.republika.co.id/berita/sf1uq4416/perempuan-didorong-berperan-dalam-penanganan-perubahan-iklim"
-    },
-    {
-        "title": "Analis Sebut Pertentangan Internal Israel Halangi Penuntasan Konflik di Gaza",
-        "category": "Video",
-        "publish_time": "14-06-2024 03:15",
-        "news_link": "https://tv.republika.co.id/berita/sf1ujy467/analis-sebut-pertentangan-internal-israel-halangi-penuntasan-konflik-di-gaza"
-    },
-    {
-        "title": "Inilah Keunggulan Prodi Sistem Informasi Akuntansi Universitas BSI Kampus Pontianak",
-        "category": "News",
-        "publish_time": "14-06-2024 03:15",
-        "news_link": "https://news.republika.co.id/berita/sf1udy370/inilah-keunggulan-prodi-sistem-informasi-akuntansi-universitas-bsi-kampus-pontianak"
-    },
-    {
-        "title": "Diumumkan di Konser ke 100, Taylor Swift: Eras Tour Berakhir Desember",
-        "category": "Network",
-        "publish_time": "14-06-2024 02:15",
-        "news_link": "https://impresi.republika.co.id/musik/1694758754/diumumkan-di-konser-ke-100-taylor-swift-eras-tour-berakhir-desember"
-    },
-    {
-        "title": "Prodi Sistem Informasi Universitas BSI Kampus Pontianak Tawarkan Berbagai Keunggulan",
-        "category": "News",
-        "publish_time": "14-06-2024 02:15",
-        "news_link": "https://news.republika.co.id/berita/sf1tqx370/prodi-sistem-informasi-universitas-bsi-kampus-pontianak-tawarkan-berbagai-keunggulan"
-    },
-    {
-        "title": "Jelang Idul Adha, Israel Masih Terus Bombardir Gaza",
-        "category": "News",
-        "publish_time": "14-06-2024 02:15",
-        "news_link": "https://news.republika.co.id/berita/sf1tq4393/jelang-idul-adha-israel-masih-terus-bombardir-gaza"
-    },
-    {
-        "title": "Dahulukan Naik Haji atau Membantu Anak-anak Miskin?",
-        "category": "Khazanah",
-        "publish_time": "14-06-2024 02:15",
-        "news_link": "https://khazanah.republika.co.id/berita/sf1o4v451/dahulukan-naik-haji-atau-membantu-anakanak-miskin"
-    },
-    {
-        "title": "Bantah Rumor Reuni Spice Girls, David Beckham: Tidak akan Terjadi!",
-        "category": "Network",
-        "publish_time": "14-06-2024 02:15",
-        "news_link": "https://impresi.republika.co.id/sana-sini/1694758681/bantah-rumor-reuni-spice-girls-david-beckham-tidak-akan-terjadi"
     }
 ]
