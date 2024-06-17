@@ -1,98 +1,224 @@
 [
     {
-        "title": "Mengembangkan Kolaborasi Percepat Pertumbuhan Ekonomi Syariah di Papua",
-        "category": "Sharia",
-        "publish_time": "17-06-2024 04:00",
-        "news_link": "https://sharia.republika.co.id/berita/sf7eza502/mengembangkan-kolaborasi-percepat-pertumbuhan-ekonomi-syariah-di-papua"
+        "title": "Khutbah Idul Adha di UMJ, Khatib Ingatkan Pentingnya Integritas",
+        "category": "News",
+        "publish_time": "17-06-2024 05:04",
+        "news_link": "https://news.republika.co.id/berita/sf7krx423/khutbah-idul-adha-di-umj-khatib-ingatkan-pentingnya-integritas"
     },
     {
-        "title": "Ibadah untuk Kehidupan yang Lebih Baik: Jadwal Sholat 17 Juni 2024 di Tangerang",
+        "title": "Kawasan Gunung Rinjani Kebakaran, TNGR Kerahkan Tim Pemadam",
+        "category": "News",
+        "publish_time": "17-06-2024 05:01",
+        "news_link": "https://news.republika.co.id/berita/sf7kll416/kawasan-gunung-rinjani-kebakaran-tngr-kerahkan-tim-pemadam"
+    },
+    {
+        "title": "Bandara Ngurah Rai Tambah Akses Menuju Australia Lewat Canberra",
+        "category": "Ekonomi",
+        "publish_time": "17-06-2024 05:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/sf7hxc502/bandara-ngurah-rai-tambah-akses-menuju-australia-lewat-canberra"
+    },
+    {
+        "title": "Hari Raya Idul Adha 1445 H, Transaksi Penjualan Hewan Kurban di Depok Capai Rp 286 Miliar",
+        "category": "Network",
+        "publish_time": "17-06-2024 04:52",
+        "news_link": "https://ruzka.republika.co.id/ekonomi/1674767835/hari-raya-idul-adha-1445-h-transaksi-penjualan-hewan-kurban-di-depok-capai-rp-286-miliar"
+    },
+    {
+        "title": "Tunaikan Haji Bersama Sang Istri, Ibas Tulis Doa dan Permintaan Maaf",
+        "category": "News",
+        "publish_time": "17-06-2024 04:48",
+        "news_link": "https://news.republika.co.id/berita/sf7k0v320/tunaikan-haji-bersama-sang-istri-ibas-tulis-doa-dan-permintaan-maaf"
+    },
+    {
+        "title": "Idul Adha, Baznas Jabar Distribusikan Daging Kurban ke Pelosok",
         "category": "Khazanah",
-        "publish_time": "17-06-2024 03:59",
-        "news_link": "https://khazanah.republika.co.id/berita/sf7e2w430/ibadah-untuk-kehidupan-yang-lebih-baik-jadwal-sholat-17-juni-2024-di-tangerang"
+        "publish_time": "17-06-2024 04:44",
+        "news_link": "https://khazanah.republika.co.id/berita/sf7h5o451/idul-adha-baznas-jabar-distribusikan-daging-kurban-ke-pelosok"
+    },
+    {
+        "title": "Penyitaan HP Milik Hasto oleh KPK Dinilai Salahi Prosedur",
+        "category": "News",
+        "publish_time": "17-06-2024 04:43",
+        "news_link": "https://news.republika.co.id/berita/sf7jry409/penyitaan-hp-milik-hasto-oleh-kpk-dinilai-salahi-prosedur"
+    },
+    {
+        "title": "Menyoal Iuran Qurban Sapi di Sekolah-Sekolah, Bagaimana Hukumnya?",
+        "category": "Khazanah",
+        "publish_time": "17-06-2024 04:40",
+        "news_link": "https://khazanah.republika.co.id/berita/sf7jo7320/menyoal-iuran-qurban-sapi-di-sekolahsekolah-bagaimana-hukumnya"
+    },
+    {
+        "title": "Rencana Buruk Politikus Israel, Sebut Warga Gaza Islamo-Nazi yang Harus Dimusnahkan",
+        "category": "News",
+        "publish_time": "17-06-2024 04:40",
+        "news_link": "https://news.republika.co.id/berita/sf7jmz377/rencana-buruk-politikus-israel-sebut-warga-gaza-islamonazi-yang-harus-dimusnahkan"
+    },
+    {
+        "title": "Menggapai Kebenaran dalam Kehidupan melalui Ash-Shirathal Mustaqim",
+        "category": "Retizen",
+        "publish_time": "17-06-2024 04:40",
+        "news_link": "https://retizen.republika.co.id/posts/313969/menggapai-kebenaran-dalam-kehidupan-melalui-ash-shirathal-mustaqim"
+    },
+    {
+        "title": "KUI Universitas BSI Adakan Onboarding Awardee IISMA 2024",
+        "category": "News",
+        "publish_time": "17-06-2024 04:37",
+        "news_link": "https://news.republika.co.id/berita/sf7jhl423/kui-universitas-bsi-adakan-onboarding-awardee-iisma-2024"
+    },
+    {
+        "title": "Airlangga Sebut Bansos untuk Korban Judi Online tak Ada dalam Anggaran Pemerintah Sekarang",
+        "category": "News",
+        "publish_time": "17-06-2024 04:36",
+        "news_link": "https://news.republika.co.id/berita/sf7jg3409/airlangga-sebut-bansos-untuk-korban-judi-online-tak-ada-dalam-anggaran-pemerintah-sekarang"
+    },
+    {
+        "title": "4 Golongan yang Diharamkan Masuk Surga",
+        "category": "Network",
+        "publish_time": "17-06-2024 04:33",
+        "news_link": "https://topnews62.com/posts/313938/4-golongan-yang-diharamkan-masuk-surga"
+    },
+    {
+        "title": "Warga Palembang Lakukan Tradisi Celupkan Kaki ke Darah Hewan Kurban",
+        "category": "News",
+        "publish_time": "17-06-2024 04:32",
+        "news_link": "https://news.republika.co.id/berita/sf7j99409/warga-palembang-lakukan-tradisi-celupkan-kaki-ke-darah-hewan-kurban"
+    },
+    {
+        "title": "Libur Telah Tiba, Ini 3 Ide Kegiatan Menarik untuk Quality Time Bareng Keluarga",
+        "category": "Ekonomi",
+        "publish_time": "17-06-2024 04:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/sf7j4g423/libur-telah-tiba-ini-3-ide-kegiatan-menarik-untuk-quality-time-bareng-keluarga"
+    },
+    {
+        "title": "Sholat Idul Adha di Masjid Balai Kota Depok, Berdoa untuk Palestina",
+        "category": "Network",
+        "publish_time": "17-06-2024 04:28",
+        "news_link": "https://ruzka.republika.co.id/serba-serbi/1674767784/sholat-idul-adha-di-masjid-balai-kota-depok-berdoa-untuk-palestina"
+    },
+    {
+        "title": "Ilmuwan Temukan Sumber Energi yang Hilangkan Emisi di Atmosfer",
+        "category": "Esgnow",
+        "publish_time": "17-06-2024 04:24",
+        "news_link": "https://esgnow.republika.co.id/berita/sf7ix3416/ilmuwan-temukan-sumber-energi-yang-hilangkan-emisi-di-atmosfer"
+    },
+    {
+        "title": "Satgas Damai Cartenz Temukan Satu Jenazah Diduga Anggota KKB di Paniai",
+        "category": "News",
+        "publish_time": "17-06-2024 04:20",
+        "news_link": "https://news.republika.co.id/berita/sf7ipp409/satgas-damai-cartenz-temukan-satu-jenazah-diduga-anggota-kkb-di-paniai"
+    },
+    {
+        "title": "Jadi Khatib Shalat Idul Adha, Mahfud Ingatkan Soal Keteladanan Keluarga",
+        "category": "News",
+        "publish_time": "17-06-2024 04:16",
+        "news_link": "https://news.republika.co.id/berita/sf7iiv458/jadi-khatib-shalat-idul-adha-mahfud-ingatkan-soal-keteladanan-keluarga"
+    },
+    {
+        "title": "Menhub Sampaikan Kesiapan Transportasi Libur Idul Adha dan Sekolah",
+        "category": "Khazanah",
+        "publish_time": "17-06-2024 04:16",
+        "news_link": "https://khazanah.republika.co.id/berita/sf7fvt451/menhub-sampaikan-kesiapan-transportasi-libur-idul-adha-dan-sekolah"
+    },
+    {
+        "title": "Masjid Istiqlal Terima 25 Ribu Permohonan Daging Kurban pada Idul Adha 1445 Hijriah",
+        "category": "News",
+        "publish_time": "17-06-2024 04:15",
+        "news_link": "https://news.republika.co.id/berita/sf7igy409/masjid-istiqlal-terima-25-ribu-permohonan-daging-kurban-pada-idul-adha-1445-hijriah"
+    },
+    {
+        "title": "Mengembangkan Kolaborasi Percepat Pertumbuhan Ekonomi Syariah di Papua",
+        "category": "Sharia",
+        "publish_time": "17-06-2024 04:14",
+        "news_link": "https://sharia.republika.co.id/berita/sf7eza502/mengembangkan-kolaborasi-percepat-pertumbuhan-ekonomi-syariah-di-papua"
     },
     {
         "title": "BRI Pastikan Layanan Tetap Andal Selama Periode Libur Idul Adha",
         "category": "Ekonomi",
-        "publish_time": "17-06-2024 03:59",
+        "publish_time": "17-06-2024 04:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sf7gom451/bri-pastikan-layanan-tetap-andal-selama-periode-libur-idul-adha"
+    },
+    {
+        "title": "Ibadah untuk Kehidupan yang Lebih Baik: Jadwal Sholat 17 Juni 2024 di Tangerang",
+        "category": "Khazanah",
+        "publish_time": "17-06-2024 04:14",
+        "news_link": "https://khazanah.republika.co.id/berita/sf7e2w430/ibadah-untuk-kehidupan-yang-lebih-baik-jadwal-sholat-17-juni-2024-di-tangerang"
     },
     {
         "title": "Muslim Friendly Bagian Konsep Besar Kawasan PIK",
         "category": "Video",
-        "publish_time": "17-06-2024 03:58",
+        "publish_time": "17-06-2024 04:14",
         "news_link": "https://tv.republika.co.id/berita/sf7hpa216/muslim-friendly-bagian-konsep-besar-kawasan-pik"
     },
     {
         "title": "Pesantren MAPADI Tebar 100.000 bungkus paket kurban, dari 600 Sapi dan 2.000 Kambing",
         "category": "Khazanah",
-        "publish_time": "17-06-2024 03:51",
+        "publish_time": "17-06-2024 04:14",
         "news_link": "https://khazanah.republika.co.id/berita/sf7gdj451/pesantren-mapadi-tebar-100000-bungkus-paket-kurban-dari-600-sapi-dan-2000-kambing"
     },
     {
         "title": "Dokter Bolehkan Wanita Hamil Santap Daging Kambing, Maksimal Tiga Potong",
         "category": "News",
-        "publish_time": "17-06-2024 03:50",
+        "publish_time": "17-06-2024 04:14",
         "news_link": "https://news.republika.co.id/berita/sf7hc8409/dokter-bolehkan-wanita-hamil-santap-daging-kambing-maksimal-tiga-potong"
     },
     {
         "title": "Muhadjir Tegaskan Bansos untuk Keluarga Korban Judi Online, Bukan Pelaku",
         "category": "News",
-        "publish_time": "17-06-2024 03:41",
+        "publish_time": "17-06-2024 03:14",
         "news_link": "https://news.republika.co.id/berita/sf7gy4409/muhadjir-tegaskan-bansos-untuk-keluarga-korban-judi-online-bukan-pelaku"
     },
     {
         "title": "Muslim Indonesia di Davao City Rayakan Idul Adha",
         "category": "Kolom",
-        "publish_time": "17-06-2024 03:39",
+        "publish_time": "17-06-2024 03:14",
         "news_link": "https://analisis.republika.co.id/berita/sf7g7f451/muslim-indonesia-di-davao-city-rayakan-idul-adha"
     },
     {
         "title": "Tiga Awardee IISMA 2024 Universitas BSI ikuti Pembekalan Akademik",
         "category": "News",
-        "publish_time": "17-06-2024 03:35",
+        "publish_time": "17-06-2024 03:14",
         "news_link": "https://news.republika.co.id/berita/sf7e4o423/tiga-awardee-iisma-2024-universitas-bsi-ikuti-pembekalan-akademik"
     },
     {
         "title": "Ini Cara Menyimpan dan Mengolah Daging Kurban yang Benar",
         "category": "Khazanah",
-        "publish_time": "17-06-2024 03:31",
+        "publish_time": "17-06-2024 03:14",
         "news_link": "https://khazanah.republika.co.id/berita/sf7ghb458/ini-cara-menyimpan-dan-mengolah-daging-kurban-yang-benar"
     },
     {
         "title": "PLN Tetapkan Masa Siaga Tiga Hari Amankan Listrik di Momen Idul Adha",
         "category": "Ekonomi",
-        "publish_time": "17-06-2024 03:29",
+        "publish_time": "17-06-2024 03:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sf7g24451/pln-tetapkan-masa-siaga-tiga-hari-amankan-listrik-di-momen-idul-adha"
     },
     {
         "title": "Andy Murray Pastikan Berlaga di Olimpiade Paris 2024",
         "category": "News",
-        "publish_time": "17-06-2024 03:29",
+        "publish_time": "17-06-2024 03:14",
         "news_link": "https://news.republika.co.id/berita/sf7gd1409/andy-murray-pastikan-berlaga-di-olimpiade-paris-2024"
     },
     {
         "title": "Masjid Istiqlal Terima 50 Sapi dan 12 Kambing Kurban pada Idul Adha 1445 H",
         "category": "News",
-        "publish_time": "17-06-2024 03:22",
+        "publish_time": "17-06-2024 03:14",
         "news_link": "https://news.republika.co.id/berita/sf7g1t502/masjid-istiqlal-terima-50-sapi-dan-12-kambing-kurban-pada-idul-adha-1445-h"
     },
     {
         "title": "Syekh Asal Gaza Jadi Imam Shalat Id di Jakarta Islamic Centre",
         "category": "News",
-        "publish_time": "17-06-2024 03:19",
+        "publish_time": "17-06-2024 03:14",
         "news_link": "https://news.republika.co.id/berita/sf7fx1409/syekh-asal-gaza-jadi-imam-shalat-id-di-jakarta-islamic-centre"
     },
     {
         "title": "Pedagang Papua Rutin Terima Pesanan Daun Ketupat Saat Idul Adha",
         "category": "Khazanah",
-        "publish_time": "17-06-2024 03:17",
+        "publish_time": "17-06-2024 03:14",
         "news_link": "https://khazanah.republika.co.id/berita/sf7fo6451/pedagang-papua-rutin-terima-pesanan-daun-ketupat-saat-idul-adha"
     },
     {
         "title": "Wapres Serahkan Hewan Kurban untuk Masjid Istiqlal",
         "category": "News",
-        "publish_time": "17-06-2024 03:16",
+        "publish_time": "17-06-2024 03:14",
         "news_link": "https://news.republika.co.id/berita/sf7fs6502/wapres-serahkan-hewan-kurban-untuk-masjid-istiqlal"
     },
     {
@@ -172,131 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "17-06-2024 02:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sf7d24502/pertamina-pastikan-stok-bbmlpg-aman-saat-idul-adha"
-    },
-    {
-        "title": "Satu dari Tiga Orang Boikot Produk Terafiliasi Israel, Indonesia Masuk Tiga Besar Survei",
-        "category": "News",
-        "publish_time": "17-06-2024 02:14",
-        "news_link": "https://news.republika.co.id/berita/sf7d07409/satu-dari-tiga-orang-boikot-produk-terafiliasi-israel-indonesia-masuk-tiga-besar-survei"
-    },
-    {
-        "title": "Weghorst Pemain Pengganti yang Jadi Pembeda Bagi Belanda",
-        "category": "News",
-        "publish_time": "17-06-2024 02:14",
-        "news_link": "https://news.republika.co.id/berita/sf7cns502/weghorst-pemain-pengganti-yang-jadi-pembeda-bagi-belanda"
-    },
-    {
-        "title": "Jokowi: Berkurban Ekspresi Syukur Atas Berkah Allah SWT",
-        "category": "News",
-        "publish_time": "17-06-2024 02:14",
-        "news_link": "https://news.republika.co.id/berita/sf7c46502/jokowi-berkurban-ekspresi-syukur-atas-berkah-allah-swt"
-    },
-    {
-        "title": "Meratap di Jabal Rahmah, Tempat Turunnya Ayat Terakhir Alquran",
-        "category": "Khazanah",
-        "publish_time": "17-06-2024 02:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sf7bsc458/meratap-di-jabal-rahmah-tempat-turunnya-ayat-terakhir-alquran"
-    },
-    {
-        "title": "Cerita Sapi Kurban Milik Jokowi, Peternak: Dari Dulu Feeling Akan Dibeli Presiden",
-        "category": "News",
-        "publish_time": "17-06-2024 02:14",
-        "news_link": "https://news.republika.co.id/berita/sf7bl7502/cerita-sapi-kurban-milik-jokowi-peternak-dari-dulu-feeling-akan-dibeli-presiden"
-    },
-    {
-        "title": "Empat Hal yang Perlu Diperhatikan Jika Muslim tak Berkurban",
-        "category": "Khazanah",
-        "publish_time": "17-06-2024 01:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sf7bh3430/empat-hal-yang-perlu-diperhatikan-jika-muslim-tak-berkurban"
-    },
-    {
-        "title": "SDUT Bumi Kartini Jepara Pertahankan Gelar Juara MilkLife Soccer Challenge \u2013 Kudus Series",
-        "category": "News",
-        "publish_time": "17-06-2024 01:14",
-        "news_link": "https://news.republika.co.id/berita/sf7b4m456/sdut-bumi-kartini-jepara-pertahankan-gelar-juara-milklife-soccer-challenge-kudus-series"
-    },
-    {
-        "title": "Tak Disangka, Begini Reaksi Jin BTS Saat Bertemu Penggemar Seorang Muslimah",
-        "category": "Network",
-        "publish_time": "17-06-2024 01:14",
-        "news_link": "https://impresi.republika.co.id/sosok/1694767504/tak-disangka-begini-reaksi-jin-bts-saat-bertemu-penggemar-seorang-muslimah"
-    },
-    {
-        "title": "Gibran Sekeluarga Shalat Id di Balaikota Solo Bersama Timnas U16",
-        "category": "News",
-        "publish_time": "17-06-2024 01:14",
-        "news_link": "https://news.republika.co.id/berita/sf7apj502/gibran-sekeluarga-shalat-id-di-balaikota-solo-bersama-timnas-u16"
-    },
-    {
-        "title": "Pendaftaran Jalur Mandiri UTBK Unhas 2024 Masih Dibuka, Ini Syarat dan Jadwalnya",
-        "category": "Network",
-        "publish_time": "17-06-2024 01:14",
-        "news_link": "https://kampus.republika.co.id/info-kampus/1624767487/pendaftaran-jalur-mandiri-utbk-unhas-2024-masih-dibuka-ini-syarat-dan-jadwalnya"
-    },
-    {
-        "title": "Menag: Idul Adha Momentum Renungkan Nilai-Nilai Kemanusiaan dan Kepedulian Sosial",
-        "category": "Video",
-        "publish_time": "17-06-2024 01:14",
-        "news_link": "https://tv.republika.co.id/berita/sf7an4313/menag-idul-adha-momentum-renungkan-nilainilai-kemanusiaan-dan-kepedulian-sosial"
-    },
-    {
-        "title": "Menag: Peningkatan Kualitas Layanan Haji Sesuai Syariat",
-        "category": "Khazanah",
-        "publish_time": "17-06-2024 01:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sf7aia458/menag-peningkatan-kualitas-layanan-haji-sesuai-syariat"
-    },
-    {
-        "title": "Ten Hag Ungkap tak Jadi Dipecat dan Digantikan Tuchel Setelah MU Berhasil Juara Piala FA",
-        "category": "News",
-        "publish_time": "17-06-2024 01:14",
-        "news_link": "https://news.republika.co.id/berita/sf7ags409/ten-hag-ungkap-tak-jadi-dipecat-dan-digantikan-tuchel-setelah-mu-berhasil-juara-piala-fa"
-    },
-    {
-        "title": "Media Korsel Laporkan Delegasi Jepang Bertemu Korut di Mongolia",
-        "category": "Network",
-        "publish_time": "17-06-2024 01:14",
-        "news_link": "https://seputarmiliter.id/posts/313932/media-korsel-laporkan-delegasi-jepang-bertemu-korut-di-mongolia"
-    },
-    {
-        "title": "Hadapi Slovakia, Belgia Tetap Andalkan De Bruyne yang Baru Pulih dari Cedera",
-        "category": "News",
-        "publish_time": "17-06-2024 01:14",
-        "news_link": "https://news.republika.co.id/berita/sf7a12409/hadapi-slovakia-belgia-tetap-andalkan-de-bruyne-yang-baru-pulih-dari-cedera"
-    },
-    {
-        "title": "Daging Kurban Dibagikan untuk Non-Muslim, Bolehkah?",
-        "category": "Khazanah",
-        "publish_time": "17-06-2024 01:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sf79y1430/daging-kurban-dibagikan-untuk-nonmuslim-bolehkah"
-    },
-    {
-        "title": "Honda CBR250RR Dapat Pembaruan di Malaysia",
-        "category": "Network",
-        "publish_time": "17-06-2024 01:14",
-        "news_link": "https://motoresto.id/posts/313874/honda-cbr250rr-dapat-pembaruan-di-malaysia"
-    },
-    {
-        "title": "Perjuangan Team WRT BMW 31 di 24 Hours of Le Mans: Dari Posisi 15 ke Podium Kedua",
-        "category": "Network",
-        "publish_time": "17-06-2024 01:14",
-        "news_link": "https://motoresto.id/posts/313925/perjuangan-team-wrt-bmw-31-di-24-hours-of-le-mans-dari-posisi-15-ke-podium-kedua"
-    },
-    {
-        "title": "Ralf Rangnick Ingin Bawa Austria Lolos dari 'Grup Neraka' di Euro 2024",
-        "category": "News",
-        "publish_time": "17-06-2024 01:14",
-        "news_link": "https://news.republika.co.id/berita/sf79ie409/ralf-rangnick-ingin-bawa-austria-lolos-dari-grup-neraka-di-euro-2024"
-    },
-    {
-        "title": "Jalur Arafah-Muzdalifah Macet, Jalan ke Mina Ditutup untuk Kendaraan",
-        "category": "Khazanah",
-        "publish_time": "17-06-2024 01:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sf75wr430/jalur-arafahmuzdalifah-macet-jalan-ke-mina-ditutup-untuk-kendaraan"
-    },
-    {
-        "title": "Tata Cara dan Doa Menyembelih Hewan Kurban",
-        "category": "Iqra",
-        "publish_time": "17-06-2024 00:14",
-        "news_link": "https://iqra.republika.co.id/berita/sf780q430/tata-cara-dan-doa-menyembelih-hewan-kurban"
     }
 ]
