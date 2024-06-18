@@ -1,98 +1,200 @@
 [
     {
+        "title": "Daging Sapi Gak Cuma Bisa Dibikin Rendang, Yuk Intip Ide Olahan Daging Sapi Lainnya",
+        "category": "Ameera",
+        "publish_time": "18-06-2024 04:13",
+        "news_link": "https://ameera.republika.co.id/berita/sf9d1z425/daging-sapi-gak-cuma-bisa-dibikin-rendang-yuk-intip-ide-olahan-daging-sapi-lainnya"
+    },
+    {
+        "title": "Rayakan Idul Adha, Hero  Ratna Tebar 17 Sapi dan Dua Kambing Kurban",
+        "category": "Network",
+        "publish_time": "18-06-2024 04:09",
+        "news_link": "https://matapantura.republika.co.id/posts/314139/rayakan-idul-adha-hero-ratna-tebar-17-sapi-dan-dua-kambing-kurban"
+    },
+    {
+        "title": "Ibadah ini tak Dianjurkan Dilakukan Pada Hari Tasyrik, ini Dalilnya",
+        "category": "Khazanah",
+        "publish_time": "18-06-2024 04:07",
+        "news_link": "https://khazanah.republika.co.id/berita/sf9ct7451/ibadah-ini-tak-dianjurkan-dilakukan-pada-hari-tasyrik-ini-dalilnya"
+    },
+    {
+        "title": "Layanan Kargo Haji Pos Indonesia Telah Kirim Lima Ribu Paket, Kembali Dibuka Setelah Libur",
+        "category": "Rejabar",
+        "publish_time": "18-06-2024 04:02",
+        "news_link": "https://rejabar.republika.co.id/berita/sf9cjm512/layanan-kargo-haji-pos-indonesia-telah-kirim-lima-ribu-paket-kembali-dibuka-setelah-libur"
+    },
+    {
+        "title": "Pj Bey Prihatin, Warga Lembang Masih Miskin Padahal Kawasan Wisata",
+        "category": "News",
+        "publish_time": "18-06-2024 04:01",
+        "news_link": "https://news.republika.co.id/berita/sf9cj3484/pj-bey-prihatin-warga-lembang-masih-miskin-padahal-kawasan-wisata"
+    },
+    {
+        "title": "Memahami Perbedaan Futsal dan Mini Soccer",
+        "category": "Retizen",
+        "publish_time": "18-06-2024 04:00",
+        "news_link": "https://retizen.republika.co.id/posts/314130/memahami-perbedaan-futsal-dan-mini-soccer"
+    },
+    {
+        "title": "Harun Masiku Diyakini Segera Ditangkap",
+        "category": "News",
+        "publish_time": "18-06-2024 03:55",
+        "news_link": "https://news.republika.co.id/berita/sf9c8z409/harun-masiku-diyakini-segera-ditangkap"
+    },
+    {
+        "title": "Beijing Sindir Hasil KTT G7 Hanya Berjumlah 10 Persen Populasi Dunia",
+        "category": "News",
+        "publish_time": "18-06-2024 03:48",
+        "news_link": "https://news.republika.co.id/berita/sf9bx3484/beijing-sindir-hasil-ktt-g7-hanya-berjumlah-10-persen-populasi-dunia"
+    },
+    {
+        "title": "Jimin BTS Siap Guncang Dunia K-Pop dengan Album Solo Ke-2 Muse, Rilis 19 Juli",
+        "category": "Ameera",
+        "publish_time": "18-06-2024 03:44",
+        "news_link": "https://ameera.republika.co.id/berita/sf9bpl425/jimin-bts-siap-guncang-dunia-kpop-dengan-album-solo-ke2-muse-rilis-19-juli"
+    },
+    {
+        "title": "Jangan Salah, Daging Bukan Penyebab Darah Tinggi",
+        "category": "Ameera",
+        "publish_time": "18-06-2024 03:43",
+        "news_link": "https://ameera.republika.co.id/berita/sf9bnl328/jangan-salah-daging-bukan-penyebab-darah-tinggi"
+    },
+    {
+        "title": "Kuasa Hukum Saka Tatal Laporkan Iptu Rudiana ke Polisi, Ini Penyebabnya",
+        "category": "Rejabar",
+        "publish_time": "18-06-2024 03:42",
+        "news_link": "https://rejabar.republika.co.id/berita/sf9bng512/kuasa-hukum-saka-tatal-laporkan-iptu-rudiana-ke-polisi-ini-penyebabnya"
+    },
+    {
+        "title": "Resmi, Ros\u00e9 Blackpink Gabung dengan Agensi The Black Label",
+        "category": "Ameera",
+        "publish_time": "18-06-2024 03:27",
+        "news_link": "https://ameera.republika.co.id/berita/sf9axm425/resmi-ros-blackpink-gabung-dengan-agensi-the-black-label"
+    },
+    {
+        "title": "Muslim Indonesia di AS Kirim Daging Kurban ke Tanah Air",
+        "category": "Video",
+        "publish_time": "18-06-2024 03:24",
+        "news_link": "https://tv.republika.co.id/berita/sf9at4313/muslim-indonesia-di-as-kirim-daging-kurban-ke-tanah-air"
+    },
+    {
+        "title": "Dapat Aduan Ada Jamaah tak Dapat Tenda, Gus Men 'Gusur' Tenda Masyariq",
+        "category": "Khazanah",
+        "publish_time": "18-06-2024 03:23",
+        "news_link": "https://khazanah.republika.co.id/berita/sf9arp483/dapat-aduan-ada-jamaah-tak-dapat-tenda-gus-men-gusur-tenda-masyariq"
+    },
+    {
+        "title": "Cristiano Ronaldo dan Pepe Berpeluang Cetak Rekor di Euro 2024",
+        "category": "News",
+        "publish_time": "18-06-2024 03:17",
+        "news_link": "https://news.republika.co.id/berita/sf9ahl409/cristiano-ronaldo-dan-pepe-berpeluang-cetak-rekor-di-euro-2024"
+    },
+    {
+        "title": "Peringati Hari Lingkungan Hidup Sedunia 2024, Polytama Tanam Pohon Produktif dan Langka",
+        "category": "Network",
+        "publish_time": "18-06-2024 03:17",
+        "news_link": "https://matapantura.republika.co.id/posts/314131/peringati-hari-lingkungan-hidup-sedunia-2024-polytama-tanam-pohon-produktif-dan-langka"
+    },
+    {
+        "title": "Wartawan Indonesia Dibopong Malaikat di Depan Ka\u2019bah, Percaya?",
+        "category": "Network",
+        "publish_time": "18-06-2024 03:13",
+        "news_link": "https://oohya.republika.co.id/pitan/1744770108/wartawan-indonesia-dibopong-malaikat-di-depan-kabah-percaya"
+    },
+    {
         "title": "Ayah Penting Terlibat untuk Perkembangan Anak, Ini Alasannya",
         "category": "Ameera",
-        "publish_time": "18-06-2024 03:05",
+        "publish_time": "18-06-2024 03:13",
         "news_link": "https://ameera.republika.co.id/berita/sf99wf425/ayah-penting-terlibat-untuk-perkembangan-anak-ini-alasannya"
     },
     {
         "title": "Pakar Bagikan Batas Aman Makan Daging untuk Hindari Hipertensi",
         "category": "Ameera",
-        "publish_time": "18-06-2024 03:04",
+        "publish_time": "18-06-2024 03:13",
         "news_link": "https://ameera.republika.co.id/berita/sf99vs328/pakar-bagikan-batas-aman-makan-daging-untuk-hindari-hipertensi"
     },
     {
         "title": "Makkah Hujan, Warga Saudi Panjatkan Doa",
         "category": "Video",
-        "publish_time": "18-06-2024 03:02",
+        "publish_time": "18-06-2024 03:13",
         "news_link": "https://tv.republika.co.id/berita/sf99rv313/makkah-hujan-warga-saudi-panjatkan-doa"
     },
     {
         "title": "Batik Motif Mugunghwa: Simbol Baru Persahabatan Indonesia-Korea Selatan",
         "category": "Network",
-        "publish_time": "18-06-2024 03:02",
+        "publish_time": "18-06-2024 03:13",
         "news_link": "https://topnews62.com/posts/314096/batik-motif-mugunghwa-simbol-baru-persahabatan-indonesia-korea-selatan"
     },
     {
         "title": "Katy Perry Memulai Era Baru dengan Merilis Single 'Womans World'",
         "category": "Network",
-        "publish_time": "18-06-2024 03:01",
+        "publish_time": "18-06-2024 03:13",
         "news_link": "https://impresiupdate.id/posts/314114/katy-perry-memulai-era-baru-dengan-merilis-single-womans-world-"
     },
     {
         "title": "Usai Pulang Shalat Isya Ketua RW Jadi Korban Penusukan Pemuda di Bandung, Pelaku Ditangkap",
         "category": "Rejabar",
-        "publish_time": "18-06-2024 03:01",
+        "publish_time": "18-06-2024 03:13",
         "news_link": "https://rejabar.republika.co.id/berita/sf99q6512/usai-pulang-shalat-isya-ketua-rw-jadi-korban-penusukan-pemuda-di-bandung-pelaku-ditangkap"
     },
     {
         "title": "Genosida di Gaza, Pemerintah Israel Netanyahu Pecah, dan AS Pesimis Israel Menang Perang",
         "category": "Khazanah",
-        "publish_time": "18-06-2024 02:59",
+        "publish_time": "18-06-2024 03:13",
         "news_link": "https://khazanah.republika.co.id/berita/sf99nk451/genosida-di-gaza-pemerintah-israel-netanyahu-pecah-dan-as-pesimis-israel-menang-perang"
     },
     {
         "title": "Harga Emas Mulai Melandai, Hari Ini Turun Rp 2.000 per Gram",
         "category": "Ekonomi",
-        "publish_time": "18-06-2024 02:55",
+        "publish_time": "18-06-2024 03:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sf99gw490/harga-emas-mulai-melandai-hari-ini-turun-rp-2000-per-gram"
     },
     {
         "title": "Ayah Almarhum Eky Kini Malah Dipolisikan oleh Tim Kuasa Hukum Saka Tatal, Ini Alasannya",
         "category": "News",
-        "publish_time": "18-06-2024 02:53",
+        "publish_time": "18-06-2024 03:13",
         "news_link": "https://news.republika.co.id/berita/sf99dl409/ayah-almarhum-eky-kini-malah-dipolisikan-oleh-tim-kuasa-hukum-saka-tatal-ini-alasannya"
     },
     {
         "title": "Makkah Diguyur Hujan, Warga Saudi Kegirangan",
         "category": "Visual",
-        "publish_time": "18-06-2024 02:52",
+        "publish_time": "18-06-2024 03:13",
         "news_link": "https://visual.republika.co.id/berita/sf99ap375/makkah-diguyur-hujan-warga-saudi-kegirangan"
     },
     {
         "title": "BSI Maslahat Lakukan Livestreaming Kurban di 38 Titik Selama 3 Hari",
         "category": "Sharia",
-        "publish_time": "18-06-2024 02:50",
+        "publish_time": "18-06-2024 03:13",
         "news_link": "https://sharia.republika.co.id/berita/sf997t490/bsi-maslahat-lakukan-livestreaming-kurban-di-38-titik-selama-3-hari"
     },
     {
         "title": "China Aktifkan Aturan Garda Penjaga Pantai Bisa Gunakan Senjata ke Kapal Asing",
         "category": "News",
-        "publish_time": "18-06-2024 02:48",
+        "publish_time": "18-06-2024 03:13",
         "news_link": "https://news.republika.co.id/berita/sf994l484/china-aktifkan-aturan-garda-penjaga-pantai-bisa-gunakan-senjata-ke-kapal-asing"
     },
     {
         "title": "Semarang Sea Embankment Project Targeted to End in August",
         "category": "En",
-        "publish_time": "31 minutes ago",
+        "publish_time": "2 hours ago",
         "news_link": "https://en.republika.co.id/berita/sf966v415/semarang-sea-embankment-project-targeted-to-end-in-august"
     },
     {
         "title": "Pemerintah Gaza Desak Internasional Tekan Israel Hentikan Kelaparan",
         "category": "News",
-        "publish_time": "18-06-2024 02:18",
+        "publish_time": "18-06-2024 02:13",
         "news_link": "https://news.republika.co.id/berita/sf97q7328/pemerintah-gaza-desak-internasional-tekan-israel-hentikan-kelaparan"
     },
     {
         "title": "Daging Kurban Bentuk Kemasan dan untuk Daerah Terjauh, ini Penjelasan MUI",
         "category": "Video",
-        "publish_time": "18-06-2024 02:16",
+        "publish_time": "18-06-2024 02:13",
         "news_link": "https://tv.republika.co.id/berita/sf97ng313/daging-kurban-bentuk-kemasan-dan-untuk-daerah-terjauh-ini-penjelasan-mui"
     },
     {
         "title": "Medan Raya Masjid Receives 1 Ton Cow from Prabowo Subianto",
         "category": "En",
-        "publish_time": "1 hours ago",
+        "publish_time": "2 hours ago",
         "news_link": "https://en.republika.co.id/berita/sf96fm415/medan-raya-masjid-receives-1-ton-cow-from-prabowo-subianto"
     },
     {
@@ -140,7 +242,7 @@
     {
         "title": "PSSI Supports the Street Football Team Carving Achievements at HWC 2024",
         "category": "En",
-        "publish_time": "2 hours ago",
+        "publish_time": "3 hours ago",
         "news_link": "https://en.republika.co.id/berita/sf95zx415/pssi-supports-the-street-football-team-carving-achievements-at-hwc-2024"
     },
     {
@@ -196,107 +298,5 @@
         "category": "Esgnow",
         "publish_time": "18-06-2024 01:13",
         "news_link": "https://esgnow.republika.co.id/berita/sf948y416/proyek-tanggul-laut-semarang-ditargetkan-rampung-agustus"
-    },
-    {
-        "title": "Puskes Haji Puji Penerapan Skema Murur",
-        "category": "Khazanah",
-        "publish_time": "18-06-2024 01:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sf945t458/puskes-haji-puji-penerapan-skema-murur"
-    },
-    {
-        "title": "Tewasnya Disertir Danis Murib Gabung OPM Hadiah Idul Adha dari TNI",
-        "category": "News",
-        "publish_time": "18-06-2024 01:13",
-        "news_link": "https://news.republika.co.id/berita/sf93vo484/tewasnya-disertir-danis-murib-gabung-opm-hadiah-idul-adha-dari-tni"
-    },
-    {
-        "title": "Bingung Daging Kurban Dibuat Apa? Bikin Rendang Aja, Ini Resepnya, Tanpa Ditumis",
-        "category": "Network",
-        "publish_time": "18-06-2024 01:13",
-        "news_link": "https://ibuwarung.republika.co.id/news/1724769795/bingung-daging-kurban-dibuat-apa-bikin-rendang-aja-ini-resepnya-tanpa-ditumis"
-    },
-    {
-        "title": "Kylian Mbappe Alami Cedera Patah Tulang Hidung",
-        "category": "News",
-        "publish_time": "18-06-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/sf93cy409/kylian-mbappe-alami-cedera-patah-tulang-hidung"
-    },
-    {
-        "title": "Stok Hewan Kurban di Majalengka Melimpah Capai 31.585 Ekor",
-        "category": "Rejabar",
-        "publish_time": "18-06-2024 00:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sf935g512/stok-hewan-kurban-di-majalengka-melimpah-capai-31585-ekor"
-    },
-    {
-        "title": "Kisah Cinta Ibrahim, Sarah dan Hajar, Berjuta Hikmah di Balik Kesabaran Perempuan",
-        "category": "Khazanah",
-        "publish_time": "18-06-2024 00:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sf9303483/kisah-cinta-ibrahim-sarah-dan-hajar-berjuta-hikmah-di-balik-kesabaran-perempuan"
-    },
-    {
-        "title": "Timwas Haji DPR Nilai Kemenag Langgar Aturan Alihkan Kuota Haji Tambahan",
-        "category": "Khazanah",
-        "publish_time": "18-06-2024 00:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sf9301484/timwas-haji-dpr-nilai-kemenag-langgar-aturan-alihkan-kuota-haji-tambahan"
-    },
-    {
-        "title": "Pengamat: Bansos untuk 'Korban' Judi Online Harus dengan Syarat",
-        "category": "News",
-        "publish_time": "18-06-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/sf92y4458/pengamat-bansos-untuk-korban-judi-online-harus-dengan-syarat"
-    },
-    {
-        "title": "Rayakan Idul Adha, Menteri Pertanian Kurban 88 Sapi",
-        "category": "Ekonomi",
-        "publish_time": "18-06-2024 00:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sf92xt490/rayakan-idul-adha-menteri-pertanian-kurban-88-sapi"
-    },
-    {
-        "title": "PGN Pastikan Keamanan Penyaluran Gas Bumi Selama Libur Idul Adha",
-        "category": "Ekonomi",
-        "publish_time": "18-06-2024 00:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sf92sc490/pgn-pastikan-keamanan-penyaluran-gas-bumi-selama-libur-idul-adha"
-    },
-    {
-        "title": "BMKG: Hujan Berpotensi Guyur Mayoritas Wilayah Indonesia",
-        "category": "News",
-        "publish_time": "18-06-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/sf92qt328/bmkg-hujan-berpotensi-guyur-mayoritas-wilayah-indonesia"
-    },
-    {
-        "title": "Inilah 3 Cara Galaxy AI Bahasa Indonesia Bikin Kerja Lebih Praktis!",
-        "category": "Network",
-        "publish_time": "18-06-2024 00:13",
-        "news_link": "https://impresi.republika.co.id/sana-sini/1694769722/inilah-3-cara-galaxy-ai-bahasa-indonesia-bikin-kerja-lebih-praktis"
-    },
-    {
-        "title": "Teknologi AI Vs Hak Cipta",
-        "category": "Video",
-        "publish_time": "18-06-2024 00:13",
-        "news_link": "https://tv.republika.co.id/berita/sf92nk313/teknologi-ai-vs-hak-cipta"
-    },
-    {
-        "title": "Hendak Disembelih, Sapi Kurban di Kuningan Kabur Petugas Damkar Dikerahkan",
-        "category": "Rejabar",
-        "publish_time": "18-06-2024 00:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sf92n1512/hendak-disembelih-sapi-kurban-di-kuningan-kabur-petugas-damkar-dikerahkan"
-    },
-    {
-        "title": "KPAI Sebut Pemerintah Mestinya\u00a0Bisa\u00a0Berantas Judi Online Lewat Satgas",
-        "category": "Ekonomi",
-        "publish_time": "18-06-2024 00:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sf92mn490/kpai-sebut-pemerintah-mestinyabisaberantas-judi-online-lewat-satgas"
-    },
-    {
-        "title": "Beijing: Pertemuan Menlu Wang Yi-Menko Luhut Contoh Keeratan Hubungan",
-        "category": "News",
-        "publish_time": "18-06-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/sf92du328/beijing-pertemuan-menlu-wang-yimenko-luhut-contoh-keeratan-hubungan"
-    },
-    {
-        "title": "Usia Sudah Tua, Pelni Prioritaskan Ganti Dua Kapal",
-        "category": "Ekonomi",
-        "publish_time": "18-06-2024 00:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sf921x490/usia-sudah-tua-pelni-prioritaskan-ganti-dua-kapal"
     }
 ]
