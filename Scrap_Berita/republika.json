@@ -1,80 +1,266 @@
 [
     {
+        "title": "Rusun Marunda Dijarah, Ini Sikap Pj Heru",
+        "category": "News",
+        "publish_time": "19-06-2024 08:12",
+        "news_link": "https://news.republika.co.id/berita/sfbiru377/rusun-marunda-dijarah-ini-sikap-pj-heru"
+    },
+    {
+        "title": "Pj Gubernur Jabar Bey Sebut Pembersihan Sampah di Jembatan Sapan Butuh Waktu 1,5 Bulan",
+        "category": "Rejabar",
+        "publish_time": "19-06-2024 08:10",
+        "news_link": "https://rejabar.republika.co.id/berita/sfbiog512/pj-gubernur-jabar-bey-sebut-pembersihan-sampah-di-jembatan-sapan-butuh-waktu-15-bulan"
+    },
+    {
+        "title": "Drone Hud-Hud Hizbullah Petakan dan akan Bombardir Jantung Instalasi Militer Israel",
+        "category": "Khazanah",
+        "publish_time": "19-06-2024 08:04",
+        "news_link": "https://khazanah.republika.co.id/berita/sfbiew451/drone-hudhud-hizbullah-petakan-dan-akan-bombardir-jantung-instalasi-militer-israel"
+    },
+    {
+        "title": "Demi Keindahan Gunung Fuji, Kondominium Mewah di Tokyo Bakal Dirobohkan",
+        "category": "Ameera",
+        "publish_time": "19-06-2024 08:02",
+        "news_link": "https://ameera.republika.co.id/berita/sfbicd425/demi-keindahan-gunung-fuji-kondominium-mewah-di-tokyo-bakal-dirobohkan"
+    },
+    {
+        "title": "Lebih dari 300 Jamaah Haji Mesir Wafat Akibat Cuaca Panas",
+        "category": "Khazanah",
+        "publish_time": "19-06-2024 08:01",
+        "news_link": "https://khazanah.republika.co.id/berita/sfbi9u366/lebih-dari-300-jamaah-haji-mesir-wafat-akibat-cuaca-panas"
+    },
+    {
+        "title": "Proses Evakuasi Dua Wisatawan yang Tenggelam di Pantai Taipa",
+        "category": "Visual",
+        "publish_time": "19-06-2024 08:00",
+        "news_link": "https://visual.republika.co.id/berita/sfbgpm375/proses-evakuasi-dua-wisatawan-yang-tenggelam-di-pantai-taipa"
+    },
+    {
+        "title": "Pengakuan Ayah Eka Sandi: Anak Saya tak Bunuh Vina, Saat Kejadian di Rumah Pak RT",
+        "category": "Khazanah",
+        "publish_time": "19-06-2024 07:58",
+        "news_link": "https://khazanah.republika.co.id/berita/sfbi5a377/pengakuan-ayah-eka-sandi-anak-saya-tak-bunuh-vina-saat-kejadian-di-rumah-pak-rt"
+    },
+    {
+        "title": "Tabrakan di Laut Cina Selatan, Delapan Tentara Filipina Terluka",
+        "category": "News",
+        "publish_time": "19-06-2024 07:58",
+        "news_link": "https://news.republika.co.id/berita/sfbi4g393/tabrakan-di-laut-cina-selatan-delapan-tentara-filipina-terluka"
+    },
+    {
+        "title": "Bio Farma Fasilitasi Kesehatan Pekerja Cegah Migrain",
+        "category": "Ekonomi",
+        "publish_time": "19-06-2024 07:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/sfbi14423/bio-farma-fasilitasi-kesehatan-pekerja-cegah-migrain"
+    },
+    {
+        "title": "Pesan-Pesan Antikorupsi dari SYL Saat Pimpin Rapat di Kementan",
+        "category": "News",
+        "publish_time": "19-06-2024 07:55",
+        "news_link": "https://news.republika.co.id/berita/sfbi0p487/pesanpesan-antikorupsi-dari-syl-saat-pimpin-rapat-di-kementan"
+    },
+    {
+        "title": "Benarkah Ibu Tien Soeharto Ikat Janji dengan Nyi Roro Kidul?",
+        "category": "Network",
+        "publish_time": "19-06-2024 07:54",
+        "news_link": "https://oohya.republika.co.id/pitan/1744774745/benarkah-ibu-tien-soeharto-ikat-janji-dengan-nyi-roro-kidul"
+    },
+    {
+        "title": "Perum Bulog Jamin dan Pastikan Rantai Pasok Beras untuk Mewujudkan Ketahanan Pangan",
+        "category": "Network",
+        "publish_time": "19-06-2024 07:53",
+        "news_link": "https://ruzka.republika.co.id/ekonomi/1674774820/perum-bulog-jamin-dan-pastikan-rantai-pasok-beras-untuk-mewujudkan-ketahanan-pangan"
+    },
+    {
+        "title": "Bakteri Pemakan Daging Mewabah di Jepang, Pasien Bisa Meninggal dalam 48 Jam",
+        "category": "Ameera",
+        "publish_time": "19-06-2024 07:49",
+        "news_link": "https://ameera.republika.co.id/berita/sfbhqt425/bakteri-pemakan-daging-mewabah-di-jepang-pasien-bisa-meninggal-dalam-48-jam"
+    },
+    {
+        "title": "Bea Cukai Beri Fasilitas Toko Bebas Bea ke Perusahaan di Jakarta Selatan",
+        "category": "Beacukai",
+        "publish_time": "19-06-2024 07:48",
+        "news_link": "https://republika.co.id/berita/sfbhp2370/bea-cukai-beri-fasilitas-toko-bebas-bea-ke-perusahaan-di-jakarta-selatan"
+    },
+    {
+        "title": "Menjaga Harmoni Kehidupan Melalui Sholat: Jadwal Sholat 19 Juni 2024, di Bekasi",
+        "category": "Khazanah",
+        "publish_time": "19-06-2024 07:46",
+        "news_link": "https://khazanah.republika.co.id/berita/sfbhl1430/menjaga-harmoni-kehidupan-melalui-sholat-jadwal-sholat-19-juni-2024-di-bekasi"
+    },
+    {
+        "title": "Mendagri Siapkan Sanksi Bagi ASN yang Terlibat Judi Online",
+        "category": "News",
+        "publish_time": "19-06-2024 07:45",
+        "news_link": "https://news.republika.co.id/berita/sfbhiq370/mendagri-siapkan-sanksi-bagi-asn-yang-terlibat-judi-online"
+    },
+    {
+        "title": "Superbank Buka Akses Perbankan ke Pengguna dan Mitra Grab di Indonesia",
+        "category": "Network",
+        "publish_time": "19-06-2024 07:41",
+        "news_link": "https://ruzka.republika.co.id/ekonomi/1674774757/superbank-buka-akses-perbankan-ke-pengguna-dan-mitra-grab-di-indonesia"
+    },
+    {
+        "title": "Khusus, Hanya Jamaah Haji Aceh yang dapat Uang Tambahan 1.500 Riyal",
+        "category": "Khazanah",
+        "publish_time": "19-06-2024 07:41",
+        "news_link": "https://khazanah.republika.co.id/berita/sfbhcw430/khusus-hanya-jamaah-haji-aceh-yang-dapat-uang-tambahan-1500-riyal"
+    },
+    {
+        "title": "Terungkap di Persidangan, Ada Permintaan Khusus dari Wakil Ketua KPK kepada SYL",
+        "category": "News",
+        "publish_time": "19-06-2024 07:40",
+        "news_link": "https://news.republika.co.id/berita/sfbhbh487/terungkap-di-persidangan-ada-permintaan-khusus-dari-wakil-ketua-kpk-kepada-syl"
+    },
+    {
+        "title": "Rahasia Sang Penghuni Surga",
+        "category": "Video",
+        "publish_time": "19-06-2024 07:38",
+        "news_link": "https://tv.republika.co.id/berita/sfbh8g313/rahasia-sang-penghuni-surga"
+    },
+    {
+        "title": "NATO Siap Beri Dukungan Jangka Panjang untuk Ukraina",
+        "category": "Video",
+        "publish_time": "19-06-2024 07:36",
+        "news_link": "https://tv.republika.co.id/berita/sfbh4l467/nato-siap-beri-dukungan-jangka-panjang-untuk-ukraina"
+    },
+    {
+        "title": "Usai Diperiksa, Ayah Eka Sandi Terpidana Pembunuhan Vina Yakini Anaknya Tidak Bersalah",
+        "category": "Rejabar",
+        "publish_time": "19-06-2024 07:36",
+        "news_link": "https://rejabar.republika.co.id/berita/sfbh3t512/usai-diperiksa-ayah-eka-sandi-terpidana-pembunuhan-vina-yakini-anaknya-tidak-bersalah"
+    },
+    {
+        "title": "Ini Usulan ESDM Terkait Subsidi BBM dan LPG 3 Kg dalam RAPBN 2025",
+        "category": "Ekonomi",
+        "publish_time": "19-06-2024 07:32",
+        "news_link": "https://ekonomi.republika.co.id/berita/sfbgy8423/ini-usulan-esdm-terkait-subsidi-bbm-dan-lpg-3-kg-dalam-rapbn-2025"
+    },
+    {
+        "title": "Khofifah Ajak Jamaah Haji Patuhi Imbauan Kemenag dan Aplikasi Nusuk",
+        "category": "Khazanah",
+        "publish_time": "19-06-2024 07:28",
+        "news_link": "https://khazanah.republika.co.id/berita/sfbgr0451/khofifah-ajak-jamaah-haji-patuhi-imbauan-kemenag-dan-aplikasi-nusuk"
+    },
+    {
+        "title": "HiPMI Syariah Dapat Kepercayaan Adakan Kegiatan Kurban di Masjid Al Azhar",
+        "category": "News",
+        "publish_time": "19-06-2024 07:28",
+        "news_link": "https://news.republika.co.id/berita/sfbgqy484/hipmi-syariah-dapat-kepercayaan-adakan-kegiatan-kurban-di-masjid-al-azhar"
+    },
+    {
+        "title": "Keluarga Terpidana Pembunuhan Vina Diperiksa Polisi, Ada Apa?",
+        "category": "News",
+        "publish_time": "19-06-2024 07:26",
+        "news_link": "https://news.republika.co.id/berita/sfbgo6377/keluarga-terpidana-pembunuhan-vina-diperiksa-polisi-ada-apa"
+    },
+    {
+        "title": "Hadiri Silaturahmi Idul Adha, Anies Diminta Warga Kembali Pimpin Jakarta",
+        "category": "Visual",
+        "publish_time": "19-06-2024 07:25",
+        "news_link": "https://visual.republika.co.id/berita/sfbgms375/hadiri-silaturahmi-idul-adha-anies-diminta-warga-kembali-pimpin-jakarta"
+    },
+    {
+        "title": "Swiss Bertekad Bangkit Hadapi Swiss di Grup A Euro 2024",
+        "category": "News",
+        "publish_time": "19-06-2024 07:22",
+        "news_link": "https://news.republika.co.id/berita/sfbghi348/swiss-bertekad-bangkit-hadapi-swiss-di-grup-a-euro-2024"
+    },
+    {
+        "title": "Gegara Anjing Dilempar Batu, Seorang Pria di Depok Jadi Korban Penusukan, Pelakunya Ditangkap",
+        "category": "Network",
+        "publish_time": "19-06-2024 07:20",
+        "news_link": "https://ruzka.republika.co.id/news/1674774688/gegara-anjing-dilempar-batu-seorang-pria-di-depok-jadi-korban-penusukan-pelakunya-ditangkap"
+    },
+    {
+        "title": "Harun Masiku Diyakini Masih Lama Ditangkap, Sudah Sembunyi Lagi",
+        "category": "News",
+        "publish_time": "19-06-2024 07:18",
+        "news_link": "https://news.republika.co.id/berita/sfbg9p377/harun-masiku-diyakini-masih-lama-ditangkap-sudah-sembunyi-lagi"
+    },
+    {
+        "title": "Pejabat The Fed Hati-Hati Potensi Penurunan Suku Bunga",
+        "category": "Ekonomi",
+        "publish_time": "19-06-2024 07:18",
+        "news_link": "https://ekonomi.republika.co.id/berita/sfbg9k423/pejabat-the-fed-hatihati-potensi-penurunan-suku-bunga"
+    },
+    {
         "title": "Sebelum Rhoma Irama, Ini Deretan Kontroversi yang Libatkan Bahar bin Smith",
         "category": "News",
-        "publish_time": "19-06-2024 07:09",
+        "publish_time": "19-06-2024 07:14",
         "news_link": "https://news.republika.co.id/berita/sfbfwa475/sebelum-rhoma-irama-ini-deretan-kontroversi-yang-libatkan-bahar-bin-smith"
     },
     {
         "title": "Dandim Tegaskan Judi Daring Rusak Moral dan Disiplin Prajurit",
         "category": "News",
-        "publish_time": "19-06-2024 07:03",
+        "publish_time": "19-06-2024 07:14",
         "news_link": "https://news.republika.co.id/berita/sfbfmu484/dandim-tegaskan-judi-daring-rusak-moral-dan-disiplin-prajurit"
     },
     {
         "title": "RPH di Depok Miliki Sertifikat Halal dan NKV dari BPJPH",
         "category": "Network",
-        "publish_time": "19-06-2024 06:56",
+        "publish_time": "19-06-2024 07:14",
         "news_link": "https://ruzka.republika.co.id/nasional/1674774589/rph-di-depok-miliki-sertifikat-halal-dan-nkv-dari-bpjph"
     },
     {
         "title": "Kisah Habib Golkar dan Serangan Fajar",
         "category": "News",
-        "publish_time": "19-06-2024 06:55",
+        "publish_time": "19-06-2024 07:14",
         "news_link": "https://news.republika.co.id/berita/sfbf94393/kisah-habib-golkar-dan-serangan-fajar"
     },
     {
         "title": "Antisipasi Kekeringan, Pemerintah Gencarkan Pompanisasi",
         "category": "Esgnow",
-        "publish_time": "19-06-2024 06:55",
+        "publish_time": "19-06-2024 07:14",
         "news_link": "https://esgnow.republika.co.id/berita/sfbf7y416/antisipasi-kekeringan-pemerintah-gencarkan-pompanisasi"
     },
     {
         "title": "Kuasa Hukum Keluarga Terpidana Pembunuhan Vina Keberatan tak Bisa Tengok Kliennya",
         "category": "Rejabar",
-        "publish_time": "19-06-2024 06:54",
+        "publish_time": "19-06-2024 07:14",
         "news_link": "https://rejabar.republika.co.id/berita/sfbf6w512/kuasa-hukum-keluarga-terpidana-pembunuhan-vina-keberatan-tak-bisa-tengok-kliennya"
     },
     {
         "title": "Dominasi BUMN Indonesia, Lebih dari 10 Perusahaan Masuk Fortune 500 Asia Tenggara 2024",
         "category": "Ekonomi",
-        "publish_time": "19-06-2024 06:50",
+        "publish_time": "19-06-2024 07:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sfbf0n423/dominasi-bumn-indonesia-lebih-dari-10-perusahaan-masuk-fortune-500-asia-tenggara-2024"
     },
     {
         "title": "Tindak Lanjuti Keppres, Pj Gubernur Jabar Bey Siap Bentuk Satgas Judi Online",
         "category": "Rejabar",
-        "publish_time": "19-06-2024 06:50",
+        "publish_time": "19-06-2024 07:14",
         "news_link": "https://rejabar.republika.co.id/berita/sfbf04512/tindak-lanjuti-keppres-pj-gubernur-jabar-bey-siap-bentuk-satgas-judi-online"
     },
     {
         "title": "Teyeng Wakatobi akan Jadi Tersangka Kasus Bos Rental Mobil Tewas di Pati? Ini Kata Kapolda",
         "category": "News",
-        "publish_time": "19-06-2024 06:37",
+        "publish_time": "19-06-2024 06:14",
         "news_link": "https://news.republika.co.id/berita/sfbef5409/teyeng-wakatobi-akan-jadi-tersangka-kasus-bos-rental-mobil-tewas-di-pati-ini-kata-kapolda"
     },
     {
         "title": "Kapolda Jateng akan Lakukan Pembinaan Pelaku Kasus di Pati",
         "category": "News",
-        "publish_time": "19-06-2024 06:36",
+        "publish_time": "19-06-2024 06:14",
         "news_link": "https://news.republika.co.id/berita/sfbed1484/kapolda-jateng-akan-lakukan-pembinaan-pelaku-kasus-di-pati"
     },
     {
         "title": "BPS: Ekspor Mei 2024 Capai 22,33 Miliar Dolar AS Ditopang Manufaktur",
         "category": "Ekonomi",
-        "publish_time": "19-06-2024 06:28",
+        "publish_time": "19-06-2024 06:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sfbe07370/bps-ekspor-mei-2024-capai-2233-miliar-dolar-as-ditopang-manufaktur"
     },
     {
         "title": "Kubu Staf Hasto Minta Penyidik AKBP Rossa Diganti, Ungkap Kejanggalan Pemeriksaan 10 Juni",
         "category": "News",
-        "publish_time": "19-06-2024 06:26",
+        "publish_time": "19-06-2024 06:14",
         "news_link": "https://news.republika.co.id/berita/sfbdvs409/kubu-staf-hasto-minta-penyidik-akbp-rossa-diganti-ungkap-kejanggalan-pemeriksaan-10-juni"
     },
     {
         "title": "Kurangi Sampah Plastik, Rumah Zakat Bagikan Daging Kurban Pakai Bahan dari Alam",
         "category": "Khazanah",
-        "publish_time": "19-06-2024 06:19",
+        "publish_time": "19-06-2024 06:14",
         "news_link": "https://khazanah.republika.co.id/berita/sfbdks370/kurangi-sampah-plastik-rumah-zakat-bagikan-daging-kurban-pakai-bahan-dari-alam"
     },
     {
@@ -92,211 +278,25 @@
     {
         "title": "Pj Heru Budi Jelaskan PBB Bayar Bagi Rumah Kedua dan Seterusnya",
         "category": "News",
-        "publish_time": "19-06-2024 06:10",
+        "publish_time": "19-06-2024 06:14",
         "news_link": "https://news.republika.co.id/berita/sfbcw7484/pj-heru-budi-jelaskan-pbb-bayar-bagi-rumah-kedua-dan-seterusnya"
     },
     {
         "title": "Kalahkan Microsoft dan Apple, Nvidia Jadi Perusahaan Nomor Satu\u00a0di Dunia",
         "category": "Ekonomi",
-        "publish_time": "19-06-2024 06:10",
+        "publish_time": "19-06-2024 06:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sfbcv9370/kalahkan-microsoft-dan-apple-nvidia-jadi-perusahaan-nomor-satudi-dunia"
     },
     {
         "title": "Kemendag Salurkan Ribuan Paket Daging Kurban",
         "category": "Khazanah",
-        "publish_time": "19-06-2024 05:10",
+        "publish_time": "19-06-2024 05:14",
         "news_link": "https://khazanah.republika.co.id/berita/sfbb73458/kemendag-salurkan-ribuan-paket-daging-kurban"
     },
     {
         "title": "Gus Men Bicara Kuota 2025, Dinamika Mina, dan Evaluasi Haji",
         "category": "Video",
-        "publish_time": "19-06-2024 05:10",
+        "publish_time": "19-06-2024 05:14",
         "news_link": "https://tv.republika.co.id/berita/sfbb6a313/gus-men-bicara-kuota-2025-dinamika-mina-dan-evaluasi-haji"
-    },
-    {
-        "title": "Keluarga Terpidana Pembunuhan Vina Datangi Polda Jabar Jalani Pemeriksaan",
-        "category": "Rejabar",
-        "publish_time": "19-06-2024 05:10",
-        "news_link": "https://rejabar.republika.co.id/berita/sfbaru512/keluarga-terpidana-pembunuhan-vina-datangi-polda-jabar-jalani-pemeriksaan"
-    },
-    {
-        "title": "Presiden Pastikan tak Ada Bansos untuk Korban Judi Online",
-        "category": "Ekonomi",
-        "publish_time": "19-06-2024 05:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/sfbalh502/presiden-pastikan-tak-ada-bansos-untuk-korban-judi-online"
-    },
-    {
-        "title": "Ditanya Soal Wacana Bansos untuk Korban Judi Online, Jokowi: Nggak Ada",
-        "category": "News",
-        "publish_time": "19-06-2024 05:10",
-        "news_link": "https://news.republika.co.id/berita/sfbakw409/ditanya-soal-wacana-bansos-untuk-korban-judi-online-jokowi-nggak-ada"
-    },
-    {
-        "title": "Wuling Jadi Pemain Utama Industri EV di Indonesia, Siap Ekspor ke Empat Benua",
-        "category": "Ekonomi",
-        "publish_time": "19-06-2024 05:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/sfbag1349/wuling-jadi-pemain-utama-industri-ev-di-indonesia-siap-ekspor-ke-empat-benua"
-    },
-    {
-        "title": "Perjudian pada Masa Jahiliyah",
-        "category": "Khazanah",
-        "publish_time": "19-06-2024 05:10",
-        "news_link": "https://khazanah.republika.co.id/berita/sfba07458/perjudian-pada-masa-jahiliyah"
-    },
-    {
-        "title": "Pakai Treadmill dengan Aman, Cegah Tragedi Seperti yang Terjadi di Gym Pontianak",
-        "category": "Ameera",
-        "publish_time": "19-06-2024 05:10",
-        "news_link": "https://ameera.republika.co.id/berita/sfb9yi425/pakai-treadmill-dengan-aman-cegah-tragedi-seperti-yang-terjadi-di-gym-pontianak"
-    },
-    {
-        "title": "Bea Cukai Tingkatkan Peran Sebagai Trade Facilitator Melalui Program AEO",
-        "category": "Ekonomi",
-        "publish_time": "19-06-2024 05:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/sfb9vw490/bea-cukai-tingkatkan-peran-sebagai-trade-facilitator-melalui-program-aeo"
-    },
-    {
-        "title": "Diajarkan Malaikat Jibril, Begini Doa Rasulullah Mengusir Jin Hingga Tersungkur",
-        "category": "Khazanah",
-        "publish_time": "19-06-2024 05:10",
-        "news_link": "https://khazanah.republika.co.id/berita/sfb9qc483/diajarkan-malaikat-jibril-begini-doa-rasulullah-mengusir-jin-hingga-tersungkur"
-    },
-    {
-        "title": "Menparekraf: Idul Adha Beri Kontribusi Ekonomi Rp 200 Triliun",
-        "category": "Ekonomi",
-        "publish_time": "19-06-2024 05:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/sfb9ny502/menparekraf-idul-adha-beri-kontribusi-ekonomi-rp-200-triliun"
-    },
-    {
-        "title": "FTI Universitas BSI Siapkan Mahasiswa Hadapi Dunia Kerja Lewat Seminar Karier",
-        "category": "News",
-        "publish_time": "19-06-2024 05:10",
-        "news_link": "https://news.republika.co.id/berita/sfb9jo490/fti-universitas-bsi-siapkan-mahasiswa-hadapi-dunia-kerja-lewat-seminar-karier"
-    },
-    {
-        "title": "Daya Saing Indonesia Naik 7 Peringkat, Cuma Nilai Efisiensi Dukung Swasta Paling Terpuruk",
-        "category": "Ekonomi",
-        "publish_time": "19-06-2024 05:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/sfb9jh349/daya-saing-indonesia-naik-7-peringkat-cuma-nilai-efisiensi-dukung-swasta-paling-terpuruk"
-    },
-    {
-        "title": "Proyek Tanggul Tambak Lorok Dikebut, Jokowi: Kuat 30 Tahun Menahan Rob",
-        "category": "Video",
-        "publish_time": "19-06-2024 05:10",
-        "news_link": "https://tv.republika.co.id/berita/sfb9i5313/proyek-tanggul-tambak-lorok-dikebut-jokowi-kuat-30-tahun-menahan-rob"
-    },
-    {
-        "title": "Pj Gubernur Bey Prihatin Masih Banyak Lansia di Jabar Jadi Tulang Punggung Keluarga",
-        "category": "Rejabar",
-        "publish_time": "19-06-2024 05:10",
-        "news_link": "https://rejabar.republika.co.id/berita/sfb9e4512/pj-gubernur-bey-prihatin-masih-banyak-lansia-di-jabar-jadi-tulang-punggung-keluarga"
-    },
-    {
-        "title": "Bangun Personal Branding, Mahasiswa Universitas BSI Ikuti Seminar Self Development",
-        "category": "News",
-        "publish_time": "19-06-2024 05:10",
-        "news_link": "https://news.republika.co.id/berita/sfb9bv490/bangun-personal-branding-mahasiswa-universitas-bsi-ikuti-seminar-self-development"
-    },
-    {
-        "title": "Masyarakat Diminta Waspadai Aplikasi Elaelo yang Klaim Jadi Pengganti X",
-        "category": "News",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://news.republika.co.id/berita/sfb8u2409/masyarakat-diminta-waspadai-aplikasi-elaelo-yang-klaim-jadi-pengganti-x"
-    },
-    {
-        "title": "Serentak di Sembilan Negara, INH Salurkan Ratusan Hewan Kurban",
-        "category": "Rejogja",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://rejogja.republika.co.id/berita/sfb0qd291/serentak-di-sembilan-negara-inh-salurkan-ratusan-hewan-kurban"
-    },
-    {
-        "title": "Masyarakat Diingatkan tak Konsumsi Daging Berlebihan, Ini Bahayanya",
-        "category": "Ameera",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://ameera.republika.co.id/berita/sfb8pc425/masyarakat-diingatkan-tak-konsumsi-daging-berlebihan-ini-bahayanya"
-    },
-    {
-        "title": "Bio Farma Kenalkan Ovine Enoxaparin Sodium ke Dokter Spesialis Jantung",
-        "category": "Rejabar",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://rejabar.republika.co.id/berita/sfb8lf512/bio-farma-kenalkan-ovine-enoxaparin-sodium-ke-dokter-spesialis-jantung"
-    },
-    {
-        "title": "Kusnadi, Staf Hasto Kristiyanto Penuhi Panggilan KPK",
-        "category": "News",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://news.republika.co.id/berita/sfb8ib409/kusnadi-staf-hasto-kristiyanto-penuhi-panggilan-kpk"
-    },
-    {
-        "title": "Perawat Indonesia akan Bisa Berkarier di Belanda, Begini Caranya",
-        "category": "News",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://news.republika.co.id/berita/sfb8ad484/perawat-indonesia-akan-bisa-berkarier-di-belanda-begini-caranya"
-    },
-    {
-        "title": "Refleksi Spiritual: Jadwal Sholat Hari Ini (19 Juni 2024) di Tangerang",
-        "category": "Khazanah",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://khazanah.republika.co.id/berita/sfb897430/refleksi-spiritual-jadwal-sholat-hari-ini-19-juni-2024-di-tangerang"
-    },
-    {
-        "title": "Riset WCR Sebut Peringkat Daya Saing RI Naik ke Posisi 27 Dunia",
-        "category": "Ekonomi",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/sfb7um430/riset-wcr-sebut-peringkat-daya-saing-ri-naik-ke-posisi-27-dunia"
-    },
-    {
-        "title": "AI dalam Sistem Peradilan",
-        "category": "Retizen",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://retizen.republika.co.id/posts/314326/ai-dalam-sistem-peradilan"
-    },
-    {
-        "title": "Viral Video Jamaah Wafat di Jalan, Berapa Jumlah Jamaah RI Meninggal Saat Armuzna?",
-        "category": "Khazanah",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://khazanah.republika.co.id/berita/sfb7we483/viral-video-jamaah-wafat-di-jalan-berapa-jumlah-jamaah-ri-meninggal-saat-armuzna"
-    },
-    {
-        "title": "Gejala Awal tak Kentara Bikin Diagnosis Dini Demensia Bisa Sangat Sulit",
-        "category": "Network",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://impresiupdate.id/posts/314320/gejala-awal-tak-kentara-bikin-diagnosis-dini-demensia-bisa-sangat-sulit"
-    },
-    {
-        "title": "Mengapa Netflix Selalu Menyelipkan Karakter LGBT yang Sebenarnya Tidak Diperlukan?",
-        "category": "Network",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://filmusiku.com/posts/314325/mengapa-netflix-selalu-menyelipkan-karakter-lgbt-yang-sebenarnya-tidak-diperlukan-"
-    },
-    {
-        "title": "Bahar Smith Murka ke Rhoma Irama Soal Ajaran Habib Nyeleneh",
-        "category": "News",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://news.republika.co.id/berita/sfb7cv484/bahar-smith-murka-ke-rhoma-irama-soal-ajaran-habib-nyeleneh"
-    },
-    {
-        "title": "Lindungi Hatimu, Minumlah Kopi Saban Hari, Coba Deh...",
-        "category": "Network",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://impresiupdate.id/posts/314316/lindungi-hatimu-minumlah-kopi-saban-hari-coba-deh-"
-    },
-    {
-        "title": "Inilah Hubungan Antara Sleep Apnea dan Tekanan Darah Tinggi",
-        "category": "Network",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://impresiupdate.id/posts/314324/inilah-hubungan-antara-sleep-apnea-dan-tekanan-darah-tinggi"
-    },
-    {
-        "title": "Butuh Waktu 1,5 Bulan Bersihkan Lautan Sampah di Babakan Citarum",
-        "category": "Esgnow",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://esgnow.republika.co.id/berita/sfb3ih416/butuh-waktu-15-bulan-bersihkan-lautan-sampah-di-babakan-citarum"
-    },
-    {
-        "title": "Ratusan Ribu Jamaah RI Pilih Nafar Awal, Tenda-Tenda di Mina Mulai Sepi",
-        "category": "Khazanah",
-        "publish_time": "19-06-2024 04:10",
-        "news_link": "https://khazanah.republika.co.id/berita/sfb6l5483/ratusan-ribu-jamaah-ri-pilih-nafar-awal-tendatenda-di-mina-mulai-sepi"
     }
 ]
