@@ -1,122 +1,248 @@
 [
     {
+        "title": "Sunnah Nabi SAW untuk Para Istri dalam Berumah Tangga yang Banyak Diabaikan",
+        "category": "Khazanah",
+        "publish_time": "21-06-2024 10:09",
+        "news_link": "https://khazanah.republika.co.id/berita/sffdl4320/sunnah-nabi-saw-untuk-para-istri-dalam-berumah-tangga-yang-banyak-diabaikan"
+    },
+    {
+        "title": "Erick Thohir: Kehadiran MotoGP Bukti Mandalika Jadi Destinasi Kelas Dunia",
+        "category": "News",
+        "publish_time": "21-06-2024 10:05",
+        "news_link": "https://news.republika.co.id/berita/sffdd1348/erick-thohir-kehadiran-motogp-bukti-mandalika-jadi-destinasi-kelas-dunia"
+    },
+    {
+        "title": "Menkopolhukum Instruksikan Kompolnas Awasi Kasus Vina Sampai Tuntas",
+        "category": "News",
+        "publish_time": "21-06-2024 10:03",
+        "news_link": "https://news.republika.co.id/berita/sffdax377/menkopolhukum-instruksikan-kompolnas-awasi-kasus-vina-sampai-tuntas"
+    },
+    {
+        "title": "TNI Tebar 41.000 Bibit Ikan Gurami di Kutai Kartanegara",
+        "category": "News",
+        "publish_time": "21-06-2024 09:59",
+        "news_link": "https://news.republika.co.id/berita/sff5wa451/tni-tebar-41000-bibit-ikan-gurami-di-kutai-kartanegara"
+    },
+    {
+        "title": "Jamaah Haji Hilang di Tengah Cuaca Panas, Keluarga Cemas Mencari",
+        "category": "Khazanah",
+        "publish_time": "21-06-2024 09:59",
+        "news_link": "https://khazanah.republika.co.id/berita/sffd3p416/jamaah-haji-hilang-di-tengah-cuaca-panas-keluarga-cemas-mencari"
+    },
+    {
+        "title": "Pj Gubernur Bey tak akan Terbitkan Obligasi Daerah Selama Dirinya Menjabat, Ini Alasannya",
+        "category": "Rejabar",
+        "publish_time": "21-06-2024 09:59",
+        "news_link": "https://rejabar.republika.co.id/berita/sffd36512/pj-gubernur-bey-tak-akan-terbitkan-obligasi-daerah-selama-dirinya-menjabat-ini-alasannya"
+    },
+    {
+        "title": "Bersiaga 24 Jam, PSC 119 Layani Kejadian Gawat Darurat di Depok",
+        "category": "Network",
+        "publish_time": "21-06-2024 09:57",
+        "news_link": "https://ruzka.republika.co.id/serba-serbi/1674782897/bersiaga-24-jam-psc-119-layani-kejadian-gawat-darurat-di-depok"
+    },
+    {
+        "title": "Ratusan Pengurus Truk Demo Tutup Akses di Pelabuhan Bakauheni",
+        "category": "News",
+        "publish_time": "21-06-2024 09:53",
+        "news_link": "https://news.republika.co.id/berita/sffctd484/ratusan-pengurus-truk-demo-tutup-akses-di-pelabuhan-bakauheni"
+    },
+    {
+        "title": "Ini Alasan e-Commerce tak Cantumkan Nama Jasa Pengiriman Saat Checkout",
+        "category": "Ekonomi",
+        "publish_time": "21-06-2024 09:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/sff4rq349/ini-alasan-ecommerce-tak-cantumkan-nama-jasa-pengiriman-saat-checkout"
+    },
+    {
+        "title": "Wagub Edy: Rekatkan Semangat Persaudaraan dan Persatuan",
+        "category": "News",
+        "publish_time": "21-06-2024 09:48",
+        "news_link": "https://news.republika.co.id/berita/sffclw502/wagub-edy-rekatkan-semangat-persaudaraan-dan-persatuan"
+    },
+    {
+        "title": "Pengamat: Pertemuan Prabowo dan para Ketum KIM Mantapkan Pemerintahan ke Depan",
+        "category": "News",
+        "publish_time": "21-06-2024 09:48",
+        "news_link": "https://news.republika.co.id/berita/sffcky377/pengamat-pertemuan-prabowo-dan-para-ketum-kim-mantapkan-pemerintahan-ke-depan"
+    },
+    {
+        "title": "Serikat Pekerja dan Manajemen PTPN IV Sepakat Dorong Kesejahteraan Karyawan",
+        "category": "Ekonomi",
+        "publish_time": "21-06-2024 09:43",
+        "news_link": "https://ekonomi.republika.co.id/berita/sffccw502/serikat-pekerja-dan-manajemen-ptpn-iv-sepakat-dorong-kesejahteraan-karyawan"
+    },
+    {
+        "title": "IBT Universitas BSI: Tips Memilih Asisten Virtual untuk Bantu Usahamu",
+        "category": "News",
+        "publish_time": "21-06-2024 09:42",
+        "news_link": "https://news.republika.co.id/berita/sffcbs370/ibt-universitas-bsi-tips-memilih-asisten-virtual-untuk-bantu-usahamu"
+    },
+    {
+        "title": "Gara-gara Tentara tak Bisa Hancurkan Hamas, Militer Israel dan Rezim Netanyahu Ribut",
+        "category": "News",
+        "publish_time": "21-06-2024 09:41",
+        "news_link": "https://news.republika.co.id/berita/sffc9r377/garagara-tentara-tak-bisa-hancurkan-hamas-militer-israel-dan-rezim-netanyahu-ribut"
+    },
+    {
+        "title": "Sosiolog Sarankan Penanganan Judi Online Lewat Intervensi di Level Provider",
+        "category": "News",
+        "publish_time": "21-06-2024 09:36",
+        "news_link": "https://news.republika.co.id/berita/sffc1y484/sosiolog-sarankan-penanganan-judi-online-lewat-intervensi-di-level-provider"
+    },
+    {
+        "title": "Voice of Baceprot (VOB), Band Indonesia Pertama yang Tampil di Glastonbury Festival",
+        "category": "Ameera",
+        "publish_time": "21-06-2024 09:33",
+        "news_link": "https://ameera.republika.co.id/berita/sffbwn425/voice-of-baceprot-vob-band-indonesia-pertama-yang-tampil-di-glastonbury-festival"
+    },
+    {
+        "title": "Kemenag: Berkurban Bentuk Ketaatan Semangat Berbagi pada Sesama",
+        "category": "Khazanah",
+        "publish_time": "21-06-2024 09:29",
+        "news_link": "https://khazanah.republika.co.id/berita/sff5gy451/kemenag-berkurban-bentuk-ketaatan-semangat-berbagi-pada-sesama"
+    },
+    {
+        "title": "Mahasiswa Universitas BSI Banyak Kontribusinya di Masyarakat, Ini Buktinya",
+        "category": "News",
+        "publish_time": "21-06-2024 09:29",
+        "news_link": "https://news.republika.co.id/berita/sffbpz370/mahasiswa-universitas-bsi-banyak-kontribusinya-di-masyarakat-ini-buktinya"
+    },
+    {
+        "title": "Adaro Kembangkan Desa Liyu Kalsel Sebagai Tujuan Wisata Budaya",
+        "category": "Esgnow",
+        "publish_time": "21-06-2024 09:23",
+        "news_link": "https://esgnow.republika.co.id/berita/sffbgb416/adaro-kembangkan-desa-liyu-kalsel-sebagai-tujuan-wisata-budaya"
+    },
+    {
+        "title": "House Member Sheds Light on 2024 Hajj-related Evaluations",
+        "category": "En",
+        "publish_time": "55 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/sffb3u366/house-member-sheds-light-on-2024-hajjrelated-evaluations"
+    },
+    {
         "title": "BAZNAS RI Salurkan Dam Jemaah Haji bagi Sekolah Indonesia di Makkah",
         "category": "Khazanah",
-        "publish_time": "21-06-2024 09:06",
+        "publish_time": "21-06-2024 09:11",
         "news_link": "https://khazanah.republika.co.id/berita/sffamk370/baznas-ri-salurkan-dam-jemaah-haji-bagi-sekolah-indonesia-di-makkah"
     },
     {
         "title": "PKS Bangun Poros Ketiga di Pilbup Bekasi, Ingin Lawan Gerindra dan PDIP",
         "category": "News",
-        "publish_time": "21-06-2024 09:02",
+        "publish_time": "21-06-2024 09:11",
         "news_link": "https://news.republika.co.id/berita/sffah6484/pks-bangun-poros-ketiga-di-pilbup-bekasi-ingin-lawan-gerindra-dan-pdip"
     },
     {
         "title": "Bea Cukai Terima Kunjungan Jiaxing Municipality, Bahas Peningkatan Investasi",
         "category": "Beacukai",
-        "publish_time": "21-06-2024 09:01",
+        "publish_time": "21-06-2024 09:11",
         "news_link": "https://republika.co.id/berita/sffaer370/bea-cukai-terima-kunjungan-jiaxing-municipality-bahas-peningkatan-investasi"
     },
     {
         "title": "Polisi Bekuk Pegawai yang Bunuh Istrinya di NTB",
         "category": "News",
-        "publish_time": "21-06-2024 08:59",
+        "publish_time": "21-06-2024 09:11",
         "news_link": "https://news.republika.co.id/berita/sffaas377/polisi-bekuk-pegawai-yang-bunuh-istrinya-di-ntb"
     },
     {
         "title": "Imbauan Pemda Mataram kepada Jamaah Haji yang Nanti Sampai di Kampung Halaman",
         "category": "Khazanah",
-        "publish_time": "21-06-2024 08:51",
+        "publish_time": "21-06-2024 09:11",
         "news_link": "https://khazanah.republika.co.id/berita/sff4kp451/imbauan-pemda-mataram-kepada-jamaah-haji-yang-nanti-sampai-di-kampung-halaman"
     },
     {
         "title": "Usia 40-an, Berat Badan tak Terkendali? Atur Asupan Gula dan Rasakan Bedanya!",
         "category": "Ameera",
-        "publish_time": "21-06-2024 08:48",
+        "publish_time": "21-06-2024 09:11",
         "news_link": "https://ameera.republika.co.id/berita/sff9t4425/usia-40an-berat-badan-tak-terkendali-atur-asupan-gula-dan-rasakan-bedanya"
     },
     {
         "title": "Rusia dan Korut Mesra Siap Saling Bantu Senjata, AS Kian Was-was",
         "category": "News",
-        "publish_time": "21-06-2024 08:39",
+        "publish_time": "21-06-2024 08:11",
         "news_link": "https://news.republika.co.id/berita/sff9ed377/rusia-dan-korut-mesra-siap-saling-bantu-senjata-as-kian-waswas"
     },
     {
         "title": "Status Virgoun Terkait Kasus Dugaan Narkoba Ditetapkan dalam 3x24 Jam",
         "category": "Ameera",
-        "publish_time": "21-06-2024 08:37",
+        "publish_time": "21-06-2024 08:11",
         "news_link": "https://ameera.republika.co.id/berita/sff9aa425/status-virgoun-terkait-kasus-dugaan-narkoba-ditetapkan-dalam-3x24-jam"
     },
     {
         "title": "Lakukan Customs Visit Customer, Bea Cukai Optimalkan Pelayanan kepada Pengguna Jasa",
         "category": "Beacukai",
-        "publish_time": "21-06-2024 08:36",
+        "publish_time": "21-06-2024 08:11",
         "news_link": "https://republika.co.id/berita/sff98x370/lakukan-customs-visit-customer-bea-cukai-optimalkan-pelayanan-kepada-pengguna-jasa"
     },
     {
         "title": "Pj Heru: Layanan Bus Transjakarta Jangkau 89,7 Persen Wilayah Jakarta",
         "category": "News",
-        "publish_time": "21-06-2024 08:35",
+        "publish_time": "21-06-2024 08:11",
         "news_link": "https://news.republika.co.id/berita/sff97c484/pj-heru-layanan-bus-transjakarta-jangkau-897-persen-wilayah-jakarta"
     },
     {
         "title": "Penjualan Jet Tempur F-15 Amerika ke Israel Tuai Pro dan Kontra",
         "category": "Video",
-        "publish_time": "21-06-2024 08:33",
+        "publish_time": "21-06-2024 08:11",
         "news_link": "https://tv.republika.co.id/berita/sff94c467/penjualan-jet-tempur-f15-amerika-ke-israel-tuai-pro-dan-kontra"
     },
     {
         "title": "Bea Cukai Yogyakarta Fasilitasi CV Thasinda Putraprima dengan KITE IKM",
         "category": "Beacukai",
-        "publish_time": "21-06-2024 08:32",
+        "publish_time": "21-06-2024 08:11",
         "news_link": "https://republika.co.id/berita/sff91y370/bea-cukai-yogyakarta-fasilitasi-cv-thasinda-putraprima-dengan-kite-ikm"
     },
     {
         "title": "Mendagri Dorong Pemda Ajak Masyarakat Nonton Film Tokoh Nasional Lafran Pane",
         "category": "News",
-        "publish_time": "21-06-2024 08:29",
+        "publish_time": "21-06-2024 08:11",
         "news_link": "https://news.republika.co.id/berita/sff5as451/mendagri-dorong-pemda-ajak-masyarakat-nonton-film-tokoh-nasional-lafran-pane"
     },
     {
-        "title": "Buku 'KAESANG PANGAREP' Dibagikan Usai Kaesang Shalat Jumat di Kantor Muhammadiyah Jakarta",
+        "title": "Kemenkes-AZI Kerja Sama Peningkatan Pencegahan Penyakit tak Menular",
         "category": "News",
-        "publish_time": "21-06-2024 08:24",
-        "news_link": "https://news.republika.co.id/berita/sff8oo487/buku-kaesang-pangarep-dibagikan-usai-kaesang-shalat-jumat-di-kantor-muhammadiyah-jakarta"
+        "publish_time": "21-06-2024 08:11",
+        "news_link": "https://news.republika.co.id/berita/sffcgu318/kemenkesazi-kerja-sama-peningkatan-pencegahan-penyakit-tak-menular"
+    },
+    {
+        "title": "Buku 'KAESANG PANGAREP' Dibagikan Usai Kaesang Sholat Jumat di Kantor Muhammadiyah Jakarta",
+        "category": "News",
+        "publish_time": "21-06-2024 08:11",
+        "news_link": "https://news.republika.co.id/berita/sff8oo487/buku-kaesang-pangarep-dibagikan-usai-kaesang-sholat-jumat-di-kantor-muhammadiyah-jakarta"
     },
     {
         "title": "Anies Ingin kembalikan Jakarta Sebagai Kota yang Bahagiakan Warga",
         "category": "News",
-        "publish_time": "21-06-2024 08:21",
+        "publish_time": "21-06-2024 08:11",
         "news_link": "https://news.republika.co.id/berita/sff8jz377/anies-ingin-kembalikan-jakarta-sebagai-kota-yang-bahagiakan-warga"
     },
     {
         "title": "Pepaya Buah Manis Kaya Manfaat, Bantu Turunkan Kolesterol Jahat",
         "category": "Ameera",
-        "publish_time": "21-06-2024 08:20",
+        "publish_time": "21-06-2024 08:11",
         "news_link": "https://ameera.republika.co.id/berita/sff8ij425/pepaya-buah-manis-kaya-manfaat-bantu-turunkan-kolesterol-jahat"
     },
     {
         "title": "Kemenlu AS Kecam Putin Terkait Kirim Senjata ke Korut",
         "category": "News",
-        "publish_time": "21-06-2024 08:19",
+        "publish_time": "21-06-2024 08:11",
         "news_link": "https://news.republika.co.id/berita/sff8gc484/kemenlu-as-kecam-putin-terkait-kirim-senjata-ke-korut"
     },
     {
-        "title": "Saat Utsman Bin Affan Dituding Mengubah Alquran Oleh Syiah dan Nasrani",
+        "title": "Saat Utsman Bin Affan Dituding Mengubah Alquran oleh Syiah dan Nasrani",
         "category": "Khazanah",
-        "publish_time": "21-06-2024 08:18",
+        "publish_time": "21-06-2024 08:11",
         "news_link": "https://khazanah.republika.co.id/berita/sff8e8320/saat-utsman-bin-affan-dituding-mengubah-alquran-oleh-syiah-dan-nasrani"
     },
     {
         "title": "Pertamina NRE Genjot Kapasitas Pembangkit Listrik Ramah Lingkungan",
         "category": "Esgnow",
-        "publish_time": "21-06-2024 08:14",
+        "publish_time": "21-06-2024 08:11",
         "news_link": "https://esgnow.republika.co.id/berita/sff4t8416/pertamina-nre-genjot-kapasitas-pembangkit-listrik-ramah-lingkungan"
     },
     {
         "title": "Kompetisi Olahraga Idol K-Pop ISAC Digelar Lagi Tahun Ini",
         "category": "Ameera",
-        "publish_time": "21-06-2024 08:12",
+        "publish_time": "21-06-2024 08:11",
         "news_link": "https://ameera.republika.co.id/berita/sff84l425/kompetisi-olahraga-idol-kpop-isac-digelar-lagi-tahun-ini"
     },
     {
@@ -172,131 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "21-06-2024 07:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sff6jt475/rupiah-belum-juga-meroket-sehari-setelah-presiden-dan-menteri-cs-rapat"
-    },
-    {
-        "title": "Kemenag: Jamaah Haji Kloter 01 Embarkasi Lombok Dijadwalkan Tiba 22 Juni",
-        "category": "Khazanah",
-        "publish_time": "21-06-2024 07:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sff2l0451/kemenag-jamaah-haji-kloter-01-embarkasi-lombok-dijadwalkan-tiba-22-juni"
-    },
-    {
-        "title": "Pentingnya Disiplin dalam Beribadah: Jadwal Sholat Hari Ini di Bekasi, 21 Juni 2024",
-        "category": "Khazanah",
-        "publish_time": "21-06-2024 07:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sff351430/pentingnya-disiplin-dalam-beribadah-jadwal-sholat-hari-ini-di-bekasi-21-juni-2024"
-    },
-    {
-        "title": "Staf Hasto Ngadu Lagi ke Dewas, KPK Jamin Ikuti Prosedur Penyitaan",
-        "category": "Khazanah",
-        "publish_time": "21-06-2024 07:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sff656377/staf-hasto-ngadu-lagi-ke-dewas-kpk-jamin-ikuti-prosedur-penyitaan"
-    },
-    {
-        "title": "Anies Buka Peluang untuk Bertemu Prabowo",
-        "category": "News",
-        "publish_time": "21-06-2024 07:11",
-        "news_link": "https://news.republika.co.id/berita/sff5me377/anies-buka-peluang-untuk-bertemu-prabowo"
-    },
-    {
-        "title": "Ini Cara Ampuh MIND ID Hadapi Dinamika Geopolitik dan Fluktuasi Harga Komoditas",
-        "category": "Ekonomi",
-        "publish_time": "21-06-2024 07:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sff5d4370/ini-cara-ampuh-mind-id-hadapi-dinamika-geopolitik-dan-fluktuasi-harga-komoditas"
-    },
-    {
-        "title": "Eks Tapol Jadi Anggota Golkar, Sarwono Bikin Pak Dhar Tertawa",
-        "category": "Network",
-        "publish_time": "21-06-2024 07:11",
-        "news_link": "https://oohya.republika.co.id/lincak/1744782253/eks-tapol-jadi-anggota-golkar-sarwono-bikin-pak-dhar-tertawa"
-    },
-    {
-        "title": "BEI Implementasikan Hasil Evaluasi Papan Pemantauan Khusus",
-        "category": "Ekonomi",
-        "publish_time": "21-06-2024 07:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sff53b370/bei-implementasikan-hasil-evaluasi-papan-pemantauan-khusus"
-    },
-    {
-        "title": "Polda Jabar Sebar Ribuan Paket Sembako ke Panti Asuhan Hingga Mahasiswa Perantau",
-        "category": "Rejabar",
-        "publish_time": "21-06-2024 07:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sff4yv512/polda-jabar-sebar-ribuan-paket-sembako-ke-panti-asuhan-hingga-mahasiswa-perantau"
-    },
-    {
-        "title": "Survei UNDP: Mayoritas Masyarakat RI Minta Pemerintah Perkuat Aksi Iklim",
-        "category": "Esgnow",
-        "publish_time": "21-06-2024 07:11",
-        "news_link": "https://esgnow.republika.co.id/berita/sff4bj416/survei-undp-mayoritas-masyarakat-ri-minta-pemerintah-perkuat-aksi-iklim"
-    },
-    {
-        "title": "Mercedes-Benz Luncurkan SUV Listrik Mewah di Indonesia, Harga Tembus Rp 2,85 Miliar",
-        "category": "Ekonomi",
-        "publish_time": "21-06-2024 06:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sff3pc349/mercedesbenz-luncurkan-suv-listrik-mewah-di-indonesia-harga-tembus-rp-285-miliar"
-    },
-    {
-        "title": "Israel Belum Menang, Serangan Taktis Hamas Buat Tentara Zionis Kelimpungan",
-        "category": "News",
-        "publish_time": "21-06-2024 06:11",
-        "news_link": "https://news.republika.co.id/berita/sff3bz377/israel-belum-menang-serangan-taktis-hamas-buat-tentara-zionis-kelimpungan"
-    },
-    {
-        "title": "Satgas PPKS Dorong Mahasiswi Korban Pencabulan Dosen Unram Lapor Polisi",
-        "category": "News",
-        "publish_time": "21-06-2024 06:11",
-        "news_link": "https://news.republika.co.id/berita/sff39m484/satgas-ppks-dorong-mahasiswi-korban-pencabulan-dosen-unram-lapor-polisi"
-    },
-    {
-        "title": "Universitas Mataram Pecat Dosen yang Terbukti Cabul ke Mahasiswi",
-        "category": "News",
-        "publish_time": "21-06-2024 06:11",
-        "news_link": "https://news.republika.co.id/berita/sff2ya484/universitas-mataram-pecat-dosen-yang-terbukti-cabul-ke-mahasiswi"
-    },
-    {
-        "title": "Doa Terhindar dari Serangan Hewan Buas",
-        "category": "Iqra",
-        "publish_time": "21-06-2024 06:11",
-        "news_link": "https://iqra.republika.co.id/berita/sff2x2430/doa-terhindar-dari-serangan-hewan-buas"
-    },
-    {
-        "title": "Virgoun dan Wanita Inisial PA Positif Sabu, Polisi Buru Pemasok Narkoba",
-        "category": "Ameera",
-        "publish_time": "21-06-2024 06:11",
-        "news_link": "https://ameera.republika.co.id/berita/sff2la425/virgoun-dan-wanita-inisial-pa-positif-sabu-polisi-buru-pemasok-narkoba"
-    },
-    {
-        "title": "Tantangan dan Kesempatan Perum Bulog untuk Jadi Pemimpin Rantai Pasok Pangan Tepercaya",
-        "category": "Network",
-        "publish_time": "21-06-2024 06:11",
-        "news_link": "https://ruzka.republika.co.id/ekonomi/1674782089/tantangan-dan-kesempatan-perum-bulog-untuk-jadi-pemimpin-rantai-pasok-pangan-tepercaya"
-    },
-    {
-        "title": "Disebut Polisi Imingi Saksi Pembunuhan Vina, Pengacara Saka Ungkap Fakta Sebenarnya",
-        "category": "News",
-        "publish_time": "21-06-2024 06:11",
-        "news_link": "https://news.republika.co.id/berita/sff29k377/disebut-polisi-imingi-saksi-pembunuhan-vina-pengacara-saka-ungkap-fakta-sebenarnya"
-    },
-    {
-        "title": "Ini Alasan TNI tak Kunjung Kirim Relawan Sipil ke Gaza untuk Misi Perdamaian",
-        "category": "News",
-        "publish_time": "21-06-2024 06:11",
-        "news_link": "https://news.republika.co.id/berita/sff265487/ini-alasan-tni-tak-kunjung-kirim-relawan-sipil-ke-gaza-untuk-misi-perdamaian"
-    },
-    {
-        "title": "Omoda E5 Jadi Mobil Listrik Terlaris di Indonesia Dua Bulan Berturut-Turut, Ini Sebabnya",
-        "category": "Ekonomi",
-        "publish_time": "21-06-2024 06:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sff21v349/omoda-e5-jadi-mobil-listrik-terlaris-di-indonesia-dua-bulan-berturutturut-ini-sebabnya"
-    },
-    {
-        "title": "PLN Andalkan Hidrogen Sebagai Energi Masa Depan",
-        "category": "Esgnow",
-        "publish_time": "21-06-2024 06:11",
-        "news_link": "https://esgnow.republika.co.id/berita/sfewp7416/pln-andalkan-hidrogen-sebagai-energi-masa-depan"
-    },
-    {
-        "title": "Kaesang Sambangi Kantor Muhamadiyah DKI untuk Sholat Jumat",
-        "category": "News",
-        "publish_time": "21-06-2024 06:11",
-        "news_link": "https://news.republika.co.id/berita/sff1w6451/kaesang-sambangi-kantor-muhamadiyah-dki-untuk-sholat-jumat"
     }
 ]
