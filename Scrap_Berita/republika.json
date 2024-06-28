@@ -1,5 +1,89 @@
 [
     {
+        "title": "Empat Jamaah Haji Asal Indramayu Wafat di Tanah Suci, Terbanyak di Jabar",
+        "category": "Rejabar",
+        "publish_time": "28-06-2024 11:08",
+        "news_link": "https://rejabar.republika.co.id/berita/sfseyj512/empat-jamaah-haji-asal-indramayu-wafat-di-tanah-suci-terbanyak-di-jabar"
+    },
+    {
+        "title": "Dubes Sebut Kabupaten Bekasi sebagai 'Kota Jepang'",
+        "category": "News",
+        "publish_time": "28-06-2024 11:07",
+        "news_link": "https://news.republika.co.id/berita/sfsexd458/dubes-sebut-kabupaten-bekasi-sebagai-kota-jepang"
+    },
+    {
+        "title": "Melangkah dalam Kedamaian: Jadwal Sholat Hari Ini, 28 Juni 2024, untuk Kota Tangerang",
+        "category": "Khazanah",
+        "publish_time": "28-06-2024 10:59",
+        "news_link": "https://khazanah.republika.co.id/berita/sfs95f430/melangkah-dalam-kedamaian-jadwal-sholat-hari-ini-28-juni-2024-untuk-kota-tangerang"
+    },
+    {
+        "title": "Pilu Warga Palestina, Hidup Tak Layak di Tenda Pengungsian",
+        "category": "Visual",
+        "publish_time": "28-06-2024 10:59",
+        "news_link": "https://visual.republika.co.id/berita/sfsd7q375/pilu-warga-palestina-hidup-tak-layak-di-tenda-pengungsian"
+    },
+    {
+        "title": "Biznet Operasikan Kabel Bawal Laut Biznet Nusantara Cable System-1 (BNCS-1)",
+        "category": "Ekonomi",
+        "publish_time": "28-06-2024 10:58",
+        "news_link": "https://ekonomi.republika.co.id/berita/sfsehu423/biznet-operasikan-kabel-bawal-laut-biznet-nusantara-cable-system1-bncs1"
+    },
+    {
+        "title": "Piyu dan Ahmad Dhani Keberatan tak Dilibatkan dalam Perumusan Perizinan Event Online",
+        "category": "Ameera",
+        "publish_time": "28-06-2024 10:56",
+        "news_link": "https://ameera.republika.co.id/berita/sfsee1425/piyu-dan-ahmad-dhani-keberatan-tak-dilibatkan-dalam-perumusan-perizinan-event-online"
+    },
+    {
+        "title": "Asdamindo Gelar Seminar & Pelatihan Pengelolaan Bisnis Depot Air Minum Berbasis Perlindungan Konsumen",
+        "category": "Network",
+        "publish_time": "28-06-2024 10:51",
+        "news_link": "https://ruzka.republika.co.id/ekonomi/1674807218/asdamindo-gelar-seminar-pelatihan-pengelolaan-bisnis-depot-air-minum-berbasis-perlindungan-konsumen"
+    },
+    {
+        "title": "Melacak Jejak Syiar Islam di Maluku",
+        "category": "Khazanah",
+        "publish_time": "28-06-2024 10:45",
+        "news_link": "https://khazanah.republika.co.id/berita/sfsdwj458/melacak-jejak-syiar-islam-di-maluku"
+    },
+    {
+        "title": "Mahasiswa Prodi Bisnis Digital Cyber University Raih Pendanaan PKM-AI",
+        "category": "News",
+        "publish_time": "28-06-2024 10:37",
+        "news_link": "https://news.republika.co.id/berita/sfsdi5423/mahasiswa-prodi-bisnis-digital-cyber-university-raih-pendanaan-pkmai"
+    },
+    {
+        "title": "Trump Sebut Biden Orang Palestina yang Buruk",
+        "category": "Khazanah",
+        "publish_time": "28-06-2024 10:32",
+        "news_link": "https://khazanah.republika.co.id/berita/sfsdar483/trump-sebut-biden-orang-palestina-yang-buruk"
+    },
+    {
+        "title": "Mendag Usul HET MinyaKita Naik Jadi Rp 15.700 per Liter",
+        "category": "Ekonomi",
+        "publish_time": "28-06-2024 10:31",
+        "news_link": "https://ekonomi.republika.co.id/berita/sfsd8s416/mendag-usul-het-minyakita-naik-jadi-rp-15700-per-liter"
+    },
+    {
+        "title": "Liburan Sekolah Seru! Ajak Buah Hati Nikmati Atraksi Sirkus di Trans Studio Cibubur",
+        "category": "Ameera",
+        "publish_time": "28-06-2024 10:28",
+        "news_link": "https://ameera.republika.co.id/berita/sfsd47425/liburan-sekolah-seru-ajak-buah-hati-nikmati-atraksi-sirkus-di-trans-studio-cibubur"
+    },
+    {
+        "title": "Rekrut Selebgram untuk Promosikan Judi Online, Kakak Beradik Ditangkap Polisi",
+        "category": "Visual",
+        "publish_time": "28-06-2024 10:26",
+        "news_link": "https://visual.republika.co.id/berita/sfsczu375/rekrut-selebgram-untuk-promosikan-judi-online-kakak-beradik-ditangkap-polisi"
+    },
+    {
+        "title": "50 Jamaah Haji dari Embarkasi Solo Wafat",
+        "category": "Khazanah",
+        "publish_time": "28-06-2024 10:20",
+        "news_link": "https://khazanah.republika.co.id/berita/sfs9c8430/50-jamaah-haji-dari-embarkasi-solo-wafat"
+    },
+    {
         "title": "MedcoEnergi Bagi Dividen Final Tahun Buku 2023, Cair Rp 745 Miliar",
         "category": "Ekonomi",
         "publish_time": "28-06-2024 10:11",
@@ -8,295 +92,211 @@
     {
         "title": "Meriahkan Ultah Ke-8 di Indonesia, CATCHPLAY Beri Penawaran Spesial dan Iming-Iming Logam Mulia",
         "category": "Network",
-        "publish_time": "28-06-2024 10:09",
+        "publish_time": "28-06-2024 10:10",
         "news_link": "https://cari.republika.co.id/posts/316217/meriahkan-ultah-ke-8-di-indonesia-catchplay-beri-penawaran-spesial-dan-iming-iming-logam-mulia"
     },
     {
         "title": "Muhammadiyah Dukung Irman Gusman, Buya Anwar: Sosok yang Pas",
         "category": "News",
-        "publish_time": "28-06-2024 10:06",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://news.republika.co.id/berita/sfrrti318/muhammadiyah-dukung-irman-gusman-buya-anwar-sosok-yang-pas"
     },
     {
         "title": "Jangan Sembarangan! Ini Waktu dan Tempat Bagi Pasutri untuk Berhubungan Menurut Alquran",
         "category": "Khazanah",
-        "publish_time": "28-06-2024 10:04",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://khazanah.republika.co.id/berita/sfsc0d483/jangan-sembarangan-ini-waktu-dan-tempat-bagi-pasutri-untuk-berhubungan-menurut-alquran"
     },
     {
         "title": "Perkuat Rantai Pasok, Prodia Beli 39 Persen Saham Proline",
         "category": "Ekonomi",
-        "publish_time": "28-06-2024 10:01",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://ekonomi.republika.co.id/berita/sfsbvw370/perkuat-rantai-pasok-prodia-beli-39-persen-saham-proline"
     },
     {
         "title": "Sebelum Khadijah, Siapa Perempuan di Hati Rasulullah?",
         "category": "Khazanah",
-        "publish_time": "28-06-2024 09:59",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://khazanah.republika.co.id/berita/sfsbsj458/sebelum-khadijah-siapa-perempuan-di-hati-rasulullah"
     },
     {
         "title": "Ilmuwan Ungkap Penyebab Panas Ekstrem Selama Musim Haji",
         "category": "Esgnow",
-        "publish_time": "28-06-2024 09:59",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://esgnow.republika.co.id/berita/sfs83n416/ilmuwan-ungkap-penyebab-panas-ekstrem-selama-musim-haji"
     },
     {
         "title": "Ekspresi Biden dan Trump dalam Debat Perdana",
         "category": "Visual",
-        "publish_time": "28-06-2024 09:59",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://visual.republika.co.id/berita/sfs9z0375/ekspresi-biden-dan-trump-dalam-debat-perdana"
     },
     {
         "title": "Mengapa Anda Harus Menghabiskan Waktu Berkualitas dengan Diri Sendiri",
         "category": "Retizen",
-        "publish_time": "28-06-2024 09:58",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://retizen.republika.co.id/posts/316216/mengapa-anda-harus-menghabiskan-waktu-berkualitas-dengan-diri-sendiri"
     },
     {
         "title": "Seminar Pariwisata Universitas BSI Yogyakarta Bakal Kupas Tuntas Sinergi DuDi dan Akademis",
         "category": "News",
-        "publish_time": "28-06-2024 09:58",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://news.republika.co.id/berita/sfsbpx423/seminar-pariwisata-universitas-bsi-yogyakarta-bakal-kupas-tuntas-sinergi-dudi-dan-akademis"
     },
     {
         "title": "Militer Hizbullah yang Diakui Komite Yahudi dan Potensi Perang Dahsyat Lawan Zionis Israel",
         "category": "News",
-        "publish_time": "28-06-2024 09:55",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://news.republika.co.id/berita/sfsbkg320/militer-hizbullah-yang-diakui-komite-yahudi-dan-potensi-perang-dahsyat-lawan-zionis-israel"
     },
     {
         "title": "BYD Seal Meluncur di Jepang, Ini Bedanya  dengan Versi di Indonesia",
         "category": "Network",
-        "publish_time": "28-06-2024 09:54",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://motoresto.id/posts/316082/byd-seal-meluncur-di-jepang-ini-bedanya-dengan-versi-di-indonesia"
     },
     {
         "title": "Melihat Kegigihan Lansia Ikuti Evakuasi Mandiri di Kaki Gunungapi Merapi",
         "category": "Network",
-        "publish_time": "28-06-2024 09:53",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://topnews62.com/posts/316212/melihat-kegigihan-lansia-ikuti-evakuasi-mandiri-di-kaki-gunungapi-merapi"
     },
     {
         "title": "Fenomena Pergeseran Kata dalam Chat Whatsapp Anak Muda Indonesia",
         "category": "Retizen",
-        "publish_time": "28-06-2024 09:52",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://retizen.republika.co.id/posts/316206/fenomena-pergeseran-kata-dalam-chat-whatsapp-anak-muda-indonesia"
     },
     {
         "title": "Pentingnya Menjaga Kualitas Ibadah: Jadwal Sholat Hari Ini di Depok",
         "category": "Khazanah",
-        "publish_time": "28-06-2024 09:50",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://khazanah.republika.co.id/berita/sfs8ow430/pentingnya-menjaga-kualitas-ibadah-jadwal-sholat-hari-ini-di-depok"
     },
     {
         "title": "Berburu Berkah Rasulullah SAW",
         "category": "Khazanah",
-        "publish_time": "28-06-2024 09:48",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://khazanah.republika.co.id/berita/sfsb9m458/berburu-berkah-rasulullah-saw"
     },
     {
         "title": "Menelaah Filsafat Politik",
         "category": "Retizen",
-        "publish_time": "28-06-2024 09:45",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://retizen.republika.co.id/posts/316171/menelaah-filsafat-politik"
     },
     {
         "title": "Kemenkeu Laporkan APBN Defisit, Penerimaan Negara Merosot, Berbahayakah?",
         "category": "Ekonomi",
-        "publish_time": "28-06-2024 09:45",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://ekonomi.republika.co.id/berita/sfsb4p423/kemenkeu-laporkan-apbn-defisit-penerimaan-negara-merosot-berbahayakah"
     },
     {
         "title": "Cara Mengobati Gejala Pneumonia pada Anak",
         "category": "Retizen",
-        "publish_time": "28-06-2024 09:42",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://retizen.republika.co.id/posts/316182/cara-mengobati-gejala-pneumonia-pada-anak"
     },
     {
         "title": "Pengertian Ruang Sensori Integrasi Anak",
         "category": "Retizen",
-        "publish_time": "28-06-2024 09:41",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://retizen.republika.co.id/posts/316148/pengertian-ruang-sensori-integrasi-anak"
     },
     {
         "title": "PKB Sebut Hingga Kini Belum Ada Pembahasan Nama Risma Jadi Bakal Cagub Jatim",
         "category": "News",
-        "publish_time": "28-06-2024 09:40",
+        "publish_time": "28-06-2024 10:09",
         "news_link": "https://news.republika.co.id/berita/sfsaw0409/pkb-sebut-hingga-kini-belum-ada-pembahasan-nama-risma-jadi-bakal-cagub-jatim"
     },
     {
         "title": "Surat Tuntutan SYL Setebal 1.576 Halaman",
         "category": "News",
-        "publish_time": "28-06-2024 09:35",
+        "publish_time": "28-06-2024 09:09",
         "news_link": "https://news.republika.co.id/berita/sfsao3377/surat-tuntutan-syl-setebal-1576-halaman"
     },
     {
         "title": "Tumbuh Positif, Pendapatan Hotel Sahid Jaya Naik 47,51 Persen",
         "category": "Ekonomi",
-        "publish_time": "28-06-2024 09:34",
+        "publish_time": "28-06-2024 09:09",
         "news_link": "https://ekonomi.republika.co.id/berita/sfsaln423/tumbuh-positif-pendapatan-hotel-sahid-jaya-naik-4751-persen"
     },
     {
         "title": "UNSIA Gelar Wisuda Perdana dengan Teknologi Metaverse dan Virtual Reality",
         "category": "News",
-        "publish_time": "28-06-2024 09:33",
+        "publish_time": "28-06-2024 09:09",
         "news_link": "https://news.republika.co.id/berita/sfsake320/unsia-gelar-wisuda-perdana-dengan-teknologi-metaverse-dan-virtual-reality"
     },
     {
         "title": "Nasdem Undang Prabowo ke Kongres, Tawarkan Kerja Pemerintah Hingga Konsolidasi Pilkada",
         "category": "News",
-        "publish_time": "28-06-2024 09:30",
+        "publish_time": "28-06-2024 09:09",
         "news_link": "https://news.republika.co.id/berita/sfsafl377/nasdem-undang-prabowo-ke-kongres-tawarkan-kerja-pemerintah-hingga-konsolidasi-pilkada"
     },
     {
         "title": "Lakukan Kejahatan Siber, 103 Warga Taiwan Ditangkap di Bali",
         "category": "Visual",
-        "publish_time": "28-06-2024 09:29",
+        "publish_time": "28-06-2024 09:09",
         "news_link": "https://visual.republika.co.id/berita/sfs9if375/lakukan-kejahatan-siber-103-warga-taiwan-ditangkap-di-bali"
     },
     {
         "title": "Fitur Asuransi Ini Membantu Anda Tunaikan Ibadah Haji",
         "category": "Ekonomi",
-        "publish_time": "28-06-2024 09:22",
+        "publish_time": "28-06-2024 09:09",
         "news_link": "https://ekonomi.republika.co.id/berita/sfsa2d423/fitur-asuransi-ini-membantu-anda-tunaikan-ibadah-haji"
     },
     {
         "title": "Sosiolog Ungkap Penyebab Meningkatnya Tren Tawuran Pelajar di Padang",
         "category": "News",
-        "publish_time": "28-06-2024 09:18",
+        "publish_time": "28-06-2024 09:09",
         "news_link": "https://news.republika.co.id/berita/sfs9vt487/sosiolog-ungkap-penyebab-meningkatnya-tren-tawuran-pelajar-di-padang"
     },
     {
         "title": "Bea Cukai Tanjungpinang Musnahkan Barang Ilegal Bernilai Miliaran Rupiah",
         "category": "Beacukai",
-        "publish_time": "28-06-2024 09:17",
+        "publish_time": "28-06-2024 09:09",
         "news_link": "https://republika.co.id/berita/sfs9u3423/bea-cukai-tanjungpinang-musnahkan-barang-ilegal-bernilai-miliaran-rupiah"
     },
     {
         "title": "Tandatangani PKS Penyertaan Modal, Selangkah Lagi Bank Jambi Jadi Anggota KUB Bank Bjb",
         "category": "Ekonomi",
-        "publish_time": "28-06-2024 09:14",
+        "publish_time": "28-06-2024 09:09",
         "news_link": "https://ekonomi.republika.co.id/berita/sfs9ol423/tandatangani-pks-penyertaan-modal-selangkah-lagi-bank-jambi-jadi-anggota-kub-bank-bjb"
     },
     {
         "title": "Bocoran Info dari PKS yang Sampai Harus Diklarifikasi Kaesang dan Istana",
         "category": "News",
-        "publish_time": "28-06-2024 09:12",
+        "publish_time": "28-06-2024 09:09",
         "news_link": "https://news.republika.co.id/berita/sfs9lc409/bocoran-info-dari-pks-yang-sampai-harus-diklarifikasi-kaesang-dan-istana"
     },
     {
         "title": "PDN Diserang Ransomware, BPJPH: Sihalal Kini Sudah Normal",
         "category": "Khazanah",
-        "publish_time": "28-06-2024 09:11",
+        "publish_time": "28-06-2024 09:09",
         "news_link": "https://khazanah.republika.co.id/berita/sfs9ji458/pdn-diserang-ransomware-bpjph-sihalal-kini-sudah-normal"
     },
     {
         "title": "Rektor UMJ Sambut Kunjungan Wakil Menteri Pendidikan Tinggi Malaysia",
         "category": "Visual",
-        "publish_time": "28-06-2024 09:11",
+        "publish_time": "28-06-2024 09:09",
         "news_link": "https://visual.republika.co.id/berita/sfs9bl375/rektor-umj-sambut-kunjungan-wakil-menteri-pendidikan-tinggi-malaysia"
     },
     {
         "title": "17 Orang Ditangkap karena Upaya Kudeta di Bolivia",
         "category": "News",
-        "publish_time": "28-06-2024 09:11",
+        "publish_time": "28-06-2024 09:09",
         "news_link": "https://news.republika.co.id/berita/sfs997456/17-orang-ditangkap-karena-upaya-kudeta-di-bolivia"
     },
     {
         "title": "Kemendikbudristek Lepas 281 Mahasiswa Internasional Program Darmasiswa RI 2023/2024",
         "category": "News",
-        "publish_time": "28-06-2024 09:11",
+        "publish_time": "28-06-2024 09:09",
         "news_link": "https://news.republika.co.id/berita/sfs98m423/kemendikbudristek-lepas-281-mahasiswa-internasional-program-darmasiswa-ri-20232024"
     },
     {
         "title": "PPDB Tahap II SMA/SMK di Depok Telah Berakhir, Berikut Cara Cek Pengumuman dan Jadwalnya",
         "category": "Network",
-        "publish_time": "28-06-2024 09:11",
+        "publish_time": "28-06-2024 09:09",
         "news_link": "https://ruzka.republika.co.id/sekolah/1674806852/ppdb-tahap-ii-smasmk-di-depok-telah-berakhir-berikut-cara-cek-pengumuman-dan-jadwalnya"
-    },
-    {
-        "title": "30 Penyandang Difabel Daksa Mendapat Pembekalan Digital Marketing",
-        "category": "News",
-        "publish_time": "28-06-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sfs962320/30-penyandang-difabel-daksa-mendapat-pembekalan-digital-marketing"
-    },
-    {
-        "title": "DPRD Jawa Barat Dukung Langkah Pj Gubernur Jabar dalam Upaya Pembenahan BUMD",
-        "category": "Rejabar",
-        "publish_time": "28-06-2024 09:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sfs913423/dprd-jawa-barat-dukung-langkah-pj-gubernur-jabar-dalam-upaya-pembenahan-bumd"
-    },
-    {
-        "title": "BMKG Ungkap Suhu Perkotaan Indonesia Kian Panas, Ini Penyebabnya",
-        "category": "Esgnow",
-        "publish_time": "28-06-2024 09:11",
-        "news_link": "https://esgnow.republika.co.id/berita/sfs44w416/bmkg-ungkap-suhu-perkotaan-indonesia-kian-panas-ini-penyebabnya"
-    },
-    {
-        "title": "Tak Hanya Jamaah Reguler, KKHI Juga Layani Haji Khusus dan Furada",
-        "category": "Khazanah",
-        "publish_time": "28-06-2024 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sfs8ut483/tak-hanya-jamaah-reguler-kkhi-juga-layani-haji-khusus-dan-furada"
-    },
-    {
-        "title": "Jika Ada Golongan Masuk Surga tanpa Hisab Begitu Juga Neraka, Siapa Mereka?",
-        "category": "Khazanah",
-        "publish_time": "28-06-2024 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sfs8uf320/jika-ada-golongan-masuk-surga-tanpa-hisab-begitu-juga-neraka-siapa-mereka"
-    },
-    {
-        "title": "KPAI Minta Anggota Polisi Terlibat Penganiayaan Anak 13 Tahun Dijerat UU Perlindungan Anak",
-        "category": "News",
-        "publish_time": "28-06-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sfs8tu487/kpai-minta-anggota-polisi-terlibat-penganiayaan-anak-13-tahun-dijerat-uu-perlindungan-anak"
-    },
-    {
-        "title": "Tanda Kiamat: Urusan Diserahkan bukan pada Ahlinya",
-        "category": "Khazanah",
-        "publish_time": "28-06-2024 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sfs8qr458/tanda-kiamat-urusan-diserahkan-bukan-pada-ahlinya"
-    },
-    {
-        "title": "Kolaborasi Ulama-Umara Dinilai Bisa Harmonisasi Penyelenggaraan Negara",
-        "category": "Rejogja",
-        "publish_time": "28-06-2024 09:11",
-        "news_link": "https://rejogja.republika.co.id/berita/sfs8pf291/kolaborasi-ulamaumara-dinilai-bisa-harmonisasi-penyelenggaraan-negara"
-    },
-    {
-        "title": "Kuasa Hukum Pegi Tolak Rekonstruksi Kasus Vina, Ini Alasannya",
-        "category": "Rejabar",
-        "publish_time": "28-06-2024 09:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sfs8no512/kuasa-hukum-pegi-tolak-rekonstruksi-kasus-vina-ini-alasannya"
-    },
-    {
-        "title": "Penghuni Masjid Tenda Gaza dan Cita-Cita Syahid Bersama Alquran",
-        "category": "Khazanah",
-        "publish_time": "28-06-2024 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sfs7fv483/penghuni-masjid-tenda-gaza-dan-citacita-syahid-bersama-alquran"
-    },
-    {
-        "title": "Unair Buka Empat Seleksi Mandiri 2024 (SMUA 2024), Cek Jadwal Lengkapnya",
-        "category": "Network",
-        "publish_time": "28-06-2024 09:11",
-        "news_link": "https://kampus.republika.co.id/info-kampus/1624806776/unair-buka-empat-seleksi-mandiri-2024-smua-2024-cek-jadwal-lengkapnya"
-    },
-    {
-        "title": "Luncurkan Buku Ketujuh Bersama PFI Jogja, Regina Safri Tularkan Virus Peduli Alam",
-        "category": "Rejogja",
-        "publish_time": "28-06-2024 08:11",
-        "news_link": "https://rejogja.republika.co.id/berita/sfs809291/luncurkan-buku-ketujuh-bersama-pfi-jogja-regina-safri-tularkan-virus-peduli-alam"
-    },
-    {
-        "title": "Kaesang Marah Jokowi 'Disenggol': PKS Mungkin Hendak Menutup Pintu Koalisi dengan PSI",
-        "category": "News",
-        "publish_time": "28-06-2024 08:11",
-        "news_link": "https://news.republika.co.id/berita/sfs7jy487/kaesang-marah-jokowi-disenggol-pks-mungkin-hendak-menutup-pintu-koalisi-dengan-psi"
-    },
-    {
-        "title": "Nakes Puskesmas di Depok Dilatih Konseling Menyusui",
-        "category": "Network",
-        "publish_time": "28-06-2024 08:11",
-        "news_link": "https://ruzka.republika.co.id/edukasi/1674806695/nakes-puskesmas-di-depok-dilatih-konseling-menyusui"
     }
 ]
