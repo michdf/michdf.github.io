@@ -1,128 +1,260 @@
 [
     {
+        "title": "Masuk Radar Demokrat untuk Jadi Bakal Cagub Jakarta, Ini Respons Pj Heru Budi",
+        "category": "News",
+        "publish_time": "01-07-2024 04:11",
+        "news_link": "https://news.republika.co.id/berita/sfxfn6409/masuk-radar-demokrat-untuk-jadi-bakal-cagub-jakarta-ini-respons-pj-heru-budi"
+    },
+    {
+        "title": "Pj Gubernur Jabar Bey Minta Bupati/Wali Kota Cari Cara Agar Wisatawan Berlibur Lebih Lama",
+        "category": "Rejabar",
+        "publish_time": "01-07-2024 04:06",
+        "news_link": "https://rejabar.republika.co.id/berita/sfxff8512/pj-gubernur-jabar-bey-minta-bupatiwali-kota-cari-cara-agar-wisatawan-berlibur-lebih-lama"
+    },
+    {
+        "title": "RI Kutuk Rencana Pembangunan Lima Pos Pemukiman Yahudi di Tepi Barat",
+        "category": "Khazanah",
+        "publish_time": "01-07-2024 04:06",
+        "news_link": "https://khazanah.republika.co.id/berita/sfxfep483/ri-kutuk-rencana-pembangunan-lima-pos-pemukiman-yahudi-di-tepi-barat"
+    },
+    {
+        "title": "Perluas Jaringan Dealer, Sea-Doo Can-Am Indonesia Buka Cabang ke-10 di PIK",
+        "category": "Ekonomi",
+        "publish_time": "01-07-2024 04:06",
+        "news_link": "https://ekonomi.republika.co.id/berita/sfxfee349/perluas-jaringan-dealer-seadoo-canam-indonesia-buka-cabang-ke10-di-pik"
+    },
+    {
+        "title": "Betah di Level 7.000, IHSG Masih Berpeluang Menguat",
+        "category": "Ekonomi",
+        "publish_time": "01-07-2024 04:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/sfxfe0490/betah-di-level-7000-ihsg-masih-berpeluang-menguat"
+    },
+    {
+        "title": "UEFA Pangkas Penerbangan Euro 2024 demi Tekan Emisi Karbon",
+        "category": "Esgnow",
+        "publish_time": "01-07-2024 03:59",
+        "news_link": "https://esgnow.republika.co.id/berita/sfxdc6416/uefa-pangkas-penerbangan-euro-2024-demi-tekan-emisi-karbon"
+    },
+    {
+        "title": "Siapa Anggota Shichibukai yang Punya Kemampuan Terkuat? Ini Peringkatnya (Bagian 2)",
+        "category": "Network",
+        "publish_time": "01-07-2024 03:56",
+        "news_link": "https://ibuwarung.republika.co.id/anime/1724814703/siapa-anggota-shichibukai-yang-punya-kemampuan-terkuat-ini-peringkatnya-bagian-2"
+    },
+    {
+        "title": "Cara Terbaik Pakai Lensa Kontak Agar Mata Bebas Iritasi",
+        "category": "Ameera",
+        "publish_time": "01-07-2024 03:49",
+        "news_link": "https://ameera.republika.co.id/berita/sfxene425/cara-terbaik-pakai-lensa-kontak-agar-mata-bebas-iritasi"
+    },
+    {
+        "title": "Hakikat Harta yang Sebenarnya",
+        "category": "Retizen",
+        "publish_time": "01-07-2024 03:47",
+        "news_link": "https://retizen.republika.co.id/posts/316559/hakikat-harta-yang-sebenarnya"
+    },
+    {
+        "title": "Periode Klasik Islam",
+        "category": "Retizen",
+        "publish_time": "01-07-2024 03:47",
+        "news_link": "https://retizen.republika.co.id/posts/316561/periode-klasik-islam"
+    },
+    {
+        "title": "Naik Haji pada Masa Penjajahan",
+        "category": "News",
+        "publish_time": "01-07-2024 03:45",
+        "news_link": "https://www.republika.id/posts/53653/naik-haji-pada-masa-penjajahan"
+    },
+    {
+        "title": "PDIP Buka Peluang Koalisi dengan Gerindra dan PKB Hadapi Pilkada 2024, Termasuk Jateng",
+        "category": "News",
+        "publish_time": "01-07-2024 03:45",
+        "news_link": "https://news.republika.co.id/berita/sfxefi409/pdip-buka-peluang-koalisi-dengan-gerindra-dan-pkb-hadapi-pilkada-2024-termasuk-jateng"
+    },
+    {
+        "title": "Menempa Integrasi Bangsa",
+        "category": "Retizen",
+        "publish_time": "01-07-2024 03:39",
+        "news_link": "https://retizen.republika.co.id/posts/316635/menempa-integrasi-bangsa"
+    },
+    {
+        "title": "Polisi Tangkap Terduga Pelaku Mutilasi di Garut",
+        "category": "Rejabar",
+        "publish_time": "01-07-2024 03:39",
+        "news_link": "https://rejabar.republika.co.id/berita/sfxe5q512/polisi-tangkap-terduga-pelaku-mutilasi-di-garut"
+    },
+    {
+        "title": "Sidang Praperadilan, Kuasa Hukum Pegi Setiawan Bacakan Gugatan Bicara Soal Hak Asasi",
+        "category": "Rejabar",
+        "publish_time": "01-07-2024 03:35",
+        "news_link": "https://rejabar.republika.co.id/berita/sfxdzp512/sidang-praperadilan-kuasa-hukum-pegi-setiawan-bacakan-gugatan-bicara-soal-hak-asasi"
+    },
+    {
+        "title": "Sebelum Dipakai, Gelar Haji Harus Diuji Dulu di Era Belanda",
+        "category": "Khazanah",
+        "publish_time": "01-07-2024 03:32",
+        "news_link": "https://khazanah.republika.co.id/berita/sfxdtl430/sebelum-dipakai-gelar-haji-harus-diuji-dulu-di-era-belanda"
+    },
+    {
+        "title": "Komik Republika Si Calus 'Bukan Judi'",
+        "category": "Visual",
+        "publish_time": "01-07-2024 03:29",
+        "news_link": "https://visual.republika.co.id/berita/sfxdig375/komik-republika-si-calus-bukan-judi"
+    },
+    {
+        "title": "Ketum PBNU: Aceh Harus Menjadi Serambi Indonesia",
+        "category": "Khazanah",
+        "publish_time": "01-07-2024 03:28",
+        "news_link": "https://khazanah.republika.co.id/berita/sfxdeo430/ketum-pbnu-aceh-harus-menjadi-serambi-indonesia"
+    },
+    {
+        "title": "Presiden Jokowi Selamat Ucapkan HUT Ke-78 Polri",
+        "category": "News",
+        "publish_time": "01-07-2024 03:23",
+        "news_link": "https://news.republika.co.id/berita/sfxdg3484/presiden-jokowi-selamat-ucapkan-hut-ke78-polri"
+    },
+    {
+        "title": "Hikmah Kebersamaan: Jadwal Sholat Hari dini di Bogor",
+        "category": "Khazanah",
+        "publish_time": "01-07-2024 03:19",
+        "news_link": "https://khazanah.republika.co.id/berita/sfxd7w430/hikmah-kebersamaan-jadwal-sholat-hari-dini-di-bogor"
+    },
+    {
+        "title": "Kisah Nyata Mencengangkan: Pramugari India Sembunyikan Emas 1 Kg di Anus, Ini Bahayanya",
+        "category": "Ameera",
+        "publish_time": "01-07-2024 03:15",
+        "news_link": "https://ameera.republika.co.id/berita/sfxd1l425/kisah-nyata-mencengangkan-pramugari-india-sembunyikan-emas-1-kg-di-anus-ini-bahayanya"
+    },
+    {
+        "title": "Komisioner KPI Aceh Minta Wamenkominfo Blokir Aplikasi Judi Online untuk Wilayah Aceh",
+        "category": "Network",
+        "publish_time": "01-07-2024 03:13",
+        "news_link": "https://rumahberkah.republika.co.id/posts/316002/komisioner-kpi-aceh-minta-wamenkominfo-blokir-aplikasi-judi-online-untuk-wilayah-aceh"
+    },
+    {
         "title": "PosIND Kenalkan Aplikasi Pospay dan Prangko Prisma di PLN Mobile Color Run 2024",
         "category": "Network",
-        "publish_time": "01-07-2024 03:10",
+        "publish_time": "01-07-2024 03:13",
         "news_link": "https://rumahberkah.republika.co.id/posts/316693/posind-kenalkan-aplikasi-pospay-dan-prangko-prisma-di-pln-mobile-color-run-2024"
     },
     {
         "title": "Polda Jabar Akhirnya Muncul di Sidang Praperadilan Pegi Setuawan",
         "category": "News",
-        "publish_time": "01-07-2024 03:03",
+        "publish_time": "01-07-2024 03:13",
         "news_link": "https://news.republika.co.id/berita/sfxcgv484/polda-jabar-akhirnya-muncul-di-sidang-praperadilan-pegi-setuawan"
     },
     {
         "title": "Ketum PP GP Ansor: Kader Harus Tingkatkan Kualitas SDM",
         "category": "Network",
-        "publish_time": "01-07-2024 03:00",
+        "publish_time": "01-07-2024 03:13",
         "news_link": "https://rumahberkah.republika.co.id/posts/316691/ketum-pp-gp-ansor-kader-harus-tingkatkan-kualitas-sdm"
     },
     {
         "title": "Harga Emas Antam Turun Rp 2.000 per Gram Hari Ini",
         "category": "Ekonomi",
-        "publish_time": "01-07-2024 02:58",
+        "publish_time": "01-07-2024 03:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sfxc8f490/harga-emas-antam-turun-rp-2000-per-gram-hari-ini"
     },
     {
         "title": "Kejamnya Israel yang Bunuh Ratusan Penyandang Disabilitas di Gaza",
         "category": "Khazanah",
-        "publish_time": "01-07-2024 02:57",
+        "publish_time": "01-07-2024 03:13",
         "news_link": "https://khazanah.republika.co.id/berita/sfxc6z483/kejamnya-israel-yang-bunuh-ratusan-penyandang-disabilitas-di-gaza"
     },
     {
         "title": "Aktor Morgan Freeman Geram Suaranya Ditiru AI, Singgung Soal Penipuan",
         "category": "Ameera",
-        "publish_time": "01-07-2024 02:49",
+        "publish_time": "01-07-2024 03:13",
         "news_link": "https://ameera.republika.co.id/berita/sfxbuf425/aktor-morgan-freeman-geram-suaranya-ditiru-ai-singgung-soal-penipuan"
     },
     {
         "title": "Perang di Depan Mata, Dua Ribu Rudal Hizbullah Mampu Jangkau Tel Aviv dalam Dua Jam",
         "category": "Khazanah",
-        "publish_time": "01-07-2024 02:47",
+        "publish_time": "01-07-2024 03:13",
         "news_link": "https://khazanah.republika.co.id/berita/sfxbq3483/perang-di-depan-mata-dua-ribu-rudal-hizbullah-mampu-jangkau-tel-aviv-dalam-dua-jam"
     },
     {
         "title": "Hasto Kristiyanto Siap Diperiksa KPK Lagi Terkait Kasus Harun Masiku",
         "category": "News",
-        "publish_time": "01-07-2024 02:46",
+        "publish_time": "01-07-2024 03:13",
         "news_link": "https://news.republika.co.id/berita/sfxbow484/hasto-kristiyanto-siap-diperiksa-kpk-lagi-terkait-kasus-harun-masiku"
     },
     {
         "title": "Inilah Daftar Harga BBM per 1 Juli",
         "category": "Network",
-        "publish_time": "01-07-2024 02:43",
+        "publish_time": "01-07-2024 02:13",
         "news_link": "https://ruzkaindonesia.id/posts/316673/inilah-daftar-harga-bbm-per-1-juli"
     },
     {
         "title": "Menang Telak atas Georgia, Spanyol Melaju Ke Perempat Final",
         "category": "Visual",
-        "publish_time": "01-07-2024 02:43",
+        "publish_time": "01-07-2024 02:13",
         "news_link": "https://visual.republika.co.id/berita/sfxbk7375/menang-telak-atas-georgia-spanyol-melaju-ke-perempat-final"
     },
     {
         "title": "Ini Kondisi Jembatan Gantung 'Indiana Jones', Penghubung Depok-Jakarta",
         "category": "Network",
-        "publish_time": "01-07-2024 02:42",
+        "publish_time": "01-07-2024 02:13",
         "news_link": "https://ruzkaindonesia.id/posts/316591/ini-kondisi-jembatan-gantung-indiana-jones-penghubung-depok-jakarta"
     },
     {
         "title": "Laleilmanino Beri Kado Spesial untuk Ulang Tahun Jakarta, Kolaborasi dengan Plus Jakarta",
         "category": "Network",
-        "publish_time": "01-07-2024 02:40",
+        "publish_time": "01-07-2024 02:13",
         "news_link": "https://filmusiku.com/posts/316624/laleilmanino-beri-kado-spesial-untuk-ulang-tahun-jakarta-kolaborasi-dengan-plus-jakarta"
     },
     {
         "title": "Inilah Isi Sebenarnya Rokok Elektrik yang Diungkap Ilmuwan",
         "category": "Network",
-        "publish_time": "01-07-2024 02:39",
+        "publish_time": "01-07-2024 02:13",
         "news_link": "https://impresiupdate.id/posts/316611/inilah-isi-sebenarnya-rokok-elektrik-yang-diungkap-ilmuwan"
     },
     {
         "title": "Obat Penurun Kolesterol Umum Punya Efek Samping Berbahaya",
         "category": "Network",
-        "publish_time": "01-07-2024 02:39",
+        "publish_time": "01-07-2024 02:13",
         "news_link": "https://impresiupdate.id/posts/316621/obat-penurun-kolesterol-umum-punya-efek-samping-berbahaya"
     },
     {
         "title": "Masih Adakah Hoegeng di Zaman Ini?",
         "category": "Network",
-        "publish_time": "01-07-2024 02:38",
+        "publish_time": "01-07-2024 02:13",
         "news_link": "https://sumatralink.id/posts/316646/masih-adakah-hoegeng-di-zaman-ini-"
     },
     {
         "title": "Sidang Praperadilan Pegi Digelar Hari Ini, Tim Hukum Polda Jabar Datangi PN Bandung",
         "category": "Rejabar",
-        "publish_time": "01-07-2024 02:38",
+        "publish_time": "01-07-2024 02:13",
         "news_link": "https://rejabar.republika.co.id/berita/sfxbba512/sidang-praperadilan-pegi-digelar-hari-ini-tim-hukum-polda-jabar-datangi-pn-bandung"
     },
     {
         "title": "BSI Siap Berikan Bagi Hasil Pertama Sukuk ESG",
         "category": "Esgnow",
-        "publish_time": "01-07-2024 02:36",
+        "publish_time": "01-07-2024 02:13",
         "news_link": "https://esgnow.republika.co.id/berita/sfxb8n416/bsi-siap-berikan-bagi-hasil-pertama-sukuk-esg"
     },
     {
         "title": "Menyandang Gelar 'Haji', Apakah Termasuk Perbuatan Riya?",
         "category": "Khazanah",
-        "publish_time": "01-07-2024 02:31",
+        "publish_time": "01-07-2024 02:13",
         "news_link": "https://khazanah.republika.co.id/berita/sfxb0j458/menyandang-gelar-haji-apakah-termasuk-perbuatan-riya"
     },
     {
         "title": "Perang di Depan Mata, Menlu Lebanon Minta Dukungan Solidaritas Dunia",
         "category": "Khazanah",
-        "publish_time": "01-07-2024 02:24",
+        "publish_time": "01-07-2024 02:13",
         "news_link": "https://khazanah.republika.co.id/berita/sfxap4483/perang-di-depan-mata-menlu-lebanon-minta-dukungan-solidaritas-dunia"
     },
     {
         "title": "Siang Ini Sidang Gugatan Pegi Perong, Begini kata Pengacaranya....",
         "category": "Network",
-        "publish_time": "01-07-2024 02:19",
+        "publish_time": "01-07-2024 02:13",
         "news_link": "https://matapantura.republika.co.id/posts/316676/siang-ini-sidang-gugatan-pegi-perong-begini-kata-pengacaranya-"
     },
     {
         "title": "Detik-Detik Pebulu Tangkis China Sebelum Meninggal Saat Berlaga di GOR Amongrogo Yogya",
         "category": "News",
-        "publish_time": "01-07-2024 02:14",
+        "publish_time": "01-07-2024 02:13",
         "news_link": "https://news.republika.co.id/berita/sfxa8b409/detikdetik-pebulu-tangkis-china-sebelum-meninggal-saat-berlaga-di-gor-amongrogo-yogya"
     },
     {
@@ -166,137 +298,5 @@
         "category": "Khazanah",
         "publish_time": "01-07-2024 02:13",
         "news_link": "https://khazanah.republika.co.id/berita/sfx971483/santriwati-berusia-13-tahun-meninggal-kemen-pppa-korban-akui-dianiaya-dengan-kayu"
-    },
-    {
-        "title": "Gelar Handover 1.000 Unit Pertama, BYD: Indonesia Selalu Jadi Lokasi Penting Perusahaan",
-        "category": "Ekonomi",
-        "publish_time": "01-07-2024 02:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sfx92g349/gelar-handover-1000-unit-pertama-byd-indonesia-selalu-jadi-lokasi-penting-perusahaan"
-    },
-    {
-        "title": "Harapan Baru! Terapi Gen Klaim Atasi Ketulian pada Anak-Anak",
-        "category": "Ameera",
-        "publish_time": "01-07-2024 02:13",
-        "news_link": "https://ameera.republika.co.id/berita/sfx920425/harapan-baru-terapi-gen-klaim-atasi-ketulian-pada-anakanak"
-    },
-    {
-        "title": "Rasulullah: Pemimpin yang tak Amanah Menyebabkan Kemiskinan",
-        "category": "Khazanah",
-        "publish_time": "01-07-2024 02:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sfx8v5458/rasulullah-pemimpin-yang-tak-amanah-menyebabkan-kemiskinan"
-    },
-    {
-        "title": "Nah Lho...Kanye West Digugat Delapan Karyawannya",
-        "category": "Network",
-        "publish_time": "01-07-2024 01:13",
-        "news_link": "https://impresi.republika.co.id/sosok/1694814222/nah-lhokanye-west-digugat-delapan-karyawannya"
-    },
-    {
-        "title": "Bermitra Hampir 25 Tahun dengan Microsoft, Begini Kiprah Avanade dan Accenture",
-        "category": "Network",
-        "publish_time": "01-07-2024 01:13",
-        "news_link": "https://impresi.republika.co.id/sana-sini/1694814207/bermitra-hampir-25-tahun-dengan-microsoft-begini-kiprah-avanade-dan-accenture"
-    },
-    {
-        "title": "Kisah Syuhada Uhud: Jasad Utuh dan Tersenyum",
-        "category": "Khazanah",
-        "publish_time": "01-07-2024 01:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sfx8aa458/kisah-syuhada-uhud-jasad-utuh-dan-tersenyum"
-    },
-    {
-        "title": "Diincar Dua Klub Luar, Peluang Alberto Rodriguez, Begini Respons Manajemen Persib",
-        "category": "Network",
-        "publish_time": "01-07-2024 01:13",
-        "news_link": "https://matapantura.republika.co.id/posts/316671/diincar-dua-klub-luar-peluang-alberto-rodriguez-begini-respons-manajemen-persib"
-    },
-    {
-        "title": "Ke Depan, Kontrak Penyelenggaraan Haji Saudi Berlaku Tiga Tahun",
-        "category": "Khazanah",
-        "publish_time": "01-07-2024 01:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sfx7vu483/ke-depan-kontrak-penyelenggaraan-haji-saudi-berlaku-tiga-tahun"
-    },
-    {
-        "title": "AS Bagian Timur Diterpa Gelombang Panas",
-        "category": "Video",
-        "publish_time": "01-07-2024 01:13",
-        "news_link": "https://tv.republika.co.id/berita/sfx7k7418/as-bagian-timur-diterpa-gelombang-panas"
-    },
-    {
-        "title": "Warga Garut Digegerkan Temuan Diduga Tubuh Korban Mutilasi",
-        "category": "Rejabar",
-        "publish_time": "01-07-2024 01:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sfx7bh512/warga-garut-digegerkan-temuan-diduga-tubuh-korban-mutilasi"
-    },
-    {
-        "title": "Gempa Bumi Magnitudo 5,1 Guncang Jabar Selatan Terasa di Pameungpeuk",
-        "category": "Rejabar",
-        "publish_time": "01-07-2024 01:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sfx737512/gempa-bumi-magnitudo-51-guncang-jabar-selatan-terasa-di-pameungpeuk"
-    },
-    {
-        "title": "Berdayakan Pemuda Desa dengan Keahlian Las, Kilang Balongan Terima Penghargaan ISRA 2024",
-        "category": "Network",
-        "publish_time": "01-07-2024 01:13",
-        "news_link": "https://matapantura.republika.co.id/posts/316650/berdayakan-pemuda-desa-dengan-keahlian-las-kilang-balongan-terima-penghargaan-isra-2024"
-    },
-    {
-        "title": "Hari Ini, Kualitas Udara Jakarta Masih Top 5 Terburuk Dunia",
-        "category": "News",
-        "publish_time": "01-07-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/sfx5yg502/hari-ini-kualitas-udara-jakarta-masih-top-5-terburuk-dunia"
-    },
-    {
-        "title": "Hikmah 3 Peristiwa antara Nabi Musa dan Khidir",
-        "category": "Khazanah",
-        "publish_time": "01-07-2024 00:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sfx5os458/hikmah-3-peristiwa-antara-nabi-musa-dan-khidir"
-    },
-    {
-        "title": "PGN Dapat Tambahan Pasokan LNG dari Kilang Tangguh",
-        "category": "Ekonomi",
-        "publish_time": "01-07-2024 00:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sfx5oo490/pgn-dapat-tambahan-pasokan-lng-dari-kilang-tangguh"
-    },
-    {
-        "title": "Jabar Selatan Diguncang Gempa Bumi Magnitudo 5,1",
-        "category": "Network",
-        "publish_time": "01-07-2024 00:13",
-        "news_link": "https://matapantura.republika.co.id/posts/316649/jabar-selatan-diguncang-gempa-bumi-magnitudo-5-1"
-    },
-    {
-        "title": "Minta Timnya Bermain Hati-Hati, Nova Arianto Waspadai Hal Ini dari Timnas U-16 Australia",
-        "category": "News",
-        "publish_time": "01-07-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/sfx4ne409/minta-timnya-bermain-hatihati-nova-arianto-waspadai-hal-ini-dari-timnas-u16-australia"
-    },
-    {
-        "title": "Tanda Kiamat: Gembala Kambing Berlomba Dirikan Bangunan Tinggi",
-        "category": "Khazanah",
-        "publish_time": "01-07-2024 00:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sfx4ju458/tanda-kiamat-gembala-kambing-berlomba-dirikan-bangunan-tinggi"
-    },
-    {
-        "title": "Indonesia Tatap Optimistis Laga Lawan Australia U16 Nanti Malam",
-        "category": "News",
-        "publish_time": "01-07-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/sfx4ja484/indonesia-tatap-optimistis-laga-lawan-australia-u16-nanti-malam"
-    },
-    {
-        "title": "Tren Inflasi Menurun, Presiden Jokowi Apresiasi Kerja Keras Tim Pengendalian",
-        "category": "Ekonomi",
-        "publish_time": "01-07-2024 00:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sfw3yh423/tren-inflasi-menurun-presiden-jokowi-apresiasi-kerja-keras-tim-pengendalian"
-    },
-    {
-        "title": "Kisah Juraij dan Bayi 'Ajaib'",
-        "category": "Khazanah",
-        "publish_time": "01-07-2024 00:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sfx3qc458/kisah-juraij-dan-bayi-ajaib"
-    },
-    {
-        "title": "Tanda Kiamat Budak Melahirkan Tuannya, Apa Maksudnya?",
-        "category": "Khazanah",
-        "publish_time": "30-06-2024 23:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sfx32o458/tanda-kiamat-budak-melahirkan-tuannya-apa-maksudnya"
     }
 ]
