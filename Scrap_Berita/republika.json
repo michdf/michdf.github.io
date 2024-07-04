@@ -1,104 +1,236 @@
 [
     {
+        "title": "Arya: PMN Bio Farma untuk Pabrik Vaksin, Bukan Bayar Pinjol Indofarma",
+        "category": "Ekonomi",
+        "publish_time": "04-07-2024 12:20",
+        "news_link": "https://ekonomi.republika.co.id/berita/sg3m9q423/arya-pmn-bio-farma-untuk-pabrik-vaksin-bukan-bayar-pinjol-indofarma"
+    },
+    {
+        "title": "Bertukar Pikiran dan Pengalaman di Rembuk ESG untuk Indonesia",
+        "category": "Esgnow",
+        "publish_time": "04-07-2024 12:18",
+        "news_link": "https://esgnow.republika.co.id/berita/sg3m6l416/bertukar-pikiran-dan-pengalaman-di-rembuk-esg-untuk-indonesia"
+    },
+    {
+        "title": "MU Perpanjang Kontrak Pelatih Erik Ten Hag Setahun, Ini Alasannya",
+        "category": "News",
+        "publish_time": "04-07-2024 12:16",
+        "news_link": "https://news.republika.co.id/berita/sg3m44348/mu-perpanjang-kontrak-pelatih-erik-ten-hag-setahun-ini-alasannya"
+    },
+    {
+        "title": "Cek Khodam dan Urusan Makhluk Gaib, Ini 8 Fakta Seputar Jin yang Penting Diketahui",
+        "category": "Khazanah",
+        "publish_time": "04-07-2024 12:15",
+        "news_link": "https://khazanah.republika.co.id/berita/sg3m2i320/cek-khodam-dan-urusan-makhluk-gaib-ini-8-fakta-seputar-jin-yang-penting-diketahui"
+    },
+    {
+        "title": "Alasan Kuasa Hukum Kecewa kepada Ahli Polda Jabar yang Sebut Status Tersangka Pegi Sah",
+        "category": "News",
+        "publish_time": "04-07-2024 12:11",
+        "news_link": "https://news.republika.co.id/berita/sg3lw6409/alasan-kuasa-hukum-kecewa-kepada-ahli-polda-jabar-yang-sebut-status-tersangka-pegi-sah"
+    },
+    {
+        "title": "Dikira Desisan Ular, Ternyata Burung Hantu Serak Jawa Berkeliaran di Atap Rumah Warga",
+        "category": "Rejabar",
+        "publish_time": "04-07-2024 12:10",
+        "news_link": "https://rejabar.republika.co.id/berita/sg3lty512/dikira-desisan-ular-ternyata-burung-hantu-serak-jawa-berkeliaran-di-atap-rumah-warga"
+    },
+    {
+        "title": "Terjerat Kasus Asusila, Ketua KPU Pernah Jadi Khatib Idul Adha Bicara Sifat Kebinatangan",
+        "category": "Khazanah",
+        "publish_time": "04-07-2024 12:08",
+        "news_link": "https://khazanah.republika.co.id/berita/sg3lqo366/terjerat-kasus-asusila-ketua-kpu-pernah-jadi-khatib-idul-adha-bicara-sifat-kebinatangan"
+    },
+    {
+        "title": "Asia Pacific Harm Reduction Forum 2024 Singgung Inovasi dalam Pengurangan Bahaya Tembakau",
+        "category": "Rejakarta",
+        "publish_time": "04-07-2024 12:07",
+        "news_link": "https://republika.co.id/berita/sg3lpn456/asia-pacific-harm-reduction-forum-2024-singgung-inovasi-dalam-pengurangan-bahaya-tembakau"
+    },
+    {
+        "title": "Dukung Net Zero Emission, Pertamina Mulai Beralih ke Energi Ramah Lingkungan",
+        "category": "Esgnow",
+        "publish_time": "04-07-2024 12:07",
+        "news_link": "https://esgnow.republika.co.id/berita/sg3lp7423/dukung-net-zero-emission-pertamina-mulai-beralih-ke-energi-ramah-lingkungan"
+    },
+    {
+        "title": "Modus Pengedar Sabu Titip Mobil Terkuak, TKP di RS Fatmawati, Polisi Buru Kurir Pertama",
+        "category": "News",
+        "publish_time": "04-07-2024 12:02",
+        "news_link": "https://news.republika.co.id/berita/sg3lgh348/modus-pengedar-sabu-titip-mobil-terkuak-tkp-di-rs-fatmawati-polisi-buru-kurir-pertama"
+    },
+    {
+        "title": "Imbas Turbulensi, Penumpang Pesawat Tersangkut Kompartemen Kabin",
+        "category": "Video",
+        "publish_time": "04-07-2024 12:00",
+        "news_link": "https://tv.republika.co.id/berita/sg3ldg313/imbas-turbulensi-penumpang-pesawat-tersangkut-kompartemen-kabin"
+    },
+    {
+        "title": "Hujan dan Berkah Rezeki Bagi Penjaja Jasa Ojek Payung",
+        "category": "Visual",
+        "publish_time": "04-07-2024 11:57",
+        "news_link": "https://visual.republika.co.id/berita/sg3l88375/hujan-dan-berkah-rezeki-bagi-penjaja-jasa-ojek-payung"
+    },
+    {
+        "title": "Jadwal Sholat Hari Ini di Banda Aceh",
+        "category": "Iqra",
+        "publish_time": "04-07-2024 11:56",
+        "news_link": "https://iqra.republika.co.id/berita/sg3l6o430/jadwal-sholat-hari-ini-di-banda-aceh"
+    },
+    {
+        "title": "Tak Maju Pilkada Jateng, Bambang Pacul Sebut Sosok Kompetitor Sepadan untuk Ahmad Luthfi",
+        "category": "News",
+        "publish_time": "04-07-2024 11:52",
+        "news_link": "https://news.republika.co.id/berita/sg3l0n409/tak-maju-pilkada-jateng-bambang-pacul-sebut-sosok-kompetitor-sepadan-untuk-ahmad-luthfi"
+    },
+    {
+        "title": "Marah Komandannya Dibunuh, Hizbullah Hujani Israel dengan 200 Misil",
+        "category": "News",
+        "publish_time": "04-07-2024 11:44",
+        "news_link": "https://news.republika.co.id/berita/sg3klq377/marah-komandannya-dibunuh-hizbullah-hujani-israel-dengan-200-misil"
+    },
+    {
+        "title": "Kans Ridwan Kamil Lebih Besar di Pilgub Jabar atau Jakarta? Ini Menurut Indikator Politik",
+        "category": "News",
+        "publish_time": "04-07-2024 11:40",
+        "news_link": "https://news.republika.co.id/berita/sg3kg6409/kans-ridwan-kamil-lebih-besar-di-pilgub-jabar-atau-jakarta-ini-menurut-indikator-politik"
+    },
+    {
+        "title": "Paripurna DPR RI Setujui Pembentukan Pansus Haji",
+        "category": "Khazanah",
+        "publish_time": "04-07-2024 11:39",
+        "news_link": "https://khazanah.republika.co.id/berita/sg3i40451/paripurna-dpr-ri-setujui-pembentukan-pansus-haji"
+    },
+    {
+        "title": "Ketua KPU Dipecat DKPP Terkait Kasus Asusila, Ini Respons Jokowi",
+        "category": "News",
+        "publish_time": "04-07-2024 11:27",
+        "news_link": "https://news.republika.co.id/berita/sg3juu409/ketua-kpu-dipecat-dkpp-terkait-kasus-asusila-ini-respons-jokowi"
+    },
+    {
+        "title": "Rumah Pertama Rasulullah di Madinah",
+        "category": "Khazanah",
+        "publish_time": "04-07-2024 11:27",
+        "news_link": "https://www.republika.id/posts/53716/rumah-pertama-rasulullah-di-madinah"
+    },
+    {
+        "title": "Dukung NZE, Pertamina Jalankan Dua Strategi",
+        "category": "Esgnow",
+        "publish_time": "04-07-2024 11:23",
+        "news_link": "https://esgnow.republika.co.id/berita/sg3jn3416/dukung-nze-pertamina-jalankan-dua-strategi"
+    },
+    {
+        "title": "Kasus Kematian AM Tetap Dibuka, Kapolda Sumbar Yakin Sang Anak Melompat dan Hendak Tawuran",
+        "category": "News",
+        "publish_time": "04-07-2024 11:22",
+        "news_link": "https://news.republika.co.id/berita/sg3jlc377/kasus-kematian-am-tetap-dibuka-kapolda-sumbar-yakin-sang-anak-melompat-dan-hendak-tawuran"
+    },
+    {
+        "title": "Progres Pembangunan MRT, Stasiun Glodok dan Stasiun Kota Sudah Terhubung",
+        "category": "News",
+        "publish_time": "04-07-2024 11:20",
+        "news_link": "https://news.republika.co.id/berita/sg3hz5451/progres-pembangunan-mrt-stasiun-glodok-dan-stasiun-kota-sudah-terhubung"
+    },
+    {
         "title": "Bung Karno dan Jago Betawi",
         "category": "News",
-        "publish_time": "04-07-2024 11:03",
+        "publish_time": "04-07-2024 11:20",
         "news_link": "https://www.republika.id/posts/53712/bung-karno-dan-jago-betawi"
     },
     {
         "title": "Hasyim Bersyukur Dipecat, Plt Afifudin: Jadi Ketua KPU Memang Berat",
         "category": "News",
-        "publish_time": "04-07-2024 11:02",
+        "publish_time": "04-07-2024 11:20",
         "news_link": "https://news.republika.co.id/berita/sg3ioo377/hasyim-bersyukur-dipecat-plt-afifudin-jadi-ketua-kpu-memang-berat"
     },
     {
         "title": "Krisis di Jakarta: Dari Zaman Meleset Hingga Reformasi",
         "category": "News",
-        "publish_time": "04-07-2024 11:02",
+        "publish_time": "04-07-2024 11:20",
         "news_link": "https://www.republika.id/posts/53715/krisis-di-jakarta-dari-zaman-meleset-hingga-reformasi"
     },
     {
         "title": "Menggali Konsep Green School dalam Perspektif Pendidikan Holistik",
         "category": "Retizen",
-        "publish_time": "04-07-2024 11:01",
+        "publish_time": "04-07-2024 11:20",
         "news_link": "https://retizen.republika.co.id/posts/317498/menggali-konsep-green-school-dalam-perspektif-pendidikan-holistik"
     },
     {
         "title": "Pedoman Memilih Pasangan Hidup",
         "category": "Retizen",
-        "publish_time": "04-07-2024 11:00",
+        "publish_time": "04-07-2024 11:20",
         "news_link": "https://retizen.republika.co.id/posts/317521/pedoman-memilih-pasangan-hidup"
     },
     {
         "title": "Perjalanan Silaturahmi Buku Quo Vadis Sriwijaya FC? ke Yogyakarta",
         "category": "Network",
-        "publish_time": "04-07-2024 10:59",
+        "publish_time": "04-07-2024 11:20",
         "news_link": "https://kingdomsriwijaya.id/posts/317525/perjalanan-silaturahmi-buku-quo-vadis-sriwijaya-fc-ke-yogyakarta"
     },
     {
         "title": "Isu Pasukan Perdamaian RI-Malaysia ke Gaza, Ini Respons Dubes Palestina",
         "category": "News",
-        "publish_time": "04-07-2024 10:57",
+        "publish_time": "04-07-2024 11:20",
         "news_link": "https://news.republika.co.id/berita/sg3igs377/isu-pasukan-perdamaian-rimalaysia-ke-gaza-ini-respons-dubes-palestina"
     },
     {
         "title": "PKB Berikan Rekomendasi untuk Empat Calon Kepala Daerah",
         "category": "News",
-        "publish_time": "04-07-2024 10:57",
+        "publish_time": "04-07-2024 11:20",
         "news_link": "https://news.republika.co.id/berita/sg3eih451/pkb-berikan-rekomendasi-untuk-empat-calon-kepala-daerah"
     },
     {
         "title": "Poco Pad Ramaikan Pasar Tablet Indonesia, Ini Fitur dan Harganya",
         "category": "Ameera",
-        "publish_time": "04-07-2024 10:53",
+        "publish_time": "04-07-2024 11:20",
         "news_link": "https://ameera.republika.co.id/berita/sg3i95425/poco-pad-ramaikan-pasar-tablet-indonesia-ini-fitur-dan-harganya"
     },
     {
         "title": "Pelanggaran dan Ini Bahayanya Merokok Saat Berkendara",
         "category": "Network",
-        "publish_time": "04-07-2024 10:51",
+        "publish_time": "04-07-2024 11:20",
         "news_link": "https://ruzka.republika.co.id/serba-serbi/1674828189/pelanggaran-dan-ini-bahayanya-merokok-saat-berkendara"
     },
     {
         "title": "Banyak Ibu Belum Teredukasi, Benyamin Davnie Minta Masyarakat tak Beri Kental Manis untuk Anak",
         "category": "Network",
-        "publish_time": "04-07-2024 10:47",
+        "publish_time": "04-07-2024 10:20",
         "news_link": "https://cari.republika.co.id/posts/317528/banyak-ibu-belum-teredukasi-benyamin-davnie-minta-masyarakat-tak-beri-kental-manis-untuk-anak"
     },
     {
         "title": "Jadwal Sholat Hari Ini di Bekasi, 4 Juli 2024",
         "category": "Iqra",
-        "publish_time": "04-07-2024 10:47",
+        "publish_time": "04-07-2024 10:20",
         "news_link": "https://iqra.republika.co.id/berita/sg3hzw430/jadwal-sholat-hari-ini-di-bekasi-4-juli-2024"
     },
     {
         "title": "80 Ribu Anak di Bawah 10 tahun Main Judi Online, DPRD DKI: Kalau Warga DKI Setop KJP-nya",
         "category": "News",
-        "publish_time": "04-07-2024 10:39",
+        "publish_time": "04-07-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sg3dyu451/80-ribu-anak-di-bawah-10-tahun-main-judi-online-dprd-dki-kalau-warga-dki-setop-kjpnya"
     },
     {
         "title": "Utang Jatuh Tempo 2025 Rp 800 Triliun, Prabowo-Gibran Perlu\u00a0Waspada",
         "category": "Ekonomi",
-        "publish_time": "04-07-2024 10:36",
+        "publish_time": "04-07-2024 10:20",
         "news_link": "https://ekonomi.republika.co.id/berita/sg3hh3416/utang-jatuh-tempo-2025-rp-800-triliun-prabowogibran-perluwaspada"
     },
     {
         "title": "Adik RM BTS Buka Kafe di Seoul, Ayah Jimin Kirim Karangan Bunga",
         "category": "Ameera",
-        "publish_time": "04-07-2024 10:31",
+        "publish_time": "04-07-2024 10:20",
         "news_link": "https://ameera.republika.co.id/berita/sg3h9g425/adik-rm-bts-buka-kafe-di-seoul-ayah-jimin-kirim-karangan-bunga"
     },
     {
         "title": "Depok Pasangi Stiker Tunggakan Objek Pajak",
         "category": "Network",
-        "publish_time": "04-07-2024 10:28",
+        "publish_time": "04-07-2024 10:20",
         "news_link": "https://ruzka.republika.co.id/ekonomi/1674828126/depok-pasangi-stiker-tunggakan-objek-pajak"
     },
     {
         "title": "Wakili Indonesia, Mahasiswa UMM Raih Emas pada Ajang Pencak Silat se-ASEAN",
         "category": "News",
-        "publish_time": "04-07-2024 10:22",
+        "publish_time": "04-07-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sg3gtu291/wakili-indonesia-mahasiswa-umm-raih-emas-pada-ajang-pencak-silat-seasean"
     },
     {
@@ -110,193 +242,61 @@
     {
         "title": "Amarah Melanda, Baca Doa ini: Simpel dan Mudah Dilafalkan",
         "category": "Video",
-        "publish_time": "04-07-2024 10:16",
+        "publish_time": "04-07-2024 10:20",
         "news_link": "https://tv.republika.co.id/berita/sg3gkh313/amarah-melanda-baca-doa-ini-simpel-dan-mudah-dilafalkan"
     },
     {
         "title": "Ini Pelabuhan dan Bandara yang Jadi Pintu Masuk Barang Impor Israel ke Indonesia",
         "category": "Khazanah",
-        "publish_time": "04-07-2024 10:16",
+        "publish_time": "04-07-2024 10:20",
         "news_link": "https://khazanah.republika.co.id/berita/sg3dnu451/ini-pelabuhan-dan-bandara-yang-jadi-pintu-masuk-barang-impor-israel-ke-indonesia"
     },
     {
         "title": "Perempat Final Euro 2024 Mulai Besok, Simak Tinjauan Singkatnya",
         "category": "News",
-        "publish_time": "04-07-2024 10:12",
+        "publish_time": "04-07-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sg3ge5348/perempat-final-euro-2024-mulai-besok-simak-tinjauan-singkatnya"
     },
     {
         "title": "Seminar Tauhid dari 2 Guru Besar Al Azhar Tandai Peresmian Aswaja Center PCINU Mesir",
         "category": "Khazanah",
-        "publish_time": "04-07-2024 10:12",
+        "publish_time": "04-07-2024 10:20",
         "news_link": "https://khazanah.republika.co.id/berita/sg3gbm320/seminar-tauhid-dari-2-guru-besar-al-azhar-tandai-peresmian-aswaja-center-pcinu-mesir"
     },
     {
         "title": "Teknologi 'Hidupkan' Almarhum Vokalis Steven & Coconuttreez, Meriahkan Pesta Reggae",
         "category": "Ameera",
-        "publish_time": "04-07-2024 10:12",
+        "publish_time": "04-07-2024 10:20",
         "news_link": "https://ameera.republika.co.id/berita/sg3gar425/teknologi-hidupkan-almarhum-vokalis-steven-coconuttreez-meriahkan-pesta-reggae"
     },
     {
         "title": "Sholat: Kunci Kedamaian dan Jadwal Sholat Hari Ini di Tangerang",
         "category": "Iqra",
-        "publish_time": "04-07-2024 10:12",
+        "publish_time": "04-07-2024 10:20",
         "news_link": "https://iqra.republika.co.id/berita/sg3fze430/sholat-kunci-kedamaian-dan-jadwal-sholat-hari-ini-di-tangerang"
     },
     {
-        "title": "Hadirkan Ahli yang Dituding Tidak Independen, Ini Respon Polda Jabar",
+        "title": "Hadirkan Ahli yang Dituding Tidak Independen, Ini Respons Polda Jabar",
         "category": "Rejabar",
-        "publish_time": "04-07-2024 10:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sg3fvc512/hadirkan-ahli-yang-dituding-tidak-independen-ini-respon-polda-jabar"
+        "publish_time": "04-07-2024 10:20",
+        "news_link": "https://rejabar.republika.co.id/berita/sg3fvc512/hadirkan-ahli-yang-dituding-tidak-independen-ini-respons-polda-jabar"
     },
     {
         "title": "Perdebatan Seru Pengacara Pegi dengan Ahli dari Polda Jabar Soal Bukti dan Dua DPO Fiktif",
         "category": "News",
-        "publish_time": "04-07-2024 10:12",
+        "publish_time": "04-07-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sg3ftd487/perdebatan-seru-pengacara-pegi-dengan-ahli-dari-polda-jabar-soal-bukti-dan-dua-dpo-fiktif"
     },
     {
-        "title": "Ramai Khodam, Kisah Nyata 2 Pria Muslim Pekerjakan Ratusan Jin, dan Bagaimana Akhirnya?",
+        "title": "Ramai Cek Khodam, 2 Pria Muslim Ini Pernah Pekerjakan Ratusan Jin, dan Bagaimana Akhirnya?",
         "category": "Khazanah",
-        "publish_time": "04-07-2024 10:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sg3fkh320/ramai-khodam-kisah-nyata-2-pria-muslim-pekerjakan-ratusan-jin-dan-bagaimana-akhirnya"
+        "publish_time": "04-07-2024 10:20",
+        "news_link": "https://khazanah.republika.co.id/berita/sg3fkh320/ramai-cek-khodam-2-pria-muslim-ini-pernah-pekerjakan-ratusan-jin-dan-bagaimana-akhirnya"
     },
     {
         "title": "Lewat SMK Mitra Industri, APSI Kembangkan Sekolah Vokasi pada Industri Cat",
         "category": "Rejabar",
-        "publish_time": "04-07-2024 10:12",
+        "publish_time": "04-07-2024 10:20",
         "news_link": "https://rejabar.republika.co.id/berita/sg3daq291/lewat-smk-mitra-industri-apsi-kembangkan-sekolah-vokasi-pada-industri-cat"
-    },
-    {
-        "title": "Joe Aditya dan Azzahra Menyusul ke Paris, Ini Nama 29 Atlet Indonesia di Olimpiade 2024",
-        "category": "News",
-        "publish_time": "04-07-2024 10:12",
-        "news_link": "https://news.republika.co.id/berita/sg3fch348/joe-aditya-dan-azzahra-menyusul-ke-paris-ini-nama-29-atlet-indonesia-di-olimpiade-2024"
-    },
-    {
-        "title": "Hati-Hati Kirim Softcopy Buku! Kini Ada Aturan Royaltinya",
-        "category": "News",
-        "publish_time": "04-07-2024 10:12",
-        "news_link": "https://news.republika.co.id/berita/sg3dfw451/hatihati-kirim-softcopy-buku-kini-ada-aturan-royaltinya"
-    },
-    {
-        "title": "Kepala BRIN: Temuan Lukisan Gua Berumur 51 Ribu Tahun di Sulawesi Bukan 'Omon-omon'",
-        "category": "News",
-        "publish_time": "04-07-2024 10:12",
-        "news_link": "https://news.republika.co.id/berita/sg3f7p475/kepala-brin-temuan-lukisan-gua-berumur-51-ribu-tahun-di-sulawesi-bukan-omonomon"
-    },
-    {
-        "title": "Zaman Erick, Dividen BUMN Lebih Besar dari PMN",
-        "category": "Ekonomi",
-        "publish_time": "04-07-2024 10:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sg3f5b423/zaman-erick-dividen-bumn-lebih-besar-dari-pmn"
-    },
-    {
-        "title": "Megahnya Percetakan Alquran Terbesar di Dunia",
-        "category": "Video",
-        "publish_time": "04-07-2024 10:12",
-        "news_link": "https://tv.republika.co.id/berita/sg3f42313/megahnya-percetakan-alquran-terbesar-di-dunia"
-    },
-    {
-        "title": "Waketum PKB Usulkan Pasangan Bobby Nasution-Nagita Slavina: Ini Serius!",
-        "category": "News",
-        "publish_time": "04-07-2024 10:12",
-        "news_link": "https://news.republika.co.id/berita/sg3f21484/waketum-pkb-usulkan-pasangan-bobby-nasutionnagita-slavina-ini-serius"
-    },
-    {
-        "title": "Menjaga Kerukunan di Kampung Kapitan Palembang",
-        "category": "Network",
-        "publish_time": "04-07-2024 10:12",
-        "news_link": "https://kingdomsriwijaya.id/posts/317511/menjaga-kerukunan-di-kampung-kapitan-palembang"
-    },
-    {
-        "title": "9 Rahasia French Style, Gaya untuk Semua Usia",
-        "category": "Network",
-        "publish_time": "04-07-2024 10:12",
-        "news_link": "https://gayakita.com/posts/317507/9-rahasia-french-style-gaya-untuk-semua-usia"
-    },
-    {
-        "title": "Poco F6 Mulai Dijual di Indonesia, Harga Mulai Rp 4 Jutaan",
-        "category": "Ameera",
-        "publish_time": "04-07-2024 09:12",
-        "news_link": "https://ameera.republika.co.id/berita/sg3ezw425/poco-f6-mulai-dijual-di-indonesia-harga-mulai-rp-4-jutaan"
-    },
-    {
-        "title": "Mana yang Lebih Prioritas, IKN atau Makan Bergizi Gratis? Ini Kata Peneliti",
-        "category": "Ekonomi",
-        "publish_time": "04-07-2024 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sg3eye370/mana-yang-lebih-prioritas-ikn-atau-makan-bergizi-gratis-ini-kata-peneliti"
-    },
-    {
-        "title": "Bea Cukai Cegah Penyelundupan Cenderawasih dan Berang-Berang Tujuan India Lewat Bandara",
-        "category": "Beacukai",
-        "publish_time": "04-07-2024 09:12",
-        "news_link": "https://republika.co.id/berita/sg3eq3423/bea-cukai-cegah-penyelundupan-cenderawasih-dan-berang-berang-tujuan-india-lewat-bandara"
-    },
-    {
-        "title": "Kanwil Bea Cukai Aceh Musnahkan 5,9 Juta Batang Rokok Ilegal",
-        "category": "Beacukai",
-        "publish_time": "04-07-2024 09:12",
-        "news_link": "https://republika.co.id/berita/sg3epn370/kanwil-bea-cukai-aceh-musnahkan-59-juta-batang-rokok-ilegal"
-    },
-    {
-        "title": "Cari Solusi Bersama, DPRD Jabar dan Gubernur Jabar Berdialog Bahas Ranperda P2APBD 2023",
-        "category": "Rejabar",
-        "publish_time": "04-07-2024 09:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sg3ehn423/cari-solusi-bersama-dprd-jabar-dan-gubernur-jabar-berdialog-bahas-ranperda-p2apbd-2023"
-    },
-    {
-        "title": "Ingrid Kansil: Boikot Produk Israel dan Cintai Produk Dalam Negeri",
-        "category": "Khazanah",
-        "publish_time": "04-07-2024 09:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sg3da9451/ingrid-kansil-boikot-produk-israel-dan-cintai-produk-dalam-negeri"
-    },
-    {
-        "title": "Bea Cukai Parepare Antar Ekspor Cangkang Sawit dan Cement Clinker ke Mancanegara",
-        "category": "Beacukai",
-        "publish_time": "04-07-2024 09:12",
-        "news_link": "https://republika.co.id/berita/sg3eb8370/bea-cukai-parepare-antar-ekspor-cangkang-sawit-dan-cement-clinker-ke-mancanegara"
-    },
-    {
-        "title": "Pilgub Jabar, Indikator: Ridwan Kamil dan Dedi Mulyadi Bersaing, Komeng Peringkat Tiga",
-        "category": "News",
-        "publish_time": "04-07-2024 09:12",
-        "news_link": "https://news.republika.co.id/berita/sg3ea0377/pilgub-jabar-indikator-ridwan-kamil-dan-dedi-mulyadi-bersaing-komeng-peringkat-tiga"
-    },
-    {
-        "title": "Pasukan Islam Hancurkan Perpustakaan Alexandria?",
-        "category": "Khazanah",
-        "publish_time": "04-07-2024 09:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sg3e5w458/pasukan-islam-hancurkan-perpustakaan-alexandria"
-    },
-    {
-        "title": "10 Kitab Ini Ditulis KH Hasyim Asyari",
-        "category": "Khazanah",
-        "publish_time": "04-07-2024 09:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sg3e3p430/10-kitab-ini-ditulis-kh-hasyim-asyari"
-    },
-    {
-        "title": "Ketahuan Rekam Wanita di Toilet Diam-Diam, Siswa SMA Busan Lompat dari Lantai 4 Sekolah",
-        "category": "Ameera",
-        "publish_time": "04-07-2024 09:12",
-        "news_link": "https://ameera.republika.co.id/berita/sg3e2t425/ketahuan-rekam-wanita-di-toilet-diamdiam-siswa-sma-busan-lompat-dari-lantai-4-sekolah"
-    },
-    {
-        "title": "Rayakan Anniversary ke-7, Merapi Park Jogja Gelar Lomba Aeromodelling dan Lomba Mewarnai",
-        "category": "Rejogja",
-        "publish_time": "04-07-2024 09:12",
-        "news_link": "https://rejogja.republika.co.id/berita/sg3e2m291/rayakan-anniversary-ke7-merapi-park-jogja-gelar-lomba-aeromodelling-dan-lomba-mewarnai"
-    },
-    {
-        "title": "Ketua PBNU: Sebaiknya tak Membeli Produk Israel",
-        "category": "Khazanah",
-        "publish_time": "04-07-2024 09:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sg3dpl430/ketua-pbnu-sebaiknya-tak-membeli-produk-israel"
-    },
-    {
-        "title": "Alasan Pimpinan KPK Enggan Cawe-Cawe di Perkara Harun Masiku",
-        "category": "News",
-        "publish_time": "04-07-2024 09:12",
-        "news_link": "https://news.republika.co.id/berita/sg3dhl487/alasan-pimpinan-kpk-enggan-cawecawe-di-perkara-harun-masiku"
     }
 ]
