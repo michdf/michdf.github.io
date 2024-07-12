@@ -1,92 +1,188 @@
 [
     {
+        "title": "Cerita Warga Lampung, Jauh-jauh Bernazar Temui Pegi Setiawan",
+        "category": "Rejabar",
+        "publish_time": "12-07-2024 10:11",
+        "news_link": "https://rejabar.republika.co.id/berita/sgi9nk512/cerita-warga-lampung-jauhjauh-bernazar-temui-pegi-setiawan"
+    },
+    {
+        "title": "Nasihat Imam Ghazali tentang Ulama yang 'Culas'",
+        "category": "Khazanah",
+        "publish_time": "12-07-2024 10:11",
+        "news_link": "https://khazanah.republika.co.id/berita/sgi9n8458/nasihat-imam-ghazali-tentang-ulama-yang-culas"
+    },
+    {
+        "title": "PTPN IV Regional I Medan Realisasikan 744,93 Ha Peremajaan Sawit Rakyat",
+        "category": "Ekonomi",
+        "publish_time": "12-07-2024 10:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/sgi9cv502/ptpn-iv-regional-i-medan-realisasikan-74493-ha-peremajaan-sawit-rakyat"
+    },
+    {
+        "title": "Pembentukan Pansus Impor Beras Dinilai Bukti Keberpihakan Terhadap Rakyat",
+        "category": "Network",
+        "publish_time": "12-07-2024 10:05",
+        "news_link": "https://genpop.republika.co.id/posts/318958/pembentukan-pansus-impor-beras-dinilai-bukti-keberpihakan-terhadap-rakyat"
+    },
+    {
+        "title": "Pentingnya Mengejar Apa yang Anda Inginkan",
+        "category": "Retizen",
+        "publish_time": "12-07-2024 09:55",
+        "news_link": "https://retizen.republika.co.id/posts/318933/pentingnya-mengejar-apa-yang-anda-inginkan"
+    },
+    {
+        "title": "Bakamla Fasilitasi 16 Nelayan Indonesia yang Ditangkap di Malaysia",
+        "category": "Network",
+        "publish_time": "12-07-2024 09:55",
+        "news_link": "https://seputarmiliter.id/posts/318951/bakamla-fasilitasi-16-nelayan-indonesia-yang-ditangkap-di-malaysia"
+    },
+    {
+        "title": "IPDN Beri Penghargaan Kartika Astha Brata Utama ke Menteri Bahlil",
+        "category": "Rejabar",
+        "publish_time": "12-07-2024 09:44",
+        "news_link": "https://rejabar.republika.co.id/berita/sgi8e6512/ipdn-beri-penghargaan-kartika-astha-brata-utama-ke-menteri-bahlil"
+    },
+    {
+        "title": "Penyebab Sulitnya Ucapkan Kalimat Tauhid saat Sakaratul Maut",
+        "category": "Khazanah",
+        "publish_time": "12-07-2024 09:33",
+        "news_link": "https://khazanah.republika.co.id/berita/sgi7vu458/penyebab-sulitnya-ucapkan-kalimat-tauhid-saat-sakaratul-maut"
+    },
+    {
+        "title": "Hotman Paris Sebut Pegi Setiawan Bisa jadi Tersangka Lagi, Ini Tanggapan Tim Kuasa Hukum",
+        "category": "Rejabar",
+        "publish_time": "12-07-2024 09:29",
+        "news_link": "https://rejabar.republika.co.id/berita/sgi7nv512/hotman-paris-sebut-pegi-setiawan-bisa-jadi-tersangka-lagi-ini-tanggapan-tim-kuasa-hukum"
+    },
+    {
+        "title": "Lewat Fun Bike 'Sehati untuk Bumi', Pemda DIY Dukung Atlet Berlaga di PON 2024",
+        "category": "News",
+        "publish_time": "12-07-2024 09:27",
+        "news_link": "https://news.republika.co.id/berita/sgi7lm291/lewat-fun-bike-sehati-untuk-bumi-pemda-diy-dukung-atlet-berlaga-di-pon-2024"
+    },
+    {
+        "title": "Kuasa Hukum Pegi Bantah Opini Hotman Paris",
+        "category": "News",
+        "publish_time": "12-07-2024 09:23",
+        "news_link": "https://news.republika.co.id/berita/sgi7dy409/kuasa-hukum-pegi-bantah-opini-hotman-paris"
+    },
+    {
+        "title": "Ditjen Hubdat Beri Penghargaan pada Instansi dengan Penyelenggraan Transportsi Darat Optimal",
+        "category": "Network",
+        "publish_time": "12-07-2024 09:21",
+        "news_link": "https://matapantura.republika.co.id/posts/318945/ditjen-hubdat-beri-penghargaan-pada-instansi-dengan-penyelenggraan-transportsi-darat-optimal"
+    },
+    {
+        "title": "Belum Ada Keppres, Kasetpres Heru: Upacara 17 Agustus Tetap Boleh di IKN",
+        "category": "News",
+        "publish_time": "12-07-2024 09:17",
+        "news_link": "https://news.republika.co.id/berita/sgi73v484/belum-ada-keppres-kasetpres-heru-upacara-17-agustus-tetap-boleh-di-ikn"
+    },
+    {
+        "title": "Polisi Selidiki Temuan Jasad Pria Tanpa Identitas dengan Luka Tusuk di Buahbatu",
+        "category": "Rejabar",
+        "publish_time": "12-07-2024 09:15",
+        "news_link": "https://rejabar.republika.co.id/berita/sgi71m512/polisi-selidiki-temuan-jasad-pria-tanpa-identitas-dengan-luka-tusuk-di-buahbatu"
+    },
+    {
+        "title": "Wahabi dan Perspektif tentang Tauhid",
+        "category": "Khazanah",
+        "publish_time": "12-07-2024 09:15",
+        "news_link": "https://khazanah.republika.co.id/berita/sgi71l458/wahabi-dan-perspektif-tentang-tauhid"
+    },
+    {
+        "title": "Ekonomi Jadi Isu Penting di Pilpres AS",
+        "category": "Video",
+        "publish_time": "12-07-2024 09:14",
+        "news_link": "https://tv.republika.co.id/berita/sgi6z0467/ekonomi-jadi-isu-penting-di-pilpres-as"
+    },
+    {
         "title": "Arogansi Oknum Pemuda Pancasila Kembali Terulang, Begini 3 Peringatan Rasulullah SAW",
         "category": "Iqra",
-        "publish_time": "12-07-2024 09:07",
+        "publish_time": "12-07-2024 09:12",
         "news_link": "https://iqra.republika.co.id/berita/sgi6pq320/arogansi-oknum-pemuda-pancasila-kembali-terulang-begini-3-peringatan-rasulullah-saw"
     },
     {
         "title": "Gerinda dan PKS Berkoalisi di Sumbar, Duetkan Mahyeldi-Vasco",
         "category": "News",
-        "publish_time": "12-07-2024 09:01",
+        "publish_time": "12-07-2024 09:12",
         "news_link": "https://news.republika.co.id/berita/sgi6f3484/gerinda-dan-pks-berkoalisi-di-sumbar-duetkan-mahyeldivasco"
     },
     {
         "title": "Keindahan Pantai Jungwok Gunung Kidul Yogyakarta",
         "category": "Network",
-        "publish_time": "12-07-2024 08:53",
+        "publish_time": "12-07-2024 09:12",
         "news_link": "https://topnews62.com/posts/318936/keindahan-pantai-jungwok-gunung-kidul-yogyakarta"
     },
     {
         "title": "Hadits Arbain ke-19 Jagalah Allah",
         "category": "Network",
-        "publish_time": "12-07-2024 08:53",
+        "publish_time": "12-07-2024 09:12",
         "news_link": "https://sajada.id/posts/318920/hadits-arbain-ke-19-jagalah-allah"
     },
     {
         "title": "Pendidikan Pesantren Dijamin Undang-Undang, Dianggap tak Perlu Terapkan Ujian Kesetaraan",
         "category": "News",
-        "publish_time": "12-07-2024 08:51",
+        "publish_time": "12-07-2024 09:12",
         "news_link": "https://news.republika.co.id/berita/sgi5ym456/pendidikan-pesantren-dijamin-undangundang-dianggap-tak-perlu-terapkan-ujian-kesetaraan"
     },
     {
         "title": "Oknum Polantas Pelaku Pungli Uang Receh di Tol Halim Dimutasi",
         "category": "News",
-        "publish_time": "12-07-2024 08:50",
+        "publish_time": "12-07-2024 09:12",
         "news_link": "https://news.republika.co.id/berita/sgi5xe409/oknum-polantas-pelaku-pungli-uang-receh-di-tol-halim-dimutasi"
     },
     {
         "title": "Danlanud: Perawatan Korban Tembak di Palu Ditanggung TNI AU",
         "category": "News",
-        "publish_time": "12-07-2024 08:49",
+        "publish_time": "12-07-2024 09:12",
         "news_link": "https://news.republika.co.id/berita/sgi5w3484/danlanud-perawatan-korban-tembak-di-palu-ditanggung-tni-au"
     },
     {
         "title": "Warisan Ustadz Yazid Jawas untuk Umat: Mulia dengan Manhaj Salaf",
         "category": "Rejabar",
-        "publish_time": "12-07-2024 08:49",
+        "publish_time": "12-07-2024 09:12",
         "news_link": "https://rejabar.republika.co.id/berita/sgi5vo282/warisan-ustadz-yazid-jawas-untuk-umat-mulia-dengan-manhaj-salaf"
     },
     {
         "title": "Mengapa Malaikat Jibril tak Sudi Melihat Firaun 'Bertobat'?",
         "category": "Khazanah",
-        "publish_time": "12-07-2024 08:46",
+        "publish_time": "12-07-2024 09:12",
         "news_link": "https://khazanah.republika.co.id/berita/sgi5pm458/mengapa-malaikat-jibril-tak-sudi-melihat-firaun-bertobat"
     },
     {
         "title": "Verifikasi Akhir Selesai, Dana KJP Plus Cair Jumat Ini",
         "category": "News",
-        "publish_time": "12-07-2024 08:35",
+        "publish_time": "12-07-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/sgi57n484/verifikasi-akhir-selesai-dana-kjp-plus-cair-jumat-ini"
     },
     {
         "title": "Adu Ketangkasan Prajurit Marinir di Lomba Binsat",
         "category": "Visual",
-        "publish_time": "12-07-2024 08:29",
+        "publish_time": "12-07-2024 08:12",
         "news_link": "https://visual.republika.co.id/berita/sgi2x2375/adu-ketangkasan-prajurit-marinir-di-lomba-binsat"
     },
     {
         "title": "Jokowi: Semua Komoditas Harus Masuk Industrialisasi dan Hilirisasi",
         "category": "News",
-        "publish_time": "12-07-2024 08:27",
+        "publish_time": "12-07-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/sgi4um484/jokowi-semua-komoditas-harus-masuk-industrialisasi-dan-hilirisasi"
     },
     {
         "title": "Depok Gelar Diseminasi Audit Kasus Stunting di Kecamatan Beji dan Pancoran Mas",
         "category": "Network",
-        "publish_time": "12-07-2024 08:25",
+        "publish_time": "12-07-2024 08:12",
         "news_link": "https://ruzka.republika.co.id/serba-serbi/1674855964/depok-gelar-diseminasi-audit-kasus-stunting-di-kecamatan-beji-dan-pancoran-mas"
     },
     {
         "title": "Jangan Lewatkan, Ini Jadwal Puasa Tasua dan Asyura Versi NU dan Muhammadiyah",
         "category": "Khazanah",
-        "publish_time": "12-07-2024 08:23",
+        "publish_time": "12-07-2024 08:12",
         "news_link": "https://khazanah.republika.co.id/berita/sgi4oe320/jangan-lewatkan-ini-jadwal-puasa-tasua-dan-asyura-versi-nu-dan-muhammadiyah"
     },
     {
         "title": "Erick Thohir Dorong Pertamina Sebagai BUMN Kelas Global",
         "category": "Ekonomi",
-        "publish_time": "12-07-2024 08:14",
+        "publish_time": "12-07-2024 08:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sgi48p490/erick-thohir-dorong-pertamina-sebagai-bumn-kelas-global"
     },
     {
@@ -176,7 +272,7 @@
     {
         "title": "Bikin Warga Happy, Universitas BSI Kampus BSD Gelar Tabligh Akbar dan Bazar UMKM",
         "category": "News",
-        "publish_time": "12-07-2024 07:12",
+        "publish_time": "12-07-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/sgi2ru490/bikin-warga-happy-universitas-bsi-kampus-bsd-gelar-tabligh-akbar-dan-bazar-umkm"
     },
     {
@@ -202,101 +298,5 @@
         "category": "Network",
         "publish_time": "12-07-2024 07:12",
         "news_link": "https://kangjepret.republika.co.id/posts/318925/seabad-paf-bandung-gelar-pameran-salon-foto-indonesia-2024"
-    },
-    {
-        "title": "Para Ahli Tauhid Pra-Islam",
-        "category": "Khazanah",
-        "publish_time": "12-07-2024 07:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sgi29c458/para-ahli-tauhid-praislam"
-    },
-    {
-        "title": "Ketua DPRD Kabupaten Rembang Sudah Sebulan Ditahan di Arab Saudi",
-        "category": "News",
-        "publish_time": "12-07-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/sgi215484/ketua-dprd-kabupaten-rembang-sudah-sebulan-ditahan-di-arab-saudi"
-    },
-    {
-        "title": "Genap Berumur 100 Tahun, PAF Bandung Gelar Pameran Salon Foto Indonesia (SFI) 2024",
-        "category": "Network",
-        "publish_time": "12-07-2024 07:12",
-        "news_link": "https://cari.republika.co.id/posts/318923/genap-berumur-100-tahun-paf-bandung-gelar-pameran-salon-foto-indonesia-sfi-2024"
-    },
-    {
-        "title": "Hashim Sebut Prabowo akan Naikkan Rasio Utang Jadi 50 Persen",
-        "category": "News",
-        "publish_time": "12-07-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/sgi1kn484/hashim-sebut-prabowo-akan-naikkan-rasio-utang-jadi-50-persen"
-    },
-    {
-        "title": "Buntut Ricuh Usai Sidang Vonis SYL, Polisi Selidiki Pelaku Pemukulan yang Diduga Ormas",
-        "category": "News",
-        "publish_time": "12-07-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/sgi1ka377/buntut-ricuh-usai-sidang-vonis-syl-polisi-selidiki-pelaku-pemukulan-yang-diduga-ormas"
-    },
-    {
-        "title": "Francois Letexier, Wasit Final Euro 2024 yang Pernah Jadi Sasaran Amarah Netizen Indonesia",
-        "category": "News",
-        "publish_time": "12-07-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/sgi1jz348/francois-letexier-wasit-final-euro-2024-yang-pernah-jadi-sasaran-amarah-netizen-indonesia"
-    },
-    {
-        "title": "Strategi Golkar Rayu Kaesang di Jakarta, Tawarkan Jusuf Hamka Cawagub, RK Tetap di Jabar",
-        "category": "News",
-        "publish_time": "12-07-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/sgi18w377/strategi-golkar-rayu-kaesang-di-jakarta-tawarkan-jusuf-hamka-cawagub-rk-tetap-di-jabar"
-    },
-    {
-        "title": "Usai Tepati Janji Selebrasi Gol dengan Cadangan Inggris, Watkins Ingin Cetak Sejarah",
-        "category": "News",
-        "publish_time": "12-07-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/sgi0w5348/usai-tepati-janji-selebrasi-gol-dengan-cadangan-inggris-watkins-ingin-cetak-sejarah"
-    },
-    {
-        "title": "Peneliti Ungkap Penyebab Penjualan Mobil Cenderung Stagnan di Masa Pemerintahan Jokowi",
-        "category": "Ekonomi",
-        "publish_time": "12-07-2024 07:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sgi0rg349/peneliti-ungkap-penyebab-penjualan-mobil-cenderung-stagnan-di-masa-pemerintahan-jokowi"
-    },
-    {
-        "title": "Lautan Manusia Antar Kepergian Ustadz Yazid Jawas ke Peristirahatan Terakhir di Los Empang",
-        "category": "News",
-        "publish_time": "12-07-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/sgi046409/lautan-manusia-antar-kepergian-ustadz-yazid-jawas-ke-peristirahatan-terakhir-di-los-empang"
-    },
-    {
-        "title": "Diikuti 300 Peserta, JakOne Mobile Indonesia Open Class 2024 Round 4 Sukses Besar",
-        "category": "Network",
-        "publish_time": "12-07-2024 07:12",
-        "news_link": "https://impresi.republika.co.id/news/1694855600/diikuti-300-peserta-jakone-mobile-indonesia-open-class-2024-round-4-sukses-besar"
-    },
-    {
-        "title": "Pj Heru: Proyek Galian di Jakarta Bagian dari Hadapi Krisis Air",
-        "category": "News",
-        "publish_time": "12-07-2024 06:12",
-        "news_link": "https://news.republika.co.id/berita/sghzz6377/pj-heru-proyek-galian-di-jakarta-bagian-dari-hadapi-krisis-air"
-    },
-    {
-        "title": "CONMEBOL Selidiki Insiden Perkelahian Kolombia Vs Uruguay di Copa America",
-        "category": "News",
-        "publish_time": "12-07-2024 06:12",
-        "news_link": "https://news.republika.co.id/berita/sghzy5348/conmebol-selidiki-insiden-perkelahian-kolombia-vs-uruguay-di-copa-america"
-    },
-    {
-        "title": "Laporan: Bom Buatan AS Dipakai Israel untuk Mengebom Sekolah di Gaza",
-        "category": "News",
-        "publish_time": "12-07-2024 06:12",
-        "news_link": "https://news.republika.co.id/berita/sghzoi377/laporan-bom-buatan-as-dipakai-israel-untuk-mengebom-sekolah-di-gaza"
-    },
-    {
-        "title": "Akademisi Dukung Program Perlindungan Perempuan, Anak dan Remaja Indonesia",
-        "category": "Network",
-        "publish_time": "12-07-2024 06:12",
-        "news_link": "https://genpop.republika.co.id/posts/318911/akademisi-dukung-program-perlindungan-perempuan-anak-dan-remaja-indonesia"
-    },
-    {
-        "title": "Lautan Manusia Berbondong-bondong Sholatkan Ustadz Yazid Jawas, dari Masjid Hingga Makam",
-        "category": "News",
-        "publish_time": "12-07-2024 06:12",
-        "news_link": "https://news.republika.co.id/berita/sghz4a377/lautan-manusia-berbondongbondong-sholatkan-ustadz-yazid-jawas-dari-masjid-hingga-makam"
     }
 ]
