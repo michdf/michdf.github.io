@@ -1,56 +1,140 @@
 [
     {
+        "title": "Jasad Pria Tanpa Identitas Ditemukan di Parit di Bandung, Terdapat Luka Tusuk",
+        "category": "Rejabar",
+        "publish_time": "12-07-2024 04:07",
+        "news_link": "https://rejabar.republika.co.id/berita/sghsra512/jasad-pria-tanpa-identitas-ditemukan-di-parit-di-bandung-terdapat-luka-tusuk"
+    },
+    {
+        "title": "Selip Lidah saat Konpers, Joe Biden panggil Zelenskyy Presiden Putin",
+        "category": "Khazanah",
+        "publish_time": "12-07-2024 04:05",
+        "news_link": "https://khazanah.republika.co.id/berita/sghqzh451/selip-lidah-saat-konpers-joe-biden-panggil-zelenskyy-presiden-putin"
+    },
+    {
+        "title": "Wapres Sebut Logistik Jadi Salah Satu Penyokong Pertumbuhan Ekonomi",
+        "category": "News",
+        "publish_time": "12-07-2024 03:59",
+        "news_link": "https://news.republika.co.id/berita/sghrsm451/wapres-sebut-logistik-jadi-salah-satu-penyokong-pertumbuhan-ekonomi"
+    },
+    {
+        "title": "Ribuan Orang Antarkan Ustaz Yazid Jawas ke Tempat Peristirahatan Terakhir",
+        "category": "News",
+        "publish_time": "12-07-2024 03:53",
+        "news_link": "https://news.republika.co.id/berita/sghs4p377/ribuan-orang-antarkan-ustaz-yazid-jawas-ke-tempat-peristirahatan-terakhir"
+    },
+    {
+        "title": "Dosen dan Mahasiswa FEB UMJ Ikuti AGBA 20th Conference di Thailand",
+        "category": "News",
+        "publish_time": "12-07-2024 03:53",
+        "news_link": "https://news.republika.co.id/berita/sghs3z423/dosen-dan-mahasiswa-feb-umj-ikuti-agba-20th-conference-di-thailand"
+    },
+    {
+        "title": "Trauma Bangsa Arab terhadap Patung, Rasul Larang Pembuat Patung, dan Kisah Aisyah",
+        "category": "Khazanah",
+        "publish_time": "12-07-2024 03:40",
+        "news_link": "https://khazanah.republika.co.id/berita/sghqml451/trauma-bangsa-arab-terhadap-patung-rasul-larang-pembuat-patung-dan-kisah-aisyah"
+    },
+    {
+        "title": "Dibebaskan Hamas, Sandera Warga Israel Ini Justru Ingin Tembak Netanyahu",
+        "category": "News",
+        "publish_time": "12-07-2024 03:40",
+        "news_link": "https://news.republika.co.id/berita/sghrif377/dibebaskan-hamas-sandera-warga-israel-ini-justru-ingin-tembak-netanyahu"
+    },
+    {
+        "title": "Pijar Foundation dan 41 Tokoh Muda Sepakati Rencana Aksi Ekonomi dan Iklim",
+        "category": "Ekonomi",
+        "publish_time": "12-07-2024 03:34",
+        "news_link": "https://ekonomi.republika.co.id/berita/sghr9o456/pijar-foundation-dan-41-tokoh-muda-sepakati-rencana-aksi-ekonomi-dan-iklim"
+    },
+    {
+        "title": "Raih MVP Lokal IBL, Abraham Damar Berterima Kasih kepada Satria Muda",
+        "category": "News",
+        "publish_time": "12-07-2024 03:34",
+        "news_link": "https://news.republika.co.id/berita/sghr9n348/raih-mvp-lokal-ibl-abraham-damar-berterima-kasih-kepada-satria-muda"
+    },
+    {
+        "title": "Menteri Bahlil: Hilirisasi Jalan ke Arah Indonesia Emas",
+        "category": "Network",
+        "publish_time": "12-07-2024 03:28",
+        "news_link": "https://genpop.republika.co.id/posts/318883/menteri-bahlil-hilirisasi-jalan-ke-arah-indonesia-emas"
+    },
+    {
+        "title": "Tolak Gencatan Senjata, Komandan Israel Perintahkan Bunuh Warga Gaza",
+        "category": "Khazanah",
+        "publish_time": "12-07-2024 03:21",
+        "news_link": "https://khazanah.republika.co.id/berita/sghq3o451/tolak-gencatan-senjata-komandan-israel-perintahkan-bunuh-warga-gaza"
+    },
+    {
+        "title": "Tutup Mulut Hoax Tentang Kakaknya Ariana Grande yang Kanibal, Frankie Grande: Dia Vegan!",
+        "category": "Network",
+        "publish_time": "12-07-2024 03:21",
+        "news_link": "https://impresi.republika.co.id/sana-sini/1694854761/tutup-mulut-hoax-tentang-kakaknya-ariana-grande-yang-kanibal-frankie-grande-dia-vegan"
+    },
+    {
+        "title": "Ribuan Ton Sampah Menumpuk di Gaza Ancam Nyawa Pengungsi",
+        "category": "Esgnow",
+        "publish_time": "12-07-2024 03:20",
+        "news_link": "https://esgnow.republika.co.id/berita/sghqlu348/ribuan-ton-sampah-menumpuk-di-gaza-ancam-nyawa-pengungsi"
+    },
+    {
+        "title": "Membangun Karier Gemilang, Universitas BSI Gelar Seminar Pengembangan Karier",
+        "category": "News",
+        "publish_time": "12-07-2024 03:15",
+        "news_link": "https://news.republika.co.id/berita/sghqdj423/membangun-karier-gemilang-universitas-bsi-gelar-seminar-pengembangan-karier"
+    },
+    {
         "title": "Duel Spanyol Vs Inggris, Bukan Duel Klasik Eropa",
         "category": "News",
-        "publish_time": "12-07-2024 03:09",
+        "publish_time": "12-07-2024 03:13",
         "news_link": "https://news.republika.co.id/berita/sghq46348/duel-spanyol-vs-inggris-bukan-duel-klasik-eropa"
     },
     {
         "title": "Kunjungi Pesantren Darunnajah, Grand Syaikh al-Azhar Sampaikan Sejumlah Pesan",
         "category": "Khazanah",
-        "publish_time": "12-07-2024 03:03",
+        "publish_time": "12-07-2024 03:13",
         "news_link": "https://khazanah.republika.co.id/berita/sghpt6451/kunjungi-pesantren-darunnajah-grand-syaikh-alazhar-sampaikan-sejumlah-pesan"
     },
     {
         "title": "Komitmen Tinggi pada Keberlanjutan, Bank bjb Raih Penghargaan Best ESG",
         "category": "Ekonomi",
-        "publish_time": "12-07-2024 03:01",
+        "publish_time": "12-07-2024 03:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sghppl423/komitmen-tinggi-pada-keberlanjutan-bank-bjb-raih-penghargaan-best-esg"
     },
     {
         "title": "12 ribu Jiwa Terdampak Banjir di Kota Gorontalo",
         "category": "Visual",
-        "publish_time": "12-07-2024 03:00",
+        "publish_time": "12-07-2024 03:13",
         "news_link": "https://visual.republika.co.id/berita/sgh05w375/12-ribu-jiwa-terdampak-banjir-di-kota-gorontalo"
     },
     {
         "title": "Slipknot Umumkan Konser Utama Pertama di Mexico City",
         "category": "Network",
-        "publish_time": "12-07-2024 02:54",
+        "publish_time": "12-07-2024 03:13",
         "news_link": "https://impresi.republika.co.id/musik/1694854664/slipknot-umumkan-konser-utama-pertama-di-mexico-city"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini: Sebagian Besar Kota Besar Cerah Berawan pada Jumat",
         "category": "News",
-        "publish_time": "12-07-2024 02:51",
+        "publish_time": "12-07-2024 03:13",
         "news_link": "https://news.republika.co.id/berita/sghp9j366/prakiraan-cuaca-hari-ini-sebagian-besar-kota-besar-cerah-berawan-pada-jumat"
     },
     {
         "title": "Dukung Atlet dan Kontingen DIY di PON 2024, GKR Bendara Ajak Warga Ikuti Fun Bike",
         "category": "News",
-        "publish_time": "12-07-2024 02:51",
+        "publish_time": "12-07-2024 03:13",
         "news_link": "https://news.republika.co.id/berita/sghp98348/dukung-atlet-dan-kontingen-diy-di-pon-2024-gkr-bendara-ajak-warga-ikuti-fun-bike"
     },
     {
         "title": "Halte Transjakarta GBK Diubah Namanya Jadi Halte Senayan Bank DKI",
         "category": "News",
-        "publish_time": "12-07-2024 02:40",
+        "publish_time": "12-07-2024 02:13",
         "news_link": "https://news.republika.co.id/berita/sghorg484/halte-transjakarta-gbk-diubah-namanya-jadi-halte-senayan-bank-dki"
     },
     {
         "title": "Iri Lihat Medos Picu Belanja Berlebihan",
         "category": "Video",
-        "publish_time": "12-07-2024 02:19",
+        "publish_time": "12-07-2024 02:13",
         "news_link": "https://tv.republika.co.id/berita/sghigo313/iri-lihat-medos-picu-belanja-berlebihan"
     },
     {
@@ -214,89 +298,5 @@
         "category": "News",
         "publish_time": "12-07-2024 00:13",
         "news_link": "https://news.republika.co.id/berita/sghi22348/stadeo-bahas-soal-rumor-nova-arianto-menangani-timnas-di-piala-aff-pagi-ini"
-    },
-    {
-        "title": "Dubes: Kondisi WNI di Yordania Aman Deski Dekat dengan Tepi Barat",
-        "category": "News",
-        "publish_time": "12-07-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/sghhxd366/dubes-kondisi-wni-di-yordania-aman-deski-dekat-dengan-tepi-barat"
-    },
-    {
-        "title": "Sudaryono, Mantan Asisten Prabowo Masuk Radar PAN di Pilgub Jateng",
-        "category": "News",
-        "publish_time": "12-07-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/sghhg9377/sudaryono-mantan-asisten-prabowo-masuk-radar-pan-di-pilgub-jateng"
-    },
-    {
-        "title": "Punya Mimpi Kuliah di Luar Negeri? Wajib Pertimbangkan 5 Hal Ini Dulu",
-        "category": "Network",
-        "publish_time": "12-07-2024 00:13",
-        "news_link": "https://impresi.republika.co.id/didaktika/1694854143/punya-mimpi-kuliah-di-luar-negeri-wajib-pertimbangkan-5-hal-ini-dulu"
-    },
-    {
-        "title": "Persiapan Timnas U-19 Jelang Piala AFF di Surabaya",
-        "category": "Visual",
-        "publish_time": "12-07-2024 00:13",
-        "news_link": "https://visual.republika.co.id/berita/sggzvk375/persiapan-timnas-u19-jelang-piala-aff-di-surabaya"
-    },
-    {
-        "title": "Silaturahim to Muhammadiyah, Grand Sheikh al-Azhar Discusses Religious and Humanitarian Issues",
-        "category": "En",
-        "publish_time": "3 hours ago",
-        "news_link": "https://en.republika.co.id/berita/sggpma415/silaturahim-to-muhammadiyah-grand-sheikh-alazhar-discusses-religious-and-humanitarian-issues"
-    },
-    {
-        "title": "Makin Parah, Joe Biden Keliru Sebut Presiden Ukraina Sebagai Putin",
-        "category": "News",
-        "publish_time": "12-07-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/sghh3d393/makin-parah-joe-biden-keliru-sebut-presiden-ukraina-sebagai-putin"
-    },
-    {
-        "title": "Top 10 Ponsel Kamera Terbaik Saat Ini, Mana Pilihan Anda?",
-        "category": "Network",
-        "publish_time": "12-07-2024 00:13",
-        "news_link": "https://impresi.republika.co.id/sana-sini/1694854118/top-10-ponsel-kamera-terbaik-saat-ini-mana-pilihan-anda"
-    },
-    {
-        "title": "Mengapa Dinamakan Makkah?",
-        "category": "Khazanah",
-        "publish_time": "12-07-2024 00:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sghgpb430/mengapa-dinamakan-makkah"
-    },
-    {
-        "title": "Elektabilitas Anies di DKI Jakarta Tinggi, Kaesang: Golkar Pasti Punya Jagoan",
-        "category": "News",
-        "publish_time": "12-07-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/sghgow377/elektabilitas-anies-di-dki-jakarta-tinggi-kaesang-golkar-pasti-punya-jagoan"
-    },
-    {
-        "title": "Ini Reaksi Babah Alun Saat Disodorkan Jadi Pendamping Kaesang di Pilgub DKI",
-        "category": "News",
-        "publish_time": "11-07-2024 23:13",
-        "news_link": "https://news.republika.co.id/berita/sghgfc377/ini-reaksi-babah-alun-saat-disodorkan-jadi-pendamping-kaesang-di-pilgub-dki"
-    },
-    {
-        "title": "Mentan-TNI AL Sinergi Akselerasi Ketahanan Pangan dari Iklim Ekstrem",
-        "category": "News",
-        "publish_time": "11-07-2024 23:13",
-        "news_link": "https://news.republika.co.id/berita/sghdoa451/mentantni-al-sinergi-akselerasi-ketahanan-pangan-dari-iklim-ekstrem"
-    },
-    {
-        "title": "10 Jenis Maksiat Hati yang Perlu Dihindari, Salah Satunya Menyebut-nyebut Sedekah",
-        "category": "Iqra",
-        "publish_time": "11-07-2024 23:13",
-        "news_link": "https://iqra.republika.co.id/berita/sggox2483/10-jenis-maksiat-hati-yang-perlu-dihindari-salah-satunya-menyebutnyebut-sedekah"
-    },
-    {
-        "title": "Manchester United Umumkan Kembalinya Van Nistelrooy, Jadi Asisten Ten Hag Musim Depan",
-        "category": "News",
-        "publish_time": "11-07-2024 23:13",
-        "news_link": "https://news.republika.co.id/berita/sghfyt348/manchester-united-umumkan-kembalinya-van-nistelrooy-jadi-asisten-ten-hag-musim-depan"
-    },
-    {
-        "title": "Terungkap Data Ekonomi Israel \u2018Kolaps\u2019, 40 Ribu Unit Bisnis Tutup Sejak 7 Oktober",
-        "category": "News",
-        "publish_time": "11-07-2024 23:13",
-        "news_link": "https://news.republika.co.id/berita/sghftp409/terungkap-data-ekonomi-israel-kolaps-40-ribu-unit-bisnis-tutup-sejak-7-oktober"
     }
 ]
