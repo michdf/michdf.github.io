@@ -1,15 +1,57 @@
 [
     {
+        "title": "Warga Kota Tangerang Bisa Mendapat Santunan Kematian Rp 3 Juta",
+        "category": "News",
+        "publish_time": "13 July 2024, 20:07",
+        "news_link": "https://news.republika.co.id/berita/sgkcg8484/warga-kota-tangerang-bisa-mendapat-santunan-kematian-rp-3-juta"
+    },
+    {
+        "title": "Kunci Sukses Ulama Dahulu Belajar, Begini Penjelasannya",
+        "category": "Khazanah",
+        "publish_time": "13 July 2024, 20:00",
+        "news_link": "https://khazanah.republika.co.id/berita/sgk2sv451/kunci-sukses-ulama-dahulu-belajar-begini-penjelasannya"
+    },
+    {
+        "title": "Vietnam Beli Listrik Panel Surya Perumahan dan Kantor",
+        "category": "Esgnow",
+        "publish_time": "13 July 2024, 20:00",
+        "news_link": "https://esgnow.republika.co.id/berita/sgk9hj416/vietnam-beli-listrik-panel-surya-perumahan-dan-kantor"
+    },
+    {
+        "title": "Progres MRT Jakarta Fase 2: Stasiun Kota dan Stasiun Glodok Terhubung",
+        "category": "Video",
+        "publish_time": "13 July 2024, 19:57",
+        "news_link": "https://tv.republika.co.id/berita/sgkbzc313/progres-mrt-jakarta-fase-2-stasiun-kota-dan-stasiun-glodok-terhubung"
+    },
+    {
+        "title": "Teknologi Sinyal Photoplethysmography (PPG) dan AI Untuk Pantau Diabetes Tanpa Jarum",
+        "category": "Network",
+        "publish_time": "13 July 2024, 19:43",
+        "news_link": "https://ruzkaindonesia.id/posts/319099/teknologi-sinyal-photoplethysmography-ppg-dan-ai-untuk-pantau-diabetes-tanpa-jarum"
+    },
+    {
+        "title": "Olimpiade 2024: Tim Indonesia Sudah Terbang ke Paris",
+        "category": "Network",
+        "publish_time": "13 July 2024, 19:43",
+        "news_link": "https://badmintonews.id/posts/319098/olimpiade-2024-tim-indonesia-sudah-terbang-ke-paris"
+    },
+    {
+        "title": "Berbincang Mesra dengan Mahasiswa Universitas BSI yang Terbang ke Spanyol Melalui BKOT",
+        "category": "News",
+        "publish_time": "13 July 2024, 19:42",
+        "news_link": "https://news.republika.co.id/berita/sgk8fx370/berbincang-mesra-dengan-mahasiswa-universitas-bsi-yang-terbang-ke-spanyol-melalui-bkot"
+    },
+    {
+        "title": "Uji Coba Makan Siang Gratis di Kota Tangerang Sasar 20.157 Siswa",
+        "category": "News",
+        "publish_time": "13 July 2024, 19:28",
+        "news_link": "https://news.republika.co.id/berita/sgkanw328/uji-coba-makan-siang-gratis-di-kota-tangerang-sasar-20157-siswa"
+    },
+    {
         "title": "Prabowo: Pembangunan Butuh Tentara Kuat, Polisi Hebat",
         "category": "News",
         "publish_time": "13 July 2024, 19:05",
         "news_link": "https://news.republika.co.id/berita/sgk9l7475/prabowo-pembangunan-butuh-tentara-kuat-polisi-hebat"
-    },
-    {
-        "title": "SMK Panca Bhakti Sungai Raya dan Universitas BSI Gelar Workshop AI",
-        "category": "News",
-        "publish_time": "13 July 2024, 19:05",
-        "news_link": "https://news.republika.co.id/berita/sgk8ao370/smk-panca-bhakti-sungai-raya-dan-universitas-bsi-gelar-workshop-ai"
     },
     {
         "title": "Bincang Santai Bareng Kampus dan Orang Tua di Universitas BSI Kampus Margonda",
@@ -18,16 +60,22 @@
         "news_link": "https://news.republika.co.id/berita/sgk8l7370/bincang-santai-bareng-kampus-dan-orang-tua-di-universitas-bsi-kampus-margonda"
     },
     {
+        "title": "SMK Panca Bhakti Sungai Raya dan Universitas BSI Gelar Workshop AI",
+        "category": "News",
+        "publish_time": "13 July 2024, 19:05",
+        "news_link": "https://news.republika.co.id/berita/sgk8ao370/smk-panca-bhakti-sungai-raya-dan-universitas-bsi-gelar-workshop-ai"
+    },
+    {
         "title": "PSI Sodorkan Marshall Chandra dan Arfi Rafnialdi di Pilkada Bandung",
         "category": "Rejabar",
         "publish_time": "13 July 2024, 19:03",
         "news_link": "https://rejabar.republika.co.id/berita/sgk9hq328/psi-sodorkan-marshall-chandra-dan-arfi-rafnialdi-di-pilkada-bandung"
     },
     {
-        "title": "Zina Dimana-Mana alias Seks Bebas, Tanda Kiamat Semakin Dekat",
+        "title": "Zina di Mana-Mana alias Seks Bebas, Tanda Kiamat Semakin Dekat",
         "category": "Khazanah",
         "publish_time": "13 July 2024, 19:00",
-        "news_link": "https://khazanah.republika.co.id/berita/sgjg1j451/zina-dimanamana-alias-seks-bebas-tanda-kiamat-semakin-dekat"
+        "news_link": "https://khazanah.republika.co.id/berita/sgjg1j451/zina-di-manamana-alias-seks-bebas-tanda-kiamat-semakin-dekat"
     },
     {
         "title": "Pemerintah Inggris Setujui Pembangunan PLTS Kontroversial",
@@ -250,53 +298,5 @@
         "category": "Esgnow",
         "publish_time": "13 July 2024, 16:03",
         "news_link": "https://esgnow.republika.co.id/berita/sgk020416/kecerdasan-buatan-kemajuan-teknologi-yang-ternyata-membahayakan-lingkungan"
-    },
-    {
-        "title": "Polisi Ciduk 31 Orang Kala Razia Narkoba di Kampung Muara Bahari",
-        "category": "News",
-        "publish_time": "13 July 2024, 16:02",
-        "news_link": "https://news.republika.co.id/berita/sgk149484/polisi-ciduk-31-orang-kala-razia-narkoba-di-kampung-muara-bahari"
-    },
-    {
-        "title": "Alasan Protein Hewani Penting Bagi Anak dengan Kanker",
-        "category": "Ameera",
-        "publish_time": "13 July 2024, 16:02",
-        "news_link": "https://ameera.republika.co.id/berita/sgk13c328/alasan-protein-hewani-penting-bagi-anak-dengan-kanker"
-    },
-    {
-        "title": "Sedang Sholat, Mendadak Ragu Kentut atau Tidak, Begini Penjelasannya",
-        "category": "Khazanah",
-        "publish_time": "13 July 2024, 16:00",
-        "news_link": "https://khazanah.republika.co.id/berita/sgjhog451/sedang-sholat-mendadak-ragu-kentut-atau-tidak-begini-penjelasannya"
-    },
-    {
-        "title": "Negara Tropis Pertahanan Terakhir Bumi",
-        "category": "Esgnow",
-        "publish_time": "13 July 2024, 16:00",
-        "news_link": "https://esgnow.republika.co.id/berita/sgjwx8416/negara-tropis-pertahanan-terakhir-bumi"
-    },
-    {
-        "title": "Nelayan Tapanuli Tengah Kini Gunakan Listrik dari SPLU PLN di Tempat Pelelangan Ikan",
-        "category": "Ekonomi",
-        "publish_time": "13 July 2024, 15:55",
-        "news_link": "https://ekonomi.republika.co.id/berita/sgk0s8370/nelayan-tapanuli-tengah-kini-gunakan-listrik-dari-splu-pln-di-tempat-pelelangan-ikan"
-    },
-    {
-        "title": "Dengan Suara Bergetar, Dokter Asal Gaza Berterimakasih Dapat Beasiswa PPDS di Indonesia",
-        "category": "Khazanah",
-        "publish_time": "13 July 2024, 15:52",
-        "news_link": "https://khazanah.republika.co.id/berita/sgk0mw483/dengan-suara-bergetar-dokter-asal-gaza-berterimakasih-dapat-beasiswa-ppds-di-indonesia"
-    },
-    {
-        "title": "Satlantas Polrestro Depok Tangani Tumpahan Solar di Jalan Juanda",
-        "category": "Network",
-        "publish_time": "13 July 2024, 15:49",
-        "news_link": "https://ruzka.republika.co.id/news/1674859275/satlantas-polrestro-depok-tangani-tumpahan-solar-di-jalan-juanda"
-    },
-    {
-        "title": "China dan Rusia Gelar Latihan Militer Bersama Dekat Perbatasan Jepang",
-        "category": "News",
-        "publish_time": "13 July 2024, 15:48",
-        "news_link": "https://news.republika.co.id/berita/sgk0hn484/china-dan-rusia-gelar-latihan-militer-bersama-dekat-perbatasan-jepang"
     }
 ]
