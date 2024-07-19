@@ -1,128 +1,266 @@
 [
     {
+        "title": "Catat Tanggalnya! PLN Bagi-bagi Hadiah untuk Pelanggan dalam Gelegar PLN Mobile 2024",
+        "category": "Ekonomi",
+        "publish_time": "19-07-2024 12:15",
+        "news_link": "https://ekonomi.republika.co.id/berita/sgve2g490/catat-tanggalnya-pln-bagibagi-hadiah-untuk-pelanggan-dalam-gelegar-pln-mobile-2024"
+    },
+    {
+        "title": "Peragaan Busana di Area Stasiun MRT",
+        "category": "Visual",
+        "publish_time": "19-07-2024 12:15",
+        "news_link": "https://visual.republika.co.id/berita/sgvddl375/peragaan-busana-di-area-stasiun-mrt"
+    },
+    {
+        "title": "Suhu Udara Majalengka Lebih Dingin, Ini Kata BMKG",
+        "category": "Rejabar",
+        "publish_time": "19-07-2024 12:12",
+        "news_link": "https://rejabar.republika.co.id/berita/sgvdxa512/suhu-udara-majalengka-lebih-dingin-ini-kata-bmkg"
+    },
+    {
+        "title": "Pasar Prediksi Sri Mulyani tak Lanjut Jadi Menkeu, IHSG Melemah",
+        "category": "Ekonomi",
+        "publish_time": "19-07-2024 12:11",
+        "news_link": "https://ekonomi.republika.co.id/berita/sgvdva490/pasar-prediksi-sri-mulyani-tak-lanjut-jadi-menkeu-ihsg-melemah"
+    },
+    {
+        "title": "Israel Serang Sekolah di Gaza dan Penilaian Rusia",
+        "category": "Khazanah",
+        "publish_time": "19-07-2024 12:06",
+        "news_link": "https://khazanah.republika.co.id/berita/sgv93u451/israel-serang-sekolah-di-gaza-dan-penilaian-rusia"
+    },
+    {
+        "title": "Jokowi Jelaskan Pelantikan Tiga Wamen Perlancar Transisi Pemerintahan",
+        "category": "News",
+        "publish_time": "19-07-2024 11:58",
+        "news_link": "https://news.republika.co.id/berita/sgvda7484/jokowi-jelaskan-pelantikan-tiga-wamen-perlancar-transisi-pemerintahan"
+    },
+    {
+        "title": "16 Faktor Penyebab Keluar dari Islam, Apa Saja?",
+        "category": "Khazanah",
+        "publish_time": "19-07-2024 11:58",
+        "news_link": "https://khazanah.republika.co.id/berita/sgvd93320/16-faktor-penyebab-keluar-dari-islam-apa-saja"
+    },
+    {
+        "title": "Dorong UMKM Naik Kelas, Bea Cukai Beri Asistensi UMKM melalui Coaching Clinic 2024",
+        "category": "Beacukai",
+        "publish_time": "19-07-2024 11:54",
+        "news_link": "https://republika.co.id/berita/sgvd2a490/dorong-umkm-naik-kelas-bea-cukai-beri-asistensi-umkm-melalui-coaching-clinic-2024"
+    },
+    {
+        "title": "Perjalanan Hidayah Sang Dai Chinese-Malaysia",
+        "category": "Khazanah",
+        "publish_time": "19-07-2024 11:53",
+        "news_link": "https://www.republika.id/posts/53911/perjalanan-hidayah-sang-dai-chinese-malaysia"
+    },
+    {
+        "title": "Gangguan Sistem Microsoft Global Ganggu Bandara Sedunia",
+        "category": "News",
+        "publish_time": "19-07-2024 11:50",
+        "news_link": "https://news.republika.co.id/berita/sgvcwv393/gangguan-sistem-microsoft-global-ganggu-bandara-sedunia"
+    },
+    {
+        "title": "Pertamina Patra Niaga Sambut Era Energi Bersih di GIIAS 2024",
+        "category": "Ekonomi",
+        "publish_time": "19-07-2024 11:49",
+        "news_link": "https://ekonomi.republika.co.id/berita/sgvcuj490/pertamina-patra-niaga-sambut-era-energi-bersih-di-giias-2024"
+    },
+    {
+        "title": "Didesain Ramah Lingkungan, Seperti Ini Penampakan Kampung Atlet Olimpiade Paris",
+        "category": "Visual",
+        "publish_time": "19-07-2024 11:48",
+        "news_link": "https://visual.republika.co.id/berita/sgvctl375/didesain-ramah-lingkungan-seperti-ini-penampakan-kampung-atlet-olimpiade-paris"
+    },
+    {
+        "title": "Eks Penyidik Sebut Tiga Pihak Ini Harus Didalami Soal Perintangan Penyidikan Harun Masiku",
+        "category": "News",
+        "publish_time": "19-07-2024 11:37",
+        "news_link": "https://news.republika.co.id/berita/sgvcal487/eks-penyidik-sebut-tiga-pihak-ini-harus-didalami-soal-perintangan-penyidikan-harun-masiku"
+    },
+    {
+        "title": "Gangguan Sistem TI Sedunia, Angkasa Pura II: Beberapa Maskapai Lakukan Check-in Manual",
+        "category": "Ekonomi",
+        "publish_time": "19-07-2024 11:34",
+        "news_link": "https://ekonomi.republika.co.id/berita/sgvc64490/gangguan-sistem-ti-sedunia-angkasa-pura-ii-beberapa-maskapai-lakukan-checkin-manual"
+    },
+    {
+        "title": "Pernyataan Terbaru PBB Soal Two States Solution Israel dan Palestina",
+        "category": "Khazanah",
+        "publish_time": "19-07-2024 11:30",
+        "news_link": "https://khazanah.republika.co.id/berita/sgv8tn451/pernyataan-terbaru-pbb-soal-two-states-solution-israel-dan-palestina"
+    },
+    {
+        "title": "Helikopter Jatuh di Bali Akibat Terlilit Benang Layangan",
+        "category": "News",
+        "publish_time": "19-07-2024 11:29",
+        "news_link": "https://news.republika.co.id/berita/sgvbxe377/helikopter-jatuh-di-bali-akibat-terlilit-benang-layangan"
+    },
+    {
+        "title": "Poco Pad, Tablet Baru yang Tawarkan Fitur Menarik dengan Harga Bersahabat",
+        "category": "Ameera",
+        "publish_time": "19-07-2024 11:26",
+        "news_link": "https://ameera.republika.co.id/berita/sgvbrr425/poco-pad-tablet-baru-yang-tawarkan-fitur-menarik-dengan-harga-bersahabat"
+    },
+    {
+        "title": "Helikopter PT Whitesky yang Jatuh di Bali Ditumpangi Warga Australia",
+        "category": "News",
+        "publish_time": "19-07-2024 11:24",
+        "news_link": "https://news.republika.co.id/berita/sgvbos484/helikopter-pt-whitesky-yang-jatuh-di-bali-ditumpangi-warga-australia"
+    },
+    {
+        "title": "Bangunan SD Rusak Berat, Ancam Keselamatan Siswa",
+        "category": "Rejabar",
+        "publish_time": "19-07-2024 11:20",
+        "news_link": "https://rejabar.republika.co.id/berita/sgvb7t512/bangunan-sd-rusak-berat-ancam-keselamatan-siswa"
+    },
+    {
+        "title": "Komnas HAM Didesak Investigasi Penembakan Tiga Warga Papua",
+        "category": "News",
+        "publish_time": "19-07-2024 11:20",
+        "news_link": "https://news.republika.co.id/berita/sgvb7c487/komnas-ham-didesak-investigasi-penembakan-tiga-warga-papua"
+    },
+    {
+        "title": "Kontrak Mau Habis, Pupuk Indonesia Tetap Lakukan Salurkan Pupuk Bersubsidi",
+        "category": "Ekonomi",
+        "publish_time": "19-07-2024 11:20",
+        "news_link": "https://ekonomi.republika.co.id/berita/sgvb6p370/kontrak-mau-habis-pupuk-indonesia-tetap-lakukan-salurkan-pupuk-bersubsidi"
+    },
+    {
+        "title": "Kasus Dugaan Mark Up Impor Beras Disebut Bebani Devisa Negara",
+        "category": "Network",
+        "publish_time": "19-07-2024 11:20",
+        "news_link": "https://genpop.republika.co.id/posts/320276/kasus-dugaan-mark-up-impor-beras-disebut-bebani-devisa-negara"
+    },
+    {
         "title": "Penyelenggaraan Ibadah Haji 2024 Dinilai Sukses, Tapi FKKBIHU Jabar Beri Beberapa Evaluasi",
         "category": "Rejabar",
-        "publish_time": "19-07-2024 11:06",
+        "publish_time": "19-07-2024 11:20",
         "news_link": "https://rejabar.republika.co.id/berita/sgvauq512/penyelenggaraan-ibadah-haji-2024-dinilai-sukses-tapi-fkkbihu-jabar-beri-beberapa-evaluasi"
     },
     {
         "title": "Mata Sehat Bebas Iritasi, Ini Cara Merawat Lensa Kontak Agar Terhindar dari Masalah",
         "category": "Ameera",
-        "publish_time": "19-07-2024 11:03",
+        "publish_time": "19-07-2024 11:20",
         "news_link": "https://ameera.republika.co.id/berita/sgvapo425/mata-sehat-bebas-iritasi-ini-cara-merawat-lensa-kontak-agar-terhindar-dari-masalah"
+    },
+    {
+        "title": "UI Tanggapi Beredarnya Informasi Kebocoran Data",
+        "category": "Network",
+        "publish_time": "19-07-2024 11:20",
+        "news_link": "https://ruzka.republika.co.id/info-kampus/1674881561/ui-tanggapi-beredarnya-informasi-kebocoran-data"
     },
     {
         "title": "ICJ Keluarkan Opini Hukum Terkait Pendudukan Israel di Palestina",
         "category": "Khazanah",
-        "publish_time": "19-07-2024 11:00",
+        "publish_time": "19-07-2024 11:20",
         "news_link": "https://khazanah.republika.co.id/berita/sgv83v451/icj-keluarkan-opini-hukum-terkait-pendudukan-israel-di-palestina"
     },
     {
         "title": "Polisi Dalami Laporan Awkarin Terkait Tenaga Admin Gelapkan Dana",
         "category": "News",
-        "publish_time": "19-07-2024 10:55",
+        "publish_time": "19-07-2024 11:20",
         "news_link": "https://news.republika.co.id/berita/sgvabv484/polisi-dalami-laporan-awkarin-terkait-tenaga-admin-gelapkan-dana"
     },
     {
         "title": "Ketika Orang Tua Durhaka pada Anak",
         "category": "Khazanah",
-        "publish_time": "19-07-2024 10:51",
+        "publish_time": "19-07-2024 11:20",
         "news_link": "https://khazanah.republika.co.id/berita/sgva66458/ketika-orang-tua-durhaka-pada-anak"
     },
     {
         "title": "Pemain Pee Mak Thailand Bakal ke Indonesia Dukung Film Kang Mak",
         "category": "Ameera",
-        "publish_time": "19-07-2024 10:50",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://ameera.republika.co.id/berita/sgva3d425/pemain-pee-mak-thailand-bakal-ke-indonesia-dukung-film-kang-mak"
     },
     {
         "title": "Kejagung Garansi Tahanan Kota Kasus Korupsi Emas 109 Ton tidak Kabur, Ada Gelang Khusus",
         "category": "News",
-        "publish_time": "19-07-2024 10:44",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sgv9t8487/kejagung-garansi-tahanan-kota-kasus-korupsi-emas-109-ton-tidak-kabur-ada-gelang-khusus"
     },
     {
         "title": "Persib Bandung Buka Piala Presiden 2024 dengan Kemenangan",
         "category": "News",
-        "publish_time": "19-07-2024 10:38",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sgv9k6348/persib-bandung-buka-piala-presiden-2024-dengan-kemenangan"
     },
     {
         "title": "SKK Migas: Lifting Minyak Semester I 2024 Capai 576 Ribu BOPD",
         "category": "Ekonomi",
-        "publish_time": "19-07-2024 10:37",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://ekonomi.republika.co.id/berita/sgv9il502/skk-migas-lifting-minyak-semester-i-2024-capai-576-ribu-bopd"
     },
     {
         "title": "Thariq Halilintar dan Aaliyah Bagikan Foto Prewedding, Padukan Konsep Jawa dan Sumatra",
         "category": "Ameera",
-        "publish_time": "19-07-2024 10:36",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://ameera.republika.co.id/berita/sgv9fu425/thariq-halilintar-dan-aaliyah-bagikan-foto-prewedding-padukan-konsep-jawa-dan-sumatra"
     },
     {
         "title": "Prabowo Ingin Pertumbuhan Ekonomi 8 Persen, Indef: Perlu Upaya Luar Biasa",
         "category": "Ekonomi",
-        "publish_time": "19-07-2024 10:35",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://ekonomi.republika.co.id/berita/sgv9e7423/prabowo-ingin-pertumbuhan-ekonomi-8-persen-indef-perlu-upaya-luar-biasa"
     },
     {
         "title": "Viral Gibran Beres-Beres Mainan di Ruang Kerja, Ini Analisis dari Pakar Komunikasi",
         "category": "News",
-        "publish_time": "19-07-2024 10:30",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sgv975377/viral-gibran-beresberes-mainan-di-ruang-kerja-ini-analisis-dari-pakar-komunikasi"
     },
     {
         "title": "Targetkan Investasi Rp 3,8 Triliun, Kemenkeu Siapkan 3 Proyek KPBU SPAM",
         "category": "Ekonomi",
-        "publish_time": "19-07-2024 10:28",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://ekonomi.republika.co.id/berita/sgv93h423/targetkan-investasi-rp-38-triliun-kemenkeu-siapkan-3-proyek-kpbu-spam"
     },
     {
         "title": "Dukung Ketahanan Pangan, UGM Tanam Padi Gamagora di Karangwungu Klaten",
         "category": "Network",
-        "publish_time": "19-07-2024 10:27",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://magenta.republika.co.id/news/1704881454/dukung-ketahanan-pangan-ugm-tanam-padi-gamagora-di-karangwungu-klaten"
     },
     {
         "title": "Lelaki Kok Melambai, Jika Ketemu Khalifah Umar Pasti Dicambuk",
         "category": "Network",
-        "publish_time": "19-07-2024 10:27",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://sajada.id/posts/320258/lelaki-kok-melambai-jika-ketemu-khalifah-umar-pasti-dicambuk"
     },
     {
         "title": "Sebanyak 255 Produk Perlengkapan TNI Telah Mendapat Hak Cipta",
         "category": "Network",
-        "publish_time": "19-07-2024 10:27",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://seputarmiliter.id/posts/320244/sebanyak-255-produk-perlengkapan-tni-telah-mendapat-hak-cipta"
     },
     {
         "title": "Gangguan IT Besar Hantam Bank, Maskapai, dan Bisnis di Seluruh Dunia",
         "category": "Ekonomi",
-        "publish_time": "19-07-2024 10:26",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://ekonomi.republika.co.id/berita/sgv8zi502/gangguan-it-besar-hantam-bank-maskapai-dan-bisnis-di-seluruh-dunia"
     },
     {
         "title": "Womans World Gagal dan Disebut Feminis Ketinggalan Zaman, Katy Perry Mulai Panik",
         "category": "Network",
-        "publish_time": "19-07-2024 10:24",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://filmusiku.com/posts/320238/womans-world-gagal-dan-disebut-feminis-ketinggalan-zaman-katy-perry-mulai-panik"
     },
     {
         "title": "KPK Buka Obstruction of Justice Kasus Harun Masiku, Teknik Makan Bubur Sedang Diterapkan",
         "category": "News",
-        "publish_time": "19-07-2024 10:24",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sgv8wr487/kpk-buka-obstruction-of-justice-kasus-harun-masiku-teknik-makan-bubur-sedang-diterapkan"
     },
     {
         "title": "Soal Isu Makan Siang Gratis Jadi Rp 7.500 per Porsi, Kemenkes: Belum Dibahas",
         "category": "News",
-        "publish_time": "19-07-2024 10:24",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sgv8wm377/soal-isu-makan-siang-gratis-jadi-rp-7500-per-porsi-kemenkes-belum-dibahas"
     },
     {
         "title": "Elektabilitas Meroket, LSI: Sendi Ancaman Dedie Rachim",
         "category": "News",
-        "publish_time": "19-07-2024 10:24",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sgv8wf318/elektabilitas-meroket-lsi-sendi-ancaman-dedie-rachim"
     },
     {
@@ -152,151 +290,13 @@
     {
         "title": "Israel Terancam Didepak dari Keanggotaan PBB",
         "category": "News",
-        "publish_time": "19-07-2024 10:17",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sgv8lc393/israel-terancam-didepak-dari-keanggotaan-pbb"
     },
     {
         "title": "Pengacara Ungkap Emosi Saka Tatal yang Meluap Saat Ingat Ditangkap 2016",
         "category": "News",
-        "publish_time": "19-07-2024 10:13",
+        "publish_time": "19-07-2024 10:20",
         "news_link": "https://news.republika.co.id/berita/sgv8do487/pengacara-ungkap-emosi-saka-tatal-yang-meluap-saat-ingat-ditangkap-2016"
-    },
-    {
-        "title": "Fenomena Abdullah Bin Salul Masa Kini yang Kian Bermunculan",
-        "category": "Khazanah",
-        "publish_time": "19-07-2024 10:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sgv8am320/fenomena-abdullah-bin-salul-masa-kini-yang-kian-bermunculan"
-    },
-    {
-        "title": "AMAL dan Klinik Pratama Seno Medika Gelar Khitanan Massal, Ajak Lembaga Lain Berkolaborasi",
-        "category": "Rejabar",
-        "publish_time": "19-07-2024 10:10",
-        "news_link": "https://rejabar.republika.co.id/berita/sgv89b512/amal-dan-klinik-pratama-seno-medika-gelar-khitanan-massal-ajak-lembaga-lain-berkolaborasi"
-    },
-    {
-        "title": "Komnas HAM Papua Tengarai  TNI Salah Tembak, Sikap Antitentara Bisa Muncul Lagi",
-        "category": "News",
-        "publish_time": "19-07-2024 10:10",
-        "news_link": "https://news.republika.co.id/berita/sgv85s377/komnas-ham-papua-tengarai-tni-salah-tembak-sikap-antitentara-bisa-muncul-lagi"
-    },
-    {
-        "title": "Konsisten Berbagi, Adaro Distribusikan Bantuan untuk Keluarga\u00a0Prasejahtera",
-        "category": "Khazanah",
-        "publish_time": "19-07-2024 10:10",
-        "news_link": "https://khazanah.republika.co.id/berita/sgv815423/konsisten-berbagi-adaro-distribusikan-bantuan-untuk-keluargaprasejahtera"
-    },
-    {
-        "title": "Kemenhub Sebut Helikopter Jatuh di Kuta Selatan Bali Akibat Terlilit Tali Layangan",
-        "category": "News",
-        "publish_time": "19-07-2024 10:10",
-        "news_link": "https://news.republika.co.id/berita/sgv7y2409/kemenhub-sebut-helikopter-jatuh-di-kuta-selatan-bali-akibat-terlilit-tali-layangan"
-    },
-    {
-        "title": "Kata Wali Kota Tel Aviv Israel Setelah Drone Houthi Hantam Jantung Kota Tersebut",
-        "category": "Khazanah",
-        "publish_time": "19-07-2024 10:10",
-        "news_link": "https://khazanah.republika.co.id/berita/sgv7r3451/kata-wali-kota-tel-aviv-israel-setelah-drone-houthi-hantam-jantung-kota-tersebut"
-    },
-    {
-        "title": "20 SMK se-Jabodetabek Kolaborasi Lahirkan Produk Ekspor",
-        "category": "News",
-        "publish_time": "19-07-2024 10:10",
-        "news_link": "https://news.republika.co.id/berita/sguzlu349/20-smk-sejabodetabek-kolaborasi-lahirkan-produk-ekspor"
-    },
-    {
-        "title": "Sepasang Lansia Meninggal Membusuk di Bogor, Psikolog: Ini Bisa Jadi Pelajaran Bagi Kita",
-        "category": "Ameera",
-        "publish_time": "19-07-2024 10:10",
-        "news_link": "https://ameera.republika.co.id/berita/sgv7o4425/sepasang-lansia-meninggal-membusuk-di-bogor-psikolog-ini-bisa-jadi-pelajaran-bagi-kita"
-    },
-    {
-        "title": "Prabowo Targetkan Pertumbuhan Ekonomi 8 Persen, Ekonom: Bukan tidak Mungkin",
-        "category": "Ekonomi",
-        "publish_time": "19-07-2024 10:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/sgv7ny502/prabowo-targetkan-pertumbuhan-ekonomi-8-persen-ekonom-bukan-tidak-mungkin"
-    },
-    {
-        "title": "Tiga Dosen FISIP UMJ Presentasi di Konferensi  Internasional di Universiti Utara Malaysia",
-        "category": "News",
-        "publish_time": "19-07-2024 10:10",
-        "news_link": "https://news.republika.co.id/berita/sgv7nx423/tiga-dosen-fisip-umj-presentasi-di-konferensi-internasional-di-universiti-utara-malaysia"
-    },
-    {
-        "title": "Khalifah Umar: Kamu tak Pantas Jadi Pemimpin!",
-        "category": "Khazanah",
-        "publish_time": "19-07-2024 10:10",
-        "news_link": "https://khazanah.republika.co.id/berita/sgv79w458/khalifah-umar-kamu-tak-pantas-jadi-pemimpin"
-    },
-    {
-        "title": "Raih Keutamaan Puasa Ayamul Bidh",
-        "category": "Iqra",
-        "publish_time": "19-07-2024 10:10",
-        "news_link": "https://iqra.republika.co.id/berita/sgv75f430/raih-keutamaan-puasa-ayamul-bidh"
-    },
-    {
-        "title": "Belajar AI Universitas BSI! Mahasiswa Baru Siap Disulap Jadi Ahli Teknologi Masa Depan",
-        "category": "News",
-        "publish_time": "19-07-2024 10:10",
-        "news_link": "https://news.republika.co.id/berita/sgv6za423/belajar-ai-universitas-bsi-mahasiswa-baru-siap-disulap-jadi-ahli-teknologi-masa-depan"
-    },
-    {
-        "title": "Babak Pertama, Persib Ungguli PSM 2-0 pada Laga Pembuka Piala Presiden 2024",
-        "category": "News",
-        "publish_time": "19-07-2024 10:10",
-        "news_link": "https://news.republika.co.id/berita/sgv6ys348/babak-pertama-persib-ungguli-psm-20-pada-laga-pembuka-piala-presiden-2024"
-    },
-    {
-        "title": "Benarkah Imam Ahmad Anti Sama Sekali Terhadap Takwil Alquran?",
-        "category": "Iqra",
-        "publish_time": "19-07-2024 09:10",
-        "news_link": "https://iqra.republika.co.id/berita/sgv6r2320/benarkah-imam-ahmad-anti-sama-sekali-terhadap-takwil-alquran"
-    },
-    {
-        "title": "Selundupkan 94 Ekor Reptil di Koper, WN Korea Ditangkap di Bandara Soetta",
-        "category": "News",
-        "publish_time": "19-07-2024 09:10",
-        "news_link": "https://news.republika.co.id/berita/sgv6j2425/selundupkan-94-ekor-reptil-di-koper-wn-korea-ditangkap-di-bandara-soetta"
-    },
-    {
-        "title": "Kisah Diaspora Merintis dari Pencuci Piring hingga Miliki Restoran",
-        "category": "Video",
-        "publish_time": "19-07-2024 09:10",
-        "news_link": "https://tv.republika.co.id/berita/sgv6iz418/kisah-diaspora-merintis-dari-pencuci-piring-hingga-miliki-restoran"
-    },
-    {
-        "title": "Sinergi Hebat! Bincang Kampus Bersama Orang Tua Kembali Hadir di Universitas BSI",
-        "category": "News",
-        "publish_time": "19-07-2024 09:10",
-        "news_link": "https://news.republika.co.id/berita/sgv6bs423/sinergi-hebat-bincang-kampus-bersama-orang-tua-kembali-hadir-di-universitas-bsi"
-    },
-    {
-        "title": "Uwais al Qarni yang Sangat Dinanti Umar bin Khattab",
-        "category": "Khazanah",
-        "publish_time": "19-07-2024 09:10",
-        "news_link": "https://khazanah.republika.co.id/berita/sgv6ae430/uwais-al-qarni-yang-sangat-dinanti-umar-bin-khattab"
-    },
-    {
-        "title": "Kunci Sukses Mencari Ilmu dari Keturunan Syekh Abdul Qadir al Jailani",
-        "category": "Khazanah",
-        "publish_time": "19-07-2024 09:10",
-        "news_link": "https://khazanah.republika.co.id/berita/sgv69h451/kunci-sukses-mencari-ilmu-dari-keturunan-syekh-abdul-qadir-al-jailani"
-    },
-    {
-        "title": "Rektor UII Fathul Wahid Tolak Dipanggil Profesor",
-        "category": "News",
-        "publish_time": "19-07-2024 09:10",
-        "news_link": "https://news.republika.co.id/berita/sgv69g484/rektor-uii-fathul-wahid-tolak-dipanggil-profesor"
-    },
-    {
-        "title": "KPK akan Usut Upaya Perintangan Penyidikan, PDIP: Fokus Saja Tangkap Harun Masiku",
-        "category": "News",
-        "publish_time": "19-07-2024 09:10",
-        "news_link": "https://news.republika.co.id/berita/sgv676409/kpk-akan-usut-upaya-perintangan-penyidikan-pdip-fokus-saja-tangkap-harun-masiku"
-    },
-    {
-        "title": "Zainul Maarif Buat Klarifikasi di IG Usai Dipecat, Kutip Hadits tentang Jihad",
-        "category": "Khazanah",
-        "publish_time": "19-07-2024 09:10",
-        "news_link": "https://khazanah.republika.co.id/berita/sgv61d483/zainul-maarif-buat-klarifikasi-di-ig-usai-dipecat-kutip-hadits-tentang-jihad"
     }
 ]
