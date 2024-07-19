@@ -1,74 +1,158 @@
 [
     {
+        "title": "I Dont Know Why Hoa, Serasa Mendengar The Beatles Lahir Kembali",
+        "category": "Network",
+        "publish_time": "19-07-2024 01:47",
+        "news_link": "https://filmusiku.com/posts/320165/i-dont-know-why-hoa-serasa-mendengar-the-beatles-lahir-kembali"
+    },
+    {
+        "title": "Pemutakhiran Coklit di Jabar untuk Pilkada 2024 Hampir Rampung Capai 99 Persen",
+        "category": "Rejabar",
+        "publish_time": "19-07-2024 01:40",
+        "news_link": "https://rejabar.republika.co.id/berita/sgukn7512/pemutakhiran-coklit-di-jabar-untuk-pilkada-2024-hampir-rampung-capai-99-persen"
+    },
+    {
+        "title": "Presiden Terpilih Prabowo Optimistis Ekonomi RI Tumbuh Delapan Persen",
+        "category": "Ekonomi",
+        "publish_time": "19-07-2024 01:38",
+        "news_link": "https://ekonomi.republika.co.id/berita/sgukj2370/presiden-terpilih-prabowo-optimistis-ekonomi-ri-tumbuh-delapan-persen"
+    },
+    {
+        "title": "UNFPA: Data Dibutuhkan untuk Pembangunan Inklusif",
+        "category": "Esgnow",
+        "publish_time": "19-07-2024 01:37",
+        "news_link": "https://esgnow.republika.co.id/berita/sgukhv328/unfpa-data-dibutuhkan-untuk-pembangunan-inklusif"
+    },
+    {
+        "title": "Januari Hingga Juli, 86 Orang Meninggal Dunia Akibat Kecelakaan Sepeda Motor di Bandung",
+        "category": "Rejabar",
+        "publish_time": "19-07-2024 01:32",
+        "news_link": "https://rejabar.republika.co.id/berita/sguk9s512/januari-hingga-juli-86-orang-meninggal-dunia-akibat-kecelakaan-sepeda-motor-di-bandung"
+    },
+    {
+        "title": "LPSK akan Lakukan Assesmen Terhadap Saka Tatal",
+        "category": "Rejabar",
+        "publish_time": "19-07-2024 01:22",
+        "news_link": "https://rejabar.republika.co.id/berita/sgujsh512/lpsk-akan-lakukan-assesmen-terhadap-saka-tatal"
+    },
+    {
+        "title": "Bintang Mukbang Meninggal Dunia Saat Siaran Langsung, Ternyata Ini Pemicunya",
+        "category": "Network",
+        "publish_time": "19-07-2024 01:11",
+        "news_link": "https://impresi.republika.co.id/sosok/1694879291/bintang-mukbang-meninggal-dunia-saat-siaran-langsung-ternyata-ini-pemicunya"
+    },
+    {
+        "title": "Ini Penyebab Meninggalnya Suami Jennifer Coppen Menurut Polisi",
+        "category": "News",
+        "publish_time": "19-07-2024 01:10",
+        "news_link": "https://news.republika.co.id/berita/sguj7x409/ini-penyebab-meninggalnya-suami-jennifer-coppen-menurut-polisi"
+    },
+    {
+        "title": "Mengenal Eisenia Foetida dan Lumbricus Rubellus Cacing Pengurai Sampah Organik",
+        "category": "Network",
+        "publish_time": "19-07-2024 01:07",
+        "news_link": "https://fifarm.id/posts/319593/mengenal-eisenia-foetida-dan-lumbricus-rubellus-cacing-pengurai-sampah-organik"
+    },
+    {
+        "title": "Alquran Sebut Orang Yahudi Ingin Diberi Umur Seribu Tahun Lagi, Apa Maksudnya?",
+        "category": "Iqra",
+        "publish_time": "19-07-2024 01:05",
+        "news_link": "https://iqra.republika.co.id/berita/sguj16483/alquran-sebut-orang-yahudi-ingin-diberi-umur-seribu-tahun-lagi-apa-maksudnya"
+    },
+    {
+        "title": "Maju Bursa Ketum Kadin DKJ, Andi Anzhar Bertekad Lahirkan Pengusaha-Pengusaha Baru",
+        "category": "Rejakarta",
+        "publish_time": "19-07-2024 01:05",
+        "news_link": "https://republika.co.id/berita/sguj0n456/maju-bursa-ketum-kadin-dkj-andi-anzhar-bertekad-lahirkan-pengusaha-pengusaha-baru"
+    },
+    {
+        "title": "Perintah Menjaga Amanah",
+        "category": "Khazanah",
+        "publish_time": "19-07-2024 01:05",
+        "news_link": "https://khazanah.republika.co.id/berita/sguj02458/perintah-menjaga-amanah"
+    },
+    {
+        "title": "Golkar Tunggu Ahmad Luthfi Pensiun",
+        "category": "News",
+        "publish_time": "19-07-2024 01:00",
+        "news_link": "https://news.republika.co.id/berita/sguim5409/golkar-tunggu-ahmad-luthfi-pensiun"
+    },
+    {
+        "title": "Yordania Kecam Parlemen Israel yang Tolak Keberadaan Negara Palestina",
+        "category": "Khazanah",
+        "publish_time": "19-07-2024 01:00",
+        "news_link": "https://khazanah.republika.co.id/berita/sguiki483/yordania-kecam-parlemen-israel-yang-tolak-keberadaan-negara-palestina"
+    },
+    {
         "title": "Puncak Keimanan",
         "category": "Khazanah",
-        "publish_time": "19-07-2024 00:52",
+        "publish_time": "19-07-2024 01:00",
         "news_link": "https://khazanah.republika.co.id/berita/sguifn458/puncak-keimanan"
     },
     {
         "title": "PDIP Sentil PKS karena Dukung Pasangan Khofifah-Emil di Jatim",
         "category": "News",
-        "publish_time": "19-07-2024 00:39",
+        "publish_time": "19-07-2024 01:00",
         "news_link": "https://news.republika.co.id/berita/sguhu9484/pdip-sentil-pks-karena-dukung-pasangan-khofifahemil-di-jatim"
     },
     {
         "title": "Jusuf Hamka Belum Pasti Maju di Pilkada Jakarta, Ini Penjelasan Golkar",
         "category": "News",
-        "publish_time": "19-07-2024 00:36",
+        "publish_time": "19-07-2024 01:00",
         "news_link": "https://news.republika.co.id/berita/sguhpb409/jusuf-hamka-belum-pasti-maju-di-pilkada-jakarta-ini-penjelasan-golkar"
     },
     {
         "title": "Kementerian Kesehatan: Pengungsi Gaza Diserang Virus Polio",
         "category": "Khazanah",
-        "publish_time": "19-07-2024 00:32",
+        "publish_time": "19-07-2024 01:00",
         "news_link": "https://khazanah.republika.co.id/berita/sguhj5483/kementerian-kesehatan-pengungsi-gaza-diserang-virus-polio"
     },
     {
         "title": "Thomas Djiwandono Bikin Wamenkeu Dijabat Dua Orang, Airlangga: Ini Bukan Pertama Kali",
         "category": "Ekonomi",
-        "publish_time": "19-07-2024 00:31",
+        "publish_time": "19-07-2024 01:00",
         "news_link": "https://ekonomi.republika.co.id/berita/sguhg5370/thomas-djiwandono-bikin-wamenkeu-dijabat-dua-orang-airlangga-ini-bukan-pertama-kali"
     },
     {
         "title": "Pengguna iPhone Disarankan Hapus Google Chrome, Ada Apa?",
         "category": "Network",
-        "publish_time": "19-07-2024 00:28",
+        "publish_time": "19-07-2024 00:00",
         "news_link": "https://impresi.republika.co.id/news/1694879200/pengguna-iphone-disarankan-hapus-google-chrome-ada-apa"
     },
     {
         "title": "Isu Sampah Yogyakarta Turut Jadi Perhatian Kegiatan Fun Bike Sehati untuk Bumi",
         "category": "News",
-        "publish_time": "19-07-2024 00:26",
+        "publish_time": "19-07-2024 00:00",
         "news_link": "https://news.republika.co.id/berita/sguh8d291/isu-sampah-yogyakarta-turut-jadi-perhatian-kegiatan-fun-bike-sehati-untuk-bumi"
     },
     {
         "title": "Standar Ganda FIFA, Timnas Israel Dibolehkan Tampil di Olimpiade",
         "category": "News",
-        "publish_time": "19-07-2024 00:22",
+        "publish_time": "19-07-2024 00:00",
         "news_link": "https://news.republika.co.id/berita/sguh1p393/standar-ganda-fifa-timnas-israel-dibolehkan-tampil-di-olimpiade"
     },
     {
         "title": "RS Korsel Proses Pengunduran Diri Hampir 7.700 Dokter Magang",
         "category": "News",
-        "publish_time": "19-07-2024 00:21",
+        "publish_time": "19-07-2024 00:00",
         "news_link": "https://news.republika.co.id/berita/sguh05370/rs-korsel-proses-pengunduran-diri-hampir-7700-dokter-magang"
     },
     {
         "title": "Respons Knesset yang Tolak Akui Palestina, Hamas dan PIJ Minta PLO tak Akui Israel",
         "category": "Khazanah",
-        "publish_time": "19-07-2024 00:18",
+        "publish_time": "19-07-2024 00:00",
         "news_link": "https://khazanah.republika.co.id/berita/sguguq483/respons-knesset-yang-tolak-akui-palestina-hamas-dan-pij-minta-plo-tak-akui-israel"
     },
     {
         "title": "Kritik Pemain Argentina, Hugo Lloris: Euforia Juara Bukan Alasan Nyanyikan Lagu Rasis",
         "category": "News",
-        "publish_time": "19-07-2024 00:09",
+        "publish_time": "19-07-2024 00:00",
         "news_link": "https://news.republika.co.id/berita/sgugfr348/kritik-pemain-argentina-hugo-lloris-euforia-juara-bukan-alasan-nyanyikan-lagu-rasis"
     },
     {
         "title": "Rugikan Negara Rp 510 Miliar Kasus Tol MBZ, Eks Dirut Jasamarga Minta Dibebaskan",
         "category": "News",
-        "publish_time": "19-07-2024 00:05",
+        "publish_time": "19-07-2024 00:00",
         "news_link": "https://news.republika.co.id/berita/sgug8v484/rugikan-negara-rp-510-miliar-kasus-tol-mbz-eks-dirut-jasamarga-minta-dibebaskan"
     },
     {
@@ -80,223 +164,139 @@
     {
         "title": "Setelah Argentina Diprotes ke FIFA, Giliran Gibraltar Adukan Spanyol ke UEFA",
         "category": "News",
-        "publish_time": "18-07-2024 23:55",
+        "publish_time": "19-07-2024 00:00",
         "news_link": "https://news.republika.co.id/berita/sgufsv348/setelah-argentina-diprotes-ke-fifa-giliran-gibraltar-adukan-spanyol-ke-uefa"
     },
     {
         "title": "Pertamina Patra Niaga SHAFTHI Raih Penghargaan Bergengsi di Nusantara CSR Awards 2024",
         "category": "Network",
-        "publish_time": "18-07-2024 23:55",
+        "publish_time": "19-07-2024 00:00",
         "news_link": "https://matapantura.republika.co.id/posts/320152/pertamina-patra-niaga-shafthi-raih-penghargaan-bergengsi-di-nusantara-csr-awards-2024"
     },
     {
         "title": "Puncak Jaya Rusuh, OPM atau Kepala Desa yang Ditembak TNI?",
         "category": "News",
-        "publish_time": "18-07-2024 23:53",
+        "publish_time": "19-07-2024 00:00",
         "news_link": "https://news.republika.co.id/berita/sgufaq393/puncak-jaya-rusuh-opm-atau-kepala-desa-yang-ditembak-tni"
     },
     {
         "title": "Dukungan Keluarga Meredakan  Kecemasan Pada Ibu Hamil?",
         "category": "Network",
-        "publish_time": "18-07-2024 23:53",
+        "publish_time": "19-07-2024 00:00",
         "news_link": "https://topnews62.com/posts/320142/dukungan-keluarga-meredakan-kecemasan-pada-ibu-hamil-"
     },
     {
         "title": "Spirit Bulan Muharram, BMH Sumatera Utara Hadirkan Paket Buka Puasa Asyura",
         "category": "Network",
-        "publish_time": "18-07-2024 23:53",
+        "publish_time": "19-07-2024 00:00",
         "news_link": "https://topnews62.com/posts/320147/spirit-bulan-muharram-bmh-sumatera-utara-hadirkan-paket-buka-puasa-asyura"
     },
     {
         "title": "Olimpiade 2024: 7 Legenda Peraih Emas Olimpiade Berkumpul di Paris",
         "category": "Network",
-        "publish_time": "18-07-2024 23:53",
+        "publish_time": "18-07-2024 23:00",
         "news_link": "https://badmintonews.id/posts/320021/olimpiade-2024-7-legenda-peraih-emas-olimpiade-berkumpul-di-paris"
     },
     {
         "title": "Wajib Tahu : Tips Pengobatan dan Pencegahan Kanker Payudara",
         "category": "Network",
-        "publish_time": "18-07-2024 23:53",
+        "publish_time": "18-07-2024 23:00",
         "news_link": "https://topnews62.com/posts/320095/wajib-tahu-tips-pengobatan-dan-pencegahan-kanker-payudara"
     },
     {
         "title": "Musisi Timur Kian Menjamur, Kini Muncul Teguh dengan Lagu Dirindu Semesta",
         "category": "Network",
-        "publish_time": "18-07-2024 23:53",
+        "publish_time": "18-07-2024 23:00",
         "news_link": "https://filmusiku.com/posts/320108/musisi-timur-kian-menjamur-kini-muncul-teguh-dengan-lagu-dirindu-semesta"
     },
     {
         "title": "EV Roadster Pertama di Dunia untuk Indonesia Event GIIAS 2024",
         "category": "Network",
-        "publish_time": "18-07-2024 23:53",
+        "publish_time": "18-07-2024 23:00",
         "news_link": "https://topnews62.com/posts/320110/ev-roadster-pertama-di-dunia-untuk-indonesia-event-giias-2024"
     },
     {
         "title": "RSPB Gandeng CIMB Niaga Syariah Tawarkan Program Hospital Xtra",
         "category": "Ekonomi",
-        "publish_time": "18-07-2024 22:53",
+        "publish_time": "18-07-2024 23:00",
         "news_link": "https://ekonomi.republika.co.id/berita/sguecm484/rspb-gandeng-cimb-niaga-syariah-tawarkan-program-hospital-xtra"
     },
     {
         "title": "Anggaran Rp 7.500 per Porsi Makan Bergizi Gratis, Menko PMK: Sudah Sangat Besar Itu",
         "category": "Ekonomi",
-        "publish_time": "18-07-2024 22:53",
+        "publish_time": "18-07-2024 23:00",
         "news_link": "https://ekonomi.republika.co.id/berita/sgue3x370/anggaran-rp-7500-per-porsi-makan-bergizi-gratis-menko-pmk-sudah-sangat-besar-itu"
     },
     {
         "title": "Berharap Sidang PK Transparan, LPSK Lakukan Assesmen Terhadap Saka Tatal",
         "category": "Network",
-        "publish_time": "18-07-2024 22:53",
+        "publish_time": "18-07-2024 23:00",
         "news_link": "https://matapantura.republika.co.id/posts/320151/berharap-sidang-pk-transparan-lpsk-lakukan-assesmen-terhadap-saka-tatal"
     },
     {
         "title": "Kejagung Tetapkan 7 Tersangka Swasta Korupsi 109 Ton Emas Ilegal Cap Antam",
         "category": "News",
-        "publish_time": "18-07-2024 22:53",
+        "publish_time": "18-07-2024 23:00",
         "news_link": "https://news.republika.co.id/berita/sgudkz484/kejagung-tetapkan-7-tersangka-swasta-korupsi-109-ton-emas-ilegal-cap-antam"
     },
     {
         "title": "Keluarga Korban Mendiang Wartawan di Karo yang Rumahnya Dibakar Buat Laporan ke Pomdam BB",
         "category": "News",
-        "publish_time": "18-07-2024 22:53",
+        "publish_time": "18-07-2024 23:00",
         "news_link": "https://news.republika.co.id/berita/sgtm2k409/keluarga-korban-mendiang-wartawan-di-karo-yang-rumahnya-dibakar-buat-laporan-ke-pomdam-bb"
     },
     {
         "title": "Saksi Ahmad Riyadh Cabut BAP Soal Beri 18 Ribu Dolar Singapura ke Gazalba, Ada Apa?",
         "category": "News",
-        "publish_time": "18-07-2024 22:53",
+        "publish_time": "18-07-2024 23:00",
         "news_link": "https://news.republika.co.id/berita/sgucxb377/saksi-ahmad-riyadh-cabut-bap-soal-beri-18-ribu-dolar-singapura-ke-gazalba-ada-apa"
     },
     {
         "title": "Kabar Anggaran Makan Gratis Rp 7.500, Airlangga: Setiap Daerah Berbeda-beda",
         "category": "News",
-        "publish_time": "18-07-2024 22:53",
+        "publish_time": "18-07-2024 23:00",
         "news_link": "https://news.republika.co.id/berita/sgucjm377/kabar-anggaran-makan-gratis-rp-7500-airlangga-setiap-daerah-berbedabeda"
     },
     {
         "title": "Temui Presiden Israel, Zainul Maarif: Kami tidak Dapat Duit dari Situ",
         "category": "Khazanah",
-        "publish_time": "18-07-2024 22:53",
+        "publish_time": "18-07-2024 23:00",
         "news_link": "https://khazanah.republika.co.id/berita/sgtlnq483/temui-presiden-israel-zainul-maarif-kami-tidak-dapat-duit-dari-situ"
     },
     {
         "title": "Asosiasi Ungkap Isi Chat yang Dinilai Bukan Merupakan Ancaman Driver kepada Awkarin",
         "category": "News",
-        "publish_time": "18-07-2024 22:53",
+        "publish_time": "18-07-2024 23:00",
         "news_link": "https://news.republika.co.id/berita/sgtmxx409/asosiasi-ungkap-isi-chat-yang-dinilai-bukan-merupakan-ancaman-driver-kepada-awkarin"
     },
     {
         "title": "Menteri Israel Itamar Ben-Gvir Kembali Terobos Al-Aqsa, Dunia Mengecam",
         "category": "News",
-        "publish_time": "18-07-2024 22:53",
+        "publish_time": "18-07-2024 22:00",
         "news_link": "https://news.republika.co.id/berita/sgublr393/menteri-israel-itamar-bengvir-kembali-terobos-alaqsa-dunia-mengecam"
     },
     {
         "title": "Bukan Jakarta, Guru Honorer di Daerah Ini Terdampak Paling Banyak Upaya 'Cleansing'",
         "category": "News",
-        "publish_time": "18-07-2024 22:53",
+        "publish_time": "18-07-2024 22:00",
         "news_link": "https://news.republika.co.id/berita/sgtov8487/bukan-jakarta-guru-honorer-di-daerah-ini-terdampak-paling-banyak-upaya-cleansing"
     },
     {
         "title": "Indro Warkop Sempat Sakit Saat Syuting Film Horor Komedi Kang Mak",
         "category": "Ameera",
-        "publish_time": "18-07-2024 21:53",
+        "publish_time": "18-07-2024 22:00",
         "news_link": "https://ameera.republika.co.id/berita/sgtwnm425/indro-warkop-sempat-sakit-saat-syuting-film-horor-komedi-kang-mak"
     },
     {
         "title": "Persib Bandung Datangkan Gelandang Adam Alis",
         "category": "News",
-        "publish_time": "18-07-2024 21:53",
+        "publish_time": "18-07-2024 22:00",
         "news_link": "https://news.republika.co.id/berita/sgtzl8348/persib-bandung-datangkan-gelandang-adam-alis"
     },
     {
         "title": "Satu Alasan Ini yang Mendorong Cendikiawan NU Pergi ke Israel",
         "category": "Khazanah",
-        "publish_time": "18-07-2024 21:53",
+        "publish_time": "18-07-2024 22:00",
         "news_link": "https://khazanah.republika.co.id/berita/sgtp8t430/satu-alasan-ini-yang-mendorong-cendikiawan-nu-pergi-ke-israel"
-    },
-    {
-        "title": "Rating Gojek, Driver Juga Bisa Beri 'Bintang' ke Konsumen Lho!",
-        "category": "Ameera",
-        "publish_time": "18-07-2024 21:53",
-        "news_link": "https://ameera.republika.co.id/berita/sgtuja425/rating-gojek-driver-juga-bisa-beri-bintang-ke-konsumen-lho"
-    },
-    {
-        "title": "Resmi! Polisi Hentikan Penyidikan Pegi, Spekulasi Hotman Paris tak Terjadi",
-        "category": "News",
-        "publish_time": "18-07-2024 21:53",
-        "news_link": "https://news.republika.co.id/berita/sgtniy487/resmi-polisi-hentikan-penyidikan-pegi-spekulasi-hotman-paris-tak-terjadi"
-    },
-    {
-        "title": "Lirik Lagu \"Jang\" Cocok untuk Acara HUT 17 Agustus, Pesannya: Jangan Jauh dari Ulama",
-        "category": "Network",
-        "publish_time": "18-07-2024 21:53",
-        "news_link": "https://boyanesia.republika.co.id/serba-serbi/1644878935/lirik-lagu-jang-cocok-untuk-acara-hut-17-agustus-pesannya-jangan-jauh-dari-ulama"
-    },
-    {
-        "title": "Sifat Pemimpin Adalah Pemaaf",
-        "category": "Kolom",
-        "publish_time": "18-07-2024 21:53",
-        "news_link": "https://analisis.republika.co.id/berita/sgu90d451/sifat-pemimpin-adalah-pemaaf"
-    },
-    {
-        "title": "Angkat Ekonomi Lokal, Pemkot Mojokerto Resmikan Sentra Kuliner Kampung Pecinan",
-        "category": "Rejogja",
-        "publish_time": "18-07-2024 20:53",
-        "news_link": "https://rejogja.republika.co.id/berita/sgu0nd349/angkat-ekonomi-lokal-pemkot-mojokerto-resmikan-sentra-kuliner-kampung-pecinan"
-    },
-    {
-        "title": "Resmi, Manchester United Umumkan Transfer Leny Yoro dari Lille",
-        "category": "News",
-        "publish_time": "18-07-2024 19:53",
-        "news_link": "https://news.republika.co.id/berita/sgu5zg348/resmi-manchester-united-umumkan-transfer-leny-yoro-dari-lille"
-    },
-    {
-        "title": "Tinggalkan MU, Mason Greenwood Akhirnya Berlabuh ke Marseille",
-        "category": "News",
-        "publish_time": "18-07-2024 19:53",
-        "news_link": "https://news.republika.co.id/berita/sgu479348/tinggalkan-mu-mason-greenwood-akhirnya-berlabuh-ke-marseille"
-    },
-    {
-        "title": "Manchester City Datangkan Pemain Sayap Brasil Savinho",
-        "category": "News",
-        "publish_time": "18-07-2024 18:53",
-        "news_link": "https://news.republika.co.id/berita/sgu2ng348/manchester-city-datangkan-pemain-sayap-brasil-savinho"
-    },
-    {
-        "title": "Rektor PTS di LLDIKTI III Tanda tangani Pakta Integritas Anti Kekerasan Seksual",
-        "category": "News",
-        "publish_time": "18-07-2024 18:53",
-        "news_link": "https://news.republika.co.id/berita/sgtztg349/rektor-pts-di-lldikti-iii-tanda-tangani-pakta-integritas-anti-kekerasan-seksual"
-    },
-    {
-        "title": "Pertamina Echoed the Spirit of Energy Transition at GIIAS 2024",
-        "category": "En",
-        "publish_time": "6 hours ago",
-        "news_link": "https://en.republika.co.id/berita/sgtlsf415/pertamina-echoed-the-spirit-of-energy-transition-at-giias-2024"
-    },
-    {
-        "title": "Kabar Gembira Buat Drag Lovers, Pertamax Turbo Drag Fest 2024 akan Hadir di Tasikmalaya",
-        "category": "Network",
-        "publish_time": "18-07-2024 18:53",
-        "news_link": "https://matapantura.republika.co.id/posts/320093/kabar-gembira-buat-drag-lovers-pertamax-turbo-drag-fest-2024-akan-hadir-di-tasikmalaya"
-    },
-    {
-        "title": "Golkar DKI Berharap Berjaya di Pilkada Jakarta",
-        "category": "News",
-        "publish_time": "18-07-2024 18:53",
-        "news_link": "https://news.republika.co.id/berita/sgtq4d451/golkar-dki-berharap-berjaya-di-pilkada-jakarta"
-    },
-    {
-        "title": "Kolaborasi dengan Forum Rektor, Balitbang Kemenag Tingkatkan Penguatan Moderasi di Kampus",
-        "category": "Network",
-        "publish_time": "18-07-2024 18:53",
-        "news_link": "https://boyanesia.republika.co.id/news/1644878933/kolaborasi-dengan-forum-rektor-balitbang-kemenag-tingkatkan-penguatan-moderasi-di-kampus"
-    },
-    {
-        "title": "Mitsubishi Fuso Serahkan Truk Listrik eCanter Pertama kepada PT Yusen Logistic Indonesia",
-        "category": "Ekonomi",
-        "publish_time": "18-07-2024 17:53",
-        "news_link": "https://ekonomi.republika.co.id/berita/sgtzdd349/mitsubishi-fuso-serahkan-truk-listrik-ecanter-pertama-kepada-pt-yusen-logistic-indonesia"
     }
 ]
