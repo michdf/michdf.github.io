@@ -1,5 +1,47 @@
 [
     {
+        "title": "Cantiknya Ibu-Ibu di Aceh Kenakan Kebaya saat Ikuti Parade Kebaya Nusantara",
+        "category": "Visual",
+        "publish_time": "21 July 2024, 20:00",
+        "news_link": "https://visual.republika.co.id/berita/sgywop375/cantiknya-ibuibu-di-aceh-kenakan-kebaya-saat-ikuti-parade-kebaya-nusantara"
+    },
+    {
+        "title": "Gunung Merapi Kembali Luncurkan Awan Panas Guguran",
+        "category": "Rejogja",
+        "publish_time": "21 July 2024, 19:58",
+        "news_link": "https://rejogja.republika.co.id/berita/sgz5e1291/gunung-merapi-kembali-luncurkan-awan-panas-guguran"
+    },
+    {
+        "title": "Indra Karya Raih Penghargaan Kategori Pemimpin Transformasi Bisnis Berkelanjutan",
+        "category": "Rejogja",
+        "publish_time": "21 July 2024, 19:52",
+        "news_link": "https://rejogja.republika.co.id/berita/sgz547291/indra-karya-raih-penghargaan-kategori-pemimpin-transformasi-bisnis-berkelanjutan"
+    },
+    {
+        "title": "Cara Zee Zee Shahab Taklukkan Lari 10K",
+        "category": "Ameera",
+        "publish_time": "21 July 2024, 19:49",
+        "news_link": "https://ameera.republika.co.id/berita/sgz4z3366/cara-zee-zee-shahab-taklukkan-lari-10k"
+    },
+    {
+        "title": "Piala Presiden 2024: Persib Bandung Kalahkan PSM Makasar 2-0",
+        "category": "Network",
+        "publish_time": "21 July 2024, 19:48",
+        "news_link": "https://cari.republika.co.id/posts/320564/piala-presiden-2024-persib-bandung-kalahkan-psm-makasar-2-0"
+    },
+    {
+        "title": "Tontowi/Liliyana Ingatkan Rinov/Pitha Jaga Fokus Jelang Olimpiade Paris",
+        "category": "News",
+        "publish_time": "21 July 2024, 19:29",
+        "news_link": "https://news.republika.co.id/berita/sgz415348/tontowililiyana-ingatkan-rinovpitha-jaga-fokus-jelang-olimpiade-paris"
+    },
+    {
+        "title": "Joko Widodo Hadiri Pembukaan Piala Presiden 2024",
+        "category": "Network",
+        "publish_time": "21 July 2024, 19:21",
+        "news_link": "https://cari.republika.co.id/posts/320558/joko-widodo-hadiri-pembukaan-piala-presiden-2024"
+    },
+    {
         "title": "Polisi Jerman Tindak Keras dan Tahan Demonstran Pro-Palestina",
         "category": "Khazanah",
         "publish_time": "21 July 2024, 19:05",
@@ -256,47 +298,5 @@
         "category": "Iqra",
         "publish_time": "21 July 2024, 14:30",
         "news_link": "https://iqra.republika.co.id/berita/sgyp47430/gununggunung-dalam-riwayat-para-nabi"
-    },
-    {
-        "title": "Megawati Sebut Gelar Juara Proliga Jakarta BIN Berkat Kerja Keras Tim",
-        "category": "News",
-        "publish_time": "21 July 2024, 14:22",
-        "news_link": "https://news.republika.co.id/berita/sgypu2348/megawati-sebut-gelar-juara-proliga-jakarta-bin-berkat-kerja-keras-tim"
-    },
-    {
-        "title": "Meski Top Skor Sementara Piala AFF U-19, Iqbal Gwijangge Fokus Tugas Utama Jaga Pertahanan",
-        "category": "News",
-        "publish_time": "21 July 2024, 14:10",
-        "news_link": "https://news.republika.co.id/berita/sgyoh9348/meski-top-skor-sementara-piala-aff-u19-iqbal-gwijangge-fokus-tugas-utama-jaga-pertahanan"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini di Depok,dan Pentingnya Menjaga Iman",
-        "category": "Iqra",
-        "publish_time": "21 July 2024, 14:00",
-        "news_link": "https://iqra.republika.co.id/berita/sgyln0430/jadwal-sholat-hari-ini-di-depokdan-pentingnya-menjaga-iman"
-    },
-    {
-        "title": "Ayo Kuliah! Untuk Bangun Peradaban Cerdas dan Sukses Karier di Masa Depan",
-        "category": "News",
-        "publish_time": "21 July 2024, 13:51",
-        "news_link": "https://news.republika.co.id/berita/sgyoeg490/ayo-kuliah-untuk-bangun-peradaban-cerdas-dan-sukses-karier-di-masa-depan"
-    },
-    {
-        "title": "Hamas: Israel Respons Fatwa ICJ dengan Lanjutkan Pembantaian Warga Gaza",
-        "category": "News",
-        "publish_time": "21 July 2024, 13:46",
-        "news_link": "https://news.republika.co.id/berita/sgyo68416/hamas-israel-respons-fatwa-icj-dengan-lanjutkan-pembantaian-warga-gaza"
-    },
-    {
-        "title": "Pemerintah AS Umumkan Setop Gunakan Plastik Sekali Pakai",
-        "category": "Esgnow",
-        "publish_time": "21 July 2024, 13:33",
-        "news_link": "https://esgnow.republika.co.id/berita/sgynkn416/pemerintah-as-umumkan-setop-gunakan-plastik-sekali-pakai"
-    },
-    {
-        "title": "KBRI Muscat: Tidak Ada WNI Korban Serangan Israel ke Pelabuhan Yaman",
-        "category": "News",
-        "publish_time": "21 July 2024, 13:21",
-        "news_link": "https://news.republika.co.id/berita/sgyn0i348/kbri-muscat-tidak-ada-wni-korban-serangan-israel-ke-pelabuhan-yaman"
     }
 ]
