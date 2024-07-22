@@ -1,164 +1,284 @@
 [
     {
+        "title": "Momen Persib Bandung Raih Bekap PSM pada Laga Pembuka Piala Presiden 2024",
+        "category": "Network",
+        "publish_time": "22-07-2024 02:01",
+        "news_link": "https://kangjepret.republika.co.id/posts/320650/momen-persib-bandung-raih-bekap-psm-pada-laga-pembuka-piala-presiden-2024"
+    },
+    {
+        "title": "Joe Biden Mundur dari Pilpres AS",
+        "category": "Video",
+        "publish_time": "22-07-2024 01:59",
+        "news_link": "https://tv.republika.co.id/berita/sh05jd467/joe-biden-mundur-dari-pilpres-as"
+    },
+    {
+        "title": "Orang Tua Maba Lebih Percaya Diri Kuliahkan Anaknya di Universitas BSI",
+        "category": "News",
+        "publish_time": "22-07-2024 01:54",
+        "news_link": "https://news.republika.co.id/berita/sh05bp490/orang-tua-maba-lebih-percaya-diri-kuliahkan-anaknya-di-universitas-bsi"
+    },
+    {
+        "title": "Jennifer Lopez Rayakan Ulang Tahun ke-55 Tanpa Ben Affleck",
+        "category": "Network",
+        "publish_time": "22-07-2024 01:54",
+        "news_link": "https://impresi.republika.co.id/sosok/1694888514/jennifer-lopez-rayakan-ulang-tahun-ke-55-tanpa-ben-affleck"
+    },
+    {
+        "title": "Mahasiswa Universitas BSI Tunjukkan Kontribusinya di Masyarakat Melalui Inovasi Teknologi",
+        "category": "News",
+        "publish_time": "22-07-2024 01:45",
+        "news_link": "https://news.republika.co.id/berita/sh04wj490/mahasiswa-universitas-bsi-tunjukkan-kontribusinya-di-masyarakat-melalui-inovasi-teknologi"
+    },
+    {
+        "title": "Kemeriahan Koreografi Tari pada Pembukaan Turnamen Piala Presiden 2024",
+        "category": "Network",
+        "publish_time": "22-07-2024 01:44",
+        "news_link": "https://kangjepret.republika.co.id/posts/320647/kemeriahan-koreografi-tari-pada-pembukaan-turnamen-piala-presiden-2024"
+    },
+    {
+        "title": "Militer Houthi: Kami Siap Perang Jangka Panjang Lawan Israel",
+        "category": "News",
+        "publish_time": "22-07-2024 01:43",
+        "news_link": "https://news.republika.co.id/berita/sh04t4377/militer-houthi-kami-siap-perang-jangka-panjang-lawan-israel"
+    },
+    {
+        "title": "Kapal Perang Rusia Gelar Latihan Tempur di Laut Putih",
+        "category": "News",
+        "publish_time": "22-07-2024 01:42",
+        "news_link": "https://news.republika.co.id/berita/sh04qw430/kapal-perang-rusia-gelar-latihan-tempur-di-laut-putih"
+    },
+    {
+        "title": "Timnas Indonesia U-19 Menatap Semifinal Piala AFF U-19, Apa Syaratnya, Siapa Lawannya?",
+        "category": "News",
+        "publish_time": "22-07-2024 01:36",
+        "news_link": "https://news.republika.co.id/berita/sh04hj348/timnas-indonesia-u19-menatap-semifinal-piala-aff-u19-apa-syaratnya-siapa-lawannya"
+    },
+    {
+        "title": "Polresta Cirebon Gagalkan Tawuran di Dua Lokasi",
+        "category": "Rejabar",
+        "publish_time": "22-07-2024 01:33",
+        "news_link": "https://rejabar.republika.co.id/berita/sh04cn512/polresta-cirebon-gagalkan-tawuran-di-dua-lokasi"
+    },
+    {
+        "title": "Universitas BSI Kampus Pontianak Sambut Siswa OJT dari SMKN 7 Pontianak",
+        "category": "News",
+        "publish_time": "22-07-2024 01:30",
+        "news_link": "https://news.republika.co.id/berita/sh047g490/universitas-bsi-kampus-pontianak-sambut-siswa-ojt-dari-smkn-7-pontianak"
+    },
+    {
+        "title": "Masyarakat di Sulawesi-Papua Diimbau Waspada Potensi Hujan Siklon Tropis Gaemi",
+        "category": "News",
+        "publish_time": "22-07-2024 01:29",
+        "news_link": "https://news.republika.co.id/berita/sh0462425/masyarakat-di-sulawesipapua-diimbau-waspada-potensi-hujan-siklon-tropis-gaemi"
+    },
+    {
+        "title": "TNI AL Buka Pendaftaran Calon Tamtama PK Gelombang II Tahun 2024, Cek Persyaratan, Cara Mendaftar, Materi Tes, Panitia Seleksi, dan Jadwalnya",
+        "category": "Network",
+        "publish_time": "22-07-2024 01:27",
+        "news_link": "https://kampus.republika.co.id/lowongan-kerja/1624888415/tni-al-buka-pendaftaran-calon-tamtama-pk-gelombang-ii-tahun-2024-cek-persyaratan-cara-mendaftar-materi-tes-panitia-seleksi-dan-jadwalnya"
+    },
+    {
+        "title": "Lewat Grand Final Proliga Bolavoli 2024, Bank DKI Ajak Warga Gunakan Transaksi Non Tunai",
+        "category": "News",
+        "publish_time": "22-07-2024 01:26",
+        "news_link": "https://news.republika.co.id/berita/sh040p456/lewat-grand-final-proliga-bolavoli-2024-bank-dki-ajak-warga-gunakan-transaksi-non-tunai"
+    },
+    {
+        "title": "Rahasia Gunung yang Disebut Alquran dan Diduga Kuat Lokasi Berlabuh Kapal Nabi Nuh",
+        "category": "Iqra",
+        "publish_time": "22-07-2024 01:26",
+        "news_link": "https://iqra.republika.co.id/berita/sh0404320/rahasia-gunung-yang-disebut-alquran-dan-diduga-kuat-lokasi-berlabuh-kapal-nabi-nuh"
+    },
+    {
+        "title": "Rawan Disalahgunakan, OJK Imbau Masyarakat Waspada Beli Minyak Goreng Murah Pakai Foto KTP",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2024 01:22",
+        "news_link": "https://ekonomi.republika.co.id/berita/sh03tr490/rawan-disalahgunakan-ojk-imbau-masyarakat-waspada-beli-minyak-goreng-murah-pakai-foto-ktp"
+    },
+    {
+        "title": "Tragis, Anak Tikam Ibu Kandung dengan Pisau Dapur Diduga Alami Gangguan Mental",
+        "category": "Rejabar",
+        "publish_time": "22-07-2024 01:19",
+        "news_link": "https://rejabar.republika.co.id/berita/sh03nw512/tragis-anak-tikam-ibu-kandung-dengan-pisau-dapur-diduga-alami-gangguan-mental"
+    },
+    {
+        "title": "Fokus Proyek Baterai EV, Antam Dinilai Bakal Untung dalam Jangka Panjang",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2024 01:17",
+        "news_link": "https://ekonomi.republika.co.id/berita/sh03l2490/fokus-proyek-baterai-ev-antam-dinilai-bakal-untung-dalam-jangka-panjang"
+    },
+    {
+        "title": "Jika Kalah dari Borneo FC Hari Ini, Bojan Hodak: Ini Persiapan untuk Mengarungi Liga.I",
+        "category": "Network",
+        "publish_time": "22-07-2024 01:04",
+        "news_link": "https://matapantura.republika.co.id/posts/320639/jika-kalah-dari-borneo-fc-hari-ini-bojan-hodak-ini-persiapan-untuk-mengarungi-liga-i"
+    },
+    {
+        "title": "Mobil SUV Tabrakan dengan Kereta Api di Deli Serdang, 6 Orang Meninggal Dunia",
+        "category": "News",
+        "publish_time": "22-07-2024 01:04",
+        "news_link": "https://news.republika.co.id/berita/sh02kv425/mobil-suv-tabrakan-dengan-kereta-api-di-deli-serdang-6-orang-meninggal-dunia"
+    },
+    {
         "title": "Pj Heru Balas Anies, tak Terima Dianggap 'Merusak' Jakarta",
         "category": "News",
-        "publish_time": "22-07-2024 00:54",
+        "publish_time": "22-07-2024 01:04",
         "news_link": "https://news.republika.co.id/berita/sh02i7487/pj-heru-balas-anies-tak-terima-dianggap-merusak-jakarta"
     },
     {
         "title": "Dzikir Arahan KH Syukri Gontor untuk KH Anang Rikza Ketika Bangun Pesantren Tazakka",
         "category": "Khazanah",
-        "publish_time": "22-07-2024 00:48",
+        "publish_time": "22-07-2024 01:04",
         "news_link": "https://khazanah.republika.co.id/berita/sh027r451/dzikir-arahan-kh-syukri-gontor-untuk-kh-anang-rikza-ketika-bangun-pesantren-tazakka"
     },
     {
         "title": "Tertangkap Basah Warga, Maling Motor di Indramayu Berhasil Diamankan",
         "category": "Rejabar",
-        "publish_time": "22-07-2024 00:47",
+        "publish_time": "22-07-2024 01:04",
         "news_link": "https://rejabar.republika.co.id/berita/sh025x512/tertangkap-basah-warga-maling-motor-di-indramayu-berhasil-diamankan"
     },
     {
         "title": "Dishub Kota Bogor Berencana Alihkan Rute Angkot Melewati Pasar",
         "category": "News",
-        "publish_time": "22-07-2024 00:46",
+        "publish_time": "22-07-2024 01:04",
         "news_link": "https://news.republika.co.id/berita/sh024f366/dishub-kota-bogor-berencana-alihkan-rute-angkot-melewati-pasar"
     },
     {
         "title": "Ironis, Bayar Puluhan Juta, Tenaga Kerja RI di Inggris Dipecat karena Petik Buah tak Cepat",
         "category": "News",
-        "publish_time": "22-07-2024 00:46",
+        "publish_time": "22-07-2024 01:04",
         "news_link": "https://news.republika.co.id/berita/sh0244377/ironis-bayar-puluhan-juta-tenaga-kerja-ri-di-inggris-dipecat-karena-petik-buah-tak-cepat"
     },
     {
         "title": "Gunung Gede Membeku, Suhu Dingin di Pulau Jawa Masih Berlangsung Lama, Begini Prediksinya",
         "category": "News",
-        "publish_time": "22-07-2024 00:43",
+        "publish_time": "22-07-2024 01:04",
         "news_link": "https://news.republika.co.id/berita/sh01zo487/gunung-gede-membeku-suhu-dingin-di-pulau-jawa-masih-berlangsung-lama-begini-prediksinya"
     },
     {
         "title": "Penyanyi Brasil Ayres Sasaki Meninggal Tersengat Listrik Saat Manggung",
         "category": "Ameera",
-        "publish_time": "22-07-2024 00:38",
+        "publish_time": "22-07-2024 01:04",
         "news_link": "https://ameera.republika.co.id/berita/sh01rk425/penyanyi-brasil-ayres-sasaki-meninggal-tersengat-listrik-saat-manggung"
     },
     {
         "title": "Jakarta Bhayangkara Presisi Raja Proliga 2024, Runtuhkan Dua Tahun Dominasi Jakarta Lavani",
         "category": "News",
-        "publish_time": "22-07-2024 00:38",
+        "publish_time": "22-07-2024 01:04",
         "news_link": "https://news.republika.co.id/berita/sh01r5348/jakarta-bhayangkara-presisi-raja-proliga-2024-runtuhkan-dua-tahun-dominasi-jakarta-lavani"
     },
     {
         "title": "Jadwal Sholat Hari Ini, 22 Juli 2024, Jakarta",
         "category": "Iqra",
-        "publish_time": "22-07-2024 00:37",
+        "publish_time": "22-07-2024 01:04",
         "news_link": "https://iqra.republika.co.id/berita/sh01p6430/jadwal-sholat-hari-ini-22-juli-2024-jakarta"
     },
     {
         "title": "Optimis, Indonesia Bakal Jadi Pusat Studi Kebencanaan Dunia pada 2045",
         "category": "News",
-        "publish_time": "22-07-2024 00:36",
+        "publish_time": "22-07-2024 01:04",
         "news_link": "https://news.republika.co.id/berita/sh01nl451/optimis-indonesia-bakal-jadi-pusat-studi-kebencanaan-dunia-pada-2045"
     },
     {
         "title": "Wow, Modest Fashion Termasuk Tren Global",
         "category": "Network",
-        "publish_time": "22-07-2024 00:31",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://gayakita.com/posts/320380/wow-modest-fashion-termasuk-tren-global"
     },
     {
         "title": "Bila Iman Menurun, Apa Terapinya?",
         "category": "Network",
-        "publish_time": "22-07-2024 00:31",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://sumatralink.id/posts/320331/bila-iman-menurun-apa-terapinya-"
     },
     {
         "title": "Empat Hal Ini Dapat Menghilangkan Keistimewaan Seseorang",
         "category": "Network",
-        "publish_time": "22-07-2024 00:30",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://sajada.id/posts/320328/empat-hal-ini-dapat-menghilangkan-keistimewaan-seseorang"
     },
     {
         "title": "Lemak Makanan dan Gula Darah, Hal yang Perlu Kita Ketahui",
         "category": "Network",
-        "publish_time": "22-07-2024 00:30",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://impresiupdate.id/posts/320318/lemak-makanan-dan-gula-darah-hal-yang-perlu-kita-ketahui"
     },
     {
         "title": "Tips Menanam Tanaman Pangan di Pekarangan Rumah Gunakan Prinsip Permakultur",
         "category": "Network",
-        "publish_time": "22-07-2024 00:30",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://fifarm.id/posts/320283/tips-menanam-tanaman-pangan-di-pekarangan-rumah-gunakan-prinsip-permakultur"
     },
     {
         "title": "Lando Norris Raih Pole Position di Kualifikasi GP Hungaria",
         "category": "Network",
-        "publish_time": "22-07-2024 00:30",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://motoresto.id/posts/320459/lando-norris-raih-pole-position-di-kualifikasi-gp-hungaria"
     },
     {
         "title": "Ilmuwan Temukan Kaitan Antara Vitamin C dan Obesitas",
         "category": "Network",
-        "publish_time": "22-07-2024 00:29",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://impresiupdate.id/posts/320516/ilmuwan-temukan-kaitan-antara-vitamin-c-dan-obesitas"
     },
     {
         "title": "Viral Nadin Amizah Suguhkan Pesan Free Palestine dalam We The Fest 2024",
         "category": "Network",
-        "publish_time": "22-07-2024 00:28",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://filmusiku.com/posts/320546/viral-nadin-amizah-suguhkan-pesan-free-palestine-dalam-we-the-fest-2024"
     },
     {
         "title": "Apakah Air Kolam Ikan Bisa Menyuburkan Tanaman? Begini Loh Penjelasannya",
         "category": "Network",
-        "publish_time": "22-07-2024 00:28",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://fifarm.id/posts/320287/apakah-air-kolam-ikan-bisa-menyuburkan-tanaman-begini-loh-penjelasannya"
     },
     {
         "title": "Disnaker Depok Gelar Sosialisasi Peluang Bekerja ke Luar Negeri",
         "category": "Network",
-        "publish_time": "22-07-2024 00:27",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://ruzkaindonesia.id/posts/320582/disnaker-depok-gelar-sosialisasi-peluang-bekerja-ke-luar-negeri"
     },
     {
         "title": "Tips Pola Hidup Sehat Saat Berpuasa Sunah Senin Kamis",
         "category": "Network",
-        "publish_time": "22-07-2024 00:27",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://topnews62.com/posts/320630/tips-pola-hidup-sehat-saat-berpuasa-sunah-senin-kamis"
     },
     {
         "title": "Tips Berkendara Aman di Kala Hujan",
         "category": "Network",
-        "publish_time": "22-07-2024 00:26",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://motoresto.id/posts/320567/tips-berkendara-aman-di-kala-hujan"
     },
     {
         "title": "Lafadz Niat dan Doa Sholat Dhuha Lengkap dengan Latin dan Terjemahan",
         "category": "Iqra",
-        "publish_time": "22-07-2024 00:22",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://iqra.republika.co.id/berita/sh0107366/lafadz-niat-dan-doa-sholat-dhuha-lengkap-dengan-latin-dan-terjemahan"
     },
     {
         "title": "Gunung Gede-Pangrango Bersalju dan Rahasia Penciptaan Gunung dalam Fussilat Ayat 10",
         "category": "Khazanah",
-        "publish_time": "22-07-2024 00:20",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://khazanah.republika.co.id/berita/sh00x7451/gunung-gedepangrango-bersalju-dan-rahasia-penciptaan-gunung-dalam-fussilat-ayat-10"
     },
     {
         "title": "Jadwal Sholat Hari Ini di Bandung",
         "category": "Iqra",
-        "publish_time": "22-07-2024 00:19",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://iqra.republika.co.id/berita/sh00vl430/jadwal-sholat-hari-ini-di-bandung"
     },
     {
         "title": "Penghapusan Jurusan IPA, IPS, Bahasa Belum Disosialisasikan, ITB Ikut Menanggapi",
         "category": "News",
-        "publish_time": "22-07-2024 00:18",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://news.republika.co.id/berita/sh00u2487/penghapusan-jurusan-ipa-ips-bahasa-belum-disosialisasikan-itb-ikut-menanggapi"
     },
     {
         "title": "Hari Ini, Persib Bakal Hadapi Laga Sulit Lawan Borneo FC, Adam dan Tyronne tak Dimainkan",
         "category": "Network",
-        "publish_time": "22-07-2024 00:07",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://matapantura.republika.co.id/posts/320635/hari-ini-persib-bakal-hadapi-laga-sulit-lawan-borneo-fc-adam-dan-tyronne-tak-dimainkan"
     },
     {
@@ -170,133 +290,13 @@
     {
         "title": "Pengadaan Jasa Konsultansi untuk Pekerjaan Update Environmental and Social Impact Assessment (ESIA) for Matenggeng Pumped Storage Project",
         "category": "Native",
-        "publish_time": "22-07-2024 00:00",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://republika.co.id/berita/sgwr77325/pengadaan-jasa-konsultansi-untuk-pekerjaan-update-environmental-and-social-impact-assessment-esia-for-matenggeng-pumped-storage-project"
     },
     {
         "title": "Biden Mundur Pilpres, Janjinya Soal Palestina di Mulut Saja",
         "category": "News",
-        "publish_time": "21-07-2024 23:55",
+        "publish_time": "22-07-2024 00:04",
         "news_link": "https://news.republika.co.id/berita/sgzz9q393/biden-mundur-pilpres-janjinya-soal-palestina-di-mulut-saja"
-    },
-    {
-        "title": "Babak Baru Tata Kelola Timah di Babel dan Jaminan Allah Bumi Kandung Banyak Kekayaan",
-        "category": "Khazanah",
-        "publish_time": "21-07-2024 23:55",
-        "news_link": "https://khazanah.republika.co.id/berita/sgzz0k451/babak-baru-tata-kelola-timah-di-babel-dan-jaminan-allah-bumi-kandung-banyak-kekayaan"
-    },
-    {
-        "title": "Eks Bek MU dan Madrid Raphael Varane akan Merapat ke Como 1907",
-        "category": "News",
-        "publish_time": "21-07-2024 23:55",
-        "news_link": "https://news.republika.co.id/berita/sgzz0i348/eks-bek-mu-dan-madrid-raphael-varane-akan-merapat-ke-como-1907"
-    },
-    {
-        "title": "Jurusan IPA, IPS dan Bahasa di SMA Bakal Dihapus, Ini Persiapan Disdik Jabar",
-        "category": "Network",
-        "publish_time": "21-07-2024 23:55",
-        "news_link": "https://matapantura.republika.co.id/posts/320634/jurusan-ipa-ips-dan-bahasa-di-sma-bakal-dihapus-ini-persiapan-disdik-jabar"
-    },
-    {
-        "title": "Rizky Ridho Sebut Kemenangan Atas Madura United Modal Penting Persija di Laga Berikutnya",
-        "category": "News",
-        "publish_time": "21-07-2024 23:55",
-        "news_link": "https://news.republika.co.id/berita/sgzysb348/rizky-ridho-sebut-kemenangan-atas-madura-united-modal-penting-persija-di-laga-berikutnya"
-    },
-    {
-        "title": "Anak Tikam Ibu Kandung yang Sedang Tidur dengan Pisau Dapur",
-        "category": "News",
-        "publish_time": "21-07-2024 23:55",
-        "news_link": "https://news.republika.co.id/berita/sgzyli377/anak-tikam-ibu-kandung-yang-sedang-tidur-dengan-pisau-dapur"
-    },
-    {
-        "title": "Deretan Pemain Bintang yang akan Bermain di Sepak Bola Olimpiade 2024",
-        "category": "News",
-        "publish_time": "21-07-2024 23:55",
-        "news_link": "https://news.republika.co.id/berita/sgzykx348/deretan-pemain-bintang-yang-akan-bermain-di-sepak-bola-olimpiade-2024"
-    },
-    {
-        "title": "Ini Penjelasan Resmi Pj Heru Budi Soal Cleansing Guru Honorer",
-        "category": "News",
-        "publish_time": "21-07-2024 23:55",
-        "news_link": "https://news.republika.co.id/berita/sgzyk7487/ini-penjelasan-resmi-pj-heru-budi-soal-cleansing-guru-honorer"
-    },
-    {
-        "title": "Jamintel: Program Kebangsaan LDII Jadi Solusi Atas Krisis Kebangsaan Akibat Pengaruh Asing",
-        "category": "News",
-        "publish_time": "21-07-2024 22:55",
-        "news_link": "https://news.republika.co.id/berita/sgzy9u456/jamintel-program-kebangsaan-ldii-jadi-solusi-atas-krisis-kebangsaan-akibat-pengaruh-asing"
-    },
-    {
-        "title": "Hijrah ke Liga Pro Saudi, Nacho Fernandez Ucapkan Selamat Tinggal pada Real Madrid",
-        "category": "News",
-        "publish_time": "21-07-2024 22:55",
-        "news_link": "https://news.republika.co.id/berita/sgzy6i348/hijrah-ke-liga-pro-saudi-nacho-fernandez-ucapkan-selamat-tinggal-pada-real-madrid"
-    },
-    {
-        "title": "Joe Biden Resmi Mundur dari Pencalonan Capres AS, Ini Sosok yang Didukung Menggantikannya",
-        "category": "News",
-        "publish_time": "21-07-2024 22:55",
-        "news_link": "https://news.republika.co.id/berita/sgzy3a487/joe-biden-resmi-mundur-dari-pencalonan-capres-as-ini-sosok-yang-didukung-menggantikannya"
-    },
-    {
-        "title": "Sakinah Finance dan HIDIMU DIY Gelar Literasi dan Perbengkelan",
-        "category": "Network",
-        "publish_time": "21-07-2024 22:55",
-        "news_link": "https://matapantura.republika.co.id/posts/320632/sakinah-finance-dan-hidimu-diy-gelar-literasi-dan-perbengkelan"
-    },
-    {
-        "title": "Ramai Diberitakan Jadi Organisasi Lobi Zionis Israel, Begini 7 Klarifikasi Utuh RAHIM",
-        "category": "Khazanah",
-        "publish_time": "21-07-2024 22:55",
-        "news_link": "https://khazanah.republika.co.id/berita/sgzxtp320/ramai-diberitakan-jadi-organisasi-lobi-zionis-israel-begini-7-klarifikasi-utuh-rahim"
-    },
-    {
-        "title": "Alasan Muhammadiyah Belum Putuskan Sikap Soal Konsesi Tambang",
-        "category": "Rejogja",
-        "publish_time": "21-07-2024 22:55",
-        "news_link": "https://rejogja.republika.co.id/berita/sgzxmv291/alasan-muhammadiyah-belum-putuskan-sikap-soal-konsesi-tambang"
-    },
-    {
-        "title": "Perubahan Bentuk Gunung Gede Saat Hari Kiamat Diungkap Alquran?",
-        "category": "Iqra",
-        "publish_time": "21-07-2024 22:55",
-        "news_link": "https://iqra.republika.co.id/berita/sgzxcs430/perubahan-bentuk-gunung-gede-saat-hari-kiamat-diungkap-alquran"
-    },
-    {
-        "title": "Mundur dari Capres AS, Biden: Demi Kebaikan Partai dan Negara",
-        "category": "News",
-        "publish_time": "21-07-2024 22:55",
-        "news_link": "https://news.republika.co.id/berita/sgzxak377/mundur-dari-capres-as-biden-demi-kebaikan-partai-dan-negara"
-    },
-    {
-        "title": "Gunung Gede dan Pangrango Membeku, ini Pekerjaan yang Lebih Berat dari Memindahkan Gunung",
-        "category": "Khazanah",
-        "publish_time": "21-07-2024 22:55",
-        "news_link": "https://khazanah.republika.co.id/berita/sgzx5s451/gunung-gede-dan-pangrango-membeku-ini-pekerjaan-yang-lebih-berat-dari-memindahkan-gunung"
-    },
-    {
-        "title": "Pelabuhannya Dibom Israel, Aksi Ini yang akan Dilakukan Houthi",
-        "category": "Khazanah",
-        "publish_time": "21-07-2024 22:55",
-        "news_link": "https://khazanah.republika.co.id/berita/sgzwhl430/pelabuhannya-dibom-israel-aksi-ini-yang-akan-dilakukan-houthi"
-    },
-    {
-        "title": "Pj Heru Segera Rekomendasikan 4.000 Guru Honorer Dapat Dapodik",
-        "category": "News",
-        "publish_time": "21-07-2024 21:55",
-        "news_link": "https://news.republika.co.id/berita/sgz9lb484/pj-heru-segera-rekomendasikan-4000-guru-honorer-dapat-dapodik"
-    },
-    {
-        "title": "Legislator Prancis: Israel tak Diterima di Olimpiade Paris",
-        "category": "News",
-        "publish_time": "21-07-2024 21:55",
-        "news_link": "https://news.republika.co.id/berita/sgzvgi393/legislator-prancis-israel-tak-diterima-di-olimpiade-paris"
-    },
-    {
-        "title": "Koordinasi Houthi-Hizbullah Rancang Serangan Balasan ke Israel dan Peringatan dari Iran",
-        "category": "News",
-        "publish_time": "21-07-2024 21:55",
-        "news_link": "https://news.republika.co.id/berita/sgzerj409/koordinasi-houthihizbullah-rancang-serangan-balasan-ke-israel-dan-peringatan-dari-iran"
     }
 ]
