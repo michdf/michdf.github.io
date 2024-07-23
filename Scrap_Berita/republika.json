@@ -1,122 +1,278 @@
 [
     {
+        "title": "Gerindra Resmi Usung Ahmad Luthfi di Pilkada Jateng, Ini Respons PDIP",
+        "category": "News",
+        "publish_time": "23-07-2024 11:11",
+        "news_link": "https://news.republika.co.id/berita/sh2pqq409/gerindra-resmi-usung-ahmad-luthfi-di-pilkada-jateng-ini-respons-pdip"
+    },
+    {
+        "title": "LBH Padang Tenggarai Kapolda Sumbar Sebar Hoaks Foto Afif Pegang Pedang",
+        "category": "News",
+        "publish_time": "23-07-2024 11:10",
+        "news_link": "https://news.republika.co.id/berita/sh2poq484/lbh-padang-tenggarai-kapolda-sumbar-sebar-hoaks-foto-afif-pegang-pedang"
+    },
+    {
+        "title": "Bukan cuma Pencernaan, Sakit Perut Bisa Jadi Tanda Anak Alami Masalah Kecemasan",
+        "category": "Ameera",
+        "publish_time": "23-07-2024 11:10",
+        "news_link": "https://ameera.republika.co.id/berita/sh2of7370/bukan-cuma-pencernaan-sakit-perut-bisa-jadi-tanda-anak-alami-masalah-kecemasan"
+    },
+    {
+        "title": "Ini Nama-nama Bacawagub yang Dikantongi Golkar untuk Pasangan Ridwan Kamil di Pilgub Jabar",
+        "category": "Rejabar",
+        "publish_time": "23-07-2024 11:08",
+        "news_link": "https://rejabar.republika.co.id/berita/sh2pmk512/ini-namanama-bacawagub-yang-dikantongi-golkar-untuk-pasangan-ridwan-kamil-di-pilgub-jabar"
+    },
+    {
+        "title": "Dikaitkan dengan Leimena, Maarif Institute: Tidak Ada Lagi Kerja Sama",
+        "category": "Khazanah",
+        "publish_time": "23-07-2024 11:01",
+        "news_link": "https://khazanah.republika.co.id/berita/sh2pac458/dikaitkan-dengan-leimena-maarif-institute-tidak-ada-lagi-kerja-sama"
+    },
+    {
+        "title": "Melihat Pelaksanaan PIN Polio di RPTRA Melinjo",
+        "category": "Visual",
+        "publish_time": "23-07-2024 11:00",
+        "news_link": "https://visual.republika.co.id/berita/sh2n6x375/melihat-pelaksanaan-pin-polio-di-rptra-melinjo"
+    },
+    {
+        "title": "Kurs Pajak 17-23 Juli 2024",
+        "category": "Network",
+        "publish_time": "23-07-2024 10:59",
+        "news_link": "https://shippingcargo.co.id/posts/320981/kurs-pajak-17-23-juli-2024"
+    },
+    {
+        "title": "Genosida Atlet Palestina",
+        "category": "Visual",
+        "publish_time": "23-07-2024 10:59",
+        "news_link": "https://visual.republika.co.id/berita/sh2p61393/genosida-atlet-palestina"
+    },
+    {
+        "title": "Taman Brightspot 2024 Hadir dengan Konsep Piknik",
+        "category": "Ameera",
+        "publish_time": "23-07-2024 10:50",
+        "news_link": "https://ameera.republika.co.id/berita/sh2osl328/taman-brightspot-2024-hadir-dengan-konsep-piknik"
+    },
+    {
+        "title": "Giibran Tinjau Uji Coba Makan Gratis Rp14.900 per Porsi di Bogor, Dibiayai Swasta",
+        "category": "News",
+        "publish_time": "23-07-2024 10:50",
+        "news_link": "https://news.republika.co.id/berita/sh2ort409/giibran-tinjau-uji-coba-makan-gratis-rp14900-per-porsi-di-bogor-dibiayai-swasta"
+    },
+    {
+        "title": "Silaturahmi ke Tokoh Agama, Kapolres Indramayu Bangun Sinergi",
+        "category": "Rejabar",
+        "publish_time": "23-07-2024 10:49",
+        "news_link": "https://rejabar.republika.co.id/berita/sh2oqw512/silaturahmi-ke-tokoh-agama-kapolres-indramayu-bangun-sinergi"
+    },
+    {
+        "title": "Jadwal Sholat Hari Ini di Bekasi",
+        "category": "Iqra",
+        "publish_time": "23-07-2024 10:44",
+        "news_link": "https://iqra.republika.co.id/berita/sh2oio430/jadwal-sholat-hari-ini-di-bekasi"
+    },
+    {
+        "title": "Atase Udara Australia Bertamu ke Pangkoopsudnas, Bahas Apa?",
+        "category": "Network",
+        "publish_time": "23-07-2024 10:43",
+        "news_link": "https://seputarmiliter.id/posts/320977/atase-udara-australia-bertamu-ke-pangkoopsudnas-bahas-apa-"
+    },
+    {
+        "title": "Peran Port Facility Security Officer dan Company Security Officer",
+        "category": "Network",
+        "publish_time": "23-07-2024 10:43",
+        "news_link": "https://shippingcargo.co.id/posts/320975/peran-port-facility-security-officer-dan-company-security-officer"
+    },
+    {
+        "title": "Solois Pria Paling Ngetop, Rony Parulian Merilis Lagu Perdana Ciptaannya Angin Rindu",
+        "category": "Network",
+        "publish_time": "23-07-2024 10:43",
+        "news_link": "https://filmusiku.com/posts/320973/solois-pria-paling-ngetop-rony-parulian-merilis-lagu-perdana-ciptaannya-angin-rindu"
+    },
+    {
+        "title": "Dokter Ingatkan Jangan Sepelekan Anak yang Alami Kekerasan",
+        "category": "Ameera",
+        "publish_time": "23-07-2024 10:41",
+        "news_link": "https://ameera.republika.co.id/berita/sh2ocg328/dokter-ingatkan-jangan-sepelekan-anak-yang-alami-kekerasan"
+    },
+    {
+        "title": "Gunung Gede Pangrango Beku, Suhu Perkebunan Teh Kertasari Bandung pun Dingin 7 Derajat",
+        "category": "Rejabar",
+        "publish_time": "23-07-2024 10:41",
+        "news_link": "https://rejabar.republika.co.id/berita/sh2oc9512/gunung-gede-pangrango-beku-suhu-perkebunan-teh-kertasari-bandung-pun-dingin-7-derajat"
+    },
+    {
+        "title": "Seri Terbaru E-Class Mercedes-Benz dipamerkan di GIIAS 2024, Begini Kisaran Harganya",
+        "category": "Ekonomi",
+        "publish_time": "23-07-2024 10:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/sh2obh349/seri-terbaru-eclass-mercedesbenz-dipamerkan-di-giias-2024-begini-kisaran-harganya"
+    },
+    {
+        "title": "Kadisdik: Kepsek Terpaksa Angkat Guru Honorer karena Kebutuhan",
+        "category": "News",
+        "publish_time": "23-07-2024 10:35",
+        "news_link": "https://news.republika.co.id/berita/sh2o36484/kadisdik-kepsek-terpaksa-angkat-guru-honorer-karena-kebutuhan"
+    },
+    {
+        "title": "Keseruan Puluhan Bocil Melawan 6 Legenda Persib Jelang Laga Piala Presiden 2024",
+        "category": "Network",
+        "publish_time": "23-07-2024 10:33",
+        "news_link": "https://kangjepret.republika.co.id/posts/320979/keseruan-puluhan-bocil-melawan-6-legenda-persib-jelang-laga-piala-presiden-2024"
+    },
+    {
+        "title": "Masih Dirawat, Lima Jamaah Haji Asal Jabar Belum Bisa Pulang ke Tanah Air",
+        "category": "Khazanah",
+        "publish_time": "23-07-2024 10:32",
+        "news_link": "https://khazanah.republika.co.id/berita/sh2ny5483/masih-dirawat-lima-jamaah-haji-asal-jabar-belum-bisa-pulang-ke-tanah-air"
+    },
+    {
+        "title": "Peduli Palestina, d\u2019Besto Salurkan Bantuan Kemanusiaan Melalui BAZNAS BAZIS DKI",
+        "category": "Khazanah",
+        "publish_time": "23-07-2024 10:30",
+        "news_link": "https://khazanah.republika.co.id/berita/sh2nv0370/peduli-palestina-dbesto-salurkan-bantuan-kemanusiaan-melalui-baznas-bazis-dki"
+    },
+    {
+        "title": "PMA Batam Meningkat, Sektor Industri Mesin dan Elektronik Jadi Penyumbang Utama",
+        "category": "Visual",
+        "publish_time": "23-07-2024 10:30",
+        "news_link": "https://visual.republika.co.id/berita/sh2n05375/pma-batam-meningkat-sektor-industri-mesin-dan-elektronik-jadi-penyumbang-utama"
+    },
+    {
+        "title": "Dahsyatnya Gunung: Sering Dibuat Rasulullah SAW Permisalan Ganjaran Pahala, Ini Contohnya",
+        "category": "Khazanah",
+        "publish_time": "23-07-2024 10:26",
+        "news_link": "https://khazanah.republika.co.id/berita/sh2noo320/dahsyatnya-gunung-sering-dibuat-rasulullah-saw-permisalan-ganjaran-pahala-ini-contohnya"
+    },
+    {
+        "title": "Cegah Hipertensi, Dinkes Depok Edukasi Kader Posbindu",
+        "category": "Network",
+        "publish_time": "23-07-2024 10:20",
+        "news_link": "https://ruzka.republika.co.id/edukasi/1674894921/cegah-hipertensi-dinkes-depok-edukasi-kader-posbindu"
+    },
+    {
+        "title": "Rusak Berat, Madrasah Ini Perlu Bantuan untuk Renovasi Bangunan Sekolah",
+        "category": "Visual",
+        "publish_time": "23-07-2024 10:15",
+        "news_link": "https://visual.republika.co.id/berita/sh2ma4375/rusak-berat-madrasah-ini-perlu-bantuan-untuk-renovasi-bangunan-sekolah"
+    },
+    {
         "title": "5 Kebiasaan yang Perlu Diajarkan kepada Anak Sejak Kecil",
         "category": "Ekonomi",
-        "publish_time": "23-07-2024 10:10",
+        "publish_time": "23-07-2024 10:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sh2mxw423/5-kebiasaan-yang-perlu-diajarkan-kepada-anak-sejak-kecil"
     },
     {
         "title": "Perekonomian Klub dan Masyarakat Ikut Rasakan Manfaat dari Perhelatan Piala Presiden 2024",
         "category": "News",
-        "publish_time": "23-07-2024 10:08",
+        "publish_time": "23-07-2024 10:11",
         "news_link": "https://news.republika.co.id/berita/sh2mv0456/perekonomian-klub-dan-masyarakat-ikut-rasakan-manfaat-dari-perhelatan-piala-presiden-2024"
     },
     {
         "title": "KM Mina Sumitra Terbakar di Perairan Karimun Jawa, 13 ABK Selamat",
         "category": "Network",
-        "publish_time": "23-07-2024 10:07",
+        "publish_time": "23-07-2024 10:11",
         "news_link": "https://matapantura.republika.co.id/posts/320972/km-mina-sumitra-terbakar-di-perairan-karimun-jawa-13-abk-selamat"
     },
     {
         "title": "Sejumlah Pakar Pangan dan Kimia Universitas Ternama Pertanyakan Pelabelan BPA Galon Polikarbonat",
         "category": "Network",
-        "publish_time": "23-07-2024 10:05",
+        "publish_time": "23-07-2024 10:11",
         "news_link": "https://cari.republika.co.id/posts/320971/sejumlah-pakar-pangan-dan-kimia-universitas-ternama-pertanyakan-pelabelan-bpa-galon-polikarbonat"
     },
     {
         "title": "Rupiah Ditutup Menguat Tipis di Level Rp16.213 Hari Ini",
         "category": "Ekonomi",
-        "publish_time": "23-07-2024 10:02",
+        "publish_time": "23-07-2024 10:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sh2mkp423/rupiah-ditutup-menguat-tipis-di-level-rp16213-hari-ini"
     },
     {
         "title": "IDE Indonesia Minta Polri Usut Jaringan Narkoba di Kalangan Anak Muda",
         "category": "News",
-        "publish_time": "23-07-2024 10:00",
+        "publish_time": "23-07-2024 10:11",
         "news_link": "https://news.republika.co.id/berita/sh2mgu320/ide-indonesia-minta-polri-usut-jaringan-narkoba-di-kalangan-anak-muda"
     },
     {
         "title": "Dugaan Demurrage Beras Impor Bulog Disebut Akibat Kesalahan Mekanisme",
         "category": "Network",
-        "publish_time": "23-07-2024 09:58",
+        "publish_time": "23-07-2024 10:11",
         "news_link": "https://genpop.republika.co.id/posts/320970/dugaan-demurrage-beras-impor-bulog-disebut-akibat-kesalahan-mekanisme"
     },
     {
         "title": "KPUD Indramayu Tingkatkan Sosialisasi Pilkada, Angka Partisipasi Masyarakat Masih Rendah",
         "category": "Network",
-        "publish_time": "23-07-2024 09:58",
+        "publish_time": "23-07-2024 10:11",
         "news_link": "https://matapantura.republika.co.id/posts/320969/kpud-indramayu-tingkatkan-sosialisasi-pilkada-angka-partisipasi-masyarakat-masih-rendah"
     },
     {
         "title": "Kata Kepala Sekolah Tentang Penghapusan Jurusan IPA, IPS, Bahasa di Tingkat SMA",
         "category": "News",
-        "publish_time": "23-07-2024 09:57",
+        "publish_time": "23-07-2024 10:11",
         "news_link": "https://news.republika.co.id/berita/sh2mci487/kata-kepala-sekolah-tentang-penghapusan-jurusan-ipa-ips-bahasa-di-tingkat-sma"
     },
     {
         "title": "Hari Anak Nasional, Perempuan ICMI Serukan Gerakan Restorasi Akhlak Anak Indonesia",
         "category": "Khazanah",
-        "publish_time": "23-07-2024 09:55",
+        "publish_time": "23-07-2024 10:11",
         "news_link": "https://khazanah.republika.co.id/berita/sh2m9x423/hari-anak-nasional-perempuan-icmi-serukan-gerakan-restorasi-akhlak-anak-indonesia"
     },
     {
         "title": "Kemenhub Tingkatkan Efisiensi dan Kualitas Penanganan Kerangka Kapal di Perairan Indonesia",
         "category": "Network",
-        "publish_time": "23-07-2024 09:46",
+        "publish_time": "23-07-2024 10:11",
         "news_link": "https://matapantura.republika.co.id/posts/320966/kemenhub-tingkatkan-efisiensi-dan-kualitas-penanganan-kerangka-kapal-di-perairan-indonesia"
     },
     {
         "title": "Gibran Tinjau Uji Coba Program Makan Bergizi Gratis di Bogor",
         "category": "Visual",
-        "publish_time": "23-07-2024 09:39",
+        "publish_time": "23-07-2024 09:11",
         "news_link": "https://visual.republika.co.id/berita/sh2lig375/gibran-tinjau-uji-coba-program-makan-bergizi-gratis-di-bogor"
     },
     {
         "title": "FHI 2024 Resmi Dibuka dengan Transformasi Menjadi Food  Hospitality Indaonesia",
         "category": "Network",
-        "publish_time": "23-07-2024 09:37",
+        "publish_time": "23-07-2024 09:11",
         "news_link": "https://cari.republika.co.id/posts/320964/fhi-2024-resmi-dibuka-dengan-transformasi-menjadi-food-hospitality-indaonesia"
     },
     {
         "title": "Ini Alasan Tingginya Elektabilitas dan Peluang Menang Kaesang di Jateng Menurut Pengamat",
         "category": "News",
-        "publish_time": "23-07-2024 09:36",
+        "publish_time": "23-07-2024 09:11",
         "news_link": "https://news.republika.co.id/berita/sh2ld5487/ini-alasan-tingginya-elektabilitas-dan-peluang-menang-kaesang-di-jateng-menurut-pengamat"
     },
     {
         "title": "Sejarah Houthi, dari Penyebar Ajaran Syiah ke Kelompok Bersenjata",
         "category": "News",
-        "publish_time": "23-07-2024 09:31",
+        "publish_time": "23-07-2024 09:11",
         "news_link": "https://news.republika.co.id/berita/sh2l5x458/sejarah-houthi-dari-penyebar-ajaran-syiah-ke-kelompok-bersenjata"
     },
     {
         "title": "Menko Airlangga Tegaskan Perempuan Punya Peran Besar dalam Perkembangan UMKM",
         "category": "Ekonomi",
-        "publish_time": "23-07-2024 09:31",
+        "publish_time": "23-07-2024 09:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sh2l4g423/menko-airlangga-tegaskan-perempuan-punya-peran-besar-dalam-perkembangan-umkm"
     },
     {
         "title": "Dua Pengurus Fatayat NU yang Bertemu Presiden Israel Mengundurkan Diri",
         "category": "Khazanah",
-        "publish_time": "23-07-2024 09:29",
+        "publish_time": "23-07-2024 09:11",
         "news_link": "https://khazanah.republika.co.id/berita/sh2l1h320/dua-pengurus-fatayat-nu-yang-bertemu-presiden-israel-mengundurkan-diri"
     },
     {
         "title": "Pendanaan Campuran Penting untuk Penanggulangan Iklim di Afrika",
         "category": "Esgnow",
-        "publish_time": "23-07-2024 09:28",
+        "publish_time": "23-07-2024 09:11",
         "news_link": "https://esgnow.republika.co.id/berita/sh2l0c416/pendanaan-campuran-penting-untuk-penanggulangan-iklim-di-afrika"
     },
     {
         "title": "Kota Blitar: Jejak Peran Pemuda, dan  Segudang Pendiri Negara",
         "category": "Kolom",
-        "publish_time": "23-07-2024 09:28",
+        "publish_time": "23-07-2024 09:11",
         "news_link": "https://analisis.republika.co.id/berita/sh2klm318/kota-blitar-jejak-peran-pemuda-dan-segudang-pendiri-negara"
     },
     {
         "title": "FIA UI Gelar ICAS-PGS dan ICBAP 2024",
         "category": "News",
-        "publish_time": "23-07-2024 09:21",
+        "publish_time": "23-07-2024 09:11",
         "news_link": "https://news.republika.co.id/berita/sh2jqc318/fia-ui-gelar-icaspgs-dan-icbap-2024"
     },
     {
@@ -142,161 +298,5 @@
         "category": "Sharia",
         "publish_time": "23-07-2024 09:11",
         "news_link": "https://sharia.republika.co.id/berita/sh2jjn423/aasi-sebut-dua-entitas-asuransi-syariahspin-offtahun-ini"
-    },
-    {
-        "title": "Polres Jember Ciduk 22 Pesilat PSHT yang Keroyok Aipda Parmanto Indrajaya",
-        "category": "News",
-        "publish_time": "23-07-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sh2jho484/polres-jember-ciduk-22-pesilat-psht-yang-keroyok-aipda-parmanto-indrajaya"
-    },
-    {
-        "title": "Tjitjih yang Bukan Miss, dan Buiten Het Gareel yang Terlupa",
-        "category": "Network",
-        "publish_time": "23-07-2024 09:11",
-        "news_link": "https://algebra.republika.co.id/posts/320957/tjitjih-yang-bukan-miss-dan-buiten-het-gareel-yang-terlupa"
-    },
-    {
-        "title": "Mengapa Keringat Bau dan Meninggalkan Noda?",
-        "category": "Network",
-        "publish_time": "23-07-2024 09:11",
-        "news_link": "https://magenta.republika.co.id/tips/1704894566/mengapa-keringat-bau-dan-meninggalkan-noda"
-    },
-    {
-        "title": "Yogya Sudah Hapus Jurusan IPA, IPS, Bahasa Sejak Dua Tahun Lalu, Ini Dampak dan Kendalanya",
-        "category": "News",
-        "publish_time": "23-07-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sh2j1z487/yogya-sudah-hapus-jurusan-ipa-ips-bahasa-sejak-dua-tahun-lalu-ini-dampak-dan-kendalanya"
-    },
-    {
-        "title": "Dimediasi China, Hamas dan Fatah 'Bersatu' dan Teken Perjanjian Pemerintahan di Gaza",
-        "category": "News",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://news.republika.co.id/berita/sh2ij8409/dimediasi-china-hamas-dan-fatah-bersatu-dan-teken-perjanjian-pemerintahan-di-gaza"
-    },
-    {
-        "title": "Bareskrim Polri Mulai Usut Kasus Kesaksian Palsu Aep dan Dede",
-        "category": "News",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://news.republika.co.id/berita/sh2ihs484/bareskrim-polri-mulai-usut-kasus-kesaksian-palsu-aep-dan-dede"
-    },
-    {
-        "title": "Nikmati Sensasi Hiburan Berkelas dan Inovatif dari Kamar Hotel Transvision Hospitality",
-        "category": "Network",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://magenta.republika.co.id/gaya-hidup/1704894484/nikmati-sensasi-hiburan-berkelas-dan-inovatif-dari-kamar-hotel-transvision-hospitality"
-    },
-    {
-        "title": "Burhanuddin Abdullah dan Andi Arief Ditunjuk Jadi Komisaris PLN",
-        "category": "Ekonomi",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sh2i33423/burhanuddin-abdullah-dan-andi-arief-ditunjuk-jadi-komisaris-pln"
-    },
-    {
-        "title": "Gunung Gede Membeku 0 Derajat, Dua Gunung Ini Hingga Kebun Teh Juga Bersuhu Dingin Ekstrem",
-        "category": "News",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://news.republika.co.id/berita/sh2hy5487/gunung-gede-membeku-0-derajat-dua-gunung-ini-hingga-kebun-teh-juga-bersuhu-dingin-ekstrem"
-    },
-    {
-        "title": "Hari Anak Nasional, Pentingnya Mengedukasi Cuci Tangan pada Anak",
-        "category": "Retizen",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://retizen.republika.co.id/posts/320882/hari-anak-nasional-pentingnya-mengedukasi-cuci-tangan-pada-anak"
-    },
-    {
-        "title": "Menhir Maek: Penantian Ribuan Tahun Demi Asa Masa Depan",
-        "category": "Retizen",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://retizen.republika.co.id/posts/320901/menhir-maek-penantian-ribuan-tahun-demi-asa-masa-depan"
-    },
-    {
-        "title": "PHE ONWJ Selamatkan Awak Kapal Nyaris Karam, Erick: Terima kasih untuk Dedikasinya",
-        "category": "Ekonomi",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sh2hp0423/phe-onwj-selamatkan-awak-kapal-nyaris-karam-erick-terima-kasih-untuk-dedikasinya"
-    },
-    {
-        "title": "Sejarah Fatayat NU, Banom Tempat Pemudi Nahdliyin",
-        "category": "News",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://news.republika.co.id/berita/sh2hn6458/sejarah-fatayat-nu-banom-tempat-pemudi-nahdliyin"
-    },
-    {
-        "title": "Dewan Desak Disdik DKI Angkat 4.000 Guru Honorer Lewat KKI",
-        "category": "News",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://news.republika.co.id/berita/sh2hn4484/dewan-desak-disdik-dki-angkat-4000-guru-honorer-lewat-kki"
-    },
-    {
-        "title": "Semeru Erupsi, Merapi Keluarkan Awan Panas: Terungkap Misteri Ayat Gunung Api dalam Quran",
-        "category": "Khazanah",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sh28hs483/semeru-erupsi-merapi-keluarkan-awan-panas-terungkap-misteri-ayat-gunung-api-dalam-quran"
-    },
-    {
-        "title": "TJSL BUMN, Perindo Beri Beasiswa untuk Anak Nelayan di Jakut",
-        "category": "Ekonomi",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sh2hey423/tjsl-bumn-perindo-beri-beasiswa-untuk-anak-nelayan-di-jakut"
-    },
-    {
-        "title": "Gelar Pameran Seni Rupa, SMA Labschool Pamerkan 68 Karya Lukisan",
-        "category": "News",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://news.republika.co.id/berita/sh2f0y291/gelar-pameran-seni-rupa-sma-labschool-pamerkan-68-karya-lukisan"
-    },
-    {
-        "title": "Permintaan Maaf Lengkap Nurul Usai Mundur dari Fatayat Akibat Foto dengan Presiden Israel",
-        "category": "Khazanah",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sh2h6c483/permintaan-maaf-lengkap-nurul-usai-mundur-dari-fatayat-akibat-foto-dengan-presiden-israel"
-    },
-    {
-        "title": "SDN 01 Pondok Bambu Jakarta Timur Kebakaran, Seluruh Ruang Hangus",
-        "category": "News",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://news.republika.co.id/berita/sh2h18484/sdn-01-pondok-bambu-jakarta-timur-kebakaran-seluruh-ruang-hangus"
-    },
-    {
-        "title": "Palestina Resmi Surati FIFA dan IOC Desak Larang Israel Ikut Olimpiade",
-        "category": "News",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://news.republika.co.id/berita/sh2gwb393/palestina-resmi-surati-fifa-dan-ioc-desak-larang-israel-ikut-olimpiade"
-    },
-    {
-        "title": "Siap Hadapi Dunia Kerja! Mahasiswa BSI Siap dengan Sertifikasi Ilmu Komunikasi",
-        "category": "News",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://news.republika.co.id/berita/sh2gvy423/siap-hadapi-dunia-kerja-mahasiswa-bsi-siap-dengan-sertifikasi-ilmu-komunikasi"
-    },
-    {
-        "title": "Bea Cukai Tingkatkan Kualitas Layanan Lewat Kunjungan ke Tiga Perusahaan Ini",
-        "category": "Beacukai",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://republika.co.id/berita/sh2gnl423/bea-cukai-tingkatkan-kualitas-layanan-lewat-kunjungan-ke-tiga-perusahaan-ini"
-    },
-    {
-        "title": "PDIP Gembira Anies Jadi Cagub Jakarta, Ogah Terpengaruh 'Sesumbar' Koalisi Indonesia Maju",
-        "category": "News",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://news.republika.co.id/berita/sh2gli409/pdip-gembira-anies-jadi-cagub-jakarta-ogah-terpengaruh-sesumbar-koalisi-indonesia-maju"
-    },
-    {
-        "title": "Universitas BSI Cikarang Buka Jalan Kreativitas Anak Muda dengan AI",
-        "category": "News",
-        "publish_time": "23-07-2024 08:11",
-        "news_link": "https://news.republika.co.id/berita/sh2gdl423/universitas-bsi-cikarang-buka-jalan-kreativitas-anak-muda-dengan-ai"
-    },
-    {
-        "title": "Dikaitkan dengan Institut Leimena dan NGO Pro-Israel, Ini Klarifikasi Alkhairaat",
-        "category": "Khazanah",
-        "publish_time": "23-07-2024 07:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sh2fxy458/dikaitkan-dengan-institut-leimena-dan-ngo-proisrael-ini-klarifikasi-alkhairaat"
-    },
-    {
-        "title": "Koleksi kebaya Ibu Tien Soeharto akan ditampilkan pada Hari Kebaya Nasional",
-        "category": "Rejogja",
-        "publish_time": "23-07-2024 07:11",
-        "news_link": "https://rejogja.republika.co.id/berita/sh2dcv291/koleksi-kebaya-ibu-tien-soeharto-akan-ditampilkan-pada-hari-kebaya-nasional"
     }
 ]
