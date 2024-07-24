@@ -1,74 +1,134 @@
 [
     {
+        "title": "Polres Kebumen Usut Kasus Pemuda Pancasila Intimidasi Warga",
+        "category": "News",
+        "publish_time": "24-07-2024 04:08",
+        "news_link": "https://news.republika.co.id/berita/sh40ud484/polres-kebumen-usut-kasus-pemuda-pancasila-intimidasi-warga"
+    },
+    {
+        "title": "30 Kabupaten/Kota di Jateng Siaga Darurat Kekeringan",
+        "category": "Esgnow",
+        "publish_time": "24-07-2024 04:00",
+        "news_link": "https://esgnow.republika.co.id/berita/sh3tx6416/30-kabupatenkota-di-jateng-siaga-darurat-kekeringan"
+    },
+    {
+        "title": "Jalin Ajak Anak-Anak Disabilitas Mengunjungi Museum BI",
+        "category": "News",
+        "publish_time": "24-07-2024 03:54",
+        "news_link": "https://news.republika.co.id/berita/sh4064484/jalin-ajak-anakanak-disabilitas-mengunjungi-museum-bi"
+    },
+    {
+        "title": "Jadi Mediator, China Berhasil Satukan Fatah dan Hamas",
+        "category": "Network",
+        "publish_time": "24-07-2024 03:50",
+        "news_link": "https://seputarmiliter.id/posts/321059/jadi-mediator-china-berhasil-satukan-fatah-dan-hamas"
+    },
+    {
+        "title": "Ilmuwan Ungkap Jumlah Langkah Harian yang Optimal untuk Mengimbangi Mager",
+        "category": "Network",
+        "publish_time": "24-07-2024 03:50",
+        "news_link": "https://impresiupdate.id/posts/321081/ilmuwan-ungkap-jumlah-langkah-harian-yang-optimal-untuk-mengimbangi-mager"
+    },
+    {
+        "title": "ICC Terima 64 Pengajuan Intervensi Surat Penangkapan Netanyahu dan Hamas",
+        "category": "Khazanah",
+        "publish_time": "24-07-2024 03:44",
+        "news_link": "https://khazanah.republika.co.id/berita/sh3zpb366/icc-terima-64-pengajuan-intervensi-surat-penangkapan-netanyahu-dan-hamas"
+    },
+    {
+        "title": "Stigma Pemimpin Yahudi Terburuk dan 4 Ambisi Netanyahu Menurut Anggota Kongres Yahudi",
+        "category": "Khazanah",
+        "publish_time": "24-07-2024 03:36",
+        "news_link": "https://khazanah.republika.co.id/berita/sh3zdd451/stigma-pemimpin-yahudi-terburuk-dan-4-ambisi-netanyahu-menurut-anggota-kongres-yahudi"
+    },
+    {
+        "title": "Wapres ke-9 Hamzah Wafat, Ini Sepak Terjangnya di Politik Hingga Jadi Pendamping Megawati",
+        "category": "News",
+        "publish_time": "24-07-2024 03:26",
+        "news_link": "https://news.republika.co.id/berita/sh3ywp377/wapres-ke9-hamzah-wafat-ini-sepak-terjangnya-di-politik-hingga-jadi-pendamping-megawati"
+    },
+    {
+        "title": "Innalillahi, Wapres ke-9 RI Hamzah Haz Wafat",
+        "category": "News",
+        "publish_time": "24-07-2024 03:16",
+        "news_link": "https://news.republika.co.id/berita/sh3yfe484/innalillahi-wapres-ke9-ri-hamzah-haz-wafat"
+    },
+    {
+        "title": "Universitas BSI Kampus Cibitung Gandeng Orang Tua untuk Sukseskan Mahasiswa",
+        "category": "News",
+        "publish_time": "24-07-2024 03:14",
+        "news_link": "https://news.republika.co.id/berita/sh3yck490/universitas-bsi-kampus-cibitung-gandeng-orang-tua-untuk-sukseskan-mahasiswa"
+    },
+    {
         "title": "Ini Daftar Anggota Kongres AS Boikot Pidato Netanyahu, Respons Tlaib Mengejutkan",
         "category": "News",
-        "publish_time": "24-07-2024 03:11",
+        "publish_time": "24-07-2024 03:13",
         "news_link": "https://news.republika.co.id/berita/sh3y77377/ini-daftar-anggota-kongres-as-boikot-pidato-netanyahu-respons-tlaib-mengejutkan"
     },
     {
         "title": "Harga Emas Naik Hari Ini, Sekarang Jadi Rp 1.406.000 per Gram",
         "category": "Ekonomi",
-        "publish_time": "24-07-2024 03:01",
+        "publish_time": "24-07-2024 03:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sh3xpk490/harga-emas-naik-hari-ini-sekarang-jadi-rp-1406000-per-gram"
     },
     {
         "title": "Jatim, NTT, dan NTB Mulai Alami Kekeringan",
         "category": "Esgnow",
-        "publish_time": "24-07-2024 03:00",
+        "publish_time": "24-07-2024 03:13",
         "news_link": "https://esgnow.republika.co.id/berita/sh3tmg416/jatim-ntt-dan-ntb-mulai-alami-kekeringan"
     },
     {
         "title": "Jelang Sidang PK PN Cirebon, Saka Pilih Sarapan Dulu: Biar Gak Pingsan",
         "category": "Rejabar",
-        "publish_time": "24-07-2024 02:58",
+        "publish_time": "24-07-2024 03:13",
         "news_link": "https://rejabar.republika.co.id/berita/sh3xkk512/jelang-sidang-pk-pn-cirebon-saka-pilih-sarapan-dulu-biar-gak-pingsan"
     },
     {
         "title": "Tingkat Retensi Meningkat, Nasabah Bank Muamalat Makin Betah Pakai Muamalat DIN",
         "category": "Sharia",
-        "publish_time": "24-07-2024 02:52",
+        "publish_time": "24-07-2024 03:13",
         "news_link": "https://sharia.republika.co.id/berita/sh3xaq490/tingkat-retensi-meningkat-nasabah-bank-muamalat-makin-betah-pakai-muamalat-din"
     },
     {
         "title": "Beyonc\u00e9 Izinkan Kamala Harris Menggunakan Lagu 'Freedom' Untuk Kampanye Presiden",
         "category": "Network",
-        "publish_time": "24-07-2024 02:49",
+        "publish_time": "24-07-2024 03:13",
         "news_link": "https://impresi.republika.co.id/sosok/1694897244/beyonc\u00e9-izinkan-kamala-harris-menggunakan-lagu-freedom-untuk-kampanye-presiden"
     },
     {
         "title": "Metallica Kembali Menggelar Konser Amal dan Lelang Helping Hands Untuk Yayasan yang Didirikan Metallica",
         "category": "Network",
-        "publish_time": "24-07-2024 02:39",
+        "publish_time": "24-07-2024 02:13",
         "news_link": "https://impresi.republika.co.id/sana-sini/1694897193/metallica-kembali-menggelar-konser-amal-dan-lelang-helping-hands-untuk-yayasan-yang-didirikan-metallica"
     },
     {
         "title": "Gunung Vesovius, Api di Dasar Laut, dan Kaitannya dengan Surat At Tur ayat 6",
         "category": "Iqra",
-        "publish_time": "24-07-2024 02:38",
+        "publish_time": "24-07-2024 02:13",
         "news_link": "https://iqra.republika.co.id/berita/sh3wnm430/gunung-vesovius-api-di-dasar-laut-dan-kaitannya-dengan-surat-at-tur-ayat-6"
     },
     {
         "title": "Menuju Net Zero Emission, PLN EPI Maksimalkan Biomassa",
         "category": "Ekonomi",
-        "publish_time": "24-07-2024 02:35",
+        "publish_time": "24-07-2024 02:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sh3whx430/menuju-net-zero-emission-pln-epi-maksimalkan-biomassa"
     },
     {
         "title": "Hari Nasional Mesir, Dubes El Shemy: Indonesia-Mesir Kerja Sama Ekonomi dan Pendidikan",
         "category": "Khazanah",
-        "publish_time": "24-07-2024 02:26",
+        "publish_time": "24-07-2024 02:13",
         "news_link": "https://khazanah.republika.co.id/berita/sh3w2y451/hari-nasional-mesir-dubes-el-shemy-indonesiamesir-kerja-sama-ekonomi-dan-pendidikan"
     },
     {
         "title": "Celine Dion Dikabarkan Bakal Tampil di Pembukaan Olimpiade Paris",
         "category": "Network",
-        "publish_time": "24-07-2024 02:24",
+        "publish_time": "24-07-2024 02:13",
         "news_link": "https://impresi.republika.co.id/sosok/1694897122/celine-dion-dikabarkan-bakal-tampil-di-pembukaan-olimpiade-paris"
     },
     {
         "title": "Bandung Arts Festival #10, Harmoni Budaya di Bumi Parahyangan",
         "category": "Network",
-        "publish_time": "24-07-2024 02:21",
+        "publish_time": "24-07-2024 02:13",
         "news_link": "https://bandung24jam.id/posts/321041/bandung-arts-festival-10-harmoni-budaya-di-bumi-parahyangan"
     },
     {
@@ -238,65 +298,5 @@
         "category": "News",
         "publish_time": "24-07-2024 01:13",
         "news_link": "https://news.republika.co.id/berita/sh3re4348/topeng-standar-ganda-presiden-ioc-klaim-tak-sangkut-pautkan-olimpiade-dengan-politik"
-    },
-    {
-        "title": "PKS Lobi PKB Agar Dukung Anies-Sohibul di Pilkada DKI",
-        "category": "News",
-        "publish_time": "24-07-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/sh3r7f377/pks-lobi-pkb-agar-dukung-aniessohibul-di-pilkada-dki"
-    },
-    {
-        "title": "Bank Bangkrut Kali Ini di Padang, LPS Pastikan Simpanan Nasabah Aman",
-        "category": "Ekonomi",
-        "publish_time": "24-07-2024 00:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sh3r2t490/bank-bangkrut-kali-ini-di-padang-lps-pastikan-simpanan-nasabah-aman"
-    },
-    {
-        "title": "Aroma Mobil Baru Disebut Bisa Jadi Pemicu Kanker",
-        "category": "Ameera",
-        "publish_time": "24-07-2024 00:13",
-        "news_link": "https://ameera.republika.co.id/berita/sh3qlv425/aroma-mobil-baru-disebut-bisa-jadi-pemicu-kanker"
-    },
-    {
-        "title": "Siapa Sangka, Begini Deretan Sisi Gelap Industri K-pop",
-        "category": "Network",
-        "publish_time": "24-07-2024 00:13",
-        "news_link": "https://impresi.republika.co.id/leisure/1694896720/siapa-sangka-begini-deretan-sisi-gelap-industri-k-pop"
-    },
-    {
-        "title": "Kafiatur Menangis Setelah Cetak Gol Pertamanya di Piala AFF U-19",
-        "category": "News",
-        "publish_time": "24-07-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/sh3qf9348/kafiatur-menangis-setelah-cetak-gol-pertamanya-di-piala-aff-u19"
-    },
-    {
-        "title": "DPRD Jabar Dorong Sinergitas Pemerintah Daerah dan Provinsi Untuk Kembangkan Desa Wisata",
-        "category": "Rejabar",
-        "publish_time": "24-07-2024 00:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sh3q9l490/dprd-jabar-dorong-sinergitas-pemerintah-daerah-dan-provinsi-untuk-kembangkan-desa-wisata"
-    },
-    {
-        "title": "Enam Kali Raih WTP, BPKH Buktikan Amanah Kelola Dana Haji",
-        "category": "Khazanah",
-        "publish_time": "24-07-2024 00:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sh3pzk451/enam-kali-raih-wtp-bpkh-buktikan-amanah-kelola-dana-haji"
-    },
-    {
-        "title": "Jokowi Tinjau Instalasi Karantina 1,9 Juta Bibit Tebu Di Merauke",
-        "category": "Ekonomi",
-        "publish_time": "24-07-2024 00:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sh3pkl490/jokowi-tinjau-instalasi-karantina-19-juta-bibit-tebu-di-merauke"
-    },
-    {
-        "title": "Bank DKI dan Komisi Penanggulangan AIDS Salurkan Bantuan untuk Anak HIV",
-        "category": "Esgnow",
-        "publish_time": "24-07-2024 00:13",
-        "news_link": "https://esgnow.republika.co.id/berita/sh3phu349/bank-dki-dan-komisi-penanggulangan-aids-salurkan-bantuan-untuk-anak-hiv"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini di Jakarta",
-        "category": "Iqra",
-        "publish_time": "24-07-2024 00:13",
-        "news_link": "https://iqra.republika.co.id/berita/sh3p8z430/jadwal-sholat-hari-ini-di-jakarta"
     }
 ]
