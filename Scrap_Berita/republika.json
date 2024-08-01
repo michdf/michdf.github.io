@@ -1,110 +1,218 @@
 [
     {
+        "title": "Ketika Rasulullah Jadi Makmum Masbuk",
+        "category": "Khazanah",
+        "publish_time": "01-08-2024 04:09",
+        "news_link": "https://khazanah.republika.co.id/berita/shiu77458/ketika-rasulullah-jadi-makmum-masbuk"
+    },
+    {
+        "title": "Jokowi Kecam Keras Pembunuhan terhadap Pemimpin Hamas Ismail Haniyeh",
+        "category": "News",
+        "publish_time": "01-08-2024 04:06",
+        "news_link": "https://news.republika.co.id/berita/shiu1v484/jokowi-kecam-keras-pembunuhan-terhadap-pemimpin-hamas-ismail-haniyeh"
+    },
+    {
+        "title": "Pemain Judi Online Marak di Indonesia, Sosiolog Ungkap Faktor Pendorongnya",
+        "category": "Ameera",
+        "publish_time": "01-08-2024 03:58",
+        "news_link": "https://ameera.republika.co.id/berita/shitoy425/pemain-judi-online-marak-di-indonesia-sosiolog-ungkap-faktor-pendorongnya"
+    },
+    {
+        "title": "Senasib dengan McDonald's, Penjualan Starbucks di Seluruh Dunia Turun",
+        "category": "Ekonomi",
+        "publish_time": "01-08-2024 03:57",
+        "news_link": "https://ekonomi.republika.co.id/berita/shitn3484/senasib-dengan-mcdonalds-penjualan-starbucks-di-seluruh-dunia-turun"
+    },
+    {
+        "title": "Jadi Syuhada, Ini Enam Hadiah yang akan Diterima Ismail Haniyeh Menurut Hadits Nabi",
+        "category": "Khazanah",
+        "publish_time": "01-08-2024 03:52",
+        "news_link": "https://khazanah.republika.co.id/berita/shitdy483/jadi-syuhada-ini-enam-hadiah-yang-akan-diterima-ismail-haniyeh-menurut-hadits-nabi"
+    },
+    {
+        "title": "Susno Duadji: Bukti-Bukti Kasus Vina Belum Cukup Buktikan Adanya Unsur Pembunuhan",
+        "category": "News",
+        "publish_time": "01-08-2024 03:50",
+        "news_link": "https://news.republika.co.id/berita/shitap409/susno-duadji-buktibukti-kasus-vina-belum-cukup-buktikan-adanya-unsur-pembunuhan"
+    },
+    {
+        "title": "Di Forum Internasional, Pertamina Paparkan Strategi Menjadi Pemimpin Regional Bisnis CCS",
+        "category": "Ekonomi",
+        "publish_time": "01-08-2024 03:49",
+        "news_link": "https://ekonomi.republika.co.id/berita/shit9m423/di-forum-internasional-pertamina-paparkan-strategi-menjadi-pemimpin-regional-bisnis-ccs"
+    },
+    {
+        "title": "Boikot Produk Terafiliasi Israel Tumbuhkan Produk Lokal",
+        "category": "Video",
+        "publish_time": "01-08-2024 03:49",
+        "news_link": "https://tv.republika.co.id/berita/shit9c418/boikot-produk-terafiliasi-israel-tumbuhkan-produk-lokal"
+    },
+    {
+        "title": "Pengaruh Ridwan Kamil dan Atalia Praratya di Kota Bandung Tinggi",
+        "category": "News",
+        "publish_time": "01-08-2024 03:47",
+        "news_link": "https://news.republika.co.id/berita/shit6n484/pengaruh-ridwan-kamil-dan-atalia-praratya-di-kota-bandung-tinggi"
+    },
+    {
+        "title": "Tiga Jenis Amalan Menurut Islam",
+        "category": "Khazanah",
+        "publish_time": "01-08-2024 03:36",
+        "news_link": "https://khazanah.republika.co.id/berita/shisnn458/tiga-jenis-amalan-menurut-islam"
+    },
+    {
+        "title": "Green Day Bikin Pendukung Donald Trump Gusar Gegara Topeng Trump 'Idiot'",
+        "category": "Network",
+        "publish_time": "01-08-2024 03:35",
+        "news_link": "https://impresi.republika.co.id/news/1694927675/green-day-bikin-pendukung-donald-trump-gusar-gegara-topeng-trump-idiot"
+    },
+    {
+        "title": "Sentuhan Hiburan di Transportasi Publik LRT Jakarta",
+        "category": "Video",
+        "publish_time": "01-08-2024 03:33",
+        "news_link": "https://tv.republika.co.id/berita/shisjk216/sentuhan-hiburan-di-transportasi-publik-lrt-jakarta"
+    },
+    {
+        "title": "Disangka Syahid, Ternyata Jadi Penghuni Neraka",
+        "category": "Khazanah",
+        "publish_time": "01-08-2024 03:29",
+        "news_link": "https://khazanah.republika.co.id/berita/shisd7458/disangka-syahid-ternyata-jadi-penghuni-neraka"
+    },
+    {
+        "title": "Lantamal V TNI AL Surabaya Bantu Distribusi 20 Ribu Alquran ke Daerah Terpencil",
+        "category": "Khazanah",
+        "publish_time": "01-08-2024 03:29",
+        "news_link": "https://khazanah.republika.co.id/berita/shiscq483/lantamal-v-tni-al-surabaya-bantu-distribusi-20-ribu-alquran-ke-daerah-terpencil"
+    },
+    {
+        "title": "Jokowi Kumpulkan Sejumlah Menteri Bahas Ketahanan Energi",
+        "category": "Ekonomi",
+        "publish_time": "01-08-2024 03:23",
+        "news_link": "https://ekonomi.republika.co.id/berita/shis2l423/jokowi-kumpulkan-sejumlah-menteri-bahas-ketahanan-energi"
+    },
+    {
+        "title": "Pemilik Daycare Viral Ditangkap di Rumahnya, Polisi: Yang Bersangkutan tak Menyangkal",
+        "category": "Ameera",
+        "publish_time": "01-08-2024 03:17",
+        "news_link": "https://ameera.republika.co.id/berita/shirse425/pemilik-daycare-viral-ditangkap-di-rumahnya-polisi-yang-bersangkutan-tak-menyangkal"
+    },
+    {
+        "title": "Ismail Haniyeh Syahid di Iran, Ini 3 Jenis Syuhada Menurut Islam",
+        "category": "Khazanah",
+        "publish_time": "01-08-2024 03:14",
+        "news_link": "https://khazanah.republika.co.id/berita/shirnj458/ismail-haniyeh-syahid-di-iran-ini-3-jenis-syuhada-menurut-islam"
+    },
+    {
         "title": "Harga Minyak Dunia Melonjak Usai Pembunuhan Ismail Haniyeh",
         "category": "Ekonomi",
-        "publish_time": "01-08-2024 03:12",
+        "publish_time": "01-08-2024 03:14",
         "news_link": "https://ekonomi.republika.co.id/berita/shirk2483/harga-minyak-dunia-melonjak-usai-pembunuhan-ismail-haniyeh"
     },
     {
         "title": "ESDM Dorong Badan Usaha Tambang Implementasikan ESG",
         "category": "Esgnow",
-        "publish_time": "01-08-2024 03:10",
+        "publish_time": "01-08-2024 03:14",
         "news_link": "https://esgnow.republika.co.id/berita/shirgd416/esdm-dorong-badan-usaha-tambang-implementasikan-esg"
     },
     {
         "title": "Transaksi Livin by Mandiri Tembus Rp 1,8 Triliun Hingga Juni 2024",
         "category": "Ekonomi",
-        "publish_time": "01-08-2024 03:09",
+        "publish_time": "01-08-2024 03:14",
         "news_link": "https://ekonomi.republika.co.id/berita/shirfy423/transaksi-livin-by-mandiri-tembus-rp-18-triliun-hingga-juni-2024"
+    },
+    {
+        "title": "Snoop Dogg Mengenang Persahabatannya dengan Ratu Elizabeth II",
+        "category": "Network",
+        "publish_time": "01-08-2024 03:14",
+        "news_link": "https://impresi.republika.co.id/sana-sini/1694927528/snoop-dogg-mengenang-persahabatannya-dengan-ratu-elizabeth-ii"
     },
     {
         "title": "KPAI Ingatkan Pemulihan Psikis Bagi Anak Korban Daycare Depok",
         "category": "News",
-        "publish_time": "01-08-2024 02:59",
+        "publish_time": "01-08-2024 03:14",
         "news_link": "https://news.republika.co.id/berita/shiqzc484/kpai-ingatkan-pemulihan-psikis-bagi-anak-korban-daycare-depok"
     },
     {
         "title": "PPP Tegur Legislator Terpilih di Jabar yang Gimmick di Medsos",
         "category": "Rejabar",
-        "publish_time": "01-08-2024 02:54",
+        "publish_time": "01-08-2024 03:14",
         "news_link": "https://rejabar.republika.co.id/berita/shiqqa512/ppp-tegur-legislator-terpilih-di-jabar-yang-gimmick-di-medsos"
     },
     {
         "title": "UMKM Meroket, Indeks Bisnis BRI Catat Kenaikan Signifikan",
         "category": "Ekonomi",
-        "publish_time": "01-08-2024 02:53",
+        "publish_time": "01-08-2024 03:14",
         "news_link": "https://ekonomi.republika.co.id/berita/shiqpi423/umkm-meroket-indeks-bisnis-bri-catat-kenaikan-signifikan"
     },
     {
         "title": "Sunat Perempuan, Bolehkah? Ini Pandangan Muhammadiyah",
         "category": "Khazanah",
-        "publish_time": "01-08-2024 02:50",
+        "publish_time": "01-08-2024 03:14",
         "news_link": "https://khazanah.republika.co.id/berita/shiqjq458/sunat-perempuan-bolehkah-ini-pandangan-muhammadiyah"
     },
     {
         "title": "Perusahaan Diminta Buat Laporan Detail Dampak Perubahan Iklim",
         "category": "Esgnow",
-        "publish_time": "01-08-2024 02:49",
+        "publish_time": "01-08-2024 03:14",
         "news_link": "https://esgnow.republika.co.id/berita/shiqi4416/perusahaan-diminta-buat-laporan-detail-dampak-perubahan-iklim"
     },
     {
         "title": "Ini Pendapat Susno Duadji Soal Kasus Vina, Kecelakaan atau Korban Pembunuhan?",
         "category": "Rejabar",
-        "publish_time": "01-08-2024 02:48",
+        "publish_time": "01-08-2024 03:14",
         "news_link": "https://rejabar.republika.co.id/berita/shiqh6512/ini-pendapat-susno-duadji-soal-kasus-vina-kecelakaan-atau-korban-pembunuhan"
     },
     {
         "title": "Program Bewara DS, Hantarkan Bupati Raih Tokoh Inspiratif Transformasi Digital Pedesaan",
         "category": "Rejabar",
-        "publish_time": "01-08-2024 02:44",
+        "publish_time": "01-08-2024 03:14",
         "news_link": "https://rejabar.republika.co.id/berita/shiqae423/program-bewara-ds-hantarkan-bupati-raih-tokoh-inspiratif-transformasi-digital-pedesaan"
     },
     {
         "title": "Shawn Mendes: Musik Benar-benar Bisa Menjadi Obat",
         "category": "Network",
-        "publish_time": "01-08-2024 02:44",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://impresi.republika.co.id/musik/1694927399/shawn-mendes-musik-benar-benar-bisa-menjadi-obat"
     },
     {
         "title": "Suara Keras MUI Soal Penghapusan Sunat Perempuan: Tidak Wajib tapi tak Boleh Dilarang!",
         "category": "Khazanah",
-        "publish_time": "01-08-2024 02:43",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://khazanah.republika.co.id/berita/shiq82483/suara-keras-mui-soal-penghapusan-sunat-perempuan-tidak-wajib-tapi-tak-boleh-dilarang"
     },
     {
         "title": "Kasus Dugaan Kekerasan Anak di Daycare, Kementerian PPPA Koordinasi dengan Polres Depok",
-        "category": "News",
-        "publish_time": "01-08-2024 02:38",
-        "news_link": "https://news.republika.co.id/berita/shipz1425/kasus-dugaan-kekerasan-anak-di-daycare-kementerian-pppa-koordinasi-dengan-polres-depok"
+        "category": "Ameera",
+        "publish_time": "01-08-2024 02:14",
+        "news_link": "https://ameera.republika.co.id/berita/shipz1425/kasus-dugaan-kekerasan-anak-di-daycare-kementerian-pppa-koordinasi-dengan-polres-depok"
     },
     {
         "title": "Kembangkan REBANA, Apindo Jabar Siap Kolaborasi dengan Nagasaki Prefectural Assembly",
         "category": "Rejabar",
-        "publish_time": "01-08-2024 02:37",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://rejabar.republika.co.id/berita/shipyd512/kembangkan-rebana-apindo-jabar-siap-kolaborasi-dengan-nagasaki-prefectural-assembly"
     },
     {
         "title": "UNESCO Dorong Negara-Negara Berinvestasi pada Pendidikan Jasmani",
         "category": "Ameera",
-        "publish_time": "01-08-2024 02:34",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://ameera.republika.co.id/berita/shipss416/unesco-dorong-negaranegara-berinvestasi-pada-pendidikan-jasmani"
     },
     {
         "title": "Vina Meninggal Dibunuh atau Kecelakaan? Ini Kata Susno Duadji Usai Sidang PK Saka Tatal",
         "category": "News",
-        "publish_time": "01-08-2024 02:32",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://news.republika.co.id/berita/shipq4409/vina-meninggal-dibunuh-atau-kecelakaan-ini-kata-susno-duadji-usai-sidang-pk-saka-tatal"
     },
     {
         "title": "Empat Pangdam di Jawa Pernah Bertugas di Lingkaran Presiden Jokowi",
         "category": "News",
-        "publish_time": "01-08-2024 02:28",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://news.republika.co.id/berita/shipie484/empat-pangdam-di-jawa-pernah-bertugas-di-lingkaran-presiden-jokowi"
     },
     {
         "title": "\"Ismail Haniyeh Pemimpin Palestina, Bukan Hanya Pemimpin Hamas\"",
         "category": "Khazanah",
-        "publish_time": "01-08-2024 02:15",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://khazanah.republika.co.id/berita/shiowt483/ismail-haniyeh-pemimpin-palestina-bukan-hanya-pemimpin-hamas"
     },
     {
@@ -116,187 +224,79 @@
     {
         "title": "Bolehkah Menitipkan Anak di Day Care, Menurut Islam?",
         "category": "Khazanah",
-        "publish_time": "01-08-2024 02:13",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://khazanah.republika.co.id/berita/shioto458/bolehkah-menitipkan-anak-di-day-care-menurut-islam"
     },
     {
         "title": "Kasus Anak Cuci Darah Marak, Pj Gubernur Bey Desak Kemenkes Segera Terapkan Label Makanan",
         "category": "Rejabar",
-        "publish_time": "01-08-2024 02:13",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://rejabar.republika.co.id/berita/shiorv512/kasus-anak-cuci-darah-marak-pj-gubernur-bey-desak-kemenkes-segera-terapkan-label-makanan"
     },
     {
         "title": "Dua Gol Charles Lokolingoy Bawa Arema Lolos ke Final Piala Presiden",
         "category": "Visual",
-        "publish_time": "01-08-2024 02:13",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://visual.republika.co.id/berita/shionz375/dua-gol-charles-lokolingoy-bawa-arema-lolos-ke-final-piala-presiden"
     },
     {
         "title": "Dampak Boikot? Semester I-2024 KFC Indonesia Rugi Rp 348 Miliar",
         "category": "Ekonomi",
-        "publish_time": "01-08-2024 02:13",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://ekonomi.republika.co.id/berita/shiojp423/dampak-boikot-semester-i2024-kfc-indonesia-rugi-rp-348-miliar"
     },
     {
         "title": "Pelaku Kejahatan Jalanan di Yogyakarta Didominasi Pelajar",
         "category": "Rejogja",
-        "publish_time": "01-08-2024 02:13",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://rejogja.republika.co.id/berita/shio91291/pelaku-kejahatan-jalanan-di-yogyakarta-didominasi-pelajar"
     },
     {
         "title": "Badai Ganggu Lalu Lintas Kereta Cepat Prancis di Tengah Olimpiade",
         "category": "Esgnow",
-        "publish_time": "01-08-2024 02:13",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://esgnow.republika.co.id/berita/shiksv416/badai-ganggu-lalu-lintas-kereta-cepat-prancis-di-tengah-olimpiade"
     },
     {
         "title": "Prospek Pertumbuhan Solid, S&P Pertahankan Peringkat Utang Indonesia",
         "category": "Ekonomi",
-        "publish_time": "01-08-2024 02:13",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://ekonomi.republika.co.id/berita/shio6g423/prospek-pertumbuhan-solid-sp-pertahankan-peringkat-utang-indonesia"
     },
     {
         "title": "CdM Anindya: Peluang Meraih Medali di Olimpiade Paris 2024 Masih Terbuka",
         "category": "Rejogja",
-        "publish_time": "01-08-2024 02:13",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://rejogja.republika.co.id/berita/shinw3291/cdm-anindya-peluang-meraih-medali-di-olimpiade-paris-2024-masih-terbuka"
     },
     {
         "title": "Habib Nabiel Minta Umat Istiqomah, Boikot Produk Pro Israel Bukan Hanya Soal Palestina",
         "category": "Khazanah",
-        "publish_time": "01-08-2024 02:13",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://khazanah.republika.co.id/berita/shinuy483/habib-nabiel-minta-umat-istiqomah-boikot-produk-pro-israel-bukan-hanya-soal-palestina"
     },
     {
         "title": "Olimpiade 2024: Jonatan dan Ginting Sukses Catatkan Rekor Memalukan Bagi Indonesia",
         "category": "Network",
-        "publish_time": "01-08-2024 02:13",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://badmintonews.id/posts/322521/olimpiade-2024-jonatan-dan-ginting-sukses-catatkan-rekor-memalukan-bagi-indonesia"
     },
     {
         "title": "Olimpiade 2024: Lolos Fase Grup, Gregoria Enggan Jumawa",
         "category": "Network",
-        "publish_time": "01-08-2024 02:13",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://badmintonews.id/posts/322524/olimpiade-2024-lolos-fase-grup-gregoria-enggan-jumawa"
     },
     {
         "title": "Pilih Daycare untuk Anak, Apa yang Perlu Diperhatikan Orang Tua?",
         "category": "Ameera",
-        "publish_time": "01-08-2024 02:13",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://ameera.republika.co.id/berita/shinpm425/pilih-daycare-untuk-anak-apa-yang-perlu-diperhatikan-orang-tua"
     },
     {
         "title": "Ketika Rasulullah dan Kaum Muslimin Jadi Korban Boikot",
         "category": "Khazanah",
-        "publish_time": "01-08-2024 02:13",
+        "publish_time": "01-08-2024 02:14",
         "news_link": "https://khazanah.republika.co.id/berita/shinmg458/ketika-rasulullah-dan-kaum-muslimin-jadi-korban-boikot"
-    },
-    {
-        "title": "RSHS Bandung Ungkap Pola Hidup dan Makan yang Salah Picu Risiko Penyakit Ginjal Kronik",
-        "category": "Rejabar",
-        "publish_time": "01-08-2024 01:13",
-        "news_link": "https://rejabar.republika.co.id/berita/shinbm512/rshs-bandung-ungkap-pola-hidup-dan-makan-yang-salah-picu-risiko-penyakit-ginjal-kronik"
-    },
-    {
-        "title": "Bendera Setengah Tiang untuk Hormati As-Syahid Ismail Haniyeh",
-        "category": "Khazanah",
-        "publish_time": "01-08-2024 01:13",
-        "news_link": "https://khazanah.republika.co.id/berita/shin6c483/bendera-setengah-tiang-untuk-hormati-assyahid-ismail-haniyeh"
-    },
-    {
-        "title": "Puluhan Tahun Bunuh Tokoh Palestina, Israel tak Pernah Bisa Hentikan Perlawanan",
-        "category": "News",
-        "publish_time": "01-08-2024 01:13",
-        "news_link": "https://news.republika.co.id/berita/shin5q393/puluhan-tahun-bunuh-tokoh-palestina-israel-tak-pernah-bisa-hentikan-perlawanan"
-    },
-    {
-        "title": "Psikolog: Ortu Berpotensi Abai Jika Anak Diasuh Orang Lain",
-        "category": "Ameera",
-        "publish_time": "01-08-2024 01:13",
-        "news_link": "https://ameera.republika.co.id/berita/shimwn328/psikolog-ortu-berpotensi-abai-jika-anak-diasuh-orang-lain"
-    },
-    {
-        "title": "Gus Nung Luncurkan 1.000 Warung Kopi Bolone Guse di Jepara",
-        "category": "News",
-        "publish_time": "01-08-2024 01:13",
-        "news_link": "https://news.republika.co.id/berita/shimok484/gus-nung-luncurkan-1000-warung-kopi-bolone-guse-di-jepara"
-    },
-    {
-        "title": "Profesor Asal Jakarta Ini Terkenang Kemuliaan Ismail Haniyeh Saat Bersua 14 Tahun Lalu",
-        "category": "Khazanah",
-        "publish_time": "01-08-2024 01:13",
-        "news_link": "https://khazanah.republika.co.id/berita/shimtc483/profesor-asal-jakarta-ini-terkenang-kemuliaan-ismail-haniyeh-saat-bersua-14-tahun-lalu"
-    },
-    {
-        "title": "Harvey Moeis dan Helena Lim Samarkan Rp 420 Miliar Lewat CSR",
-        "category": "News",
-        "publish_time": "01-08-2024 01:13",
-        "news_link": "https://news.republika.co.id/berita/shimlh484/harvey-moeis-dan-helena-lim-samarkan-rp-420-miliar-lewat-csr"
-    },
-    {
-        "title": "Kekhawitiran Meluasnya Konflik Setelah Gugurnya Ismail Haniyeh",
-        "category": "Video",
-        "publish_time": "01-08-2024 01:13",
-        "news_link": "https://tv.republika.co.id/berita/shimi4418/kekhawitiran-meluasnya-konflik-setelah-gugurnya-ismail-haniyeh"
-    },
-    {
-        "title": "Buntut Ciuman Sesama Jenis di Panggung, Band The 1975 Digugat Penyelenggara",
-        "category": "Ameera",
-        "publish_time": "01-08-2024 01:13",
-        "news_link": "https://ameera.republika.co.id/berita/shimg5425/buntut-ciuman-sesama-jenis-di-panggung-band-the-1975-digugat-penyelenggara"
-    },
-    {
-        "title": "LPS Menangkan Gugatan Perkara Bank Century di Pengadilan Mauritius",
-        "category": "Ekonomi",
-        "publish_time": "01-08-2024 01:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/shimg0423/lps-menangkan-gugatan-perkara-bank-century-di-pengadilan-mauritius"
-    },
-    {
-        "title": "Putri Indonesia 2022 Akui Terima Rp200 Juta dari Eks Gubernur Malut Abdul Gani Kasuba",
-        "category": "News",
-        "publish_time": "01-08-2024 01:13",
-        "news_link": "https://news.republika.co.id/berita/shimbz409/putri-indonesia-2022-akui-terima-rp200-juta-dari-eks-gubernur-malut-abdul-gani-kasuba"
-    },
-    {
-        "title": "Tinjau Drone Turki, Prabowo Bertemu Haluk dan Selcuk Baykar",
-        "category": "Network",
-        "publish_time": "01-08-2024 01:13",
-        "news_link": "https://seputarmiliter.id/posts/322515/tinjau-drone-turki-prabowo-bertemu-haluk-dan-selcuk-baykar"
-    },
-    {
-        "title": "Perlu Parameter Tentukan Produk dan Lembaga Terafiliasi Israel",
-        "category": "Ekonomi",
-        "publish_time": "01-08-2024 01:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/shiljf423/perlu-parameter-tentukan-produk-dan-lembaga-terafiliasi-israel"
-    },
-    {
-        "title": "Ini Daftar 9 Tokoh Diduga Dibunuh Israel Mossad di Iran, dari Ilmuwan Sampai Tokoh Hamas",
-        "category": "News",
-        "publish_time": "01-08-2024 01:13",
-        "news_link": "https://news.republika.co.id/berita/shilic377/ini-daftar-9-tokoh-diduga-dibunuh-israel-mossad-di-iran-dari-ilmuwan-sampai-tokoh-hamas"
-    },
-    {
-        "title": "Ayat Quran, Hadits dan Ijma Ulama yang Jadi Dalil Fatwa MUI Soal Larangan Khitan Perempuan",
-        "category": "Khazanah",
-        "publish_time": "01-08-2024 01:13",
-        "news_link": "https://khazanah.republika.co.id/berita/shik1z483/ayat-quran-hadits-dan-ijma-ulama-yang-jadi-dalil-fatwa-mui-soal-larangan-khitan-perempuan"
-    },
-    {
-        "title": "Boikot Produk Israel Efektif, Fatwa MUI Dinilai Berhasil",
-        "category": "Ekonomi",
-        "publish_time": "01-08-2024 01:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/shikrc423/boikot-produk-israel-efektif-fatwa-mui-dinilai-berhasil"
-    },
-    {
-        "title": "Antara Google Doodle dan Nasib Peselancar Rio Waida",
-        "category": "Network",
-        "publish_time": "01-08-2024 00:13",
-        "news_link": "https://impresi.republika.co.id/sana-sini/1694927016/antara-google-doodle-dan-nasib-peselancar-rio-waida"
-    },
-    {
-        "title": "Copenhagen Ajak Wisatawan Nikmati Atraksi Ramah Lingkungan",
-        "category": "Esgnow",
-        "publish_time": "01-08-2024 00:13",
-        "news_link": "https://esgnow.republika.co.id/berita/shikdz416/copenhagen-ajak-wisatawan-nikmati-atraksi-ramah-lingkungan"
     }
 ]
