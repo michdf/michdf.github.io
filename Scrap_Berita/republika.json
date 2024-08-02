@@ -1,80 +1,176 @@
 [
     {
+        "title": "Pemadam Kebakaran Spanyol Berjibaku Atasi Karhutla",
+        "category": "Esgnow",
+        "publish_time": "02-08-2024 04:13",
+        "news_link": "https://esgnow.republika.co.id/berita/shkp21416/pemadam-kebakaran-spanyol-berjibaku-atasi-karhutla"
+    },
+    {
+        "title": "Wow...Terinspirasi Oleh Origami, Ilmuwan Kembangkan Robot Bisa Berubah Bentuk Lebih dari 1.000",
+        "category": "Network",
+        "publish_time": "02-08-2024 04:10",
+        "news_link": "https://impresiupdate.id/posts/322745/wow-terinspirasi-oleh-origami-ilmuwan-kembangkan-robot-bisa-berubah-bentuk-lebih-dari-1-000"
+    },
+    {
+        "title": "Hanya 2 kilogram Zat Ini Bisa Musnahkan Seluruh Populasi Manusia, Apa Itu?",
+        "category": "Network",
+        "publish_time": "02-08-2024 04:09",
+        "news_link": "https://impresiupdate.id/posts/322735/hanya-2-kilogram-zat-ini-bisa-musnahkan-seluruh-populasi-manusia-apa-itu-"
+    },
+    {
+        "title": "Setelah Recaro, Produsen Velg BBS Ajukan Pailit",
+        "category": "Network",
+        "publish_time": "02-08-2024 04:09",
+        "news_link": "https://motoresto.id/posts/322746/setelah-recaro-produsen-velg-bbs-ajukan-pailit"
+    },
+    {
+        "title": "Kenang Pemimpin Hamas, Pakistan Tetapkan Hari Berkabung Nasional",
+        "category": "News",
+        "publish_time": "02-08-2024 04:02",
+        "news_link": "https://news.republika.co.id/berita/shkok3484/kenang-pemimpin-hamas-pakistan-tetapkan-hari-berkabung-nasional"
+    },
+    {
+        "title": "Puluhan Hektar Lahan Sawah di Indramayu Mengering",
+        "category": "Visual",
+        "publish_time": "02-08-2024 04:00",
+        "news_link": "https://visual.republika.co.id/berita/shk0eq375/puluhan-hektar-lahan-sawah-di-indramayu-mengering"
+    },
+    {
+        "title": "Israel Serang 1 Sekolah di Gaza, Lebih dari 10 Orang Meninggal Dunia",
+        "category": "News",
+        "publish_time": "02-08-2024 03:58",
+        "news_link": "https://news.republika.co.id/berita/shkod0425/israel-serang-1-sekolah-di-gaza-lebih-dari-10-orang-meninggal-dunia"
+    },
+    {
+        "title": "Hannah Neeleman, Sosok di Balik \u2018Ballerina Farm\u2019 yang Kontennya Picu Kontroversi",
+        "category": "Ameera",
+        "publish_time": "02-08-2024 03:48",
+        "news_link": "https://ameera.republika.co.id/berita/shknwg425/hannah-neeleman-sosok-di-balik-ballerina-farm-yang-kontennya-picu-kontroversi"
+    },
+    {
+        "title": "Resmi Jadi Calon Ketum KADIN DKI Jakarta, Andi Anzhar Bertekad Bawa Perubahan Besar",
+        "category": "Rejakarta",
+        "publish_time": "02-08-2024 03:34",
+        "news_link": "https://republika.co.id/berita/shkn9h456/resmi-jadi-calon-ketum-kadin-dki-jakarta-andi-anzhar-bertekad-bawa-perubahan-besar"
+    },
+    {
+        "title": "Belatung Adalah Pahlawan Kecil dalam Dunia Kedokteran. Inilah Alasan Kita Harus Mencintainya",
+        "category": "Network",
+        "publish_time": "02-08-2024 03:23",
+        "news_link": "https://impresi.republika.co.id/news/1694931615/belatung-adalah-pahlawan-kecil-dalam-dunia-kedokteran-inilah-alasan-kita-harus-mencintainya"
+    },
+    {
+        "title": "Konser Encore RIIZE Akan Disiarkan Langsung di Bioskop-bioskop di Seluruh Dunia",
+        "category": "Network",
+        "publish_time": "02-08-2024 03:18",
+        "news_link": "https://senandika.republika.co.id/genta/1734931504/konser-encore-riize-akan-disiarkan-langsung-di-bioskop-bioskop-di-seluruh-dunia"
+    },
+    {
+        "title": "Pentingnya Mengatur Waktu, Jadwal Sholat Hari Ini di Jakarta",
+        "category": "Iqra",
+        "publish_time": "02-08-2024 03:18",
+        "news_link": "https://iqra.republika.co.id/berita/shkmfv430/pentingnya-mengatur-waktu-jadwal-sholat-hari-ini-di-jakarta"
+    },
+    {
+        "title": "BI Resmi Luncurkan Blueprint Sistem Pembayaran Indonesia 2030",
+        "category": "Ekonomi",
+        "publish_time": "02-08-2024 03:17",
+        "news_link": "https://ekonomi.republika.co.id/berita/shkmh7484/bi-resmi-luncurkan-blueprint-sistem-pembayaran-indonesia-2030"
+    },
+    {
+        "title": "PT JIP dan Dinas Bina Marga Jakarta Lakukan Penurunan Kabel Udara di Jalan Cikajang",
+        "category": "Rejakarta",
+        "publish_time": "02-08-2024 03:16",
+        "news_link": "https://republika.co.id/berita/shkm85430/pt-jip-dan-dinas-bina-marga-jakarta-lakukan-penurunan-kabel-udara-di-jalan-cikajang"
+    },
+    {
+        "title": "Melihat Proses Digitalisasi Naskah Kuno di Perpusnas",
+        "category": "Visual",
+        "publish_time": "02-08-2024 03:16",
+        "news_link": "https://visual.republika.co.id/berita/shk09o375/melihat-proses-digitalisasi-naskah-kuno-di-perpusnas"
+    },
+    {
+        "title": "Ambil Tindakan Tegas, BRI Ungkap dan Laporkan Kredit Fiktif Rp 55 Miliar",
+        "category": "Ekonomi",
+        "publish_time": "02-08-2024 03:15",
+        "news_link": "https://ekonomi.republika.co.id/berita/shkmd3423/ambil-tindakan-tegas-bri-ungkap-dan-laporkan-kredit-fiktif-rp-55-miliar"
+    },
+    {
         "title": "Kanker Paru Disebut Kanker Paling Mematikan Bagi Laki-Laki",
         "category": "Ameera",
-        "publish_time": "02-08-2024 03:07",
+        "publish_time": "02-08-2024 03:14",
         "news_link": "https://ameera.republika.co.id/berita/shkm0u425/kanker-paru-disebut-kanker-paling-mematikan-bagi-lakilaki"
     },
     {
         "title": "Cardi B Umumkan Hamil Anak Ketiga di Tengah Drama Perceraian",
         "category": "Network",
-        "publish_time": "02-08-2024 02:55",
+        "publish_time": "02-08-2024 03:14",
         "news_link": "https://impresiupdate.id/posts/322730/cardi-b-umumkan-hamil-anak-ketiga-di-tengah-drama-perceraian"
     },
     {
         "title": "Tubaba Art Festival Festival Seni yang Keren dari Tulang Bawang Barat",
         "category": "Network",
-        "publish_time": "02-08-2024 02:55",
+        "publish_time": "02-08-2024 03:14",
         "news_link": "https://kingdomsriwijaya.id/posts/322734/-tubaba-art-festival-festival-seni-yang-keren-dari-tulang-bawang-barat"
     },
     {
         "title": "Olimpiade 2024: Gregoria Selamatkan Wajah Bulutangkis Indonesia",
         "category": "Network",
-        "publish_time": "02-08-2024 02:54",
+        "publish_time": "02-08-2024 03:14",
         "news_link": "https://badmintonews.id/posts/322727/olimpiade-2024-gregoria-selamatkan-wajah-bulutangkis-indonesia"
     },
     {
         "title": "LPMQ Gelar Seremonial Penutupan PKL Mahasiswa UIN MMI Malang dan PTIQ",
         "category": "Network",
-        "publish_time": "02-08-2024 02:54",
+        "publish_time": "02-08-2024 03:14",
         "news_link": "https://sajada.id/posts/322725/lpmq-gelar-seremonial-penutupan-pkl-mahasiswa-uin-mmi-malang-dan-ptiq"
     },
     {
         "title": "Ketika 2.700 Operasi Pembunuhan Oleh Intelijen Israel Gagal Matikan Perlawanan Palestina",
         "category": "News",
-        "publish_time": "02-08-2024 02:43",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://news.republika.co.id/berita/shkkwg320/ketika-2700-operasi-pembunuhan-oleh-intelijen-israel-gagal-matikan-perlawanan-palestina"
     },
     {
         "title": "Sebelum Terkenal, Musisi Rizky Febian Pernah Diusir Saat Nyanyi di Taman Suropati",
         "category": "Ameera",
-        "publish_time": "02-08-2024 02:42",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://ameera.republika.co.id/berita/shkkvm425/sebelum-terkenal-musisi-rizky-febian-pernah-diusir-saat-nyanyi-di-taman-suropati"
     },
     {
         "title": "DMI Serukan Masjid-Masjid di Seluruh Indonesia Gelar Sholat Ghaib untuk Ismail Haniyeh",
         "category": "Khazanah",
-        "publish_time": "02-08-2024 02:36",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://khazanah.republika.co.id/berita/shkkm8483/dmi-serukan-masjidmasjid-di-seluruh-indonesia-gelar-sholat-ghaib-untuk-ismail-haniyeh"
     },
     {
         "title": "Jenazah As-Syahid Ismail Haniyeh Tiba di Doha untuk Dimakamkan",
         "category": "Khazanah",
-        "publish_time": "02-08-2024 02:31",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://khazanah.republika.co.id/berita/shkkcn483/jenazah-assyahid-ismail-haniyeh-tiba-di-doha-untuk-dimakamkan"
     },
     {
-        "title": "Maliq & D\u2019essentials Hingga Cokelat Ramaikan Panggung Nostalgia Jak After School Concert",
+        "title": "Maliq & D\u2019Essentials Hingga Cokelat Ramaikan Panggung Nostalgia Jak After School Concert",
         "category": "Ameera",
-        "publish_time": "02-08-2024 02:22",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://ameera.republika.co.id/berita/shkjyz425/maliq-dessentials-hingga-cokelat-ramaikan-panggung-nostalgia-jak-after-school-concert"
     },
     {
         "title": "Fokus Kesehatan, PinkPantheress Batalkan Semua Penampilannya pada 2024",
         "category": "Network",
-        "publish_time": "02-08-2024 02:19",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://impresi.republika.co.id/sana-sini/1694931277/fokus-kesehatan-pinkpantheress-batalkan-semua-penampilannya-pada-2024"
     },
     {
         "title": "Membelikan Istri Skincare, Apakah Termasuk Salah Satu Nafkah yang Harus Dipenuhi Suami?",
         "category": "Khazanah",
-        "publish_time": "02-08-2024 02:18",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://khazanah.republika.co.id/berita/shkjs8483/membelikan-istri-skincare-apakah-termasuk-salah-satu-nafkah-yang-harus-dipenuhi-suami"
     },
     {
         "title": "Tiga Cara Agar Dana Pendidikan Anak tidak tergerus inflasi dan Aman di Masa Depan",
         "category": "Network",
-        "publish_time": "02-08-2024 02:15",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://kidnews.id/posts/322723/tiga-cara-agar-dana-pendidikan-anak-tidak-tergerus-inflasi-dan-aman-di-masa-depan"
     },
     {
@@ -86,217 +182,121 @@
     {
         "title": "PLTS IKN Pasok Kebutuhan Listrik untuk Upacara HUT RI",
         "category": "Visual",
-        "publish_time": "02-08-2024 02:13",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://visual.republika.co.id/berita/shk04a375/plts-ikn-pasok-kebutuhan-listrik-untuk-upacara-hut-ri"
     },
     {
         "title": "Tiga Pameran B2B Terbesar Asia Tenggara Kembali Diselenggarakan di Indonesia",
         "category": "Network",
-        "publish_time": "02-08-2024 02:13",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://senandika.republika.co.id/genta/1734931224/tiga-pameran-b2b-terbesar-asia-tenggara-kembali-diselenggarakan-di-indonesia"
     },
     {
         "title": "Memoar 'The Woman In Me' Britney Spears Dibuat Film dengan Sutradara Wicked",
         "category": "Network",
-        "publish_time": "02-08-2024 02:13",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://impresi.republika.co.id/sana-sini/1694931204/memoar-the-woman-in-me-britney-spears-dibuat-film-dengan-sutradara-wicked"
     },
     {
         "title": "Muhammadiyah: Kematian Ismail Haniyeh Kukuhkan Israel Sebagai Negara Teroris",
         "category": "News",
-        "publish_time": "02-08-2024 02:13",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://news.republika.co.id/berita/shkivo282/muhammadiyah-kematian-ismail-haniyeh-kukuhkan-israel-sebagai-negara-teroris"
     },
     {
         "title": "Seberapa Panas Matahari Menjelang Kiamat?",
         "category": "Khazanah",
-        "publish_time": "02-08-2024 02:13",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://khazanah.republika.co.id/berita/shkilr483/seberapa-panas-matahari-menjelang-kiamat"
     },
     {
         "title": "Banjir Terjang Pakistan, 100 Orang Meninggal Dunia",
         "category": "Esgnow",
-        "publish_time": "02-08-2024 02:13",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://esgnow.republika.co.id/berita/shkifs416/banjir-terjang-pakistan-100-orang-meninggal-dunia"
     },
     {
         "title": "Elton John: 34 Tahun Bersih dan Bebas Alkohol",
         "category": "Network",
-        "publish_time": "02-08-2024 02:13",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://impresi.republika.co.id/sosok/1694931169/elton-john-34-tahun-bersih-dan-bebas-alkohol"
     },
     {
         "title": "Kebiadaban Israel Makin Menjadi-jadi Lantaran Negara-Negara Arab yang tak Kunjung Bersatu",
         "category": "Kolom",
-        "publish_time": "02-08-2024 02:13",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://analisis.republika.co.id/berita/shkicz282/kebiadaban-israel-makin-menjadijadi-lantaran-negaranegara-arab-yang-tak-kunjung-bersatu"
     },
     {
         "title": "Gelar Kejurnas Angkat Besi U-15 dan U-17, Pupuk Indonesia Grup: Kami Dukung Regenerasi",
         "category": "Rejabar",
-        "publish_time": "02-08-2024 02:13",
+        "publish_time": "02-08-2024 02:14",
         "news_link": "https://rejabar.republika.co.id/berita/shkib6456/gelar-kejurnas-angkat-besi-u15-dan-u17-pupuk-indonesia-grup-kami-dukung-regenerasi"
     },
     {
         "title": "Kerja Lebih Efisien, Mahasiswa Universitas BSI Hibahkan Aplikasi Penerimaan Peserta Didik",
         "category": "News",
-        "publish_time": "02-08-2024 01:13",
+        "publish_time": "02-08-2024 01:14",
         "news_link": "https://news.republika.co.id/berita/shkhpe423/kerja-lebih-efisien-mahasiswa-universitas-bsi-hibahkan-aplikasi-penerimaan-peserta-didik"
     },
     {
         "title": "Hamas: Jumat Jadi Hari Kemarahan",
         "category": "Khazanah",
-        "publish_time": "02-08-2024 01:13",
+        "publish_time": "02-08-2024 01:14",
         "news_link": "https://khazanah.republika.co.id/berita/shkhno483/hamas-jumat-jadi-hari-kemarahan"
     },
     {
         "title": "NEC Beri Kesempatan Emas, Akan Hadirkan Workshop untuk Mahasiswa Berwirausaha",
         "category": "News",
-        "publish_time": "02-08-2024 01:13",
+        "publish_time": "02-08-2024 01:14",
         "news_link": "https://news.republika.co.id/berita/shkhkc423/nec-beri-kesempatan-emas-akan-hadirkan-workshop-untuk-mahasiswa-berwirausaha"
     },
     {
         "title": "Dewan Soroti Anggaran Perjalanan Dinas Pemprov Kepri Rp 143 Miliar",
         "category": "News",
-        "publish_time": "02-08-2024 01:13",
+        "publish_time": "02-08-2024 01:14",
         "news_link": "https://news.republika.co.id/berita/shkhgu484/dewan-soroti-anggaran-perjalanan-dinas-pemprov-kepri-rp-143-miliar"
     },
     {
         "title": "Iran Siapkan Serangan Lebih Besar, Biden Sulit Buat Koalisi Lindungi Israel",
         "category": "Khazanah",
-        "publish_time": "02-08-2024 01:13",
+        "publish_time": "02-08-2024 01:14",
         "news_link": "https://khazanah.republika.co.id/berita/shkh6v483/iran-siapkan-serangan-lebih-besar-biden-sulit-buat-koalisi-lindungi-israel"
     },
     {
         "title": "10 Hektare Lahan di Muaro Jambi Terbakar",
         "category": "Visual",
-        "publish_time": "02-08-2024 01:13",
+        "publish_time": "02-08-2024 01:14",
         "news_link": "https://visual.republika.co.id/berita/shk009375/10-hektare-lahan-di-muaro-jambi-terbakar"
     },
     {
         "title": "Pabrikan Jok Aftermarket Recaro Bangkrut, Kenapa?",
         "category": "Network",
-        "publish_time": "02-08-2024 01:13",
+        "publish_time": "02-08-2024 01:14",
         "news_link": "https://motoresto.id/posts/322690/pabrikan-jok-aftermarket-recaro-bangkrut-kenapa"
     },
     {
         "title": "Dosen UNM, Jadi Orang Pertama dari Indonesia Sebagai KNIME Certified Trainer & Contributo",
         "category": "News",
-        "publish_time": "02-08-2024 01:13",
+        "publish_time": "02-08-2024 01:14",
         "news_link": "https://news.republika.co.id/berita/shkfys423/dosen-unm-jadi-orang-pertama-dari-indonesia-sebagai-knime-certified-trainer-contributo"
     },
     {
         "title": "Tak Sabar Menunggu Squid Game 2? Ini Dia Bocorannya",
         "category": "Network",
-        "publish_time": "02-08-2024 01:13",
+        "publish_time": "02-08-2024 01:14",
         "news_link": "https://impresi.republika.co.id/leisure/1694931027/tak-sabar-menunggu-squid-game-2-ini-dia-bocorannya"
     },
     {
         "title": "Aep dan Iptu Ridiana Laporkan Dedi Mulyadi ke Polda Metro Jaya. Ini Pasala yang Dituhkan",
         "category": "Network",
-        "publish_time": "02-08-2024 01:13",
+        "publish_time": "02-08-2024 01:14",
         "news_link": "https://matapantura.republika.co.id/posts/322712/aep-dan-iptu-ridiana-laporkan-dedi-mulyadi-ke-polda-metro-jaya-ini-pasala-yang-dituhkan"
     },
     {
         "title": "Sabet Enam Penghargaan Sustainbility, Dirut PNM Dinobatkan Sebagai Top Green Leader",
         "category": "Ekonomi",
-        "publish_time": "02-08-2024 01:13",
+        "publish_time": "02-08-2024 01:14",
         "news_link": "https://ekonomi.republika.co.id/berita/shkfqo423/sabet-enam-penghargaan-sustainbility-dirut-pnm-dinobatkan-sebagai-top-green-leader"
-    },
-    {
-        "title": "Pokemon Run 2024 Segera Hadir di Yogyakarta",
-        "category": "Rejogja",
-        "publish_time": "02-08-2024 01:13",
-        "news_link": "https://rejogja.republika.co.id/berita/shkfnf291/pokemon-run-2024-segera-hadir-di-yogyakarta"
-    },
-    {
-        "title": "Jerit Pilu Ibu dan Anak di Bandung Sebelum Ditemukan Jadi Kerangka, 'Aku Mau Sekolah'",
-        "category": "News",
-        "publish_time": "02-08-2024 01:13",
-        "news_link": "https://news.republika.co.id/berita/shkfio377/jerit-pilu-ibu-dan-anak-di-bandung-sebelum-ditemukan-jadi-kerangka-aku-mau-sekolah"
-    },
-    {
-        "title": "Jangan Buru-Buru Beli MacBook Pro 16, Cek Dulu 4 Alternatif Menarik Ini",
-        "category": "Network",
-        "publish_time": "02-08-2024 00:13",
-        "news_link": "https://impresi.republika.co.id/didaktika/1694931012/jangan-buru-buru-beli-macbook-pro-16-cek-dulu-4-alternatif-menarik-ini"
-    },
-    {
-        "title": "Sayap Organisasi Perempuan Gerindra Siap Menangkan Andra Soni di Banten",
-        "category": "News",
-        "publish_time": "02-08-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/shkdwa320/sayap-organisasi-perempuan-gerindra-siap-menangkan-andra-soni-di-banten"
-    },
-    {
-        "title": "Kajari Indramayu Temui Pendemo Jelaskan Kasus TPPU Panji Gumilang",
-        "category": "Network",
-        "publish_time": "02-08-2024 00:13",
-        "news_link": "https://matapantura.republika.co.id/posts/322707/kajari-indramayu-temui-pendemo-jelaskan-kasus-tppu-panji-gumilang"
-    },
-    {
-        "title": "Begini Agar Hasil Pertanian Hidroponik Bisa Maksimal",
-        "category": "Network",
-        "publish_time": "02-08-2024 00:13",
-        "news_link": "https://legioma.republika.co.id/posts/322691/begini-agar-hasil-pertanian-hidroponik-bisa-maksimal"
-    },
-    {
-        "title": "Taspen Jalin Kerja Sama dengan Mitsubishi Estate Bangun Proyek Properti Kelas Dunia",
-        "category": "Visual",
-        "publish_time": "02-08-2024 00:13",
-        "news_link": "https://visual.republika.co.id/berita/shjzbd375/taspen-jalin-kerja-sama-dengan-mitsubishi-estate-bangun-proyek-properti-kelas-dunia"
-    },
-    {
-        "title": "Naskah Khutbah Jumat: Sentuhlah Buah Hatimu",
-        "category": "Iqra",
-        "publish_time": "02-08-2024 00:13",
-        "news_link": "https://iqra.republika.co.id/berita/shkd5s366/naskah-khutbah-jumat-sentuhlah-buah-hatimu"
-    },
-    {
-        "title": "Kala Penerjemah Erdogan dan Mayor Teddy Tersenyum Bareng",
-        "category": "News",
-        "publish_time": "02-08-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/shkcyn484/kala-penerjemah-erdogan-dan-mayor-teddy-tersenyum-bareng"
-    },
-    {
-        "title": "Gregoria Mariska Bertekad Habis-habisan Hadapi Intanon di Perempat Final Olimpiade Paris",
-        "category": "News",
-        "publish_time": "02-08-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/shkcwz348/gregoria-mariska-bertekad-habishabisan-hadapi-intanon-di-perempat-final-olimpiade-paris"
-    },
-    {
-        "title": "Indahnya Berbeda Pendapat",
-        "category": "Khazanah",
-        "publish_time": "02-08-2024 00:13",
-        "news_link": "https://www.republika.id/posts/54092/indahnya-berbeda-pendapat"
-    },
-    {
-        "title": "Crystal Palace Datangkan Penyerang Ismaila Sarr dari Marseille",
-        "category": "News",
-        "publish_time": "01-08-2024 23:13",
-        "news_link": "https://news.republika.co.id/berita/shkbyf348/crystal-palace-datangkan-penyerang-ismaila-sarr-dari-marseille"
-    },
-    {
-        "title": "Israel Umumkan Wafatnya Mohammed Deif Menyusul Ismail Haniyeh, Apa Respons Qassam?",
-        "category": "News",
-        "publish_time": "01-08-2024 23:13",
-        "news_link": "https://news.republika.co.id/berita/shkbkq320/israel-umumkan-wafatnya-mohammed-deif-menyusul-ismail-haniyeh-apa-respons-qassam"
-    },
-    {
-        "title": "Prabowo Cari Nuklir Ke Rusia",
-        "category": "News",
-        "publish_time": "01-08-2024 23:13",
-        "news_link": "https://www.republika.id/posts/54105/prabowo-cari-nuklir-ke-rusia"
-    },
-    {
-        "title": "Imam Besar Istiqlal Kutuk Serangan Israel yang Bunuh Ismail Haniyeh",
-        "category": "Khazanah",
-        "publish_time": "01-08-2024 23:13",
-        "news_link": "https://khazanah.republika.co.id/berita/shkbek484/imam-besar-istiqlal-kutuk-serangan-israel-yang-bunuh-ismail-haniyeh"
-    },
-    {
-        "title": "AHY Semangati Kontingen Indonesia yang Berlaga di Olimpiade Paris",
-        "category": "News",
-        "publish_time": "01-08-2024 23:13",
-        "news_link": "https://news.republika.co.id/berita/shkb5g318/ahy-semangati-kontingen-indonesia-yang-berlaga-di-olimpiade-paris"
     }
 ]
