@@ -1,8 +1,20 @@
 [
     {
+        "title": "Sudah Miskin, Sombong Pula",
+        "category": "Iqra",
+        "publish_time": "06-08-2024 21:06",
+        "news_link": "https://iqra.republika.co.id/berita/shsvcu458/sudah-miskin-sombong-pula"
+    },
+    {
+        "title": "OJK Dukung\u00a0dan Dorong Konsolidasi Perbankan Syariah",
+        "category": "Ekonomi",
+        "publish_time": "06-08-2024 20:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/shsnc4423/ojk-dukungdan-dorong-konsolidasi-perbankan-syariah"
+    },
+    {
         "title": "Pemerintah Bakal Terbitkan Aturan Baru BBM Bersubsidi, CESS: Penerima Harus Jelas",
         "category": "Ekonomi",
-        "publish_time": "06-08-2024 19:14",
+        "publish_time": "06-08-2024 19:10",
         "news_link": "https://ekonomi.republika.co.id/berita/shsyd0490/pemerintah-bakal-terbitkan-aturan-baru-bbm-bersubsidi-cess-penerima-harus-jelas"
     },
     {
@@ -286,17 +298,5 @@
         "category": "News",
         "publish_time": "06-08-2024 14:10",
         "news_link": "https://news.republika.co.id/berita/shsv6x490/universitas-bsi-bekali-siswa-pahami-dunia-teknologi-informasi-melalui-program-ojt"
-    },
-    {
-        "title": "Hizbullah Mulai Bombardir Markas Unit Elite IDF",
-        "category": "News",
-        "publish_time": "06-08-2024 14:10",
-        "news_link": "https://news.republika.co.id/berita/shsv55393/hizbullah-mulai-bombardir-markas-unit-elite-idf"
-    },
-    {
-        "title": "Hizbullah Tewaskan Tentara Israel di Pangkalan Militer Nahariya",
-        "category": "News",
-        "publish_time": "06-08-2024 14:10",
-        "news_link": "https://news.republika.co.id/berita/shsv31348/hizbullah-tewaskan-tentara-israel-di-pangkalan-militer-nahariya"
     }
 ]
