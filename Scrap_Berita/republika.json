@@ -1,5 +1,59 @@
 [
     {
+        "title": "Melihat Pementasan Wayang di Ruang Publik",
+        "category": "Visual",
+        "publish_time": "10 August 2024, 16:00",
+        "news_link": "https://visual.republika.co.id/berita/shzpvt375/melihat-pementasan-wayang-di-ruang-publik"
+    },
+    {
+        "title": "AderaWare, Solusi Digital dari Duo Mahasiswa Universitas BSI untuk Inventaris Adera Medika",
+        "category": "News",
+        "publish_time": "10 August 2024, 15:56",
+        "news_link": "https://news.republika.co.id/berita/shzvil370/aderaware-solusi-digital-dari-duo-mahasiswa-universitas-bsi-untuk-inventaris-adera-medika"
+    },
+    {
+        "title": "Songsong Pilkada 2024, KISP Ajak Keterlibatan Generasi Muda Jaga Perdamaian",
+        "category": "Rejogja",
+        "publish_time": "10 August 2024, 15:54",
+        "news_link": "https://rejogja.republika.co.id/berita/shzvet291/songsong-pilkada-2024-kisp-ajak-keterlibatan-generasi-muda-jaga-perdamaian"
+    },
+    {
+        "title": "Rotasi Besar-besaran di Polda Metro Jaya, Kapolsek hingga Kasat Reskrim Diganti, Ini Daftar Lengkapnya",
+        "category": "Network",
+        "publish_time": "10 August 2024, 15:50",
+        "news_link": "https://ruzka.republika.co.id/nasional/1674961720/rotasi-besar-besaran-di-polda-metro-jaya-kapolsek-hingga-kasat-reskrim-diganti-ini-daftar-lengkapnya"
+    },
+    {
+        "title": "Erafone Run Kembali Digelar di Yogyakarta, Tawarkan Dua Kategori Lari",
+        "category": "Rejogja",
+        "publish_time": "10 August 2024, 15:42",
+        "news_link": "https://rejogja.republika.co.id/berita/shzuuq291/erafone-run-kembali-digelar-di-yogyakarta-tawarkan-dua-kategori-lari"
+    },
+    {
+        "title": "Amerika Desak Investigasi Tentara Israel yang Diduga Lecehkan Tahanan Palestina",
+        "category": "Video",
+        "publish_time": "10 August 2024, 15:41",
+        "news_link": "https://tv.republika.co.id/berita/shzusn418/amerika-desak-investigasi-tentara-israel-yang-diduga-lecehkan-tahanan-palestina"
+    },
+    {
+        "title": "Tim PkM UAD Beri Pelatihan Tata Laksana Gizi Balita di Desa Wonorejo",
+        "category": "Rejogja",
+        "publish_time": "10 August 2024, 15:29",
+        "news_link": "https://rejogja.republika.co.id/berita/shzu9h291/tim-pkm-uad-beri-pelatihan-tata-laksana-gizi-balita-di-desa-wonorejo"
+    },
+    {
+        "title": "PKS Pastikan tak Lagi Dukung Anies, Opsi Gabung KIM atau Koalisi Lain Dikaji",
+        "category": "News",
+        "publish_time": "10 August 2024, 15:28",
+        "news_link": "https://news.republika.co.id/berita/shzu7q409/pks-pastikan-tak-lagi-dukung-anies-opsi-gabung-kim-atau-koalisi-lain-dikaji"
+    },
+    {
+        "title": "Telah Jalin Komunikasi dengan Prabowo, Ini Kata Presiden PKS",
+        "category": "News",
+        "publish_time": "10 August 2024, 15:22",
+        "news_link": "https://news.republika.co.id/berita/shztx6409/telah-jalin-komunikasi-dengan-prabowo-ini-kata-presiden-pks"
+    },
+    {
         "title": "Inovasi E-Learning Karya Mahasiswa Universitas BSI Tingkatkan Kualitas Pendidikan di SMKN",
         "category": "News",
         "publish_time": "10 August 2024, 15:07",
@@ -244,59 +298,5 @@
         "category": "Iqra",
         "publish_time": "10 August 2024, 10:00",
         "news_link": "https://iqra.republika.co.id/berita/shze4h430/jangan-ragu-berbuat-baik-baca-doa-ini-agar-diberi-kekuatan"
-    },
-    {
-        "title": "Klasemen Medali Olimpiade: Amerika Masih di Puncak, Indonesia Turun Peringkat",
-        "category": "News",
-        "publish_time": "10 August 2024, 09:56",
-        "news_link": "https://news.republika.co.id/berita/shzetm416/klasemen-medali-olimpiade-amerika-masih-di-puncak-indonesia-turun-peringkat"
-    },
-    {
-        "title": "Bencana Alam di Cina Timbulkan Kerugian Miliaran Dolar AS",
-        "category": "Esgnow",
-        "publish_time": "10 August 2024, 09:49",
-        "news_link": "https://esgnow.republika.co.id/berita/shzeir416/bencana-alam-di-cina-timbulkan-kerugian-miliaran-dolar-as"
-    },
-    {
-        "title": "Tom DeLonge Sakit, Blink-182 Batalkan Jadwal Tur",
-        "category": "Network",
-        "publish_time": "10 August 2024, 09:46",
-        "news_link": "https://impresi.republika.co.id/musik/1694960793/tom-delonge-sakit-blink-182-batalkan-jadwal-tur"
-    },
-    {
-        "title": "Tidak Siap Menjadi Seorang Ayah, Shawn Mendes: I'm Still a Kid",
-        "category": "Network",
-        "publish_time": "10 August 2024, 09:41",
-        "news_link": "https://impresi.republika.co.id/sosok/1694960778/tidak-siap-menjadi-seorang-ayah-shawn-mendes-im-still-a-kid"
-    },
-    {
-        "title": "Pertamina Patra Niaga Sesuaikan Harga Pertamax, Tetap Paling Terjangkau",
-        "category": "Ekonomi",
-        "publish_time": "10 August 2024, 09:39",
-        "news_link": "https://ekonomi.republika.co.id/berita/shze18370/pertamina-patra-niaga-sesuaikan-harga-pertamax-tetap-paling-terjangkau"
-    },
-    {
-        "title": "Bendera Pusaka Dikirab Menuju IKN",
-        "category": "News",
-        "publish_time": "10 August 2024, 09:38",
-        "news_link": "https://news.republika.co.id/berita/shzdzh416/bendera-pusaka-dikirab-menuju-ikn"
-    },
-    {
-        "title": "Banyak Intelektual Muslim Belum Paham Sholat, Gus Nasrul Buka Suara",
-        "category": "Iqra",
-        "publish_time": "10 August 2024, 09:36",
-        "news_link": "https://iqra.republika.co.id/berita/shzdwl430/banyak-intelektual-muslim-belum-paham-sholat-gus-nasrul-buka-suara"
-    },
-    {
-        "title": "Sempat Dirundung Sebagai Cowok, Imane Khelif Jawab dengan Medali Emas",
-        "category": "News",
-        "publish_time": "10 August 2024, 09:33",
-        "news_link": "https://news.republika.co.id/berita/shzds7377/sempat-dirundung-sebagai-cowok-imane-khelif-jawab-dengan-medali-emas"
-    },
-    {
-        "title": "Para Ahli Kesehatan Ingatkan Pentingnya Berolahraga di ISPEN 2024",
-        "category": "News",
-        "publish_time": "10 August 2024, 09:29",
-        "news_link": "https://news.republika.co.id/berita/shzdkn456/para-ahli-kesehatan-ingatkan-pentingnya-berolahraga-di-ispen-2024"
     }
 ]
