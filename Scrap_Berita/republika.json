@@ -1,5 +1,95 @@
 [
     {
+        "title": "Tanggapan Megawati Usai Dengar Kabar Airlangga Mundur Sebagai Ketum Golkar",
+        "category": "Rejogja",
+        "publish_time": "11 August 2024, 23:07",
+        "news_link": "https://rejogja.republika.co.id/berita/si2a57282/tanggapan-megawati-usai-dengar-kabar-airlangga-mundur-sebagai-ketum-golkar"
+    },
+    {
+        "title": "Sambut Kemerdekaan, ID Survey Kompak Jalankan Program SDGs",
+        "category": "Esgnow",
+        "publish_time": "11 August 2024, 23:02",
+        "news_link": "https://esgnow.republika.co.id/berita/si29vn490/sambut-kemerdekaan-id-survey-kompak-jalankan-program-sdgs"
+    },
+    {
+        "title": "Embung Irigasi di Balongan Mengering Akibat Kemarau",
+        "category": "Visual",
+        "publish_time": "11 August 2024, 23:00",
+        "news_link": "https://visual.republika.co.id/berita/si25sq375/embung-irigasi-di-balongan-mengering-akibat-kemarau"
+    },
+    {
+        "title": "Launching Warung IBH Beji Banjir Peserta",
+        "category": "Network",
+        "publish_time": "11 August 2024, 22:57",
+        "news_link": "https://kareba.republika.co.id/posts/324299/launching-warung-ibh-beji-banjir-peserta"
+    },
+    {
+        "title": "Sambut HUT RI, Belantara Budaya Indonesia Tampilkan Drama Musikal Timun Mas",
+        "category": "Visual",
+        "publish_time": "11 August 2024, 22:45",
+        "news_link": "https://visual.republika.co.id/berita/si28u5375/sambut-hut-ri-belantara-budaya-indonesia-tampilkan-drama-musikal-timun-mas"
+    },
+    {
+        "title": "PDIP akan Wajibkan Visi Misi Cakada Cantumkan Pelestarian Lingkungan",
+        "category": "News",
+        "publish_time": "11 August 2024, 22:32",
+        "news_link": "https://news.republika.co.id/berita/si1s3v451/pdip-akan-wajibkan-visi-misi-cakada-cantumkan-pelestarian-lingkungan"
+    },
+    {
+        "title": "Ini Permintaan Maaf Metro TV Usai \u2018Dirujak\u2019 Warganet Soal Narasi Medali Giveaway Jorji",
+        "category": "News",
+        "publish_time": "11 August 2024, 22:30",
+        "news_link": "https://news.republika.co.id/berita/si28e5409/ini-permintaan-maaf-metro-tv-usai-dirujak-warganet-soal-narasi-medali-giveaway-jorji"
+    },
+    {
+        "title": "Pengibaran Bendera Merah Putih di Jembatan Gantung Sukamenak",
+        "category": "Visual",
+        "publish_time": "11 August 2024, 22:30",
+        "news_link": "https://visual.republika.co.id/berita/si25qc375/pengibaran-bendera-merah-putih-di-jembatan-gantung-sukamenak"
+    },
+    {
+        "title": "Ke Ujung Sepi",
+        "category": "Retizen",
+        "publish_time": "11 August 2024, 22:25",
+        "news_link": "https://retizen.republika.co.id/posts/324288/ke-ujung-sepi"
+    },
+    {
+        "title": "Topeng Bopeng",
+        "category": "Retizen",
+        "publish_time": "11 August 2024, 22:25",
+        "news_link": "https://retizen.republika.co.id/posts/324289/topeng-bopeng"
+    },
+    {
+        "title": "Keterampilan Artificial Intelligence Berkontribusi dalam Menunjang Karier di Era Sekarang",
+        "category": "News",
+        "publish_time": "11 August 2024, 22:23",
+        "news_link": "https://news.republika.co.id/berita/si283f490/keterampilan-artificial-intelligence-berkontribusi-dalam-menunjang-karier-di-era-sekarang"
+    },
+    {
+        "title": "Tingkatkan Kualitas, Universitas BSI Kampus Yogyakarta Latih Dosen Jadi Ahli Data",
+        "category": "News",
+        "publish_time": "11 August 2024, 22:20",
+        "news_link": "https://news.republika.co.id/berita/si27xn490/tingkatkan-kualitas-universitas-bsi-kampus-yogyakarta-latih-dosen-jadi-ahli-data"
+    },
+    {
+        "title": "Mahasiswa Univerasitas BSI Masuk dalam Lulusan Terbaik Program MBKM Bangkit Academy 2024",
+        "category": "News",
+        "publish_time": "11 August 2024, 22:17",
+        "news_link": "https://news.republika.co.id/berita/si27sd490/mahasiswa-univerasitas-bsi-masuk-dalam-lulusan-terbaik-program-mbkm-bangkit-academy-2024"
+    },
+    {
+        "title": "Digital Creative Center Yogyakarta Terima Kedatangan Siswa PKL SMK Muhammadiyah Kretek",
+        "category": "News",
+        "publish_time": "11 August 2024, 22:14",
+        "news_link": "https://news.republika.co.id/berita/si27o4490/digital-creative-center-yogyakarta-terima-kedatangan-siswa-pkl-smk-muhammadiyah-kretek"
+    },
+    {
+        "title": "Berlatih Seni Peran, Mahasiswa Sastra Inggris UNAS Tampilkan Enam Judul Drama",
+        "category": "Network",
+        "publish_time": "11 August 2024, 22:11",
+        "news_link": "https://literat.republika.co.id/posts/324295/berlatih-seni-peran-mahasiswa-sastra-inggris-unas-tampilkan-enam-judul-drama"
+    },
+    {
         "title": "Irigasi Rusak, Puluhan Hektare Lahan Pertanian di Sukabumi Terancam Gagal Panen",
         "category": "Network",
         "publish_time": "11 August 2024, 22:06",
@@ -208,95 +298,5 @@
         "category": "News",
         "publish_time": "11 August 2024, 18:52",
         "news_link": "https://news.republika.co.id/berita/si1yaq484/agus-gumiwang-dan-bamsoet-disebut-layak-gantikan-airlangga"
-    },
-    {
-        "title": "65 UMK Tingkatkan Ketrampilan Optimalkan Daya Jual Produk",
-        "category": "News",
-        "publish_time": "11 August 2024, 18:50",
-        "news_link": "https://news.republika.co.id/berita/si1y8u320/65-umk-tingkatkan-ketrampilan-optimalkan-daya-jual-produk"
-    },
-    {
-        "title": "Mubalighah Aswaja: PP 28/2024 Berpotensi Besar Merusak Generasi Muda",
-        "category": "Network",
-        "publish_time": "11 August 2024, 18:30",
-        "news_link": "https://matapantura.republika.co.id/posts/324265/mubalighah-aswaja-pp-28-2024-berpotensi-besar-merusak-generasi-muda"
-    },
-    {
-        "title": "Kapasitas PLTS Atap di Tiga Trans Studio Mall 7,5 Juta kWh",
-        "category": "Ekonomi",
-        "publish_time": "11 August 2024, 18:29",
-        "news_link": "https://ekonomi.republika.co.id/berita/si1xev484/kapasitas-plts-atap-di-tiga-trans-studio-mall-75-juta-kwh"
-    },
-    {
-        "title": "Setelah Airlangga Mundur, Poster Gibran Ketum Golkar Muncul, dan Komentar Sekjen PDIP",
-        "category": "News",
-        "publish_time": "11 August 2024, 18:19",
-        "news_link": "https://news.republika.co.id/berita/si1ws2451/setelah-airlangga-mundur-poster-gibran-ketum-golkar-muncul-dan-komentar-sekjen-pdip"
-    },
-    {
-        "title": "Sambut Hari Kemerdekaan, Perhimpunan Indonesia Tionghoa Sukabumi Gencarkan Gerakan Donor Darah",
-        "category": "Network",
-        "publish_time": "11 August 2024, 18:15",
-        "news_link": "https://sukabumikini.com/posts/324262/sambut-hari-kemerdekaan-perhimpunan-indonesia-tionghoa-sukabumi-gencarkan-gerakan-donor-darah"
-    },
-    {
-        "title": "Politikus Golkar Sebut Bahlil akan Jabat Ketua Umum",
-        "category": "News",
-        "publish_time": "11 August 2024, 18:13",
-        "news_link": "https://news.republika.co.id/berita/si1wiq328/politikus-golkar-sebut-bahlil-akan-jabat-ketua-umum"
-    },
-    {
-        "title": "Presiden Jokowi Sudah Tiba di Ibu Kota Nusantara",
-        "category": "News",
-        "publish_time": "11 August 2024, 18:11",
-        "news_link": "https://news.republika.co.id/berita/si1wf4484/presiden-jokowi-sudah-tiba-di-ibu-kota-nusantara"
-    },
-    {
-        "title": "PRNU RJB Bagikan Santunan untuk 82 Santri Lekar Yatim Piatu",
-        "category": "Network",
-        "publish_time": "11 August 2024, 17:53",
-        "news_link": "https://rumahberkah.republika.co.id/posts/324261/prnu-rjb-bagikan-santunan-untuk-82-santri-lekar-yatim-piatu"
-    },
-    {
-        "title": "Puluhan Penyandang Disabilitas di Kota Bandung Ikuti Pelatihan Digital Agar Siap Kerja",
-        "category": "Rejabar",
-        "publish_time": "11 August 2024, 17:53",
-        "news_link": "https://rejabar.republika.co.id/berita/si1vki512/puluhan-penyandang-disabilitas-di-kota-bandung-ikuti-pelatihan-digital-agar-siap-kerja"
-    },
-    {
-        "title": "Satu Abad Media NU, LTN PBNU Minta Teladani Pendahulu",
-        "category": "Khazanah",
-        "publish_time": "11 August 2024, 17:39",
-        "news_link": "https://khazanah.republika.co.id/berita/si1rwu451/satu-abad-media-nu-ltn-pbnu-minta-teladani-pendahulu"
-    },
-    {
-        "title": "5 Hal dari Pro Kontra Nasab Ba Alawi Muara Keturunan Habib Ini Sudah Keterlaluan",
-        "category": "Khazanah",
-        "publish_time": "11 August 2024, 17:31",
-        "news_link": "https://khazanah.republika.co.id/berita/si1uki320/5-hal-dari-pro-kontra-nasab-ba-alawi-muara-keturunan-habib-ini-sudah-keterlaluan"
-    },
-    {
-        "title": "Pos Giro Cash Raih Prominent Awards",
-        "category": "Network",
-        "publish_time": "11 August 2024, 17:27",
-        "news_link": "https://rumahberkah.republika.co.id/posts/324259/pos-giro-cash-raih-prominent-awards"
-    },
-    {
-        "title": "Mau Kerja di Bank? Masuk Universitas BSI Tasikmalaya",
-        "category": "News",
-        "publish_time": "11 August 2024, 17:20",
-        "news_link": "https://news.republika.co.id/berita/si1kb6423/mau-kerja-di-bank-masuk-universitas-bsi-tasikmalaya"
-    },
-    {
-        "title": "Hendrar Prihadi Siap Jadi Cawagub Andika Perkasa di Jateng",
-        "category": "News",
-        "publish_time": "11 August 2024, 17:15",
-        "news_link": "https://news.republika.co.id/berita/si1tu2484/hendrar-prihadi-siap-jadi-cawagub-andika-perkasa-di-jateng"
-    },
-    {
-        "title": "Kejakgung tak Menyerah Kejar Keadilan untuk Dini Sera",
-        "category": "News",
-        "publish_time": "11 August 2024, 17:08",
-        "news_link": "https://news.republika.co.id/berita/si1ti3318/kejakgung-tak-menyerah-kejar-keadilan-untuk-dini-sera"
     }
 ]
