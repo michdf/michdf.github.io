@@ -1,9 +1,111 @@
 [
     {
+        "title": "'Go West ESG Republika' Kampanyekan Wakaf Hutan, Sehati untuk Bumi",
+        "category": "News",
+        "publish_time": "11 August 2024, 11:12",
+        "news_link": "https://news.republika.co.id/berita/si1d1m487/go-west-esg-republika-kampanyekan-wakaf-hutan-sehati-untuk-bumi"
+    },
+    {
+        "title": "'Pembangunan IKN Jadi Fondasi Menuju Indonesia Maju'",
+        "category": "News",
+        "publish_time": "11 August 2024, 11:11",
+        "news_link": "https://news.republika.co.id/berita/si1cyt458/pembangunan-ikn-jadi-fondasi-menuju-indonesia-maju"
+    },
+    {
+        "title": "Goweser Antuasias Ikuti Go West ESG Republika di Bandung",
+        "category": "Rejabar",
+        "publish_time": "11 August 2024, 11:10",
+        "news_link": "https://rejabar.republika.co.id/berita/si1cwp425/goweser-antuasias-ikuti-go-west-esg-republika-di-bandung"
+    },
+    {
+        "title": "Dosen Universitas BSI Tasikmalaya Ikuti Pelatihan Asesor Akreditasi BAN-PDM Provinsi\u00a0Jabar",
+        "category": "News",
+        "publish_time": "11 August 2024, 10:59",
+        "news_link": "https://news.republika.co.id/berita/si16zk423/dosen-universitas-bsi-tasikmalaya-ikuti-pelatihan-asesor-akreditasi-banpdm-provinsijabar"
+    },
+    {
+        "title": "Di Tengah Pembantaian Gaza, AS Malah Kasih Bantuan Persenjataan Rp 55,8 T ke Israel",
+        "category": "News",
+        "publish_time": "11 August 2024, 10:57",
+        "news_link": "https://news.republika.co.id/berita/si1cbw423/di-tengah-pembantaian-gaza-as-malah-kasih-bantuan-persenjataan-rp-558-t-ke-israel"
+    },
+    {
+        "title": "Erick Thohir Meets NBA Commissioner and Drinks Coffee with FIBA Secretary General",
+        "category": "En",
+        "publish_time": "Sunday, 11 August 2024, 10:52",
+        "news_link": "https://en.republika.co.id/berita/si1c36415/erick-thohir-meets-nba-commissioner-and-drinks-coffee-with-fiba-secretary-general"
+    },
+    {
+        "title": "Saka Tatal Tahu Sumpah Pocong tak Pengaruhi Putusan PK, Tapi Tujuan Utamanya Ini Tercapai",
+        "category": "News",
+        "publish_time": "11 August 2024, 10:44",
+        "news_link": "https://news.republika.co.id/berita/si1bpq487/saka-tatal-tahu-sumpah-pocong-tak-pengaruhi-putusan-pk-tapi-tujuan-utamanya-ini-tercapai"
+    },
+    {
+        "title": "Ahli Singgung Masalah Kalau Kontainer Beras Ilegal Diambil Tanpa Bayar Biaya Demurrage",
+        "category": "Network",
+        "publish_time": "11 August 2024, 10:43",
+        "news_link": "https://genpop.republika.co.id/posts/324236/ahli-singgung-masalah-kalau-kontainer-beras-ilegal-diambil-tanpa-bayar-biaya-demurrage"
+    },
+    {
+        "title": "Penyakit Parkinson Bisa Serang Usia Lebih Muda, Apa Penyebabnya?",
+        "category": "Ameera",
+        "publish_time": "11 August 2024, 10:40",
+        "news_link": "https://ameera.republika.co.id/berita/si1bj3425/penyakit-parkinson-bisa-serang-usia-lebih-muda-apa-penyebabnya"
+    },
+    {
+        "title": "Wasekjen MUI Apresiasi Kolaborasi Masjid Istiqlal dan Le Minerale Dukung Produk Indonesia",
+        "category": "Ekonomi",
+        "publish_time": "11 August 2024, 10:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/si1bi6423/wasekjen-mui-apresiasi-kolaborasi-masjid-istiqlal-dan-le-minerale-dukung-produk-indonesia"
+    },
+    {
+        "title": "Tria The Changcuters Pingsan di Panggung Saat Mengisi Acara The Sounds Project",
+        "category": "Network",
+        "publish_time": "11 August 2024, 10:38",
+        "news_link": "https://filmusiku.com/posts/324217/tria-the-changcuters-pingsan-di-panggung-saat-mengisi-acara-the-sounds-project"
+    },
+    {
+        "title": "BPKH Welcomes Muamalat and Muhammadiyah Collaboration",
+        "category": "En",
+        "publish_time": "Sunday, 11 August 2024, 10:36",
+        "news_link": "https://en.republika.co.id/berita/si1bcr415/bpkh-welcomes-muamalat-and-muhammadiyah-collaboration"
+    },
+    {
+        "title": "Hakikat Harta Menurut Imam Hanafi",
+        "category": "Khazanah",
+        "publish_time": "11 August 2024, 10:34",
+        "news_link": "https://khazanah.republika.co.id/berita/si1b9x458/hakikat-harta-menurut-imam-hanafi"
+    },
+    {
+        "title": "Travis Scott Dibebaskan Tanpa Dakwaan",
+        "category": "Network",
+        "publish_time": "11 August 2024, 10:24",
+        "news_link": "https://impresi.republika.co.id/sosok/1694963277/travis-scott-dibebaskan-tanpa-dakwaan"
+    },
+    {
+        "title": "Perluas Ekosistem Bisnis Kartu Kredit, Bank Mandiri Gandeng HOG Indomobil Jakarta Chapter",
+        "category": "Ekonomi",
+        "publish_time": "11 August 2024, 10:23",
+        "news_link": "https://ekonomi.republika.co.id/berita/si1aqi423/perluas-ekosistem-bisnis-kartu-kredit-bank-mandiri-gandeng-hog-indomobil-jakarta-chapter"
+    },
+    {
+        "title": "Australia dan Selandia Baru Siap Bantu Kepulauan Pasifik Hadapi Bencana Iklim",
+        "category": "News",
+        "publish_time": "11 August 2024, 10:19",
+        "news_link": "https://news.republika.co.id/berita/si1al7425/australia-dan-selandia-baru-siap-bantu-kepulauan-pasifik-hadapi-bencana-iklim"
+    },
+    {
         "title": "Sang Perintis Psikologi Islam",
         "category": "Khazanah",
         "publish_time": "11 August 2024, 10:11",
         "news_link": "https://khazanah.republika.co.id/berita/si1a6g458/sang-perintis-psikologi-islam"
+    },
+    {
+        "title": "Donald Trump Gunakan 'My Heart Will Go On' Tanpa Izin, Celine Dion Murka",
+        "category": "Network",
+        "publish_time": "11 August 2024, 10:06",
+        "news_link": "https://impresi.republika.co.id/sana-sini/1694963236/donald-trump-gunakan-my-heart-will-go-on-tanpa-izin-celine-dion-murka"
     },
     {
         "title": "Burdah, Bukti Cinta Imam Bushiri kepada Rasulullah",
@@ -196,107 +298,5 @@
         "category": "Khazanah",
         "publish_time": "11 August 2024, 08:02",
         "news_link": "https://khazanah.republika.co.id/berita/si148k458/kisah-penjarahan-hajar-aswad"
-    },
-    {
-        "title": "Pertamina Layani Pengisian Avtur Bandara Juanda Lewat Pipa Bawah Laut",
-        "category": "Ekonomi",
-        "publish_time": "11 August 2024, 07:52",
-        "news_link": "https://ekonomi.republika.co.id/berita/si13qw423/pertamina-layani-pengisian-avtur-bandara-juanda-lewat-pipa-bawah-laut"
-    },
-    {
-        "title": "Upaya Meraih Cinta Illahi",
-        "category": "Khazanah",
-        "publish_time": "11 August 2024, 07:50",
-        "news_link": "https://khazanah.republika.co.id/berita/si13oz458/upaya-meraih-cinta-illahi"
-    },
-    {
-        "title": "SKK Migas Sebut Temuan Gas Indonesia Ada di Urutan Satu Asia Tenggara",
-        "category": "Ekonomi",
-        "publish_time": "11 August 2024, 07:34",
-        "news_link": "https://ekonomi.republika.co.id/berita/si12xl502/skk-migas-sebut-temuan-gas-indonesia-ada-di-urutan-satu-asia-tenggara"
-    },
-    {
-        "title": "China Sapu Bersih Medali Emas Tenis Meja Olimpiade Paris",
-        "category": "News",
-        "publish_time": "11 August 2024, 07:28",
-        "news_link": "https://news.republika.co.id/berita/si12mr502/china-sapu-bersih-medali-emas-tenis-meja-olimpiade-paris"
-    },
-    {
-        "title": "BNI Edukasi Pengelolaan Keuangan Lewat Wondr di TIFF 2024",
-        "category": "Ekonomi",
-        "publish_time": "11 August 2024, 07:28",
-        "news_link": "https://ekonomi.republika.co.id/berita/si11sz423/bni-edukasi-pengelolaan-keuangan-lewat-wondr-di-tiff-2024"
-    },
-    {
-        "title": "Kapolres Indramayu dan FKUB Perkuat Toleransi Antarumat Beragama",
-        "category": "Network",
-        "publish_time": "11 August 2024, 07:22",
-        "news_link": "https://matapantura.republika.co.id/posts/324225/kapolres-indramayu-dan-fkub-perkuat-toleransi-antarumat-beragama"
-    },
-    {
-        "title": "Indonesia Kutuk Keras Serangan Israel ke Sekolah Gaza Saat Subuh, 100 Orang Meninggal",
-        "category": "News",
-        "publish_time": "11 August 2024, 07:18",
-        "news_link": "https://news.republika.co.id/berita/si126p423/indonesia-kutuk-keras-serangan-israel-ke-sekolah-gaza-saat-subuh-100-orang-meninggal"
-    },
-    {
-        "title": "Terungkap Fakta Penemuan Kerangka Ibu dan Anak di Bandung, Ditemukan Pembelian Sianida",
-        "category": "News",
-        "publish_time": "11 August 2024, 07:15",
-        "news_link": "https://news.republika.co.id/berita/si121x487/terungkap-fakta-penemuan-kerangka-ibu-dan-anak-di-bandung-ditemukan-pembelian-sianida"
-    },
-    {
-        "title": "Layanan Drinking Water KAI Lulus Uji Kelayakan, Bisa Minum Gratis di Stasiun",
-        "category": "Ekonomi",
-        "publish_time": "11 August 2024, 07:09",
-        "news_link": "https://ekonomi.republika.co.id/berita/si11lk423/layanan-drinking-water-kai-lulus-uji-kelayakan-bisa-minum-gratis-di-stasiun"
-    },
-    {
-        "title": "Malaysia\u00a0Nyinyir Medali Olimpiade Sedikit, Indonesia Susah Cari Talenta Atlet?",
-        "category": "Ekonomi",
-        "publish_time": "11 August 2024, 07:07",
-        "news_link": "https://ekonomi.republika.co.id/berita/si11ob502/malaysianyinyir-medali-olimpiade-sedikit-indonesia-susah-cari-talenta-atlet"
-    },
-    {
-        "title": "Netizen Malaysia Nyinyir Medali Emas Indonesia, Iri Bilang Bos? Ingat 5 Pesan Nabi SAW",
-        "category": "Iqra",
-        "publish_time": "11 August 2024, 07:04",
-        "news_link": "https://iqra.republika.co.id/berita/si11j6320/netizen-malaysia-nyinyir-medali-emas-indonesia-iri-bilang-bos-ingat-5-pesan-nabi-saw"
-    },
-    {
-        "title": "Viral Mobil Berstiker Bendera Israel Diduga Berkeliaran di Bali",
-        "category": "Khazanah",
-        "publish_time": "11 August 2024, 07:02",
-        "news_link": "https://khazanah.republika.co.id/berita/si11fs483/viral-mobil-berstiker-bendera-israel-diduga-berkeliaran-di-bali"
-    },
-    {
-        "title": "Cawalkot Bekasi Ajak Pulang Bareng Kakek yang Periksa Kesehatan",
-        "category": "News",
-        "publish_time": "11 August 2024, 07:01",
-        "news_link": "https://news.republika.co.id/berita/si16s9318/cawalkot-bekasi-ajak-pulang-bareng-kakek-yang-periksa-kesehatan"
-    },
-    {
-        "title": "Tour de Linggarjati, 182 Pembalap Berlaga di Kuningan",
-        "category": "Network",
-        "publish_time": "11 August 2024, 06:59",
-        "news_link": "https://matapantura.republika.co.id/posts/324223/tour-de-linggarjati-182-pembalap-berlaga-di-kuningan"
-    },
-    {
-        "title": "BI Rilis Perkembangan Indikator Stabilitas Rupiah",
-        "category": "Ekonomi",
-        "publish_time": "11 August 2024, 06:59",
-        "news_link": "https://ekonomi.republika.co.id/berita/si11at423/bi-rilis-perkembangan-indikator-stabilitas-rupiah"
-    },
-    {
-        "title": "PKS Anggap Anies Sudah Kedaluwarsa, Ini Langkah ke Depan yang Sudah Disiapkan",
-        "category": "News",
-        "publish_time": "11 August 2024, 06:54",
-        "news_link": "https://news.republika.co.id/berita/si112i487/pks-anggap-anies-sudah-kedaluwarsa-ini-langkah-ke-depan-yang-sudah-disiapkan"
-    },
-    {
-        "title": "BMKG Tegaskan La Nina Bukan Penyebab Banjir dan Longsor",
-        "category": "Esgnow",
-        "publish_time": "11 August 2024, 06:46",
-        "news_link": "https://esgnow.republika.co.id/berita/si10qb425/bmkg-tegaskan-la-nina-bukan-penyebab-banjir-dan-longsor"
     }
 ]
