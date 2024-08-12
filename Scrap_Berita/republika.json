@@ -1,146 +1,290 @@
 [
     {
+        "title": "Airlangga 'Dikudeta' Saat Performa Golkar Sedang Bagus-Bagusnya",
+        "category": "News",
+        "publish_time": "12-08-2024 04:12",
+        "news_link": "https://news.republika.co.id/berita/si37nu409/airlangga-dikudeta-saat-performa-golkar-sedang-bagusbagusnya"
+    },
+    {
+        "title": "Istana Jawab Spekulasi Pengunduran Diri Airlangga yang Dikaitkan dengan Presiden Jokowi",
+        "category": "News",
+        "publish_time": "12-08-2024 04:10",
+        "news_link": "https://news.republika.co.id/berita/si37l0487/istana-jawab-spekulasi-pengunduran-diri-airlangga-yang-dikaitkan-dengan-presiden-jokowi"
+    },
+    {
+        "title": "Dukung Pengembangan Usaha, PLN Hadirkan UMKM Binaan di Bazar Merdeka Kementerian BUMN",
+        "category": "Ekonomi",
+        "publish_time": "12-08-2024 04:09",
+        "news_link": "https://ekonomi.republika.co.id/berita/si37iy490/dukung-pengembangan-usaha-pln-hadirkan-umkm-binaan-di-bazar-merdeka-kementerian-bumn"
+    },
+    {
+        "title": "Benarkah Lomba Tujuh Belasan Termasuk Perbuatan Judi?",
+        "category": "Khazanah",
+        "publish_time": "12-08-2024 04:05",
+        "news_link": "https://khazanah.republika.co.id/berita/si37d3483/benarkah-lomba-tujuh-belasan-termasuk-perbuatan-judi"
+    },
+    {
+        "title": "Jokowi Beberkan Angka Investasi yang Masuk ke IKN Rp 56,2 Triliun",
+        "category": "News",
+        "publish_time": "12-08-2024 04:05",
+        "news_link": "https://news.republika.co.id/berita/si37bu484/jokowi-beberkan-angka-investasi-yang-masuk-ke-ikn-rp-562-triliun"
+    },
+    {
+        "title": "Suka Nahan Buang Air Besar? Waspada Bahayanya Bagi Kesehatan",
+        "category": "Ameera",
+        "publish_time": "12-08-2024 04:02",
+        "news_link": "https://ameera.republika.co.id/berita/si3775425/suka-nahan-buang-air-besar-waspada-bahayanya-bagi-kesehatan"
+    },
+    {
+        "title": "Layanan Listrik Hijau PLN Bantu Petani Tambak Udang di Sulsel Hemat Biaya Operasional",
+        "category": "Ekonomi",
+        "publish_time": "12-08-2024 03:58",
+        "news_link": "https://ekonomi.republika.co.id/berita/si371g490/layanan-listrik-hijau-pln-bantu-petani-tambak-udang-di-sulsel-hemat-biaya-operasional"
+    },
+    {
+        "title": "Kembali Berjaya di Olimpiade, China Tegaskan Status Sebagai Negara Adidaya",
+        "category": "News",
+        "publish_time": "12-08-2024 03:58",
+        "news_link": "https://news.republika.co.id/berita/si371f348/kembali-berjaya-di-olimpiade-china-tegaskan-status-sebagai-negara-adidaya"
+    },
+    {
+        "title": "Babah Alun Datangi Kantor Golkar di Slipi, Serahkan Surat Mundur",
+        "category": "News",
+        "publish_time": "12-08-2024 03:54",
+        "news_link": "https://news.republika.co.id/berita/si36u4484/babah-alun-datangi-kantor-golkar-di-slipi-serahkan-surat-mundur"
+    },
+    {
+        "title": "Emas Sifan Hassan dan Perlawanan Jilbab di Olimpiade Paris",
+        "category": "Khazanah",
+        "publish_time": "12-08-2024 03:52",
+        "news_link": "https://khazanah.republika.co.id/berita/si36qc483/emas-sifan-hassan-dan-perlawanan-jilbab-di-olimpiade-paris"
+    },
+    {
+        "title": "Mendunia! Tim Mahasiswa UMS Raih Silver Medal dalam Ajang Internasional di Jepang",
+        "category": "Rejogja",
+        "publish_time": "12-08-2024 03:50",
+        "news_link": "https://rejogja.republika.co.id/berita/si36o5291/mendunia-tim-mahasiswa-ums-raih-silver-medal-dalam-ajang-internasional-di-jepang"
+    },
+    {
+        "title": "Abdurrauf as-Singkili, Pertama Terjemahkan Alquran ke Bahasa Melayu",
+        "category": "Khazanah",
+        "publish_time": "12-08-2024 03:49",
+        "news_link": "https://khazanah.republika.co.id/berita/si36m3458/abdurrauf-assingkili-pertama-terjemahkan-alquran-ke-bahasa-melayu"
+    },
+    {
+        "title": "Ini Komentar Suzuki Usai Pemerintah Batal Beri Insentif Mobil Hybrid",
+        "category": "Ekonomi",
+        "publish_time": "12-08-2024 03:45",
+        "news_link": "https://ekonomi.republika.co.id/berita/si36fs349/ini-komentar-suzuki-usai-pemerintah-batal-beri-insentif-mobil-hybrid"
+    },
+    {
+        "title": "Bahasa Melayu Pernah Mendunia",
+        "category": "Khazanah",
+        "publish_time": "12-08-2024 03:39",
+        "news_link": "https://khazanah.republika.co.id/berita/si365s458/bahasa-melayu-pernah-mendunia"
+    },
+    {
+        "title": "MU akan Segera Perpanjang Kontrak Bruno Fernandes",
+        "category": "News",
+        "publish_time": "12-08-2024 03:38",
+        "news_link": "https://news.republika.co.id/berita/si363x348/mu-akan-segera-perpanjang-kontrak-bruno-fernandes"
+    },
+    {
+        "title": "Ditjen Bina Konstruksi Kementerian PUPR Terus Dorong Sertifikasi Onsite TKK di IKN",
+        "category": "Rekalimantan",
+        "publish_time": "12-08-2024 03:38",
+        "news_link": "https://republika.co.id/berita/si3634456/ditjen-bina-konstruksi-kementerian-pupr-terus-dorong-sertifikasi-onsite-tkk-di-ikn"
+    },
+    {
+        "title": "Menguasai Bacaan Alqur'an dalam 30 Menit Langsung Bisa",
+        "category": "Network",
+        "publish_time": "12-08-2024 03:34",
+        "news_link": "https://topnews62.com/posts/324335/menguasai-bacaan-alqur-an-dalam-30-menit-langsung-bisa"
+    },
+    {
+        "title": "Ilmuwan Temukan Penyebab Penting Vertigo",
+        "category": "Network",
+        "publish_time": "12-08-2024 03:34",
+        "news_link": "https://impresiupdate.id/posts/324337/ilmuwan-temukan-penyebab-penting-vertigo"
+    },
+    {
+        "title": "Alasan Indonesia Perlu Mewaspadai Dampak Gempa Megathrust Nankai Menurut BMKG",
+        "category": "News",
+        "publish_time": "12-08-2024 03:33",
+        "news_link": "https://news.republika.co.id/berita/si35vl409/alasan-indonesia-perlu-mewaspadai-dampak-gempa-megathrust-nankai-menurut-bmkg"
+    },
+    {
+        "title": "Polisi Gerebek Toko Kosmetik yang Jual Ribuan Pil Koplo di Muara Angke",
+        "category": "News",
+        "publish_time": "12-08-2024 03:33",
+        "news_link": "https://news.republika.co.id/berita/si35v4425/polisi-gerebek-toko-kosmetik-yang-jual-ribuan-pil-koplo-di-muara-angke"
+    },
+    {
+        "title": "Golkar Solo Terkejut Airlangga Mendadak Mundur dari Kursi Ketum",
+        "category": "News",
+        "publish_time": "12-08-2024 03:28",
+        "news_link": "https://news.republika.co.id/berita/si35mc377/golkar-solo-terkejut-airlangga-mendadak-mundur-dari-kursi-ketum"
+    },
+    {
+        "title": "Perilaku Arab Badui dan Respons Bijak Rasulullah",
+        "category": "Khazanah",
+        "publish_time": "12-08-2024 03:18",
+        "news_link": "https://khazanah.republika.co.id/berita/si3572458/perilaku-arab-badui-dan-respons-bijak-rasulullah"
+    },
+    {
+        "title": "Harga Emas Batangan Masih Stabil di Rp 1,4 Juta per Gram, Ini Daftar Lengkapnya",
+        "category": "Ekonomi",
+        "publish_time": "12-08-2024 03:18",
+        "news_link": "https://ekonomi.republika.co.id/berita/si356s490/harga-emas-batangan-masih-stabil-di-rp-14-juta-per-gram-ini-daftar-lengkapnya"
+    },
+    {
+        "title": "Museum Dikecam Soal Klaim Keliru Tentang Kurt Cobain di Pameran Nirvana",
+        "category": "Network",
+        "publish_time": "12-08-2024 03:14",
+        "news_link": "https://impresi.republika.co.id/sana-sini/1694966175/museum-dikecam-soal-klaim-keliru-tentang-kurt-cobain-di-pameran-nirvana"
+    },
+    {
         "title": "Hadirkan Koneksi Internet Terbaik, Biznet Sempurnakan Event Musik The 90\u2019s Festival",
         "category": "Ekonomi",
-        "publish_time": "12-08-2024 03:12",
+        "publish_time": "12-08-2024 03:14",
         "news_link": "https://ekonomi.republika.co.id/berita/si34wq490/hadirkan-koneksi-internet-terbaik-biznet-sempurnakan-event-musik-the-90s-festival"
     },
     {
         "title": "Chelsea Datangkan Pedro Neto dari Wolverhampton Wanderers",
         "category": "News",
-        "publish_time": "12-08-2024 03:09",
+        "publish_time": "12-08-2024 03:14",
         "news_link": "https://news.republika.co.id/berita/si34rp348/chelsea-datangkan-pedro-neto-dari-wolverhampton-wanderers"
     },
     {
         "title": "Gubernur Sumsel Nanti, Jangan Lupakan Wisata Berbasis Sejarah",
         "category": "Network",
-        "publish_time": "12-08-2024 03:09",
+        "publish_time": "12-08-2024 03:14",
         "news_link": "https://sumatralink.id/posts/324324/gubernur-sumsel-nanti-jangan-lupakan-wisata-berbasis-sejarah"
     },
     {
         "title": "AS Juara Umum Olimpiade 2024, Indonesia Peringkat ke-39",
         "category": "Network",
-        "publish_time": "12-08-2024 03:08",
+        "publish_time": "12-08-2024 03:14",
         "news_link": "https://ruzkaindonesia.id/posts/324330/as-juara-umum-olimpiade-2024-indonesia-peringkat-ke-39"
     },
     {
         "title": "Tiga Ahli Botani di Zaman Keemasan Islam",
         "category": "Khazanah",
-        "publish_time": "12-08-2024 03:06",
+        "publish_time": "12-08-2024 03:14",
         "news_link": "https://khazanah.republika.co.id/berita/si34n3458/tiga-ahli-botani-di-zaman-keemasan-islam"
     },
     {
         "title": "Universitas BSI Kampus Pontianak Berikan Beasiswa Juara kepada Cici, Atlet Multitalenta",
         "category": "News",
-        "publish_time": "12-08-2024 03:00",
+        "publish_time": "12-08-2024 03:14",
         "news_link": "https://news.republika.co.id/berita/si34d1490/universitas-bsi-kampus-pontianak-berikan-beasiswa-juara-kepada-cici-atlet-multitalenta"
     },
     {
         "title": "Nama Seungri Dicatut Acara \u2018Burning Sun Surabaya\u2019, Dibantah dan akan Ambil Tindakan Hukum",
         "category": "Ameera",
-        "publish_time": "12-08-2024 02:57",
+        "publish_time": "12-08-2024 03:14",
         "news_link": "https://ameera.republika.co.id/berita/si3479425/nama-seungri-dicatut-acara-burning-sun-surabaya-dibantah-dan-akan-ambil-tindakan-hukum"
     },
     {
         "title": "Dua Siswa MAN 4 Karawang Raih Beasiswa di Universitas BSI Kampus Karawang",
         "category": "News",
-        "publish_time": "12-08-2024 02:56",
+        "publish_time": "12-08-2024 03:14",
         "news_link": "https://news.republika.co.id/berita/si345b490/dua-siswa-man-4-karawang-raih-beasiswa-di-universitas-bsi-kampus-karawang"
     },
     {
         "title": "Celine Dion Tegur Donald Trump Gegara Gunakan Lagu Tanpa Izin",
         "category": "Network",
-        "publish_time": "12-08-2024 02:51",
+        "publish_time": "12-08-2024 03:14",
         "news_link": "https://impresi.republika.co.id/sosok/1694966067/celine-dion-tegur-donald-trump-gegara-gunakan-lagu-tanpa-izin"
     },
     {
         "title": "Airlangga Hartarto Mundur, Ini Nasib Ridwan Kamil yang Diusung Partai Golkar di Pilgub",
         "category": "Rejabar",
-        "publish_time": "12-08-2024 02:49",
+        "publish_time": "12-08-2024 03:14",
         "news_link": "https://rejabar.republika.co.id/berita/si33uf512/airlangga-hartarto-mundur-ini-nasib-ridwan-kamil-yang-diusung-partai-golkar-di-pilgub"
     },
     {
         "title": "Ini Sederet Keistimewaan Aisyah, Istri Nabi",
         "category": "Khazanah",
-        "publish_time": "12-08-2024 02:44",
+        "publish_time": "12-08-2024 02:14",
         "news_link": "https://khazanah.republika.co.id/berita/si33md458/ini-sederet-keistimewaan-aisyah-istri-nabi"
     },
     {
         "title": "Noel Gallagher Masih Berusaha Bisa 'Menyamai' Kesuksesan Album Pertama Oasis",
         "category": "Network",
-        "publish_time": "12-08-2024 02:43",
+        "publish_time": "12-08-2024 02:14",
         "news_link": "https://impresi.republika.co.id/musik/1694966013/noel-gallagher-masih-berusaha-bisa-menyamai-kesuksesan-album-pertama-oasis"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini, Sebagian Besar Wilayah Indonesia Hujan Ringan",
         "category": "Rejakarta",
-        "publish_time": "12-08-2024 02:41",
+        "publish_time": "12-08-2024 02:14",
         "news_link": "https://republika.co.id/berita/si33gp366/prakiraan-cuaca-hari-ini-sebagian-besar-wilayah-indonesia-hujan-ringan"
     },
     {
         "title": "Empat Destinasi Wisata Unggulan Sabang",
         "category": "Network",
-        "publish_time": "12-08-2024 02:38",
+        "publish_time": "12-08-2024 02:14",
         "news_link": "https://genpop.republika.co.id/posts/324328/empat-destinasi-wisata-unggulan-sabang"
     },
     {
         "title": "Menelusuri Dunia Kehumasan Lewat Sebuah Buku",
         "category": "Network",
-        "publish_time": "12-08-2024 02:34",
+        "publish_time": "12-08-2024 02:14",
         "news_link": "https://impresi.republika.co.id/didaktika/1694965958/menelusuri-dunia-kehumasan-lewat-sebuah-buku"
     },
     {
         "title": "Usai Nyinyirin Perolehan Medali Indonesia, Netizen Malaysia Hujat Pebalap Jepang",
         "category": "News",
-        "publish_time": "12-08-2024 02:30",
+        "publish_time": "12-08-2024 02:14",
         "news_link": "https://news.republika.co.id/berita/si32xw483/usai-nyinyirin-perolehan-medali-indonesia-netizen-malaysia-hujat-pebalap-jepang"
     },
     {
         "title": "PP Muhammadiyah Nilai Kasasi Jaksa dalam Kasus Ronald Sangat Tepat",
         "category": "News",
-        "publish_time": "12-08-2024 02:29",
+        "publish_time": "12-08-2024 02:14",
         "news_link": "https://news.republika.co.id/berita/si32xf318/pp-muhammadiyah-nilai-kasasi-jaksa-dalam-kasus-ronald-sangat-tepat"
     },
     {
         "title": "Sarankan Pangkas Bantuan Warga, Kepala Uni Eropa Minta Menteri Israel Ini Disanksi",
         "category": "Khazanah",
-        "publish_time": "12-08-2024 02:29",
+        "publish_time": "12-08-2024 02:14",
         "news_link": "https://khazanah.republika.co.id/berita/si32xd366/sarankan-pangkas-bantuan-warga-kepala-uni-eropa-minta-menteri-israel-ini-disanksi"
     },
     {
         "title": "Berapa Usia Aisyah saat Menikah dengan Nabi?",
         "category": "Khazanah",
-        "publish_time": "12-08-2024 02:29",
+        "publish_time": "12-08-2024 02:14",
         "news_link": "https://khazanah.republika.co.id/berita/si32wr458/berapa-usia-aisyah-saat-menikah-dengan-nabi"
     },
     {
         "title": "Menemukan Alice: Novel Terbaru Damar Pratama untuk yang Suka Petualangan dan Misteri",
         "category": "Network",
-        "publish_time": "12-08-2024 02:27",
+        "publish_time": "12-08-2024 02:14",
         "news_link": "https://cari.republika.co.id/posts/324323/menemukan-alice-novel-terbaru-damar-pratama-untuk-yang-suka-petualangan-dan-misteri"
     },
     {
         "title": "Timnas Sepakbola Palestina Pilih Malaysia Jadi Kandang Sementara",
         "category": "News",
-        "publish_time": "12-08-2024 02:26",
+        "publish_time": "12-08-2024 02:14",
         "news_link": "https://news.republika.co.id/berita/si32sc393/timnas-sepakbola-palestina-pilih-malaysia-jadi-kandang-sementara"
     },
     {
         "title": "Lewati 3 Tahun Masa Sulit, Aset BPR Syariah Tumbuh 12,2 Persen Ditopang PYD dan DPK",
         "category": "Sharia",
-        "publish_time": "12-08-2024 02:20",
+        "publish_time": "12-08-2024 02:14",
         "news_link": "https://sharia.republika.co.id/berita/si32hp502/lewati-3-tahun-masa-sulit-aset-bpr-syariah-tumbuh-122-persen-ditopang-pyd-dan-dpk"
     },
     {
         "title": "PCBS: 75 Persen Warga Palestina yang Dibunuh Pasukan Israel Berusia di Bawah 30 Tahun",
         "category": "News",
-        "publish_time": "12-08-2024 02:20",
+        "publish_time": "12-08-2024 02:14",
         "news_link": "https://news.republika.co.id/berita/si32hi425/pcbs-75-persen-warga-palestina-yang-dibunuh-pasukan-israel-berusia-di-bawah-30-tahun"
     },
     {
         "title": "Robot DeepMind Google Main Tenis Meja Lawan Pemain Manusia",
         "category": "Network",
-        "publish_time": "12-08-2024 02:17",
+        "publish_time": "12-08-2024 02:14",
         "news_link": "https://impresi.republika.co.id/news/1694965876/robot-deepmind-google-main-tenis-meja-lawan-pemain-manusia"
     },
     {
@@ -152,151 +296,7 @@
     {
         "title": "Hizbullah Lancarkan Gelombang Serangan Roket Buatan Rusia, Iron Dome Israel tak Berfungsi",
         "category": "News",
-        "publish_time": "12-08-2024 02:13",
+        "publish_time": "12-08-2024 02:14",
         "news_link": "https://news.republika.co.id/berita/si31k9409/hizbullah-lancarkan-gelombang-serangan-roket-buatan-rusia-iron-dome-israel-tak-berfungsi"
-    },
-    {
-        "title": "KAI  Bagikan Promo Tiket Panjat Pinang, Cek Diskon dan Daftar KA-nya",
-        "category": "Network",
-        "publish_time": "12-08-2024 01:13",
-        "news_link": "https://matapantura.republika.co.id/posts/324312/kai-bagikan-promo-tiket-panjat-pinang-cek-diskon-dan-daftar-ka-nya"
-    },
-    {
-        "title": "Dikenal Sebagai Amalan Mendatangkan Rezeki, Ini Niat dan Doa Sholat Dhuha",
-        "category": "Iqra",
-        "publish_time": "12-08-2024 01:13",
-        "news_link": "https://iqra.republika.co.id/berita/si3046366/dikenal-sebagai-amalan-mendatangkan-rezeki-ini-niat-dan-doa-sholat-dhuha"
-    },
-    {
-        "title": "Hujan Masih Berpotensi Terjadi di Sebagian Jabar Sepekan ke Depan, Waspadai Angin Kencang",
-        "category": "Rejabar",
-        "publish_time": "12-08-2024 01:13",
-        "news_link": "https://rejabar.republika.co.id/berita/si300v512/hujan-masih-berpotensi-terjadi-di-sebagian-jabar-sepekan-ke-depan-waspadai-angin-kencang"
-    },
-    {
-        "title": "Debut Sempurna Oxford United di Divisi Championship, Kalahkan Norwich City di Kandang",
-        "category": "News",
-        "publish_time": "12-08-2024 01:13",
-        "news_link": "https://news.republika.co.id/berita/si2zyq348/debut-sempurna-oxford-united-di-divisi-championship-kalahkan-norwich-city-di-kandang"
-    },
-    {
-        "title": "Transaksi Digital di Konser SO7 Makassar Makin Mudah dengan Dukungan Bank BJB",
-        "category": "Ekonomi",
-        "publish_time": "12-08-2024 01:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/si2zvc490/transaksi-digital-di-konser-so7-makassar-makin-mudah-dengan-dukungan-bank-bjb"
-    },
-    {
-        "title": "Kecerdasan Said Nursi Jelaskan Keberagaman Suku Bangsa dengan Analogi Militer",
-        "category": "Khazanah",
-        "publish_time": "12-08-2024 01:13",
-        "news_link": "https://khazanah.republika.co.id/berita/si2zqw483/kecerdasan-said-nursi-jelaskan-keberagaman-suku-bangsa-dengan-analogi-militer"
-    },
-    {
-        "title": "Sst, Ada Bocoran Info Redmi Turbo 4, Apa yang Seru?",
-        "category": "Network",
-        "publish_time": "12-08-2024 01:13",
-        "news_link": "https://impresi.republika.co.id/sana-sini/1694965680/sst-ada-bocoran-info-redmi-turbo-4-apa-yang-seru"
-    },
-    {
-        "title": "Polisi Tunggu Hasil Tim Forensik Pastikan Ada Kandungan Racun di Kasus Kerangka Manusia",
-        "category": "Rejabar",
-        "publish_time": "12-08-2024 01:13",
-        "news_link": "https://rejabar.republika.co.id/berita/si2zjg512/polisi-tunggu-hasil-tim-forensik-pastikan-ada-kandungan-racun-di-kasus-kerangka-manusia"
-    },
-    {
-        "title": "Ada Pesan Rahasia di Pidato Pengunduran Diri Airlangga Hartarto?",
-        "category": "News",
-        "publish_time": "12-08-2024 01:13",
-        "news_link": "https://news.republika.co.id/berita/si2zi2475/ada-pesan-rahasia-di-pidato-pengunduran-diri-airlangga-hartarto"
-    },
-    {
-        "title": "Semua Menteri Berbincang Pagi di IKN, Sebelum Sidang Kabinet",
-        "category": "News",
-        "publish_time": "12-08-2024 01:13",
-        "news_link": "https://news.republika.co.id/berita/si2z8g484/semua-menteri-berbincang-pagi-di-ikn-sebelum-sidang-kabinet"
-    },
-    {
-        "title": "Iran Latihan Militer, Serang Israel Pekan Ini?",
-        "category": "News",
-        "publish_time": "12-08-2024 01:13",
-        "news_link": "https://news.republika.co.id/berita/si2z31393/iran-latihan-militer-serang-israel-pekan-ini"
-    },
-    {
-        "title": "Jusuf Hamka Hari Ini Serahkan Surat Pengunduran Diri dari Golkar",
-        "category": "News",
-        "publish_time": "12-08-2024 01:13",
-        "news_link": "https://news.republika.co.id/berita/si2yw8409/jusuf-hamka-hari-ini-serahkan-surat-pengunduran-diri-dari-golkar"
-    },
-    {
-        "title": "Mengenal Sang 'Ajudan' Rasulullah",
-        "category": "Khazanah",
-        "publish_time": "12-08-2024 01:13",
-        "news_link": "https://khazanah.republika.co.id/berita/si2yuw458/mengenal-sang-ajudan-rasulullah"
-    },
-    {
-        "title": "Cara MIND ID Terapkan Praktik Tambang Berkelanjutan",
-        "category": "Esgnow",
-        "publish_time": "12-08-2024 01:13",
-        "news_link": "https://esgnow.republika.co.id/berita/si2wxp416/cara-mind-id-terapkan-praktik-tambang-berkelanjutan"
-    },
-    {
-        "title": "Sergi Roberto Tinggalkan Barcelona",
-        "category": "News",
-        "publish_time": "12-08-2024 01:13",
-        "news_link": "https://news.republika.co.id/berita/si2y45348/sergi-roberto-tinggalkan-barcelona"
-    },
-    {
-        "title": "Nabi Khidir dan 5 Pesan Misterius",
-        "category": "Khazanah",
-        "publish_time": "12-08-2024 01:13",
-        "news_link": "https://khazanah.republika.co.id/berita/si2y9n458/nabi-khidir-dan-5-pesan-misterius"
-    },
-    {
-        "title": "Uniqlo Luncurkan Koleksi Hijab Khusus Indonesia dan Malaysia",
-        "category": "Ameera",
-        "publish_time": "12-08-2024 00:13",
-        "news_link": "https://ameera.republika.co.id/berita/si2xq4328/uniqlo-luncurkan-koleksi-hijab-khusus-indonesia-dan-malaysia"
-    },
-    {
-        "title": "Olimpiade Paris Ditutup, Tom Cruise Jadi Simbol Olimpiade Los Angeles 2028",
-        "category": "News",
-        "publish_time": "12-08-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/si2xoe348/olimpiade-paris-ditutup-tom-cruise-jadi-simbol-olimpiade-los-angeles-2028"
-    },
-    {
-        "title": "Nabi Idris AS, Pribadi dan Keistimewaan",
-        "category": "Khazanah",
-        "publish_time": "12-08-2024 00:13",
-        "news_link": "https://khazanah.republika.co.id/berita/si2xnd458/nabi-idris-as-pribadi-dan-keistimewaan"
-    },
-    {
-        "title": "Paris Ucapkan Sampai Berjumpa Lagi pada Olimpiade",
-        "category": "News",
-        "publish_time": "12-08-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/si2x7d348/paris-ucapkan-sampai-berjumpa-lagi-pada-olimpiade"
-    },
-    {
-        "title": "8 Kebiasaan Sederhana yang Bikin Lebih Bahagia Menurut Neurosains",
-        "category": "Network",
-        "publish_time": "12-08-2024 00:13",
-        "news_link": "https://senandika.republika.co.id/lentera/1734965493/8-kebiasaan-sederhana-yang-bikin-lebih-bahagia-menurut-neurosains"
-    },
-    {
-        "title": "PKB Jelaskan Alasan tak Undang Anies Hadiri Muktamar di Bali",
-        "category": "News",
-        "publish_time": "12-08-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/si2wt3484/pkb-jelaskan-alasan-tak-undang-anies-hadiri-muktamar-di-bali"
-    },
-    {
-        "title": "Jadi Kepala Pemerintahan Sementara Bangladesh, Ini Citra Yunus di Mata MUI",
-        "category": "Khazanah",
-        "publish_time": "12-08-2024 00:13",
-        "news_link": "https://khazanah.republika.co.id/berita/si2wmu483/jadi-kepala-pemerintahan-sementara-bangladesh-ini-citra-yunus-di-mata-mui"
-    },
-    {
-        "title": "Indonesia Peringkat ke-39 Olimpiade Paris, AS Juara Umum",
-        "category": "News",
-        "publish_time": "12-08-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/si2wc9348/indonesia-peringkat-ke39-olimpiade-paris-as-juara-umum"
     }
 ]
