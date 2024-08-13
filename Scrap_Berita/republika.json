@@ -1,98 +1,254 @@
 [
     {
+        "title": "Idrus Tegaskan Mundurnya Airlangga tak Terkait Masalah Hukum",
+        "category": "News",
+        "publish_time": "13-08-2024 10:12",
+        "news_link": "https://news.republika.co.id/berita/si5izx377/idrus-tegaskan-mundurnya-airlangga-tak-terkait-masalah-hukum"
+    },
+    {
+        "title": "Kisah Bertutur Dayak Wehea Kalimantan: Legenda Kisah Dua Gerhana (2)",
+        "category": "Network",
+        "publish_time": "13-08-2024 10:10",
+        "news_link": "https://sekitarkaltim.id/posts/324625/kisah-bertutur-dayak-wehea-kalimantan-legenda-kisah-dua-gerhana-2-"
+    },
+    {
+        "title": "UMJ Tempati Peringkat 5 Perguruan Tinggi Islam Dunia dan Pertama di Banten Versi UniRank",
+        "category": "News",
+        "publish_time": "13-08-2024 10:10",
+        "news_link": "https://news.republika.co.id/berita/si5ixk423/umj-tempati-peringkat-5-perguruan-tinggi-islam-dunia-dan-pertama-di-banten-versi-unirank"
+    },
+    {
+        "title": "Muprov ke-XIV, Diana Dewi Terpilih Kembali Memimpin Kadin DKI Jakarta",
+        "category": "Rejakarta",
+        "publish_time": "13-08-2024 10:09",
+        "news_link": "https://republika.co.id/berita/si5iw0456/muprov-ke-xiv-diana-dewi-terpilih-kembali-memimpin-kadin-dki-jakarta"
+    },
+    {
+        "title": "Nasihat Penting Sayyidina Ali bin Abi Thalib dan Syekh Abdul Qodir Jaelani",
+        "category": "Khazanah",
+        "publish_time": "13-08-2024 10:08",
+        "news_link": "https://khazanah.republika.co.id/berita/si5iuh430/nasihat-penting-sayyidina-ali-bin-abi-thalib-dan-syekh-abdul-qodir-jaelani"
+    },
+    {
+        "title": "Wacana Reshuffle Kabinet Mencuat, PKB Ikuti Apapun Keputusan Jokowi",
+        "category": "News",
+        "publish_time": "13-08-2024 10:06",
+        "news_link": "https://news.republika.co.id/berita/si5iq6487/wacana-reshuffle-kabinet-mencuat-pkb-ikuti-apapun-keputusan-jokowi"
+    },
+    {
+        "title": "TASPEN Borong 5 Penghargaan HCREA 2024",
+        "category": "Ekonomi",
+        "publish_time": "13-08-2024 10:02",
+        "news_link": "https://ekonomi.republika.co.id/berita/si5iiw423/taspen-borong-5-penghargaan-hcrea-2024"
+    },
+    {
+        "title": "Istana Garuda IKN dan Sejarah Garuda Menjadi Lambang Negara",
+        "category": "Khazanah",
+        "publish_time": "13-08-2024 10:00",
+        "news_link": "https://khazanah.republika.co.id/berita/si5bcu451/istana-garuda-ikn-dan-sejarah-garuda-menjadi-lambang-negara"
+    },
+    {
+        "title": "Sosialisasi Pilkada Serentak untuk Pelajar SMK",
+        "category": "Visual",
+        "publish_time": "13-08-2024 10:00",
+        "news_link": "https://visual.republika.co.id/berita/si5hrr375/sosialisasi-pilkada-serentak-untuk-pelajar-smk"
+    },
+    {
+        "title": "Adaro dan Pemerintah Kabupaten Balangan Wujudkan Desa Zero Stunting",
+        "category": "Esgnow",
+        "publish_time": "13-08-2024 09:56",
+        "news_link": "https://esgnow.republika.co.id/berita/si5i9p416/adaro-dan-pemerintah-kabupaten-balangan-wujudkan-desa-zero-stunting"
+    },
+    {
+        "title": "Jokowi Pastikan Airlangga Hartarto tak Terkena Reshuffle",
+        "category": "News",
+        "publish_time": "13-08-2024 09:49",
+        "news_link": "https://news.republika.co.id/berita/si5hy7409/jokowi-pastikan-airlangga-hartarto-tak-terkena-reshuffle"
+    },
+    {
+        "title": "Pembangunan Ketiga Kuil Sulaiman dan Ritual Sapi Merah di Masjid Al-Aqsa , Ancaman Nyata?",
+        "category": "Khazanah",
+        "publish_time": "13-08-2024 09:46",
+        "news_link": "https://khazanah.republika.co.id/berita/si5hth320/pembangunan-ketiga-kuil-sulaiman-dan-ritual-sapi-merah-di-masjid-alaqsa-ancaman-nyata"
+    },
+    {
+        "title": "Gedung Putih Simpulkan Iran akan Lancarkan Serangan ke Israel Pekan Ini",
+        "category": "News",
+        "publish_time": "13-08-2024 09:45",
+        "news_link": "https://news.republika.co.id/berita/si5hr8409/gedung-putih-simpulkan-iran-akan-lancarkan-serangan-ke-israel-pekan-ini"
+    },
+    {
+        "title": "Buah Manis Digitalisasi! Rasio CASA Bank Mandiri Tembus 79,7 Persen di Kuartal II 2024",
+        "category": "Ekonomi",
+        "publish_time": "13-08-2024 09:44",
+        "news_link": "https://ekonomi.republika.co.id/berita/si5hqf423/buah-manis-digitalisasi-rasio-casa-bank-mandiri-tembus-797-persen-di-kuartal-ii-2024"
+    },
+    {
+        "title": "Serbuan Ribuan Yahudi, Persiapan Penghancuran Masjid al-Aqsa?",
+        "category": "News",
+        "publish_time": "13-08-2024 09:44",
+        "news_link": "https://news.republika.co.id/berita/si5hp0393/serbuan-ribuan-yahudi-persiapan-penghancuran-masjid-alaqsa"
+    },
+    {
+        "title": "Jokowi: Urusan Airlangga Itu Urusan Internal Partai Golkar, Tanyakan kepada Golkar",
+        "category": "News",
+        "publish_time": "13-08-2024 09:43",
+        "news_link": "https://news.republika.co.id/berita/si5hnf487/jokowi-urusan-airlangga-itu-urusan-internal-partai-golkar-tanyakan-kepada-golkar"
+    },
+    {
+        "title": "Realisasi Anggaran untuk Pilkada Serentak 2024 Capai Rp 34,57 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "13-08-2024 09:41",
+        "news_link": "https://ekonomi.republika.co.id/berita/si5hjx370/realisasi-anggaran-untuk-pilkada-serentak-2024-capai-rp-3457-triliun"
+    },
+    {
+        "title": "Ini Modus Pimpinan Ponpes di Karawang yang Diduga Cabuli 20 Santriwati",
+        "category": "Rejabar",
+        "publish_time": "13-08-2024 09:40",
+        "news_link": "https://rejabar.republika.co.id/berita/si5hjo512/ini-modus-pimpinan-ponpes-di-karawang-yang-diduga-cabuli-20-santriwati"
+    },
+    {
+        "title": "Indonesia Harus Lebih Serius Pacu Transisi Energi",
+        "category": "Esgnow",
+        "publish_time": "13-08-2024 09:36",
+        "news_link": "https://esgnow.republika.co.id/berita/si5hch416/indonesia-harus-lebih-serius-pacu-transisi-energi"
+    },
+    {
+        "title": "Sri Mulyani:\u00a0Manufaktur Indonesia Jadi Korban Melemahnya Ekonomi Global",
+        "category": "Ekonomi",
+        "publish_time": "13-08-2024 09:34",
+        "news_link": "https://ekonomi.republika.co.id/berita/si5h8m370/sri-mulyanimanufaktur-indonesia-jadi-korban-melemahnya-ekonomi-global"
+    },
+    {
+        "title": "PBNU akan Undang Cak Imin, Gus Yahya: Kalau Menolak Tanggung Sendiri Risiko Politiknya",
+        "category": "News",
+        "publish_time": "13-08-2024 09:31",
+        "news_link": "https://news.republika.co.id/berita/si5h3e487/pbnu-akan-undang-cak-imin-gus-yahya-kalau-menolak-tanggung-sendiri-risiko-politiknya"
+    },
+    {
+        "title": "Israel Diguncang Gempa di Tengah Ancaman Serangan Besar-besaran Iran",
+        "category": "Khazanah",
+        "publish_time": "13-08-2024 09:28",
+        "news_link": "https://khazanah.republika.co.id/berita/si5gyw483/israel-diguncang-gempa-di-tengah-ancaman-serangan-besarbesaran-iran"
+    },
+    {
+        "title": "Harvey Moeis Besok Jalan Sidang Perdana Kasus Korupsi Timah",
+        "category": "News",
+        "publish_time": "13-08-2024 09:21",
+        "news_link": "https://news.republika.co.id/berita/si5gmo409/harvey-moeis-besok-jalan-sidang-perdana-kasus-korupsi-timah"
+    },
+    {
+        "title": "Penampakan Permukiman Warga di Manggarai yang Hangus Terbakar",
+        "category": "Visual",
+        "publish_time": "13-08-2024 09:20",
+        "news_link": "https://visual.republika.co.id/berita/si5gl6375/penampakan-permukiman-warga-di-manggarai-yang-hangus-terbakar"
+    },
+    {
+        "title": "Kejurnas V dan Pagar Nusa Championship Resmi Diluncurkan, Ini Jadwalnya",
+        "category": "Khazanah",
+        "publish_time": "13-08-2024 09:18",
+        "news_link": "https://khazanah.republika.co.id/berita/si5giv320/kejurnas-v-dan-pagar-nusa-championship-resmi-diluncurkan-ini-jadwalnya"
+    },
+    {
+        "title": "Gerindra: PKS akan Bergabung dengan Koalisi Indonesia Maju",
+        "category": "News",
+        "publish_time": "13-08-2024 09:15",
+        "news_link": "https://news.republika.co.id/berita/si5gdk409/gerindra-pks-akan-bergabung-dengan-koalisi-indonesia-maju"
+    },
+    {
         "title": "Oknum PN Depok Diduga Ancam Warga dengan Senjata, Ini Hukum Islam bagi Pengancam",
         "category": "Khazanah",
-        "publish_time": "13-08-2024 09:12",
+        "publish_time": "13-08-2024 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/si5g94430/oknum-pn-depok-diduga-ancam-warga-dengan-senjata-ini-hukum-islam-bagi-pengancam"
     },
     {
         "title": "Senior Golkar Dukung Bahlil Jadi Ketum Golkar, 'Adik Saya Itu'",
         "category": "News",
-        "publish_time": "13-08-2024 09:10",
+        "publish_time": "13-08-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/si5g5d487/senior-golkar-dukung-bahlil-jadi-ketum-golkar-adik-saya-itu"
     },
     {
         "title": "Menkominfo Paparkan Dukungan Teknologi Informasi dalam Pembangunan IKN",
         "category": "News",
-        "publish_time": "13-08-2024 09:08",
+        "publish_time": "13-08-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/si50ow451/menkominfo-paparkan-dukungan-teknologi-informasi-dalam-pembangunan-ikn"
     },
     {
         "title": "Perubahan Iklim Picu Peningkatan Suhu Udara di Malam Hari",
         "category": "Esgnow",
-        "publish_time": "13-08-2024 09:00",
+        "publish_time": "13-08-2024 09:13",
         "news_link": "https://esgnow.republika.co.id/berita/si5cch416/perubahan-iklim-picu-peningkatan-suhu-udara-di-malam-hari"
     },
     {
         "title": "Jimly Asshiddiqie Sarankan Golkar Tolak Pengunduran Diri Airlangga, Ini Alasannya",
         "category": "News",
-        "publish_time": "13-08-2024 08:59",
+        "publish_time": "13-08-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/si5fmf409/jimly-asshiddiqie-sarankan-golkar-tolak-pengunduran-diri-airlangga-ini-alasannya"
     },
     {
         "title": "6 Hal yang Harus Kamu Lakukan Jika Terjadi Gempa Saat Sedang Sekolah",
         "category": "Network",
-        "publish_time": "13-08-2024 08:59",
+        "publish_time": "13-08-2024 09:13",
         "news_link": "https://kidnews.id/posts/324601/6-hal-yang-harus-kamu-lakukan-jika-terjadi-gempa-saat-sedang-sekolah"
     },
     {
         "title": "Polda Metro Naikkan Status Kasus Pertemuan Firli Bahuri dan SYL ke Penyidikan",
         "category": "News",
-        "publish_time": "13-08-2024 08:51",
+        "publish_time": "13-08-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/si5f9g409/polda-metro-naikkan-status-kasus-pertemuan-firli-bahuri-dan-syl-ke-penyidikan"
     },
     {
         "title": "Ada Kucing Berbulu Harimau, Infonya di Kalimantan",
         "category": "News",
-        "publish_time": "13-08-2024 08:49",
+        "publish_time": "13-08-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/si5f5y451/ada-kucing-berbulu-harimau-infonya-di-kalimantan"
     },
     {
         "title": "Fakta Menarik di Balik Peringatan Hari Pramuka di Indonesia",
         "category": "Network",
-        "publish_time": "13-08-2024 08:48",
+        "publish_time": "13-08-2024 09:13",
         "news_link": "https://senandika.republika.co.id/lentera/1734971716/fakta-menarik-di-balik-peringatan-hari-pramuka-di-indonesia"
     },
     {
         "title": "Ketua Harian Gerindra Akui Koalisi dengan PKB untuk Pilgub Jakarta",
         "category": "News",
-        "publish_time": "13-08-2024 08:42",
+        "publish_time": "13-08-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/si5eui484/ketua-harian-gerindra-akui-koalisi-dengan-pkb-untuk-pilgub-jakarta"
     },
     {
         "title": "PGN Ensure Gas Flowing in IKN Ahead of Independence Anniversary Celebration of RI",
         "category": "En",
-        "publish_time": "36 minutes ago",
+        "publish_time": "2 hours ago",
         "news_link": "https://en.republika.co.id/berita/si5ckf415/pgn-ensure-gas-flowing-in-ikn-ahead-of-independence-anniversary-celebration-of-ri"
     },
     {
         "title": "Meratus Tambah Kapal untuk Tingkatkan Pengiriman Inrernasional",
         "category": "Ekonomi",
-        "publish_time": "13-08-2024 08:32",
+        "publish_time": "13-08-2024 08:13",
         "news_link": "https://ekonomi.republika.co.id/berita/si5edh370/meratus-tambah-kapal-untuk-tingkatkan-pengiriman-inrernasional"
     },
     {
         "title": "Seribu Lebih Pemukim Yahudi Terobos Masjid al-Aqsa",
         "category": "News",
-        "publish_time": "13-08-2024 08:31",
+        "publish_time": "13-08-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/si5eck393/seribu-lebih-pemukim-yahudi-terobos-masjid-alaqsa"
     },
     {
         "title": "Jangan Lupa Baca Doa Ini saat Menjenguk Orang Sakit",
         "category": "Iqra",
-        "publish_time": "13-08-2024 08:30",
+        "publish_time": "13-08-2024 08:13",
         "news_link": "https://iqra.republika.co.id/berita/si5at5430/jangan-lupa-baca-doa-ini-saat-menjenguk-orang-sakit"
     },
     {
         "title": "Idrus Marham Klaim Lebih 30 DPD Golkar Dukung Bahlil Lahadalia",
         "category": "News",
-        "publish_time": "13-08-2024 08:25",
+        "publish_time": "13-08-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/si5e1u484/idrus-marham-klaim-lebih-30-dpd-golkar-dukung-bahlil-lahadalia"
     },
     {
         "title": "Belasan Kecamatan di Majalengka Rawan Kekeringan",
         "category": "Rejabar",
-        "publish_time": "13-08-2024 08:21",
+        "publish_time": "13-08-2024 08:13",
         "news_link": "https://rejabar.republika.co.id/berita/si5dvh512/belasan-kecamatan-di-majalengka-rawan-kekeringan"
     },
     {
@@ -142,161 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "13-08-2024 08:13",
         "news_link": "https://ekonomi.republika.co.id/berita/si5d8x423/pertamina-patra-niaga-gerak-cepat-cek-spbu-dari-laporan-konsumen"
-    },
-    {
-        "title": "Pemkot Semarang Siapkan Stroberi untuk Program Makan Siang Gratis",
-        "category": "Rejogja",
-        "publish_time": "13-08-2024 08:13",
-        "news_link": "https://rejogja.republika.co.id/berita/si5d2o282/pemkot-semarang-siapkan-stroberi-untuk-program-makan-siang-gratis"
-    },
-    {
-        "title": "Sukses Terselenggara, Pameran IndoBuildTech 2024 Manfaatkan Fasilitas Kepabeanan Ini",
-        "category": "News",
-        "publish_time": "13-08-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/si5czb423/sukses-terselenggara-pameran-indobuildtech-2024-manfaatkan-fasilitas-kepabeanan-ini"
-    },
-    {
-        "title": "Kiai Kumpul di Tebu Ireng, Ketum PBNU Dapat Mandat Perbaiki PKB, Cak Imin Digulingkan?",
-        "category": "News",
-        "publish_time": "13-08-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/si5cyo377/kiai-kumpul-di-tebu-ireng-ketum-pbnu-dapat-mandat-perbaiki-pkb-cak-imin-digulingkan"
-    },
-    {
-        "title": "KCIC Minta Warga tak Bermain Layang-Layang di Sekitar Kereta Cepat Whoosh, Ini Bahayanya",
-        "category": "Rejabar",
-        "publish_time": "13-08-2024 08:13",
-        "news_link": "https://rejabar.republika.co.id/berita/si5cwa512/kcic-minta-warga-tak-bermain-layanglayang-di-sekitar-kereta-cepat-whoosh-ini-bahayanya"
-    },
-    {
-        "title": "Idrus Marham Sebut Bahlil Penuhi Syarat Jadi Ketum Partai Golkar",
-        "category": "Video",
-        "publish_time": "13-08-2024 08:13",
-        "news_link": "https://tv.republika.co.id/berita/si5crl418/idrus-marham-sebut-bahlil-penuhi-syarat-jadi-ketum-partai-golkar"
-    },
-    {
-        "title": "Pesawat EVA Air Rute Jakarta-Taipei Turbulensi Parah",
-        "category": "News",
-        "publish_time": "13-08-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/si5cra484/pesawat-eva-air-rute-jakartataipei-turbulensi-parah"
-    },
-    {
-        "title": "Peretasan Akun Google Bisnis Bikin Rugi Turis dan Industri Pariwisata RI",
-        "category": "Ekonomi",
-        "publish_time": "13-08-2024 08:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/si5cr7502/peretasan-akun-google-bisnis-bikin-rugi-turis-dan-industri-pariwisata-ri"
-    },
-    {
-        "title": "Cyber University Tingkatkan Pemahaman dan Keterampilan Guru dalam Literasi Numerasi",
-        "category": "News",
-        "publish_time": "13-08-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/si5cnn423/cyber-university-tingkatkan-pemahaman-dan-keterampilan-guru-dalam-literasi-numerasi"
-    },
-    {
-        "title": "Iran Ingin Serang Israel, AS Kerahkan Kapal Selam Nuklir Perkuat Israel",
-        "category": "Khazanah",
-        "publish_time": "13-08-2024 08:13",
-        "news_link": "https://khazanah.republika.co.id/berita/si5clr366/iran-ingin-serang-israel-as-kerahkan-kapal-selam-nuklir-perkuat-israel"
-    },
-    {
-        "title": "Khalifah Umar Memetik Hikmah dari Anak Gembala",
-        "category": "Khazanah",
-        "publish_time": "13-08-2024 08:13",
-        "news_link": "https://khazanah.republika.co.id/berita/si5cke458/khalifah-umar-memetik-hikmah-dari-anak-gembala"
-    },
-    {
-        "title": "Muslimat NU Dukung Airin di Pilkada Banten",
-        "category": "News",
-        "publish_time": "13-08-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/si510e451/muslimat-nu-dukung-airin-di-pilkada-banten"
-    },
-    {
-        "title": "Indonesia Dihantui Gempa Megathrust, Ini Penjelasannya",
-        "category": "Rejogja",
-        "publish_time": "13-08-2024 08:13",
-        "news_link": "https://rejogja.republika.co.id/berita/si5ceh282/indonesia-dihantui-gempa-megathrust-ini-penjelasannya"
-    },
-    {
-        "title": "Kepala Daerah dapat Arahan Presiden di IKN, Mendagri: Momen Bersejarah",
-        "category": "Rekalimantan",
-        "publish_time": "13-08-2024 08:13",
-        "news_link": "https://republika.co.id/berita/si5bz3430/kepala-daerah-dapat-arahan-presiden-di-ikn-mendagri-momen-bersejarah"
-    },
-    {
-        "title": "Djarot PDIP Tantang PKS Usung Ahok di Pilgub DKI",
-        "category": "News",
-        "publish_time": "13-08-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/si5c53377/djarot-pdip-tantang-pks-usung-ahok-di-pilgub-dki"
-    },
-    {
-        "title": "Dinas KUKM Jabar Buat Ruang Kreatif untuk Tempat UMKM Berbagi Ilmu",
-        "category": "Rejabar",
-        "publish_time": "13-08-2024 07:13",
-        "news_link": "https://rejabar.republika.co.id/berita/si5c3z512/dinas-kukm-jabar-buat-ruang-kreatif-untuk-tempat-umkm-berbagi-ilmu"
-    },
-    {
-        "title": "PGN Pastikan Gas Bumi Mengalir di IKN Jelang Perayaan HUT Kemerdekaan RI",
-        "category": "Ekonomi",
-        "publish_time": "13-08-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/si5bx6490/pgn-pastikan-gas-bumi-mengalir-di-ikn-jelang-perayaan-hut-kemerdekaan-ri"
-    },
-    {
-        "title": "Catatan Kemajuan Transisi Energi Global",
-        "category": "Esgnow",
-        "publish_time": "13-08-2024 07:13",
-        "news_link": "https://esgnow.republika.co.id/berita/si5buo416/catatan-kemajuan-transisi-energi-global"
-    },
-    {
-        "title": "Cut Intan Nabila Diduga Korban KDRT, Ingat Pesan Rasulullah Soal Suami Ringan Tangan",
-        "category": "Khazanah",
-        "publish_time": "13-08-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/si5bsz430/cut-intan-nabila-diduga-korban-kdrt-ingat-pesan-rasulullah-soal-suami-ringan-tangan"
-    },
-    {
-        "title": "Kaprodi Kesejahteraan Sosial FISIP UMJ Raih Gelar Doktor di Unpad",
-        "category": "News",
-        "publish_time": "13-08-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/si5br2423/kaprodi-kesejahteraan-sosial-fisip-umj-raih-gelar-doktor-di-unpad"
-    },
-    {
-        "title": "Kaji Penyelenggaraan Telemedicine di Indonesia, Nurul Wahdah Raih Gelar Doktor Ilmu Hukum",
-        "category": "Khazanah",
-        "publish_time": "13-08-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/shzg7v451/kaji-penyelenggaraan-telemedicine-di-indonesia-nurul-wahdah-raih-gelar-doktor-ilmu-hukum"
-    },
-    {
-        "title": "Jokowi Briefed Regional Heads at IKN Palace",
-        "category": "En",
-        "publish_time": "2 hours ago",
-        "news_link": "https://en.republika.co.id/berita/si5bjy415/jokowi-briefed-regional-heads-at-ikn-palace"
-    },
-    {
-        "title": "Idrus Marham Sebut Bahlil Cocok Jadi Ketua Umum Golkar",
-        "category": "News",
-        "publish_time": "13-08-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/si5bj3377/idrus-marham-sebut-bahlil-cocok-jadi-ketua-umum-golkar"
-    },
-    {
-        "title": "Arab Induk Musik Spanyol, Spanyol Induk Musik Dunia",
-        "category": "Khazanah",
-        "publish_time": "13-08-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/si58u0430/arab-induk-musik-spanyol-spanyol-induk-musik-dunia"
-    },
-    {
-        "title": "Hadapi Era Digital, Universitas BSI Gelar Workshop AI untuk SMK Teladan",
-        "category": "News",
-        "publish_time": "13-08-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/si5bdi423/hadapi-era-digital-universitas-bsi-gelar-workshop-ai-untuk-smk-teladan"
-    },
-    {
-        "title": "Perempuan Penjemput Subuh",
-        "category": "Retizen",
-        "publish_time": "13-08-2024 07:13",
-        "news_link": "https://retizen.republika.co.id/posts/324559/perempuan-penjemput-subuh"
-    },
-    {
-        "title": "Pemerintah Longgarkan Aturan TKDN untuk Pembangunan PLTS",
-        "category": "Esgnow",
-        "publish_time": "13-08-2024 07:13",
-        "news_link": "https://esgnow.republika.co.id/berita/si5b9d416/pemerintah-longgarkan-aturan-tkdn-untuk-pembangunan-plts"
     }
 ]
