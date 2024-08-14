@@ -1,98 +1,212 @@
 [
     {
+        "title": "Harvey Moeis Jalani Sidang Perdana Kasus Korupsi Timah",
+        "category": "Visual",
+        "publish_time": "14-08-2024 10:10",
+        "news_link": "https://visual.republika.co.id/berita/si7dlg375/harvey-moeis-jalani-sidang-perdana-kasus-korupsi-timah"
+    },
+    {
+        "title": "Paskibraka Dipaksa Lepas Jilbab, Kadis Pendidikan Aceh: Langgar Konstitusi",
+        "category": "Khazanah",
+        "publish_time": "14-08-2024 10:09",
+        "news_link": "https://khazanah.republika.co.id/berita/si7dk4483/paskibraka-dipaksa-lepas-jilbab-kadis-pendidikan-aceh-langgar-konstitusi"
+    },
+    {
+        "title": "Paskibraka Putri Pakai Jilbab atau Tidak Saat Upacara 17 Agustus? Ini Jawaban Kepala BPIP",
+        "category": "News",
+        "publish_time": "14-08-2024 10:08",
+        "news_link": "https://news.republika.co.id/berita/si7di5487/paskibraka-putri-pakai-jilbab-atau-tidak-saat-upacara-17-agustus-ini-jawaban-kepala-bpip"
+    },
+    {
+        "title": "Pingsan Saat Manggung, Tria Vokalis The Changcuters Dikabarkan Mulai Stabil",
+        "category": "Ameera",
+        "publish_time": "14-08-2024 10:06",
+        "news_link": "https://ameera.republika.co.id/berita/si7dfm425/pingsan-saat-manggung-tria-vokalis-the-changcuters-dikabarkan-mulai-stabil"
+    },
+    {
+        "title": "Megawati Bantah Tudingan Dirinya Mengintimidasi Kapolri",
+        "category": "News",
+        "publish_time": "14-08-2024 10:06",
+        "news_link": "https://news.republika.co.id/berita/si7det409/megawati-bantah-tudingan-dirinya-mengintimidasi-kapolri"
+    },
+    {
+        "title": "Menaker Dorong Dunia Usaha Terapkan Paradigma Produktivitas Hijau",
+        "category": "Esgnow",
+        "publish_time": "14-08-2024 09:59",
+        "news_link": "https://esgnow.republika.co.id/berita/si789d416/menaker-dorong-dunia-usaha-terapkan-paradigma-produktivitas-hijau"
+    },
+    {
+        "title": "Bertahan dengan Pelaku KDRT Dinilai Berdampak Buruk ke Mental Anak",
+        "category": "Ameera",
+        "publish_time": "14-08-2024 09:55",
+        "news_link": "https://ameera.republika.co.id/berita/si7cx6425/bertahan-dengan-pelaku-kdrt-dinilai-berdampak-buruk-ke-mental-anak"
+    },
+    {
+        "title": "Hijab dan Paskibraka",
+        "category": "Kolom",
+        "publish_time": "14-08-2024 09:49",
+        "news_link": "https://analisis.republika.co.id/berita/si7cnt451/hijab-dan-paskibraka"
+    },
+    {
+        "title": "Kini Giliran Ketum PBNU Gus Yahya Digoyang",
+        "category": "News",
+        "publish_time": "14-08-2024 09:48",
+        "news_link": "https://news.republika.co.id/berita/si7cle377/kini-giliran-ketum-pbnu-gus-yahya-digoyang"
+    },
+    {
+        "title": "Kepala BPIP: Paskibraka Putri Sukarela Lepas Jilbab",
+        "category": "News",
+        "publish_time": "14-08-2024 09:40",
+        "news_link": "https://news.republika.co.id/berita/si7c8g487/kepala-bpip-paskibraka-putri-sukarela-lepas-jilbab"
+    },
+    {
+        "title": "Polemik Jilbab Paskibraka, BPIP: Tak Ada Paksaan Lepas Jilbab, Saat Pengukuhan Sukarela",
+        "category": "News",
+        "publish_time": "14-08-2024 09:38",
+        "news_link": "https://news.republika.co.id/berita/si7c4n377/polemik-jilbab-paskibraka-bpip-tak-ada-paksaan-lepas-jilbab-saat-pengukuhan-sukarela"
+    },
+    {
+        "title": "Paskibraka Harus Lepas Jilbab, Politikus PKS:  Kalau Benar, BPIP Memalukan",
+        "category": "News",
+        "publish_time": "14-08-2024 09:37",
+        "news_link": "https://news.republika.co.id/berita/si7c1u318/paskibraka-harus-lepas-jilbab-politikus-pks-kalau-benar-bpip-memalukan"
+    },
+    {
+        "title": "Rayu Siswa dengan Prospek Cerah, Universitas BSI Lakukan Kunjungan ke SMK YAPIN Bekasi",
+        "category": "News",
+        "publish_time": "14-08-2024 09:35",
+        "news_link": "https://news.republika.co.id/berita/si7c03370/rayu-siswa-dengan-prospek-cerah-universitas-bsi-lakukan-kunjungan-ke-smk-yapin-bekasi"
+    },
+    {
+        "title": "3 Doa Anjuran Rosululah Agar Mampu Membayar Hutang",
+        "category": "Retizen",
+        "publish_time": "14-08-2024 09:31",
+        "news_link": "https://retizen.republika.co.id/posts/324849/3-doa-anjuran-rosululah-agar-mampu-membayar-hutang"
+    },
+    {
+        "title": "Luhut Ungkap Rencana Penutupan PLTU Suralaya demi Tekan Polusi Udara",
+        "category": "Esgnow",
+        "publish_time": "14-08-2024 09:29",
+        "news_link": "https://esgnow.republika.co.id/berita/si779v416/luhut-ungkap-rencana-penutupan-pltu-suralaya-demi-tekan-polusi-udara"
+    },
+    {
+        "title": "Semarak Budaya Meriahkan HUT Pramuka KJRI Davao",
+        "category": "News",
+        "publish_time": "14-08-2024 09:28",
+        "news_link": "https://news.republika.co.id/berita/si7bnu451/semarak-budaya-meriahkan-hut-pramuka-kjri-davao"
+    },
+    {
+        "title": "Pelajar Madrasah Sukabumi Juarai Kejuaraan Silat Nasional",
+        "category": "Network",
+        "publish_time": "14-08-2024 09:20",
+        "news_link": "https://sukabumikini.com/posts/324847/pelajar-madrasah-sukabumi-juarai-kejuaraan-silat-nasional"
+    },
+    {
+        "title": "Ahok Sedih Airlangga dan Jusuf Hamka Mundur dari Golkar",
+        "category": "News",
+        "publish_time": "14-08-2024 09:19",
+        "news_link": "https://news.republika.co.id/berita/si7b8n377/ahok-sedih-airlangga-dan-jusuf-hamka-mundur-dari-golkar"
+    },
+    {
+        "title": "Cara Keren Belajar Kelompok! Bebas Gabut, Prestasi Melesat",
+        "category": "News",
+        "publish_time": "14-08-2024 09:15",
+        "news_link": "https://news.republika.co.id/berita/si7b2q370/cara-keren-belajar-kelompok-bebas-gabut-prestasi-melesat"
+    },
+    {
         "title": "Ada Potensi Gempa Megathrust di Bengkulu, BMKG Imbau Warga tak Panik",
         "category": "Esgnow",
-        "publish_time": "14-08-2024 09:07",
+        "publish_time": "14-08-2024 09:12",
         "news_link": "https://esgnow.republika.co.id/berita/si7ap4416/ada-potensi-gempa-megathrust-di-bengkulu-bmkg-imbau-warga-tak-panik"
     },
     {
         "title": "Pengalaman Gila dari Program Pertukaran Mahasiswa, Saatnya Jajal Hidup di Negeri Orang",
         "category": "News",
-        "publish_time": "14-08-2024 09:07",
+        "publish_time": "14-08-2024 09:12",
         "news_link": "https://news.republika.co.id/berita/si7aoj370/pengalaman-gila-dari-program-pertukaran-mahasiswa-saatnya-jajal-hidup-di-negeri-orang"
     },
     {
         "title": "Paskibraka Dilarang Berjilbab? 'Ada yang Terang-terangan Langgar Konstitusi dan Pancasila'",
         "category": "News",
-        "publish_time": "14-08-2024 09:07",
+        "publish_time": "14-08-2024 09:12",
         "news_link": "https://news.republika.co.id/berita/si7ao2487/paskibraka-dilarang-berjilbab-ada-yang-terangterangan-langgar-konstitusi-dan-pancasila"
     },
     {
         "title": "Soal Larangan Jilbab Paskibraka, Jubir Prabowo tak Paham dengan Tafsir BPIP",
         "category": "News",
-        "publish_time": "14-08-2024 09:01",
+        "publish_time": "14-08-2024 09:12",
         "news_link": "https://news.republika.co.id/berita/si7adr377/soal-larangan-jilbab-paskibraka-jubir-prabowo-tak-paham-dengan-tafsir-bpip"
     },
     {
         "title": "Perempuan ICMI Minta Pemerintah Tinjau Ulang Aturan Copot Jilbab Bagi Paskibraka Muslimah",
         "category": "Khazanah",
-        "publish_time": "14-08-2024 09:00",
+        "publish_time": "14-08-2024 09:12",
         "news_link": "https://khazanah.republika.co.id/berita/si7acs370/perempuan-icmi-minta-pemerintah-tinjau-ulang-aturan-copot-jilbab-bagi-paskibraka-muslimah"
     },
     {
         "title": "Kasus Mayat Perempuan Terbungkus Selimut di Cimahi, Pelaku Ternyata Suami Korban",
         "category": "Rejabar",
-        "publish_time": "14-08-2024 08:59",
+        "publish_time": "14-08-2024 09:12",
         "news_link": "https://rejabar.republika.co.id/berita/si7aam512/kasus-mayat-perempuan-terbungkus-selimut-di-cimahi-pelaku-ternyata-suami-korban"
     },
     {
         "title": "Alasan PDIP Jateng Dorong Andika Perkasa Jadi Cagub, 'Kita Suka Slow Motion'",
         "category": "News",
-        "publish_time": "14-08-2024 08:50",
+        "publish_time": "14-08-2024 09:12",
         "news_link": "https://news.republika.co.id/berita/si79vo487/alasan-pdip-jateng-dorong-andika-perkasa-jadi-cagub-kita-suka-slow-motion"
     },
     {
         "title": "Riuh Soal Copot Jilbab, Ini Proses Seleksi Anggota Paskibraka Sejak Dipegang BPIP",
         "category": "Khazanah",
-        "publish_time": "14-08-2024 08:41",
+        "publish_time": "14-08-2024 08:12",
         "news_link": "https://khazanah.republika.co.id/berita/si79hj430/riuh-soal-copot-jilbab-ini-proses-seleksi-anggota-paskibraka-sejak-dipegang-bpip"
     },
     {
         "title": "30 Tenaga Kebencanaan BPBD Dianugerahi Sertifikasi Internasional",
         "category": "Rekalimantan",
-        "publish_time": "14-08-2024 08:41",
+        "publish_time": "14-08-2024 08:12",
         "news_link": "https://republika.co.id/berita/si79h5370/30-tenaga-kebencanaan-bpbd-dianugerahi-sertifikasi-internasional"
     },
     {
         "title": "Soal Dugaan Larangan Jilbab di Paskibraka, PPI Bertanya-tanya Mengapa BPIP Masih Bungkam?",
         "category": "News",
-        "publish_time": "14-08-2024 08:39",
+        "publish_time": "14-08-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/si79e8377/soal-dugaan-larangan-jilbab-di-paskibraka-ppi-bertanyatanya-mengapa-bpip-masih-bungkam"
     },
     {
         "title": "Ini Daftar Lengkap Pemain Asing Klub-Klub Peserta Liga 1 Indonesia 2024/2025",
         "category": "News",
-        "publish_time": "14-08-2024 08:38",
+        "publish_time": "14-08-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/si79cl348/ini-daftar-lengkap-pemain-asing-klubklub-peserta-liga-1-indonesia-20242025"
     },
     {
         "title": "Kasus Mayat Perempuan Terbungkus Selimut di Cimahi, Suami Jadi Tersangka",
         "category": "News",
-        "publish_time": "14-08-2024 08:29",
+        "publish_time": "14-08-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/si78x5377/kasus-mayat-perempuan-terbungkus-selimut-di-cimahi-suami-jadi-tersangka"
     },
     {
         "title": "Polemik Larangan Jilbab, Paskibraka Justru Jadi Jalan Selebgram Alifa Adelia Berhijab",
         "category": "News",
-        "publish_time": "14-08-2024 08:19",
+        "publish_time": "14-08-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/si78gg348/polemik-larangan-jilbab-paskibraka-justru-jadi-jalan-selebgram-alifa-adelia-berhijab"
     },
     {
         "title": "Upaya Mendukung Kemajuan Kuliner Indonesia Terus Dilakukan",
         "category": "Rejakarta",
-        "publish_time": "14-08-2024 08:17",
+        "publish_time": "14-08-2024 08:12",
         "news_link": "https://republika.co.id/berita/si78dz456/upaya-mendukung-kemajuan-kuliner-indonesia-terus-dilakukan"
     },
     {
-        "title": "Kesaksian Eks Pembina Paskibraka: Sebelumnya tak Pernah Ada Pelepasan Jilbab",
+        "title": "Kesaksian Eks Pembina Paskibraka: Sebelumnya tak Pernah Ada Pemaksaan untuk Lepas Jilbab",
         "category": "Khazanah",
-        "publish_time": "14-08-2024 08:15",
-        "news_link": "https://khazanah.republika.co.id/berita/si78ak483/kesaksian-eks-pembina-paskibraka-sebelumnya-tak-pernah-ada-pelepasan-jilbab"
+        "publish_time": "14-08-2024 08:12",
+        "news_link": "https://khazanah.republika.co.id/berita/si78ak483/kesaksian-eks-pembina-paskibraka-sebelumnya-tak-pernah-ada-pemaksaan-untuk-lepas-jilbab"
     },
     {
         "title": "Pakar Apresiasi Prestasi Bupati Bandung Raih UHC Award dari Presiden RI",
         "category": "Rejabar",
-        "publish_time": "14-08-2024 08:15",
+        "publish_time": "14-08-2024 08:12",
         "news_link": "https://rejabar.republika.co.id/berita/si789d370/pakar-apresiasi-prestasi-bupati-bandung-raih-uhc-award-dari-presiden-ri"
     },
     {
@@ -126,6 +240,12 @@
         "news_link": "https://rejogja.republika.co.id/berita/si77o4291/perluas-inisiatif-esg-mowilex-kembali-raih-penghargaan-deloitte"
     },
     {
+        "title": "Lestarikan Lingkungan, AXA Mandiri dan AAJI Tanam Ratusan Bibit Bakau",
+        "category": "Esgnow",
+        "publish_time": "14-08-2024 08:12",
+        "news_link": "https://esgnow.republika.co.id/berita/si79zf415/lestarikan-lingkungan-axa-mandiri-dan-aaji-tanam-ratusan-bibit-bakau"
+    },
+    {
         "title": "Indonesia Pimpin Forum Kemitraan Global untuk Capai SDGs",
         "category": "Esgnow",
         "publish_time": "14-08-2024 08:12",
@@ -138,10 +258,10 @@
         "news_link": "https://news.republika.co.id/berita/si77ja348/pabsi-masih-bisa-andalkan-rizki-untuk-olimpiade-los-angeles"
     },
     {
-        "title": "Kucing Raditya Dika Meninggal, Warganet: RIP Legendary Cat",
+        "title": "Kucing Raditya Dika Meninggal, Sudah Menemani Selama 13 Tahun",
         "category": "Ameera",
         "publish_time": "14-08-2024 08:12",
-        "news_link": "https://ameera.republika.co.id/berita/si77e9425/kucing-raditya-dika-meninggal-warganet-rip-legendary-cat"
+        "news_link": "https://ameera.republika.co.id/berita/si77e9425/kucing-raditya-dika-meninggal-sudah-menemani-selama-13-tahun"
     },
     {
         "title": "Paskibraka 2024 Dilarang Pakai Jilbab? Begini Jaminan Allah untuk Muslimah Berjilbab",
@@ -178,125 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "14-08-2024 07:12",
         "news_link": "https://ekonomi.republika.co.id/berita/si76av370/serbu-promo-spesial-bri-17an-dari-jajanan-hingga-belanja"
-    },
-    {
-        "title": "UPI Gelar Upacara Pengambilan Sumpah Profesi Bagi 1.174 Orang Lulusan PPG Angkatan 3/2023",
-        "category": "News",
-        "publish_time": "14-08-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/si75sc512/upi-gelar-upacara-pengambilan-sumpah-profesi-bagi-1174-orang-lulusan-ppg-angkatan-32023"
-    },
-    {
-        "title": "Begini Momen Kepala BPIP Pandu Ikrar di IKN Saat tak Ada Paskibraka Putri yang Berjilbab",
-        "category": "News",
-        "publish_time": "14-08-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/si75k9487/begini-momen-kepala-bpip-pandu-ikrar-di-ikn-saat-tak-ada-paskibraka-putri-yang-berjilbab"
-    },
-    {
-        "title": "Ada yang Mau 'Kudeta' Partai, Megawati Batal Pensiun Jadi Ketum PDIP",
-        "category": "News",
-        "publish_time": "14-08-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/si75hb377/ada-yang-mau-kudeta-partai-megawati-batal-pensiun-jadi-ketum-pdip"
-    },
-    {
-        "title": "Perubahan Iklim Picu Hujan Ekstrem di India, Korban Jiwa Berjatuhan",
-        "category": "Esgnow",
-        "publish_time": "14-08-2024 07:12",
-        "news_link": "https://esgnow.republika.co.id/berita/si75fc416/perubahan-iklim-picu-hujan-ekstrem-di-india-korban-jiwa-berjatuhan"
-    },
-    {
-        "title": "Terungkap Inisial S yang Jadi Cawagub Ridwan Kamil di Pilgub Jakarta adalah Ketua MPP PKS",
-        "category": "News",
-        "publish_time": "14-08-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/si75dx409/terungkap-inisial-s-yang-jadi-cawagub-ridwan-kamil-di-pilgub-jakarta-adalah-ketua-mpp-pks"
-    },
-    {
-        "title": "Jadi Tokoh Perbukuan, Begini Pidato KH Hasan Sahal Gontor",
-        "category": "Khazanah",
-        "publish_time": "14-08-2024 07:12",
-        "news_link": "https://khazanah.republika.co.id/berita/si753v451/jadi-tokoh-perbukuan-begini-pidato-kh-hasan-sahal-gontor"
-    },
-    {
-        "title": "Viral Aksi Koboi Acungkan Senjata ke Pengemudi Mobil di Bandung, Gara-gara Hal Ini",
-        "category": "Rejabar",
-        "publish_time": "14-08-2024 07:12",
-        "news_link": "https://rejabar.republika.co.id/berita/si7519512/viral-aksi-koboi-acungkan-senjata-ke-pengemudi-mobil-di-bandung-garagara-hal-ini"
-    },
-    {
-        "title": "Harvey Moeis Resmi Didakwa Rugikan Negara Rp300 Triliun, Modus Korupsi Diungkap Jaksa",
-        "category": "News",
-        "publish_time": "14-08-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/si74w8409/harvey-moeis-resmi-didakwa-rugikan-negara-rp300-triliun-modus-korupsi-diungkap-jaksa"
-    },
-    {
-        "title": "Armada Bus Listrik Siap Antar Tamu VIP di IKN Saat HUT Ke-79 RI",
-        "category": "Ekonomi",
-        "publish_time": "14-08-2024 07:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/si74ug370/armada-bus-listrik-siap-antar-tamu-vip-di-ikn-saat-hut-ke79-ri"
-    },
-    {
-        "title": "Belum Muktamar, DPC PKB ini Pastikan Dukung Cak Imin Kembali Jadi Ketua Umum",
-        "category": "News",
-        "publish_time": "14-08-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/si6n4u451/belum-muktamar-dpc-pkb-ini-pastikan-dukung-cak-imin-kembali-jadi-ketua-umum"
-    },
-    {
-        "title": "Menaker Sebut Tren Ketenagakerjaan Bergerak ke Produktivitas Hijau",
-        "category": "Esgnow",
-        "publish_time": "14-08-2024 07:12",
-        "news_link": "https://esgnow.republika.co.id/berita/si73w9416/menaker-sebut-tren-ketenagakerjaan-bergerak-ke-produktivitas-hijau"
-    },
-    {
-        "title": "Megawati: Jangan Ada Kecurangan di Pilkada 2024",
-        "category": "News",
-        "publish_time": "14-08-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/si74ms377/megawati-jangan-ada-kecurangan-di-pilkada-2024"
-    },
-    {
-        "title": "Cerita Tetangga, Soal Mayat Perempuan yang Terbungkus Selimut di Cimahi Diduga Korban KDRT",
-        "category": "Rejabar",
-        "publish_time": "14-08-2024 07:12",
-        "news_link": "https://rejabar.republika.co.id/berita/si74bu512/cerita-tetangga-soal-mayat-perempuan-yang-terbungkus-selimut-di-cimahi-diduga-korban-kdrt"
-    },
-    {
-        "title": "Mayat Perempuan yang Terbungkus Selimut di Cimahi Diduga Korban KDRT",
-        "category": "News",
-        "publish_time": "14-08-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/si742t487/mayat-perempuan-yang-terbungkus-selimut-di-cimahi-diduga-korban-kdrt"
-    },
-    {
-        "title": "Terungkap KDRT Suami ke Cut Nabila Dipicu Dugaan Selingkuh dan Ketahuan Nonton Video Porno",
-        "category": "News",
-        "publish_time": "14-08-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/si7424409/terungkap-kdrt-suami-ke-cut-nabila-dipicu-dugaan-selingkuh-dan-ketahuan-nonton-video-porno"
-    },
-    {
-        "title": "Mayat Perempuan Terbungkus Selimut, Ditemukan di Sebuah Rumah di Cimahi",
-        "category": "Rejabar",
-        "publish_time": "14-08-2024 07:12",
-        "news_link": "https://rejabar.republika.co.id/berita/si7424512/mayat-perempuan-terbungkus-selimut-ditemukan-di-sebuah-rumah-di-cimahi"
-    },
-    {
-        "title": "Paskibraka 2024 Perempuan Wajib Copot Jilbab? 'BPIP Harusnya Paham Implementasi Pancasila'",
-        "category": "News",
-        "publish_time": "14-08-2024 06:12",
-        "news_link": "https://news.republika.co.id/berita/si73ly487/paskibraka-2024-perempuan-wajib-copot-jilbab-bpip-harusnya-paham-implementasi-pancasila"
-    },
-    {
-        "title": "Foto Postingan BPIP: Paskibraka Tampak Berjilbab Besoknya Buka, Hari Ini Pakai Lagi",
-        "category": "Khazanah",
-        "publish_time": "14-08-2024 06:12",
-        "news_link": "https://khazanah.republika.co.id/berita/si73db483/foto-postingan-bpip-paskibraka-tampak-berjilbab-besoknya-buka-hari-ini-pakai-lagi"
-    },
-    {
-        "title": "Bersihkan Diri dari Dosa Horizontal",
-        "category": "Khazanah",
-        "publish_time": "14-08-2024 06:12",
-        "news_link": "https://khazanah.republika.co.id/berita/si73aw458/bersihkan-diri-dari-dosa-horizontal"
-    },
-    {
-        "title": "Indonesia Masih Butuh 21.855 Unit SPKLU, ENTREV: Kolaborasi Lintas Sektor Diperlukan",
-        "category": "Ekonomi",
-        "publish_time": "14-08-2024 06:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/si730j349/indonesia-masih-butuh-21855-unit-spklu-entrev-kolaborasi-lintas-sektor-diperlukan"
     }
 ]
