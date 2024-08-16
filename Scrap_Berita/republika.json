@@ -1,86 +1,164 @@
 [
     {
+        "title": "Keluarga Sedih, Sudirman tak Ikut Pulang ke Lapas Cirebon dan Belum Ajukan PK",
+        "category": "Rejabar",
+        "publish_time": "16-08-2024 06:15",
+        "news_link": "https://rejabar.republika.co.id/berita/sias22512/keluarga-sedih-sudirman-tak-ikut-pulang-ke-lapas-cirebon-dan-belum-ajukan-pk"
+    },
+    {
+        "title": "Pesan Muhammadiyah ke Elit Bangsa Penyelenggara Negara di Momen HUT Ke-79 RI",
+        "category": "Khazanah",
+        "publish_time": "16-08-2024 06:09",
+        "news_link": "https://khazanah.republika.co.id/berita/siarrq451/pesan-muhammadiyah-ke-elit-bangsa-penyelenggara-negara-di-momen-hut-ke79-ri"
+    },
+    {
+        "title": "Peletakan Daftar Pembagian  Hasil Penjualan Aset Boedel Pailit PT Khing Sticker Jaya Abadi dan Mulyadi Kurniawan Soegondo(Dalam Pailit)",
+        "category": "Native",
+        "publish_time": "15-08-2024 22:16",
+        "news_link": "https://www.republika.co.id/berita/si9h2z325/peletakan-daftar-pembagian-hasil-penjualan-aset-boedel-pailit-pt-khing-sticker-jaya-abadi-dan-mulyadi-kurniawan-soegondodalam-pailit"
+    },
+    {
+        "title": "Megawati Mendadak batal Hadiri Sidang Tahunan MPR, Puan Jelaskan Alasannya",
+        "category": "News",
+        "publish_time": "16-08-2024 06:02",
+        "news_link": "https://news.republika.co.id/berita/siarfj484/megawati-mendadak-batal-hadiri-sidang-tahunan-mpr-puan-jelaskan-alasannya"
+    },
+    {
+        "title": "Anies Gagal Maju Pilgub Jakarta, Surya Paloh: Adik Saya Cukup Matang",
+        "category": "News",
+        "publish_time": "16-08-2024 05:46",
+        "news_link": "https://news.republika.co.id/berita/siaqpp484/anies-gagal-maju-pilgub-jakarta-surya-paloh-adik-saya-cukup-matang"
+    },
+    {
+        "title": "Jokowi: Inflasi Terkendali, Pertumbuhan Ekonomi Indonesia Terjaga di Atas 5 Persen",
+        "category": "Ekonomi",
+        "publish_time": "16-08-2024 05:42",
+        "news_link": "https://ekonomi.republika.co.id/berita/siapru370/jokowi-inflasi-terkendali-pertumbuhan-ekonomi-indonesia-terjaga-di-atas-5-persen"
+    },
+    {
+        "title": "Anaknya Kembali ke Lapas Cirebon, Ini Ungkapan Hati Ayah Rivaldi",
+        "category": "Rejabar",
+        "publish_time": "16-08-2024 05:39",
+        "news_link": "https://rejabar.republika.co.id/berita/siaqe1512/anaknya-kembali-ke-lapas-cirebon-ini-ungkapan-hati-ayah-rivaldi"
+    },
+    {
+        "title": "Atasi Sampah Makanan Lewat Aplikasi Makanan Sisa dan Tong Sampah Pintar",
+        "category": "Video",
+        "publish_time": "16-08-2024 05:35",
+        "news_link": "https://tv.republika.co.id/berita/siaq70467/atasi-sampah-makanan-lewat-aplikasi-makanan-sisa-dan-tong-sampah-pintar"
+    },
+    {
+        "title": "Pidato Presiden Jokowi pada Sidang Tahunan MPR, dari Transisi Energi Hingga Indonesia Emas",
+        "category": "News",
+        "publish_time": "16-08-2024 05:32",
+        "news_link": "https://news.republika.co.id/berita/siaq2h370/pidato-presiden-jokowi-pada-sidang-tahunan-mpr-dari-transisi-energi-hingga-indonesia-emas"
+    },
+    {
+        "title": "Mahasiswa Universitas BSI Kampus Bogor Siap Jadi Bintang di Dunia Teknologi",
+        "category": "News",
+        "publish_time": "16-08-2024 05:32",
+        "news_link": "https://news.republika.co.id/berita/siaomw370/mahasiswa-universitas-bsi-kampus-bogor-siap-jadi-bintang-di-dunia-teknologi"
+    },
+    {
+        "title": "Visa Bangga dengan Atlet Team Visa Rizki Juniansyah yang Raih Medali Olimpiade 2024",
+        "category": "News",
+        "publish_time": "16-08-2024 05:29",
+        "news_link": "https://news.republika.co.id/berita/siapwa456/visa-bangga-dengan-atlet-team-visa-rizki-juniansyah-yang-raih-medali-olimpiade-2024"
+    },
+    {
+        "title": "Ide Dekorasi 17 Agustus untuk Meriahkan Hari Kemerdekaan RI",
+        "category": "Ameera",
+        "publish_time": "16-08-2024 05:27",
+        "news_link": "https://ameera.republika.co.id/berita/siaptx425/ide-dekorasi-17-agustus-untuk-meriahkan-hari-kemerdekaan-ri"
+    },
+    {
+        "title": "Bank Bjb Luncurkan Kredit Digital bjb KGB Pisan untuk ASN: Solusi Praktis dan Inovatif",
+        "category": "Ekonomi",
+        "publish_time": "16-08-2024 05:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/siapbn370/bank-bjb-luncurkan-kredit-digital-bjb-kgb-pisan-untuk-asn-solusi-praktis-dan-inovatif"
+    },
+    {
+        "title": "Mengenal Jenis Peminatan Biomedical Informatic Program Doktoral Bidang Informatika",
+        "category": "News",
+        "publish_time": "16-08-2024 05:16",
+        "news_link": "https://news.republika.co.id/berita/siaof0370/mengenal-jenis-peminatan-biomedical-informatic-program-doktoral-bidang-informatika"
+    },
+    {
         "title": "Fraksi Golkar DPRD Harap Kesejahteraan Warga Meningkat di HUT Jawa Barat ke-79",
         "category": "Rejabar",
-        "publish_time": "16-08-2024 05:06",
+        "publish_time": "16-08-2024 05:16",
         "news_link": "https://rejabar.republika.co.id/berita/siaovj370/fraksi-golkar-dprd-harap-kesejahteraan-warga-meningkat-di-hut-jawa-barat-ke79"
     },
     {
         "title": "Jadwal Pekan Kedua Liga 1, Tiga Pertandingan Seru Hari Ini",
         "category": "News",
-        "publish_time": "16-08-2024 05:00",
+        "publish_time": "16-08-2024 05:16",
         "news_link": "https://news.republika.co.id/berita/siaolc348/jadwal-pekan-kedua-liga-1-tiga-pertandingan-seru-hari-ini"
-    },
-    {
-        "title": "Peletakan Daftar Pembagian  Hasil Penjualan Aset Boedel Pailit PT Khing Sticker Jaya Abadi dan Mulyadi Kurniawan Soegondo(Dalam Pailit)",
-        "category": "Native",
-        "publish_time": "15-08-2024 22:11",
-        "news_link": "https://www.republika.co.id/berita/si9h2z325/peletakan-daftar-pembagian-hasil-penjualan-aset-boedel-pailit-pt-khing-sticker-jaya-abadi-dan-mulyadi-kurniawan-soegondodalam-pailit"
     },
     {
         "title": "Kunjungi Booth Universitas BSI Rita Supermall, Ada Beasiswa Kuliah",
         "category": "News",
-        "publish_time": "16-08-2024 04:57",
+        "publish_time": "16-08-2024 05:16",
         "news_link": "https://news.republika.co.id/berita/siao4c370/kunjungi-booth-universitas-bsi-rita-supermall-ada-beasiswa-kuliah"
     },
     {
         "title": "Anak Asuhnya Raih Perunggu, Ini Saran Rexy Mainaky Agar Malaysia Bisa Dapat Emas Olimpiade",
         "category": "News",
-        "publish_time": "16-08-2024 04:52",
+        "publish_time": "16-08-2024 05:16",
         "news_link": "https://news.republika.co.id/berita/siao7h409/anak-asuhnya-raih-perunggu-ini-saran-rexy-mainaky-agar-malaysia-bisa-dapat-emas-olimpiade"
     },
     {
         "title": "Pamer Hilirisasi, Jokowi: Anugerah Allah SWT Dikelola untuk Kepentingan Rakyat",
         "category": "Ekonomi",
-        "publish_time": "16-08-2024 04:45",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://ekonomi.republika.co.id/berita/sianwk370/pamer-hilirisasi-jokowi-anugerah-allah-swt-dikelola-untuk-kepentingan-rakyat"
     },
     {
         "title": "Industri Hulu Migas Indonesia Sampai 2029 Ada 141 Proyek, Nilai Investasinya Ratusan T",
         "category": "Ekonomi",
-        "publish_time": "16-08-2024 04:44",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://ekonomi.republika.co.id/berita/sial7a456/industri-hulu-migas-indonesia-sampai-2029-ada-141-proyek-nilai-investasinya-ratusan-t"
     },
     {
         "title": "Aransemen Ulang Lagu 'Topeng', Ariel Noah-Ramengvrl Kolaborasi dengan Vuse",
         "category": "Rejogja",
-        "publish_time": "16-08-2024 04:36",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://rejogja.republika.co.id/berita/sianhs291/aransemen-ulang-lagu-topeng-ariel-noahramengvrl-kolaborasi-dengan-vuse"
     },
     {
         "title": "Konferensi Internasional ICIPA 2024 Siap Digelar, Calon Ilmuwan Merapat!",
         "category": "News",
-        "publish_time": "16-08-2024 04:36",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://news.republika.co.id/berita/sianhq370/konferensi-internasional-icipa-2024-siap-digelar-calon-ilmuwan-merapat"
     },
     {
         "title": "Green Day Konser di Indonesia, Lagu-Lagu Apa yang Mungkin Dinyanyikan?",
         "category": "Ameera",
-        "publish_time": "16-08-2024 04:29",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://ameera.republika.co.id/berita/sian63425/green-day-konser-di-indonesia-lagulagu-apa-yang-mungkin-dinyanyikan"
     },
     {
         "title": "Pidato Terakhir di Sidang Tahunan MPR, Jokowi Berkali-kali Minta Maaf",
         "category": "News",
-        "publish_time": "16-08-2024 04:26",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://news.republika.co.id/berita/sian1h484/pidato-terakhir-di-sidang-tahunan-mpr-jokowi-berkalikali-minta-maaf"
     },
     {
         "title": "Prof Ni'am Beberkan Keterkaitan Politik dengan Setiap Lini Kehidupan di 'Ngopi' Kemenpora",
         "category": "Khazanah",
-        "publish_time": "16-08-2024 04:21",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://khazanah.republika.co.id/berita/siamrs320/prof-niam-beberkan-keterkaitan-politik-dengan-setiap-lini-kehidupan-di-ngopi-kemenpora"
     },
     {
         "title": "Mobil Hybrid vs Mobil Listrik: Mana yang Tepat untuk Anda?",
         "category": "Ekonomi",
-        "publish_time": "16-08-2024 04:20",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://ekonomi.republika.co.id/berita/siamq7468/mobil-hybrid-vs-mobil-listrik-mana-yang-tepat-untuk-anda"
     },
     {
         "title": "Pengurus Purnabakti Paskibraka Jabar Desak Pelepasan Jilbab Paskibraka IKN Diusut Tuntas",
         "category": "Rejabar",
-        "publish_time": "16-08-2024 04:17",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://rejabar.republika.co.id/berita/siamm7512/pengurus-purnabakti-paskibraka-jabar-desak-pelepasan-jilbab-paskibraka-ikn-diusut-tuntas"
     },
     {
@@ -92,217 +170,139 @@
     {
         "title": "Di Sidang Tahunan Puan Sebut Medsos Bisa Buat Citra Orang Jahat Jadi Baik, Sindir Siapa?",
         "category": "News",
-        "publish_time": "16-08-2024 04:13",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://news.republika.co.id/berita/siamfc409/di-sidang-tahunan-puan-sebut-medsos-bisa-buat-citra-orang-jahat-jadi-baik-sindir-siapa"
     },
     {
         "title": "Pelebaran Golongan Tarif Listrik PLN, Asosiasi: Masyarakat Makin Percaya pada Kendaraan Listrik",
         "category": "Network",
-        "publish_time": "16-08-2024 04:12",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://motoresto.id/posts/325178/pelebaran-golongan-tarif-listrik-pln-asosiasi-masyarakat-makin-percaya-pada-kendaraan-listrik"
     },
     {
         "title": "DPP PDIP Tetapkan Hengki Kurniawan Sebagai Bakal Calon Bupati Kabupaten Bandung Barat",
         "category": "Network",
-        "publish_time": "16-08-2024 04:12",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://bandung24jam.id/posts/325161/dpp-pdip-tetapkan-hengki-kurniawan-sebagai-bakal-calon-bupati-kabupaten-bandung-barat"
     },
     {
         "title": "KTP Dua Anak Anies Dicatut untuk Dukung Pasangan Dharma-Kun di Jakarta",
         "category": "News",
-        "publish_time": "16-08-2024 04:11",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://news.republika.co.id/berita/siamav484/ktp-dua-anak-anies-dicatut-untuk-dukung-pasangan-dharmakun-di-jakarta"
     },
     {
         "title": "Bukan Sekadar Pilkada Serentak",
         "category": "News",
-        "publish_time": "16-08-2024 04:11",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://news.republika.co.id/berita/sialzq377/bukan-sekadar-pilkada-serentak"
     },
     {
         "title": "Mengenal WR Soepratman, Sang Pahlawan dengan Biola",
         "category": "News",
-        "publish_time": "16-08-2024 04:11",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://news.republika.co.id/berita/sialq3458/mengenal-wr-soepratman-sang-pahlawan-dengan-biola"
     },
     {
         "title": "Pidato Bamsoet Dipenuhi Pantun, Ada Durian, Melati, Merpati, Serabi Hingga Kotak Kosong",
         "category": "News",
-        "publish_time": "16-08-2024 04:11",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://news.republika.co.id/berita/sialms475/pidato-bamsoet-dipenuhi-pantun-ada-durian-melati-merpati-serabi-hingga-kotak-kosong"
     },
     {
         "title": "Kuliti Perang Gaza, Media Israel: Paling Mematikan dan Lebih Parah dari Ukraina",
         "category": "Khazanah",
-        "publish_time": "16-08-2024 04:11",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://khazanah.republika.co.id/berita/siallx320/kuliti-perang-gaza-media-israel-paling-mematikan-dan-lebih-parah-dari-ukraina"
     },
     {
         "title": "Bamsoet Cari Bahlil Saat Sambut Ketum Parpol di Sidang Tahunan MPR",
         "category": "News",
-        "publish_time": "16-08-2024 04:11",
+        "publish_time": "16-08-2024 04:16",
         "news_link": "https://news.republika.co.id/berita/sialfs484/bamsoet-cari-bahlil-saat-sambut-ketum-parpol-di-sidang-tahunan-mpr"
     },
     {
         "title": "Cyber University Gelar ICIPA 2024: Konferensi Internasional Fisika Interdisipliner",
         "category": "News",
-        "publish_time": "16-08-2024 04:11",
+        "publish_time": "16-08-2024 03:16",
         "news_link": "https://news.republika.co.id/berita/sial5t370/cyber-university-gelar-icipa-2024-konferensi-internasional-fisika-interdisipliner"
     },
     {
         "title": "Majelis Masyayikh Uji Publik Rancangan Regulasi Rekognisi Pendidik Pendidikan Pesantren",
         "category": "News",
-        "publish_time": "16-08-2024 04:11",
+        "publish_time": "16-08-2024 03:16",
         "news_link": "https://news.republika.co.id/berita/sial2c456/majelis-masyayikh-uji-publik-rancangan-regulasi-rekognisi-pendidik-pendidikan-pesantren"
     },
     {
         "title": "Apa Itu Suntikan Roculax yang Diduga Dipakai Dokter PPDS Undip untuk Bunuh Diri?",
         "category": "Ameera",
-        "publish_time": "16-08-2024 04:11",
+        "publish_time": "16-08-2024 03:16",
         "news_link": "https://ameera.republika.co.id/berita/sial1e425/apa-itu-suntikan-roculax-yang-diduga-dipakai-dokter-ppds-undip-untuk-bunuh-diri"
     },
     {
         "title": "Kisah di Balik Penciptaan Lagu 'Indonesia Raya'",
         "category": "News",
-        "publish_time": "16-08-2024 03:11",
+        "publish_time": "16-08-2024 03:16",
         "news_link": "https://news.republika.co.id/berita/siakyb458/kisah-di-balik-penciptaan-lagu-indonesia-raya"
     },
     {
         "title": "Bamsoet Sorot Impor Melulu Lemahkan Kedaulatan Pangan, Sulit Hadapi Perubahan Iklim",
         "category": "Ekonomi",
-        "publish_time": "16-08-2024 03:11",
+        "publish_time": "16-08-2024 03:16",
         "news_link": "https://ekonomi.republika.co.id/berita/siaks0502/bamsoet-sorot-impor-melulu-lemahkan-kedaulatan-pangan-sulit-hadapi-perubahan-iklim"
     },
     {
         "title": "Gelar Rapat, Badan Musyawarah DPRD Jawa Barat Bahas Tiga Agenda Penting",
         "category": "Rejabar",
-        "publish_time": "16-08-2024 03:11",
+        "publish_time": "16-08-2024 03:16",
         "news_link": "https://rejabar.republika.co.id/berita/siakq3370/gelar-rapat-badan-musyawarah-dprd-jawa-barat-bahas-tiga-agenda-penting"
     },
     {
         "title": "Superbank Torehkan Pencapaian Satu Juta Nasabah",
         "category": "Ekonomi",
-        "publish_time": "16-08-2024 03:11",
+        "publish_time": "16-08-2024 03:16",
         "news_link": "https://ekonomi.republika.co.id/berita/siakvr484/superbank-torehkan-pencapaian-satu-juta-nasabah"
     },
     {
         "title": "Sederet Ketum Partai Hadir di Sidang Tahunan, Bamsoet: Pak Bahlil Ada Nggak?",
         "category": "News",
-        "publish_time": "16-08-2024 03:11",
+        "publish_time": "16-08-2024 03:16",
         "news_link": "https://news.republika.co.id/berita/siakf0502/sederet-ketum-partai-hadir-di-sidang-tahunan-bamsoet-pak-bahlil-ada-nggak"
     },
     {
         "title": "Memangkas Ketimpangan Pendidikan",
         "category": "News",
-        "publish_time": "16-08-2024 03:11",
+        "publish_time": "16-08-2024 03:16",
         "news_link": "https://news.republika.co.id/berita/si9fms487/memangkas-ketimpangan-pendidikan"
     },
     {
         "title": "Rupiah Melemah Dipengaruhi Data Ekonomi AS yang Kuat",
         "category": "Ekonomi",
-        "publish_time": "16-08-2024 03:11",
+        "publish_time": "16-08-2024 03:16",
         "news_link": "https://ekonomi.republika.co.id/berita/siak9h502/rupiah-melemah-dipengaruhi-data-ekonomi-as-yang-kuat"
     },
     {
         "title": "Siap-Siap, Tiket :Laga Indonesia Vs Australia Dijual 17 Agustus Pukul 17.00 WIB",
         "category": "News",
-        "publish_time": "16-08-2024 03:11",
+        "publish_time": "16-08-2024 03:16",
         "news_link": "https://news.republika.co.id/berita/siak48348/siapsiap-tiket-laga-indonesia-vs-australia-dijual-17-agustus-pukul-1700-wib"
     },
     {
         "title": "Petinju Wanita Imane Khelif Gugat JK Rowling dan Elon Musk atas Dugaan Cyberbullying",
         "category": "Ameera",
-        "publish_time": "16-08-2024 03:11",
+        "publish_time": "16-08-2024 03:16",
         "news_link": "https://ameera.republika.co.id/berita/siajxy425/petinju-wanita-imane-khelif-gugat-jk-rowling-dan-elon-musk-atas-dugaan-cyberbullying"
     },
     {
         "title": "Minta Maaf Saja tak Cukup, BPIP Didesak Segera Cabut Aturan Ini",
         "category": "Khazanah",
-        "publish_time": "16-08-2024 03:11",
+        "publish_time": "16-08-2024 03:16",
         "news_link": "https://khazanah.republika.co.id/berita/siajxq458/minta-maaf-saja-tak-cukup-bpip-didesak-segera-cabut-aturan-ini"
     },
     {
         "title": "Bank Bjb Tumbuhkan Budaya Menabung Melalui Program KEJAR",
         "category": "Ekonomi",
-        "publish_time": "16-08-2024 03:11",
+        "publish_time": "16-08-2024 03:16",
         "news_link": "https://ekonomi.republika.co.id/berita/siajwr370/bank-bjb-tumbuhkan-budaya-menabung-melalui-program-kejar"
-    },
-    {
-        "title": "WR Supratman Girang, Lagu Indonesia Raya Diterima di Kongres Pemuda",
-        "category": "Network",
-        "publish_time": "16-08-2024 03:11",
-        "news_link": "https://oohya.republika.co.id/lincak/1744982602/wr-supratman-girang-lagu-indonesia-raya-diterima-di-kongres-pemuda"
-    },
-    {
-        "title": "Pidato Puan: Dalam Berdemokrasi, Rakyat tidak Pernah Berkuasa",
-        "category": "News",
-        "publish_time": "16-08-2024 03:11",
-        "news_link": "https://news.republika.co.id/berita/siajog484/pidato-puan-dalam-berdemokrasi-rakyat-tidak-pernah-berkuasa"
-    },
-    {
-        "title": "Platform Teknologi Kemendikbudristek Percepat Digitalisasi Pendidikan",
-        "category": "News",
-        "publish_time": "16-08-2024 03:11",
-        "news_link": "https://news.republika.co.id/berita/siajiv370/platform-teknologi-kemendikbudristek-percepat-digitalisasi-pendidikan"
-    },
-    {
-        "title": "Lawan Demokrasi Semu, PDIP Siapkan Pasangan Calon Ketiga di Pilgub Jakarta",
-        "category": "News",
-        "publish_time": "16-08-2024 03:11",
-        "news_link": "https://news.republika.co.id/berita/siaj88409/lawan-demokrasi-semu-pdip-siapkan-pasangan-calon-ketiga-di-pilgub-jakarta"
-    },
-    {
-        "title": "Konser Kahitna \"2 Tahun Menuju 40\" Hadir dengan\u00a0Panggung\u00a0360 Derajat",
-        "category": "Network",
-        "publish_time": "16-08-2024 03:11",
-        "news_link": "https://senandika.republika.co.id/genta/1734982587/konser-kahitna-2-tahun-menuju-40-hadir-denganpanggung360-derajat"
-    },
-    {
-        "title": "Presiden Pakai Busana Adat Khas Betawi pada Sidang Tahunan MPR 2024",
-        "category": "News",
-        "publish_time": "16-08-2024 03:11",
-        "news_link": "https://news.republika.co.id/berita/siaj1h502/presiden-pakai-busana-adat-khas-betawi-pada-sidang-tahunan-mpr-2024"
-    },
-    {
-        "title": "Jelang Sidang Tahunan MPR 2024, IHSG Menguat",
-        "category": "Ekonomi",
-        "publish_time": "16-08-2024 03:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/siaj1e370/jelang-sidang-tahunan-mpr-2024-ihsg-menguat"
-    },
-    {
-        "title": "Merger Bank Daerah Perkuat Fondasi Ekonomi",
-        "category": "News",
-        "publish_time": "16-08-2024 03:11",
-        "news_link": "https://news.republika.co.id/berita/si96pm423/merger-bank-daerah-perkuat-fondasi-ekonomi"
-    },
-    {
-        "title": "40 Ribu Syuhada di Gaza, Angka Memalukan Bagi Kemanusiaan",
-        "category": "News",
-        "publish_time": "16-08-2024 03:11",
-        "news_link": "https://news.republika.co.id/berita/siairh393/40-ribu-syuhada-di-gaza-angka-memalukan-bagi-kemanusiaan"
-    },
-    {
-        "title": "Sedang di Pacitan, SBY tak hadiri Sidang Tahunan MPR 2024",
-        "category": "News",
-        "publish_time": "16-08-2024 03:11",
-        "news_link": "https://news.republika.co.id/berita/siaio4484/sedang-di-pacitan-sby-tak-hadiri-sidang-tahunan-mpr-2024"
-    },
-    {
-        "title": "Willy Aditya Sebut Anies tak Kecewa Nasdem tidak Dukung Maju Pilgub Jakarta",
-        "category": "News",
-        "publish_time": "16-08-2024 03:11",
-        "news_link": "https://news.republika.co.id/berita/siaicd484/willy-aditya-sebut-anies-tak-kecewa-nasdem-tidak-dukung-maju-pilgub-jakarta"
-    },
-    {
-        "title": "CPNS Siap Dibuka 20 Agustus, Ada 250 Ribu Lowongan!",
-        "category": "Ekonomi",
-        "publish_time": "16-08-2024 03:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/siaia2502/cpns-siap-dibuka-20-agustus-ada-250-ribu-lowongan"
-    },
-    {
-        "title": "Sinergi Bukit Asam dan Pemkab Muara Enim Mencegah Stunting",
-        "category": "Ekonomi",
-        "publish_time": "16-08-2024 02:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/siahrl370/sinergi-bukit-asam-dan-pemkab-muara-enim-mencegah-stunting"
     }
 ]
