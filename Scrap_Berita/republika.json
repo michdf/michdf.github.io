@@ -1,5 +1,53 @@
 [
     {
+        "title": "Sayur Asem di Istana",
+        "category": "News",
+        "publish_time": "17 August 2024, 13:05",
+        "news_link": "https://www.republika.id/posts/54323/sayur-asem-di-istana"
+    },
+    {
+        "title": "Cerita Maurina Arlia Berjumpa Kim Soo Hyun Saat Hadiri Peluncuran Ocean Star 39 di Korea",
+        "category": "Ameera",
+        "publish_time": "17 August 2024, 12:51",
+        "news_link": "https://ameera.republika.co.id/berita/sibbr5456/cerita-maurina-arlia-berjumpa-kim-soo-hyun-saat-hadiri-peluncuran-ocean-star-39-di-korea"
+    },
+    {
+        "title": "Sampaikan Hak Bela, Staf Ahli Warek UNY Luruskan Soal Peristiwa dengan BEM KM",
+        "category": "Rejogja",
+        "publish_time": "17 August 2024, 12:40",
+        "news_link": "https://rejogja.republika.co.id/berita/sicl36456/sampaikan-hak-bela-staf-ahli-warek-uny-luruskan-soal-peristiwa-dengan-bem-km"
+    },
+    {
+        "title": "Rayakan Kemerdekaan Ke-79 Tahun RI dengan MyPertamina: Berbagi Kebahagiaan Bersama",
+        "category": "Network",
+        "publish_time": "17 August 2024, 12:38",
+        "news_link": "https://rumahberkah.republika.co.id/posts/325371/rayakan-kemerdekaan-ke-79-tahun-ri-dengan-mypertamina-berbagi-kebahagiaan-bersama"
+    },
+    {
+        "title": "Perayaan Hari Anak Nasional Digelar Serentak Unicharm di Dua Lokasi Ini",
+        "category": "Rejakarta",
+        "publish_time": "17 August 2024, 12:31",
+        "news_link": "https://republika.co.id/berita/sibh3q456/perayaan-hari-anak-nasional-digelar-serentak-unicharm-di-dua-lokasi-ini"
+    },
+    {
+        "title": "Mengapa Iran Belum Juga Serang Israel? Ini Pandangan Para Analis Timur Tengah",
+        "category": "News",
+        "publish_time": "17 August 2024, 12:26",
+        "news_link": "https://news.republika.co.id/berita/sickfw409/mengapa-iran-belum-juga-serang-israel-ini-pandangan-para-analis-timur-tengah"
+    },
+    {
+        "title": "Beda Visi JP Coen dan Sukarno Membangun Ibu Kota",
+        "category": "News",
+        "publish_time": "17 August 2024, 12:23",
+        "news_link": "https://news.republika.co.id/berita/sickb6458/beda-visi-jp-coen-dan-sukarno-membangun-ibu-kota"
+    },
+    {
+        "title": "Sambut HUT Kemerdekaan RI, Relawan Tri Adhianto Gandeng Pengamen Angklung",
+        "category": "News",
+        "publish_time": "17 August 2024, 12:13",
+        "news_link": "https://news.republika.co.id/berita/sicj59318/sambut-hut-kemerdekaan-ri-relawan-tri-adhianto-gandeng-pengamen-angklung"
+    },
+    {
         "title": "Kabid Kepemiluan MN KAHMI Nilai Dugaan Pencatutan KTP adalah Pidana Pemilu",
         "category": "News",
         "publish_time": "17 August 2024, 12:12",
@@ -82,6 +130,12 @@
         "category": "News",
         "publish_time": "17 August 2024, 09:16",
         "news_link": "https://news.republika.co.id/berita/sicbni409/tak-ke-ikn-megawati-pimpin-upacara-peringatan-hut-ke79-ri-di-sekolah-pdip"
+    },
+    {
+        "title": "Bersama Para Petani, Ali Syakieb Lakukan Upacara HUT Kemerdekaan",
+        "category": "News",
+        "publish_time": "17 August 2024, 09:02",
+        "news_link": "https://news.republika.co.id/berita/siclzi318/bersama-para-petani-ali-syakieb-lakukan-upacara-hut-kemerdekaan"
     },
     {
         "title": "Ini Solusi dari BRI Danareksa Sekuritas untuk Jawab Kebutuhan Trader Pemula",
@@ -244,59 +298,5 @@
         "category": "News",
         "publish_time": "17 August 2024, 06:40",
         "news_link": "https://www.republika.id/posts/54307/pejuang-palestina-bombardir-idf-di-netzarim"
-    },
-    {
-        "title": "Awal Mula Nama \u2018Indonesia\u2019",
-        "category": "News",
-        "publish_time": "17 August 2024, 06:37",
-        "news_link": "https://www.republika.id/posts/54320/awal-mula-nama-%e2%80%98indonesia%e2%80%99"
-    },
-    {
-        "title": "Megawati tak Hadiri Upacara HUT RI Perdana di IKN, Ini Alasannya",
-        "category": "News",
-        "publish_time": "17 August 2024, 06:33",
-        "news_link": "https://news.republika.co.id/berita/sic431370/megawati-tak-hadiri-upacara-hut-ri-perdana-di-ikn-ini-alasannya"
-    },
-    {
-        "title": "Hamas Serukan Perlawanan Usai Serangan Pemukim Yahudi di Tepi Barat",
-        "category": "News",
-        "publish_time": "17 August 2024, 06:30",
-        "news_link": "https://www.republika.id/posts/54306/hamas-serukan-perlawanan-usai-serangan-pemukim-yahudi-di-tepi-barat"
-    },
-    {
-        "title": "Shin Tae-yong tak Panggil Elkan Baggott untuk Laga Indonesia Vs Australia",
-        "category": "News",
-        "publish_time": "17 August 2024, 06:25",
-        "news_link": "https://news.republika.co.id/berita/sic3qc409/shin-taeyong-tak-panggil-elkan-baggott-untuk-laga-indonesia-vs-australia"
-    },
-    {
-        "title": "Kesaksian Dokter Israel Ini Ungkap Perlakuan Buruk Militer Terhadap Tahanan Palestina",
-        "category": "News",
-        "publish_time": "17 August 2024, 06:22",
-        "news_link": "https://news.republika.co.id/berita/sic3m8320/kesaksian-dokter-israel-ini-ungkap-perlakuan-buruk-militer-terhadap-tahanan-palestina"
-    },
-    {
-        "title": "PDIP Belum Putuskan Anies atau Ahok Jadi Bakal Cagub Jakarta",
-        "category": "News",
-        "publish_time": "17 August 2024, 06:05",
-        "news_link": "https://news.republika.co.id/berita/sic2tk409/pdip-belum-putuskan-anies-atau-ahok-jadi-bakal-cagub-jakarta"
-    },
-    {
-        "title": "Ada Perkembangan Baru Kasus Mahasiswa Meninggalnya Kedokteran Undip, Ini Kata Polisi",
-        "category": "News",
-        "publish_time": "17 August 2024, 05:55",
-        "news_link": "https://news.republika.co.id/berita/sibcot487/ada-perkembangan-baru-kasus-mahasiswa-meninggalnya-kedokteran-undip-ini-kata-polisi"
-    },
-    {
-        "title": "Pencatutan KTP Warga Jadi Pendukung Dharma-Kun, KPU: Tanyakan ke Bakal Paslon",
-        "category": "News",
-        "publish_time": "17 August 2024, 05:05",
-        "news_link": "https://news.republika.co.id/berita/sibavl487/pencatutan-ktp-warga-jadi-pendukung-dharmakun-kpu-tanyakan-ke-bakal-paslon"
-    },
-    {
-        "title": "Christina Aguilera Kecam Rumor Ia Mengonsumsi Ozempic, Obat Penurun Berat Badan",
-        "category": "Network",
-        "publish_time": "17 August 2024, 02:15",
-        "news_link": "https://impresi.republika.co.id/sosok/1694985330/christina-aguilera-kecam-rumor-ia-mengonsumsi-ozempic-obat-penurun-berat-badan"
     }
 ]
