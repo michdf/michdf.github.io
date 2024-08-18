@@ -1,5 +1,83 @@
 [
     {
+        "title": "SITASI Aplikasi Karya Mahasiswa Universitas BSI Bantu Mudahkan Sekolah Lacak Alumni",
+        "category": "News",
+        "publish_time": "18 August 2024, 20:10",
+        "news_link": "https://news.republika.co.id/berita/siezx2423/sitasi-aplikasi-karya-mahasiswa-universitas-bsi-bantu-mudahkan-sekolah-lacak-alumni"
+    },
+    {
+        "title": "HUT RI, Ribuan Masyarakat Saksikan Kemeriahan Panjat Pinang di Kalimalang",
+        "category": "Rejakarta",
+        "publish_time": "18 August 2024, 20:01",
+        "news_link": "https://republika.co.id/berita/sif04k430/hut-ri-ribuan-masyarakat-saksikan-kemeriahan-panjat-pinang-di-kalimalang"
+    },
+    {
+        "title": "Selami Lautan Ilmu, Inovasi Layanan Referensi di Universitas BSI Pontianak",
+        "category": "News",
+        "publish_time": "18 August 2024, 19:57",
+        "news_link": "https://news.republika.co.id/berita/siezj4423/selami-lautan-ilmu-inovasi-layanan-referensi-di-universitas-bsi-pontianak"
+    },
+    {
+        "title": "Asean Foundation Gandeng Konten Kreator untuk Kampanye Kebaikan",
+        "category": "News",
+        "publish_time": "18 August 2024, 19:56",
+        "news_link": "https://news.republika.co.id/berita/siezy3349/asean-foundation-gandeng-konten-kreator-untuk-kampanye-kebaikan"
+    },
+    {
+        "title": "PBB Desak Gencatan Senjata Untuk Cegah Wabah Polio di Gaza Palestina",
+        "category": "Khazanah",
+        "publish_time": "18 August 2024, 19:48",
+        "news_link": "https://khazanah.republika.co.id/berita/siewzu451/pbb-desak-gencatan-senjata-untuk-cegah-wabah-polio-di-gaza-palestina"
+    },
+    {
+        "title": "Career Day Universitas BSI Tasikmalaya, Langkah Awal Mahasiswa Menuju Karier Profesional",
+        "category": "News",
+        "publish_time": "18 August 2024, 19:41",
+        "news_link": "https://news.republika.co.id/berita/siez8i423/career-day-universitas-bsi-tasikmalaya-langkah-awal-mahasiswa-menuju-karier-profesional"
+    },
+    {
+        "title": "Total 27 DPD Golkar Kabupaten dan Kota Se-Jabar Dukung Bahlil",
+        "category": "News",
+        "publish_time": "18 August 2024, 19:40",
+        "news_link": "https://news.republika.co.id/berita/siez7z484/total-27-dpd-golkar-kabupaten-dan-kota-sejabar-dukung-bahlil"
+    },
+    {
+        "title": "Putri Thaksin, Paetongtarn Shinawatra Terpilih Jadi PM Termuda Thailand",
+        "category": "News",
+        "publish_time": "18 August 2024, 19:34",
+        "news_link": "https://news.republika.co.id/berita/sieyy8377/putri-thaksin-paetongtarn-shinawatra-terpilih-jadi-pm-termuda-thailand"
+    },
+    {
+        "title": "Dosen UI Angkat Ritual Adat Tanah Sumba ke Sastra Digital dalam Rupa Komik Legenda Lende Watu dan Ubu Uang",
+        "category": "Network",
+        "publish_time": "18 August 2024, 19:32",
+        "news_link": "https://ruzka.republika.co.id/info-kampus/1674990245/dosen-ui-angkat-ritual-adat-tanah-sumba-ke-sastra-digital-dalam-rupa-komik-legenda-lende-watu-dan-ubu-uang"
+    },
+    {
+        "title": "Ulama Turki: Nasionalisme Harus Jadi Pelayanan Islam",
+        "category": "Khazanah",
+        "publish_time": "18 August 2024, 19:30",
+        "news_link": "https://khazanah.republika.co.id/berita/sieob3451/ulama-turki-nasionalisme-harus-jadi-pelayanan-islam"
+    },
+    {
+        "title": "Cak Imin: Partai ini bukan milik Muhaimin, bukan Milik NU",
+        "category": "News",
+        "publish_time": "18 August 2024, 19:26",
+        "news_link": "https://news.republika.co.id/berita/sieyjf451/cak-imin-partai-ini-bukan-milik-muhaimin-bukan-milik-nu"
+    },
+    {
+        "title": "BPBD Lebak Ingatkan Warga Pesisir Selatan Waspadai Potensi Tsunami",
+        "category": "News",
+        "publish_time": "18 August 2024, 19:23",
+        "news_link": "https://news.republika.co.id/berita/sieyed416/bpbd-lebak-ingatkan-warga-pesisir-selatan-waspadai-potensi-tsunami"
+    },
+    {
+        "title": "Hansi Flick Berharap Gundogan Bertahan di Barcelona Musim Ini",
+        "category": "News",
+        "publish_time": "18 August 2024, 19:22",
+        "news_link": "https://news.republika.co.id/berita/sieydb348/hansi-flick-berharap-gundogan-bertahan-di-barcelona-musim-ini"
+    },
+    {
         "title": "Jessica Wongso: Sekarang Sudah Plong tak Ada Lagi Dendam",
         "category": "News",
         "publish_time": "18 August 2024, 19:19",
@@ -46,12 +124,6 @@
         "category": "News",
         "publish_time": "18 August 2024, 18:49",
         "news_link": "https://news.republika.co.id/berita/siewut318/ini-penyebab-kejakgung-serahkan-pengusutan-korupsi-lpei-ke-kpk"
-    },
-    {
-        "title": "Ini Dia Guru Spiritual Sukarno yang Disegani Penjajah",
-        "category": "Khazanah",
-        "publish_time": "18 August 2024, 18:49",
-        "news_link": "https://khazanah.republika.co.id/berita/siewtw451/ini-dia-guru-spiritual-sukarno-yang-disegani-penjajah"
     },
     {
         "title": "Teater Suluh Kritik Sosial Lewat 'Kongres Para Setan'",
@@ -226,77 +298,5 @@
         "category": "Network",
         "publish_time": "18 August 2024, 16:48",
         "news_link": "https://rumahberkah.republika.co.id/posts/325560/mai-organisasi-intelektual-muslimah-gelar-rakernas-dan-workshop"
-    },
-    {
-        "title": "Kirab Bendera Merah Putih Raksasa Peringati HUT RI",
-        "category": "Visual",
-        "publish_time": "18 August 2024, 16:41",
-        "news_link": "https://visual.republika.co.id/berita/sieqwt375/kirab-bendera-merah-putih-raksasa-peringati-hut-ri"
-    },
-    {
-        "title": "X Tutup Operasi di Brasil, Ancaman Penangkapan dan Sensor Jadi Alasan",
-        "category": "Ameera",
-        "publish_time": "18 August 2024, 16:30",
-        "news_link": "https://ameera.republika.co.id/berita/siei3w416/x-tutup-operasi-di-brasil-ancaman-penangkapan-dan-sensor-jadi-alasan"
-    },
-    {
-        "title": "Koperasi Hunian ASN Jadi Solusi Bangun Peradaban IKN",
-        "category": "Ekonomi",
-        "publish_time": "18 August 2024, 16:25",
-        "news_link": "https://ekonomi.republika.co.id/berita/sieq62416/koperasi-hunian-asn-jadi-solusi-bangun-peradaban-ikn"
-    },
-    {
-        "title": "Perundungan di Bedah Saraf RSHS, Dua Residen Senior Hingga Dosen Terlibat",
-        "category": "News",
-        "publish_time": "18 August 2024, 16:21",
-        "news_link": "https://news.republika.co.id/berita/sieq0c484/perundungan-di-bedah-saraf-rshs-dua-residen-senior-hingga-dosen-terlibat"
-    },
-    {
-        "title": "Mentan Uji Coba Implementasi Biodiesel B50 di Kalimantan Selatan",
-        "category": "Esgnow",
-        "publish_time": "18 August 2024, 16:03",
-        "news_link": "https://esgnow.republika.co.id/berita/siep6h416/mentan-uji-coba-implementasi-biodiesel-b50-di-kalimantan-selatan"
-    },
-    {
-        "title": "Indef Soroti Tingginya Utang Jatuh Tempo RI",
-        "category": "Ekonomi",
-        "publish_time": "18 August 2024, 16:00",
-        "news_link": "https://ekonomi.republika.co.id/berita/siegg5416/indef-soroti-tingginya-utang-jatuh-tempo-ri"
-    },
-    {
-        "title": "Membedah Penyakit Jantung Koroner Hingga Pembuluh Darah Tepi",
-        "category": "News",
-        "publish_time": "18 August 2024, 16:00",
-        "news_link": "https://news.republika.co.id/berita/siep5o484/membedah-penyakit-jantung-koroner-hingga-pembuluh-darah-tepi"
-    },
-    {
-        "title": "13 Orang Warga Depok Rutin Donor Darah, Terima Penghargaan dari PMI Saat HUT ke-79 Kemerdekan RI",
-        "category": "Network",
-        "publish_time": "18 August 2024, 15:58",
-        "news_link": "https://ruzka.republika.co.id/serba-serbi/1674989663/13-orang-warga-depok-rutin-donor-darah-terima-penghargaan-dari-pmi-saat-hut-ke-79-kemerdekan-ri"
-    },
-    {
-        "title": "Gema Hari Kemerdekaan di Pulau Pelepas Rindu",
-        "category": "News",
-        "publish_time": "18 August 2024, 15:55",
-        "news_link": "https://news.republika.co.id/berita/sie89s451/gema-hari-kemerdekaan-di-pulau-pelepas-rindu"
-    },
-    {
-        "title": "Siapkan Lulusan Kompetitif, BCC Universitas BSI Tasikmalaya Sosialisasikan Tracer Study",
-        "category": "News",
-        "publish_time": "18 August 2024, 15:55",
-        "news_link": "https://news.republika.co.id/berita/sienyx423/siapkan-lulusan-kompetitif-bcc-universitas-bsi-tasikmalaya-sosialisasikan-tracer-study"
-    },
-    {
-        "title": "Garuda Indonesia Masuk dalam 25 Perusahaan Terbesar Fortune 100",
-        "category": "Ekonomi",
-        "publish_time": "18 August 2024, 15:48",
-        "news_link": "https://ekonomi.republika.co.id/berita/sieofd423/garuda-indonesia-masuk-dalam-25-perusahaan-terbesar-fortune-100"
-    },
-    {
-        "title": "AI untuk Pendidikan, Universitas BSI Pontianak Gelar Seminar Merdeka",
-        "category": "News",
-        "publish_time": "18 August 2024, 15:44",
-        "news_link": "https://news.republika.co.id/berita/sienpz423/ai-untuk-pendidikan-universitas-bsi-pontianak-gelar-seminar-merdeka"
     }
 ]
