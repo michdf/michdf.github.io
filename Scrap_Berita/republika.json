@@ -1,68 +1,146 @@
 [
     {
+        "title": "Ini Sosok Angga Raka Prabowo yang Dilantik Jadi Wamenkominfo",
+        "category": "News",
+        "publish_time": "19-08-2024 04:10",
+        "news_link": "https://news.republika.co.id/berita/sig6as377/ini-sosok-angga-raka-prabowo-yang-dilantik-jadi-wamenkominfo"
+    },
+    {
+        "title": "Turki Bersiap Hadapi Potensi Penyebaran Virus Mpox di Negaranya",
+        "category": "News",
+        "publish_time": "19-08-2024 04:04",
+        "news_link": "https://news.republika.co.id/berita/sig5zw425/turki-bersiap-hadapi-potensi-penyebaran-virus-mpox-di-negaranya"
+    },
+    {
+        "title": "Antipasi Virus Mpox di Indonesia, Ini yang Dilakukan Kemenkes",
+        "category": "Ameera",
+        "publish_time": "19-08-2024 03:53",
+        "news_link": "https://ameera.republika.co.id/berita/sig5h7425/antipasi-virus-mpox-di-indonesia-ini-yang-dilakukan-kemenkes"
+    },
+    {
+        "title": "Profil dan Jam Terbang Rosan Roeslani Menteri Investasi Pengganti Bahlil",
+        "category": "News",
+        "publish_time": "19-08-2024 03:42",
+        "news_link": "https://news.republika.co.id/berita/sig4z4451/profil-dan-jam-terbang-rosan-roeslani-menteri-investasi-pengganti-bahlil"
+    },
+    {
+        "title": "Siapa Supratman Andi Agtas, Menkumham Pengganti Yasonna Laoly yang Baru Dilantik Jokowi?",
+        "category": "News",
+        "publish_time": "19-08-2024 03:41",
+        "news_link": "https://news.republika.co.id/berita/sig4ww487/siapa-supratman-andi-agtas-menkumham-pengganti-yasonna-laoly-yang-baru-dilantik-jokowi"
+    },
+    {
+        "title": "Soal Skandal Demurrage Impor Beras 294 M, KPK: Semua Proses Sifatnya Rahasia",
+        "category": "Network",
+        "publish_time": "19-08-2024 03:36",
+        "news_link": "https://genpop.republika.co.id/posts/325633/soal-skandal-demurrage-impor-beras-294-m-kpk-semua-proses-sifatnya-rahasia"
+    },
+    {
+        "title": "Doa Rasulullah SAW tentang Makanan Pokok",
+        "category": "Iqra",
+        "publish_time": "19-08-2024 03:30",
+        "news_link": "https://iqra.republika.co.id/berita/sig49o430/doa-rasulullah-saw-tentang-makanan-pokok"
+    },
+    {
+        "title": "Hari Konstitusi, Meneguhkan Kembali Perannya dalam Berbangsa dan Bernegara",
+        "category": "Kolom",
+        "publish_time": "19-08-2024 03:25",
+        "news_link": "https://analisis.republika.co.id/berita/sig47a320/hari-konstitusi-meneguhkan-kembali-perannya-dalam-berbangsa-dan-bernegara"
+    },
+    {
+        "title": "Presiden Jokowi Lantik Bahlil Lahadalia Sebagai Menteri ESDM",
+        "category": "News",
+        "publish_time": "19-08-2024 03:23",
+        "news_link": "https://news.republika.co.id/berita/sig43k377/presiden-jokowi-lantik-bahlil-lahadalia-sebagai-menteri-esdm"
+    },
+    {
+        "title": "Sah, Presiden Jokowi Lantik Tiga Menteri, Satu Wakil Menteri, dan Tiga Kepala Badan",
+        "category": "News",
+        "publish_time": "19-08-2024 03:22",
+        "news_link": "https://news.republika.co.id/berita/sig41v487/sah-presiden-jokowi-lantik-tiga-menteri-satu-wakil-menteri-dan-tiga-kepala-badan"
+    },
+    {
+        "title": "Hikmah Reshuffle Pejabat di Zaman Pemerintahan Umar bin Khattab",
+        "category": "Khazanah",
+        "publish_time": "19-08-2024 03:22",
+        "news_link": "https://khazanah.republika.co.id/berita/sig41o430/hikmah-reshuffle-pejabat-di-zaman-pemerintahan-umar-bin-khattab"
+    },
+    {
+        "title": "Pesan Khusus Jessica Wongso untuk Keluarga Mirna Uasai Hirup Udara Bebas",
+        "category": "Network",
+        "publish_time": "19-08-2024 03:19",
+        "news_link": "https://matapantura.republika.co.id/posts/325619/pesan-khusus-jessica-wongso-untuk-keluarga-mirna-uasai-hirup-udara-bebas"
+    },
+    {
+        "title": "Gandeng Rumah Zakat, Adaro Berbagi Sembako untuk Warga Kurang Mampu",
+        "category": "Khazanah",
+        "publish_time": "19-08-2024 03:18",
+        "news_link": "https://khazanah.republika.co.id/berita/sig3v1423/gandeng-rumah-zakat-adaro-berbagi-sembako-untuk-warga-kurang-mampu"
+    },
+    {
         "title": "Pembangunan IKN Bakal Terus Berlanjut hingga 2045",
         "category": "News",
-        "publish_time": "19-08-2024 03:08",
+        "publish_time": "19-08-2024 03:13",
         "news_link": "https://news.republika.co.id/berita/sifyie451/pembangunan-ikn-bakal-terus-berlanjut-hingga-2045"
     },
     {
         "title": "Shakira Jadi Pemenang Clash of Champions, Sempat Tereliminasi 2 Kali",
         "category": "Ameera",
-        "publish_time": "19-08-2024 03:03",
+        "publish_time": "19-08-2024 03:13",
         "news_link": "https://ameera.republika.co.id/berita/sig35h425/shakira-jadi-pemenang-clash-of-champions-sempat-tereliminasi-2-kali"
     },
     {
         "title": "Hasan Nasbi Siap Bekerja untuk Pemerintahan Jokowi",
         "category": "News",
-        "publish_time": "19-08-2024 02:55",
+        "publish_time": "19-08-2024 03:13",
         "news_link": "https://news.republika.co.id/berita/sig2ro377/hasan-nasbi-siap-bekerja-untuk-pemerintahan-jokowi"
     },
     {
         "title": "BEM Se-Undip Tuntut Kampus Usut Tuntas Kematian Dokter ARL",
         "category": "News",
-        "publish_time": "19-08-2024 02:53",
+        "publish_time": "19-08-2024 03:13",
         "news_link": "https://news.republika.co.id/berita/sig2p2425/bem-seundip-tuntut-kampus-usut-tuntas-kematian-dokter-arl"
     },
     {
         "title": "Nyeri Tulang Malam Hari? Waspada Kanker Tulang",
         "category": "Ameera",
-        "publish_time": "19-08-2024 02:46",
+        "publish_time": "19-08-2024 03:13",
         "news_link": "https://ameera.republika.co.id/berita/sig2d4425/nyeri-tulang-malam-hari-waspada-kanker-tulang"
     },
     {
         "title": "WNI di Malaysia Semarakkan 17 Agustusan Bersama Muhammadiyah",
         "category": "Khazanah",
-        "publish_time": "19-08-2024 02:45",
+        "publish_time": "19-08-2024 03:13",
         "news_link": "https://khazanah.republika.co.id/berita/sify94451/wni-di-malaysia-semarakkan-17-agustusan-bersama-muhammadiyah"
     },
     {
         "title": "NASA Yakin Temukan Bukti Keberadaan Air di Mars",
         "category": "Ameera",
-        "publish_time": "19-08-2024 02:37",
+        "publish_time": "19-08-2024 02:13",
         "news_link": "https://ameera.republika.co.id/berita/sig1y3425/nasa-yakin-temukan-bukti-keberadaan-air-di-mars"
     },
     {
         "title": "SPMT dan Pelindo Regional 1 Menggelar Rangkaian Program TJSL di Wilayah Pelabuhan Belawan",
         "category": "Ekonomi",
-        "publish_time": "19-08-2024 02:34",
+        "publish_time": "19-08-2024 02:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sig1s6423/spmt-dan-pelindo-regional-1-menggelar-rangkaian-program-tjsl-di-wilayah-pelabuhan-belawan"
     },
     {
         "title": "Inilah Efek Buruk Kesepian, Risiko Mimpi Buruk yang Lebih Tinggi",
         "category": "Network",
-        "publish_time": "19-08-2024 02:34",
+        "publish_time": "19-08-2024 02:13",
         "news_link": "https://impresi.republika.co.id/didaktika/1694991549/inilah-efek-buruk-kesepian-risiko-mimpi-buruk-yang-lebih-tinggi"
     },
     {
         "title": "Jelang Pilkada DKI Jakarta 22024, PDI Perjuangan Belum Tentukan Cagubnya",
         "category": "Network",
-        "publish_time": "19-08-2024 02:30",
+        "publish_time": "19-08-2024 02:13",
         "news_link": "https://matapantura.republika.co.id/posts/325609/jelang-pilkada-dki-jakarta-22024-pdi-perjuangan-belum-tentukan-cagubnya"
     },
     {
         "title": "BEM Undip akan Gelar Aksi 1.000 Lilin untuk Almarhumah Dokter ARL yang Bunuh Diri",
         "category": "News",
-        "publish_time": "19-08-2024 02:25",
+        "publish_time": "19-08-2024 02:13",
         "news_link": "https://news.republika.co.id/berita/sig1e5425/bem-undip-akan-gelar-aksi-1000-lilin-untuk-almarhumah-dokter-arl-yang-bunuh-diri"
     },
     {
@@ -220,83 +298,5 @@
         "category": "Network",
         "publish_time": "19-08-2024 00:13",
         "news_link": "https://motoresto.id/posts/325583/deretan-mobil-mewah-bisa-anda-miliki-begini-caranya"
-    },
-    {
-        "title": "'Kursi' Baru di Reshuffle Pagi Ini, Kepala Kantor Komunikasi Kepresidenan dan Wamenkominfo",
-        "category": "News",
-        "publish_time": "19-08-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/sifv41487/kursi-baru-di-reshuffle-pagi-ini-kepala-kantor-komunikasi-kepresidenan-dan-wamenkominfo"
-    },
-    {
-        "title": "Tawaran Menarik Mobil Listrik Vietnam VF 5 dan VF e34 VinFast: SUV Mana Pilihan Anda?",
-        "category": "Network",
-        "publish_time": "19-08-2024 00:13",
-        "news_link": "https://impresi.republika.co.id/tangsel/1694991136/tawaran-menarik-mobil-listrik-vietnam-vf-5-dan-vf-e34-vinfast-suv-mana-pilihan-anda"
-    },
-    {
-        "title": "Jagalah Alam Maka Alam akan Menjaga Kita",
-        "category": "Network",
-        "publish_time": "19-08-2024 00:13",
-        "news_link": "https://legioma.republika.co.id/posts/325605/jagalah-alam-maka-alam-akan-menjaga-kita"
-    },
-    {
-        "title": "Khofifah Kenalkan Kekayaan Agrikultur ke\u00a0Cucu Syekh Abdul Qadir Jailani",
-        "category": "Khazanah",
-        "publish_time": "19-08-2024 00:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sieys4451/khofifah-kenalkan-kekayaan-agrikultur-kecucu-syekh-abdul-qadir-jailani"
-    },
-    {
-        "title": "KTP Warga Dicatut Jadi Pendukung, Dharma Pongrekun: Data Dikumpulkan Relawan",
-        "category": "News",
-        "publish_time": "19-08-2024 00:13",
-        "news_link": "https://news.republika.co.id/berita/sifu1q377/ktp-warga-dicatut-jadi-pendukung-dharma-pongrekun-data-dikumpulkan-relawan"
-    },
-    {
-        "title": "Semakin Seru Update Status WhatsApp, Intip Caranya",
-        "category": "Network",
-        "publish_time": "19-08-2024 00:13",
-        "news_link": "https://impresi.republika.co.id/didaktika/1694991119/semakin-seru-update-status-whatsapp-intip-caranya"
-    },
-    {
-        "title": "Jelang Purna Tugas, Jokowi Ganti Tiga Menterinya Pagi Ini",
-        "category": "Network",
-        "publish_time": "19-08-2024 00:13",
-        "news_link": "https://matapantura.republika.co.id/posts/325603/jelang-purna-tugas-jokowi-ganti-tiga-menterinya-pagi-ini"
-    },
-    {
-        "title": "Alasan Gabung KIM Plus, Muhaimin: PKB Punya Kewajiban Moral Sukseskan Prabowo",
-        "category": "News",
-        "publish_time": "18-08-2024 23:13",
-        "news_link": "https://news.republika.co.id/berita/siftqa377/alasan-gabung-kim-plus-muhaimin-pkb-punya-kewajiban-moral-sukseskan-prabowo"
-    },
-    {
-        "title": "Din Syamsudin akan Lobi TNI Ikut Aksi Damai Bela Palestina",
-        "category": "Khazanah",
-        "publish_time": "18-08-2024 23:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sifpya430/din-syamsudin-akan-lobi-tni-ikut-aksi-damai-bela-palestina"
-    },
-    {
-        "title": "Farmasi UI Dukung Peningkatan Kesehatan Suku Baduy Berbasis SDA Lokal",
-        "category": "Rejogja",
-        "publish_time": "18-08-2024 23:13",
-        "news_link": "https://rejogja.republika.co.id/berita/sift86291/farmasi-ui-dukung-peningkatan-kesehatan-suku-baduy-berbasis-sda-lokal"
-    },
-    {
-        "title": "PKB Resmi Dukung Ridwan Kamil, Anies Sudah Pasti Gagal Ikut Pilkada Jakarta",
-        "category": "News",
-        "publish_time": "18-08-2024 23:13",
-        "news_link": "https://news.republika.co.id/berita/sifsqi487/pkb-resmi-dukung-ridwan-kamil-anies-sudah-pasti-gagal-ikut-pilkada-jakarta"
-    },
-    {
-        "title": "Senin Malam, Pasangan Ridwan Kamil-Suswono Deklarasi Pilgub Jakarta",
-        "category": "News",
-        "publish_time": "18-08-2024 23:13",
-        "news_link": "https://news.republika.co.id/berita/sifrv9484/senin-malam-pasangan-ridwan-kamilsuswono-deklarasi-pilgub-jakarta"
-    },
-    {
-        "title": "Semarak Perayaan HUT RI Ke-79 di AS",
-        "category": "Video",
-        "publish_time": "18-08-2024 23:13",
-        "news_link": "https://tv.republika.co.id/berita/sifqrg418/semarak-perayaan-hut-ri-ke79-di-as"
     }
 ]
