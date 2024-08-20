@@ -1,98 +1,206 @@
 [
     {
+        "title": "Dosen Universitas BSI Berdayakan Masyarakat Bogor Lewat Pelatihan Ecobrick",
+        "category": "News",
+        "publish_time": "20-08-2024 12:19",
+        "news_link": "https://news.republika.co.id/berita/siinkn370/dosen-universitas-bsi-berdayakan-masyarakat-bogor-lewat-pelatihan-ecobrick"
+    },
+    {
+        "title": "LPPM Universitas BSI Gelar Workshop Pengelolaan Jurnal Menuju Terindeks Scopus",
+        "category": "News",
+        "publish_time": "20-08-2024 12:15",
+        "news_link": "https://news.republika.co.id/berita/siindr370/lppm-universitas-bsi-gelar-workshop-pengelolaan-jurnal-menuju-terindeks-scopus"
+    },
+    {
+        "title": "Disdukcapil Depok Raih Penghargaan Public Service of The Year Jabar Banten 2024",
+        "category": "Network",
+        "publish_time": "20-08-2024 12:13",
+        "news_link": "https://ruzka.republika.co.id/serba-serbi/1674998355/disdukcapil-depok-raih-penghargaan-public-service-of-the-year-jabar-banten-2024"
+    },
+    {
+        "title": "Dorong Kualitas Guru Madrasah, Itjen Kemenag Evaluasi Pemetaan dan Penataan Guru di Daerah",
+        "category": "Network",
+        "publish_time": "20-08-2024 12:07",
+        "news_link": "https://rumahberkah.republika.co.id/posts/325956/dorong-kualitas-guru-madrasah-itjen-kemenag-evaluasi-pemetaan-dan-penataan-guru-di-daerah"
+    },
+    {
+        "title": "Saran Ekonom, Alihkan Dividen untuk Genjot Investasi BUMN",
+        "category": "Ekonomi",
+        "publish_time": "20-08-2024 12:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/siimxj370/saran-ekonom-alihkan-dividen-untuk-genjot-investasi-bumn"
+    },
+    {
+        "title": "Polda Jakarta Hentikan Usut Pencatutan KTP untuk Dukung Dharma-Kun di Pilgub DKI",
+        "category": "Rejakarta",
+        "publish_time": "20-08-2024 12:03",
+        "news_link": "https://republika.co.id/berita/siimuc282/polda-jakarta-hentikan-usut-pencatutan-ktp-untuk-dukung-dharma-kun-di-pilgub-dki"
+    },
+    {
+        "title": "Pengamat Prediksi BI Bakal Turunkan Suku Bunga",
+        "category": "Ekonomi",
+        "publish_time": "20-08-2024 12:01",
+        "news_link": "https://ekonomi.republika.co.id/berita/siimq3416/pengamat-prediksi-bi-bakal-turunkan-suku-bunga"
+    },
+    {
+        "title": "Mahmoud Abbas Ingin Kunjungi Gaza, Minta Ijin kepada Israel",
+        "category": "Khazanah",
+        "publish_time": "20-08-2024 11:46",
+        "news_link": "https://khazanah.republika.co.id/berita/siim1w483/mahmoud-abbas-ingin-kunjungi-gaza-minta-ijin-kepada-israel"
+    },
+    {
+        "title": "Mahfud: KPU Harus Patuhi Putusan MK Soal Ambang Batas Pencalonan Kepala Daerah",
+        "category": "News",
+        "publish_time": "20-08-2024 11:44",
+        "news_link": "https://news.republika.co.id/berita/siilxp409/mahfud-kpu-harus-patuhi-putusan-mk-soal-ambang-batas-pencalonan-kepala-daerah"
+    },
+    {
+        "title": "Gaungkan Literasi, Ratusan Generasi Muda di Sukabumi Dilatih Menulis Sambil Tamasya",
+        "category": "Network",
+        "publish_time": "20-08-2024 11:43",
+        "news_link": "https://sukabumikini.com/posts/325945/gaungkan-literasi-ratusan-generasi-muda-di-sukabumi-dilatih-menulis-sambil-tamasya"
+    },
+    {
+        "title": "Anies Berpeluang Maju dari PDIP Pasca Putusan MK",
+        "category": "Network",
+        "publish_time": "20-08-2024 11:43",
+        "news_link": "https://ruzkaindonesia.id/posts/325943/anies-berpeluang-maju-dari-pdip-pasca-putusan-mk"
+    },
+    {
+        "title": "PDIP tak Masalah Jika Jokowi Jadi Ketua Dewan Pembina Partai Golkar",
+        "category": "News",
+        "publish_time": "20-08-2024 11:38",
+        "news_link": "https://news.republika.co.id/berita/siilo4409/pdip-tak-masalah-jika-jokowi-jadi-ketua-dewan-pembina-partai-golkar"
+    },
+    {
+        "title": "Salut dengan Putusan MK, PP Muhammadiyah: Dapat Mengakhiri Tirani",
+        "category": "Khazanah",
+        "publish_time": "20-08-2024 11:36",
+        "news_link": "https://khazanah.republika.co.id/berita/siillh483/salut-dengan-putusan-mk-pp-muhammadiyah-dapat-mengakhiri-tirani"
+    },
+    {
+        "title": "Warga Berdaya Luncurkan Platform LaporIklim",
+        "category": "Esgnow",
+        "publish_time": "20-08-2024 11:34",
+        "news_link": "https://esgnow.republika.co.id/berita/siili6416/warga-berdaya-luncurkan-platform-laporiklim"
+    },
+    {
+        "title": "Gunung Dukono Masih Erupsi, BNPB Ingatkan Pendaki Dekati Kawah",
+        "category": "Resulawesi",
+        "publish_time": "20-08-2024 11:29",
+        "news_link": "https://republika.co.id/berita/siil8f282/gunung-dukono-masih-erupsi-bnpb-ingatkan-pendaki-dekati-kawah"
+    },
+    {
+        "title": "UGM Luncurkan Forest Carbon Literacy Course untuk Dukung Pengelolaan Karbon Hutan",
+        "category": "Rejogja",
+        "publish_time": "20-08-2024 11:22",
+        "news_link": "https://rejogja.republika.co.id/berita/siii0k291/ugm-luncurkan-forest-carbon-literacy-course-untuk-dukung-pengelolaan-karbon-hutan"
+    },
+    {
+        "title": "Golkar: Putusan MK Mengejutkan, Peta Koalisi Pilkada Bisa Berubah",
+        "category": "News",
+        "publish_time": "20-08-2024 11:22",
+        "news_link": "https://news.republika.co.id/berita/siikj1377/golkar-putusan-mk-mengejutkan-peta-koalisi-pilkada-bisa-berubah"
+    },
+    {
+        "title": "Badan Kesbangpol Kalsel Riang Gembira Bentangkan Sasirangan Rekor MURI 2024",
+        "category": "News",
+        "publish_time": "20-08-2024 11:22",
+        "news_link": "https://news.republika.co.id/berita/siikg2490/badan-kesbangpol-kalsel-riang-gembira-bentangkan-sasirangan-rekor-muri-2024"
+    },
+    {
         "title": "Sambut Putusan MK, PDIP: Tekan Politik Mahar",
         "category": "News",
-        "publish_time": "20-08-2024 11:10",
+        "publish_time": "20-08-2024 11:22",
         "news_link": "https://news.republika.co.id/berita/siike9484/sambut-putusan-mk-pdip-tekan-politik-mahar"
     },
     {
         "title": "Penasihat Presiden Palestina: Israel Ubah Hukum Perang demi Hancurkan Sekolah, RS, Masjid",
         "category": "Khazanah",
-        "publish_time": "20-08-2024 11:03",
+        "publish_time": "20-08-2024 11:22",
         "news_link": "https://khazanah.republika.co.id/berita/siik2t483/penasihat-presiden-palestina-israel-ubah-hukum-perang-demi-hancurkan-sekolah-rs-masjid"
     },
     {
         "title": "Tanoto Kembali Buka Pendaftaran Program Beasiswa Teladan",
         "category": "Rejogja",
-        "publish_time": "20-08-2024 10:58",
+        "publish_time": "20-08-2024 11:22",
         "news_link": "https://rejogja.republika.co.id/berita/siihjo291/tanoto-kembali-buka-pendaftaran-program-beasiswa-teladan"
     },
     {
         "title": "PKS Akui Banyak Mendapat Perundungan Usai Batal Dukung Anies di Pilgub DKI Jakarta",
         "category": "News",
-        "publish_time": "20-08-2024 10:53",
+        "publish_time": "20-08-2024 11:22",
         "news_link": "https://news.republika.co.id/berita/siijm3377/pks-akui-banyak-mendapat-perundungan-usai-batal-dukung-anies-di-pilgub-dki-jakarta"
     },
     {
         "title": "Anda Lulusan Luar Negeri Keagamaan? SIPIKO Hadir Mudahkan Penyetaraaan Ijazah",
         "category": "Khazanah",
-        "publish_time": "20-08-2024 10:53",
+        "publish_time": "20-08-2024 11:22",
         "news_link": "https://khazanah.republika.co.id/berita/siijl8320/anda-lulusan-luar-negeri-keagamaan-sipiko-hadir-mudahkan-penyetaraaan-ijazah"
     },
     {
         "title": "Dukung Pertumbuhan Ekonomi, Bea Cukai Tinjau Fasilitas Industri di Cikarang dan Bekasi",
         "category": "Beacukai",
-        "publish_time": "20-08-2024 10:51",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://republika.co.id/berita/siijib490/dukung-pertumbuhan-ekonomi-bea-cukai-tinjau-fasilitas-industri-di-cikarang-dan-bekasi"
     },
     {
         "title": "Bea Cukai Optimalkan Penerimaan dan Refresh Aturan Terbaru lewat Kunjungan ke Perusahaan",
         "category": "Beacukai",
-        "publish_time": "20-08-2024 10:48",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://republika.co.id/berita/siijcm490/bea-cukai-optimalkan-penerimaan-dan-refresh-aturan-terbaru-lewat-kunjungan-ke-perusahaan"
     },
     {
         "title": "Realisasi PTSL 2024 di BPN Depok Tembus 2.950 Bidang Tanah, Pengembang Didesak Segera Daftarkan Aset",
         "category": "Network",
-        "publish_time": "20-08-2024 10:46",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://ruzka.republika.co.id/nasional/1674997971/realisasi-ptsl-2024-di-bpn-depok-tembus-2950-bidang-tanah-pengembang-didesak-segera-daftarkan-aset"
     },
     {
         "title": "Bagaimana Nasib Kepala BPIP Usai Polemik Jilbab Paskibraka? Ini Kata Komnas HAM",
         "category": "Khazanah",
-        "publish_time": "20-08-2024 10:43",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://khazanah.republika.co.id/berita/siij4g483/bagaimana-nasib-kepala-bpip-usai-polemik-jilbab-paskibraka-ini-kata-komnas-ham"
     },
     {
         "title": "Fraksi PDIP DPRD DKI Serahkan Nama Cagub ke Megawati",
         "category": "News",
-        "publish_time": "20-08-2024 10:39",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://news.republika.co.id/berita/siiiyr484/fraksi-pdip-dprd-dki-serahkan-nama-cagub-ke-megawati"
     },
     {
         "title": "Penanganan Dampak Sosial Kemasyarakatan Lahan UIII Menuju Tahap Akhir",
         "category": "Khazanah",
-        "publish_time": "20-08-2024 10:36",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://khazanah.republika.co.id/berita/siiith320/penanganan-dampak-sosial-kemasyarakatan-lahan-uiii-menuju-tahap-akhir"
     },
     {
         "title": "Politik-Mati Langkah",
         "category": "Retizen",
-        "publish_time": "20-08-2024 10:35",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://retizen.republika.co.id/posts/325825/politik-mati-langkah"
     },
     {
         "title": "Aura Maghrib: Istilah Viral di Media Sosial",
         "category": "Retizen",
-        "publish_time": "20-08-2024 10:34",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://retizen.republika.co.id/posts/325929/aura-maghrib-istilah-viral-di-media-sosial"
     },
     {
         "title": "Menelusuri Keelokan Rekreasi Dieng",
         "category": "Retizen",
-        "publish_time": "20-08-2024 10:33",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://retizen.republika.co.id/posts/325941/menelusuri-keelokan-rekreasi-dieng"
     },
     {
         "title": "Ini Misi yang Mustahil Dicapai Israel di Gaza, dengan atau tanpa Berperang",
         "category": "Khazanah",
-        "publish_time": "20-08-2024 10:29",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://khazanah.republika.co.id/berita/siiih2320/ini-misi-yang-mustahil-dicapai-israel-di-gaza-dengan-atau-tanpa-berperang"
     },
     {
         "title": "Kecerdasan Buatan Dinilai tak Bisa Gantikan Kecerdasan Manusia",
         "category": "Video",
-        "publish_time": "20-08-2024 10:28",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://tv.republika.co.id/berita/siiify467/kecerdasan-buatan-dinilai-tak-bisa-gantikan-kecerdasan-manusia"
     },
     {
@@ -104,199 +212,91 @@
     {
         "title": "Hormati Putusan MK, Ridwan Kamil Nilai Lebih Banyak Calon di Pilkada Lebih Baik",
         "category": "News",
-        "publish_time": "20-08-2024 10:20",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://news.republika.co.id/berita/siii2f409/hormati-putusan-mk-ridwan-kamil-nilai-lebih-banyak-calon-di-pilkada-lebih-baik"
     },
     {
         "title": "Ditanya Apakah PDIP akan Usung Anies di Pilgub Jakarta Usai Putusan MK, Ini Jawaban Ganjar",
         "category": "News",
-        "publish_time": "20-08-2024 10:12",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://news.republika.co.id/berita/siihox409/ditanya-apakah-pdip-akan-usung-anies-di-pilgub-jakarta-usai-putusan-mk-ini-jawaban-ganjar"
     },
     {
         "title": "PDIP Pertimbangkan Usung Ahok atau Anies Maju Pilgub Jakarta",
         "category": "News",
-        "publish_time": "20-08-2024 10:11",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://news.republika.co.id/berita/siihk0484/pdip-pertimbangkan-usung-ahok-atau-anies-maju-pilgub-jakarta"
     },
     {
         "title": "5 Alasan Mengapa Sulit Bahagia Pasca Ditinggal Meninggal",
         "category": "Retizen",
-        "publish_time": "20-08-2024 10:11",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://retizen.republika.co.id/posts/325908/5-alasan-mengapa-sulit-bahagia-pasca-ditinggal-meninggal"
     },
     {
         "title": "Kenapa Pria Sering Disalahkan Saat Selingkuh?",
         "category": "Retizen",
-        "publish_time": "20-08-2024 10:11",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://retizen.republika.co.id/posts/325926/kenapa-pria-sering-disalahkan-saat-selingkuh"
     },
     {
         "title": "Mengapa Anwar Usman tak Ikut Memutus Putusan MK Soal Syarat Usia Calon Kepala Daerah?",
         "category": "News",
-        "publish_time": "20-08-2024 10:11",
+        "publish_time": "20-08-2024 10:22",
         "news_link": "https://news.republika.co.id/berita/siigu5409/mengapa-anwar-usman-tak-ikut-memutus-putusan-mk-soal-syarat-usia-calon-kepala-daerah"
     },
     {
         "title": "Miris! Warganet Indonesia Komentar Rasis di IG Beauty Influencer Sudan Nyadollie",
         "category": "Ameera",
-        "publish_time": "20-08-2024 10:11",
+        "publish_time": "20-08-2024 09:22",
         "news_link": "https://ameera.republika.co.id/berita/siigs5425/miris-warganet-indonesia-komentar-rasis-di-ig-beauty-influencer-sudan-nyadollie"
     },
     {
         "title": "7 Peta Jalan Pendidikan Agama Islam",
         "category": "Retizen",
-        "publish_time": "20-08-2024 10:11",
+        "publish_time": "20-08-2024 09:22",
         "news_link": "https://retizen.republika.co.id/posts/325936/7-peta-jalan-pendidikan-agama-islam"
     },
     {
         "title": "Seleksi CPNS Pemprov Jatim Resmi Dibuka, Sediakan 2.314 Formasi",
         "category": "Network",
-        "publish_time": "20-08-2024 10:11",
+        "publish_time": "20-08-2024 09:22",
         "news_link": "https://sekitarsurabaya.com/posts/325910/seleksi-cpns-pemprov-jatim-resmi-dibuka-sediakan-2-314-formasi"
     },
     {
         "title": "SE DJPL 4/2024: Upaya Ditjen Hubla Tanggapi Ancaman Keamanan Kapal Indonesia di Lokasi Konflik",
         "category": "Network",
-        "publish_time": "20-08-2024 10:11",
+        "publish_time": "20-08-2024 09:22",
         "news_link": "https://shippingcargo.co.id/posts/325916/se-djpl-4-2024-upaya-ditjen-hubla-tanggapi-ancaman-keamanan-kapal-indonesia-di-lokasi-konflik"
     },
     {
         "title": "Ribuan Orang Teriakkan Free Palestine Jelang Pidato Biden di Konvensi Demokrat",
         "category": "Khazanah",
-        "publish_time": "20-08-2024 10:11",
+        "publish_time": "20-08-2024 09:22",
         "news_link": "https://khazanah.republika.co.id/berita/siighb483/ribuan-orang-teriakkan-free-palestine-jelang-pidato-biden-di-konvensi-demokrat"
     },
     {
         "title": "Komisi II DPR: Putusan MK Harus Dituangkan ke PKPU",
         "category": "News",
-        "publish_time": "20-08-2024 10:11",
+        "publish_time": "20-08-2024 09:22",
         "news_link": "https://news.republika.co.id/berita/siiggk484/komisi-ii-dpr-putusan-mk-harus-dituangkan-ke-pkpu"
     },
     {
         "title": "Siap-Siap Nostalgia! Band Rock FireHouse Konser di Jakarta 18 Oktober",
         "category": "Ameera",
-        "publish_time": "20-08-2024 10:11",
+        "publish_time": "20-08-2024 09:22",
         "news_link": "https://ameera.republika.co.id/berita/siigdm425/siapsiap-nostalgia-band-rock-firehouse-konser-di-jakarta-18-oktober"
     },
     {
         "title": "Ciri Pemimpin yang Diberi Petunjuk Allah: Punya Menteri bukan 'ABS'",
         "category": "Khazanah",
-        "publish_time": "20-08-2024 09:11",
+        "publish_time": "20-08-2024 09:22",
         "news_link": "https://khazanah.republika.co.id/berita/siig9k458/ciri-pemimpin-yang-diberi-petunjuk-allah-punya-menteri-bukan-abs"
     },
     {
         "title": "Muhammadiyah Puji MK: Ini Putusan yang Berani",
         "category": "Khazanah",
-        "publish_time": "20-08-2024 09:11",
+        "publish_time": "20-08-2024 09:22",
         "news_link": "https://khazanah.republika.co.id/berita/siifpl458/muhammadiyah-puji-mk-ini-putusan-yang-berani"
-    },
-    {
-        "title": "Anies Berpeluang Maju, Ridwan Kamil tak Khawatir, Ungkap Kemenangan di Bandung dan Jabar",
-        "category": "News",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/siifmy377/anies-berpeluang-maju-ridwan-kamil-tak-khawatir-ungkap-kemenangan-di-bandung-dan-jabar"
-    },
-    {
-        "title": "Unand Sambut Mahasiswa Baru Pascasarjana, Program Studi Magister Manajemen Bencana Siap Berkontribusi",
-        "category": "Network",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://kampus.republika.co.id/news/1624997688/unand-sambut-mahasiswa-baru-pascasarjana-program-studi-magister-manajemen-bencana-siap-berkontribusi"
-    },
-    {
-        "title": "Kolaborasi dengan Perguruan Tinggi, Pos Indonesia Luncurkan PosAja UMKM Centre di UGM",
-        "category": "Rejogja",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://rejogja.republika.co.id/berita/siifkp291/kolaborasi-dengan-perguruan-tinggi-pos-indonesia-luncurkan-posaja-umkm-centre-di-ugm"
-    },
-    {
-        "title": "Workshop MUI Jakarta Ulas Kontroversi Alat Kontrasepsi Bagi Remaja",
-        "category": "Khazanah",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/siiel2483/workshop-mui-jakarta-ulas-kontroversi-alat-kontrasepsi-bagi-remaja"
-    },
-    {
-        "title": "Ngemil Gak Nyesel? Ini Camilan Sehat Menurut Ahli Gizi",
-        "category": "Ameera",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://ameera.republika.co.id/berita/siife4425/ngemil-gak-nyesel-ini-camilan-sehat-menurut-ahli-gizi"
-    },
-    {
-        "title": "Jokowi Minta Menteri Rosan Bawa Investasi Asing ke IKN",
-        "category": "News",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/siif9a484/jokowi-minta-menteri-rosan-bawa-investasi-asing-ke-ikn"
-    },
-    {
-        "title": "Sambut Baik Putusan MK, PDIP Jabar Pastikan Buka Komunikasi ke Partai Lain Soal Pilkada",
-        "category": "Rejabar",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://rejabar.republika.co.id/berita/siif63512/sambut-baik-putusan-mk-pdip-jabar-pastikan-buka-komunikasi-ke-partai-lain-soal-pilkada"
-    },
-    {
-        "title": "Pendaftaran CPNS 2024 Dimulai, Yuks Ikutan",
-        "category": "Network",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://matapantura.republika.co.id/posts/325934/pendaftaran-cpns-2024-dimulai-yuks-ikutan"
-    },
-    {
-        "title": "Respons Putusan MK, Apakah PKS akan Balik Dukung Anies? Ini Jawaban Syaikhu",
-        "category": "News",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/siierw377/respons-putusan-mk-apakah-pks-akan-balik-dukung-anies-ini-jawaban-syaikhu"
-    },
-    {
-        "title": "Polres Indramayu Siap Amankan Pilkada Serentak 2024",
-        "category": "Rejabar",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://rejabar.republika.co.id/berita/siieq8512/polres-indramayu-siap-amankan-pilkada-serentak-2024"
-    },
-    {
-        "title": "Rasulullah Mohon Ampun 100 Kali Tiap Hari kepada Allah",
-        "category": "Khazanah",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/siielv458/rasulullah-mohon-ampun-100-kali-tiap-hari-kepada-allah"
-    },
-    {
-        "title": "Putusan MK Berubah, Mantan Walkot Semarang Hendrar Prihadi Bisa Nyagub di DKI Bareng Anies",
-        "category": "Rejogja",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://rejogja.republika.co.id/berita/siiekx282/putusan-mk-berubah-mantan-walkot-semarang-hendrar-prihadi-bisa-nyagub-di-dki-bareng-anies"
-    },
-    {
-        "title": "Lagu Bernadya Ngehits di Kalangan Gen Z, Ini Cara Dia Ciptakan Lirik Menyentuh",
-        "category": "Ameera",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://ameera.republika.co.id/berita/siiecs425/lagu-bernadya-ngehits-di-kalangan-gen-z-ini-cara-dia-ciptakan-lirik-menyentuh"
-    },
-    {
-        "title": "3.000 Hektar Lahan Persawahan di Jambi Alami Kekeringan",
-        "category": "Visual",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://visual.republika.co.id/berita/siicyp375/3000-hektar-lahan-persawahan-di-jambi-alami-kekeringan"
-    },
-    {
-        "title": "Badan Gizi: Program Makan Bergizi Gratis Jangkau 82,9 Juta Penerima",
-        "category": "News",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/siie9w370/badan-gizi-program-makan-bergizi-gratis-jangkau-829-juta-penerima"
-    },
-    {
-        "title": "Pengamat: Putusan MK Nomor 60 Ubah Politik di Daerah",
-        "category": "News",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/siie6u484/pengamat-putusan-mk-nomor-60-ubah-politik-di-daerah"
-    },
-    {
-        "title": "Makna Tawakal kepada Allah SWT",
-        "category": "Khazanah",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/siie4e458/makna-tawakal-kepada-allah-swt"
-    },
-    {
-        "title": "Saka Tatal Tunggu Putusan PK dari Mahkamah Agung",
-        "category": "Rejabar",
-        "publish_time": "20-08-2024 09:11",
-        "news_link": "https://rejabar.republika.co.id/berita/siie1t512/saka-tatal-tunggu-putusan-pk-dari-mahkamah-agung"
     }
 ]
