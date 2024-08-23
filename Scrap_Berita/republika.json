@@ -1,140 +1,248 @@
 [
     {
+        "title": "Ketua KPU Pastikan Patuhi Putusan MK, Usia Minimal Calon Kepala Daerah Sejak Penetapan",
+        "category": "News",
+        "publish_time": "23-08-2024 10:11",
+        "news_link": "https://news.republika.co.id/berita/sio1nj409/ketua-kpu-pastikan-patuhi-putusan-mk-usia-minimal-calon-kepala-daerah-sejak-penetapan"
+    },
+    {
+        "title": "Bukan Kaesang, Gerindra Usung Taj Yasin Sebagai Cawagub Ahmad Luthfi",
+        "category": "News",
+        "publish_time": "23-08-2024 10:11",
+        "news_link": "https://news.republika.co.id/berita/sio1mz377/bukan-kaesang-gerindra-usung-taj-yasin-sebagai-cawagub-ahmad-luthfi"
+    },
+    {
+        "title": "Warga Yogyakarta Dianiaya Hingga Tewas, Pelaku Terinspirasi Kasus Vina Cirebon",
+        "category": "Rejabar",
+        "publish_time": "23-08-2024 10:07",
+        "news_link": "https://rejabar.republika.co.id/berita/sio1gc512/warga-yogyakarta-dianiaya-hingga-tewas-pelaku-terinspirasi-kasus-vina-cirebon"
+    },
+    {
+        "title": "Survei Fisip UNS, Popularitas Gusti Bhre dan Teguh Prakoso Teratas",
+        "category": "News",
+        "publish_time": "23-08-2024 10:06",
+        "news_link": "https://news.republika.co.id/berita/sio1ej484/survei-fisip-uns-popularitas-gusti-bhre-dan-teguh-prakoso-teratas"
+    },
+    {
+        "title": "Massa Buruh dan Mahasiswa Mulai Tiba di Seberang Gedung KPU",
+        "category": "News",
+        "publish_time": "23-08-2024 10:00",
+        "news_link": "https://news.republika.co.id/berita/sio15i409/massa-buruh-dan-mahasiswa-mulai-tiba-di-seberang-gedung-kpu"
+    },
+    {
+        "title": "Lelaki tak Dikenal Ini Beristighfar 30 Ribu Kali Sehari, Lihat Apa Keajaiban yang Terjadi",
+        "category": "Khazanah",
+        "publish_time": "23-08-2024 09:46",
+        "news_link": "https://khazanah.republika.co.id/berita/sio0hq483/lelaki-tak-dikenal-ini-beristighfar-30-ribu-kali-sehari-lihat-apa-keajaiban-yang-terjadi"
+    },
+    {
+        "title": "Awardee LPDP Adakan Social Project Edukasi Privasi dan Keamanan Digital untuk Anak SMA",
+        "category": "Rejogja",
+        "publish_time": "23-08-2024 09:42",
+        "news_link": "https://rejogja.republika.co.id/berita/sio0b9291/awardee-lpdp-adakan-social-project-edukasi-privasi-dan-keamanan-digital-untuk-anak-sma"
+    },
+    {
+        "title": "Produsen Energi Surya dan Angin Brasil Ancam Hentikan Investasi",
+        "category": "Esgnow",
+        "publish_time": "23-08-2024 09:35",
+        "news_link": "https://esgnow.republika.co.id/berita/sinzzr425/produsen-energi-surya-dan-angin-brasil-ancam-hentikan-investasi"
+    },
+    {
+        "title": "KPU Allows Election Campaigns on Campus",
+        "category": "En",
+        "publish_time": "43 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/sinypd415/kpu-allows-election-campaigns-on-campus"
+    },
+    {
+        "title": "Paus Bungkuk Terjerat Alat Pancing, Operasi Penyelamatan Makan Waktu Hampir 24 Jam",
+        "category": "Esgnow",
+        "publish_time": "23-08-2024 09:27",
+        "news_link": "https://esgnow.republika.co.id/berita/sinzl3425/paus-bungkuk-terjerat-alat-pancing-operasi-penyelamatan-makan-waktu-hampir-24-jam"
+    },
+    {
+        "title": "ARTJOG 2024 Suguhkan Pertunjukan 'Empat Puluh Malam dan Satunya Hujan'",
+        "category": "Rejogja",
+        "publish_time": "23-08-2024 09:23",
+        "news_link": "https://rejogja.republika.co.id/berita/sinzex291/artjog-2024-suguhkan-pertunjukan-empat-puluh-malam-dan-satunya-hujan"
+    },
+    {
+        "title": "Gudang Perabotan di Kebayoran Lama Terbakar, Kerugian Capai Rp 11 Miliar",
+        "category": "Rejakarta",
+        "publish_time": "23-08-2024 09:22",
+        "news_link": "https://republika.co.id/berita/sinze3282/gudang-perabotan-di-kebayoran-lama-terbakar-kerugian-capai-rp-11-miliar"
+    },
+    {
+        "title": "Petugas Pastikan Kebakaran Hutan Gunung Guntur Sudah Padam",
+        "category": "Rejabar",
+        "publish_time": "23-08-2024 09:22",
+        "news_link": "https://rejabar.republika.co.id/berita/sinzcy512/petugas-pastikan-kebakaran-hutan-gunung-guntur-sudah-padam"
+    },
+    {
+        "title": "Risiko Besar Menanti KPU Jika tak Patuhi Putusan MK, Ini Penjelasan Dosen UGM",
+        "category": "News",
+        "publish_time": "23-08-2024 09:21",
+        "news_link": "https://news.republika.co.id/berita/sinzb8377/risiko-besar-menanti-kpu-jika-tak-patuhi-putusan-mk-ini-penjelasan-dosen-ugm"
+    },
+    {
+        "title": "Kasus Batuk Rejan Masih Tinggi, Mayoritas Diderita Anak-Anak",
+        "category": "Ameera",
+        "publish_time": "23-08-2024 09:20",
+        "news_link": "https://ameera.republika.co.id/berita/sinz9u425/kasus-batuk-rejan-masih-tinggi-mayoritas-diderita-anakanak"
+    },
+    {
+        "title": "Gelanggang Expo 2024 Resmi Dibuka",
+        "category": "Rejogja",
+        "publish_time": "23-08-2024 09:15",
+        "news_link": "https://rejogja.republika.co.id/berita/sinz1g291/gelanggang-expo-2024-resmi-dibuka"
+    },
+    {
+        "title": "Empat Ton Ikan Impor Ilegal Dibagikan ke Warga Batam",
+        "category": "Ekonomi",
+        "publish_time": "23-08-2024 09:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/sinz0c370/empat-ton-ikan-impor-ilegal-dibagikan-ke-warga-batam"
+    },
+    {
         "title": "Harga Tiket Konser The Script di Jakarta dan Surabaya",
         "category": "Ameera",
-        "publish_time": "23-08-2024 09:11",
+        "publish_time": "23-08-2024 09:12",
         "news_link": "https://ameera.republika.co.id/berita/sinyvg425/harga-tiket-konser-the-script-di-jakarta-dan-surabaya"
     },
     {
         "title": "Harvest Moon Home Sweet Home Memberikan Rasa Nostalgia, Berikut 7 Fakta Menariknya!",
         "category": "Network",
-        "publish_time": "23-08-2024 09:11",
+        "publish_time": "23-08-2024 09:12",
         "news_link": "https://foreveresports.id/posts/326579/harvest-moon-home-sweet-home-memberikan-rasa-nostalgia-berikut-7-fakta-menariknya"
+    },
+    {
+        "title": "Dian Sastrowardoyo Dipasangkan dengan Ringgo Agus Rahman dalam Film Mothernet",
+        "category": "Network",
+        "publish_time": "23-08-2024 09:12",
+        "news_link": "https://filmusiku.com/posts/326588/dian-sastrowardoyo-dipasangkan-dengan-ringgo-agus-rahman-dalam-film-mothernet"
     },
     {
         "title": "Libatkan Akademisi dalam Kebijakan Kota Bandung, Balon Wali Kota akan Carikan Dana Riset",
         "category": "Rejabar",
-        "publish_time": "23-08-2024 09:07",
+        "publish_time": "23-08-2024 09:12",
         "news_link": "https://rejabar.republika.co.id/berita/sinyo0512/libatkan-akademisi-dalam-kebijakan-kota-bandung-balon-wali-kota-akan-carikan-dana-riset"
     },
     {
         "title": "MTQN 2024 in Kaltim Attended 1,998 Participants",
         "category": "En",
-        "publish_time": "6 minutes ago",
+        "publish_time": "1 hours ago",
         "news_link": "https://en.republika.co.id/berita/sinymd415/mtqn-2024-in-kaltim-attended-1998-participants"
     },
     {
         "title": "Isi Surat Penguasa Muslim untuk Uskup Gereja Ortodoks Rusia Ini Diakui Sejarawan Barat",
         "category": "Khazanah",
-        "publish_time": "23-08-2024 09:06",
+        "publish_time": "23-08-2024 09:12",
         "news_link": "https://khazanah.republika.co.id/berita/sinylb320/isi-surat-penguasa-muslim-untuk-uskup-gereja-ortodoks-rusia-ini-diakui-sejarawan-barat"
     },
     {
         "title": "Bang Emil, Sapaan Baru Ridwan Kamil, Siap Melawan Tiga atau Berapa Pun Paslon di Jakarta",
         "category": "News",
-        "publish_time": "23-08-2024 09:05",
+        "publish_time": "23-08-2024 09:12",
         "news_link": "https://news.republika.co.id/berita/sinyk0377/bang-emil-sapaan-baru-ridwan-kamil-siap-melawan-tiga-atau-berapa-pun-paslon-di-jakarta"
     },
     {
         "title": "Kongres ke-6 PAN, Zulhas akan Kembali Jadi Ketum Secara Aklamasi",
         "category": "News",
-        "publish_time": "23-08-2024 09:01",
+        "publish_time": "23-08-2024 09:12",
         "news_link": "https://news.republika.co.id/berita/sinyeg487/kongres-ke6-pan-zulhas-akan-kembali-jadi-ketum-secara-aklamasi"
     },
     {
         "title": "FK Undip Kunjungi Rumah Almarhumah Dokter ARL, Berikan Dukungan Moril",
         "category": "News",
-        "publish_time": "23-08-2024 08:58",
+        "publish_time": "23-08-2024 09:12",
         "news_link": "https://news.republika.co.id/berita/siny8o425/fk-undip-kunjungi-rumah-almarhumah-dokter-arl-berikan-dukungan-moril"
     },
     {
         "title": "Perbuatan Syirik: Mengganti Nama Anak karena 'Sering Sakit'",
         "category": "Khazanah",
-        "publish_time": "23-08-2024 08:56",
+        "publish_time": "23-08-2024 09:12",
         "news_link": "https://khazanah.republika.co.id/berita/siny5t458/perbuatan-syirik-mengganti-nama-anak-karena-sering-sakit"
     },
     {
         "title": "Pesantren Legandaris di Sidoarjo, Tempat Mondok KH Hasyim Asy'ari",
         "category": "Khazanah",
-        "publish_time": "23-08-2024 08:54",
+        "publish_time": "23-08-2024 09:12",
         "news_link": "https://khazanah.republika.co.id/berita/sinsoh430/pesantren-legandaris-di-sidoarjo-tempat-mondok-kh-hasyim-asyari"
     },
     {
         "title": "Sekjen Gerindra: Pendamping Ahmad Lutfhi Insya Allah Santri",
         "category": "News",
-        "publish_time": "23-08-2024 08:48",
+        "publish_time": "23-08-2024 09:12",
         "news_link": "https://news.republika.co.id/berita/sinxsh484/sekjen-gerindra-pendamping-ahmad-lutfhi-insya-allah-santri"
     },
     {
         "title": "Antipasi Mpox, Dinkes Mataram Imbau Warga Jaga Kebersihan",
         "category": "News",
-        "publish_time": "23-08-2024 08:47",
+        "publish_time": "23-08-2024 09:12",
         "news_link": "https://news.republika.co.id/berita/sinxq9425/antipasi-mpox-dinkes-mataram-imbau-warga-jaga-kebersihan"
     },
     {
         "title": "Evaluasi Imtihan Wathani Pendidikan Diniyah Formal: Perkuat Transformasi Digital",
         "category": "Rejakarta",
-        "publish_time": "23-08-2024 08:47",
+        "publish_time": "23-08-2024 09:12",
         "news_link": "https://republika.co.id/berita/sinxq7456/evaluasi-imtihan-wathani-pendidikan-diniyah-formal-perkuat-transformasi-digital"
     },
     {
         "title": "KPU Pusat Segera Terbitkan Edaran ke KPU Daerah Agar Pedomani Putusan MK",
         "category": "News",
-        "publish_time": "23-08-2024 08:42",
+        "publish_time": "23-08-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/sinxi5487/kpu-pusat-segera-terbitkan-edaran-ke-kpu-daerah-agar-pedomani-putusan-mk"
     },
     {
         "title": "Bawaslu akan Awasi KPU untuk Laksanakan Putusan MK",
         "category": "News",
-        "publish_time": "23-08-2024 08:42",
+        "publish_time": "23-08-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/sinxh8377/bawaslu-akan-awasi-kpu-untuk-laksanakan-putusan-mk"
     },
     {
         "title": "Warga Yogyakarta Tewas Dibunuh oleh 15 Pelaku yang Mengaku Terinspirasi Kasus Vina",
         "category": "News",
-        "publish_time": "23-08-2024 08:39",
+        "publish_time": "23-08-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/sinxcx409/warga-yogyakarta-tewas-dibunuh-oleh-15-pelaku-yang-mengaku-terinspirasi-kasus-vina"
     },
     {
         "title": "Alami Ketindihan Saat Tidur, Amankah Jika Orang Tersebut Dibangunkan?",
         "category": "Ameera",
-        "publish_time": "23-08-2024 08:36",
+        "publish_time": "23-08-2024 08:12",
         "news_link": "https://ameera.republika.co.id/berita/sinx7z425/alami-ketindihan-saat-tidur-amankah-jika-orang-tersebut-dibangunkan"
     },
     {
         "title": "GP Ansor Gelar Apel Saat Muktamar PKB, Para Penglingsir Bali Ingatkan Jaga Kondusifitas",
         "category": "News",
-        "publish_time": "23-08-2024 08:35",
+        "publish_time": "23-08-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/sinx6y487/gp-ansor-gelar-apel-saat-muktamar-pkb-para-penglingsir-bali-ingatkan-jaga-kondusifitas"
     },
     {
         "title": "Siapkan Pemimpin Unggul, Universitas Nusa Mandiri Buka Program Doktoral S3",
         "category": "News",
-        "publish_time": "23-08-2024 08:33",
+        "publish_time": "23-08-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/sinx2a490/siapkan-pemimpin-unggul-universitas-nusa-mandiri-buka-program-doktoral-s3"
     },
     {
         "title": "Waspadai Cacar Monyet, Warga Cirebon Diminta Terapkan PHBS",
         "category": "Rejabar",
-        "publish_time": "23-08-2024 08:31",
+        "publish_time": "23-08-2024 08:12",
         "news_link": "https://rejabar.republika.co.id/berita/sinwz7512/waspadai-cacar-monyet-warga-cirebon-diminta-terapkan-phbs"
     },
     {
         "title": "Lulusan Program Doktoral UNM Siap Jadi Profil yang Unggul dan Inovatif",
         "category": "News",
-        "publish_time": "23-08-2024 08:22",
+        "publish_time": "23-08-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/sinwl4490/lulusan-program-doktoral-unm-siap-jadi-profil-yang-unggul-dan-inovatif"
     },
     {
         "title": "Bau Ketiak Bikin Minder? Yuk Kenali Penyebab dan Cara Mengatasinya",
         "category": "Ameera",
-        "publish_time": "23-08-2024 08:18",
+        "publish_time": "23-08-2024 08:12",
         "news_link": "https://ameera.republika.co.id/berita/sinweq425/bau-ketiak-bikin-minder-yuk-kenali-penyebab-dan-cara-mengatasinya"
     },
     {
         "title": "Nasihat Imam Al Ghazali Untuk Muslim yang Mencari Rezeki",
         "category": "Iqra",
-        "publish_time": "23-08-2024 08:18",
+        "publish_time": "23-08-2024 08:12",
         "news_link": "https://iqra.republika.co.id/berita/sinlhp430/nasihat-imam-al-ghazali-untuk-muslim-yang-mencari-rezeki"
     },
     {
@@ -190,113 +298,5 @@
         "category": "News",
         "publish_time": "23-08-2024 08:12",
         "news_link": "https://news.republika.co.id/berita/sinv7l409/demo-masih-berlanjut-hari-ini-massa-mulai-berdatangan-ke-depan-gedung-kpu"
-    },
-    {
-        "title": "Ramai Soal Pilkada, Perkenalkan Gubernur Miskin Ini yang tak Pernah Mengumpulkan Harta",
-        "category": "Khazanah",
-        "publish_time": "23-08-2024 08:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sinusg483/ramai-soal-pilkada-perkenalkan-gubernur-miskin-ini-yang-tak-pernah-mengumpulkan-harta"
-    },
-    {
-        "title": "Studi Banding MABES AU ke Cyber University: Bentuk Kerja Sama Pengembangan Kurikulum",
-        "category": "News",
-        "publish_time": "23-08-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/sinuqv490/studi-banding-mabes-au-ke-cyber-university-bentuk-kerja-sama-pengembangan-kurikulum"
-    },
-    {
-        "title": "Idol K-Pop Jae Park Ikut Bagikan Unggahan Peringatan Darurat, Jelaskan Ini ke Penggemarnya",
-        "category": "Ameera",
-        "publish_time": "23-08-2024 07:12",
-        "news_link": "https://ameera.republika.co.id/berita/sinu7j425/idol-kpop-jae-park-ikut-bagikan-unggahan-peringatan-darurat-jelaskan-ini-ke-penggemarnya"
-    },
-    {
-        "title": "KPU Sahkan 106 Anggota DPRD DKI, PKS Unggul Raih 18 Kursi",
-        "category": "News",
-        "publish_time": "23-08-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/sinu44484/kpu-sahkan-106-anggota-dprd-dki-pks-unggul-raih-18-kursi"
-    },
-    {
-        "title": "Muslim Afrika Ini Jadi Orang Terkaya Sepanjang Sejarah Kalahkan Elon Musk dan Bill Gates",
-        "category": "Khazanah",
-        "publish_time": "23-08-2024 07:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sintyf483/muslim-afrika-ini-jadi-orang-terkaya-sepanjang-sejarah-kalahkan-elon-musk-dan-bill-gates"
-    },
-    {
-        "title": "KPU Enggan Langsung Buat PKPU Tindak Lanjuti Putusan MK, Kaesang Jadi Masih Punya Peluang",
-        "category": "News",
-        "publish_time": "23-08-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/sintrx409/kpu-enggan-langsung-buat-pkpu-tindak-lanjuti-putusan-mk-kaesang-jadi-masih-punya-peluang"
-    },
-    {
-        "title": "KPU Jakarta Tetapkan 106 Anggota DPRD, Kursi Demokrat Tambah Satu",
-        "category": "News",
-        "publish_time": "23-08-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/sintia484/kpu-jakarta-tetapkan-106-anggota-dprd-kursi-demokrat-tambah-satu"
-    },
-    {
-        "title": "Ineu Purwadewi Sundari Berharap Kebijakan Selaras dengan Aspirasi Masyarakat",
-        "category": "Rejabar",
-        "publish_time": "23-08-2024 07:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sinth8490/ineu-purwadewi-sundari-berharap-kebijakan-selaras-dengan-aspirasi-masyarakat"
-    },
-    {
-        "title": "Bea Cukai Soekarno-Hatta Tindak Upaya Penyelundupan Narkotika dari Tiga Negara",
-        "category": "Beacukai",
-        "publish_time": "23-08-2024 07:12",
-        "news_link": "https://republika.co.id/berita/sint5t490/bea-cukai-soekarno-hatta-tindak-upaya-penyelundupan-narkotika-dari-tiga-negara"
-    },
-    {
-        "title": "Kekuatan Gus Adung untuk Meraih Kursi Ketum PKB",
-        "category": "News",
-        "publish_time": "23-08-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/sine8l451/kekuatan-gus-adung-untuk-meraih-kursi-ketum-pkb"
-    },
-    {
-        "title": "Bea Cukai Batam Gagalkan Upaya Penyelundupan 795.500 Ekor Benih Lobster",
-        "category": "Beacukai",
-        "publish_time": "23-08-2024 07:12",
-        "news_link": "https://republika.co.id/berita/sinss6490/bea-cukai-batam-gagalkan-upaya-penyelundupan-795-500-ekor-benih-lobster"
-    },
-    {
-        "title": "Pertamina dan NEXI Tingkatkan Kesepakatan untuk Mendukung Asuransi Perdagangan",
-        "category": "Ekonomi",
-        "publish_time": "23-08-2024 07:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sinsjj490/pertamina-dan-nexi-tingkatkan-kesepakatan-untuk-mendukung-asuransi-perdagangan"
-    },
-    {
-        "title": "Beli Tiket BRI Liga 1, Tanpa Ribet Pakai Aplikasi Mobile Banking BRImo",
-        "category": "Ekonomi",
-        "publish_time": "23-08-2024 06:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sinrvz490/beli-tiket-bri-liga-1-tanpa-ribet-pakai-aplikasi-mobile-banking-brimo"
-    },
-    {
-        "title": "Kapolda Papua Mathius D Fakhri Dapat Kenaikan Pangkat Jadi Komjen",
-        "category": "News",
-        "publish_time": "23-08-2024 06:12",
-        "news_link": "https://news.republika.co.id/berita/sinrrz484/kapolda-papua-mathius-d-fakhri-dapat-kenaikan-pangkat-jadi-komjen"
-    },
-    {
-        "title": "Presiden akan Keluarkan Perppu Pilkada? Menkumham Membantah, Terlalu Didramatisasi",
-        "category": "News",
-        "publish_time": "23-08-2024 06:12",
-        "news_link": "https://news.republika.co.id/berita/sinrrq377/presiden-akan-keluarkan-perppu-pilkada-menkumham-membantah-terlalu-didramatisasi"
-    },
-    {
-        "title": "KPU Pastikan Putusan MK Jadi Pedoman Pilkada 2024",
-        "category": "Video",
-        "publish_time": "23-08-2024 06:12",
-        "news_link": "https://tv.republika.co.id/berita/sinrkc418/kpu-pastikan-putusan-mk-jadi-pedoman-pilkada-2024"
-    },
-    {
-        "title": "Banser dan Pencak Silat NU Apel Saat Muktamar PKB, Gus Yahya: Inisiatif Mereka",
-        "category": "News",
-        "publish_time": "23-08-2024 06:12",
-        "news_link": "https://news.republika.co.id/berita/sine2s451/banser-dan-pencak-silat-nu-apel-saat-muktamar-pkb-gus-yahya-inisiatif-mereka"
-    },
-    {
-        "title": "Aksi Unjuk Rasa Kembali Digelar Berdekatan Event WJF, Pj Gubernur Bey: Jangan Anarkis",
-        "category": "Rejabar",
-        "publish_time": "23-08-2024 06:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sinqp6512/aksi-unjuk-rasa-kembali-digelar-berdekatan-event-wjf-pj-gubernur-bey-jangan-anarkis"
     }
 ]
