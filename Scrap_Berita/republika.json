@@ -1,20 +1,116 @@
 [
     {
+        "title": "Kematiannya Ditangisi",
+        "category": "Khazanah",
+        "publish_time": "27-08-2024 23:09",
+        "news_link": "https://www.republika.id/posts/54473/kematiannya-ditangisi"
+    },
+    {
+        "title": "Stagnansi Produksi Hingga Penurunan Ekspor, Tantangan Industri Sawit Saat Ini",
+        "category": "Ekonomi",
+        "publish_time": "27-08-2024 23:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/siwg4n423/stagnansi-produksi-hingga-penurunan-ekspor-tantangan-industri-sawit-saat-ini"
+    },
+    {
+        "title": "Syarah Hadits: Siapa yang Mendapat Kedudukan Terhormat di Hari Kiamat?",
+        "category": "Iqra",
+        "publish_time": "27-08-2024 23:03",
+        "news_link": "https://iqra.republika.co.id/berita/siwg1c430/syarah-hadits-siapa-yang-mendapat-kedudukan-terhormat-di-hari-kiamat"
+    },
+    {
+        "title": "Legitimasi Islam",
+        "category": "Kolom",
+        "publish_time": "27-08-2024 22:59",
+        "news_link": "https://www.republika.id/posts/54468/legitimasi-islam"
+    },
+    {
+        "title": "Gol Dani Olmo Pastikan Barcelona Menang di Kandang Rayo Vallecano",
+        "category": "News",
+        "publish_time": "27-08-2024 22:57",
+        "news_link": "https://news.republika.co.id/berita/siwfra348/gol-dani-olmo-pastikan-barcelona-menang-di-kandang-rayo-vallecano"
+    },
+    {
+        "title": "Breaking News! Ahmad Riza Patria Mundur dari Pilwalkot Tangsel",
+        "category": "News",
+        "publish_time": "27-08-2024 22:54",
+        "news_link": "https://news.republika.co.id/berita/siwfn9484/breaking-news-ahmad-riza-patria-mundur-dari-pilwalkot-tangsel"
+    },
+    {
+        "title": "Dibandingkan Serangan Sebelumnya, Hamas: ini Serangan Israel Paling Brutal",
+        "category": "Khazanah",
+        "publish_time": "27-08-2024 22:50",
+        "news_link": "https://khazanah.republika.co.id/berita/siwdh5451/dibandingkan-serangan-sebelumnya-hamas-ini-serangan-israel-paling-brutal"
+    },
+    {
+        "title": "Timnas U-17 akan Asah Kemampuan Bongkar Pertahanan Rapat Jelang Kualifikasi Piala Asia",
+        "category": "News",
+        "publish_time": "27-08-2024 22:48",
+        "news_link": "https://news.republika.co.id/berita/siwfd1348/timnas-u17-akan-asah-kemampuan-bongkar-pertahanan-rapat-jelang-kualifikasi-piala-asia"
+    },
+    {
+        "title": "Syarah Hadits: Siapa Orang Kaya Sesungguhnya?",
+        "category": "Iqra",
+        "publish_time": "27-08-2024 22:35",
+        "news_link": "https://iqra.republika.co.id/berita/siwer4430/syarah-hadits-siapa-orang-kaya-sesungguhnya"
+    },
+    {
+        "title": "Israel Tahan 500 Jenazah Tahanan Palestina",
+        "category": "News",
+        "publish_time": "27-08-2024 22:34",
+        "news_link": "https://www.republika.id/posts/54465/israel-tahan-500-jenazah-tahanan-palestina"
+    },
+    {
+        "title": "Mimpi Raja Samudera Pasai Sebelum Masuk Islam: Diajari Syahadat Oleh Nabi Muhammad SAW",
+        "category": "Khazanah",
+        "publish_time": "27-08-2024 22:29",
+        "news_link": "https://khazanah.republika.co.id/berita/siv8g6430/mimpi-raja-samudera-pasai-sebelum-masuk-islam-diajari-syahadat-oleh-nabi-muhammad-saw"
+    },
+    {
+        "title": "Jay Idzes is proud to be the first Indonesian player to play in Serie A, ready to join the national team",
+        "category": "En",
+        "publish_time": "43 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/siweh6415/jay-idzes-is-proud-to-be-the-first-indonesian-player-to-play-in-serie-a-ready-to-join-the-national-team"
+    },
+    {
+        "title": "3 Materi Uji Kompetensi Imam Masjid, Begini Penjelasannya",
+        "category": "Khazanah",
+        "publish_time": "27-08-2024 22:26",
+        "news_link": "https://khazanah.republika.co.id/berita/siwed3451/3-materi-uji-kompetensi-imam-masjid-begini-penjelasannya"
+    },
+    {
+        "title": "PKS Jelaskan Dewan Pakar yang Mundur 19 Bukan 28 Orang",
+        "category": "News",
+        "publish_time": "27-08-2024 22:25",
+        "news_link": "https://news.republika.co.id/berita/siweaw484/pks-jelaskan-dewan-pakar-yang-mundur-19-bukan-28-orang"
+    },
+    {
+        "title": "Pemerintah Israel Akan Danai Penyerbuan Masjid al-Aqsa",
+        "category": "News",
+        "publish_time": "27-08-2024 22:25",
+        "news_link": "https://www.republika.id/posts/54466/pemerintah-israel-akan-danai-penyerbuan-masjid-al-aqsa"
+    },
+    {
+        "title": "Menelusuri DNA Kerangka Manusia Majapahit, Cara 'Mendengarkan' Si Mati",
+        "category": "News",
+        "publish_time": "27-08-2024 22:24",
+        "news_link": "https://news.republika.co.id/berita/sivox0487/menelusuri-dna-kerangka-manusia-majapahit-cara-mendengarkan-si-mati"
+    },
+    {
         "title": "Syafiq Syauqi Pimpin Satkornas Banser Gantikan Hasan Basri Sagala yang Dipecat Gus Yaqut",
         "category": "News",
-        "publish_time": "27-08-2024 22:05",
+        "publish_time": "27-08-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/sivmth487/syafiq-syauqi-pimpin-satkornas-banser-gantikan-hasan-basri-sagala-yang-dipecat-gus-yaqut"
     },
     {
         "title": "Terkait Keuangan Haji, Kemenag Jelaskan Hal itu Dilakukan Secara Kolektif",
         "category": "Khazanah",
-        "publish_time": "27-08-2024 22:02",
+        "publish_time": "27-08-2024 22:12",
         "news_link": "https://khazanah.republika.co.id/berita/siwd7r451/terkait-keuangan-haji-kemenag-jelaskan-hal-itu-dilakukan-secara-kolektif"
     },
     {
         "title": "Majukan Pramono-Rano, Pengamat: PDIP Pilih Mengalah daripada Melawan",
         "category": "News",
-        "publish_time": "27-08-2024 21:58",
+        "publish_time": "27-08-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/siwd2b484/majukan-pramonorano-pengamat-pdip-pilih-mengalah-daripada-melawan"
     },
     {
@@ -202,101 +298,5 @@
         "category": "Network",
         "publish_time": "27-08-2024 14:12",
         "news_link": "https://sumatralink.id/posts/327272/pilgub-lampung-terancam-kotak-kosong-hanya-pdip-belum-usung-calon"
-    },
-    {
-        "title": "Gelora Resmi Dukung Pasangan Rido di Pilkada Jakarta",
-        "category": "Video",
-        "publish_time": "27-08-2024 14:12",
-        "news_link": "https://tv.republika.co.id/berita/sivsg8418/gelora-resmi-dukung-pasangan-rido-di-pilkada-jakarta"
-    },
-    {
-        "title": "Para Bulu Tangkis Berpotensi Raih Lima Medali di Paralimpiade Paris",
-        "category": "News",
-        "publish_time": "27-08-2024 14:12",
-        "news_link": "https://news.republika.co.id/berita/sivscf348/para-bulu-tangkis-berpotensi-raih-lima-medali-di-paralimpiade-paris"
-    },
-    {
-        "title": "Rano Karno Unggah Foto Terbaru Bareng Pramono Anung, Sebut Doa Babeh Sabeni",
-        "category": "News",
-        "publish_time": "27-08-2024 14:12",
-        "news_link": "https://news.republika.co.id/berita/sivs6e409/rano-karno-unggah-foto-terbaru-bareng-pramono-anung-sebut-doa-babeh-sabeni"
-    },
-    {
-        "title": "Dedi Mulyadi-Erwan Setiawan Jadi Paslon yang Pertama Daftar di Pilgub Jabar",
-        "category": "Rejabar",
-        "publish_time": "27-08-2024 14:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sivrvy512/dedi-mulyadierwan-setiawan-jadi-paslon-yang-pertama-daftar-di-pilgub-jabar"
-    },
-    {
-        "title": "Revans, India U-17 Kalahkan Timnas U-17 dengan Skor 1-0",
-        "category": "News",
-        "publish_time": "27-08-2024 14:12",
-        "news_link": "https://news.republika.co.id/berita/sivrjd348/revans-india-u17-kalahkan-timnas-u17-dengan-skor-10"
-    },
-    {
-        "title": "Kuasa Hukum Vina Minta Kapolri Segera Umumkan Hasil Penyelidikan TPF",
-        "category": "Rejabar",
-        "publish_time": "27-08-2024 14:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sivrdi512/kuasa-hukum-vina-minta-kapolri-segera-umumkan-hasil-penyelidikan-tpf"
-    },
-    {
-        "title": "Hari Ini Tepat Delapan Tahun Kasus Vina, Keluarga Merasa Diombang-Ambing",
-        "category": "Rejabar",
-        "publish_time": "27-08-2024 14:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sivqxq512/hari-ini-tepat-delapan-tahun-kasus-vina-keluarga-merasa-diombangambing"
-    },
-    {
-        "title": "NeutraDC Jalin Sejumlah Kerja Sama Strategis",
-        "category": "Video",
-        "publish_time": "27-08-2024 14:12",
-        "news_link": "https://tv.republika.co.id/berita/sivqq8467/neutradc-jalin-sejumlah-kerja-sama-strategis"
-    },
-    {
-        "title": "3 Masalah Besar Hasil Ijtima MUI yang Harus Disosialisasikan",
-        "category": "Khazanah",
-        "publish_time": "27-08-2024 14:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sivfjx451/3-masalah-besar-hasil-ijtima-mui-yang-harus-disosialisasikan"
-    },
-    {
-        "title": "Alumni Fakultas Dakwah Unisba Raih Gelar Best Delegate di Kegiatan Internasional",
-        "category": "Rejabar",
-        "publish_time": "27-08-2024 14:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sivqgb512/alumni-fakultas-dakwah-unisba-raih-gelar-best-delegate-di-kegiatan-internasional"
-    },
-    {
-        "title": "Bakesbangpol Kota Depok Gandeng PWI dan IJTI Gelar FGD Sukseskan Pilkada 2024",
-        "category": "Network",
-        "publish_time": "27-08-2024 14:12",
-        "news_link": "https://sajada.id/posts/327206/bakesbangpol-kota-depok-gandeng-pwi-dan-ijti-gelar-fgd-sukseskan-pilkada-2024"
-    },
-    {
-        "title": "Bacalon Wali Kota Sukabumi Jalani Pemeriksaan Kesehatan Besok",
-        "category": "Network",
-        "publish_time": "27-08-2024 14:12",
-        "news_link": "https://sukabumikini.com/posts/327269/bacalon-wali-kota-sukabumi-jalani-pemeriksaan-kesehatan-besok"
-    },
-    {
-        "title": "Implikasi Keputusan Menteri KKP No. 52 Tahun 2024 Terhadap Sektor  Logistik Laut Indonesia",
-        "category": "Network",
-        "publish_time": "27-08-2024 13:12",
-        "news_link": "https://shippingcargo.co.id/posts/327256/implikasi-keputusan-menteri-kkp-no-52-tahun-2024-terhadap-sektor-logistik-laut-indonesia"
-    },
-    {
-        "title": "Babak I: Timnas U-17 Masih Imbang 0-0 Lawan India U-17",
-        "category": "News",
-        "publish_time": "27-08-2024 13:12",
-        "news_link": "https://news.republika.co.id/berita/sivpv0348/babak-i-timnas-u17-masih-imbang-00-lawan-india-u17"
-    },
-    {
-        "title": "Gelandang Uruguay Manuel Ugarte ke Manchester United",
-        "category": "News",
-        "publish_time": "27-08-2024 13:12",
-        "news_link": "https://news.republika.co.id/berita/sivpiw348/gelandang-uruguay-manuel-ugarte-ke-manchester-united"
-    },
-    {
-        "title": "RS Siloam ASRI Ungkap Terobosan Medis di Urology-Nephrology Summit Ke-4",
-        "category": "Ameera",
-        "publish_time": "27-08-2024 13:12",
-        "news_link": "https://ameera.republika.co.id/berita/sivpiv349/rs-siloam-asri-ungkap-terobosan-medis-di-urologynephrology-summit-ke4"
     }
 ]
