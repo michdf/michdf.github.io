@@ -1,146 +1,284 @@
 [
     {
+        "title": "Perkuat Sinergisitas Antarinstansi, Bea Cukai Lakukan Kunjungan Kerja ke Dua Instansi Ini",
+        "category": "Beacukai",
+        "publish_time": "29-08-2024 08:10",
+        "news_link": "https://republika.co.id/berita/siz034490/perkuat-sinergisitas-antarinstansi-bea-cukai-lakukan-kunjungan-kerja-ke-dua-instansi-ini"
+    },
+    {
+        "title": "Usai Antar Ridwan Kamil Ke KPU Jakarta, Tim RJP: Kami Dukung",
+        "category": "Rejakarta",
+        "publish_time": "29-08-2024 08:08",
+        "news_link": "https://republika.co.id/berita/siyzyx456/usai-antar-ridwan-kamil-ke-kpu-jakarta-tim-rjp-kami-dukung"
+    },
+    {
+        "title": "Sertifikasi Halal Perkuat Ekosistem Ekonomi Syariah",
+        "category": "Khazanah",
+        "publish_time": "29-08-2024 08:06",
+        "news_link": "https://khazanah.republika.co.id/berita/siym43451/sertifikasi-halal-perkuat-ekosistem-ekonomi-syariah"
+    },
+    {
+        "title": "PDIP Siap Beri Kejutan untuk Pilgub Jabar 2024",
+        "category": "News",
+        "publish_time": "29-08-2024 08:06",
+        "news_link": "https://news.republika.co.id/berita/siyzvc484/pdip-siap-beri-kejutan-untuk-pilgub-jabar-2024"
+    },
+    {
+        "title": "Erick Thohir Proud of Indonesia U-20 Defeat of Argentia U-20",
+        "category": "En",
+        "publish_time": "15 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/siyzmd415/erick-thohir-proud-of-indonesia-u20-defeat-of-argentia-u20"
+    },
+    {
+        "title": "Pemprov Kalteng Berharap Dapat Penuhi Cetak Sawah 1 Juta Hektare",
+        "category": "News",
+        "publish_time": "29-08-2024 07:54",
+        "news_link": "https://news.republika.co.id/berita/siyzba490/pemprov-kalteng-berharap-dapat-penuhi-cetak-sawah-1-juta-hektare"
+    },
+    {
+        "title": "PDIP Ungkap Potensi Kejutan di Pilgub Jabar 2024, Anies Diusung?",
+        "category": "News",
+        "publish_time": "29-08-2024 07:52",
+        "news_link": "https://news.republika.co.id/berita/siyz8y487/pdip-ungkap-potensi-kejutan-di-pilgub-jabar-2024-anies-diusung"
+    },
+    {
+        "title": "Apakah Orang Meninggal Merasakan Berlalunya Waktu Sama dengan yang Masih Hidup?",
+        "category": "Khazanah",
+        "publish_time": "29-08-2024 07:46",
+        "news_link": "https://khazanah.republika.co.id/berita/siyyyr320/apakah-orang-meninggal-merasakan-berlalunya-waktu-sama-dengan-yang-masih-hidup"
+    },
+    {
+        "title": "Bank bjb Beri Diskon Provisi 79 Persen Melalui Program bjb SEMARAK",
+        "category": "Ekonomi",
+        "publish_time": "29-08-2024 07:43",
+        "news_link": "https://ekonomi.republika.co.id/berita/siyysm490/bank-bjb-beri-diskon-provisi-79-persen-melalui-program-bjb-semarak"
+    },
+    {
+        "title": "Kabar PDIP Usung Anies Maju Pilgub Jabar 2024, Begini Kata Puan",
+        "category": "News",
+        "publish_time": "29-08-2024 07:42",
+        "news_link": "https://news.republika.co.id/berita/siyys8484/kabar-pdip-usung-anies-maju-pilgub-jabar-2024-begini-kata-puan"
+    },
+    {
+        "title": "Kemenkes Akui Banyak Pihak Takut Beri Kesaksian dalam Kasus Kematian Dokter PPDS Undip",
+        "category": "News",
+        "publish_time": "29-08-2024 07:40",
+        "news_link": "https://news.republika.co.id/berita/siyyow377/kemenkes-akui-banyak-pihak-takut-beri-kesaksian-dalam-kasus-kematian-dokter-ppds-undip"
+    },
+    {
+        "title": "Tekan Emisi, PLN Manfaatkan Green Ammonia untuk PLTU",
+        "category": "Esgnow",
+        "publish_time": "29-08-2024 07:39",
+        "news_link": "https://esgnow.republika.co.id/berita/siyyly416/tekan-emisi-pln-manfaatkan-green-ammonia-untuk-pltu"
+    },
+    {
+        "title": "Aksi Demo Ojek Online tak Berpengaruh? Manajemen Gojek Sebut Layanan Berjalan Normal",
+        "category": "Ekonomi",
+        "publish_time": "29-08-2024 07:32",
+        "news_link": "https://ekonomi.republika.co.id/berita/siyyb3490/aksi-demo-ojek-online-tak-berpengaruh-manajemen-gojek-sebut-layanan-berjalan-normal"
+    },
+    {
+        "title": "Gusti Bhre Ikut Dampingi Respati-Astrid Daftar di KPU Solo",
+        "category": "News",
+        "publish_time": "29-08-2024 07:30",
+        "news_link": "https://news.republika.co.id/berita/siyy6x484/gusti-bhre-ikut-dampingi-respatiastrid-daftar-di-kpu-solo"
+    },
+    {
+        "title": "Hubungan Seks Sesama Jenis Tingkatkan Risiko Penularan Mpox",
+        "category": "Ameera",
+        "publish_time": "29-08-2024 07:29",
+        "news_link": "https://ameera.republika.co.id/berita/siyy68425/hubungan-seks-sesama-jenis-tingkatkan-risiko-penularan-mpox"
+    },
+    {
+        "title": "Foto Sepekan Pascabentrok di Gedung DPRD Jabar",
+        "category": "Network",
+        "publish_time": "29-08-2024 07:25",
+        "news_link": "https://kangjepret.republika.co.id/posts/327535/foto-sepekan-pascabentrok-di-gedung-dprd-jabar"
+    },
+    {
+        "title": "Zakat: Solusi Islam untuk Meningkatkan Ekonomi Daerah",
+        "category": "Retizen",
+        "publish_time": "29-08-2024 07:24",
+        "news_link": "https://retizen.republika.co.id/posts/327609/zakat-solusi-islam-untuk-meningkatkan-ekonomi-daerah"
+    },
+    {
+        "title": "Indonesia Tumbangkan Argentina 2-1 di Seoul Earth On Us Cup!",
+        "category": "Retizen",
+        "publish_time": "29-08-2024 07:24",
+        "news_link": "https://retizen.republika.co.id/posts/327573/indonesia-tumbangkan-argentina-2-1-di-seoul-earth-on-us-cup"
+    },
+    {
+        "title": "Khasanah Gurah di Imogiri",
+        "category": "Retizen",
+        "publish_time": "29-08-2024 07:23",
+        "news_link": "https://retizen.republika.co.id/posts/327590/khasanah-gurah-di-imogiri"
+    },
+    {
+        "title": "Introspeksi Diri: Kunci Menuju Hubungan Sosial yang Lebih Baik",
+        "category": "Retizen",
+        "publish_time": "29-08-2024 07:21",
+        "news_link": "https://retizen.republika.co.id/posts/327612/introspeksi-diri-kunci-menuju-hubungan-sosial-yang-lebih-baik"
+    },
+    {
+        "title": "Cerita Saksi Hidup Gempa 7,8 SR dan Tsunami Setinggi 13 Meter di Banyuwangi 1994",
+        "category": "Rejogja",
+        "publish_time": "29-08-2024 07:17",
+        "news_link": "https://rejogja.republika.co.id/berita/siyxmt282/cerita-saksi-hidup-gempa-78-sr-dan-tsunami-setinggi-13-meter-di-banyuwangi-1994"
+    },
+    {
+        "title": "Cegah Gangguan Belajar, Dokter THT Imbau Orang Tua Cek Pendengaran Anak",
+        "category": "Ameera",
+        "publish_time": "29-08-2024 07:16",
+        "news_link": "https://ameera.republika.co.id/berita/siyxkv425/cegah-gangguan-belajar-dokter-tht-imbau-orang-tua-cek-pendengaran-anak"
+    },
+    {
         "title": "Perdana, Bendera Indonesia Berkibar di New York",
         "category": "Video",
-        "publish_time": "29-08-2024 07:09",
+        "publish_time": "29-08-2024 07:15",
         "news_link": "https://tv.republika.co.id/berita/siyx7g418/perdana-bendera-indonesia-berkibar-di-new-york"
     },
     {
         "title": "Doa Menjenguk Orang Sakit",
         "category": "Iqra",
-        "publish_time": "29-08-2024 07:09",
+        "publish_time": "29-08-2024 07:15",
         "news_link": "https://iqra.republika.co.id/berita/siyx73458/doa-menjenguk-orang-sakit"
     },
     {
         "title": "Luruskan Hoaks tentang Micin, P2MI Adakan Edukasi Interaktif",
         "category": "Rejogja",
-        "publish_time": "29-08-2024 07:06",
+        "publish_time": "29-08-2024 07:15",
         "news_link": "https://rejogja.republika.co.id/berita/siyx33291/luruskan-hoaks-tentang-micin-p2mi-adakan-edukasi-interaktif"
     },
     {
         "title": "Cuaca Buruk, Nelayan di Kepulauan Natuna Tidak Melaut",
         "category": "Visual",
-        "publish_time": "29-08-2024 07:05",
+        "publish_time": "29-08-2024 07:15",
         "news_link": "https://visual.republika.co.id/berita/siyx0d375/cuaca-buruk-nelayan-di-kepulauan-natuna-tidak-melaut"
     },
     {
         "title": "Film Horor Komedi India Stree 2 Masuk Jajaran Sinema Bollywood Terlaris Sepanjang Masa",
         "category": "Ameera",
-        "publish_time": "29-08-2024 07:03",
+        "publish_time": "29-08-2024 07:15",
         "news_link": "https://ameera.republika.co.id/berita/siywxe425/film-horor-komedi-india-stree-2-masuk-jajaran-sinema-bollywood-terlaris-sepanjang-masa"
+    },
+    {
+        "title": "BNI Bawa Aplikasi wondr Mendunia, Diperkenalkan di Lima Pusat Keuangan Dunia",
+        "category": "Ekonomi",
+        "publish_time": "29-08-2024 07:15",
+        "news_link": "https://ekonomi.republika.co.id/berita/siyzhu415/bni-bawa-aplikasi-wondr-mendunia-diperkenalkan-di-lima-pusat-keuangan-dunia"
     },
     {
         "title": "Ikut Pelatihan, Guru Dipersiapkan untuk Bangun SDM di Daerah Terpencil",
         "category": "Khazanah",
-        "publish_time": "29-08-2024 06:53",
+        "publish_time": "29-08-2024 07:15",
         "news_link": "https://khazanah.republika.co.id/berita/siylim451/ikut-pelatihan-guru-dipersiapkan-untuk-bangun-sdm-di-daerah-terpencil"
     },
     {
         "title": "Apresiasi Kreasi Indonesia Dorong Potensi UMKM ke Pasar Global",
         "category": "Ekonomi",
-        "publish_time": "29-08-2024 06:50",
+        "publish_time": "29-08-2024 07:15",
         "news_link": "https://ekonomi.republika.co.id/berita/siywby416/apresiasi-kreasi-indonesia-dorong-potensi-umkm-ke-pasar-global"
     },
     {
         "title": "Anak 'Nekat' Pacaran, Dosanya Ditanggung Orang Tua?",
         "category": "Khazanah",
-        "publish_time": "29-08-2024 06:49",
+        "publish_time": "29-08-2024 07:15",
         "news_link": "https://khazanah.republika.co.id/berita/siywai458/anak-nekat-pacaran-dosanya-ditanggung-orang-tua"
     },
     {
         "title": "Jepang Kembali Dihantam Badai",
         "category": "News",
-        "publish_time": "29-08-2024 06:40",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://news.republika.co.id/berita/siyvv9416/jepang-kembali-dihantam-badai"
     },
     {
         "title": "Aher Jadi Ketua Tim Pemenangan Ahmad Syaikhu-Ilham Habibie di Pilgub Jabar, Target Menang",
         "category": "Rejabar",
-        "publish_time": "29-08-2024 06:37",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://rejabar.republika.co.id/berita/siyvp5512/aher-jadi-ketua-tim-pemenangan-ahmad-syaikhuilham-habibie-di-pilgub-jabar-target-menang"
     },
     {
         "title": "Di Masa Sulit, Umar bin Khattab tak Potong Tangan Pencuri",
         "category": "Khazanah",
-        "publish_time": "29-08-2024 06:36",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://khazanah.republika.co.id/berita/siyvo4458/di-masa-sulit-umar-bin-khattab-tak-potong-tangan-pencuri"
     },
     {
         "title": "Uni Eropa dan ChildFund International Ajak Masyarakat Lampung Selatan Rayakan Keragaman",
         "category": "Rejogja",
-        "publish_time": "29-08-2024 06:31",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://rejogja.republika.co.id/berita/siyvfu291/uni-eropa-dan-childfund-international-ajak-masyarakat-lampung-selatan-rayakan-keragaman"
     },
     {
         "title": "Polisi Blokade Jalan di Sekitar Patung Kuda Imbas Demo Ojol Siang Ini",
         "category": "News",
-        "publish_time": "29-08-2024 06:31",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://news.republika.co.id/berita/siyvfe425/polisi-blokade-jalan-di-sekitar-patung-kuda-imbas-demo-ojol-siang-ini"
     },
     {
         "title": "Doa Nabi Isa yang Membuat Hidangan Turun dari Langit",
         "category": "Iqra",
-        "publish_time": "29-08-2024 06:30",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://iqra.republika.co.id/berita/siyvdl483/doa-nabi-isa-yang-membuat-hidangan-turun-dari-langit"
     },
     {
         "title": "Islamisasi Kerajaan Buton Dalam Tradisi Lisan dan Dokumen Belanda",
         "category": "Khazanah",
-        "publish_time": "29-08-2024 06:29",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://khazanah.republika.co.id/berita/siyvcg430/islamisasi-kerajaan-buton-dalam-tradisi-lisan-dan-dokumen-belanda"
     },
     {
         "title": "Pengoperasian Pabrik Pipa Seamless di Cilegon Dinilai Menghemat Devisa Negara",
         "category": "Ekonomi",
-        "publish_time": "29-08-2024 06:26",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://ekonomi.republika.co.id/berita/siyv6w430/pengoperasian-pabrik-pipa-seamless-di-cilegon-dinilai-menghemat-devisa-negara"
     },
     {
         "title": "Cara Setan Memperdaya Ahli Ibadah",
         "category": "Khazanah",
-        "publish_time": "29-08-2024 06:20",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://khazanah.republika.co.id/berita/siyux7458/cara-setan-memperdaya-ahli-ibadah"
     },
     {
         "title": "Stasiun Tegalluar Whoosh Resmi Berubah Nama Jadi Stasiun Tegalluar Summarecon",
         "category": "Rejabar",
-        "publish_time": "29-08-2024 06:18",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://rejabar.republika.co.id/berita/siyuuo512/stasiun-tegalluar-whoosh-resmi-berubah-nama-jadi-stasiun-tegalluar-summarecon"
     },
     {
         "title": "Jebakan Tikus Elektrik Petani Indramayu Makan Korban Jiwa ODGJ",
         "category": "Network",
-        "publish_time": "29-08-2024 06:18",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://matapantura.republika.co.id/posts/327607/jebakan-tikus-elektrik-petani-indramayu-makan-korban-jiwa-odgj"
     },
     {
         "title": "Waspadai Kekeringan...Waduk Setu Patok Cirebon Mulai Mengering",
         "category": "Network",
-        "publish_time": "29-08-2024 06:17",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://matapantura.republika.co.id/posts/327613/waspadai-kekeringan-waduk-setu-patok-cirebon-mulai-mengering"
     },
     {
         "title": "Beginilah Teknik Baru Meningkatkan Efisiensi Produksi Vitamin D3",
         "category": "Network",
-        "publish_time": "29-08-2024 06:17",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://impresiupdate.id/posts/327580/beginilah-teknik-baru-meningkatkan-efisiensi-produksi-vitamin-d3"
     },
     {
         "title": "Uuppss...Mikroplastik Terdeteksi Menyusup ke Otak Manusia untuk Pertama Kali",
         "category": "Network",
-        "publish_time": "29-08-2024 06:17",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://impresiupdate.id/posts/327582/uuppss-mikroplastik-terdeteksi-menyusup-ke-otak-manusia-untuk-pertama-kali"
     },
     {
         "title": "Pemanggilan Aaliyah Massaid Terkait Kasus Dugaan Pencemaran Nama Baik Ditunda",
         "category": "Ameera",
-        "publish_time": "29-08-2024 06:16",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://ameera.republika.co.id/berita/siyurd425/pemanggilan-aaliyah-massaid-terkait-kasus-dugaan-pencemaran-nama-baik-ditunda"
     },
     {
         "title": "Franco Colapinto Gantikan Logan Sargeant di Williams untuk Sisa Musim 2024",
         "category": "Network",
-        "publish_time": "29-08-2024 06:16",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://motoresto.id/posts/327524/franco-colapinto-gantikan-logan-sargeant-di-williams-untuk-sisa-musim-2024"
     },
     {
@@ -152,151 +290,13 @@
     {
         "title": "Public Expose Live 2024: Kinerja Positif dan Strategi BRI Tumbuh Sehat Berkelanjutan",
         "category": "Ekonomi",
-        "publish_time": "29-08-2024 06:12",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://ekonomi.republika.co.id/berita/siyuku370/public-expose-live-2024-kinerja-positif-dan-strategi-bri-tumbuh-sehat-berkelanjutan"
     },
     {
         "title": "PKB Akui Awalnya Mendukung Anies di Pilgub Jakarta, Tapi Ada 'Perubahan Cuaca'",
         "category": "News",
-        "publish_time": "29-08-2024 06:12",
+        "publish_time": "29-08-2024 06:15",
         "news_link": "https://news.republika.co.id/berita/siyu33377/pkb-akui-awalnya-mendukung-anies-di-pilgub-jakarta-tapi-ada-perubahan-cuaca"
-    },
-    {
-        "title": "Dikepung Militer, Warga Palestina Khawatir Israel Usir Mereka dari Tepi Barat",
-        "category": "Khazanah",
-        "publish_time": "29-08-2024 06:12",
-        "news_link": "https://khazanah.republika.co.id/berita/siyu0z483/dikepung-militer-warga-palestina-khawatir-israel-usir-mereka-dari-tepi-barat"
-    },
-    {
-        "title": "Cegah Abrasi, Bukit Asam Tanam Mangrove di Pantai Taluak",
-        "category": "Esgnow",
-        "publish_time": "29-08-2024 06:12",
-        "news_link": "https://esgnow.republika.co.id/berita/siytul370/cegah-abrasi-bukit-asam-tanam-mangrove-di-pantai-taluak"
-    },
-    {
-        "title": "Putri Akbar Tandjung Mundur di Pilkada Solo Usai Dapat Arahan Bahlil",
-        "category": "News",
-        "publish_time": "29-08-2024 06:12",
-        "news_link": "https://news.republika.co.id/berita/siyt94377/putri-akbar-tandjung-mundur-di-pilkada-solo-usai-dapat-arahan-bahlil"
-    },
-    {
-        "title": "Tanda Depresi Muncul di Tempat Kerja: Karyawan Tiba-Tiba Jadi 'Rajin'",
-        "category": "Ameera",
-        "publish_time": "29-08-2024 05:12",
-        "news_link": "https://ameera.republika.co.id/berita/siyswp425/tanda-depresi-muncul-di-tempat-kerja-karyawan-tibatiba-jadi-rajin"
-    },
-    {
-        "title": "Pilgub Jabar, KPU Nyatakan Berkas Pendaftaran Ahmad Syaikhu-Ilham Habibie Lengkap",
-        "category": "Rejabar",
-        "publish_time": "29-08-2024 05:12",
-        "news_link": "https://rejabar.republika.co.id/berita/siys22512/pilgub-jabar-kpu-nyatakan-berkas-pendaftaran-ahmad-syaikhuilham-habibie-lengkap"
-    },
-    {
-        "title": "Kurangi Emisi, Selamatkan Antartika",
-        "category": "Esgnow",
-        "publish_time": "29-08-2024 05:12",
-        "news_link": "https://esgnow.republika.co.id/berita/siyo37416/kurangi-emisi-selamatkan-antartika"
-    },
-    {
-        "title": "Ahmad Syaikhu-Ilham Habibie Resmi Mendaftar Pilgub Jabar",
-        "category": "Rejabar",
-        "publish_time": "29-08-2024 05:12",
-        "news_link": "https://rejabar.republika.co.id/berita/siyqms512/ahmad-syaikhuilham-habibie-resmi-mendaftar-pilgub-jabar"
-    },
-    {
-        "title": "Prabowo dan Menhan Australia Bakal Teken DCA di Akmil Magelang",
-        "category": "News",
-        "publish_time": "29-08-2024 04:12",
-        "news_link": "https://news.republika.co.id/berita/siyqcz484/prabowo-dan-menhan-australia-bakal-teken-dca-di-akmil-magelang"
-    },
-    {
-        "title": "Bertemu Anies, Ustaz Rasmin Terkejut, Ini yang Dirasakan Eks Gubernur DKI Usai Gagal Maju",
-        "category": "News",
-        "publish_time": "29-08-2024 04:12",
-        "news_link": "https://news.republika.co.id/berita/siypm0377/bertemu-anies-ustaz-rasmin-terkejut-ini-yang-dirasakan-eks-gubernur-dki-usai-gagal-maju"
-    },
-    {
-        "title": "Erick Thohir Hadirkan Ruang Tumbuh untuk Cegah Stunting",
-        "category": "Ameera",
-        "publish_time": "29-08-2024 04:12",
-        "news_link": "https://ameera.republika.co.id/berita/siypm0416/erick-thohir-hadirkan-ruang-tumbuh-untuk-cegah-stunting"
-    },
-    {
-        "title": "Bawaslu Awasi ASN dan Kepala Desa yang Ikut Dukung Paslon Daftar di Pilbup Bandung",
-        "category": "Rejabar",
-        "publish_time": "29-08-2024 04:12",
-        "news_link": "https://rejabar.republika.co.id/berita/siypk2512/bawaslu-awasi-asn-dan-kepala-desa-yang-ikut-dukung-paslon-daftar-di-pilbup-bandung"
-    },
-    {
-        "title": "Maju Kontestasi Pilkada 2024, Belinda Fokus Memajukan Kudus",
-        "category": "News",
-        "publish_time": "29-08-2024 04:12",
-        "news_link": "https://news.republika.co.id/berita/siypco484/maju-kontestasi-pilkada-2024-belinda-fokus-memajukan-kudus"
-    },
-    {
-        "title": "Hari Terakhir Pendaftaran, Tiga Paslon akan Mendaftar ke KPU Kota Bandung",
-        "category": "Rejabar",
-        "publish_time": "29-08-2024 04:12",
-        "news_link": "https://rejabar.republika.co.id/berita/siyp8r512/hari-terakhir-pendaftaran-tiga-paslon-akan-mendaftar-ke-kpu-kota-bandung"
-    },
-    {
-        "title": "TransJakarta Antisipasi Aksi Demo Ojol Hari Ini, Ini Strateginya",
-        "category": "News",
-        "publish_time": "29-08-2024 04:12",
-        "news_link": "https://news.republika.co.id/berita/siyp2l370/transjakarta-antisipasi-aksi-demo-ojol-hari-ini-ini-strateginya"
-    },
-    {
-        "title": "Andika Perkasa-Hendi dan Luthfi-Gus Yasin Tes Kesehatan di RS Kariadi",
-        "category": "News",
-        "publish_time": "29-08-2024 04:12",
-        "news_link": "https://news.republika.co.id/berita/siyou9484/andika-perkasahendi-dan-luthfigus-yasin-tes-kesehatan-di-rs-kariadi"
-    },
-    {
-        "title": "Risma akan Berpasangan dengan Gus Hans di Pilgub Jatim, Daftar Malam Ini",
-        "category": "News",
-        "publish_time": "29-08-2024 04:12",
-        "news_link": "https://news.republika.co.id/berita/siyos9409/risma-akan-berpasangan-dengan-gus-hans-di-pilgub-jatim-daftar-malam-ini"
-    },
-    {
-        "title": "Polisi Korea Buka Suara Skandal Taeil NCT, Benarkah Kasusnya Ditutup-tutupi?",
-        "category": "Ameera",
-        "publish_time": "29-08-2024 04:12",
-        "news_link": "https://ameera.republika.co.id/berita/siyonc425/polisi-korea-buka-suara-skandal-taeil-nct-benarkah-kasusnya-ditutuptutupi"
-    },
-    {
-        "title": "Permintaan Izin ke Gaza Ditolak Israel, Abbas Minta Dukungan Internasional",
-        "category": "Khazanah",
-        "publish_time": "29-08-2024 04:12",
-        "news_link": "https://khazanah.republika.co.id/berita/siyon1483/permintaan-izin-ke-gaza-ditolak-israel-abbas-minta-dukungan-internasional"
-    },
-    {
-        "title": "Jokowi: Pramono Anung Sudah Izin ke Saya",
-        "category": "Video",
-        "publish_time": "29-08-2024 04:12",
-        "news_link": "https://tv.republika.co.id/berita/siylw6418/jokowi-pramono-anung-sudah-izin-ke-saya"
-    },
-    {
-        "title": "Pakai Outfit Biru Kotak-kotak, Baher-Kasan Daftar ke KPU Indramayu",
-        "category": "Rejabar",
-        "publish_time": "29-08-2024 04:12",
-        "news_link": "https://rejabar.republika.co.id/berita/siyoc4512/pakai-outfit-biru-kotakkotak-baherkasan-daftar-ke-kpu-indramayu"
-    },
-    {
-        "title": "Ramai-Ramai Hijaukan Pesisir Pangandaran",
-        "category": "Esgnow",
-        "publish_time": "29-08-2024 04:12",
-        "news_link": "https://esgnow.republika.co.id/berita/siyobq416/ramairamai-hijaukan-pesisir-pangandaran"
-    },
-    {
-        "title": "Rektor Cyber University Pimpin Penjurian Indonesia Leaders Conference & Award III 2024",
-        "category": "News",
-        "publish_time": "29-08-2024 04:12",
-        "news_link": "https://news.republika.co.id/berita/siyngl370/rektor-cyber-university-pimpin-penjurian-indonesia-leaders-conference-award-iii-2024"
-    },
-    {
-        "title": "Dokumen Bocor, Komandan Israel Perintahkan Tentara Lakukan Genosida, Ini Isinya",
-        "category": "Khazanah",
-        "publish_time": "29-08-2024 04:12",
-        "news_link": "https://khazanah.republika.co.id/berita/siynzt483/dokumen-bocor-komandan-israel-perintahkan-tentara-lakukan-genosida-ini-isinya"
     }
 ]
