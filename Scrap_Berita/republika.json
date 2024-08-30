@@ -1,116 +1,278 @@
 [
     {
+        "title": "BPH Migas Sebut Gas Bumi Berperan Penting dalam Transisi Energi",
+        "category": "Esgnow",
+        "publish_time": "30-08-2024 10:12",
+        "news_link": "https://esgnow.republika.co.id/berita/sj10c3416/bph-migas-sebut-gas-bumi-berperan-penting-dalam-transisi-energi"
+    },
+    {
+        "title": "Guru Madrasah Gunakan Metode Gasing dalam Pengajaran Sains",
+        "category": "Khazanah",
+        "publish_time": "30-08-2024 10:08",
+        "news_link": "https://khazanah.republika.co.id/berita/sj0ryd451/guru-madrasah-gunakan-metode-gasing-dalam-pengajaran-sains"
+    },
+    {
+        "title": "Kemenkes akan Perjelas Pemberian Alat Kontrasepsi untuk Remaja di RPMK",
+        "category": "Khazanah",
+        "publish_time": "30-08-2024 10:07",
+        "news_link": "https://khazanah.republika.co.id/berita/sj103k430/kemenkes-akan-perjelas-pemberian-alat-kontrasepsi-untuk-remaja-di-rpmk"
+    },
+    {
+        "title": "Terminal Lucidity: Fenomena Mendadak Sembuh Orang Sakit Parah, Kemudian Meninggal Dunia",
+        "category": "Ameera",
+        "publish_time": "30-08-2024 10:05",
+        "news_link": "https://ameera.republika.co.id/berita/sj0zzx425/terminal-lucidity-fenomena-mendadak-sembuh-orang-sakit-parah-kemudian-meninggal-dunia"
+    },
+    {
+        "title": "Badai di Asia Semakin Ganas Akibat Perubahan Iklim",
+        "category": "Esgnow",
+        "publish_time": "30-08-2024 10:00",
+        "news_link": "https://esgnow.republika.co.id/berita/sj0y63416/badai-di-asia-semakin-ganas-akibat-perubahan-iklim"
+    },
+    {
+        "title": "BREAKING NEWS: Anies Siap Bangun Ormas atau Partai Politik Baru",
+        "category": "News",
+        "publish_time": "30-08-2024 09:58",
+        "news_link": "https://news.republika.co.id/berita/sj0zo0409/breaking-news-anies-siap-bangun-ormas-atau-partai-politik-baru"
+    },
+    {
+        "title": "Indonesia Records 13 Million Foreign Tourist Arrivals Until August",
+        "category": "En",
+        "publish_time": "20 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/sj0zh4366/indonesia-records-13-million-foreign-tourist-arrivals-until-august"
+    },
+    {
+        "title": "Skema Subsidi KRL Berbasis NIK Kontraproduktif dengan Kampanye Pakai Trasportasi Umum",
+        "category": "Ekonomi",
+        "publish_time": "30-08-2024 09:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/sj0zaz370/skema-subsidi-krl-berbasis-nik-kontraproduktif-dengan-kampanye-pakai-trasportasi-umum"
+    },
+    {
+        "title": "Waspada Bencana, Hujan Deras Berpotensi Terus Guyur Indonesia Timur",
+        "category": "News",
+        "publish_time": "30-08-2024 09:49",
+        "news_link": "https://news.republika.co.id/berita/sj0z8x416/waspada-bencana-hujan-deras-berpotensi-terus-guyur-indonesia-timur"
+    },
+    {
+        "title": "Artikel Ilmiah Hasil Kolaborasi Dosen dan Mahasiswa UNM Terbit di Jurnal Terakreditasi",
+        "category": "News",
+        "publish_time": "30-08-2024 09:46",
+        "news_link": "https://news.republika.co.id/berita/sj0z58370/artikel-ilmiah-hasil-kolaborasi-dosen-dan-mahasiswa-unm-terbit-di-jurnal-terakreditasi"
+    },
+    {
+        "title": "Noni Madueke Dipanggil ke Skuad Inggris, tak Ada Jude Bellingham",
+        "category": "News",
+        "publish_time": "30-08-2024 09:46",
+        "news_link": "https://news.republika.co.id/berita/sj0yvl348/noni-madueke-dipanggil-ke-skuad-inggris-tak-ada-jude-bellingham"
+    },
+    {
+        "title": "MUI Depok Gelar Sarasehan, Perkuat Hubungan Umat Beragama",
+        "category": "Network",
+        "publish_time": "30-08-2024 09:36",
+        "news_link": "https://ruzka.republika.co.id/serba-serbi/1675033612/mui-depok-gelar-sarasehan-perkuat-hubungan-umat-beragama"
+    },
+    {
+        "title": "Federico Chiesa tak Khawatir Bersaing dengan Para Penyerang Liverpool",
+        "category": "News",
+        "publish_time": "30-08-2024 09:35",
+        "news_link": "https://news.republika.co.id/berita/sj0y23348/federico-chiesa-tak-khawatir-bersaing-dengan-para-penyerang-liverpool"
+    },
+    {
+        "title": "Dhia Fauziah, Alumnus Universitas BSI yang Sukses Berkarier di Bidang Keuangan",
+        "category": "News",
+        "publish_time": "30-08-2024 09:35",
+        "news_link": "https://news.republika.co.id/berita/sj0xyf370/dhia-fauziah-alumnus-universitas-bsi-yang-sukses-berkarier-di-bidang-keuangan"
+    },
+    {
+        "title": "Oasis Menambah Tiga Tanggal Tambahan untuk Tur Reuni",
+        "category": "Network",
+        "publish_time": "30-08-2024 09:35",
+        "news_link": "https://impresi.republika.co.id/musik/1695034339/oasis-menambah-tiga-tanggal-tambahan-untuk-tur-reuni"
+    },
+    {
+        "title": "Ilmuwan Temukan Medan Listrik Global Bumi yang Telah Lama Dicari",
+        "category": "Network",
+        "publish_time": "30-08-2024 09:35",
+        "news_link": "https://impresi.republika.co.id/news/1695034393/ilmuwan-temukan-medan-listrik-global-bumi-yang-telah-lama-dicari"
+    },
+    {
+        "title": "Siti Muntamah Harap Keluarga  di Jabar Hindari Judi Online yang Bisa Rusak Rumah Tangga",
+        "category": "Rejabar",
+        "publish_time": "30-08-2024 09:35",
+        "news_link": "https://rejabar.republika.co.id/berita/sj0yln512/siti-muntamah-harap-keluarga-di-jabar-hindari-judi-online-yang-bisa-rusak-rumah-tangga"
+    },
+    {
+        "title": "Peristiwa Fathu Makkah",
+        "category": "Khazanah",
+        "publish_time": "30-08-2024 09:30",
+        "news_link": "https://khazanah.republika.co.id/berita/sj0yea430/peristiwa-fathu-makkah"
+    },
+    {
+        "title": "Bingung Mau Mulai Investasi Pertama Kali? Saatnya Coba Buka RDN di BRImo Saja!",
+        "category": "Ekonomi",
+        "publish_time": "30-08-2024 09:24",
+        "news_link": "https://ekonomi.republika.co.id/berita/sj0y4o423/bingung-mau-mulai-investasi-pertama-kali-saatnya-coba-buka-rdn-di-brimo-saja"
+    },
+    {
+        "title": "DPR Apresiasi Jokowi Perintahkan Bebaskan Demonstran",
+        "category": "News",
+        "publish_time": "30-08-2024 09:23",
+        "news_link": "https://news.republika.co.id/berita/sj0y1y318/dpr-apresiasi-jokowi-perintahkan-bebaskan-demonstran"
+    },
+    {
+        "title": "Ancelotti Tegaskan akan Perbaiki Permainan Real Madrid Usai Ditahan Imbang Las Palmas",
+        "category": "News",
+        "publish_time": "30-08-2024 09:22",
+        "news_link": "https://news.republika.co.id/berita/sj0xrd348/ancelotti-tegaskan-akan-perbaiki-permainan-real-madrid-usai-ditahan-imbang-las-palmas"
+    },
+    {
+        "title": "Aktor Korea Ji Chang-wook akan Tampil di Acara TV 'Lapor Pak!', Fans Nggak Sabar",
+        "category": "Ameera",
+        "publish_time": "30-08-2024 09:20",
+        "news_link": "https://ameera.republika.co.id/berita/sj0xwm425/aktor-korea-ji-changwook-akan-tampil-di-acara-tv-lapor-pak-fans-nggak-sabar"
+    },
+    {
+        "title": "Mengenal Gerakan Kahanis, Teroris Yahudi yang Mau Usir Seluruh Warga Palestina",
+        "category": "News",
+        "publish_time": "30-08-2024 09:18",
+        "news_link": "https://news.republika.co.id/berita/sj0xur377/mengenal-gerakan-kahanis-teroris-yahudi-yang-mau-usir-seluruh-warga-palestina"
+    },
+    {
+        "title": "Selain Mossad, Dua Dinas Intelijen Ini Layani Israel Menjajah Palestina",
+        "category": "Khazanah",
+        "publish_time": "30-08-2024 09:16",
+        "news_link": "https://khazanah.republika.co.id/berita/sj0xr2430/selain-mossad-dua-dinas-intelijen-ini-layani-israel-menjajah-palestina"
+    },
+    {
+        "title": "BCC Antar Mahasiswa Universitas BSI Kampus Pontianak PKL di Diskominfo Kalbar",
+        "category": "News",
+        "publish_time": "30-08-2024 09:16",
+        "news_link": "https://news.republika.co.id/berita/sj0xqq370/bcc-antar-mahasiswa-universitas-bsi-kampus-pontianak-pkl-di-diskominfo-kalbar"
+    },
+    {
+        "title": "Badai Mendekat, Ribuan Warga India dan Pakistan Dievakuasi",
+        "category": "News",
+        "publish_time": "30-08-2024 09:15",
+        "news_link": "https://news.republika.co.id/berita/sj0xpf416/badai-mendekat-ribuan-warga-india-dan-pakistan-dievakuasi"
+    },
+    {
+        "title": "Ansor-OKP Lintas Agama Siapkan Tur Perdamaian Asia Pasifik Seusai Bertemu Paus Fransiskus",
+        "category": "Khazanah",
+        "publish_time": "30-08-2024 09:14",
+        "news_link": "https://khazanah.republika.co.id/berita/sj0xng320/ansorokp-lintas-agama-siapkan-tur-perdamaian-asia-pasifik-seusai-bertemu-paus-fransiskus"
+    },
+    {
         "title": "Pakar Tanggapi Dico Maju Pilgub Kendal, tapi Berkas Dikembalikan KPU",
         "category": "News",
-        "publish_time": "30-08-2024 09:12",
+        "publish_time": "30-08-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/sj0xln484/pakar-tanggapi-dico-maju-pilgub-kendal-tapi-berkas-dikembalikan-kpu"
     },
     {
-        "title": "Timnas Indonesia U-20 Kalah dari Thailand U-20 di Seoul Earth on Us Cup 2024",
+        "title": "Timnas Indonesia U-20 Dikalahkan Thailand U-20 di Seoul Earth on Us Cup 2024",
         "category": "News",
-        "publish_time": "30-08-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sj0xjy348/timnas-indonesia-u20-kalah-dari-thailand-u20-di-seoul-earth-on-us-cup-2024"
+        "publish_time": "30-08-2024 09:13",
+        "news_link": "https://news.republika.co.id/berita/sj0xjy348/timnas-indonesia-u20-dikalahkan-thailand-u20-di-seoul-earth-on-us-cup-2024"
     },
     {
-        "title": "Karir Impian Lulusan Akuntansi: Menemukan Peluang Emas di Bekasi",
+        "title": "Karier Impian Lulusan Akuntansi: Menemukan Peluang Emas di Bekasi",
         "category": "News",
-        "publish_time": "30-08-2024 09:10",
-        "news_link": "https://news.republika.co.id/berita/sj0xhi370/karir-impian-lulusan-akuntansi-menemukan-peluang-emas-di-bekasi"
+        "publish_time": "30-08-2024 09:13",
+        "news_link": "https://news.republika.co.id/berita/sj0xhi370/karier-impian-lulusan-akuntansi-menemukan-peluang-emas-di-bekasi"
     },
     {
         "title": "Islamofobia Meningkat, Muslim Minta Pemerintah Inggris Ambil Aksi Nyata",
         "category": "Khazanah",
-        "publish_time": "30-08-2024 09:04",
+        "publish_time": "30-08-2024 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/sj0tiv366/islamofobia-meningkat-muslim-minta-pemerintah-inggris-ambil-aksi-nyata"
     },
     {
         "title": "Terungkap Bukti Komunikasi Terakhir Vina Pukul 22.17 WIB, Akankah Ini Mengakhiri Misteri?",
         "category": "News",
-        "publish_time": "30-08-2024 09:01",
+        "publish_time": "30-08-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/sj0x29487/terungkap-bukti-komunikasi-terakhir-vina-pukul-2217-wib-akankah-ini-mengakhiri-misteri"
     },
     {
         "title": "Program Kota Wakaf Perkuat Ketahanan Pangan",
         "category": "Khazanah",
-        "publish_time": "30-08-2024 09:00",
+        "publish_time": "30-08-2024 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/sj0rlk451/program-kota-wakaf-perkuat-ketahanan-pangan"
     },
     {
         "title": "Tujuh Ucapan Selamat dan Doa untuk Kelahiran Bayi",
         "category": "Network",
-        "publish_time": "30-08-2024 08:56",
+        "publish_time": "30-08-2024 09:13",
         "news_link": "https://sajada.id/posts/327854/tujuh-ucapan-selamat-dan-doa-untuk-kelahiran-bayi"
     },
     {
-        "title": "Istana Klarifikasi Jokowi Dituding Wawancara Doortsop Setingan",
+        "title": "Istana Klarifikasi Jokowi Dituding Wawancara Doorstop Setingan",
         "category": "News",
-        "publish_time": "30-08-2024 08:55",
-        "news_link": "https://news.republika.co.id/berita/sj0wrr484/istana-klarifikasi-jokowi-dituding-wawancara-doortsop-setingan"
+        "publish_time": "30-08-2024 09:13",
+        "news_link": "https://news.republika.co.id/berita/sj0wrr484/istana-klarifikasi-jokowi-dituding-wawancara-doorstop-setingan"
     },
     {
         "title": "Dokter Bagikan Tips Lindungi Diri dari Mpox",
         "category": "Ameera",
-        "publish_time": "30-08-2024 08:51",
+        "publish_time": "30-08-2024 09:13",
         "news_link": "https://ameera.republika.co.id/berita/sj0wlu425/dokter-bagikan-tips-lindungi-diri-dari-mpox"
     },
     {
         "title": "Belanja dan Nonton Musik di Localfest 2024 Makin Puas dengan BRImo",
         "category": "Ekonomi",
-        "publish_time": "30-08-2024 08:50",
+        "publish_time": "30-08-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sj0wk5423/belanja-dan-nonton-musik-di-localfest-2024-makin-puas-dengan-brimo"
     },
     {
         "title": "Empat Bakal Calon di Pilwalkot Bandung Jalani Tes Kesehatan di RSHS",
         "category": "Rejabar",
-        "publish_time": "30-08-2024 08:45",
+        "publish_time": "30-08-2024 09:13",
         "news_link": "https://rejabar.republika.co.id/berita/sj0wbp512/empat-bakal-calon-di-pilwalkot-bandung-jalani-tes-kesehatan-di-rshs"
     },
     {
         "title": "Risma Sudah Menghadap Jokowi Tadi Pagi Soal Pilkada Jatim, Apa Hasilnya?",
         "category": "News",
-        "publish_time": "30-08-2024 08:42",
+        "publish_time": "30-08-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sj0w7e487/risma-sudah-menghadap-jokowi-tadi-pagi-soal-pilkada-jatim-apa-hasilnya"
     },
     {
         "title": "Cetak Tenaga Pendidik Kompeten, Acer Smart School Awards 2024 Kembali Digelar di Jabar",
         "category": "Rejabar",
-        "publish_time": "30-08-2024 08:38",
+        "publish_time": "30-08-2024 08:13",
         "news_link": "https://rejabar.republika.co.id/berita/sj0w08512/cetak-tenaga-pendidik-kompeten-acer-smart-school-awards-2024-kembali-digelar-di-jabar"
     },
     {
         "title": "Shella Selpi Meninggal Akibat Kanker Ovarium, Ini Gejala yang Patut Diwaspadai",
         "category": "Ameera",
-        "publish_time": "30-08-2024 08:34",
+        "publish_time": "30-08-2024 08:13",
         "news_link": "https://ameera.republika.co.id/berita/sj0vt5425/shella-selpi-meninggal-akibat-kanker-ovarium-ini-gejala-yang-patut-diwaspadai"
     },
     {
         "title": "Bea Cukai Amankan Minuman Beralkohol dan Ribuan Batang Rokok Ilegal di Tulungagung",
         "category": "Beacukai",
-        "publish_time": "30-08-2024 08:21",
+        "publish_time": "30-08-2024 08:13",
         "news_link": "https://republika.co.id/berita/sj0v8b423/bea-cukai-amankan-minuman-beralkohol-dan-ribuan-batang-rokok-ilegal-di-tulungagung"
     },
     {
         "title": "PLN Operasikan PLTS Ground Mounted Terbesar di Indonesia",
         "category": "Esgnow",
-        "publish_time": "30-08-2024 08:19",
+        "publish_time": "30-08-2024 08:13",
         "news_link": "https://esgnow.republika.co.id/berita/sj0q0h416/pln-operasikan-plts-ground-mounted-terbesar-di-indonesia"
     },
     {
         "title": "Komunitas E-Sport UMJ Juara 1 Turnamen Mobile Legends",
         "category": "News",
-        "publish_time": "30-08-2024 08:19",
+        "publish_time": "30-08-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sj0v3w423/komunitas-esport-umj-juara-1-turnamen-mobile-legends"
     },
     {
         "title": "Istana: Pramono Anung Belum Ajukan Cuti Sebagai Seskab",
         "category": "News",
-        "publish_time": "30-08-2024 08:17",
+        "publish_time": "30-08-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sj0v0o484/istana-pramono-anung-belum-ajukan-cuti-sebagai-seskab"
     },
     {
         "title": "Lolos ke Semifinal Korea Open 2024, Leo/Bagas Belum Puas dengan Penampilannya",
         "category": "News",
-        "publish_time": "30-08-2024 08:16",
+        "publish_time": "30-08-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sj0uzo348/lolos-ke-semifinal-korea-open-2024-leobagas-belum-puas-dengan-penampilannya"
     },
     {
@@ -126,177 +288,15 @@
         "news_link": "https://republika.co.id/berita/sj0usr423/bea-cukai-dan-malaysian-customs-gelar-operasi-jtfn-2024-di-perbatasan-indonesia-malaysia"
     },
     {
-        "title": "Laporan: Uranium Iran Selangkah Lagi Bisa Jadi Bom Nuklir",
+        "title": "Laporan Rahasia Ini Ungkap Uranium Iran Selangkah Lagi Bisa Jadi Bom Nuklir",
         "category": "Khazanah",
         "publish_time": "30-08-2024 08:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sj0upp483/laporan-uranium-iran-selangkah-lagi-bisa-jadi-bom-nuklir"
+        "news_link": "https://khazanah.republika.co.id/berita/sj0upp483/laporan-rahasia-ini-ungkap-uranium-iran-selangkah-lagi-bisa-jadi-bom-nuklir"
     },
     {
         "title": "Bea Cukai Jember Musnahkan Barang Hasil Penindakan Selama 2023 Bernilai Miliaran Rupiah",
         "category": "Beacukai",
         "publish_time": "30-08-2024 08:13",
         "news_link": "https://republika.co.id/berita/sj0ujm423/bea-cukai-jember-musnahkan-barang-hasil-penindakan-selama-2023-bernilai-miliaran-rupiah"
-    },
-    {
-        "title": "Fenomena Bulan Menjauhi Bumi Terjadi, Durasi Waktu 1 Hari di Bumi Bakal Bertambah?",
-        "category": "Ameera",
-        "publish_time": "30-08-2024 08:13",
-        "news_link": "https://ameera.republika.co.id/berita/sj0uis425/fenomena-bulan-menjauhi-bumi-terjadi-durasi-waktu-1-hari-di-bumi-bakal-bertambah"
-    },
-    {
-        "title": "Denny JA: Gagal Nyagub, Anies Punya Kisah dengan Prabowo, Jokowi, SBY hingga Megawati",
-        "category": "News",
-        "publish_time": "30-08-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sj0uh0475/denny-ja-gagal-nyagub-anies-punya-kisah-dengan-prabowo-jokowi-sby-hingga-megawati"
-    },
-    {
-        "title": "Sisi Islami Presiden RI Pertama Soekarno yang Jarang Terungkap, Sosok yang Cinta Masjid",
-        "category": "Khazanah",
-        "publish_time": "30-08-2024 08:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sj0ucw320/sisi-islami-presiden-ri-pertama-soekarno-yang-jarang-terungkap-sosok-yang-cinta-masjid"
-    },
-    {
-        "title": "Babak Pertama, Timnas Indonesia U-20 Tertinggal Satu Gol dari Thailand U-20",
-        "category": "News",
-        "publish_time": "30-08-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sj0u9h348/babak-pertama-timnas-indonesia-u20-tertinggal-satu-gol-dari-thailand-u20"
-    },
-    {
-        "title": "Pejuang Bangkit Melawan di Tepi Barat, Tentara IDF Tewas",
-        "category": "News",
-        "publish_time": "30-08-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sj0u4q393/pejuang-bangkit-melawan-di-tepi-barat-tentara-idf-tewas"
-    },
-    {
-        "title": "Alami Gejala Depresi? Jangan Takut ke Psikiater!",
-        "category": "Ameera",
-        "publish_time": "30-08-2024 08:13",
-        "news_link": "https://ameera.republika.co.id/berita/sj0u1z425/alami-gejala-depresi-jangan-takut-ke-psikiater"
-    },
-    {
-        "title": "Kala Khabib Nurmagomedov Jadi Korban Hoaks Perempuan Indonesia",
-        "category": "News",
-        "publish_time": "30-08-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sj0u1e484/kala-khabib-nurmagomedov-jadi-korban-hoaks-perempuan-indonesia"
-    },
-    {
-        "title": "Hari Ini, Cabup Cawabup Majalengka Jalani Pemeriksaan Kesehatan",
-        "category": "Rejabar",
-        "publish_time": "30-08-2024 08:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sj0u0c512/hari-ini-cabup-cawabup-majalengka-jalani-pemeriksaan-kesehatan"
-    },
-    {
-        "title": "Berkah Menggunakan Energi Hijau",
-        "category": "Video",
-        "publish_time": "30-08-2024 08:13",
-        "news_link": "https://tv.republika.co.id/berita/sj0tv1418/berkah-menggunakan-energi-hijau"
-    },
-    {
-        "title": "KPK: Kaesang Miliki 30 Hari untuk Klarifikasi Penggunaan Jet Pribadi",
-        "category": "News",
-        "publish_time": "30-08-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sj0tuw487/kpk-kaesang-miliki-30-hari-untuk-klarifikasi-penggunaan-jet-pribadi"
-    },
-    {
-        "title": "Soal Tudingan Jokowi Jegal Anies, Istana: Presiden Jangan Dikaitkan Terus",
-        "category": "News",
-        "publish_time": "30-08-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sj0tqy377/soal-tudingan-jokowi-jegal-anies-istana-presiden-jangan-dikaitkan-terus"
-    },
-    {
-        "title": "Ini Olahraga Favorit Cagub Pramono Anung",
-        "category": "News",
-        "publish_time": "30-08-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sj0iq9451/ini-olahraga-favorit-cagub-pramono-anung"
-    },
-    {
-        "title": "Berdayakan Ekonomi Masyarakat, PHE Dukung Budidaya Kopi Puntang",
-        "category": "Esgnow",
-        "publish_time": "30-08-2024 07:13",
-        "news_link": "https://esgnow.republika.co.id/berita/sj0t16349/berdayakan-ekonomi-masyarakat-phe-dukung-budidaya-kopi-puntang"
-    },
-    {
-        "title": "PGE Tekankan Pentingnya Transparansi Korporat dalam Strategi Keberlanjutan",
-        "category": "Esgnow",
-        "publish_time": "30-08-2024 07:13",
-        "news_link": "https://esgnow.republika.co.id/berita/sj0pmy416/pge-tekankan-pentingnya-transparansi-korporat-dalam-strategi-keberlanjutan"
-    },
-    {
-        "title": "Anies Minta Para Pendukungnya Jaga Suasana Pilkada Tetap Teduh",
-        "category": "News",
-        "publish_time": "30-08-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/sj0srg377/anies-minta-para-pendukungnya-jaga-suasana-pilkada-tetap-teduh"
-    },
-    {
-        "title": "Hikayat Prang Sabi, Khazanah Sastra Aceh yang Menakjubkan",
-        "category": "Khazanah",
-        "publish_time": "30-08-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sj0src458/hikayat-prang-sabi-khazanah-sastra-aceh-yang-menakjubkan"
-    },
-    {
-        "title": "Penjajah Israel Tarik Pasukan dari Tulkarm Usai Lakukan Pembantaian",
-        "category": "Khazanah",
-        "publish_time": "30-08-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sj0sm0483/penjajah-israel-tarik-pasukan-dari-tulkarm-usai-lakukan-pembantaian"
-    },
-    {
-        "title": "Pembangunan PLTS Aruna di Purwakarta Pasok Kawasan Industri Hijau Diapresiasi",
-        "category": "Ekonomi",
-        "publish_time": "30-08-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sj0si9370/pembangunan-plts-aruna-di-purwakarta-pasok-kawasan-industri-hijau-diapresiasi"
-    },
-    {
-        "title": "Jeje-Ronald Daftar Pilgub Jabar Lewat Zoom Dinilai Tetap Sah, Ini Penjelasan KPU",
-        "category": "Rejabar",
-        "publish_time": "30-08-2024 07:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sj0s88512/jejeronald-daftar-pilgub-jabar-lewat-zoom-dinilai-tetap-sah-ini-penjelasan-kpu"
-    },
-    {
-        "title": "Ini Susunan Pemain Indonesia Vs Thailand pada Ajang Seoul Earth on Us Cup",
-        "category": "News",
-        "publish_time": "30-08-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/sj0riz348/ini-susunan-pemain-indonesia-vs-thailand-pada-ajang-seoul-earth-on-us-cup"
-    },
-    {
-        "title": "Banyak Ibadah Jadi Miskin? Ini Penjelasannya",
-        "category": "Iqra",
-        "publish_time": "30-08-2024 07:13",
-        "news_link": "https://iqra.republika.co.id/berita/sj0iis451/banyak-ibadah-jadi-miskin-ini-penjelasannya"
-    },
-    {
-        "title": "Tiga Alasan Mengapa pada Akhirnya Anies tak Bisa 'Berlayar' di Pilkada Menurut Pakar",
-        "category": "News",
-        "publish_time": "30-08-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/sj0rca377/tiga-alasan-mengapa-pada-akhirnya-anies-tak-bisa-berlayar-di-pilkada-menurut-pakar"
-    },
-    {
-        "title": "Dedi Mulyadi-Erwan Setiawan dan Ahmad Syaikhu-Ilham Habibie Jalani Tes Kesehatan di RSHS",
-        "category": "Rejabar",
-        "publish_time": "30-08-2024 07:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sj0rbt512/dedi-mulyadierwan-setiawan-dan-ahmad-syaikhuilham-habibie-jalani-tes-kesehatan-di-rshs"
-    },
-    {
-        "title": "Sumbangsih Islam untuk Sastra Dunia",
-        "category": "Khazanah",
-        "publish_time": "30-08-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sj0r6m458/sumbangsih-islam-untuk-sastra-dunia"
-    },
-    {
-        "title": "Presiden Jokowi Terima Penghargaan Agricola Medal di Istana Negara",
-        "category": "Visual",
-        "publish_time": "30-08-2024 07:13",
-        "news_link": "https://visual.republika.co.id/berita/sj0r54375/presiden-jokowi-terima-penghargaan-agricola-medal-di-istana-negara"
-    },
-    {
-        "title": "KPK Laporkan Bambang Soesatyo ke Mahkamah Kehormatan Dewan",
-        "category": "News",
-        "publish_time": "30-08-2024 06:13",
-        "news_link": "https://news.republika.co.id/berita/sj0pk7318/kpk-laporkan-bambang-soesatyo-ke-mahkamah-kehormatan-dewan"
-    },
-    {
-        "title": "Pilkada Lima Daerah di Jawa Timur Hanya Ada Satu Paslon, Termasuk Kota Surabaya",
-        "category": "News",
-        "publish_time": "30-08-2024 06:13",
-        "news_link": "https://news.republika.co.id/berita/sj0qni377/pilkada-lima-daerah-di-jawa-timur-hanya-ada-satu-paslon-termasuk-kota-surabaya"
     }
 ]
