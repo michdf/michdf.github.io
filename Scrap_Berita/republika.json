@@ -1,5 +1,89 @@
 [
     {
+        "title": "Kemenkes Ungkap Penghentian Aktivitas Klinis Dekan FK Undip Bersifat Sementara",
+        "category": "News",
+        "publish_time": "01 September 2024, 21:45",
+        "news_link": "https://news.republika.co.id/berita/sj52c7425/kemenkes-ungkap-penghentian-aktivitas-klinis-dekan-fk-undip-bersifat-sementara"
+    },
+    {
+        "title": "Indonesia Kembangkan Hilirisasi Energi Baru Terbarukan di Afrika",
+        "category": "Esgnow",
+        "publish_time": "01 September 2024, 21:41",
+        "news_link": "https://esgnow.republika.co.id/berita/sj525k502/indonesia-kembangkan-hilirisasi-energi-baru-terbarukan-di-afrika"
+    },
+    {
+        "title": "Jurus Komunikasi Efektif untuk Pemimpin, Begini Cara yang Tepat",
+        "category": "Network",
+        "publish_time": "01 September 2024, 21:32",
+        "news_link": "https://impresi.republika.co.id/didaktika/1695029437/jurus-komunikasi-efektif-untuk-pemimpin-begini-cara-yang-tepat"
+    },
+    {
+        "title": "Cegah Stunting, FIK UI Tingkatkan Kapasitas Ibu dalam Mempersiapkan MPASI",
+        "category": "Network",
+        "publish_time": "01 September 2024, 21:31",
+        "news_link": "https://boyanesia.republika.co.id/news/1645037660/cegah-stunting-fik-ui-tingkatkan-kapasitas-ibu-dalam-mempersiapkan-mpasi"
+    },
+    {
+        "title": "Dua dari Tiga Kematian Terkait Obesitas Akibat Penyakit Jantung",
+        "category": "Network",
+        "publish_time": "01 September 2024, 21:30",
+        "news_link": "https://impresi.republika.co.id/news/1695040955/dua-dari-tiga-kematian-terkait-obesitas-akibat-penyakit-jantung"
+    },
+    {
+        "title": "Inilah 8 Hard Skill yang dibutuhkan di Masa Depan, Kamu Wajib Tahu!",
+        "category": "Retizen",
+        "publish_time": "01 September 2024, 21:30",
+        "news_link": "https://retizen.republika.co.id/posts/327759/inilah-8-hard-skill-yang-dibutuhkan-di-masa-depan-kamu-wajib-tahu"
+    },
+    {
+        "title": "Bayang-Bayang Nuklir di Semenanjung Korea: dari Kim Jong-un untuk Teman Tercinta",
+        "category": "Retizen",
+        "publish_time": "01 September 2024, 21:30",
+        "news_link": "https://retizen.republika.co.id/posts/327827/bayang-bayang-nuklir-di-semenanjung-korea-dari-kim-jong-un-untuk-teman-tercinta"
+    },
+    {
+        "title": "Tantangan Besar, Anggaran Kecil: Mengapa Indonesia Harus Siap Hadapi Ancaman Megathrust",
+        "category": "Retizen",
+        "publish_time": "01 September 2024, 21:30",
+        "news_link": "https://retizen.republika.co.id/posts/327833/tantangan-besar-anggaran-kecil-mengapa-indonesia-harus-siap-hadapi-ancaman-megathrust"
+    },
+    {
+        "title": "Ilmuwan Temukan Faktor Risiko Utama Baru Penyakit Jantung",
+        "category": "Network",
+        "publish_time": "01 September 2024, 21:29",
+        "news_link": "https://impresi.republika.co.id/news/1695041049/ilmuwan-temukan-faktor-risiko-utama-baru-penyakit-jantung"
+    },
+    {
+        "title": "70 Peserta Ikuti Ujian Seleksi Pendidikan Kader Ulama yang Digelar MUI Depok",
+        "category": "Network",
+        "publish_time": "01 September 2024, 21:29",
+        "news_link": "https://ruzka.republika.co.id/edukasi/1675041479/70-peserta-ikuti-ujian-seleksi-pendidikan-kader-ulama-yang-digelar-mui-depok"
+    },
+    {
+        "title": "Gen Z Berorganisasi? Ini Kata Anggota Muda PMB",
+        "category": "Network",
+        "publish_time": "01 September 2024, 21:28",
+        "news_link": "https://oohya.republika.co.id/pitan/1745041235/gen-z-berorganisasi-ini-kata-anggota-muda-pmb"
+    },
+    {
+        "title": "Residivis Narkoba Tewas di Rutan Cilodong Depok, Ini Penyebabnya",
+        "category": "Network",
+        "publish_time": "01 September 2024, 21:27",
+        "news_link": "https://ruzka.republika.co.id/news/1675042106/residivis-narkoba-tewas-di-rutan-cilodong-depok-ini-penyebabnya"
+    },
+    {
+        "title": "Kenangan Pikiran MR Moh Roem: Saya Menerima Pancasila Karena Saya Orang Islam",
+        "category": "Network",
+        "publish_time": "01 September 2024, 21:26",
+        "news_link": "https://algebra.republika.co.id/posts/328073/kenangan-pikiran-mr-moh-roem-saya-menerima-pancasila-karena-saya-orang-islam"
+    },
+    {
+        "title": "Alumni Unisba Semakin Cepat Mendapatkan Pekerjaan, Rektor: Sekarang Hanya Menunggu 4 Bulan",
+        "category": "Rejabar",
+        "publish_time": "01 September 2024, 21:25",
+        "news_link": "https://rejabar.republika.co.id/berita/sj51ev512/alumni-unisba-semakin-cepat-mendapatkan-pekerjaan-rektor-sekarang-hanya-menunggu-4-bulan"
+    },
+    {
         "title": "ChatGPT Punya Lebih dari 200 Juta Pengguna Aktif Mingguan",
         "category": "Ameera",
         "publish_time": "01 September 2024, 21:07",
@@ -60,10 +144,10 @@
         "news_link": "https://ameera.republika.co.id/berita/sj4y3h425/akting-lady-gaga-di-film-joker-folie-a-deux-tuai-pujian"
     },
     {
-        "title": "Bahlil Sowan ke Sayyid Muhammad Al Maliki di Makkah",
+        "title": "Bahlil Sowan ke Sayyid Muhammad Al Maliki di Madinah",
         "category": "Khazanah",
         "publish_time": "01 September 2024, 20:06",
-        "news_link": "https://khazanah.republika.co.id/berita/sj4xpd430/bahlil-sowan-ke-sayyid-muhammad-al-maliki-di-makkah"
+        "news_link": "https://khazanah.republika.co.id/berita/sj4xpd430/bahlil-sowan-ke-sayyid-muhammad-al-maliki-di-madinah"
     },
     {
         "title": "Daya Beli Kelas Menengah Makin Lesu, Ekonom: Jangan Dibebankan Pajak",
@@ -72,10 +156,10 @@
         "news_link": "https://ekonomi.republika.co.id/berita/sj4xlc502/daya-beli-kelas-menengah-makin-lesu-ekonom-jangan-dibebankan-pajak"
     },
     {
-        "title": "PKS Minta Dinkes Usut Dugaan Larangan Penggunaan untuk Dokter di RS Medistra",
+        "title": "PKS Minta Dinkes Usut Dugaan Larangan Penggunaan Jilbab untuk Dokter di RS Medistra",
         "category": "Khazanah",
         "publish_time": "01 September 2024, 19:51",
-        "news_link": "https://khazanah.republika.co.id/berita/sj4x2d430/pks-minta-dinkes-usut-dugaan-larangan-penggunaan-untuk-dokter-di-rs-medistra"
+        "news_link": "https://khazanah.republika.co.id/berita/sj4x2d430/pks-minta-dinkes-usut-dugaan-larangan-penggunaan-jilbab-untuk-dokter-di-rs-medistra"
     },
     {
         "title": "Sebelum Beli Mobil Listrik, Pastikan Tanya Detail Ini Soal Baterai",
@@ -214,89 +298,5 @@
         "category": "Iqra",
         "publish_time": "01 September 2024, 18:27",
         "news_link": "https://iqra.republika.co.id/berita/sj4t5p430/pemerasan-terhadap-dokter-aulia-risma-oleh-senior-pelaku-harus-tahu-tiga-ayat-alquran-ini"
-    },
-    {
-        "title": "Pencitraan Lidah Berbasis AI Bisa Deteksi Penyakit Arteri Koroner Secara Efektif",
-        "category": "Network",
-        "publish_time": "01 September 2024, 18:26",
-        "news_link": "https://impresiupdate.id/posts/328072/pencitraan-lidah-berbasis-ai-bisa-deteksi-penyakit-arteri-koroner-secara-efektif"
-    },
-    {
-        "title": "Batik Sukabumi Berpotensi Ditampilkan di Level Nasional Hingga Internasional",
-        "category": "Network",
-        "publish_time": "01 September 2024, 18:26",
-        "news_link": "https://sukabumikini.com/posts/328097/batik-sukabumi-berpotensi-ditampilkan-di-level-nasional-hingga-internasional"
-    },
-    {
-        "title": "Juara Korea Open 2024, Bagas/Leo: Akhirnya Lepas dari Sebutan Manusia Silver",
-        "category": "Network",
-        "publish_time": "01 September 2024, 18:25",
-        "news_link": "https://badmintonews.id/posts/328105/juara-korea-open-2024-bagas-leo-akhirnya-lepas-dari-sebutan-manusia-silver"
-    },
-    {
-        "title": "Dokter Aulia Risma Dipalak Senior Hingga Rp 40 Juta per Bulan, Uangnya Digunakan untuk...",
-        "category": "Khazanah",
-        "publish_time": "01 September 2024, 18:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sj4siy430/dokter-aulia-risma-dipalak-senior-hingga-rp-40-juta-per-bulan-uangnya-digunakan-untuk"
-    },
-    {
-        "title": "6 Temuan Pew Research Ini Ungkap Kencenderungan Beragama Terkini di 5 Negara Asia",
-        "category": "Khazanah",
-        "publish_time": "01 September 2024, 18:07",
-        "news_link": "https://khazanah.republika.co.id/berita/sj4s97320/6-temuan-pew-research-ini-ungkap-kencenderungan-beragama-terkini-di-5-negara-asia"
-    },
-    {
-        "title": "Komisi I Soroti PR Bidang Pemerintahan Jelang Pelantikan Anggota DPRD Jawa Barat 2024-2029",
-        "category": "News",
-        "publish_time": "01 September 2024, 18:01",
-        "news_link": "https://news.republika.co.id/berita/sj4ryl456/komisi-i-soroti-pr-bidang-pemerintahan-jelang-pelantikan-anggota-dprd-jawa-barat-20242029"
-    },
-    {
-        "title": "Hilangkan Trauma Bencana, Relawan Ajak Anak Korban Banjir Bandang Ternate Main Bersama",
-        "category": "Visual",
-        "publish_time": "01 September 2024, 18:00",
-        "news_link": "https://visual.republika.co.id/berita/sj4n6y375/hilangkan-trauma-bencana-relawan-ajak-anak-korban-banjir-bandang-ternate-main-bersama"
-    },
-    {
-        "title": "Dokter Undip yang Bunuh Diri Diduga Dimintai Hingga Rp 40 Juta/Bulan oleh Oknum Senior",
-        "category": "News",
-        "publish_time": "01 September 2024, 17:59",
-        "news_link": "https://news.republika.co.id/berita/sj4rue425/dokter-undip-yang-bunuh-diri-diduga-dimintai-hingga-rp-40-jutabulan-oleh-oknum-senior"
-    },
-    {
-        "title": "Israel Serang Konvoi Bantuan Makanan dan Bahan Bakar di Gaza",
-        "category": "Khazanah",
-        "publish_time": "01 September 2024, 17:53",
-        "news_link": "https://khazanah.republika.co.id/berita/sj4rlm430/israel-serang-konvoi-bantuan-makanan-dan-bahan-bakar-di-gaza"
-    },
-    {
-        "title": "Belasan Driver Grab Lakukan Konvoi pada Peluncuran Chiki Bertanda Khusus x OVO",
-        "category": "Rejogja",
-        "publish_time": "01 September 2024, 17:45",
-        "news_link": "https://rejogja.republika.co.id/berita/sj4or4291/belasan-driver-grab-lakukan-konvoi-pada-peluncuran-chiki-bertanda-khusus-x-ovo"
-    },
-    {
-        "title": "Lagu Bernadya \u2018Satu Bulan\u2019 Bikin Musisi Korea Ini Kepincut",
-        "category": "Ameera",
-        "publish_time": "01 September 2024, 17:42",
-        "news_link": "https://ameera.republika.co.id/berita/sj4r2j425/lagu-bernadya-satu-bulan-bikin-musisi-korea-ini-kepincut"
-    },
-    {
-        "title": "Peneliti Uji Vaksin RNA Duta, Cegah Flu Burung Pada Sapi",
-        "category": "Video",
-        "publish_time": "01 September 2024, 17:42",
-        "news_link": "https://tv.republika.co.id/berita/sj4ltx467/peneliti-uji-vaksin-rna-duta-cegah-flu-burung-pada-sapi"
-    },
-    {
-        "title": "Tentara Israel Kembali Serang Masjid Ibrahimi di Hebron, Larang Jamaah Masuk",
-        "category": "Khazanah",
-        "publish_time": "01 September 2024, 17:40",
-        "news_link": "https://khazanah.republika.co.id/berita/sj4qzh320/tentara-israel-kembali-serang-masjid-ibrahimi-di-hebron-larang-jamaah-masuk"
-    },
-    {
-        "title": "Ini Cara Kemenpora Ajak Pemuda Adaptif dengan Perkembangan Dunia Digital",
-        "category": "News",
-        "publish_time": "01 September 2024, 17:26",
-        "news_link": "https://news.republika.co.id/berita/sj4hfx456/ini-cara-kemenpora-ajak-pemuda-adaptif-dengan-perkembangan-dunia-digital"
     }
 ]
