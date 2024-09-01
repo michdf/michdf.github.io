@@ -1,5 +1,65 @@
 [
     {
+        "title": "Seminar AI di Universitas BSI: Bukan Cuma Teori, tapi Langkah Nyata Transformasi",
+        "category": "News",
+        "publish_time": "01 September 2024, 15:06",
+        "news_link": "https://news.republika.co.id/berita/sj4jus490/seminar-ai-di-universitas-bsi-bukan-cuma-teori-tapi-langkah-nyata-transformasi"
+    },
+    {
+        "title": "Dorong Poros Maritim Dunia, WSBP Wujudkan Pelabuhan Batu Ampar Saingi Singapura",
+        "category": "Ekonomi",
+        "publish_time": "01 September 2024, 15:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/sj4hzg430/dorong-poros-maritim-dunia-wsbp-wujudkan-pelabuhan-batu-ampar-saingi-singapura"
+    },
+    {
+        "title": "Rano Karno Puji Anies yang Sudah Buat Jakarta Jadi Nyaman",
+        "category": "News",
+        "publish_time": "01 September 2024, 14:52",
+        "news_link": "https://news.republika.co.id/berita/sj4j7z348/rano-karno-puji-anies-yang-sudah-buat-jakarta-jadi-nyaman"
+    },
+    {
+        "title": "IBL Kolaborasi dengan B League Edukasi Pebasket Usia Dini",
+        "category": "News",
+        "publish_time": "01 September 2024, 14:45",
+        "news_link": "https://news.republika.co.id/berita/sj4iwh348/ibl-kolaborasi-dengan-b-league-edukasi-pebasket-usia-dini"
+    },
+    {
+        "title": "Jelang Pelantikan DPRD Jabar, Bapemperda Jabar Ingatkan Kinerja hingga Penguasaan Regulasi",
+        "category": "Rejabar",
+        "publish_time": "01 September 2024, 14:42",
+        "news_link": "https://rejabar.republika.co.id/berita/sj4ir6490/jelang-pelantikan-dprd-jabar-bapemperda-jabar-ingatkan-kinerja-hingga-penguasaan-regulasi"
+    },
+    {
+        "title": "Marc Marquez Incar Podium MotoGP Aragon Usai Menang Sprint Race",
+        "category": "News",
+        "publish_time": "01 September 2024, 14:38",
+        "news_link": "https://news.republika.co.id/berita/sj4ikb348/marc-marquez-incar-podium-motogp-aragon-usai-menang-sprint-race"
+    },
+    {
+        "title": "Ngaji Santai di Masjid At-Thohir, Ustadz Handy Bonny: Nikah Gak Sengeri Toefl",
+        "category": "Khazanah",
+        "publish_time": "01 September 2024, 14:36",
+        "news_link": "https://khazanah.republika.co.id/berita/sj4ihk320/ngaji-santai-di-masjid-atthohir-ustadz-handy-bonny-nikah-gak-sengeri-toefl"
+    },
+    {
+        "title": "Dukung Pemerataan Infrastruktur, Waskita Beton Terus Cari Peluang di IKN",
+        "category": "Ekonomi",
+        "publish_time": "01 September 2024, 14:36",
+        "news_link": "https://ekonomi.republika.co.id/berita/sj4ih4490/dukung-pemerataan-infrastruktur-waskita-beton-terus-cari-peluang-di-ikn"
+    },
+    {
+        "title": "Houthi Yaman Serang Kapal Kargo yang Terhubung dengan Israel",
+        "category": "Khazanah",
+        "publish_time": "01 September 2024, 14:30",
+        "news_link": "https://khazanah.republika.co.id/berita/sj4hu9430/houthi-yaman-serang-kapal-kargo-yang-terhubung-dengan-israel"
+    },
+    {
+        "title": "Leo/Bagas Juara Korea Open Usai Tumbangkan Unggulan Pertama, tak Ingin Cepat Puas",
+        "category": "News",
+        "publish_time": "01 September 2024, 14:26",
+        "news_link": "https://news.republika.co.id/berita/sj4i0p348/leobagas-juara-korea-open-usai-tumbangkan-unggulan-pertama-tak-ingin-cepat-puas"
+    },
+    {
         "title": "Komitmen WSBP Jadi \"One Stop Solution\" Dinilai Efektif",
         "category": "Ekonomi",
         "publish_time": "01 September 2024, 14:01",
@@ -54,10 +114,10 @@
         "news_link": "https://news.republika.co.id/berita/sj4cku487/dituding-undip-lakukan-intervensi-pemberhentian-dekan-kedokteran-ini-jawaban-kemenkes"
     },
     {
-        "title": "Reaksi Persis Doal Surat Seorang Dokter ke RS Medistra terkait Dugaan Pembatasan Jilbab",
+        "title": "Reaksi Persis Soal Surat Seorang Dokter ke RS Medistra terkait Dugaan Pembatasan Jilbab",
         "category": "Khazanah",
         "publish_time": "01 September 2024, 12:18",
-        "news_link": "https://khazanah.republika.co.id/berita/sj4c3b430/reaksi-persis-doal-surat-seorang-dokter-ke-rs-medistra-terkait-dugaan-pembatasan-jilbab"
+        "news_link": "https://khazanah.republika.co.id/berita/sj4c3b430/reaksi-persis-soal-surat-seorang-dokter-ke-rs-medistra-terkait-dugaan-pembatasan-jilbab"
     },
     {
         "title": "Jelang HLF MSP dan IAF, Telkom Pastikan Kesiapan Layanan Infrastruktur Telekomunikasi",
@@ -238,65 +298,5 @@
         "category": "News",
         "publish_time": "01 September 2024, 08:06",
         "news_link": "https://news.republika.co.id/berita/sj40ep490/yuk-kenali-program-studi-sistem-informasi-di-universitas-bsi-kampus-sukabumi"
-    },
-    {
-        "title": "Dosen Universitas BSI Lakukan Kegiatan Pendampingan dan Pelatihan Kelompok Tani Hydromadam",
-        "category": "News",
-        "publish_time": "01 September 2024, 08:00",
-        "news_link": "https://news.republika.co.id/berita/sj404d490/dosen-universitas-bsi-lakukan-kegiatan-pendampingan-dan-pelatihan-kelompok-tani-hydromadam"
-    },
-    {
-        "title": "Dukung Kewirausahaan, Universitas BSI Kampus Pontianak Dorong Lulusan Jadi Pengusaha",
-        "category": "News",
-        "publish_time": "01 September 2024, 07:55",
-        "news_link": "https://news.republika.co.id/berita/sj3zvp490/dukung-kewirausahaan-universitas-bsi-kampus-pontianak-dorong-lulusan-jadi-pengusaha"
-    },
-    {
-        "title": "Arteta Kritik Keputusan Wasit Usir Declan Rice yang Rugikan Arsenal",
-        "category": "News",
-        "publish_time": "01 September 2024, 07:49",
-        "news_link": "https://news.republika.co.id/berita/sj3zn5348/arteta-kritik-keputusan-wasit-usir-declan-rice-yang-rugikan-arsenal"
-    },
-    {
-        "title": "Dekan Kedokteran Undip Diberhentikan, Warek: Dirut RS Kariadi Dapat Tekanan dari Kemenkes",
-        "category": "News",
-        "publish_time": "01 September 2024, 07:48",
-        "news_link": "https://news.republika.co.id/berita/sj3zl9487/dekan-kedokteran-undip-diberhentikan-warek-dirut-rs-kariadi-dapat-tekanan-dari-kemenkes"
-    },
-    {
-        "title": "Terungkap Begini Cara Pejuang Tepi Barat Palestina Dapat Senjata untuk Lawan Israel",
-        "category": "Khazanah",
-        "publish_time": "01 September 2024, 07:40",
-        "news_link": "https://khazanah.republika.co.id/berita/sj3z71320/terungkap-begini-cara-pejuang-tepi-barat-palestina-dapat-senjata-untuk-lawan-israel"
-    },
-    {
-        "title": "Barcelona Pesta Gol di Kandang, Atletico Susah Payah Amankan Kemenangan di La Liga Spanyol",
-        "category": "News",
-        "publish_time": "01 September 2024, 07:38",
-        "news_link": "https://news.republika.co.id/berita/sj3z4f348/barcelona-pesta-gol-di-kandang-atletico-susah-payah-amankan-kemenangan-di-la-liga-spanyol"
-    },
-    {
-        "title": "Digelar Mulai Pagi Ini, Final Mandiri Indonesia Open 2024 Jamin Keseruan",
-        "category": "News",
-        "publish_time": "01 September 2024, 07:31",
-        "news_link": "https://news.republika.co.id/berita/sj3ysy456/digelar-mulai-pagi-ini-final-mandiri-indonesia-open-2024-jamin-keseruan"
-    },
-    {
-        "title": "Janji Prabowo Melanjutkan Program Jokowi: Kami di Belakang Bapak",
-        "category": "News",
-        "publish_time": "01 September 2024, 07:26",
-        "news_link": "https://news.republika.co.id/berita/sj3ykd487/janji-prabowo-melanjutkan-program-jokowi-kami-di-belakang-bapak"
-    },
-    {
-        "title": "Jelang Pelantikan DPRD Jawa Barat 2024-2029, Ini Harapan Badan Anggaran",
-        "category": "News",
-        "publish_time": "01 September 2024, 07:24",
-        "news_link": "https://news.republika.co.id/berita/sj3yhm456/jelang-pelantikan-dprd-jawa-barat-20242029-ini-harapan-badan-anggaran"
-    },
-    {
-        "title": "Alhamdulillah Harga BBM Pertamina Turun, Ini Daftar Lengkapnya",
-        "category": "Ekonomi",
-        "publish_time": "01 September 2024, 07:20",
-        "news_link": "https://ekonomi.republika.co.id/berita/sj3y9w490/alhamdulillah-harga-bbm-pertamina-turun-ini-daftar-lengkapnya"
     }
 ]
