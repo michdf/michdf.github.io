@@ -1,5 +1,83 @@
 [
     {
+        "title": "Akting Lady Gaga di Film Joker: Folie a Deux Tuai Pujian",
+        "category": "Ameera",
+        "publish_time": "01 September 2024, 20:14",
+        "news_link": "https://ameera.republika.co.id/berita/sj4y3h425/akting-lady-gaga-di-film-joker-folie-a-deux-tuai-pujian"
+    },
+    {
+        "title": "Bahlil Sowan ke Sayyid Muhammad Al Maliki di Makkah",
+        "category": "Khazanah",
+        "publish_time": "01 September 2024, 20:06",
+        "news_link": "https://khazanah.republika.co.id/berita/sj4xpd430/bahlil-sowan-ke-sayyid-muhammad-al-maliki-di-makkah"
+    },
+    {
+        "title": "Daya Beli Kelas Menengah Makin Lesu, Ekonom: Jangan Dibebankan Pajak",
+        "category": "Ekonomi",
+        "publish_time": "01 September 2024, 20:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/sj4xlc502/daya-beli-kelas-menengah-makin-lesu-ekonom-jangan-dibebankan-pajak"
+    },
+    {
+        "title": "PKS Minta Dinkes Usut Dugaan Larangan Penggunaan untuk Dokter di RS Medistra",
+        "category": "Khazanah",
+        "publish_time": "01 September 2024, 19:51",
+        "news_link": "https://khazanah.republika.co.id/berita/sj4x2d430/pks-minta-dinkes-usut-dugaan-larangan-penggunaan-untuk-dokter-di-rs-medistra"
+    },
+    {
+        "title": "Sebelum Beli Mobil Listrik, Pastikan Tanya Detail Ini Soal Baterai",
+        "category": "Ekonomi",
+        "publish_time": "01 September 2024, 19:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/sj4wzl502/sebelum-beli-mobil-listrik-pastikan-tanya-detail-ini-soal-baterai"
+    },
+    {
+        "title": "Indonesia U-20 Tutup Laga di Seoul Earth on Us Cup 2024 dengan Kekalahan 0-3 dari Korsel",
+        "category": "News",
+        "publish_time": "01 September 2024, 19:48",
+        "news_link": "https://news.republika.co.id/berita/sj4wwl348/indonesia-u20-tutup-laga-di-seoul-earth-on-us-cup-2024-dengan-kekalahan-03-dari-korsel"
+    },
+    {
+        "title": "Akhirnya, Gaza Mulai Gelar Vaksinasi Polio Berskala Besar",
+        "category": "Network",
+        "publish_time": "01 September 2024, 19:43",
+        "news_link": "https://ruzkaindonesia.id/posts/328112/akhirnya-gaza-mulai-gelar-vaksinasi-polio-berskala-besar"
+    },
+    {
+        "title": "Pencarian Korban Banjir Bandang Ternate Diperpanjang Tiga Hari",
+        "category": "Network",
+        "publish_time": "01 September 2024, 19:43",
+        "news_link": "https://topnews62.com/posts/328113/pencarian-korban-banjir-bandang-ternate-diperpanjang-tiga-hari"
+    },
+    {
+        "title": "Bandara Soetta Kebakaran, Dua Saksi Diperiksa",
+        "category": "News",
+        "publish_time": "01 September 2024, 19:41",
+        "news_link": "https://news.republika.co.id/berita/sj4wkn502/bandara-soetta-kebakaran-dua-saksi-diperiksa"
+    },
+    {
+        "title": "BNI Bakal Tambah Berbagai Fitur Baru di Wondr",
+        "category": "Ekonomi",
+        "publish_time": "01 September 2024, 19:34",
+        "news_link": "https://ekonomi.republika.co.id/berita/sj4w9k502/bni-bakal-tambah-berbagai-fitur-baru-di-wondr"
+    },
+    {
+        "title": "Relawan Prabowo Siap Menangkan Ridwan Kamil di Pilgub Jakarta 2024",
+        "category": "News",
+        "publish_time": "01 September 2024, 19:34",
+        "news_link": "https://news.republika.co.id/berita/sj4w8s320/relawan-prabowo-siap-menangkan-ridwan-kamil-di-pilgub-jakarta-2024"
+    },
+    {
+        "title": "Bakal Berlaga di PON XXI, Tim Atlet Voli Pantai Jabar Dilepas Kapolres Indramayu",
+        "category": "Rejabar",
+        "publish_time": "01 September 2024, 19:30",
+        "news_link": "https://rejabar.republika.co.id/berita/sj4w2v512/bakal-berlaga-di-pon-xxi-tim-atlet-voli-pantai-jabar-dilepas-kapolres-indramayu"
+    },
+    {
+        "title": "Ponsel Lipat Barbie Dirilis, Cocok Buat yang Mau Detoks dari Dunia Medsos",
+        "category": "Ameera",
+        "publish_time": "01 September 2024, 19:28",
+        "news_link": "https://ameera.republika.co.id/berita/sj4w00425/ponsel-lipat-barbie-dirilis-cocok-buat-yang-mau-detoks-dari-dunia-medsos"
+    },
+    {
         "title": "Langgar Izin Tinggal, Dokter Bedah Plastik Asal Korea Selatan Dideportasi",
         "category": "News",
         "publish_time": "01 September 2024, 19:08",
@@ -24,10 +102,10 @@
         "news_link": "https://rejogja.republika.co.id/berita/sj4umh282/kemenkes-dokter-arl-dipalak-rp-40-juta-per-bulan-oleh-senior-saat-ppds-undip"
     },
     {
-        "title": "Kemenkes Bakal Ungkap Hasil Investigasi Kasus Bunuh Diri Dokter ARL Pekan Depan",
+        "title": "Kemenkes Ungkap Hasil Investigasi Kasus Bunuh Diri Dokter ARL ke Publik Pekan Depan",
         "category": "News",
         "publish_time": "01 September 2024, 18:55",
-        "news_link": "https://news.republika.co.id/berita/sj4ufo425/kemenkes-bakal-ungkap-hasil-investigasi-kasus-bunuh-diri-dokter-arl-pekan-depan"
+        "news_link": "https://news.republika.co.id/berita/sj4ufo425/kemenkes-ungkap-hasil-investigasi-kasus-bunuh-diri-dokter-arl-ke-publik-pekan-depan"
     },
     {
         "title": "Gelar Santunan Yatim dan Dhuafa, PPIC Rilis JICare",
@@ -220,83 +298,5 @@
         "category": "Khazanah",
         "publish_time": "01 September 2024, 16:48",
         "news_link": "https://khazanah.republika.co.id/berita/sj4ok6320/mahasiswa-muslim-minta-pemerintahan-prabowogibran-dukung-muslim-uighur-china"
-    },
-    {
-        "title": "Baitul Maqdis, Tanah yang Dijanjikan Allah kepada Orang-Orang yang Taat",
-        "category": "Khazanah",
-        "publish_time": "01 September 2024, 16:33",
-        "news_link": "https://khazanah.republika.co.id/berita/sj4nvf430/baitul-maqdis-tanah-yang-dijanjikan-allah-kepada-orangorang-yang-taat"
-    },
-    {
-        "title": "Pesta Gol Barcelona ke Gawang Valladolid",
-        "category": "Visual",
-        "publish_time": "01 September 2024, 16:30",
-        "news_link": "https://visual.republika.co.id/berita/sj4mf1375/pesta-gol-barcelona-ke-gawang-valladolid"
-    },
-    {
-        "title": "Dua Ormas Terlibat Perang di Cianjur, Sejumlah Orang Luka Bacok, Berujung Damai",
-        "category": "Rejabar",
-        "publish_time": "01 September 2024, 16:25",
-        "news_link": "https://rejabar.republika.co.id/berita/sj4ni6282/dua-ormas-terlibat-perang-di-cianjur-sejumlah-orang-luka-bacok-berujung-damai"
-    },
-    {
-        "title": "3 Ayat Surat Ibrahim Ini Jadi Jawaban Tegas Terhadap Mereka yang tak Percaya Tuhan",
-        "category": "Iqra",
-        "publish_time": "01 September 2024, 16:22",
-        "news_link": "https://iqra.republika.co.id/berita/sj4ncz320/3-ayat-surat-ibrahim-ini-jadi-jawaban-tegas-terhadap-mereka-yang-tak-percaya-tuhan"
-    },
-    {
-        "title": "Lewat\u00a0BSI Digination, SMAN 8 Tangsel Siap Nyalakan Kreativitas Digital",
-        "category": "News",
-        "publish_time": "01 September 2024, 16:20",
-        "news_link": "https://news.republika.co.id/berita/sj4jlv490/lewatbsi-digination-sman-8-tangsel-siap-nyalakan-kreativitas-digital"
-    },
-    {
-        "title": "Penguasa Muslim Ini Merasa Gajinya Terlalu Besar Hingga Minta Dikurangi",
-        "category": "Khazanah",
-        "publish_time": "01 September 2024, 16:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sj4mui430/penguasa-muslim-ini-merasa-gajinya-terlalu-besar-hingga-minta-dikurangi"
-    },
-    {
-        "title": "SMK Letris Indonesia 2 Siap-Siap Jago Bikin Podcast Bareng BSI Digination!",
-        "category": "News",
-        "publish_time": "01 September 2024, 16:10",
-        "news_link": "https://news.republika.co.id/berita/sj4jhj490/smk-letris-indonesia-2-siapsiap-jago-bikin-podcast-bareng-bsi-digination"
-    },
-    {
-        "title": "Nova Setiawan Bagikan Pengalaman Praktis ke Mahasiswa Universitas BSI",
-        "category": "News",
-        "publish_time": "01 September 2024, 16:00",
-        "news_link": "https://news.republika.co.id/berita/sj4jdj490/nova-setiawan-bagikan-pengalaman-praktis-ke-mahasiswa-universitas-bsi"
-    },
-    {
-        "title": "Dharma Pongrekun-Kun Wardana Jalani Pemeriksaan Kesehatan",
-        "category": "Visual",
-        "publish_time": "01 September 2024, 15:56",
-        "news_link": "https://visual.republika.co.id/berita/sj4m6i375/dharma-pongrekunkun-wardana-jalani-pemeriksaan-kesehatan"
-    },
-    {
-        "title": "Jeratan UU Terorisme Menanti Aktivis Pro Palestina di Inggris dan Meluasnya Perang Gaza",
-        "category": "News",
-        "publish_time": "01 September 2024, 15:51",
-        "news_link": "https://news.republika.co.id/berita/sj4lxy320/jeratan-uu-terorisme-menanti-aktivis-pro-palestina-di-inggris-dan-meluasnya-perang-gaza"
-    },
-    {
-        "title": "Ini Ciri-ciri Masyarakat Menuju Kelas Menengah dan Rentan Miskin Menurut Pengamat",
-        "category": "Ekonomi",
-        "publish_time": "01 September 2024, 15:49",
-        "news_link": "https://ekonomi.republika.co.id/berita/sj4luk490/ini-ciriciri-masyarakat-menuju-kelas-menengah-dan-rentan-miskin-menurut-pengamat"
-    },
-    {
-        "title": "Prabowo Siapkan Anggaran Khusus untuk Kejar Koruptor",
-        "category": "Video",
-        "publish_time": "01 September 2024, 15:48",
-        "news_link": "https://tv.republika.co.id/berita/sj4ky5467/prabowo-siapkan-anggaran-khusus-untuk-kejar-koruptor"
-    },
-    {
-        "title": "Islamisasi Papua Terjadi Sebelum Para Penginjil dan Kolonial Tiba",
-        "category": "Khazanah",
-        "publish_time": "01 September 2024, 15:30",
-        "news_link": "https://khazanah.republika.co.id/berita/sj4i79430/islamisasi-papua-terjadi-sebelum-para-penginjil-dan-kolonial-tiba"
     }
 ]
