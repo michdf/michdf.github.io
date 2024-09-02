@@ -1,140 +1,230 @@
 [
     {
+        "title": "Raih Medali Emas di Paralimpiade 2024, Hikmat/Leani Emosional",
+        "category": "News",
+        "publish_time": "02-09-2024 12:21",
+        "news_link": "https://news.republika.co.id/berita/sj6qai348/raih-medali-emas-di-paralimpiade-2024-hikmatleani-emosional"
+    },
+    {
+        "title": "Terpidana Korupsi Akui Setor Pungli Hingga Rp145 Juta Saat Ditahan di Rutan KPK",
+        "category": "News",
+        "publish_time": "02-09-2024 12:16",
+        "news_link": "https://news.republika.co.id/berita/sj6q2f409/terpidana-korupsi-akui-setor-pungli-hingga-rp145-juta-saat-ditahan-di-rutan-kpk"
+    },
+    {
+        "title": "Abu Darda, Sahabat Nabi yang Hafiz dan Ahli Hikmah",
+        "category": "Khazanah",
+        "publish_time": "02-09-2024 12:13",
+        "news_link": "https://khazanah.republika.co.id/berita/sj6py7458/abu-darda-sahabat-nabi-yang-hafiz-dan-ahli-hikmah"
+    },
+    {
+        "title": "Hikmat/Leani Raih Emas Para Bulu Tangkis, Indonesia Melonjak ke Posisi ke-28 Paralimpiade",
+        "category": "News",
+        "publish_time": "02-09-2024 12:08",
+        "news_link": "https://news.republika.co.id/berita/sj6pp9348/hikmatleani-raih-emas-para-bulu-tangkis-indonesia-melonjak-ke-posisi-ke28-paralimpiade"
+    },
+    {
+        "title": "Pramono Anung Puji Keberhasilan Anies Baswedan di Megaproyek JIS",
+        "category": "News",
+        "publish_time": "02-09-2024 12:05",
+        "news_link": "https://news.republika.co.id/berita/sj6pke409/pramono-anung-puji-keberhasilan-anies-baswedan-di-megaproyek-jis"
+    },
+    {
+        "title": "LGBT, Perbuatan yang Melampaui Batas",
+        "category": "Iqra",
+        "publish_time": "02-09-2024 12:01",
+        "news_link": "https://iqra.republika.co.id/berita/sj6pda430/lgbt-perbuatan-yang-melampaui-batas"
+    },
+    {
+        "title": "Berdayakan Anak Disabilitas, Poltekkes Solo Lakukan Program PPDS di Karanganyar",
+        "category": "Video",
+        "publish_time": "02-09-2024 11:41",
+        "news_link": "https://tv.republika.co.id/berita/sj6ofw418/berdayakan-anak-disabilitas-poltekkes-solo-lakukan-program-ppds-di-karanganyar"
+    },
+    {
+        "title": "Pilu Hati Rasulullah Mendengar Para Penghafal Alquran Dibantai",
+        "category": "Khazanah",
+        "publish_time": "02-09-2024 11:38",
+        "news_link": "https://khazanah.republika.co.id/berita/sj6obx458/pilu-hati-rasulullah-mendengar-para-penghafal-alquran-dibantai"
+    },
+    {
+        "title": "Adab Rasulullah Sebagai Tamu",
+        "category": "Khazanah",
+        "publish_time": "02-09-2024 11:31",
+        "news_link": "https://khazanah.republika.co.id/berita/sj6nz9458/adab-rasulullah-sebagai-tamu"
+    },
+    {
+        "title": "Indonesia Catatkan Deflasi Empat Bulan Beruntun",
+        "category": "Visual",
+        "publish_time": "02-09-2024 11:30",
+        "news_link": "https://visual.republika.co.id/berita/sj6m8q375/indonesia-catatkan-deflasi-empat-bulan-beruntun"
+    },
+    {
+        "title": "Ini Kata Senior Aulia Risma di PPDS Undip Soal Isu Pemalakan dan Afirmasi 'Siap, Mas/Mbak'",
+        "category": "News",
+        "publish_time": "02-09-2024 11:26",
+        "news_link": "https://news.republika.co.id/berita/sj6nro409/ini-kata-senior-aulia-risma-di-ppds-undip-soal-isu-pemalakan-dan-afirmasi-siap-masmbak"
+    },
+    {
+        "title": "Protes Keras RS Medistra Soal Jilbab, Siapa Dr Diani? Kakeknya Tokoh Utama Muhammadiyah",
+        "category": "Khazanah",
+        "publish_time": "02-09-2024 11:25",
+        "news_link": "https://khazanah.republika.co.id/berita/sj6npg320/protes-keras-rs-medistra-soal-jilbab-siapa-dr-diani-kakeknya-tokoh-utama-muhammadiyah"
+    },
+    {
+        "title": "Menkes Ungkap Kematian Bayi di Indonesia Lebih Banyak karena Prematur",
+        "category": "Ameera",
+        "publish_time": "02-09-2024 11:24",
+        "news_link": "https://ameera.republika.co.id/berita/sj6nbz425/menkes-ungkap-kematian-bayi-di-indonesia-lebih-banyak-karena-prematur"
+    },
+    {
+        "title": "BEI Masih Enggan Ungkap Emiten yang Terlibat Kasus Suap Karyawannya",
+        "category": "Ekonomi",
+        "publish_time": "02-09-2024 11:24",
+        "news_link": "https://ekonomi.republika.co.id/berita/sj6n74502/bei-masih-enggan-ungkap-emiten-yang-terlibat-kasus-suap-karyawannya"
+    },
+    {
+        "title": "Erick Thohir Wariskan Bekal Positif BUMN Bagi Pemerintahan Prabowo",
+        "category": "News",
+        "publish_time": "02-09-2024 11:24",
+        "news_link": "https://news.republika.co.id/berita/sj6n5t484/erick-thohir-wariskan-bekal-positif-bumn-bagi-pemerintahan-prabowo"
+    },
+    {
         "title": "Harga Beras Tercatat Naik 11,19 Persen Secara Tahunan",
         "category": "Ekonomi",
-        "publish_time": "02-09-2024 11:09",
+        "publish_time": "02-09-2024 11:24",
         "news_link": "https://ekonomi.republika.co.id/berita/sj6mz7502/harga-beras-tercatat-naik-1119-persen-secara-tahunan"
     },
     {
         "title": "Azerbaijan Luncurkan Inisiatif Transparansi Baru Sebelum COP29",
         "category": "Esgnow",
-        "publish_time": "02-09-2024 11:08",
+        "publish_time": "02-09-2024 11:24",
         "news_link": "https://esgnow.republika.co.id/berita/sj6myi416/azerbaijan-luncurkan-inisiatif-transparansi-baru-sebelum-cop29"
     },
     {
         "title": "Taeyang BigBang Bagikan Foto Penuh Kehangatan Bersama G-Dragon dan Daesung",
         "category": "Ameera",
-        "publish_time": "02-09-2024 11:08",
+        "publish_time": "02-09-2024 11:24",
         "news_link": "https://ameera.republika.co.id/berita/sj6mxg425/taeyang-bigbang-bagikan-foto-penuh-kehangatan-bersama-gdragon-dan-daesung"
     },
     {
         "title": "Konstitusi Punya DNA Otoritarianisme dan Rakyat Terobsesi Paham Satrio Piningit",
         "category": "Network",
-        "publish_time": "02-09-2024 11:05",
+        "publish_time": "02-09-2024 11:24",
         "news_link": "https://algebra.republika.co.id/posts/328191/konstitusi-punya-dna-otoritarianisme-dan-rakyat-terobsesi-paham-satrio-piningit"
     },
     {
         "title": "Sempat Kebingungan Jenguk Sudirman di Banceuy, Dedi Mulyadi Terus Kawal Kasus Vina",
         "category": "Network",
-        "publish_time": "02-09-2024 11:05",
+        "publish_time": "02-09-2024 11:24",
         "news_link": "https://matapantura.republika.co.id/posts/328175/sempat-kebingungan-jenguk-sudirman-di-banceuy-dedi-mulyadi-terus-kawal-kasus-vina"
     },
     {
         "title": "Fluktuasi Harga BBM Nonsubsidi Dinilai Wajar",
         "category": "Network",
-        "publish_time": "02-09-2024 11:04",
+        "publish_time": "02-09-2024 11:24",
         "news_link": "https://genpop.republika.co.id/posts/328268/fluktuasi-harga-bbm-nonsubsidi-dinilai-wajar"
     },
     {
         "title": "Celaka karena Sumpah",
         "category": "Khazanah",
-        "publish_time": "02-09-2024 10:58",
+        "publish_time": "02-09-2024 11:24",
         "news_link": "https://khazanah.republika.co.id/berita/sj6mhk458/celaka-karena-sumpah"
     },
     {
         "title": "Universitas Panca Sakti Ajak Siswa Belajar Bahasa Inggris Sambil Bermain Celentung",
         "category": "News",
-        "publish_time": "02-09-2024 10:58",
+        "publish_time": "02-09-2024 11:24",
         "news_link": "https://news.republika.co.id/berita/sj6mgj416/universitas-panca-sakti-ajak-siswa-belajar-bahasa-inggris-sambil-bermain-celentung"
     },
     {
         "title": "Pramono-Rano akan Belanja Masalah Jakarta ke Para Mantan Gubernur",
         "category": "News",
-        "publish_time": "02-09-2024 10:56",
+        "publish_time": "02-09-2024 11:24",
         "news_link": "https://news.republika.co.id/berita/sj6md8377/pramonorano-akan-belanja-masalah-jakarta-ke-para-mantan-gubernur"
     },
     {
         "title": "Tips Sehat ala Rasulullah: Jaga Pola Makan dan Gemar Puasa",
         "category": "Khazanah",
-        "publish_time": "02-09-2024 10:52",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://khazanah.republika.co.id/berita/sj6m7o458/tips-sehat-ala-rasulullah-jaga-pola-makan-dan-gemar-puasa"
     },
     {
         "title": "Cegah Tumor Tulang dengan Gaya Hidup Sehat",
         "category": "Ameera",
-        "publish_time": "02-09-2024 10:49",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://ameera.republika.co.id/berita/sj6m2p425/cegah-tumor-tulang-dengan-gaya-hidup-sehat"
     },
     {
         "title": "Lelaki Biasa yang Disebut Ahli Surga oleh Rasulullah",
         "category": "Khazanah",
-        "publish_time": "02-09-2024 10:47",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://khazanah.republika.co.id/berita/sj6lzm458/lelaki-biasa-yang-disebut-ahli-surga-oleh-rasulullah"
     },
     {
         "title": "Civitas Akademika dan Alumni FK Undip Gelar Aksi Solidaritas untuk Yan Wisnu",
         "category": "Visual",
-        "publish_time": "02-09-2024 10:47",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://visual.republika.co.id/berita/sj6lza375/civitas-akademika-dan-alumni-fk-undip-gelar-aksi-solidaritas-untuk-yan-wisnu"
     },
     {
         "title": "Parpol-Parpol Ini Bisa Tergerus Suaranya Kalau Anies Jadi Dirikan Partai",
         "category": "News",
-        "publish_time": "02-09-2024 10:47",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://news.republika.co.id/berita/sj6ly9475/parpolparpol-ini-bisa-tergerus-suaranya-kalau-anies-jadi-dirikan-partai"
     },
     {
         "title": "Benarkah Partai Tersandera Seperti Disebut Anies? Ini Respons Golkar",
         "category": "News",
-        "publish_time": "02-09-2024 10:45",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://news.republika.co.id/berita/sj6lv8377/benarkah-partai-tersandera-seperti-disebut-anies-ini-respons-golkar"
     },
     {
         "title": "Kisah Ahli Zuhud, Wafatnya Sudah Dinubuatkan Rasulullah",
         "category": "Khazanah",
-        "publish_time": "02-09-2024 10:41",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://khazanah.republika.co.id/berita/sj6lp3458/kisah-ahli-zuhud-wafatnya-sudah-dinubuatkan-rasulullah"
     },
     {
         "title": "Dampak Berkelanjutan Konflik Ukraina: Menjaga Keseimbangan di Eropa dan Dunia",
         "category": "Retizen",
-        "publish_time": "02-09-2024 10:37",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://retizen.republika.co.id/posts/328157/dampak-berkelanjutan-konflik-ukraina-menjaga-keseimbangan-di-eropa-dan-dunia"
     },
     {
         "title": "Apakah Seorang Sufi Harus Kotor dan Kumuh?",
         "category": "Retizen",
-        "publish_time": "02-09-2024 10:36",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://retizen.republika.co.id/posts/328255/apakah-seorang-sufi-harus-kotor-dan-kumuh"
     },
     {
         "title": "Lebih dari 72 Ribu Anak di Gaza Dapat Vaksinasi Polio",
         "category": "News",
-        "publish_time": "02-09-2024 10:35",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://news.republika.co.id/berita/sj6lf7425/lebih-dari-72-ribu-anak-di-gaza-dapat-vaksinasi-polio"
     },
     {
         "title": "Kisah Pertemuan Rasulullah dan Malaikat di Qarnul Manazil",
         "category": "Khazanah",
-        "publish_time": "02-09-2024 10:33",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://khazanah.republika.co.id/berita/sj6lbe458/kisah-pertemuan-rasulullah-dan-malaikat-di-qarnul-manazil"
     },
     {
         "title": "Setahun Terpilih, Ridwan Kamil Janji Tanam Pohon Tiga Kali Lipat Agar Jakarta Teduh",
         "category": "News",
-        "publish_time": "02-09-2024 10:33",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://news.republika.co.id/berita/sj6laz377/setahun-terpilih-ridwan-kamil-janji-tanam-pohon-tiga-kali-lipat-agar-jakarta-teduh"
     },
     {
         "title": "Peneliti BRIN Beberkan 15 Segmen Megathrust di Indonesia, Potensi Gempa Hingga Magnitudo 9",
         "category": "News",
-        "publish_time": "02-09-2024 10:31",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://news.republika.co.id/berita/sj6l7y409/peneliti-brin-beberkan-15-segmen-megathrust-di-indonesia-potensi-gempa-hingga-magnitudo-9"
     },
     {
         "title": "Cagub Pramono Tolak Subsidi KRL Commuter Line Berbasis NIK",
         "category": "News",
-        "publish_time": "02-09-2024 10:28",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://news.republika.co.id/berita/sj6l3u484/cagub-pramono-tolak-subsidi-krl-commuter-line-berbasis-nik"
     },
     {
@@ -146,157 +236,67 @@
     {
         "title": "Rektor Undip Buka Suara Soal Kasus Kematian Aulia Risma, Isu Perundungan Hingga Pemalakan",
         "category": "News",
-        "publish_time": "02-09-2024 10:22",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://news.republika.co.id/berita/sj6ksw409/rektor-undip-buka-suara-soal-kasus-kematian-aulia-risma-isu-perundungan-hingga-pemalakan"
     },
     {
         "title": "Korban Deepfake Porno di Korea Selatan: Dari Artis Hingga Pelajar",
         "category": "Ameera",
-        "publish_time": "02-09-2024 10:19",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://ameera.republika.co.id/berita/sj6knt425/korban-deepfake-porno-di-korea-selatan-dari-artis-hingga-pelajar"
     },
     {
         "title": "Undip 'Tantang' Kemenkes Ungkap Hasil Investigasi Kemenkes Soal Dokter ARL Dipalak Senior",
         "category": "Rejogja",
-        "publish_time": "02-09-2024 10:17",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://rejogja.republika.co.id/berita/sj6kk5282/undip-tantang-kemenkes-ungkap-hasil-investigasi-kemenkes-soal-dokter-arl-dipalak-senior"
     },
     {
         "title": "Polres Indramayu Buru Dua DPO Penjambret Lansia",
         "category": "Rejabar",
-        "publish_time": "02-09-2024 10:12",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://rejabar.republika.co.id/berita/sj6kc4512/polres-indramayu-buru-dua-dpo-penjambret-lansia"
     },
     {
         "title": "Catatan Kebaikan Diberikan dari Tangan Kanan",
         "category": "Iqra",
-        "publish_time": "02-09-2024 10:10",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://iqra.republika.co.id/berita/sj6k4w430/catatan-kebaikan-diberikan-dari-tangan-kanan"
     },
     {
         "title": "Menteri LHK Tegaskan Aturan Karbon Ketat untuk Cegah Greenwashing",
         "category": "Esgnow",
-        "publish_time": "02-09-2024 10:10",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://esgnow.republika.co.id/berita/sj6iuu416/menteri-lhk-tegaskan-aturan-karbon-ketat-untuk-cegah-greenwashing"
     },
     {
         "title": "Rambut Rontok, Tipis, dan Lepek karena Pakai Hijab? Gak Perlu Khawatir Lagi, Ini Solusinya",
         "category": "Ameera",
-        "publish_time": "02-09-2024 10:10",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://ameera.republika.co.id/berita/sj6jqm425/rambut-rontok-tipis-dan-lepek-karena-pakai-hijab-gak-perlu-khawatir-lagi-ini-solusinya"
     },
     {
         "title": "Perkuat Ekosistem Logistik, Bea Cukai Beri Izin Fasilitas Pusat Logistik Berikat ke Perusa",
         "category": "Beacukai",
-        "publish_time": "02-09-2024 10:10",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://republika.co.id/berita/sj6j98370/perkuat-ekosistem-logistik-bea-cukai-beri-izin-fasilitas-pusat-logistik-berikat-ke-perusa"
     },
     {
         "title": "DPRD DKI: Pelarangan Jilbab di RS Medistra Langgar HAM dan Etika",
         "category": "Rejabar",
-        "publish_time": "02-09-2024 10:10",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://rejabar.republika.co.id/berita/sj6jkp282/dprd-dki-pelarangan-jilbab-di-rs-medistra-langgar-ham-dan-etika"
     },
     {
         "title": "Semester I 2024, BSI Cetak Pertumbuhan Laba 20,28 Persen",
         "category": "Sharia",
-        "publish_time": "02-09-2024 10:10",
+        "publish_time": "02-09-2024 10:24",
         "news_link": "https://sharia.republika.co.id/berita/sj6jk5370/semester-i-2024-bsi-cetak-pertumbuhan-laba-2028-persen"
     },
     {
         "title": "'Penting Meningkatkan Literasi Keuangan di Kalangan Perempuan'",
         "category": "Rejogja",
-        "publish_time": "02-09-2024 10:10",
+        "publish_time": "02-09-2024 09:24",
         "news_link": "https://rejogja.republika.co.id/berita/sj6jio291/penting-meningkatkan-literasi-keuangan-di-kalangan-perempuan"
-    },
-    {
-        "title": "Pramono Anung Pastikan Anies tak Masuk Jajaran Tim Sukses",
-        "category": "News",
-        "publish_time": "02-09-2024 10:10",
-        "news_link": "https://news.republika.co.id/berita/sj6jd4484/pramono-anung-pastikan-anies-tak-masuk-jajaran-tim-sukses"
-    },
-    {
-        "title": "Tingkatkan Pelayanan, PTP Non Peti Kemas Teluk Bayur Terapkan PTOS-M Sejak 2023",
-        "category": "Ekonomi",
-        "publish_time": "02-09-2024 10:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/sj6jcs502/tingkatkan-pelayanan-ptp-non-peti-kemas-teluk-bayur-terapkan-ptosm-sejak-2023"
-    },
-    {
-        "title": "Kemenag Bandingkan Larangan Jilbab di RS Medistra dengan Keterbukaan Polisi dan TNI",
-        "category": "Khazanah",
-        "publish_time": "02-09-2024 10:10",
-        "news_link": "https://khazanah.republika.co.id/berita/sj6jcb430/kemenag-bandingkan-larangan-jilbab-di-rs-medistra-dengan-keterbukaan-polisi-dan-tni"
-    },
-    {
-        "title": "Rano Karno akan Temui para Mantan Gubernur Jakarta, Strategi Rebut Pemilih Anies?",
-        "category": "News",
-        "publish_time": "02-09-2024 10:10",
-        "news_link": "https://news.republika.co.id/berita/sj6j67487/rano-karno-akan-temui-para-mantan-gubernur-jakarta-strategi-rebut-pemilih-anies"
-    },
-    {
-        "title": "BEI dan Infovesta Rilis Indeks IDX-Infovesta Multi-Factor 28",
-        "category": "Ekonomi",
-        "publish_time": "02-09-2024 10:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/sj6j4m370/bei-dan-infovesta-rilis-indeks-idxinfovesta-multifactor-28"
-    },
-    {
-        "title": "Undip Protes Dua Kali Dihukum Kemenkes: Penutupan PPDS Undip & Pemberhentian Dekan FK",
-        "category": "Rejogja",
-        "publish_time": "02-09-2024 10:10",
-        "news_link": "https://rejogja.republika.co.id/berita/sj6j06282/undip-protes-dua-kali-dihukum-kemenkes-penutupan-ppds-undip-pemberhentian-dekan-fk"
-    },
-    {
-        "title": "Dapat Jatah Pimpinan DPRD Jabar, Golkar Tunjuk MQ Iswara",
-        "category": "Rejabar",
-        "publish_time": "02-09-2024 10:10",
-        "news_link": "https://rejabar.republika.co.id/berita/sj6ixa512/dapat-jatah-pimpinan-dprd-jabar-golkar-tunjuk-mq-iswara"
-    },
-    {
-        "title": "Advocacy Group AZEC 2024 Konkretkan Proposal Wujudkan Emisi Nol Karbon",
-        "category": "Esgnow",
-        "publish_time": "02-09-2024 09:10",
-        "news_link": "https://esgnow.republika.co.id/berita/sj6isa291/advocacy-group-azec-2024-konkretkan-proposal-wujudkan-emisi-nol-karbon"
-    },
-    {
-        "title": "Gambarkan Benda-Benda Ciri Khas Aceh, 11 Desain Terpilih di Kompetisi Desain Tenun Amanah",
-        "category": "Resumatra",
-        "publish_time": "02-09-2024 09:10",
-        "news_link": "https://republika.co.id/berita/sj6iq4456/gambarkan-benda-benda-ciri-khas-aceh-11-desain-terpilih-di-kompetisi-desain-tenun-amanah"
-    },
-    {
-        "title": "RM BTS dan Megan Thee Stallion Umumkan Duet di Lagu 'Neva Play'",
-        "category": "Ameera",
-        "publish_time": "02-09-2024 09:10",
-        "news_link": "https://ameera.republika.co.id/berita/sj6ika425/rm-bts-dan-megan-thee-stallion-umumkan-duet-di-lagu-neva-play"
-    },
-    {
-        "title": "Kemendes: ASEAN Berkomitmen Bangun Desa Berkelanjutan",
-        "category": "Esgnow",
-        "publish_time": "02-09-2024 09:10",
-        "news_link": "https://esgnow.republika.co.id/berita/sj6ijf416/kemendes-asean-berkomitmen-bangun-desa-berkelanjutan"
-    },
-    {
-        "title": "Mahasiswa Kok Stress, Ikutin Tips Ini!",
-        "category": "Retizen",
-        "publish_time": "02-09-2024 09:10",
-        "news_link": "https://retizen.republika.co.id/posts/328139/mahasiswa-kok-stress-ikutin-tips-ini"
-    },
-    {
-        "title": "RUU Perampasan Aset: Solusi atau Ancaman bagi Masyarakat?",
-        "category": "Retizen",
-        "publish_time": "02-09-2024 09:10",
-        "news_link": "https://retizen.republika.co.id/posts/328140/ruu-perampasan-aset-solusi-atau-ancaman-bagi-masyarakat"
-    },
-    {
-        "title": "Tips Jitu Buat Mahasiswa Baru",
-        "category": "Retizen",
-        "publish_time": "02-09-2024 09:10",
-        "news_link": "https://retizen.republika.co.id/posts/328136/tips-jitu-buat-mahasiswa-baru"
-    },
-    {
-        "title": "Apakah Seorang Sufi Harus Kotor dan Kumuh?",
-        "category": "Retizen",
-        "publish_time": "02-09-2024 09:10",
-        "news_link": "https://retizen.republika.co.id/posts/328255/apakah-seorang-sufi-harus-kotor-dan-kumuh"
     }
 ]
