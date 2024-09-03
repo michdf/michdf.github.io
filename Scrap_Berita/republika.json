@@ -1,56 +1,158 @@
 [
     {
+        "title": "Kata 'Mewing' Ngetren di Kalangan Gen Alpha, Apa Artinya?",
+        "category": "Ameera",
+        "publish_time": "03-09-2024 06:16",
+        "news_link": "https://ameera.republika.co.id/berita/sj8424425/kata-mewing-ngetren-di-kalangan-gen-alpha-apa-artinya"
+    },
+    {
+        "title": "Polemik Aturan Jilbab di RS Medistra, Perempuan ICMI: Hati-Hati dalam Membuat Aturan",
+        "category": "Khazanah",
+        "publish_time": "03-09-2024 06:11",
+        "news_link": "https://khazanah.republika.co.id/berita/sj83u7370/polemik-aturan-jilbab-di-rs-medistra-perempuan-icmi-hatihati-dalam-membuat-aturan"
+    },
+    {
+        "title": "Agar Jadi Pusat Fesyen Muslim Dunia, ini yang Harus Dilakukan Indonesia",
+        "category": "Khazanah",
+        "publish_time": "03-09-2024 06:00",
+        "news_link": "https://khazanah.republika.co.id/berita/sj7v7p451/agar-jadi-pusat-fesyen-muslim-dunia-ini-yang-harus-dilakukan-indonesia"
+    },
+    {
+        "title": "Mimpi yang Mengejutkan Sahabat Nabi",
+        "category": "Khazanah",
+        "publish_time": "03-09-2024 05:58",
+        "news_link": "https://khazanah.republika.co.id/berita/sj838k458/mimpi-yang-mengejutkan-sahabat-nabi"
+    },
+    {
+        "title": "Ingin Resign dari Kantor? Pertimbangkan Dulu Hal Ini Agar tak Menyesal",
+        "category": "Ameera",
+        "publish_time": "03-09-2024 05:49",
+        "news_link": "https://ameera.republika.co.id/berita/sj82td425/ingin-resign-dari-kantor-pertimbangkan-dulu-hal-ini-agar-tak-menyesal"
+    },
+    {
+        "title": "Kisah Cinta Rasulullah dan Khadijah",
+        "category": "Khazanah",
+        "publish_time": "03-09-2024 05:43",
+        "news_link": "https://khazanah.republika.co.id/berita/sj82jm458/kisah-cinta-rasulullah-dan-khadijah"
+    },
+    {
+        "title": "Tangis Haru Theresia Dapat Lambaian Paus Fransiskus",
+        "category": "Khazanah",
+        "publish_time": "03-09-2024 05:41",
+        "news_link": "https://khazanah.republika.co.id/berita/sj82g6393/tangis-haru-theresia-dapat-lambaian-paus-fransiskus"
+    },
+    {
+        "title": "Badai Menewaskan Tujuh Orang di Filipina",
+        "category": "News",
+        "publish_time": "03-09-2024 05:39",
+        "news_link": "https://news.republika.co.id/berita/sj82cr416/badai-menewaskan-tujuh-orang-di-filipina"
+    },
+    {
+        "title": "KDRT Maut di Solo, Suami Kesal Istri Buang Uang Rp 30 Ribu Hasil Jadi Tukang Parkir",
+        "category": "News",
+        "publish_time": "03-09-2024 05:31",
+        "news_link": "https://news.republika.co.id/berita/sj81zc377/kdrt-maut-di-solo-suami-kesal-istri-buang-uang-rp-30-ribu-hasil-jadi-tukang-parkir"
+    },
+    {
+        "title": "Jelang Sidang PK Kasus Vina, Warga Pasang Spanduk Beri Dukungan untuk Tujuh Terpidana",
+        "category": "Rejabar",
+        "publish_time": "03-09-2024 05:29",
+        "news_link": "https://rejabar.republika.co.id/berita/sj81wt512/jelang-sidang-pk-kasus-vina-warga-pasang-spanduk-beri-dukungan-untuk-tujuh-terpidana"
+    },
+    {
+        "title": "Polisi Korea Selidiki Dugaan Keterlibatan Telegram dalam Penyebaran Konten Deepfake Porno",
+        "category": "Ameera",
+        "publish_time": "03-09-2024 05:27",
+        "news_link": "https://ameera.republika.co.id/berita/sj81sh425/polisi-korea-selidiki-dugaan-keterlibatan-telegram-dalam-penyebaran-konten-deepfake-porno"
+    },
+    {
+        "title": "Robertson Lega Liverpool Tuntaskan Dendam Musim Lalu Atas MU",
+        "category": "News",
+        "publish_time": "03-09-2024 05:26",
+        "news_link": "https://news.republika.co.id/berita/sj81s1348/robertson-lega-liverpool-tuntaskan-dendam-musim-lalu-atas-mu"
+    },
+    {
+        "title": "Oknum Fans NCT Diduga Jadi Dalang yang Tuntut Suga Hengkang dari BTS, Didesak Minta Maaf",
+        "category": "Ameera",
+        "publish_time": "03-09-2024 05:19",
+        "news_link": "https://ameera.republika.co.id/berita/sj81gf425/oknum-fans-nct-diduga-jadi-dalang-yang-tuntut-suga-hengkang-dari-bts-didesak-minta-maaf"
+    },
+    {
+        "title": "Ibu di Kediri Aniaya Anak Kandung Hingga Meninggal, Diduga Gangguan Kejiwaan",
+        "category": "News",
+        "publish_time": "03-09-2024 05:18",
+        "news_link": "https://news.republika.co.id/berita/sj81ef370/ibu-di-kediri-aniaya-anak-kandung-hingga-meninggal-diduga-gangguan-kejiwaan"
+    },
+    {
+        "title": "Tanda Ekonomi Melemah Makin Nyata, Pabrik-Pabrik Lesu, PHK Mencuat",
+        "category": "Ekonomi",
+        "publish_time": "03-09-2024 05:17",
+        "news_link": "https://ekonomi.republika.co.id/berita/sj814z490/tanda-ekonomi-melemah-makin-nyata-pabrikpabrik-lesu-phk-mencuat"
+    },
+    {
+        "title": "Manfaat Konsumsi Real Food Bagi Ibu Hamil",
+        "category": "Ameera",
+        "publish_time": "03-09-2024 05:17",
+        "news_link": "https://ameera.republika.co.id/berita/sj814j425/manfaat-konsumsi-real-food-bagi-ibu-hamil"
+    },
+    {
+        "title": "KPU Masih Tunggu Hasil Tes Pemeriksaan Bacagub dan Bacawagub di Pilgub Jabar",
+        "category": "Rejabar",
+        "publish_time": "03-09-2024 05:17",
+        "news_link": "https://rejabar.republika.co.id/berita/sj814d512/kpu-masih-tunggu-hasil-tes-pemeriksaan-bacagub-dan-bacawagub-di-pilgub-jabar"
+    },
+    {
         "title": "Viral Jamaah Berpeci Merah Putih Nyanyi Lagu Kebangsaan di Masjid Istiqlal",
         "category": "Khazanah",
-        "publish_time": "03-09-2024 05:03",
+        "publish_time": "03-09-2024 05:17",
         "news_link": "https://khazanah.republika.co.id/berita/sj80ox430/viral-jamaah-berpeci-merah-putih-nyanyi-lagu-kebangsaan-di-masjid-istiqlal"
     },
     {
         "title": "70 Persen Lebih Sekolah PBB-UNRWA di Gaza Palestina Hancur",
         "category": "Khazanah",
-        "publish_time": "03-09-2024 05:00",
+        "publish_time": "03-09-2024 05:17",
         "news_link": "https://khazanah.republika.co.id/berita/sj7ska451/70-persen-lebih-sekolah-pbbunrwa-di-gaza-palestina-hancur"
     },
     {
         "title": "Habib Syarief M Alaydrus Nilai, Permasalahan di Bandung Masih Cukup Kompleks",
         "category": "Rejabar",
-        "publish_time": "03-09-2024 04:53",
+        "publish_time": "03-09-2024 05:17",
         "news_link": "https://rejabar.republika.co.id/berita/sj808m512/habib-syarief-m-alaydrus-nilai-permasalahan-di-bandung-masih-cukup-kompleks"
     },
     {
         "title": "Pedangdut Jirayut Penasaran Naik KRL, Malah Jatuh dan Berdarah di Stasiun Manggarai",
         "category": "Ameera",
-        "publish_time": "03-09-2024 04:52",
+        "publish_time": "03-09-2024 05:17",
         "news_link": "https://ameera.republika.co.id/berita/sj8075425/pedangdut-jirayut-penasaran-naik-krl-malah-jatuh-dan-berdarah-di-stasiun-manggarai"
     },
     {
         "title": "Presiden Jokowi Bangga Semangat Atlet Indonesia di Paralimpiade Paris 2024",
         "category": "News",
-        "publish_time": "03-09-2024 04:46",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://news.republika.co.id/berita/sj7zwg348/presiden-jokowi-bangga-semangat-atlet-indonesia-di-paralimpiade-paris-2024"
     },
     {
         "title": "GIK UGM akan Gelar Event Kerja Sama Indonesia dan Jepang 'The Life of Butoh'",
         "category": "Rejogja",
-        "publish_time": "03-09-2024 04:43",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://rejogja.republika.co.id/berita/sj7zrw291/gik-ugm-akan-gelar-event-kerja-sama-indonesia-dan-jepang-the-life-of-butoh"
     },
     {
         "title": "Muhammadiyah: Kesederhanaan Paus Fransiskus Tunjukkan Teladan",
         "category": "Khazanah",
-        "publish_time": "03-09-2024 04:38",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://khazanah.republika.co.id/berita/sj7zj0458/muhammadiyah-kesederhanaan-paus-fransiskus-tunjukkan-teladan"
     },
     {
         "title": "Film dan Serial TV tentang Paus dengan Rating Terbaik Menurut IMDb",
         "category": "Ameera",
-        "publish_time": "03-09-2024 04:29",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://ameera.republika.co.id/berita/sj7z4u425/film-dan-serial-tv-tentang-paus-dengan-rating-terbaik-menurut-imdb"
     },
     {
         "title": "Pesawat Presiden Maduro Disita Amerika, Venezuela Marah Sebut AS Lakukan Pembajakan",
         "category": "News",
-        "publish_time": "03-09-2024 04:19",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://news.republika.co.id/berita/sj7yo2377/pesawat-presiden-maduro-disita-amerika-venezuela-marah-sebut-as-lakukan-pembajakan"
     },
     {
@@ -62,241 +164,139 @@
     {
         "title": "Terdakwa Kasus Timah Hanya Tiga Tahun Penjara, Kejaksaan Pikir-Pikir untuk Banding",
         "category": "News",
-        "publish_time": "03-09-2024 04:12",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://news.republika.co.id/berita/sj7y5i377/terdakwa-kasus-timah-hanya-tiga-tahun-penjara-kejaksaan-pikirpikir-untuk-banding"
     },
     {
         "title": "Truk Tambang Bertenaga Listrik dan Swakemudi Ini Mampu Pangkas Hingga Ratusan Ribu Emisi Karbon",
         "category": "Network",
-        "publish_time": "03-09-2024 04:12",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://ruzkaindonesia.id/posts/328391/truk-tambang-bertenaga-listrik-dan-swakemudi-ini-mampu-pangkas-hingga-ratusan-ribu-emisi-karbon"
     },
     {
         "title": "Universitas Nusa Mandiri Dorong Transformasi Digital di SMPIT Ajimutu Global Insani",
         "category": "News",
-        "publish_time": "03-09-2024 04:12",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://news.republika.co.id/berita/sj7xzu490/universitas-nusa-mandiri-dorong-transformasi-digital-di-smpit-ajimutu-global-insani"
     },
     {
         "title": "Serba-serbi Kunjungan Apostolik Paus Fransiskus ke Indonesia",
         "category": "Khazanah",
-        "publish_time": "03-09-2024 04:12",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://khazanah.republika.co.id/berita/sj7xw4366/serbaserbi-kunjungan-apostolik-paus-fransiskus-ke-indonesia"
     },
     {
         "title": "Universitas BSI Kampus Bogor Gelar Workshop BSI Digination: Peluang di Industri Kreatif",
         "category": "News",
-        "publish_time": "03-09-2024 04:12",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://news.republika.co.id/berita/sj7xvk490/universitas-bsi-kampus-bogor-gelar-workshop-bsi-digination-peluang-di-industri-kreatif"
     },
     {
         "title": "Fakta Menarik Seputar Paus Fransiskus",
         "category": "News",
-        "publish_time": "03-09-2024 04:12",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://news.republika.co.id/berita/sj7xtl458/fakta-menarik-seputar-paus-fransiskus"
     },
     {
         "title": "Jubir Menag: Nama Saya Sunanto, Sering Akrab Dipanggil Cak Nanto",
         "category": "Khazanah",
-        "publish_time": "03-09-2024 04:12",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://khazanah.republika.co.id/berita/sj7sde451/jubir-menag-nama-saya-sunanto-sering-akrab-dipanggil-cak-nanto"
     },
     {
         "title": "Anggaran Negara-Negara Afrika Tergerus Akibat Perubahan Iklim",
         "category": "Esgnow",
-        "publish_time": "03-09-2024 04:12",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://esgnow.republika.co.id/berita/sj7xoj416/anggaran-negaranegara-afrika-tergerus-akibat-perubahan-iklim"
     },
     {
         "title": "Bos Mobil Audi Italia Tewas Jatuh dari Ketinggian 10 Ribu Kaki, Jasad Ditemukan di Jurang",
         "category": "News",
-        "publish_time": "03-09-2024 04:12",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://news.republika.co.id/berita/sj7xj0377/bos-mobil-audi-italia-tewas-jatuh-dari-ketinggian-10-ribu-kaki-jasad-ditemukan-di-jurang"
     },
     {
         "title": "Harga Emas Naik Hari Ini",
         "category": "Ekonomi",
-        "publish_time": "03-09-2024 04:12",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://ekonomi.republika.co.id/berita/sj7xie490/harga-emas-naik-hari-ini"
     },
     {
         "title": "Harga Pangan Naik Tipis, Bawang Putih Kini Rp 40.310 per Kg",
         "category": "Ekonomi",
-        "publish_time": "03-09-2024 04:12",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://ekonomi.republika.co.id/berita/sj7xc1490/harga-pangan-naik-tipis-bawang-putih-kini-rp-40310-per-kg"
     },
     {
         "title": "Bisa Bekerja Tapi Harus Lepas Jilbab, Siapa yang Dosa?",
         "category": "Khazanah",
-        "publish_time": "03-09-2024 04:12",
+        "publish_time": "03-09-2024 04:17",
         "news_link": "https://khazanah.republika.co.id/berita/sj7x8k430/bisa-bekerja-tapi-harus-lepas-jilbab-siapa-yang-dosa"
     },
     {
         "title": "Mahasiswa FT UMJ Raih Medali Emas Kejuaraan Pencak Silat Nasional",
         "category": "News",
-        "publish_time": "03-09-2024 04:12",
+        "publish_time": "03-09-2024 03:17",
         "news_link": "https://news.republika.co.id/berita/sj7x6b490/mahasiswa-ft-umj-raih-medali-emas-kejuaraan-pencak-silat-nasional"
     },
     {
         "title": "Mahasiswa Cyber University Diajarkan Cara Bangun Bisnis Ekspor-Impor dari Pakar",
         "category": "News",
-        "publish_time": "03-09-2024 03:12",
+        "publish_time": "03-09-2024 03:17",
         "news_link": "https://news.republika.co.id/berita/sj7why490/mahasiswa-cyber-university-diajarkan-cara-bangun-bisnis-eksporimpor-dari-pakar"
     },
     {
         "title": "Benarkah Partai Perubahan Indonesia Bentukan Anies Baswedan? Ini Penjelasan Jubir",
         "category": "News",
-        "publish_time": "03-09-2024 03:12",
+        "publish_time": "03-09-2024 03:17",
         "news_link": "https://news.republika.co.id/berita/sj7wi9377/benarkah-partai-perubahan-indonesia-bentukan-anies-baswedan-ini-penjelasan-jubir"
     },
     {
         "title": "PNM Peduli Tanam Ribuan Pohon Mangrove dan Terumbu Karang di Kalimantan",
         "category": "Ekonomi",
-        "publish_time": "03-09-2024 03:12",
+        "publish_time": "03-09-2024 03:17",
         "news_link": "https://ekonomi.republika.co.id/berita/sj7wd5490/pnm-peduli-tanam-ribuan-pohon-mangrove-dan-terumbu-karang-di-kalimantan"
     },
     {
         "title": "Miniatur Rolls-Royce dan Mercedes-Maybach Hiasi Acara Mobil Kecil di Cina",
         "category": "Network",
-        "publish_time": "03-09-2024 03:12",
+        "publish_time": "03-09-2024 03:17",
         "news_link": "https://motoresto.id/posts/328330/miniatur-rolls-royce-dan-mercedes-maybach-hiasi-acara-mobil-kecil-di-cina"
     },
     {
         "title": "Penggunaan Ganja Bisa Menyebabkan Perubahan pada Epigenom Tubuh",
         "category": "Network",
-        "publish_time": "03-09-2024 03:12",
+        "publish_time": "03-09-2024 03:17",
         "news_link": "https://impresiupdate.id/posts/328379/penggunaan-ganja-bisa-menyebabkan-perubahan-pada-epigenom-tubuh"
     },
     {
         "title": "Diet Ketogenik Bisa Membantu Kurangi Jumlah Tumor Pankreas",
         "category": "Network",
-        "publish_time": "03-09-2024 03:12",
+        "publish_time": "03-09-2024 03:17",
         "news_link": "https://impresiupdate.id/posts/328386/diet-ketogenik-bisa-membantu-kurangi-jumlah-tumor-pankreas"
     },
     {
         "title": "BRIN: Tingkatkan Kesiapan Hadapi Gempa Megathrust",
         "category": "Esgnow",
-        "publish_time": "03-09-2024 03:12",
+        "publish_time": "03-09-2024 03:17",
         "news_link": "https://esgnow.republika.co.id/berita/sj7w8n416/brin-tingkatkan-kesiapan-hadapi-gempa-megathrust"
     },
     {
         "title": "Anime Jadi Nyata! Polisi Jepang Gunakan Mecha Patlabor untuk Patroli",
         "category": "Ameera",
-        "publish_time": "03-09-2024 03:12",
+        "publish_time": "03-09-2024 03:17",
         "news_link": "https://ameera.republika.co.id/berita/sj7w1n425/anime-jadi-nyata-polisi-jepang-gunakan-mecha-patlabor-untuk-patroli"
     },
     {
         "title": "Saat Paus Fransiskus Membela Islam",
         "category": "Khazanah",
-        "publish_time": "03-09-2024 03:12",
+        "publish_time": "03-09-2024 03:17",
         "news_link": "https://khazanah.republika.co.id/berita/sj7vv3393/saat-paus-fransiskus-membela-islam"
     },
     {
         "title": "Muhammadiyah Sambut Baik Kedatangan Paus Fransiskus",
         "category": "Khazanah",
-        "publish_time": "03-09-2024 03:12",
+        "publish_time": "03-09-2024 03:17",
         "news_link": "https://khazanah.republika.co.id/berita/sj7via458/muhammadiyah-sambut-baik-kedatangan-paus-fransiskus"
-    },
-    {
-        "title": "Kolaborasi Evermos-PNM Perluas Akses Pembiayaan bagi UMKM di Era Digital",
-        "category": "Rejabar",
-        "publish_time": "03-09-2024 03:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sj7sxe291/kolaborasi-evermospnm-perluas-akses-pembiayaan-bagi-umkm-di-era-digital"
-    },
-    {
-        "title": "Kota Cirebon Miliki Museum Topeng, Gratis Bagi Pengunjung",
-        "category": "Rejabar",
-        "publish_time": "03-09-2024 03:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sj7vf8512/kota-cirebon-miliki-museum-topeng-gratis-bagi-pengunjung"
-    },
-    {
-        "title": "Korea Selatan Kirim Dokter Militer ke Rumah Sakit Atasi Ancaman Krisis Tenaga Medis",
-        "category": "News",
-        "publish_time": "03-09-2024 03:12",
-        "news_link": "https://news.republika.co.id/berita/sj7vaa425/korea-selatan-kirim-dokter-militer-ke-rumah-sakit-atasi-ancaman-krisis-tenaga-medis"
-    },
-    {
-        "title": "Paus Fransiskus ke Indonesia, Ini Syarat Umat Katolik Bisa Ikuti Misa Akbar di GBK",
-        "category": "Khazanah",
-        "publish_time": "03-09-2024 03:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sj7v6n366/paus-fransiskus-ke-indonesia-ini-syarat-umat-katolik-bisa-ikuti-misa-akbar-di-gbk"
-    },
-    {
-        "title": "Peneliti BRIN Soal Megathrust, Ayat Alquran, dan Doa Nabi Musa Ketika Gempa",
-        "category": "Iqra",
-        "publish_time": "03-09-2024 03:12",
-        "news_link": "https://iqra.republika.co.id/berita/sj7iri451/peneliti-brin-soal-megathrust-ayat-alquran-dan-doa-nabi-musa-ketika-gempa"
-    },
-    {
-        "title": "Hadits: Agar Bersyukur, Lihatlah Orang di Bawahmu",
-        "category": "Iqra",
-        "publish_time": "03-09-2024 03:12",
-        "news_link": "https://iqra.republika.co.id/berita/sj7tmp430/hadits-agar-bersyukur-lihatlah-orang-di-bawahmu"
-    },
-    {
-        "title": "Mahasiswa Universitas BSI Kampus Solo Kembangkan Software Otomatisasi Penjualan",
-        "category": "News",
-        "publish_time": "03-09-2024 03:12",
-        "news_link": "https://news.republika.co.id/berita/sj7uf4490/mahasiswa-universitas-bsi-kampus-solo-kembangkan-software-otomatisasi-penjualan"
-    },
-    {
-        "title": "Pilkada Ciamis Berpotensi Lawan Kotak Kosong",
-        "category": "Rejabar",
-        "publish_time": "03-09-2024 03:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sj7uol512/pilkada-ciamis-berpotensi-lawan-kotak-kosong"
-    },
-    {
-        "title": "Siswa SMP School of Human Juara Kompetisi SDG's",
-        "category": "News",
-        "publish_time": "03-09-2024 03:12",
-        "news_link": "https://news.republika.co.id/berita/sj7uhm483/siswa-smp-school-of-human-juara-kompetisi-sdgs"
-    },
-    {
-        "title": "Bebas Khawatir saat Sibuk Kerja, BRImo Hadirkan Fitur Tagihan Terjadwal",
-        "category": "Ekonomi",
-        "publish_time": "03-09-2024 03:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sj7u9o490/bebas-khawatir-saat-sibuk-kerja-brimo-hadirkan-fitur-tagihan-terjadwal"
-    },
-    {
-        "title": "Muhammadiyah-Bank Panin Dubai Syariah Umumkan Kerja Sama Layanan",
-        "category": "Sharia",
-        "publish_time": "03-09-2024 03:12",
-        "news_link": "https://sharia.republika.co.id/berita/sj7u83502/muhammadiyahbank-panin-dubai-syariah-umumkan-kerja-sama-layanan"
-    },
-    {
-        "title": "Aksi Timnas Indonesia di AFC Bisa Ditonton Gratis Lewat Stasiun TV Hingga 2028",
-        "category": "News",
-        "publish_time": "03-09-2024 02:12",
-        "news_link": "https://news.republika.co.id/berita/sj7u51456/aksi-timnas-indonesia-di-afc-bisa-ditonton-gratis-lewat-stasiun-tv-hingga-2028"
-    },
-    {
-        "title": "LPCR-PM Gelar Lomba untuk Kader Muhammadiyah",
-        "category": "Khazanah",
-        "publish_time": "03-09-2024 02:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sj7u3a458/lpcrpm-gelar-lomba-untuk-kader-muhammadiyah"
-    },
-    {
-        "title": "UGM dan NUS Siap Kolaborasi Sukseskan Proyek IKN sebagai Kota Modern dan Berkelanjutan",
-        "category": "Rejogja",
-        "publish_time": "03-09-2024 02:12",
-        "news_link": "https://rejogja.republika.co.id/berita/sj7tvn291/ugm-dan-nus-siap-kolaborasi-sukseskan-proyek-ikn-sebagai-kota-modern-dan-berkelanjutan"
-    },
-    {
-        "title": "Aktor Korea Ji Chang-wook Jadi Bintang Tamu di 'Lapor Pak!', Tayang 4 September",
-        "category": "Ameera",
-        "publish_time": "03-09-2024 02:12",
-        "news_link": "https://ameera.republika.co.id/berita/sj7tsu425/aktor-korea-ji-changwook-jadi-bintang-tamu-di-lapor-pak-tayang-4-september"
-    },
-    {
-        "title": "Beredar Flyer Daftar Komika Pendengung 'Peringatan Darurat' Bakal Sulit Job Usai Demo",
-        "category": "News",
-        "publish_time": "03-09-2024 02:12",
-        "news_link": "https://news.republika.co.id/berita/sj7trp377/beredar-flyer-daftar-komika-pendengung-peringatan-darurat-bakal-sulit-job-usai-demo"
-    },
-    {
-        "title": "Menko PMK: Persiapan Penyambutan Paus Fransiskus Sudah Matang",
-        "category": "Video",
-        "publish_time": "03-09-2024 02:12",
-        "news_link": "https://tv.republika.co.id/berita/sj7tiw418/menko-pmk-persiapan-penyambutan-paus-fransiskus-sudah-matang"
     }
 ]
