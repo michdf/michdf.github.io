@@ -1,92 +1,206 @@
 [
     {
+        "title": "WHO: Ponsel Tidak Berhubungan dengan Kanker Otak",
+        "category": "Network",
+        "publish_time": "04-09-2024 03:10",
+        "news_link": "https://impresiupdate.id/posts/328571/who-ponsel-tidak-berhubungan-dengan-kanker-otak"
+    },
+    {
+        "title": "Benarkah Kopi Membahayakan Penderita Tekanan Darah Tinggi atau Penyakit Jantung?",
+        "category": "Network",
+        "publish_time": "04-09-2024 03:10",
+        "news_link": "https://impresiupdate.id/posts/328575/benarkah-kopi-membahayakan-penderita-tekanan-darah-tinggi-atau-penyakit-jantung-"
+    },
+    {
+        "title": "PB HMI: Kunjungan Paus Fransiskus Kesempatan unjuk Semangat Toleransi di RI",
+        "category": "Khazanah",
+        "publish_time": "04-09-2024 02:59",
+        "news_link": "https://khazanah.republika.co.id/berita/sj8e6n451/pb-hmi-kunjungan-paus-fransiskus-kesempatan-unjuk-semangat-toleransi-di-ri"
+    },
+    {
+        "title": "Picu Kemarahan, Negara Bagian Assam di India Hapus Istirahat Sholat Jumat",
+        "category": "Khazanah",
+        "publish_time": "04-09-2024 02:51",
+        "news_link": "https://khazanah.republika.co.id/berita/sj9pav366/picu-kemarahan-negara-bagian-assam-di-india-hapus-istirahat-sholat-jumat"
+    },
+    {
+        "title": "Harga Emas Masih Bisa Naik Lagi? Ini Proyeksi dari Pegadaian",
+        "category": "Ekonomi",
+        "publish_time": "04-09-2024 02:51",
+        "news_link": "https://ekonomi.republika.co.id/berita/sj9paq490/harga-emas-masih-bisa-naik-lagi-ini-proyeksi-dari-pegadaian"
+    },
+    {
+        "title": "Harga Emas Kembali Naik Jadi Rp 1.406.000 per Gram",
+        "category": "Ekonomi",
+        "publish_time": "04-09-2024 02:48",
+        "news_link": "https://ekonomi.republika.co.id/berita/sj9p5p490/harga-emas-kembali-naik-jadi-rp-1406000-per-gram"
+    },
+    {
+        "title": "Ferrari Prediksi Perebutan Gelar Konstruktor F1 Makin Sengit Usai GP Italia",
+        "category": "News",
+        "publish_time": "04-09-2024 02:45",
+        "news_link": "https://news.republika.co.id/berita/sj9p18348/ferrari-prediksi-perebutan-gelar-konstruktor-f1-makin-sengit-usai-gp-italia"
+    },
+    {
+        "title": "Komisi VI DPR Dukung Pembagian Dividen BRI 4 Kali dalam Setahun",
+        "category": "Ekonomi",
+        "publish_time": "04-09-2024 02:45",
+        "news_link": "https://ekonomi.republika.co.id/berita/sj9ozw490/komisi-vi-dpr-dukung-pembagian-dividen-bri-4-kali-dalam-setahun"
+    },
+    {
+        "title": "Jadi Tersangka Dugaan Penganiayaan, Pria di Bandung Cari Keadilan",
+        "category": "Network",
+        "publish_time": "04-09-2024 02:41",
+        "news_link": "https://sekitarbandung.id/posts/328567/jadi-tersangka-dugaan-penganiayaan-pria-di-bandung-cari-keadilan"
+    },
+    {
+        "title": "Kandidat Antibiotik Baru Ditemukan pada Bakteri dari Kedalaman Laut Arktik",
+        "category": "Network",
+        "publish_time": "04-09-2024 02:41",
+        "news_link": "https://impresiupdate.id/posts/328568/kandidat-antibiotik-baru-ditemukan-pada-bakteri-dari-kedalaman-laut-arktik"
+    },
+    {
+        "title": "Menag Yaqut Bocorkan Salah Satu Topik yang akan Dibahas Paus dan Jokowi",
+        "category": "Khazanah",
+        "publish_time": "04-09-2024 02:34",
+        "news_link": "https://khazanah.republika.co.id/berita/sj9ois366/menag-yaqut-bocorkan-salah-satu-topik-yang-akan-dibahas-paus-dan-jokowi"
+    },
+    {
+        "title": "Rektor UIN: Kedatangan Paus Fransiskus Simbol Toleransi Umat Beragama",
+        "category": "Khazanah",
+        "publish_time": "04-09-2024 02:27",
+        "news_link": "https://khazanah.republika.co.id/berita/sj9o63366/rektor-uin-kedatangan-paus-fransiskus-simbol-toleransi-umat-beragama"
+    },
+    {
+        "title": "Kemenkes Siapkan Sanksi Hingga Pencabutan Surat Izin Praktik Bagi Pelaku Perundungan",
+        "category": "News",
+        "publish_time": "04-09-2024 02:26",
+        "news_link": "https://news.republika.co.id/berita/sj9o5g425/kemenkes-siapkan-sanksi-hingga-pencabutan-surat-izin-praktik-bagi-pelaku-perundungan"
+    },
+    {
+        "title": "Abraham Wenas Tinggalkan Bali United Basketball, Siap Bela Kesatria Bengawan Solo di IBL",
+        "category": "News",
+        "publish_time": "04-09-2024 02:24",
+        "news_link": "https://news.republika.co.id/berita/sj9o11348/abraham-wenas-tinggalkan-bali-united-basketball-siap-bela-kesatria-bengawan-solo-di-ibl"
+    },
+    {
+        "title": "Resmikan Sharia Economic Development Indef, Ini 3 Hal yang Disoroti Wapres",
+        "category": "Sharia",
+        "publish_time": "04-09-2024 02:22",
+        "news_link": "https://sharia.republika.co.id/berita/sj9ny5490/resmikan-sharia-economic-development-indef-ini-3-hal-yang-disoroti-wapres"
+    },
+    {
+        "title": "Cita-citaku Berpijak di Al Azhar Kairo Mesir",
+        "category": "Retizen",
+        "publish_time": "04-09-2024 02:19",
+        "news_link": "https://retizen.republika.co.id/posts/328562/cita-citaku-berpijak-di-al-azhar-kairo-mesir"
+    },
+    {
+        "title": "Pertamina Blokir 2.500 QR Code Penyalahgunaan BBM Subsidi",
+        "category": "Ekonomi",
+        "publish_time": "04-09-2024 02:16",
+        "news_link": "https://ekonomi.republika.co.id/berita/sj9no8490/pertamina-blokir-2500-qr-code-penyalahgunaan-bbm-subsidi"
+    },
+    {
+        "title": "Apple Dikabarkan Pakai Layar OLED untuk Semua iPhone Mulai 2025",
+        "category": "Ameera",
+        "publish_time": "04-09-2024 02:12",
+        "news_link": "https://ameera.republika.co.id/berita/sj9nfk425/apple-dikabarkan-pakai-layar-oled-untuk-semua-iphone-mulai-2025"
+    },
+    {
+        "title": "Selain Bertemu Jokowi, Ini Agenda Lengkap Paus Fransiskus pada Hari Kedua di Indonesia",
+        "category": "Khazanah",
+        "publish_time": "04-09-2024 02:12",
+        "news_link": "https://khazanah.republika.co.id/berita/sj9nd2366/selain-bertemu-jokowi-ini-agenda-lengkap-paus-fransiskus-pada-hari-kedua-di-indonesia"
+    },
+    {
         "title": "Cuaca Hari Ini: Sebagian Besar Wilayah Indonesia Hujan Ringan",
         "category": "News",
-        "publish_time": "04-09-2024 02:03",
+        "publish_time": "04-09-2024 02:12",
         "news_link": "https://news.republika.co.id/berita/sj9n1b366/cuaca-hari-ini-sebagian-besar-wilayah-indonesia-hujan-ringan"
     },
     {
         "title": "Dapat Pengawalan dan Pengamanan Melekat, Ini Alasan 7 Terpidana Kasus Vina Dilindungi LPSK",
         "category": "News",
-        "publish_time": "04-09-2024 02:01",
+        "publish_time": "04-09-2024 02:12",
         "news_link": "https://news.republika.co.id/berita/sj9mxr487/dapat-pengawalan-dan-pengamanan-melekat-ini-alasan-7-terpidana-kasus-vina-dilindungi-lpsk"
     },
     {
         "title": "Sebelas Ribu Mahasiswa Ikuti Kampus Mengajar untuk Kuatkan Literasi",
         "category": "Khazanah",
-        "publish_time": "04-09-2024 01:59",
+        "publish_time": "04-09-2024 02:12",
         "news_link": "https://khazanah.republika.co.id/berita/sj8f5z451/sebelas-ribu-mahasiswa-ikuti-kampus-mengajar-untuk-kuatkan-literasi"
     },
     {
         "title": "Ribuan Rokok Ilegal Disita di Cirebon",
         "category": "Rejabar",
-        "publish_time": "04-09-2024 01:55",
+        "publish_time": "04-09-2024 02:12",
         "news_link": "https://rejabar.republika.co.id/berita/sj9mns512/ribuan-rokok-ilegal-disita-di-cirebon"
     },
     {
         "title": "Raih Bintang Satu, Toyota Raize Dikritik dalam Uji Tabrakan Latin NCAP 2024",
         "category": "Network",
-        "publish_time": "04-09-2024 01:54",
+        "publish_time": "04-09-2024 02:12",
         "news_link": "https://motoresto.id/posts/328543/raih-bintang-satu-toyota-raize-dikritik-dalam-uji-tabrakan-latin-ncap-2024"
     },
     {
         "title": "Banjir Merendam 154 Unit Rumah Di Kabupaten Parigi Moutong",
         "category": "Network",
-        "publish_time": "04-09-2024 01:53",
+        "publish_time": "04-09-2024 02:12",
         "news_link": "https://topnews62.com/posts/328557/banjir-merendam-154-unit-rumah-di-kabupaten-parigi-moutong"
     },
     {
         "title": "LPSK Beri Perlindungan ke Tujuh Terpidana Kasus Kematian Vina dan Eki Cirebon",
         "category": "Rejabar",
-        "publish_time": "04-09-2024 01:50",
+        "publish_time": "04-09-2024 02:12",
         "news_link": "https://rejabar.republika.co.id/berita/sj9mgf512/lpsk-beri-perlindungan-ke-tujuh-terpidana-kasus-kematian-vina-dan-eki-cirebon"
     },
     {
         "title": "Paus Fransiskus Diterima Hangat, Ini Pujian Alquran untuk Kaum Nasrani",
         "category": "Khazanah",
-        "publish_time": "04-09-2024 01:48",
+        "publish_time": "04-09-2024 02:12",
         "news_link": "https://khazanah.republika.co.id/berita/sj9mci458/paus-fransiskus-diterima-hangat-ini-pujian-alquran-untuk-kaum-nasrani"
     },
     {
         "title": "Defisit Melebar, Israel akan Danai Genosida dengan Pembekuan Gaji dan Pemotongan Anggaran",
         "category": "Khazanah",
-        "publish_time": "04-09-2024 01:44",
+        "publish_time": "04-09-2024 02:12",
         "news_link": "https://khazanah.republika.co.id/berita/sj9m5s483/defisit-melebar-israel-akan-danai-genosida-dengan-pembekuan-gaji-dan-pemotongan-anggaran"
     },
     {
         "title": "Pelantikan Adik Raffi Ahmad, Nisya Ahmad Jadi Polemik Ini Penjelasan KPU Jabar",
         "category": "Rejabar",
-        "publish_time": "04-09-2024 01:42",
+        "publish_time": "04-09-2024 01:12",
         "news_link": "https://rejabar.republika.co.id/berita/sj9m2u512/pelantikan-adik-raffi-ahmad-nisya-ahmad-jadi-polemik-ini-penjelasan-kpu-jabar"
     },
     {
         "title": "Ada Potensi Gempa Megathrust, tapi Anggaran Kebencanaan Sangat Minim",
         "category": "Esgnow",
-        "publish_time": "04-09-2024 01:30",
+        "publish_time": "04-09-2024 01:12",
         "news_link": "https://esgnow.republika.co.id/berita/sj9lje416/ada-potensi-gempa-megathrust-tapi-anggaran-kebencanaan-sangat-minim"
     },
     {
         "title": "Keutamaan Orang-Orang yang Bekerja untuk Kepentingan Umum",
         "category": "Iqra",
-        "publish_time": "04-09-2024 01:20",
+        "publish_time": "04-09-2024 01:12",
         "news_link": "https://iqra.republika.co.id/berita/sj9l2p430/keutamaan-orangorang-yang-bekerja-untuk-kepentingan-umum"
     },
     {
         "title": "Indonesia Ajak Negara Berkembang Naik Kelas di Rantai Pasok Global",
         "category": "Ekonomi",
-        "publish_time": "04-09-2024 01:20",
+        "publish_time": "04-09-2024 01:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sj9l1z416/indonesia-ajak-negara-berkembang-naik-kelas-di-rantai-pasok-global"
     },
     {
         "title": "Keponakan Ayu Ting Ting Sempat Dehidrasi Sebelum Meninggal, Ini Pandangan Dokter",
         "category": "Ameera",
-        "publish_time": "04-09-2024 01:18",
+        "publish_time": "04-09-2024 01:12",
         "news_link": "https://ameera.republika.co.id/berita/sj9ky4425/keponakan-ayu-ting-ting-sempat-dehidrasi-sebelum-meninggal-ini-pandangan-dokter"
     },
     {
         "title": "Teknologi Penangkapan Udara Cara Baru Kurangi Emisi",
         "category": "Esgnow",
-        "publish_time": "04-09-2024 01:15",
+        "publish_time": "04-09-2024 01:12",
         "news_link": "https://esgnow.republika.co.id/berita/sj9kui416/teknologi-penangkapan-udara-cara-baru-kurangi-emisi"
     },
     {
@@ -98,205 +212,91 @@
     {
         "title": "Adu Tudingan, Rocky Gerung Nyaris Bertengkar di Acara Debat",
         "category": "News",
-        "publish_time": "04-09-2024 01:11",
+        "publish_time": "04-09-2024 01:12",
         "news_link": "https://news.republika.co.id/berita/sj9kn0377/adu-tudingan-rocky-gerung-nyaris-bertengkar-di-acara-debat"
     },
     {
         "title": "Viral Kereta Api Siliwangi Tujuan Sukabumi Sempat Terhenti, Ini Penjelasan KAI Bandung",
         "category": "Rejabar",
-        "publish_time": "04-09-2024 01:09",
+        "publish_time": "04-09-2024 01:12",
         "news_link": "https://rejabar.republika.co.id/berita/sj9kkn512/viral-kereta-api-siliwangi-tujuan-sukabumi-sempat-terhenti-ini-penjelasan-kai-bandung"
     },
     {
         "title": "Melihat Lebih Dekat Habitat Owa Jawa di Gunung Puntang",
         "category": "Visual",
-        "publish_time": "04-09-2024 01:09",
+        "publish_time": "04-09-2024 01:12",
         "news_link": "https://visual.republika.co.id/berita/sj9hr4375/melihat-lebih-dekat-habitat-owa-jawa-di-gunung-puntang"
     },
     {
         "title": "Menag Sebut KSM 2024 Harus Jadi Inspirasi Bagi Siswa di Indonesia",
         "category": "Khazanah",
-        "publish_time": "04-09-2024 01:09",
+        "publish_time": "04-09-2024 01:12",
         "news_link": "https://khazanah.republika.co.id/berita/sj8ewf451/menag-sebut-ksm-2024-harus-jadi-inspirasi-bagi-siswa-di-indonesia"
     },
     {
         "title": "Ini Mengapa Adik Raffi Ahmad Bisa Dilantik Jadi Anggota DPRD Jabar, Meski Kalah di Pileg",
         "category": "News",
-        "publish_time": "04-09-2024 01:09",
+        "publish_time": "04-09-2024 00:12",
         "news_link": "https://news.republika.co.id/berita/sj9jav377/ini-mengapa-adik-raffi-ahmad-bisa-dilantik-jadi-anggota-dprd-jabar-meski-kalah-di-pileg"
     },
     {
         "title": "Kemenag Minta Semua Stasiun TV Ganti Adzan Via Running Text Selama Misa Akbar Paus",
         "category": "Khazanah",
-        "publish_time": "04-09-2024 00:09",
+        "publish_time": "04-09-2024 00:12",
         "news_link": "https://khazanah.republika.co.id/berita/sj9j1b430/kemenag-minta-semua-stasiun-tv-ganti-adzan-via-running-text-selama-misa-akbar-paus"
     },
     {
         "title": "Dituding Undip Pekerjakan Dokter Berlebihan, Kemenkes: Jam Kerja PPDS Diatur Universitas",
         "category": "News",
-        "publish_time": "04-09-2024 00:09",
+        "publish_time": "04-09-2024 00:12",
         "news_link": "https://news.republika.co.id/berita/sj9eqv487/dituding-undip-pekerjakan-dokter-berlebihan-kemenkes-jam-kerja-ppds-diatur-universitas"
     },
     {
         "title": "Fajar Alfian Hadiahkan Chery TIGGO 5X Untuk Orang Tua",
         "category": "Network",
-        "publish_time": "04-09-2024 00:09",
+        "publish_time": "04-09-2024 00:12",
         "news_link": "https://motoresto.id/posts/328542/fajar-alfian-hadiahkan-chery-tiggo-5x-untuk-orang-tua"
     },
     {
         "title": "Umar bin Khattab saat ke Yerusalem: Naik Unta Pinjaman dan Bergantian dengan Ajudan",
         "category": "Khazanah",
-        "publish_time": "04-09-2024 00:09",
+        "publish_time": "04-09-2024 00:12",
         "news_link": "https://khazanah.republika.co.id/berita/sj9igv430/umar-bin-khattab-saat-ke-yerusalem-naik-unta-pinjaman-dan-bergantian-dengan-ajudan"
     },
     {
         "title": "Adu Kuat Lobi, Gus Yaqut Sebut Muktamar Jakarta Sah, Muhaimin Merapat ke Pemerintah",
         "category": "News",
-        "publish_time": "04-09-2024 00:09",
+        "publish_time": "04-09-2024 00:12",
         "news_link": "https://news.republika.co.id/berita/sj9ibx377/adu-kuat-lobi-gus-yaqut-sebut-muktamar-jakarta-sah-muhaimin-merapat-ke-pemerintah"
     },
     {
         "title": "Milad ke-7 MT Al Fatimah, Bershalawat Bersama Habib Syech Bin Abdul Qodir Assegaf",
         "category": "Network",
-        "publish_time": "04-09-2024 00:09",
+        "publish_time": "04-09-2024 00:12",
         "news_link": "https://topnews62.com/posts/328541/milad-ke-7-mt-al-fatimah-bershalawat-bersama-habib-syech-bin-abdul-qodir-assegaf"
     },
     {
         "title": "Kain Songket Indonesia: Kekayaan Tradisi yang Mendunia",
         "category": "Network",
-        "publish_time": "04-09-2024 00:09",
+        "publish_time": "04-09-2024 00:12",
         "news_link": "https://topnews62.com/posts/328549/kain-songket-indonesia-kekayaan-tradisi-yang-mendunia"
     },
     {
         "title": "Bali Disebut Overtourism, Sandiaga: Tunggu Arahan Jokowi",
         "category": "Ekonomi",
-        "publish_time": "04-09-2024 00:09",
+        "publish_time": "04-09-2024 00:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sj9i3z490/bali-disebut-overtourism-sandiaga-tunggu-arahan-jokowi"
     },
     {
         "title": "Hadits Keutamaan Bekerja dengan Baik, Sungguh-Sungguh, dan Profesional",
         "category": "Iqra",
-        "publish_time": "04-09-2024 00:09",
+        "publish_time": "04-09-2024 00:12",
         "news_link": "https://iqra.republika.co.id/berita/sj9hlz430/hadits-keutamaan-bekerja-dengan-baik-sungguhsungguh-dan-profesional"
     },
     {
         "title": "Indonesia Tegaskan Komitmen Kolaborasi Pembangunan dengan Afrika",
         "category": "News",
-        "publish_time": "04-09-2024 00:09",
+        "publish_time": "04-09-2024 00:12",
         "news_link": "https://news.republika.co.id/berita/sj8equ451/indonesia-tegaskan-komitmen-kolaborasi-pembangunan-dengan-afrika"
-    },
-    {
-        "title": "Pengukuhan Persaudaraan Paus dan Syekh al-Azhar",
-        "category": "Kolom",
-        "publish_time": "04-09-2024 00:09",
-        "news_link": "https://www.republika.id/posts/54572/pengukuhan-persaudaraan-paus-dan-syekh-al-azhar"
-    },
-    {
-        "title": "Foden, Palmer, dan Watkins Dicoret dari Skuad Inggris",
-        "category": "News",
-        "publish_time": "04-09-2024 00:09",
-        "news_link": "https://news.republika.co.id/berita/sj9fkc348/foden-palmer-dan-watkins-dicoret-dari-skuad-inggris"
-    },
-    {
-        "title": "Adab Terhadap Diri",
-        "category": "Khazanah",
-        "publish_time": "03-09-2024 23:09",
-        "news_link": "https://www.republika.id/posts/54576/adab-terhadap-diri"
-    },
-    {
-        "title": "Alex Pereira Siap Turun Kelas Sekali Lagi untuk Hadapi Dricus di Oktagon UFC",
-        "category": "News",
-        "publish_time": "03-09-2024 23:09",
-        "news_link": "https://news.republika.co.id/berita/sj9eux348/alex-pereira-siap-turun-kelas-sekali-lagi-untuk-hadapi-dricus-di-oktagon-ufc"
-    },
-    {
-        "title": "The Vice President Asserts Sharia Economy Is The New Stream Of National Growth",
-        "category": "En",
-        "publish_time": "3 hours ago",
-        "news_link": "https://en.republika.co.id/berita/sj9cv5415/the-vice-president-asserts-sharia-economy-is-the-new-stream-of-national-growth"
-    },
-    {
-        "title": "Jika Kotak Kosong Menang",
-        "category": "News",
-        "publish_time": "03-09-2024 23:09",
-        "news_link": "https://www.republika.id/posts/54561/jika-kotak-kosong-menang"
-    },
-    {
-        "title": "Siswa dan ASN di Jakarta WFH Saat Misa Akbar Paus Fransiskus di GBK",
-        "category": "News",
-        "publish_time": "03-09-2024 23:09",
-        "news_link": "https://news.republika.co.id/berita/sj9f3b484/siswa-dan-asn-di-jakarta-wfh-saat-misa-akbar-paus-fransiskus-di-gbk"
-    },
-    {
-        "title": "Hadits-Hadits tentang Kemuliaan Bekerja daripada Meminta-minta",
-        "category": "Iqra",
-        "publish_time": "03-09-2024 23:09",
-        "news_link": "https://iqra.republika.co.id/berita/sj9etj430/haditshadits-tentang-kemuliaan-bekerja-daripada-memintaminta"
-    },
-    {
-        "title": "FIFA Ungkap Transfer Pemain Internasional Musim Panas Ini Capai Rekor Baru",
-        "category": "News",
-        "publish_time": "03-09-2024 23:09",
-        "news_link": "https://news.republika.co.id/berita/sj9dyz348/fifa-ungkap-transfer-pemain-internasional-musim-panas-ini-capai-rekor-baru"
-    },
-    {
-        "title": "Inggris Hentikan Sebagian Bantuan Senjata ke Israel",
-        "category": "News",
-        "publish_time": "03-09-2024 23:09",
-        "news_link": "https://www.republika.id/posts/54566/inggris-hentikan-sebagian-bantuan-senjata-ke-israel"
-    },
-    {
-        "title": "DPC PDIP Solo Tepis Adanya Ancaman Pembunuhan Hingga Pemukulan\u00a0oleh FX Rudy",
-        "category": "News",
-        "publish_time": "03-09-2024 23:09",
-        "news_link": "https://news.republika.co.id/berita/sj9epo377/dpc-pdip-solo-tepis-adanya-ancaman-pembunuhan-hingga-pemukulanoleh-fx-rudy"
-    },
-    {
-        "title": "Angka Fantastis Potensi Ekonomi Syariah Dunia",
-        "category": "Khazanah",
-        "publish_time": "03-09-2024 23:09",
-        "news_link": "https://khazanah.republika.co.id/berita/sj8eme451/angka-fantastis-potensi-ekonomi-syariah-dunia"
-    },
-    {
-        "title": "Konsep Pengasuhan (Hadhanah) dalam Islam",
-        "category": "Ameera",
-        "publish_time": "03-09-2024 23:09",
-        "news_link": "https://www.republika.id/posts/54243/konsep-pengasuhan-hadhanah-dalam-islam"
-    },
-    {
-        "title": "Misteri Kalimat Alhamdulillah di Dalam Alquran, tak Hanya Ada di Al Fatihah",
-        "category": "Iqra",
-        "publish_time": "03-09-2024 23:09",
-        "news_link": "https://iqra.republika.co.id/berita/sj9eii483/misteri-kalimat-alhamdulillah-di-dalam-alquran-tak-hanya-ada-di-al-fatihah"
-    },
-    {
-        "title": "\u2018Paus Fransiskus Ingin Belajar dari Indonesia\u2019",
-        "category": "Khazanah",
-        "publish_time": "03-09-2024 23:09",
-        "news_link": "https://www.republika.id/posts/54571/%e2%80%98paus-fransiskus-ingin-belajar-dari-indonesia%e2%80%99"
-    },
-    {
-        "title": "Sering Cemas dan Waswas? Rutin Baca 2 Dzikir Singkat Ini Pagi dan Sore Sebanyak 3 Kali",
-        "category": "Iqra",
-        "publish_time": "03-09-2024 23:09",
-        "news_link": "https://iqra.republika.co.id/berita/sj9e9e320/sering-cemas-dan-waswas-rutin-baca-2-dzikir-singkat-ini-pagi-dan-sore-sebanyak-3-kali"
-    },
-    {
-        "title": "Allah Menjaga Kehormatan Orang yang Tidak Suka Meminta-Minta",
-        "category": "Iqra",
-        "publish_time": "03-09-2024 23:09",
-        "news_link": "https://iqra.republika.co.id/berita/sj9dz0430/allah-menjaga-kehormatan-orang-yang-tidak-suka-memintaminta"
-    },
-    {
-        "title": "'Buat Apa Vaksinasi Polio Jika Anak-Anak Kami Dibom?'",
-        "category": "News",
-        "publish_time": "03-09-2024 23:09",
-        "news_link": "https://www.republika.id/posts/54567/buat-apa-vaksinasi-polio-jika-anak-anak-kami-dibom"
-    },
-    {
-        "title": "Pembelaan Nusron untuk Kepala BPKH Terkait Kisruh Pembagian Kuota Haji Tambahan",
-        "category": "Khazanah",
-        "publish_time": "03-09-2024 22:09",
-        "news_link": "https://khazanah.republika.co.id/berita/sj9dky483/pembelaan-nusron-untuk-kepala-bpkh-terkait-kisruh-pembagian-kuota-haji-tambahan"
     }
 ]
