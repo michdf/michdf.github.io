@@ -1,128 +1,248 @@
 [
     {
+        "title": "Harpelnas, Bank bjb Komitmen Tingkatkan Layanan dan Inovasi Produk Perbankan",
+        "category": "News",
+        "publish_time": "04-09-2024 10:11",
+        "news_link": "https://news.republika.co.id/berita/sja9lp423/harpelnas-bank-bjb-komitmen-tingkatkan-layanan-dan-inovasi-produk-perbankan"
+    },
+    {
+        "title": "Inovasi Muda Foundation dan Unpad Kembangkan Green Innovation Hub",
+        "category": "Esgnow",
+        "publish_time": "04-09-2024 10:06",
+        "news_link": "https://esgnow.republika.co.id/berita/sja9di416/inovasi-muda-foundation-dan-unpad-kembangkan-green-innovation-hub"
+    },
+    {
+        "title": "Nubuat Rasulullah Ihwal Tewasnya Raja yang Zalim",
+        "category": "Khazanah",
+        "publish_time": "04-09-2024 10:05",
+        "news_link": "https://khazanah.republika.co.id/berita/sja9cx458/nubuat-rasulullah-ihwal-tewasnya-raja-yang-zalim"
+    },
+    {
+        "title": "Selama Agustus 2024, Polres Indramayu Ringkus Pengedar OKT di 10 Kecamatan",
+        "category": "Rejabar",
+        "publish_time": "04-09-2024 10:04",
+        "news_link": "https://rejabar.republika.co.id/berita/sja9ar512/selama-agustus-2024-polres-indramayu-ringkus-pengedar-okt-di-10-kecamatan"
+    },
+    {
+        "title": "Menuntun Tontonan",
+        "category": "Rejogja",
+        "publish_time": "04-09-2024 10:03",
+        "news_link": "https://rejogja.republika.co.id/berita/sja994291/menuntun-tontonan"
+    },
+    {
+        "title": "BRIN Sebut Mpox Clade Ib Timbulkan Gejala Lebih Parah dan Cepat Menular",
+        "category": "Ameera",
+        "publish_time": "04-09-2024 10:00",
+        "news_link": "https://ameera.republika.co.id/berita/sja93m425/brin-sebut-mpox-clade-ib-timbulkan-gejala-lebih-parah-dan-cepat-menular"
+    },
+    {
+        "title": "Manuel Ugarte tak Sabar Perkuat MU",
+        "category": "News",
+        "publish_time": "04-09-2024 09:54",
+        "news_link": "https://news.republika.co.id/berita/sja8tn348/manuel-ugarte-tak-sabar-perkuat-mu"
+    },
+    {
+        "title": "Ini Solusi JK Agar Adzan Maghrib dan Misa Paus Fransiskus Tetap Tayang di TV Bersamaan",
+        "category": "News",
+        "publish_time": "04-09-2024 09:46",
+        "news_link": "https://news.republika.co.id/berita/sja8gw409/ini-solusi-jk-agar-adzan-maghrib-dan-misa-paus-fransiskus-tetap-tayang-di-tv-bersamaan"
+    },
+    {
+        "title": "Aktor Richard Gere Bicara tentang Peran Ikoniknya di Film Fenomenal Pretty Woman",
+        "category": "Ameera",
+        "publish_time": "04-09-2024 09:44",
+        "news_link": "https://ameera.republika.co.id/berita/sja8dz425/aktor-richard-gere-bicara-tentang-peran-ikoniknya-di-film-fenomenal-pretty-woman"
+    },
+    {
+        "title": "Jadwal Pertandingan Indonesia Vs Arab Saudi, Main Jumat Dini Hari, Live di RCTI",
+        "category": "News",
+        "publish_time": "04-09-2024 09:42",
+        "news_link": "https://news.republika.co.id/berita/sja8a7348/jadwal-pertandingan-indonesia-vs-arab-saudi-main-jumat-dini-hari-live-di-rcti"
+    },
+    {
+        "title": "KPK Segera Siapkan Surat Pemanggilan untuk Kaesang",
+        "category": "News",
+        "publish_time": "04-09-2024 09:38",
+        "news_link": "https://news.republika.co.id/berita/sja833484/kpk-segera-siapkan-surat-pemanggilan-untuk-kaesang"
+    },
+    {
+        "title": "Tinjau Proses Bisnis Pengguna Jasanya, Bea Cukai Laksanakan Customs Visit Customer",
+        "category": "Beacukai",
+        "publish_time": "04-09-2024 09:36",
+        "news_link": "https://republika.co.id/berita/sja7ze370/tinjau-proses-bisnis-pengguna-jasanya-bea-cukai-laksanakan-customs-visit-customer"
+    },
+    {
+        "title": "Infografis Poin-Poin Pernyataan Paus saat Bertemu Presiden Jokowi",
+        "category": "Visual",
+        "publish_time": "04-09-2024 09:30",
+        "news_link": "https://visual.republika.co.id/berita/sja7qv430/infografis-poinpoin-pernyataan-paus-saat-bertemu-presiden-jokowi"
+    },
+    {
+        "title": "Antisipasi Karhutla, BMKG Gelar Sekolah Lapang Iklim",
+        "category": "Esgnow",
+        "publish_time": "04-09-2024 09:29",
+        "news_link": "https://esgnow.republika.co.id/berita/sja7oi416/antisipasi-karhutla-bmkg-gelar-sekolah-lapang-iklim"
+    },
+    {
+        "title": "Netanyahu dengan Bangga Pamerkan Peta Israel Caplok Tepi Barat dan Reaksi Palestina?",
+        "category": "Khazanah",
+        "publish_time": "04-09-2024 09:26",
+        "news_link": "https://khazanah.republika.co.id/berita/sja7jt320/netanyahu-dengan-bangga-pamerkan-peta-israel-caplok-tepi-barat-dan-reaksi-palestina"
+    },
+    {
+        "title": "RSHS Bandung Ungkap, Ini Hasil Tes Kesehatan Bakal Paslon di Pilkada Serentak di Jabar",
+        "category": "Rejabar",
+        "publish_time": "04-09-2024 09:25",
+        "news_link": "https://rejabar.republika.co.id/berita/sja7i8512/rshs-bandung-ungkap-ini-hasil-tes-kesehatan-bakal-paslon-di-pilkada-serentak-di-jabar"
+    },
+    {
+        "title": "Beri Izin Fasilitas Kawasan Berikat, Bea Cukai Perluas Jangkauan Pasar Perusahaan Ini",
+        "category": "Beacukai",
+        "publish_time": "04-09-2024 09:23",
+        "news_link": "https://republika.co.id/berita/sja7ea370/beri-izin-fasilitas-kawasan-berikat-bea-cukai-perluas-jangkauan-pasar-perusahaan-ini"
+    },
+    {
+        "title": "Saat Israel 'Jilat Ludah Sendiri' Soal Koridor Philadelphia",
+        "category": "Khazanah",
+        "publish_time": "04-09-2024 09:20",
+        "news_link": "https://khazanah.republika.co.id/berita/sja79b483/saat-israel-jilat-ludah-sendiri-soal-koridor-philadelphia"
+    },
+    {
+        "title": "Cacar Monyet Lebih dari Sekadar Ruam, Bisa Sebabkan Komplikasi Serius",
+        "category": "Ameera",
+        "publish_time": "04-09-2024 09:18",
+        "news_link": "https://ameera.republika.co.id/berita/sja765425/cacar-monyet-lebih-dari-sekadar-ruam-bisa-sebabkan-komplikasi-serius"
+    },
+    {
+        "title": "Anggota DPR: Adzan Diganti Running Text Saat Misa Paus Fransiskus tak Perlu Diperdebatkan",
+        "category": "News",
+        "publish_time": "04-09-2024 09:16",
+        "news_link": "https://news.republika.co.id/berita/sja733409/anggota-dpr-adzan-diganti-running-text-saat-misa-paus-fransiskus-tak-perlu-diperdebatkan"
+    },
+    {
         "title": "PLTA Jatigede Siap Beroperasi Tahun Ini",
         "category": "Ekonomi",
-        "publish_time": "04-09-2024 09:12",
+        "publish_time": "04-09-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sja6ww416/plta-jatigede-siap-beroperasi-tahun-ini"
     },
     {
         "title": "Momen Paus Fransiskus Bertemu Presiden Jokowi di Istana Merdeka",
         "category": "Visual",
-        "publish_time": "04-09-2024 09:12",
+        "publish_time": "04-09-2024 09:13",
         "news_link": "https://visual.republika.co.id/berita/sja6wd375/momen-paus-fransiskus-bertemu-presiden-jokowi-di-istana-merdeka"
     },
     {
         "title": "KPU: Koalisi yang Ingin Cabut Dukungan Harus Beri Surat Tertulis",
         "category": "News",
-        "publish_time": "04-09-2024 09:10",
+        "publish_time": "04-09-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/sja6t4487/kpu-koalisi-yang-ingin-cabut-dukungan-harus-beri-surat-tertulis"
     },
     {
         "title": "Anak di Bawah 2 Tahun di Swedia Dianjurkan tak Gunakan Gadget",
         "category": "Ameera",
-        "publish_time": "04-09-2024 09:04",
+        "publish_time": "04-09-2024 09:13",
         "news_link": "https://ameera.republika.co.id/berita/sja6jc425/anak-di-bawah-2-tahun-di-swedia-dianjurkan-tak-gunakan-gadget"
     },
     {
         "title": "Azan dengan Teks Berjalan Akomodasi Jemaat yang tak Bisa Hadir di GBK",
         "category": "Khazanah",
-        "publish_time": "04-09-2024 09:04",
+        "publish_time": "04-09-2024 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/sja6ig370/azan-dengan-teks-berjalan-akomodasi-jemaat-yang-tak-bisa-hadir-di-gbk"
     },
     {
         "title": "KPU Lapor ke Jokowi Perkembangan Pemilu dan Pilkada 2024",
         "category": "News",
-        "publish_time": "04-09-2024 09:03",
+        "publish_time": "04-09-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/sja6gz484/kpu-lapor-ke-jokowi-perkembangan-pemilu-dan-pilkada-2024"
     },
     {
         "title": "SK Kepengurusan PKB Ketum Cak Imin, Menkumham: Sudah Ditandatangani, Kalau Gak Salah",
         "category": "News",
-        "publish_time": "04-09-2024 08:55",
+        "publish_time": "04-09-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/sja64o377/sk-kepengurusan-pkb-ketum-cak-imin-menkumham-sudah-ditandatangani-kalau-gak-salah"
     },
     {
         "title": "Ini Rekomendasi KY Soal Antisipasi Gangguan Sidang Perkara Pilkada 2024",
         "category": "News",
-        "publish_time": "04-09-2024 08:55",
+        "publish_time": "04-09-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/sja64m487/ini-rekomendasi-ky-soal-antisipasi-gangguan-sidang-perkara-pilkada-2024"
     },
     {
         "title": "Isu Kesehatan di Tengah Kunjungan Terpanjang Paus Fransiskus di Asia Tenggara dan Oseania",
         "category": "Khazanah",
-        "publish_time": "04-09-2024 08:55",
+        "publish_time": "04-09-2024 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/sja484483/isu-kesehatan-di-tengah-kunjungan-terpanjang-paus-fransiskus-di-asia-tenggara-dan-oseania"
     },
     {
         "title": "Empat Pasangan Pilwalkot Banda Aceh Jalani Tes Baca Alquran",
         "category": "News",
-        "publish_time": "04-09-2024 08:54",
+        "publish_time": "04-09-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/sja629484/empat-pasangan-pilwalkot-banda-aceh-jalani-tes-baca-alquran"
     },
     {
         "title": "Mau Jadi Pengusaha Sebelum Wisuda? Kuliah di BSI Aja!",
         "category": "News",
-        "publish_time": "04-09-2024 08:53",
+        "publish_time": "04-09-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/sja61k370/mau-jadi-pengusaha-sebelum-wisuda-kuliah-di-bsi-aja"
     },
     {
         "title": "Ada Kegiatan Paus Fransiskus, 205 Sekolah di Jakarta Terapkan Belajar Jarak Jauh",
         "category": "News",
-        "publish_time": "04-09-2024 08:47",
+        "publish_time": "04-09-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/sja5qw377/ada-kegiatan-paus-fransiskus-205-sekolah-di-jakarta-terapkan-belajar-jarak-jauh"
     },
     {
         "title": "Negara Terkecil di Dunia, Ada Vatikan Hingga Maladewa",
         "category": "Ameera",
-        "publish_time": "04-09-2024 08:44",
+        "publish_time": "04-09-2024 09:13",
         "news_link": "https://ameera.republika.co.id/berita/sja5ld425/negara-terkecil-di-dunia-ada-vatikan-hingga-maladewa"
     },
     {
         "title": "Bos-Bos Kereta di Asia Tenggara Kunjungi Stasiun Gambir",
         "category": "News",
-        "publish_time": "04-09-2024 08:43",
+        "publish_time": "04-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sja5k7484/bosbos-kereta-di-asia-tenggara-kunjungi-stasiun-gambir"
     },
     {
         "title": "Pernah Ditawari Jadi Timses Ridwan Kamil-Suswono, Foke Menolak, Ini Alasannya",
         "category": "News",
-        "publish_time": "04-09-2024 08:43",
+        "publish_time": "04-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sja5jp487/pernah-ditawari-jadi-timses-ridwan-kamilsuswono-foke-menolak-ini-alasannya"
     },
     {
         "title": "Program Studi Software Engineering Universitas BSI, Pilihan Tepat di Era Digital",
         "category": "News",
-        "publish_time": "04-09-2024 08:41",
+        "publish_time": "04-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sja5h9370/program-studi-software-engineering-universitas-bsi-pilihan-tepat-di-era-digital"
     },
     {
         "title": "Ridwan Kamil Ingin Pariwisata Jakarta Sekaliber Hongkong dan Singapura",
         "category": "News",
-        "publish_time": "04-09-2024 08:37",
+        "publish_time": "04-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sja5aw377/ridwan-kamil-ingin-pariwisata-jakarta-sekaliber-hongkong-dan-singapura"
     },
     {
         "title": "PKB akan Tunjuk Ketua Harian Diisi Anak Usia 25 Tahun",
         "category": "News",
-        "publish_time": "04-09-2024 08:28",
+        "publish_time": "04-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sja4vp484/pkb-akan-tunjuk-ketua-harian-diisi-anak-usia-25-tahun"
     },
     {
         "title": "DPR: Kelas Menengah Turun Jelas Ganggu Tujuan Indonesia Emas 2045",
         "category": "Ekonomi",
-        "publish_time": "04-09-2024 08:19",
+        "publish_time": "04-09-2024 08:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sja4gs502/dpr-kelas-menengah-turun-jelas-ganggu-tujuan-indonesia-emas-2045"
     },
     {
         "title": "Dharma Pongrekun Ingin Gratiskan JIS untuk Persija, Ini Kata Pj Heru Budi",
         "category": "News",
-        "publish_time": "04-09-2024 08:15",
+        "publish_time": "04-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sja4aa487/dharma-pongrekun-ingin-gratiskan-jis-untuk-persija-ini-kata-pj-heru-budi"
     },
     {
         "title": "Dokter Beberkan Gejala Awal dan Faktor Pemicu Autoimun pada Anak",
         "category": "Ameera",
-        "publish_time": "04-09-2024 08:15",
+        "publish_time": "04-09-2024 08:13",
         "news_link": "https://ameera.republika.co.id/berita/sja4a1425/dokter-beberkan-gejala-awal-dan-faktor-pemicu-autoimun-pada-anak"
     },
     {
@@ -178,125 +298,5 @@
         "category": "Video",
         "publish_time": "04-09-2024 08:13",
         "news_link": "https://tv.republika.co.id/berita/sja3oq418/erick-thohir-bersihbersih-pssi"
-    },
-    {
-        "title": "Peneliti AS dan Indonesia Bedah Masalah Iklim di Indonesia",
-        "category": "Video",
-        "publish_time": "04-09-2024 08:13",
-        "news_link": "https://tv.republika.co.id/berita/sja3hv467/peneliti-as-dan-indonesia-bedah-masalah-iklim-di-indonesia"
-    },
-    {
-        "title": "Universitas BSI Dorong Lansia Melek Digital di Acara 'Bersama Bugar Digital' Mafindo",
-        "category": "News",
-        "publish_time": "04-09-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sja366370/universitas-bsi-dorong-lansia-melek-digital-di-acara-bersama-bugar-digital-mafindo"
-    },
-    {
-        "title": "Aldila Sutjiadi Catat Sejarah Capai Tiga Semifinal Grand Slam",
-        "category": "News",
-        "publish_time": "04-09-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sja34r348/aldila-sutjiadi-catat-sejarah-capai-tiga-semifinal-grand-slam"
-    },
-    {
-        "title": "Instrumen Investasi Ini Ajak Investor Milenial untuk Peduli Lingkungan",
-        "category": "Ekonomi",
-        "publish_time": "04-09-2024 08:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sja2xt490/instrumen-investasi-ini-ajak-investor-milenial-untuk-peduli-lingkungan"
-    },
-    {
-        "title": "Muhammadiyah: Azan TV saat Misa Paus Diganti Teks Bentuk Toleransi",
-        "category": "Khazanah",
-        "publish_time": "04-09-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sja2sf430/muhammadiyah-azan-tv-saat-misa-paus-diganti-teks-bentuk-toleransi"
-    },
-    {
-        "title": "Komplotan Napi Asal Balikpapan Lakukan Penipuan Modus Layanan Seksual di Jabar",
-        "category": "Rejabar",
-        "publish_time": "04-09-2024 07:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sja2r5512/komplotan-napi-asal-balikpapan-lakukan-penipuan-modus-layanan-seksual-di-jabar"
-    },
-    {
-        "title": "Bappenas Bocorkan Pemerintah Prabowo akan Bikin Badan Pengembangan Ekonomi Syariah",
-        "category": "Sharia",
-        "publish_time": "04-09-2024 07:13",
-        "news_link": "https://sharia.republika.co.id/berita/sja2lx490/bappenas-bocorkan-pemerintah-prabowo-akan-bikin-badan-pengembangan-ekonomi-syariah"
-    },
-    {
-        "title": "Potret Kesederhanaan Paus Fransiskus Selama Kunjungan di Indonesia",
-        "category": "Ameera",
-        "publish_time": "04-09-2024 07:13",
-        "news_link": "https://ameera.republika.co.id/berita/sja2h6425/potret-kesederhanaan-paus-fransiskus-selama-kunjungan-di-indonesia"
-    },
-    {
-        "title": "Bea Cukai Yogyakarta Musnahkan Barang-Barang Eks Penindakan Senilai Ratusan Juta Rupiah",
-        "category": "Beacukai",
-        "publish_time": "04-09-2024 07:13",
-        "news_link": "https://republika.co.id/berita/sja2gh370/bea-cukai-yogyakarta-musnahkan-barang-barang-eks-penindakan-senilai-ratusan-juta-rupiah"
-    },
-    {
-        "title": "Halal Center UNIDA Gontor Kunjungi Halal Institute Prince Songkla University Thailand",
-        "category": "Khazanah",
-        "publish_time": "04-09-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sj9zvg451/halal-center-unida-gontor-kunjungi-halal-institute-prince-songkla-university-thailand"
-    },
-    {
-        "title": "Menurut Imam an-Nawawi Adzan Bukan Sekedar Penanda Waktu Sholat",
-        "category": "Khazanah",
-        "publish_time": "04-09-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sja2fq430/menurut-imam-annawawi-adzan-bukan-sekedar-penanda-waktu-sholat"
-    },
-    {
-        "title": "Adzan Maghrib Running Text Dinilai demi Menjaga Kekhusyukan Misa Umat Katolik",
-        "category": "Khazanah",
-        "publish_time": "04-09-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sja288483/adzan-maghrib-running-text-dinilai-demi-menjaga-kekhusyukan-misa-umat-katolik"
-    },
-    {
-        "title": "Pesan Abadi Toleransi Rasulullah",
-        "category": "Khazanah",
-        "publish_time": "04-09-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sja1x3458/pesan-abadi-toleransi-rasulullah"
-    },
-    {
-        "title": "Empat Kades di Kabupaten Bandung Diduga tak Netral Hadirkan Bakal Paslon",
-        "category": "Rejabar",
-        "publish_time": "04-09-2024 07:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sja1ud512/empat-kades-di-kabupaten-bandung-diduga-tak-netral-hadirkan-bakal-paslon"
-    },
-    {
-        "title": "Tiga Jenis Autoimun yang Sering Menyerang Anak",
-        "category": "Ameera",
-        "publish_time": "04-09-2024 07:13",
-        "news_link": "https://ameera.republika.co.id/berita/sja1r2425/tiga-jenis-autoimun-yang-sering-menyerang-anak"
-    },
-    {
-        "title": "Keji! Israel Bunuh Anak Palestina yang Sedang Bermain",
-        "category": "Khazanah",
-        "publish_time": "04-09-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sja1fo458/keji-israel-bunuh-anak-palestina-yang-sedang-bermain"
-    },
-    {
-        "title": "Momen Cantik Perang Adu Bantal di Sungai Cisangkuy",
-        "category": "Network",
-        "publish_time": "04-09-2024 07:13",
-        "news_link": "https://kangjepret.republika.co.id/posts/328619/momen-cantik-perang-adu-bantal-di-sungai-cisangkuy"
-    },
-    {
-        "title": "Latma Safkar Indopura 2024 Pererat Kerja Sama Kedua Negara",
-        "category": "Network",
-        "publish_time": "04-09-2024 07:13",
-        "news_link": "https://seputarmiliter.id/posts/328620/latma-safkar-indopura-2024-pererat-kerja-sama-kedua-negara"
-    },
-    {
-        "title": "Maung MV3 Produksi Pindad Digunakan Paus Fransiskus di GBK",
-        "category": "News",
-        "publish_time": "04-09-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/sja0y5484/maung-mv3-produksi-pindad-digunakan-paus-fransiskus-di-gbk"
-    },
-    {
-        "title": "Gema Seismik Mengungkap Donat Misterius di Sekitar Khatulistiwa, Dalam Inti Bumi",
-        "category": "Network",
-        "publish_time": "04-09-2024 07:13",
-        "news_link": "https://impresiupdate.id/posts/328588/gema-seismik-mengungkap-donat-misterius-di-sekitar-khatulistiwa-dalam-inti-bumi"
     }
 ]
