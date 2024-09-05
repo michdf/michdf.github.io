@@ -1,152 +1,242 @@
 [
     {
+        "title": "Film Joker 2 Raih Standing Ovation 11 Menit di Venice International Film Festival",
+        "category": "Ameera",
+        "publish_time": "05-09-2024 10:10",
+        "news_link": "https://ameera.republika.co.id/berita/sjc498425/film-joker-2-raih-standing-ovation-11-menit-di-venice-international-film-festival"
+    },
+    {
+        "title": "Orang yang 'Hobi' Utang Cenderung Bohong dan tak Tepati Janji?",
+        "category": "Khazanah",
+        "publish_time": "05-09-2024 10:08",
+        "news_link": "https://khazanah.republika.co.id/berita/sjc45d458/orang-yang-hobi-utang-cenderung-bohong-dan-tak-tepati-janji"
+    },
+    {
+        "title": "BNPB Tekankan Pentingnya Kesiapsiagaan Bencana Megathrust",
+        "category": "Esgnow",
+        "publish_time": "05-09-2024 10:00",
+        "news_link": "https://esgnow.republika.co.id/berita/sjbxql416/bnpb-tekankan-pentingnya-kesiapsiagaan-bencana-megathrust"
+    },
+    {
+        "title": "Akar Toleransi, Ini Tafsir Surah Alhujurat Ayat 13 yang Dibacakan di Depan Paus Fransiskus",
+        "category": "Iqra",
+        "publish_time": "05-09-2024 09:58",
+        "news_link": "https://iqra.republika.co.id/berita/sjc3pa483/akar-toleransi-ini-tafsir-surah-alhujurat-ayat-13-yang-dibacakan-di-depan-paus-fransiskus"
+    },
+    {
+        "title": "Assalamualaikum Masjid Agung Xi'an",
+        "category": "Video",
+        "publish_time": "05-09-2024 09:57",
+        "news_link": "https://tv.republika.co.id/berita/sjc3mx216/assalamualaikum-masjid-agung-xian"
+    },
+    {
+        "title": "Sudirman Terpidana Kasus Vina, Akhirnya Dipulangkan ke Lapas Cirebon",
+        "category": "Rejabar",
+        "publish_time": "05-09-2024 09:51",
+        "news_link": "https://rejabar.republika.co.id/berita/sjc3dp512/sudirman-terpidana-kasus-vina-akhirnya-dipulangkan-ke-lapas-cirebon"
+    },
+    {
+        "title": "Jelang Misa Bersama Paus Fransiskus, Umat Katolik Padati GBK",
+        "category": "News",
+        "publish_time": "05-09-2024 09:51",
+        "news_link": "https://news.republika.co.id/berita/sjc3dg458/jelang-misa-bersama-paus-fransiskus-umat-katolik-padati-gbk"
+    },
+    {
+        "title": "Calon Petahana Gagal Daftar, Pilbup Lampung Timur Lawan Kotak Kosong",
+        "category": "Network",
+        "publish_time": "05-09-2024 09:50",
+        "news_link": "https://sumatralink.id/posts/328920/calon-petahana-gagal-daftar-pilbup-lampung-timur-lawan-kotak-kosong"
+    },
+    {
+        "title": "Ketika Anak Pejabat tak Bisa Kabur dari Hukuman",
+        "category": "Khazanah",
+        "publish_time": "05-09-2024 09:35",
+        "news_link": "https://khazanah.republika.co.id/berita/sjc2m1458/ketika-anak-pejabat-tak-bisa-kabur-dari-hukuman"
+    },
+    {
+        "title": "Maknai Pesan Paus Fransiskus, KH Masyhuril: Jangan Haus Kekuasaan",
+        "category": "Khazanah",
+        "publish_time": "05-09-2024 09:32",
+        "news_link": "https://khazanah.republika.co.id/berita/sjc2ih483/maknai-pesan-paus-fransiskus-kh-masyhuril-jangan-haus-kekuasaan"
+    },
+    {
+        "title": "Tren 'When Your Job Doesn't Match Aesthetic' Ramai di Medsos, Apa Itu?",
+        "category": "Ameera",
+        "publish_time": "05-09-2024 09:27",
+        "news_link": "https://ameera.republika.co.id/berita/sjc291425/tren-when-your-job-doesnt-match-aesthetic-ramai-di-medsos-apa-itu"
+    },
+    {
+        "title": "Takziah, Ridwan Kamil Ungkap Faisal Basri Merupakan Gurunya",
+        "category": "News",
+        "publish_time": "05-09-2024 09:23",
+        "news_link": "https://news.republika.co.id/berita/sjc22p484/takziah-ridwan-kamil-ungkap-faisal-basri-merupakan-gurunya"
+    },
+    {
+        "title": "Hari Pelanggan Nasional, Pekerja Diharap Sadari Pentingnya Perlindungan Sosial",
+        "category": "Rejakarta",
+        "publish_time": "05-09-2024 09:17",
+        "news_link": "https://republika.co.id/berita/sjc1k7430/hari-pelanggan-nasional-pekerja-diharap-sadari-pentingnya-perlindungan-sosial"
+    },
+    {
+        "title": "UMKM Indonesia Berpeluang Tembus Pasar Amerika Serikat",
+        "category": "Video",
+        "publish_time": "05-09-2024 09:15",
+        "news_link": "https://tv.republika.co.id/berita/sjc0dt467/umkm-indonesia-berpeluang-tembus-pasar-amerika-serikat"
+    },
+    {
+        "title": "Siapa Hafidzah Difabel Netra yang Melantunkan Alquran di Hadapan Paus Fransiskus?",
+        "category": "Khazanah",
+        "publish_time": "05-09-2024 09:14",
+        "news_link": "https://khazanah.republika.co.id/berita/sjc1no483/siapa-hafidzah-difabel-netra-yang-melantunkan-alquran-di-hadapan-paus-fransiskus"
+    },
+    {
         "title": "Gojek Akhiri Operasi, Hengkang dari Vietnam",
         "category": "Ekonomi",
-        "publish_time": "05-09-2024 09:10",
+        "publish_time": "05-09-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sjc1hr502/gojek-akhiri-operasi-hengkang-dari-vietnam"
     },
     {
         "title": "Peresmian Kapal Patroli Cepat KRI Butana-878 dan KRI Selar-879",
         "category": "Visual",
-        "publish_time": "05-09-2024 09:10",
+        "publish_time": "05-09-2024 09:13",
         "news_link": "https://visual.republika.co.id/berita/sjc1h1375/peresmian-kapal-patroli-cepat-kri-butana878-dan-kri-selar879"
     },
     {
         "title": "Gojek Berhenti Beroperasi di Vietnam Mulai 16 September, Ini Alasannya",
         "category": "Ekonomi",
-        "publish_time": "05-09-2024 09:09",
+        "publish_time": "05-09-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sjc1gy370/gojek-berhenti-beroperasi-di-vietnam-mulai-16-september-ini-alasannya"
     },
     {
         "title": "Tafsir Surah Alquran yang Dibaca Qari di depan Paus Fransiskus",
         "category": "Khazanah",
-        "publish_time": "05-09-2024 09:08",
+        "publish_time": "05-09-2024 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/sjc1e9458/tafsir-surah-alquran-yang-dibaca-qari-di-depan-paus-fransiskus"
     },
     {
         "title": "Mau Punya Umur Panjang? Kebiasaan Makan Sehat Ini Mungkin Bisa Membantu",
         "category": "Ameera",
-        "publish_time": "05-09-2024 09:06",
+        "publish_time": "05-09-2024 09:13",
         "news_link": "https://ameera.republika.co.id/berita/sjc1b1425/mau-punya-umur-panjang-kebiasaan-makan-sehat-ini-mungkin-bisa-membantu"
     },
     {
         "title": "BNI Resmikan Kantor Perwakilan di Sydney, Jadi Bank Asal Indonesia Pertama di Australia",
         "category": "Ekonomi",
-        "publish_time": "05-09-2024 09:00",
+        "publish_time": "05-09-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sjc111370/bni-resmikan-kantor-perwakilan-di-sydney-jadi-bank-asal-indonesia-pertama-di-australia"
     },
     {
         "title": "BNPB Gelar Apel Nasional Siaga Bencana Gempa Megathrust",
         "category": "Esgnow",
-        "publish_time": "05-09-2024 08:59",
+        "publish_time": "05-09-2024 09:13",
         "news_link": "https://esgnow.republika.co.id/berita/sjbxj3416/bnpb-gelar-apel-nasional-siaga-bencana-gempa-megathrust"
     },
     {
         "title": "Ditolak Sejumlah Warga di Jakut, RK Anggap Keindahan Demokrasi",
         "category": "News",
-        "publish_time": "05-09-2024 08:53",
+        "publish_time": "05-09-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/sjc0q8484/ditolak-sejumlah-warga-di-jakut-rk-anggap-keindahan-demokrasi"
     },
     {
         "title": "Nabi Ibrahim dan Empat Ekor Burung",
         "category": "Khazanah",
-        "publish_time": "05-09-2024 08:52",
+        "publish_time": "05-09-2024 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/sjc0n5458/nabi-ibrahim-dan-empat-ekor-burung"
     },
     {
         "title": "Bank Bjb Tetapkan Susunan Komisaris Baru pada RUPS Luar Biasa Tahun 2024",
         "category": "Ekonomi",
-        "publish_time": "05-09-2024 08:51",
+        "publish_time": "05-09-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sjc0lx370/bank-bjb-tetapkan-susunan-komisaris-baru-pada-rups-luar-biasa-tahun-2024"
     },
     {
         "title": "Menko Luhut Pastikan Indonesia Siap Ekspor Listrik EBT ke Singapura",
         "category": "Ekonomi",
-        "publish_time": "05-09-2024 08:46",
+        "publish_time": "05-09-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sjc0e9502/menko-luhut-pastikan-indonesia-siap-ekspor-listrik-ebt-ke-singapura"
     },
     {
         "title": "Paus Fransiskus Selamat Datang di Indonesia, Negara Muslim Terbesar",
         "category": "Network",
-        "publish_time": "05-09-2024 08:40",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://algebra.republika.co.id/posts/328891/paus-fransiskus-selamat-datang-di-indonesia-negara-muslim-terbesar"
     },
     {
         "title": "KPU: Dua Paslon Pilgub Jateng Belum Penuhi Syarat Administrasi",
         "category": "News",
-        "publish_time": "05-09-2024 08:39",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sjc02u487/kpu-dua-paslon-pilgub-jateng-belum-penuhi-syarat-administrasi"
     },
     {
         "title": "Ini Penjelasan Chico Hakim Soal Keributan di Sela Debat Silfester-Rocky Gerung yang Viral",
         "category": "News",
-        "publish_time": "05-09-2024 08:38",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sjc003409/ini-penjelasan-chico-hakim-soal-keributan-di-sela-debat-silfesterrocky-gerung-yang-viral"
     },
     {
         "title": "Dikunjungi Paus, Intip Kemegahan Masjid Istiqlal dan Terowongan Silaturahmi",
         "category": "Ekonomi",
-        "publish_time": "05-09-2024 08:34",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sjbzm0370/dikunjungi-paus-intip-kemegahan-masjid-istiqlal-dan-terowongan-silaturahmi"
     },
     {
         "title": "Dua Putra Flores, NTT di Pusat Vatikan",
         "category": "Network",
-        "publish_time": "05-09-2024 08:34",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://algebra.republika.co.id/posts/328884/dua-putra-flores-ntt-di-pusat-vatikan"
     },
     {
         "title": "Qiraah Tenor Faisal Basri",
         "category": "Network",
-        "publish_time": "05-09-2024 08:33",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://algebra.republika.co.id/posts/328880/qiraah-tenor-faisal-basri"
     },
     {
         "title": "BYD Coba Taklukkan Pasar Mobil Listrik di Jepang, Ini Tantangannya",
         "category": "Network",
-        "publish_time": "05-09-2024 08:33",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://motoresto.id/posts/328872/byd-coba-taklukkan-pasar-mobil-listrik-di-jepang-ini-tantangannya"
     },
     {
         "title": "Rasulullah Ingin Umat Islam Mandiri",
         "category": "Khazanah",
-        "publish_time": "05-09-2024 08:32",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://khazanah.republika.co.id/berita/sjbzqx458/rasulullah-ingin-umat-islam-mandiri"
     },
     {
         "title": "Kunjungan Paus Diharapkan Tingkatkan Persaudaraan Antar Umat Beragama",
         "category": "Video",
-        "publish_time": "05-09-2024 08:31",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://tv.republika.co.id/berita/sjbzp3467/kunjungan-paus-diharapkan-tingkatkan-persaudaraan-antar-umat-beragama"
     },
     {
         "title": "Menlu Singgung Keputusan RI Gabung BRICS Ada di Tangan Prabowo",
         "category": "News",
-        "publish_time": "05-09-2024 08:29",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sjbzkw484/menlu-singgung-keputusan-ri-gabung-brics-ada-di-tangan-prabowo"
     },
     {
         "title": "KPU: Dua Daerah Kini Miliki Dua Pasangan Calon Setelah Perpanjangan Pendaftaran",
         "category": "News",
-        "publish_time": "05-09-2024 08:26",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sjbzgu487/kpu-dua-daerah-kini-miliki-dua-pasangan-calon-setelah-perpanjangan-pendaftaran"
     },
     {
         "title": "Mengucap Hamdalah Usai Bersin, Apakah Membatalkan Shalat?",
         "category": "Khazanah",
-        "publish_time": "05-09-2024 08:23",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://khazanah.republika.co.id/berita/sjbzau458/mengucap-hamdalah-usai-bersin-apakah-membatalkan-shalat"
     },
     {
         "title": "Bea Cukai Pasuruan Tindak 1,5 Juta Batang Rokok Ilegal dalam Truk Tujuan Jawa Barat",
         "category": "Beacukai",
-        "publish_time": "05-09-2024 08:20",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://republika.co.id/berita/sjbz78370/bea-cukai-pasuruan-tindak-15-juta-batang-rokok-ilegal-dalam-truk-tujuan-jawa-barat"
     },
     {
         "title": "Pertamina Paparkan Transisi Energi untuk Pertumbuhan Ekonomi",
         "category": "Ekonomi",
-        "publish_time": "05-09-2024 08:14",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sjbyvy370/pertamina-paparkan-transisi-energi-untuk-pertumbuhan-ekonomi"
     },
     {
@@ -158,145 +248,55 @@
     {
         "title": "Tolak Dipanggil Bang, Pramono Anung: Saya Pakai Mas Pram Saja",
         "category": "News",
-        "publish_time": "05-09-2024 08:12",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sjbyt8484/tolak-dipanggil-bang-pramono-anung-saya-pakai-mas-pram-saja"
     },
     {
         "title": "Beda Nasib Sudirman dan Enam Terpidana Kasus Vina dalam Sidang PK",
         "category": "Rejabar",
-        "publish_time": "05-09-2024 08:12",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://rejabar.republika.co.id/berita/sjbyqu512/beda-nasib-sudirman-dan-enam-terpidana-kasus-vina-dalam-sidang-pk"
     },
     {
         "title": "Ayat Quran Dibacakan di Depan Paus Bermakna Orang Nasrani Pun Dapat Pahala, Ini Tafsirnya",
         "category": "Iqra",
-        "publish_time": "05-09-2024 08:12",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://iqra.republika.co.id/berita/sjbykr483/ayat-quran-dibacakan-di-depan-paus-bermakna-orang-nasrani-pun-dapat-pahala-ini-tafsirnya"
     },
     {
         "title": "Kemenkop UKM Berikan Pendampingan Halal Untuk 15 Ribu Pelaku Usaha Mikro",
         "category": "Sharia",
-        "publish_time": "05-09-2024 08:12",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://sharia.republika.co.id/berita/sjbykf502/kemenkop-ukm-berikan-pendampingan-halal-untuk-15-ribu-pelaku-usaha-mikro"
     },
     {
         "title": "Sri Mulyani Hampir Berlinang Air Mata Kenang Faisal Basri",
         "category": "News",
-        "publish_time": "05-09-2024 08:12",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sjbygp484/sri-mulyani-hampir-berlinang-air-mata-kenang-faisal-basri"
     },
     {
         "title": "Mengapa PKS tak Kembali Usung Anies di Pilgub Jakarta Usai Putusan MK? Ini Cerita Tifatul",
         "category": "News",
-        "publish_time": "05-09-2024 08:12",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sjbyfu409/mengapa-pks-tak-kembali-usung-anies-di-pilgub-jakarta-usai-putusan-mk-ini-cerita-tifatul"
     },
     {
         "title": "Penyidik KPK Periksa Terdakwa Korupsi di Ditjen Perkeretaapian",
         "category": "News",
-        "publish_time": "05-09-2024 08:12",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sjbyek484/penyidik-kpk-periksa-terdakwa-korupsi-di-ditjen-perkeretaapian"
     },
     {
         "title": "Daftar Penyebab Terhalangnya Rezeki Dalam Rumah Tangga",
         "category": "Khazanah",
-        "publish_time": "05-09-2024 08:12",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://khazanah.republika.co.id/berita/sjbyb5458/daftar-penyebab-terhalangnya-rezeki-dalam-rumah-tangga"
     },
     {
         "title": "Luhut: Transisi Energi Harus Adil dan Beriringan dengan Dekarbonisasi",
         "category": "Esgnow",
-        "publish_time": "05-09-2024 08:12",
+        "publish_time": "05-09-2024 08:13",
         "news_link": "https://esgnow.republika.co.id/berita/sjbws7416/luhut-transisi-energi-harus-adil-dan-beriringan-dengan-dekarbonisasi"
-    },
-    {
-        "title": "Kaprodi PPDS Anestesia Undip Dituntut Ikut Bertanggung Jawab dalam Kematian Dokter ARL",
-        "category": "News",
-        "publish_time": "05-09-2024 08:12",
-        "news_link": "https://news.republika.co.id/berita/sjby7t377/kaprodi-ppds-anestesia-undip-dituntut-ikut-bertanggung-jawab-dalam-kematian-dokter-arl"
-    },
-    {
-        "title": "Paus Fransiskus Puji Semboyan Bhinneka Tunggal Ika",
-        "category": "Video",
-        "publish_time": "05-09-2024 08:12",
-        "news_link": "https://tv.republika.co.id/berita/sjbxvb418/paus-fransiskus-puji-semboyan-bhinneka-tunggal-ika"
-    },
-    {
-        "title": "Gandeng Satpol PP, Bea Cukai Gelar Operasi Rokok Ilegal di Tuban dan Cilegon",
-        "category": "Beacukai",
-        "publish_time": "05-09-2024 08:12",
-        "news_link": "https://republika.co.id/berita/sjbxrs370/gandeng-satpol-pp-bea-cukai-gelar-operasi-rokok-ilegal-di-tuban-dan-cilegon"
-    },
-    {
-        "title": "Kata Ulama tentang Cacat Barang-Bekas yang Hendak Dijual",
-        "category": "Khazanah",
-        "publish_time": "05-09-2024 08:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sjbxnq458/kata-ulama-tentang-cacat-barangbekas-yang-hendak-dijual"
-    },
-    {
-        "title": "Tifatul Ungkap Alasan PKS pada Akhirnya tak Pilih Anies, dan Tetap RK-Suswono",
-        "category": "News",
-        "publish_time": "05-09-2024 08:12",
-        "news_link": "https://news.republika.co.id/berita/sjbxn2377/tifatul-ungkap-alasan-pks-pada-akhirnya-tak-pilih-anies-dan-tetap-rksuswono"
-    },
-    {
-        "title": "Jakpro Sampaikan LRT Veledrom-Manggarai Uji Lintasan pada September",
-        "category": "News",
-        "publish_time": "05-09-2024 08:12",
-        "news_link": "https://news.republika.co.id/berita/sjbxki484/jakpro-sampaikan-lrt-veledrommanggarai-uji-lintasan-pada-september"
-    },
-    {
-        "title": "Kritis Hingga Akhir Hayat, Faisal Basri Konsisten Tolak Tawaran Jadi Komisaris BUMN",
-        "category": "Ekonomi",
-        "publish_time": "05-09-2024 08:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sjbxit502/kritis-hingga-akhir-hayat-faisal-basri-konsisten-tolak-tawaran-jadi-komisaris-bumn"
-    },
-    {
-        "title": "Para Terpidana Kasus Vina Bisa Bebas? Ini Penjelasan Kuasa Hukumnya",
-        "category": "Rejabar",
-        "publish_time": "05-09-2024 08:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sjbxgy512/para-terpidana-kasus-vina-bisa-bebas-ini-penjelasan-kuasa-hukumnya"
-    },
-    {
-        "title": "MTQ Tingkatkan Kunjungan Pariwisata Daerah",
-        "category": "Khazanah",
-        "publish_time": "05-09-2024 07:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sjbrth451/mtq-tingkatkan-kunjungan-pariwisata-daerah"
-    },
-    {
-        "title": "Layanan E-Materai Eror, Pendaftaran CPNS Diperpanjang Hingga 10 September 2024",
-        "category": "News",
-        "publish_time": "05-09-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/sjbx6p409/layanan-ematerai-eror-pendaftaran-cpns-diperpanjang-hingga-10-september-2024"
-    },
-    {
-        "title": "Kenali dan Hindari 10 Jenis Maksiat Hati",
-        "category": "Khazanah",
-        "publish_time": "05-09-2024 07:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sjbx18458/kenali-dan-hindari-10-jenis-maksiat-hati"
-    },
-    {
-        "title": "Peruri Terus Lakukan Pemulihan Agar Layanan E-Materai Kembali Normal",
-        "category": "Ekonomi",
-        "publish_time": "05-09-2024 07:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sjbx0k370/peruri-terus-lakukan-pemulihan-agar-layanan-ematerai-kembali-normal"
-    },
-    {
-        "title": "Pentingnya Teknologi dalam Kemajuan Pendidikan",
-        "category": "Video",
-        "publish_time": "05-09-2024 07:12",
-        "news_link": "https://tv.republika.co.id/berita/sjbx0e418/pentingnya-teknologi-dalam-kemajuan-pendidikan"
-    },
-    {
-        "title": "Panen Padi Perdana di Bantaran Kanal Banjir Timur Jakarta",
-        "category": "Visual",
-        "publish_time": "05-09-2024 07:12",
-        "news_link": "https://visual.republika.co.id/berita/sjbw4l375/panen-padi-perdana-di-bantaran-kanal-banjir-timur-jakarta"
-    },
-    {
-        "title": "Rencana Temui Persija dan Jakmania, Ridwan Kamil: Saya Tahu Diri",
-        "category": "News",
-        "publish_time": "05-09-2024 07:12",
-        "news_link": "https://news.republika.co.id/berita/sjbwtn377/rencana-temui-persija-dan-jakmania-ridwan-kamil-saya-tahu-diri"
     }
 ]
