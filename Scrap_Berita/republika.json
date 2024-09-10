@@ -1,26 +1,86 @@
 [
     {
+        "title": "Jokowi Mulai Berkantor di IKN, Heru Budi Tetap di Jakarta",
+        "category": "News",
+        "publish_time": "10-09-2024 23:05",
+        "news_link": "https://news.republika.co.id/berita/sjmc2j484/jokowi-mulai-berkantor-di-ikn-heru-budi-tetap-di-jakarta"
+    },
+    {
+        "title": "Pelatihan Vokasional Penyandang Disabilitas, Upaya Dukung Pertumbuhan Ekonomi Inklusif",
+        "category": "Rejabar",
+        "publish_time": "10-09-2024 23:02",
+        "news_link": "https://rejabar.republika.co.id/berita/sjmast456/pelatihan-vokasional-penyandang-disabilitas-upaya-dukung-pertumbuhan-ekonomi-inklusif"
+    },
+    {
+        "title": "Tiga Nubuat Rasulullah tentang Masa Depan yang Sudah Terjadi",
+        "category": "Khazanah",
+        "publish_time": "10-09-2024 22:54",
+        "news_link": "https://khazanah.republika.co.id/berita/sjmcz5483/tiga-nubuat-rasulullah-tentang-masa-depan-yang-sudah-terjadi"
+    },
+    {
+        "title": "Presiden Jokowi Ucapkan Terima Kasih ke Timnas Indonesia",
+        "category": "News",
+        "publish_time": "10-09-2024 22:48",
+        "news_link": "https://news.republika.co.id/berita/sjmcpf348/presiden-jokowi-ucapkan-terima-kasih-ke-timnas-indonesia"
+    },
+    {
+        "title": "Kalimat yang Biasa Dibaca Penghuni Surga Selama Hidup di Dunia",
+        "category": "Iqra",
+        "publish_time": "10-09-2024 22:46",
+        "news_link": "https://iqra.republika.co.id/berita/sjmclj483/kalimat-yang-biasa-dibaca-penghuni-surga-selama-hidup-di-dunia"
+    },
+    {
+        "title": "SBY Yakin Prabowo Punya Agenda yang Tepat Sasaran untuk Majukan Rakyat Indonesia",
+        "category": "News",
+        "publish_time": "10-09-2024 22:45",
+        "news_link": "https://news.republika.co.id/berita/sjm9y0456/sby-yakin-prabowo-punya-agenda-yang-tepat-sasaran-untuk-majukan-rakyat-indonesia"
+    },
+    {
+        "title": "Warganya Ditembak Sniper Israel Tepat di Kepala, Ini Respons AS",
+        "category": "Khazanah",
+        "publish_time": "10-09-2024 22:39",
+        "news_link": "https://khazanah.republika.co.id/berita/sjmc9m483/warganya-ditembak-sniper-israel-tepat-di-kepala-ini-respons-as"
+    },
+    {
+        "title": "Hari ke-340 Genosida, Jumlah Syuhada Gaza Capai 41.020 Jiwa",
+        "category": "Khazanah",
+        "publish_time": "10-09-2024 22:30",
+        "news_link": "https://khazanah.republika.co.id/berita/sjmbvk483/hari-ke340-genosida-jumlah-syuhada-gaza-capai-41020-jiwa"
+    },
+    {
+        "title": "Australia Dukung Inggris Setop Jual Senjata ke Israel",
+        "category": "News",
+        "publish_time": "10-09-2024 22:29",
+        "news_link": "https://www.republika.id/posts/54669/australia-dukung-inggris-setop-jual-senjata-ke-israel"
+    },
+    {
+        "title": "Jurus Bertahan di Ruang Angkasa ala Astronaut Starliner",
+        "category": "News",
+        "publish_time": "10-09-2024 22:19",
+        "news_link": "https://www.republika.id/posts/54671/jurus-bertahan-di-ruang-angkasa-ala-astronaut-starliner"
+    },
+    {
         "title": "Shin Tae-yong Satisfied With Indonesia's Draw Against Australia",
         "category": "En",
-        "publish_time": "25 seconds ago",
+        "publish_time": "1 hours ago",
         "news_link": "https://en.republika.co.id/berita/sjmaz7415/shin-taeyong-satisfied-with-indonesias-draw-against-australia"
     },
     {
         "title": "Dronenya Ditembak Jatuh, AS Balas Bom Sekolah Yaman",
         "category": "News",
-        "publish_time": "10-09-2024 22:09",
+        "publish_time": "10-09-2024 22:11",
         "news_link": "https://www.republika.id/posts/54673/dronenya-ditembak-jatuh-as-balas-bom-sekolah-yaman"
     },
     {
         "title": "President Jokowi is grateful that the Indonesian national team held off Australia",
         "category": "En",
-        "publish_time": "3 minutes ago",
+        "publish_time": "1 hours ago",
         "news_link": "https://en.republika.co.id/berita/sjmauk415/president-jokowi-is-grateful-that-the-indonesian-national-team-held-off-australia"
     },
     {
         "title": "'Ini Pembantaian Israel Paling Brutal'",
         "category": "News",
-        "publish_time": "10-09-2024 21:59",
+        "publish_time": "10-09-2024 22:11",
         "news_link": "https://www.republika.id/posts/54668/ini-pembantaian-israel-paling-brutal"
     },
     {
@@ -238,65 +298,5 @@
         "category": "Network",
         "publish_time": "10-09-2024 15:11",
         "news_link": "https://kingdomsriwijaya.id/posts/329241/kafilah-sumsel-tiba-di-kaltim-siap-meraih-prestasi-terbaik"
-    },
-    {
-        "title": "Wow! Bruno Mars akan Guncang Jakarta Selama 3 Hari, Ayo Hooligan Jangan Sampai Nggak Kebagian Tiket",
-        "category": "Network",
-        "publish_time": "10-09-2024 15:11",
-        "news_link": "https://ruzkaindonesia.id/posts/329276/wow-bruno-mars-akan-guncang-jakarta-selama-3-hari-ayo-hooligan-jangan-sampai-nggak-kebagian-tiket"
-    },
-    {
-        "title": "Aksi Bergizi, Pemkot Depok Sasar Ribuan Balita dan Ratusan Ibu Hamil",
-        "category": "Network",
-        "publish_time": "10-09-2024 15:11",
-        "news_link": "https://ruzkaindonesia.id/posts/329382/aksi-bergizi-pemkot-depok-sasar-ribuan-balita-dan-ratusan-ibu-hamil"
-    },
-    {
-        "title": "Transplantasi Mata dan Wajah Pertama di Dunia: Setahun Kemudian, Mata Kini Dapat Merespons Cahaya",
-        "category": "Network",
-        "publish_time": "10-09-2024 15:11",
-        "news_link": "https://impresiupdate.id/posts/329729/transplantasi-mata-dan-wajah-pertama-di-dunia-setahun-kemudian-mata-kini-dapat-merespons-cahaya"
-    },
-    {
-        "title": "Pusri Kembali Raih Grand Champion PIQI 2024",
-        "category": "Network",
-        "publish_time": "10-09-2024 15:11",
-        "news_link": "https://kingdomsriwijaya.id/posts/329773/pusri-kembali-raih-grand-champion-piqi-2024"
-    },
-    {
-        "title": "Harga Telur Ayam di Pasar Tradisional Kota Sukabumi Naik",
-        "category": "Network",
-        "publish_time": "10-09-2024 15:11",
-        "news_link": "https://sukabumikini.com/posts/329900/harga-telur-ayam-di-pasar-tradisional-kota-sukabumi-naik"
-    },
-    {
-        "title": "LG Sinar Mas Siap Transformasi Industri TI Lewat Proyek Pusat Data Rp 4,7 Triliun",
-        "category": "Ekonomi",
-        "publish_time": "10-09-2024 15:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sjlqez349/lg-sinar-mas-siap-transformasi-industri-ti-lewat-proyek-pusat-data-rp-47-triliun"
-    },
-    {
-        "title": "Nabi Muhammad Turun ke Liang Lahat Sahabat Ini, Siapa?",
-        "category": "Khazanah",
-        "publish_time": "10-09-2024 15:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sjlpy8430/nabi-muhammad-turun-ke-liang-lahat-sahabat-ini-siapa"
-    },
-    {
-        "title": "Prudential Indonesia Perkuat Komitmen dengan Layanan Tambahan saat HPN",
-        "category": "Ekonomi",
-        "publish_time": "10-09-2024 14:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sjlpuq349/prudential-indonesia-perkuat-komitmen-dengan-layanan-tambahan-saat-hpn"
-    },
-    {
-        "title": "Bagaimana Cara Kaum Kafir Quraisy Membunuh Nabi Muhammad?",
-        "category": "Khazanah",
-        "publish_time": "10-09-2024 14:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sjlp7k430/bagaimana-cara-kaum-kafir-quraisy-membunuh-nabi-muhammad"
-    },
-    {
-        "title": "Pesan Nabi Muhammad tentang Pertemanan",
-        "category": "Khazanah",
-        "publish_time": "10-09-2024 14:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sjlp02430/pesan-nabi-muhammad-tentang-pertemanan"
     }
 ]
