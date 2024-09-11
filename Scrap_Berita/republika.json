@@ -1,98 +1,236 @@
 [
     {
+        "title": "Bea Cukai Tekankan Pentingnya Aturan Kepabeanan Ini ke Calon Pekerja Migran di Surabaya",
+        "category": "Beacukai",
+        "publish_time": "11-09-2024 12:16",
+        "news_link": "https://republika.co.id/berita/sjne3a490/bea-cukai-tekankan-pentingnya-aturan-kepabeanan-ini-ke-calon-pekerja-migran-di-surabaya"
+    },
+    {
+        "title": "MTQ Tingkat Pelajar Sarana Cetak Generasi Muda Unggul",
+        "category": "Khazanah",
+        "publish_time": "11-09-2024 12:13",
+        "news_link": "https://khazanah.republika.co.id/berita/sjn11b451/mtq-tingkat-pelajar-sarana-cetak-generasi-muda-unggul"
+    },
+    {
+        "title": "Mengapa Baru Mundur dari Seskab pada 22 September? Ini Jawaban Pramono Anung",
+        "category": "News",
+        "publish_time": "11-09-2024 12:10",
+        "news_link": "https://news.republika.co.id/berita/sjndtc487/mengapa-baru-mundur-dari-seskab-pada-22-september-ini-jawaban-pramono-anung"
+    },
+    {
+        "title": "Dampak Kemarau, Warga Serang Manfaatkan Saluran Irigasi untuk Mencuci Pakaian",
+        "category": "Visual",
+        "publish_time": "11-09-2024 12:00",
+        "news_link": "https://visual.republika.co.id/berita/sjnast375/dampak-kemarau-warga-serang-manfaatkan-saluran-irigasi-untuk-mencuci-pakaian"
+    },
+    {
+        "title": "Garuda Siap Tambah Kapasitas Penerbangan untuk MotoGP Mandalika",
+        "category": "Ekonomi",
+        "publish_time": "11-09-2024 11:59",
+        "news_link": "https://ekonomi.republika.co.id/berita/sjndaw490/garuda-siap-tambah-kapasitas-penerbangan-untuk-motogp-mandalika"
+    },
+    {
+        "title": "Mengapa Ibu Almarhumah Dokter Risma Belum Bicara ke Media? Ini Alasannya",
+        "category": "News",
+        "publish_time": "11-09-2024 11:58",
+        "news_link": "https://news.republika.co.id/berita/sjnd9f487/mengapa-ibu-almarhumah-dokter-risma-belum-bicara-ke-media-ini-alasannya"
+    },
+    {
+        "title": "PSSI Investigasi Dugaan Adanya Penonton Masuk GBK Tanpa Tiket",
+        "category": "Video",
+        "publish_time": "11-09-2024 11:56",
+        "news_link": "https://tv.republika.co.id/berita/sjnd6m418/pssi-investigasi-dugaan-adanya-penonton-masuk-gbk-tanpa-tiket"
+    },
+    {
+        "title": "Pupuk Indonesia dan Pertamina Kerja Sama Kembangkan CCS dan CCUS",
+        "category": "Esgnow",
+        "publish_time": "11-09-2024 11:56",
+        "news_link": "https://esgnow.republika.co.id/berita/sjnd6h416/pupuk-indonesia-dan-pertamina-kerja-sama-kembangkan-ccs-dan-ccus"
+    },
+    {
+        "title": "Penggemar Antusias Padati Konser Bruno Mars di JIS",
+        "category": "Ameera",
+        "publish_time": "11-09-2024 11:53",
+        "news_link": "https://ameera.republika.co.id/berita/sjnd0h425/penggemar-antusias-padati-konser-bruno-mars-di-jis"
+    },
+    {
+        "title": "Dorong Pembangunan Infrastruktur di Indonesia dengan Teknologi",
+        "category": "Video",
+        "publish_time": "11-09-2024 11:51",
+        "news_link": "https://tv.republika.co.id/berita/sjncxd418/dorong-pembangunan-infrastruktur-di-indonesia-dengan-teknologi"
+    },
+    {
+        "title": "Penyebab Kabupaten Bandung Diguyur Hujan Hingga Banjir, Ternyata Gara-Gara Ini...",
+        "category": "Rejogja",
+        "publish_time": "11-09-2024 11:50",
+        "news_link": "https://rejogja.republika.co.id/berita/sjncvo282/penyebab-kabupaten-bandung-diguyur-hujan-hingga-banjir-ternyata-garagara-ini"
+    },
+    {
+        "title": "Ini Alasan Kenapa Sistem Informasi Akuntansi Jadi Jurusan Paling Dicari di Era Digital",
+        "category": "News",
+        "publish_time": "11-09-2024 11:49",
+        "news_link": "https://news.republika.co.id/berita/sjncuo490/ini-alasan-kenapa-sistem-informasi-akuntansi-jadi-jurusan-paling-dicari-di-era-digital"
+    },
+    {
+        "title": "Pertemuan Prabowo-Megawati Sebelum Pelantikan 20 Oktober? Ini Kata Pramono Anung",
+        "category": "News",
+        "publish_time": "11-09-2024 11:46",
+        "news_link": "https://news.republika.co.id/berita/sjncpb487/pertemuan-prabowomegawati-sebelum-pelantikan-20-oktober-ini-kata-pramono-anung"
+    },
+    {
+        "title": "Bincang Kampus Ciptakan Sinergi Positif Antara Orang Tua dan Kampus",
+        "category": "News",
+        "publish_time": "11-09-2024 11:44",
+        "news_link": "https://news.republika.co.id/berita/sjncmg490/bincang-kampus-ciptakan-sinergi-positif-antara-orang-tua-dan-kampus"
+    },
+    {
+        "title": "Anak Chester Bennington Kecam Vokalis Linkin Park Diganti Emily Armstrong, Ini Alasannya",
+        "category": "Ameera",
+        "publish_time": "11-09-2024 11:40",
+        "news_link": "https://ameera.republika.co.id/berita/sjncfz425/anak-chester-bennington-kecam-vokalis-linkin-park-diganti-emily-armstrong-ini-alasannya"
+    },
+    {
+        "title": "Universitas BSI Kampus Solo Siap Gelar Bincang Kampus Bersama Orang Tua",
+        "category": "News",
+        "publish_time": "11-09-2024 11:39",
+        "news_link": "https://news.republika.co.id/berita/sjncec490/universitas-bsi-kampus-solo-siap-gelar-bincang-kampus-bersama-orang-tua"
+    },
+    {
+        "title": "Cyber University Hadirkan Pandangan Revolusioner Sistem Informasi Akuntansi di Webinar",
+        "category": "News",
+        "publish_time": "11-09-2024 11:30",
+        "news_link": "https://news.republika.co.id/berita/sjnbyb490/cyber-university-hadirkan-pandangan-revolusioner-sistem-informasi-akuntansi-di-webinar"
+    },
+    {
+        "title": "Merokok Sembarangan, 15 Warga Bogor Terkena Sanksi Pidana Ringan",
+        "category": "Visual",
+        "publish_time": "11-09-2024 11:30",
+        "news_link": "https://visual.republika.co.id/berita/sjnaq6375/merokok-sembarangan-15-warga-bogor-terkena-sanksi-pidana-ringan"
+    },
+    {
+        "title": "Kamu Maba Cyber University? Yuk Ikuti MAGNA Biar Nggak Ketinggalan Info Kampus!",
+        "category": "News",
+        "publish_time": "11-09-2024 11:25",
+        "news_link": "https://news.republika.co.id/berita/sjnbpz490/kamu-maba-cyber-university-yuk-ikuti-magna-biar-nggak-ketinggalan-info-kampus"
+    },
+    {
+        "title": "Kenapa Harus Aku?",
+        "category": "Retizen",
+        "publish_time": "11-09-2024 11:23",
+        "news_link": "https://retizen.republika.co.id/posts/330055/kenapa-harus-aku"
+    },
+    {
+        "title": "Kang DS Ajak Persis dan Semua Masyarakat Bersinergi Bangun Kabupaten Bandung",
+        "category": "Rejabar",
+        "publish_time": "11-09-2024 11:23",
+        "news_link": "https://rejabar.republika.co.id/berita/sjnb9s490/kang-ds-ajak-persis-dan-semua-masyarakat-bersinergi-bangun-kabupaten-bandung"
+    },
+    {
+        "title": "Pelaku Oplos BBM Pertalite jadi Pertamax Ditangkap di Lampung",
+        "category": "Network",
+        "publish_time": "11-09-2024 11:23",
+        "news_link": "https://sumatralink.id/posts/330054/pelaku-oplos-bbm-pertalite-jadi-pertamax-ditangkap-di-lampung"
+    },
+    {
+        "title": "Tim Cabang Fahmil Alquran Putri Sumsel ke Semifinal MTQ Nasional",
+        "category": "Network",
+        "publish_time": "11-09-2024 11:23",
+        "news_link": "https://kingdomsriwijaya.id/posts/330056/tim-cabang-fahmil-alquran-putri-sumsel-ke-semifinal-mtq-nasional"
+    },
+    {
         "title": "Dunia Harus Hentikan Israel Menyerang Palestina",
         "category": "Khazanah",
-        "publish_time": "11-09-2024 11:05",
+        "publish_time": "11-09-2024 11:23",
         "news_link": "https://khazanah.republika.co.id/berita/sjn0w7451/dunia-harus-hentikan-israel-menyerang-palestina"
     },
     {
         "title": "Warga Aceh Diimbau Waspada Potensi Bencana Hidrometeorologi Jelang Musim Hujan",
         "category": "News",
-        "publish_time": "11-09-2024 11:04",
+        "publish_time": "11-09-2024 11:23",
         "news_link": "https://news.republika.co.id/berita/sjnaqx425/warga-aceh-diimbau-waspada-potensi-bencana-hidrometeorologi-jelang-musim-hujan"
     },
     {
-        "title": "Jika Terjebak Hujan dan Petir, Hindari Pohon Serta Tiang Listrik Lalu Segera Matikan HP",
+        "title": "Cuaca Ekstrem Mulai Datang, Waspada Hujan Petir dan Tanah Longsor",
         "category": "Rejogja",
-        "publish_time": "11-09-2024 11:02",
-        "news_link": "https://rejogja.republika.co.id/berita/sjnana282/jika-terjebak-hujan-dan-petir-hindari-pohon-serta-tiang-listrik-lalu-segera-matikan-hp"
+        "publish_time": "11-09-2024 11:23",
+        "news_link": "https://rejogja.republika.co.id/berita/sjnana282/cuaca-ekstrem-mulai-datang-waspada-hujan-petir-dan-tanah-longsor"
     },
     {
         "title": "Huawei Keluarkan Ponsel Lipat Tiga, Mau Tau Harganya?",
         "category": "Ekonomi",
-        "publish_time": "11-09-2024 10:54",
+        "publish_time": "11-09-2024 11:23",
         "news_link": "https://ekonomi.republika.co.id/berita/sjnaac370/huawei-keluarkan-ponsel-lipat-tiga-mau-tau-harganya"
     },
     {
         "title": "PLN: Transisi Energi Penting untuk Kelangsungan Hidup Manusia",
         "category": "Esgnow",
-        "publish_time": "11-09-2024 10:53",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://esgnow.republika.co.id/berita/sjna9h416/pln-transisi-energi-penting-untuk-kelangsungan-hidup-manusia"
     },
     {
         "title": "KLa Project Gelar Konser 25 Oktober, Rayakan Momen Istimewa Ultah Ke-36",
         "category": "Ameera",
-        "publish_time": "11-09-2024 10:49",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://ameera.republika.co.id/berita/sjna2y425/kla-project-gelar-konser-25-oktober-rayakan-momen-istimewa-ultah-ke36"
     },
     {
         "title": "Penonton tanpa Tiket Terobos SUGBK, PSSI Perketat Pemeriksaan dan Tindak Pihak Terlibat",
         "category": "News",
-        "publish_time": "11-09-2024 10:49",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://news.republika.co.id/berita/sjna25348/penonton-tanpa-tiket-terobos-sugbk-pssi-perketat-pemeriksaan-dan-tindak-pihak-terlibat"
     },
     {
         "title": "Mencintai Nabi Muhammad SAW",
         "category": "Khazanah",
-        "publish_time": "11-09-2024 10:49",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://khazanah.republika.co.id/berita/sjna1k430/mencintai-nabi-muhammad-saw"
     },
     {
         "title": "Tetap Produktif di Usia Senja, Para Lansia Ini Ikuti Wisuda Sekolah Lansia",
         "category": "Visual",
-        "publish_time": "11-09-2024 10:47",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://visual.republika.co.id/berita/sjn9zg375/tetap-produktif-di-usia-senja-para-lansia-ini-ikuti-wisuda-sekolah-lansia"
     },
     {
         "title": "Masyarakat Desa Sawarna Manfaatkan Energi Surya untuk Budi Daya Lobster",
         "category": "Esgnow",
-        "publish_time": "11-09-2024 10:46",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://esgnow.republika.co.id/berita/sjn9wf416/masyarakat-desa-sawarna-manfaatkan-energi-surya-untuk-budi-daya-lobster"
     },
     {
         "title": "Israel Tawarkan Jalur Aman Buat Bos Hamas Yahya Sinwar, Asal Gaza Dikendalikan Zionis",
         "category": "News",
-        "publish_time": "11-09-2024 10:45",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://news.republika.co.id/berita/sjn9w7377/israel-tawarkan-jalur-aman-buat-bos-hamas-yahya-sinwar-asal-gaza-dikendalikan-zionis"
     },
     {
         "title": "MTQ Nasional ke-30 Beri Dampak Positif Bagi Ekonomi Masyarakat Kaltim",
         "category": "Khazanah",
-        "publish_time": "11-09-2024 10:29",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://khazanah.republika.co.id/berita/sjn958366/mtq-nasional-ke30-beri-dampak-positif-bagi-ekonomi-masyarakat-kaltim"
     },
     {
         "title": "Bandung Raya Diguyur Hujan, Bojongsoang, Baleendah, Hingga Dayeuhkolot Dikepung Banjir",
         "category": "Rejogja",
-        "publish_time": "11-09-2024 10:28",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://rejogja.republika.co.id/berita/sjn93j282/bandung-raya-diguyur-hujan-bojongsoang-baleendah-hingga-dayeuhkolot-dikepung-banjir"
     },
     {
         "title": "DDII Kirim 137 Dai untuk Berdakwah ke Daerah Pedalaman",
         "category": "Khazanah",
-        "publish_time": "11-09-2024 10:28",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://khazanah.republika.co.id/berita/sjn93f430/ddii-kirim-137-dai-untuk-berdakwah-ke-daerah-pedalaman"
     },
     {
         "title": "Ini Logika PDIP Mengapa Jika Gugatan Kepengurusan Dikabulkan PTUN Bisa Ancam Posisi Gibran",
         "category": "News",
-        "publish_time": "11-09-2024 10:26",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://news.republika.co.id/berita/sjn8zj377/ini-logika-pdip-mengapa-jika-gugatan-kepengurusan-dikabulkan-ptun-bisa-ancam-posisi-gibran"
     },
     {
         "title": "Indonesia dan Jerman Lanjutkan Kerja Sama Pengembangan Energi Terbarukan",
         "category": "Esgnow",
-        "publish_time": "11-09-2024 10:24",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://esgnow.republika.co.id/berita/sjn8wa416/indonesia-dan-jerman-lanjutkan-kerja-sama-pengembangan-energi-terbarukan"
     },
     {
@@ -104,199 +242,61 @@
     {
         "title": "Cara Rasulullah SAW Berikan Rasa Cukup Kepada Anak",
         "category": "Video",
-        "publish_time": "11-09-2024 10:12",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://tv.republika.co.id/berita/sjn84l418/cara-rasulullah-saw-berikan-rasa-cukup-kepada-anak"
     },
     {
         "title": "Peristiwa-Peristiwa Perang Semasa Hidup Nabi Muhammad SAW",
         "category": "Khazanah",
-        "publish_time": "11-09-2024 10:12",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://khazanah.republika.co.id/berita/sjn7u4430/peristiwaperistiwa-perang-semasa-hidup-nabi-muhammad-saw"
     },
     {
         "title": "Menteri PUPR: Pembangunan Landasan Pacu Bandara di IKN Sudah Selesai",
         "category": "Ekonomi",
-        "publish_time": "11-09-2024 10:12",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://ekonomi.republika.co.id/berita/sjn7t4490/menteri-pupr-pembangunan-landasan-pacu-bandara-di-ikn-sudah-selesai"
     },
     {
         "title": "Amich Alhumami: MTN Persiapkan Talenta Indonesia yang Berdaya Saing",
         "category": "News",
-        "publish_time": "11-09-2024 10:12",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://news.republika.co.id/berita/sjmp1k451/amich-alhumami-mtn-persiapkan-talenta-indonesia-yang-berdaya-saing"
     },
     {
         "title": "Keterbatasan tak Halangi Difabel untuk Terus Belajar",
         "category": "News",
-        "publish_time": "11-09-2024 10:12",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://news.republika.co.id/berita/sjn7ob430/keterbatasan-tak-halangi-difabel-untuk-terus-belajar"
     },
     {
         "title": "Ada Apa Persib Gugat Luis Milla ke Pengadilan?",
         "category": "Network",
-        "publish_time": "11-09-2024 10:12",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://matapantura.republika.co.id/posts/330051/ada-apa-persib-gugat-luis-milla-ke-pengadilan"
     },
     {
         "title": "Ngeri, Pemuda di Kabupaten Ini Gemar Tawuran, Dua Bulan Terjadi Sembilan Tawuran",
         "category": "Network",
-        "publish_time": "11-09-2024 10:12",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://matapantura.republika.co.id/posts/330053/ngeri-pemuda-di-kabupaten-ini-gemar-tawuran-dua-bulan-terjadi-sembilan-tawuran"
     },
     {
         "title": "Musim Hujan Bikin Sakit? Cegah dengan Vitamin C",
         "category": "Ameera",
-        "publish_time": "11-09-2024 10:12",
+        "publish_time": "11-09-2024 10:23",
         "news_link": "https://ameera.republika.co.id/berita/sjn7o9425/musim-hujan-bikin-sakit-cegah-dengan-vitamin-c"
     },
     {
         "title": "DPR Sambut Positif Terobosan Erick Merger Angkasa Pura",
         "category": "Ekonomi",
-        "publish_time": "11-09-2024 10:12",
+        "publish_time": "11-09-2024 09:23",
         "news_link": "https://ekonomi.republika.co.id/berita/sjn7c0490/dpr-sambut-positif-terobosan-erick-merger-angkasa-pura"
     },
     {
         "title": "Pansus Haji Tuding Menag Mangkir Dua Kali Panggilan, Ini Klarifikasi Jubir",
         "category": "Khazanah",
-        "publish_time": "11-09-2024 10:12",
+        "publish_time": "11-09-2024 09:23",
         "news_link": "https://khazanah.republika.co.id/berita/sjn726483/pansus-haji-tuding-menag-mangkir-dua-kali-panggilan-ini-klarifikasi-jubir"
-    },
-    {
-        "title": "Indef: Antisipasi Kredit Macet dari Peningkatan Penggunaan Paylater",
-        "category": "Ekonomi",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sjn6pd490/indef-antisipasi-kredit-macet-dari-peningkatan-penggunaan-paylater"
-    },
-    {
-        "title": "Komisi VI: Kecilnya Anggaran Kementerian BUMN tak Sebanding dengan Targetnya yang Besar",
-        "category": "Ekonomi",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sjn6p9370/komisi-vi-kecilnya-anggaran-kementerian-bumn-tak-sebanding-dengan-targetnya-yang-besar"
-    },
-    {
-        "title": "Bahaya Memencet Jerawat, Jangan Lakukan Bisa Bikin Nyesel!",
-        "category": "Ameera",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://ameera.republika.co.id/berita/sjn6lr425/bahaya-memencet-jerawat-jangan-lakukan-bisa-bikin-nyesel"
-    },
-    {
-        "title": "Nurul Ghufron dan Sudirman Said Gagal Seleksi KPK, Johanis Tanak dan Johan Budi Melaju",
-        "category": "News",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://news.republika.co.id/berita/sjn6ii377/nurul-ghufron-dan-sudirman-said-gagal-seleksi-kpk-johanis-tanak-dan-johan-budi-melaju"
-    },
-    {
-        "title": "Kata Thomas Djiwandono Soal Antisipasi Ruang Anggaran untuk Tambahan Kementerian",
-        "category": "Ekonomi",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sjn5zz370/kata-thomas-djiwandono-soal-antisipasi-ruang-anggaran-untuk-tambahan-kementerian"
-    },
-    {
-        "title": "Bea Cukai Tegal Musnahkan 5,9 Juta Batang Rokok Ilegal Hasil Penindakan",
-        "category": "Beacukai",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://republika.co.id/berita/sjn5fh490/bea-cukai-tegal-musnahkan-59-juta-batang-rokok-ilegal-hasil-penindakan"
-    },
-    {
-        "title": "Pengurusan Digugat ke PTUN, Petinggi PDIP: Partai Lain Gampang Dilemahkan, Kami tidak",
-        "category": "News",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://news.republika.co.id/berita/sjn53e377/pengurusan-digugat-ke-ptun-petinggi-pdip-partai-lain-gampang-dilemahkan-kami-tidak"
-    },
-    {
-        "title": "BTS Peringkat ke-19 Daftar Bintang Pop Terhebat Abad ke-21 Versi Billboard",
-        "category": "Ameera",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://ameera.republika.co.id/berita/sjn517425/bts-peringkat-ke19-daftar-bintang-pop-terhebat-abad-ke21-versi-billboard"
-    },
-    {
-        "title": "Gus Ipul Resmi Dilantik Gantikan Risma Jadi Mensos",
-        "category": "Video",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://tv.republika.co.id/berita/sjn4oc467/gus-ipul-resmi-dilantik-gantikan-risma-jadi-mensos"
-    },
-    {
-        "title": "Gunung Semeru Kembali Erupsi dengan Tinggi Letusan 500 Meter",
-        "category": "Rejogja",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://rejogja.republika.co.id/berita/sjmnz9451/gunung-semeru-kembali-erupsi-dengan-tinggi-letusan-500-meter"
-    },
-    {
-        "title": "KSAD Pastikan Pembentukan Angkatan Siber Sebagai Matra Keempat Dilanjutkan di Era Prabowo",
-        "category": "News",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://news.republika.co.id/berita/sjn4yi487/ksad-pastikan-pembentukan-angkatan-siber-sebagai-matra-keempat-dilanjutkan-di-era-prabowo"
-    },
-    {
-        "title": "Petani Australia Mogok Massal, Protes Kebijakan Lingkungan",
-        "category": "Esgnow",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://esgnow.republika.co.id/berita/sjn4sr416/petani-australia-mogok-massal-protes-kebijakan-lingkungan"
-    },
-    {
-        "title": "Heru Budi Masih Berpeluang Lagi Jadi Pj Gubernur DKI",
-        "category": "News",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://news.republika.co.id/berita/sjn4ou377/heru-budi-masih-berpeluang-lagi-jadi-pj-gubernur-dki"
-    },
-    {
-        "title": "Bagaimana Nasib Program Makan Gratis? Ini Kata Keponakan Prabowo",
-        "category": "Ekonomi",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sjn4ik490/bagaimana-nasib-program-makan-gratis-ini-kata-keponakan-prabowo"
-    },
-    {
-        "title": "Pengamat: Kasus Marimutu Tunjukkan Integritas Petugas di Bawah",
-        "category": "Rejogja",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://rejogja.republika.co.id/berita/sjn4g6291/pengamat-kasus-marimutu-tunjukkan-integritas-petugas-di-bawah"
-    },
-    {
-        "title": "Meriahkan HUT Kota Bandung, Chef Table Ten Hands Dinner Pertama akan Digelar di Bandung",
-        "category": "Rejabar",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sjn4fl512/meriahkan-hut-kota-bandung-chef-table-ten-hands-dinner-pertama-akan-digelar-di-bandung"
-    },
-    {
-        "title": "Jokowi: Hasil Imbang Australia Kerja Keras Semua Pemain",
-        "category": "Video",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://tv.republika.co.id/berita/sjn4br467/jokowi-hasil-imbang-australia-kerja-keras-semua-pemain"
-    },
-    {
-        "title": "Lebih dari 11.700 Warga Ukraina Tewas Sejak Dimulainya Perang Rusia",
-        "category": "News",
-        "publish_time": "11-09-2024 09:12",
-        "news_link": "https://news.republika.co.id/berita/sjn4ap370/lebih-dari-11700-warga-ukraina-tewas-sejak-dimulainya-perang-rusia"
-    },
-    {
-        "title": "TikToker Caleb Graves Meninggal Dunia Saat Ikut Ajang Lari Maraton Disneyland",
-        "category": "Ameera",
-        "publish_time": "11-09-2024 08:12",
-        "news_link": "https://ameera.republika.co.id/berita/sjn454425/tiktoker-caleb-graves-meninggal-dunia-saat-ikut-ajang-lari-maraton-disneyland"
-    },
-    {
-        "title": "Organda dan Perusahaan Digital Dorong Penggunaan QRIS untuk Transportasi Publik di Jakarta",
-        "category": "Rejakarta",
-        "publish_time": "11-09-2024 08:12",
-        "news_link": "https://republika.co.id/berita/sjn3cz430/organda-dan-perusahaan-digital-dorong-penggunaan-qris-untuk-transportasi-publik-di-jakarta"
-    },
-    {
-        "title": "Gempa Megathrust Berpotensi Sambangi Jakarta, Ini yang Dilakukan Nabi Saat Bumi Berguncang",
-        "category": "Khazanah",
-        "publish_time": "11-09-2024 08:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sjn40z483/gempa-megathrust-berpotensi-sambangi-jakarta-ini-yang-dilakukan-nabi-saat-bumi-berguncang"
-    },
-    {
-        "title": "Bea Cukai Tegal Musnahkan 5,9 Juta Batang Rokok Ilegal Hasil Penindakan",
-        "category": "Beacukai",
-        "publish_time": "11-09-2024 08:12",
-        "news_link": "https://republika.co.id/berita/sjn40w490/bea-cukai-tegal-musnahkan-59-juta-batang-rokok-ilegal-hasil-penindakan"
-    },
-    {
-        "title": "Kisah Tragis Bidan India, Bunuh Bayi-Bayi Perempuan yang tidak Diinginkan",
-        "category": "News",
-        "publish_time": "11-09-2024 08:12",
-        "news_link": "https://news.republika.co.id/berita/sjn409377/kisah-tragis-bidan-india-bunuh-bayibayi-perempuan-yang-tidak-diinginkan"
     }
 ]
