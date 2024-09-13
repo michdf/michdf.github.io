@@ -1,5 +1,83 @@
 [
     {
+        "title": "Produk UMKM Rumah BUMN PLN Tembus Pasar Internasional",
+        "category": "News",
+        "publish_time": "13-09-2024 13:15",
+        "news_link": "https://news.republika.co.id/berita/sjr5b2451/produk-umkm-rumah-bumn-pln-tembus-pasar-internasional"
+    },
+    {
+        "title": "Angkatan Laut dalam Mimpi Nabi Muhammad",
+        "category": "Khazanah",
+        "publish_time": "13-09-2024 13:09",
+        "news_link": "https://khazanah.republika.co.id/berita/sjr5ko430/angkatan-laut-dalam-mimpi-nabi-muhammad"
+    },
+    {
+        "title": "BYD Rekrut Karyawan Besar-besaran",
+        "category": "Ekonomi",
+        "publish_time": "13-09-2024 13:06",
+        "news_link": "https://ekonomi.republika.co.id/berita/sjr5r6468/byd-rekrut-karyawan-besarbesaran"
+    },
+    {
+        "title": "Kisah Uji Materi Suara Kosong Pilkada di MK: Efek Pragmatisme dan Tak Amanahnya Partai Politik?",
+        "category": "Network",
+        "publish_time": "13-09-2024 13:05",
+        "news_link": "https://algebra.republika.co.id/posts/330479/kisah-uji-materi-suara-kosong-pilkada-di-mk-efek-pragmatisme-dan-tak-amanahnya-partai-politik"
+    },
+    {
+        "title": "Wujudkan Jari Tangan Ramah Lingkungan Ala Profesor Bakteri",
+        "category": "Network",
+        "publish_time": "13-09-2024 13:05",
+        "news_link": "https://matapantura.republika.co.id/posts/330476/wujudkan-jari-tangan-ramah-lingkungan-ala-profesor-bakteri"
+    },
+    {
+        "title": "Terjerat Utang Rp 40 Juta, Pria Paruh Baya Nekat Rampok Agen Bank di Bandung",
+        "category": "Rejabar",
+        "publish_time": "13-09-2024 12:59",
+        "news_link": "https://rejabar.republika.co.id/berita/sjr5e2512/terjerat-utang-rp-40-juta-pria-paruh-baya-nekat-rampok-agen-bank-di-bandung"
+    },
+    {
+        "title": "Karhutla di Taman Nasional Baluran Situbondo Capai 2,18 Hektare",
+        "category": "News",
+        "publish_time": "13-09-2024 12:56",
+        "news_link": "https://news.republika.co.id/berita/sjr59j487/karhutla-di-taman-nasional-baluran-situbondo-capai-218-hektare"
+    },
+    {
+        "title": "Orang Tua Disarankan Bekali Anak dengan Panduan Bermedia Sosial",
+        "category": "Khazanah",
+        "publish_time": "13-09-2024 12:52",
+        "news_link": "https://khazanah.republika.co.id/berita/sjr533451/orang-tua-disarankan-bekali-anak-dengan-panduan-bermedia-sosial"
+    },
+    {
+        "title": "Doa Supaya Anak Terhindar dari Perundungan",
+        "category": "Iqra",
+        "publish_time": "13-09-2024 12:44",
+        "news_link": "https://iqra.republika.co.id/berita/sjr44g430/doa-supaya-anak-terhindar-dari-perundungan"
+    },
+    {
+        "title": "Pelaku dan Korban Perundungan Siswa SMK di Gorontalo Sama-Sama dalam Pengaruh Alkohol",
+        "category": "News",
+        "publish_time": "13-09-2024 12:38",
+        "news_link": "https://news.republika.co.id/berita/sjr4fq487/pelaku-dan-korban-perundungan-siswa-smk-di-gorontalo-samasama-dalam-pengaruh-alkohol"
+    },
+    {
+        "title": "BMKG Imbau Waspada Gelombang Tinggi di 4 Wilayah",
+        "category": "News",
+        "publish_time": "13-09-2024 12:38",
+        "news_link": "https://news.republika.co.id/berita/sjr4fo425/bmkg-imbau-waspada-gelombang-tinggi-di-4-wilayah"
+    },
+    {
+        "title": "Koleksi Espoir Hushed Cherry Edition, Rahasia di Balik Makeup Segar ala Winter Aespa",
+        "category": "Ameera",
+        "publish_time": "13-09-2024 12:25",
+        "news_link": "https://ameera.republika.co.id/berita/sjr3tm425/koleksi-espoir-hushed-cherry-edition-rahasia-di-balik-makeup-segar-ala-winter-aespa"
+    },
+    {
+        "title": "Keluhan Nabi Muhammad tentang Umat yang Meninggalkan Alquran",
+        "category": "Iqra",
+        "publish_time": "13-09-2024 12:23",
+        "news_link": "https://iqra.republika.co.id/berita/sjr3q5430/keluhan-nabi-muhammad-tentang-umat-yang-meninggalkan-alquran"
+    },
+    {
         "title": "Bebani Ekonomi, Toko Kelontong Tolak PP Kesehatan",
         "category": "News",
         "publish_time": "13-09-2024 12:19",
@@ -8,7 +86,7 @@
     {
         "title": "Banyak Kejanggalan, Polri Bentuk Tim Selidiki Dugaan Korupsi PON Aceh-Sumut",
         "category": "News",
-        "publish_time": "13-09-2024 12:18",
+        "publish_time": "13-09-2024 12:19",
         "news_link": "https://news.republika.co.id/berita/sjr3jg377/banyak-kejanggalan-polri-bentuk-tim-selidiki-dugaan-korupsi-pon-acehsumut"
     },
     {
@@ -20,283 +98,205 @@
     {
         "title": "Kualitas Madrasah Terus Ditingkatkan",
         "category": "Network",
-        "publish_time": "13-09-2024 12:17",
+        "publish_time": "13-09-2024 12:18",
         "news_link": "https://sajada.id/posts/330463/kualitas-madrasah-terus-ditingkatkan"
     },
     {
         "title": "Khabib Nurmagomedov tak Pernah Kalah, Deddy Corbuzier: Yang Bikin Dia Menang Allah",
         "category": "Khazanah",
-        "publish_time": "13-09-2024 12:15",
+        "publish_time": "13-09-2024 12:18",
         "news_link": "https://khazanah.republika.co.id/berita/sjr3eg430/khabib-nurmagomedov-tak-pernah-kalah-deddy-corbuzier-yang-bikin-dia-menang-allah"
     },
     {
         "title": "Yahya Sinwar Sampaikan Terima Kasih kepada Nasrallah dan Berjanji Terus Berjuang",
         "category": "Khazanah",
-        "publish_time": "13-09-2024 12:08",
+        "publish_time": "13-09-2024 12:18",
         "news_link": "https://khazanah.republika.co.id/berita/sjr32a430/yahya-sinwar-sampaikan-terima-kasih-kepada-nasrallah-dan-berjanji-terus-berjuang"
     },
     {
         "title": "Bakal Cawagub Jakarta Suswono akan Gunakan Dana Ziswaf untuk Investasi",
         "category": "News",
-        "publish_time": "13-09-2024 12:07",
+        "publish_time": "13-09-2024 12:18",
         "news_link": "https://news.republika.co.id/berita/sjr310487/bakal-cawagub-jakarta-suswono-akan-gunakan-dana-ziswaf-untuk-investasi"
     },
     {
         "title": "Ini Jenis Bom Besar Amerika yang Dipakai Israel untuk Mencabik-cabik Pengungsi Kamp Mawasi",
         "category": "News",
-        "publish_time": "13-09-2024 12:05",
+        "publish_time": "13-09-2024 12:18",
         "news_link": "https://news.republika.co.id/berita/sjr2wh377/ini-jenis-bom-besar-amerika-yang-dipakai-israel-untuk-mencabikcabik-pengungsi-kamp-mawasi"
     },
     {
         "title": "Susu Ikan Dianggap Punya Keunggulan dari Sisi Kesehatan, Apa Saja?",
         "category": "Ameera",
-        "publish_time": "13-09-2024 12:03",
+        "publish_time": "13-09-2024 12:18",
         "news_link": "https://ameera.republika.co.id/berita/sjr2uc425/susu-ikan-dianggap-punya-keunggulan-dari-sisi-kesehatan-apa-saja"
     },
     {
         "title": "Upaya Transisi Energi Harus Melibatkan Semua Pihak",
         "category": "Esgnow",
-        "publish_time": "13-09-2024 11:56",
+        "publish_time": "13-09-2024 12:18",
         "news_link": "https://esgnow.republika.co.id/berita/sjr2hg416/upaya-transisi-energi-harus-melibatkan-semua-pihak"
     },
     {
         "title": "Hindari Pakai Baju Berkali-kali tanpa Dicuci, Dokter Ungkap Bahayanya",
         "category": "Ameera",
-        "publish_time": "13-09-2024 11:53",
+        "publish_time": "13-09-2024 12:18",
         "news_link": "https://ameera.republika.co.id/berita/sjr2df425/hindari-pakai-baju-berkalikali-tanpa-dicuci-dokter-ungkap-bahayanya"
     },
     {
         "title": "Kebakaran Hutan Kanada tak Separah Prediksi",
         "category": "News",
-        "publish_time": "13-09-2024 11:48",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://news.republika.co.id/berita/sjr251416/kebakaran-hutan-kanada-tak-separah-prediksi"
     },
     {
         "title": "Calon Populer di Pilgub Jabar, Pakar: Belum Tentu Menang, Pemilih Ada Pertimbangan Lain",
         "category": "Rejabar",
-        "publish_time": "13-09-2024 11:46",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://rejabar.republika.co.id/berita/sjr20o512/calon-populer-di-pilgub-jabar-pakar-belum-tentu-menang-pemilih-ada-pertimbangan-lain"
     },
     {
         "title": "Gedung Eco-Sistem Kelapa Berdiri di Pulau Burung",
         "category": "Esgnow",
-        "publish_time": "13-09-2024 11:43",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://esgnow.republika.co.id/berita/sjr1vm328/gedung-ecosistem-kelapa-berdiri-di-pulau-burung"
     },
     {
         "title": "Bolehkah Susu ikan Diberi Tambahan Pemanis? Ini Kata Ahli Gizi",
         "category": "Ameera",
-        "publish_time": "13-09-2024 11:38",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://ameera.republika.co.id/berita/sjr1nz425/bolehkah-susu-ikan-diberi-tambahan-pemanis-ini-kata-ahli-gizi"
     },
     {
         "title": "Puluhan Mahasiswa Lulusan ULBI, Telah Selesaikan Program Management Trainee Pos Indonesia",
         "category": "Rejabar",
-        "publish_time": "13-09-2024 11:32",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://rejabar.republika.co.id/berita/sjr1ds512/puluhan-mahasiswa-lulusan-ulbi-telah-selesaikan-program-management-trainee-pos-indonesia"
     },
     {
         "title": "Undip dan RS Kariadi Akhirnya Akui Budaya Perundungan Terjadi di PPDS, Ini Penjelasannya",
         "category": "News",
-        "publish_time": "13-09-2024 11:30",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://news.republika.co.id/berita/sjr0ig487/undip-dan-rs-kariadi-akhirnya-akui-budaya-perundungan-terjadi-di-ppds-ini-penjelasannya"
     },
     {
         "title": "Ketimbang Infrastruktur, Bang Doel Ungkap Pembangunan Manusia Jauh Lebih Penting",
         "category": "News",
-        "publish_time": "13-09-2024 11:22",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://news.republika.co.id/berita/sjr0xs377/ketimbang-infrastruktur-bang-doel-ungkap-pembangunan-manusia-jauh-lebih-penting"
     },
     {
         "title": "Presiden Sebut 493 Bidang Tanah di IKN Siap Ditawarkan ke Investor",
         "category": "News",
-        "publish_time": "13-09-2024 11:22",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://news.republika.co.id/berita/sjqx0k451/presiden-sebut-493-bidang-tanah-di-ikn-siap-ditawarkan-ke-investor"
     },
     {
         "title": "Ekonomi Syariah, Konsep Berkelanjutan yang Bertahan di Tengah Krisis",
         "category": "Ekonomi",
-        "publish_time": "13-09-2024 11:22",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://ekonomi.republika.co.id/berita/sjr0hl490/ekonomi-syariah-konsep-berkelanjutan-yang-bertahan-di-tengah-krisis"
     },
     {
         "title": "Kasus Dugaan Korupsi Rp 371 Miliar di PT Indofarma dalam Penyidikan di Kejati Jakarta",
         "category": "News",
-        "publish_time": "13-09-2024 11:22",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://news.republika.co.id/berita/sjr01k318/kasus-dugaan-korupsi-rp-371-miliar-di-pt-indofarma-dalam-penyidikan-di-kejati-jakarta"
     },
     {
         "title": "Jika Menang Pilgub DKI, RK Janji Semua RW Dapat Rp 200 Juta untuk Fasilitas Disabilitas",
         "category": "Rejogja",
-        "publish_time": "13-09-2024 11:22",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://rejogja.republika.co.id/berita/sjr07o282/jika-menang-pilgub-dki-rk-janji-semua-rw-dapat-rp-200-juta-untuk-fasilitas-disabilitas"
     },
     {
         "title": "BI: Digitalisasi Jadi Kunci Pengembangan Ekonomi Syariah",
         "category": "Sharia",
-        "publish_time": "13-09-2024 11:22",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://sharia.republika.co.id/berita/sjqzz0490/bi-digitalisasi-jadi-kunci-pengembangan-ekonomi-syariah"
     },
     {
         "title": "Bulan Depan, Khabib Nurmagomedov akan Kunjungi Jakarta, Ini Harga Tiketnya",
-        "category": "News",
-        "publish_time": "13-09-2024 11:22",
-        "news_link": "https://news.republika.co.id/berita/sjqzxi348/bulan-depan-khabib-nurmagomedov-akan-kunjungi-jakarta-ini-harga-tiketnya"
+        "category": "Khazanah",
+        "publish_time": "13-09-2024 11:18",
+        "news_link": "https://khazanah.republika.co.id/berita/sjqzxi348/bulan-depan-khabib-nurmagomedov-akan-kunjungi-jakarta-ini-harga-tiketnya"
     },
     {
         "title": "Dekan FK Undip Atur Iuran Mahasiswa Dokter Spesialis, Ini Besaran Maksimalnya",
         "category": "News",
-        "publish_time": "13-09-2024 11:22",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://news.republika.co.id/berita/sjqzxf487/dekan-fk-undip-atur-iuran-mahasiswa-dokter-spesialis-ini-besaran-maksimalnya"
     },
     {
         "title": "Gaya Hidup Sehat yang Perlu Disiapkan Sebelum Lari Maraton, dari Latihan hingga Nutrisi",
         "category": "Ameera",
-        "publish_time": "13-09-2024 11:22",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://ameera.republika.co.id/berita/sjqztw425/gaya-hidup-sehat-yang-perlu-disiapkan-sebelum-lari-maraton-dari-latihan-hingga-nutrisi"
     },
     {
         "title": "Bisa Konsultasi Gigi Gratis, Ini Jadwal Keliling Satu Dentour di Jakarta",
         "category": "Rejakarta",
-        "publish_time": "13-09-2024 11:22",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://republika.co.id/berita/sjqxl2456/bisa-konsultasi-gigi-gratis-ini-jadwal-keliling-satu-dentour-di-jakarta"
     },
     {
         "title": "Tangsel Didorong Pilih Konsorsium PSEL Sesuai Tata Kelola",
         "category": "Esgnow",
-        "publish_time": "13-09-2024 11:22",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://esgnow.republika.co.id/berita/sjqzph328/tangsel-didorong-pilih-konsorsium-psel-sesuai-tata-kelola"
     },
     {
         "title": "Malut United Bekuk Semen Padang 2-1 dalam Lanjutan BRI Liga 1 2024/2025",
         "category": "News",
-        "publish_time": "13-09-2024 11:22",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://news.republika.co.id/berita/sjqznp348/malut-united-bekuk-semen-padang-21-dalam-lanjutan-bri-liga-1-20242025"
     },
     {
         "title": "Polisi Duga Putri Nikita Mirzani Berusia 17 Tahun, Dua Kali Aborsi karena Disuruh Pacar",
         "category": "News",
-        "publish_time": "13-09-2024 11:22",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://news.republika.co.id/berita/sjqzmk377/polisi-duga-putri-nikita-mirzani-berusia-17-tahun-dua-kali-aborsi-karena-disuruh-pacar"
     },
     {
         "title": "Unjuk Rasa Pro-Palestina Terus Ganggu Pameran Senjata di Australia",
         "category": "Khazanah",
-        "publish_time": "13-09-2024 11:22",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://khazanah.republika.co.id/berita/sjqzmj430/unjuk-rasa-propalestina-terus-ganggu-pameran-senjata-di-australia"
     },
     {
         "title": "Anak Berusia 12 Tahun di Cimahi Diduga Dicabuli, Polisi Kejar Pelaku",
         "category": "Rejabar",
-        "publish_time": "13-09-2024 10:22",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://rejabar.republika.co.id/berita/sjqzfd512/anak-berusia-12-tahun-di-cimahi-diduga-dicabuli-polisi-kejar-pelaku"
     },
     {
         "title": "Siap Berinovasi di Era Digital, Ini Keunggulan Prodi Bisnis Digital UNM",
         "category": "News",
-        "publish_time": "13-09-2024 10:22",
+        "publish_time": "13-09-2024 11:18",
         "news_link": "https://news.republika.co.id/berita/sjqzdy490/siap-berinovasi-di-era-digital-ini-keunggulan-prodi-bisnis-digital-unm"
     },
     {
         "title": "Demi Netralitas, Kadin Daerah dan ALB Desak Segera Digelar Munaslub",
         "category": "Ekonomi",
-        "publish_time": "13-09-2024 10:22",
+        "publish_time": "13-09-2024 10:18",
         "news_link": "https://ekonomi.republika.co.id/berita/sjqz6k415/demi-netralitas-kadin-daerah-dan-alb-desak-segera-digelar-munaslub"
     },
     {
-        "title": "Presiden Minta Maaf ke Seluruh Anggota Kabinet",
+        "title": "Presiden Jokowi Minta Maaf ke Seluruh Anggota Kabinet",
         "category": "News",
-        "publish_time": "13-09-2024 10:22",
-        "news_link": "https://news.republika.co.id/berita/sjqz2c377/presiden-minta-maaf-ke-seluruh-anggota-kabinet"
+        "publish_time": "13-09-2024 10:18",
+        "news_link": "https://news.republika.co.id/berita/sjqz2c377/presiden-jokowi-minta-maaf-ke-seluruh-anggota-kabinet"
     },
     {
         "title": "Inovasi Mahasiswi Universitas BSI Kampus Pontianak Dihibahkan untuk Diskominfo",
         "category": "News",
-        "publish_time": "13-09-2024 10:22",
+        "publish_time": "13-09-2024 10:18",
         "news_link": "https://news.republika.co.id/berita/sjqypn490/inovasi-mahasiswi-universitas-bsi-kampus-pontianak-dihibahkan-untuk-diskominfo"
     },
     {
         "title": "PDIP Buka Peluang Dukung Prabowo, Ini Syaratnya",
         "category": "News",
-        "publish_time": "13-09-2024 10:22",
+        "publish_time": "13-09-2024 10:18",
         "news_link": "https://news.republika.co.id/berita/sjqyja377/pdip-buka-peluang-dukung-prabowo-ini-syaratnya"
-    },
-    {
-        "title": "Suhu Agustus di Turki Lebih Panas 1,3 Derajat Celsius Dibandingkan Tahun Sebelumnya",
-        "category": "Esgnow",
-        "publish_time": "13-09-2024 10:22",
-        "news_link": "https://esgnow.republika.co.id/berita/sjqyh4425/suhu-agustus-di-turki-lebih-panas-13-derajat-celsius-dibandingkan-tahun-sebelumnya"
-    },
-    {
-        "title": "Workshop Digital Kreatif di Universitas BSI Ciptakan Kreativitas Mahasiswa",
-        "category": "News",
-        "publish_time": "13-09-2024 10:22",
-        "news_link": "https://news.republika.co.id/berita/sjqy3q490/workshop-digital-kreatif-di-universitas-bsi-ciptakan-kreativitas-mahasiswa"
-    },
-    {
-        "title": "Program Kencleng Masjid Digital Laznas DDII akan Fokus Bantu Masjid-Mushola",
-        "category": "Khazanah",
-        "publish_time": "13-09-2024 10:22",
-        "news_link": "https://khazanah.republika.co.id/berita/sjqy0e320/program-kencleng-masjid-digital-laznas-ddii-akan-fokus-bantu-masjidmushola"
-    },
-    {
-        "title": "Ancaman Menteri Krisis Filosofi",
-        "category": "Kolom",
-        "publish_time": "13-09-2024 10:22",
-        "news_link": "https://analisis.republika.co.id/berita/sjqvfc451/ancaman-menteri-krisis-filosofi"
-    },
-    {
-        "title": "Ridwan Kamil Serap Aspirasi Disabilitas Saat Kunjungi Halte Transjakarta Tosari",
-        "category": "Visual",
-        "publish_time": "13-09-2024 10:22",
-        "news_link": "https://visual.republika.co.id/berita/sjqxto375/ridwan-kamil-serap-aspirasi-disabilitas-saat-kunjungi-halte-transjakarta-tosari"
-    },
-    {
-        "title": "Workshop Pemanfaatan AI dan Aplikasi Scratch untuk Capai Pembelajaran yang Menyenangkan",
-        "category": "News",
-        "publish_time": "13-09-2024 10:22",
-        "news_link": "https://news.republika.co.id/berita/sjqxsd490/workshop-pemanfaatan-ai-dan-aplikasi-scratch-untuk-capai-pembelajaran-yang-menyenangkan"
-    },
-    {
-        "title": "Nabi Sulaiman Disebut yang Pertama Bangun Pemandian, Pemicunya Ratu Bilqis, Ini Kisahnya",
-        "category": "Khazanah",
-        "publish_time": "13-09-2024 10:22",
-        "news_link": "https://khazanah.republika.co.id/berita/sjqxi0320/nabi-sulaiman-disebut-yang-pertama-bangun-pemandian-pemicunya-ratu-bilqis-ini-kisahnya"
-    },
-    {
-        "title": "PGN-POSCO International Tanda Tangani Studi Bersama terkait CCS",
-        "category": "Esgnow",
-        "publish_time": "13-09-2024 10:22",
-        "news_link": "https://esgnow.republika.co.id/berita/sjqxfc416/pgnposco-international-tanda-tangani-studi-bersama-terkait-ccs"
-    },
-    {
-        "title": "PKB Klaim Sudah Diminta Nama Calon Menteri untuk Kabinet Prabowo, Siapa Disodorkan?",
-        "category": "News",
-        "publish_time": "13-09-2024 10:22",
-        "news_link": "https://news.republika.co.id/berita/sjqx8z487/pkb-klaim-sudah-diminta-nama-calon-menteri-untuk-kabinet-prabowo-siapa-disodorkan"
-    },
-    {
-        "title": "Jokowi Canangkan Hutan Pendidikan Wanagama Nusantara di IKN",
-        "category": "Esgnow",
-        "publish_time": "13-09-2024 09:22",
-        "news_link": "https://esgnow.republika.co.id/berita/sjqwk8416/jokowi-canangkan-hutan-pendidikan-wanagama-nusantara-di-ikn"
-    },
-    {
-        "title": "Cyber University Bahas Fintech dengan Orang Tua",
-        "category": "News",
-        "publish_time": "13-09-2024 09:22",
-        "news_link": "https://news.republika.co.id/berita/sjqr2j423/cyber-university-bahas-fintech-dengan-orang-tua"
-    },
-    {
-        "title": "Kejagung Limpahkan Pengusutan Kasus PT Indofarma ke Kejati Jakarta, Ini Alasannya",
-        "category": "News",
-        "publish_time": "13-09-2024 09:22",
-        "news_link": "https://news.republika.co.id/berita/sjqwbg487/kejagung-limpahkan-pengusutan-kasus-pt-indofarma-ke-kejati-jakarta-ini-alasannya"
-    },
-    {
-        "title": "Nikah Mutah di Bogor Dibongkar Media Asing, Bagaimana Pandangan Syiah dan Sunni?",
-        "category": "Khazanah",
-        "publish_time": "13-09-2024 09:22",
-        "news_link": "https://khazanah.republika.co.id/berita/sjqqo6451/nikah-mutah-di-bogor-dibongkar-media-asing-bagaimana-pandangan-syiah-dan-sunni"
     }
 ]
