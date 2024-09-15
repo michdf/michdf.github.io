@@ -1,5 +1,59 @@
 [
     {
+        "title": "Ternyata Kian Banyak Warga China Belajar Bahasa Indonesia",
+        "category": "News",
+        "publish_time": "15 September 2024, 20:00",
+        "news_link": "https://news.republika.co.id/berita/sju87s451/ternyata-kian-banyak-warga-china-belajar-bahasa-indonesia"
+    },
+    {
+        "title": "Layanan Vaksin Polio Gratis untuk Anak di HBKB Jakarta",
+        "category": "Visual",
+        "publish_time": "15 September 2024, 20:00",
+        "news_link": "https://visual.republika.co.id/berita/sjur2e375/layanan-vaksin-polio-gratis-untuk-anak-di-hbkb-jakarta"
+    },
+    {
+        "title": "Jurusan Sistem Informasi di Universitas BSI Cibitung: Pilihan Keren Buat Sobat Tech-Savvy",
+        "category": "News",
+        "publish_time": "15 September 2024, 19:57",
+        "news_link": "https://news.republika.co.id/berita/sjup16370/jurusan-sistem-informasi-di-universitas-bsi-cibitung-pilihan-keren-buat-sobat-techsavvy"
+    },
+    {
+        "title": "Kremlin tak akan Biarkan AS Jatuhkan Sanksi Baru Terhadap Media Rusia",
+        "category": "News",
+        "publish_time": "15 September 2024, 19:53",
+        "news_link": "https://news.republika.co.id/berita/sjuuhl409/kremlin-tak-akan-biarkan-as-jatuhkan-sanksi-baru-terhadap-media-rusia"
+    },
+    {
+        "title": "Keteguhan Abu Hanifah di Hadapan Godaan Harta",
+        "category": "Khazanah",
+        "publish_time": "15 September 2024, 19:40",
+        "news_link": "https://khazanah.republika.co.id/berita/sjul2w451/keteguhan-abu-hanifah-di-hadapan-godaan-harta"
+    },
+    {
+        "title": "Usai Terpilih Sebagai Ketua Kadin, Anindya Bakrie Silaturahmi ke Menkumham",
+        "category": "Visual",
+        "publish_time": "15 September 2024, 19:30",
+        "news_link": "https://visual.republika.co.id/berita/sjuozd375/usai-terpilih-sebagai-ketua-kadin-anindya-bakrie-silaturahmi-ke-menkumham"
+    },
+    {
+        "title": "Akui Hasil Munaslub Kadin, Ini Harapan Pemerintah untuk Anindya Bakrie",
+        "category": "Ekonomi",
+        "publish_time": "15 September 2024, 19:25",
+        "news_link": "https://ekonomi.republika.co.id/berita/sjurzq370/akui-hasil-munaslub-kadin-ini-harapan-pemerintah-untuk-anindya-bakrie"
+    },
+    {
+        "title": "Ribuan Mahasiswa Diajak Jadi Calon Wirausaha Pertanian, Kementan Rumuskan Hal Ini",
+        "category": "Ekonomi",
+        "publish_time": "15 September 2024, 19:23",
+        "news_link": "https://ekonomi.republika.co.id/berita/sjut3j456/ribuan-mahasiswa-diajak-jadi-calon-wirausaha-pertanian-kementan-rumuskan-hal-ini"
+    },
+    {
+        "title": "Ini Visi dan Misi Para Pasangan Calon di Pilgub Jakarta",
+        "category": "News",
+        "publish_time": "15 September 2024, 19:22",
+        "news_link": "https://news.republika.co.id/berita/sjut19409/ini-visi-dan-misi-para-pasangan-calon-di-pilgub-jakarta"
+    },
+    {
         "title": "Bighit Klarifikasi Unggahan Jungkook BTS, Benarkah Terkait NewJeans?",
         "category": "Ameera",
         "publish_time": "15 September 2024, 19:15",
@@ -78,16 +132,16 @@
         "news_link": "https://news.republika.co.id/berita/sjuoga409/pengamat-heru-tak-didukung-kim-plus-untuk-kembali-jadi-pj-gubernur-dki-jakarta"
     },
     {
-        "title": "Menteri AHY Apresiasi Kesetiaan Masyarakat eks Timor Timur pada NKRI",
-        "category": "News",
-        "publish_time": "15 September 2024, 18:00",
-        "news_link": "https://news.republika.co.id/berita/sju0cw451/menteri-ahy-apresiasi-kesetiaan-masyarakat-eks-timor-timur-pada-nkri"
-    },
-    {
         "title": "Pabrik Popok dan Tas Kain di Sidoarjo Kebakaran, Tidak Ada Korban Jiwa",
         "category": "Visual",
         "publish_time": "15 September 2024, 18:00",
         "news_link": "https://visual.republika.co.id/berita/sjuon7375/pabrik-popok-dan-tas-kain-di-sidoarjo-kebakaran-tidak-ada-korban-jiwa"
+    },
+    {
+        "title": "Menteri AHY Apresiasi Kesetiaan Masyarakat eks Timor Timur pada NKRI",
+        "category": "News",
+        "publish_time": "15 September 2024, 18:00",
+        "news_link": "https://news.republika.co.id/berita/sju0cw451/menteri-ahy-apresiasi-kesetiaan-masyarakat-eks-timor-timur-pada-nkri"
     },
     {
         "title": "OJK: Total Kredit Berkelanjutan Hingga 2023 Capai Rp 1.959 Triliun",
@@ -244,59 +298,5 @@
         "category": "Khazanah",
         "publish_time": "15 September 2024, 16:00",
         "news_link": "https://khazanah.republika.co.id/berita/sju01e451/rudy-susmanto-tambah-nilai-insentif-guru-ngaji-kabupaten-bogor"
-    },
-    {
-        "title": "Jelang Pilkada 2024, Kapolres Indramayu Cek Kondisi Gudang Logistik KPU",
-        "category": "Rejabar",
-        "publish_time": "15 September 2024, 15:50",
-        "news_link": "https://rejabar.republika.co.id/berita/sjuj7n512/jelang-pilkada-2024-kapolres-indramayu-cek-kondisi-gudang-logistik-kpu"
-    },
-    {
-        "title": "Dirut Liga 1 Kutuk Pemukulan Wasit: Jangan Beri Ampun!",
-        "category": "News",
-        "publish_time": "15 September 2024, 15:37",
-        "news_link": "https://news.republika.co.id/berita/sjuimz475/dirut-liga-1-kutuk-pemukulan-wasit-jangan-beri-ampun"
-    },
-    {
-        "title": "Kedubes Jepang Hadirkan Suasana Autentik Jepang di Jak-Japan Matsuri",
-        "category": "Video",
-        "publish_time": "15 September 2024, 15:35",
-        "news_link": "https://tv.republika.co.id/berita/sjuije467/kedubes-jepang-hadirkan-suasana-autentik-jepang-di-jakjapan-matsuri"
-    },
-    {
-        "title": "Perdana, Rudal Yaman Tembus Tel Aviv",
-        "category": "News",
-        "publish_time": "15 September 2024, 15:24",
-        "news_link": "https://news.republika.co.id/berita/sjui0g393/perdana-rudal-yaman-tembus-tel-aviv"
-    },
-    {
-        "title": "Jadwalkan Pertemuan Pekan Depan, Pramono Klaim Ahok akan Terlibat dalam Kampanye",
-        "category": "News",
-        "publish_time": "15 September 2024, 15:22",
-        "news_link": "https://news.republika.co.id/berita/sjuhxp409/jadwalkan-pertemuan-pekan-depan-pramono-klaim-ahok-akan-terlibat-dalam-kampanye"
-    },
-    {
-        "title": "Ketua Komite Militer NATO: Aliansi Lebih Kuat dan Siap Dari Sebelumnya",
-        "category": "News",
-        "publish_time": "15 September 2024, 15:20",
-        "news_link": "https://news.republika.co.id/berita/sjuhtz370/ketua-komite-militer-nato-aliansi-lebih-kuat-dan-siap-dari-sebelumnya"
-    },
-    {
-        "title": "36 Negara Semarakkan Pameran Kaligrafi di MTQ Nasional Kaltim",
-        "category": "Khazanah",
-        "publish_time": "15 September 2024, 15:07",
-        "news_link": "https://khazanah.republika.co.id/berita/sjueay366/36-negara-semarakkan-pameran-kaligrafi-di-mtq-nasional-kaltim"
-    },
-    {
-        "title": "Korban TPPO yang Tewas di Kamboja Diduga Jadi Operator Judi Daring",
-        "category": "News",
-        "publish_time": "15 September 2024, 15:01",
-        "news_link": "https://news.republika.co.id/berita/sjtot1370/korban-tppo-yang-tewas-di-kamboja-diduga-jadi-operator-judi-daring"
-    },
-    {
-        "title": "Kementan Ajak Mahasiswa Jadi Wirausaha Pertanian",
-        "category": "Ekonomi",
-        "publish_time": "15 September 2024, 14:52",
-        "news_link": "https://ekonomi.republika.co.id/berita/sjtzri451/kementan-ajak-mahasiswa-jadi-wirausaha-pertanian"
     }
 ]
