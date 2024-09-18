@@ -1,80 +1,236 @@
 [
     {
+        "title": "Raja Mengaku Tuhan pada Zaman Rasulullah",
+        "category": "Khazanah",
+        "publish_time": "18-09-2024 08:13",
+        "news_link": "https://khazanah.republika.co.id/berita/sk01j1458/raja-mengaku-tuhan-pada-zaman-rasulullah"
+    },
+    {
+        "title": "Operasi Gempur Hasilkan Penindakan 16,98 Juta Batang Rokok Ilegal di Banten",
+        "category": "Beacukai",
+        "publish_time": "18-09-2024 08:06",
+        "news_link": "https://republika.co.id/berita/sk0175423/operasi-gempur-hasilkan-penindakan-1698-juta-batang-rokok-ilegal-di-banten"
+    },
+    {
+        "title": "ITDC Pastikan Balapan MotoGP di Sirkuit Mandalika Tetap Digelar",
+        "category": "News",
+        "publish_time": "18-09-2024 08:03",
+        "news_link": "https://news.republika.co.id/berita/sk010x484/itdc-pastikan-balapan-motogp-di-sirkuit-mandalika-tetap-digelar"
+    },
+    {
+        "title": "Penuhi Syarat, Andika-Hendi dan Ahmad Luthfi-Gus Yasin Siap Bertarung di Pilgub Jateng",
+        "category": "Rejogja",
+        "publish_time": "18-09-2024 07:59",
+        "news_link": "https://rejogja.republika.co.id/berita/sk00uw282/penuhi-syarat-andikahendi-dan-ahmad-luthfigus-yasin-siap-bertarung-di-pilgub-jateng"
+    },
+    {
+        "title": "Bank Bjb Raih Penghargaan Pengembangan UMKM Terbaik dari IWEB",
+        "category": "News",
+        "publish_time": "18-09-2024 07:58",
+        "news_link": "https://news.republika.co.id/berita/sk00tl423/bank-bjb-raih-penghargaan-pengembangan-umkm-terbaik-dari-iweb"
+    },
+    {
+        "title": "Kronologi Temuan Bayi Perempuan di Teras Rumah Warga di Sragen",
+        "category": "News",
+        "publish_time": "18-09-2024 07:57",
+        "news_link": "https://news.republika.co.id/berita/sk00r9377/kronologi-temuan-bayi-perempuan-di-teras-rumah-warga-di-sragen"
+    },
+    {
+        "title": "Ancelotti Puji Endrick yang Cetak Gol Spektakuler ke Gawang Stuttgart",
+        "category": "News",
+        "publish_time": "18-09-2024 07:56",
+        "news_link": "https://news.republika.co.id/berita/sk00q2348/ancelotti-puji-endrick-yang-cetak-gol-spektakuler-ke-gawang-stuttgart"
+    },
+    {
+        "title": "Santri Dianiaya Senior Gara-Gara Rokok, Ini Respons Kemenag",
+        "category": "Khazanah",
+        "publish_time": "18-09-2024 07:53",
+        "news_link": "https://khazanah.republika.co.id/berita/sk00kq430/santri-dianiaya-senior-garagara-rokok-ini-respons-kemenag"
+    },
+    {
+        "title": "Warga Sragen Temukan Bayi Perempuan di Teras Rumah, Diduga Dibuang Orang Tuanya",
+        "category": "Rejogja",
+        "publish_time": "18-09-2024 07:53",
+        "news_link": "https://rejogja.republika.co.id/berita/sk00ko282/warga-sragen-temukan-bayi-perempuan-di-teras-rumah-diduga-dibuang-orang-tuanya"
+    },
+    {
+        "title": "BI Rate Turun Jadi 6 Persen",
+        "category": "Ekonomi",
+        "publish_time": "18-09-2024 07:52",
+        "news_link": "https://ekonomi.republika.co.id/berita/sk00j3370/bi-rate-turun-jadi-6-persen"
+    },
+    {
+        "title": "Ernest Prakasa Jalani Pengangkatan Kutil di Kaki Akibat Infeksi HPV",
+        "category": "Ameera",
+        "publish_time": "18-09-2024 07:51",
+        "news_link": "https://ameera.republika.co.id/berita/sk00id425/ernest-prakasa-jalani-pengangkatan-kutil-di-kaki-akibat-infeksi-hpv"
+    },
+    {
+        "title": "Gempa Bandung, BMKG Ingatkan untuk Hati-Hati",
+        "category": "Rejabar",
+        "publish_time": "18-09-2024 07:47",
+        "news_link": "https://rejabar.republika.co.id/berita/sk00a5423/gempa-bandung-bmkg-ingatkan-untuk-hatihati"
+    },
+    {
+        "title": "Terungkap, Mossad Tanam 5.000 Peledak di Pager Hizbullah Beberapa Bulan Lalu",
+        "category": "News",
+        "publish_time": "18-09-2024 07:40",
+        "news_link": "https://news.republika.co.id/berita/sjzzyr377/terungkap-mossad-tanam-5000-peledak-di-pager-hizbullah-beberapa-bulan-lalu"
+    },
+    {
+        "title": "Bea Cukai Gagalkan Penyelundupan Kg Sabu Jaringan Internasional di Aceh",
+        "category": "Beacukai",
+        "publish_time": "18-09-2024 07:40",
+        "news_link": "https://republika.co.id/berita/sjzzyh423/bea-cukai-gagalkan-penyelundupan-kg-sabu-jaringan-internasional-di-aceh"
+    },
+    {
+        "title": "Gempa Magnitudo 5, Sejumlah Perjalanan Kereta Cepat Whoosh Dibatalkan",
+        "category": "Rejabar",
+        "publish_time": "18-09-2024 07:39",
+        "news_link": "https://rejabar.republika.co.id/berita/sjzzx1512/gempa-magnitudo-5-sejumlah-perjalanan-kereta-cepat-whoosh-dibatalkan"
+    },
+    {
+        "title": "Bill Gates: Malnutrisi Semakin Buruk Akibat Perubahan Iklim",
+        "category": "Ameera",
+        "publish_time": "18-09-2024 07:35",
+        "news_link": "https://ameera.republika.co.id/berita/sjzzr7416/bill-gates-malnutrisi-semakin-buruk-akibat-perubahan-iklim"
+    },
+    {
+        "title": "Membunuh tanpa Sengaja, Bagaimana Hukumannya?",
+        "category": "Khazanah",
+        "publish_time": "18-09-2024 07:33",
+        "news_link": "https://khazanah.republika.co.id/berita/sjzznv458/membunuh-tanpa-sengaja-bagaimana-hukumannya"
+    },
+    {
+        "title": "Pembelajaran Lebih Interaktif dan Menyenangkan, Guru SLB Manfaatkan Teknologi Digital",
+        "category": "News",
+        "publish_time": "18-09-2024 07:31",
+        "news_link": "https://news.republika.co.id/berita/sjzzk3370/pembelajaran-lebih-interaktif-dan-menyenangkan-guru-slb-manfaatkan-teknologi-digital"
+    },
+    {
+        "title": "Bukti-Bukti Mencintai Rasulullah",
+        "category": "Khazanah",
+        "publish_time": "18-09-2024 07:31",
+        "news_link": "https://khazanah.republika.co.id/berita/sjzzjh458/buktibukti-mencintai-rasulullah"
+    },
+    {
+        "title": "Sekretariat DPRD Jawa Barat Terima Audiensi GERAK JABAR",
+        "category": "Rejabar",
+        "publish_time": "18-09-2024 07:30",
+        "news_link": "https://rejabar.republika.co.id/berita/sjzzil423/sekretariat-dprd-jawa-barat-terima-audiensi-gerak-jabar"
+    },
+    {
+        "title": "Jennie Blackpink Jadi Pemilik Vila di 'My Name is Gabriel'",
+        "category": "Ameera",
+        "publish_time": "18-09-2024 07:29",
+        "news_link": "https://ameera.republika.co.id/berita/sjzzhg425/jennie-blackpink-jadi-pemilik-vila-di-my-name-is-gabriel"
+    },
+    {
+        "title": "Kebaikan Kecil, Berbuah Surga",
+        "category": "Khazanah",
+        "publish_time": "18-09-2024 07:26",
+        "news_link": "https://khazanah.republika.co.id/berita/sjzzce458/kebaikan-kecil-berbuah-surga"
+    },
+    {
+        "title": "Perkuat Kemitraan, Indonesia dan Uni Eropa Luncurkan Publikasi Kerja Sama 2024-2025",
+        "category": "News",
+        "publish_time": "18-09-2024 07:24",
+        "news_link": "https://news.republika.co.id/berita/sjzz8n416/perkuat-kemitraan-indonesia-dan-uni-eropa-luncurkan-publikasi-kerja-sama-20242025"
+    },
+    {
+        "title": "Momen Peluncuran \u2018Rembug Kota\u2019, Merayakan Hari Demokrasi Internasional Bersama RK",
+        "category": "Rejakarta",
+        "publish_time": "18-09-2024 07:22",
+        "news_link": "https://republika.co.id/berita/sjzz4m456/momen-peluncuran-%e2%80%98rembug-kota%e2%80%99-merayakan-hari-demokrasi-internasional-bersama-rk"
+    },
+    {
+        "title": "Ini Modus Budi Said Agar Dapat Diskon Tak Wajar Pembelian Emas Antam",
+        "category": "News",
+        "publish_time": "18-09-2024 07:19",
+        "news_link": "https://news.republika.co.id/berita/sjzyzg370/ini-modus-budi-said-agar-dapat-diskon-tak-wajar-pembelian-emas-antam"
+    },
+    {
+        "title": "BMKG: Isu akan Ada Gempa Susulan Lebih Besar di Bandung Hoaks",
+        "category": "News",
+        "publish_time": "18-09-2024 07:15",
+        "news_link": "https://news.republika.co.id/berita/sjzyqj409/bmkg-isu-akan-ada-gempa-susulan-lebih-besar-di-bandung-hoaks"
+    },
+    {
         "title": "Pos Indonesia Terbitkan Prangko Prisma Edisi Khusus PON XXI",
         "category": "Rejabar",
-        "publish_time": "18-09-2024 07:10",
+        "publish_time": "18-09-2024 07:15",
         "news_link": "https://rejabar.republika.co.id/berita/sjzykn512/pos-indonesia-terbitkan-prangko-prisma-edisi-khusus-pon-xxi"
     },
     {
         "title": "Soal Kabinet, Cak Imin: Sama Sekali tak Terpikirkan oleh PKB",
         "category": "News",
-        "publish_time": "18-09-2024 07:07",
+        "publish_time": "18-09-2024 07:15",
         "news_link": "https://news.republika.co.id/berita/sjzygb377/soal-kabinet-cak-imin-sama-sekali-tak-terpikirkan-oleh-pkb"
     },
     {
         "title": "Dari Saudi, Menag Yaqut Urus Sertifikasi Halal di Italia",
         "category": "Khazanah",
-        "publish_time": "18-09-2024 07:05",
+        "publish_time": "18-09-2024 07:15",
         "news_link": "https://khazanah.republika.co.id/berita/sjzyca458/dari-saudi-menag-yaqut-urus-sertifikasi-halal-di-italia"
     },
     {
         "title": "Menteri Erick Resmikan Kantor Baru Teknologi Informasi Bank Mandiri",
         "category": "News",
-        "publish_time": "18-09-2024 07:01",
+        "publish_time": "18-09-2024 07:15",
         "news_link": "https://news.republika.co.id/berita/sjzy6c484/menteri-erick-resmikan-kantor-baru-teknologi-informasi-bank-mandiri"
     },
     {
         "title": "SDM Jadi Hambatan Indonesia Pacu Transisi Energi",
         "category": "Esgnow",
-        "publish_time": "18-09-2024 06:44",
+        "publish_time": "18-09-2024 06:15",
         "news_link": "https://esgnow.republika.co.id/berita/sjzxek416/sdm-jadi-hambatan-indonesia-pacu-transisi-energi"
     },
     {
         "title": "Melalui Program PNM Mekaar, Bank Bjb Terus Dukung UMKM Ultramikro Naik Kelas",
         "category": "Ekonomi",
-        "publish_time": "18-09-2024 06:43",
+        "publish_time": "18-09-2024 06:15",
         "news_link": "https://ekonomi.republika.co.id/berita/sjzxcu370/melalui-program-pnm-mekaar-bank-bjb-terus-dukung-umkm-ultramikro-naik-kelas"
     },
     {
         "title": "BPBD Jabar Laporkan Kerusakan Rumah, Puskesmas, Polsek Hingga KUA Akibat Gempa",
         "category": "Rejabar",
-        "publish_time": "18-09-2024 06:37",
+        "publish_time": "18-09-2024 06:15",
         "news_link": "https://rejabar.republika.co.id/berita/sjzx2s512/bpbd-jabar-laporkan-kerusakan-rumah-puskesmas-polsek-hingga-kua-akibat-gempa"
     },
     {
         "title": "Santri dan Warga Alami Luka-Luka Akibat Gempa Magnitudo 5 di Kabupaten Bandung",
         "category": "Rejabar",
-        "publish_time": "18-09-2024 06:30",
+        "publish_time": "18-09-2024 06:15",
         "news_link": "https://rejabar.republika.co.id/berita/sjzwqv512/santri-dan-warga-alami-lukaluka-akibat-gempa-magnitudo-5-di-kabupaten-bandung"
     },
     {
         "title": "Republika Gelar Anugerah ESG, Dorong Praktik Bisnis Berkelanjutan",
         "category": "Esgnow",
-        "publish_time": "18-09-2024 06:25",
+        "publish_time": "18-09-2024 06:15",
         "news_link": "https://esgnow.republika.co.id/berita/sjzwiy416/republika-gelar-anugerah-esg-dorong-praktik-bisnis-berkelanjutan"
     },
     {
         "title": "Gelombang Ledakan Pager di Lebanon",
         "category": "Video",
-        "publish_time": "18-09-2024 06:25",
+        "publish_time": "18-09-2024 06:15",
         "news_link": "https://tv.republika.co.id/berita/sjzwi9418/gelombang-ledakan-pager-di-lebanon"
     },
     {
         "title": "Waduh...Ilmuwan Temukan 3.600 Bahan Kimia Kemasan Makanan dalam Tubuh Manusia",
         "category": "Network",
-        "publish_time": "18-09-2024 06:17",
+        "publish_time": "18-09-2024 06:15",
         "news_link": "https://impresiupdate.id/posts/331296/waduh-ilmuwan-temukan-3-600-bahan-kimia-kemasan-makanan-dalam-tubuh-manusia"
     },
     {
         "title": "Tips Menghindari Kendala Electric Starter pada Sepeda Motor Honda",
         "category": "Network",
-        "publish_time": "18-09-2024 06:16",
+        "publish_time": "18-09-2024 06:15",
         "news_link": "https://motoresto.id/posts/331291/tips-menghindari-kendala-electric-starter-pada-sepeda-motor-honda"
     },
     {
         "title": "Ilmuwan Temukan Cara Baru Mengobati Kanker Prostat Agresif",
         "category": "Network",
-        "publish_time": "18-09-2024 06:16",
+        "publish_time": "18-09-2024 06:15",
         "news_link": "https://impresiupdate.id/posts/331284/ilmuwan-temukan-cara-baru-mengobati-kanker-prostat-agresif"
     },
     {
@@ -86,217 +242,61 @@
     {
         "title": "Tonggak Pencapaian Pengetahuan",
         "category": "Rejogja",
-        "publish_time": "18-09-2024 06:12",
+        "publish_time": "18-09-2024 06:15",
         "news_link": "https://rejogja.republika.co.id/berita/sjzv63291/tonggak-pencapaian-pengetahuan"
     },
     {
         "title": "Hizbullah tak Terima Israel Ledakkan Ribuan Pager di Lebanon, Ini Balasan yang Disiapkan",
         "category": "News",
-        "publish_time": "18-09-2024 06:12",
+        "publish_time": "18-09-2024 06:15",
         "news_link": "https://news.republika.co.id/berita/sjzv1v487/hizbullah-tak-terima-israel-ledakkan-ribuan-pager-di-lebanon-ini-balasan-yang-disiapkan"
     },
     {
         "title": "Kondisi Pascagempa di MA Karya Bakti Sukasari, Cibereum Bandung",
         "category": "Video",
-        "publish_time": "18-09-2024 05:12",
+        "publish_time": "18-09-2024 05:15",
         "news_link": "https://tv.republika.co.id/berita/sjztu3467/kondisi-pascagempa-di-ma-karya-bakti-sukasari-cibereum-bandung"
     },
     {
         "title": "Tragedi Pager, Dubes Iran Ikut Jadi Korban Serangan Mossad di Lebanon",
         "category": "News",
-        "publish_time": "18-09-2024 05:12",
+        "publish_time": "18-09-2024 05:15",
         "news_link": "https://news.republika.co.id/berita/sjztqk377/tragedi-pager-dubes-iran-ikut-jadi-korban-serangan-mossad-di-lebanon"
     },
     {
         "title": "Kaesang Datangi KPK, Jokowi: Semua Sama di Mata Hukum",
         "category": "News",
-        "publish_time": "18-09-2024 05:12",
+        "publish_time": "18-09-2024 05:15",
         "news_link": "https://news.republika.co.id/berita/sjztos484/kaesang-datangi-kpk-jokowi-semua-sama-di-mata-hukum"
     },
     {
         "title": "Upaya UMKM 'Go Global' Terus Dilakukan BUMN",
         "category": "Rejakarta",
-        "publish_time": "18-09-2024 05:12",
+        "publish_time": "18-09-2024 05:15",
         "news_link": "https://republika.co.id/berita/sjztmh456/upaya-umkm-go-global-terus-dilakukan-bumn"
     },
     {
         "title": "Badan Geologi Paparkan Analisis Gempa Bumi di Kabupaten Bandung yang Terjadi di Daratan",
         "category": "News",
-        "publish_time": "18-09-2024 05:12",
+        "publish_time": "18-09-2024 05:15",
         "news_link": "https://news.republika.co.id/berita/sjztk6487/badan-geologi-paparkan-analisis-gempa-bumi-di-kabupaten-bandung-yang-terjadi-di-daratan"
     },
     {
         "title": "Silmy Karim: Tahun 2024 Kedatangan WNA ke Bali Meningkat 22.6 Persen",
         "category": "Ekonomi",
-        "publish_time": "18-09-2024 05:12",
+        "publish_time": "18-09-2024 05:15",
         "news_link": "https://ekonomi.republika.co.id/berita/sjztfo423/silmy-karim-tahun-2024-kedatangan-wna-ke-bali-meningkat-226-persen"
     },
     {
         "title": "'Semua Pemain Naturalisasi Punya Darah Indonesia'",
         "category": "Video",
-        "publish_time": "18-09-2024 05:12",
+        "publish_time": "18-09-2024 05:15",
         "news_link": "https://tv.republika.co.id/berita/sjzr6e467/semua-pemain-naturalisasi-punya-darah-indonesia"
     },
     {
         "title": "Pejuang Palestina Bangkit di Rafah, Empat Tentara IDF Tewas",
         "category": "News",
-        "publish_time": "18-09-2024 05:12",
+        "publish_time": "18-09-2024 05:15",
         "news_link": "https://news.republika.co.id/berita/sjzsx0393/pejuang-palestina-bangkit-di-rafah-empat-tentara-idf-tewas"
-    },
-    {
-        "title": "Dua Bulan Jelang COP29, Azerbaijan Umumkan Tujuan Pendanaan Iklim",
-        "category": "Esgnow",
-        "publish_time": "18-09-2024 05:12",
-        "news_link": "https://esgnow.republika.co.id/berita/sjzsv2416/dua-bulan-jelang-cop29-azerbaijan-umumkan-tujuan-pendanaan-iklim"
-    },
-    {
-        "title": "CATL Luncurkan Baterai Bus Listrik, Diklaim Tahan Hingga 15 Tahun dengan Jarak 1,5 Juta Km",
-        "category": "Ekonomi",
-        "publish_time": "18-09-2024 05:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sjzsfo349/catl-luncurkan-baterai-bus-listrik-diklaim-tahan-hingga-15-tahun-dengan-jarak-15-juta-km"
-    },
-    {
-        "title": "Gempa Magnitudo 5 di Kab Bandung, Warga Rasakan Getaran, Kaca rumah dan Kasur Bergoyang",
-        "category": "Rejabar",
-        "publish_time": "18-09-2024 05:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sjzs9r512/gempa-magnitudo-5-di-kab-bandung-warga-rasakan-getaran-kaca-rumah-dan-kasur-bergoyang"
-    },
-    {
-        "title": "Jokowi Tegaskan Kepindahan IKN Bukan Sekadar Keppres, tapi Kesiapan",
-        "category": "News",
-        "publish_time": "18-09-2024 05:12",
-        "news_link": "https://news.republika.co.id/berita/sjzs0b484/jokowi-tegaskan-kepindahan-ikn-bukan-sekadar-keppres-tapi-kesiapan"
-    },
-    {
-        "title": "Gempa Bumi Magnitudo 5 Guncang Kabupaten Bandung Akibat Aktivitas Sesar Garsela",
-        "category": "Rejabar",
-        "publish_time": "18-09-2024 05:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sjzrut512/gempa-bumi-magnitudo-5-guncang-kabupaten-bandung-akibat-aktivitas-sesar-garsela"
-    },
-    {
-        "title": "Jadi Official Hydration Partner di ISF 2024, Modena Dukung Keberlanjutan",
-        "category": "News",
-        "publish_time": "18-09-2024 04:12",
-        "news_link": "https://news.republika.co.id/berita/sjzrox484/jadi-official-hydration-partner-di-isf-2024-modena-dukung-keberlanjutan"
-    },
-    {
-        "title": "Mengapa Hizbullah Memesan 5.000 Pager Merek Taiwan yang Disabotase Peledak oleh Israel?",
-        "category": "Khazanah",
-        "publish_time": "18-09-2024 04:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sjzre0483/mengapa-hizbullah-memesan-5000-pager-merek-taiwan-yang-disabotase-peledak-oleh-israel"
-    },
-    {
-        "title": "Produsen Pesimistis Soal Masa Depan Truk Listrik di Eropa, Ternyata Ini Alasannya",
-        "category": "Ekonomi",
-        "publish_time": "18-09-2024 04:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sjzr5v349/produsen-pesimistis-soal-masa-depan-truk-listrik-di-eropa-ternyata-ini-alasannya"
-    },
-    {
-        "title": "10 Tahun Pemerintahan Jokowi, BRI Jadi BUMN dengan Setoran Dividen Terbesar ke Negara",
-        "category": "Ekonomi",
-        "publish_time": "18-09-2024 04:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sjzqx0370/10-tahun-pemerintahan-jokowi-bri-jadi-bumn-dengan-setoran-dividen-terbesar-ke-negara"
-    },
-    {
-        "title": "Teladan Nabi Muhammad Terhadap Anak-Anak",
-        "category": "Khazanah",
-        "publish_time": "18-09-2024 04:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sjzqs5430/teladan-nabi-muhammad-terhadap-anakanak"
-    },
-    {
-        "title": "Mengenal Nuroji, Anggota DPR Asal Depok yang tak Bangga dengan Timnas",
-        "category": "News",
-        "publish_time": "18-09-2024 04:12",
-        "news_link": "https://news.republika.co.id/berita/sjzqji484/mengenal-nuroji-anggota-dpr-asal-depok-yang-tak-bangga-dengan-timnas"
-    },
-    {
-        "title": "Menpora Bicara Soal Kisruh PON, Dari Soal Makanan tak Layak Hingga Venue",
-        "category": "Video",
-        "publish_time": "18-09-2024 04:12",
-        "news_link": "https://tv.republika.co.id/berita/sjzq5f467/menpora-bicara-soal-kisruh-pon-dari-soal-makanan-tak-layak-hingga-venue"
-    },
-    {
-        "title": "Aisha Hakim, Putri Presenter Irfan Hakim, Sabet Emas Berkuda PON 2024",
-        "category": "News",
-        "publish_time": "18-09-2024 04:12",
-        "news_link": "https://news.republika.co.id/berita/sjzq4b348/aisha-hakim-putri-presenter-irfan-hakim-sabet-emas-berkuda-pon-2024"
-    },
-    {
-        "title": "Kata GP Ansor Nahdlatul Ulama tentang Tarif PPN 12 Persen",
-        "category": "Khazanah",
-        "publish_time": "18-09-2024 04:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sjzmg4451/kata-gp-ansor-nahdlatul-ulama-tentang-tarif-ppn-12-persen"
-    },
-    {
-        "title": "Gempa Bumi 5,0 Magnitudo Guncang Kabupaten Bandung, Ini Daerah Terdampak",
-        "category": "Rejabar",
-        "publish_time": "18-09-2024 04:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sjzppn512/gempa-bumi-50-magnitudo-guncang-kabupaten-bandung-ini-daerah-terdampak"
-    },
-    {
-        "title": "Slank Hingga Padi Reborn Bakal Bawakan Album Pertama di Pestapora Hari Ke-1",
-        "category": "Ameera",
-        "publish_time": "18-09-2024 04:12",
-        "news_link": "https://ameera.republika.co.id/berita/sjzpk2425/slank-hingga-padi-reborn-bakal-bawakan-album-pertama-di-pestapora-hari-ke1"
-    },
-    {
-        "title": "Klasemen Medali PON Rabu Pagi: Jabar dan Jakarta Bersaing Sengit Jadi Juara Umum PON 2024",
-        "category": "News",
-        "publish_time": "18-09-2024 04:12",
-        "news_link": "https://news.republika.co.id/berita/sjzpes348/klasemen-medali-pon-rabu-pagi-jabar-dan-jakarta-bersaing-sengit-jadi-juara-umum-pon-2024"
-    },
-    {
-        "title": "Pemerintah Proses Cepat Naturalisasi Eliano dan Mees. Setelah DPR Setuju",
-        "category": "News",
-        "publish_time": "18-09-2024 04:12",
-        "news_link": "https://news.republika.co.id/berita/sjzpdk484/pemerintah-proses-cepat-naturalisasi-eliano-dan-mees-setelah-dpr-setuju"
-    },
-    {
-        "title": "Selama Libur Panjang Maulid, 342 Ribu Kendaraan Lintasi Tol Cipali",
-        "category": "Rejabar",
-        "publish_time": "18-09-2024 04:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sjzp7k512/selama-libur-panjang-maulid-342-ribu-kendaraan-lintasi-tol-cipali"
-    },
-    {
-        "title": "AS Bantah Terlibat dalam Operasi Ledakan Pager di Lebanon yang Diduga Didalangi Mossad",
-        "category": "News",
-        "publish_time": "18-09-2024 04:12",
-        "news_link": "https://news.republika.co.id/berita/sjzp3m377/as-bantah-terlibat-dalam-operasi-ledakan-pager-di-lebanon-yang-diduga-didalangi-mossad"
-    },
-    {
-        "title": "Takziah ke Warga Korban Perdagangan Orang di Kamboja, Pj Gubernur Jabar: Jangan Terulang",
-        "category": "Rejabar",
-        "publish_time": "18-09-2024 03:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sjzow0512/takziah-ke-warga-korban-perdagangan-orang-di-kamboja-pj-gubernur-jabar-jangan-terulang"
-    },
-    {
-        "title": "Pesan Strategis Menhub Budi Karya Sumadi dalam Harhubnas",
-        "category": "News",
-        "publish_time": "18-09-2024 03:12",
-        "news_link": "https://news.republika.co.id/berita/sjzmc3451/pesan-strategis-menhub-budi-karya-sumadi-dalam-harhubnas"
-    },
-    {
-        "title": "Pakar Intelijen Ungkap Cara Mossad Sabotase Pager Hizbullah dan Meledak di Penjuru Lebanon",
-        "category": "News",
-        "publish_time": "18-09-2024 03:12",
-        "news_link": "https://news.republika.co.id/berita/sjzora377/pakar-intelijen-ungkap-cara-mossad-sabotase-pager-hizbullah-dan-meledak-di-penjuru-lebanon"
-    },
-    {
-        "title": "Dokter Sebut Anak 1 Tahun Sebaiknya 'tak makan' Bubur Lagi",
-        "category": "Ameera",
-        "publish_time": "18-09-2024 03:12",
-        "news_link": "https://ameera.republika.co.id/berita/sjzogv425/dokter-sebut-anak-1-tahun-sebaiknya-tak-makan-bubur-lagi"
-    },
-    {
-        "title": "Langganan di Musim Kemarau, Warga Girimukti Alami Krisis Air Bersih",
-        "category": "Rejabar",
-        "publish_time": "18-09-2024 03:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sjzod5512/langganan-di-musim-kemarau-warga-girimukti-alami-krisis-air-bersih"
-    },
-    {
-        "title": "GP Ansor Minta Pemerintah Tunda Kenaikan PPN 12 Persen, Ini Alasannya",
-        "category": "Ekonomi",
-        "publish_time": "18-09-2024 03:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sjznxf320/gp-ansor-minta-pemerintah-tunda-kenaikan-ppn-12-persen-ini-alasannya"
     }
 ]
