@@ -1,170 +1,284 @@
 [
     {
-        "title": "Erick Thohir: Merger BUMN Karya akan Dilanjutkan pada Pemerintahan Prabowo",
+        "title": "Buku Soal Ketahanan Pangan Politisi Demokrat Sabet Predikat Buku Terbaik 2024",
         "category": "News",
-        "publish_time": "18-09-2024 10:08",
-        "news_link": "https://news.republika.co.id/berita/sk06ts484/erick-thohir-merger-bumn-karya-akan-dilanjutkan-pada-pemerintahan-prabowo"
+        "publish_time": "18-09-2024 11:05",
+        "news_link": "https://news.republika.co.id/berita/sk09hm320/buku-soal-ketahanan-pangan-politisi-demokrat-sabet-predikat-buku-terbaik-2024"
+    },
+    {
+        "title": "Pekerja Rumah Tangga Gelar Aksi di Depan Gedung DPR",
+        "category": "Visual",
+        "publish_time": "18-09-2024 10:59",
+        "news_link": "https://visual.republika.co.id/berita/sk06jn375/pekerja-rumah-tangga-gelar-aksi-di-depan-gedung-dpr"
+    },
+    {
+        "title": "Menteri LHK Soroti Perlunya Kepemimpinan Hijau demi Lingkungan Sehat",
+        "category": "Esgnow",
+        "publish_time": "18-09-2024 10:59",
+        "news_link": "https://esgnow.republika.co.id/berita/sk05x7416/menteri-lhk-soroti-perlunya-kepemimpinan-hijau-demi-lingkungan-sehat"
+    },
+    {
+        "title": "Serangan Pager Israel untuk Hizbullah Lebanon, Ini Peringatan Rasulullah SAW 14 Abad Lalu",
+        "category": "Khazanah",
+        "publish_time": "18-09-2024 10:57",
+        "news_link": "https://khazanah.republika.co.id/berita/sk094r320/serangan-pager-israel-untuk-hizbullah-lebanon-ini-peringatan-rasulullah-saw-14-abad-lalu"
+    },
+    {
+        "title": "PN Malang Vonis 15 Tahun Penjara Terdakwa Kasus Pembunuhan dan Mutilasi",
+        "category": "News",
+        "publish_time": "18-09-2024 10:52",
+        "news_link": "https://news.republika.co.id/berita/sk08vx409/pn-malang-vonis-15-tahun-penjara-terdakwa-kasus-pembunuhan-dan-mutilasi"
+    },
+    {
+        "title": "Ratusan Rumah Rusak Terkena Dampak Gempa Bumi, Puluhan Orang Luka-Luka",
+        "category": "Rejabar",
+        "publish_time": "18-09-2024 10:48",
+        "news_link": "https://rejabar.republika.co.id/berita/sk08pg512/ratusan-rumah-rusak-terkena-dampak-gempa-bumi-puluhan-orang-lukaluka"
+    },
+    {
+        "title": "PGE Galang Kolaborasi Pengembangan Panas Bumi di IIGCE 2024",
+        "category": "Esgnow",
+        "publish_time": "18-09-2024 10:40",
+        "news_link": "https://esgnow.republika.co.id/berita/sk08cc416/pge-galang-kolaborasi-pengembangan-panas-bumi-di-iigce-2024"
+    },
+    {
+        "title": "Bandung Raya-Garut Diguncang Gempa, BPBD Jabar: Kerusakan dan Korban Masih Diinventarisasi",
+        "category": "Network",
+        "publish_time": "18-09-2024 10:40",
+        "news_link": "https://gincumanis.com/posts/331427/bandung-raya-garut-diguncang-gempa-bpbd-jabar-kerusakan-dan-korban-masih-diinventarisasi"
+    },
+    {
+        "title": "Istana Sebut Kaesang dan Erina Jadi Korban Kebencian karena Naik Jet",
+        "category": "News",
+        "publish_time": "18-09-2024 10:38",
+        "news_link": "https://news.republika.co.id/berita/sk088q484/istana-sebut-kaesang-dan-erina-jadi-korban-kebencian-karena-naik-jet"
+    },
+    {
+        "title": "Bupati Bandung Tetapkan Tanggap Darurat Bencana Gempa Bumi",
+        "category": "Rejabar",
+        "publish_time": "18-09-2024 10:33",
+        "news_link": "https://rejabar.republika.co.id/berita/sk080n512/bupati-bandung-tetapkan-tanggap-darurat-bencana-gempa-bumi"
+    },
+    {
+        "title": "Cak Imin Umumkan Kepengurusan Baru DPP PKB",
+        "category": "Visual",
+        "publish_time": "18-09-2024 10:29",
+        "news_link": "https://visual.republika.co.id/berita/sk06f8375/cak-imin-umumkan-kepengurusan-baru-dpp-pkb"
+    },
+    {
+        "title": "Indonesia Luncurkan Rencana Aksi Pengembangan Avtur Ramah Lingkungan",
+        "category": "Esgnow",
+        "publish_time": "18-09-2024 10:29",
+        "news_link": "https://esgnow.republika.co.id/berita/sk05fh416/indonesia-luncurkan-rencana-aksi-pengembangan-avtur-ramah-lingkungan"
+    },
+    {
+        "title": "Kurs Pajak 18-24 September 2024",
+        "category": "Network",
+        "publish_time": "18-09-2024 10:29",
+        "news_link": "https://shippingcargo.co.id/posts/331425/kurs-pajak-18-24-september-2024"
+    },
+    {
+        "title": "Pakar: Kaum Intelektual Cenderung Pilih Ilham Habibie di Pilgub Jabar",
+        "category": "Rejabar",
+        "publish_time": "18-09-2024 10:26",
+        "news_link": "https://rejabar.republika.co.id/berita/sk07om371/pakar-kaum-intelektual-cenderung-pilih-ilham-habibie-di-pilgub-jabar"
+    },
+    {
+        "title": "China Open 2024: Bagas/Leo Menang, Finalis Japan Open Tumbang",
+        "category": "Network",
+        "publish_time": "18-09-2024 10:25",
+        "news_link": "https://badmintonews.id/posts/331410/china-open-2024-bagas-leo-menang-finalis-japan-open-tumbang"
+    },
+    {
+        "title": "6 Juta Anak Terdampak Topan Yagi di Asia Tenggara",
+        "category": "News",
+        "publish_time": "18-09-2024 10:17",
+        "news_link": "https://news.republika.co.id/berita/sk07a7425/6-juta-anak-terdampak-topan-yagi-di-asia-tenggara"
+    },
+    {
+        "title": "MIND ID Dukung Pertambangan Jadi Tulang Punggung Ekonomi",
+        "category": "Ekonomi",
+        "publish_time": "18-09-2024 10:17",
+        "news_link": "https://ekonomi.republika.co.id/berita/sk079m423/mind-id-dukung-pertambangan-jadi-tulang-punggung-ekonomi"
+    },
+    {
+        "title": "Polisi Tangkap Pelaku Pembacokan Mahasiswa Udinus Semarang, Korban Salah Sasaran Tawuran",
+        "category": "News",
+        "publish_time": "18-09-2024 10:14",
+        "news_link": "https://news.republika.co.id/berita/sk074d409/polisi-tangkap-pelaku-pembacokan-mahasiswa-udinus-semarang-korban-salah-sasaran-tawuran"
+    },
+    {
+        "title": "Erick Thohir: Merger BUMN Karya Dilanjutkan pada Pemerintahan Prabowo",
+        "category": "News",
+        "publish_time": "18-09-2024 10:10",
+        "news_link": "https://news.republika.co.id/berita/sk06ts484/erick-thohir-merger-bumn-karya-dilanjutkan-pada-pemerintahan-prabowo"
     },
     {
         "title": "Istana Tepis Kaesang Hidup Mewah-mewahan, Sebut Naik Pesawat Ekonomi dari IKN ke Jakarta",
         "category": "News",
-        "publish_time": "18-09-2024 10:04",
+        "publish_time": "18-09-2024 10:10",
         "news_link": "https://news.republika.co.id/berita/sk06mo377/istana-tepis-kaesang-hidup-mewahmewahan-sebut-naik-pesawat-ekonomi-dari-ikn-ke-jakarta"
     },
     {
         "title": "Bukan Rahang Bengkok, Polisi Sebutkan Korban Rundung Binus Alami Memar",
         "category": "News",
-        "publish_time": "18-09-2024 09:53",
+        "publish_time": "18-09-2024 10:10",
         "news_link": "https://news.republika.co.id/berita/sk064m377/bukan-rahang-bengkok-polisi-sebutkan-korban-rundung-binus-alami-memar"
     },
     {
         "title": "72 TPS di Lampung Dinilai Rawan Konflik",
         "category": "Network",
-        "publish_time": "18-09-2024 09:53",
+        "publish_time": "18-09-2024 10:10",
         "news_link": "https://sumatralink.id/posts/331388/72-tps-di-lampung-dinilai-rawan-konflik"
     },
     {
         "title": "Manfaat Penimbangan Balita di Posyandu untuk Cegah Stunting",
         "category": "Network",
-        "publish_time": "18-09-2024 09:52",
+        "publish_time": "18-09-2024 10:10",
         "news_link": "https://diagnosa.id/posts/331401/manfaat-penimbangan-balita-di-posyandu-untuk-cegah-stunting"
     },
     {
         "title": "Penampakan Kerusakan Rumah Warga Akibat Gempa di Kabupaten Bandung",
         "category": "Visual",
-        "publish_time": "18-09-2024 09:52",
+        "publish_time": "18-09-2024 10:10",
         "news_link": "https://visual.republika.co.id/berita/sk062y375/penampakan-kerusakan-rumah-warga-akibat-gempa-di-kabupaten-bandung"
     },
     {
         "title": "Suku Bunga Acuan Akhirnya Dipangkas, BI Mengaku tak Perlu Tunggu FFR Turun",
         "category": "Ekonomi",
-        "publish_time": "18-09-2024 09:46",
+        "publish_time": "18-09-2024 10:10",
         "news_link": "https://ekonomi.republika.co.id/berita/sk05st423/suku-bunga-acuan-akhirnya-dipangkas-bi-mengaku-tak-perlu-tunggu-ffr-turun"
     },
     {
         "title": "Santri Tewas karena Diduga Dirundung Senior, Kemenag Sukoharjo Sambangi Pesantren",
         "category": "Khazanah",
-        "publish_time": "18-09-2024 09:40",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://khazanah.republika.co.id/berita/sk05j2483/santri-tewas-karena-diduga-dirundung-senior-kemenag-sukoharjo-sambangi-pesantren"
     },
     {
         "title": "Bea Cukai Yogyakarta Awasi Pemusnahan 10 Juta Rokok yang Diajukan Pengembalian Cukai",
         "category": "Beacukai",
-        "publish_time": "18-09-2024 09:35",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://republika.co.id/berita/sk05ao423/bea-cukai-yogyakarta-awasi-pemusnahan-10-juta-rokok-yang-diajukan-pengembalian-cukai"
     },
     {
         "title": "Zayn Malik Kejutkan Fans, Umumkan Tur Solo Pertamanya di Inggris dan Amerika",
         "category": "Ameera",
-        "publish_time": "18-09-2024 09:34",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://ameera.republika.co.id/berita/sk0594425/zayn-malik-kejutkan-fans-umumkan-tur-solo-pertamanya-di-inggris-dan-amerika"
     },
     {
         "title": "Gapensi Daerah Minta Pemerintah Perhatikan Kontraktor Lokal",
         "category": "Ekonomi",
-        "publish_time": "18-09-2024 09:32",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://ekonomi.republika.co.id/berita/sk055f416/gapensi-daerah-minta-pemerintah-perhatikan-kontraktor-lokal"
     },
     {
         "title": "Pertamina dan Airbus Jajaki Kerja Sama Pengembangan Sustainable Aviation Fuel di Indonesia",
         "category": "Ekonomi",
-        "publish_time": "18-09-2024 09:30",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://ekonomi.republika.co.id/berita/sk051z423/pertamina-dan-airbus-jajaki-kerja-sama-pengembangan-sustainable-aviation-fuel-di-indonesia"
     },
     {
         "title": "Sidang PK Kasus Vina Hadirkan Mantan Kabareskrim, akan Beri Keterangan Soal Prosedur",
         "category": "Rejabar",
-        "publish_time": "18-09-2024 09:28",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://rejabar.republika.co.id/berita/sk04yw512/sidang-pk-kasus-vina-hadirkan-mantan-kabareskrim-akan-beri-keterangan-soal-prosedur"
     },
     {
         "title": "Konferensi Tata Lingkungan Dorong Investasi Hijau",
         "category": "Esgnow",
-        "publish_time": "18-09-2024 09:26",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://esgnow.republika.co.id/berita/sk04vw416/konferensi-tata-lingkungan-dorong-investasi-hijau"
     },
     {
         "title": "Ancelotti Ungkap Permainan Langsung Kunci Kemenangan Madrid atas VfB Stuttgart",
         "category": "News",
-        "publish_time": "18-09-2024 09:21",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://news.republika.co.id/berita/sk04nx348/ancelotti-ungkap-permainan-langsung-kunci-kemenangan-madrid-atas-vfb-stuttgart"
     },
     {
         "title": "Kodam Cenderawasih: Karyawan Disandera OPM Sudah Dibebaskan",
         "category": "News",
-        "publish_time": "18-09-2024 09:16",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://news.republika.co.id/berita/sk04f4487/kodam-cenderawasih-karyawan-disandera-opm-sudah-dibebaskan"
     },
     {
         "title": "Dua Tank Israel Tembaki Konvoi Kemanusiaan, Ini Reaksi Keras WHO",
         "category": "Khazanah",
-        "publish_time": "18-09-2024 09:16",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://khazanah.republika.co.id/berita/sk04es483/dua-tank-israel-tembaki-konvoi-kemanusiaan-ini-reaksi-keras-who"
     },
     {
         "title": "Chairman od PBNU Introduces the Idea of Civilization in the United States",
         "category": "En",
-        "publish_time": "57 minutes ago",
+        "publish_time": "2 hours ago",
         "news_link": "https://en.republika.co.id/berita/sk032j415/chairman-od-pbnu-introduces-the-idea-of-civilization-in-the-united-states"
     },
     {
         "title": "BI: Pertumbuhan Kredit Tetap Kuat Capai 11,40 Persen pada Agustus 2024",
         "category": "Ekonomi",
-        "publish_time": "18-09-2024 09:13",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://ekonomi.republika.co.id/berita/sk0466423/bi-pertumbuhan-kredit-tetap-kuat-capai-1140-persen-pada-agustus-2024"
     },
     {
         "title": "Operasi Pager Mossad Israel di Lebanon, Klasik Tapi 'Cerdik'? Ini Kata Para Pakar Dunia",
         "category": "News",
-        "publish_time": "18-09-2024 09:13",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://news.republika.co.id/berita/sk0451320/operasi-pager-mossad-israel-di-lebanon-klasik-tapi-cerdik-ini-kata-para-pakar-dunia"
     },
     {
         "title": "Jokowi Heran Proyek PLTP Kontruksi Butuh Enam Tahun: Investor Gak Sabar",
         "category": "News",
-        "publish_time": "18-09-2024 09:13",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://news.republika.co.id/berita/sk041e484/jokowi-heran-proyek-pltp-kontruksi-butuh-enam-tahun-investor-gak-sabar"
     },
     {
         "title": "Fajar/Rian Susul Fikri/Daniel ke 16 Besar China Open",
         "category": "News",
-        "publish_time": "18-09-2024 09:13",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://news.republika.co.id/berita/sk03ur348/fajarrian-susul-fikridaniel-ke-16-besar-china-open"
     },
     {
         "title": "Selain Fiersa Besari, Ini 7 Selebritas yang Rehat dari Dunia Hiburan demi Keluarga",
         "category": "Ameera",
-        "publish_time": "18-09-2024 09:13",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://ameera.republika.co.id/berita/sk03tk425/selain-fiersa-besari-ini-7-selebritas-yang-rehat-dari-dunia-hiburan-demi-keluarga"
+    },
+    {
+        "title": "Superbank dan KakaoBank Berkolaborasi Sediakan Tiket MMA 2024",
+        "category": "Ekonomi",
+        "publish_time": "18-09-2024 09:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/sk07d9484/superbank-dan-kakaobank-berkolaborasi-sediakan-tiket-mma-2024"
     },
     {
         "title": "Sehati untuk Bumi, Republika Pacu Perusahaan Adopsi Praktik Berkelanjutan",
         "category": "Esgnow",
-        "publish_time": "18-09-2024 09:13",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://esgnow.republika.co.id/berita/sk00uj416/sehati-untuk-bumi-republika-pacu-perusahaan-adopsi-praktik-berkelanjutan"
     },
     {
         "title": "Resmikan Mandiri Digital Tower, Erick Tekankan Pentingnya Keamanan Siber",
         "category": "Ekonomi",
-        "publish_time": "18-09-2024 09:13",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://ekonomi.republika.co.id/berita/sk03hd423/resmikan-mandiri-digital-tower-erick-tekankan-pentingnya-keamanan-siber"
     },
     {
         "title": "Said Iqbal: Partai Buruh Dukung Pemerintahan Prabowo",
         "category": "News",
-        "publish_time": "18-09-2024 09:13",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://news.republika.co.id/berita/sk03g7484/said-iqbal-partai-buruh-dukung-pemerintahan-prabowo"
     },
     {
         "title": "Harga Emas Dunia Melesat, Antam Ketiban Cuan",
         "category": "Ekonomi",
-        "publish_time": "18-09-2024 09:13",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://ekonomi.republika.co.id/berita/sk03fv370/harga-emas-dunia-melesat-antam-ketiban-cuan"
     },
     {
         "title": "Persahabatan dalam Perbedaan Keimanan, Aktualisasi Semboyan Bhinneka Tunggal Ika",
         "category": "Rejogja",
-        "publish_time": "18-09-2024 08:13",
+        "publish_time": "18-09-2024 09:10",
         "news_link": "https://rejogja.republika.co.id/berita/sk0063291/persahabatan-dalam-perbedaan-keimanan-aktualisasi-semboyan-bhinneka-tunggal-ika"
     },
     {
@@ -176,127 +290,13 @@
     {
         "title": "Yasonna Laoly Sebut PDI Perjuangan Siap Membantu Pemerintahan Prabowo Subianto",
         "category": "News",
-        "publish_time": "18-09-2024 08:13",
+        "publish_time": "18-09-2024 08:10",
         "news_link": "https://news.republika.co.id/berita/sk02sq487/yasonna-laoly-sebut-pdi-perjuangan-siap-membantu-pemerintahan-prabowo-subianto"
     },
     {
         "title": "Jenis-Jenis Tidur: Qailulah hingga yang Terburuk",
         "category": "Khazanah",
-        "publish_time": "18-09-2024 08:13",
+        "publish_time": "18-09-2024 08:10",
         "news_link": "https://khazanah.republika.co.id/berita/sk02pc458/jenisjenis-tidur-qailulah-hingga-yang-terburuk"
-    },
-    {
-        "title": "Bahlil Minta Izin ke Jokowi Pangkas Perizinan Investasi Panas Bumi",
-        "category": "Ekonomi",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sk02oo423/bahlil-minta-izin-ke-jokowi-pangkas-perizinan-investasi-panas-bumi"
-    },
-    {
-        "title": "Tasawuf Kerap Disalahpahami, Ini Hakikatnya Menurut al-Qusyairi",
-        "category": "Khazanah",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sk02il458/tasawuf-kerap-disalahpahami-ini-hakikatnya-menurut-alqusyairi"
-    },
-    {
-        "title": "BSI Maslahat Resmi Buka Kembali Beasiswa BSI Scholarship Prestasi dan Inspirasi 2024",
-        "category": "Sharia",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://sharia.republika.co.id/berita/sk02dc423/bsi-maslahat-resmi-buka-kembali-beasiswa-bsi-scholarship-prestasi-dan-inspirasi-2024"
-    },
-    {
-        "title": "Tidur dan Melewatkan Waktu Shalat, Bagaimana Hukumnya?",
-        "category": "Khazanah",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sk02bs458/tidur-dan-melewatkan-waktu-shalat-bagaimana-hukumnya"
-    },
-    {
-        "title": "Apa Itu Lavender Marriages yang Ramai Diperbincangkan Warganet?",
-        "category": "Ameera",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://ameera.republika.co.id/berita/sk02bb425/apa-itu-lavender-marriages-yang-ramai-diperbincangkan-warganet"
-    },
-    {
-        "title": "Pakar Amunisi: Ada 10-20 Miligram Bahan Peledak di Komponen Pager Hizbullah",
-        "category": "News",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sk02as377/pakar-amunisi-ada-1020-miligram-bahan-peledak-di-komponen-pager-hizbullah"
-    },
-    {
-        "title": "Mantan Kabareskrim Dihadirkan dalam Sidang PK Kasus Vina",
-        "category": "News",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sk02aq487/mantan-kabareskrim-dihadirkan-dalam-sidang-pk-kasus-vina"
-    },
-    {
-        "title": "Rukuk dan Sujud tak Seperti Rasulullah, Bagaimana Dampaknya?",
-        "category": "Khazanah",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sk01yo458/rukuk-dan-sujud-tak-seperti-rasulullah-bagaimana-dampaknya"
-    },
-    {
-        "title": "TNI Bersyukur Jika Benar OPM akan Bebaskan Pilot Susi Air",
-        "category": "News",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sk01vn409/tni-bersyukur-jika-benar-opm-akan-bebaskan-pilot-susi-air"
-    },
-    {
-        "title": "Amgala Foundation dan Rumah Zakat Salurkan Bantuan untuk Korban Kebakaran di Manggarai",
-        "category": "News",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sk01q5423/amgala-foundation-dan-rumah-zakat-salurkan-bantuan-untuk-korban-kebakaran-di-manggarai"
-    },
-    {
-        "title": "Imigrasi Malang Deportasi WN Timor Leste, Ini Penyebabnya",
-        "category": "Network",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://sekitarsurabaya.com/posts/331319/imigrasi-malang-deportasi-wn-timor-leste-ini-penyebabnya"
-    },
-    {
-        "title": "Gempabumi M 5.0 Guncang Bandung Raya, Beberapa Bangunan Rusak",
-        "category": "Network",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://topnews62.com/posts/331321/gempabumi-m-5-0-guncang-bandung-raya-beberapa-bangunan-rusak"
-    },
-    {
-        "title": "Kapal OPV 90M Resmi Perkuat TNI AL",
-        "category": "Network",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://seputarmiliter.id/posts/331363/kapal-opv-90m-resmi-perkuat-tni-al"
-    },
-    {
-        "title": "Pelajar yang Tenggelam di Pantai Selatan Sukabumi Ditemukan Meninggal",
-        "category": "Network",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://sukabumikini.com/posts/331364/pelajar-yang-tenggelam-di-pantai-selatan-sukabumi-ditemukan-meninggal"
-    },
-    {
-        "title": "China Open 2024: Fajar/Rian Hempaskan Pasangan Korea",
-        "category": "Network",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://badmintonews.id/posts/331366/china-open-2024-fajar-rian-hempaskan-pasangan-korea"
-    },
-    {
-        "title": "China Open 2024: Tersingkir di Babak Pertama, Gregoria Merasa Ditampar",
-        "category": "Network",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://badmintonews.id/posts/331367/china-open-2024-tersingkir-di-babak-pertama-gregoria-merasa-ditampar"
-    },
-    {
-        "title": "Raja Mengaku Tuhan pada Zaman Rasulullah",
-        "category": "Khazanah",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sk01j1458/raja-mengaku-tuhan-pada-zaman-rasulullah"
-    },
-    {
-        "title": "Operasi Gempur Hasilkan Penindakan 16,98 Juta Batang Rokok Ilegal di Banten",
-        "category": "Beacukai",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://republika.co.id/berita/sk0175423/operasi-gempur-hasilkan-penindakan-1698-juta-batang-rokok-ilegal-di-banten"
-    },
-    {
-        "title": "ITDC Pastikan Balapan MotoGP di Sirkuit Mandalika Tetap Digelar",
-        "category": "News",
-        "publish_time": "18-09-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/sk010x484/itdc-pastikan-balapan-motogp-di-sirkuit-mandalika-tetap-digelar"
     }
 ]
