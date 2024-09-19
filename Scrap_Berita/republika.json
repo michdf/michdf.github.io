@@ -1,92 +1,194 @@
 [
     {
+        "title": "Presiden Jokowi Resmikan Tol Solo-Yogyakarta Senilai Rp 5,6 Triliun",
+        "category": "News",
+        "publish_time": "19-09-2024 10:11",
+        "news_link": "https://news.republika.co.id/berita/sk21nj484/presiden-jokowi-resmikan-tol-soloyogyakarta-senilai-rp-56-triliun"
+    },
+    {
+        "title": "Presiden Jokowi Resmikan Tol Solo-Yogyakarta Senilai Rp 5,6 Triliun",
+        "category": "News",
+        "publish_time": "19-09-2024 10:11",
+        "news_link": "https://news.republika.co.id/berita/sk21mk484/presiden-jokowi-resmikan-tol-soloyogyakarta-senilai-rp-56-triliun"
+    },
+    {
+        "title": "Beri Kuliah Umum di Unpad, Menteri ATR/BPN Tegaskan Terus Berupaya Berantas Mafia Tanah",
+        "category": "Rejabar",
+        "publish_time": "19-09-2024 10:10",
+        "news_link": "https://rejabar.republika.co.id/berita/sk21kz512/beri-kuliah-umum-di-unpad-menteri-atrbpn-tegaskan-terus-berupaya-berantas-mafia-tanah"
+    },
+    {
+        "title": "Hadir di Rapat Paripurna Terakhir, Menkeu: APBN 2025 Disusun Hati-hati di Masa Transisi",
+        "category": "Ekonomi",
+        "publish_time": "19-09-2024 10:09",
+        "news_link": "https://ekonomi.republika.co.id/berita/sk21jf423/hadir-di-rapat-paripurna-terakhir-menkeu-apbn-2025-disusun-hatihati-di-masa-transisi"
+    },
+    {
+        "title": "PP Muhammadiyah Minta Polda Sumbar Umumkan Hasil Ekshumasi Jasad Afif Maulana",
+        "category": "News",
+        "publish_time": "19-09-2024 10:07",
+        "news_link": "https://news.republika.co.id/berita/sk21gy409/pp-muhammadiyah-minta-polda-sumbar-umumkan-hasil-ekshumasi-jasad-afif-maulana"
+    },
+    {
+        "title": "Seminar di UNU Yogya Soroti Pentingnya Cina Sebagai Sumber inspirasi Peradaban Islam",
+        "category": "Rejogja",
+        "publish_time": "19-09-2024 10:04",
+        "news_link": "https://rejogja.republika.co.id/berita/sk21b3291/seminar-di-unu-yogya-soroti-pentingnya-cina-sebagai-sumber-inspirasi-peradaban-islam"
+    },
+    {
+        "title": "Menteri BUMN, Mendag, Menteri ESDM, hingga Menkominfo Hadir di Anugerah ESG Republika",
+        "category": "Ekonomi",
+        "publish_time": "19-09-2024 10:02",
+        "news_link": "https://ekonomi.republika.co.id/berita/sk217w423/menteri-bumn-mendag-menteri-esdm-hingga-menkominfo-hadir-di-anugerah-esg-republika"
+    },
+    {
+        "title": "Ketua Banggar Fraksi PDIP Berharap Sri Mulyani Tetap di Pemerintahan, Begini Kelakarnya",
+        "category": "Ekonomi",
+        "publish_time": "19-09-2024 09:57",
+        "news_link": "https://ekonomi.republika.co.id/berita/sk210e423/ketua-banggar-fraksi-pdip-berharap-sri-mulyani-tetap-di-pemerintahan-begini-kelakarnya"
+    },
+    {
+        "title": "Pesta Pecel Salinem Hadir pada Jogja Book Fair 2024",
+        "category": "Rejogja",
+        "publish_time": "19-09-2024 09:42",
+        "news_link": "https://rejogja.republika.co.id/berita/sk20b2291/pesta-pecel-salinem-hadir-pada-jogja-book-fair-2024"
+    },
+    {
+        "title": "Kang DS Minta Jangan Sampai Ada Warga yang tidak Tersentuh Bantuan",
+        "category": "Rejabar",
+        "publish_time": "19-09-2024 09:40",
+        "news_link": "https://rejabar.republika.co.id/berita/sk2073423/kang-ds-minta-jangan-sampai-ada-warga-yang-tidak-tersentuh-bantuan"
+    },
+    {
+        "title": "Erick Thohir: Jangan Ragukan Nasionalisme Pemain Naturalisasi",
+        "category": "News",
+        "publish_time": "19-09-2024 09:40",
+        "news_link": "https://news.republika.co.id/berita/sk206z409/erick-thohir-jangan-ragukan-nasionalisme-pemain-naturalisasi"
+    },
+    {
+        "title": "Bank bjb Raih Penghargaan di CNN Indonesia Awards 2024",
+        "category": "News",
+        "publish_time": "19-09-2024 09:34",
+        "news_link": "https://news.republika.co.id/berita/sk1zxk423/bank-bjb-raih-penghargaan-di-cnn-indonesia-awards-2024"
+    },
+    {
+        "title": "Kilang Pertamina Beberkan Strategi Dukung Penerbangan Ramah Lingkungan",
+        "category": "Esgnow",
+        "publish_time": "19-09-2024 09:30",
+        "news_link": "https://esgnow.republika.co.id/berita/sk1wum416/kilang-pertamina-beberkan-strategi-dukung-penerbangan-ramah-lingkungan"
+    },
+    {
+        "title": "Sambut Delegasi AIMEP 2024, Unisa Yogyakarta Perkuat Kolaborasi Muslim Australia-Indonesia",
+        "category": "Rejogja",
+        "publish_time": "19-09-2024 09:26",
+        "news_link": "https://rejogja.republika.co.id/berita/sk1zjc291/sambut-delegasi-aimep-2024-unisa-yogyakarta-perkuat-kolaborasi-muslim-australiaindonesia"
+    },
+    {
+        "title": "Turunnya Suku Bunga Acuan BI Jadi Katalis Pendorong Pembiayaan Bank Syariah",
+        "category": "Ekonomi",
+        "publish_time": "19-09-2024 09:23",
+        "news_link": "https://ekonomi.republika.co.id/berita/sk1zfe423/turunnya-suku-bunga-acuan-bi-jadi-katalis-pendorong-pembiayaan-bank-syariah"
+    },
+    {
+        "title": "Batik tak Hanya untuk Acara Formal, Ini Tips Padu Padan Batik Sehari-hari",
+        "category": "Ameera",
+        "publish_time": "19-09-2024 09:21",
+        "news_link": "https://ameera.republika.co.id/berita/sk1zbh425/batik-tak-hanya-untuk-acara-formal-ini-tips-padu-padan-batik-seharihari"
+    },
+    {
+        "title": "Pemicu Gempa Bandung Diketahui, tidak Ada Kaitannya dengan Sesar Megathrust",
+        "category": "News",
+        "publish_time": "19-09-2024 09:16",
+        "news_link": "https://news.republika.co.id/berita/sk1z3y409/pemicu-gempa-bandung-diketahui-tidak-ada-kaitannya-dengan-sesar-megathrust"
+    },
+    {
         "title": "Kami Memohon, Serial Web tentang Cara Meminta Maaf kepada Lingkungan",
         "category": "Ameera",
-        "publish_time": "19-09-2024 09:10",
+        "publish_time": "19-09-2024 09:13",
         "news_link": "https://ameera.republika.co.id/berita/sk1ytp416/kami-memohon-serial-web-tentang-cara-meminta-maaf-kepada-lingkungan"
     },
     {
         "title": "\ufeffWiranto Tinjau Dua Lokasi Uji Coba Makan Bergizi Gratis di Solo",
         "category": "Rejogja",
-        "publish_time": "19-09-2024 09:09",
+        "publish_time": "19-09-2024 09:13",
         "news_link": "https://rejogja.republika.co.id/berita/sk1ys3291/wiranto-tinjau-dua-lokasi-uji-coba-makan-bergizi-gratis-di-solo"
     },
     {
         "title": "Reksa Dana Milik BRI Raih Penghargaan Product Enhancement of The Year 2024",
         "category": "Ekonomi",
-        "publish_time": "19-09-2024 09:07",
+        "publish_time": "19-09-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sk1you423/reksa-dana-milik-bri-raih-penghargaan-product-enhancement-of-the-year-2024"
     },
     {
         "title": "Paloh tak Ingin Nasdem Diprioritaskan Dapat Kursi Menteri di Kabinet",
         "category": "News",
-        "publish_time": "19-09-2024 08:57",
+        "publish_time": "19-09-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/sk1y7u377/paloh-tak-ingin-nasdem-diprioritaskan-dapat-kursi-menteri-di-kabinet"
     },
     {
         "title": "Beredar Dugaan Kebocoran Data Presiden Hingga Menkeu, Sri Mulyani Sebut Tengah Evaluasi",
         "category": "Ekonomi",
-        "publish_time": "19-09-2024 08:55",
+        "publish_time": "19-09-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sk1y52423/beredar-dugaan-kebocoran-data-presiden-hingga-menkeu-sri-mulyani-sebut-tengah-evaluasi"
     },
     {
         "title": "Bea Cukai Pastikan Stabilitas Harga Jual Eceran Hasil Tembakau Lewat Monitoring di Pasaran",
         "category": "Beacukai",
-        "publish_time": "19-09-2024 08:47",
+        "publish_time": "19-09-2024 09:13",
         "news_link": "https://republika.co.id/berita/sk1xrq423/bea-cukai-pastikan-stabilitas-harga-jual-eceran-hasil-tembakau-lewat-monitoring-di-pasaran"
     },
     {
         "title": "BNPB: Rumah Rusak Berat Akibat Gempa di Bandung Dapat Rp 60 Juta",
         "category": "Rejabar",
-        "publish_time": "19-09-2024 08:35",
+        "publish_time": "19-09-2024 08:13",
         "news_link": "https://rejabar.republika.co.id/berita/sk1x6g512/bnpb-rumah-rusak-berat-akibat-gempa-di-bandung-dapat-rp-60-juta"
     },
     {
         "title": "PKKMB di Universitas BSI Hadirkan Semangat Maba Berkuliah dengan Semot",
         "category": "News",
-        "publish_time": "19-09-2024 08:35",
+        "publish_time": "19-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sk1wd1370/pkkmb-di-universitas-bsi-hadirkan-semangat-maba-berkuliah-dengan-semot"
     },
     {
         "title": "Kata Pakar tentang Serangan Israel di Lebanon",
         "category": "Khazanah",
-        "publish_time": "19-09-2024 08:34",
+        "publish_time": "19-09-2024 08:13",
         "news_link": "https://khazanah.republika.co.id/berita/sk1x60451/kata-pakar-tentang-serangan-israel-di-lebanon"
     },
     {
         "title": "Sektor Parekraf Tumbuh Positif Jelang Transisi Pemerintahan",
         "category": "News",
-        "publish_time": "19-09-2024 08:31",
+        "publish_time": "19-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sk1x0b451/sektor-parekraf-tumbuh-positif-jelang-transisi-pemerintahan"
     },
     {
         "title": "Bea Cukai Kawal Ekspor Perdana 19,8 Ton Kopi Robusta Senilai Miliaran Rupiah",
         "category": "Beacukai",
-        "publish_time": "19-09-2024 08:28",
+        "publish_time": "19-09-2024 08:13",
         "news_link": "https://republika.co.id/berita/sk1wh2423/bea-cukai-kawal-ekspor-perdana-198-ton-kopi-robusta-senilai-miliaran-rupiah"
     },
     {
         "title": "'Pembangunan Infrastruktur tanpa Kajian Hukum Bisa Timbulkan Backfire Effect'",
         "category": "Rejogja",
-        "publish_time": "19-09-2024 08:21",
+        "publish_time": "19-09-2024 08:13",
         "news_link": "https://rejogja.republika.co.id/berita/sk1wkg291/pembangunan-infrastruktur-tanpa-kajian-hukum-bisa-timbulkan-backfire-effect"
     },
     {
         "title": "Dukung Program Erick, WKI Hadirkan Energi Hijau Berkelanjutan di Sumatra",
         "category": "Esgnow",
-        "publish_time": "19-09-2024 08:15",
+        "publish_time": "19-09-2024 08:13",
         "news_link": "https://esgnow.republika.co.id/berita/sk1waf416/dukung-program-erick-wki-hadirkan-energi-hijau-berkelanjutan-di-sumatra"
     },
     {
         "title": "Bea Cukai Gagalkan Upaya Penyelundupan Ratusan Ribu Benih Lobster Senilai Miliaran Rupiah",
         "category": "Beacukai",
-        "publish_time": "19-09-2024 08:15",
+        "publish_time": "19-09-2024 08:13",
         "news_link": "https://republika.co.id/berita/sk1wa4423/bea-cukai-gagalkan-upaya-penyelundupan-ratusan-ribu-benih-lobster-senilai-miliaran-rupiah"
     },
     {
         "title": "PVMBG Berhasil Identifikasi Sesar yang Sebabkan Gempa Magnitudo 4,9 di Bandung",
         "category": "Rejabar",
-        "publish_time": "19-09-2024 08:14",
+        "publish_time": "19-09-2024 08:13",
         "news_link": "https://rejabar.republika.co.id/berita/sk1w8r512/pvmbg-berhasil-identifikasi-sesar-yang-sebabkan-gempa-magnitudo-49-di-bandung"
     },
     {
@@ -196,107 +298,5 @@
         "category": "News",
         "publish_time": "19-09-2024 07:13",
         "news_link": "https://news.republika.co.id/berita/sk1t9r318/dugaan-penyelewengan-pon-pakar-hukum-sarankan-menpora-lapor-ke-kejakgung"
-    },
-    {
-        "title": "BPK dan SAO Thailand Berkolaborasi dalam Audit Sektor Publik",
-        "category": "Ekonomi",
-        "publish_time": "19-09-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sk1t3a416/bpk-dan-sao-thailand-berkolaborasi-dalam-audit-sektor-publik"
-    },
-    {
-        "title": "Keluarga Jamaah Haji yang Wafat Sudah Mendapatkan Asuransi Jiwa, Paling Besar Rp 60 Juta",
-        "category": "Khazanah",
-        "publish_time": "19-09-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sk1gcj483/keluarga-jamaah-haji-yang-wafat-sudah-mendapatkan-asuransi-jiwa-paling-besar-rp-60-juta"
-    },
-    {
-        "title": "Ucap Sumpah WNI di Belanda, Hilgers dan Reijnders Diupayakan Main Lawan Bahrain dan China",
-        "category": "News",
-        "publish_time": "19-09-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/sk1sy6409/ucap-sumpah-wni-di-belanda-hilgers-dan-reijnders-diupayakan-main-lawan-bahrain-dan-china"
-    },
-    {
-        "title": "Manis dan Sehat! 5 Manfaat Luar Biasa Buah Mangga untuk Tubuh",
-        "category": "Network",
-        "publish_time": "19-09-2024 07:13",
-        "news_link": "https://sekitarkaltim.id/posts/331578/manis-dan-sehat-5-manfaat-luar-biasa-buah-mangga-untuk-tubuh"
-    },
-    {
-        "title": "Ginting Menang Mudah Atas Unggulan Pertama Shi Yu Qi di China Open 2024",
-        "category": "News",
-        "publish_time": "19-09-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/sk1ss2348/ginting-menang-mudah-atas-unggulan-pertama-shi-yu-qi-di-china-open-2024"
-    },
-    {
-        "title": "Jokowi Minta Ponpes Kawal Transisi Pemerintahan Baru",
-        "category": "Khazanah",
-        "publish_time": "19-09-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sk1sn8458/jokowi-minta-ponpes-kawal-transisi-pemerintahan-baru"
-    },
-    {
-        "title": "PKS Targetkan 60 Persen Kemenangan di Pilkada",
-        "category": "News",
-        "publish_time": "19-09-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/sk1sk7377/pks-targetkan-60-persen-kemenangan-di-pilkada"
-    },
-    {
-        "title": "Fly to Jordan, LazisMu is Ready to Distribute Aid to the Palestinians",
-        "category": "Khazanah",
-        "publish_time": "19-09-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sk1rrj415/fly-to-jordan-lazismu-is-ready-to-distribute-aid-to-the-palestinians"
-    },
-    {
-        "title": "Garuda MFI dan Arta Hanggar Jalin Kerja Sama Tingkatkan Layanan",
-        "category": "Ekonomi",
-        "publish_time": "19-09-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sk1sgb423/garuda-mfi-dan-arta-hanggar-jalin-kerja-sama-tingkatkan-layanan"
-    },
-    {
-        "title": "Rapat Paripurna DPR Setujui Naturalisasi Mees Hilgers dan Eliano Reijnders",
-        "category": "News",
-        "publish_time": "19-09-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/sk1seq409/rapat-paripurna-dpr-setujui-naturalisasi-mees-hilgers-dan-eliano-reijnders"
-    },
-    {
-        "title": "Daftar Pengurus 2024-2029, Ahmad Ali Tergeser, Sahroni Bertahan",
-        "category": "News",
-        "publish_time": "19-09-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/sk1sar377/daftar-pengurus-20242029-ahmad-ali-tergeser-sahroni-bertahan"
-    },
-    {
-        "title": "Israel Gerakan Pasukan ke Utara Perbatasan Lebanon, Perang di Depan Mata",
-        "category": "News",
-        "publish_time": "19-09-2024 06:13",
-        "news_link": "https://news.republika.co.id/berita/sk1s0f377/israel-gerakan-pasukan-ke-utara-perbatasan-lebanon-perang-di-depan-mata"
-    },
-    {
-        "title": "Allah tak Akan Sia-Siakan Kebaikan Hamba-Nya",
-        "category": "Khazanah",
-        "publish_time": "19-09-2024 06:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sk1ry0458/allah-tak-akan-siasiakan-kebaikan-hambanya"
-    },
-    {
-        "title": "Kisah Pakaian Mengganggu Khusyuknya Shalat Nabi",
-        "category": "Khazanah",
-        "publish_time": "19-09-2024 06:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sk1rp4458/kisah-pakaian-mengganggu-khusyuknya-shalat-nabi"
-    },
-    {
-        "title": "The Active Fault That Triggered The 5.0 Magnitude Earthquake In Bandung Is Still A Mystery",
-        "category": "En",
-        "publish_time": "3 hours ago",
-        "news_link": "https://en.republika.co.id/berita/sk1rma415/the-active-fault-that-triggered-the-50-magnitude-earthquake-in-bandung-is-still-a-mystery"
-    },
-    {
-        "title": "Perpusnas 2025 Tingkatkan Literasi di Wilayah 3T",
-        "category": "News",
-        "publish_time": "19-09-2024 06:13",
-        "news_link": "https://news.republika.co.id/berita/sk1dqu451/perpusnas-2025-tingkatkan-literasi-di-wilayah-3t"
-    },
-    {
-        "title": "Asparindo Nilai Sosialisasi dan Edukasi Jadi Kunci Perkembangan Transaksi Digital",
-        "category": "Ekonomi",
-        "publish_time": "19-09-2024 06:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sk1qt2430/asparindo-nilai-sosialisasi-dan-edukasi-jadi-kunci-perkembangan-transaksi-digital"
     }
 ]
