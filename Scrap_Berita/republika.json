@@ -1,5 +1,59 @@
 [
     {
+        "title": "Perkebunan Topang Kebutuhan Pangan dan Energi Nasional",
+        "category": "Ekonomi",
+        "publish_time": "21 September 2024, 20:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/sk58ve451/perkebunan-topang-kebutuhan-pangan-dan-energi-nasional"
+    },
+    {
+        "title": "PSSI Wacanakan Liga 1 Putri Indonesia Diikuti Delapan Klub tanpa Degradasi",
+        "category": "News",
+        "publish_time": "21 September 2024, 19:52",
+        "news_link": "https://news.republika.co.id/berita/sk5yfr409/pssi-wacanakan-liga-1-putri-indonesia-diikuti-delapan-klub-tanpa-degradasi"
+    },
+    {
+        "title": "Sholat Hajat Untuk Muslim yang Terdesak Suatu Kebutuhan",
+        "category": "Iqra",
+        "publish_time": "21 September 2024, 19:52",
+        "news_link": "https://iqra.republika.co.id/berita/sk5yev430/sholat-hajat-untuk-muslim-yang-terdesak-suatu-kebutuhan"
+    },
+    {
+        "title": "FESyar Jawa 2024 Bantu UMKM Naikkan Omzet",
+        "category": "Sharia",
+        "publish_time": "20 September 2024, 07:00",
+        "news_link": "https://sharia.republika.co.id/berita/sk1o5e370/fesyar-jawa-2024-bantu-umkm-naikkan-omzet"
+    },
+    {
+        "title": "AKPRIND dan AMIKOM Usung Desa Eduwisata-Preneur di Kroco Kulonprogo",
+        "category": "Rejogja",
+        "publish_time": "21 September 2024, 19:46",
+        "news_link": "https://rejogja.republika.co.id/berita/sk5y50291/akprind-dan-amikom-usung-desa-eduwisatapreneur-di-kroco-kulonprogo"
+    },
+    {
+        "title": "KPAI Investigasi Kasus Tewasnya Santri di Sukoharjo Akibat Kekerasan Seniornya",
+        "category": "News",
+        "publish_time": "21 September 2024, 19:43",
+        "news_link": "https://news.republika.co.id/berita/sk5y0y487/kpai-investigasi-kasus-tewasnya-santri-di-sukoharjo-akibat-kekerasan-seniornya"
+    },
+    {
+        "title": "Pembalap Indonesia, Qarrar Firhand Posisi Pertama di Kualifikasi di South Garda Italia",
+        "category": "News",
+        "publish_time": "21 September 2024, 19:30",
+        "news_link": "https://news.republika.co.id/berita/sk5xfg456/pembalap-indonesia-qarrar-firhand-posisi-pertama-di-kualifikasi-di-south-garda-italia"
+    },
+    {
+        "title": "Ayat-Ayat Alquran Terkait Siksa Kubur Sebelum Kiamat",
+        "category": "Iqra",
+        "publish_time": "21 September 2024, 19:30",
+        "news_link": "https://iqra.republika.co.id/berita/sk5xew430/ayatayat-alquran-terkait-siksa-kubur-sebelum-kiamat"
+    },
+    {
+        "title": "Tim PkM AKPRIND Kembangkan Industri Perhiasan di Desa Modalan Bantul",
+        "category": "Rejogja",
+        "publish_time": "21 September 2024, 19:27",
+        "news_link": "https://rejogja.republika.co.id/berita/sk5x99291/tim-pkm-akprind-kembangkan-industri-perhiasan-di-desa-modalan-bantul"
+    },
+    {
         "title": "Keseruan Adu Cepat Perahu Layar Tradisional di Surabaya",
         "category": "Visual",
         "publish_time": "21 September 2024, 19:00",
@@ -16,12 +70,6 @@
         "category": "Rejogja",
         "publish_time": "21 September 2024, 18:51",
         "news_link": "https://rejogja.republika.co.id/berita/sk5vm9291/siap-cetak-generasi-unggul-umsida-beri-delapan-kiat-agar-maba-semangat-kuliah"
-    },
-    {
-        "title": "FESyar Jawa 2024 Bantu UMKM Naikkan Omzet",
-        "category": "Sharia",
-        "publish_time": "20 September 2024, 07:00",
-        "news_link": "https://sharia.republika.co.id/berita/sk1o5e370/fesyar-jawa-2024-bantu-umkm-naikkan-omzet"
     },
     {
         "title": "Erick Thohir Tegaskan Komitmen PSSI Bangun Sepak Bola Putri",
@@ -192,16 +240,16 @@
         "news_link": "https://ekonomi.republika.co.id/berita/sk58gq451/bunex-2024-kakao-indonesia-punya-potensi-mendunia"
     },
     {
-        "title": "Canda Airlangga Soal Buku Sri Mulyani Sinyal Lanjut Jadi Menteri",
-        "category": "News",
-        "publish_time": "21 September 2024, 16:00",
-        "news_link": "https://news.republika.co.id/berita/sk5aw5451/canda-airlangga-soal-buku-sri-mulyani-sinyal-lanjut-jadi-menteri"
-    },
-    {
         "title": "Greenpeace dan IKJ Kritik Indikator Pertumbuhan Ekonomi dengan Pameran Seni",
         "category": "Ekonomi",
         "publish_time": "21 September 2024, 16:00",
         "news_link": "https://ekonomi.republika.co.id/berita/sk5ibh416/greenpeace-dan-ikj-kritik-indikator-pertumbuhan-ekonomi-dengan-pameran-seni"
+    },
+    {
+        "title": "Canda Airlangga Soal Buku Sri Mulyani Sinyal Lanjut Jadi Menteri",
+        "category": "News",
+        "publish_time": "21 September 2024, 16:00",
+        "news_link": "https://news.republika.co.id/berita/sk5aw5451/canda-airlangga-soal-buku-sri-mulyani-sinyal-lanjut-jadi-menteri"
     },
     {
         "title": "Mengapa Kapten Philip Baru Bebas Setelah 1,5 Tahun Disandera OPM? Ini Kata Presiden Jokowi",
@@ -256,53 +304,5 @@
         "category": "News",
         "publish_time": "21 September 2024, 15:03",
         "news_link": "https://news.republika.co.id/berita/sk5l31484/dokter-diajak-teliti-manfaat-vpo-bagi-kesehatan"
-    },
-    {
-        "title": "Presiden Jokowi: Pembebasan Pilot Susi Air Adalah Proses Negosiasi Panjang",
-        "category": "News",
-        "publish_time": "21 September 2024, 15:02",
-        "news_link": "https://news.republika.co.id/berita/sk5l0z487/presiden-jokowi-pembebasan-pilot-susi-air-adalah-proses-negosiasi-panjang"
-    },
-    {
-        "title": "Puan: PDIP tak Tutup Kemungkinan Gabung Pemerintahan Prabowo-Gibran",
-        "category": "News",
-        "publish_time": "21 September 2024, 15:01",
-        "news_link": "https://news.republika.co.id/berita/sk5kz3458/puan-pdip-tak-tutup-kemungkinan-gabung-pemerintahan-prabowogibran"
-    },
-    {
-        "title": "N219 Dikenalkan untuk Bangun Ekosistem Dirgantara Bali Utara",
-        "category": "News",
-        "publish_time": "21 September 2024, 14:49",
-        "news_link": "https://news.republika.co.id/berita/sk5kf4487/n219-dikenalkan-untuk-bangun-ekosistem-dirgantara-bali-utara"
-    },
-    {
-        "title": "Begini Reaksi Pertama Kapten Philip Mendengar Suara Istri Usai Bebas dari Penyanderaan OPM",
-        "category": "News",
-        "publish_time": "21 September 2024, 14:35",
-        "news_link": "https://news.republika.co.id/berita/sk5jqh487/begini-reaksi-pertama-kapten-philip-mendengar-suara-istri-usai-bebas-dari-penyanderaan-opm"
-    },
-    {
-        "title": "SBY Sampaikan Pesan untuk Jaga Bumi Lewat Lagu",
-        "category": "News",
-        "publish_time": "21 September 2024, 14:30",
-        "news_link": "https://news.republika.co.id/berita/sk5ajg451/sby-sampaikan-pesan-untuk-jaga-bumi-lewat-lagu"
-    },
-    {
-        "title": "BSI Targetkan Kelola 5,9 Juta Rekening Tabungan Haji Hingga Akhir Tahun",
-        "category": "Sharia",
-        "publish_time": "21 September 2024, 14:30",
-        "news_link": "https://sharia.republika.co.id/berita/sk5dpn502/bsi-targetkan-kelola-59-juta-rekening-tabungan-haji-hingga-akhir-tahun"
-    },
-    {
-        "title": "Menelusuri Kawasan Hutan Mangrove di Pemogan Bali",
-        "category": "Esgnow",
-        "publish_time": "21 September 2024, 14:30",
-        "news_link": "https://esgnow.republika.co.id/berita/sk5cm1416/menelusuri-kawasan-hutan-mangrove-di-pemogan-bali"
-    },
-    {
-        "title": "Taring Universitas BSI Terasa di Banten National Challenge",
-        "category": "News",
-        "publish_time": "21 September 2024, 14:19",
-        "news_link": "https://news.republika.co.id/berita/sk5izt370/taring-universitas-bsi-terasa-di-banten-national-challenge"
     }
 ]
