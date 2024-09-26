@@ -1,110 +1,242 @@
 [
     {
+        "title": "PLN Berdayakan Warga Produksi Biomassa untuk Cofiring PLTU",
+        "category": "Esgnow",
+        "publish_time": "26-09-2024 10:13",
+        "news_link": "https://esgnow.republika.co.id/berita/skf0dq416/pln-berdayakan-warga-produksi-biomassa-untuk-cofiring-pltu"
+    },
+    {
+        "title": "Gugatan Lima Ibu Dikabulkan MK, Ayah Kandung tak Bisa Ambil Anak Secara Paksa tanpa Hak",
+        "category": "News",
+        "publish_time": "26-09-2024 10:13",
+        "news_link": "https://news.republika.co.id/berita/skf0do409/gugatan-lima-ibu-dikabulkan-mk-ayah-kandung-tak-bisa-ambil-anak-secara-paksa-tanpa-hak"
+    },
+    {
+        "title": "MotoGP Umumkan Kalender Sementara Musim 2025",
+        "category": "News",
+        "publish_time": "26-09-2024 10:11",
+        "news_link": "https://news.republika.co.id/berita/skf0bd348/motogp-umumkan-kalender-sementara-musim-2025"
+    },
+    {
+        "title": "UPZ Pupuk Kaltim Komitmen Salurkan Zakat Tepat Sasaran",
+        "category": "Khazanah",
+        "publish_time": "26-09-2024 10:10",
+        "news_link": "https://khazanah.republika.co.id/berita/skezx9370/upz-pupuk-kaltim-komitmen-salurkan-zakat-tepat-sasaran"
+    },
+    {
+        "title": "Indonesia Resmi Bergabung dengan Negara yang Melarang Senjata Nuklir",
+        "category": "News",
+        "publish_time": "26-09-2024 10:09",
+        "news_link": "https://news.republika.co.id/berita/skf07d487/indonesia-resmi-bergabung-dengan-negara-yang-melarang-senjata-nuklir"
+    },
+    {
+        "title": "Haji tak Semata Tanggung Jawab Kemenag, Begini Penjelasannya",
+        "category": "Khazanah",
+        "publish_time": "26-09-2024 10:08",
+        "news_link": "https://khazanah.republika.co.id/berita/skee2u451/haji-tak-semata-tanggung-jawab-kemenag-begini-penjelasannya"
+    },
+    {
+        "title": "Sinergi Bea Cukai, TNI, dan BNN Temukan Ladang Ganja di Perbatasan Indonesia-Papua Nugini",
+        "category": "Beacukai",
+        "publish_time": "26-09-2024 10:05",
+        "news_link": "https://republika.co.id/berita/skf01j423/sinergi-bea-cukai-tni-dan-bnn-temukan-ladang-ganja-di-perbatasan-indonesia-papua-nugini"
+    },
+    {
+        "title": "Jokowi Bingung Kepala Negara Lain Puji Istana Warisan Kolonial Bagus",
+        "category": "Video",
+        "publish_time": "26-09-2024 10:03",
+        "news_link": "https://tv.republika.co.id/berita/skexjj467/jokowi-bingung-kepala-negara-lain-puji-istana-warisan-kolonial-bagus"
+    },
+    {
+        "title": "Perang Lebanon, Yunani Evakuasi Warganya Sementara Prancis Dorong Genjatan Senjata",
+        "category": "Khazanah",
+        "publish_time": "26-09-2024 09:57",
+        "news_link": "https://khazanah.republika.co.id/berita/skezn6320/perang-lebanon-yunani-evakuasi-warganya-sementara-prancis-dorong-genjatan-senjata"
+    },
+    {
+        "title": "IHSG Ditutup Menguat Ikuti Bursa Kawasan Asia",
+        "category": "Ekonomi",
+        "publish_time": "26-09-2024 09:55",
+        "news_link": "https://ekonomi.republika.co.id/berita/skezjf370/ihsg-ditutup-menguat-ikuti-bursa-kawasan-asia"
+    },
+    {
+        "title": "BMKG: Indonesia Rasakan Fenomena Equinox Dua Kali dalam Setahun",
+        "category": "Esgnow",
+        "publish_time": "26-09-2024 09:50",
+        "news_link": "https://esgnow.republika.co.id/berita/skezba370/bmkg-indonesia-rasakan-fenomena-equinox-dua-kali-dalam-setahun"
+    },
+    {
+        "title": "Anggota DPR Terpilih Dipecat PDIP Usai Kritik Nurul Ghufron di Lemhanas, KPU Batal Lantik",
+        "category": "News",
+        "publish_time": "26-09-2024 09:48",
+        "news_link": "https://news.republika.co.id/berita/skez8w409/anggota-dpr-terpilih-dipecat-pdip-usai-kritik-nurul-ghufron-di-lemhanas-kpu-batal-lantik"
+    },
+    {
+        "title": "Belasan Ribu Hektare Sawah di Indramayu Terancam Kekeringan",
+        "category": "News",
+        "publish_time": "26-09-2024 09:47",
+        "news_link": "https://news.republika.co.id/berita/skez6i416/belasan-ribu-hektare-sawah-di-indramayu-terancam-kekeringan"
+    },
+    {
+        "title": "Kemenkumham Gulirkan Wacana Revisi Undang-Undang Pengelolaan Keuangan Haji",
+        "category": "News",
+        "publish_time": "26-09-2024 09:45",
+        "news_link": "https://news.republika.co.id/berita/skez39487/kemenkumham-gulirkan-wacana-revisi-undangundang-pengelolaan-keuangan-haji"
+    },
+    {
+        "title": "Terungkap, Motif Penculik Anak di Bandung Hendak Menjual Korban Rp 13 Juta",
+        "category": "Rejabar",
+        "publish_time": "26-09-2024 09:45",
+        "news_link": "https://rejabar.republika.co.id/berita/skez2q512/terungkap-motif-penculik-anak-di-bandung-hendak-menjual-korban-rp-13-juta"
+    },
+    {
+        "title": "Kemenkeu Ungkap Kontribusi Pajak dari Kelas Menengah Hanya 1 Persen",
+        "category": "Ekonomi",
+        "publish_time": "26-09-2024 09:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/skeyun484/kemenkeu-ungkap-kontribusi-pajak-dari-kelas-menengah-hanya-1-persen"
+    },
+    {
+        "title": "AS, Uni Eropa dan Sekutunya Desak Israel dan Lebanon Gencatan Senjata",
+        "category": "Khazanah",
+        "publish_time": "26-09-2024 09:37",
+        "news_link": "https://khazanah.republika.co.id/berita/skeypm483/as-uni-eropa-dan-sekutunya-desak-israel-dan-lebanon-gencatan-senjata"
+    },
+    {
+        "title": "Azerbaijan Dukung Negara Rentan Iklim di COP29",
+        "category": "Esgnow",
+        "publish_time": "26-09-2024 09:34",
+        "news_link": "https://esgnow.republika.co.id/berita/skeyku416/azerbaijan-dukung-negara-rentan-iklim-di-cop29"
+    },
+    {
+        "title": "Kepala Daerah ini Jelaskan Peran Strategis MUI, Begini Penjelasannya",
+        "category": "Khazanah",
+        "publish_time": "26-09-2024 09:30",
+        "news_link": "https://khazanah.republika.co.id/berita/skel7o451/kepala-daerah-ini-jelaskan-peran-strategis-mui-begini-penjelasannya"
+    },
+    {
+        "title": "Tingkat Kepuasan Publik ke Jokowi di Jateng, Jatim, dan Sumut Tinggi",
+        "category": "News",
+        "publish_time": "26-09-2024 09:28",
+        "news_link": "https://news.republika.co.id/berita/skeybk484/tingkat-kepuasan-publik-ke-jokowi-di-jateng-jatim-dan-sumut-tinggi"
+    },
+    {
+        "title": "Viral Bendera Merah Putih Dikibarkan Bersama Bendera Israel Diiringi Lagu Indonesia Raya",
+        "category": "Khazanah",
+        "publish_time": "26-09-2024 09:26",
+        "news_link": "https://khazanah.republika.co.id/berita/skey7a483/viral-bendera-merah-putih-dikibarkan-bersama-bendera-israel-diiringi-lagu-indonesia-raya"
+    },
+    {
+        "title": "Masuki Tahap Ketiga, Kerja Sama MRA AEO Bea Cukai dan Japan Customs Makin Solid",
+        "category": "Beacukai",
+        "publish_time": "26-09-2024 09:19",
+        "news_link": "https://republika.co.id/berita/skewp7370/masuki-tahap-ketiga-kerja-sama-mra-aeo-bea-cukai-dan-japan-customs-makin-solid"
+    },
+    {
         "title": "Penerima Beasiswa TAMBA dan SAMBA Dijamin Dapat Ilmu di Salah Satu Sekolah Binis Terbaik",
         "category": "Ekonomi",
-        "publish_time": "26-09-2024 09:04",
+        "publish_time": "26-09-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/skewjp370/penerima-beasiswa-tamba-dan-samba-dijamin-dapat-ilmu-di-salah-satu-sekolah-binis-terbaik"
     },
     {
         "title": "Tiba di Bandara IKN, Menteri ini Katakan Pendaratan Mulus",
         "category": "News",
-        "publish_time": "26-09-2024 08:59",
+        "publish_time": "26-09-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/skedwv451/tiba-di-bandara-ikn-menteri-ini-katakan-pendaratan-mulus"
     },
     {
         "title": "Pembalap MotoGP Indonesia Tanam Bibit Pohon di Sirkuit Mandalika",
         "category": "Esgnow",
-        "publish_time": "26-09-2024 08:59",
+        "publish_time": "26-09-2024 09:13",
         "news_link": "https://esgnow.republika.co.id/berita/skeuiw416/pembalap-motogp-indonesia-tanam-bibit-pohon-di-sirkuit-mandalika"
     },
     {
         "title": "Polisi Tangkap Pencopet Saat Parade MotoGP Mandalika di Mataram",
         "category": "News",
-        "publish_time": "26-09-2024 08:57",
+        "publish_time": "26-09-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/skeww2484/polisi-tangkap-pencopet-saat-parade-motogp-mandalika-di-mataram"
     },
     {
         "title": "Anies Sebar Visi dan Misi untuk Jakarta, Ekspresi Kekesalan tak Bisa Maju Pilgub?",
         "category": "News",
-        "publish_time": "26-09-2024 08:54",
+        "publish_time": "26-09-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/skevhk487/anies-sebar-visi-dan-misi-untuk-jakarta-ekspresi-kekesalan-tak-bisa-maju-pilgub"
     },
     {
         "title": "PAL Goes to Campus di UGM Dorong Inovasi Maritim Indonesia",
         "category": "Rejogja",
-        "publish_time": "26-09-2024 08:50",
+        "publish_time": "26-09-2024 09:13",
         "news_link": "https://rejogja.republika.co.id/berita/skewkf291/pal-goes-to-campus-di-ugm-dorong-inovasi-maritim-indonesia"
     },
     {
         "title": "Soal PPN 12 Persen, Kemenkeu Serahkan ke Pemerintahan Prabowo",
         "category": "Ekonomi",
-        "publish_time": "26-09-2024 08:49",
+        "publish_time": "26-09-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/skewb2370/soal-ppn-12-persen-kemenkeu-serahkan-ke-pemerintahan-prabowo"
     },
     {
         "title": "BPKH Jadikan Ijtima Ulama Panduan Kelola Dana Haji",
         "category": "Khazanah",
-        "publish_time": "26-09-2024 08:48",
+        "publish_time": "26-09-2024 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/skewh1483/bpkh-jadikan-ijtima-ulama-panduan-kelola-dana-haji"
     },
     {
         "title": "Terungkap Modus Baru Peredaran Narkoba, Drone Intai Jalan Tikus di Perbatasan RI",
         "category": "News",
-        "publish_time": "26-09-2024 08:45",
+        "publish_time": "26-09-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/skewcy409/terungkap-modus-baru-peredaran-narkoba-drone-intai-jalan-tikus-di-perbatasan-ri"
     },
     {
         "title": "Antusiasme Warga Tasikmalaya Antre Pembagian Paket Sembako Gratis",
         "category": "Visual",
-        "publish_time": "26-09-2024 08:45",
+        "publish_time": "26-09-2024 09:13",
         "news_link": "https://visual.republika.co.id/berita/skewcv375/antusiasme-warga-tasikmalaya-antre-pembagian-paket-sembako-gratis"
     },
     {
         "title": "Pemerintah Setujui Enam KEK Baru dengan Target Investasi Rp 1.089,84 Triliun",
         "category": "Ekonomi",
-        "publish_time": "26-09-2024 08:36",
+        "publish_time": "26-09-2024 08:13",
         "news_link": "https://ekonomi.republika.co.id/berita/skevy3370/pemerintah-setujui-enam-kek-baru-dengan-target-investasi-rp-108984-triliun"
     },
     {
         "title": "MUI Akui Sudah Memprediksi Serangan Israel ke Lebanon",
         "category": "Video",
-        "publish_time": "26-09-2024 08:35",
+        "publish_time": "26-09-2024 08:13",
         "news_link": "https://tv.republika.co.id/berita/skevw9418/mui-akui-sudah-memprediksi-serangan-israel-ke-lebanon"
     },
     {
         "title": "RK-Suswono Janjikan Pinjaman Modal Usaha Tanpa Bunga untuk Warga Jakarta, Gimana Caranya?",
         "category": "News",
-        "publish_time": "26-09-2024 08:34",
+        "publish_time": "26-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/skev0z487/rksuswono-janjikan-pinjaman-modal-usaha-tanpa-bunga-untuk-warga-jakarta-gimana-caranya"
     },
     {
         "title": "Sambil Tertawa Kecil, Andika Santai Tanggapi Salamannya Dicuekin Nana Sudjana dan Ribut",
         "category": "Rejogja",
-        "publish_time": "26-09-2024 08:34",
+        "publish_time": "26-09-2024 08:13",
         "news_link": "https://rejogja.republika.co.id/berita/skevtf282/sambil-tertawa-kecil-andika-santai-tanggapi-salamannya-dicuekin-nana-sudjana-dan-ribut"
     },
     {
         "title": "Terobos Palang Pintu Kereta Api Bisa Dipidana",
         "category": "News",
-        "publish_time": "26-09-2024 08:29",
+        "publish_time": "26-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/skeu6w416/terobos-palang-pintu-kereta-api-bisa-dipidana"
     },
     {
         "title": "Seluruh Logistik MotoGP Mandalika Sudah Tiba di Lombok",
         "category": "News",
-        "publish_time": "26-09-2024 08:26",
+        "publish_time": "26-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/skevge348/seluruh-logistik-motogp-mandalika-sudah-tiba-di-lombok"
     },
     {
         "title": "MyPertamina Dukung UMKM Go Digital di Pertamina Grand Prix of Indonesia 2024",
         "category": "Ekonomi",
-        "publish_time": "26-09-2024 08:18",
+        "publish_time": "26-09-2024 08:13",
         "news_link": "https://ekonomi.republika.co.id/berita/skev3p370/mypertamina-dukung-umkm-go-digital-di-pertamina-grand-prix-of-indonesia-2024"
     },
     {
         "title": "Pengamat Sebut Kerja Sama PSSI dan KNVB akan Menguntungkan Indonesia",
         "category": "News",
-        "publish_time": "26-09-2024 08:16",
+        "publish_time": "26-09-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/skeuzh348/pengamat-sebut-kerja-sama-pssi-dan-knvb-akan-menguntungkan-indonesia"
     },
     {
@@ -166,137 +298,5 @@
         "category": "Rejogja",
         "publish_time": "26-09-2024 08:13",
         "news_link": "https://rejogja.republika.co.id/berita/skeu40282/terlanjur-download-link-video-guru-dan-murid-di-gorontalo-mesum-begini-cara-tobatnya"
-    },
-    {
-        "title": "Asesmen Mitigasi Pola Keamanan Cegah Potensi Aksi Terorisme Ikut Sukseskan PON XXI",
-        "category": "Rejogja",
-        "publish_time": "26-09-2024 08:13",
-        "news_link": "https://rejogja.republika.co.id/berita/skeoku291/asesmen-mitigasi-pola-keamanan-cegah-potensi-aksi-terorisme-ikut-sukseskan-pon-xxi"
-    },
-    {
-        "title": "Prabowo: Kita di Ambang Perang Nuklir",
-        "category": "Video",
-        "publish_time": "26-09-2024 08:13",
-        "news_link": "https://tv.republika.co.id/berita/sketxs467/prabowo-kita-di-ambang-perang-nuklir"
-    },
-    {
-        "title": "Teknologi Hijau Tekan Dampak Lingkungan Industri Tambang",
-        "category": "Esgnow",
-        "publish_time": "26-09-2024 08:13",
-        "news_link": "https://esgnow.republika.co.id/berita/sketpe416/teknologi-hijau-tekan-dampak-lingkungan-industri-tambang"
-    },
-    {
-        "title": "Rapper 50 Cent Garap Serial Dokumenter Soal P Diddy, Beri Dukungan kepada Korban",
-        "category": "Ameera",
-        "publish_time": "26-09-2024 08:13",
-        "news_link": "https://ameera.republika.co.id/berita/sketis425/rapper-50-cent-garap-serial-dokumenter-soal-p-diddy-beri-dukungan-kepada-korban"
-    },
-    {
-        "title": "Gerindra Sebut Pembentukan Kementerian Penerimaan Negara Belum Final",
-        "category": "News",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/sketgy484/gerindra-sebut-pembentukan-kementerian-penerimaan-negara-belum-final"
-    },
-    {
-        "title": "Waketum MUI Tekankan Toleransi Beragama pada Forum Agama di Perancis",
-        "category": "Khazanah",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/skekwr451/waketum-mui-tekankan-toleransi-beragama-pada-forum-agama-di-perancis"
-    },
-    {
-        "title": "Truk Tabrakan di Tol Dalam Kota Diduga Kelebihan Muatan",
-        "category": "News",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/skesvd484/truk-tabrakan-di-tol-dalam-kota-diduga-kelebihan-muatan"
-    },
-    {
-        "title": "Fenomena Paylater Kelas Menengah, Ekonom: Uangnya Habis untuk Kebutuhan Primer",
-        "category": "Ekonomi",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/skes28370/fenomena-paylater-kelas-menengah-ekonom-uangnya-habis-untuk-kebutuhan-primer"
-    },
-    {
-        "title": "Puan Maharani Pastikan Megawati dan Prabowo Segera Bertemu",
-        "category": "News",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/skesls484/puan-maharani-pastikan-megawati-dan-prabowo-segera-bertemu"
-    },
-    {
-        "title": "Perkotaan Telah Dikuasai, PKS Perkuat Basis Dukungan Paslon Pilgub Jabar di Daerah",
-        "category": "Rejabar",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://rejabar.republika.co.id/berita/skeskk512/perkotaan-telah-dikuasai-pks-perkuat-basis-dukungan-paslon-pilgub-jabar-di-daerah"
-    },
-    {
-        "title": "Tokoh dan Sesepuh, Kompak Ajak Masyarakat Ikut jadi Bagian Sejarah Ngadandan Kota Bandung",
-        "category": "Rejabar",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://rejabar.republika.co.id/berita/skes5u512/tokoh-dan-sesepuh-kompak-ajak-masyarakat-ikut-jadi-bagian-sejarah-ngadandan-kota-bandung"
-    },
-    {
-        "title": "Darmin: Kementerian BUMN Berhasil Terapkan Reformasi Struktural hingga Modernisasi Sistem",
-        "category": "Ekonomi",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/skerwa370/darmin-kementerian-bumn-berhasil-terapkan-reformasi-struktural-hingga-modernisasi-sistem"
-    },
-    {
-        "title": "Indra Sjafri Minta Polemik Welber Jardim tak Dibahas Lagi",
-        "category": "News",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/skes3y348/indra-sjafri-minta-polemik-welber-jardim-tak-dibahas-lagi"
-    },
-    {
-        "title": "Kompolnas Ungkap Kode 'Pesta' di Kasus Penemuan Tujuh Mayat di Kali Bekasi",
-        "category": "News",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/skert0409/kompolnas-ungkap-kode-pesta-di-kasus-penemuan-tujuh-mayat-di-kali-bekasi"
-    },
-    {
-        "title": "Intip Cara Cepat dan Mudah Miliki Rumah Idaman dengan KPR",
-        "category": "Ekonomi",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/skerpn370/intip-cara-cepat-dan-mudah-miliki-rumah-idaman-dengan-kpr"
-    },
-    {
-        "title": "Pansel Diharapkan Pilih 10 Capim KPK Bersih untuk Diserahkan ke Presiden",
-        "category": "News",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/skeqh4487/pansel-diharapkan-pilih-10-capim-kpk-bersih-untuk-diserahkan-ke-presiden"
-    },
-    {
-        "title": "Ratusan Hektare Lahan yang Disuplai Air oleh Jasa Tirta II di Majalaya Karawang Panen Raya",
-        "category": "Rejabar",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://rejabar.republika.co.id/berita/skerm1512/ratusan-hektare-lahan-yang-disuplai-air-oleh-jasa-tirta-ii-di-majalaya-karawang-panen-raya"
-    },
-    {
-        "title": "Tak Selesaikan Kewajiban Pabean, 1.850 Karton Kepiting Impor Dimusnahkan",
-        "category": "Beacukai",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://republika.co.id/berita/skergi370/tak-selesaikan-kewajiban-pabean-1-850-karton-kepiting-impor-dimusnahkan"
-    },
-    {
-        "title": "Pemprov Kalimantan Utara Dukung Hak Bahasa Isyarat",
-        "category": "News",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/skedm6451/pemprov-kalimantan-utara-dukung-hak-bahasa-isyarat"
-    },
-    {
-        "title": "Kemendagri Dukung BAZNAS Gali Potensi Zakat di Indonesia",
-        "category": "Khazanah",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sker8z430/kemendagri-dukung-baznas-gali-potensi-zakat-di-indonesia"
-    },
-    {
-        "title": "Peringati Maulid Nabi, Kapolres Indramayu Serukan Teladani Akhlak Rasulullah Saat Bertugas",
-        "category": "Rejabar",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://rejabar.republika.co.id/berita/skeqxg512/peringati-maulid-nabi-kapolres-indramayu-serukan-teladani-akhlak-rasulullah-saat-bertugas"
-    },
-    {
-        "title": "Bawaslu Diminta Tindak Aksi Pengrusakan Baliho Peserta Pilkada",
-        "category": "Rejakarta",
-        "publish_time": "26-09-2024 07:13",
-        "news_link": "https://republika.co.id/berita/skeny1430/bawaslu-diminta-tindak-aksi-pengrusakan-baliho-peserta-pilkada"
     }
 ]
