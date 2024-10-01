@@ -1,68 +1,212 @@
 [
     {
+        "title": "Permintaan EV Melemah, CEO Produsen Otomotif Berpidato di Hadapan Parlemen Italia",
+        "category": "Ekonomi",
+        "publish_time": "01-10-2024 12:24",
+        "news_link": "https://ekonomi.republika.co.id/berita/skofrv468/permintaan-ev-melemah-ceo-produsen-otomotif-berpidato-di-hadapan-parlemen-italia"
+    },
+    {
+        "title": "Erick Pastikan Pengelolaan Borobudur Berbasis Spiritual, Budaya, dan Edukasi",
+        "category": "Ekonomi",
+        "publish_time": "01-10-2024 12:20",
+        "news_link": "https://ekonomi.republika.co.id/berita/skoflp370/erick-pastikan-pengelolaan-borobudur-berbasis-spiritual-budaya-dan-edukasi"
+    },
+    {
+        "title": "Robot Pelayan, Gebrakan Baru Restoran di Kenya",
+        "category": "Video",
+        "publish_time": "01-10-2024 12:19",
+        "news_link": "https://tv.republika.co.id/berita/skofjh467/robot-pelayan-gebrakan-baru-restoran-di-kenya"
+    },
+    {
+        "title": "Jejak Cagub Ahmad Syaikhu: Penerus Kesuksesan Aher Pimpin Jabar Jadi Provinsi Termaju",
+        "category": "Rejabar",
+        "publish_time": "01-10-2024 12:19",
+        "news_link": "https://rejabar.republika.co.id/berita/skofjg282/jejak-cagub-ahmad-syaikhu-penerus-kesuksesan-aher-pimpin-jabar-jadi-provinsi-termaju"
+    },
+    {
+        "title": "Pramono akan Bertemu Anies dan Ahok Sebelum Debat Pilgub Jakarta 2024",
+        "category": "News",
+        "publish_time": "01-10-2024 12:10",
+        "news_link": "https://news.republika.co.id/berita/skof5e409/pramono-akan-bertemu-anies-dan-ahok-sebelum-debat-pilgub-jakarta-2024"
+    },
+    {
+        "title": "Bus Bawa Pelajar SD dan SMP Terbakar di Bangkok, Lebih dari 20 Orang Tewas",
+        "category": "News",
+        "publish_time": "01-10-2024 12:06",
+        "news_link": "https://news.republika.co.id/berita/skoeye483/bus-bawa-pelajar-sd-dan-smp-terbakar-di-bangkok-lebih-dari-20-orang-tewas"
+    },
+    {
+        "title": "2 Oktober Jadi Hari Batik Nasional, Ini Sejarah dan Ragam Motif Batik yang Populer",
+        "category": "Ameera",
+        "publish_time": "01-10-2024 12:05",
+        "news_link": "https://ameera.republika.co.id/berita/skoew9425/2-oktober-jadi-hari-batik-nasional-ini-sejarah-dan-ragam-motif-batik-yang-populer"
+    },
+    {
+        "title": "Pertumbuhan Penjualan Kendaraan Baru di AS pada Kuartal Ketiga Melambat",
+        "category": "Ekonomi",
+        "publish_time": "01-10-2024 12:04",
+        "news_link": "https://ekonomi.republika.co.id/berita/skoeuy468/pertumbuhan-penjualan-kendaraan-baru-di-as-pada-kuartal-ketiga-melambat"
+    },
+    {
+        "title": "Damaskus, Gerbang Kejayaan Peradaban Islam",
+        "category": "Khazanah",
+        "publish_time": "01-10-2024 12:03",
+        "news_link": "https://khazanah.republika.co.id/berita/skoetd458/damaskus-gerbang-kejayaan-peradaban-islam"
+    },
+    {
+        "title": "Deretan Artis yang Ikuti Pelantikan Anggota DPR Periode 2019-2029",
+        "category": "Visual",
+        "publish_time": "01-10-2024 12:00",
+        "news_link": "https://visual.republika.co.id/berita/skocvv375/deretan-artis-yang-ikuti-pelantikan-anggota-dpr-periode-20192029"
+    },
+    {
+        "title": "Resmi Dilantik, Putri Zulhas Siap Perjuangkan Perempuan, Anak, dan UMKM",
+        "category": "News",
+        "publish_time": "01-10-2024 11:59",
+        "news_link": "https://news.republika.co.id/berita/skoa3i318/resmi-dilantik-putri-zulhas-siap-perjuangkan-perempuan-anak-dan-umkm"
+    },
+    {
+        "title": "Usut Tuntas Kasus Pembubaran Diskusi di Kemang, Polisi Masih Periksa CCTV",
+        "category": "News",
+        "publish_time": "01-10-2024 11:46",
+        "news_link": "https://news.republika.co.id/berita/skoe0n484/usut-tuntas-kasus-pembubaran-diskusi-di-kemang-polisi-masih-periksa-cctv"
+    },
+    {
+        "title": "Konfigurasi Paper Mob Jadi Kenangan tak Terlupakan Mahasiswa Baru di SEMOT Universitas BSI",
+        "category": "News",
+        "publish_time": "01-10-2024 11:45",
+        "news_link": "https://news.republika.co.id/berita/skobgr490/konfigurasi-paper-mob-jadi-kenangan-tak-terlupakan-mahasiswa-baru-di-semot-universitas-bsi"
+    },
+    {
+        "title": "Omah Ropingen: Dari Simpul Perang Diponegoro Hingga Pendirian PKI",
+        "category": "Network",
+        "publish_time": "01-10-2024 11:44",
+        "news_link": "https://algebra.republika.co.id/posts/333291/omah-ropingen-dari-simpul-perang-diponegoro-hingga-pendirian-pki"
+    },
+    {
+        "title": "Cuaca Cerah Berawan di Jakarta Selatan",
+        "category": "Network",
+        "publish_time": "01-10-2024 11:37",
+        "news_link": "https://signal.republika.co.id/posts/333245/cuaca-cerah-berawan-di-jakarta-selatan"
+    },
+    {
+        "title": "Cuaca Cerah Berawan di Jakarta Selatan",
+        "category": "Network",
+        "publish_time": "01-10-2024 11:37",
+        "news_link": "https://signal.republika.co.id/posts/333245/cuaca-cerah-berawan-di-jakarta-selatan"
+    },
+    {
+        "title": "Pengamat: Rekomendasi Pansus Angket Haji Offside",
+        "category": "Khazanah",
+        "publish_time": "01-10-2024 11:33",
+        "news_link": "https://khazanah.republika.co.id/berita/skodfh458/pengamat-rekomendasi-pansus-angket-haji-offside"
+    },
+    {
+        "title": "Omah Ropingen Kota Gede: Dari Simpul Perang Diponegoro Hingga Simpul Paradoks Politik Konflik Ideolo",
+        "category": "Network",
+        "publish_time": "01-10-2024 11:33",
+        "news_link": "https://algebra.republika.co.id/posts/333288/omah-ropingen-kota-gede-dari-simpul-perang-diponegoro-hingga-simpul-paradoks-politik-konflik-ideolo"
+    },
+    {
+        "title": "Aksi Peringati 2 Tahun Tragedi Kanjuruhan",
+        "category": "Visual",
+        "publish_time": "01-10-2024 11:30",
+        "news_link": "https://visual.republika.co.id/berita/skocmz375/aksi-peringati-2-tahun-tragedi-kanjuruhan"
+    },
+    {
+        "title": "Pendaftaran PLN Journalist Award 2024 Tinggal Sebulan Lagi, Kirimkan Karya Terbaikmu",
+        "category": "Ekonomi",
+        "publish_time": "01-10-2024 11:25",
+        "news_link": "https://ekonomi.republika.co.id/berita/skod0k370/pendaftaran-pln-journalist-award-2024-tinggal-sebulan-lagi-kirimkan-karya-terbaikmu"
+    },
+    {
+        "title": "Berikut Daftar Empat Wakil Ketua DPR yang Mendampingi Puan",
+        "category": "News",
+        "publish_time": "01-10-2024 11:25",
+        "news_link": "https://news.republika.co.id/berita/skod0h484/berikut-daftar-empat-wakil-ketua-dpr-yang-mendampingi-puan"
+    },
+    {
+        "title": "Dasco Ungkap Ahmad Muzani Maju Jadi Calon Ketua MPR",
+        "category": "News",
+        "publish_time": "01-10-2024 11:25",
+        "news_link": "https://news.republika.co.id/berita/skocui484/dasco-ungkap-ahmad-muzani-maju-jadi-calon-ketua-mpr"
+    },
+    {
+        "title": "Kominfo Luncurkan Sistem Nasional Peringatan Dini Kebencanaan",
+        "category": "Visual",
+        "publish_time": "01-10-2024 11:25",
+        "news_link": "https://visual.republika.co.id/berita/skociv375/kominfo-luncurkan-sistem-nasional-peringatan-dini-kebencanaan"
+    },
+    {
+        "title": "Cari Rekomendasi Merchant Pakaian Terbaik? Tanya Sabrina Saja",
+        "category": "Ekonomi",
+        "publish_time": "01-10-2024 11:25",
+        "news_link": "https://ekonomi.republika.co.id/berita/skochs370/cari-rekomendasi-merchant-pakaian-terbaik-tanya-sabrina-saja"
+    },
+    {
         "title": "FIFA Gagalkan Malaysia Naturalisasi Mats Deijl, Netizen Negeri Jiran Malah Cibir Indonesia",
         "category": "News",
-        "publish_time": "01-10-2024 11:09",
+        "publish_time": "01-10-2024 11:25",
         "news_link": "https://news.republika.co.id/berita/skocbl377/fifa-gagalkan-malaysia-naturalisasi-mats-deijl-netizen-negeri-jiran-malah-cibir-indonesia"
     },
     {
         "title": "Mengapa Allah belum Menolong Palestina?",
         "category": "Khazanah",
-        "publish_time": "01-10-2024 11:06",
+        "publish_time": "01-10-2024 11:25",
         "news_link": "https://khazanah.republika.co.id/berita/skoc7f458/mengapa-allah-belum-menolong-palestina"
     },
     {
         "title": "Usai Dilantik Jadi Anggota DPR-RI, Ibas Sampaikan Terima Kasih dan Janji untuk Rakyat",
         "category": "Khazanah",
-        "publish_time": "01-10-2024 11:02",
+        "publish_time": "01-10-2024 11:25",
         "news_link": "https://khazanah.republika.co.id/berita/skoc0b320/usai-dilantik-jadi-anggota-dprri-ibas-sampaikan-terima-kasih-dan-janji-untuk-rakyat"
     },
     {
         "title": "Korut: Israel Kebal Hukum Meski Telah Bantai 41.500 Warga Palestina karena Didukung AS",
         "category": "News",
-        "publish_time": "01-10-2024 10:57",
+        "publish_time": "01-10-2024 11:25",
         "news_link": "https://news.republika.co.id/berita/skobrh409/korut-israel-kebal-hukum-meski-telah-bantai-41500-warga-palestina-karena-didukung-as"
     },
     {
         "title": "Keseruan UKM dalam Merekrut Anggota Baru di Ormawa Expo Universitas BSI 2024",
         "category": "News",
-        "publish_time": "01-10-2024 10:57",
+        "publish_time": "01-10-2024 11:25",
         "news_link": "https://news.republika.co.id/berita/skobr6490/keseruan-ukm-dalam-merekrut-anggota-baru-di-ormawa-expo-universitas-bsi-2024"
     },
     {
         "title": "Ini Kronologi Mahasiswa Teknik Fisika ITB Ditemukan Meninggal di Kamar Kos",
         "category": "Rejabar",
-        "publish_time": "01-10-2024 10:56",
+        "publish_time": "01-10-2024 11:25",
         "news_link": "https://rejabar.republika.co.id/berita/skobq0512/ini-kronologi-mahasiswa-teknik-fisika-itb-ditemukan-meninggal-di-kamar-kos"
     },
     {
         "title": "Gantikan Sri Rahayu dan Artelia Dahlan, Cucu Soekarno: Tak Ada Intervensi, Putusan DPP",
         "category": "News",
-        "publish_time": "01-10-2024 10:47",
+        "publish_time": "01-10-2024 10:25",
         "news_link": "https://news.republika.co.id/berita/skobc3377/gantikan-sri-rahayu-dan-artelia-dahlan-cucu-soekarno-tak-ada-intervensi-putusan-dpp"
     },
     {
         "title": "ITB Ungkap Kronologi Mahasiswanya Ditemukan Meninggal di Kamar Kos",
         "category": "News",
-        "publish_time": "01-10-2024 10:40",
+        "publish_time": "01-10-2024 10:25",
         "news_link": "https://news.republika.co.id/berita/skob0c409/itb-ungkap-kronologi-mahasiswanya-ditemukan-meninggal-di-kamar-kos"
     },
     {
         "title": "Mardani Ali Sera: Jumlah Komisi di DPR Tergantung Kementerian",
         "category": "News",
-        "publish_time": "01-10-2024 10:40",
+        "publish_time": "01-10-2024 10:25",
         "news_link": "https://news.republika.co.id/berita/skoaza484/mardani-ali-sera-jumlah-komisi-di-dpr-tergantung-kementerian"
     },
     {
         "title": "Rano Si Doel Klaim tak Ada Persiapan Khusus untuk Debat Pertama Pilkada 2024",
         "category": "News",
-        "publish_time": "01-10-2024 10:37",
+        "publish_time": "01-10-2024 10:25",
         "news_link": "https://news.republika.co.id/berita/sko88v451/rano-si-doel-klaim-tak-ada-persiapan-khusus-untuk-debat-pertama-pilkada-2024"
     },
     {
         "title": "Profil Pahlawan Revolusi, Pierre Andreas Tendean",
         "category": "News",
-        "publish_time": "01-10-2024 10:28",
+        "publish_time": "01-10-2024 10:25",
         "news_link": "https://news.republika.co.id/berita/skoaey458/profil-pahlawan-revolusi-pierre-andreas-tendean"
     },
     {
@@ -74,229 +218,85 @@
     {
         "title": "Israel Lancarkan Serangan Darat ke Lebanon, UEA Nyatakan Kekhawatiran Mendalam",
         "category": "News",
-        "publish_time": "01-10-2024 10:21",
+        "publish_time": "01-10-2024 10:25",
         "news_link": "https://news.republika.co.id/berita/skoa42409/israel-lancarkan-serangan-darat-ke-lebanon-uea-nyatakan-kekhawatiran-mendalam"
     },
     {
         "title": "Kebijakan Moneter Mulai Longgar, Ini Pantauan OJK Terhadap Sektor Jasa Keuangan",
         "category": "Ekonomi",
-        "publish_time": "01-10-2024 10:19",
+        "publish_time": "01-10-2024 10:25",
         "news_link": "https://ekonomi.republika.co.id/berita/skoa17490/kebijakan-moneter-mulai-longgar-ini-pantauan-ojk-terhadap-sektor-jasa-keuangan"
     },
     {
         "title": "Profil Pahlawan Revolusi, Sutoyo Siswomiharjo",
         "category": "News",
-        "publish_time": "01-10-2024 10:16",
+        "publish_time": "01-10-2024 10:25",
         "news_link": "https://news.republika.co.id/berita/sko9vu458/profil-pahlawan-revolusi-sutoyo-siswomiharjo"
     },
     {
         "title": "Deflasi Lima Bulan Beruntun, Apakah Karena Penurunan Daya Beli? Ini Penjelasan BPS",
         "category": "Ekonomi",
-        "publish_time": "01-10-2024 10:11",
+        "publish_time": "01-10-2024 10:25",
         "news_link": "https://ekonomi.republika.co.id/berita/sko9mv370/deflasi-lima-bulan-beruntun-apakah-karena-penurunan-daya-beli-ini-penjelasan-bps"
     },
     {
         "title": "Bea Cukai Tindak Jutaan Batang Rokok Ilegal di Kendari",
         "category": "Beacukai",
-        "publish_time": "01-10-2024 10:11",
+        "publish_time": "01-10-2024 10:25",
         "news_link": "https://republika.co.id/berita/sko9jx490/bea-cukai-tindak-jutaan-batang-rokok-ilegal-di-kendari"
     },
     {
         "title": "Postingan BamBam GOT7 Bikin Fans Khawatir, Tulis Kalimat Perpisahan",
         "category": "Ameera",
-        "publish_time": "01-10-2024 10:11",
+        "publish_time": "01-10-2024 10:25",
         "news_link": "https://ameera.republika.co.id/berita/sko9bv425/postingan-bambam-got7-bikin-fans-khawatir-tulis-kalimat-perpisahan"
     },
     {
         "title": "BPJPH Klaim Beer dan Wine yang Viral Dapatkan Penetapan dari Komisi Fatwa MUI dan BPJPH",
         "category": "Khazanah",
-        "publish_time": "01-10-2024 10:11",
+        "publish_time": "01-10-2024 10:25",
         "news_link": "https://khazanah.republika.co.id/berita/sko9az483/bpjph-klaim-beer-dan-wine-yang-viral-dapatkan-penetapan-dari-komisi-fatwa-mui-dan-bpjph"
     },
     {
         "title": "Jejak Cagub Jabar Dedi Mulyadi: Pernah Berseteru dengan Ulama, Praktikkan Kemusyrikan",
         "category": "Rejabar",
-        "publish_time": "01-10-2024 10:11",
+        "publish_time": "01-10-2024 10:25",
         "news_link": "https://rejabar.republika.co.id/berita/sko98m512/jejak-cagub-jabar-dedi-mulyadi-pernah-berseteru-dengan-ulama-praktikkan-kemusyrikan"
     },
     {
         "title": "Siap Hasilkan Ahli, Prodi Informatika Program Doktor UNM akan Gelar Kuliah Perdana",
         "category": "News",
-        "publish_time": "01-10-2024 10:11",
+        "publish_time": "01-10-2024 10:25",
         "news_link": "https://news.republika.co.id/berita/sko98e490/siap-hasilkan-ahli-prodi-informatika-program-doktor-unm-akan-gelar-kuliah-perdana"
     },
     {
         "title": "Profil Pahlawan Revolusi, Katamso dari Yogyakarta",
         "category": "News",
-        "publish_time": "01-10-2024 10:11",
+        "publish_time": "01-10-2024 10:25",
         "news_link": "https://news.republika.co.id/berita/sko989458/profil-pahlawan-revolusi-katamso-dari-yogyakarta"
     },
     {
         "title": "Sektor Energi Pimpin Penguatan IHSG",
         "category": "Ekonomi",
-        "publish_time": "01-10-2024 10:11",
+        "publish_time": "01-10-2024 09:25",
         "news_link": "https://ekonomi.republika.co.id/berita/sko8ci370/sektor-energi-pimpin-penguatan-ihsg"
     },
     {
         "title": "Tersembunyi di Barang Pekerja Migran, 12 Kilogram Sabu Ditemukan Petugas",
         "category": "Beacukai",
-        "publish_time": "01-10-2024 10:11",
+        "publish_time": "01-10-2024 09:25",
         "news_link": "https://republika.co.id/berita/sko8oj490/tersembunyi-di-barang-pekerja-migran-12-kilogram-sabu-ditemukan-petugas"
     },
     {
         "title": "Melejit, Kunjungan Wisatawan Mancanegara pada Agustus 2024 Naik 18,3 Persen",
         "category": "Ekonomi",
-        "publish_time": "01-10-2024 10:11",
+        "publish_time": "01-10-2024 09:25",
         "news_link": "https://ekonomi.republika.co.id/berita/sko8e3490/melejit-kunjungan-wisatawan-mancanegara-pada-agustus-2024-naik-183-persen"
     },
     {
         "title": "Deflasi Lima Bulan Beruntun: Tanda Daya Beli Menurun, Ekonomi Sedang tidak Baik-Baik Saja",
         "category": "News",
-        "publish_time": "01-10-2024 09:11",
+        "publish_time": "01-10-2024 09:25",
         "news_link": "https://news.republika.co.id/berita/sko869409/deflasi-lima-bulan-beruntun-tanda-daya-beli-menurun-ekonomi-sedang-tidak-baikbaik-saja"
-    },
-    {
-        "title": "Kredit Perbankan pada Agustus 2024 Masih Tumbuh Double Digit",
-        "category": "Ekonomi",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sko843490/kredit-perbankan-pada-agustus-2024-masih-tumbuh-double-digit"
-    },
-    {
-        "title": "Transformasi Energi Hijau Tingkatkan Efisiensi Petrokimia Gresik",
-        "category": "Ekonomi",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sko2q8370/transformasi-energi-hijau-tingkatkan-efisiensi-petrokimia-gresik"
-    },
-    {
-        "title": "Prabowo Tambah Jumlah Kabinet, Ketum GP Ansor: Relevan Jika Disiapkan Hadapi Tantangan Eko",
-        "category": "Khazanah",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sko82b451/prabowo-tambah-jumlah-kabinet-ketum-gp-ansor-relevan-jika-disiapkan-hadapi-tantangan-eko"
-    },
-    {
-        "title": "Duh! Malaysia Gagal Naturalisasi Pemain Belanda Mats Deijl, Ternyata Ini Alasan FIFA",
-        "category": "News",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sko7hc377/duh-malaysia-gagal-naturalisasi-pemain-belanda-mats-deijl-ternyata-ini-alasan-fifa"
-    },
-    {
-        "title": "Agustus 2024, Jumlah Wisnas Turun Liburan Sekolah Berakhir Jadi Penyebabnya",
-        "category": "Ekonomi",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sko7fs370/agustus-2024-jumlah-wisnas-turun-liburan-sekolah-berakhir-jadi-penyebabnya"
-    },
-    {
-        "title": "Momen Hangat Once Mekel Berjumpa Ari Lasso di Gedung MPR/DPR",
-        "category": "Ameera",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://ameera.republika.co.id/berita/sko7eu425/momen-hangat-once-mekel-berjumpa-ari-lasso-di-gedung-mprdpr"
-    },
-    {
-        "title": "Sudah Tersertifikasi, BPJPH Jamin Tuyul, Tuak, Hingga Wine Halal Terjamin Kehalalannya",
-        "category": "Khazanah",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sko76p483/sudah-tersertifikasi-bpjph-jamin-tuyul-tuak-hingga-wine-halal-terjamin-kehalalannya"
-    },
-    {
-        "title": "10 Tahun Pemerintahan Jokowi Kukuhkan Posisi RI di Kancah Internasional",
-        "category": "News",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sko6s8451/10-tahun-pemerintahan-jokowi-kukuhkan-posisi-ri-di-kancah-internasional"
-    },
-    {
-        "title": "PKS Dapat Informasi Jumlah Kementerian Lebih 40 dan Ada 13 Komisi DPR",
-        "category": "News",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sko6o5484/pks-dapat-informasi-jumlah-kementerian-lebih-40-dan-ada-13-komisi-dpr"
-    },
-    {
-        "title": "Pertempuran Sengit Pecah, Tentara Elite Israel Versus Radwan, Pasukan Khusus Hizbullah",
-        "category": "News",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sko6ct377/pertempuran-sengit-pecah-tentara-elite-israel-versus-radwan-pasukan-khusus-hizbullah"
-    },
-    {
-        "title": "Puluhan Warga di Cianjur jadi Korban Keracunan Makanan, Sebanyak 44 Orang Masih Dirawat",
-        "category": "Rejabar",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sko69y512/puluhan-warga-di-cianjur-jadi-korban-keracunan-makanan-sebanyak-44-orang-masih-dirawat"
-    },
-    {
-        "title": "Momen Pelantikan Anggota DPR dan DPD Periode 2024-2029",
-        "category": "Visual",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://visual.republika.co.id/berita/sko69g375/momen-pelantikan-anggota-dpr-dan-dpd-periode-20242029"
-    },
-    {
-        "title": "Viral Nama Produk Tuak, Beer, Wine dapat Sertifikat Halal, BPJPH Jelaskan Persoalannya",
-        "category": "Khazanah",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sko60s430/viral-nama-produk-tuak-beer-wine-dapat-sertifikat-halal-bpjph-jelaskan-persoalannya"
-    },
-    {
-        "title": "Ketua PDIP Pastikan Pertemuan Megawati-Prabowo Menghitung Hari",
-        "category": "News",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sko5ml484/ketua-pdip-pastikan-pertemuan-megawatiprabowo-menghitung-hari"
-    },
-    {
-        "title": "NGERIIII....Tuak, Beer, Wine Dapat Sertifikat Halal dari BPJPH, IHW: Audit Ulang!",
-        "category": "Network",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://gincumanis.com/posts/333220/ngeriiii-tuak-beer-wine-dapat-sertifikat-halal-dari-bpjph-ihw-audit-ulang-"
-    },
-    {
-        "title": "Seleksi PPPK di Kabupaten Majalengka Buka 500 Formasi",
-        "category": "Network",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://gincumanis.com/posts/333221/seleksi-pppk-di-kabupaten-majalengka-buka-500-formasi"
-    },
-    {
-        "title": "Mengapa Rasa Sakit Itu Sangat Melelahkan?",
-        "category": "Network",
-        "publish_time": "01-10-2024 09:11",
-        "news_link": "https://impresiupdate.id/posts/333222/mengapa-rasa-sakit-itu-sangat-melelahkan-"
-    },
-    {
-        "title": "Pj Gubernur Jabar Bey Pimpin Upacara Peringatan Hari Kesaktian Pancasila",
-        "category": "Rejabar",
-        "publish_time": "01-10-2024 08:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sko5hi512/pj-gubernur-jabar-bey-pimpin-upacara-peringatan-hari-kesaktian-pancasila"
-    },
-    {
-        "title": "Dua Perempuan di Sumedang Curi Sepeda Motor dengan Meracuni Korbannya Pakai Racun Tikus",
-        "category": "Rejabar",
-        "publish_time": "01-10-2024 08:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sko57f512/dua-perempuan-di-sumedang-curi-sepeda-motor-dengan-meracuni-korbannya-pakai-racun-tikus"
-    },
-    {
-        "title": "Duo Perempuan Curi Motor dengan Modus Kasih Racun Tikus ke Korban",
-        "category": "News",
-        "publish_time": "01-10-2024 08:11",
-        "news_link": "https://news.republika.co.id/berita/sko56h377/duo-perempuan-curi-motor-dengan-modus-kasih-racun-tikus-ke-korban"
-    },
-    {
-        "title": "Sekjen PAN Sebut Ada Wacana Komisi di DPR Ditambah Jadi 13",
-        "category": "News",
-        "publish_time": "01-10-2024 08:11",
-        "news_link": "https://news.republika.co.id/berita/sko4m0484/sekjen-pan-sebut-ada-wacana-komisi-di-dpr-ditambah-jadi-13"
-    },
-    {
-        "title": "Bapenda Jabar Kembali Buat Program Pemutihan Pajak Kendaraan, Ini Persyaratannya",
-        "category": "Rejabar",
-        "publish_time": "01-10-2024 08:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sko4f5512/bapenda-jabar-kembali-buat-program-pemutihan-pajak-kendaraan-ini-persyaratannya"
-    },
-    {
-        "title": "Surya Paloh: Nasdem Pilih Saan Mustopa Jadi Pimpinan DPR",
-        "category": "News",
-        "publish_time": "01-10-2024 08:11",
-        "news_link": "https://news.republika.co.id/berita/sko467377/surya-paloh-nasdem-pilih-saan-mustopa-jadi-pimpinan-dpr"
-    },
-    {
-        "title": "KPK Panggil Dua Mantan Dirjen Bea Cukai Terkait Kasus Dugaan Korupsi",
-        "category": "News",
-        "publish_time": "01-10-2024 08:11",
-        "news_link": "https://news.republika.co.id/berita/sko3rx487/kpk-panggil-dua-mantan-dirjen-bea-cukai-terkait-kasus-dugaan-korupsi"
     }
 ]
