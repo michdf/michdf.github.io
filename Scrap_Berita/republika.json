@@ -1,62 +1,206 @@
 [
     {
+        "title": "DIY Alami Deflasi Selama September 2024",
+        "category": "Rejogja",
+        "publish_time": "02-10-2024 10:09",
+        "news_link": "https://rejogja.republika.co.id/berita/skq1ph291/diy-alami-deflasi-selama-september-2024"
+    },
+    {
+        "title": "Pertamina Patra Niaga: Pendaftar QR Pertalite Capai 5,5 Juta Kendaraan",
+        "category": "Ekonomi",
+        "publish_time": "02-10-2024 10:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/skq41e490/pertamina-patra-niaga-pendaftar-qr-pertalite-capai-55-juta-kendaraan"
+    },
+    {
+        "title": "Cara Menghindari Pertengkaran tentang Uang dengan Pasangan",
+        "category": "Ameera",
+        "publish_time": "02-10-2024 10:04",
+        "news_link": "https://ameera.republika.co.id/berita/skq3yy425/cara-menghindari-pertengkaran-tentang-uang-dengan-pasangan"
+    },
+    {
+        "title": "Deflasi Lima Bulan Berturut-turut, Airlangga: Berkat Kerja Pemerintah Tekan Inflasi",
+        "category": "Ekonomi",
+        "publish_time": "02-10-2024 10:02",
+        "news_link": "https://ekonomi.republika.co.id/berita/skq3vj370/deflasi-lima-bulan-berturutturut-airlangga-berkat-kerja-pemerintah-tekan-inflasi"
+    },
+    {
+        "title": "BUMN Fokus Benahi Digitalisasi Sistem Logistik Indonesia",
+        "category": "Ekonomi",
+        "publish_time": "02-10-2024 10:01",
+        "news_link": "https://ekonomi.republika.co.id/berita/skq1f9490/bumn-fokus-benahi-digitalisasi-sistem-logistik-indonesia"
+    },
+    {
+        "title": "Semarak Hari Batik Nasional di Museum Batik Indonesia",
+        "category": "Visual",
+        "publish_time": "02-10-2024 10:00",
+        "news_link": "https://visual.republika.co.id/berita/skpztk375/semarak-hari-batik-nasional-di-museum-batik-indonesia"
+    },
+    {
+        "title": "Disebut BPJPH Periksa 32 Produk Wine dan Beer Halal, Ini Klarifikasi LPPOM MUI",
+        "category": "Khazanah",
+        "publish_time": "02-10-2024 09:54",
+        "news_link": "https://khazanah.republika.co.id/berita/skq3i5483/disebut-bpjph-periksa-32-produk-wine-dan-beer-halal-ini-klarifikasi-lppom-mui"
+    },
+    {
+        "title": "Eks Wali Kota Cimahi Ajay M Priatna Bebas dari Lapas Sukamiskin",
+        "category": "Rejabar",
+        "publish_time": "02-10-2024 09:51",
+        "news_link": "https://rejabar.republika.co.id/berita/skq3eb512/eks-wali-kota-cimahi-ajay-m-priatna-bebas-dari-lapas-sukamiskin"
+    },
+    {
+        "title": "Calon pimpinan MPR, PKS Sebut HNW, PKB Usulkan Rusdi Kirana",
+        "category": "News",
+        "publish_time": "02-10-2024 09:46",
+        "news_link": "https://news.republika.co.id/berita/skq351377/calon-pimpinan-mpr-pks-sebut-hnw-pkb-usulkan-rusdi-kirana"
+    },
+    {
+        "title": "PKB Tunjuk Bos Lion Air Jadi Pimpinan MPR, PKS Utus HNW",
+        "category": "News",
+        "publish_time": "02-10-2024 09:45",
+        "news_link": "https://news.republika.co.id/berita/skq33u484/pkb-tunjuk-bos-lion-air-jadi-pimpinan-mpr-pks-utus-hnw"
+    },
+    {
+        "title": "Faktor Penyebab Elektabilitas Khofifah-Emil Tembus 61,2 Persen Menurut Indikator Politik",
+        "category": "News",
+        "publish_time": "02-10-2024 09:44",
+        "news_link": "https://news.republika.co.id/berita/skq32i409/faktor-penyebab-elektabilitas-khofifahemil-tembus-612-persen-menurut-indikator-politik"
+    },
+    {
+        "title": "Saat Tiada Lagi 'Nge-Bong' di Bong Suwung",
+        "category": "Rejogja",
+        "publish_time": "02-10-2024 09:44",
+        "news_link": "https://rejogja.republika.co.id/berita/skq327291/saat-tiada-lagi-ngebong-di-bong-suwung"
+    },
+    {
+        "title": "Perkuat Komitmen Proyek, Agung Podomoro Resmikan Show Unit di Karawang",
+        "category": "Ekonomi",
+        "publish_time": "02-10-2024 09:41",
+        "news_link": "https://ekonomi.republika.co.id/berita/skq1c7291/perkuat-komitmen-proyek-agung-podomoro-resmikan-show-unit-di-karawang"
+    },
+    {
+        "title": "Israel Ancam Serang Kilang Minyak Iran Sebagai Balasan",
+        "category": "News",
+        "publish_time": "02-10-2024 09:39",
+        "news_link": "https://news.republika.co.id/berita/skq2ty377/israel-ancam-serang-kilang-minyak-iran-sebagai-balasan"
+    },
+    {
+        "title": "Rahasia dan Hikmah Sifat Pemaaf dalam Kehidupan",
+        "category": "Retizen",
+        "publish_time": "02-10-2024 09:38",
+        "news_link": "https://retizen.republika.co.id/posts/333397/rahasia-dan-hikmah-sifat-pemaaf-dalam-kehidupan"
+    },
+    {
+        "title": "Iran Peringatkan AS tidak Ikut Campur Urusannya dengan Israel",
+        "category": "News",
+        "publish_time": "02-10-2024 09:37",
+        "news_link": "https://news.republika.co.id/berita/skq2qr348/iran-peringatkan-as-tidak-ikut-campur-urusannya-dengan-israel"
+    },
+    {
+        "title": "Ikang Fawzi Ikut Turunkan Jenazah Marissa Haque: Ridho, Saya Ridho",
+        "category": "Ameera",
+        "publish_time": "02-10-2024 09:34",
+        "news_link": "https://ameera.republika.co.id/berita/skq2lp425/ikang-fawzi-ikut-turunkan-jenazah-marissa-haque-ridho-saya-ridho"
+    },
+    {
+        "title": "Hizbullah Sergap Pasukan IDF, Puluhan Ambulans Israel Angkut Korban",
+        "category": "News",
+        "publish_time": "02-10-2024 09:34",
+        "news_link": "https://news.republika.co.id/berita/skq2kn393/hizbullah-sergap-pasukan-idf-puluhan-ambulans-israel-angkut-korban"
+    },
+    {
+        "title": "Jadi Finisher Berlin Marathon 2024, Menkes Budi Target Tuntaskan 6 World Major Marathon",
+        "category": "Network",
+        "publish_time": "02-10-2024 09:29",
+        "news_link": "https://diagnosa.id/posts/333424/jadi-finisher-berlin-marathon-2024-menkes-budi-target-tuntaskan-6-world-major-marathon"
+    },
+    {
+        "title": "Yu Cek, Peraturan Pelaksana UU Kesehatan",
+        "category": "Network",
+        "publish_time": "02-10-2024 09:28",
+        "news_link": "https://diagnosa.id/posts/333423/yu-cek-peraturan-pelaksana-uu-kesehatan"
+    },
+    {
+        "title": "Urai Kemacetan, Exit Tol Sementara KM 149 Gedebage Dibangun",
+        "category": "Rejabar",
+        "publish_time": "02-10-2024 09:22",
+        "news_link": "https://rejabar.republika.co.id/berita/skq21d512/urai-kemacetan-exit-tol-sementara-km-149-gedebage-dibangun"
+    },
+    {
+        "title": "Ekonom Ungkap Sebab Tinggi Biaya Logistik Indonesia",
+        "category": "Ekonomi",
+        "publish_time": "02-10-2024 09:21",
+        "news_link": "https://ekonomi.republika.co.id/berita/skq202490/ekonom-ungkap-sebab-tinggi-biaya-logistik-indonesia"
+    },
+    {
+        "title": "BPKH-Rumah Zakat Serahkan Bantuan Tanggap Darurat Gempa Bumi di Kabupaten Bandung",
+        "category": "News",
+        "publish_time": "02-10-2024 09:20",
+        "news_link": "https://news.republika.co.id/berita/skq1x6370/bpkhrumah-zakat-serahkan-bantuan-tanggap-darurat-gempa-bumi-di-kabupaten-bandung"
+    },
+    {
+        "title": "Alasan Ultraman Hadir di Pelantikan Anggota DPR RI",
+        "category": "Video",
+        "publish_time": "02-10-2024 09:14",
+        "news_link": "https://tv.republika.co.id/berita/skq1op418/alasan-ultraman-hadir-di-pelantikan-anggota-dpr-ri"
+    },
+    {
         "title": "Golkar Usulkan Meutya Hafid Jadi Menteri di Kabinet Prabowo",
         "category": "News",
-        "publish_time": "02-10-2024 09:00",
+        "publish_time": "02-10-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/skq10t377/golkar-usulkan-meutya-hafid-jadi-menteri-di-kabinet-prabowo"
     },
     {
         "title": "Layanan Jemput Bola Sampah Organik di Permukiman Padat Kota Bandung",
         "category": "Visual",
-        "publish_time": "02-10-2024 09:00",
+        "publish_time": "02-10-2024 09:13",
         "news_link": "https://visual.republika.co.id/berita/skpzma375/layanan-jemput-bola-sampah-organik-di-permukiman-padat-kota-bandung"
     },
     {
         "title": "Pasangan ASIH Ajak Warga Bandung Nobar Film Habibie Ainun di Mobil Pab Koling",
         "category": "Rejabar",
-        "publish_time": "02-10-2024 08:56",
+        "publish_time": "02-10-2024 09:13",
         "news_link": "https://rejabar.republika.co.id/berita/skq0ua512/pasangan-asih-ajak-warga-bandung-nobar-film-habibie-ainun-di-mobil-pab-koling"
     },
     {
         "title": "Indonesia Bentuk Aliansi Pendanaan Iklim Bagi Negara Berkembang",
         "category": "Video",
-        "publish_time": "02-10-2024 08:53",
+        "publish_time": "02-10-2024 09:13",
         "news_link": "https://tv.republika.co.id/berita/skpy0u467/indonesia-bentuk-aliansi-pendanaan-iklim-bagi-negara-berkembang"
     },
     {
         "title": "Erick Perkuat Ekosistem BUMN Tekan Biaya Logistik Nasional",
         "category": "Ekonomi",
-        "publish_time": "02-10-2024 08:52",
+        "publish_time": "02-10-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/skq0mp490/erick-perkuat-ekosistem-bumn-tekan-biaya-logistik-nasional"
     },
     {
         "title": "UGM Gelar Digital Society Week 2024, Bahas Interaksi Teknologi Digital dan Masyarakat",
         "category": "Rejogja",
-        "publish_time": "02-10-2024 08:40",
+        "publish_time": "02-10-2024 08:13",
         "news_link": "https://rejogja.republika.co.id/berita/skq02o291/ugm-gelar-digital-society-week-2024-bahas-interaksi-teknologi-digital-dan-masyarakat"
     },
     {
         "title": "Urgensi Masjid Hadapi Isu Pemanasan Global",
         "category": "Khazanah",
-        "publish_time": "02-10-2024 08:34",
+        "publish_time": "02-10-2024 08:13",
         "news_link": "https://khazanah.republika.co.id/berita/skpztg483/urgensi-masjid-hadapi-isu-pemanasan-global"
     },
     {
         "title": "Sekjen Tepis Kursi Ketua MPR Sudah Tradisi Diisi Kader Golkar",
         "category": "News",
-        "publish_time": "02-10-2024 08:32",
+        "publish_time": "02-10-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/skpzq4484/sekjen-tepis-kursi-ketua-mpr-sudah-tradisi-diisi-kader-golkar"
     },
     {
         "title": "BNN Ungkap Laboratorium Narkoba di Rumah Mewah Serang Banten",
         "category": "Visual",
-        "publish_time": "02-10-2024 08:30",
+        "publish_time": "02-10-2024 08:13",
         "news_link": "https://visual.republika.co.id/berita/skpzi2375/bnn-ungkap-laboratorium-narkoba-di-rumah-mewah-serang-banten"
     },
     {
         "title": "15 Produk Halal RI Jadi yang Terbesar di Negara-Negara OKI",
         "category": "Khazanah",
-        "publish_time": "02-10-2024 08:21",
+        "publish_time": "02-10-2024 08:13",
         "news_link": "https://khazanah.republika.co.id/berita/skpz7y483/15-produk-halal-ri-jadi-yang-terbesar-di-negaranegara-oki"
     },
     {
@@ -154,149 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "02-10-2024 07:13",
         "news_link": "https://ekonomi.republika.co.id/berita/skpww3490/hari-batik-nasional-pnm-berdayakan-pengrajin-batik-lewat-ecoprint-di-kampung-madani"
-    },
-    {
-        "title": "Selama Sebulan, Polres Indramayu Ungkap Belasan Kasus Narkoba",
-        "category": "Rejabar",
-        "publish_time": "02-10-2024 07:13",
-        "news_link": "https://rejabar.republika.co.id/berita/skpwnz512/selama-sebulan-polres-indramayu-ungkap-belasan-kasus-narkoba"
-    },
-    {
-        "title": "Inovatif, Kreatif, Spektakuler! Tiga Kata Buat SEMOT 2024 Universitas BSI",
-        "category": "News",
-        "publish_time": "02-10-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/skpwfp490/inovatif-kreatif-spektakuler-tiga-kata-buat-semot-2024-universitas-bsi"
-    },
-    {
-        "title": "President Jokowi Orders Evacuation of Indonesia Citizens from Lebanon ASAP!",
-        "category": "En",
-        "publish_time": "2 hours ago",
-        "news_link": "https://en.republika.co.id/berita/skpvnj415/president-jokowi-orders-evacuation-of-indonesia-citizens-from-lebanon-asap"
-    },
-    {
-        "title": "Ratusan Personel Satpol PP Jakarta Terjerat Judi Online, Ada yang Sampai Habis Rp 194 Juta",
-        "category": "News",
-        "publish_time": "02-10-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/skpw64487/ratusan-personel-satpol-pp-jakarta-terjerat-judi-online-ada-yang-sampai-habis-rp-194-juta"
-    },
-    {
-        "title": "Lahan Sekolah Bersengketa, 1.100 Siswa SDN 026 Bojongloa Terancam Diusir",
-        "category": "Rejabar",
-        "publish_time": "02-10-2024 07:13",
-        "news_link": "https://rejabar.republika.co.id/berita/skpvw4512/lahan-sekolah-bersengketa-1100-siswa-sdn-026-bojongloa-terancam-diusir"
-    },
-    {
-        "title": "Sikat! Ada Banjir Cashback Rp 300 Ribu dari BRI Di Indonesia Aja Travel Fair 2024",
-        "category": "Ekonomi",
-        "publish_time": "02-10-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/skpvty490/sikat-ada-banjir-cashback-rp-300-ribu-dari-bri-di-indonesia-aja-travel-fair-2024"
-    },
-    {
-        "title": "Kolaborasi dengan BPDLH, BNI Salurkan Dana Bantuan untuk Program Small Grant",
-        "category": "Ekonomi",
-        "publish_time": "02-10-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/skpvkf415/kolaborasi-dengan-bpdlh-bni-salurkan-dana-bantuan-untuk-program-small-grant"
-    },
-    {
-        "title": "Bea Cukai Dukung Kelancaran Arus Logistik MotoGP Musim 2024 di Mandalika",
-        "category": "Beacukai",
-        "publish_time": "02-10-2024 07:13",
-        "news_link": "https://republika.co.id/berita/skpv8g423/bea-cukai-dukung-kelancaran-arus-logistik-motogp-musim-2024-di-mandalika"
-    },
-    {
-        "title": "MPR Tetapkan Susunan Fraksi di DPR RI Periode 2024-2029",
-        "category": "News",
-        "publish_time": "02-10-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/skpv81484/mpr-tetapkan-susunan-fraksi-di-dpr-ri-periode-20242029"
-    },
-    {
-        "title": "Eskalasi Meningkat di Lebanon, Kemenlu RI: Evakuasi WNI Sedang Berlangsung",
-        "category": "News",
-        "publish_time": "02-10-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/skpv7m487/eskalasi-meningkat-di-lebanon-kemenlu-ri-evakuasi-wni-sedang-berlangsung"
-    },
-    {
-        "title": "PTBA dan 3 Bank Himbara untuk Fasilitas Pemanfaatan DHE SDA",
-        "category": "Ekonomi",
-        "publish_time": "02-10-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/skpuxt423/ptba-dan-3-bank-himbara-untuk-fasilitas-pemanfaatan-dhe-sda"
-    },
-    {
-        "title": "Ismail Sabri dan MABMI Sepakat Majukan Budaya Melayu",
-        "category": "News",
-        "publish_time": "02-10-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/skpuul490/ismail-sabri-dan-mabmi-sepakat-majukan-budaya-melayu"
-    },
-    {
-        "title": "Usai Bombardir Israel, Presiden Iran ke Netanyahu: Itu Hanya Sedikit dari Kekuatan Kami",
-        "category": "News",
-        "publish_time": "02-10-2024 06:13",
-        "news_link": "https://news.republika.co.id/berita/skpum7487/usai-bombardir-israel-presiden-iran-ke-netanyahu-itu-hanya-sedikit-dari-kekuatan-kami"
-    },
-    {
-        "title": "Polda Metro Jaya Tangkap Satu Lagi Tersangka Kasus Pembubaran Paksa Diskusi di Kemang",
-        "category": "News",
-        "publish_time": "02-10-2024 06:13",
-        "news_link": "https://news.republika.co.id/berita/skpu87409/polda-metro-jaya-tangkap-satu-lagi-tersangka-kasus-pembubaran-paksa-diskusi-di-kemang"
-    },
-    {
-        "title": "Luar Biasa... Detak Jantung Tikus Air Kecil Mencapai 1.020 Detak per Menit!",
-        "category": "Network",
-        "publish_time": "02-10-2024 06:13",
-        "news_link": "https://impresiupdate.id/posts/333385/luar-biasa-detak-jantung-tikus-air-kecil-mencapai-1-020-detak-per-menit-"
-    },
-    {
-        "title": "Helmut Marko Sebut ingin Ricciardo keluar Sejak GP Spanyol",
-        "category": "Network",
-        "publish_time": "02-10-2024 06:13",
-        "news_link": "https://motoresto.id/posts/333391/helmut-marko-sebut-ingin-ricciardo-keluar-sejak-gp-spanyol"
-    },
-    {
-        "title": "Staycation Seru dan Menangkan Boneka Viral Labubu Hanya di Waringin Hospitality",
-        "category": "Ekonomi",
-        "publish_time": "02-10-2024 06:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/skptsg423/staycation-seru-dan-menangkan-boneka-viral-labubu-hanya-di-waringin-hospitality"
-    },
-    {
-        "title": "Nyatakan Solidaritas untuk Lebanon, Ini Pesan Rusia untuk Israel",
-        "category": "News",
-        "publish_time": "02-10-2024 06:13",
-        "news_link": "https://news.republika.co.id/berita/skptmb487/nyatakan-solidaritas-untuk-lebanon-ini-pesan-rusia-untuk-israel"
-    },
-    {
-        "title": "Pajak Mencekik, Kampus Muhammadiyah-Aisyiyah Minta Pemerintahan Prabowo Berikan Keringanan",
-        "category": "Khazanah",
-        "publish_time": "02-10-2024 06:13",
-        "news_link": "https://khazanah.republika.co.id/berita/skptev483/pajak-mencekik-kampus-muhammadiyahaisyiyah-minta-pemerintahan-prabowo-berikan-keringanan"
-    },
-    {
-        "title": "Presiden Jokowi Perintahkan Evakuasi WNI dari Lebanon Secepatnya!",
-        "category": "News",
-        "publish_time": "02-10-2024 06:13",
-        "news_link": "https://news.republika.co.id/berita/skpt2w487/presiden-jokowi-perintahkan-evakuasi-wni-dari-lebanon-secepatnya"
-    },
-    {
-        "title": "Kata Iran Mengapa Menyerang Israel",
-        "category": "Khazanah",
-        "publish_time": "02-10-2024 06:13",
-        "news_link": "https://khazanah.republika.co.id/berita/skpio0451/kata-iran-mengapa-menyerang-israel"
-    },
-    {
-        "title": "Rano Karno Kenang Almarhumah Marissa Haque Sosok Pembelajar",
-        "category": "Ameera",
-        "publish_time": "02-10-2024 06:13",
-        "news_link": "https://ameera.republika.co.id/berita/skpsgw425/rano-karno-kenang-almarhumah-marissa-haque-sosok-pembelajar"
-    },
-    {
-        "title": "Arteta Puji IQ Sepak Bola Kai Havertz Usai Jadi Man of The Match Laga Arsenal Vs PSG",
-        "category": "News",
-        "publish_time": "02-10-2024 06:13",
-        "news_link": "https://news.republika.co.id/berita/skps5p348/arteta-puji-iq-sepak-bola-kai-havertz-usai-jadi-man-of-the-match-laga-arsenal-vs-psg"
-    },
-    {
-        "title": "Luis Enrique Akui Butuh Waktu untuk PSG Bisa Seperti Arsenal",
-        "category": "News",
-        "publish_time": "02-10-2024 05:13",
-        "news_link": "https://news.republika.co.id/berita/skprcj348/luis-enrique-akui-butuh-waktu-untuk-psg-bisa-seperti-arsenal"
     }
 ]
