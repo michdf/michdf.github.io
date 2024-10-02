@@ -1,110 +1,206 @@
 [
     {
+        "title": "Wisudawan Terbaik UBHARA JAYA Bongkar Diskrepansi Regulasi Kelautan",
+        "category": "News",
+        "publish_time": "02-10-2024 12:15",
+        "news_link": "https://news.republika.co.id/berita/skqa2a320/wisudawan-terbaik-ubhara-jaya-bongkar-diskrepansi-regulasi-kelautan"
+    },
+    {
+        "title": "'Gercos, Gerakan Coblos Semua Muncul Akibat Kekecewaan Masyarakat'",
+        "category": "News",
+        "publish_time": "02-10-2024 12:14",
+        "news_link": "https://news.republika.co.id/berita/skqa00409/gercos-gerakan-coblos-semua-muncul-akibat-kekecewaan-masyarakat"
+    },
+    {
+        "title": "Yang Diingat Anies Baswedan dari Marissa Haque",
+        "category": "Ameera",
+        "publish_time": "02-10-2024 12:10",
+        "news_link": "https://ameera.republika.co.id/berita/skq9uq430/yang-diingat-anies-baswedan-dari-marissa-haque"
+    },
+    {
+        "title": "Apel Kesaktian Pancasila, Ansor Kawal Transisi Pemerintah Berjalan Damai",
+        "category": "Khazanah",
+        "publish_time": "02-10-2024 12:01",
+        "news_link": "https://khazanah.republika.co.id/berita/skq9fk320/apel-kesaktian-pancasila-ansor-kawal-transisi-pemerintah-berjalan-damai"
+    },
+    {
+        "title": "Melihat Progres Pembangunan Rumah Warga Terdampak PSN Rempang Eco City",
+        "category": "Visual",
+        "publish_time": "02-10-2024 11:59",
+        "news_link": "https://visual.republika.co.id/berita/skq879375/melihat-progres-pembangunan-rumah-warga-terdampak-psn-rempang-eco-city"
+    },
+    {
+        "title": "Terbukti Bawa Kesejahteraan, Ansar Ahmad Potensial Pimpin Kepri",
+        "category": "News",
+        "publish_time": "02-10-2024 11:47",
+        "news_link": "https://news.republika.co.id/berita/skq3bu451/terbukti-bawa-kesejahteraan-ansar-ahmad-potensial-pimpin-kepri"
+    },
+    {
+        "title": "Cegah Kanker Payudara Sejak Remaja, Yuk Cek dari Sekarang!",
+        "category": "Ameera",
+        "publish_time": "02-10-2024 11:39",
+        "news_link": "https://ameera.republika.co.id/berita/skq8e9425/cegah-kanker-payudara-sejak-remaja-yuk-cek-dari-sekarang"
+    },
+    {
+        "title": "Polda Metro Periksa 30 Polisi di Kasus Pembubaran Paksa Diskusi di Kemang, Motif Didalami",
+        "category": "News",
+        "publish_time": "02-10-2024 11:33",
+        "news_link": "https://news.republika.co.id/berita/skq83w409/polda-metro-periksa-30-polisi-di-kasus-pembubaran-paksa-diskusi-di-kemang-motif-didalami"
+    },
+    {
+        "title": "Politisi PKS Dorong Anggota DPR yang Baru Dilantik Kawal Revisi UU Haji",
+        "category": "Khazanah",
+        "publish_time": "02-10-2024 11:32",
+        "news_link": "https://khazanah.republika.co.id/berita/skq82s483/politisi-pks-dorong-anggota-dpr-yang-baru-dilantik-kawal-revisi-uu-haji"
+    },
+    {
+        "title": "Bangunan Semipermanen di Kalideres Diamuk si Jago Merah",
+        "category": "Visual",
+        "publish_time": "02-10-2024 11:29",
+        "news_link": "https://visual.republika.co.id/berita/skq76q375/bangunan-semipermanen-di-kalideres-diamuk-si-jago-merah"
+    },
+    {
+        "title": "Tubuh Bagian Bawah Rawan Cedera Jika Terjadi Kecelakaan",
+        "category": "Ameera",
+        "publish_time": "02-10-2024 11:25",
+        "news_link": "https://ameera.republika.co.id/berita/skq7qc425/tubuh-bagian-bawah-rawan-cedera-jika-terjadi-kecelakaan"
+    },
+    {
+        "title": "Perang Darat Belum Mulai, 2 Tentara Israel Tewas dan Belasan Terluka di Tangan Hizbullah",
+        "category": "News",
+        "publish_time": "02-10-2024 11:24",
+        "news_link": "https://news.republika.co.id/berita/skq7oj320/perang-darat-belum-mulai-2-tentara-israel-tewas-dan-belasan-terluka-di-tangan-hizbullah"
+    },
+    {
+        "title": "Kemendag: Harga CPO Naik Dipengaruhi Peningkatan Permintaan dari India",
+        "category": "Ekonomi",
+        "publish_time": "02-10-2024 11:24",
+        "news_link": "https://ekonomi.republika.co.id/berita/skq7g6370/kemendag-harga-cpo-naik-dipengaruhi-peningkatan-permintaan-dari-india"
+    },
+    {
+        "title": "Anies Baswedan Berduka, Siapa yang Meninggal?",
+        "category": "Network",
+        "publish_time": "02-10-2024 11:24",
+        "news_link": "https://oohya.republika.co.id/pitan/1745153274/anies-baswedan-berduka-siapa-yang-meninggal"
+    },
+    {
+        "title": "Polisi Rilis Hasil Penyelidikan Kasus Perundungan di PPDS Undip dalam Waktu Dekat",
+        "category": "News",
+        "publish_time": "02-10-2024 11:24",
+        "news_link": "https://news.republika.co.id/berita/skq779409/polisi-rilis-hasil-penyelidikan-kasus-perundungan-di-ppds-undip-dalam-waktu-dekat"
+    },
+    {
+        "title": "Psikolog Ungkap Kiat Hindari Anak dari Pemikiran Kriminal",
+        "category": "Ameera",
+        "publish_time": "02-10-2024 11:24",
+        "news_link": "https://ameera.republika.co.id/berita/skq736425/psikolog-ungkap-kiat-hindari-anak-dari-pemikiran-kriminal"
+    },
+    {
         "title": "Angka Kemiskinan Kota Sukabumi Turun Jadi 7,2 Persen",
         "category": "Network",
-        "publish_time": "02-10-2024 11:09",
+        "publish_time": "02-10-2024 11:24",
         "news_link": "https://sukabumikini.com/posts/333432/angka-kemiskinan-kota-sukabumi-turun-jadi-7-2-persen"
     },
     {
         "title": "Suasana Haru Selimuti Prosesi Pemakaman Marissa Haque di TPU Tanah Kusir",
         "category": "Visual",
-        "publish_time": "02-10-2024 11:04",
+        "publish_time": "02-10-2024 11:24",
         "news_link": "https://visual.republika.co.id/berita/skq6sl375/suasana-haru-selimuti-prosesi-pemakaman-marissa-haque-di-tpu-tanah-kusir"
     },
     {
         "title": "Ada Maskapai Baru di Indonesia, MTI: Ciptakan Persaingan Sehat",
         "category": "Ekonomi",
-        "publish_time": "02-10-2024 11:01",
+        "publish_time": "02-10-2024 11:24",
         "news_link": "https://ekonomi.republika.co.id/berita/skq6no490/ada-maskapai-baru-di-indonesia-mti-ciptakan-persaingan-sehat"
     },
     {
         "title": "Dukung Ketahanan Pangan, Bendungan Temef Siap Aliri Lahan 4.500 Hektare",
         "category": "Ekonomi",
-        "publish_time": "02-10-2024 11:00",
+        "publish_time": "02-10-2024 11:24",
         "news_link": "https://ekonomi.republika.co.id/berita/skq6ku370/dukung-ketahanan-pangan-bendungan-temef-siap-aliri-lahan-4500-hektare"
     },
     {
         "title": "PT Muhammadiyah-Aisyiyah Usul Soal Menteri Pendidikan: Harus Punya Jam Terbang!",
         "category": "Khazanah",
-        "publish_time": "02-10-2024 10:56",
+        "publish_time": "02-10-2024 11:24",
         "news_link": "https://khazanah.republika.co.id/berita/skq6fd483/pt-muhammadiyahaisyiyah-usul-soal-menteri-pendidikan-harus-punya-jam-terbang"
     },
     {
         "title": "Aktris Senior Ida Leman Sebut Jenazah Marissa Tampak Tersenyum",
         "category": "Ameera",
-        "publish_time": "02-10-2024 10:56",
+        "publish_time": "02-10-2024 11:24",
         "news_link": "https://ameera.republika.co.id/berita/skq6e3425/aktris-senior-ida-leman-sebut-jenazah-marissa-tampak-tersenyum"
     },
     {
         "title": "Tanah Menyempit dan Mengimpit Ahli Kubur",
         "category": "Khazanah",
-        "publish_time": "02-10-2024 10:55",
+        "publish_time": "02-10-2024 11:24",
         "news_link": "https://khazanah.republika.co.id/berita/skq6cd458/tanah-menyempit-dan-mengimpit-ahli-kubur"
     },
     {
         "title": "Golkar Bantah Tukar Guling Kursi Ketua MPR dengan Jatah Menteri",
         "category": "News",
-        "publish_time": "02-10-2024 10:53",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://news.republika.co.id/berita/skq6a7484/golkar-bantah-tukar-guling-kursi-ketua-mpr-dengan-jatah-menteri"
     },
     {
         "title": "Layanan Biznet Telah Tembus 600 Ribu Pelanggan, Kini Tengah Sasar Segmen Ritel",
         "category": "Ekonomi",
-        "publish_time": "02-10-2024 10:45",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://ekonomi.republika.co.id/berita/skq5wx490/layanan-biznet-telah-tembus-600-ribu-pelanggan-kini-tengah-sasar-segmen-ritel"
     },
     {
         "title": "Kebaikan Menghapus Keburukan dari Catatan Amal",
         "category": "Khazanah",
-        "publish_time": "02-10-2024 10:42",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://khazanah.republika.co.id/berita/skq5r4458/kebaikan-menghapus-keburukan-dari-catatan-amal"
     },
     {
         "title": "Pameran Daur Karya Dua Perupa Perempuan Siap Sambut Art Week di KiN Space",
         "category": "Ameera",
-        "publish_time": "02-10-2024 10:40",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://ameera.republika.co.id/berita/skq5oc370/pameran-daur-karya-dua-perupa-perempuan-siap-sambut-art-week-di-kin-space"
     },
     {
         "title": "PGE Diganjar Penghargaan, Padukan Potensi Energi Panas Bumi dan Kualitas Kopi Arabika",
         "category": "Esgnow",
-        "publish_time": "02-10-2024 10:40",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://esgnow.republika.co.id/berita/skq5nc425/pge-diganjar-penghargaan-padukan-potensi-energi-panas-bumi-dan-kualitas-kopi-arabika"
     },
     {
         "title": "Wafatnya Abu Thalib dan Turunnya Surah at-Taubah",
         "category": "Khazanah",
-        "publish_time": "02-10-2024 10:34",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://khazanah.republika.co.id/berita/skq5e0458/wafatnya-abu-thalib-dan-turunnya-surah-attaubah"
     },
     {
         "title": "Digadang-gadang Jadi Ketua MPR, Ahmad Muzani: Tunggu Nanti",
         "category": "News",
-        "publish_time": "02-10-2024 10:32",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://news.republika.co.id/berita/skq5ac484/digadanggadang-jadi-ketua-mpr-ahmad-muzani-tunggu-nanti"
     },
     {
         "title": "IHSG Ditutup Melemah Seiring Eskalasi Geopolitik",
         "category": "Ekonomi",
-        "publish_time": "02-10-2024 10:31",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://ekonomi.republika.co.id/berita/skq59v370/ihsg-ditutup-melemah-seiring-eskalasi-geopolitik"
     },
     {
         "title": "Angka Bunuh Diri di AS Meningkat, Faktor Kesehatan Mental?",
         "category": "Video",
-        "publish_time": "02-10-2024 10:29",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://tv.republika.co.id/berita/skpytj467/angka-bunuh-diri-di-as-meningkat-faktor-kesehatan-mental"
     },
     {
         "title": "Pemkot Surabaya dan Bea Cukai Gagalkan Penyelundupan 1,4 Juta Batang Rokok Ilegal",
         "category": "Network",
-        "publish_time": "02-10-2024 10:27",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://sekitarsurabaya.com/posts/333429/pemkot-surabaya-dan-bea-cukai-gagalkan-penyelundupan-14-juta-batang-rokok-ilegal"
     },
     {
         "title": "Tuntun Muslim Ucapkan Laa Ilaaha illa Allah, Hadapi Sakaratul Maut",
         "category": "Khazanah",
-        "publish_time": "02-10-2024 10:26",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://khazanah.republika.co.id/berita/skq50w458/tuntun-muslim-ucapkan-laa-ilaaha-illa-allah-hadapi-sakaratul-maut"
     },
     {
@@ -128,175 +224,79 @@
     {
         "title": "KNEKS Ungkap Dominasi Indonesia Sebagai Pusat Produsen Halal",
         "category": "Sharia",
-        "publish_time": "02-10-2024 10:23",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://sharia.republika.co.id/berita/skq4wn490/kneks-ungkap-dominasi-indonesia-sebagai-pusat-produsen-halal"
     },
     {
         "title": "Genap Berusia 24 Tahun, Biznet Terus Komitmen Kembangkan Inovasi Infrastruktur Digital",
         "category": "Ekonomi",
-        "publish_time": "02-10-2024 10:19",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://ekonomi.republika.co.id/berita/skq4pm370/genap-berusia-24-tahun-biznet-terus-komitmen-kembangkan-inovasi-infrastruktur-digital"
     },
     {
         "title": "Persija Maksimalkan Jeda Kompetisi BRI Liga 1 untuk Perbaiki Kualitas Tim",
         "category": "News",
-        "publish_time": "02-10-2024 10:16",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://news.republika.co.id/berita/skq4kp348/persija-maksimalkan-jeda-kompetisi-bri-liga-1-untuk-perbaiki-kualitas-tim"
     },
     {
         "title": "Bentrok Perdana di Kota Odaisseh, Hizbullah Berhasil Pukul Mundur Pasukan Infanteri Israel",
         "category": "News",
-        "publish_time": "02-10-2024 10:14",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://news.republika.co.id/berita/skq4g7409/bentrok-perdana-di-kota-odaisseh-hizbullah-berhasil-pukul-mundur-pasukan-infanteri-israel"
     },
     {
         "title": "DIY Alami Deflasi Selama September 2024",
         "category": "Rejogja",
-        "publish_time": "02-10-2024 10:10",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://rejogja.republika.co.id/berita/skq1ph291/diy-alami-deflasi-selama-september-2024"
     },
     {
         "title": "Pertamina Patra Niaga: Pendaftar QR Code Pertalite Capai 5,5 Juta Kendaraan",
         "category": "Ekonomi",
-        "publish_time": "02-10-2024 10:10",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://ekonomi.republika.co.id/berita/skq41e490/pertamina-patra-niaga-pendaftar-qr-code-pertalite-capai-55-juta-kendaraan"
     },
     {
         "title": "Sering Bertengkar dengan Pasangan karena Uang? Begini Kiat Menghindarinya Menurut Ahli",
         "category": "Ameera",
-        "publish_time": "02-10-2024 10:10",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://ameera.republika.co.id/berita/skq3yy425/sering-bertengkar-dengan-pasangan-karena-uang-begini-kiat-menghindarinya-menurut-ahli"
     },
     {
         "title": "Deflasi Lima Bulan Berturut-turut, Airlangga: Berkat Kerja Pemerintah Tekan Inflasi",
         "category": "Ekonomi",
-        "publish_time": "02-10-2024 10:10",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://ekonomi.republika.co.id/berita/skq3vj370/deflasi-lima-bulan-berturutturut-airlangga-berkat-kerja-pemerintah-tekan-inflasi"
     },
     {
         "title": "BUMN Fokus Benahi Digitalisasi Sistem Logistik Indonesia",
         "category": "Ekonomi",
-        "publish_time": "02-10-2024 10:10",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://ekonomi.republika.co.id/berita/skq1f9490/bumn-fokus-benahi-digitalisasi-sistem-logistik-indonesia"
     },
     {
         "title": "Semarak Hari Batik Nasional di Museum Batik Indonesia",
         "category": "Visual",
-        "publish_time": "02-10-2024 10:10",
+        "publish_time": "02-10-2024 10:24",
         "news_link": "https://visual.republika.co.id/berita/skpztk375/semarak-hari-batik-nasional-di-museum-batik-indonesia"
     },
     {
         "title": "Disebut BPJPH Periksa 32 Produk Wine dan Beer Halal, Ini Klarifikasi LPPOM MUI",
         "category": "Khazanah",
-        "publish_time": "02-10-2024 10:10",
+        "publish_time": "02-10-2024 09:24",
         "news_link": "https://khazanah.republika.co.id/berita/skq3i5483/disebut-bpjph-periksa-32-produk-wine-dan-beer-halal-ini-klarifikasi-lppom-mui"
     },
     {
         "title": "Eks Wali Kota Cimahi Ajay M Priatna Bebas dari Lapas Sukamiskin",
         "category": "Rejabar",
-        "publish_time": "02-10-2024 10:10",
+        "publish_time": "02-10-2024 09:24",
         "news_link": "https://rejabar.republika.co.id/berita/skq3eb512/eks-wali-kota-cimahi-ajay-m-priatna-bebas-dari-lapas-sukamiskin"
     },
     {
         "title": "Calon pimpinan MPR, PKS Sebut HNW, PKB Usulkan Rusdi Kirana",
         "category": "News",
-        "publish_time": "02-10-2024 10:10",
+        "publish_time": "02-10-2024 09:24",
         "news_link": "https://news.republika.co.id/berita/skq351377/calon-pimpinan-mpr-pks-sebut-hnw-pkb-usulkan-rusdi-kirana"
-    },
-    {
-        "title": "PKB Tunjuk Bos Lion Air Jadi Pimpinan MPR, PKS Utus HNW",
-        "category": "News",
-        "publish_time": "02-10-2024 10:10",
-        "news_link": "https://news.republika.co.id/berita/skq33u484/pkb-tunjuk-bos-lion-air-jadi-pimpinan-mpr-pks-utus-hnw"
-    },
-    {
-        "title": "Faktor Penyebab Elektabilitas Khofifah-Emil Tembus 61,2 Persen Menurut Indikator Politik",
-        "category": "News",
-        "publish_time": "02-10-2024 10:10",
-        "news_link": "https://news.republika.co.id/berita/skq32i409/faktor-penyebab-elektabilitas-khofifahemil-tembus-612-persen-menurut-indikator-politik"
-    },
-    {
-        "title": "Saat Tiada Lagi 'Nge-Bong' di Bong Suwung",
-        "category": "Rejogja",
-        "publish_time": "02-10-2024 10:10",
-        "news_link": "https://rejogja.republika.co.id/berita/skq327291/saat-tiada-lagi-ngebong-di-bong-suwung"
-    },
-    {
-        "title": "Perkuat Komitmen Proyek, Agung Podomoro Resmikan Show Unit di Karawang",
-        "category": "Ekonomi",
-        "publish_time": "02-10-2024 09:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/skq1c7291/perkuat-komitmen-proyek-agung-podomoro-resmikan-show-unit-di-karawang"
-    },
-    {
-        "title": "Israel Ancam Serang Kilang Minyak Iran Sebagai Balasan",
-        "category": "News",
-        "publish_time": "02-10-2024 09:10",
-        "news_link": "https://news.republika.co.id/berita/skq2ty377/israel-ancam-serang-kilang-minyak-iran-sebagai-balasan"
-    },
-    {
-        "title": "Rahasia dan Hikmah Sifat Pemaaf dalam Kehidupan",
-        "category": "Retizen",
-        "publish_time": "02-10-2024 09:10",
-        "news_link": "https://retizen.republika.co.id/posts/333397/rahasia-dan-hikmah-sifat-pemaaf-dalam-kehidupan"
-    },
-    {
-        "title": "Iran Peringatkan AS tidak Ikut Campur Urusannya dengan Israel",
-        "category": "News",
-        "publish_time": "02-10-2024 09:10",
-        "news_link": "https://news.republika.co.id/berita/skq2qr348/iran-peringatkan-as-tidak-ikut-campur-urusannya-dengan-israel"
-    },
-    {
-        "title": "Ikang Fawzi Ikut Turunkan Jenazah Marissa Haque: Ridho, Saya Ridho",
-        "category": "Ameera",
-        "publish_time": "02-10-2024 09:10",
-        "news_link": "https://ameera.republika.co.id/berita/skq2lp425/ikang-fawzi-ikut-turunkan-jenazah-marissa-haque-ridho-saya-ridho"
-    },
-    {
-        "title": "Hizbullah Sergap Pasukan IDF, Puluhan Ambulans Israel Angkut Korban",
-        "category": "News",
-        "publish_time": "02-10-2024 09:10",
-        "news_link": "https://news.republika.co.id/berita/skq2kn393/hizbullah-sergap-pasukan-idf-puluhan-ambulans-israel-angkut-korban"
-    },
-    {
-        "title": "Jadi Finisher Berlin Marathon 2024, Menkes Budi Target Tuntaskan 6 World Major Marathon",
-        "category": "Network",
-        "publish_time": "02-10-2024 09:10",
-        "news_link": "https://diagnosa.id/posts/333424/jadi-finisher-berlin-marathon-2024-menkes-budi-target-tuntaskan-6-world-major-marathon"
-    },
-    {
-        "title": "Yu Cek, Peraturan Pelaksana UU Kesehatan",
-        "category": "Network",
-        "publish_time": "02-10-2024 09:10",
-        "news_link": "https://diagnosa.id/posts/333423/yu-cek-peraturan-pelaksana-uu-kesehatan"
-    },
-    {
-        "title": "Urai Kemacetan, Exit Tol Sementara KM 149 Gedebage Dibangun",
-        "category": "Rejabar",
-        "publish_time": "02-10-2024 09:10",
-        "news_link": "https://rejabar.republika.co.id/berita/skq21d512/urai-kemacetan-exit-tol-sementara-km-149-gedebage-dibangun"
-    },
-    {
-        "title": "Ekonom Ungkap Sebab Tinggi Biaya Logistik Indonesia",
-        "category": "Ekonomi",
-        "publish_time": "02-10-2024 09:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/skq202490/ekonom-ungkap-sebab-tinggi-biaya-logistik-indonesia"
-    },
-    {
-        "title": "BPKH-Rumah Zakat Serahkan Bantuan Tanggap Darurat Gempa Bumi di Kabupaten Bandung",
-        "category": "News",
-        "publish_time": "02-10-2024 09:10",
-        "news_link": "https://news.republika.co.id/berita/skq1x6370/bpkhrumah-zakat-serahkan-bantuan-tanggap-darurat-gempa-bumi-di-kabupaten-bandung"
-    },
-    {
-        "title": "Alasan Ultraman Hadir di Pelantikan Anggota DPR RI",
-        "category": "Video",
-        "publish_time": "02-10-2024 09:10",
-        "news_link": "https://tv.republika.co.id/berita/skq1op418/alasan-ultraman-hadir-di-pelantikan-anggota-dpr-ri"
-    },
-    {
-        "title": "Golkar Usulkan Meutya Hafid Jadi Menteri di Kabinet Prabowo",
-        "category": "News",
-        "publish_time": "02-10-2024 09:10",
-        "news_link": "https://news.republika.co.id/berita/skq10t377/golkar-usulkan-meutya-hafid-jadi-menteri-di-kabinet-prabowo"
     }
 ]
