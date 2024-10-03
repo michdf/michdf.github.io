@@ -1,26 +1,140 @@
 [
     {
+        "title": "Timnya jadi Korban Penyerangan Saat Kericuhan, Pangeran Kuda Putih Lapor Polisi",
+        "category": "Rejabar",
+        "publish_time": "03-10-2024 00:52",
+        "news_link": "https://rejabar.republika.co.id/berita/skr94u512/timnya-jadi-korban-penyerangan-saat-kericuhan-pangeran-kuda-putih-lapor-polisi"
+    },
+    {
+        "title": "ConverXion 2024 di Jakarta Jadi Ajang Diperkenalkannya Teknologi Voice AI",
+        "category": "Rejakarta",
+        "publish_time": "03-10-2024 00:51",
+        "news_link": "https://republika.co.id/berita/skr92i456/converxion-2024-di-jakarta-jadi-ajang-diperkenalkannya-teknologi-voice-ai"
+    },
+    {
+        "title": "Diler Honda Kini Hadir di Kabupaten Rembang",
+        "category": "Ekonomi",
+        "publish_time": "03-10-2024 00:47",
+        "news_link": "https://ekonomi.republika.co.id/berita/skr8wb468/diler-honda-kini-hadir-di-kabupaten-rembang"
+    },
+    {
+        "title": "Zionis Makin Semena-mena, Sekjen PBB Bahkan Dilarang Masuk ke Israel",
+        "category": "News",
+        "publish_time": "03-10-2024 00:47",
+        "news_link": "https://news.republika.co.id/berita/skr8vy377/zionis-makin-semenamena-sekjen-pbb-bahkan-dilarang-masuk-ke-israel"
+    },
+    {
+        "title": "OJK Catat Pembiayaan Lewat Paylater Capai Rp 7,99 T per Agustus 2024",
+        "category": "Ekonomi",
+        "publish_time": "03-10-2024 00:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/skr8k8423/ojk-catat-pembiayaan-lewat-paylater-capai-rp-799-t-per-agustus-2024"
+    },
+    {
+        "title": "Saat Dilanda Firasat Buruk, Baca Doa Ini",
+        "category": "Iqra",
+        "publish_time": "03-10-2024 00:31",
+        "news_link": "https://iqra.republika.co.id/berita/skr84s430/saat-dilanda-firasat-buruk-baca-doa-ini"
+    },
+    {
+        "title": "Prakiraan Cuaca Kamis, 3 Oktober 2024: Sebagian Besar Indonesia Hujan Ringan",
+        "category": "News",
+        "publish_time": "03-10-2024 00:30",
+        "news_link": "https://news.republika.co.id/berita/skr83j366/prakiraan-cuaca-kamis-3-oktober-2024-sebagian-besar-indonesia-hujan-ringan"
+    },
+    {
+        "title": "Motta Sanjung 10 Pemain Juventus yang Tampil Spektakuler Saat Kalahkan Leipzig 3-2",
+        "category": "News",
+        "publish_time": "03-10-2024 00:27",
+        "news_link": "https://news.republika.co.id/berita/skr7pu348/motta-sanjung-10-pemain-juventus-yang-tampil-spektakuler-saat-kalahkan-leipzig-32"
+    },
+    {
+        "title": "Mohamed Salah Jadi Bintang Kemenangan Liverpool Lewat Assist dan Gol, Arne Slot tak Kaget",
+        "category": "News",
+        "publish_time": "03-10-2024 00:10",
+        "news_link": "https://news.republika.co.id/berita/skr76t348/mohamed-salah-jadi-bintang-kemenangan-liverpool-lewat-assist-dan-gol-arne-slot-tak-kaget"
+    },
+    {
+        "title": "Jaga Keamanan, Detail Evakuasi WNI dari Lebanon Belum Bisa Dibocorkan",
+        "category": "News",
+        "publish_time": "03-10-2024 00:07",
+        "news_link": "https://news.republika.co.id/berita/skr71j377/jaga-keamanan-detail-evakuasi-wni-dari-lebanon-belum-bisa-dibocorkan"
+    },
+    {
+        "title": "BSI Gandeng Asosiasi Haji Umrah, Perkuat Islamic Ecosystem",
+        "category": "Sharia",
+        "publish_time": "02-10-2024 23:59",
+        "news_link": "https://sharia.republika.co.id/berita/skr6oq423/bsi-gandeng-asosiasi-haji-umrah-perkuat-islamic-ecosystem"
+    },
+    {
+        "title": "BSI Perkuat Ekosistem Syariah Bersama Travel Haji dan Umroh",
+        "category": "Khazanah",
+        "publish_time": "02-10-2024 23:59",
+        "news_link": "https://khazanah.republika.co.id/berita/skq8wz451/bsi-perkuat-ekosistem-syariah-bersama-travel-haji-dan-umroh"
+    },
+    {
+        "title": "Pelatih Lille Akui Butuh Sedikit Keberuntungan untuk Kalahkan Real Madrid",
+        "category": "News",
+        "publish_time": "02-10-2024 23:59",
+        "news_link": "https://news.republika.co.id/berita/skr6ey348/pelatih-lille-akui-butuh-sedikit-keberuntungan-untuk-kalahkan-real-madrid"
+    },
+    {
+        "title": "Tiga Bulan Terakhir, IHSG Hanya Tumbuh 13,6 Persen",
+        "category": "Ekonomi",
+        "publish_time": "02-10-2024 23:59",
+        "news_link": "https://ekonomi.republika.co.id/berita/skr5tb423/tiga-bulan-terakhir-ihsg-hanya-tumbuh-136-persen"
+    },
+    {
+        "title": "Hasil Lengkap Matchday Kedua dan Klasemen Liga Champions: Bertabur Kejutan di Hari Kedua",
+        "category": "News",
+        "publish_time": "02-10-2024 23:59",
+        "news_link": "https://news.republika.co.id/berita/skr5rr348/hasil-lengkap-matchday-kedua-dan-klasemen-liga-champions-bertabur-kejutan-di-hari-kedua"
+    },
+    {
+        "title": "Peran Putra Pendiri NU dalam Perumusan Pancasila",
+        "category": "Khazanah",
+        "publish_time": "02-10-2024 23:59",
+        "news_link": "https://khazanah.republika.co.id/berita/skr5ki430/peran-putra-pendiri-nu-dalam-perumusan-pancasila"
+    },
+    {
+        "title": "Dishub Kota Depok Operasikan Bus DAMRI Rute Sawangan-Bandara",
+        "category": "News",
+        "publish_time": "02-10-2024 22:59",
+        "news_link": "https://news.republika.co.id/berita/skr478484/dishub-kota-depok-operasikan-bus-damri-rute-sawanganbandara"
+    },
+    {
+        "title": "Kejutan,  Real Madrid Tumbang di Kandang Lille di Liga Champions",
+        "category": "News",
+        "publish_time": "02-10-2024 22:59",
+        "news_link": "https://news.republika.co.id/berita/skr4r7348/kejutan-real-madrid-tumbang-di-kandang-lille-di-liga-champions"
+    },
+    {
+        "title": "RK Dapat Masukan Peta Jalan dari Mantan Tim Pemenangan Anies",
+        "category": "News",
+        "publish_time": "02-10-2024 22:59",
+        "news_link": "https://news.republika.co.id/berita/skr380484/rk-dapat-masukan-peta-jalan-dari-mantan-tim-pemenangan-anies"
+    },
+    {
         "title": "Putra Nabi Ini Harus Menanggung Dosa Setiap Pembunuhan di Bumi, Apa Sebabnya?",
         "category": "Khazanah",
-        "publish_time": "02-10-2024 23:05",
+        "publish_time": "02-10-2024 22:59",
         "news_link": "https://khazanah.republika.co.id/berita/skr44v483/putra-nabi-ini-harus-menanggung-dosa-setiap-pembunuhan-di-bumi-apa-sebabnya"
     },
     {
         "title": "Bukan Banjir dan Macet, Ini Masalah Manusia di Jakarta Menurut Cagub Dharma Pongrekun",
         "category": "News",
-        "publish_time": "02-10-2024 23:04",
+        "publish_time": "02-10-2024 22:59",
         "news_link": "https://news.republika.co.id/berita/skqloj487/bukan-banjir-dan-macet-ini-masalah-manusia-di-jakarta-menurut-cagub-dharma-pongrekun"
     },
     {
         "title": "Aston Villa Sungkurkan Bayern Munchen Lewat Gol Tunggal Jhon Duran",
         "category": "News",
-        "publish_time": "02-10-2024 23:01",
+        "publish_time": "02-10-2024 22:59",
         "news_link": "https://news.republika.co.id/berita/skr3zh348/aston-villa-sungkurkan-bayern-munchen-lewat-gol-tunggal-jhon-duran"
     },
     {
         "title": "Fraksi PDIP: Bambang Pacul Jadi Wakil Ketua MPR RI",
         "category": "News",
-        "publish_time": "02-10-2024 23:00",
+        "publish_time": "02-10-2024 22:59",
         "news_link": "https://news.republika.co.id/berita/skr2pv484/fraksi-pdip-bambang-pacul-jadi-wakil-ketua-mpr-ri"
     },
     {
@@ -32,271 +146,157 @@
     {
         "title": "Hasil Survei LSI Denny JA dan Respons Ahmad Syaikhu",
         "category": "News",
-        "publish_time": "02-10-2024 22:49",
+        "publish_time": "02-10-2024 22:59",
         "news_link": "https://news.republika.co.id/berita/skqp6v409/hasil-survei-lsi-denny-ja-dan-respons-ahmad-syaikhu"
     },
     {
         "title": "20 Dubes Negara OKI Desak Semua Pihak Berhenti Dukung Agresi Brutal Israel",
         "category": "News",
-        "publish_time": "02-10-2024 22:44",
+        "publish_time": "02-10-2024 22:59",
         "news_link": "https://news.republika.co.id/berita/skqli9487/20-dubes-negara-oki-desak-semua-pihak-berhenti-dukung-agresi-brutal-israel"
     },
     {
         "title": "Terungkap, Alasan 'Wine' Dapatkan Ketetapan Halal dari LPPOM MUI",
         "category": "Khazanah",
-        "publish_time": "02-10-2024 22:39",
+        "publish_time": "02-10-2024 22:59",
         "news_link": "https://khazanah.republika.co.id/berita/skqpms409/terungkap-alasan-wine-dapatkan-ketetapan-halal-dari-lppom-mui"
     },
     {
         "title": "Aksi Dua Pejuang Al-Qassam Menyusup Hingga ke Jantung Israel: Tujuh Orang Tewas",
         "category": "Khazanah",
-        "publish_time": "02-10-2024 22:32",
+        "publish_time": "02-10-2024 22:59",
         "news_link": "https://khazanah.republika.co.id/berita/skr2my483/aksi-dua-pejuang-alqassam-menyusup-hingga-ke-jantung-israel-tujuh-orang-tewas"
     },
     {
         "title": "Keutamaan Segera Sedekah",
         "category": "Khazanah",
-        "publish_time": "02-10-2024 22:29",
+        "publish_time": "02-10-2024 21:59",
         "news_link": "https://www.republika.id/posts/54967/keutamaan-segera-sedekah"
     },
     {
         "title": "Israel Terus Menyerang dan tak Gubris Peringatan Iran, Perang Dunia Ketiga tak Terbendung?",
         "category": "News",
-        "publish_time": "02-10-2024 22:24",
+        "publish_time": "02-10-2024 21:59",
         "news_link": "https://news.republika.co.id/berita/skqkxk487/israel-terus-menyerang-dan-tak-gubris-peringatan-iran-perang-dunia-ketiga-tak-terbendung"
     },
     {
         "title": "Detik-Detik Hizbulah Sergap dan Tewaskan Delapan Tentara Israel",
         "category": "News",
-        "publish_time": "02-10-2024 22:14",
+        "publish_time": "02-10-2024 21:59",
         "news_link": "https://news.republika.co.id/berita/skr1s8393/detikdetik-hizbulah-sergap-dan-tewaskan-delapan-tentara-israel"
     },
     {
         "title": "Korea Selatan Apakah Punya Lembaga Sertifikasi Halal?",
         "category": "Khazanah",
-        "publish_time": "02-10-2024 22:12",
+        "publish_time": "02-10-2024 21:59",
         "news_link": "https://khazanah.republika.co.id/berita/skr1nq430/korea-selatan-apakah-punya-lembaga-sertifikasi-halal"
     },
     {
         "title": "Iran Ancam Israel dengan Serangan Lebih Dahsyat",
         "category": "News",
-        "publish_time": "02-10-2024 22:12",
+        "publish_time": "02-10-2024 21:59",
         "news_link": "https://www.republika.id/posts/54965/iran-ancam-israel-dengan-serangan-lebih-dahsyat"
     },
     {
         "title": "Soal Bantuan Beras, Presiden Jokowi: Saya Nanti Bisikin ke Pak Prabowo",
         "category": "News",
-        "publish_time": "02-10-2024 22:12",
+        "publish_time": "02-10-2024 21:59",
         "news_link": "https://news.republika.co.id/berita/skqj5j487/soal-bantuan-beras-presiden-jokowi-saya-nanti-bisikin-ke-pak-prabowo"
     },
     {
         "title": "Mengenal Lembaga Sertifikasi Halal di Jepang",
         "category": "Khazanah",
-        "publish_time": "02-10-2024 22:12",
+        "publish_time": "02-10-2024 21:59",
         "news_link": "https://khazanah.republika.co.id/berita/skr16q430/mengenal-lembaga-sertifikasi-halal-di-jepang"
     },
     {
         "title": "Setahun Genosida, Israel Tak Mampu Lumpuhkan Perlawanan",
         "category": "News",
-        "publish_time": "02-10-2024 22:12",
+        "publish_time": "02-10-2024 21:59",
         "news_link": "https://www.republika.id/posts/54968/setahun-genosida-israel-tak-mampu-lumpuhkan-perlawanan"
     },
     {
         "title": "Pembentukan Keluarga Mahasiswa Muslim di Kampus Katolik Promosikan Toleransi",
         "category": "Khazanah",
-        "publish_time": "02-10-2024 22:12",
+        "publish_time": "02-10-2024 21:59",
         "news_link": "https://khazanah.republika.co.id/berita/skq3l1451/pembentukan-keluarga-mahasiswa-muslim-di-kampus-katolik-promosikan-toleransi"
     },
     {
         "title": "Kalahkan Fadel Muhammad, Anak Menkumham Supratman Jadi Pimpinan MPR dari Kelompok DPD",
         "category": "News",
-        "publish_time": "02-10-2024 22:12",
+        "publish_time": "02-10-2024 21:59",
         "news_link": "https://news.republika.co.id/berita/skqy0b377/kalahkan-fadel-muhammad-anak-menkumham-supratman-jadi-pimpinan-mpr-dari-kelompok-dpd"
     },
     {
         "title": "Niat Sholat Subuh Beserta Doa Qunut Latin dan Tata Cara",
         "category": "Iqra",
-        "publish_time": "02-10-2024 21:12",
+        "publish_time": "02-10-2024 20:59",
         "news_link": "https://iqra.republika.co.id/berita/skq6ew366/niat-sholat-subuh-beserta-doa-qunut-latin-dan-tata-cara"
     },
     {
         "title": "Jelang Debat Pilgub DKI Jakarta, Pramono Belajar dari Ahok, RK Sudah Siap Mental",
         "category": "News",
-        "publish_time": "02-10-2024 21:12",
+        "publish_time": "02-10-2024 20:59",
         "news_link": "https://news.republika.co.id/berita/skqxsk377/jelang-debat-pilgub-dki-jakarta-pramono-belajar-dari-ahok-rk-sudah-siap-mental"
     },
     {
         "title": "BNN raided a Family-Run Drug Factory in Banten",
         "category": "En",
-        "publish_time": "3 hours ago",
+        "publish_time": "5 hours ago",
         "news_link": "https://en.republika.co.id/berita/skqi24415/bnn-raided-a-familyrun-drug-factory-in-banten"
     },
     {
         "title": "Muhammadiyah-Aisyiyah Campus Asks Prabowo Government to Give Tax Relief",
         "category": "En",
-        "publish_time": "4 hours ago",
+        "publish_time": "6 hours ago",
         "news_link": "https://en.republika.co.id/berita/skqhwy415/muhammadiyahaisyiyah-campus-asks-prabowo-government-to-give-tax-relief"
     },
     {
         "title": "15 Halal Products of RI Became the Largest in the OIC Countries",
         "category": "En",
-        "publish_time": "4 hours ago",
+        "publish_time": "6 hours ago",
         "news_link": "https://en.republika.co.id/berita/skqhsl415/15-halal-products-of-ri-became-the-largest-in-the-oic-countries"
     },
     {
         "title": "Pemilik Porsche Dapat Ganti Rugi Bengkel Rp 2,3 M Karena 11 Tahun Perbaikan tak Selesai",
         "category": "Ekonomi",
-        "publish_time": "02-10-2024 18:12",
+        "publish_time": "02-10-2024 17:59",
         "news_link": "https://ekonomi.republika.co.id/berita/skqqz0468/pemilik-porsche-dapat-ganti-rugi-bengkel-rp-23-m-karena-11-tahun-perbaikan-tak-selesai"
     },
     {
         "title": "BMKG Paparkan Ancaman Potensi Gempa Megathrust di Jember",
         "category": "News",
-        "publish_time": "02-10-2024 18:12",
+        "publish_time": "02-10-2024 17:59",
         "news_link": "https://news.republika.co.id/berita/skqmpv409/bmkg-paparkan-ancaman-potensi-gempa-megathrust-di-jember"
     },
     {
         "title": "Kegilaan Terbaru Israel, Jadikan Sekjen PBB Persona Non Grata",
         "category": "News",
-        "publish_time": "02-10-2024 17:12",
+        "publish_time": "02-10-2024 16:59",
         "news_link": "https://news.republika.co.id/berita/skqlvj393/kegilaan-terbaru-israel-jadikan-sekjen-pbb-persona-non-grata"
     },
     {
         "title": "Wudhu: Tak Hanya Membersihkan Fisik Secara Lahir, Tapi Juga Batin",
         "category": "Network",
-        "publish_time": "02-10-2024 17:12",
+        "publish_time": "02-10-2024 16:59",
         "news_link": "https://sajada.id/posts/333465/wudhu-tak-hanya-membersihkan-fisik-secara-lahir-tapi-juga-batin"
     },
     {
         "title": "Masuki Musim ke-22 NBA, LeBron James Wujudkan Mimpi Main Bareng Anak di Lakers",
         "category": "News",
-        "publish_time": "02-10-2024 17:12",
+        "publish_time": "02-10-2024 16:59",
         "news_link": "https://news.republika.co.id/berita/skqlnt348/masuki-musim-ke22-nba-lebron-james-wujudkan-mimpi-main-bareng-anak-di-lakers"
     },
     {
         "title": "Buron Sejak 2023, Akhirnya Bos Debt Collector yang Rampas Mobil di Semarang Ditangkap",
         "category": "Rejogja",
-        "publish_time": "02-10-2024 17:12",
+        "publish_time": "02-10-2024 16:59",
         "news_link": "https://rejogja.republika.co.id/berita/skqnh4282/buron-sejak-2023-akhirnya-bos-debt-collector-yang-rampas-mobil-di-semarang-ditangkap"
     },
     {
         "title": "Presiden Asosiasi Sepak Bola Thailand Bangga Kiprah Indonesia di Kualifikasi Piala Dunia",
         "category": "News",
-        "publish_time": "02-10-2024 17:12",
+        "publish_time": "02-10-2024 16:59",
         "news_link": "https://news.republika.co.id/berita/skqm97348/presiden-asosiasi-sepak-bola-thailand-bangga-kiprah-indonesia-di-kualifikasi-piala-dunia"
-    },
-    {
-        "title": "Tak Disangka, Begini Peran PCI Nahdlatul Ulama  di Luar Negeri",
-        "category": "Khazanah",
-        "publish_time": "02-10-2024 17:12",
-        "news_link": "https://khazanah.republika.co.id/berita/skq3zk451/tak-disangka-begini-peran-pci-nahdlatul-ulama-di-luar-negeri"
-    },
-    {
-        "title": "Pelatihan Membatik untuk Anak Berkebutuhan Khusus",
-        "category": "Visual",
-        "publish_time": "02-10-2024 17:12",
-        "news_link": "https://visual.republika.co.id/berita/skqkol375/pelatihan-membatik-untuk-anak-berkebutuhan-khusus"
-    },
-    {
-        "title": "Keluarga dan Musik Jadi Inspirasi bagi Koleksi Busana Terbaru Rama Dauhan",
-        "category": "Visual",
-        "publish_time": "02-10-2024 17:12",
-        "news_link": "https://visual.republika.co.id/berita/skqkah375/keluarga-dan-musik-jadi-inspirasi-bagi-koleksi-busana-terbaru-rama-dauhan"
-    },
-    {
-        "title": "Cucu Ki Hadjar Dewantara: Pendidikan adalah Perjalanan, Bukan Perlombaan",
-        "category": "News",
-        "publish_time": "02-10-2024 16:12",
-        "news_link": "https://news.republika.co.id/berita/skqdyb349/cucu-ki-hadjar-dewantara-pendidikan-adalah-perjalanan-bukan-perlombaan"
-    },
-    {
-        "title": "Pembangkit Listrik Terapung 60 MW Siap Pasok Listrik di Wilayah Indonesia Timur",
-        "category": "Visual",
-        "publish_time": "02-10-2024 16:12",
-        "news_link": "https://visual.republika.co.id/berita/skqjtl375/pembangkit-listrik-terapung-60-mw-siap-pasok-listrik-di-wilayah-indonesia-timur"
-    },
-    {
-        "title": "Kemhan Serahkan 769 Unit Alpalhankam ke Mabes TNI",
-        "category": "Visual",
-        "publish_time": "02-10-2024 16:12",
-        "news_link": "https://visual.republika.co.id/berita/skqjkc375/kemhan-serahkan-769-unit-alpalhankam-ke-mabes-tni"
-    },
-    {
-        "title": "Kejagung Kembali Sita Uang Tunai Rp.372 Miliar Kasus Perkebunan Sawit",
-        "category": "News",
-        "publish_time": "02-10-2024 16:12",
-        "news_link": "https://news.republika.co.id/berita/skqkv0318/kejagung-kembali-sita-uang-tunai-rp372-miliar-kasus-perkebunan-sawit"
-    },
-    {
-        "title": "Pola Pikir Penggunaan Dana Desa untuk Kegiatan Ekonomi Produktif Dinilai Penting",
-        "category": "News",
-        "publish_time": "02-10-2024 16:12",
-        "news_link": "https://news.republika.co.id/berita/skqkb9487/pola-pikir-penggunaan-dana-desa-untuk-kegiatan-ekonomi-produktif-dinilai-penting"
-    },
-    {
-        "title": "Kain Batik Sepanjang 4,1 Kilometer Terbentang di Pedestrian Kebun Raya Bogor",
-        "category": "Visual",
-        "publish_time": "02-10-2024 16:12",
-        "news_link": "https://visual.republika.co.id/berita/skqj76375/kain-batik-sepanjang-41-kilometer-terbentang-di-pedestrian-kebun-raya-bogor"
-    },
-    {
-        "title": "Delapan Tentara Elite IDF Tewas Disergap di Lebanon, Tiga Tank Merkava Hancur",
-        "category": "News",
-        "publish_time": "02-10-2024 16:12",
-        "news_link": "https://news.republika.co.id/berita/skqk5w393/delapan-tentara-elite-idf-tewas-disergap-di-lebanon-tiga-tank-merkava-hancur"
-    },
-    {
-        "title": "Sebanyak 8.231 Pekerja di Jateng Terkena PHK pada 2024, Paling Banyak di Sektor Tekstil",
-        "category": "News",
-        "publish_time": "02-10-2024 16:12",
-        "news_link": "https://news.republika.co.id/berita/skqjwm409/sebanyak-8231-pekerja-di-jateng-terkena-phk-pada-2024-paling-banyak-di-sektor-tekstil"
-    },
-    {
-        "title": "KPU Ungkap Ada 3.873 Pemilih Disabilitas di Pilkada Depok 2024",
-        "category": "Network",
-        "publish_time": "02-10-2024 16:12",
-        "news_link": "https://ruzkaindonesia.id/posts/333453/kpu-ungkap-ada-3-873-pemilih-disabilitas-di-pilkada-depok-2024"
-    },
-    {
-        "title": "Bappenas Sebut Potensi Konsumsi Produk Halal 3,1 Triliun Dolar AS",
-        "category": "Sharia",
-        "publish_time": "02-10-2024 16:12",
-        "news_link": "https://sharia.republika.co.id/berita/skqjr2370/bappenas-sebut-potensi-konsumsi-produk-halal-31-triliun-dolar-as"
-    },
-    {
-        "title": "Serangan Rudal Balistik Iran Akibatkan Kerusakan 100 Rumah di Tel Aviv",
-        "category": "News",
-        "publish_time": "02-10-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/skqjgv409/serangan-rudal-balistik-iran-akibatkan-kerusakan-100-rumah-di-tel-aviv"
-    },
-    {
-        "title": "Rayakan HUT Ke-26, Bank Mandiri Gelar Pasar Murah",
-        "category": "Visual",
-        "publish_time": "02-10-2024 15:12",
-        "news_link": "https://visual.republika.co.id/berita/skqj4i375/rayakan-hut-ke26-bank-mandiri-gelar-pasar-murah"
-    },
-    {
-        "title": "Ratusan Warga Bahodopi Deklarasi Gerakan Coblos Nomor 3 Menangkan Iksan-Iriane",
-        "category": "News",
-        "publish_time": "02-10-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/skq55h451/ratusan-warga-bahodopi-deklarasi-gerakan-coblos-nomor-3-menangkan-iksaniriane"
-    },
-    {
-        "title": "20 UMKM Binaan Pertamina Kebanjiran Pesanan di INACRAFT 2024",
-        "category": "Ekonomi",
-        "publish_time": "02-10-2024 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/skqior370/20-umkm-binaan-pertamina-kebanjiran-pesanan-di-inacraft-2024"
-    },
-    {
-        "title": "Presiden Pastikan Ketersediaan Beras Aman Hingga Akhir 2024",
-        "category": "Ekonomi",
-        "publish_time": "02-10-2024 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/skqhsw370/presiden-pastikan-ketersediaan-beras-aman-hingga-akhir-2024"
-    },
-    {
-        "title": "Seluruh Fraksi Partai Politik Sepakat, Ahmad Muzani Jadi Ketua MPR",
-        "category": "News",
-        "publish_time": "02-10-2024 14:12",
-        "news_link": "https://news.republika.co.id/berita/skqgpo484/seluruh-fraksi-partai-politik-sepakat-ahmad-muzani-jadi-ketua-mpr"
     }
 ]
