@@ -1,5 +1,47 @@
 [
     {
+        "title": "Dukungan BUMN Kunci Sukses UMKM",
+        "category": "Ekonomi",
+        "publish_time": "12 October 2024, 22:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/sl8ucw423/dukungan-bumn-kunci-sukses-umkm"
+    },
+    {
+        "title": "Otoritas Gaza Desak Warga Tolak Perintah Evakuasi Israel",
+        "category": "News",
+        "publish_time": "12 October 2024, 21:57",
+        "news_link": "https://news.republika.co.id/berita/sl908m377/otoritas-gaza-desak-warga-tolak-perintah-evakuasi-israel"
+    },
+    {
+        "title": "Ini Kesalahan Fatal Penyebab Kapal Rombongan Cagub Malut Terbakar, Benny Laos Ikut Tewas",
+        "category": "News",
+        "publish_time": "12 October 2024, 21:27",
+        "news_link": "https://news.republika.co.id/berita/sl8yu8377/ini-kesalahan-fatal-penyebab-kapal-rombongan-cagub-malut-terbakar-benny-laos-ikut-tewas"
+    },
+    {
+        "title": "Ribuan Tokoh Masyarakat dan Ulama Depok Siap Menangkan ASIH, Aher: Raih Kemenangan Telak",
+        "category": "Rejabar",
+        "publish_time": "12 October 2024, 21:26",
+        "news_link": "https://rejabar.republika.co.id/berita/sl8ysb512/ribuan-tokoh-masyarakat-dan-ulama-depok-siap-menangkan-asih-aher-raih-kemenangan-telak"
+    },
+    {
+        "title": "Hore! Museum Nasional Buka Kembali 15 Oktober, Ini Daftar koleksi yang Bisa Dilihat",
+        "category": "Rejakarta",
+        "publish_time": "12 October 2024, 21:26",
+        "news_link": "https://republika.co.id/berita/sl8yrd366/hore-museum-nasional-buka-kembali-15-oktober-ini-daftar-koleksi-yang-bisa-dilihat"
+    },
+    {
+        "title": "BRImo FSTVL 2024 Ajak Generasi Muda Main di Playzone",
+        "category": "Ekonomi",
+        "publish_time": "12 October 2024, 21:15",
+        "news_link": "https://ekonomi.republika.co.id/berita/sl8vu1502/brimo-fstvl-2024-ajak-generasi-muda-main-di-playzone"
+    },
+    {
+        "title": "Waspada Aksi Penipuan Catut Nama Pj Bupati Garut",
+        "category": "Rejabar",
+        "publish_time": "12 October 2024, 21:10",
+        "news_link": "https://rejabar.republika.co.id/berita/sl8y1x512/waspada-aksi-penipuan-catut-nama-pj-bupati-garut"
+    },
+    {
         "title": "Sah, Ini 11 Atlet yang Resmi Diterima Masuk PB Djarum Lewat Jalur Audisi Umum 2024",
         "category": "News",
         "publish_time": "12 October 2024, 21:09",
@@ -256,47 +298,5 @@
         "category": "Network",
         "publish_time": "12 October 2024, 15:32",
         "news_link": "https://impresiupdate.id/posts/482187/bahaya-kloning-suara-dan-cara-mengatasinya"
-    },
-    {
-        "title": "Bahaya Kloning Suara dan Cara Mengatasinya",
-        "category": "Network",
-        "publish_time": "12 October 2024, 15:32",
-        "news_link": "https://impresiupdate.id/posts/482187/bahaya-kloning-suara-dan-cara-mengatasinya"
-    },
-    {
-        "title": "Bahaya Kloning Suara dan Cara Mengatasinya",
-        "category": "Network",
-        "publish_time": "12 October 2024, 15:32",
-        "news_link": "https://impresiupdate.id/posts/482187/bahaya-kloning-suara-dan-cara-mengatasinya"
-    },
-    {
-        "title": "Pengisian Daya, Bukan Jarak Tempuh, yang Jadi Perhatian Utama Pengemudi Mobil Listrik",
-        "category": "Network",
-        "publish_time": "12 October 2024, 15:32",
-        "news_link": "https://impresiupdate.id/posts/482188/pengisian-daya-bukan-jarak-tempuh-yang-jadi-perhatian-utama-pengemudi-mobil-listrik"
-    },
-    {
-        "title": "Mirip Desak Anies, Bedah Solusi Sabani Syukri  Buka Ruang Lebar untuk Demokrasi",
-        "category": "Network",
-        "publish_time": "12 October 2024, 15:31",
-        "news_link": "https://sekitarkaltim.id/posts/482253/mirip-desak-anies-bedah-solusi-sabani-syukri-buka-ruang-lebar-untuk-demokrasi"
-    },
-    {
-        "title": "Taiwan Excellence Happy Run Kembali Digelar di Indonesia, Diikuti 5.000 Pelari",
-        "category": "Network",
-        "publish_time": "12 October 2024, 15:30",
-        "news_link": "https://magentatoday.id/posts/482175/taiwan-excellence-happy-run-kembali-digelar-di-indonesia-diikuti-5-000-pelari"
-    },
-    {
-        "title": "Model Asal Rusia Ditangkap di Surabaya, Terancam Tiga Bulan Penjara dan Denda",
-        "category": "Network",
-        "publish_time": "12 October 2024, 15:30",
-        "news_link": "https://sekitarsurabaya.com/posts/482179/model-asal-rusia-ditangkap-di-surabaya-terancam-tiga-bulan-penjara-dan-denda"
-    },
-    {
-        "title": "Dream Theater Bakal Luncurkan Album Baru Parasomnia dengan Merilis Singel Anyar Night Terror",
-        "category": "Network",
-        "publish_time": "12 October 2024, 15:30",
-        "news_link": "https://impresiupdate.id/posts/482181/dream-theater-bakal-luncurkan-album-baru-parasomnia-dengan-merilis-singel-anyar-night-terror"
     }
 ]
