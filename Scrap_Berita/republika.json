@@ -1,5 +1,83 @@
 [
     {
+        "title": "Wacana PDIP Masuk Kabinet, Gibran Serahkan Putusan ke Prabowo",
+        "category": "News",
+        "publish_time": "12 October 2024, 15:12",
+        "news_link": "https://news.republika.co.id/berita/sl8hge377/wacana-pdip-masuk-kabinet-gibran-serahkan-putusan-ke-prabowo"
+    },
+    {
+        "title": "Ulah Reporter Bahrain Wawancarai Fans Timnas yang Kesal, Hasil Imbang? Haram!",
+        "category": "News",
+        "publish_time": "12 October 2024, 15:01",
+        "news_link": "https://news.republika.co.id/berita/sl8gxw475/ulah-reporter-bahrain-wawancarai-fans-timnas-yang-kesal-hasil-imbang-haram"
+    },
+    {
+        "title": "Jenderal Iran Ungkap Rahasia Hizbullah tak Nyerah Meski Komandan Mereka Dibunuh Israel",
+        "category": "News",
+        "publish_time": "12 October 2024, 14:58",
+        "news_link": "https://news.republika.co.id/berita/sl8gsy377/jenderal-iran-ungkap-rahasia-hizbullah-tak-nyerah-meski-komandan-mereka-dibunuh-israel"
+    },
+    {
+        "title": "OJK Perkuat Keuangan Digital Melalui Berbagai Inisiatif",
+        "category": "Ekonomi",
+        "publish_time": "12 October 2024, 14:57",
+        "news_link": "https://ekonomi.republika.co.id/berita/sl8g8l423/ojk-perkuat-keuangan-digital-melalui-berbagai-inisiatif"
+    },
+    {
+        "title": "Direktur BNI Berbagi Tips Berinvestasi Sesuai Profil Risiko",
+        "category": "Ekonomi",
+        "publish_time": "12 October 2024, 14:43",
+        "news_link": "https://ekonomi.republika.co.id/berita/sl8g4a423/direktur-bni-berbagi-tips-berinvestasi-sesuai-profil-risiko"
+    },
+    {
+        "title": "Cari Keberkahan tapi Bukan Syirik, Ini Lima Model Tabarruk Menurut Islam",
+        "category": "Khazanah",
+        "publish_time": "12 October 2024, 14:42",
+        "news_link": "https://khazanah.republika.co.id/berita/sl7zs8483/cari-keberkahan-tapi-bukan-syirik-ini-lima-model-tabarruk-menurut-islam"
+    },
+    {
+        "title": "Erick Thohir Beri Selamat Kevin Dicks Gabung Timnas Indonesia",
+        "category": "News",
+        "publish_time": "12 October 2024, 14:37",
+        "news_link": "https://news.republika.co.id/berita/sl8fuk484/erick-thohir-beri-selamat-kevin-dicks-gabung-timnas-indonesia"
+    },
+    {
+        "title": "4 Daerah di NTB Dinyatakan Masuk Level Awas Kekeringan",
+        "category": "Esgnow",
+        "publish_time": "12 October 2024, 14:36",
+        "news_link": "https://esgnow.republika.co.id/berita/sl8fsf425/4-daerah-di-ntb-dinyatakan-masuk-level-awas-kekeringan"
+    },
+    {
+        "title": "Keuangan Syariah Tumbuh Pesat, OJK Catat Aset Mencapai Rp 2.742 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "12 October 2024, 14:35",
+        "news_link": "https://ekonomi.republika.co.id/berita/sl8fat423/keuangan-syariah-tumbuh-pesat-ojk-catat-aset-mencapai-rp-2742-triliun"
+    },
+    {
+        "title": "Pelatihan Strategi Branding dari BUMN Mendorong UMKM Go Global",
+        "category": "Rejabar",
+        "publish_time": "12 October 2024, 14:29",
+        "news_link": "https://rejabar.republika.co.id/berita/sl8cv2456/pelatihan-strategi-branding-dari-bumn-mendorong-umkm-go-global"
+    },
+    {
+        "title": "Capres AS Kamala Harris Larang Iran Punya Bom Nuklir, Tapi Berikan Apa Pun Buat Israel",
+        "category": "News",
+        "publish_time": "12 October 2024, 14:21",
+        "news_link": "https://news.republika.co.id/berita/sl8f45377/capres-as-kamala-harris-larang-iran-punya-bom-nuklir-tapi-berikan-apa-pun-buat-israel"
+    },
+    {
+        "title": "China Tingkatkan Utang untuk Pulihkan Pertumbuhan Ekonomi",
+        "category": "Ekonomi",
+        "publish_time": "12 October 2024, 14:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/sl8ezw423/china-tingkatkan-utang-untuk-pulihkan-pertumbuhan-ekonomi"
+    },
+    {
+        "title": "MUI: Dewan Pengawas Syariah Perkuat Lembaga Keuangan Syariah",
+        "category": "Sharia",
+        "publish_time": "12 October 2024, 14:15",
+        "news_link": "https://sharia.republika.co.id/berita/sl8etv423/mui-dewan-pengawas-syariah-perkuat-lembaga-keuangan-syariah"
+    },
+    {
         "title": "Mary Teresa Gerti, Peluk Islam Usai Yakini Yesus Sebagai Nabi",
         "category": "Khazanah",
         "publish_time": "12 October 2024, 14:07",
@@ -220,83 +298,5 @@
         "category": "Khazanah",
         "publish_time": "12 October 2024, 09:15",
         "news_link": "https://khazanah.republika.co.id/berita/sl80co451/mandatory-halal-17-oktober-ini-sanksi-paling-berat-bagi-yang-belum-bersertifikat-halal"
-    },
-    {
-        "title": "Jokowi will Award the Nugraha Sakanti Honorary Medal to Seven National Police Units",
-        "category": "En",
-        "publish_time": "Saturday, 12 October 2024, 09:09",
-        "news_link": "https://en.republika.co.id/berita/sl80gj415/jokowi-will-award-the-nugraha-sakanti-honorary-medal-to-seven-national-police-units"
-    },
-    {
-        "title": "Tentara Zionis Israel Incar Kelompok ini",
-        "category": "Khazanah",
-        "publish_time": "12 October 2024, 09:00",
-        "news_link": "https://khazanah.republika.co.id/berita/sl7ars451/tentara-zionis-israel-incar-kelompok-ini"
-    },
-    {
-        "title": "Muhammadiyah Prioritizes Development of BPRS before Sharia Bank Form",
-        "category": "En",
-        "publish_time": "Saturday, 12 October 2024, 08:51",
-        "news_link": "https://en.republika.co.id/berita/sl7zta415/muhammadiyah-prioritizes-development-of-bprs-before-sharia-bank-form"
-    },
-    {
-        "title": "Presiden Filipina Tuding China Lakukan Intimidasi dan Pelecehan",
-        "category": "News",
-        "publish_time": "12 October 2024, 08:41",
-        "news_link": "https://news.republika.co.id/berita/sl7zdv484/presiden-filipina-tuding-china-lakukan-intimidasi-dan-pelecehan"
-    },
-    {
-        "title": "Profil Risiko Perlu Dikenali Sebelum Tentukan Instrumen Investasi",
-        "category": "Ekonomi",
-        "publish_time": "12 October 2024, 08:34",
-        "news_link": "https://ekonomi.republika.co.id/berita/sl7z5r415/profil-risiko-perlu-dikenali-sebelum-tentukan-instrumen-investasi"
-    },
-    {
-        "title": "Ini Robotaxi Tesla Seharga Rp 467 Juta",
-        "category": "Ekonomi",
-        "publish_time": "12 October 2024, 08:30",
-        "news_link": "https://ekonomi.republika.co.id/berita/sl7yvc468/ini-robotaxi-tesla-seharga-rp-467-juta"
-    },
-    {
-        "title": "Nikaragua Putuskan Hubungan Diplomatik dengan Israel",
-        "category": "News",
-        "publish_time": "12 October 2024, 08:26",
-        "news_link": "https://news.republika.co.id/berita/sl7ynu484/nikaragua-putuskan-hubungan-diplomatik-dengan-israel"
-    },
-    {
-        "title": "Ketinggian Rel tidak Sama, PT KAI Daop 2 Perbaiki Perlintasan Ahmad Yani-Cikudapateh",
-        "category": "News",
-        "publish_time": "12 October 2024, 08:19",
-        "news_link": "https://news.republika.co.id/berita/sl7yd3425/ketinggian-rel-tidak-sama-pt-kai-daop-2-perbaiki-perlintasan-ahmad-yanicikudapateh"
-    },
-    {
-        "title": "Media Asing Beritakan Wasit Kontroversial Bahrain vs Indonesia",
-        "category": "News",
-        "publish_time": "12 October 2024, 08:01",
-        "news_link": "https://news.republika.co.id/berita/sl7xi4328/media-asing-beritakan-wasit-kontroversial-bahrain-vs-indonesia"
-    },
-    {
-        "title": "Menteri Bintang: Kesetaraan Gender Harus Diajarkan Sedini Mungkin",
-        "category": "News",
-        "publish_time": "12 October 2024, 08:00",
-        "news_link": "https://news.republika.co.id/berita/sl7ak0451/menteri-bintang-kesetaraan-gender-harus-diajarkan-sedini-mungkin"
-    },
-    {
-        "title": "PP Darul Quran Wal Irsyad Dorong Literasi Santri terhadap Pemberitaan Media Mainstream",
-        "category": "Rejogja",
-        "publish_time": "12 October 2024, 07:55",
-        "news_link": "https://rejogja.republika.co.id/berita/sl7x9a291/pp-darul-quran-wal-irsyad-dorong-literasi-santri-terhadap-pemberitaan-media-mainstream"
-    },
-    {
-        "title": "Paxel Jadi Perusahaan Kurir Logistik Pertama Raih Sertifikasi Halal Logistik",
-        "category": "Sharia",
-        "publish_time": "12 October 2024, 07:53",
-        "news_link": "https://sharia.republika.co.id/berita/sl7x5g468/paxel-jadi-perusahaan-kurir-logistik-pertama-raih-sertifikasi-halal-logistik"
-    },
-    {
-        "title": "Kasus Kekerasan Terhadap Perempuan, Komnas Perempuan Minta Setop Salahkan Korban",
-        "category": "Ameera",
-        "publish_time": "12 October 2024, 07:41",
-        "news_link": "https://ameera.republika.co.id/berita/sl7wli425/kasus-kekerasan-terhadap-perempuan-komnas-perempuan-minta-setop-salahkan-korban"
     }
 ]
