@@ -1,110 +1,236 @@
 [
     {
+        "title": "Kesalahan Diet yang Sebaiknya tak Dilakukan Usia 40-an Tahun",
+        "category": "Ameera",
+        "publish_time": "14-10-2024 10:11",
+        "news_link": "https://ameera.republika.co.id/berita/slcca0425/kesalahan-diet-yang-sebaiknya-tak-dilakukan-usia-40an-tahun"
+    },
+    {
+        "title": "Ini Para Calon Menteri yang Sudah Dipanggil Prabowo ke Kartanegara",
+        "category": "News",
+        "publish_time": "14-10-2024 10:05",
+        "news_link": "https://news.republika.co.id/berita/slcc0s409/ini-para-calon-menteri-yang-sudah-dipanggil-prabowo-ke-kartanegara"
+    },
+    {
+        "title": "Pasar Fokus pada Ekspektasi Penurunan Suku Bunga The Fed, Rupiah Menguat",
+        "category": "Ekonomi",
+        "publish_time": "14-10-2024 10:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/slcanm370/pasar-fokus-pada-ekspektasi-penurunan-suku-bunga-the-fed-rupiah-menguat"
+    },
+    {
+        "title": "Medco Energi Tingkatkan Peringkat ESG dan Komitmen Keberlanjutan",
+        "category": "Esgnow",
+        "publish_time": "14-10-2024 10:00",
+        "news_link": "https://esgnow.republika.co.id/berita/slc9h6416/medco-energi-tingkatkan-peringkat-esg-dan-komitmen-keberlanjutan"
+    },
+    {
+        "title": "Investasi Berkelanjutan Terus Bertumbuh, PLN Siap Layani Kebutuhan Energi Bersih",
+        "category": "Ekonomi",
+        "publish_time": "14-10-2024 09:57",
+        "news_link": "https://ekonomi.republika.co.id/berita/slcbnn370/investasi-berkelanjutan-terus-bertumbuh-pln-siap-layani-kebutuhan-energi-bersih"
+    },
+    {
+        "title": "Polres Indramayu Gelar Operasi Zebra Lodaya 2024, Catat Sasaran Pelanggarannya",
+        "category": "Rejabar",
+        "publish_time": "14-10-2024 09:56",
+        "news_link": "https://rejabar.republika.co.id/berita/slcbkz512/polres-indramayu-gelar-operasi-zebra-lodaya-2024-catat-sasaran-pelanggarannya"
+    },
+    {
+        "title": "Pusat Persemaian Liang Anggang Diresmikan, Kontribusi Adaro pada Penanganan Lahan Kritis",
+        "category": "Video",
+        "publish_time": "14-10-2024 09:55",
+        "news_link": "https://tv.republika.co.id/berita/slcbjp418/pusat-persemaian-liang-anggang-diresmikan-kontribusi-adaro-pada-penanganan-lahan-kritis"
+    },
+    {
+        "title": "Cak Imin Sambangi Kertanegara, PKB dapat Menteri Apa?",
+        "category": "News",
+        "publish_time": "14-10-2024 09:51",
+        "news_link": "https://news.republika.co.id/berita/slcbdq393/cak-imin-sambangi-kertanegara-pkb-dapat-menteri-apa"
+    },
+    {
+        "title": "Prabowo Mulai Panggil Calon Menteri, Kapan Pertemuan dengan Megawati? Ini Kata Elite PDIP",
+        "category": "News",
+        "publish_time": "14-10-2024 09:48",
+        "news_link": "https://news.republika.co.id/berita/slcb8a487/prabowo-mulai-panggil-calon-menteri-kapan-pertemuan-dengan-megawati-ini-kata-elite-pdip"
+    },
+    {
+        "title": "Peraih Adhi Makayasa Akmil 1999 Turut Dipanggil ke Kediaman Prabowo",
+        "category": "News",
+        "publish_time": "14-10-2024 09:45",
+        "news_link": "https://news.republika.co.id/berita/slcb44484/peraih-adhi-makayasa-akmil-1999-turut-dipanggil-ke-kediaman-prabowo"
+    },
+    {
+        "title": "Garuda Konfirmasi Kembali Terbang dari Bandara Halim Perdanakusuma pada 1 November",
+        "category": "Ekonomi",
+        "publish_time": "14-10-2024 09:45",
+        "news_link": "https://ekonomi.republika.co.id/berita/slcagt370/garuda-konfirmasi-kembali-terbang-dari-bandara-halim-perdanakusuma-pada-1-november"
+    },
+    {
+        "title": "Jimin BTS Diduga Jadi Korban Penipuan Komedian Lee Jin-ho, Ini Kata Agensi",
+        "category": "Ameera",
+        "publish_time": "14-10-2024 09:41",
+        "news_link": "https://ameera.republika.co.id/berita/slcaxd425/jimin-bts-diduga-jadi-korban-penipuan-komedian-lee-jinho-ini-kata-agensi"
+    },
+    {
+        "title": "OJK Luncurkan Peta Jalan Penguatan dan Pengembangan BPD 2024-2027",
+        "category": "Ekonomi",
+        "publish_time": "14-10-2024 09:32",
+        "news_link": "https://ekonomi.republika.co.id/berita/slcai9490/ojk-luncurkan-peta-jalan-penguatan-dan-pengembangan-bpd-20242027"
+    },
+    {
+        "title": "Prof Abdul Mu'ti Mengaku Ditunjuk Prabowo Sebagai Menteri Pendidikan",
+        "category": "News",
+        "publish_time": "14-10-2024 09:32",
+        "news_link": "https://news.republika.co.id/berita/slcagw484/prof-abdul-muti-mengaku-ditunjuk-prabowo-sebagai-menteri-pendidikan"
+    },
+    {
+        "title": "Cerita Dasco Saat Prabowo Minta Nasdem Kirim Nama untuk Mengisi Kabinet, Tapi Ditolak",
+        "category": "News",
+        "publish_time": "14-10-2024 09:30",
+        "news_link": "https://news.republika.co.id/berita/slcaeh487/cerita-dasco-saat-prabowo-minta-nasdem-kirim-nama-untuk-mengisi-kabinet-tapi-ditolak"
+    },
+    {
+        "title": "Sekretariat DPRD Jawa Barat dan DPRD Provinsi Banten Bahas Tugas dan Fungsi Komisi II",
+        "category": "Rejabar",
+        "publish_time": "14-10-2024 09:25",
+        "news_link": "https://rejabar.republika.co.id/berita/slca6k370/sekretariat-dprd-jawa-barat-dan-dprd-provinsi-banten-bahas-tugas-dan-fungsi-komisi-ii"
+    },
+    {
+        "title": "Sekjen Gerindra: Beberapa Menteri Jokowi Masuk Kabinet Prabowo",
+        "category": "News",
+        "publish_time": "14-10-2024 09:21",
+        "news_link": "https://news.republika.co.id/berita/slc9z5409/sekjen-gerindra-beberapa-menteri-jokowi-masuk-kabinet-prabowo"
+    },
+    {
+        "title": "Mengejutkan, Chris Bumstead Nyatakan Pensiun dari Dunia Binaraga",
+        "category": "Ameera",
+        "publish_time": "14-10-2024 09:20",
+        "news_link": "https://ameera.republika.co.id/berita/slc9xq425/mengejutkan-chris-bumstead-nyatakan-pensiun-dari-dunia-binaraga"
+    },
+    {
+        "title": "Ini Elektabilitas Cagub-Cawagub Jatim Menurut Survei Terbaru ARCI",
+        "category": "News",
+        "publish_time": "14-10-2024 09:17",
+        "news_link": "https://news.republika.co.id/berita/slc9sr409/ini-elektabilitas-cagubcawagub-jatim-menurut-survei-terbaru-arci"
+    },
+    {
+        "title": "Tok! Pemerintah Tetapkan 27 Hari Libur Nasional dan Cuti Bersama pada 2025",
+        "category": "News",
+        "publish_time": "14-10-2024 09:17",
+        "news_link": "https://news.republika.co.id/berita/slc9sg487/tok-pemerintah-tetapkan-27-hari-libur-nasional-dan-cuti-bersama-pada-2025"
+    },
+    {
+        "title": "China Bertekad Bangkit di Kualifikasi Piala Dunia Saat Jamu Indonesia",
+        "category": "News",
+        "publish_time": "14-10-2024 09:16",
+        "news_link": "https://news.republika.co.id/berita/slc9qj348/china-bertekad-bangkit-di-kualifikasi-piala-dunia-saat-jamu-indonesia"
+    },
+    {
         "title": "Tito, Bahlil, Gus Ipul, Zulhas, Hingga Fadli Zon Dipanggil Prabowo",
         "category": "News",
-        "publish_time": "14-10-2024 09:07",
+        "publish_time": "14-10-2024 09:14",
         "news_link": "https://news.republika.co.id/berita/slc9cf484/tito-bahlil-gus-ipul-zulhas-hingga-fadli-zon-dipanggil-prabowo"
     },
     {
         "title": "Garuda Terbang dari Halim, Angkasa Pura Indonesia: Angin Segar Industri Penerbangan",
         "category": "Ekonomi",
-        "publish_time": "14-10-2024 09:04",
+        "publish_time": "14-10-2024 09:14",
         "news_link": "https://ekonomi.republika.co.id/berita/slc982490/garuda-terbang-dari-halim-angkasa-pura-indonesia-angin-segar-industri-penerbangan"
     },
     {
         "title": "BPR Diarahkan untuk Berada di Bawah Naungan BPD, Ini Alasan OJK",
         "category": "Ekonomi",
-        "publish_time": "14-10-2024 09:04",
+        "publish_time": "14-10-2024 09:14",
         "news_link": "https://ekonomi.republika.co.id/berita/slc97k370/bpr-diarahkan-untuk-berada-di-bawah-naungan-bpd-ini-alasan-ojk"
     },
     {
         "title": "RIIZE Kehilangan Banyak Followers Saat Fandom K-Pop Protes Penarikan Diri Seunghan",
         "category": "Ameera",
-        "publish_time": "14-10-2024 09:01",
+        "publish_time": "14-10-2024 09:14",
         "news_link": "https://ameera.republika.co.id/berita/slc92s425/riize-kehilangan-banyak-followers-saat-fandom-kpop-protes-penarikan-diri-seunghan"
     },
     {
         "title": "Pendidikan Perubahan Iklim Masuk Kurikulum",
         "category": "Esgnow",
-        "publish_time": "14-10-2024 09:01",
+        "publish_time": "14-10-2024 09:14",
         "news_link": "https://esgnow.republika.co.id/berita/slc92f416/pendidikan-perubahan-iklim-masuk-kurikulum"
     },
     {
         "title": "Bersama BNNP Kalimantan Utara, Bea Cukai Tarakan Musnahkan 2.524,61 Gram Sabu",
         "category": "Beacukai",
-        "publish_time": "14-10-2024 08:51",
+        "publish_time": "14-10-2024 09:14",
         "news_link": "https://republika.co.id/berita/slc8m8490/bersama-bnnp-kalimantan-utara-bea-cukai-tarakan-musnahkan-2-52461-gram-sabu"
     },
     {
         "title": "Netanyahu Ancam PBB Segera Tarik UNIFIL, Guterres: Pasukan Perdamaian Tetap di Posisinya!",
         "category": "Khazanah",
-        "publish_time": "14-10-2024 08:45",
+        "publish_time": "14-10-2024 09:14",
         "news_link": "https://khazanah.republika.co.id/berita/slc8bw483/netanyahu-ancam-pbb-segera-tarik-unifil-guterres-pasukan-perdamaian-tetap-di-posisinya"
     },
     {
         "title": "Pep Guardiola Bantah Kabar akan Latih Timnas Inggris dalam Waktu Dekat",
         "category": "News",
-        "publish_time": "14-10-2024 08:44",
+        "publish_time": "14-10-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/slc89z348/pep-guardiola-bantah-kabar-akan-latih-timnas-inggris-dalam-waktu-dekat"
     },
     {
         "title": "Masalah Gizi di Indonesia Dinilai Sama 'Besar' dengan Penyakit Kronis Lainnya",
         "category": "Ameera",
-        "publish_time": "14-10-2024 08:43",
+        "publish_time": "14-10-2024 08:14",
         "news_link": "https://ameera.republika.co.id/berita/slc88i425/masalah-gizi-di-indonesia-dinilai-sama-besar-dengan-penyakit-kronis-lainnya"
     },
     {
         "title": "Bea Cukai dan Satpol PP Jawa Barat Musnahkan Barang Kena Cukai Ilegal Senilai Rp 10 Miliar",
         "category": "Beacukai",
-        "publish_time": "14-10-2024 08:43",
+        "publish_time": "14-10-2024 08:14",
         "news_link": "https://republika.co.id/berita/slc87u370/bea-cukai-dan-satpol-pp-jawa-barat-musnahkan-barang-kena-cukai-ilegal-senilai-rp-10-miliar"
     },
     {
         "title": "Prabowo Panggil Sejumlah Nama untuk Posisi Menteri, Berikut Daftarnya",
         "category": "News",
-        "publish_time": "14-10-2024 08:34",
+        "publish_time": "14-10-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/slc7u1484/prabowo-panggil-sejumlah-nama-untuk-posisi-menteri-berikut-daftarnya"
     },
     {
         "title": "Soal Jatah Kursi Menteri Golkar, Bahlil: Kami Serahkan Sepenuhnya ke Prabowo",
         "category": "News",
-        "publish_time": "14-10-2024 08:32",
+        "publish_time": "14-10-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/slc7qi377/soal-jatah-kursi-menteri-golkar-bahlil-kami-serahkan-sepenuhnya-ke-prabowo"
     },
     {
         "title": "OJK Ungkap 20 BPR Ditutup pada Tahun Ini Karena Kendala Keuangan",
         "category": "Ekonomi",
-        "publish_time": "14-10-2024 08:31",
+        "publish_time": "14-10-2024 08:14",
         "news_link": "https://ekonomi.republika.co.id/berita/slc7od370/ojk-ungkap-20-bpr-ditutup-pada-tahun-ini-karena-kendala-keuangan"
     },
     {
         "title": "Ilmuwan Tegaskan Perubahan Iklim Membuat Badai Semakin Kuat",
         "category": "Esgnow",
-        "publish_time": "14-10-2024 08:29",
+        "publish_time": "14-10-2024 08:14",
         "news_link": "https://esgnow.republika.co.id/berita/slc5jk416/ilmuwan-tegaskan-perubahan-iklim-membuat-badai-semakin-kuat"
     },
     {
         "title": "DPR Sepakat Jumlah Komisi Bertambah Dua Menjadi 13",
         "category": "News",
-        "publish_time": "14-10-2024 08:27",
+        "publish_time": "14-10-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/slc7hf377/dpr-sepakat-jumlah-komisi-bertambah-dua-menjadi-13"
     },
     {
         "title": "Bank Indonesia Musnahkan 93.967 Lembar Uang Palsu yang Ditemukan di Jabar",
         "category": "Rejabar",
-        "publish_time": "14-10-2024 08:26",
+        "publish_time": "14-10-2024 08:14",
         "news_link": "https://rejabar.republika.co.id/berita/slc7gw512/bank-indonesia-musnahkan-93967-lembar-uang-palsu-yang-ditemukan-di-jabar"
     },
     {
         "title": "SpaceX Sukses Uji Coba Booster Starship dengan Pendaratan Sempurna",
         "category": "Ameera",
-        "publish_time": "14-10-2024 08:16",
+        "publish_time": "14-10-2024 08:14",
         "news_link": "https://ameera.republika.co.id/berita/slc6zp425/spacex-sukses-uji-coba-booster-starship-dengan-pendaratan-sempurna"
     },
     {
         "title": "Israel Akui Terpukul oleh Serangan Hizbullah, Kepala Militer: Ini Menyakitkan!",
         "category": "News",
-        "publish_time": "14-10-2024 08:15",
+        "publish_time": "14-10-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/slc6xp377/israel-akui-terpukul-oleh-serangan-hizbullah-kepala-militer-ini-menyakitkan"
     },
     {
@@ -172,131 +298,5 @@
         "category": "News",
         "publish_time": "14-10-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/slc5z6458/kegigihan-ulama-aceh-tengku-abdul-jalil"
-    },
-    {
-        "title": "Sejarah Ringkas Kaum Yahudi",
-        "category": "News",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://news.republika.co.id/berita/slc5gb458/sejarah-ringkas-kaum-yahudi"
-    },
-    {
-        "title": "Pertamina Kurangi Emisi dengan Injeksi CO2 Pakai Teknologi CCUS",
-        "category": "Ekonomi",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/slc5dv370/pertamina-kurangi-emisi-dengan-injeksi-co2-pakai-teknologi-ccus"
-    },
-    {
-        "title": "Memetik Hikmah dari Kisah Fudhail bin Iyadh",
-        "category": "Retizen",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://retizen.republika.co.id/posts/482480/memetik-hikmah-dari-kisah-fudhail-bin-iyadh"
-    },
-    {
-        "title": "Mendidik Spirit Amil ke Anak",
-        "category": "Retizen",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://retizen.republika.co.id/posts/482453/mendidik-spirit-amil-ke-anak"
-    },
-    {
-        "title": "Pengembangan Bioetanol Jangan Hanya Andalkan Tebu",
-        "category": "Esgnow",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://esgnow.republika.co.id/berita/slc57f416/pengembangan-bioetanol-jangan-hanya-andalkan-tebu"
-    },
-    {
-        "title": "Orang Cina tak Mau Disebut Sebagai Orang Indonesia, Ini Penyebabnya",
-        "category": "Network",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://oohya.republika.co.id/posts/482479/orang-cina-tak-mau-disebut-sebagai-orang-indonesia-ini-penyebabnya"
-    },
-    {
-        "title": "Terungkap! Bintik Merah Besar di Jupiter Ternyata Bergoyang Seperti Gelatin, Bergeser dan Kini Menyusut",
-        "category": "Network",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://antariksa.republika.co.id/posts/482408/terungkap-bintik-merah-besar-di-jupiter-ternyata-bergoyang-seperti-gelatin-bergeser-dan-kini-menyusut"
-    },
-    {
-        "title": "Israel Dapat Belasungkawa Menhan AS, Seserius Apa Serangan Hizbullah?",
-        "category": "News",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://news.republika.co.id/berita/slc53e393/israel-dapat-belasungkawa-menhan-as-seserius-apa-serangan-hizbullah"
-    },
-    {
-        "title": "Garuda Mau Kembali Terbang Melalui Halim, Ini Plus dan Minusnya bagi Penumpang",
-        "category": "Ekonomi",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/slc52t370/garuda-mau-kembali-terbang-melalui-halim-ini-plus-dan-minusnya-bagi-penumpang"
-    },
-    {
-        "title": "Eksodus Besar-besaran, Jumlah Warga Israel Tinggalkan Negaranya Cetak Rekor dalam Sejarah",
-        "category": "News",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://news.republika.co.id/berita/slc52l409/eksodus-besarbesaran-jumlah-warga-israel-tinggalkan-negaranya-cetak-rekor-dalam-sejarah"
-    },
-    {
-        "title": "Kapan Tanggal Masehi 2024 Puasa Ayyamul Bidh pada Bulan Rabiul Akhir ini?",
-        "category": "Khazanah",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://khazanah.republika.co.id/berita/slc50o430/kapan-tanggal-masehi-2024-puasa-ayyamul-bidh-pada-bulan-rabiul-akhir-ini"
-    },
-    {
-        "title": "Mendengar Ayat Ini, Khalifah Umar Menangis Hingga tak Sadarkan Diri",
-        "category": "Khazanah",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://khazanah.republika.co.id/berita/slc4x6458/mendengar-ayat-ini-khalifah-umar-menangis-hingga-tak-sadarkan-diri"
-    },
-    {
-        "title": "Denmark Open 2024: Gregoria Dikepung Pemain Tuan Rumah",
-        "category": "Network",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://badmintonews.id/posts/482481/denmark-open-2024-gregoria-dikepung-pemain-tuan-rumah"
-    },
-    {
-        "title": "Polda Metro Jaya Gelar Operasi Zebra Jaya 2024, Ini 14 Jenis Pelanggaran yang Ditindak",
-        "category": "Network",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://ruzkaindonesia.id/posts/482473/polda-metro-jaya-gelar-operasi-zebra-jaya-2024-ini-14-jenis-pelanggaran-yang-ditindak"
-    },
-    {
-        "title": "Shinkansen Kereta Cepat Pertama di Dunia sudah 60 Tahun Beroperasi",
-        "category": "Network",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://kingdomsriwijaya.id/posts/482476/shinkansen-kereta-cepat-pertama-di-dunia-sudah-60-tahun-beroperasi"
-    },
-    {
-        "title": "Jonatan Janji Bakal Maksimal di Denmark Open 2024",
-        "category": "Network",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://badmintonews.id/posts/482474/jonatan-janji-bakal-maksimal-di-denmark-open-2024"
-    },
-    {
-        "title": "Karhutla di Peru Hancurkan Ekosistem",
-        "category": "Esgnow",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://esgnow.republika.co.id/berita/slc4pa416/karhutla-di-peru-hancurkan-ekosistem"
-    },
-    {
-        "title": "Terbang dari Halim, Harga Tiket Garuda Disebut akan Bisa Lebih Murah",
-        "category": "Rejabar",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://rejabar.republika.co.id/berita/slc4oi282/terbang-dari-halim-harga-tiket-garuda-disebut-akan-bisa-lebih-murah"
-    },
-    {
-        "title": "Polisi Musnahkan Ratusan Ribu Obat Keras di Bandung",
-        "category": "Rejabar",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://rejabar.republika.co.id/berita/slc4hy512/polisi-musnahkan-ratusan-ribu-obat-keras-di-bandung"
-    },
-    {
-        "title": "Sebanyak 24 Pemotor Terciduk Operasi Zebra Hari Pertama",
-        "category": "News",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://news.republika.co.id/berita/slc4g5393/sebanyak-24-pemotor-terciduk-operasi-zebra-hari-pertama"
-    },
-    {
-        "title": "Awal November Garuda Indonesia akan Buka Rute Terbang dari Bandara Halim ke Surabaya",
-        "category": "Rejogja",
-        "publish_time": "14-10-2024 07:14",
-        "news_link": "https://rejogja.republika.co.id/berita/slc4dq282/awal-november-garuda-indonesia-akan-buka-rute-terbang-dari-bandara-halim-ke-surabaya"
     }
 ]
