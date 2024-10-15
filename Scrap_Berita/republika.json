@@ -1,68 +1,230 @@
 [
     {
+        "title": "Pemanggilan Menteri Ekonomi dan Neraca Dagang Surplus Bikin IHSG dan Rupiah Happy",
+        "category": "Ekonomi",
+        "publish_time": "15-10-2024 12:25",
+        "news_link": "https://ekonomi.republika.co.id/berita/sled5t490/pemanggilan-menteri-ekonomi-dan-neraca-dagang-surplus-bikin-ihsg-dan-rupiah-happy"
+    },
+    {
+        "title": "Sebanyak 2.465 Balita Alami Stunting, Pemkab Majalengka Lakukan Ini",
+        "category": "Rejabar",
+        "publish_time": "15-10-2024 12:24",
+        "news_link": "https://rejabar.republika.co.id/berita/sled3r512/sebanyak-2465-balita-alami-stunting-pemkab-majalengka-lakukan-ini"
+    },
+    {
+        "title": "Hakim Nilai Alasan Gazalba Saleh Jual Batu Permata untuk Jadi Valas tak Masuk Akal",
+        "category": "News",
+        "publish_time": "15-10-2024 12:19",
+        "news_link": "https://news.republika.co.id/berita/sle8k6409/hakim-nilai-alasan-gazalba-saleh-jual-batu-permata-untuk-jadi-valas-tak-masuk-akal"
+    },
+    {
+        "title": "Terra Charge dan Keppel Bersinergi Bangun SPKLU",
+        "category": "Ekonomi",
+        "publish_time": "15-10-2024 12:16",
+        "news_link": "https://ekonomi.republika.co.id/berita/slecre416/terra-charge-dan-keppel-bersinergi-bangun-spklu"
+    },
+    {
+        "title": "Mantan Rektor UMM Turut Dipanggil Prabowo Hari Ini",
+        "category": "News",
+        "publish_time": "15-10-2024 12:12",
+        "news_link": "https://news.republika.co.id/berita/slecl4291/mantan-rektor-umm-turut-dipanggil-prabowo-hari-ini"
+    },
+    {
+        "title": "Jalan Cipayung-Cilampayan Cikarang Longsor Tergerus Sungai Cibeet",
+        "category": "Rejabar",
+        "publish_time": "15-10-2024 12:08",
+        "news_link": "https://rejabar.republika.co.id/berita/slecd9512/jalan-cipayungcilampayan-cikarang-longsor-tergerus-sungai-cibeet"
+    },
+    {
+        "title": "Raffi Ahmad Ditawari Prabowo Mengurusi Generasi Muda dan Seni",
+        "category": "News",
+        "publish_time": "15-10-2024 12:05",
+        "news_link": "https://news.republika.co.id/berita/slec99484/raffi-ahmad-ditawari-prabowo-mengurusi-generasi-muda-dan-seni"
+    },
+    {
+        "title": "Terbukti Terima Gratifikasi dan Lakukan TPPU, Gazalba Saleh Divonis 10 Tahun Penjara",
+        "category": "Visual",
+        "publish_time": "15-10-2024 12:01",
+        "news_link": "https://visual.republika.co.id/berita/slec2u375/terbukti-terima-gratifikasi-dan-lakukan-tppu-gazalba-saleh-divonis-10-tahun-penjara"
+    },
+    {
+        "title": "Perjalanan yang tidak Ada Ujungnya",
+        "category": "Retizen",
+        "publish_time": "15-10-2024 12:01",
+        "news_link": "https://retizen.republika.co.id/posts/482704/perjalanan-yang-tidak-ada-ujungnya"
+    },
+    {
+        "title": "Al-Fatih, Sang Penakluk dari Turki Utsmani",
+        "category": "Retizen",
+        "publish_time": "15-10-2024 12:01",
+        "news_link": "https://retizen.republika.co.id/posts/482701/al-fatih-sang-penakluk-dari-turki-utsmani"
+    },
+    {
+        "title": "Lantunan Adzan Membuatku Menjemput Agama Allah",
+        "category": "Retizen",
+        "publish_time": "15-10-2024 12:01",
+        "news_link": "https://retizen.republika.co.id/posts/482705/lantunan-adzan-membuatku-menjemput-agama-allah"
+    },
+    {
+        "title": "Pakar Soroti Potensi Cemaran BPA pada Air Minum, Akibat Galon Diangkut dengan Truk Terbuka",
+        "category": "Ameera",
+        "publish_time": "15-10-2024 11:57",
+        "news_link": "https://ameera.republika.co.id/berita/sldskb423/pakar-soroti-potensi-cemaran-bpa-pada-air-minum-akibat-galon-diangkut-dengan-truk-terbuka"
+    },
+    {
+        "title": "Realisasi Investasi Era Jokowi Tembus Rp 9.117 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "15-10-2024 11:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/slebjl370/realisasi-investasi-era-jokowi-tembus-rp-9117-triliun"
+    },
+    {
+        "title": "Traveloka Paylater Resmi Berganti Nama Jadi TPayLater!",
+        "category": "Ekonomi",
+        "publish_time": "15-10-2024 11:47",
+        "news_link": "https://ekonomi.republika.co.id/berita/sldred423/traveloka-paylater-resmi-berganti-nama-jadi-tpaylater"
+    },
+    {
+        "title": "Pemkab Majalengka Utang Rp 35 Miliar ke BPJS Kesehatan, DPRD: Malu",
+        "category": "Rejabar",
+        "publish_time": "15-10-2024 11:42",
+        "news_link": "https://rejabar.republika.co.id/berita/sleb6a512/pemkab-majalengka-utang-rp-35-miliar-ke-bpjs-kesehatan-dprd-malu"
+    },
+    {
+        "title": "Perjalanan Karier Jacksen F Tiago Hingga Ucapkan Dua Kalimat Syahadat",
+        "category": "Khazanah",
+        "publish_time": "15-10-2024 11:38",
+        "news_link": "https://khazanah.republika.co.id/berita/sleazw483/perjalanan-karier-jacksen-f-tiago-hingga-ucapkan-dua-kalimat-syahadat"
+    },
+    {
+        "title": "Presiden Kuba Pimpin 10 Ribu Orang dalam Aksi Bela Palestina, AS Dikecam",
+        "category": "News",
+        "publish_time": "15-10-2024 11:38",
+        "news_link": "https://news.republika.co.id/berita/sleazg487/presiden-kuba-pimpin-10-ribu-orang-dalam-aksi-bela-palestina-as-dikecam"
+    },
+    {
+        "title": "Dosa Riba Begitu Mengerikan",
+        "category": "Khazanah",
+        "publish_time": "15-10-2024 11:33",
+        "news_link": "https://khazanah.republika.co.id/berita/sleaqo458/dosa-riba-begitu-mengerikan"
+    },
+    {
+        "title": "Tak Selamanya Diam Adalah Emas",
+        "category": "Khazanah",
+        "publish_time": "15-10-2024 11:27",
+        "news_link": "https://khazanah.republika.co.id/berita/sleahx458/tak-selamanya-diam-adalah-emas"
+    },
+    {
+        "title": "Banyak Menteri Ekonomi Dipanggil Prabowo, Ini Kata Ekonom",
+        "category": "Ekonomi",
+        "publish_time": "15-10-2024 11:27",
+        "news_link": "https://ekonomi.republika.co.id/berita/sleahj370/banyak-menteri-ekonomi-dipanggil-prabowo-ini-kata-ekonom"
+    },
+    {
+        "title": "Indonesia Re Latih Penerima Beasiswa Hadapi Dunia Kerja",
+        "category": "Esgnow",
+        "publish_time": "15-10-2024 11:27",
+        "news_link": "https://esgnow.republika.co.id/berita/sleagr416/indonesia-re-latih-penerima-beasiswa-hadapi-dunia-kerja"
+    },
+    {
+        "title": "Gen Z Menjadi Kelompok Umur yang Paling Puas Terhadap Jokowi",
+        "category": "News",
+        "publish_time": "15-10-2024 11:26",
+        "news_link": "https://news.republika.co.id/berita/slea6v318/gen-z-menjadi-kelompok-umur-yang-paling-puas-terhadap-jokowi"
+    },
+    {
+        "title": "Berhasil Finis Lari 10K, Ini Tips Konsisten Lari dari Saykoji",
+        "category": "Ameera",
+        "publish_time": "15-10-2024 11:25",
+        "news_link": "https://ameera.republika.co.id/berita/slea9i490/berhasil-finis-lari-10k-ini-tips-konsisten-lari-dari-saykoji"
+    },
+    {
+        "title": "Ini Hasil Pertemuan dengan Prabowo, Pramono Anung Ditawari Menteri?",
+        "category": "News",
+        "publish_time": "15-10-2024 11:25",
+        "news_link": "https://news.republika.co.id/berita/slea4q487/ini-hasil-pertemuan-dengan-prabowo-pramono-anung-ditawari-menteri"
+    },
+    {
+        "title": "Asnawi Starter dan Jadi Kapten Timnas Indonesia Saat Lawan China, Ini Susunan Pemainnya",
+        "category": "News",
+        "publish_time": "15-10-2024 11:25",
+        "news_link": "https://news.republika.co.id/berita/slea3p348/asnawi-starter-dan-jadi-kapten-timnas-indonesia-saat-lawan-china-ini-susunan-pemainnya"
+    },
+    {
+        "title": "BNI dan Mitra BNI Raih Sederet Penghargaan di Ajang Mitra BUMN Champion 2024",
+        "category": "Ekonomi",
+        "publish_time": "15-10-2024 11:25",
+        "news_link": "https://ekonomi.republika.co.id/berita/sle9rb370/bni-dan-mitra-bni-raih-sederet-penghargaan-di-ajang-mitra-bumn-champion-2024"
+    },
+    {
+        "title": "Dokter Sebut Paparan Gadget Berpotensi Bikin Anak Lambat Bicara",
+        "category": "Ameera",
+        "publish_time": "15-10-2024 11:25",
+        "news_link": "https://ameera.republika.co.id/berita/sle9r2425/dokter-sebut-paparan-gadget-berpotensi-bikin-anak-lambat-bicara"
+    },
+    {
         "title": "Sunah Rasulullah pada Waktu Maghrib",
         "category": "Khazanah",
-        "publish_time": "15-10-2024 11:03",
+        "publish_time": "15-10-2024 11:25",
         "news_link": "https://khazanah.republika.co.id/berita/sle9dr458/sunah-rasulullah-pada-waktu-maghrib"
     },
     {
         "title": "11.406 Siswa Palestina Syahid Sejak 7 Oktober",
         "category": "Khazanah",
-        "publish_time": "15-10-2024 11:00",
+        "publish_time": "15-10-2024 11:25",
         "news_link": "https://khazanah.republika.co.id/berita/sle98b483/11406-siswa-palestina-syahid-sejak-7-oktober"
     },
     {
         "title": "PHE ONWJ Restorasi Mangrove",
         "category": "Esgnow",
-        "publish_time": "15-10-2024 11:00",
+        "publish_time": "15-10-2024 11:25",
         "news_link": "https://esgnow.republika.co.id/berita/sle5my416/phe-onwj-restorasi-mangrove"
     },
     {
         "title": "Starting XI Indonesia Vs China: Empat Pergantian Dilakukan Shin Tae-yong, Asnawi Kapten",
         "category": "News",
-        "publish_time": "15-10-2024 10:59",
+        "publish_time": "15-10-2024 11:25",
         "news_link": "https://news.republika.co.id/berita/sle977409/starting-xi-indonesia-vs-china-empat-pergantian-dilakukan-shin-taeyong-asnawi-kapten"
     },
     {
         "title": "Banyak Orang Mengaji ke Google Seolah Guru Agama, Begini Hukumnya Menurut Ulama",
         "category": "Khazanah",
-        "publish_time": "15-10-2024 10:54",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://khazanah.republika.co.id/berita/sle8yw483/banyak-orang-mengaji-ke-google-seolah-guru-agama-begini-hukumnya-menurut-ulama"
     },
     {
         "title": "Hajatan para Pelari, wondr Jakarta Running Festival 2024 Sukses Digelar",
         "category": "Ameera",
-        "publish_time": "15-10-2024 10:49",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://ameera.republika.co.id/berita/sle8qf490/hajatan-para-pelari-wondr-jakarta-running-festival-2024-sukses-digelar"
     },
     {
         "title": "Prof Stella Christie, Pakar Cognitive Science Juga Dipanggil Prabowo",
         "category": "News",
-        "publish_time": "15-10-2024 10:49",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://news.republika.co.id/berita/sle8p6484/prof-stella-christie-pakar-cognitive-science-juga-dipanggil-prabowo"
     },
     {
         "title": "Jamuan Makan Malam Terakhir, Perpisahan Mengenaskan Pasukan Elite Golani Israel",
         "category": "News",
-        "publish_time": "15-10-2024 10:47",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://news.republika.co.id/berita/sle8mt320/jamuan-makan-malam-terakhir-perpisahan-mengenaskan-pasukan-elite-golani-israel"
     },
     {
         "title": "Polda Jateng Batalkan Umumkan Tersangka Kasus Perundungan di PPDS Undip Hari Ini",
         "category": "News",
-        "publish_time": "15-10-2024 10:39",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://news.republika.co.id/berita/sle88s409/polda-jateng-batalkan-umumkan-tersangka-kasus-perundungan-di-ppds-undip-hari-ini"
     },
     {
         "title": "Kanada-India Memanas, Saling Usir Diplomat",
         "category": "News",
-        "publish_time": "15-10-2024 10:28",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://news.republika.co.id/berita/sle7rn393/kanadaindia-memanas-saling-usir-diplomat"
     },
     {
         "title": "IHSG Ditutup Menguat di Tengah Wait and See Susunan Kabinet Baru",
         "category": "Ekonomi",
-        "publish_time": "15-10-2024 10:28",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://ekonomi.republika.co.id/berita/sle7r2370/ihsg-ditutup-menguat-di-tengah-wait-and-see-susunan-kabinet-baru"
     },
     {
@@ -74,229 +236,67 @@
     {
         "title": "Prabowo Lanjutkan Tradisi Perwakilan NU dan Muhammadiyah, Ini Respons MUI",
         "category": "Khazanah",
-        "publish_time": "15-10-2024 10:23",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://khazanah.republika.co.id/berita/sle7j0430/prabowo-lanjutkan-tradisi-perwakilan-nu-dan-muhammadiyah-ini-respons-mui"
     },
     {
         "title": "Ini dia Trio Wamenkeu yang akan Dampingi Sri Mulyani di Kabinet Prabowo",
         "category": "Ekonomi",
-        "publish_time": "15-10-2024 10:22",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://ekonomi.republika.co.id/berita/sle7hb370/ini-dia-trio-wamenkeu-yang-akan-dampingi-sri-mulyani-di-kabinet-prabowo"
     },
     {
         "title": "Rahasia di Balik Kata Sabar Disebut 70 Kali Dalam Alquran",
         "category": "Khazanah",
-        "publish_time": "15-10-2024 10:16",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://khazanah.republika.co.id/berita/sle77o458/rahasia-di-balik-kata-sabar-disebut-70-kali-dalam-alquran"
     },
     {
         "title": "Jalan Diledakkan, Korut dan Korsel di Ambang Perang?",
         "category": "News",
-        "publish_time": "15-10-2024 10:15",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://news.republika.co.id/berita/sle757393/jalan-diledakkan-korut-dan-korsel-di-ambang-perang"
     },
     {
         "title": "Bahlil: Industri Mobil Listrik Dunia Bergantung pada Indonesia",
         "category": "Ekonomi",
-        "publish_time": "15-10-2024 10:15",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://ekonomi.republika.co.id/berita/sle756349/bahlil-industri-mobil-listrik-dunia-bergantung-pada-indonesia"
     },
     {
         "title": "Gaya Peci Miring Ahmad Luthfi, Jadi Candaan Habib Syech di Hadapan Ribuan Jamaah",
         "category": "Khazanah",
-        "publish_time": "15-10-2024 10:13",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://khazanah.republika.co.id/berita/sle726320/gaya-peci-miring-ahmad-luthfi-jadi-candaan-habib-syech-di-hadapan-ribuan-jamaah"
     },
     {
         "title": "Dari Lelah Jadi Berkah, Usai Mencari Rezeki Halal",
         "category": "Khazanah",
-        "publish_time": "15-10-2024 10:11",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://khazanah.republika.co.id/berita/sle6xp458/dari-lelah-jadi-berkah-usai-mencari-rezeki-halal"
     },
     {
         "title": "BTN Usulkan Penghapusan PPN dan BPHTB untuk Capaian Program 3 Juta Rumah",
         "category": "Ekonomi",
-        "publish_time": "15-10-2024 10:11",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://ekonomi.republika.co.id/berita/sle6rm423/btn-usulkan-penghapusan-ppn-dan-bphtb-untuk-capaian-program-3-juta-rumah"
     },
     {
         "title": "ISDS Umumkan Lomba Menulis Nuklir, Berikut Daftar Pemenangnya",
         "category": "Network",
-        "publish_time": "15-10-2024 10:11",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://seputarmiliter.id/posts/482633/isds-umumkan-lomba-menulis-nuklir-berikut-daftar-pemenangnya"
     },
     {
         "title": "Cleo Merayakan 6 Tahun Komitmen untuk Kesejahteraan Kucing di Indonesia",
         "category": "Network",
-        "publish_time": "15-10-2024 10:11",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://cari.republika.co.id/posts/482569/cleo-merayakan-6-tahun-komitmen-untuk-kesejahteraan-kucing-di-indonesia"
     },
     {
         "title": "Kualitas Udara Jakarta dan Bogor Memburuk, Kemacetan Lalu Lintas Jadi Biang Keroknya",
         "category": "Rejabar",
-        "publish_time": "15-10-2024 10:11",
+        "publish_time": "15-10-2024 10:25",
         "news_link": "https://rejabar.republika.co.id/berita/sle6ig282/kualitas-udara-jakarta-dan-bogor-memburuk-kemacetan-lalu-lintas-jadi-biang-keroknya"
-    },
-    {
-        "title": "Metamorfosis BUMN: Dari Konglomerat Kaku Menuju Perusahaan yang Lincah dan Inovatif",
-        "category": "Ekonomi",
-        "publish_time": "15-10-2024 10:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sle5hu370/metamorfosis-bumn-dari-konglomerat-kaku-menuju-perusahaan-yang-lincah-dan-inovatif"
-    },
-    {
-        "title": "Mario Puzo dan The Godfather: Perjalanan Epik dalam Sastra dan Sinema (15 Oktober 1920)",
-        "category": "Network",
-        "publish_time": "15-10-2024 10:11",
-        "news_link": "https://kingdomsriwijaya.id/posts/482673/mario-puzo-dan-the-godfather-perjalanan-epik-dalam-sastra-dan-sinema-15-oktober-1920-"
-    },
-    {
-        "title": "Menag Apresiasi Program Beasiswa Santri Baznas",
-        "category": "Khazanah",
-        "publish_time": "15-10-2024 10:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sle6f2458/menag-apresiasi-program-beasiswa-santri-baznas"
-    },
-    {
-        "title": "Penulis Israel: Maaf Harus Kalian Akui, Kita Telah Kalah dalam Perang!",
-        "category": "Khazanah",
-        "publish_time": "15-10-2024 10:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sle6av320/penulis-israel-maaf-harus-kalian-akui-kita-telah-kalah-dalam-perang"
-    },
-    {
-        "title": "Pentingnya Pembangunan Kesehatan Berkelanjutan",
-        "category": "News",
-        "publish_time": "15-10-2024 10:11",
-        "news_link": "https://news.republika.co.id/berita/sle5zb430/pentingnya-pembangunan-kesehatan-berkelanjutan"
-    },
-    {
-        "title": "Menguasai Public Speaking: Trik Singkat Menjadi Pembicara yang Hebat",
-        "category": "Retizen",
-        "publish_time": "15-10-2024 10:11",
-        "news_link": "https://retizen.republika.co.id/posts/482601/menguasai-public-speaking-trik-singkat-menjadi-pembicara-yang-hebat"
-    },
-    {
-        "title": "Gaya Hidup Selangit dalam Jeratan Kapitalisme",
-        "category": "Retizen",
-        "publish_time": "15-10-2024 10:11",
-        "news_link": "https://retizen.republika.co.id/posts/482663/gaya-hidup-selangit-dalam-jeratan-kapitalisme"
-    },
-    {
-        "title": "Data Warehouse vs Database: Perbedaan dan Fungsinya",
-        "category": "Retizen",
-        "publish_time": "15-10-2024 10:11",
-        "news_link": "https://retizen.republika.co.id/posts/482610/data-warehouse-vs-database-perbedaan-dan-fungsinya"
-    },
-    {
-        "title": "5 Karakteristik Rumah Minimalis yang Elegan dan Fungsional",
-        "category": "Retizen",
-        "publish_time": "15-10-2024 10:11",
-        "news_link": "https://retizen.republika.co.id/posts/482682/5-karakteristik-rumah-minimalis-yang-elegan-dan-fungsional"
-    },
-    {
-        "title": "Prabowo Bawa Serta Giring Nidji ke Kabinet, Ini Bocoran Jabatannya",
-        "category": "News",
-        "publish_time": "15-10-2024 10:11",
-        "news_link": "https://news.republika.co.id/berita/sle5vh487/prabowo-bawa-serta-giring-nidji-ke-kabinet-ini-bocoran-jabatannya"
-    },
-    {
-        "title": "Pilkada, Kedewasaan Politik dan Rendahnya Literasi",
-        "category": "Retizen",
-        "publish_time": "15-10-2024 10:11",
-        "news_link": "https://retizen.republika.co.id/posts/482676/pilkada-kedewasaan-politik-dan-rendahnya-literasi"
-    },
-    {
-        "title": "Calon Tunggal di Pilkada 2024",
-        "category": "Retizen",
-        "publish_time": "15-10-2024 10:11",
-        "news_link": "https://retizen.republika.co.id/posts/482686/calon-tunggal-di-pilkada-2024"
-    },
-    {
-        "title": "KNEKS: Permintaan Global untuk Produk dan Layanan Halal Meningkat",
-        "category": "Sharia",
-        "publish_time": "15-10-2024 10:11",
-        "news_link": "https://sharia.republika.co.id/berita/sle5o3423/kneks-permintaan-global-untuk-produk-dan-layanan-halal-meningkat"
-    },
-    {
-        "title": "Raffi Ahmad dan Gus Miftah Menghadap Prabowo Subianto, Jadi Wamen Apa?",
-        "category": "News",
-        "publish_time": "15-10-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sle5cn484/raffi-ahmad-dan-gus-miftah-menghadap-prabowo-subianto-jadi-wamen-apa"
-    },
-    {
-        "title": "Neraca Perdagangan Lanjut Surplus, Rupiah Melemah ke Level Rp 15.588",
-        "category": "Ekonomi",
-        "publish_time": "15-10-2024 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sle5ae423/neraca-perdagangan-lanjut-surplus-rupiah-melemah-ke-level-rp-15588"
-    },
-    {
-        "title": "Eksistensi Tari Tradisional di Tengah Arus Global",
-        "category": "Retizen",
-        "publish_time": "15-10-2024 09:11",
-        "news_link": "https://retizen.republika.co.id/posts/482605/eksistensi-tari-tradisional-di-tengah-arus-global"
-    },
-    {
-        "title": "Bahaya Mengkonsumsi Minuman Keras dalam Pandangan Islam",
-        "category": "Retizen",
-        "publish_time": "15-10-2024 09:11",
-        "news_link": "https://retizen.republika.co.id/posts/482678/bahaya-mengkonsumsi-minuman-keras-dalam-pandangan-islam"
-    },
-    {
-        "title": "Perbedaan Musala dan Masjid",
-        "category": "Retizen",
-        "publish_time": "15-10-2024 09:11",
-        "news_link": "https://retizen.republika.co.id/posts/482683/perbedaan-musala-dan-masjid"
-    },
-    {
-        "title": "Hari Pertama Operasi Zebra, Polda Metro Jaya Ungkap Jenis Pelanggaran Terbanyak",
-        "category": "News",
-        "publish_time": "15-10-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sle50x409/hari-pertama-operasi-zebra-polda-metro-jaya-ungkap-jenis-pelanggaran-terbanyak"
-    },
-    {
-        "title": "Taspen Catat Jumlah Aset Capai Rp 390 Triliun",
-        "category": "Ekonomi",
-        "publish_time": "15-10-2024 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sle4zv490/taspen-catat-jumlah-aset-capai-rp-390-triliun"
-    },
-    {
-        "title": "Youbel Sondakh Yakin Ada Pengganti Arki di Satria Muda",
-        "category": "News",
-        "publish_time": "15-10-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sle4vu348/youbel-sondakh-yakin-ada-pengganti-arki-di-satria-muda"
-    },
-    {
-        "title": "Le Minerale Jaga Stamina 16 Ribu Pelari Jakarta Running Festival",
-        "category": "Ekonomi",
-        "publish_time": "15-10-2024 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sle4u8423/le-minerale-jaga-stamina-16-ribu-pelari-jakarta-running-festival"
-    },
-    {
-        "title": "DPRD Kota Sukabumi Resmi Punya Ketua Baru dari Fraksi PKS",
-        "category": "Network",
-        "publish_time": "15-10-2024 09:11",
-        "news_link": "https://sukabumikini.com/posts/482687/dprd-kota-sukabumi-resmi-punya-ketua-baru-dari-fraksi-pks"
-    },
-    {
-        "title": "Terungkap, Israel Kehabisan Amunisi Pertahanan Udara",
-        "category": "News",
-        "publish_time": "15-10-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sle4op393/terungkap-israel-kehabisan-amunisi-pertahanan-udara"
-    },
-    {
-        "title": "Rusia, Iran dan Cina Dinilai Berupaya Pengaruhi Pilpres AS",
-        "category": "Video",
-        "publish_time": "15-10-2024 09:11",
-        "news_link": "https://tv.republika.co.id/berita/sldzmv467/rusia-iran-dan-cina-dinilai-berupaya-pengaruhi-pilpres-as"
-    },
-    {
-        "title": "Penentuan Menteri dari PDIP Tunggu Pertemuan Prabowo-Megawati, Kapan?",
-        "category": "News",
-        "publish_time": "15-10-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sle4kt487/penentuan-menteri-dari-pdip-tunggu-pertemuan-prabowomegawati-kapan"
-    },
-    {
-        "title": "Polda Jatim Tangkap Babysitter Cekoki Anak Asuhnya dengan Obat Penggemuk",
-        "category": "News",
-        "publish_time": "15-10-2024 09:11",
-        "news_link": "https://news.republika.co.id/berita/sle4dm409/polda-jatim-tangkap-babysitter-cekoki-anak-asuhnya-dengan-obat-penggemuk"
     }
 ]
