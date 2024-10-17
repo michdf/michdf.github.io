@@ -1,182 +1,284 @@
 [
     {
+        "title": "Tiga Golongan Patut Dikasihani",
+        "category": "Khazanah",
+        "publish_time": "17-10-2024 10:08",
+        "news_link": "https://khazanah.republika.co.id/berita/slhw6v458/tiga-golongan-patut-dikasihani"
+    },
+    {
+        "title": "DPRD Provinsi Jawa Barat Gelar Rapat Paripurna Penyampaian Nota Pengantar Gubernur",
+        "category": "Rejabar",
+        "publish_time": "17-10-2024 10:07",
+        "news_link": "https://rejabar.republika.co.id/berita/slhw5e370/dprd-provinsi-jawa-barat-gelar-rapat-paripurna-penyampaian-nota-pengantar-gubernur"
+    },
+    {
+        "title": "Waspadalah...Obesitas Pemicu Kanker Payudara Hormon Positif pada Wanita Lanjut Usia",
+        "category": "Network",
+        "publish_time": "17-10-2024 10:06",
+        "news_link": "https://impresiupdate.id/posts/482996/waspadalah-obesitas-pemicu-kanker-payudara-hormon-positif-pada-wanita-lanjut-usia"
+    },
+    {
+        "title": "Sampah di Kota Bandung yang Tidak Dipilah Tidak Akan Diangkut",
+        "category": "Network",
+        "publish_time": "17-10-2024 10:06",
+        "news_link": "https://bandung24jam.id/posts/482997/sampah-di-kota-bandung-yang-tidak-dipilah-tidak-akan-diangkut"
+    },
+    {
+        "title": "Anjuran untuk Memberi Hadiah",
+        "category": "Khazanah",
+        "publish_time": "17-10-2024 10:05",
+        "news_link": "https://khazanah.republika.co.id/berita/slhw1j458/anjuran-untuk-memberi-hadiah"
+    },
+    {
+        "title": "Daya Tarik Properti Meningkat Usai Rencana Penghapusan Pajak Properti di Era Prabowo",
+        "category": "Ekonomi",
+        "publish_time": "17-10-2024 10:01",
+        "news_link": "https://ekonomi.republika.co.id/berita/slhvub430/daya-tarik-properti-meningkat-usai-rencana-penghapusan-pajak-properti-di-era-prabowo"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok di  Jakarta Selatan - Berawan 18 Oktober 2024",
+        "category": "News",
+        "publish_time": "17-10-2024 10:00",
+        "news_link": "https://news.republika.co.id/berita/slhvsg380928247/prakiraan-cuaca-besok-di-jakarta-selatan-berawan-18-oktober-2024"
+    },
+    {
+        "title": "BMKG Dorong Penggunaan Kendaraan Listrik untuk Atasi Polusi Udara",
+        "category": "Esgnow",
+        "publish_time": "17-10-2024 09:59",
+        "news_link": "https://esgnow.republika.co.id/berita/sle4bv416/bmkg-dorong-penggunaan-kendaraan-listrik-untuk-atasi-polusi-udara"
+    },
+    {
+        "title": "Konferensi Perubahan Iklim PBB, MHM Perkuat Peran Agama Lewat Paviliun Iman",
+        "category": "Esgnow",
+        "publish_time": "17-10-2024 09:52",
+        "news_link": "https://esgnow.republika.co.id/berita/slhvfq416/konferensi-perubahan-iklim-pbb-mhm-perkuat-peran-agama-lewat-paviliun-iman"
+    },
+    {
+        "title": "Prakiraan Cuaca untuk Besok Tanggal 18 Oktober 2024 di Bekasi: Cerah Berawan",
+        "category": "News",
+        "publish_time": "17-10-2024 09:45",
+        "news_link": "https://news.republika.co.id/berita/slhv3g1432578460/prakiraan-cuaca-untuk-besok-tanggal-18-oktober-2024-di-bekasi-cerah-berawan"
+    },
+    {
+        "title": "Pohon Tumbang Lukai Pengendara, BMKG Peringatkan Angin Kencang di Ciayumajakuning",
+        "category": "Rejabar",
+        "publish_time": "17-10-2024 09:42",
+        "news_link": "https://rejabar.republika.co.id/berita/slhuy8512/pohon-tumbang-lukai-pengendara-bmkg-peringatkan-angin-kencang-di-ciayumajakuning"
+    },
+    {
+        "title": "Sikap Umat Islam di Yerusalem Dipuji Sarjana Barat, Beda dengan Perlakuan Yahudi Zionis",
+        "category": "Khazanah",
+        "publish_time": "17-10-2024 09:39",
+        "news_link": "https://khazanah.republika.co.id/berita/slhutu320/sikap-umat-islam-di-yerusalem-dipuji-sarjana-barat-beda-dengan-perlakuan-yahudi-zionis"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok 18 Oktober 2024 di Bandung: Cerah Berawan",
+        "category": "News",
+        "publish_time": "17-10-2024 09:30",
+        "news_link": "https://news.republika.co.id/berita/slhuee303337831/prakiraan-cuaca-besok-18-oktober-2024-di-bandung-cerah-berawan"
+    },
+    {
+        "title": "Connext Powered by PLN: Wadah Inovasi dan Kolaborasi Startup Energi pada 2024",
+        "category": "Ekonomi",
+        "publish_time": "17-10-2024 09:25",
+        "news_link": "https://ekonomi.republika.co.id/berita/slhu76370/connext-powered-by-pln-wadah-inovasi-dan-kolaborasi-startup-energi-pada-2024"
+    },
+    {
+        "title": "Meniru Perilaku Sufi",
+        "category": "Khazanah",
+        "publish_time": "17-10-2024 09:21",
+        "news_link": "https://khazanah.republika.co.id/berita/slhtz4458/meniru-perilaku-sufi"
+    },
+    {
+        "title": "NCC Dukung Mahasiswa Prodi Informatika UNM jadi Fullstack Developer Lewat Program Magang",
+        "category": "News",
+        "publish_time": "17-10-2024 09:16",
+        "news_link": "https://news.republika.co.id/berita/slhtsa490/ncc-dukung-mahasiswa-prodi-informatika-unm-jadi-fullstack-developer-lewat-program-magang"
+    },
+    {
+        "title": "DPRD Kota Bandung Minta Pemkot Lebih Gencar Sosialisasikan Perda",
+        "category": "Rejabar",
+        "publish_time": "17-10-2024 09:16",
+        "news_link": "https://rejabar.republika.co.id/berita/slhtrg512/dprd-kota-bandung-minta-pemkot-lebih-gencar-sosialisasikan-perda"
+    },
+    {
         "title": "Harta Hanya Titipan, Bukan Segalanya",
         "category": "Khazanah",
-        "publish_time": "17-10-2024 09:11",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/slhtiw458/harta-hanya-titipan-bukan-segalanya"
     },
     {
         "title": "Prakiraan Cuaca Besok 18 Oktober 2024 - Kota Depok: Berawan",
         "category": "News",
-        "publish_time": "17-10-2024 09:06",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/slhtc1924217412/prakiraan-cuaca-besok-18-oktober-2024-kota-depok-berawan"
     },
     {
         "title": "Inilah Lima Hiasan Dunia Menurut Rasulullah",
         "category": "Khazanah",
-        "publish_time": "17-10-2024 09:06",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/slhtbu458/inilah-lima-hiasan-dunia-menurut-rasulullah"
     },
     {
         "title": "Prabowo dan Surya Paloh Bertemu di Kemenhan, Ini Penjelasan Nasdem",
         "category": "News",
-        "publish_time": "17-10-2024 09:04",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/slht7h377/prabowo-dan-surya-paloh-bertemu-di-kemenhan-ini-penjelasan-nasdem"
     },
     {
         "title": "Netanyahu Klaim IDF Temukan 'Senjata Canggih' Buatan Rusia di Markas Hizbullah",
         "category": "News",
-        "publish_time": "17-10-2024 09:02",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/slht5g409/netanyahu-klaim-idf-temukan-senjata-canggih-buatan-rusia-di-markas-hizbullah"
     },
     {
         "title": "Allah Itu Dekat, Apa Maksudnya?",
         "category": "Khazanah",
-        "publish_time": "17-10-2024 09:00",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/slht1l458/allah-itu-dekat-apa-maksudnya"
     },
     {
         "title": "Perlu Pakta Internasional Baru untuk Atasi Krisis Air Global",
         "category": "Esgnow",
-        "publish_time": "17-10-2024 08:59",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://esgnow.republika.co.id/berita/slhszt416/perlu-pakta-internasional-baru-untuk-atasi-krisis-air-global"
     },
     {
         "title": "Istri Mensyaratkan tidak Poligami Saat Akad Nikah, Apakah Dibolehkan?",
         "category": "Khazanah",
-        "publish_time": "17-10-2024 08:59",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/slhsyy483/istri-mensyaratkan-tidak-poligami-saat-akad-nikah-apakah-dibolehkan"
     },
     {
         "title": "Indef: Makan Bergizi Gratis Tingkatkan Kualitas Pendidikan Indonesia",
         "category": "Ekonomi",
-        "publish_time": "17-10-2024 08:58",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/slhsyi370/indef-makan-bergizi-gratis-tingkatkan-kualitas-pendidikan-indonesia"
     },
     {
         "title": "Politisi PKS Kecam Pernyataan Menlu Jerman yang Sebut Israel Boleh Bunuh Warga Sipil Gaza",
         "category": "Rejogja",
-        "publish_time": "17-10-2024 08:58",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://rejogja.republika.co.id/berita/slhsy3291/politisi-pks-kecam-pernyataan-menlu-jerman-yang-sebut-israel-boleh-bunuh-warga-sipil-gaza"
     },
     {
         "title": "Tingkatkan Kompetensi Karyawan Milenial dan Gen Z, PNM Kembali Gelar Learning Festival",
         "category": "Ekonomi",
-        "publish_time": "17-10-2024 08:58",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/slhsxy490/tingkatkan-kompetensi-karyawan-milenial-dan-gen-z-pnm-kembali-gelar-learning-festival"
     },
     {
         "title": "Renungan untuk Orang Tua",
         "category": "Khazanah",
-        "publish_time": "17-10-2024 08:57",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/slhswt458/renungan-untuk-orang-tua"
     },
     {
         "title": "Psikolog: Penyebab Bunuh Diri karena Vulgarnya Informasi di Medsos",
         "category": "Rejogja",
-        "publish_time": "17-10-2024 08:54",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://rejogja.republika.co.id/berita/slhsqm282/psikolog-penyebab-bunuh-diri-karena-vulgarnya-informasi-di-medsos"
     },
     {
         "title": "Perbuatan Abu Bakar dan Marahnya Rasulullah",
         "category": "Khazanah",
-        "publish_time": "17-10-2024 08:52",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/slhsol458/perbuatan-abu-bakar-dan-marahnya-rasulullah"
     },
     {
         "title": "SIG dan BTN Bangun Perumahan Ramah Lingkungan",
         "category": "Esgnow",
-        "publish_time": "17-10-2024 08:52",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://esgnow.republika.co.id/berita/slhsnr416/sig-dan-btn-bangun-perumahan-ramah-lingkungan"
     },
     {
         "title": "Tujuh Kendaraan Terlibat Tabrakan Beruntun di Subang Tewaskan Dua Orang, Ini Kronologinya",
         "category": "Rejabar",
-        "publish_time": "17-10-2024 08:47",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://rejabar.republika.co.id/berita/slhsfn512/tujuh-kendaraan-terlibat-tabrakan-beruntun-di-subang-tewaskan-dua-orang-ini-kronologinya"
     },
     {
         "title": "PLN Perkuat Hubungan dengan Publik, Raih 7 Penghargaan dalam Ajang AHI 2024",
         "category": "Ekonomi",
-        "publish_time": "17-10-2024 08:46",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/slhsec490/pln-perkuat-hubungan-dengan-publik-raih-7-penghargaan-dalam-ajang-ahi-2024"
     },
     {
         "title": "Top Halal Award Tingkatkan Kepercayaan Masyarakat Terhadap Produk Halal",
         "category": "Video",
-        "publish_time": "17-10-2024 08:44",
+        "publish_time": "17-10-2024 09:13",
         "news_link": "https://tv.republika.co.id/berita/slhsai467/top-halal-award-tingkatkan-kepercayaan-masyarakat-terhadap-produk-halal"
     },
     {
         "title": "Ini 4 Kelompok Munculkan Hadis Palsu",
         "category": "Khazanah",
-        "publish_time": "17-10-2024 08:42",
+        "publish_time": "17-10-2024 08:13",
         "news_link": "https://khazanah.republika.co.id/berita/slhs87458/ini-4-kelompok-munculkan-hadis-palsu"
     },
     {
         "title": "Ibu Hamil Diberi Gratis Tablet MMS, Apa Itu?",
         "category": "Ameera",
-        "publish_time": "17-10-2024 08:34",
+        "publish_time": "17-10-2024 08:13",
         "news_link": "https://ameera.republika.co.id/berita/slhruo328/ibu-hamil-diberi-gratis-tablet-mms-apa-itu"
     },
     {
         "title": "Krisis Air Global Ancam Produksi Pangan Dunia",
         "category": "Esgnow",
-        "publish_time": "17-10-2024 08:33",
+        "publish_time": "17-10-2024 08:13",
         "news_link": "https://esgnow.republika.co.id/berita/slhrsw416/krisis-air-global-ancam-produksi-pangan-dunia"
     },
     {
         "title": "Hasilkan 4.366 Penindakan dalam Operasi Gempur I, Bea Cukai Lanjutkan Operasi Gempur II",
         "category": "Beacukai",
-        "publish_time": "17-10-2024 08:33",
+        "publish_time": "17-10-2024 08:13",
         "news_link": "https://republika.co.id/berita/slhrss370/hasilkan-4-366-penindakan-dalam-operasi-gempur-i-bea-cukai-lanjutkan-operasi-gempur-ii"
     },
     {
         "title": "Kanada Salurkan Bantuan Keuangan untuk Pengungsi Palestina",
         "category": "News",
-        "publish_time": "17-10-2024 08:32",
+        "publish_time": "17-10-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/slhrr0458/kanada-salurkan-bantuan-keuangan-untuk-pengungsi-palestina"
     },
     {
         "title": "Tokoh Jabar Turun Gunung Menangkan Pasangan Bedas",
         "category": "Rejabar",
-        "publish_time": "17-10-2024 08:32",
+        "publish_time": "17-10-2024 08:13",
         "news_link": "https://rejabar.republika.co.id/berita/slhrq1512/tokoh-jabar-turun-gunung-menangkan-pasangan-bedas"
     },
     {
         "title": "Sambangi Bawaslu Jateng, Tim Andika-Hendi Sodorkan Dugaan Pelanggaran Netralitas Kades",
         "category": "Rejogja",
-        "publish_time": "17-10-2024 08:29",
+        "publish_time": "17-10-2024 08:13",
         "news_link": "https://rejogja.republika.co.id/berita/slhrky291/sambangi-bawaslu-jateng-tim-andikahendi-sodorkan-dugaan-pelanggaran-netralitas-kades"
     },
     {
         "title": "Surya Paloh Temui Prabowo di Kemenhan, Disusul Zulhas, Bahlil, Cak Imin, dan AHY, Ada Apa?",
         "category": "News",
-        "publish_time": "17-10-2024 08:22",
+        "publish_time": "17-10-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/slhrab487/surya-paloh-temui-prabowo-di-kemenhan-disusul-zulhas-bahlil-cak-imin-dan-ahy-ada-apa"
     },
     {
         "title": "Dapatkan MDR QRIS Nol Persen dengan Jadi Merchant BRI, Begini Caranya",
         "category": "Ekonomi",
-        "publish_time": "17-10-2024 08:17",
+        "publish_time": "17-10-2024 08:13",
         "news_link": "https://ekonomi.republika.co.id/berita/slhr1q370/dapatkan-mdr-qris-nol-persen-dengan-jadi-merchant-bri-begini-caranya"
     },
     {
         "title": "Seperti Prabowo, Gibran Juga Tinggalkan Hambalang Saat Pembekalan Menteri Berlangsung",
         "category": "News",
-        "publish_time": "17-10-2024 08:14",
+        "publish_time": "17-10-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/slhqwr409/seperti-prabowo-gibran-juga-tinggalkan-hambalang-saat-pembekalan-menteri-berlangsung"
     },
     {
         "title": "AS Berharap Israel Lakukan Serangan ke Iran Sebelum Pilpres",
         "category": "News",
-        "publish_time": "17-10-2024 08:14",
+        "publish_time": "17-10-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/slhqw2487/as-berharap-israel-lakukan-serangan-ke-iran-sebelum-pilpres"
     },
     {
         "title": "Pria Bantul Gantung Diri dengan Tali Plastik di Pohon Mangga",
         "category": "Rejogja",
-        "publish_time": "17-10-2024 08:14",
+        "publish_time": "17-10-2024 08:13",
         "news_link": "https://rejogja.republika.co.id/berita/slhqw0282/pria-bantul-gantung-diri-dengan-tali-plastik-di-pohon-mangga"
     },
     {
@@ -196,107 +298,5 @@
         "category": "News",
         "publish_time": "17-10-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/slhqkx377/dosen-ui-pemanggilan-calon-menteri-bukti-komunikasi-jokowiprabowo-berjalan-baik"
-    },
-    {
-        "title": "GP Australia di Phillip Island Berlangsung Akhir Pekan Ini, Berikut Catatan Menariknya",
-        "category": "News",
-        "publish_time": "17-10-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/slhq75348/gp-australia-di-phillip-island-berlangsung-akhir-pekan-ini-berikut-catatan-menariknya"
-    },
-    {
-        "title": "Angka Harapan Hidup di DIY Tinggi, Tapi Kasus Bunuh Diri Juga Meningkat Tajam",
-        "category": "Rejogja",
-        "publish_time": "17-10-2024 08:13",
-        "news_link": "https://rejogja.republika.co.id/berita/slhq2o282/angka-harapan-hidup-di-diy-tinggi-tapi-kasus-bunuh-diri-juga-meningkat-tajam"
-    },
-    {
-        "title": "Pimpinan Muhammadiyah:  Erick Thohir Pekerja Keras Bisa Berbuat Lebih untuk Rakyat",
-        "category": "Khazanah",
-        "publish_time": "17-10-2024 08:13",
-        "news_link": "https://khazanah.republika.co.id/berita/slhpxd483/pimpinan-muhammadiyah-erick-thohir-pekerja-keras-bisa-berbuat-lebih-untuk-rakyat"
-    },
-    {
-        "title": "Uni Eropa Tunda Pelaksanaan Undang-Undang Deforestasi",
-        "category": "Esgnow",
-        "publish_time": "17-10-2024 08:13",
-        "news_link": "https://esgnow.republika.co.id/berita/slhpsh416/uni-eropa-tunda-pelaksanaan-undangundang-deforestasi"
-    },
-    {
-        "title": "Biar Enggak Makan Tabungan, Ini Pentingnya Bijak Kelola Keuangan dengan Tabungan BRI",
-        "category": "Ekonomi",
-        "publish_time": "17-10-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/slhph3370/biar-enggak-makan-tabungan-ini-pentingnya-bijak-kelola-keuangan-dengan-tabungan-bri"
-    },
-    {
-        "title": "Erick Thohir Masuk Kabinet Lagi, Ini Harapan PP Muhammadiyah",
-        "category": "Khazanah",
-        "publish_time": "17-10-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/slhpe7430/erick-thohir-masuk-kabinet-lagi-ini-harapan-pp-muhammadiyah"
-    },
-    {
-        "title": "Mobil Subaru Ini Dapat Menempuh Lebih 1.000 KM dengan Tangki Bensin Penuh",
-        "category": "Ekonomi",
-        "publish_time": "17-10-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/slhpbm468/mobil-subaru-ini-dapat-menempuh-lebih-1000-km-dengan-tangki-bensin-penuh"
-    },
-    {
-        "title": "AS Kerahkan Jet Siluman B-2 Bombardir Houthi, Sinyal Peringatan ke Iran?",
-        "category": "News",
-        "publish_time": "17-10-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/slhpai377/as-kerahkan-jet-siluman-b2-bombardir-houthi-sinyal-peringatan-ke-iran"
-    },
-    {
-        "title": "Pengamat Anggap Permintaan Bahrain Pindah Lokasi Pertandingan Lawan Indonesia Lebay",
-        "category": "News",
-        "publish_time": "17-10-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/slhp8e348/pengamat-anggap-permintaan-bahrain-pindah-lokasi-pertandingan-lawan-indonesia-lebay"
-    },
-    {
-        "title": "PBNU Berharap Menlu Baru Era Prabowo Terus Kawal Isu Palestina",
-        "category": "Khazanah",
-        "publish_time": "17-10-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/slhp1u430/pbnu-berharap-menlu-baru-era-prabowo-terus-kawal-isu-palestina"
-    },
-    {
-        "title": "Video Terakhir Liam Payne Sebelum Meninggal",
-        "category": "Video",
-        "publish_time": "17-10-2024 07:13",
-        "news_link": "https://tv.republika.co.id/berita/slhoss418/video-terakhir-liam-payne-sebelum-meninggal"
-    },
-    {
-        "title": "Punya Utang Pinjol Rp 3,5 Juta, Pria Yogya Nekat Curi Motor Tetangganya",
-        "category": "Rejogja",
-        "publish_time": "17-10-2024 07:13",
-        "news_link": "https://rejogja.republika.co.id/berita/slho9x282/punya-utang-pinjol-rp-35-juta-pria-yogya-nekat-curi-motor-tetangganya"
-    },
-    {
-        "title": "Rapat Paripurna DPR Setujui M Herindra Sebagai Kepala BIN",
-        "category": "Visual",
-        "publish_time": "17-10-2024 07:13",
-        "news_link": "https://visual.republika.co.id/berita/slho7j375/rapat-paripurna-dpr-setujui-m-herindra-sebagai-kepala-bin"
-    },
-    {
-        "title": "Jokowi Bocorkan Nama Panggilan Anak Kaesang",
-        "category": "Video",
-        "publish_time": "17-10-2024 07:13",
-        "news_link": "https://tv.republika.co.id/berita/slhnma418/jokowi-bocorkan-nama-panggilan-anak-kaesang"
-    },
-    {
-        "title": "Bagikan Foto Jenazah Liam Payne, Media TMZ Dikecam",
-        "category": "Ameera",
-        "publish_time": "17-10-2024 07:13",
-        "news_link": "https://ameera.republika.co.id/berita/slhnih425/bagikan-foto-jenazah-liam-payne-media-tmz-dikecam"
-    },
-    {
-        "title": "Api Lalap Gedung Yayasan, Petugas Damkar dan Warga Terluka",
-        "category": "Rejabar",
-        "publish_time": "17-10-2024 07:13",
-        "news_link": "https://rejabar.republika.co.id/berita/slhn96512/api-lalap-gedung-yayasan-petugas-damkar-dan-warga-terluka"
-    },
-    {
-        "title": "Ini Deretan Sepeda motor yang akan Hadir di IMOS 2024",
-        "category": "Ekonomi",
-        "publish_time": "17-10-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/slhn8r370/ini-deretan-sepeda-motor-yang-akan-hadir-di-imos-2024"
     }
 ]
