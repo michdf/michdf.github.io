@@ -6,99 +6,249 @@
         "news_link": "https://ekonomi.republika.co.id/berita/sli29s423/bpjs-kesehatan-raih-penghargaan-pelopor-kesetaraan-kesehatan-dari-detik-award-2024?"
     },
     {
+        "title": "Empat Meninggal dalam Kecelakaan Minibus Pembawa Santri di Tol Semarang, Ini Kronologinya",
+        "category": "News",
+        "publish_time": "18-10-2024 10:05",
+        "news_link": "https://news.republika.co.id/berita/sljqpl409/empat-meninggal-dalam-kecelakaan-minibus-pembawa-santri-di-tol-semarang-ini-kronologinya"
+    },
+    {
+        "title": "Silau! 10 Atlet UKM Taekwondo UNM Sabet 8 Medali Emas, 2 Perak di Kejuaraan CNN Menpora",
+        "category": "News",
+        "publish_time": "18-10-2024 10:04",
+        "news_link": "https://news.republika.co.id/berita/sljqnb490/silau-10-atlet-ukm-taekwondo-unm-sabet-8-medali-emas-2-perak-di-kejuaraan-cnn-menpora"
+    },
+    {
+        "title": "KIP Banda Aceh Usung Tema Syariat Islam",
+        "category": "Khazanah",
+        "publish_time": "18-10-2024 10:02",
+        "news_link": "https://khazanah.republika.co.id/berita/sljqkm430/kip-banda-aceh-usung-tema-syariat-islam"
+    },
+    {
+        "title": "Prakiraan Cuaca Cerah untuk 19 Oktober 2024 di  Jakarta Selatan",
+        "category": "News",
+        "publish_time": "18-10-2024 10:00",
+        "news_link": "https://news.republika.co.id/berita/sljqgi129984586/prakiraan-cuaca-cerah-untuk-19-oktober-2024-di-jakarta-selatan"
+    },
+    {
+        "title": "Mustahil? Belum Tentu, Sebelum Kau Mencoba",
+        "category": "Retizen",
+        "publish_time": "18-10-2024 09:59",
+        "news_link": "https://retizen.republika.co.id/posts/483164/mustahil-belum-tentu-sebelum-kau-mencoba"
+    },
+    {
+        "title": "Olahraga Adalah Obat Jiwa",
+        "category": "Retizen",
+        "publish_time": "18-10-2024 09:59",
+        "news_link": "https://retizen.republika.co.id/posts/483210/olahraga-adalah-obat-jiwa"
+    },
+    {
+        "title": "Kenapa Shalat Dijalankan, Tapi Zakat Dilupakan?",
+        "category": "Retizen",
+        "publish_time": "18-10-2024 09:59",
+        "news_link": "https://retizen.republika.co.id/posts/483225/kenapa-shalat-dijalankan-tapi-zakat-dilupakan"
+    },
+    {
+        "title": "Dosen UNM Beri Dana Bantuan Untuk Tingkatan Sarana Belajar Yayasan Ibnu Salam Kota Depok",
+        "category": "News",
+        "publish_time": "18-10-2024 09:52",
+        "news_link": "https://news.republika.co.id/berita/sljq3d490/dosen-unm-beri-dana-bantuan-untuk-tingkatan-sarana-belajar-yayasan-ibnu-salam-kota-depok"
+    },
+    {
+        "title": "EUDR Ditunda, Industri Sawit Berharap Ada Titik Tengah Regulasi",
+        "category": "Esgnow",
+        "publish_time": "18-10-2024 09:51",
+        "news_link": "https://esgnow.republika.co.id/berita/sljq1p416/eudr-ditunda-industri-sawit-berharap-ada-titik-tengah-regulasi"
+    },
+    {
+        "title": "Rupiah Menguat Jelang Pelantikan Presiden Terpilih Prabowo",
+        "category": "Ekonomi",
+        "publish_time": "18-10-2024 09:48",
+        "news_link": "https://ekonomi.republika.co.id/berita/sljpwy370/rupiah-menguat-jelang-pelantikan-presiden-terpilih-prabowo"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok, 19 Oktober 2024: Cerah, Bekasi",
+        "category": "News",
+        "publish_time": "18-10-2024 09:45",
+        "news_link": "https://news.republika.co.id/berita/sljprh303138002/prakiraan-cuaca-besok-19-oktober-2024-cerah-bekasi"
+    },
+    {
+        "title": "Manfaatkan Sains Data, Perilaku Pemain dalam Pengembangan Game Bisa Dikelompokkan",
+        "category": "News",
+        "publish_time": "18-10-2024 09:44",
+        "news_link": "https://news.republika.co.id/berita/sljpq4490/manfaatkan-sains-data-perilaku-pemain-dalam-pengembangan-game-bisa-dikelompokkan"
+    },
+    {
+        "title": "Mendorong Efisiensi dan Kemudahan di Pelabuhan Melalui Inovasi Digital",
+        "category": "Ekonomi",
+        "publish_time": "18-10-2024 09:42",
+        "news_link": "https://ekonomi.republika.co.id/berita/sljpnc423/mendorong-efisiensi-dan-kemudahan-di-pelabuhan-melalui-inovasi-digital"
+    },
+    {
+        "title": "Mahasiswa Prodi Informatika UNM Lolos MSIB 7 Sebagai Staf ICT/IT di SEAMEO QITEP",
+        "category": "News",
+        "publish_time": "18-10-2024 09:38",
+        "news_link": "https://news.republika.co.id/berita/sljph4490/mahasiswa-prodi-informatika-unm-lolos-msib-7-sebagai-staf-ictit-di-seameo-qitep"
+    },
+    {
+        "title": "PDB China Alami Laju Terlemah Sejak 2023, Butuh Lebih Banyak Stimulus",
+        "category": "Ekonomi",
+        "publish_time": "18-10-2024 09:38",
+        "news_link": "https://ekonomi.republika.co.id/berita/sljpfr370/pdb-china-alami-laju-terlemah-sejak-2023-butuh-lebih-banyak-stimulus"
+    },
+    {
+        "title": "Muhadjir Ungkap Pidato Jokowi Buat Haru Anggota Kabinet",
+        "category": "News",
+        "publish_time": "18-10-2024 09:33",
+        "news_link": "https://news.republika.co.id/berita/sljp7q484/muhadjir-ungkap-pidato-jokowi-buat-haru-anggota-kabinet"
+    },
+    {
+        "title": "AFC Sikapi Serius Permintaan Bahrain Agar Laga Tandang di Luar RI, akan Bahas Bersama FIFA",
+        "category": "News",
+        "publish_time": "18-10-2024 09:32",
+        "news_link": "https://news.republika.co.id/berita/sljp5x409/afc-sikapi-serius-permintaan-bahrain-agar-laga-tandang-di-luar-ri-akan-bahas-bersama-fifa"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok 19 Oktober 2024 untuk Daerah Bandung: Cerah Berawan",
+        "category": "News",
+        "publish_time": "18-10-2024 09:30",
+        "news_link": "https://news.republika.co.id/berita/sljp2d1331603905/prakiraan-cuaca-besok-19-oktober-2024-untuk-daerah-bandung-cerah-berawan"
+    },
+    {
+        "title": "Ribuan Siswa akan Dilibatkan Sambut  Kepulangan Jokowi ke Solo",
+        "category": "News",
+        "publish_time": "18-10-2024 09:27",
+        "news_link": "https://news.republika.co.id/berita/sljoxw377/ribuan-siswa-akan-dilibatkan-sambut-kepulangan-jokowi-ke-solo"
+    },
+    {
+        "title": "Pengaruh Arab Terhadap Bahasa Indonesia",
+        "category": "Khazanah",
+        "publish_time": "18-10-2024 09:26",
+        "news_link": "https://khazanah.republika.co.id/berita/sljovt458/pengaruh-arab-terhadap-bahasa-indonesia"
+    },
+    {
+        "title": "Nucleopad, Solusi Cepat untuk Deteksi Penyakit Infeksi",
+        "category": "News",
+        "publish_time": "18-10-2024 09:24",
+        "news_link": "https://news.republika.co.id/berita/sljosq423/nucleopad-solusi-cepat-untuk-deteksi-penyakit-infeksi"
+    },
+    {
+        "title": "Akan Ada Pesta Rakyat di Sepanjang Sudirman-Thamrin Saat Pelantikan Presiden",
+        "category": "News",
+        "publish_time": "18-10-2024 09:18",
+        "news_link": "https://news.republika.co.id/berita/sljojo377/akan-ada-pesta-rakyat-di-sepanjang-sudirmanthamrin-saat-pelantikan-presiden"
+    },
+    {
+        "title": "Belajar dari Kegagalan Cinta Sang Sahabat Nabi",
+        "category": "Khazanah",
+        "publish_time": "18-10-2024 09:16",
+        "news_link": "https://khazanah.republika.co.id/berita/sljofi458/belajar-dari-kegagalan-cinta-sang-sahabat-nabi"
+    },
+    {
+        "title": "Ribuan Siswa SMA dan Warga akan Dilibatkan untuk Sambut Kepulangan Jokowi ke Solo",
+        "category": "Rejogja",
+        "publish_time": "18-10-2024 09:14",
+        "news_link": "https://rejogja.republika.co.id/berita/sljoc9282/ribuan-siswa-sma-dan-warga-akan-dilibatkan-untuk-sambut-kepulangan-jokowi-ke-solo"
+    },
+    {
+        "title": "Aset BUMN Ini Ditetapkan Sebagai Cagar Budaya oleh Pemprov DKI Jakarta",
+        "category": "Rejakarta",
+        "publish_time": "18-10-2024 09:14",
+        "news_link": "https://republika.co.id/berita/sljobp456/aset-bumn-ini-ditetapkan-sebagai-cagar-budaya-oleh-pemprov-dki-jakarta"
+    },
+    {
         "title": "Isu Kematian Yahya Sinwar Bongkar Kebohongan Israel, Beliau Syahid Berjuang Bukan Sembunyi",
         "category": "News",
-        "publish_time": "18-10-2024 09:12",
+        "publish_time": "18-10-2024 09:14",
         "news_link": "https://news.republika.co.id/berita/sljo7r377/isu-kematian-yahya-sinwar-bongkar-kebohongan-israel-beliau-syahid-berjuang-bukan-sembunyi"
     },
     {
         "title": "Prakiraan Cuaca Besok 19 Oktober 2024 di Kota Depok: Cerah",
         "category": "News",
-        "publish_time": "18-10-2024 09:07",
+        "publish_time": "18-10-2024 09:14",
         "news_link": "https://news.republika.co.id/berita/sljo001008069602/prakiraan-cuaca-besok-19-oktober-2024-di-kota-depok-cerah"
     },
     {
         "title": "BRIN Dorong Masyarakat Pesisir Jadi Aktor Utama dalam Ekonomi Biru",
         "category": "Esgnow",
-        "publish_time": "18-10-2024 09:06",
+        "publish_time": "18-10-2024 09:14",
         "news_link": "https://esgnow.republika.co.id/berita/sljnxa416/brin-dorong-masyarakat-pesisir-jadi-aktor-utama-dalam-ekonomi-biru"
     },
     {
         "title": "Sederet Fakta Padang Mahsyar",
         "category": "Khazanah",
-        "publish_time": "18-10-2024 08:55",
+        "publish_time": "18-10-2024 09:14",
         "news_link": "https://khazanah.republika.co.id/berita/sljngj458/sederet-fakta-padang-mahsyar"
     },
     {
         "title": "Penemuan Goa di JJLS, DLH Gunungkidul Bakal Lakukan Kajian Lebih Lanjut",
         "category": "Rejogja",
-        "publish_time": "18-10-2024 08:53",
+        "publish_time": "18-10-2024 09:14",
         "news_link": "https://rejogja.republika.co.id/berita/sljnd0282/penemuan-goa-di-jjls-dlh-gunungkidul-bakal-lakukan-kajian-lebih-lanjut"
     },
     {
         "title": "Al-Qarawiyyin, Bukti Wakaf Lahirkan Peradaban",
         "category": "Khazanah",
-        "publish_time": "18-10-2024 08:51",
+        "publish_time": "18-10-2024 09:14",
         "news_link": "https://khazanah.republika.co.id/berita/sljn9d458/alqarawiyyin-bukti-wakaf-lahirkan-peradaban"
     },
     {
         "title": "Pamit dari Posisi Menteri, Nadiem Titip Merdeka Belajar Agar Dilanjutkan",
         "category": "News",
-        "publish_time": "18-10-2024 08:46",
+        "publish_time": "18-10-2024 09:14",
         "news_link": "https://news.republika.co.id/berita/sljn1k377/pamit-dari-posisi-menteri-nadiem-titip-merdeka-belajar-agar-dilanjutkan"
     },
     {
         "title": "Istana: Tamu Negara Mulai Datang pada Sabtu",
         "category": "News",
-        "publish_time": "18-10-2024 08:45",
+        "publish_time": "18-10-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/sljmyy370/istana-tamu-negara-mulai-datang-pada-sabtu"
     },
     {
         "title": "Jumat Berkah, Polisi Sosialisasikan Sasaran Target Operasi Zebra Jaya 2024 Sambil Berbagi Makanan",
         "category": "Network",
-        "publish_time": "18-10-2024 08:43",
+        "publish_time": "18-10-2024 08:14",
         "news_link": "https://ruzkaindonesia.id/posts/483215/jumat-berkah-polisi-sosialisasikan-sasaran-target-operasi-zebra-jaya-2024-sambil-berbagi-makanan"
     },
     {
         "title": "Pendapat Para Ulama tentang Lima Warna Pakaian Orang Islam, Benarkah Merah Dimakruhkan?",
         "category": "Khazanah",
-        "publish_time": "18-10-2024 08:41",
+        "publish_time": "18-10-2024 08:14",
         "news_link": "https://khazanah.republika.co.id/berita/sljmsf483/pendapat-para-ulama-tentang-lima-warna-pakaian-orang-islam-benarkah-merah-dimakruhkan"
     },
     {
         "title": "Panglima: Dua Prajurit TNI Anggota UNIFIL yang Terluka di Lebanon Sudah Kembali Bertugas",
         "category": "News",
-        "publish_time": "18-10-2024 08:38",
+        "publish_time": "18-10-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/sljmna409/panglima-dua-prajurit-tni-anggota-unifil-yang-terluka-di-lebanon-sudah-kembali-bertugas"
     },
     {
         "title": "Pelemparan Batu pada KA Masih Terjadi, Pelaku Bisa Dihukum 20 Tahun Penjara",
         "category": "Rejabar",
-        "publish_time": "18-10-2024 08:36",
+        "publish_time": "18-10-2024 08:14",
         "news_link": "https://rejabar.republika.co.id/berita/sljmjz512/pelemparan-batu-pada-ka-masih-terjadi-pelaku-bisa-dihukum-20-tahun-penjara"
     },
     {
         "title": "Inaca Tekankan Kolaborasi Atasi Tantangan Industri Penerbangan RI",
         "category": "Ekonomi",
-        "publish_time": "18-10-2024 08:33",
+        "publish_time": "18-10-2024 08:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sljmek370/inaca-tekankan-kolaborasi-atasi-tantangan-industri-penerbangan-ri"
     },
     {
         "title": "Dua Wartawan Senior Sepakbola Bicara Timnas Indonesia, Peluang Masih Ada Menuju Piala Dunia 2026",
         "category": "Network",
-        "publish_time": "18-10-2024 08:21",
+        "publish_time": "18-10-2024 08:14",
         "news_link": "https://ruzkaindonesia.id/posts/483213/dua-wartawan-senior-sepakbola-bicara-timnas-indonesia-peluang-masih-ada-menuju-piala-dunia-2026"
     },
     {
         "title": "Dua Perwira TNI AD Torehkan Prestasi Prestisius di Amerika Serikat",
         "category": "Network",
-        "publish_time": "18-10-2024 08:21",
+        "publish_time": "18-10-2024 08:14",
         "news_link": "https://seputarmiliter.id/posts/483211/dua-perwira-tni-ad-torehkan-prestasi-prestisius-di-amerika-serikat"
     },
     {
         "title": "Survei Poltracking: Khofifah-Emil Unggul pada Pilkada Jatim 2024",
         "category": "Rejogja",
-        "publish_time": "18-10-2024 08:20",
+        "publish_time": "18-10-2024 08:14",
         "news_link": "https://rejogja.republika.co.id/berita/sljltt291/survei-poltracking-khofifahemil-unggul-pada-pilkada-jatim-2024"
     },
     {
@@ -154,155 +304,5 @@
         "category": "Sharia",
         "publish_time": "18-10-2024 08:14",
         "news_link": "https://sharia.republika.co.id/berita/sljkdf423/bsi-resmikan-sentra-umkm-di-bedugul-untuk-tingkatkan-ekonomi-bali"
-    },
-    {
-        "title": "Siapa Firaunnya Umat Rasulullah?",
-        "category": "Khazanah",
-        "publish_time": "18-10-2024 08:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sljk8t458/siapa-firaunnya-umat-rasulullah"
-    },
-    {
-        "title": "Evermos-BPOM Kolaborasi Permudah Akses UMKM Dapatkan Sertifikasi BPOM",
-        "category": "Rejabar",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://rejabar.republika.co.id/berita/sljk24291/evermosbpom-kolaborasi-permudah-akses-umkm-dapatkan-sertifikasi-bpom"
-    },
-    {
-        "title": "Jelang Pilkada 2024, Warga Cirebon Diminta Waspadai Politik Uang",
-        "category": "Rejabar",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://rejabar.republika.co.id/berita/sljjxr512/jelang-pilkada-2024-warga-cirebon-diminta-waspadai-politik-uang"
-    },
-    {
-        "title": "STY Minta Kevin Diks Segera Jadi WNI, Pengamat: Jangan Sia-siakan Pemain",
-        "category": "News",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://news.republika.co.id/berita/sljjvh348/sty-minta-kevin-diks-segera-jadi-wni-pengamat-jangan-siasiakan-pemain"
-    },
-    {
-        "title": "Studi Membuktikan Kucing Pada Dasarnya Adalah Benda Cair, Ah Yang Bener?",
-        "category": "Network",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://impresiupdate.id/posts/483163/studi-membuktikan-kucing-pada-dasarnya-adalah-benda-cair-ah-yang-bener-"
-    },
-    {
-        "title": "Polisi Gagalkan Penyeludupan Benih Bening Lobster di Kepri",
-        "category": "Network",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://ruzkaindonesia.id/posts/483183/polisi-gagalkan-penyeludupan-benih-bening-lobster-di-kepri"
-    },
-    {
-        "title": "Yahya Sinwar Syahid, Macron Minta Operasi Militer Israel di Gaza Disetop",
-        "category": "Khazanah",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sljjpj483/yahya-sinwar-syahid-macron-minta-operasi-militer-israel-di-gaza-disetop"
-    },
-    {
-        "title": "RS Indonesia di Gaza Hadapi Krisis Serius",
-        "category": "Khazanah",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sljjph458/rs-indonesia-di-gaza-hadapi-krisis-serius"
-    },
-    {
-        "title": "Bahasa dan Dasar Kebangsaan Indonesia",
-        "category": "Network",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://oohya.republika.co.id/posts/483186/bahasa-dan-dasar-kebangsaan-indonesia"
-    },
-    {
-        "title": "Gara-gara Yamin, Peserta Kongres Pemuda Dikira dari Seluruh Indonesia",
-        "category": "Network",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://oohya.republika.co.id/posts/483172/gara-gara-yamin-peserta-kongres-pemuda-dikira-dari-seluruh-indonesia"
-    },
-    {
-        "title": "Observatorium Rubin, Pemburu Keberadaan Ribuan 'Bintang Gagal' yang Tersembunyi di Alam Semesta",
-        "category": "Network",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://antariksa.republika.co.id/posts/483004/observatorium-rubin-pemburu-keberadaan-ribuan-bintang-gagal-yang-tersembunyi-di-alam-semesta"
-    },
-    {
-        "title": "Waduh...Ilmuwan Mendeteksi Mikroplastik di Udara yang Dihembuskan Lumba-lumba Liar",
-        "category": "Network",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://impresiupdate.id/posts/483169/waduh-ilmuwan-mendeteksi-mikroplastik-di-udara-yang-dihembuskan-lumba-lumba-liar"
-    },
-    {
-        "title": "Berduka Atas Kematian Liam Payne, Zayn: Aku Kehilangan Seorang Saudara",
-        "category": "Network",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://filmusiku.com/posts/483177/berduka-atas-kematian-liam-payne-zayn-aku-kehilangan-seorang-saudara"
-    },
-    {
-        "title": "Depok Miliki Program Perbaikan Rumah Warga, Begini Syaratnya",
-        "category": "Network",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://ruzkaindonesia.id/posts/483208/depok-miliki-program-perbaikan-rumah-warga-begini-syaratnya"
-    },
-    {
-        "title": "Ini Tiga Paslon Terkuat Pilihan Pemilih Pemula di KBB, Ada Adik Ipar Raffi Ahmad?",
-        "category": "Rejabar",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://rejabar.republika.co.id/berita/sljjdk512/ini-tiga-paslon-terkuat-pilihan-pemilih-pemula-di-kbb-ada-adik-ipar-raffi-ahmad"
-    },
-    {
-        "title": "KAI Rekayasa Operasi Layanan saat Hari Pelantikan",
-        "category": "Ekonomi",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/sljj6r423/kai-rekayasa-operasi-layanan-saat-hari-pelantikan"
-    },
-    {
-        "title": "Pasangan ASRI Bertekad Perbanyak Kuota Penerimaan ASN untuk Kalteng",
-        "category": "Rekalimantan",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://republika.co.id/berita/sljghn456/pasangan-asri-bertekad-perbanyak-kuota-penerimaan-asn-untuk-kalteng"
-    },
-    {
-        "title": "Hari Santri 2024, Gerakan Penanaman Pohon Digalakkan di Pesantren",
-        "category": "Khazanah",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sljiqj483/hari-santri-2024-gerakan-penanaman-pohon-digalakkan-di-pesantren"
-    },
-    {
-        "title": "Lewat Ekspor, 8.196 Kilogram Kotak Ikan Asal Malang Tembus Pasar Meksiko",
-        "category": "Beacukai",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://republika.co.id/berita/sljipa423/lewat-ekspor-8-196-kilogram-kotak-ikan-asal-malang-tembus-pasar-meksiko"
-    },
-    {
-        "title": "Derita Sanudin Ditinggal Ibu Kandung Saat Bayi, Tergeletak Lumpuh di Rutilahu",
-        "category": "Rejabar",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://rejabar.republika.co.id/berita/slji8a512/derita-sanudin-ditinggal-ibu-kandung-saat-bayi-tergeletak-lumpuh-di-rutilahu"
-    },
-    {
-        "title": "Gelombang Panas Laut Dalam Ancaman Tersembunyi di Balik Pemanasan Global",
-        "category": "Esgnow",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://esgnow.republika.co.id/berita/sljac9416/gelombang-panas-laut-dalam-ancaman-tersembunyi-di-balik-pemanasan-global"
-    },
-    {
-        "title": "Kemenkeu Diminta Siapkan Anggaran untuk Pertebal Jaminan Sosial",
-        "category": "Ekonomi",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/sljhtj423/kemenkeu-diminta-siapkan-anggaran-untuk-pertebal-jaminan-sosial"
-    },
-    {
-        "title": "Anggota DPRD Kota Bandung Optimistis Perda Soal Koperasi Bisa Gerakan Perekonomian",
-        "category": "Rejabar",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://rejabar.republika.co.id/berita/sljhif512/anggota-dprd-kota-bandung-optimistis-perda-soal-koperasi-bisa-gerakan-perekonomian"
-    },
-    {
-        "title": "Bahrain Cari-Cari Alasan tak Main di GBK, STY: Kalau Datang Kita Bisa Menang, Kita Hajar",
-        "category": "News",
-        "publish_time": "18-10-2024 07:14",
-        "news_link": "https://news.republika.co.id/berita/sljhib409/bahrain-caricari-alasan-tak-main-di-gbk-sty-kalau-datang-kita-bisa-menang-kita-hajar"
-    },
-    {
-        "title": "Tito Sebut Prabowo akan Perkenalkan Menterinya pada Ahad Malam",
-        "category": "News",
-        "publish_time": "18-10-2024 06:14",
-        "news_link": "https://news.republika.co.id/berita/sljhbw484/tito-sebut-prabowo-akan-perkenalkan-menterinya-pada-ahad-malam"
     }
 ]
