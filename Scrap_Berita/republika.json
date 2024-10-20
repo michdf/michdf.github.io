@@ -1,5 +1,89 @@
 [
     {
+        "title": "Komeng Siap Tagih Janji Presiden Prabowo Subianto",
+        "category": "Video",
+        "publish_time": "20 October 2024, 21:03",
+        "news_link": "https://tv.republika.co.id/berita/slnr1h418/komeng-siap-tagih-janji-presiden-prabowo-subianto"
+    },
+    {
+        "title": "Bernilai Positif, Pospay Cup 2024 Diharapkan Kembali Diselenggarakan Tahun Depan",
+        "category": "News",
+        "publish_time": "20 October 2024, 21:02",
+        "news_link": "https://news.republika.co.id/berita/sln23q451/bernilai-positif-pospay-cup-2024-diharapkan-kembali-diselenggarakan-tahun-depan"
+    },
+    {
+        "title": "Yusril: Presiden Kenalkan ke Publik Para Menteri Malam Ini",
+        "category": "News",
+        "publish_time": "20 October 2024, 21:00",
+        "news_link": "https://news.republika.co.id/berita/slnqwx328/yusril-presiden-kenalkan-ke-publik-para-menteri-malam-ini"
+    },
+    {
+        "title": "Usai Dilantik, Presiden Prabowo Terima Tamu Negara di Istana Merdeka",
+        "category": "Visual",
+        "publish_time": "20 October 2024, 21:00",
+        "news_link": "https://visual.republika.co.id/berita/slnmxv375/usai-dilantik-presiden-prabowo-terima-tamu-negara-di-istana-merdeka"
+    },
+    {
+        "title": "Ketum MUI Doakan Presiden Prabowo Mampu Wujudkan Kemerdekaan Palestina",
+        "category": "Khazanah",
+        "publish_time": "20 October 2024, 20:57",
+        "news_link": "https://khazanah.republika.co.id/berita/slnqrk320/ketum-mui-doakan-presiden-prabowo-mampu-wujudkan-kemerdekaan-palestina"
+    },
+    {
+        "title": "Hizbullah Luncurkan Serangan Roket Besar-Besaran ke Pangkalan Militer Israel",
+        "category": "News",
+        "publish_time": "20 October 2024, 20:57",
+        "news_link": "https://news.republika.co.id/berita/slnqrd377/hizbullah-luncurkan-serangan-roket-besarbesaran-ke-pangkalan-militer-israel"
+    },
+    {
+        "title": "Kelar Antar Jokowi, Kapolri dan Panglima Kembali ke Jakarta",
+        "category": "News",
+        "publish_time": "20 October 2024, 20:52",
+        "news_link": "https://news.republika.co.id/berita/slnqiz328/kelar-antar-jokowi-kapolri-dan-panglima-kembali-ke-jakarta"
+    },
+    {
+        "title": "Bantuan untuk Warga Rohingya yang Terdampar di Perairan Aceh",
+        "category": "Visual",
+        "publish_time": "20 October 2024, 20:45",
+        "news_link": "https://visual.republika.co.id/berita/slnlvu375/bantuan-untuk-warga-rohingya-yang-terdampar-di-perairan-aceh"
+    },
+    {
+        "title": "Ini Kata Pakar Mikro Ekspresi Soal Prabowo Saat Pelantikan",
+        "category": "News",
+        "publish_time": "20 October 2024, 20:42",
+        "news_link": "https://news.republika.co.id/berita/slnq35328/ini-kata-pakar-mikro-ekspresi-soal-prabowo-saat-pelantikan"
+    },
+    {
+        "title": "Alquran dan Sunnah Ajarkan Tidur Malam Lebih Awal dan Bangun Lebih Pagi, Ini Khasiatnya",
+        "category": "Iqra",
+        "publish_time": "20 October 2024, 20:38",
+        "news_link": "https://iqra.republika.co.id/berita/slnpvx320/alquran-dan-sunnah-ajarkan-tidur-malam-lebih-awal-dan-bangun-lebih-pagi-ini-khasiatnya"
+    },
+    {
+        "title": "Dari Muslim Hingga Konghucu, Dua Ratus Pemuka Agama Dilatih Ceramah Konservasi Hutan",
+        "category": "Khazanah",
+        "publish_time": "20 October 2024, 20:36",
+        "news_link": "https://khazanah.republika.co.id/berita/slnpta483/dari-muslim-hingga-konghucu-dua-ratus-pemuka-agama-dilatih-ceramah-konservasi-hutan"
+    },
+    {
+        "title": "Mantan Ajudan Jokowi Jadi Wadan Paspampres, Tugas Jaga Gibran",
+        "category": "News",
+        "publish_time": "20 October 2024, 20:35",
+        "news_link": "https://news.republika.co.id/berita/slnpqz484/mantan-ajudan-jokowi-jadi-wadan-paspampres-tugas-jaga-gibran"
+    },
+    {
+        "title": "Alas Kaki Crocs Ajak Penggemar Rayakan Gaya Personalnya",
+        "category": "Ameera",
+        "publish_time": "20 October 2024, 20:26",
+        "news_link": "https://ameera.republika.co.id/berita/slnpbw328/alas-kaki-crocs-ajak-penggemar-rayakan-gaya-personalnya"
+    },
+    {
+        "title": "Terus Dibombardir Tentara Israel, Dua Pasien RS Indonesia di Gaza Syahid",
+        "category": "Khazanah",
+        "publish_time": "20 October 2024, 20:17",
+        "news_link": "https://khazanah.republika.co.id/berita/slnoxy483/terus-dibombardir-tentara-israel-dua-pasien-rs-indonesia-di-gaza-syahid"
+    },
+    {
         "title": "Di Mana Mobil MV3 Garuda Limousine RI 1 Presiden Prabowo Dirakit?",
         "category": "Ekonomi",
         "publish_time": "20 October 2024, 20:17",
@@ -214,89 +298,5 @@
         "category": "News",
         "publish_time": "20 October 2024, 18:01",
         "news_link": "https://news.republika.co.id/berita/slnim3320/ibas-indonesia-maju-dan-sejahtera-di-bawah-pemerintahan-prabowo"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok, 21 Oktober 2024 di Kota Yogyakarta: Cerah",
-        "category": "News",
-        "publish_time": "20 October 2024, 18:00",
-        "news_link": "https://news.republika.co.id/berita/slnikd2045498259/prakiraan-cuaca-besok-21-oktober-2024-di-kota-yogyakarta-cerah"
-    },
-    {
-        "title": "Pevita Pearce Unggah Foto Pernikahan, Penggemar Serukan Hari Patah Hati",
-        "category": "Ameera",
-        "publish_time": "20 October 2024, 17:58",
-        "news_link": "https://ameera.republika.co.id/berita/slnih2425/pevita-pearce-unggah-foto-pernikahan-penggemar-serukan-hari-patah-hati"
-    },
-    {
-        "title": "Great Eastern dan OCBC Luncurkan Produk Baru dengan Kepastian Imbal Hasil",
-        "category": "Ekonomi",
-        "publish_time": "20 October 2024, 17:46",
-        "news_link": "https://ekonomi.republika.co.id/berita/slnhxp328/great-eastern-dan-ocbc-luncurkan-produk-baru-dengan-kepastian-imbal-hasil"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok 21 Oktober 2024 di Kota Semarang: Cerah",
-        "category": "News",
-        "publish_time": "20 October 2024, 17:40",
-        "news_link": "https://news.republika.co.id/berita/slnhmy1188147992/prakiraan-cuaca-besok-21-oktober-2024-di-kota-semarang-cerah"
-    },
-    {
-        "title": "Komandan, Wadan, serta Dangrup A Paspampres Diganti, Sesmilpres Juga",
-        "category": "News",
-        "publish_time": "20 October 2024, 17:38",
-        "news_link": "https://news.republika.co.id/berita/slnhk7484/komandan-wadan-serta-dangrup-a-paspampres-diganti-sesmilpres-juga"
-    },
-    {
-        "title": "Soal Prabowo tak Singgung IKN di Pidato Pelantikan, Politikus PDIP Memaklumi",
-        "category": "News",
-        "publish_time": "20 October 2024, 17:32",
-        "news_link": "https://news.republika.co.id/berita/slnh9i377/soal-prabowo-tak-singgung-ikn-di-pidato-pelantikan-politikus-pdip-memaklumi"
-    },
-    {
-        "title": "Kaus Bertulis Jokowi Diserbu Pembeli di Pasar Klewer",
-        "category": "News",
-        "publish_time": "20 October 2024, 17:23",
-        "news_link": "https://news.republika.co.id/berita/slngv3425/kaus-bertulis-jokowi-diserbu-pembeli-di-pasar-klewer"
-    },
-    {
-        "title": "18 Jurus Jurus Ketahanan Pangan Presiden Prabowo untuk Kemandirian Indonesia",
-        "category": "Network",
-        "publish_time": "20 October 2024, 17:20",
-        "news_link": "https://diginomics.id/posts/483412/18-jurus-jurus-ketahanan-pangan-presiden-prabowo-untuk-kemandirian-indonesia"
-    },
-    {
-        "title": "Kematian Ibu dan Bayi di Rumah Kontrakan di Depok, Polisi Belum Temukan Penyebabnya",
-        "category": "Network",
-        "publish_time": "20 October 2024, 17:20",
-        "news_link": "https://ruzkaindonesia.id/posts/483420/kematian-ibu-dan-bayi-di-rumah-kontrakan-di-depok-polisi-belum-temukan-penyebabnya"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok, 21 Oktober 2024, Tangerang: Cerah",
-        "category": "News",
-        "publish_time": "20 October 2024, 17:20",
-        "news_link": "https://news.republika.co.id/berita/slngpn976759457/prakiraan-cuaca-besok-21-oktober-2024-tangerang-cerah"
-    },
-    {
-        "title": "Ada Festival Musik Jazz di Palembang? World Music Jazz Festival",
-        "category": "Network",
-        "publish_time": "20 October 2024, 17:20",
-        "news_link": "https://kingdomsriwijaya.id/posts/483426/ada-festival-musik-jazz-di-palembang-world-music-jazz-festival"
-    },
-    {
-        "title": "Mengintip Rupa dan Spesifikasi MV3 Garuda Limousine",
-        "category": "Ekonomi",
-        "publish_time": "20 October 2024, 17:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/slngdm328/mengintip-rupa-dan-spesifikasi-mv3-garuda-limousine"
-    },
-    {
-        "title": "Rakyat Makin Antusias Dukung Terobosan Program KTP Sakti Anwar Hafid-Reny Lamadjido",
-        "category": "News",
-        "publish_time": "20 October 2024, 17:05",
-        "news_link": "https://news.republika.co.id/berita/sln28e451/rakyat-makin-antusias-dukung-terobosan-program-ktp-sakti-anwar-hafidreny-lamadjido"
-    },
-    {
-        "title": "Prakiraan Cuaca: Hujan Ringan Pada 21 Oktober 2024 di  Jakarta Selatan",
-        "category": "News",
-        "publish_time": "20 October 2024, 17:00",
-        "news_link": "https://news.republika.co.id/berita/slnfsb653405646/prakiraan-cuaca-hujan-ringan-pada-21-oktober-2024-di-jakarta-selatan"
     }
 ]
