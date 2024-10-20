@@ -1,20 +1,74 @@
 [
     {
+        "title": "Bachtiar Dwi Kurniawan Pimpin Pemuda ICMI DIY Periode 2024-2028",
+        "category": "Rejogja",
+        "publish_time": "20-10-2024 23:05",
+        "news_link": "https://rejogja.republika.co.id/berita/slog57291/bachtiar-dwi-kurniawan-pimpin-pemuda-icmi-diy-periode-20242028"
+    },
+    {
+        "title": "Duet Fadli Zon dan Giring Ganesha Pimpin Kementerian Kebudayaan",
+        "category": "News",
+        "publish_time": "20-10-2024 23:04",
+        "news_link": "https://news.republika.co.id/berita/slofew484/duet-fadli-zon-dan-giring-ganesha-pimpin-kementerian-kebudayaan"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini: Hujan Ringan untuk Kota Malang pada 20 Oktober 2024",
+        "category": "News",
+        "publish_time": "20-10-2024 22:47",
+        "news_link": "https://news.republika.co.id/berita/slofca1803483346/prakiraan-cuaca-hari-ini-hujan-ringan-untuk-kota-malang-pada-20-oktober-2024"
+    },
+    {
+        "title": "Izin Siaran TV Saudi di Irak Dicabut Usai Sebut Yahya Sinwar Teroris, Kantor Dibakar Massa",
+        "category": "News",
+        "publish_time": "20-10-2024 22:44",
+        "news_link": "https://news.republika.co.id/berita/slniw2409/izin-siaran-tv-saudi-di-irak-dicabut-usai-sebut-yahya-sinwar-teroris-kantor-dibakar-massa"
+    },
+    {
+        "title": "Muhaimin Jadi Menko di Kabinet Prabowo, Anies Baswedan Dukung Penuh",
+        "category": "News",
+        "publish_time": "20-10-2024 22:29",
+        "news_link": "https://news.republika.co.id/berita/slnwa9377/muhaimin-jadi-menko-di-kabinet-prabowo-anies-baswedan-dukung-penuh"
+    },
+    {
+        "title": "Jokowi: Saya Mau Tidur Sehari Dua Hari",
+        "category": "News",
+        "publish_time": "20-10-2024 22:27",
+        "news_link": "https://news.republika.co.id/berita/sloeeq430/jokowi-saya-mau-tidur-sehari-dua-hari"
+    },
+    {
+        "title": "MV3 Garuda Limousine Buatan Pindad Tampil Perdana Saat Dinaiki Prabowo, Ini Spesifikasinya",
+        "category": "News",
+        "publish_time": "20-10-2024 22:23",
+        "news_link": "https://news.republika.co.id/berita/slnhd2409/mv3-garuda-limousine-buatan-pindad-tampil-perdana-saat-dinaiki-prabowo-ini-spesifikasinya"
+    },
+    {
+        "title": "Kantor Stasiun Televisi Jejaring Saudi Digeruduk Massa Usai Sebut Yahya Sinwar Teroris",
+        "category": "Khazanah",
+        "publish_time": "20-10-2024 22:17",
+        "news_link": "https://khazanah.republika.co.id/berita/slodyg483/kantor-stasiun-televisi-jejaring-saudi-digeruduk-massa-usai-sebut-yahya-sinwar-teroris"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini Tanggal 20 Oktober 2024 di Kota Surabaya",
+        "category": "News",
+        "publish_time": "20-10-2024 22:17",
+        "news_link": "https://news.republika.co.id/berita/slody9744687115/prakiraan-cuaca-hari-ini-tanggal-20-oktober-2024-di-kota-surabaya"
+    },
+    {
         "title": "Prakiraan Cuaca Hari Ini Tanggal 20 Oktober 2024 di Kota Yogyakarta: Cuaca Cerah",
         "category": "News",
-        "publish_time": "20-10-2024 22:00",
+        "publish_time": "20-10-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/slod4b769637337/prakiraan-cuaca-hari-ini-tanggal-20-oktober-2024-di-kota-yogyakarta-cuaca-cerah"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini Tanggal 20 Oktober 2024 Daerah Kota Semarang: Cerah Berawan",
         "category": "News",
-        "publish_time": "20-10-2024 21:40",
+        "publish_time": "20-10-2024 21:12",
         "news_link": "https://news.republika.co.id/berita/sloc6x1847732624/prakiraan-cuaca-hari-ini-tanggal-20-oktober-2024-daerah-kota-semarang-cerah-berawan"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 20 Oktober 2024 Daerah Tangerang: Cerah",
         "category": "News",
-        "publish_time": "20-10-2024 21:20",
+        "publish_time": "20-10-2024 21:12",
         "news_link": "https://news.republika.co.id/berita/slob9o1866127918/prakiraan-cuaca-hari-ini-20-oktober-2024-daerah-tangerang-cerah"
     },
     {
@@ -62,13 +116,13 @@
     {
         "title": "28 Komunitas Meriahkan Honda Culture Indonesia",
         "category": "Ekonomi",
-        "publish_time": "20-10-2024 18:12",
+        "publish_time": "20-10-2024 17:12",
         "news_link": "https://ekonomi.republika.co.id/berita/slo171468/28-komunitas-meriahkan-honda-culture-indonesia"
     },
     {
         "title": "MUI Hopes Prabowo is Able to Realize the Independence of Palestine",
         "category": "En",
-        "publish_time": "5 hours ago",
+        "publish_time": "6 hours ago",
         "news_link": "https://en.republika.co.id/berita/slnspx415/mui-hopes-prabowo-is-able-to-realize-the-independence-of-palestine"
     },
     {
@@ -244,59 +298,5 @@
         "category": "Visual",
         "publish_time": "20-10-2024 14:12",
         "news_link": "https://visual.republika.co.id/berita/slnmxv375/usai-dilantik-presiden-prabowo-terima-tamu-negara-di-istana-merdeka"
-    },
-    {
-        "title": "Ketum MUI Doakan Presiden Prabowo Mampu Wujudkan Kemerdekaan Palestina",
-        "category": "Khazanah",
-        "publish_time": "20-10-2024 14:12",
-        "news_link": "https://khazanah.republika.co.id/berita/slnqrk320/ketum-mui-doakan-presiden-prabowo-mampu-wujudkan-kemerdekaan-palestina"
-    },
-    {
-        "title": "Hizbullah Luncurkan Serangan Roket Besar-Besaran ke Pangkalan Militer Israel",
-        "category": "News",
-        "publish_time": "20-10-2024 14:12",
-        "news_link": "https://news.republika.co.id/berita/slnqrd377/hizbullah-luncurkan-serangan-roket-besarbesaran-ke-pangkalan-militer-israel"
-    },
-    {
-        "title": "Kelar Antar Jokowi, Kapolri dan Panglima Kembali ke Jakarta",
-        "category": "News",
-        "publish_time": "20-10-2024 14:12",
-        "news_link": "https://news.republika.co.id/berita/slnqiz328/kelar-antar-jokowi-kapolri-dan-panglima-kembali-ke-jakarta"
-    },
-    {
-        "title": "Bantuan untuk Warga Rohingya yang Terdampar di Perairan Aceh",
-        "category": "Visual",
-        "publish_time": "20-10-2024 14:12",
-        "news_link": "https://visual.republika.co.id/berita/slnlvu375/bantuan-untuk-warga-rohingya-yang-terdampar-di-perairan-aceh"
-    },
-    {
-        "title": "Ini Kata Pakar Mikro Ekspresi Soal Prabowo Saat Pelantikan",
-        "category": "News",
-        "publish_time": "20-10-2024 14:12",
-        "news_link": "https://news.republika.co.id/berita/slnq35328/ini-kata-pakar-mikro-ekspresi-soal-prabowo-saat-pelantikan"
-    },
-    {
-        "title": "Alquran dan Sunnah Ajarkan Tidur Malam Lebih Awal dan Bangun Lebih Pagi, Ini Khasiatnya",
-        "category": "Iqra",
-        "publish_time": "20-10-2024 13:12",
-        "news_link": "https://iqra.republika.co.id/berita/slnpvx320/alquran-dan-sunnah-ajarkan-tidur-malam-lebih-awal-dan-bangun-lebih-pagi-ini-khasiatnya"
-    },
-    {
-        "title": "Dari Muslim Hingga Konghucu, Dua Ratus Pemuka Agama Dilatih Ceramah Konservasi Hutan",
-        "category": "Khazanah",
-        "publish_time": "20-10-2024 13:12",
-        "news_link": "https://khazanah.republika.co.id/berita/slnpta483/dari-muslim-hingga-konghucu-dua-ratus-pemuka-agama-dilatih-ceramah-konservasi-hutan"
-    },
-    {
-        "title": "Mantan Ajudan Jokowi Jadi Wadan Paspampres, Tugas Jaga Gibran",
-        "category": "News",
-        "publish_time": "20-10-2024 13:12",
-        "news_link": "https://news.republika.co.id/berita/slnpqz484/mantan-ajudan-jokowi-jadi-wadan-paspampres-tugas-jaga-gibran"
-    },
-    {
-        "title": "Alas Kaki Crocs Ajak Penggemar Rayakan Gaya Personalnya",
-        "category": "Ameera",
-        "publish_time": "20-10-2024 13:12",
-        "news_link": "https://ameera.republika.co.id/berita/slnpbw328/alas-kaki-crocs-ajak-penggemar-rayakan-gaya-personalnya"
     }
 ]
