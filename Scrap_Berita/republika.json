@@ -1,38 +1,140 @@
 [
     {
+        "title": "Presiden Prabowo Buka Retreat Kabinet Merah Putih di Akmil Hari Ini",
+        "category": "News",
+        "publish_time": "24-10-2024 23:05",
+        "news_link": "https://news.republika.co.id/berita/slvu2u484/presiden-prabowo-buka-retreat-kabinet-merah-putih-di-akmil-hari-ini"
+    },
+    {
+        "title": "Menguak Potensi Spiritual: Jadwal Sholat 25 Oktober 2024 di Kota Depok",
+        "category": "Iqra",
+        "publish_time": "24-10-2024 23:02",
+        "news_link": "https://iqra.republika.co.id/berita/slvuos430/menguak-potensi-spiritual-jadwal-sholat-25-oktober-2024-di-kota-depok"
+    },
+    {
+        "title": "Hasil Liga Europa: MU Kembali Gagal Menang, Hujan Kartu Buat Twente Takluk di Kandang",
+        "category": "News",
+        "publish_time": "24-10-2024 23:02",
+        "news_link": "https://news.republika.co.id/berita/slvuog348/hasil-liga-europa-mu-kembali-gagal-menang-hujan-kartu-buat-twente-takluk-di-kandang"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini: Kota Denpasar Bali dan Sekitarnya - 25 Oktober 2024, Cuaca Cerah |City: Kota Denpasar",
+        "category": "News",
+        "publish_time": "24-10-2024 22:49",
+        "news_link": "https://news.republika.co.id/berita/slvu22133490116/prakiraan-cuaca-hari-ini-kota-denpasar-bali-dan-sekitarnya-25-oktober-2024-cuaca-cerah-city-kota-denpasar"
+    },
+    {
+        "title": "Baznas Dorong Inovasi Pengelolaan Zakat dengan Aplikasi Simba",
+        "category": "Khazanah",
+        "publish_time": "24-10-2024 22:44",
+        "news_link": "https://khazanah.republika.co.id/berita/slvtvd430/baznas-dorong-inovasi-pengelolaan-zakat-dengan-aplikasi-simba"
+    },
+    {
+        "title": "Roberto Mancini Mundur dari Timnas Arab Saudi, Pelatih Baru Lawan Indonesia Bulan Depan",
+        "category": "News",
+        "publish_time": "24-10-2024 22:41",
+        "news_link": "https://news.republika.co.id/berita/slvtq9348/roberto-mancini-mundur-dari-timnas-arab-saudi-pelatih-baru-lawan-indonesia-bulan-depan"
+    },
+    {
+        "title": "Child-Friendly Pesantren Enhances the Reputation of Islamic Educational Institutions",
+        "category": "En",
+        "publish_time": "32 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/slvtng415/childfriendly-pesantren-enhances-the-reputation-of-islamic-educational-institutions"
+    },
+    {
+        "title": "Lima Tentara IDF Dihabisi Hizbullah di Selatan Lebanon",
+        "category": "News",
+        "publish_time": "24-10-2024 22:37",
+        "news_link": "https://news.republika.co.id/berita/slvtja393/lima-tentara-idf-dihabisi-hizbullah-di-selatan-lebanon"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini, 25 Oktober 2024, Kota Makassar: Hujan Ringan",
+        "category": "News",
+        "publish_time": "24-10-2024 22:31",
+        "news_link": "https://news.republika.co.id/berita/slvt85811251770/prakiraan-cuaca-hari-ini-25-oktober-2024-kota-makassar-hujan-ringan"
+    },
+    {
+        "title": "Analis Emirat: Skenario Israel Bunuh Khamenei Sangat Masuk Akal",
+        "category": "News",
+        "publish_time": "24-10-2024 22:31",
+        "news_link": "https://news.republika.co.id/berita/slvt83377/analis-emirat-skenario-israel-bunuh-khamenei-sangat-masuk-akal"
+    },
+    {
+        "title": "BRImo IPL Jadi Ajang Pembinaan Bakat Tenis Meja Berkesinambungan di Tanah Air",
+        "category": "News",
+        "publish_time": "24-10-2024 22:29",
+        "news_link": "https://news.republika.co.id/berita/slvt6c348/brimo-ipl-jadi-ajang-pembinaan-bakat-tenis-meja-berkesinambungan-di-tanah-air"
+    },
+    {
+        "title": "Jadwal Sholat di Kota Malang Hari Ini, 25 Oktober 2024",
+        "category": "Iqra",
+        "publish_time": "24-10-2024 22:27",
+        "news_link": "https://iqra.republika.co.id/berita/slvt1s430/jadwal-sholat-di-kota-malang-hari-ini-25-oktober-2024"
+    },
+    {
+        "title": "Penjajah Lakukan Pembantaian Jam Demi Jam di Gaza",
+        "category": "News",
+        "publish_time": "24-10-2024 22:20",
+        "news_link": "https://news.republika.co.id/berita/slvsqa393/penjajah-lakukan-pembantaian-jam-demi-jam-di-gaza"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini 25 Oktober 2024 Kota Medan dan Sekitarnya: Hujan Ringan",
+        "category": "News",
+        "publish_time": "24-10-2024 22:19",
+        "news_link": "https://news.republika.co.id/berita/slvso71674376543/prakiraan-cuaca-hari-ini-25-oktober-2024-kota-medan-dan-sekitarnya-hujan-ringan"
+    },
+    {
+        "title": "Ditanya Soal Hasil Survei LSI, RK: Mending Bahas Survei Poltracking",
+        "category": "News",
+        "publish_time": "24-10-2024 22:18",
+        "news_link": "https://news.republika.co.id/berita/slvsnk377/ditanya-soal-hasil-survei-lsi-rk-mending-bahas-survei-poltracking"
+    },
+    {
+        "title": "Jadwal Sholat 25 Oktober 2024 di Kota Surabaya",
+        "category": "Iqra",
+        "publish_time": "24-10-2024 22:18",
+        "news_link": "https://iqra.republika.co.id/berita/slvsmk430/jadwal-sholat-25-oktober-2024-di-kota-surabaya"
+    },
+    {
+        "title": "Nova Arianto Rotasi Pemain Timnas U-17 Saat Hadapi Mariana Utara Hari Ini",
+        "category": "News",
+        "publish_time": "24-10-2024 22:17",
+        "news_link": "https://news.republika.co.id/berita/slvslu348/nova-arianto-rotasi-pemain-timnas-u17-saat-hadapi-mariana-utara-hari-ini"
+    },
+    {
         "title": "Prakiraan Cuaca Hari ini 25 Oktober 2024 Daerah Kota Malang dan Sekitarnya Cerah Berawan",
         "category": "News",
-        "publish_time": "24-10-2024 22:04",
+        "publish_time": "24-10-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/slvrz51225843298/prakiraan-cuaca-hari-ini-25-oktober-2024-daerah-kota-malang-dan-sekitarnya-cerah-berawan"
     },
     {
         "title": "Mourinho Dikartu Merah Saat Fenerbahce Tahan Imbang MU 1-1 di Liga Europa",
         "category": "News",
-        "publish_time": "24-10-2024 22:00",
+        "publish_time": "24-10-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/slvrrf348/mourinho-dikartu-merah-saat-fenerbahce-tahan-imbang-mu-11-di-liga-europa"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini, 25 Oktober 2024: Kota Surabaya Cerah Sepanjang Hari",
         "category": "News",
-        "publish_time": "24-10-2024 21:49",
+        "publish_time": "24-10-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/slvra01367789726/prakiraan-cuaca-hari-ini-25-oktober-2024-kota-surabaya-cerah-sepanjang-hari"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 25 Oktober 2024 Kota Yogyakarta dan Sekitarnya, Cuaca Cerah",
         "category": "News",
-        "publish_time": "24-10-2024 21:31",
+        "publish_time": "24-10-2024 21:12",
         "news_link": "https://news.republika.co.id/berita/slvqg1743023332/prakiraan-cuaca-hari-ini-25-oktober-2024-kota-yogyakarta-dan-sekitarnya-cuaca-cerah"
     },
     {
         "title": "Naskah Khutbah Jumat: Larangan Bekerja Sama dalam Kemaksiatan",
         "category": "Iqra",
-        "publish_time": "24-10-2024 21:15",
+        "publish_time": "24-10-2024 21:12",
         "news_link": "https://iqra.republika.co.id/berita/slvbzj366/naskah-khutbah-jumat-larangan-bekerja-sama-dalam-kemaksiatan"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini Tanggal 25 Oktober 2024 untuk Kota Semarang dan Sekitarnya: Cerah",
         "category": "News",
-        "publish_time": "24-10-2024 21:13",
+        "publish_time": "24-10-2024 21:12",
         "news_link": "https://news.republika.co.id/berita/slvpm0877292258/prakiraan-cuaca-hari-ini-tanggal-25-oktober-2024-untuk-kota-semarang-dan-sekitarnya-cerah"
     },
     {
@@ -48,10 +150,10 @@
         "news_link": "https://news.republika.co.id/berita/slvp0p2001418342/prakiraan-cuaca-hari-ini-25-oktober-2024-daerah-tangerang-dan-sekitarnya-cuaca-cerah-di-kota-serang"
     },
     {
-        "title": "Prakiraan Cuaca Hari Ini: Jakarta Selatan Cerah - 25 Oktober 2024",
+        "title": "Prakiraan Cuaca Hari Ini: Jakarta Selatan Cerah Sedikit Berawan",
         "category": "News",
         "publish_time": "24-10-2024 21:12",
-        "news_link": "https://news.republika.co.id/berita/slvogg205560153/prakiraan-cuaca-hari-ini-jakarta-selatan-cerah-25-oktober-2024"
+        "news_link": "https://news.republika.co.id/berita/slvogg205560153/prakiraan-cuaca-hari-ini-jakarta-selatan-cerah-sedikit-berawan"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 25 Oktober 2024: Bekasi dan Sekitarnya - Karawang Cerah",
@@ -98,7 +200,7 @@
     {
         "title": "Prabowo Targets Food and Energy Self-Sufficiency",
         "category": "En",
-        "publish_time": "3 hours ago",
+        "publish_time": "4 hours ago",
         "news_link": "https://en.republika.co.id/berita/slutvt415/prabowo-targets-food-and-energy-selfsufficiency"
     },
     {
@@ -116,7 +218,7 @@
     {
         "title": "Haikal Hassan Affirms that Halal Certification Obligation is Officially in Force",
         "category": "En",
-        "publish_time": "4 hours ago",
+        "publish_time": "5 hours ago",
         "news_link": "https://en.republika.co.id/berita/slutn0415/haikal-hassan-affirms-that-halal-certification-obligation-is-officially-in-force"
     },
     {
@@ -146,7 +248,7 @@
     {
         "title": "Prabowo Wants Red and White Cabinet to Implement 'Total Football' Strategy",
         "category": "En",
-        "publish_time": "5 hours ago",
+        "publish_time": "6 hours ago",
         "news_link": "https://en.republika.co.id/berita/slufu0415/prabowo-wants-red-and-white-cabinet-to-implement-total-football-strategy"
     },
     {
@@ -196,107 +298,5 @@
         "category": "Visual",
         "publish_time": "24-10-2024 16:12",
         "news_link": "https://visual.republika.co.id/berita/slvbeb375/melihat-lebih-dekat-budidaya-kepiting-cangkang-lunak-di-desa-kutawaru-cilacap"
-    },
-    {
-        "title": "Presiden Ramaphosa: Afrika Selatan akan Selalu Bersama Palestina",
-        "category": "News",
-        "publish_time": "24-10-2024 16:12",
-        "news_link": "https://news.republika.co.id/berita/slvc48320/presiden-ramaphosa-afrika-selatan-akan-selalu-bersama-palestina"
-    },
-    {
-        "title": "Terungkap Tulisan 'Buat Kasasi' di Uang Sitaan Terkait OTT Hakim Kasus Ronald Tannur",
-        "category": "News",
-        "publish_time": "24-10-2024 16:12",
-        "news_link": "https://news.republika.co.id/berita/slvbu9409/terungkap-tulisan-buat-kasasi-di-uang-sitaan-terkait-ott-hakim-kasus-ronald-tannur"
-    },
-    {
-        "title": "3 Pertanyaan dan Jawabannya yang Diabadikan Alquran dalam 2 Ayat Saling Berdampingan",
-        "category": "Iqra",
-        "publish_time": "24-10-2024 16:12",
-        "news_link": "https://iqra.republika.co.id/berita/slvbgf320/3-pertanyaan-dan-jawabannya-yang-diabadikan-alquran-dalam-2-ayat-saling-berdampingan"
-    },
-    {
-        "title": "Ratusan Warga Deli Serdang Tolak Kehadiran Imigran Rohingya",
-        "category": "Visual",
-        "publish_time": "24-10-2024 16:12",
-        "news_link": "https://visual.republika.co.id/berita/slvb96375/ratusan-warga-deli-serdang-tolak-kehadiran-imigran-rohingya"
-    },
-    {
-        "title": "Dukung Langkah Prabowo Berantas Korupsi, Ini Catatan Khusus DPP NCW",
-        "category": "News",
-        "publish_time": "24-10-2024 16:12",
-        "news_link": "https://news.republika.co.id/berita/slvana320/dukung-langkah-prabowo-berantas-korupsi-ini-catatan-khusus-dpp-ncw"
-    },
-    {
-        "title": "Kata Diplomat Indonesia Soal Agresi Militer Israel.",
-        "category": "Khazanah",
-        "publish_time": "24-10-2024 16:12",
-        "news_link": "https://khazanah.republika.co.id/berita/slv7xd451/kata-diplomat-indonesia-soal-agresi-militer-israel"
-    },
-    {
-        "title": "Bingung Pilih Universitas? Ini 8 Langkah Agar Pilihan Tepat",
-        "category": "News",
-        "publish_time": "24-10-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/slv9s7320/bingung-pilih-universitas-ini-8-langkah-agar-pilihan-tepat"
-    },
-    {
-        "title": "Pendakian Gunung Ciremai Ditutup Sementara, Ini Alasannya",
-        "category": "News",
-        "publish_time": "24-10-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/sluw77366/pendakian-gunung-ciremai-ditutup-sementara-ini-alasannya"
-    },
-    {
-        "title": "Tiga Situs Judol Ini Disebut Polisi Danai Aksi Gangster Remaja di Semarang",
-        "category": "Rejogja",
-        "publish_time": "24-10-2024 15:12",
-        "news_link": "https://rejogja.republika.co.id/berita/slv9oq349/tiga-situs-judol-ini-disebut-polisi-danai-aksi-gangster-remaja-di-semarang"
-    },
-    {
-        "title": "MIND ID Ungkap Realisasi Beragam Proyek Dukung Hilirisasi Mineral",
-        "category": "Ekonomi",
-        "publish_time": "24-10-2024 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/slv9ds349/mind-id-ungkap-realisasi-beragam-proyek-dukung-hilirisasi-mineral"
-    },
-    {
-        "title": "Putin di KTT BRICS Serukan Perlunya Mengoreksi Ketidakadilan Sejarah Terhadap Palestina",
-        "category": "News",
-        "publish_time": "24-10-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/slv941409/putin-di-ktt-brics-serukan-perlunya-mengoreksi-ketidakadilan-sejarah-terhadap-palestina"
-    },
-    {
-        "title": "Kebangkitan Para Petarung dari Dagestan di UFC, Generasi Baru Siap Mendominasi",
-        "category": "News",
-        "publish_time": "24-10-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/slv935456/kebangkitan-para-petarung-dari-dagestan-di-ufc-generasi-baru-siap-mendominasi"
-    },
-    {
-        "title": "PSSI Minta Suporter Tetap Dukung Shin Tae-yong",
-        "category": "News",
-        "publish_time": "24-10-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/slv8wx409/pssi-minta-suporter-tetap-dukung-shin-taeyong"
-    },
-    {
-        "title": "Para Menteri Gunakan Super Hercules ke Magelang, Menkeu: Dibeli Pakai APBN",
-        "category": "Ekonomi",
-        "publish_time": "24-10-2024 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/slv7yd370/para-menteri-gunakan-super-hercules-ke-magelang-menkeu-dibeli-pakai-apbn"
-    },
-    {
-        "title": "Hari Santri 2024, Baznas Berikan Beasiswa Bagi 17.481 Santri",
-        "category": "Khazanah",
-        "publish_time": "24-10-2024 15:12",
-        "news_link": "https://khazanah.republika.co.id/berita/slv7s6451/hari-santri-2024-baznas-berikan-beasiswa-bagi-17481-santri"
-    },
-    {
-        "title": "Janji 100 Juta per RW Pasangan RIDHO Realistis, Janji Paslom Lain Tuai Kritikan",
-        "category": "News",
-        "publish_time": "24-10-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/slufxh451/janji-100-juta-per-rw-pasangan-ridho-realistis-janji-paslom-lain-tuai-kritikan"
-    },
-    {
-        "title": "PSIP UMJ Bedah Buku PRAKSIS PANCASILA: Pengamalan Ideologi di Perusahaan Gobel",
-        "category": "News",
-        "publish_time": "24-10-2024 14:12",
-        "news_link": "https://news.republika.co.id/berita/slv7dr370/psip-umj-bedah-buku-praksis-pancasila-pengamalan-ideologi-di-perusahaan-gobel"
     }
 ]
