@@ -1,5 +1,53 @@
 [
     {
+        "title": "Prabowo Pamer Enam Anggota Kabinetnya Peraih Adhi Makayasa",
+        "category": "News",
+        "publish_time": "26 October 2024, 01:06",
+        "news_link": "https://news.republika.co.id/berita/slx6cm484/prabowo-pamer-enam-anggota-kabinetnya-peraih-adhi-makayasa"
+    },
+    {
+        "title": "Todung Mulya Lubis Soroti Ketidakadilan Hukum Dalam Kasus Mardani H Maming",
+        "category": "News",
+        "publish_time": "26 October 2024, 00:57",
+        "news_link": "https://news.republika.co.id/berita/slxb8c458/todung-mulya-lubis-soroti-ketidakadilan-hukum-dalam-kasus-mardani-h-maming"
+    },
+    {
+        "title": "Mengapa Pabrikan Mobil Sport Mewah Porsche AG Penjualannya Terus Turun?",
+        "category": "Ekonomi",
+        "publish_time": "26 October 2024, 00:57",
+        "news_link": "https://ekonomi.republika.co.id/berita/slxb7v468/mengapa-pabrikan-mobil-sport-mewah-porsche-ag-penjualannya-terus-turun"
+    },
+    {
+        "title": "Evaluasi Kinerja Kabinet Prabowo dan Potensi Dana Tambahan Ratusan Triliun di Luar APBN",
+        "category": "Ekonomi",
+        "publish_time": "26 October 2024, 00:44",
+        "news_link": "https://ekonomi.republika.co.id/berita/slwm3v423/evaluasi-kinerja-kabinet-prabowo-dan-potensi-dana-tambahan-ratusan-triliun-di-luar-apbn"
+    },
+    {
+        "title": "UE, China Sepakat Lebih Banyak Berunding untuk Tarif Kendaraan Listrik",
+        "category": "Ekonomi",
+        "publish_time": "26 October 2024, 00:35",
+        "news_link": "https://ekonomi.republika.co.id/berita/slxa73468/ue-china-sepakat-lebih-banyak-berunding-untuk-tarif-kendaraan-listrik"
+    },
+    {
+        "title": "Ubah Tren Perbankan, Gen Z Buka Peluang untuk Perbankan Syariah",
+        "category": "Sharia",
+        "publish_time": "26 October 2024, 00:30",
+        "news_link": "https://sharia.republika.co.id/berita/slwn0s423/ubah-tren-perbankan-gen-z-buka-peluang-untuk-perbankan-syariah"
+    },
+    {
+        "title": "The Ministry of Industry has confirmed that iPhone 16 Cannot be Sold in Indonesia",
+        "category": "En",
+        "publish_time": "Saturday, 26 October 2024, 00:18",
+        "news_link": "https://en.republika.co.id/berita/slwk84415/the-ministry-of-industry-has-confirmed-that-iphone-16-cannot-be-sold-in-indonesia"
+    },
+    {
+        "title": "Keseruan Peserta Retreat Kabinet Merah Putih di Magelang",
+        "category": "Video",
+        "publish_time": "26 October 2024, 00:17",
+        "news_link": "https://tv.republika.co.id/berita/slx9dp418/keseruan-peserta-retreat-kabinet-merah-putih-di-magelang"
+    },
+    {
         "title": "Kasus Ronald Tannur, Kejagung Temukan Uang Hampir Rp 1 Triliun di Rumah Mantan Pejabat MA",
         "category": "News",
         "publish_time": "26 October 2024, 00:10",
@@ -250,53 +298,5 @@
         "category": "Ameera",
         "publish_time": "25 October 2024, 19:41",
         "news_link": "https://ameera.republika.co.id/berita/slwwl5425/3-jenis-olahraga-yang-dipercaya-ampuh-cegah-stroke"
-    },
-    {
-        "title": "Rupiah Tertekan, Terdampak Dinamika Pilpres AS dan Tensi Geopolitik Iran-Israel",
-        "category": "Ekonomi",
-        "publish_time": "25 October 2024, 19:28",
-        "news_link": "https://ekonomi.republika.co.id/berita/slwvzn490/rupiah-tertekan-terdampak-dinamika-pilpres-as-dan-tensi-geopolitik-iranisrael"
-    },
-    {
-        "title": "Marquez dan Bezzecchi Puncaki Sesi Latihan GP Thailand",
-        "category": "News",
-        "publish_time": "25 October 2024, 19:27",
-        "news_link": "https://news.republika.co.id/berita/slwvya348/marquez-dan-bezzecchi-puncaki-sesi-latihan-gp-thailand"
-    },
-    {
-        "title": "Keteguhan Hati",
-        "category": "Retizen",
-        "publish_time": "25 October 2024, 19:20",
-        "news_link": "https://retizen.republika.co.id/posts/484342/keteguhan-hati"
-    },
-    {
-        "title": "Baru Konser Tahun Lalu, Ini Alasan The Corrs Mau Konser Lagi di Jakarta",
-        "category": "Ameera",
-        "publish_time": "25 October 2024, 19:17",
-        "news_link": "https://ameera.republika.co.id/berita/slwvhz425/baru-konser-tahun-lalu-ini-alasan-the-corrs-mau-konser-lagi-di-jakarta"
-    },
-    {
-        "title": "Kevin Diks Bangga Bantu Copenhagen Tahan Imbang Real Betis di Liga Conference",
-        "category": "News",
-        "publish_time": "25 October 2024, 19:15",
-        "news_link": "https://news.republika.co.id/berita/slwvdd348/kevin-diks-bangga-bantu-copenhagen-tahan-imbang-real-betis-di-liga-conference"
-    },
-    {
-        "title": "Ribuan Kader PAN Siap Menangkan Dadang Supriatna dan Ali Syakieb",
-        "category": "Rejabar",
-        "publish_time": "25 October 2024, 19:14",
-        "news_link": "https://rejabar.republika.co.id/berita/slwvc3490/ribuan-kader-pan-siap-menangkan-dadang-supriatna-dan-ali-syakieb"
-    },
-    {
-        "title": "Pendakian ke Gunung Ciremai Ditutup Sementara Mulai 28 Oktober, Ini Penyebabnya",
-        "category": "Rejabar",
-        "publish_time": "25 October 2024, 19:08",
-        "news_link": "https://rejabar.republika.co.id/berita/slwv24512/pendakian-ke-gunung-ciremai-ditutup-sementara-mulai-28-oktober-ini-penyebabnya"
-    },
-    {
-        "title": "Jimin BTS Terbukti Fans Berat Jin, Ini Buktinya",
-        "category": "Ameera",
-        "publish_time": "25 October 2024, 19:08",
-        "news_link": "https://ameera.republika.co.id/berita/slwv1s425/jimin-bts-terbukti-fans-berat-jin-ini-buktinya"
     }
 ]
