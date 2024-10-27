@@ -1,5 +1,65 @@
 [
     {
+        "title": "Ratusan Ahli IT se-Asia Pasifik Antusias Ikuti PyCon APAC 2024 di UNU Jogja",
+        "category": "Rejogja",
+        "publish_time": "27 October 2024, 19:22",
+        "news_link": "https://rejogja.republika.co.id/berita/sm0l0s291/ratusan-ahli-it-seasia-pasifik-antusias-ikuti-pycon-apac-2024-di-unu-jogja"
+    },
+    {
+        "title": "Serangan Israel Tewaskan Puluhan Orang di Gaza Utara Saat Perundingan Gencatan Senjata",
+        "category": "News",
+        "publish_time": "27 October 2024, 19:10",
+        "news_link": "https://news.republika.co.id/berita/sm0ki1370/serangan-israel-tewaskan-puluhan-orang-di-gaza-utara-saat-perundingan-gencatan-senjata"
+    },
+    {
+        "title": "Makan Bergizi Gratis Dimulai Januari 2025, Mensesneg: Mohon Maklum Kalau Belum Sempurna",
+        "category": "News",
+        "publish_time": "27 October 2024, 19:09",
+        "news_link": "https://news.republika.co.id/berita/sm0kf8409/makan-bergizi-gratis-dimulai-januari-2025-mensesneg-mohon-maklum-kalau-belum-sempurna"
+    },
+    {
+        "title": "Prihatin Peredaran Miras di Yogyakarta, Ustaz Wildan Wakhid: Khamr Induk Segala Kejahatan",
+        "category": "Rejogja",
+        "publish_time": "27 October 2024, 19:08",
+        "news_link": "https://rejogja.republika.co.id/berita/sm0kde291/prihatin-peredaran-miras-di-yogyakarta-ustaz-wildan-wakhid-khamr-induk-segala-kejahatan"
+    },
+    {
+        "title": "Sambut Sumpah Pemuda, Pelajar Bentangkan Bendera Merah Putih Sepanjang 1.000 Meter",
+        "category": "Visual",
+        "publish_time": "27 October 2024, 19:00",
+        "news_link": "https://visual.republika.co.id/berita/sm0iq6375/sambut-sumpah-pemuda-pelajar-bentangkan-bendera-merah-putih-sepanjang-1000-meter"
+    },
+    {
+        "title": "Wakil Ketua Umum PKB Optimistis Pasangan Bedas Bisa Menang di Pilkada Kabupaten Bandung",
+        "category": "Rejabar",
+        "publish_time": "27 October 2024, 18:59",
+        "news_link": "https://rejabar.republika.co.id/berita/sm0jzj512/wakil-ketua-umum-pkb-optimistis-pasangan-bedas-bisa-menang-di-pilkada-kabupaten-bandung"
+    },
+    {
+        "title": "Peringati Hari Santri Nasional 2024, Polres Indramayu Ikuti Super Fun Bike",
+        "category": "Rejabar",
+        "publish_time": "27 October 2024, 18:43",
+        "news_link": "https://rejabar.republika.co.id/berita/sm0j8v512/peringati-hari-santri-nasional-2024-polres-indramayu-ikuti-super-fun-bike"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok 28 Oktober 2024: Kota Padang Berawan",
+        "category": "News",
+        "publish_time": "27 October 2024, 18:29",
+        "news_link": "https://news.republika.co.id/berita/sm0ikq1237555078/prakiraan-cuaca-besok-28-oktober-2024-kota-padang-berawan"
+    },
+    {
+        "title": "Antusiasme Warga Lepas Kepulangan Kabinet Merah Putih dari Akmil Magelang",
+        "category": "Visual",
+        "publish_time": "27 October 2024, 18:26",
+        "news_link": "https://visual.republika.co.id/berita/sm0ifl375/antusiasme-warga-lepas-kepulangan-kabinet-merah-putih-dari-akmil-magelang"
+    },
+    {
+        "title": "Mengecap Manisnya Bisnis Stroberi dengan Pemberdayaan BRI",
+        "category": "Ekonomi",
+        "publish_time": "27 October 2024, 18:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/sm0hwy370/mengecap-manisnya-bisnis-stroberi-dengan-pemberdayaan-bri"
+    },
+    {
         "title": "Prakiraan Cuaca Kota Banda Aceh dan Sekitarnya pada 28 Oktober 2024: Berawan",
         "category": "News",
         "publish_time": "27 October 2024, 18:08",
@@ -18,7 +78,7 @@
         "news_link": "https://khazanah.republika.co.id/berita/sm0gzh366/cendekiawan-muslim-internasional-kecam-serangan-israel-terhadap-iran"
     },
     {
-        "title": "Presiden Prabowo Disebut Akan Evaluasi Menteri Setiap Hari",
+        "title": "Presiden Prabowo Disebut akan Evaluasi Menteri Setiap Hari",
         "category": "News",
         "publish_time": "27 October 2024, 18:01",
         "news_link": "https://news.republika.co.id/berita/sm0hb0458/presiden-prabowo-disebut-akan-evaluasi-menteri-setiap-hari"
@@ -54,10 +114,10 @@
         "news_link": "https://rejogja.republika.co.id/berita/sm08rg291/mui-muslim-kaffah-merangkul-kearifan-lokal-dan-bumikan-semangat-keislaman"
     },
     {
-        "title": "Prakiraan Cuaca Besok, 28 Oktober 2024: Kota Denpasar Bali Cerah Sepanjang Hari",
+        "title": "Prakiraan Cuaca Besok, 28 Oktober 2024: Kota Denpasar Cerah Sepanjang Hari",
         "category": "News",
         "publish_time": "27 October 2024, 16:49",
-        "news_link": "https://news.republika.co.id/berita/sm0dxz2018224067/prakiraan-cuaca-besok-28-oktober-2024-kota-denpasar-bali-cerah-sepanjang-hari"
+        "news_link": "https://news.republika.co.id/berita/sm0dxz2018224067/prakiraan-cuaca-besok-28-oktober-2024-kota-denpasar-cerah-sepanjang-hari"
     },
     {
         "title": "Cepat dan Hemat dengan SPBUN Solusi Bagi Nelayan di Pesisir Pantura Jabar",
@@ -90,10 +150,10 @@
         "news_link": "https://khazanah.republika.co.id/berita/sm0d4h458/bagaimana-cara-mendapatkan-syafaat-nabi"
     },
     {
-        "title": "Prakiraan Cuaca Besok 28 Oktober 2024: Kota Makassar dan Sekitarnya - Cuaca Cerah Berawan",
+        "title": "Prakiraan Cuaca Besok 28 Oktober 2024: Kota Makassar dan Sekitarnya Cerah Berawan",
         "category": "News",
         "publish_time": "27 October 2024, 16:31",
-        "news_link": "https://news.republika.co.id/berita/sm0d46607077448/prakiraan-cuaca-besok-28-oktober-2024-kota-makassar-dan-sekitarnya-cuaca-cerah-berawan"
+        "news_link": "https://news.republika.co.id/berita/sm0d46607077448/prakiraan-cuaca-besok-28-oktober-2024-kota-makassar-dan-sekitarnya-cerah-berawan"
     },
     {
         "title": "Teladan Nabi Sebagai Suami",
@@ -138,10 +198,10 @@
         "news_link": "https://rejogja.republika.co.id/berita/sm06g9291/hadir-pada-ajang-expo-clean-expo-laundry-als-bawa-jenama-premium"
     },
     {
-        "title": "Prakiraan Cuaca Besok 28 Oktober 2024 di Kota Malang dan Sekitarnya: Cuaca Cerah",
+        "title": "Prakiraan Cuaca Besok 28 Oktober 2024 di Kota Malang dan Sekitarnya: Cerah",
         "category": "News",
         "publish_time": "27 October 2024, 16:04",
-        "news_link": "https://news.republika.co.id/berita/sm0bv21106143754/prakiraan-cuaca-besok-28-oktober-2024-di-kota-malang-dan-sekitarnya-cuaca-cerah"
+        "news_link": "https://news.republika.co.id/berita/sm0bv21106143754/prakiraan-cuaca-besok-28-oktober-2024-di-kota-malang-dan-sekitarnya-cerah"
     },
     {
         "title": "Prakiraan Cuaca Besok 28 Oktober 2024: Kota Surabaya dan Sekitarnya Cerah",
@@ -204,10 +264,10 @@
         "news_link": "https://ekonomi.republika.co.id/berita/sm05ld370/nasabah-pnm-mekaar-berdayakan-neneknenek-di-bekasi-untuk-bisnis-kerupuk-kencur"
     },
     {
-        "title": "Prakiraan Cuaca Besok Tanggal 28 Oktober 2024 Daerah Tangerang dan Sekitarnya: Kota Tangerang Curah",
+        "title": "Prakiraan Cuaca Besok Tanggal 28 Oktober 2024 Tangerang dan Sekitarnya: Cerah",
         "category": "News",
         "publish_time": "27 October 2024, 15:00",
-        "news_link": "https://news.republika.co.id/berita/sm08wa626917100/prakiraan-cuaca-besok-tanggal-28-oktober-2024-daerah-tangerang-dan-sekitarnya-kota-tangerang-curah"
+        "news_link": "https://news.republika.co.id/berita/sm08wa626917100/prakiraan-cuaca-besok-tanggal-28-oktober-2024-tangerang-dan-sekitarnya-cerah"
     },
     {
         "title": "Surah Qaf Jelaskan 4 Kunci Menuju Surga",
@@ -216,10 +276,10 @@
         "news_link": "https://khazanah.republika.co.id/berita/sm08sw458/surah-qaf-jelaskan-4-kunci-menuju-surga"
     },
     {
-        "title": "Prakiraan Cuaca Besok 28 Oktober 2024 di Bandung dan Sekitarnya: Cuaca Garut",
+        "title": "Prakiraan Cuaca Besok 28 Oktober 2024 Bandung dan Sekitarnya: Cerah Diselingi Hujan Ringan",
         "category": "News",
         "publish_time": "27 October 2024, 14:54",
-        "news_link": "https://news.republika.co.id/berita/sm08mc1592954549/prakiraan-cuaca-besok-28-oktober-2024-di-bandung-dan-sekitarnya-cuaca-garut"
+        "news_link": "https://news.republika.co.id/berita/sm08mc1592954549/prakiraan-cuaca-besok-28-oktober-2024-bandung-dan-sekitarnya-cerah-diselingi-hujan-ringan"
     },
     {
         "title": "Inilah 10 Janji Allah kepada Orang Beriman",
@@ -238,65 +298,5 @@
         "category": "News",
         "publish_time": "27 October 2024, 14:48",
         "news_link": "https://news.republika.co.id/berita/sm08ce2066788733/prakiraan-cuaca-besok-28-oktober-2024-cuaca-cerah-di-jakarta-utara"
-    },
-    {
-        "title": "Presiden Prabowo Bentuk 85 Satuan Layanan Uji Coba Makan Bergizi",
-        "category": "Ekonomi",
-        "publish_time": "27 October 2024, 14:33",
-        "news_link": "https://ekonomi.republika.co.id/berita/sm04zd370/presiden-prabowo-bentuk-85-satuan-layanan-uji-coba-makan-bergizi"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok 28 Oktober 2024 untuk Bekasi dan Sekitarnya dengan Cuaca Cerah",
-        "category": "News",
-        "publish_time": "27 October 2024, 14:30",
-        "news_link": "https://news.republika.co.id/berita/sm07ia94308143/prakiraan-cuaca-besok-28-oktober-2024-untuk-bekasi-dan-sekitarnya-dengan-cuaca-cerah"
-    },
-    {
-        "title": "Prabowo akan Teken Keppres IKN Setelah Pembangunannya Rampung",
-        "category": "News",
-        "publish_time": "27 October 2024, 14:28",
-        "news_link": "https://news.republika.co.id/berita/sm07fy409/prabowo-akan-teken-keppres-ikn-setelah-pembangunannya-rampung"
-    },
-    {
-        "title": "Pertarungan di Pilgub Jabar Tak Kompetitif, KDM Sulit Dikalahkan Karena Faktor Ini",
-        "category": "Rejabar",
-        "publish_time": "27 October 2024, 14:05",
-        "news_link": "https://rejabar.republika.co.id/berita/sm04qb370/pertarungan-di-pilgub-jabar-tak-kompetitif-kdm-sulit-dikalahkan-karena-faktor-ini"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok, 28 Oktober 2024: Cerah di Kota Bogor dan Sekitarnya",
-        "category": "News",
-        "publish_time": "27 October 2024, 14:00",
-        "news_link": "https://news.republika.co.id/berita/sm064d85415013/prakiraan-cuaca-besok-28-oktober-2024-cerah-di-kota-bogor-dan-sekitarnya"
-    },
-    {
-        "title": "BRImo Tebar Hadiah Menarik di USS 2024, Ada Voucher Belanja Hingga Logam Mulia",
-        "category": "Ekonomi",
-        "publish_time": "27 October 2024, 13:55",
-        "news_link": "https://ekonomi.republika.co.id/berita/sm0450370/brimo-tebar-hadiah-menarik-di-uss-2024-ada-voucher-belanja-hingga-logam-mulia"
-    },
-    {
-        "title": "Mahasiswa Undip Latih Siswa SD Menabung Sejak Dini",
-        "category": "News",
-        "publish_time": "27 October 2024, 13:51",
-        "news_link": "https://news.republika.co.id/berita/sm05pu416/mahasiswa-undip-latih-siswa-sd-menabung-sejak-dini"
-    },
-    {
-        "title": "Upaya Pengembangan Usaha Mikro dan Pertanian di Jawa Timur Terus Dilakukan BUMN",
-        "category": "Rejogja",
-        "publish_time": "27 October 2024, 13:46",
-        "news_link": "https://rejogja.republika.co.id/berita/sm05dk456/upaya-pengembangan-usaha-mikro-dan-pertanian-di-jawa-timur-terus-dilakukan-bumn"
-    },
-    {
-        "title": "Inovasi Strategis IKN:  Pembangunan Infrastruktur Menuju Smart & Green City",
-        "category": "Rejogja",
-        "publish_time": "27 October 2024, 13:41",
-        "news_link": "https://rejogja.republika.co.id/berita/sm058w291/inovasi-strategis-ikn-pembangunan-infrastruktur-menuju-smart-green-city"
-    },
-    {
-        "title": "Gubernur Kalteng: Jambore Membangun Karakter, Keterampilan, dan Kemampuan Sosial",
-        "category": "News",
-        "publish_time": "27 October 2024, 13:35",
-        "news_link": "https://news.republika.co.id/berita/sm03v3370/gubernur-kalteng-jambore-membangun-karakter-keterampilan-dan-kemampuan-sosial"
     }
 ]
