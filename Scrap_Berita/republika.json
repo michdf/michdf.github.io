@@ -1,15 +1,111 @@
 [
     {
+        "title": "Menaker Jinjing Catatan Kasus Sritex Saat Menghadap Prabowo di Istana",
+        "category": "Ekonomi",
+        "publish_time": "29-10-2024 09:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/sm41iw416/menaker-jinjing-catatan-kasus-sritex-saat-menghadap-prabowo-di-istana"
+    },
+    {
+        "title": "Israel Larang UNRWA, Bagaimana Dampaknya?",
+        "category": "News",
+        "publish_time": "29-10-2024 09:10",
+        "news_link": "https://news.republika.co.id/berita/sm41hx393/israel-larang-unrwa-bagaimana-dampaknya"
+    },
+    {
+        "title": "Rupiah Tergelincir Seiring dengan Menurunnya Ekspektasi Pemotongan FFR",
+        "category": "Ekonomi",
+        "publish_time": "29-10-2024 09:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/sm41a4423/rupiah-tergelincir-seiring-dengan-menurunnya-ekspektasi-pemotongan-ffr"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok 30 Oktober 2024 Kota Malang: Berawan",
+        "category": "News",
+        "publish_time": "29-10-2024 09:03",
+        "news_link": "https://news.republika.co.id/berita/sm41772098885949/prakiraan-cuaca-besok-30-oktober-2024-kota-malang-berawan"
+    },
+    {
+        "title": "Tak Selamanya FOMO Bikin Depresi, Ini Penjelasan Ustadz Hanan Attaki",
+        "category": "Khazanah",
+        "publish_time": "29-10-2024 08:59",
+        "news_link": "https://khazanah.republika.co.id/berita/sm40zr483/tak-selamanya-fomo-bikin-depresi-ini-penjelasan-ustadz-hanan-attaki"
+    },
+    {
+        "title": "Kolaborasi Jadi Kunci Realisasikan Swasembada Pangan",
+        "category": "Ekonomi",
+        "publish_time": "29-10-2024 08:58",
+        "news_link": "https://ekonomi.republika.co.id/berita/sm40xx423/kolaborasi-jadi-kunci-realisasikan-swasembada-pangan"
+    },
+    {
+        "title": "Kemenpora Tekankan Pentingnya Sinergi dalam Pengembangan Pemuda",
+        "category": "News",
+        "publish_time": "29-10-2024 08:56",
+        "news_link": "https://news.republika.co.id/berita/sm40sz416/kemenpora-tekankan-pentingnya-sinergi-dalam-pengembangan-pemuda"
+    },
+    {
+        "title": "Yenny Wahid Ungkap tak Sedikit Kasus Atlet Jadi Korban Investasi Bodong Hingga Judol",
+        "category": "Ekonomi",
+        "publish_time": "29-10-2024 08:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/sm40kw423/yenny-wahid-ungkap-tak-sedikit-kasus-atlet-jadi-korban-investasi-bodong-hingga-judol"
+    },
+    {
+        "title": "iPhone 16 Dilarang Dijual di Indonesia, Ekonom: Bentuk Ketegasan Pemerintah",
+        "category": "Ekonomi",
+        "publish_time": "29-10-2024 08:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/sm40kk490/iphone-16-dilarang-dijual-di-indonesia-ekonom-bentuk-ketegasan-pemerintah"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok 30 Oktober 2024 di Kota Surabaya dan Sekitarnya, Cerah Berawan",
+        "category": "News",
+        "publish_time": "29-10-2024 08:48",
+        "news_link": "https://news.republika.co.id/berita/sm40ic1094707565/prakiraan-cuaca-besok-30-oktober-2024-di-kota-surabaya-dan-sekitarnya-cerah-berawan"
+    },
+    {
+        "title": "Waspada Karhutla! Puluhan Titik Panas Terdeteksi di Sumbar",
+        "category": "Esgnow",
+        "publish_time": "29-10-2024 08:45",
+        "news_link": "https://esgnow.republika.co.id/berita/sm40c3416/waspada-karhutla-puluhan-titik-panas-terdeteksi-di-sumbar"
+    },
+    {
+        "title": "Investasi Masif pada Energi Terbarukan Dorong Cina Capai Puncak Emisi Lebih Cepat",
+        "category": "Esgnow",
+        "publish_time": "29-10-2024 08:34",
+        "news_link": "https://esgnow.republika.co.id/berita/sm3zuh416/investasi-masif-pada-energi-terbarukan-dorong-cina-capai-puncak-emisi-lebih-cepat"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok 30 Oktober 2024 untuk Kota Yogyakarta: Cerah Sepanjang Hari",
+        "category": "News",
+        "publish_time": "29-10-2024 08:30",
+        "news_link": "https://news.republika.co.id/berita/sm3zny1783042621/prakiraan-cuaca-besok-30-oktober-2024-untuk-kota-yogyakarta-cerah-sepanjang-hari"
+    },
+    {
+        "title": "Ribuan Santri DIY 'Geruduk' Polda DIY Suarakan Tolak Kekerasan dan Miras di Yogyakarta",
+        "category": "Rejogja",
+        "publish_time": "29-10-2024 08:30",
+        "news_link": "https://rejogja.republika.co.id/berita/sm3znu291/ribuan-santri-diy-geruduk-polda-diy-suarakan-tolak-kekerasan-dan-miras-di-yogyakarta"
+    },
+    {
+        "title": "Dandan Riza Wardana dan Dadang Supriatna Kompak Kunjungi Tokoh Budaya",
+        "category": "Rejabar",
+        "publish_time": "29-10-2024 08:28",
+        "news_link": "https://rejabar.republika.co.id/berita/sm3zkv512/dandan-riza-wardana-dan-dadang-supriatna-kompak-kunjungi-tokoh-budaya"
+    },
+    {
+        "title": "Pemerintah Ingin Bangun Rumah Rakyat di Atas Tanah Koruptor",
+        "category": "Ekonomi",
+        "publish_time": "29-10-2024 08:20",
+        "news_link": "https://ekonomi.republika.co.id/berita/sm3z76490/pemerintah-ingin-bangun-rumah-rakyat-di-atas-tanah-koruptor"
+    },
+    {
         "title": "Laporkan Cawagub Suswono ke Polda Metro Jaya, Ormas Betawi Bangkit Diarahkan ke Bawaslu",
         "category": "News",
-        "publish_time": "29-10-2024 08:15",
+        "publish_time": "29-10-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/sm3ywv409/laporkan-cawagub-suswono-ke-polda-metro-jaya-ormas-betawi-bangkit-diarahkan-ke-bawaslu"
     },
     {
-        "title": "CEO Hybe Minta Maaf atas Dokumen Internal yang Jelek-jelekkan Artis Agensi Lain",
+        "title": "Dokumen Internal Hybe 'Jelek-jelekkan' Artis Agensi Lain, CEO Minta Maaf",
         "category": "Ameera",
         "publish_time": "29-10-2024 08:14",
-        "news_link": "https://ameera.republika.co.id/berita/sm3ywi425/ceo-hybe-minta-maaf-atas-dokumen-internal-yang-jelekjelekkan-artis-agensi-lain"
+        "news_link": "https://ameera.republika.co.id/berita/sm3ywi425/dokumen-internal-hybe-jelekjelekkan-artis-agensi-lain-ceo-minta-maaf"
     },
     {
         "title": "Prakiraan Cuaca Besok 30 Oktober 2024: Kota Semarang dan Sekitarnya Cerah",
@@ -20,283 +116,187 @@
     {
         "title": "Rencana Penerbangan Rute Banyuwangi-Cina Pakai Pesawat Carter",
         "category": "News",
-        "publish_time": "29-10-2024 08:04",
+        "publish_time": "29-10-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sm3yes484/rencana-penerbangan-rute-banyuwangicina-pakai-pesawat-carter"
-    },
-    {
-        "title": "Rencana Penerbangan Rute Banyuwangi-Cina Pakai Pesawat Carter",
-        "category": "News",
-        "publish_time": "29-10-2024 08:04",
-        "news_link": "https://news.republika.co.id/berita/sm3yer484/rencana-penerbangan-rute-banyuwangicina-pakai-pesawat-carter"
     },
     {
         "title": "Temui Menhub, Erick Thohir Bahas Swasembada Pangan hingga Hilirisasi",
         "category": "Video",
-        "publish_time": "29-10-2024 08:01",
+        "publish_time": "29-10-2024 08:13",
         "news_link": "https://tv.republika.co.id/berita/sm3y9y418/temui-menhub-erick-thohir-bahas-swasembada-pangan-hingga-hilirisasi"
     },
     {
         "title": "Prakiraan Cuaca Besok 30 Oktober 2024: Tangerang dan Sekitarnya, Kota Tangerang Selatan Hujan",
         "category": "News",
-        "publish_time": "29-10-2024 08:00",
+        "publish_time": "29-10-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sm3y8o1464144094/prakiraan-cuaca-besok-30-oktober-2024-tangerang-dan-sekitarnya-kota-tangerang-selatan-hujan"
     },
     {
         "title": "Mensesneg: Anggota Kabinet Pakai Mobil Maung",
         "category": "News",
-        "publish_time": "29-10-2024 08:00",
+        "publish_time": "29-10-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sm3y8a377/mensesneg-anggota-kabinet-pakai-mobil-maung"
     },
     {
         "title": "Deteksi Dini Dinilai Tingkatkan Peluang Sembuh Penderita Kanker Payudara",
         "category": "Video",
-        "publish_time": "29-10-2024 08:00",
+        "publish_time": "29-10-2024 08:13",
         "news_link": "https://tv.republika.co.id/berita/sm3uwa467/deteksi-dini-dinilai-tingkatkan-peluang-sembuh-penderita-kanker-payudara"
     },
     {
         "title": "Masyarakat Adat Tuntut Pengakuan dalam Melindungi Alam dan Keanekaragaman Hayati",
         "category": "Esgnow",
-        "publish_time": "29-10-2024 08:00",
+        "publish_time": "29-10-2024 08:13",
         "news_link": "https://esgnow.republika.co.id/berita/sm3vql416/masyarakat-adat-tuntut-pengakuan-dalam-melindungi-alam-dan-keanekaragaman-hayati"
     },
     {
         "title": "Komandan IDF Bertumbangan Sepanjang Oktober",
         "category": "News",
-        "publish_time": "29-10-2024 07:55",
+        "publish_time": "29-10-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sm3xze393/komandan-idf-bertumbangan-sepanjang-oktober"
     },
     {
         "title": "Prakiraan Cuaca Besok 30 Oktober 2024 Daerah Bandung dan Sekitarnya",
         "category": "News",
-        "publish_time": "29-10-2024 07:54",
+        "publish_time": "29-10-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sm3xyg1763603364/prakiraan-cuaca-besok-30-oktober-2024-daerah-bandung-dan-sekitarnya"
     },
     {
         "title": "Babe Hailkal Sentil Balik Mahfud MD Soal Sertifikasi Halal: Penafsiran Keliru",
         "category": "News",
-        "publish_time": "29-10-2024 07:51",
+        "publish_time": "29-10-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sm3xtc377/babe-hailkal-sentil-balik-mahfud-md-soal-sertifikasi-halal-penafsiran-keliru"
     },
     {
         "title": "Prakiraan Cuaca Besok 30 Oktober 2024: Kota Jakarta dan Sekitarnya Alami Hujan Ringan",
         "category": "News",
-        "publish_time": "29-10-2024 07:48",
+        "publish_time": "29-10-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sm3xoh2135438401/prakiraan-cuaca-besok-30-oktober-2024-kota-jakarta-dan-sekitarnya-alami-hujan-ringan"
     },
     {
         "title": "Ekonom: Kontribusi Pariwisata Terhadap PDB Bisa Tembus 5 Persen",
         "category": "Ekonomi",
-        "publish_time": "29-10-2024 07:48",
+        "publish_time": "29-10-2024 08:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sm3xno423/ekonom-kontribusi-pariwisata-terhadap-pdb-bisa-tembus-5-persen"
     },
     {
         "title": "Suhu Tinggi Terjadi di Kota Bogor Selama Oktober, BMKG Ungkap Penyebabnya",
         "category": "Esgnow",
-        "publish_time": "29-10-2024 07:40",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://esgnow.republika.co.id/berita/sm3xas425/suhu-tinggi-terjadi-di-kota-bogor-selama-oktober-bmkg-ungkap-penyebabnya"
     },
     {
         "title": "Pemprov Kalteng Luncurkan Program Sekolah dan Kuliah Gratis, Pertama di Indonesia",
         "category": "News",
-        "publish_time": "29-10-2024 07:38",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://news.republika.co.id/berita/sm3x7x423/pemprov-kalteng-luncurkan-program-sekolah-dan-kuliah-gratis-pertama-di-indonesia"
     },
     {
         "title": "Prakiraan Cuaca Besok 30 Oktober 2024: Bekasi dan Sekitarnya",
         "category": "News",
-        "publish_time": "29-10-2024 07:30",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://news.republika.co.id/berita/sm3wua675241444/prakiraan-cuaca-besok-30-oktober-2024-bekasi-dan-sekitarnya"
     },
     {
         "title": "Suswono Minta Maaf Soal Analogi Nabi Muhammad Pengangguran, Video Lama Ahok Viral",
         "category": "News",
-        "publish_time": "29-10-2024 07:24",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://news.republika.co.id/berita/sm3wk4409/suswono-minta-maaf-soal-analogi-nabi-muhammad-pengangguran-video-lama-ahok-viral"
     },
     {
         "title": "Si Stiker Barcode Pintar, Buat Transaksi Secepat Kilat Mudahkan Pebisnis dan Bayar Pajak",
         "category": "Rejabar",
-        "publish_time": "29-10-2024 07:22",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://rejabar.republika.co.id/berita/sm3wg8512/si-stiker-barcode-pintar-buat-transaksi-secepat-kilat-mudahkan-pebisnis-dan-bayar-pajak"
     },
     {
         "title": "Polrestro Jaktim Terima Laporan Orang Tua Korban Penyanderaan di Pospol Pejaten",
         "category": "News",
-        "publish_time": "29-10-2024 07:19",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://news.republika.co.id/berita/sm3wcn484/polrestro-jaktim-terima-laporan-orang-tua-korban-penyanderaan-di-pospol-pejaten"
     },
     {
         "title": "Asosiasi Desak Potongan Ojol Maksimal 10 Persen",
         "category": "Ekonomi",
-        "publish_time": "29-10-2024 07:17",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sm3w81423/asosiasi-desak-potongan-ojol-maksimal-10-persen"
     },
     {
         "title": "Dibacakan Rasulullah Surah Ar-Rahman, Ini Respons tak Terduga dari Para Jin",
         "category": "Khazanah",
-        "publish_time": "29-10-2024 07:17",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://khazanah.republika.co.id/berita/sm3vxd483/dibacakan-rasulullah-surah-arrahman-ini-respons-tak-terduga-dari-para-jin"
     },
     {
         "title": "Polda Jambi Usut Pencabulan 12 Santri oleh Pimpinan Ponpes",
         "category": "Khazanah",
-        "publish_time": "29-10-2024 07:17",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://khazanah.republika.co.id/berita/sm3vso366/polda-jambi-usut-pencabulan-12-santri-oleh-pimpinan-ponpes"
     },
     {
-        "title": "Prakiraan Cuaca Besok 30 Oktober 2024 Daerah Bogor dan Sekitarnya: Kota Bogor",
+        "title": "Prakiraan Cuaca Besok 30 Oktober 2024 Bogor dan Sekitarnya: Cerah Hingga Hujan Ringan",
         "category": "News",
-        "publish_time": "29-10-2024 07:17",
-        "news_link": "https://news.republika.co.id/berita/sm3vga742601368/prakiraan-cuaca-besok-30-oktober-2024-daerah-bogor-dan-sekitarnya-kota-bogor"
+        "publish_time": "29-10-2024 07:13",
+        "news_link": "https://news.republika.co.id/berita/sm3vga742601368/prakiraan-cuaca-besok-30-oktober-2024-bogor-dan-sekitarnya-cerah-hingga-hujan-ringan"
     },
     {
         "title": "HP Harga 2 Jutaan dengan Kamera Terbaik",
         "category": "Retizen",
-        "publish_time": "29-10-2024 07:17",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://retizen.republika.co.id/posts/484796/hp-harga-2-jutaan-dengan-kamera-terbaik"
     },
     {
         "title": "Refleksi Rasa Sepi di Tanah Asing: Resensi Seribu Kunang-Kunang di Manhattan",
         "category": "Retizen",
-        "publish_time": "29-10-2024 07:17",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://retizen.republika.co.id/posts/484812/refleksi-rasa-sepi-di-tanah-asing-resensi-seribu-kunang-kunang-di-manhattan"
     },
     {
         "title": "Bergembira Bersama di Bulan Bahasa",
         "category": "Retizen",
-        "publish_time": "29-10-2024 07:17",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://retizen.republika.co.id/posts/484820/bergembira-bersama-di-bulan-bahasa"
     },
     {
         "title": "5 Rukun Islam: Penjelasan dan Dalil",
         "category": "Retizen",
-        "publish_time": "29-10-2024 07:17",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://retizen.republika.co.id/posts/484838/5-rukun-islam-penjelasan-dan-dalil"
     },
     {
         "title": "Bea Cukai Edukasi Ratusan Calon Pekerja Migran Jelang Keberangkatan ke Korea Selatan",
         "category": "Beacukai",
-        "publish_time": "29-10-2024 07:17",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://republika.co.id/berita/sm3vc1423/bea-cukai-edukasi-ratusan-calon-pekerja-migran-jelang-keberangkatan-ke-korea-selatan"
     },
     {
         "title": "Usai Retreat di Akmil, Kapolri Perintahkan Jajaran Laksanakan Program Prabowo",
         "category": "News",
-        "publish_time": "29-10-2024 07:17",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://news.republika.co.id/berita/sm3vbo484/usai-retreat-di-akmil-kapolri-perintahkan-jajaran-laksanakan-program-prabowo"
     },
     {
         "title": "Palestina Makin Membara, Umat Harus Bergerak Nyata",
         "category": "Retizen",
-        "publish_time": "29-10-2024 07:17",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://retizen.republika.co.id/posts/484839/palestina-makin-membara-umat-harus-bergerak-nyata"
     },
     {
         "title": "Kuliner Kediri",
         "category": "Retizen",
-        "publish_time": "29-10-2024 07:17",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://retizen.republika.co.id/posts/484801/kuliner-kediri"
     },
     {
         "title": "Anak-Anak SD Tiru Tren Make-up TikTok! Siapa yang Salah?!",
         "category": "Retizen",
-        "publish_time": "29-10-2024 07:17",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://retizen.republika.co.id/posts/484834/anak-anak-sd-tiru-tren-make-up-tiktok-siapa-yang-salah"
     },
     {
         "title": "Digital: Mahasiswa Bisnis Digital Universitas Nusa Mandiri Raih Kesempatan di MSIB 7",
         "category": "News",
-        "publish_time": "29-10-2024 07:17",
+        "publish_time": "29-10-2024 07:13",
         "news_link": "https://news.republika.co.id/berita/sm3swb370/digital-mahasiswa-bisnis-digital-universitas-nusa-mandiri-raih-kesempatan-di-msib-7"
-    },
-    {
-        "title": "Dukung Tari Topeng Cisalak, Mahasiswa UI Raih Gelar Wakil II Mpok Depok",
-        "category": "Network",
-        "publish_time": "29-10-2024 07:17",
-        "news_link": "https://ruzkaindonesia.id/posts/484846/dukung-tari-topeng-cisalak-mahasiswa-ui-raih-gelar-wakil-ii-mpok-depok"
-    },
-    {
-        "title": "Posisi Apri/Fadia Digeser Ana Tiwi",
-        "category": "Network",
-        "publish_time": "29-10-2024 07:17",
-        "news_link": "https://badmintonews.id/posts/484852/posisi-apri-fadia-digeser-ana-tiwi"
-    },
-    {
-        "title": "Fleksibilitas Pembiayaan Jadi Kunci Percepatan Transisi Energi",
-        "category": "Esgnow",
-        "publish_time": "29-10-2024 07:17",
-        "news_link": "https://esgnow.republika.co.id/berita/sm3uxw416/fleksibilitas-pembiayaan-jadi-kunci-percepatan-transisi-energi"
-    },
-    {
-        "title": "Di Depan Ribuan Santri, Kapolda: Alhamdulillah, Penusuk Santri Krapyak Ditangkap Semalam",
-        "category": "News",
-        "publish_time": "29-10-2024 06:17",
-        "news_link": "https://news.republika.co.id/berita/sm3uji377/di-depan-ribuan-santri-kapolda-alhamdulillah-penusuk-santri-krapyak-ditangkap-semalam"
-    },
-    {
-        "title": "Sambangi Kemenhub, Erick Thohir Tegaskan BUMN Dukung Program Prabowo",
-        "category": "News",
-        "publish_time": "29-10-2024 06:17",
-        "news_link": "https://news.republika.co.id/berita/sm3uex484/sambangi-kemenhub-erick-thohir-tegaskan-bumn-dukung-program-prabowo"
-    },
-    {
-        "title": "Lindungi Investor Sritex, BEI Sampaikan SRIL Harus Lakukan\u00a0Buyback",
-        "category": "Ekonomi",
-        "publish_time": "29-10-2024 06:17",
-        "news_link": "https://ekonomi.republika.co.id/berita/sm3t77370/lindungi-investor-sritex-bei-sampaikan-sril-harus-lakukanbuyback"
-    },
-    {
-        "title": "Ini Dia Spesifikasi Maung Garuda yang Siap Jadi Kendaraan Resmi Kabinet Merah Putih",
-        "category": "Ekonomi",
-        "publish_time": "29-10-2024 06:17",
-        "news_link": "https://ekonomi.republika.co.id/berita/sm3tt9349/ini-dia-spesifikasi-maung-garuda-yang-siap-jadi-kendaraan-resmi-kabinet-merah-putih"
-    },
-    {
-        "title": "BPJPH: Sertifikasi Halal Mudahkan Produsen dan Lindungi Konsumen",
-        "category": "Khazanah",
-        "publish_time": "29-10-2024 06:17",
-        "news_link": "https://khazanah.republika.co.id/berita/sm3tq7458/bpjph-sertifikasi-halal-mudahkan-produsen-dan-lindungi-konsumen"
-    },
-    {
-        "title": "Mahasiswa UBSI Semai Inspirasi di Dunia Jurnalistik dalam Generasi Campus Roadshow",
-        "category": "News",
-        "publish_time": "29-10-2024 06:17",
-        "news_link": "https://news.republika.co.id/berita/sm3sra370/mahasiswa-ubsi-semai-inspirasi-di-dunia-jurnalistik-dalam-generasi-campus-roadshow"
-    },
-    {
-        "title": "Solidaritas Santri Serukan Jogja Anti Miras dan Tuntut Adili Pelaku Penusukan Dua Santri",
-        "category": "Rejogja",
-        "publish_time": "29-10-2024 06:17",
-        "news_link": "https://rejogja.republika.co.id/berita/sm3tco291/solidaritas-santri-serukan-jogja-anti-miras-dan-tuntut-adili-pelaku-penusukan-dua-santri"
-    },
-    {
-        "title": "Buntut Penusukan, Ribuan Santri Bergerak, Resah dengan Miras di Yogyakarta",
-        "category": "News",
-        "publish_time": "29-10-2024 06:17",
-        "news_link": "https://news.republika.co.id/berita/sm3sor377/buntut-penusukan-ribuan-santri-bergerak-resah-dengan-miras-di-yogyakarta"
-    },
-    {
-        "title": "Ummah",
-        "category": "Khazanah",
-        "publish_time": "29-10-2024 06:17",
-        "news_link": "https://www.republika.id/posts/55316/ummah"
-    },
-    {
-        "title": "Erick Thohir Dukung Menteri Gunakan Kendaraan Dinas Buatan Pindad",
-        "category": "Ekonomi",
-        "publish_time": "29-10-2024 06:17",
-        "news_link": "https://ekonomi.republika.co.id/berita/sm3sh4370/erick-thohir-dukung-menteri-gunakan-kendaraan-dinas-buatan-pindad"
-    },
-    {
-        "title": "Tangkap 8 Pelaku Curanmor, Polisi Ingatkan Ini Jam Rawan Pencurian di Bandung",
-        "category": "Rejabar",
-        "publish_time": "29-10-2024 06:17",
-        "news_link": "https://rejabar.republika.co.id/berita/sm3sex512/tangkap-8-pelaku-curanmor-polisi-ingatkan-ini-jam-rawan-pencurian-di-bandung"
-    },
-    {
-        "title": "Kisah Kedermawanan Abdullah bin Al Mubarak saat Menunaikan Ibadah Haji",
-        "category": "Khazanah",
-        "publish_time": "29-10-2024 06:17",
-        "news_link": "https://khazanah.republika.co.id/berita/sm3sb1430/kisah-kedermawanan-abdullah-bin-al-mubarak-saat-menunaikan-ibadah-haji"
     }
 ]
