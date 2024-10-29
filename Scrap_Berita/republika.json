@@ -1,20 +1,176 @@
 [
     {
-        "title": "Pengacara Supriyani: Ada Permintaan 50 Juta untuk Hentikan Kasus",
+        "title": "ICW: Harta ZR Janggal, Dilaporan Rp 51 Miliar, Tapi Aset di Rumah Nyaris Rp 1 Triliun",
         "category": "News",
-        "publish_time": "29-10-2024 00:54",
-        "news_link": "https://news.republika.co.id/berita/sm3eib377/pengacara-supriyani-ada-permintaan-50-juta-untuk-hentikan-kasus"
+        "publish_time": "29-10-2024 02:46",
+        "news_link": "https://news.republika.co.id/berita/sm3joo377/icw-harta-zr-janggal-dilaporan-rp-51-miliar-tapi-aset-di-rumah-nyaris-rp-1-triliun"
+    },
+    {
+        "title": "Harga Emas Antam pada Selasa Naik Rp 8.000 per Gram",
+        "category": "Ekonomi",
+        "publish_time": "29-10-2024 02:44",
+        "news_link": "https://ekonomi.republika.co.id/berita/sm3jm0370/harga-emas-antam-pada-selasa-naik-rp-8000-per-gram"
+    },
+    {
+        "title": "Pesantren dan Madrasah Diharapkan Semakin Bertambah Banyak",
+        "category": "Khazanah",
+        "publish_time": "29-10-2024 02:38",
+        "news_link": "https://khazanah.republika.co.id/berita/sm3b5c451/pesantren-dan-madrasah-diharapkan-semakin-bertambah-banyak"
+    },
+    {
+        "title": "Stres Kerja? Tenang, Ada Cara Mengatasinya Tanpa Bikin Kesehatan Makin Parah",
+        "category": "Ameera",
+        "publish_time": "29-10-2024 02:37",
+        "news_link": "https://ameera.republika.co.id/berita/sm3jas425/stres-kerja-tenang-ada-cara-mengatasinya-tanpa-bikin-kesehatan-makin-parah"
+    },
+    {
+        "title": "Peningkatan Kualitas Guru Jadi Fokus Utama Mendikdasmen",
+        "category": "Video",
+        "publish_time": "29-10-2024 02:34",
+        "news_link": "https://tv.republika.co.id/berita/sm3j5v418/peningkatan-kualitas-guru-jadi-fokus-utama-mendikdasmen"
+    },
+    {
+        "title": "Tata Cara Mandi Wajib Menurut Empat Mazhab",
+        "category": "Khazanah",
+        "publish_time": "29-10-2024 02:33",
+        "news_link": "https://khazanah.republika.co.id/berita/sm3j3l483/tata-cara-mandi-wajib-menurut-empat-mazhab"
+    },
+    {
+        "title": "Kemenkeu Klarifikasi Anggito Soal Prabowo Intruksikan Menteri Pakai Mobil Maung",
+        "category": "News",
+        "publish_time": "29-10-2024 02:33",
+        "news_link": "https://news.republika.co.id/berita/sm3j3f377/kemenkeu-klarifikasi-anggito-soal-prabowo-intruksikan-menteri-pakai-mobil-maung"
+    },
+    {
+        "title": "Soal Dugaan Keracunan Massal di Acara Puskesmas, Ini Penjelasan Pemkot Cirebon",
+        "category": "Rejabar",
+        "publish_time": "29-10-2024 02:26",
+        "news_link": "https://rejabar.republika.co.id/berita/sm3iso512/soal-dugaan-keracunan-massal-di-acara-puskesmas-ini-penjelasan-pemkot-cirebon"
+    },
+    {
+        "title": "Empat Negara Kecam Larangan Operasi UNRWA di Israel",
+        "category": "Khazanah",
+        "publish_time": "29-10-2024 02:24",
+        "news_link": "https://khazanah.republika.co.id/berita/sm3ipd366/empat-negara-kecam-larangan-operasi-unrwa-di-israel"
+    },
+    {
+        "title": "Sergio Perez Kritik Lawson Usai Insiden di Tikungan 4 Grand Prix Meksiko",
+        "category": "Network",
+        "publish_time": "29-10-2024 02:22",
+        "news_link": "https://motoresto.id/posts/484749/sergio-perez-kritik-lawson-usai-insiden-di-tikungan-4-grand-prix-meksiko"
+    },
+    {
+        "title": "BYD Luncurkan Pick Up Double Cabin Listrik Jago Off-Road di Kamboja, Indonesia Menyusul?",
+        "category": "Ekonomi",
+        "publish_time": "29-10-2024 02:22",
+        "news_link": "https://ekonomi.republika.co.id/berita/sm3ikz468/byd-luncurkan-pick-up-double-cabin-listrik-jago-offroad-di-kamboja-indonesia-menyusul"
+    },
+    {
+        "title": "Peringati Sumpah Pemuda, Dandan akan Fasilitasi Anak Muda Bandung",
+        "category": "Rejabar",
+        "publish_time": "29-10-2024 02:20",
+        "news_link": "https://rejabar.republika.co.id/berita/sm3iho512/peringati-sumpah-pemuda-dandan-akan-fasilitasi-anak-muda-bandung"
+    },
+    {
+        "title": "Wakaf Salman Siap Berkolaborasi untuk Bantuan Palestina",
+        "category": "Khazanah",
+        "publish_time": "29-10-2024 02:15",
+        "news_link": "https://khazanah.republika.co.id/berita/sm3hpx430/wakaf-salman-siap-berkolaborasi-untuk-bantuan-palestina"
+    },
+    {
+        "title": "Wakaf Salman Dukung Bandung For Gaza",
+        "category": "Rejabar",
+        "publish_time": "29-10-2024 02:09",
+        "news_link": "https://rejabar.republika.co.id/berita/sm3hz3512/wakaf-salman-dukung-bandung-for-gaza"
+    },
+    {
+        "title": "Jadwal Sholat Hari Ini, 29 Oktober 2024 di Kota Depok",
+        "category": "Iqra",
+        "publish_time": "29-10-2024 02:00",
+        "news_link": "https://iqra.republika.co.id/berita/sm3hk4430/jadwal-sholat-hari-ini-29-oktober-2024-di-kota-depok"
+    },
+    {
+        "title": "Indonesia, Turkiye Explore Cooperation in Islamic Activities",
+        "category": "En",
+        "publish_time": "48 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/sm3ax8451/indonesia-turkiye-explore-cooperation-in-islamic-activities"
+    },
+    {
+        "title": "Dua Pemain Muda MU Ini Berterima Kasih kepada Ten Hag karena Dapat Kepercayaan Bermain",
+        "category": "News",
+        "publish_time": "29-10-2024 01:53",
+        "news_link": "https://news.republika.co.id/berita/sm3h9i348/dua-pemain-muda-mu-ini-berterima-kasih-kepada-ten-hag-karena-dapat-kepercayaan-bermain"
+    },
+    {
+        "title": "Ada Komika Yewen di Antara Pemuda 7 Provinsi Bicara Monster Plastik",
+        "category": "Network",
+        "publish_time": "29-10-2024 01:48",
+        "news_link": "https://oohya.republika.co.id/posts/484784/ada-komika-yewen-di-antara-pemuda-7-provinsi-bicara-monster-plastik"
+    },
+    {
+        "title": "Max Verstappen Respons Santai Terhadap Penalti 20 Detik di GP Mexico City",
+        "category": "Network",
+        "publish_time": "29-10-2024 01:48",
+        "news_link": "https://motoresto.id/posts/484746/max-verstappen-respons-santai-terhadap-penalti-20-detik-di-gp-mexico-city"
+    },
+    {
+        "title": "Peneliti Sebut Bahasa Enggano Diambang Kepunahan",
+        "category": "Network",
+        "publish_time": "29-10-2024 01:48",
+        "news_link": "https://magentatoday.id/posts/484723/peneliti-sebut-bahasa-enggano-diambang-kepunahan"
+    },
+    {
+        "title": "Beijing: AS Lakukan Spionase, Tapi Tuduh Negara Lain",
+        "category": "News",
+        "publish_time": "29-10-2024 01:48",
+        "news_link": "https://news.republika.co.id/berita/sm3fz3377/beijing-as-lakukan-spionase-tapi-tuduh-negara-lain"
+    },
+    {
+        "title": "APDI dan PT TDC Sepakat Penting Peningkatan Ekosistem Transaksi Digital",
+        "category": "Ekonomi",
+        "publish_time": "29-10-2024 01:48",
+        "news_link": "https://ekonomi.republika.co.id/berita/sm3fps430/apdi-dan-pt-tdc-sepakat-penting-peningkatan-ekosistem-transaksi-digital"
+    },
+    {
+        "title": "Data dan Fakta Erik Ten Hag, Pelatih yang Baru Dipecat Manchester United",
+        "category": "News",
+        "publish_time": "29-10-2024 01:48",
+        "news_link": "https://news.republika.co.id/berita/sm3fqd348/data-dan-fakta-erik-ten-hag-pelatih-yang-baru-dipecat-manchester-united"
+    },
+    {
+        "title": "Teliti Perjuangan Tokoh Bela Palestina, Penulis Ini Beli Dokumen Hingga Rp 32 Juta",
+        "category": "Khazanah",
+        "publish_time": "29-10-2024 00:48",
+        "news_link": "https://khazanah.republika.co.id/berita/sm3a65451/teliti-perjuangan-tokoh-bela-palestina-penulis-ini-beli-dokumen-hingga-rp-32-juta"
+    },
+    {
+        "title": "MER-C, Komunitas Pejuang Subuh MRPI dan  Wakaf Salman Bakal Gelar Bandung For Gaza",
+        "category": "Rejabar",
+        "publish_time": "29-10-2024 00:48",
+        "news_link": "https://rejabar.republika.co.id/berita/sm3fld512/merc-komunitas-pejuang-subuh-mrpi-dan-wakaf-salman-bakal-gelar-bandung-for-gaza"
+    },
+    {
+        "title": "Penuturan Prajurit TNI Saat Serangan Israel ke UNIFIL",
+        "category": "Video",
+        "publish_time": "29-10-2024 00:48",
+        "news_link": "https://tv.republika.co.id/berita/sm3fbe418/penuturan-prajurit-tni-saat-serangan-israel-ke-unifil"
+    },
+    {
+        "title": "Pengacara Supriyani: Ada Permintaan Rp 50 Juta untuk Hentikan Kasus",
+        "category": "News",
+        "publish_time": "29-10-2024 00:48",
+        "news_link": "https://news.republika.co.id/berita/sm3eib377/pengacara-supriyani-ada-permintaan-rp-50-juta-untuk-hentikan-kasus"
     },
     {
         "title": "Sholat Dhuha Sebagai Sedekah Tulang, Ini Bacaan Doa dan Niatnya Latin dan Terjemahan",
         "category": "Iqra",
-        "publish_time": "29-10-2024 00:54",
+        "publish_time": "29-10-2024 00:48",
         "news_link": "https://iqra.republika.co.id/berita/sm3ei4366/sholat-dhuha-sebagai-sedekah-tulang-ini-bacaan-doa-dan-niatnya-latin-dan-terjemahan"
     },
     {
         "title": "Israel Sahkan UU Larang UNRWA Beroperasi",
         "category": "News",
-        "publish_time": "29-10-2024 00:52",
+        "publish_time": "29-10-2024 00:48",
         "news_link": "https://news.republika.co.id/berita/sm3efl370/israel-sahkan-uu-larang-unrwa-beroperasi"
     },
     {
@@ -26,277 +182,121 @@
     {
         "title": "Arti Resolusi Jihad Bagi Keberlangsungan Bangsa",
         "category": "Khazanah",
-        "publish_time": "29-10-2024 00:32",
+        "publish_time": "29-10-2024 00:48",
         "news_link": "https://khazanah.republika.co.id/berita/sm3aln451/arti-resolusi-jihad-bagi-keberlangsungan-bangsa"
     },
     {
         "title": "Disebut Suswono Pengangguran Saat Menikah, Ini Jumlah Mahar Nabi Muhammad untuk Khadijah",
         "category": "Khazanah",
-        "publish_time": "29-10-2024 00:30",
+        "publish_time": "29-10-2024 00:48",
         "news_link": "https://khazanah.republika.co.id/berita/sm3dey430/disebut-suswono-pengangguran-saat-menikah-ini-jumlah-mahar-nabi-muhammad-untuk-khadijah"
     },
     {
         "title": "Dimumule, Bangkitkan Ide Kreatif Anak Muda Lembang",
         "category": "Network",
-        "publish_time": "29-10-2024 00:28",
+        "publish_time": "29-10-2024 00:48",
         "news_link": "https://bandung24jam.id/posts/484768/dimumule-bangkitkan-ide-kreatif-anak-muda-lembang"
     },
     {
         "title": "PON XXI, Atlet Depok Raih Prestasi, Kantongi 26 Mendali",
         "category": "Network",
-        "publish_time": "29-10-2024 00:27",
+        "publish_time": "29-10-2024 00:48",
         "news_link": "https://ruzkaindonesia.id/posts/484772/pon-xxi-atlet-depok-raih-prestasi-kantongi-26-mendali"
     },
     {
         "title": "Lagi, Ratusan Botol Miras Disita Satpol PP dari Warung Jamu di Cilegon",
         "category": "Network",
-        "publish_time": "29-10-2024 00:27",
+        "publish_time": "29-10-2024 00:48",
         "news_link": "https://magentatoday.id/posts/484732/lagi-ratusan-botol-miras-disita-satpol-pp-dari-warung-jamu-di-cilegon"
     },
     {
         "title": "Pemerintah Malaysia Kecam Lagu APT Rose Blackpink dan Bruno Mars, Ada Apa?",
         "category": "Network",
-        "publish_time": "29-10-2024 00:27",
+        "publish_time": "29-10-2024 00:48",
         "news_link": "https://impresiupdate.id/posts/484776/pemerintah-malaysia-kecam-lagu-apt-rose-blackpink-dan-bruno-mars-ada-apa-"
     },
     {
         "title": "Presiden Prabowo Instruksikan Penggunaan Mobil Pindad Maung untuk Para Menteri",
         "category": "Network",
-        "publish_time": "29-10-2024 00:27",
+        "publish_time": "29-10-2024 00:48",
         "news_link": "https://motoresto.id/posts/484745/presiden-prabowo-instruksikan-penggunaan-mobil-pindad-maung-untuk-para-menteri"
     },
     {
         "title": "Maksimalkan Daya Baterai Ponsel Android Anda, Coba Dulu Kiat Profesional Ini",
         "category": "Network",
-        "publish_time": "29-10-2024 00:26",
+        "publish_time": "29-10-2024 00:48",
         "news_link": "https://impresiupdate.id/posts/484775/maksimalkan-daya-baterai-ponsel-android-anda-coba-dulu-kiat-profesional-ini"
     },
     {
         "title": "Penumpang Ojek Online Meninggal Usai Terlindas Bus di Bandung",
         "category": "Rejabar",
-        "publish_time": "29-10-2024 00:24",
+        "publish_time": "29-10-2024 00:48",
         "news_link": "https://rejabar.republika.co.id/berita/sm3d3o512/penumpang-ojek-online-meninggal-usai-terlindas-bus-di-bandung"
     },
     {
         "title": "Kementan Siapkan Formula Agar Program B50 tak Ganggu Ekspor Sawit",
         "category": "Ekonomi",
-        "publish_time": "29-10-2024 00:23",
+        "publish_time": "29-10-2024 00:48",
         "news_link": "https://ekonomi.republika.co.id/berita/sm3d2o370/kementan-siapkan-formula-agar-program-b50-tak-ganggu-ekspor-sawit"
     },
     {
         "title": "Bojan Hodak Akui Kemenangan Persib Atas Persik tak Mudah",
         "category": "News",
-        "publish_time": "29-10-2024 00:17",
+        "publish_time": "28-10-2024 23:48",
         "news_link": "https://news.republika.co.id/berita/sm3csh348/bojan-hodak-akui-kemenangan-persib-atas-persik-tak-mudah"
     },
     {
         "title": "Parade Monster Plastik Suarakan Bahaya Plastik Sekali Pakai di Tujuh Kota",
         "category": "Esgnow",
-        "publish_time": "29-10-2024 00:13",
+        "publish_time": "28-10-2024 23:48",
         "news_link": "https://esgnow.republika.co.id/berita/sm3cm1416/parade-monster-plastik-suarakan-bahaya-plastik-sekali-pakai-di-tujuh-kota"
     },
     {
         "title": "Suap, Hakim, dan Keberlangsungan Hukum",
         "category": "Khazanah",
-        "publish_time": "29-10-2024 00:09",
+        "publish_time": "28-10-2024 23:48",
         "news_link": "https://khazanah.republika.co.id/berita/sm3a0c451/suap-hakim-dan-keberlangsungan-hukum"
     },
     {
         "title": "Keberhasilan Iran Gagalkan Serangan Israel dan Pesan Kuatnya Menurut Ahli Militer Suriah",
         "category": "Khazanah",
-        "publish_time": "29-10-2024 00:02",
+        "publish_time": "28-10-2024 23:48",
         "news_link": "https://khazanah.republika.co.id/berita/sm3b86320/keberhasilan-iran-gagalkan-serangan-israel-dan-pesan-kuatnya-menurut-ahli-militer-suriah"
     },
     {
         "title": "Kata Pemerintah China Soal Kunci Menyelesaikan Konflik Israel dan Negara Lain",
         "category": "Khazanah",
-        "publish_time": "28-10-2024 23:02",
+        "publish_time": "28-10-2024 23:48",
         "news_link": "https://khazanah.republika.co.id/berita/sm3ah5451/kata-pemerintah-china-soal-kunci-menyelesaikan-konflik-israel-dan-negara-lain"
     },
     {
         "title": "Fakta Pembunuhan Santriwati di Kendal, Ternyata Korban Diperkosa Usai Dibunuh",
         "category": "News",
-        "publish_time": "28-10-2024 23:02",
+        "publish_time": "28-10-2024 23:48",
         "news_link": "https://news.republika.co.id/berita/sm3a9d377/fakta-pembunuhan-santriwati-di-kendal-ternyata-korban-diperkosa-usai-dibunuh"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 29 Oktober 2024: Kota Palembang dan Sekitarnya, Cerah di Kota Palembang dan Kota Pagar Alam",
         "category": "News",
-        "publish_time": "28-10-2024 23:02",
+        "publish_time": "28-10-2024 23:48",
         "news_link": "https://news.republika.co.id/berita/sm3a411516483950/prakiraan-cuaca-hari-ini-29-oktober-2024-kota-palembang-dan-sekitarnya-cerah-di-kota-palembang-dan-kota-pagar-alam"
     },
     {
         "title": "Cek Daftar Peraih Ballon d'Or Sepanjang Masa, Pemain Spanyol Ternyata Jarang Menang",
         "category": "News",
-        "publish_time": "28-10-2024 23:02",
+        "publish_time": "28-10-2024 22:48",
         "news_link": "https://news.republika.co.id/berita/sm3a31348/cek-daftar-peraih-ballon-dor-sepanjang-masa-pemain-spanyol-ternyata-jarang-menang"
     },
     {
         "title": "Ahli Sarankan Makan Bergizi Gratis Akomodasi Program yang Sudah Ada",
         "category": "Ekonomi",
-        "publish_time": "28-10-2024 23:02",
+        "publish_time": "28-10-2024 22:48",
         "news_link": "https://ekonomi.republika.co.id/berita/sm39x5370/ahli-sarankan-makan-bergizi-gratis-akomodasi-program-yang-sudah-ada"
     },
     {
         "title": "Ustadz Adi Hidayat Beri Pesan bagi Orang yang Mendapat Jabatan",
         "category": "Khazanah",
-        "publish_time": "28-10-2024 23:02",
+        "publish_time": "28-10-2024 22:48",
         "news_link": "https://khazanah.republika.co.id/berita/sm39vv430/ustadz-adi-hidayat-beri-pesan-bagi-orang-yang-mendapat-jabatan"
-    },
-    {
-        "title": "Final DBL Jakarta 2024 Kembali Digelar di Indonesia Arena",
-        "category": "News",
-        "publish_time": "28-10-2024 23:02",
-        "news_link": "https://news.republika.co.id/berita/sm39fk348/final-dbl-jakarta-2024-kembali-digelar-di-indonesia-arena"
-    },
-    {
-        "title": "China Sambut Baik Niat Indonesia Gabung BRICS",
-        "category": "News",
-        "publish_time": "28-10-2024 23:02",
-        "news_link": "https://news.republika.co.id/berita/sm397d484/china-sambut-baik-niat-indonesia-gabung-brics"
-    },
-    {
-        "title": "Kreator One Piece Eiichiro Oda Dinobatkan Sebagai Mangaka Terkaya di Dunia",
-        "category": "Ameera",
-        "publish_time": "28-10-2024 23:02",
-        "news_link": "https://ameera.republika.co.id/berita/sm3940425/kreator-one-piece-eiichiro-oda-dinobatkan-sebagai-mangaka-terkaya-di-dunia"
-    },
-    {
-        "title": "Genoa Resmi Datangkan Penyerang Kontroversial Mario Balotelli",
-        "category": "News",
-        "publish_time": "28-10-2024 23:02",
-        "news_link": "https://news.republika.co.id/berita/sm38rn348/genoa-resmi-datangkan-penyerang-kontroversial-mario-balotelli"
-    },
-    {
-        "title": "Kasus Polio Terus Bertambah, Pakistan Kampanyekan Vaksinasi Nasional",
-        "category": "Ameera",
-        "publish_time": "28-10-2024 23:02",
-        "news_link": "https://ameera.republika.co.id/berita/sm38lp425/kasus-polio-terus-bertambah-pakistan-kampanyekan-vaksinasi-nasional"
-    },
-    {
-        "title": "Singgung Nabi Muhammad Pengangguran, Cawagub Suswono Minta Maaf",
-        "category": "News",
-        "publish_time": "28-10-2024 23:02",
-        "news_link": "https://news.republika.co.id/berita/sm38jj484/singgung-nabi-muhammad-pengangguran-cawagub-suswono-minta-maaf"
-    },
-    {
-        "title": "Kisah Junaid al Baghdadi Kecil yang Memukai Ratusan Syekh di Masjidil Haram",
-        "category": "Khazanah",
-        "publish_time": "28-10-2024 23:02",
-        "news_link": "https://khazanah.republika.co.id/berita/sm38hh430/kisah-junaid-al-baghdadi-kecil-yang-memukai-ratusan-syekh-di-masjidil-haram"
-    },
-    {
-        "title": "Lamine Yamal Raih Trofi Kopa, Harry Kane dan Kylian Mbappe Berbagi Trofi Gerd Muller",
-        "category": "News",
-        "publish_time": "28-10-2024 23:02",
-        "news_link": "https://news.republika.co.id/berita/sm38eh348/lamine-yamal-raih-trofi-kopa-harry-kane-dan-kylian-mbappe-berbagi-trofi-gerd-muller"
-    },
-    {
-        "title": "Video Asusila Terancam Disebar Jika tak Mau Diajak Kembali Berzina, Harus Bagaimana?",
-        "category": "Khazanah",
-        "publish_time": "28-10-2024 23:02",
-        "news_link": "https://khazanah.republika.co.id/berita/sm3880483/video-asusila-terancam-disebar-jika-tak-mau-diajak-kembali-berzina-harus-bagaimana"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari ini 29 Oktober 2024 untuk Daerah Kota Makassar dan Sekitarnya: Cerah di Kota Makassar",
-        "category": "News",
-        "publish_time": "28-10-2024 22:02",
-        "news_link": "https://news.republika.co.id/berita/sm37w0708912313/prakiraan-cuaca-hari-ini-29-oktober-2024-untuk-daerah-kota-makassar-dan-sekitarnya-cerah-di-kota-makassar"
-    },
-    {
-        "title": "Memilih Pemimpin yang Amanah",
-        "category": "Khazanah",
-        "publish_time": "28-10-2024 22:02",
-        "news_link": "https://www.republika.id/posts/55313/memilih-pemimpin-yang-amanah"
-    },
-    {
-        "title": "Menghayati Hikmah Ibadah: Jadwal Sholat Hari Ini, 29 Oktober 2024, di Jakarta",
-        "category": "Iqra",
-        "publish_time": "28-10-2024 22:02",
-        "news_link": "https://iqra.republika.co.id/berita/sm37tb430/menghayati-hikmah-ibadah-jadwal-sholat-hari-ini-29-oktober-2024-di-jakarta"
-    },
-    {
-        "title": "Rodri Pemenang Ballon d'Or 2024, Kalahkan Vinicius Junior di Posisi Kedua",
-        "category": "News",
-        "publish_time": "28-10-2024 22:02",
-        "news_link": "https://news.republika.co.id/berita/sm37ov348/rodri-pemenang-ballon-dor-2024-kalahkan-vinicius-junior-di-posisi-kedua"
-    },
-    {
-        "title": "Pergi Haji atau Umroh Dulu? Ini Jawaban Ustadz Abdul Somad",
-        "category": "Khazanah",
-        "publish_time": "28-10-2024 22:02",
-        "news_link": "https://khazanah.republika.co.id/berita/sm37gg430/pergi-haji-atau-umroh-dulu-ini-jawaban-ustadz-abdul-somad"
-    },
-    {
-        "title": "Ingin Program Anies Dilanjutkan, Pedagang Beras Pasar Induk Cipinang Dukung Pramono-Rano",
-        "category": "News",
-        "publish_time": "28-10-2024 22:02",
-        "news_link": "https://news.republika.co.id/berita/sm2o65409/ingin-program-anies-dilanjutkan-pedagang-beras-pasar-induk-cipinang-dukung-pramonorano"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini 29 Oktober 2024 Daerah Kota Medan: Hujan Ringan",
-        "category": "News",
-        "publish_time": "28-10-2024 22:02",
-        "news_link": "https://news.republika.co.id/berita/sm37ca1763611109/prakiraan-cuaca-hari-ini-29-oktober-2024-daerah-kota-medan-hujan-ringan"
-    },
-    {
-        "title": "Adele Kena Infeksi Bakteri di Telinga, Sebagian Pendengarannya Hilang",
-        "category": "Ameera",
-        "publish_time": "28-10-2024 22:02",
-        "news_link": "https://ameera.republika.co.id/berita/sm37by425/adele-kena-infeksi-bakteri-di-telinga-sebagian-pendengarannya-hilang"
-    },
-    {
-        "title": "Israel Resmi Larang UNRWA, Abaikan Peringatan Dunia",
-        "category": "News",
-        "publish_time": "28-10-2024 22:02",
-        "news_link": "https://news.republika.co.id/berita/sm370a393/israel-resmi-larang-unrwa-abaikan-peringatan-dunia"
-    },
-    {
-        "title": "Suswono Minta Maaf Usulannya Soal Janda Kaya Jakarta Nikahi Pengangguran Jadi Polemik",
-        "category": "News",
-        "publish_time": "28-10-2024 22:02",
-        "news_link": "https://news.republika.co.id/berita/sm2nxc409/suswono-minta-maaf-usulannya-soal-janda-kaya-jakarta-nikahi-pengangguran-jadi-polemik"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini 29 Oktober 2024 Kota Malang dan Sekitarnya: Cerah di Blitar",
-        "category": "News",
-        "publish_time": "28-10-2024 22:02",
-        "news_link": "https://news.republika.co.id/berita/sm36nb1899395158/prakiraan-cuaca-hari-ini-29-oktober-2024-kota-malang-dan-sekitarnya-cerah-di-blitar"
-    },
-    {
-        "title": "Menggali Keutamaan Ibadah: Jadwal Sholat di Kota Surabaya Hari Ini",
-        "category": "Iqra",
-        "publish_time": "28-10-2024 22:02",
-        "news_link": "https://iqra.republika.co.id/berita/sm36ka430/menggali-keutamaan-ibadah-jadwal-sholat-di-kota-surabaya-hari-ini"
-    },
-    {
-        "title": "Pengamat: Faktor Jokowi Bisa Kerek Suara Luthfi-Gus Yasin di Pilgub Jateng",
-        "category": "News",
-        "publish_time": "28-10-2024 22:02",
-        "news_link": "https://news.republika.co.id/berita/sm2hy7377/pengamat-faktor-jokowi-bisa-kerek-suara-luthfigus-yasin-di-pilgub-jateng"
-    },
-    {
-        "title": "Afrika Selatan Habis-Habisan Buktikan Israel Lakukan Genosida di Gaza",
-        "category": "News",
-        "publish_time": "28-10-2024 22:02",
-        "news_link": "https://www.republika.id/posts/55302/afrika-selatan-habis-habisan-buktikan-israel-lakukan-genosida-di-gaza"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini 29 Oktober 2024 Daerah Kota Surabaya dan Sekitarnya: Cerah",
-        "category": "News",
-        "publish_time": "28-10-2024 22:02",
-        "news_link": "https://news.republika.co.id/berita/sm35y01808541307/prakiraan-cuaca-hari-ini-29-oktober-2024-daerah-kota-surabaya-dan-sekitarnya-cerah"
-    },
-    {
-        "title": "Misteri Tiga Hakim Agung di Kasus Suap Kasasi Ronald Tannur",
-        "category": "News",
-        "publish_time": "28-10-2024 22:02",
-        "news_link": "https://www.republika.id/posts/55306/misteri-tiga-hakim-agung-di-kasus-suap-kasasi-ronald-tannur"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini 29 Oktober 2024 Daerah Kota Yogyakarta dan Sekitarnya: Cerah",
-        "category": "News",
-        "publish_time": "28-10-2024 21:02",
-        "news_link": "https://news.republika.co.id/berita/sm3542623331956/prakiraan-cuaca-hari-ini-29-oktober-2024-daerah-kota-yogyakarta-dan-sekitarnya-cerah"
     }
 ]
