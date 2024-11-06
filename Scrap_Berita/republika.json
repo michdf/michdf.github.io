@@ -1,8 +1,104 @@
 [
     {
+        "title": "Netanyahu Pecat Menhan Gallant, Demonstrasi Pecah di Penjuru Israel",
+        "category": "News",
+        "publish_time": "06-11-2024 07:10",
+        "news_link": "https://news.republika.co.id/berita/smip90377/netanyahu-pecat-menhan-gallant-demonstrasi-pecah-di-penjuru-israel"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok 7 November 2024: Bogor dan Sekitarnya",
+        "category": "News",
+        "publish_time": "06-11-2024 07:00",
+        "news_link": "https://news.republika.co.id/berita/smiosi1151287727/prakiraan-cuaca-besok-7-november-2024-bogor-dan-sekitarnya"
+    },
+    {
+        "title": "54 Negara dan Organisasi Desak DK PBB Hentikan Pengiriman Senjata ke Israel",
+        "category": "Khazanah",
+        "publish_time": "06-11-2024 06:59",
+        "news_link": "https://khazanah.republika.co.id/berita/smi5es451/54-negara-dan-organisasi-desak-dk-pbb-hentikan-pengiriman-senjata-ke-israel"
+    },
+    {
+        "title": "Si.Se.Sa Hadirkan 150 Koleksi Baru, Masukkan Elemen Jepang dalam Busana Syar'i",
+        "category": "Ameera",
+        "publish_time": "06-11-2024 06:57",
+        "news_link": "https://ameera.republika.co.id/berita/smionv425/sisesa-hadirkan-150-koleksi-baru-masukkan-elemen-jepang-dalam-busana-syari"
+    },
+    {
+        "title": "Perkuat Kemampun Digital, UNM KERJA Sama dengan PT Sinergi Transformasi Digital",
+        "category": "News",
+        "publish_time": "06-11-2024 06:56",
+        "news_link": "https://news.republika.co.id/berita/smiols370/perkuat-kemampun-digital-unm-kerja-sama-dengan-pt-sinergi-transformasi-digital"
+    },
+    {
+        "title": "Menko PMK: Negara Berhak Dapat 'Return' dari Investasi LPDP",
+        "category": "News",
+        "publish_time": "06-11-2024 06:54",
+        "news_link": "https://news.republika.co.id/berita/smiojg458/menko-pmk-negara-berhak-dapat-return-dari-investasi-lpdp"
+    },
+    {
+        "title": "PPATK: Perputaran Dana Judi Online 2024 Sudah Mencapai Rp 283 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "06-11-2024 06:47",
+        "news_link": "https://ekonomi.republika.co.id/berita/smio6l370/ppatk-perputaran-dana-judi-online-2024-sudah-mencapai-rp-283-triliun"
+    },
+    {
+        "title": "Stop Bullying! Ajari Anak Lakukan Ini Agar tak Jadi Korban atau Target Perundungan",
+        "category": "Ameera",
+        "publish_time": "06-11-2024 06:46",
+        "news_link": "https://ameera.republika.co.id/berita/smio5u425/stop-bullying-ajari-anak-lakukan-ini-agar-tak-jadi-korban-atau-target-perundungan"
+    },
+    {
+        "title": "Elon Musk Sudah Beri Selamat Trump Jadi Presiden Ke-47 AS",
+        "category": "News",
+        "publish_time": "06-11-2024 06:35",
+        "news_link": "https://news.republika.co.id/berita/sminne484/elon-musk-sudah-beri-selamat-trump-jadi-presiden-ke47-as"
+    },
+    {
+        "title": "Prakiraan Cuaca Semarang dan Surabaya Siang Hingga Malam 6 Oktober 2024",
+        "category": "Rejogja",
+        "publish_time": "06-11-2024 06:35",
+        "news_link": "https://rejogja.republika.co.id/berita/sminmr282/prakiraan-cuaca-semarang-dan-surabaya-siang-hingga-malam-6-oktober-2024"
+    },
+    {
+        "title": "60 Ribu Warga Yogya Terserang ISPA dan Faringitis",
+        "category": "Rejogja",
+        "publish_time": "06-11-2024 06:31",
+        "news_link": "https://rejogja.republika.co.id/berita/sming4282/60-ribu-warga-yogya-terserang-ispa-dan-faringitis"
+    },
+    {
+        "title": "Seekor Paus Sperma Terdampar di Pantai Sumba Timur, Diperkirakan Baru 1 Hari Mati",
+        "category": "Esgnow",
+        "publish_time": "06-11-2024 06:30",
+        "news_link": "https://esgnow.republika.co.id/berita/sminey425/seekor-paus-sperma-terdampar-di-pantai-sumba-timur-diperkirakan-baru-1-hari-mati"
+    },
+    {
+        "title": "Zelenskyy Akui Pasukan Ukraina Telah Bentrok dengan Tentara Korut",
+        "category": "News",
+        "publish_time": "06-11-2024 06:27",
+        "news_link": "https://news.republika.co.id/berita/smin9p377/zelenskyy-akui-pasukan-ukraina-telah-bentrok-dengan-tentara-korut"
+    },
+    {
+        "title": "Workshop Inovatif Prodi Sistem Informasi UNM untuk Penguasaan Business Intelligence",
+        "category": "News",
+        "publish_time": "06-11-2024 06:26",
+        "news_link": "https://news.republika.co.id/berita/smin8q490/workshop-inovatif-prodi-sistem-informasi-unm-untuk-penguasaan-business-intelligence"
+    },
+    {
+        "title": "Dishub DKI Sediakan 11 Kapal Layani Transportasi Menuju Kepulauan Seribu",
+        "category": "News",
+        "publish_time": "06-11-2024 06:25",
+        "news_link": "https://news.republika.co.id/berita/smin6l484/dishub-dki-sediakan-11-kapal-layani-transportasi-menuju-kepulauan-seribu"
+    },
+    {
+        "title": "Bangkitkan Semangat Kejar Karier, Prodi Informatika UNM Gelar Seminar Future Ready",
+        "category": "News",
+        "publish_time": "06-11-2024 06:23",
+        "news_link": "https://news.republika.co.id/berita/smin2h490/bangkitkan-semangat-kejar-karier-prodi-informatika-unm-gelar-seminar-future-ready"
+    },
+    {
         "title": "Hewan dalam Ilmu Kedokteran Manusia: Menjadi Kunci Pemahaman Penyakit dan Inovasi Kesehatan",
         "category": "Retizen",
-        "publish_time": "06-11-2024 06:15",
+        "publish_time": "06-11-2024 06:16",
         "news_link": "https://retizen.republika.co.id/posts/485938/hewan-dalam-ilmu-kedokteran-manusia-menjadi-kunci-pemahaman-penyakit-dan-inovasi-kesehatan"
     },
     {
@@ -18,10 +114,10 @@
         "news_link": "https://news.republika.co.id/berita/smimpy377/partai-republik-kuasai-senat-amerika-serikat"
     },
     {
-        "title": "Penggunaan Ponsel pada Malam Hari Tingkatkan Risiko Perundungan di Dunia Maya",
+        "title": "Penggunaan Ponsel Malam Hari Tingkatkan Risiko Perundungan di Dunia Maya",
         "category": "Ameera",
         "publish_time": "06-11-2024 06:14",
-        "news_link": "https://ameera.republika.co.id/berita/smimor425/penggunaan-ponsel-pada-malam-hari-tingkatkan-risiko-perundungan-di-dunia-maya"
+        "news_link": "https://ameera.republika.co.id/berita/smimor425/penggunaan-ponsel-malam-hari-tingkatkan-risiko-perundungan-di-dunia-maya"
     },
     {
         "title": "Mafia Tanah Yogya, Lurah Sewakan Tanah Kas Desa Jadi Restoran, Uang Masuk Kantong Pribadi",
@@ -32,271 +128,175 @@
     {
         "title": "SCG Genjot Penggunaan Energi Terbarukan",
         "category": "Esgnow",
-        "publish_time": "06-11-2024 06:05",
+        "publish_time": "06-11-2024 06:12",
         "news_link": "https://esgnow.republika.co.id/berita/smim9b416/scg-genjot-penggunaan-energi-terbarukan"
     },
     {
         "title": "PPATK: Ada Warga Habiskan 70 Persen Gajinya untuk Judi Online",
         "category": "News",
-        "publish_time": "06-11-2024 06:03",
+        "publish_time": "06-11-2024 06:12",
         "news_link": "https://news.republika.co.id/berita/smim61377/ppatk-ada-warga-habiskan-70-persen-gajinya-untuk-judi-online"
     },
     {
         "title": "Prodi Sains Data UNM Berkontribusi pada Buku Panduan Kurikulum Berbasis OBE APTIKOM",
         "category": "News",
-        "publish_time": "06-11-2024 06:01",
+        "publish_time": "06-11-2024 06:12",
         "news_link": "https://news.republika.co.id/berita/smim3o370/prodi-sains-data-unm-berkontribusi-pada-buku-panduan-kurikulum-berbasis-obe-aptikom"
     },
     {
         "title": "Gubernur Sahbirin Noor Hilang, KPK Periksa Pejabat Pemprov Kalsel",
         "category": "News",
-        "publish_time": "06-11-2024 06:00",
+        "publish_time": "06-11-2024 06:12",
         "news_link": "https://news.republika.co.id/berita/smim2e484/gubernur-sahbirin-noor-hilang-kpk-periksa-pejabat-pemprov-kalsel"
     },
     {
         "title": "Telkom Gandeng Kampus Tel-U Kenalkan AI ke Gen Z Siswa SMA di Bandung",
         "category": "Rejabar",
-        "publish_time": "06-11-2024 06:00",
+        "publish_time": "06-11-2024 06:12",
         "news_link": "https://rejabar.republika.co.id/berita/smim18282/telkom-gandeng-kampus-telu-kenalkan-ai-ke-gen-z-siswa-sma-di-bandung"
     },
     {
         "title": "Indonesia Tegaskan Komitmen Pengelolaan Sumber Daya Air",
         "category": "Esgnow",
-        "publish_time": "06-11-2024 05:59",
+        "publish_time": "06-11-2024 06:12",
         "news_link": "https://esgnow.republika.co.id/berita/smiiv4416/indonesia-tegaskan-komitmen-pengelolaan-sumber-daya-air"
     },
     {
         "title": "Antusiasme Siswa SD Belajar Astronomi Bersama",
         "category": "Visual",
-        "publish_time": "06-11-2024 05:59",
+        "publish_time": "06-11-2024 06:12",
         "news_link": "https://visual.republika.co.id/berita/smikvu375/antusiasme-siswa-sd-belajar-astronomi-bersama"
     },
     {
         "title": "Guardiola Nikmati Tantangan Kembalikan Man City ke Jalur Kemenangan",
         "category": "News",
-        "publish_time": "06-11-2024 05:46",
+        "publish_time": "06-11-2024 06:12",
         "news_link": "https://news.republika.co.id/berita/smildv348/guardiola-nikmati-tantangan-kembalikan-man-city-ke-jalur-kemenangan"
     },
     {
         "title": "PPATK Ungkap Anak di Bawah 10 Tahun Sudah Ikut Judi Daring",
         "category": "News",
-        "publish_time": "06-11-2024 05:46",
+        "publish_time": "06-11-2024 06:12",
         "news_link": "https://news.republika.co.id/berita/smildj484/ppatk-ungkap-anak-di-bawah-10-tahun-sudah-ikut-judi-daring"
     },
     {
         "title": "Matematika akan Mulai Dididik Sejak Usia Dini, Begini Cara Prof Mu'ti Ajari Anak TK",
         "category": "News",
-        "publish_time": "06-11-2024 05:45",
+        "publish_time": "06-11-2024 06:12",
         "news_link": "https://news.republika.co.id/berita/smilcl483/matematika-akan-mulai-dididik-sejak-usia-dini-begini-cara-prof-muti-ajari-anak-tk"
     },
     {
         "title": "Media China: Apple akan Bangun Pabrik di Bandung demi Pencabutan Larangan iPhone 16 di RI",
         "category": "News",
-        "publish_time": "06-11-2024 05:44",
+        "publish_time": "06-11-2024 06:12",
         "news_link": "https://news.republika.co.id/berita/smilax409/media-china-apple-akan-bangun-pabrik-di-bandung-demi-pencabutan-larangan-iphone-16-di-ri"
     },
     {
         "title": "Bea Cukai Ambon Layani Pemulangan 15 Tengkorak dari Museum Vrolik Belanda",
         "category": "Beacukai",
-        "publish_time": "06-11-2024 05:42",
+        "publish_time": "06-11-2024 06:12",
         "news_link": "https://republika.co.id/berita/smil7w370/bea-cukai-ambon-layani-pemulangan-15-tengkorak-dari-museum-vrolik-belanda"
     },
     {
         "title": "Kepulauan Seribu Disulap Jadi Maldives, RK Yakin Jakarta Untung Rp150 Triliun Per Tahun",
         "category": "News",
-        "publish_time": "06-11-2024 05:42",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://news.republika.co.id/berita/smil6v377/kepulauan-seribu-disulap-jadi-maldives-rk-yakin-jakarta-untung-rp150-triliun-per-tahun"
     },
     {
         "title": "BPBD Tangani Bencana di Tiga Daerah, Pj Gubernur Jabar Bey Pastikan Penanganan Optimal",
         "category": "Rejabar",
-        "publish_time": "06-11-2024 05:40",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://rejabar.republika.co.id/berita/smil3x512/bpbd-tangani-bencana-di-tiga-daerah-pj-gubernur-jabar-bey-pastikan-penanganan-optimal"
     },
     {
         "title": "Suasana Nonton Bareng Hasil Penghitungan Suara Pilpres AS",
         "category": "Video",
-        "publish_time": "06-11-2024 05:35",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://tv.republika.co.id/berita/smikv4467/suasana-nonton-bareng-hasil-penghitungan-suara-pilpres-as"
     },
     {
         "title": "Lawan Arsenal, Inter akan Berjuang Pertahankan Penguasaan Bola",
         "category": "News",
-        "publish_time": "06-11-2024 05:33",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://news.republika.co.id/berita/smiksy348/lawan-arsenal-inter-akan-berjuang-pertahankan-penguasaan-bola"
     },
     {
         "title": "Polisi Tutup Galian C Ilegal Tanah Berbatu di Gunung Sungapan Bandung",
         "category": "Rejabar",
-        "publish_time": "06-11-2024 05:32",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://rejabar.republika.co.id/berita/smikr3282/polisi-tutup-galian-c-ilegal-tanah-berbatu-di-gunung-sungapan-bandung"
     },
     {
         "title": "Presiden Prabowo Hapus Hutang Petani, Pj Gubernur Jabar Bey: Kabar Baik",
         "category": "Rejabar",
-        "publish_time": "06-11-2024 05:29",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://rejabar.republika.co.id/berita/smikle512/presiden-prabowo-hapus-hutang-petani-pj-gubernur-jabar-bey-kabar-baik"
     },
     {
         "title": "Program Makan Bergizi Gratis Sudah Diujicoba di 80 Titik, Ini Hasilnya",
         "category": "News",
-        "publish_time": "06-11-2024 05:28",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://news.republika.co.id/berita/smikkw282/program-makan-bergizi-gratis-sudah-diujicoba-di-80-titik-ini-hasilnya"
     },
     {
         "title": "20 Rumah di Kabupaten Bandung Rusak Diterjang Banjir Bandang",
         "category": "Visual",
-        "publish_time": "06-11-2024 05:27",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://visual.republika.co.id/berita/smikia375/20-rumah-di-kabupaten-bandung-rusak-diterjang-banjir-bandang"
     },
     {
         "title": "Wamenperin Nilai Komitmen Apple Investasi di Indonesia Kurang",
         "category": "Ekonomi",
-        "publish_time": "06-11-2024 05:23",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://ekonomi.republika.co.id/berita/smikbg484/wamenperin-nilai-komitmen-apple-investasi-di-indonesia-kurang"
     },
     {
         "title": "Cetak Kinerja Cemerlang, PHE Capai Produksi Migas 1,046 Juta Barel Setara Minyak per Hari",
         "category": "Ekonomi",
-        "publish_time": "06-11-2024 05:23",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://ekonomi.republika.co.id/berita/smikbc490/cetak-kinerja-cemerlang-phe-capai-produksi-migas-1046-juta-barel-setara-minyak-per-hari"
     },
     {
         "title": "Flick Tegaskan Terlalu Dini Bicara Peluang Barcelona Juara Liga Champions",
         "category": "News",
-        "publish_time": "06-11-2024 05:19",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://news.republika.co.id/berita/smik4v348/flick-tegaskan-terlalu-dini-bicara-peluang-barcelona-juara-liga-champions"
     },
     {
         "title": "Sindikat Penimbun Pupuk Bersubsidi 33 Ton di Jabar Dibongkar",
         "category": "Rejabar",
-        "publish_time": "06-11-2024 05:17",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://rejabar.republika.co.id/berita/smijxi512/sindikat-penimbun-pupuk-bersubsidi-33-ton-di-jabar-dibongkar"
     },
     {
         "title": "PTBA Hadirkan Energi Surya untuk Para Petani di Desa Lugusari",
         "category": "Ekonomi",
-        "publish_time": "06-11-2024 05:17",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://ekonomi.republika.co.id/berita/smijsd490/ptba-hadirkan-energi-surya-untuk-para-petani-di-desa-lugusari"
     },
     {
         "title": "Prediksi Live New York Times: Donald Trump Menangi Pilpres AS",
         "category": "News",
-        "publish_time": "06-11-2024 05:17",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://news.republika.co.id/berita/smijko409/prediksi-live-new-york-times-donald-trump-menangi-pilpres-as"
     },
     {
         "title": "Sah! Prabowo Hapus Utang Macet Petani, Nelayan Hingga UMKM",
         "category": "Video",
-        "publish_time": "06-11-2024 05:17",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://tv.republika.co.id/berita/smijh2467/sah-prabowo-hapus-utang-macet-petani-nelayan-hingga-umkm"
     },
     {
         "title": "Tradisi Kolak Ayam Desa Gumeno Gresik: Citarasa Unik dan Sakral",
         "category": "Retizen",
-        "publish_time": "06-11-2024 05:17",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://retizen.republika.co.id/posts/485963/tradisi-kolak-ayam-desa-gumeno-gresik-citarasa-unik-dan-sakral"
     },
     {
         "title": "Pertualangan Mencari Kepiting",
         "category": "Retizen",
-        "publish_time": "06-11-2024 05:17",
+        "publish_time": "06-11-2024 05:12",
         "news_link": "https://retizen.republika.co.id/posts/485970/pertualangan-mencari-kepiting"
-    },
-    {
-        "title": "Peneliti Visi Komputer USK Presentasi Tiga Artikel di GCCE ke-13 Jepang (Hybrid)",
-        "category": "Retizen",
-        "publish_time": "06-11-2024 05:17",
-        "news_link": "https://retizen.republika.co.id/posts/485986/peneliti-visi-komputer-usk-presentasi-tiga-artikel-di-gcce-ke-13-jepang-hybrid"
-    },
-    {
-        "title": "Gelombang Dukungan Relawan Anies untuk ASIH di Pilgub Jabar 2024 Mengalir Deras",
-        "category": "Rejabar",
-        "publish_time": "06-11-2024 05:17",
-        "news_link": "https://rejabar.republika.co.id/berita/smij8w490/gelombang-dukungan-relawan-anies-untuk-asih-di-pilgub-jabar-2024-mengalir-deras"
-    },
-    {
-        "title": "Hujan Belum Merata, BPBD Perpanjang Distribusi Bantuan Air Bersih",
-        "category": "Rejabar",
-        "publish_time": "06-11-2024 05:17",
-        "news_link": "https://rejabar.republika.co.id/berita/smij5a512/hujan-belum-merata-bpbd-perpanjang-distribusi-bantuan-air-bersih"
-    },
-    {
-        "title": "Sumpah Pemuda dan Asumsi Keliru tentang Tokoh Betawi Rochjani Soeoed",
-        "category": "Network",
-        "publish_time": "06-11-2024 05:17",
-        "news_link": "https://oohya.republika.co.id/posts/485960/sumpah-pemuda-dan-asumsi-keliru-tentang-tokoh-betawi-rochjani-soeoed"
-    },
-    {
-        "title": "Elon Musk Kecam JLo: Berapa Banyak Orang yang Dia Peringatkan tentang Diddy?",
-        "category": "Network",
-        "publish_time": "06-11-2024 05:17",
-        "news_link": "https://impresiupdate.id/posts/485967/elon-musk-kecam-jlo-berapa-banyak-orang-yang-dia-peringatkan-tentang-diddy-"
-    },
-    {
-        "title": "Wow...Ilmuwan Menemukan 'Yellow Brick Road' di Dasar Samudra Pasifik",
-        "category": "Network",
-        "publish_time": "06-11-2024 05:17",
-        "news_link": "https://impresiupdate.id/posts/485971/wow-ilmuwan-menemukan-yellow-brick-road-di-dasar-samudra-pasifik"
-    },
-    {
-        "title": "Mengapa Bunga Layu: Strategi Cerdas Tanaman Menyimpan Energi Untuk Masa Depan",
-        "category": "Network",
-        "publish_time": "06-11-2024 05:17",
-        "news_link": "https://impresiupdate.id/posts/485972/mengapa-bunga-layu-strategi-cerdas-tanaman-menyimpan-energi-untuk-masa-depan"
-    },
-    {
-        "title": "Temuan Penelitian: Penggunaan Ganja Bisa Memengaruhi Struktur Otak",
-        "category": "Network",
-        "publish_time": "06-11-2024 05:17",
-        "news_link": "https://impresiupdate.id/posts/485973/temuan-penelitian-penggunaan-ganja-bisa-memengaruhi-struktur-otak"
-    },
-    {
-        "title": "Amalan dan Doa Pelepasan Jemaah Haji",
-        "category": "Network",
-        "publish_time": "06-11-2024 05:17",
-        "news_link": "https://topnews62.com/posts/485987/amalan-dan-doa-pelepasan-jemaah-haji"
-    },
-    {
-        "title": "Kolom Cak AT, Ini Budi",
-        "category": "Network",
-        "publish_time": "06-11-2024 05:17",
-        "news_link": "https://ruzkaindonesia.id/posts/485989/kolom-cak-at-ini-budi"
-    },
-    {
-        "title": "Royal Enfield Gelar Petualangan di Indonesia, Promosikan Keindahan Alam dan Budaya Lewat \"Wonderful Indonesia Ride\"",
-        "category": "Network",
-        "publish_time": "06-11-2024 05:17",
-        "news_link": "https://motoresto.id/posts/485991/royal-enfield-gelar-petualangan-di-indonesia-promosikan-keindahan-alam-dan-budaya-lewat-wonderful-indonesia-ride-"
-    },
-    {
-        "title": "Donald Trump Unggul, Saham Milik Hary Tanoesoedibjo Terbang",
-        "category": "Network",
-        "publish_time": "06-11-2024 05:17",
-        "news_link": "https://seputarmiliter.id/posts/485992/donald-trump-unggul-saham-milik-hary-tanoesoedibjo-terbang"
-    },
-    {
-        "title": "Trump Unggul Sementara, AS Terancam Dipimpin Terpidana",
-        "category": "News",
-        "publish_time": "06-11-2024 05:17",
-        "news_link": "https://news.republika.co.id/berita/smiitc393/trump-unggul-sementara-as-terancam-dipimpin-terpidana"
-    },
-    {
-        "title": "Harapan Warga Gaza terhadap Trump dan Kamala yang Maju Pilpres AS",
-        "category": "News",
-        "publish_time": "06-11-2024 05:17",
-        "news_link": "https://news.republika.co.id/berita/smiip8484/harapan-warga-gaza-terhadap-trump-dan-kamala-yang-maju-pilpres-as"
-    },
-    {
-        "title": "Petani Indramayu Mesti Bersabar, Irigasi Baru Terjamin pada 2026",
-        "category": "Rejabar",
-        "publish_time": "06-11-2024 04:17",
-        "news_link": "https://rejabar.republika.co.id/berita/smiijk512/petani-indramayu-mesti-bersabar-irigasi-baru-terjamin-pada-2026"
-    },
-    {
-        "title": "BPK Audit Kinerja Pemerintah dalam Menjaga Lingkungan Hidup dan Iklim",
-        "category": "Esgnow",
-        "publish_time": "06-11-2024 04:17",
-        "news_link": "https://esgnow.republika.co.id/berita/smiifo416/bpk-audit-kinerja-pemerintah-dalam-menjaga-lingkungan-hidup-dan-iklim"
     }
 ]
