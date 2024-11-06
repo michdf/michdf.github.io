@@ -1,80 +1,152 @@
 [
     {
+        "title": "Banjir di Banjaran Bandung, Belasan Orang Terjebak Banjir Hingga Dievakuasi",
+        "category": "Rejabar",
+        "publish_time": "06-11-2024 04:14",
+        "news_link": "https://rejabar.republika.co.id/berita/smih4g512/banjir-di-banjaran-bandung-belasan-orang-terjebak-banjir-hingga-dievakuasi"
+    },
+    {
+        "title": "Apakah Mengganti Popok Bayi Membatalkan Wudhu?",
+        "category": "Khazanah",
+        "publish_time": "06-11-2024 04:05",
+        "news_link": "https://khazanah.republika.co.id/berita/smig9y366/apakah-mengganti-popok-bayi-membatalkan-wudhu"
+    },
+    {
+        "title": "Kemenhut Gandeng TNI Jaga Hutan dari Perampasan",
+        "category": "Esgnow",
+        "publish_time": "06-11-2024 04:00",
+        "news_link": "https://esgnow.republika.co.id/berita/smicv6416/kemenhut-gandeng-tni-jaga-hutan-dari-perampasan"
+    },
+    {
+        "title": "Menko Airlangga Ungkap Strategi Pertumbuhan Ekonomi 8 Persen Era Prabowo",
+        "category": "Ekonomi",
+        "publish_time": "06-11-2024 03:58",
+        "news_link": "https://ekonomi.republika.co.id/berita/smigda484/menko-airlangga-ungkap-strategi-pertumbuhan-ekonomi-8-persen-era-prabowo"
+    },
+    {
+        "title": "Pakar Kesehatan: Bahaya BPA adalah Ancaman Kesehatan, Bukan Masalah Persaingan Usaha",
+        "category": "News",
+        "publish_time": "06-11-2024 03:54",
+        "news_link": "https://news.republika.co.id/berita/smf4eq502/pakar-kesehatan-bahaya-bpa-adalah-ancaman-kesehatan-bukan-masalah-persaingan-usaha"
+    },
+    {
+        "title": "Kabinet Perang Israel Pecah, Pakar Sebut Netanyahu Segera Jatuh",
+        "category": "Khazanah",
+        "publish_time": "06-11-2024 03:51",
+        "news_link": "https://khazanah.republika.co.id/berita/smig2e483/kabinet-perang-israel-pecah-pakar-sebut-netanyahu-segera-jatuh"
+    },
+    {
+        "title": "Bisakah Kita Swasembada Pangan Lagi?",
+        "category": "Kolom",
+        "publish_time": "06-11-2024 03:48",
+        "news_link": "https://analisis.republika.co.id/berita/smifxb393/bisakah-kita-swasembada-pangan-lagi"
+    },
+    {
+        "title": "Slot Merendah Soal Performa Menawan Liverpool Awal Musim Ini",
+        "category": "News",
+        "publish_time": "06-11-2024 03:47",
+        "news_link": "https://news.republika.co.id/berita/smifus348/slot-merendah-soal-performa-menawan-liverpool-awal-musim-ini"
+    },
+    {
+        "title": "Prabowo Hapus Utang Macet Petani Sampai UMKM, Ini Tanggapan Bank BUMN",
+        "category": "Ekonomi",
+        "publish_time": "06-11-2024 03:43",
+        "news_link": "https://ekonomi.republika.co.id/berita/smifok490/prabowo-hapus-utang-macet-petani-sampai-umkm-ini-tanggapan-bank-bumn"
+    },
+    {
+        "title": "Prabowo Terima Kunjungan Resmi PM Singapura di Istana",
+        "category": "News",
+        "publish_time": "06-11-2024 03:39",
+        "news_link": "https://news.republika.co.id/berita/smifgz484/prabowo-terima-kunjungan-resmi-pm-singapura-di-istana"
+    },
+    {
+        "title": "Trump atau Harris? Pengamat: Dua Kandidat Itu tak akan Membela Palestina",
+        "category": "Khazanah",
+        "publish_time": "06-11-2024 03:37",
+        "news_link": "https://khazanah.republika.co.id/berita/smifej483/trump-atau-harris-pengamat-dua-kandidat-itu-tak-akan-membela-palestina"
+    },
+    {
+        "title": "HLF MSP dan IAF ke-2 Perkuat Posisi Indonesia dan Solidaritas Global",
+        "category": "News",
+        "publish_time": "06-11-2024 03:17",
+        "news_link": "https://news.republika.co.id/berita/smiehg490/hlf-msp-dan-iaf-ke2-perkuat-posisi-indonesia-dan-solidaritas-global"
+    },
+    {
         "title": "PKS Dukung Gerakan 'Tendang' Israel dari Keanggotaan PBB",
         "category": "Khazanah",
-        "publish_time": "06-11-2024 03:15",
+        "publish_time": "06-11-2024 03:16",
         "news_link": "https://khazanah.republika.co.id/berita/smiee1483/pks-dukung-gerakan-tendang-israel-dari-keanggotaan-pbb"
     },
     {
         "title": "Menhan Yoav Gallant Ungkap Tiga Alasan Mengapa Dirinya Dipecat oleh Netanyahu",
         "category": "News",
-        "publish_time": "06-11-2024 03:11",
+        "publish_time": "06-11-2024 03:16",
         "news_link": "https://news.republika.co.id/berita/smie7e409/menhan-yoav-gallant-ungkap-tiga-alasan-mengapa-dirinya-dipecat-oleh-netanyahu"
     },
     {
         "title": "Dinamakan Operasi Janji Sejati III, Iran Pastikan Tetap akan Serang Israel",
         "category": "News",
-        "publish_time": "06-11-2024 02:58",
+        "publish_time": "06-11-2024 03:16",
         "news_link": "https://news.republika.co.id/berita/smidm4320/dinamakan-operasi-janji-sejati-iii-iran-pastikan-tetap-akan-serang-israel"
     },
     {
         "title": "Sementara, Donald Trump Memimpin Atas Kamala Harris",
         "category": "News",
-        "publish_time": "06-11-2024 02:57",
+        "publish_time": "06-11-2024 03:16",
         "news_link": "https://news.republika.co.id/berita/smidl6484/sementara-donald-trump-memimpin-atas-kamala-harris"
     },
     {
         "title": "Kemenag: Moderasi Beragama Berperan Atasi Masalah Global",
         "category": "Khazanah",
-        "publish_time": "06-11-2024 02:48",
+        "publish_time": "06-11-2024 03:16",
         "news_link": "https://khazanah.republika.co.id/berita/smid63483/kemenag-moderasi-beragama-berperan-atasi-masalah-global"
     },
     {
         "title": "Di Bawah Bayang-Bayang Pilpres AS, IHSG Sempat Dibuka Menguat",
         "category": "Ekonomi",
-        "publish_time": "06-11-2024 02:46",
+        "publish_time": "06-11-2024 03:16",
         "news_link": "https://ekonomi.republika.co.id/berita/smid2n490/di-bawah-bayangbayang-pilpres-as-ihsg-sempat-dibuka-menguat"
     },
     {
         "title": "Setelah Stagnan Empat Hari Beruntun, Harga Emas Naik Hari Ini",
         "category": "Ekonomi",
-        "publish_time": "06-11-2024 02:42",
+        "publish_time": "06-11-2024 02:16",
         "news_link": "https://ekonomi.republika.co.id/berita/smicux490/setelah-stagnan-empat-hari-beruntun-harga-emas-naik-hari-ini"
     },
     {
         "title": "Silaturahim dengan Eks Kombatan GAM, Sahabat Mualem Serap Aspirasi Dukungan",
         "category": "News",
-        "publish_time": "06-11-2024 02:40",
+        "publish_time": "06-11-2024 02:16",
         "news_link": "https://news.republika.co.id/berita/smicsn320/silaturahim-dengan-eks-kombatan-gam-sahabat-mualem-serap-aspirasi-dukungan"
     },
     {
         "title": "Banjir Sukabumi Terjadi di 69 Titik, Sebabkan 66 Rumah Rusak",
         "category": "Rejabar",
-        "publish_time": "06-11-2024 02:39",
+        "publish_time": "06-11-2024 02:16",
         "news_link": "https://rejabar.republika.co.id/berita/smicr5512/banjir-sukabumi-terjadi-di-69-titik-sebabkan-66-rumah-rusak"
     },
     {
         "title": "Indonesia Harus Percepat Dekarbonisasi untuk Jaga Daya Saing",
         "category": "Esgnow",
-        "publish_time": "06-11-2024 02:35",
+        "publish_time": "06-11-2024 02:16",
         "news_link": "https://esgnow.republika.co.id/berita/smicj4416/indonesia-harus-percepat-dekarbonisasi-untuk-jaga-daya-saing"
     },
     {
         "title": "TPS di Sejumlah Negara Bagian AS Dapat Ancaman Bom, FBI Sebut Kemungkinan dari Rusia",
         "category": "News",
-        "publish_time": "06-11-2024 02:33",
+        "publish_time": "06-11-2024 02:16",
         "news_link": "https://news.republika.co.id/berita/smicgq409/tps-di-sejumlah-negara-bagian-as-dapat-ancaman-bom-fbi-sebut-kemungkinan-dari-rusia"
     },
     {
-        "title": "Seperti Inilah Alquran Dan Ulama Menggambarkan Besarnya Kerajaan Nabi Sulaiman",
+        "title": "Seperti Inilah Alquran dan Ulama Menggambarkan Besarnya Kerajaan Nabi Sulaiman",
         "category": "Khazanah",
-        "publish_time": "06-11-2024 02:26",
+        "publish_time": "06-11-2024 02:16",
         "news_link": "https://khazanah.republika.co.id/berita/smic4z320/seperti-inilah-alquran-dan-ulama-menggambarkan-besarnya-kerajaan-nabi-sulaiman"
     },
     {
         "title": "Mu'ti Kasih Bocoran Model Pembelajaran Baru untuk Siswa, Gantikan Kurikulum Merdeka?",
         "category": "News",
-        "publish_time": "06-11-2024 02:26",
+        "publish_time": "06-11-2024 02:16",
         "news_link": "https://news.republika.co.id/berita/smic4j483/muti-kasih-bocoran-model-pembelajaran-baru-untuk-siswa-gantikan-kurikulum-merdeka"
     },
     {
@@ -86,217 +158,145 @@
     {
         "title": "Bocoran Isi Surat Amerika Buat Israel yang Ditandatangani Blinken dan Lloyd Austin",
         "category": "Khazanah",
-        "publish_time": "06-11-2024 02:15",
+        "publish_time": "06-11-2024 02:16",
         "news_link": "https://khazanah.republika.co.id/berita/smib1x451/bocoran-isi-surat-amerika-buat-israel-yang-ditandatangani-blinken-dan-lloyd-austin"
     },
     {
         "title": "Fonseca Bangga Atas Keberanian Pemain Milan dalam Kemenangan di Kandang Real Madrid",
         "category": "News",
-        "publish_time": "06-11-2024 02:15",
+        "publish_time": "06-11-2024 02:16",
         "news_link": "https://news.republika.co.id/berita/smiav1348/fonseca-bangga-atas-keberanian-pemain-milan-dalam-kemenangan-di-kandang-real-madrid"
     },
     {
         "title": "FKKMK UGM Ajak Puluhan Mahasiswa Asing Perkuat Ketahanan Kesehatan di Kulonprogo",
         "category": "Rejogja",
-        "publish_time": "06-11-2024 02:15",
+        "publish_time": "06-11-2024 02:16",
         "news_link": "https://rejogja.republika.co.id/berita/smiap4291/fkkmk-ugm-ajak-puluhan-mahasiswa-asing-perkuat-ketahanan-kesehatan-di-kulonprogo"
     },
     {
         "title": "Honda PCX Terbaru Resmi Meluncur di Eropa, Indonesia?",
         "category": "Network",
-        "publish_time": "06-11-2024 02:15",
+        "publish_time": "06-11-2024 02:16",
         "news_link": "https://motoresto.id/posts/485940/honda-pcx-terbaru-resmi-meluncur-di-eropa-indonesia-"
     },
     {
         "title": "Cara Mudah Membuat Insektisida Alami dari Kulit Bawang Ala Mahasiswa UNY",
         "category": "Network",
-        "publish_time": "06-11-2024 02:15",
+        "publish_time": "06-11-2024 02:16",
         "news_link": "https://magentatoday.id/posts/485924/cara-mudah-membuat-insektisida-alami-dari-kulit-bawang-ala-mahasiswa-uny"
     },
     {
         "title": "Menag Minta Umat Buddha Jaga Kesakralan Borobudur",
         "category": "News",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://news.republika.co.id/berita/smia92458/menag-minta-umat-buddha-jaga-kesakralan-borobudur"
     },
     {
         "title": "Pidato Menhan Israel Usai Dipecat Netanyahu: Kita Kehilangan Ratusan Prajurit",
         "category": "Khazanah",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://khazanah.republika.co.id/berita/smia8z483/pidato-menhan-israel-usai-dipecat-netanyahu-kita-kehilangan-ratusan-prajurit"
     },
     {
         "title": "Arteta Ungkap Declan Rice akan Absen Saat Arsenal Bertandang ke Markas Inter Milan",
         "category": "News",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://news.republika.co.id/berita/smia8m348/arteta-ungkap-declan-rice-akan-absen-saat-arsenal-bertandang-ke-markas-inter-milan"
     },
     {
         "title": "Bernardo Silva: Man City dalam Kondisi Suram Setelah Kalah dari Sporting",
         "category": "News",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://news.republika.co.id/berita/smi9rc348/bernardo-silva-man-city-dalam-kondisi-suram-setelah-kalah-dari-sporting"
     },
     {
         "title": "Pilpres AS: Trump Unggul di Lima Negara Bagian, Harris di Wisconsin dan Michigan",
         "category": "News",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://news.republika.co.id/berita/smi9lr409/pilpres-as-trump-unggul-di-lima-negara-bagian-harris-di-wisconsin-dan-michigan"
     },
     {
         "title": "Takabur, Sifat yang Menjatuhkan Diri Sendiri",
         "category": "Khazanah",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://khazanah.republika.co.id/berita/smi9ga458/takabur-sifat-yang-menjatuhkan-diri-sendiri"
     },
     {
         "title": "Bertemu dengan Pengusaha, Ini Upaya ASIH Kembangkan Pariwisata di Jabar",
         "category": "Rejabar",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://rejabar.republika.co.id/berita/smi9ar512/bertemu-dengan-pengusaha-ini-upaya-asih-kembangkan-pariwisata-di-jabar"
     },
     {
         "title": "Polda Maluku Copot Perwira Pelaku Pemukulan Sopir Taksi Daring",
         "category": "News",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://news.republika.co.id/berita/smi94t484/polda-maluku-copot-perwira-pelaku-pemukulan-sopir-taksi-daring"
     },
     {
         "title": "Meta Kena Denda, Dianggap Kumpulkan Data Privasi Pengguna Secara Ilegal di Korea Selatan",
         "category": "Ameera",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://ameera.republika.co.id/berita/smi8si425/meta-kena-denda-dianggap-kumpulkan-data-privasi-pengguna-secara-ilegal-di-korea-selatan"
     },
     {
         "title": "Polisi Tutup Galian C Ilegal di Bandung, Petugas Amankan Satu Pelaku",
         "category": "Rejabar",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://rejabar.republika.co.id/berita/smi8of512/polisi-tutup-galian-c-ilegal-di-bandung-petugas-amankan-satu-pelaku"
     },
     {
         "title": "Ali bin Abi Thalib Larang Pengultusan Diri dan Fanatisme",
         "category": "Khazanah",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://khazanah.republika.co.id/berita/smi8nd458/ali-bin-abi-thalib-larang-pengultusan-diri-dan-fanatisme"
     },
     {
         "title": "Alami Cedera dan Gangguan Tulang? Coba Layanan Orthopedic Center",
         "category": "Ameera",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://ameera.republika.co.id/berita/smi8gd484/alami-cedera-dan-gangguan-tulang-coba-layanan-orthopedic-center"
     },
     {
         "title": "Analisis Faktor",
         "category": "Rejogja",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://rejogja.republika.co.id/berita/smi7rr291/analisis-faktor"
     },
     {
         "title": "Pompa Stasioner di Jakarta Barat Rusak Aibat Sampah Celana Jin",
         "category": "News",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://news.republika.co.id/berita/smi83b484/pompa-stasioner-di-jakarta-barat-rusak-aibat-sampah-celana-jin"
     },
     {
         "title": "Satelit Kayu Pertama Buatan Jepang Meluncur ke Luar Angkasa",
         "category": "Ameera",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://ameera.republika.co.id/berita/smi7x8425/satelit-kayu-pertama-buatan-jepang-meluncur-ke-luar-angkasa"
     },
     {
         "title": "Amphuri: Kuota Haji Diharapkan Bertambah Lewat Lobi Prabowo ke Arab Saudi",
         "category": "Khazanah",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://khazanah.republika.co.id/berita/smi7nj320/amphuri-kuota-haji-diharapkan-bertambah-lewat-lobi-prabowo-ke-arab-saudi"
     },
     {
         "title": "Metode dan Kaidah Dakwah Islam",
         "category": "Khazanah",
-        "publish_time": "06-11-2024 01:15",
+        "publish_time": "06-11-2024 01:16",
         "news_link": "https://khazanah.republika.co.id/berita/smi7is458/metode-dan-kaidah-dakwah-islam"
     },
     {
         "title": "Israel Bergejolak Buntut Pemecatan Menhan, Kantor Netanyahu Dijaga Ketat",
         "category": "News",
-        "publish_time": "06-11-2024 00:15",
+        "publish_time": "06-11-2024 00:16",
         "news_link": "https://news.republika.co.id/berita/smi7al320/israel-bergejolak-buntut-pemecatan-menhan-kantor-netanyahu-dijaga-ketat"
     },
     {
         "title": "FSGI Tolak Wacana Penerapan Kembali UN",
         "category": "News",
-        "publish_time": "06-11-2024 00:15",
+        "publish_time": "06-11-2024 00:16",
         "news_link": "https://news.republika.co.id/berita/smi77f409/fsgi-tolak-wacana-penerapan-kembali-un"
-    },
-    {
-        "title": "Ini 5 Sifat Buruk Manusia yang Disebut Alquran",
-        "category": "Khazanah",
-        "publish_time": "06-11-2024 00:15",
-        "news_link": "https://khazanah.republika.co.id/berita/smi73f458/ini-5-sifat-buruk-manusia-yang-disebut-alquran"
-    },
-    {
-        "title": "Ancelotti Khawatir Performa Buruk Real Madrid Setelah Dikalahkan Milan",
-        "category": "News",
-        "publish_time": "06-11-2024 00:15",
-        "news_link": "https://news.republika.co.id/berita/smi71x348/ancelotti-khawatir-performa-buruk-real-madrid-setelah-dikalahkan-milan"
-    },
-    {
-        "title": "Mortir Brigade Al-Aqsa Hantam Sekumpulan Tentara Israel di Beit Lahiya",
-        "category": "Khazanah",
-        "publish_time": "06-11-2024 00:15",
-        "news_link": "https://khazanah.republika.co.id/berita/smi6x2483/mortir-brigade-alaqsa-hantam-sekumpulan-tentara-israel-di-beit-lahiya"
-    },
-    {
-        "title": "Maksimalkan Potensi Pariwisata, Amikom Gelar Program Kosabangsa di Bleberan Gunungkidul",
-        "category": "Rejogja",
-        "publish_time": "06-11-2024 00:15",
-        "news_link": "https://rejogja.republika.co.id/berita/smi6ns291/maksimalkan-potensi-pariwisata-amikom-gelar-program-kosabangsa-di-bleberan-gunungkidul"
-    },
-    {
-        "title": "Memahami IQ, EQ, dan SQ dalam Pendidikan",
-        "category": "Retizen",
-        "publish_time": "06-11-2024 00:15",
-        "news_link": "https://retizen.republika.co.id/posts/485933/memahami-iq-eq-dan-sq-dalam-pendidikan"
-    },
-    {
-        "title": "Pesan Pangdivif 2 Kostrad: Jangan Kau Khianati Yonif 502/UY",
-        "category": "Network",
-        "publish_time": "06-11-2024 00:15",
-        "news_link": "https://seputarmiliter.id/posts/485931/pesan-pangdivif-2-kostrad-jangan-kau-khianati-yonif-502-uy"
-    },
-    {
-        "title": "Rahasia Kelam Rose Blackpink Terungkap, Ada Hubungan Toxic!",
-        "category": "Network",
-        "publish_time": "06-11-2024 00:15",
-        "news_link": "https://impresiupdate.id/posts/485932/rahasia-kelam-rose-blackpink-terungkap-ada-hubungan-toxic-"
-    },
-    {
-        "title": "Banyak yang Baru Tahu, Minum Kopi Tiap Hari Ternyata Tingkatkan Risiko Serangan Jantung",
-        "category": "Network",
-        "publish_time": "06-11-2024 00:15",
-        "news_link": "https://ruzkaindonesia.id/posts/485934/banyak-yang-baru-tahu-minum-kopi-tiap-hari-ternyata-tingkatkan-risiko-serangan-jantung"
-    },
-    {
-        "title": "Melalui Wakaf, PT AIA Financial Bersama Dompet Dhuafa Hadirkan Poliklinik",
-        "category": "Khazanah",
-        "publish_time": "06-11-2024 00:15",
-        "news_link": "https://khazanah.republika.co.id/berita/smi684490/melalui-wakaf-pt-aia-financial-bersama-dompet-dhuafa-hadirkan-poliklinik"
-    },
-    {
-        "title": "Eksklusif: PM Singapura Bicara Gejolak Dunia hingga Prabowo-Gibran",
-        "category": "News",
-        "publish_time": "06-11-2024 00:15",
-        "news_link": "https://www.republika.id/posts/55436/ri-singapura-seiring-menghadapi-gejolak-dunia"
-    },
-    {
-        "title": "Amorim Menuju Old Trafford dengan Harapan Besar Usai Kemenangan Telak atas Man City",
-        "category": "News",
-        "publish_time": "06-11-2024 00:15",
-        "news_link": "https://news.republika.co.id/berita/smi5zx348/amorim-menuju-old-trafford-dengan-harapan-besar-usai-kemenangan-telak-atas-man-city"
-    },
-    {
-        "title": "Tamsil Linrung: Sulsel Butuh Pemimpin yang Sejalan dengan Presiden",
-        "category": "News",
-        "publish_time": "06-11-2024 00:15",
-        "news_link": "https://news.republika.co.id/berita/smhhmz318/tamsil-linrung-sulsel-butuh-pemimpin-yang-sejalan-dengan-presiden"
     }
 ]
