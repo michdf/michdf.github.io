@@ -1,5 +1,89 @@
 [
     {
+        "title": "Perpusnas RI Gelar Pertemuan Pembelajaran Sebaya Tingkat Nasional 2024",
+        "category": "Rejogja",
+        "publish_time": "07-11-2024 05:00",
+        "news_link": "https://rejogja.republika.co.id/berita/smkdxc291/perpusnas-ri-gelar-pertemuan-pembelajaran-sebaya-tingkat-nasional-2024"
+    },
+    {
+        "title": "Kenalan dengan Danantara, SWF Indonesia yang Bakal Kelola Aset Superjumbo",
+        "category": "Ekonomi",
+        "publish_time": "07-11-2024 04:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/smkdqv490/kenalan-dengan-danantara-swf-indonesia-yang-bakal-kelola-aset-superjumbo"
+    },
+    {
+        "title": "Jaksa Agung Sebut Korupsi di Indonesia Memprihatinkan, Menjamur dari Tingkat Desa",
+        "category": "News",
+        "publish_time": "07-11-2024 04:45",
+        "news_link": "https://news.republika.co.id/berita/smkd7p487/jaksa-agung-sebut-korupsi-di-indonesia-memprihatinkan-menjamur-dari-tingkat-desa"
+    },
+    {
+        "title": "Hari Pahlawan 10 November: Kegiatan Menarik yang Dapat Dilakukan di Sekolah",
+        "category": "Retizen",
+        "publish_time": "07-11-2024 04:42",
+        "news_link": "https://retizen.republika.co.id/posts/486165/hari-pahlawan-10-november-kegiatan-menarik-yang-dapat-dilakukan-di-sekolah"
+    },
+    {
+        "title": "Luis Enrique Nilai PSG tak Hoki Ketika Ditekuk Atletico Madrid",
+        "category": "News",
+        "publish_time": "07-11-2024 04:41",
+        "news_link": "https://news.republika.co.id/berita/smkd14348/luis-enrique-nilai-psg-tak-hoki-ketika-ditekuk-atletico-madrid"
+    },
+    {
+        "title": "Pengamat Ungkap Empat Alasan Mengapa UU Pengelolaan Zakat Rugikan LAZ",
+        "category": "Khazanah",
+        "publish_time": "07-11-2024 04:40",
+        "news_link": "https://khazanah.republika.co.id/berita/smkcyv483/pengamat-ungkap-empat-alasan-mengapa-uu-pengelolaan-zakat-rugikan-laz"
+    },
+    {
+        "title": "Wow... Penemuan Baru Membuka Jalan untuk Menghasilkan Energi dari Panas Tubuh",
+        "category": "Network",
+        "publish_time": "07-11-2024 04:38",
+        "news_link": "https://impresiupdate.id/posts/486160/wow-penemuan-baru-membuka-jalan-untuk-menghasilkan-energi-dari-panas-tubuh"
+    },
+    {
+        "title": "Kepala BNPB Tinjau Pos Pengamatan Gunung Lewotobi Laki-Laki",
+        "category": "Network",
+        "publish_time": "07-11-2024 04:38",
+        "news_link": "https://topnews62.com/posts/486167/kepala-bnpb-tinjau-pos-pengamatan-gunung-lewotobi-laki-laki"
+    },
+    {
+        "title": "Jadwal Liga Europa Jumat Dini Hari WIB, Tiga Tim Siap Pertahankan Rekor Sempurna",
+        "category": "News",
+        "publish_time": "07-11-2024 04:34",
+        "news_link": "https://news.republika.co.id/berita/smkcpl348/jadwal-liga-europa-jumat-dini-hari-wib-tiga-tim-siap-pertahankan-rekor-sempurna"
+    },
+    {
+        "title": "Ekspor Perdana Obat Herbal Milik PT Sukses Genggam Semesta ke Arab Saudi",
+        "category": "Beacukai",
+        "publish_time": "07-11-2024 04:32",
+        "news_link": "https://republika.co.id/berita/smkcmp490/ekspor-perdana-obat-herbal-milik-pt-sukses-genggam-semesta-ke-arab-saudi"
+    },
+    {
+        "title": "Ini Beberapa Faktor Kemenangan Trump Menurut Pakar, Salah Satunya karena Sikap Biden",
+        "category": "News",
+        "publish_time": "07-11-2024 04:29",
+        "news_link": "https://news.republika.co.id/berita/smkcgu487/ini-beberapa-faktor-kemenangan-trump-menurut-pakar-salah-satunya-karena-sikap-biden"
+    },
+    {
+        "title": "Bupati Serang Dinobatkan Sebagai Tokoh Pembangunan Masyarakat dan Desa",
+        "category": "News",
+        "publish_time": "07-11-2024 04:27",
+        "news_link": "https://news.republika.co.id/berita/smkced490/bupati-serang-dinobatkan-sebagai-tokoh-pembangunan-masyarakat-dan-desa"
+    },
+    {
+        "title": "Gerebek Tempat Pengoplosan Gas Elpiji Subsidi di Indramayu, Begini Aktivitasnya",
+        "category": "Rejabar",
+        "publish_time": "07-11-2024 04:26",
+        "news_link": "https://rejabar.republika.co.id/berita/smkcbm512/gerebek-tempat-pengoplosan-gas-elpiji-subsidi-di-indramayu-begini-aktivitasnya"
+    },
+    {
+        "title": "Butuh Modal untuk Melaut, Nelayan Tunggu Implementasi Pemutihan Hutang",
+        "category": "Ekonomi",
+        "publish_time": "07-11-2024 04:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/smkbzv502/butuh-modal-untuk-melaut-nelayan-tunggu-implementasi-pemutihan-hutang"
+    },
+    {
         "title": "PLN Resmikan One Stop EV Charging Station, Dukung Green Tourism di Bandung",
         "category": "Ekonomi",
         "publish_time": "07-11-2024 04:14",
@@ -8,295 +92,211 @@
     {
         "title": "Erick: BUMN dan Badan Gizi Kolaborasi Demi Akselerasi Swasembada Pangan",
         "category": "Ekonomi",
-        "publish_time": "07-11-2024 04:10",
+        "publish_time": "07-11-2024 04:12",
         "news_link": "https://ekonomi.republika.co.id/berita/smkbl4490/erick-bumn-dan-badan-gizi-kolaborasi-demi-akselerasi-swasembada-pangan"
     },
     {
         "title": "Katanya Diumumkan Hari Ini, Menaker Beri Sinyal UMP 2025 Pasti Naik",
         "category": "Ekonomi",
-        "publish_time": "07-11-2024 03:55",
+        "publish_time": "07-11-2024 04:12",
         "news_link": "https://ekonomi.republika.co.id/berita/smkaxa502/katanya-diumumkan-hari-ini-menaker-beri-sinyal-ump-2025-pasti-naik"
     },
     {
         "title": "Cadangan Devisa Indonesia pada Oktober 2024 Naik Tipis Jadi 151,2 Miliar Dolar AS",
         "category": "Ekonomi",
-        "publish_time": "07-11-2024 03:52",
+        "publish_time": "07-11-2024 04:12",
         "news_link": "https://ekonomi.republika.co.id/berita/smkart490/cadangan-devisa-indonesia-pada-oktober-2024-naik-tipis-jadi-1512-miliar-dolar-as"
     },
     {
         "title": "Artis Fairuz A Rafiq Bagi Tips Pilih Gamis Nyaman untuk Muslimah",
         "category": "Ameera",
-        "publish_time": "07-11-2024 03:50",
+        "publish_time": "07-11-2024 04:12",
         "news_link": "https://ameera.republika.co.id/berita/smkaoh425/artis-fairuz-a-rafiq-bagi-tips-pilih-gamis-nyaman-untuk-muslimah"
     },
     {
         "title": "Trump Kembali Jadi Presiden AS, IHSG dan Rupiah Kompak Dibuka Melemah",
         "category": "Ekonomi",
-        "publish_time": "07-11-2024 03:42",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://ekonomi.republika.co.id/berita/smkaav490/trump-kembali-jadi-presiden-as-ihsg-dan-rupiah-kompak-dibuka-melemah"
     },
     {
         "title": "Mangga Gedong Gincu Majalengka tak Dikenal Meski Sudah Ekspor, Ini Penyebabnya",
         "category": "Rejabar",
-        "publish_time": "07-11-2024 03:37",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://rejabar.republika.co.id/berita/smka3m512/mangga-gedong-gincu-majalengka-tak-dikenal-meski-sudah-ekspor-ini-penyebabnya"
     },
     {
         "title": "Hyoyeon SNSD Dikritik atas Kesalahan yang Melibatkan EXO dan NCT Dream",
         "category": "Ameera",
-        "publish_time": "07-11-2024 03:37",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://ameera.republika.co.id/berita/smka3e425/hyoyeon-snsd-dikritik-atas-kesalahan-yang-melibatkan-exo-dan-nct-dream"
     },
     {
         "title": "Harga Emas Amblas, Turun Rp 30 Ribu Hari Ini",
         "category": "Ekonomi",
-        "publish_time": "07-11-2024 03:23",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://ekonomi.republika.co.id/berita/smk9fv490/harga-emas-amblas-turun-rp-30-ribu-hari-ini"
     },
     {
         "title": "Kala Kalbu Berbisik",
         "category": "Retizen",
-        "publish_time": "07-11-2024 03:18",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://retizen.republika.co.id/posts/486113/kala-kalbu-berbisik"
     },
     {
         "title": "Konsep Kematangan dan Teori Belajar Behavioristik dan Humanistik",
         "category": "Retizen",
-        "publish_time": "07-11-2024 03:18",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://retizen.republika.co.id/posts/486129/konsep-kematangan-dan-teori-belajar-behavioristik-dan-humanistik"
     },
     {
         "title": "Kontribusi IQ, EQ, dan SQ dalam Pemaksimalan Psikologi Pendidikan",
         "category": "Retizen",
-        "publish_time": "07-11-2024 03:18",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://retizen.republika.co.id/posts/486135/kontribusi-iq-eq-dan-sq-dalam-pemaksimalan-psikologi-pendidikan"
     },
     {
         "title": "Si Jago Merah Lalap Kandang, Puluhan Ribu Ayam Mati Terpanggang",
         "category": "Rejabar",
-        "publish_time": "07-11-2024 03:18",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://rejabar.republika.co.id/berita/smk96c512/si-jago-merah-lalap-kandang-puluhan-ribu-ayam-mati-terpanggang"
     },
     {
         "title": "Demokrat Diminta Belajar dari Kekalahan Harris yang Mendukung Genosida Habis-habisan",
         "category": "Khazanah",
-        "publish_time": "07-11-2024 03:16",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://khazanah.republika.co.id/berita/smk941483/demokrat-diminta-belajar-dari-kekalahan-harris-yang-mendukung-genosida-habishabisan"
     },
     {
         "title": "FIB UI Buka Program LPDP Extension 2024",
         "category": "Network",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://ruzkaindonesia.id/posts/486127/fib-ui-buka-program-lpdp-extension-2024"
     },
     {
         "title": "Presiden Prabowo Kejar Investasi Ford dan Volkswagen untuk Baterai EV di Indonesia",
         "category": "Network",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://motoresto.id/posts/486094/presiden-prabowo-kejar-investasi-ford-dan-volkswagen-untuk-baterai-ev-di-indonesia"
     },
     {
         "title": "Kemenkes Bantu Korban Terdampak Erupsi Gunung Lewotobi Laki-Laki NTT",
         "category": "Network",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://diagnosa.id/posts/486140/kemenkes-bantu-korban-terdampak-erupsi-gunung-lewotobi-laki-laki-ntt"
     },
     {
         "title": "Waspada Penipuan Melalui Situs SATUSEHAT Health Pass Palsu",
         "category": "Network",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://diagnosa.id/posts/486141/waspada-penipuan-melalui-situs-satusehat-health-pass-palsu"
     },
     {
         "title": "Waspada Bencana di Jabar, Pemprov Gerak Cepat Tangani di Tiga Daerah Terdampak",
         "category": "Network",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://bandung24jam.id/posts/486143/waspada-bencana-di-jabar-pemprov-gerak-cepat-tangani-di-tiga-daerah-terdampak"
     },
     {
         "title": "Skrining Kesehatan Gratis, Mencakup 14 Jenis Penyakit",
         "category": "Network",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://diagnosa.id/posts/486145/skrining-kesehatan-gratis-mencakup-14-jenis-penyakit"
     },
     {
         "title": "Terpukul Hasil Pilpres AS, Cardi B Tulis Catatan Emosional untuk Kamala Harris",
         "category": "Network",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://impresiupdate.id/posts/486147/terpukul-hasil-pilpres-as-cardi-b-tulis-catatan-emosional-untuk-kamala-harris"
     },
     {
         "title": "Para Ilmuwan Temukan Alasan Mengapa Tanah Mars Sangat Berkerak",
         "category": "Network",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://impresiupdate.id/posts/486148/para-ilmuwan-temukan-alasan-mengapa-tanah-mars-sangat-berkerak"
     },
     {
         "title": "Penataan Transportasi Umum, Pemkot Bandung Akselerasi Pembangunan Konstruksi dan Penataan Feeder BRT",
         "category": "Network",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://bandung24jam.id/posts/486149/penataan-transportasi-umum-pemkot-bandung-akselerasi-pembangunan-konstruksi-dan-penataan-feeder-brt"
     },
     {
         "title": "Toyota Gazoo Racing Thailand Ubah Hilux Rangga Jadi Truk Balap",
         "category": "Network",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://motoresto.id/posts/486095/toyota-gazoo-racing-thailand-ubah-hilux-rangga-jadi-truk-balap"
     },
     {
         "title": "Bullying Adalah Masalah Serius, Awal tahun 2024, 46 Kasus Anak Mengakhiri Hidup",
         "category": "Network",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://diagnosa.id/posts/486152/bullying-adalah-masalah-serius-awal-tahun-2024-46-kasus-anak-mengakhiri-hidup"
     },
     {
         "title": "Wuih...Ilmuwan Mengembangkan Transistor Berskala Nano Kecil untuk Meningkatkan Elektronik Masa Depan",
         "category": "Network",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://impresiupdate.id/posts/486153/wuih-ilmuwan-mengembangkan-transistor-berskala-nano-kecil-untuk-meningkatkan-elektronik-masa-depan"
     },
     {
         "title": "Uuppss... Ariana Grande Bakal Mengurangi Produksi Musik",
         "category": "Network",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://impresiupdate.id/posts/486155/uuppss-ariana-grande-bakal-mengurangi-produksi-musik"
     },
     {
         "title": "Pencinta Anime Merapat! Crunchyroll Ramaikan Indonesia Comic Con dengan 2 Game Seru",
         "category": "Ameera",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://ameera.republika.co.id/berita/smk8s6425/pencinta-anime-merapat-crunchyroll-ramaikan-indonesia-comic-con-dengan-2-game-seru"
     },
     {
         "title": "Tahun Ini, Lebih Dari 19 Juta Jamaah Kunjungi Masjid Quba di Madinah",
         "category": "Khazanah",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://khazanah.republika.co.id/berita/smk81h483/tahun-ini-lebih-dari-19-juta-jamaah-kunjungi-masjid-quba-di-madinah"
     },
     {
         "title": "Danantara Indonesia, Raksasa Baru SWF Dunia?",
         "category": "Visual",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://visual.republika.co.id/berita/smk7zu502/danantara-indonesia-raksasa-baru-swf-dunia"
     },
     {
         "title": "Garuda ID, Langkah PSSI Jaga Keamanan dan Kenyamanan Suporter",
         "category": "News",
-        "publish_time": "07-11-2024 03:15",
+        "publish_time": "07-11-2024 03:12",
         "news_link": "https://news.republika.co.id/berita/smk7ra348/garuda-id-langkah-pssi-jaga-keamanan-dan-kenyamanan-suporter"
     },
     {
         "title": "Ini Janji Pj Gubernur Teguh Setyabudi Jakarta Atas Tuntutan Kenaikan UMP DKI Jakarta",
         "category": "News",
-        "publish_time": "07-11-2024 02:15",
+        "publish_time": "07-11-2024 02:12",
         "news_link": "https://news.republika.co.id/berita/smk7j6409/ini-janji-pj-gubernur-teguh-setyabudi-jakarta-atas-tuntutan-kenaikan-ump-dki-jakarta"
     },
     {
         "title": "Hansi Flick Kasi Jempol Fokus Pemain Barcelona Selepas Kalahkan Red Star",
         "category": "News",
-        "publish_time": "07-11-2024 02:15",
+        "publish_time": "07-11-2024 02:12",
         "news_link": "https://news.republika.co.id/berita/smk6yw348/hansi-flick-kasi-jempol-fokus-pemain-barcelona-selepas-kalahkan-red-star"
     },
     {
         "title": "Trump Dinilai akan Memuluskan Greater Israel",
         "category": "Khazanah",
-        "publish_time": "07-11-2024 02:15",
+        "publish_time": "07-11-2024 02:12",
         "news_link": "https://khazanah.republika.co.id/berita/smk6me483/trump-dinilai-akan-memuluskan-greater-israel"
     },
     {
         "title": "Naskah Khutbah Jumat: Kesengsaraan Orang Kafir",
         "category": "Iqra",
-        "publish_time": "07-11-2024 02:15",
+        "publish_time": "07-11-2024 02:12",
         "news_link": "https://iqra.republika.co.id/berita/smk5wq366/naskah-khutbah-jumat-kesengsaraan-orang-kafir"
     },
     {
         "title": "BMM Distribusikan Sepuluh Gerobak untuk Penyintas Kebakaran Manggarai",
         "category": "Khazanah",
-        "publish_time": "07-11-2024 02:15",
+        "publish_time": "07-11-2024 02:12",
         "news_link": "https://khazanah.republika.co.id/berita/smk5dc483/bmm-distribusikan-sepuluh-gerobak-untuk-penyintas-kebakaran-manggarai"
-    },
-    {
-        "title": "Catatan Cak AT: Great vs Raya",
-        "category": "Network",
-        "publish_time": "07-11-2024 02:15",
-        "news_link": "https://ruzkaindonesia.id/posts/486121/catatan-cak-at-great-vs-raya"
-    },
-    {
-        "title": "Cegah Stroke Terulang, Rajin Olahraga Jadi Kuncinya",
-        "category": "Ameera",
-        "publish_time": "07-11-2024 01:15",
-        "news_link": "https://ameera.republika.co.id/berita/smk4wa425/cegah-stroke-terulang-rajin-olahraga-jadi-kuncinya"
-    },
-    {
-        "title": "Reaksi Pemerintah Iran Atas Kemenangan Trump: Kami tak Khawatir Disanksi",
-        "category": "Khazanah",
-        "publish_time": "07-11-2024 01:15",
-        "news_link": "https://khazanah.republika.co.id/berita/smk4mi483/reaksi-pemerintah-iran-atas-kemenangan-trump-kami-tak-khawatir-disanksi"
-    },
-    {
-        "title": "Inzaghi Bangga Pertahanan Inter Buat Arsenal tak Berdaya",
-        "category": "News",
-        "publish_time": "07-11-2024 01:15",
-        "news_link": "https://news.republika.co.id/berita/smk4kp348/inzaghi-bangga-pertahanan-inter-buat-arsenal-tak-berdaya"
-    },
-    {
-        "title": "Pemilik Temasek Buka Suara Soal Danantara, Begini Katanya...",
-        "category": "Ekonomi",
-        "publish_time": "07-11-2024 01:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/smk3zv475/pemilik-temasek-buka-suara-soal-danantara-begini-katanya"
-    },
-    {
-        "title": "Klasemen Sementara Liga Champions: Liverpool Nyaman di Puncak",
-        "category": "News",
-        "publish_time": "07-11-2024 01:15",
-        "news_link": "https://news.republika.co.id/berita/smk3x5348/klasemen-sementara-liga-champions-liverpool-nyaman-di-puncak"
-    },
-    {
-        "title": "Kebun Maisa Petani, Upaya Warga Jakarta Wujudkan Swasembada Pangan",
-        "category": "Visual",
-        "publish_time": "07-11-2024 01:15",
-        "news_link": "https://visual.republika.co.id/berita/smk3wf375/kebun-maisa-petani-upaya-warga-jakarta-wujudkan-swasembada-pangan"
-    },
-    {
-        "title": "Elon Musk Rayakan Kemenangan Donald Trump: Masa Depan Amerika akan Menyala!",
-        "category": "Ameera",
-        "publish_time": "07-11-2024 01:15",
-        "news_link": "https://ameera.republika.co.id/berita/smk3q7425/elon-musk-rayakan-kemenangan-donald-trump-masa-depan-amerika-akan-menyala"
-    },
-    {
-        "title": "Enzo  Maresca Berharap Cole Palmer dan Jadon Sancho Fit Bela Chelsea Lawan Arsenal",
-        "category": "News",
-        "publish_time": "07-11-2024 01:15",
-        "news_link": "https://news.republika.co.id/berita/smk365348/enzo-maresca-berharap-cole-palmer-dan-jadon-sancho-fit-bela-chelsea-lawan-arsenal"
-    },
-    {
-        "title": "Audit BPK: 1,69 Juta Ton Impor Gula di 2015-September 2017, Izinnya Melanggar Aturan",
-        "category": "News",
-        "publish_time": "07-11-2024 01:15",
-        "news_link": "https://news.republika.co.id/berita/smk35s318/audit-bpk-169-juta-ton-impor-gula-di-2015september-2017-izinnya-melanggar-aturan"
-    },
-    {
-        "title": "Artis Hollywood yang Kecewa dan Kesal atas Kemenangan Donald Trump",
-        "category": "Ameera",
-        "publish_time": "07-11-2024 01:15",
-        "news_link": "https://ameera.republika.co.id/berita/smk2xa425/artis-hollywood-yang-kecewa-dan-kesal-atas-kemenangan-donald-trump"
-    },
-    {
-        "title": "BSI Ajak ASBISINDO Perkuat Kolaborasi Atasi Tantangan Bank Syariah",
-        "category": "Sharia",
-        "publish_time": "07-11-2024 01:15",
-        "news_link": "https://sharia.republika.co.id/berita/smk2nl490/bsi-ajak-asbisindo-perkuat-kolaborasi-atasi-tantangan-bank-syariah"
-    },
-    {
-        "title": "Kemungkaran Suap-Menyuap",
-        "category": "Khazanah",
-        "publish_time": "07-11-2024 01:15",
-        "news_link": "https://www.republika.id/posts/55451/kemungkaran-suap-menyuap"
-    },
-    {
-        "title": "KPK Yakin Sahbirin Noor Masih di Indonesia",
-        "category": "News",
-        "publish_time": "07-11-2024 00:15",
-        "news_link": "https://news.republika.co.id/berita/smk20t409/kpk-yakin-sahbirin-noor-masih-di-indonesia"
     }
 ]
