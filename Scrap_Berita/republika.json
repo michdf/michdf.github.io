@@ -1,110 +1,194 @@
 [
     {
+        "title": "Dharma: Persoalan Utama Warga Jakarta adalah Ekonomi",
+        "category": "News",
+        "publish_time": "08-11-2024 16:11",
+        "news_link": "https://news.republika.co.id/berita/smn3n0377/dharma-persoalan-utama-warga-jakarta-adalah-ekonomi"
+    },
+    {
+        "title": "Golkar Mulai Semarakkan Jumat Berkah dan Makan Gratis Sesuai Arahan Bahlil",
+        "category": "News",
+        "publish_time": "08-11-2024 16:04",
+        "news_link": "https://news.republika.co.id/berita/smn3bm320/golkar-mulai-semarakkan-jumat-berkah-dan-makan-gratis-sesuai-arahan-bahlil"
+    },
+    {
+        "title": "Selamatkan Nenek Terjatuh di Sungai, 5 WNI Jadi Perbincangan Viral di Jepang",
+        "category": "News",
+        "publish_time": "08-11-2024 15:54",
+        "news_link": "https://news.republika.co.id/berita/smn2ub320/selamatkan-nenek-terjatuh-di-sungai-5-wni-jadi-perbincangan-viral-di-jepang"
+    },
+    {
+        "title": "Prospek Industri Kimia, Indonesia Chemical Industry Investment Summit 2024 Siap Digelar",
+        "category": "Ekonomi",
+        "publish_time": "08-11-2024 15:43",
+        "news_link": "https://ekonomi.republika.co.id/berita/smn203456/prospek-industri-kimia-indonesia-chemical-industry-investment-summit-2024-siap-digelar"
+    },
+    {
+        "title": "Ribuan Mahasiswa Unpar Antusias Ikuti Kuliah Umum Wakil Presdir BCA",
+        "category": "Rejabar",
+        "publish_time": "08-11-2024 15:43",
+        "news_link": "https://rejabar.republika.co.id/berita/smn2bt512/ribuan-mahasiswa-unpar-antusias-ikuti-kuliah-umum-wakil-presdir-bca"
+    },
+    {
+        "title": "Dukungan Membludak, Ansar Ahmad Figur Tepat Pimpin Kemajuan Kepri",
+        "category": "News",
+        "publish_time": "08-11-2024 15:30",
+        "news_link": "https://news.republika.co.id/berita/smmw71451/dukungan-membludak-ansar-ahmad-figur-tepat-pimpin-kemajuan-kepri"
+    },
+    {
+        "title": "Sultan Husain Ungkit Kembali Kepahlawanan Sultan Nuku di Hadapan Ribuan Rakyat Malut",
+        "category": "Khazanah",
+        "publish_time": "08-11-2024 15:29",
+        "news_link": "https://khazanah.republika.co.id/berita/smn1ol320/sultan-husain-ungkit-kembali-kepahlawanan-sultan-nuku-di-hadapan-ribuan-rakyat-malut"
+    },
+    {
+        "title": "Video Viral Peminta Sedekah di Makam Sunan Gunung Jati, Ini Kata Keraton Kanoman",
+        "category": "Rejabar",
+        "publish_time": "08-11-2024 15:29",
+        "news_link": "https://rejabar.republika.co.id/berita/smn1o2512/video-viral-peminta-sedekah-di-makam-sunan-gunung-jati-ini-kata-keraton-kanoman"
+    },
+    {
+        "title": "BSI Fasilitasi Nasabah UMKM Go Global, Tembus ke 2 Negara",
+        "category": "Sharia",
+        "publish_time": "08-11-2024 15:24",
+        "news_link": "https://sharia.republika.co.id/berita/smn1gn502/bsi-fasilitasi-nasabah-umkm-go-global-tembus-ke-2-negara"
+    },
+    {
+        "title": "Melihat Latihan Bersama TNI AL dan Angkatan Laut Rusia di Perairan Jatim",
+        "category": "Visual",
+        "publish_time": "08-11-2024 15:17",
+        "news_link": "https://visual.republika.co.id/berita/smn14r375/melihat-latihan-bersama-tni-al-dan-angkatan-laut-rusia-di-perairan-jatim"
+    },
+    {
+        "title": "Erick Thohir Berharap Kevin Diks Sudah Bisa Bermain Lawan Jepang",
+        "category": "News",
+        "publish_time": "08-11-2024 15:16",
+        "news_link": "https://news.republika.co.id/berita/smn124348/erick-thohir-berharap-kevin-diks-sudah-bisa-bermain-lawan-jepang"
+    },
+    {
+        "title": "ASIH Komitmen Tingkatkan Mutu Pendidikan dan Beri Perlindungan Hukum ke Pengajar",
+        "category": "Rejabar",
+        "publish_time": "08-11-2024 15:15",
+        "news_link": "https://rejabar.republika.co.id/berita/smn0yt512/asih-komitmen-tingkatkan-mutu-pendidikan-dan-beri-perlindungan-hukum-ke-pengajar"
+    },
+    {
         "title": "Jadwal Liga Inggris: Liverpool Hadapi Aston Villa, Chelsea Tantang Arsenal di Derby London",
         "category": "News",
-        "publish_time": "08-11-2024 15:10",
+        "publish_time": "08-11-2024 15:15",
         "news_link": "https://news.republika.co.id/berita/smn0si348/jadwal-liga-inggris-liverpool-hadapi-aston-villa-chelsea-tantang-arsenal-di-derby-london"
     },
     {
         "title": "Antam dan Freeport Sinergi Emas, Erick Thohir: Untuk Kebaikan Bangsa",
         "category": "Ekonomi",
-        "publish_time": "08-11-2024 15:09",
+        "publish_time": "08-11-2024 15:15",
         "news_link": "https://ekonomi.republika.co.id/berita/smn0ru456/antam-dan-freeport-sinergi-emas-erick-thohir-untuk-kebaikan-bangsa"
     },
     {
         "title": "Trump, Lingkaran Pencetus Sapi Merah dan Ambisi Bangun Sinagoge di Masjid Al-Aqsa",
         "category": "Khazanah",
-        "publish_time": "08-11-2024 15:07",
+        "publish_time": "08-11-2024 15:15",
         "news_link": "https://khazanah.republika.co.id/berita/smn0nn320/trump-lingkaran-pencetus-sapi-merah-dan-ambisi-bangun-sinagoge-di-masjid-alaqsa"
+    },
+    {
+        "title": "Pengungsi Akibat Erupsi Gunung Lewotobi Capai 8.431 Jiwa",
+        "category": "Visual",
+        "publish_time": "08-11-2024 15:15",
+        "news_link": "https://visual.republika.co.id/berita/smn2ao375/pengungsi-akibat-erupsi-gunung-lewotobi-capai-8431-jiwa"
     },
     {
         "title": "Kemenkeu Siapkan Daftar Aset BLBI untuk Program 3 Juta Rumah Prabowo",
         "category": "Ekonomi",
-        "publish_time": "08-11-2024 14:57",
+        "publish_time": "08-11-2024 15:15",
         "news_link": "https://ekonomi.republika.co.id/berita/smn06w502/kemenkeu-siapkan-daftar-aset-blbi-untuk-program-3-juta-rumah-prabowo"
     },
     {
         "title": "Tiket Pesawat Mahal, Satgas Didorong Langsung Berada di Bawah Presiden",
         "category": "Ekonomi",
-        "publish_time": "08-11-2024 14:54",
+        "publish_time": "08-11-2024 15:15",
         "news_link": "https://ekonomi.republika.co.id/berita/smn02h502/tiket-pesawat-mahal-satgas-didorong-langsung-berada-di-bawah-presiden"
     },
     {
         "title": "Sinarmas World Academy Kuatkan Komunitas dan Bangun Masa Depan Lewat Energi Perubahan",
         "category": "News",
-        "publish_time": "08-11-2024 14:45",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://news.republika.co.id/berita/smmj60349/sinarmas-world-academy-kuatkan-komunitas-dan-bangun-masa-depan-lewat-energi-perubahan"
     },
     {
         "title": "Peduli Wong Cilik, Kang DS Rehab 28 Ribu Rumah Tidak Layak Huni",
         "category": "News",
-        "publish_time": "08-11-2024 14:43",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://news.republika.co.id/berita/smmzkg502/peduli-wong-cilik-kang-ds-rehab-28-ribu-rumah-tidak-layak-huni"
     },
     {
         "title": "Lagi Cari Beasiswa Kuliah? Kampus ini Berikan Beasiswa Kuliah Full Sampai Lulus",
         "category": "News",
-        "publish_time": "08-11-2024 14:41",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://news.republika.co.id/berita/smmzgv502/lagi-cari-beasiswa-kuliah-kampus-ini-berikan-beasiswa-kuliah-full-sampai-lulus"
     },
     {
         "title": "Lolos dari Laut Merah, Kapal Gamsunoro Lanjutkan Misi ke Terusan Panama",
         "category": "Ekonomi",
-        "publish_time": "08-11-2024 14:39",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://ekonomi.republika.co.id/berita/smmzd6483/lolos-dari-laut-merah-kapal-gamsunoro-lanjutkan-misi-ke-terusan-panama"
     },
     {
         "title": "Jasmine, Mahasiswa UBSI Juara 1 Program Duta Literasi Keuangan dari Danacita",
         "category": "News",
-        "publish_time": "08-11-2024 14:37",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://news.republika.co.id/berita/smmzat502/jasmine-mahasiswa-ubsi-juara-1-program-duta-literasi-keuangan-dari-danacita"
     },
     {
         "title": "Pertamina Energi Terminal Terapkan Aturan TKDN dan Serap Tenaga Lokal",
         "category": "Ekonomi",
-        "publish_time": "08-11-2024 14:37",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://ekonomi.republika.co.id/berita/smmz9r456/pertamina-energi-terminal-terapkan-aturan-tkdn-dan-serap-tenaga-lokal"
     },
     {
         "title": "Logam Mulia, Bantu Berangkatkan Haji Hingga Berlibur ke Negeri Ginseng",
         "category": "Rejabar",
-        "publish_time": "08-11-2024 14:32",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://rejabar.republika.co.id/berita/smmz2i512/logam-mulia-bantu-berangkatkan-haji-hingga-berlibur-ke-negeri-ginseng"
     },
     {
         "title": "Kevin Diks Resmi WNI Hari Ini, Siap Bela Timnas Indonesia di Kualifikasi Piala Dunia",
         "category": "News",
-        "publish_time": "08-11-2024 14:30",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://news.republika.co.id/berita/smmyy7348/kevin-diks-resmi-wni-hari-ini-siap-bela-timnas-indonesia-di-kualifikasi-piala-dunia"
     },
     {
         "title": "Pembangunan Long Storage Kuricang Jadi Upaya Pemkot Tangsel Kendalikan Banjir",
         "category": "News",
-        "publish_time": "08-11-2024 14:30",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://news.republika.co.id/berita/smmw1m451/pembangunan-long-storage-kuricang-jadi-upaya-pemkot-tangsel-kendalikan-banjir"
+    },
+    {
+        "title": "Kepala BPPIK Temui Menteri BUMN, Bahas Transparansi dan Efisiensi",
+        "category": "Visual",
+        "publish_time": "08-11-2024 14:15",
+        "news_link": "https://visual.republika.co.id/berita/smn27x375/kepala-bppik-temui-menteri-bumn-bahas-transparansi-dan-efisiensi"
     },
     {
         "title": "Jelang Laga Lawan Jepang, Erick Thohir Tinjau Kesiapan Lapangan Stadion GBK",
         "category": "Visual",
-        "publish_time": "08-11-2024 14:30",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://visual.republika.co.id/berita/smmyxw375/jelang-laga-lawan-jepang-erick-thohir-tinjau-kesiapan-lapangan-stadion-gbk"
     },
     {
         "title": "bank bjb Perluas Kolaborasi dengan BP Rebana untuk Pengembangan Kawasan Rebana",
         "category": "News",
-        "publish_time": "08-11-2024 14:29",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://news.republika.co.id/berita/smmywx502/bank-bjb-perluas-kolaborasi-dengan-bp-rebana-untuk-pengembangan-kawasan-rebana"
     },
     {
         "title": "Dukung Penanganan Bencana Gunung Lewotobi, Rumah Zakat Terjunkan Relawan",
         "category": "Khazanah",
-        "publish_time": "08-11-2024 14:25",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://khazanah.republika.co.id/berita/smmypl502/dukung-penanganan-bencana-gunung-lewotobi-rumah-zakat-terjunkan-relawan"
     },
     {
         "title": "Riset: Kalahkan Aktivis dan Pemerintah, Ulama Paling Dipercaya dalam Isu Iklim",
         "category": "Khazanah",
-        "publish_time": "08-11-2024 14:18",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://khazanah.republika.co.id/berita/smmydj483/riset-kalahkan-aktivis-dan-pemerintah-ulama-paling-dipercaya-dalam-isu-iklim"
     },
     {
@@ -116,187 +200,103 @@
     {
         "title": "Libas Thailand 5-1, Timnas Futsal Indonesia ke Final Piala AFF 2024",
         "category": "News",
-        "publish_time": "08-11-2024 14:13",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://news.republika.co.id/berita/smmy6a348/libas-thailand-51-timnas-futsal-indonesia-ke-final-piala-aff-2024"
     },
     {
         "title": "Patuhi Putusan MK, Menaker Masih Kaji Penetapan Upah Minimum",
         "category": "News",
-        "publish_time": "08-11-2024 14:13",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://news.republika.co.id/berita/smmn8n409/patuhi-putusan-mk-menaker-masih-kaji-penetapan-upah-minimum"
     },
     {
         "title": "Mata Garuda dan USAID Dorong Guru Indonesia Raih Sertifikasi Pengajaran Internasional",
         "category": "News",
-        "publish_time": "08-11-2024 14:13",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://news.republika.co.id/berita/smmkcf349/mata-garuda-dan-usaid-dorong-guru-indonesia-raih-sertifikasi-pengajaran-internasional"
     },
     {
         "title": "Menteri ATR/BPN Temui Kapolri Untuk Kerja Sama Berantas Mafia Tanah tanpa Toleransi",
         "category": "News",
-        "publish_time": "08-11-2024 14:13",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://news.republika.co.id/berita/smmxri502/menteri-atrbpn-temui-kapolri-untuk-kerja-sama-berantas-mafia-tanah-tanpa-toleransi"
     },
     {
         "title": "Hari Berbahasa Indonesia: Mengarungi Kekayaan dan Keindahan Budaya Indonesia",
         "category": "Network",
-        "publish_time": "08-11-2024 14:13",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://ruzkaindonesia.id/posts/486546/hari-berbahasa-indonesia-mengarungi-kekayaan-dan-keindahan-budaya-indonesia"
+    },
+    {
+        "title": "Pameran Teknologi Kesehatan Terkini di Health Innovation Festival",
+        "category": "Visual",
+        "publish_time": "08-11-2024 14:15",
+        "news_link": "https://visual.republika.co.id/berita/smn1yd375/pameran-teknologi-kesehatan-terkini-di-health-innovation-festival"
     },
     {
         "title": "Polisi Tangkap 22 Orang yang Berbuat Anarkis dalam Kecelakaan Truk Tanah di PIK 2",
         "category": "Rejabar",
-        "publish_time": "08-11-2024 14:13",
+        "publish_time": "08-11-2024 14:15",
         "news_link": "https://rejabar.republika.co.id/berita/smmx05282/polisi-tangkap-22-orang-yang-berbuat-anarkis-dalam-kecelakaan-truk-tanah-di-pik-2"
     },
     {
         "title": "Kecelakaan di Perlintasan Sebidang di Wilayah Daop 2 Capai 18 Kejadian, Ini Imbauan PT KA",
         "category": "Rejabar",
-        "publish_time": "08-11-2024 13:13",
+        "publish_time": "08-11-2024 13:15",
         "news_link": "https://rejabar.republika.co.id/berita/smmwn3512/kecelakaan-di-perlintasan-sebidang-di-wilayah-daop-2-capai-18-kejadian-ini-imbauan-pt-ka"
     },
     {
         "title": "Pameran Lukisan Spirit Kemerdekaan dari 60 Perupa Indonesia",
         "category": "Network",
-        "publish_time": "08-11-2024 13:13",
+        "publish_time": "08-11-2024 13:15",
         "news_link": "https://ruzkaindonesia.id/posts/486448/pameran-lukisan-spirit-kemerdekaan-dari-60-perupa-indonesia"
     },
     {
         "title": "Rahasia Mengapa Surat Al Baqarah Diapit Al Fatihah, Ali Imran, An-Nisa, dan Al-Maidah?",
         "category": "Iqra",
-        "publish_time": "08-11-2024 13:13",
+        "publish_time": "08-11-2024 13:15",
         "news_link": "https://iqra.republika.co.id/berita/smmwd0320/rahasia-mengapa-surat-al-baqarah-diapit-al-fatihah-ali-imran-annisa-dan-almaidah"
     },
     {
         "title": "Bedah Novel Pipiet Senja, Bagaimana Aku Bertahan",
         "category": "Network",
-        "publish_time": "08-11-2024 13:13",
+        "publish_time": "08-11-2024 13:15",
         "news_link": "https://ruzkaindonesia.id/posts/486533/bedah-novel-pipiet-senja-bagaimana-aku-bertahan"
     },
     {
         "title": "Hereditas dan Lingkungan dalam Perkembangan Manusia",
         "category": "Retizen",
-        "publish_time": "08-11-2024 13:13",
+        "publish_time": "08-11-2024 13:15",
         "news_link": "https://retizen.republika.co.id/posts/486447/hereditas-dan-lingkungan-dalam-perkembangan-manusia"
+    },
+    {
+        "title": "Antrean Panjang Pelanggar Lalu Lintas di Sidoarjo Bayar Denda Tilang",
+        "category": "Visual",
+        "publish_time": "08-11-2024 13:15",
+        "news_link": "https://visual.republika.co.id/berita/smn1lj375/antrean-panjang-pelanggar-lalu-lintas-di-sidoarjo-bayar-denda-tilang"
     },
     {
         "title": "Survei Terbaru Pilgub, Elektabilitas KDM-Erwan Tertinggi, Syaikhu-Ilham Habibie Membayangi",
         "category": "Rejabar",
-        "publish_time": "08-11-2024 13:13",
+        "publish_time": "08-11-2024 13:15",
         "news_link": "https://rejabar.republika.co.id/berita/smmw4o512/survei-terbaru-pilgub-elektabilitas-kdmerwan-tertinggi-syaikhuilham-habibie-membayangi"
     },
     {
         "title": "Fakta Menarik tentang Kopi: Apakah Baik atau Buruk bagi Kesehatan?",
         "category": "Retizen",
-        "publish_time": "08-11-2024 13:13",
+        "publish_time": "08-11-2024 13:15",
         "news_link": "https://retizen.republika.co.id/posts/486459/fakta-menarik-tentang-kopi-apakah-baik-atau-buruk-bagi-kesehatan"
     },
     {
         "title": "Bawaslu Beri Waktu Lima Hari kepada Suswono Penuhi Panggilan Terkait Ucapan 'Janda Kaya'",
         "category": "News",
-        "publish_time": "08-11-2024 13:13",
+        "publish_time": "08-11-2024 13:15",
         "news_link": "https://news.republika.co.id/berita/smmnfx409/bawaslu-beri-waktu-lima-hari-kepada-suswono-penuhi-panggilan-terkait-ucapan-janda-kaya"
     },
     {
         "title": "PN Cirebon Kirimkan Berkas PK Tujuh Terpidana Kasus Vina ke MA",
         "category": "Rejabar",
-        "publish_time": "08-11-2024 13:13",
+        "publish_time": "08-11-2024 13:15",
         "news_link": "https://rejabar.republika.co.id/berita/smmvdv512/pn-cirebon-kirimkan-berkas-pk-tujuh-terpidana-kasus-vina-ke-ma"
-    },
-    {
-        "title": "Penyelenggaraan Haji Libatkan Dua Lembaga Penegak Hukum, Ini yang Mau Dibersihkan",
-        "category": "Khazanah",
-        "publish_time": "08-11-2024 13:13",
-        "news_link": "https://khazanah.republika.co.id/berita/smmv9g430/penyelenggaraan-haji-libatkan-dua-lembaga-penegak-hukum-ini-yang-mau-dibersihkan"
-    },
-    {
-        "title": "Atdikbud RI Dorong Kerjasama Sekolah Islam Canberra dan Nizamia Andalusia Jakarta",
-        "category": "Network",
-        "publish_time": "08-11-2024 13:13",
-        "news_link": "https://kampus.republika.co.id/posts/486532/atdikbud-ri-dorong-kerjasama-sekolah-islam-canberra-dan-nizamia-andalusia-jakarta"
-    },
-    {
-        "title": "Sempat Terputus Akibat Longsor Batu, Akses Jalan Cidaun Cianjur Bisa Dilintasi",
-        "category": "Rejabar",
-        "publish_time": "08-11-2024 13:13",
-        "news_link": "https://rejabar.republika.co.id/berita/smmv1h512/sempat-terputus-akibat-longsor-batu-akses-jalan-cidaun-cianjur-bisa-dilintasi"
-    },
-    {
-        "title": "Bagaimana Sikap PM Singapura, Lawrence Wong Melihat Gejolak Dunia?",
-        "category": "Video",
-        "publish_time": "08-11-2024 13:13",
-        "news_link": "https://tv.republika.co.id/berita/smmuud216/bagaimana-sikap-pm-singapura-lawrence-wong-melihat-gejolak-dunia"
-    },
-    {
-        "title": "TGB Sebut Nilai Keberagaman Jadi Ruh Nusa Tenggara Barat",
-        "category": "Khazanah",
-        "publish_time": "08-11-2024 13:13",
-        "news_link": "https://khazanah.republika.co.id/berita/smmlyo451/tgb-sebut-nilai-keberagaman-jadi-ruh-nusa-tenggara-barat"
-    },
-    {
-        "title": "Viral Aksi Peminta Sedekah di Makam Sunan Gunung Jati, Kadisbudpar: Kotak Larinya Kemana?",
-        "category": "Rejabar",
-        "publish_time": "08-11-2024 13:13",
-        "news_link": "https://rejabar.republika.co.id/berita/smmuqf512/viral-aksi-peminta-sedekah-di-makam-sunan-gunung-jati-kadisbudpar-kotak-larinya-kemana"
-    },
-    {
-        "title": "Anjing Juga Memiliki Perasaan Loh! Yuk Kenali Bahasa Tubuh Anjing Kamu",
-        "category": "Retizen",
-        "publish_time": "08-11-2024 13:13",
-        "news_link": "https://retizen.republika.co.id/posts/486519/anjing-juga-memiliki-perasaan-loh-yuk-kenali-bahasa-tubuh-anjing-kamu"
-    },
-    {
-        "title": "Pentingnya Penyuluh Pertanian Lapangan Bagi Petani",
-        "category": "Retizen",
-        "publish_time": "08-11-2024 13:13",
-        "news_link": "https://retizen.republika.co.id/posts/486528/pentingnya-penyuluh-pertanian-lapangan-bagi-petani"
-    },
-    {
-        "title": "Truk Tanah Tabrak Bocah di PIK Teluk Naga, Polisi Minta Warga tak Anarkis",
-        "category": "Rejabar",
-        "publish_time": "08-11-2024 13:13",
-        "news_link": "https://rejabar.republika.co.id/berita/smmupc282/truk-tanah-tabrak-bocah-di-pik-teluk-naga-polisi-minta-warga-tak-anarkis"
-    },
-    {
-        "title": "Warga yang Promosikan Judi Online Ditangkapi Lalu Jadi Tersangka, Para Artis Kapan?",
-        "category": "News",
-        "publish_time": "08-11-2024 13:13",
-        "news_link": "https://news.republika.co.id/berita/smmun1409/warga-yang-promosikan-judi-online-ditangkapi-lalu-jadi-tersangka-para-artis-kapan"
-    },
-    {
-        "title": "Prabowo ke Cina, Pakar: Target Pertumbuhan 8 Persen Bisa Tercapai Kalau RI-Cina Mesra",
-        "category": "News",
-        "publish_time": "08-11-2024 13:13",
-        "news_link": "https://news.republika.co.id/berita/smmudj475/prabowo-ke-cina-pakar-target-pertumbuhan-8-persen-bisa-tercapai-kalau-ricina-mesra"
-    },
-    {
-        "title": "Dude Herlino Didaulat Jadi Duta Kerukunan Umat Agama",
-        "category": "Khazanah",
-        "publish_time": "08-11-2024 13:13",
-        "news_link": "https://khazanah.republika.co.id/berita/smmucb458/dude-herlino-didaulat-jadi-duta-kerukunan-umat-agama"
-    },
-    {
-        "title": "Saat PM Singapura Bicara Soal Islam",
-        "category": "News",
-        "publish_time": "08-11-2024 12:13",
-        "news_link": "https://news.republika.co.id/berita/smmu0b393/saat-pm-singapura-bicara-soal-islam"
-    },
-    {
-        "title": "Anggota DPRD Nilai, Perda Soal Penataan PKL Belum Berjalan Efektif",
-        "category": "Rejabar",
-        "publish_time": "08-11-2024 12:13",
-        "news_link": "https://rejabar.republika.co.id/berita/smmu04512/anggota-dprd-nilai-perda-soal-penataan-pkl-belum-berjalan-efektif"
-    },
-    {
-        "title": "MUI, NU dan Muhammadiyah Bantul Sepakat Tolak Peredaran Miras",
-        "category": "Rejogja",
-        "publish_time": "08-11-2024 12:13",
-        "news_link": "https://rejogja.republika.co.id/berita/smmtuf458/mui-nu-dan-muhammadiyah-bantul-sepakat-tolak-peredaran-miras"
-    },
-    {
-        "title": "Rapat Paripurna DPRD Depok, Bersama Wali Kota Depok Setujui KUA dan PPAS 2025",
-        "category": "Network",
-        "publish_time": "08-11-2024 12:13",
-        "news_link": "https://ruzkaindonesia.id/posts/486529/rapat-paripurna-dprd-depok-bersama-wali-kota-depok-setujui-kua-dan-ppas-2025"
     }
 ]
