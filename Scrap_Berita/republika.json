@@ -1,98 +1,272 @@
 [
     {
+        "title": "Aktor Korea Song Jae-rim Meninggal Dunia",
+        "category": "Ameera",
+        "publish_time": "12-11-2024 10:12",
+        "news_link": "https://ameera.republika.co.id/berita/smu1o9425/aktor-korea-song-jaerim-meninggal-dunia"
+    },
+    {
+        "title": "Miskin Gara-Gara Gemar Bersedekah?",
+        "category": "Khazanah",
+        "publish_time": "12-11-2024 10:08",
+        "news_link": "https://khazanah.republika.co.id/berita/smu1ha458/miskin-garagara-gemar-bersedekah"
+    },
+    {
+        "title": "Ribuan Relawan Bustami Alihkan Dukungan Ke Muzakir Manaf, Ada Apa?",
+        "category": "News",
+        "publish_time": "12-11-2024 10:05",
+        "news_link": "https://news.republika.co.id/berita/smu1dp320/ribuan-relawan-bustami-alihkan-dukungan-ke-muzakir-manaf-ada-apa"
+    },
+    {
+        "title": "Zuhud tidak Berarti Miskin",
+        "category": "Khazanah",
+        "publish_time": "12-11-2024 10:05",
+        "news_link": "https://khazanah.republika.co.id/berita/smu1c5458/zuhud-tidak-berarti-miskin"
+    },
+    {
+        "title": "Kunjungan Prabowo ke China Hasilkan Kesepakatan Strategis untuk Ekonomi Hijau",
+        "category": "Esgnow",
+        "publish_time": "12-11-2024 10:03",
+        "news_link": "https://esgnow.republika.co.id/berita/smu199416/kunjungan-prabowo-ke-china-hasilkan-kesepakatan-strategis-untuk-ekonomi-hijau"
+    },
+    {
+        "title": "Menyayangi Orang Miskin",
+        "category": "Khazanah",
+        "publish_time": "12-11-2024 09:59",
+        "news_link": "https://khazanah.republika.co.id/berita/smu12r458/menyayangi-orang-miskin"
+    },
+    {
+        "title": "Dukung Generasi Muda Berkarya, PT PNM Gelar Kompetisi Video Bertema Inspirasi Sosial",
+        "category": "Ekonomi",
+        "publish_time": "12-11-2024 09:55",
+        "news_link": "https://ekonomi.republika.co.id/berita/smu0wl490/dukung-generasi-muda-berkarya-pt-pnm-gelar-kompetisi-video-bertema-inspirasi-sosial"
+    },
+    {
+        "title": "Tindak Lanjuti Info Masyarakat, Bea Cukai Luwuk Kejar Rokok Ilegal",
+        "category": "Beacukai",
+        "publish_time": "12-11-2024 09:55",
+        "news_link": "https://republika.co.id/berita/smu02a370/tindak-lanjuti-info-masyarakat-bea-cukai-luwuk-kejar-rokok-ilegal"
+    },
+    {
+        "title": "Kesederhanaan Rasulullah",
+        "category": "Khazanah",
+        "publish_time": "12-11-2024 09:53",
+        "news_link": "https://khazanah.republika.co.id/berita/smu0ta458/kesederhanaan-rasulullah"
+    },
+    {
+        "title": "Presiden Prabowo Secara Terbuka Dukung Luthfi-Yasin di Pilkada Jateng, Ini Respons Ganjar",
+        "category": "News",
+        "publish_time": "12-11-2024 09:52",
+        "news_link": "https://news.republika.co.id/berita/smu0rt487/presiden-prabowo-secara-terbuka-dukung-luthfiyasin-di-pilkada-jateng-ini-respons-ganjar"
+    },
+    {
+        "title": "Pengusaha Paksa Anak Orang Lain Sujud dan Menggonggong, Psikolog: Sangat tak Mendidik",
+        "category": "Ameera",
+        "publish_time": "12-11-2024 09:52",
+        "news_link": "https://ameera.republika.co.id/berita/smu0rp425/pengusaha-paksa-anak-orang-lain-sujud-dan-menggonggong-psikolog-sangat-tak-mendidik"
+    },
+    {
+        "title": "Kasus Selai Mengandung Ganja Terungkap, Polisi Terus Berantas Narkoba",
+        "category": "News",
+        "publish_time": "12-11-2024 09:52",
+        "news_link": "https://news.republika.co.id/berita/smu0r9483/kasus-selai-mengandung-ganja-terungkap-polisi-terus-berantas-narkoba"
+    },
+    {
+        "title": "Hacker Bobol Data Pribadi ilmuwan Nuklir, Israel Kalang Kabut",
+        "category": "Khazanah",
+        "publish_time": "12-11-2024 09:52",
+        "news_link": "https://khazanah.republika.co.id/berita/smtias483/hacker-bobol-data-pribadi-ilmuwan-nuklir-israel-kalang-kabut"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok 13 November 2024: Kota Denpasar Bali Cerah Sepanjang Hari",
+        "category": "News",
+        "publish_time": "12-11-2024 09:49",
+        "news_link": "https://news.republika.co.id/berita/smu0m2119467569/prakiraan-cuaca-besok-13-november-2024-kota-denpasar-bali-cerah-sepanjang-hari"
+    },
+    {
+        "title": "Kampus Islam Terbaik di Indonesia Versi THE WUR 2025, UMS Peringkat Pertama",
+        "category": "Network",
+        "publish_time": "12-11-2024 09:48",
+        "news_link": "https://kampus.republika.co.id/posts/487140/kampus-islam-terbaik-di-indonesia-versi-the-wur-2025-ums-peringkat-pertama"
+    },
+    {
+        "title": "Rasulullah, Keteladanan Seorang Ayah yang Lembut",
+        "category": "Khazanah",
+        "publish_time": "12-11-2024 09:47",
+        "news_link": "https://khazanah.republika.co.id/berita/smu0jj458/rasulullah-keteladanan-seorang-ayah-yang-lembut"
+    },
+    {
+        "title": "MUI Minta Polisi Take Down Konten Komik Polisi Pakai Simbol Peci dan Jenggot",
+        "category": "Khazanah",
+        "publish_time": "12-11-2024 09:44",
+        "news_link": "https://khazanah.republika.co.id/berita/smtxpi451/mui-minta-polisi-take-down-konten-komik-polisi-pakai-simbol-peci-dan-jenggot"
+    },
+    {
+        "title": "Amsterdam Masih Membara Selepas Kerusuhan Dipicu Suporter Israel",
+        "category": "News",
+        "publish_time": "12-11-2024 09:37",
+        "news_link": "https://news.republika.co.id/berita/smu02u393/amsterdam-masih-membara-selepas-kerusuhan-dipicu-suporter-israel"
+    },
+    {
+        "title": "Revisi UU Daerah Khusus Jakarta Dikebut Sebelum Pencoblosan Pilkada, Ini Alasan Baleg DPR",
+        "category": "News",
+        "publish_time": "12-11-2024 09:35",
+        "news_link": "https://news.republika.co.id/berita/smtzym487/revisi-uu-daerah-khusus-jakarta-dikebut-sebelum-pencoblosan-pilkada-ini-alasan-baleg-dpr"
+    },
+    {
+        "title": "Pemimpin Dunia Arab Desak Genosida Dihentikan, Aksi Nyata atau Omon-omon ?",
+        "category": "Khazanah",
+        "publish_time": "12-11-2024 09:32",
+        "news_link": "https://khazanah.republika.co.id/berita/smtztm483/pemimpin-dunia-arab-desak-genosida-dihentikan-aksi-nyata-atau-omonomon"
+    },
+    {
+        "title": "Wamenkop: Koperasi Bagian Penting Pertahanan Negara",
+        "category": "Ekonomi",
+        "publish_time": "12-11-2024 09:31",
+        "news_link": "https://ekonomi.republika.co.id/berita/smtzsp349/wamenkop-koperasi-bagian-penting-pertahanan-negara"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok Kota Makassar dan Sekitar: Waspadai Hujan Ringan pada Siang Hari",
+        "category": "News",
+        "publish_time": "12-11-2024 09:31",
+        "news_link": "https://news.republika.co.id/berita/smtzs91740969793/prakiraan-cuaca-besok-kota-makassar-dan-sekitar-waspadai-hujan-ringan-pada-siang-hari"
+    },
+    {
+        "title": "Rupiah Terancam Kebijakan Trump",
+        "category": "Ekonomi",
+        "publish_time": "12-11-2024 09:25",
+        "news_link": "https://ekonomi.republika.co.id/berita/smtzhs416/rupiah-terancam-kebijakan-trump"
+    },
+    {
+        "title": "Siber Bareskrim Polri Kembali Blokir Aset Sebesar Rp 36,8 Miliar Terkait Situs Judi Online",
+        "category": "News",
+        "publish_time": "12-11-2024 09:25",
+        "news_link": "https://news.republika.co.id/berita/smtzho490/siber-bareskrim-polri-kembali-blokir-aset-sebesar-rp-368-miliar-terkait-situs-judi-online"
+    },
+    {
+        "title": "Bea Cukai Lepas Ekspor Perdana Produk Sambal Indonesia ke Pasar Asia",
+        "category": "Beacukai",
+        "publish_time": "12-11-2024 09:20",
+        "news_link": "https://republika.co.id/berita/smtza3370/bea-cukai-lepas-ekspor-perdana-produk-sambal-indonesia-ke-pasar-asia"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok Kota Medan dan Sekitarnya: Cerah Berawan",
+        "category": "News",
+        "publish_time": "12-11-2024 09:19",
+        "news_link": "https://news.republika.co.id/berita/smtz861863891011/prakiraan-cuaca-besok-kota-medan-dan-sekitarnya-cerah-berawan"
+    },
+    {
+        "title": "Warga: 20 Tahun Kebanjiran, Kang DS Berhasil Selesaikan Banjir Rancaekek Dalam 100 Hari",
+        "category": "Rejabar",
+        "publish_time": "12-11-2024 09:15",
+        "news_link": "https://rejabar.republika.co.id/berita/smtz26370/warga-20-tahun-kebanjiran-kang-ds-berhasil-selesaikan-banjir-rancaekek-dalam-100-hari"
+    },
+    {
+        "title": "Gedung Putih Ungkap Trump akan Tarik AS dari Perjanjian Paris",
+        "category": "Esgnow",
+        "publish_time": "12-11-2024 09:15",
+        "news_link": "https://esgnow.republika.co.id/berita/smtz1d416/gedung-putih-ungkap-trump-akan-tarik-as-dari-perjanjian-paris"
+    },
+    {
+        "title": "Murkanya UAS Terhadap Pembakar Hutan di Riau dan Kalimantan",
+        "category": "Khazanah",
+        "publish_time": "12-11-2024 09:15",
+        "news_link": "https://khazanah.republika.co.id/berita/smtilk483/murkanya-uas-terhadap-pembakar-hutan-di-riau-dan-kalimantan"
+    },
+    {
         "title": "Respons Tersangka Judi Online Inisial T yang Disebut Budi Arie, Pramono: Saya tidak Kenal",
         "category": "News",
-        "publish_time": "12-11-2024 09:11",
+        "publish_time": "12-11-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/smtyuk409/respons-tersangka-judi-online-inisial-t-yang-disebut-budi-arie-pramono-saya-tidak-kenal"
     },
     {
         "title": "Sebanyak 1.836 Anak di Jakarta Terpapar Judi Online, Terbanyak di Daerah Ini",
         "category": "News",
-        "publish_time": "12-11-2024 09:07",
+        "publish_time": "12-11-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/smtyp9487/sebanyak-1836-anak-di-jakarta-terpapar-judi-online-terbanyak-di-daerah-ini"
     },
     {
         "title": "Selai Ganja Beredar di Yogyakarta, Dimakan dengan Roti Tawar",
         "category": "Rejogja",
-        "publish_time": "12-11-2024 09:07",
+        "publish_time": "12-11-2024 09:13",
         "news_link": "https://rejogja.republika.co.id/berita/smtyo3282/selai-ganja-beredar-di-yogyakarta-dimakan-dengan-roti-tawar"
     },
     {
         "title": "BEI Luncurkan Single Stock Futures untuk Tingkatkan Pendalaman Pasar",
         "category": "Ekonomi",
-        "publish_time": "12-11-2024 09:04",
+        "publish_time": "12-11-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/smtyk9370/bei-luncurkan-single-stock-futures-untuk-tingkatkan-pendalaman-pasar"
     },
     {
         "title": "Ini Alasan Kesepakatan Prabowo-Xi soal Laut Cina Selatan Tuai Pro-Kontra",
         "category": "News",
-        "publish_time": "12-11-2024 08:55",
+        "publish_time": "12-11-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/smty54393/ini-alasan-kesepakatan-prabowoxi-soal-laut-cina-selatan-tuai-prokontra"
     },
     {
         "title": "Prakiraan Cuaca Besok di Kota Surabaya dan Sekitarnya: Udara Kabur, Sedikit Berawan",
         "category": "News",
-        "publish_time": "12-11-2024 08:49",
+        "publish_time": "12-11-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/smtxu11878359211/prakiraan-cuaca-besok-di-kota-surabaya-dan-sekitarnya-udara-kabur-sedikit-berawan"
     },
     {
         "title": "Berdakwah di Thailand, Kiai Cholil: Ekonomi Syariah Lebih Akomodatif",
         "category": "Khazanah",
-        "publish_time": "12-11-2024 08:44",
+        "publish_time": "12-11-2024 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/smtxlf451/berdakwah-di-thailand-kiai-cholil-ekonomi-syariah-lebih-akomodatif"
     },
     {
         "title": "Menkomdigi: Cilincing Wilayah Pemain Judi Online Tertinggi di Jakarta",
         "category": "Rejabar",
-        "publish_time": "12-11-2024 08:37",
+        "publish_time": "12-11-2024 08:13",
         "news_link": "https://rejabar.republika.co.id/berita/smtxas282/menkomdigi-cilincing-wilayah-pemain-judi-online-tertinggi-di-jakarta"
     },
     {
         "title": "Prabowo and Xi Jinping Agreement on South China Sea to Prevent Tensions",
         "category": "En",
-        "publish_time": "36 minutes ago",
+        "publish_time": "2 hours ago",
         "news_link": "https://en.republika.co.id/berita/smtxa0415/prabowo-and-xi-jinping-agreement-on-south-china-sea-to-prevent-tensions"
     },
     {
         "title": "Jalankan Amanat UU, BAPENDA Banten Siap Pungut Pajak Alat Berat",
         "category": "News",
-        "publish_time": "12-11-2024 08:32",
+        "publish_time": "12-11-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/smtx2v490/jalankan-amanat-uu-bapenda-banten-siap-pungut-pajak-alat-berat"
     },
     {
         "title": "Prakiraan Cuaca Besok 13 November 2024: Kota Yogyakarta Cerah",
         "category": "News",
-        "publish_time": "12-11-2024 08:31",
+        "publish_time": "12-11-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/smtx02335767299/prakiraan-cuaca-besok-13-november-2024-kota-yogyakarta-cerah"
     },
     {
         "title": "Menko Pangan Tegaskan Industri Harus Serap Susu Dalam Negeri, Baru Boleh Impor",
         "category": "Ekonomi",
-        "publish_time": "12-11-2024 08:25",
+        "publish_time": "12-11-2024 08:13",
         "news_link": "https://ekonomi.republika.co.id/berita/smtwqa490/menko-pangan-tegaskan-industri-harus-serap-susu-dalam-negeri-baru-boleh-impor"
     },
     {
         "title": "Chery TIGGO 8 Sudah Terjual Lebih dari 800 Unit,  Ini Penyebabnya",
         "category": "Network",
-        "publish_time": "12-11-2024 08:22",
+        "publish_time": "12-11-2024 08:13",
         "news_link": "https://motoresto.id/posts/487082/chery-tiggo-8-sudah-terjual-lebih-dari-800-unit-ini-penyebabnya"
     },
     {
         "title": "Si Paling Mahir, Cita-Cita Anak Yang Kerap Berbeda dengan Harapan Orangtua",
         "category": "Network",
-        "publish_time": "12-11-2024 08:22",
+        "publish_time": "12-11-2024 08:13",
         "news_link": "https://filmusiku.com/posts/487099/si-paling-mahir-cita-cita-anak-yang-kerap-berbeda-dengan-harapan-orangtua"
     },
     {
         "title": "Sabar dan Shalat, Solusi Ampuh Mengatasi Musibah",
         "category": "Network",
-        "publish_time": "12-11-2024 08:21",
+        "publish_time": "12-11-2024 08:13",
         "news_link": "https://sumatralink.id/posts/487122/sabar-dan-shalat-solusi-ampuh-mengatasi-musibah"
     },
     {
         "title": "Mabes TNI: Prajurit Terlibat dalam Penyerangan Warga Bakal Disanksi",
         "category": "News",
-        "publish_time": "12-11-2024 08:18",
+        "publish_time": "12-11-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/smtweb377/mabes-tni-prajurit-terlibat-dalam-penyerangan-warga-bakal-disanksi"
     },
     {
@@ -124,179 +298,5 @@
         "category": "Rejabar",
         "publish_time": "12-11-2024 08:13",
         "news_link": "https://rejabar.republika.co.id/berita/smtvr4512/polisi-sebut-ini-kondisi-sopir-truk-yang-terlibat-kecelakaan-beruntun-di-km-92-cipularang"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok 13 November 2024 untuk Tangerang dan Sekitarnya: Hujan Ringan",
-        "category": "News",
-        "publish_time": "12-11-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/smtvkm201076629/prakiraan-cuaca-besok-13-november-2024-untuk-tangerang-dan-sekitarnya-hujan-ringan"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok 13 November 2024 untuk Bandung dan Sekitarnya: Hujan di Kota Cimahi",
-        "category": "News",
-        "publish_time": "12-11-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/smtvaf69206017/prakiraan-cuaca-besok-13-november-2024-untuk-bandung-dan-sekitarnya-hujan-di-kota-cimahi"
-    },
-    {
-        "title": "Sayuri Bersaudara Siap Teruskan Nama Baik Papua di Timnas Indonesia",
-        "category": "News",
-        "publish_time": "12-11-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/smtv9h348/sayuri-bersaudara-siap-teruskan-nama-baik-papua-di-timnas-indonesia"
-    },
-    {
-        "title": "Dikira Lampu Meledak, Pemilik Rumah di Tangsel Diduga Kena Peluru Nyasar",
-        "category": "News",
-        "publish_time": "12-11-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/smtv3p366/dikira-lampu-meledak-pemilik-rumah-di-tangsel-diduga-kena-peluru-nyasar"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok, 13 November 2024: Hujan Ringan di Jakarta Barat",
-        "category": "News",
-        "publish_time": "12-11-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/smtv0h478907518/prakiraan-cuaca-besok-13-november-2024-hujan-ringan-di-jakarta-barat"
-    },
-    {
-        "title": "Ini Penyebab Petani Kerap Terlambat Dapat Pupuk Subsidi dari Pemerintah",
-        "category": "Ekonomi",
-        "publish_time": "12-11-2024 08:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/smtuxa490/ini-penyebab-petani-kerap-terlambat-dapat-pupuk-subsidi-dari-pemerintah"
-    },
-    {
-        "title": "Musim Hujan, Majalengka Petakan Daerah Rawan Bencana",
-        "category": "Rejabar",
-        "publish_time": "12-11-2024 08:13",
-        "news_link": "https://rejabar.republika.co.id/berita/smtuv7512/musim-hujan-majalengka-petakan-daerah-rawan-bencana"
-    },
-    {
-        "title": "KSAL: Kesepakatan Prabowo dan Xi Jinping Soal Laut China Selatan untuk Cegah Ketegangan",
-        "category": "News",
-        "publish_time": "12-11-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/smtufr409/ksal-kesepakatan-prabowo-dan-xi-jinping-soal-laut-china-selatan-untuk-cegah-ketegangan"
-    },
-    {
-        "title": "Prabowo Turun Tangan Menangkan Ahmad Luthfi, Pengamat: Dinamika Pilgub Jateng Ketat",
-        "category": "News",
-        "publish_time": "12-11-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/smtudv377/prabowo-turun-tangan-menangkan-ahmad-luthfi-pengamat-dinamika-pilgub-jateng-ketat"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok di Bekasi dan Sekitarnya: Hujan Sedang pada Siang Hari",
-        "category": "News",
-        "publish_time": "12-11-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/smtu6f110349446/prakiraan-cuaca-besok-di-bekasi-dan-sekitarnya-hujan-sedang-pada-siang-hari"
-    },
-    {
-        "title": "Tekan Peternak Lokal, 80 Persen Konsumsi Susu Berasal dari Impor dan Bebas Bea Masuk",
-        "category": "Ekonomi",
-        "publish_time": "12-11-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/smtu5v490/tekan-peternak-lokal-80-persen-konsumsi-susu-berasal-dari-impor-dan-bebas-bea-masuk"
-    },
-    {
-        "title": "Unggah Karakter Pelanggar Lalu Lintas Berpeci dan Berjenggot, Akun IG TMC Polda Dikritik",
-        "category": "Khazanah",
-        "publish_time": "12-11-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/smtu2z483/unggah-karakter-pelanggar-lalu-lintas-berpeci-dan-berjenggot-akun-ig-tmc-polda-dikritik"
-    },
-    {
-        "title": "Dari Cibubur ke Rinjani, Kibarkan Semangat untuk Palestina",
-        "category": "Khazanah",
-        "publish_time": "12-11-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/smtgkt483/dari-cibubur-ke-rinjani-kibarkan-semangat-untuk-palestina"
-    },
-    {
-        "title": "Polisi Sebut Sopir Truk Terlibat Kecelakaan Tol Cipularang Belum Bisa Dimintai Keterangan",
-        "category": "News",
-        "publish_time": "12-11-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/smttz9377/polisi-sebut-sopir-truk-terlibat-kecelakaan-tol-cipularang-belum-bisa-dimintai-keterangan"
-    },
-    {
-        "title": "POP MART Hadirkan Labubu Edisi Terbaru Secara Online Spesial Hanya di Shopee!",
-        "category": "Ekonomi",
-        "publish_time": "12-11-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/smtnhf423/pop-mart-hadirkan-labubu-edisi-terbaru-secara-online-spesial-hanya-di-shopee"
-    },
-    {
-        "title": "Antisipasi Perundungan, Guru Disarankan Lebih Terbuka Terhadap Siswa",
-        "category": "Ameera",
-        "publish_time": "12-11-2024 07:13",
-        "news_link": "https://ameera.republika.co.id/berita/smttto425/antisipasi-perundungan-guru-disarankan-lebih-terbuka-terhadap-siswa"
-    },
-    {
-        "title": "Penyanyi Korea IU Gugat 180 Orang atas Kasus Kekerasan Online",
-        "category": "Ameera",
-        "publish_time": "12-11-2024 07:13",
-        "news_link": "https://ameera.republika.co.id/berita/smtt5e425/penyanyi-korea-iu-gugat-180-orang-atas-kasus-kekerasan-online"
-    },
-    {
-        "title": "Pedagang di Bandung Jual Minyakita Palsu, Isinya Minyak Curah",
-        "category": "Rejabar",
-        "publish_time": "12-11-2024 07:13",
-        "news_link": "https://rejabar.republika.co.id/berita/smtsy5512/pedagang-di-bandung-jual-minyakita-palsu-isinya-minyak-curah"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok Bogor dan Sekitarnya: Berawan dan Hujan Ringan",
-        "category": "News",
-        "publish_time": "12-11-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/smtssk1031353148/prakiraan-cuaca-besok-bogor-dan-sekitarnya-berawan-dan-hujan-ringan"
-    },
-    {
-        "title": "Proyek Penyerapan Karbon di Indonesia jadi Incaran Perusahan Energi Raksasa",
-        "category": "Video",
-        "publish_time": "12-11-2024 07:13",
-        "news_link": "https://tv.republika.co.id/berita/smtsch418/proyek-penyerapan-karbon-di-indonesia-jadi-incaran-perusahan-energi-raksasa"
-    },
-    {
-        "title": "DPR Minta MA Bentuk Tim Ungkap Dugaan Uang Suap Hakim Rp 922 Miliar",
-        "category": "News",
-        "publish_time": "12-11-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/smts50318/dpr-minta-ma-bentuk-tim-ungkap-dugaan-uang-suap-hakim-rp-922-miliar"
-    },
-    {
-        "title": "Vale Indonesia Tekankan Dekarbonisasi dan Inovasi Berkelanjutan di COP29",
-        "category": "Esgnow",
-        "publish_time": "12-11-2024 06:13",
-        "news_link": "https://esgnow.republika.co.id/berita/smtrws416/vale-indonesia-tekankan-dekarbonisasi-dan-inovasi-berkelanjutan-di-cop29"
-    },
-    {
-        "title": "Polisi Ungkap Kronologi Kecelakaan Beruntun KM 92 Tol Cipularang, Berikut 30 Nama Korban",
-        "category": "Rejabar",
-        "publish_time": "12-11-2024 06:13",
-        "news_link": "https://rejabar.republika.co.id/berita/smtrhk512/polisi-ungkap-kronologi-kecelakaan-beruntun-km-92-tol-cipularang-berikut-30-nama-korban"
-    },
-    {
-        "title": "Agensi Ini Dituduh Minta Calon Idol K-Pop Kirimkan Foto Celana Dalam Sebelum Debut",
-        "category": "Ameera",
-        "publish_time": "12-11-2024 06:13",
-        "news_link": "https://ameera.republika.co.id/berita/smtrff425/agensi-ini-dituduh-minta-calon-idol-kpop-kirimkan-foto-celana-dalam-sebelum-debut"
-    },
-    {
-        "title": "Mees Hilgers Dipastikan Absen Lawan Jepang, Arya Sinulingga: Tak Diizinkan Dokter",
-        "category": "News",
-        "publish_time": "12-11-2024 06:13",
-        "news_link": "https://news.republika.co.id/berita/smtrex348/mees-hilgers-dipastikan-absen-lawan-jepang-arya-sinulingga-tak-diizinkan-dokter"
-    },
-    {
-        "title": "Percepat Transisi Energi Berkelanjutan, Pertamina Perkuat Bisnis Rendah Karbon",
-        "category": "Esgnow",
-        "publish_time": "12-11-2024 06:13",
-        "news_link": "https://esgnow.republika.co.id/berita/smtqtu416/percepat-transisi-energi-berkelanjutan-pertamina-perkuat-bisnis-rendah-karbon"
-    },
-    {
-        "title": "Mau Hidup Sehat? Coba Tips Simpel Ini!",
-        "category": "Ameera",
-        "publish_time": "12-11-2024 06:13",
-        "news_link": "https://ameera.republika.co.id/berita/smtqh2425/mau-hidup-sehat-coba-tips-simpel-ini"
-    },
-    {
-        "title": "Bos OJK Yakin Fintech Turut Dorong Target Pertumbuhan Ekonomi 8 Persen",
-        "category": "Ekonomi",
-        "publish_time": "12-11-2024 06:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/smtqej490/bos-ojk-yakin-fintech-turut-dorong-target-pertumbuhan-ekonomi-8-persen"
-    },
-    {
-        "title": "Rizky Ridho: Jangan Bandingkan Saya dengan Jay Idzes",
-        "category": "News",
-        "publish_time": "12-11-2024 06:13",
-        "news_link": "https://news.republika.co.id/berita/smtpwk348/rizky-ridho-jangan-bandingkan-saya-dengan-jay-idzes"
     }
 ]
