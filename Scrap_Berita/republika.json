@@ -1,74 +1,152 @@
 [
     {
+        "title": "Gempa Bumi Magnitudo 5,2 Guncang Pangandaran Terasa Hingga Bandung",
+        "category": "News",
+        "publish_time": "13-11-2024 03:15",
+        "news_link": "https://news.republika.co.id/berita/smvd1x487/gempa-bumi-magnitudo-52-guncang-pangandaran-terasa-hingga-bandung"
+    },
+    {
+        "title": "Elon Musk Ungkap Alasan AS Butuh Departemen Efisiensi, Singgung Utang Menggunung Tinggi",
+        "category": "News",
+        "publish_time": "13-11-2024 03:12",
+        "news_link": "https://news.republika.co.id/berita/smvcvx377/elon-musk-ungkap-alasan-as-butuh-departemen-efisiensi-singgung-utang-menggunung-tinggi"
+    },
+    {
+        "title": "Mengonsumsi Lemak Sehat Bisa Membantu Menangkal Berbagai Jenis Kanker",
+        "category": "Network",
+        "publish_time": "13-11-2024 03:04",
+        "news_link": "https://impresiupdate.id/posts/487264/mengonsumsi-lemak-sehat-bisa-membantu-menangkal-berbagai-jenis-kanker"
+    },
+    {
+        "title": "Penelitian Temukan Cara Baru Mengobati Penyakit Jantung",
+        "category": "Network",
+        "publish_time": "13-11-2024 03:04",
+        "news_link": "https://impresiupdate.id/posts/487266/penelitian-temukan-cara-baru-mengobati-penyakit-jantung"
+    },
+    {
+        "title": "BNPB Catat Penambahan Pengungsi Dampak Erupsi Gunung Lewotobi Laki-Laki di Flores Timur",
+        "category": "Network",
+        "publish_time": "13-11-2024 03:04",
+        "news_link": "https://topnews62.com/posts/487267/bnpb-catat-penambahan-pengungsi-dampak-erupsi-gunung-lewotobi-laki-laki-di-flores-timur"
+    },
+    {
+        "title": "Hasil Studi: Makan Segenggam Kacang Setiap Hari Bisa Menurunkan Risiko Demensia",
+        "category": "Network",
+        "publish_time": "13-11-2024 03:04",
+        "news_link": "https://impresiupdate.id/posts/487269/hasil-studi-makan-segenggam-kacang-setiap-hari-bisa-menurunkan-risiko-demensia"
+    },
+    {
+        "title": "Pakar Imunologi Unair Ungkap Penyebab Lonjakan Kasus HIV/ AIDS pada Usia Produktif",
+        "category": "Network",
+        "publish_time": "13-11-2024 03:03",
+        "news_link": "https://sekitarsurabaya.com/posts/487270/pakar-imunologi-unair-ungkap-penyebab-lonjakan-kasus-hiv-aids-pada-usia-produktif"
+    },
+    {
+        "title": "Afsel: Bukti Tunjukkan Israel Pakai Kelaparan Sebagai Senjata di Gaza",
+        "category": "Khazanah",
+        "publish_time": "13-11-2024 03:00",
+        "news_link": "https://khazanah.republika.co.id/berita/smv7z0451/afsel-bukti-tunjukkan-israel-pakai-kelaparan-sebagai-senjata-di-gaza"
+    },
+    {
+        "title": "Kolaborasi Kunci Pelestarian Wilayah Pesisir dan Laut",
+        "category": "Esgnow",
+        "publish_time": "13-11-2024 02:56",
+        "news_link": "https://esgnow.republika.co.id/berita/smvc5j416/kolaborasi-kunci-pelestarian-wilayah-pesisir-dan-laut"
+    },
+    {
+        "title": "Fenomena Childfree Melonjak, Bagaimana Dampaknya di Masa Depan?",
+        "category": "News",
+        "publish_time": "13-11-2024 02:53",
+        "news_link": "https://news.republika.co.id/berita/smvc0q393/fenomena-childfree-melonjak-bagaimana-dampaknya-di-masa-depan"
+    },
+    {
+        "title": "Kemenag Tetapkan 40 Siswa Madrasah Jadi Duta Moderasi Beragama",
+        "category": "Khazanah",
+        "publish_time": "13-11-2024 02:30",
+        "news_link": "https://khazanah.republika.co.id/berita/smv7om451/kemenag-tetapkan-40-siswa-madrasah-jadi-duta-moderasi-beragama"
+    },
+    {
+        "title": "Review Film Gladiator II: Makin Gereget dengan Aksi Penuh Darah",
+        "category": "Ameera",
+        "publish_time": "13-11-2024 02:21",
+        "news_link": "https://ameera.republika.co.id/berita/smvajg425/review-film-gladiator-ii-makin-gereget-dengan-aksi-penuh-darah"
+    },
+    {
+        "title": "Dampak Perubahan Iklim, Guterres: Orang Kaya Bikin Masalah, Orang Miskin yang Bayar",
+        "category": "Esgnow",
+        "publish_time": "13-11-2024 02:19",
+        "news_link": "https://esgnow.republika.co.id/berita/smvagc366/dampak-perubahan-iklim-guterres-orang-kaya-bikin-masalah-orang-miskin-yang-bayar"
+    },
+    {
         "title": "Elon Musk Dapat Jabatan dari Presiden Terpilih AS Donald Trump, Ini Tugasnya",
         "category": "News",
-        "publish_time": "13-11-2024 02:04",
+        "publish_time": "13-11-2024 02:17",
         "news_link": "https://news.republika.co.id/berita/smv9sy377/elon-musk-dapat-jabatan-dari-presiden-terpilih-as-donald-trump-ini-tugasnya"
     },
     {
         "title": "Self-Esteem dan Self-Worth: Mengapa Keduanya Penting untuk Kebahagiaan Kita",
         "category": "Retizen",
-        "publish_time": "13-11-2024 02:01",
+        "publish_time": "13-11-2024 02:17",
         "news_link": "https://retizen.republika.co.id/posts/487242/self-esteem-dan-self-worth-mengapa-keduanya-penting-untuk-kebahagiaan-kita"
     },
     {
         "title": "Deep Learning dalam Base Building Pendidikan Islam",
         "category": "Retizen",
-        "publish_time": "13-11-2024 02:01",
+        "publish_time": "13-11-2024 02:17",
         "news_link": "https://retizen.republika.co.id/posts/487241/deep-learning-dalam-base-building-pendidikan-islam"
     },
     {
         "title": "Wisata Edukasi Ke Museum Perumusan Naskah Proklamasi",
         "category": "Retizen",
-        "publish_time": "13-11-2024 02:01",
+        "publish_time": "13-11-2024 02:17",
         "news_link": "https://retizen.republika.co.id/posts/487245/wisata-edukasi-ke-museum-perumusan-naskah-proklamasi"
     },
     {
         "title": "Ini Biang Kerok Anak Jadi Pengemis di Jalanan",
         "category": "News",
-        "publish_time": "13-11-2024 01:59",
+        "publish_time": "13-11-2024 02:17",
         "news_link": "https://news.republika.co.id/berita/smuz8z451/ini-biang-kerok-anak-jadi-pengemis-di-jalanan"
     },
     {
         "title": "Cara Selamatkan Anak Tenggelam, Jangan Lakukan Ini Agar tak Ikut Tenggelam",
         "category": "Ameera",
-        "publish_time": "13-11-2024 01:54",
+        "publish_time": "13-11-2024 02:17",
         "news_link": "https://ameera.republika.co.id/berita/smv9ch425/cara-selamatkan-anak-tenggelam-jangan-lakukan-ini-agar-tak-ikut-tenggelam"
     },
     {
         "title": "Ini Motif di Balik Pembunuhan Wanita Hamil di Palembang",
         "category": "News",
-        "publish_time": "13-11-2024 01:52",
+        "publish_time": "13-11-2024 02:17",
         "news_link": "https://news.republika.co.id/berita/smv98f377/ini-motif-di-balik-pembunuhan-wanita-hamil-di-palembang"
     },
     {
         "title": "Santer Terdengar 2.500 Karyawan Sritex di-PHK, Ini Fakta Sebenarnya Menurut Manajemen",
         "category": "News",
-        "publish_time": "13-11-2024 01:41",
+        "publish_time": "13-11-2024 01:17",
         "news_link": "https://news.republika.co.id/berita/smv8qk377/santer-terdengar-2500-karyawan-sritex-diphk-ini-fakta-sebenarnya-menurut-manajemen"
     },
     {
         "title": "Gara-Gara Cekcok, Nyawa Seorang Pemuda Warga Andir Bandung Melayang",
         "category": "Rejabar",
-        "publish_time": "13-11-2024 01:34",
+        "publish_time": "13-11-2024 01:17",
         "news_link": "https://rejabar.republika.co.id/berita/smv8ev512/garagara-cekcok-nyawa-seorang-pemuda-warga-andir-bandung-melayang"
     },
     {
         "title": "Pandemi Buktikan Co-Living Lebih Tangguh dari Hotel, Ini Dia Potensinya",
         "category": "Ekonomi",
-        "publish_time": "13-11-2024 01:29",
+        "publish_time": "13-11-2024 01:17",
         "news_link": "https://ekonomi.republika.co.id/berita/smv7pv423/pandemi-buktikan-coliving-lebih-tangguh-dari-hotel-ini-dia-potensinya"
     },
     {
         "title": "Sopir Truk Kecelakaan Beruntun KM 92 Dibawa ke Polres Purwakarta untuk Diinterogasi",
         "category": "Rejabar",
-        "publish_time": "13-11-2024 01:25",
+        "publish_time": "13-11-2024 01:17",
         "news_link": "https://rejabar.republika.co.id/berita/smv7yo512/sopir-truk-kecelakaan-beruntun-km-92-dibawa-ke-polres-purwakarta-untuk-diinterogasi"
     },
     {
         "title": "Anak Terlalu Gemuk atau Kurus Berisiko Alami Gangguan Paru",
         "category": "Ameera",
-        "publish_time": "13-11-2024 01:20",
+        "publish_time": "13-11-2024 01:17",
         "news_link": "https://ameera.republika.co.id/berita/smv7qg425/anak-terlalu-gemuk-atau-kurus-berisiko-alami-gangguan-paru"
     },
     {
@@ -158,7 +236,7 @@
     {
         "title": "UGM Raih Prestasi Internasional pada Ajang Kompetisi Chem-E-Car di AS, Diikuti 51 Kompetitor",
         "category": "Network",
-        "publish_time": "13-11-2024 00:17",
+        "publish_time": "13-11-2024 01:17",
         "news_link": "https://magentatoday.id/posts/487126/ugm-raih-prestasi-internasional-pada-ajang-kompetisi-chem-e-car-di-as-diikuti-51-kompetitor"
     },
     {
@@ -220,83 +298,5 @@
         "category": "Rejabar",
         "publish_time": "13-11-2024 00:17",
         "news_link": "https://rejabar.republika.co.id/berita/smv480423/usai-nonton-debat-putri-karlina-kdm-figur-pemimpin-berpengalaman"
-    },
-    {
-        "title": "Apa yang Dilakukan Jika Tertinggal Tasyahud Awal?",
-        "category": "Network",
-        "publish_time": "13-11-2024 00:17",
-        "news_link": "https://sajada.id/posts/487225/apa-yang-dilakukan-jika-tertinggal-tasyahud-awal-"
-    },
-    {
-        "title": "10 Universitas Terbaik di Asia Tenggara Versi QS WUR 2025, Ada dari Indonesia ?",
-        "category": "Network",
-        "publish_time": "13-11-2024 00:17",
-        "news_link": "https://kampus.republika.co.id/posts/487232/10-universitas-terbaik-di-asia-tenggara-versi-qs-wur-2025-ada-dari-indonesia"
-    },
-    {
-        "title": "Lulusan Terbaik Akpol 1989 Komjen Pol Ahmad Dofiri Diangkat Jadi Wakapolri",
-        "category": "Network",
-        "publish_time": "13-11-2024 00:17",
-        "news_link": "https://cari.republika.co.id/posts/487229/lulusan-terbaik-akpol-1989-komjen-pol-ahmad-dofiri-diangkat-jadi-wakapolri"
-    },
-    {
-        "title": "IPNU Jawa Timur Kirim Pemuda untuk Pengabdian Masyarakat di Pulau Bawean",
-        "category": "Khazanah",
-        "publish_time": "13-11-2024 00:17",
-        "news_link": "https://khazanah.republika.co.id/berita/smuyt0451/ipnu-jawa-timur-kirim-pemuda-untuk-pengabdian-masyarakat-di-pulau-bawean"
-    },
-    {
-        "title": "Gereja Inggris Diguncang Skandal Pelecahan, Uskup Agung Mundur",
-        "category": "News",
-        "publish_time": "12-11-2024 23:17",
-        "news_link": "https://news.republika.co.id/berita/smv3dk393/gereja-inggris-diguncang-skandal-pelecahan-uskup-agung-mundur"
-    },
-    {
-        "title": "Dikemanakan Sebaiknya Uang Takziyah?",
-        "category": "Khazanah",
-        "publish_time": "12-11-2024 23:17",
-        "news_link": "https://khazanah.republika.co.id/berita/smv2rb430/dikemanakan-sebaiknya-uang-takziyah"
-    },
-    {
-        "title": "Menanti Ancaman Sanksi AS untuk Israel",
-        "category": "News",
-        "publish_time": "12-11-2024 23:17",
-        "news_link": "https://www.republika.id/posts/55520/menanti-ancaman-sanksi-as-untuk-israel"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini: Berawan dan Hujan Ringan di Kota Palembang dan Sekitarnya 13 November 2024",
-        "category": "News",
-        "publish_time": "12-11-2024 23:17",
-        "news_link": "https://news.republika.co.id/berita/smv244537802260/prakiraan-cuaca-hari-ini-berawan-dan-hujan-ringan-di-kota-palembang-dan-sekitarnya-13-november-2024"
-    },
-    {
-        "title": "Seperti di Gaza, Anak-Anak Juga Jadi Korban Israel di Lebanon",
-        "category": "News",
-        "publish_time": "12-11-2024 23:17",
-        "news_link": "https://www.republika.id/posts/55521/seperti-di-gaza-anak-anak-juga-jadi-korban-israel-di-lebanon"
-    },
-    {
-        "title": "Ikhtiar Melacak Jejak 'Titik Ba': Dari Sayidina Ali, Menteri Agama Hingga Gus Baha",
-        "category": "Khazanah",
-        "publish_time": "12-11-2024 23:17",
-        "news_link": "https://www.republika.id/posts/55524/ikhtiar-melacak-jejak-titik-ba-dari-sayidina-ali-menteri-agama-hingga-gus-baha"
-    },
-    {
-        "title": "Pekan Mematikan Tentara Israel di Bulan November, 24 Tentara Tewas Dibunuh Pejuang",
-        "category": "Khazanah",
-        "publish_time": "12-11-2024 23:17",
-        "news_link": "https://khazanah.republika.co.id/berita/smv1or483/pekan-mematikan-tentara-israel-di-bulan-november-24-tentara-tewas-dibunuh-pejuang"
-    },
-    {
-        "title": "Siap Kobarkan Perang, Netanyahu Ancam akan Serang Ladang Minyak Iran",
-        "category": "News",
-        "publish_time": "12-11-2024 23:17",
-        "news_link": "https://news.republika.co.id/berita/smv1cp377/siap-kobarkan-perang-netanyahu-ancam-akan-serang-ladang-minyak-iran"
-    },
-    {
-        "title": "Kemenhan: Kemitraan RI-Jepang Jaga Stabilitas Kawasan",
-        "category": "News",
-        "publish_time": "12-11-2024 23:17",
-        "news_link": "https://news.republika.co.id/berita/smuyn2451/kemenhan-kemitraan-rijepang-jaga-stabilitas-kawasan"
     }
 ]
