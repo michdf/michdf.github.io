@@ -1,140 +1,278 @@
 [
     {
+        "title": "Tekan Emisi, Indonesia Genjot Penggunaan Biofuel",
+        "category": "Esgnow",
+        "publish_time": "14-11-2024 10:10",
+        "news_link": "https://esgnow.republika.co.id/berita/smxqyu416/tekan-emisi-indonesia-genjot-penggunaan-biofuel"
+    },
+    {
+        "title": "Kala DPR Cecar Jaksa Agung dan 'Bela' Tom Lembong, Opsi SP3 Pun Disebut",
+        "category": "News",
+        "publish_time": "14-11-2024 10:09",
+        "news_link": "https://news.republika.co.id/berita/smxqvk409/kala-dpr-cecar-jaksa-agung-dan-bela-tom-lembong-opsi-sp3-pun-disebut"
+    },
+    {
+        "title": "Profil Syekh Ahmad Yasin, Sang Pejuang Palestina di Atas Kursi Roda",
+        "category": "Khazanah",
+        "publish_time": "14-11-2024 10:05",
+        "news_link": "https://khazanah.republika.co.id/berita/smxqq9458/profil-syekh-ahmad-yasin-sang-pejuang-palestina-di-atas-kursi-roda"
+    },
+    {
+        "title": "Mengenal Program Tabungan Hari Tua yang Dikelola TASPEN untuk Seluruh Abdi Negara",
+        "category": "Ekonomi",
+        "publish_time": "14-11-2024 10:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/smxqpz370/mengenal-program-tabungan-hari-tua-yang-dikelola-taspen-untuk-seluruh-abdi-negara"
+    },
+    {
+        "title": "Inilah Fitur Wajib Mobil Kepresidenan, Ada Apa Saja?",
+        "category": "Network",
+        "publish_time": "14-11-2024 10:01",
+        "news_link": "https://motoresto.id/posts/487524/inilah-fitur-wajib-mobil-kepresidenan-ada-apa-saja-"
+    },
+    {
+        "title": "Panglima Perang Persia Masuk Islam Usai Menghadap Khalifah Umar",
+        "category": "Khazanah",
+        "publish_time": "14-11-2024 09:58",
+        "news_link": "https://khazanah.republika.co.id/berita/smxqek458/panglima-perang-persia-masuk-islam-usai-menghadap-khalifah-umar"
+    },
+    {
+        "title": "Mandiri Taspen Sediakan Usaha Toko Frozen untuk Pensiunan",
+        "category": "Ekonomi",
+        "publish_time": "14-11-2024 09:57",
+        "news_link": "https://ekonomi.republika.co.id/berita/smxqbj416/mandiri-taspen-sediakan-usaha-toko-frozen-untuk-pensiunan"
+    },
+    {
+        "title": "Masyarakat Negara Berkembang Ternyata Lebih Peduli Perubahan Iklim",
+        "category": "Esgnow",
+        "publish_time": "14-11-2024 09:50",
+        "news_link": "https://esgnow.republika.co.id/berita/smxq1h416/masyarakat-negara-berkembang-ternyata-lebih-peduli-perubahan-iklim"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok: Denpasar Cerah Berawan",
+        "category": "News",
+        "publish_time": "14-11-2024 09:48",
+        "news_link": "https://news.republika.co.id/berita/smxpy3240858506/prakiraan-cuaca-besok-denpasar-cerah-berawan"
+    },
+    {
+        "title": "Doa Para Nabi Diabadikan Dalam Alquran",
+        "category": "Khazanah",
+        "publish_time": "14-11-2024 09:48",
+        "news_link": "https://khazanah.republika.co.id/berita/smxpxh458/doa-para-nabi-diabadikan-dalam-alquran"
+    },
+    {
+        "title": "Pertamina Eco RunFest 2024, Lari untuk Kebermanfaatan Lingkungan, Masyarakat dan UMKM",
+        "category": "Ekonomi",
+        "publish_time": "14-11-2024 09:46",
+        "news_link": "https://ekonomi.republika.co.id/berita/smxpun370/pertamina-eco-runfest-2024-lari-untuk-kebermanfaatan-lingkungan-masyarakat-dan-umkm"
+    },
+    {
+        "title": "Amsterdam Terus Melawan Larangan Demo Pro-Palestina",
+        "category": "News",
+        "publish_time": "14-11-2024 09:45",
+        "news_link": "https://news.republika.co.id/berita/smxps5393/amsterdam-terus-melawan-larangan-demo-propalestina"
+    },
+    {
+        "title": "Perkuat Integritas dan Pengelolaan Risiko untuk Cegah Fraud",
+        "category": "Ekonomi",
+        "publish_time": "14-11-2024 09:34",
+        "news_link": "https://ekonomi.republika.co.id/berita/smxp8s430/perkuat-integritas-dan-pengelolaan-risiko-untuk-cegah-fraud"
+    },
+    {
+        "title": "Kampanye Akbar Pasangan RIDO tak Dihadiri Mayoritas Ketum Partai KIM Plus, Ini Alasannya",
+        "category": "News",
+        "publish_time": "14-11-2024 09:34",
+        "news_link": "https://news.republika.co.id/berita/smxpab409/kampanye-akbar-pasangan-rido-tak-dihadiri-mayoritas-ketum-partai-kim-plus-ini-alasannya"
+    },
+    {
+        "title": "Polisi Gerebek Kebun Ganja di Atap Rumah Warga di Cengkareng",
+        "category": "Rejogja",
+        "publish_time": "14-11-2024 09:32",
+        "news_link": "https://rejogja.republika.co.id/berita/smxp5v282/polisi-gerebek-kebun-ganja-di-atap-rumah-warga-di-cengkareng"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok: Kota Makassar Berawan",
+        "category": "News",
+        "publish_time": "14-11-2024 09:31",
+        "news_link": "https://news.republika.co.id/berita/smxp4f1989154823/prakiraan-cuaca-besok-kota-makassar-berawan"
+    },
+    {
+        "title": "Dompet Dhuafa: Perlu Keterlibatan Para Pemimpin untuk Pemberdayaan Masyarakat",
+        "category": "Khazanah",
+        "publish_time": "14-11-2024 09:30",
+        "news_link": "https://khazanah.republika.co.id/berita/smxp3p458/dompet-dhuafa-perlu-keterlibatan-para-pemimpin-untuk-pemberdayaan-masyarakat"
+    },
+    {
+        "title": "Yang Perlu Diperhatikan Ketika Beli Kosmetik dan Skincare",
+        "category": "Ameera",
+        "publish_time": "14-11-2024 09:25",
+        "news_link": "https://ameera.republika.co.id/berita/smxou9425/yang-perlu-diperhatikan-ketika-beli-kosmetik-dan-skincare"
+    },
+    {
+        "title": "KPU Bantul Sebut Kesiapan Logistik Pilkada Sudah Lengkap di Gudang KPU",
+        "category": "Rejogja",
+        "publish_time": "14-11-2024 09:24",
+        "news_link": "https://rejogja.republika.co.id/berita/smxoto282/kpu-bantul-sebut-kesiapan-logistik-pilkada-sudah-lengkap-di-gudang-kpu"
+    },
+    {
+        "title": "Apa Itu Maritime Single Window dan Kenapa Ditjen Hubla Tekankan Penggunaannya?",
+        "category": "Network",
+        "publish_time": "14-11-2024 09:21",
+        "news_link": "https://shippingcargo.co.id/posts/487509/apa-itu-maritime-single-window-dan-kenapa-ditjen-hubla-tekankan-penggunaannya"
+    },
+    {
+        "title": "Prakiraan Cuaca Kota Medan dan Sekitarnya pada 15 November 2024: Berawan",
+        "category": "News",
+        "publish_time": "14-11-2024 09:19",
+        "news_link": "https://news.republika.co.id/berita/smxokk986420268/prakiraan-cuaca-kota-medan-dan-sekitarnya-pada-15-november-2024-berawan"
+    },
+    {
+        "title": "Ini Bukti-Bukti Muslim Tiba di Benua Amerika Sebelum Columbus",
+        "category": "News",
+        "publish_time": "14-11-2024 09:19",
+        "news_link": "https://news.republika.co.id/berita/smxoke393/ini-buktibukti-muslim-tiba-di-benua-amerika-sebelum-columbus"
+    },
+    {
+        "title": "Industri Rumah Tangga Usaha Mikro di Bandung Mendapatkan Pendampingan Soal Produk Halal",
+        "category": "Rejabar",
+        "publish_time": "14-11-2024 09:18",
+        "news_link": "https://rejabar.republika.co.id/berita/smxoiw512/industri-rumah-tangga-usaha-mikro-di-bandung-mendapatkan-pendampingan-soal-produk-halal"
+    },
+    {
         "title": "Dirjen Bina Pemdes Ajak Semua Pihak Kolaborasi Majukan Desa",
         "category": "Resulawesi",
-        "publish_time": "14-11-2024 09:09",
+        "publish_time": "14-11-2024 09:13",
         "news_link": "https://republika.co.id/berita/smxo46282/dirjen-bina-pemdes-ajak-semua-pihak-kolaborasi-majukan-desa"
     },
     {
         "title": "Fly Over Sei Ladi Masuk Tahap Pengerjaan Struktur Utama",
         "category": "News",
-        "publish_time": "14-11-2024 09:08",
+        "publish_time": "14-11-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/smxo3h370/fly-over-sei-ladi-masuk-tahap-pengerjaan-struktur-utama"
     },
     {
         "title": "Ini Hasil Survei Terbaru Indikator Politik untuk Pilkada Purwakarta",
         "category": "News",
-        "publish_time": "14-11-2024 09:05",
+        "publish_time": "14-11-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/smxnya409/ini-hasil-survei-terbaru-indikator-politik-untuk-pilkada-purwakarta"
     },
     {
-        "title": "Jangan Asal Suntik! Kosmetik Injeksi yang tak Sesuai Bisa Bahayakan Nyawa",
+        "title": "Pakai Kosmetik Injeksi Sembarangan Bisa Bahayakan Nyawa, Jangan Asal Suntik!",
         "category": "Ameera",
-        "publish_time": "14-11-2024 09:04",
-        "news_link": "https://ameera.republika.co.id/berita/smxnwc425/jangan-asal-suntik-kosmetik-injeksi-yang-tak-sesuai-bisa-bahayakan-nyawa"
+        "publish_time": "14-11-2024 09:13",
+        "news_link": "https://ameera.republika.co.id/berita/smxnwc425/pakai-kosmetik-injeksi-sembarangan-bisa-bahayakan-nyawa-jangan-asal-suntik"
     },
     {
         "title": "Rektor UGM Yogyakarta Periode 1998-2002 Meninggal Dunia",
         "category": "Rejogja",
-        "publish_time": "14-11-2024 09:00",
+        "publish_time": "14-11-2024 09:13",
         "news_link": "https://rejogja.republika.co.id/berita/smxnpq282/rektor-ugm-yogyakarta-periode-19982002-meninggal-dunia"
     },
     {
-        "title": "4 Hadits Jadi Pegangan Imam Abu Dawud",
+        "title": "4 Hadis Jadi Pegangan Imam Abu Dawud",
         "category": "Khazanah",
-        "publish_time": "14-11-2024 08:54",
-        "news_link": "https://khazanah.republika.co.id/berita/smxnel458/4-hadits-jadi-pegangan-imam-abu-dawud"
+        "publish_time": "14-11-2024 09:13",
+        "news_link": "https://khazanah.republika.co.id/berita/smxnel458/4-hadis-jadi-pegangan-imam-abu-dawud"
     },
     {
         "title": "Selain Naikkan PPN 12 Persen, Menkeu Juga Kejar Pajak dari Ekonomi Bawah Tanah, Apa Itu?",
         "category": "Ekonomi",
-        "publish_time": "14-11-2024 08:53",
+        "publish_time": "14-11-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/smxndh487/selain-naikkan-ppn-12-persen-menkeu-juga-kejar-pajak-dari-ekonomi-bawah-tanah-apa-itu"
     },
     {
         "title": "Prakiraan Cuaca Besok Tanggal 15 November 2024: Hujan Kota Pacitan dan Sekitarnya",
         "category": "News",
-        "publish_time": "14-11-2024 08:49",
+        "publish_time": "14-11-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/smxn6c1846179802/prakiraan-cuaca-besok-tanggal-15-november-2024-hujan-kota-pacitan-dan-sekitarnya"
     },
     {
         "title": "Prabowo Tanya ke Menlu AS, Bagaimana dengan Palestina, Anda Bisa Lakukan Sesuatu?",
         "category": "News",
-        "publish_time": "14-11-2024 08:44",
+        "publish_time": "14-11-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/smxmyi377/prabowo-tanya-ke-menlu-as-bagaimana-dengan-palestina-anda-bisa-lakukan-sesuatu"
     },
     {
         "title": "Relawan Projo Bela Budi Arie, Ungkap Cacat Logika Somasi Soal TSK Judol Inisial T",
         "category": "News",
-        "publish_time": "14-11-2024 08:36",
+        "publish_time": "14-11-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/smxmkm377/relawan-projo-bela-budi-arie-ungkap-cacat-logika-somasi-soal-tsk-judol-inisial-t"
     },
     {
         "title": "Biden akan Bertemu Xi Jinping di Peru Pekan Ini, Bahas Apa?",
         "category": "News",
-        "publish_time": "14-11-2024 08:32",
+        "publish_time": "14-11-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/smxmed487/biden-akan-bertemu-xi-jinping-di-peru-pekan-ini-bahas-apa"
     },
     {
         "title": "Prakiraan Cuaca Besok 15 November 2024: Kota Yogyakarta Cerah",
         "category": "News",
-        "publish_time": "14-11-2024 08:31",
+        "publish_time": "14-11-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/smxmcb728788113/prakiraan-cuaca-besok-15-november-2024-kota-yogyakarta-cerah"
     },
     {
         "title": "Polda DIY Bakar Ganja Siap Edar yang Disita dari Anak Kos Yogya",
         "category": "Rejogja",
-        "publish_time": "14-11-2024 08:28",
+        "publish_time": "14-11-2024 08:13",
         "news_link": "https://rejogja.republika.co.id/berita/smxm7g282/polda-diy-bakar-ganja-siap-edar-yang-disita-dari-anak-kos-yogya"
     },
     {
         "title": "Fasilitas Ekspor Sementara Dukung TNI AD dalam Kompetisi Menembak di Filipina",
         "category": "Beacukai",
-        "publish_time": "14-11-2024 08:26",
+        "publish_time": "14-11-2024 08:13",
         "news_link": "https://republika.co.id/berita/smxm41370/fasilitas-ekspor-sementara-dukung-tni-ad-dalam-kompetisi-menembak-di-filipina"
     },
     {
         "title": "Government Ensure Hundreds of Tourists Detained in Labuan Bajo Can Access Facilities",
         "category": "En",
-        "publish_time": "49 minutes ago",
+        "publish_time": "2 hours ago",
         "news_link": "https://en.republika.co.id/berita/smxlcy415/government-ensure-hundreds-of-tourists-detained-in-labuan-bajo-can-access-facilities"
     },
     {
         "title": "Halte Terakhir",
         "category": "Retizen",
-        "publish_time": "14-11-2024 08:24",
+        "publish_time": "14-11-2024 08:13",
         "news_link": "https://retizen.republika.co.id/posts/487527/halte-terakhir"
     },
     {
         "title": "Hadist Sebagai Sumber Kedua Setelah Al-Qur'an",
         "category": "Retizen",
-        "publish_time": "14-11-2024 08:24",
+        "publish_time": "14-11-2024 08:13",
         "news_link": "https://retizen.republika.co.id/posts/487521/hadist-sebagai-sumber-kedua-setelah-al-quran"
     },
     {
         "title": "Pengertian dan Sejarah Awal Pasar Malam",
         "category": "Retizen",
-        "publish_time": "14-11-2024 08:23",
+        "publish_time": "14-11-2024 08:13",
         "news_link": "https://retizen.republika.co.id/posts/487539/pengertian-dan-sejarah-awal-pasar-malam"
     },
     {
         "title": "Pemakaman Aktor Song Jae-rim Digelar Tertutup Hari Ini",
         "category": "Ameera",
-        "publish_time": "14-11-2024 08:22",
+        "publish_time": "14-11-2024 08:13",
         "news_link": "https://ameera.republika.co.id/berita/smxlyl425/pemakaman-aktor-song-jaerim-digelar-tertutup-hari-ini"
     },
     {
         "title": "Hutama Karya Raih Laba Bersih Rp 844 Miliar pada Kuartal III 2024",
         "category": "Ekonomi",
-        "publish_time": "14-11-2024 08:20",
+        "publish_time": "14-11-2024 08:13",
         "news_link": "https://ekonomi.republika.co.id/berita/smxlv2370/hutama-karya-raih-laba-bersih-rp-844-miliar-pada-kuartal-iii-2024"
     },
     {
         "title": "Wow! LRT Jabodebek Terapkan Cuci Kereta Otomatis Berteknologi Canggih",
         "category": "Network",
-        "publish_time": "14-11-2024 08:17",
+        "publish_time": "14-11-2024 08:13",
         "news_link": "https://kreta.id/posts/487530/wow-lrt-jabodebek-terapkan-cuci-kereta-otomatis-berteknologi-canggih"
     },
     {
         "title": "Penggunaan IoT dalam Industri Shipping dan Logistik Modern",
         "category": "Network",
-        "publish_time": "14-11-2024 08:17",
+        "publish_time": "14-11-2024 08:13",
         "news_link": "https://shippingcargo.co.id/posts/487371/penggunaan-iot-dalam-industri-shipping-dan-logistik-modern"
     },
     {
         "title": "Ini Perbedaan Mercedes-Benz S450 President Edition dengan Versi Standar",
         "category": "Network",
-        "publish_time": "14-11-2024 08:16",
+        "publish_time": "14-11-2024 08:13",
         "news_link": "https://motoresto.id/posts/487525/ini-perbedaan-mercedes-benz-s450-president-edition-dengan-versi-standar"
     },
     {
@@ -158,145 +296,7 @@
     {
         "title": "Apology and Prayer from Mees Hilgers for the Indonesian National Team",
         "category": "En",
-        "publish_time": "1 hours ago",
+        "publish_time": "2 hours ago",
         "news_link": "https://en.republika.co.id/berita/smxlgb415/apology-and-prayer-from-mees-hilgers-for-the-indonesian-national-team"
-    },
-    {
-        "title": "Netanyahu Terpukul, Enam Tentara Elite Israel Dibantai di Lebanon",
-        "category": "News",
-        "publish_time": "14-11-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/smxlg5393/netanyahu-terpukul-enam-tentara-elite-israel-dibantai-di-lebanon"
-    },
-    {
-        "title": "Bencana Alam Kian Parah, COP29 Harus Hasilkan Kesekapatan Pendanaan Iklim",
-        "category": "Esgnow",
-        "publish_time": "14-11-2024 08:13",
-        "news_link": "https://esgnow.republika.co.id/berita/smxlba416/bencana-alam-kian-parah-cop29-harus-hasilkan-kesekapatan-pendanaan-iklim"
-    },
-    {
-        "title": "Budi Gunawan Ungkap Transaksi Penyelundupan dalam 4 Tahun Terakhir Capai Rp 216 Triliun",
-        "category": "Ekonomi",
-        "publish_time": "14-11-2024 08:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/smxl9b423/budi-gunawan-ungkap-transaksi-penyelundupan-dalam-4-tahun-terakhir-capai-rp-216-triliun"
-    },
-    {
-        "title": "Wamenaker: Persoalan Sritex Jadi Kepentingan Nasional",
-        "category": "Rejogja",
-        "publish_time": "14-11-2024 08:13",
-        "news_link": "https://rejogja.republika.co.id/berita/smxl7q282/wamenaker-persoalan-sritex-jadi-kepentingan-nasional"
-    },
-    {
-        "title": "Sri Mulyani confirms VAT rate will rise to 12 percent next year",
-        "category": "En",
-        "publish_time": "1 hours ago",
-        "news_link": "https://en.republika.co.id/berita/smxl38415/sri-mulyani-confirms-vat-rate-will-rise-to-12-percent-next-year"
-    },
-    {
-        "title": "Tim Pembina Samsat Banten Patenkan Pelayanan Kesamsatan Berbasis Digital",
-        "category": "News",
-        "publish_time": "14-11-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/smxl2j490/tim-pembina-samsat-banten-patenkan-pelayanan-kesamsatan-berbasis-digital"
-    },
-    {
-        "title": "PGE Invites the World to Harness Geothermal Potential for Energy Transition and Overcome Climate Crisis",
-        "category": "En",
-        "publish_time": "1 hours ago",
-        "news_link": "https://en.republika.co.id/berita/smxkze415/pge-invites-the-world-to-harness-geothermal-potential-for-energy-transition-and-overcome-climate-crisis"
-    },
-    {
-        "title": "Pelatih Jepang Puji Timnas Indonesia yang Dinilai Capai Kemajuan Besar",
-        "category": "News",
-        "publish_time": "14-11-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/smxkui348/pelatih-jepang-puji-timnas-indonesia-yang-dinilai-capai-kemajuan-besar"
-    },
-    {
-        "title": "Kisah Mengharukan Nabi Muhammad Saat Berdakwah di Taif",
-        "category": "Khazanah",
-        "publish_time": "14-11-2024 08:13",
-        "news_link": "https://khazanah.republika.co.id/berita/smxkue430/kisah-mengharukan-nabi-muhammad-saat-berdakwah-di-taif"
-    },
-    {
-        "title": "Kanwil Bea Cukai Jatim I Musnahkan Barang Kena Cukai Ilegal Senilai Miliaran Rupiah",
-        "category": "Beacukai",
-        "publish_time": "14-11-2024 08:13",
-        "news_link": "https://republika.co.id/berita/smxkqu490/kanwil-bea-cukai-jatim-i-musnahkan-barang-kena-cukai-ilegal-senilai-miliaran-rupiah"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok Tanggal 15 November 2024 untuk Daerah Bandung dan Sekitarnya: Hujan Ringan",
-        "category": "News",
-        "publish_time": "14-11-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/smxkmn1786147850/prakiraan-cuaca-besok-tanggal-15-november-2024-untuk-daerah-bandung-dan-sekitarnya-hujan-ringan"
-    },
-    {
-        "title": "Dinilai Serius Benahi Infrastruktur Jalan, Organda se-Jabar Deklarasi Dukung ASIH",
-        "category": "Rejabar",
-        "publish_time": "14-11-2024 08:13",
-        "news_link": "https://rejabar.republika.co.id/berita/smxkla512/dinilai-serius-benahi-infrastruktur-jalan-organda-sejabar-deklarasi-dukung-asih"
-    },
-    {
-        "title": "Ketum Bhayangkari Juliati Sigit Prabowo Hibur Pengungsi Korban Erupsi Gunung Lewotobi",
-        "category": "News",
-        "publish_time": "14-11-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/smxki5490/ketum-bhayangkari-juliati-sigit-prabowo-hibur-pengungsi-korban-erupsi-gunung-lewotobi"
-    },
-    {
-        "title": "Kelakar Pramono Usai Unggul Elektabilitas: Saya Sudah Kayak Rossi 46",
-        "category": "News",
-        "publish_time": "14-11-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/smxkdp487/kelakar-pramono-usai-unggul-elektabilitas-saya-sudah-kayak-rossi-46"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok 15 November 2024: Hujan Ringan di Jakarta Selatan",
-        "category": "News",
-        "publish_time": "14-11-2024 08:13",
-        "news_link": "https://news.republika.co.id/berita/smxkcm1656583996/prakiraan-cuaca-besok-15-november-2024-hujan-ringan-di-jakarta-selatan"
-    },
-    {
-        "title": "Ini Kronologi Dua Bocah Dirantai Lehernya oleh Sang Ayah di Majalengka",
-        "category": "Rejabar",
-        "publish_time": "14-11-2024 07:13",
-        "news_link": "https://rejabar.republika.co.id/berita/smxk46512/ini-kronologi-dua-bocah-dirantai-lehernya-oleh-sang-ayah-di-majalengka"
-    },
-    {
-        "title": "PGE Ajak Dunia Manfaatkan Potensi Panas Bumi untuk Transisi Energi dan Atasi Krisis Iklim",
-        "category": "Esgnow",
-        "publish_time": "14-11-2024 07:13",
-        "news_link": "https://esgnow.republika.co.id/berita/smxjv1416/pge-ajak-dunia-manfaatkan-potensi-panas-bumi-untuk-transisi-energi-dan-atasi-krisis-iklim"
-    },
-    {
-        "title": "Perkuat Strategi Brand Lokal dan UMKM, 11.11 Big Sale Dorong Peningkatan Produk Terjual",
-        "category": "Ekonomi",
-        "publish_time": "14-11-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/smxbs9423/perkuat-strategi-brand-lokal-dan-umkm-1111-big-sale-dorong-peningkatan-produk-terjual"
-    },
-    {
-        "title": "Desk Pencegahan dan Pemberantasan Penyelundupan Ungkap Penindakan di Kepabeanan dan Cukai",
-        "category": "Beacukai",
-        "publish_time": "14-11-2024 07:13",
-        "news_link": "https://republika.co.id/berita/smxjmv490/desk-pencegahan-dan-pemberantasan-penyelundupan-ungkap-penindakan-di-kepabeanan-dan-cukai"
-    },
-    {
-        "title": "Hasil Ramp Check Bus, Ribuan Bus Pariwisata di Jabar Tidak Laik Jalan",
-        "category": "Rejabar",
-        "publish_time": "14-11-2024 07:13",
-        "news_link": "https://rejabar.republika.co.id/berita/smxjms512/hasil-ramp-check-bus-ribuan-bus-pariwisata-di-jabar-tidak-laik-jalan"
-    },
-    {
-        "title": "Prakiraan Cuaca Bekasi dan Sekitarnya 15 November 2024: Hujan Ringan",
-        "category": "News",
-        "publish_time": "14-11-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/smxjij2048914795/prakiraan-cuaca-bekasi-dan-sekitarnya-15-november-2024-hujan-ringan"
-    },
-    {
-        "title": "Penjualan di China Melonjak, Penjualan Mobil Listrik Global Naik 35 Persen di Oktober",
-        "category": "Ekonomi",
-        "publish_time": "14-11-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/smxj77468/penjualan-di-china-melonjak-penjualan-mobil-listrik-global-naik-35-persen-di-oktober"
-    },
-    {
-        "title": "KPK Ingatkan Raffi Ahmad Laporkan Harta Kekayaannya",
-        "category": "News",
-        "publish_time": "14-11-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/smxj6h409/kpk-ingatkan-raffi-ahmad-laporkan-harta-kekayaannya"
     }
 ]
