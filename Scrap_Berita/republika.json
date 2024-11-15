@@ -1,5 +1,89 @@
 [
     {
+        "title": "Bertemu dengan Anies, Pramono: Lihat Wajahnya Ngakak Semua",
+        "category": "News",
+        "publish_time": "15-11-2024 14:08",
+        "news_link": "https://news.republika.co.id/berita/smzwmw377/bertemu-dengan-anies-pramono-lihat-wajahnya-ngakak-semua"
+    },
+    {
+        "title": "Pemilihnya Terpecah di Pilgub Jatim, Ini Respons PDIP",
+        "category": "News",
+        "publish_time": "15-11-2024 14:03",
+        "news_link": "https://news.republika.co.id/berita/smzwe0377/pemilihnya-terpecah-di-pilgub-jatim-ini-respons-pdip"
+    },
+    {
+        "title": "Gagal Curi Poin dari Jepang, Indonesia Tetap di Dasar Klasemen Grup C",
+        "category": "News",
+        "publish_time": "15-11-2024 13:58",
+        "news_link": "https://news.republika.co.id/berita/smzw67348/gagal-curi-poin-dari-jepang-indonesia-tetap-di-dasar-klasemen-grup-c"
+    },
+    {
+        "title": "Ini Strategi Pertamina International Shipping Hadapi Disrupsi Global",
+        "category": "Ekonomi",
+        "publish_time": "15-11-2024 13:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/smzo20456/ini-strategi-pertamina-international-shipping-hadapi-disrupsi-global"
+    },
+    {
+        "title": "Media-Media Israel Mulai Pertanyakan Tingginya Jumlah Tentara Mati di Gaza, Demi Apa?",
+        "category": "Khazanah",
+        "publish_time": "15-11-2024 13:55",
+        "news_link": "https://khazanah.republika.co.id/berita/smzw19320/mediamedia-israel-mulai-pertanyakan-tingginya-jumlah-tentara-mati-di-gaza-demi-apa"
+    },
+    {
+        "title": "Ini Fasilitas Perbankan yang Penuhi Kebutuhan Nasabah Emerging Affluent",
+        "category": "Ekonomi",
+        "publish_time": "15-11-2024 13:54",
+        "news_link": "https://ekonomi.republika.co.id/berita/smz9xh451/ini-fasilitas-perbankan-yang-penuhi-kebutuhan-nasabah-emerging-affluent"
+    },
+    {
+        "title": "Membuktikan Slogan dan Kemampuan Hyundai Ioniq 5 N, tidak Hanya Sekadar Berkendara!",
+        "category": "Ekonomi",
+        "publish_time": "15-11-2024 13:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/smzvsl349/membuktikan-slogan-dan-kemampuan-hyundai-ioniq-5-n-tidak-hanya-sekadar-berkendara"
+    },
+    {
+        "title": "PNM Boyong Tiga Penghargaan di BBMA 2024, Tampilkan Program Disabilitas",
+        "category": "News",
+        "publish_time": "15-11-2024 13:49",
+        "news_link": "https://news.republika.co.id/berita/smz9o6451/pnm-boyong-tiga-penghargaan-di-bbma-2024-tampilkan-program-disabilitas"
+    },
+    {
+        "title": "Kejagung Belum Bisa Buktikan Aliran Uang Tersangka Zarof Ricar ke Hakim-hakim Agung",
+        "category": "News",
+        "publish_time": "15-11-2024 13:48",
+        "news_link": "https://news.republika.co.id/berita/smzvp8377/kejagung-belum-bisa-buktikan-aliran-uang-tersangka-zarof-ricar-ke-hakimhakim-agung"
+    },
+    {
+        "title": "Menag: Fungsi Historis Kemenag adalah Kompromi Politik",
+        "category": "Khazanah",
+        "publish_time": "15-11-2024 13:38",
+        "news_link": "https://khazanah.republika.co.id/berita/smzv9b366/menag-fungsi-historis-kemenag-adalah-kompromi-politik"
+    },
+    {
+        "title": "Kubu Luthfi-Yasin Libatkan Jokowi dalam Kampanye, Jubir PDIP Sebut Panik",
+        "category": "News",
+        "publish_time": "15-11-2024 13:37",
+        "news_link": "https://news.republika.co.id/berita/smzv6h377/kubu-luthfiyasin-libatkan-jokowi-dalam-kampanye-jubir-pdip-sebut-panik"
+    },
+    {
+        "title": "Federal Oil Ungkap Peredaran Pelumas yang tidak Sesuai Spesifikasi di Jawa Tengah",
+        "category": "Ekonomi",
+        "publish_time": "15-11-2024 13:36",
+        "news_link": "https://ekonomi.republika.co.id/berita/smzv53468/federal-oil-ungkap-peredaran-pelumas-yang-tidak-sesuai-spesifikasi-di-jawa-tengah"
+    },
+    {
+        "title": "Polres Indramayu Gelar Syukuran HUT Brimob ke-79",
+        "category": "Rejabar",
+        "publish_time": "15-11-2024 13:26",
+        "news_link": "https://rejabar.republika.co.id/berita/smzuok512/polres-indramayu-gelar-syukuran-hut-brimob-ke79"
+    },
+    {
+        "title": "BPJS Ketenagakerjaan Jakarta berikan Santunan JKK ke Ahli Waris Kecelakaan SAM Air",
+        "category": "News",
+        "publish_time": "15-11-2024 13:24",
+        "news_link": "https://news.republika.co.id/berita/smze1h451/bpjs-ketenagakerjaan-jakarta-berikan-santunan-jkk-ke-ahli-waris-kecelakaan-sam-air"
+    },
+    {
         "title": "Universitas BSI Raih Peringkat 45 Nasional dalam SINTA",
         "category": "News",
         "publish_time": "15-11-2024 13:15",
@@ -8,295 +92,211 @@
     {
         "title": "Badai di Toko Buku",
         "category": "Retizen",
-        "publish_time": "15-11-2024 12:53",
+        "publish_time": "15-11-2024 13:12",
         "news_link": "https://retizen.republika.co.id/posts/487805/badai-di-toko-buku"
     },
     {
         "title": "Gagal Maksimalkan Tiga Peluang Emas, Indonesia Tertinggal 0-2 dari Jepang pada Babak I",
         "category": "News",
-        "publish_time": "15-11-2024 12:53",
+        "publish_time": "15-11-2024 13:12",
         "news_link": "https://news.republika.co.id/berita/smzt5n348/gagal-maksimalkan-tiga-peluang-emas-indonesia-tertinggal-02-dari-jepang-pada-babak-i"
     },
     {
         "title": "FKPPI Semakin Percaya Dandan-Arif akan Buat Bandung Asikk",
         "category": "Rejabar",
-        "publish_time": "15-11-2024 12:37",
+        "publish_time": "15-11-2024 12:12",
         "news_link": "https://rejabar.republika.co.id/berita/smzsfr512/fkppi-semakin-percaya-dandanarif-akan-buat-bandung-asikk"
     },
     {
         "title": "Kadin Jabar Tolak Caretaker dan Produk Turunan",
         "category": "Rejabar",
-        "publish_time": "15-11-2024 12:30",
+        "publish_time": "15-11-2024 12:12",
         "news_link": "https://rejabar.republika.co.id/berita/smzs2o512/kadin-jabar-tolak-caretaker-dan-produk-turunan"
     },
     {
         "title": "Universitas BSI Tingkatkan Kolaborasi Internasional melalui Kegiatan Ini",
         "category": "News",
-        "publish_time": "15-11-2024 12:21",
+        "publish_time": "15-11-2024 12:12",
         "news_link": "https://news.republika.co.id/berita/smzr74370/universitas-bsi-tingkatkan-kolaborasi-internasional-melalui-kegiatan-ini"
     },
     {
         "title": "Di Forum COP29, PT Vale Tekankan Pentingnya Bisnis Berkelanjutan di Industri Pertambangan",
         "category": "Esgnow",
-        "publish_time": "15-11-2024 12:21",
+        "publish_time": "15-11-2024 12:12",
         "news_link": "https://esgnow.republika.co.id/berita/smzr6h416/di-forum-cop29-pt-vale-tekankan-pentingnya-bisnis-berkelanjutan-di-industri-pertambangan"
     },
     {
         "title": "Jelang Hari Toilet Sedunia, Layanan Sanitasi Bagi 27 Juta Anak di Indonesia Masih Terbatas",
         "category": "News",
-        "publish_time": "15-11-2024 12:21",
+        "publish_time": "15-11-2024 12:12",
         "news_link": "https://news.republika.co.id/berita/smzqq7483/jelang-hari-toilet-sedunia-layanan-sanitasi-bagi-27-juta-anak-di-indonesia-masih-terbatas"
     },
     {
         "title": "Satgas Masih Terus Kaji Rencana Penurunan Harga Tiket Pesawat",
         "category": "Ekonomi",
-        "publish_time": "15-11-2024 12:21",
+        "publish_time": "15-11-2024 12:12",
         "news_link": "https://ekonomi.republika.co.id/berita/smzqq6490/satgas-masih-terus-kaji-rencana-penurunan-harga-tiket-pesawat"
     },
     {
         "title": "Di Halteng, Elang-Rahim Ungkit Semangat Kepahlawanan Salahuddin bin Talibuddin",
         "category": "News",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 12:12",
         "news_link": "https://news.republika.co.id/berita/smzq02320/di-halteng-elangrahim-ungkit-semangat-kepahlawanan-salahuddin-bin-talibuddin"
     },
     {
         "title": "Paslon ASIH Temui Anies, Kerja Sama Gandeng Pendukung Anies di Jawa Barat",
         "category": "News",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 12:12",
         "news_link": "https://news.republika.co.id/berita/smzpxf490/paslon-asih-temui-anies-kerja-sama-gandeng-pendukung-anies-di-jawa-barat"
     },
     {
         "title": "Sempat Muncul Surat Kaleng Ancaman Bom, Wisuda di Unpar Tetap Berjalan",
         "category": "Rejabar",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://rejabar.republika.co.id/berita/smzpv5512/sempat-muncul-surat-kaleng-ancaman-bom-wisuda-di-unpar-tetap-berjalan"
     },
     {
         "title": "Starting XI Indonesia vs Jepang: Kevin Diks Main dari Awal",
         "category": "News",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://news.republika.co.id/berita/smzpqc348/starting-xi-indonesia-vs-jepang-kevin-diks-main-dari-awal"
     },
     {
         "title": "Gempa Bumi Magnitudo 3,3 Guncang Kabupaten Cianjur",
         "category": "Rejabar",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://rejabar.republika.co.id/berita/smzpfe512/gempa-bumi-magnitudo-33-guncang-kabupaten-cianjur"
     },
     {
         "title": "Sinergi Bea Cukai dan Polri Gagalkan Penyelundupan 38,9 Kg Sabu dan 29.182 Butir Ekstasi",
         "category": "Beacukai",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://republika.co.id/berita/smzpdb490/sinergi-bea-cukai-dan-polri-gagalkan-penyelundupan-389-kg-sabu-dan-29-182-butir-ekstasi"
     },
     {
         "title": "Prakiraan Cuaca Besok 16 November 2024 Daerah Kota Padang dan Sekitarnya - Hujan Ringan",
         "category": "News",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://news.republika.co.id/berita/smzp8p1601227217/prakiraan-cuaca-besok-16-november-2024-daerah-kota-padang-dan-sekitarnya-hujan-ringan"
     },
     {
         "title": "Rektor Terpilih Nanti, Diharapkan Bisa Terus Tingkatkan Performa",
         "category": "Rejabar",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://rejabar.republika.co.id/berita/smzp2h512/rektor-terpilih-nanti-diharapkan-bisa-terus-tingkatkan-performa"
     },
     {
         "title": "Jadi Bos Baru Garuda, Wamildan Ungkap Pesan Prabowo",
         "category": "Ekonomi",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://ekonomi.republika.co.id/berita/smzp23370/jadi-bos-baru-garuda-wamildan-ungkap-pesan-prabowo"
     },
     {
         "title": "Ribuan Botol Miras Ilegal Disita dari 12 Tersangka di Sleman",
         "category": "Rejogja",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://rejogja.republika.co.id/berita/smzoqo282/ribuan-botol-miras-ilegal-disita-dari-12-tersangka-di-sleman"
     },
     {
         "title": "Sejak Siang Sudah Hadir untuk Dukung Timnas Indonesia, Penonton Lancar Masuk SUGBK",
         "category": "News",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://news.republika.co.id/berita/smzob8348/sejak-siang-sudah-hadir-untuk-dukung-timnas-indonesia-penonton-lancar-masuk-sugbk"
     },
     {
         "title": "Prakiraan Cuaca Kota Banda Aceh dan Sekitarnya: Hujan Ringan pada 16 November 2024",
         "category": "News",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://news.republika.co.id/berita/smzo9u1312857013/prakiraan-cuaca-kota-banda-aceh-dan-sekitarnya-hujan-ringan-pada-16-november-2024"
     },
     {
         "title": "Transjakarta Perpanjang Jam Operasional untuk Layani Suporter Timnas Indonesia Vs Jepang",
         "category": "News",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://news.republika.co.id/berita/smzo9k487/transjakarta-perpanjang-jam-operasional-untuk-layani-suporter-timnas-indonesia-vs-jepang"
     },
     {
         "title": "Penjual Jersey dan Pernak-Pernik Timnas, Mencari Peruntungan di Tengah Euforia Garuda",
         "category": "News",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://news.republika.co.id/berita/smzo41348/penjual-jersey-dan-pernakpernik-timnas-mencari-peruntungan-di-tengah-euforia-garuda"
     },
     {
         "title": "Pertemuan dengan Pramono-Rano Jadi Arahan Resmi dari Anies untuk 'Anak Abah'",
         "category": "News",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://news.republika.co.id/berita/smzo09487/pertemuan-dengan-pramonorano-jadi-arahan-resmi-dari-anies-untuk-anak-abah"
     },
     {
         "title": "PPN 12 Persen, Ekonom Minta Pemerintah Buat Kebijakan Pro Daya Beli",
         "category": "Ekonomi",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://ekonomi.republika.co.id/berita/smznpi370/ppn-12-persen-ekonom-minta-pemerintah-buat-kebijakan-pro-daya-beli"
     },
     {
         "title": "Gamma Thohir Wakili Anak Muda Indonesia di Diskusi Internasional COP 29 Azerbaijan",
         "category": "Esgnow",
-        "publish_time": "15-11-2024 11:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://esgnow.republika.co.id/berita/smznkc456/gamma-thohir-wakili-anak-muda-indonesia-di-diskusi-internasional-cop-29-azerbaijan"
     },
     {
         "title": "Ekspor Clinker, PT Indocement Tunggal Prakarsa Sumbang 18 Miliar Rupiah Devisa Negara",
         "category": "Beacukai",
-        "publish_time": "15-11-2024 10:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://republika.co.id/berita/smzni7490/ekspor-clinker-pt-indocement-tunggal-prakarsa-sumbang-18-miliar-rupiah-devisa-negara"
     },
     {
         "title": "Pakai Barcode Tiket Timnas, Gampang Gunakan MRT ke Senayan",
         "category": "News",
-        "publish_time": "15-11-2024 10:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://news.republika.co.id/berita/smznef348/pakai-barcode-tiket-timnas-gampang-gunakan-mrt-ke-senayan"
     },
     {
         "title": "Prakiraan Cuaca Besok 16 November 2024: Kota Mataram Cerah Berawan",
         "category": "News",
-        "publish_time": "15-11-2024 10:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://news.republika.co.id/berita/smzne2191464123/prakiraan-cuaca-besok-16-november-2024-kota-mataram-cerah-berawan"
     },
     {
         "title": "Gapai Kebebasan Finansial di Masa Depan Lewat Investasi dan Trading Saham di BRIGHTS",
         "category": "Ekonomi",
-        "publish_time": "15-11-2024 10:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://ekonomi.republika.co.id/berita/smzn67490/gapai-kebebasan-finansial-di-masa-depan-lewat-investasi-dan-trading-saham-di-brights"
     },
     {
         "title": "Siapa Terjerat Pinjol? Survei Ini Ungkap Kategori dari Generasi Hingga Strata Ekonomi",
         "category": "News",
-        "publish_time": "15-11-2024 10:21",
+        "publish_time": "15-11-2024 11:12",
         "news_link": "https://news.republika.co.id/berita/smzn5r487/siapa-terjerat-pinjol-survei-ini-ungkap-kategori-dari-generasi-hingga-strata-ekonomi"
     },
     {
         "title": "Kandungan Surat Al-Kahfi: Melindungi Fitnah Akhir Zaman",
         "category": "Network",
-        "publish_time": "15-11-2024 10:21",
+        "publish_time": "15-11-2024 10:12",
         "news_link": "https://sumatralink.id/posts/487787/kandungan-surat-al-kahfi-melindungi-fitnah-akhir-zaman"
     },
     {
         "title": "Anggaran Perjalanan Dinas ASN Dipotong, Rektor tak Bisa Lagi ke LN tanpa Ijin Menag",
         "category": "Khazanah",
-        "publish_time": "15-11-2024 10:21",
+        "publish_time": "15-11-2024 10:12",
         "news_link": "https://khazanah.republika.co.id/berita/smzmrn483/anggaran-perjalanan-dinas-asn-dipotong-rektor-tak-bisa-lagi-ke-ln-tanpa-ijin-menag"
     },
     {
         "title": "Apa itu Marine Evacuation System? Berikut Penjelasannya",
         "category": "Network",
-        "publish_time": "15-11-2024 10:21",
+        "publish_time": "15-11-2024 10:12",
         "news_link": "https://shippingcargo.co.id/posts/487715/apa-itu-marine-evacuation-system-berikut-penjelasannya"
     },
     {
         "title": "Prakiraan Cuaca Besok 16 November 2024: Kota Balikpapan dan Sekitarnya - Berawan",
         "category": "News",
-        "publish_time": "15-11-2024 10:21",
+        "publish_time": "15-11-2024 10:12",
         "news_link": "https://news.republika.co.id/berita/smzmqw1740750554/prakiraan-cuaca-besok-16-november-2024-kota-balikpapan-dan-sekitarnya-berawan"
     },
     {
         "title": "Hikmah Sedekah dari Kisah Tiga Orang Bani Israil",
         "category": "Network",
-        "publish_time": "15-11-2024 10:21",
+        "publish_time": "15-11-2024 10:12",
         "news_link": "https://kabarinews.id/posts/487794/hikmah-sedekah-dari-kisah-tiga-orang-bani-israil"
-    },
-    {
-        "title": "Ketika Rasulullah Menjadi Tamu",
-        "category": "Khazanah",
-        "publish_time": "15-11-2024 10:21",
-        "news_link": "https://khazanah.republika.co.id/berita/smzmh7458/ketika-rasulullah-menjadi-tamu"
-    },
-    {
-        "title": "Tiga Tempat Disukai Jin, Salah Satunya Pasar",
-        "category": "Khazanah",
-        "publish_time": "15-11-2024 10:21",
-        "news_link": "https://khazanah.republika.co.id/berita/smzm7y458/tiga-tempat-disukai-jin-salah-satunya-pasar"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok 16 November 2024: Hujan Ringan di Kota Palembang dan Sekitarnya",
-        "category": "News",
-        "publish_time": "15-11-2024 10:21",
-        "news_link": "https://news.republika.co.id/berita/smzm051046448039/prakiraan-cuaca-besok-16-november-2024-hujan-ringan-di-kota-palembang-dan-sekitarnya"
-    },
-    {
-        "title": "Hati-Hati Sebelum Bersumpah",
-        "category": "Khazanah",
-        "publish_time": "15-11-2024 10:21",
-        "news_link": "https://khazanah.republika.co.id/berita/smzlxe458/hatihati-sebelum-bersumpah"
-    },
-    {
-        "title": "Rupiah Tertekan ke Level Rp15.874, Terimbas Ekspektasi Inflasi AS yang Kuat",
-        "category": "Ekonomi",
-        "publish_time": "15-11-2024 10:21",
-        "news_link": "https://ekonomi.republika.co.id/berita/smzlrp370/rupiah-tertekan-ke-level-rp15874-terimbas-ekspektasi-inflasi-as-yang-kuat"
-    },
-    {
-        "title": "Ibadah yang Membuat Dosa-Dosa Diampuni Layaknya Daun Berguguran",
-        "category": "Khazanah",
-        "publish_time": "15-11-2024 10:21",
-        "news_link": "https://khazanah.republika.co.id/berita/smzloo483/ibadah-yang-membuat-dosadosa-diampuni-layaknya-daun-berguguran"
-    },
-    {
-        "title": "Sering Waswas? Baca Doa dan Rutinkan Dzikir Berikut Ini Insya Allah Bermanfaat",
-        "category": "Iqra",
-        "publish_time": "15-11-2024 10:21",
-        "news_link": "https://iqra.republika.co.id/berita/smzkv3320/sering-waswas-baca-doa-dan-rutinkan-dzikir-berikut-ini-insya-allah-bermanfaat"
-    },
-    {
-        "title": "Diskusi Erick dengan Bos NVDIA Menarik Perhatian Prabowo",
-        "category": "Ekonomi",
-        "publish_time": "15-11-2024 10:21",
-        "news_link": "https://ekonomi.republika.co.id/berita/smzkrj370/diskusi-erick-dengan-bos-nvdia-menarik-perhatian-prabowo"
-    },
-    {
-        "title": "Pesantren Didorong Perkuat Implementasi Sistem Penjaminan Mutu Pendidikan Muadalah",
-        "category": "Khazanah",
-        "publish_time": "15-11-2024 10:21",
-        "news_link": "https://khazanah.republika.co.id/berita/smzkre456/pesantren-didorong-perkuat-implementasi-sistem-penjaminan-mutu-pendidikan-muadalah"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok Kota Denpasar Bali: Hujan Ringan",
-        "category": "News",
-        "publish_time": "15-11-2024 09:21",
-        "news_link": "https://news.republika.co.id/berita/smzkm51001210831/prakiraan-cuaca-besok-kota-denpasar-bali-hujan-ringan"
-    },
-    {
-        "title": "Rasulullah Teringat Emasnya Saat Sholat, Ini yang Dilakukan",
-        "category": "Khazanah",
-        "publish_time": "15-11-2024 09:21",
-        "news_link": "https://khazanah.republika.co.id/berita/smzkkg483/rasulullah-teringat-emasnya-saat-sholat-ini-yang-dilakukan"
-    },
-    {
-        "title": "Di Forum APEC, Prabowo: Terobosan Teknologi Tuntut Pemimpin Lebih Bijak dan Sabar",
-        "category": "News",
-        "publish_time": "15-11-2024 09:21",
-        "news_link": "https://news.republika.co.id/berita/smzkf5487/di-forum-apec-prabowo-terobosan-teknologi-tuntut-pemimpin-lebih-bijak-dan-sabar"
-    },
-    {
-        "title": "Artha Graha Peduli Berikan Bibit Ikan ke SDN 01 Ancol, Dukung Makanan Bergizi Gratis",
-        "category": "Rejakarta",
-        "publish_time": "15-11-2024 09:21",
-        "news_link": "https://republika.co.id/berita/smzkax456/artha-graha-peduli-berikan-bibit-ikan-ke-sdn-01-ancol-dukung-makanan-bergizi-gratis"
-    },
-    {
-        "title": "BPS: Neraca Perdagangan RI Surplus 2,48 Miliar Dolar AS pada Oktober",
-        "category": "Ekonomi",
-        "publish_time": "15-11-2024 09:21",
-        "news_link": "https://ekonomi.republika.co.id/berita/smzk19370/bps-neraca-perdagangan-ri-surplus-248-miliar-dolar-as-pada-oktober"
     }
 ]
