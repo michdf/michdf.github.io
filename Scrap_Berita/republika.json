@@ -1,56 +1,170 @@
 [
     {
+        "title": "OJK Bidik Pekerja Informal Jadi Peserta Dana Pensiun",
+        "category": "Ekonomi",
+        "publish_time": "19-11-2024 23:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/sn80dz370/ojk-bidik-pekerja-informal-jadi-peserta-dana-pensiun"
+    },
+    {
+        "title": "'Kurang Ajar' dalam Berdoa, Ini Contohnya",
+        "category": "Iqra",
+        "publish_time": "19-11-2024 23:09",
+        "news_link": "https://iqra.republika.co.id/berita/sn80bh430/kurang-ajar-dalam-berdoa-ini-contohnya"
+    },
+    {
+        "title": "Jerman yang Sudah Lolos Ditahan Imbang Hungaria Lewat Gol Telat pada Laga Terakhir Grup",
+        "category": "News",
+        "publish_time": "19-11-2024 23:07",
+        "news_link": "https://news.republika.co.id/berita/sn808l348/jerman-yang-sudah-lolos-ditahan-imbang-hungaria-lewat-gol-telat-pada-laga-terakhir-grup"
+    },
+    {
+        "title": "Bela Ahok Soal Penggusuran, Ketua Harian Serang Balik RK: Itu Provokasi!",
+        "category": "News",
+        "publish_time": "19-11-2024 23:05",
+        "news_link": "https://news.republika.co.id/berita/sn7zyc484/bela-ahok-soal-penggusuran-ketua-harian-serang-balik-rk-itu-provokasi"
+    },
+    {
+        "title": "Capim KPK Ini Ingin OTT Ditiadakan, Langsung Dapat Tepuk Tangan dari Komisi III DPR",
+        "category": "News",
+        "publish_time": "19-11-2024 23:02",
+        "news_link": "https://news.republika.co.id/berita/sn72ds409/capim-kpk-ini-ingin-ott-ditiadakan-langsung-dapat-tepuk-tangan-dari-komisi-iii-dpr"
+    },
+    {
+        "title": "Lima Malam Terbaik untuk Berdoa",
+        "category": "Iqra",
+        "publish_time": "19-11-2024 22:58",
+        "news_link": "https://iqra.republika.co.id/berita/sn7zuj430/lima-malam-terbaik-untuk-berdoa"
+    },
+    {
+        "title": "Kapolri dan Panglima TNI Hadiri Doa Lintas Agama di Jatim",
+        "category": "Rejogja",
+        "publish_time": "19-11-2024 22:53",
+        "news_link": "https://rejogja.republika.co.id/berita/sn7zlg291/kapolri-dan-panglima-tni-hadiri-doa-lintas-agama-di-jatim"
+    },
+    {
+        "title": "Anak Suka Main Game Roblox? Sekarang Ada Fitur Baru, Orang Tua Bisa Awasi Akun dari Jauh",
+        "category": "Ameera",
+        "publish_time": "19-11-2024 22:53",
+        "news_link": "https://ameera.republika.co.id/berita/sn7zkr425/anak-suka-main-game-roblox-sekarang-ada-fitur-baru-orang-tua-bisa-awasi-akun-dari-jauh"
+    },
+    {
+        "title": "Bikin Bangga, Rakyat Indonesia Donasi Rp 305 Miliar untuk Palestina",
+        "category": "Khazanah",
+        "publish_time": "19-11-2024 22:51",
+        "news_link": "https://khazanah.republika.co.id/berita/sn7zix483/bikin-bangga-rakyat-indonesia-donasi-rp-305-miliar-untuk-palestina"
+    },
+    {
+        "title": "Selebrasi Tutup Mulut, Marselino Ferdinan: Tidak Ada Maksud Apa-Apa",
+        "category": "News",
+        "publish_time": "19-11-2024 22:51",
+        "news_link": "https://news.republika.co.id/berita/sn7zir348/selebrasi-tutup-mulut-marselino-ferdinan-tidak-ada-maksud-apaapa"
+    },
+    {
+        "title": "Prakiraan Cuaca 20 November 2024: Suhu Tinggi di Kota Denpasar Bali",
+        "category": "News",
+        "publish_time": "19-11-2024 22:49",
+        "news_link": "https://news.republika.co.id/berita/sn7ze21154918880/prakiraan-cuaca-20-november-2024-suhu-tinggi-di-kota-denpasar-bali"
+    },
+    {
+        "title": "Takut Roket Hizbullah, Pemukim Israel Ogah Kembali ke Utara",
+        "category": "Khazanah",
+        "publish_time": "19-11-2024 22:46",
+        "news_link": "https://khazanah.republika.co.id/berita/sn7z9f483/takut-roket-hizbullah-pemukim-israel-ogah-kembali-ke-utara"
+    },
+    {
+        "title": "Ibu Hamil Disarankan Rutin Konsumsi Vitamin D, Manfaatnya Luar Biasa untuk Anak",
+        "category": "Ameera",
+        "publish_time": "19-11-2024 22:38",
+        "news_link": "https://ameera.republika.co.id/berita/sn7ywd425/ibu-hamil-disarankan-rutin-konsumsi-vitamin-d-manfaatnya-luar-biasa-untuk-anak"
+    },
+    {
+        "title": "Tim Cadangan Belanda Ditahan Seri Bosnia dalam Laga Internasional Terakhir Edin Dzeko",
+        "category": "News",
+        "publish_time": "19-11-2024 22:37",
+        "news_link": "https://news.republika.co.id/berita/sn7yut348/tim-cadangan-belanda-ditahan-seri-bosnia-dalam-laga-internasional-terakhir-edin-dzeko"
+    },
+    {
+        "title": "Jokowi Terang-terangan Dukung Ridwan Kamil, Pramono Kecewa? Ini Jawaban Dia",
+        "category": "News",
+        "publish_time": "19-11-2024 22:34",
+        "news_link": "https://news.republika.co.id/berita/sn7e6w487/jokowi-terangterangan-dukung-ridwan-kamil-pramono-kecewa-ini-jawaban-dia"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini, 20 November 2024: Kota Makassar, Hujan Petir",
+        "category": "News",
+        "publish_time": "19-11-2024 22:31",
+        "news_link": "https://news.republika.co.id/berita/sn7yk21992438060/prakiraan-cuaca-hari-ini-20-november-2024-kota-makassar-hujan-petir"
+    },
+    {
+        "title": "Contoh Laporan Iseng yang Disebut Istana di Lapor Mas Wapres",
+        "category": "News",
+        "publish_time": "19-11-2024 22:26",
+        "news_link": "https://news.republika.co.id/berita/sn7ycr430/contoh-laporan-iseng-yang-disebut-istana-di-lapor-mas-wapres"
+    },
+    {
+        "title": "Usung Tema Palestina, Omplok Layar Tarik Perhatian Wisatawan di Pantai Bali",
+        "category": "Khazanah",
+        "publish_time": "19-11-2024 22:19",
+        "news_link": "https://khazanah.republika.co.id/berita/sn7y0s483/usung-tema-palestina-omplok-layar-tarik-perhatian-wisatawan-di-pantai-bali"
+    },
+    {
+        "title": "Prakiraan Cuaca Medan dan Sekitarnya 20 November 2024: Hujan Ringan Sepanjang Siang",
+        "category": "News",
+        "publish_time": "19-11-2024 22:19",
+        "news_link": "https://news.republika.co.id/berita/sn7y01967310451/prakiraan-cuaca-medan-dan-sekitarnya-20-november-2024-hujan-ringan-sepanjang-siang"
+    },
+    {
         "title": "Lima Fakta Kasus Mahasiswa ITB Tewas Bunuh Diri Lompat dari Apartemen",
         "category": "News",
-        "publish_time": "19-11-2024 22:06",
+        "publish_time": "19-11-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/sn7xdt377/lima-fakta-kasus-mahasiswa-itb-tewas-bunuh-diri-lompat-dari-apartemen"
     },
     {
         "title": "Para Korban Penggusuran 2016 Bicara Pilgub Jakarta, Mereka Memilih Siapa?",
         "category": "News",
-        "publish_time": "19-11-2024 22:05",
+        "publish_time": "19-11-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/sn7dmk487/para-korban-penggusuran-2016-bicara-pilgub-jakarta-mereka-memilih-siapa"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini Tanggal 20 November 2024 di Kota Malang dan Sekitarnya",
         "category": "News",
-        "publish_time": "19-11-2024 22:04",
+        "publish_time": "19-11-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/sn7xb61974384020/prakiraan-cuaca-hari-ini-tanggal-20-november-2024-di-kota-malang-dan-sekitarnya"
     },
     {
         "title": "Film Mary Tampilkan Pemain Israel, Netflix Dinilai Ingin Hapus Identitas Palestina",
         "category": "Khazanah",
-        "publish_time": "19-11-2024 22:02",
+        "publish_time": "19-11-2024 22:12",
         "news_link": "https://khazanah.republika.co.id/berita/sn7x83483/film-mary-tampilkan-pemain-israel-netflix-dinilai-ingin-hapus-identitas-palestina"
     },
     {
         "title": "Pengumuman Tender Umum PERHUTANI",
         "category": "Native",
-        "publish_time": "19-11-2024 22:00",
+        "publish_time": "19-11-2024 22:12",
         "news_link": "https://republika.co.id/berita/sn708o325/pengumuman-tender-umum-perhutani"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 20 November 2024 untuk Kota Surabaya dan Sekitarnya: Hujan Ringan",
         "category": "News",
-        "publish_time": "19-11-2024 21:49",
+        "publish_time": "19-11-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/sn7wm31498989776/prakiraan-cuaca-hari-ini-20-november-2024-untuk-kota-surabaya-dan-sekitarnya-hujan-ringan"
     },
     {
         "title": "Tekuk Arab Saudi, Timnas Indonesia Lewati Capaian Vietnam dan Thailand",
         "category": "News",
-        "publish_time": "19-11-2024 21:47",
+        "publish_time": "19-11-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/sn7wit377/tekuk-arab-saudi-timnas-indonesia-lewati-capaian-vietnam-dan-thailand"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini: 20 November 2024 - Kota Yogyakarta dan Sekitarnya: Hujan Petir",
         "category": "News",
-        "publish_time": "19-11-2024 21:31",
+        "publish_time": "19-11-2024 21:12",
         "news_link": "https://news.republika.co.id/berita/sn7vs41483554191/prakiraan-cuaca-hari-ini-20-november-2024-kota-yogyakarta-dan-sekitarnya-hujan-petir"
     },
     {
         "title": "Prakiraan Cuaca Kota Semarang dan Sekitarnya - 20 November 2024: Hujan Ringan",
         "category": "News",
-        "publish_time": "19-11-2024 21:13",
+        "publish_time": "19-11-2024 21:12",
         "news_link": "https://news.republika.co.id/berita/sn7uy61104712512/prakiraan-cuaca-kota-semarang-dan-sekitarnya-20-november-2024-hujan-ringan"
     },
     {
@@ -184,119 +298,5 @@
         "category": "News",
         "publish_time": "19-11-2024 17:12",
         "news_link": "https://news.republika.co.id/berita/sn7irv320/debat-ketiga-pilgub-aceh-sempat-ricuh-ini-dugaan-penyebabnya"
-    },
-    {
-        "title": "PPN Bakal Naik Jadi 12 Persen, Pengamat Prediksi Bisa Tekan Daya Beli",
-        "category": "Ekonomi",
-        "publish_time": "19-11-2024 17:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sn7io6490/ppn-bakal-naik-jadi-12-persen-pengamat-prediksi-bisa-tekan-daya-beli"
-    },
-    {
-        "title": "DPR Minta Tunggu Kepastian dari Prabowo Terkait Kenaikan Tarif PPN Jadi 12 Persen",
-        "category": "Ekonomi",
-        "publish_time": "19-11-2024 16:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sn7ie9490/dpr-minta-tunggu-kepastian-dari-prabowo-terkait-kenaikan-tarif-ppn-jadi-12-persen"
-    },
-    {
-        "title": "Di Hadapan Menag,\u00a0 Waketum MUI: Jangan Sampai Kemenag Tidak Ada",
-        "category": "Khazanah",
-        "publish_time": "19-11-2024 16:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sn7ibv320/di-hadapan-menag-waketum-mui-jangan-sampai-kemenag-tidak-ada"
-    },
-    {
-        "title": "Aksi Cemerlang Marselo Ferdinan Bawa Timnas Indonesia Taklukkan Arab Saudi",
-        "category": "Visual",
-        "publish_time": "19-11-2024 16:12",
-        "news_link": "https://visual.republika.co.id/berita/sn7hx7375/aksi-cemerlang-marselo-ferdinan-bawa-timnas-indonesia-taklukkan-arab-saudi"
-    },
-    {
-        "title": "Rekom Bawaslu Terbit, Harun Mustafa Nasution Terancam Diskualifikasi dari Pilbup Madina?",
-        "category": "News",
-        "publish_time": "19-11-2024 16:12",
-        "news_link": "https://news.republika.co.id/berita/sn726g320/rekom-bawaslu-terbit-harun-mustafa-nasution-terancam-diskualifikasi-dari-pilbup-madina"
-    },
-    {
-        "title": "Urgensi Digitalisasi Pembayaran di Dunia Pendidikan, Begini Penjelasannya",
-        "category": "News",
-        "publish_time": "19-11-2024 16:12",
-        "news_link": "https://news.republika.co.id/berita/sn7hlj320/urgensi-digitalisasi-pembayaran-di-dunia-pendidikan-begini-penjelasannya"
-    },
-    {
-        "title": "Ingin Tahu Seperti Apa Cerdasnya Imam Bukhari? Orang Baghdad Lakukan Ini",
-        "category": "Khazanah",
-        "publish_time": "19-11-2024 16:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sn7h6x320/ingin-tahu-seperti-apa-cerdasnya-imam-bukhari-orang-baghdad-lakukan-ini"
-    },
-    {
-        "title": "Erick Thohir Bersyukur Timnas Raih Kemenangan Pertama yang Penting, Evaluasi Tetap Jalan",
-        "category": "News",
-        "publish_time": "19-11-2024 16:12",
-        "news_link": "https://news.republika.co.id/berita/sn7gnp348/erick-thohir-bersyukur-timnas-raih-kemenangan-pertama-yang-penting-evaluasi-tetap-jalan"
-    },
-    {
-        "title": "Digitalisasi Sistem Hingga Ekosistem Kendaraan Listrik Jadi Fokus Electricity Connect",
-        "category": "Esgnow",
-        "publish_time": "19-11-2024 16:12",
-        "news_link": "https://esgnow.republika.co.id/berita/sn7fv4320/digitalisasi-sistem-hingga-ekosistem-kendaraan-listrik-jadi-fokus-electricity-connect"
-    },
-    {
-        "title": "Jerusalem Post: Israel Semakin Terjerumus tak Tentu Arah, Mau Dibawa Kemana?",
-        "category": "News",
-        "publish_time": "19-11-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/sn7f5h320/jerusalem-post-israel-semakin-terjerumus-tak-tentu-arah-mau-dibawa-kemana"
-    },
-    {
-        "title": "Polri Bongkar Jaringan Lab Narkoba Senilai Rp 1,5 Triliun di Bali",
-        "category": "News",
-        "publish_time": "19-11-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/sn73si415/polri-bongkar-jaringan-lab-narkoba-senilai-rp-15-triliun-di-bali"
-    },
-    {
-        "title": "Survei LSI Pilgub Aceh: Mualem-Dek Fadh Unggul dari Bustami-Fadhil",
-        "category": "News",
-        "publish_time": "19-11-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/sn7e9c320/survei-lsi-pilgub-aceh-mualemdek-fadh-unggul-dari-bustamifadhil"
-    },
-    {
-        "title": "Bantuan Nyata untuk Palestina",
-        "category": "Retizen",
-        "publish_time": "19-11-2024 15:12",
-        "news_link": "https://retizen.republika.co.id/posts/488478/bantuan-nyata-untuk-palestina"
-    },
-    {
-        "title": "Komunikasi Politik dan Bagaimana Implementasinya dalam Demokrasi Era Digital",
-        "category": "Retizen",
-        "publish_time": "19-11-2024 15:12",
-        "news_link": "https://retizen.republika.co.id/posts/488479/komunikasi-politik-dan-bagaimana-implementasinya-dalam-demokrasi-era-digital"
-    },
-    {
-        "title": "Rahasia Kecil di Balik Charger Laptop: Peran Penting Kapasitor",
-        "category": "Retizen",
-        "publish_time": "19-11-2024 15:12",
-        "news_link": "https://retizen.republika.co.id/posts/488489/rahasia-kecil-di-balik-charger-laptop-peran-penting-kapasitor"
-    },
-    {
-        "title": "Gerakan Sosial Kontemporer di Indonesia: Perspektif Dakwah",
-        "category": "Retizen",
-        "publish_time": "19-11-2024 15:12",
-        "news_link": "https://retizen.republika.co.id/posts/488495/gerakan-sosial-kontemporer-di-indonesia-perspektif-dakwah"
-    },
-    {
-        "title": "Peningkatan Kualitas SDM Kepulauan Sula Jadi Sorotan Utama Cabup Cawabup Fifian-Saleh",
-        "category": "News",
-        "publish_time": "19-11-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/sn71tu320/peningkatan-kualitas-sdm-kepulauan-sula-jadi-sorotan-utama-cabup-cawabup-fifiansaleh"
-    },
-    {
-        "title": "Pangdam Mulawarman Jelaskan yang Harus Dilakukan dan Dihindari Komcad",
-        "category": "News",
-        "publish_time": "19-11-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/sn7dqx451/pangdam-mulawarman-jelaskan-yang-harus-dilakukan-dan-dihindari-komcad"
-    },
-    {
-        "title": "20 Ribu Keluarga Romawi Dikirim ke Jawa Tersisa 20 Keluarga, Kenapa?",
-        "category": "Network",
-        "publish_time": "19-11-2024 15:12",
-        "news_link": "https://oohya.republika.co.id/posts/488494/20-ribu-keluarga-romawi-dikirim-ke-jawa-tersisa-20-keluarga-kenapa"
     }
 ]
