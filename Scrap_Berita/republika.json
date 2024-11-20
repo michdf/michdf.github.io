@@ -1,302 +1,308 @@
 [
     {
+        "title": "Pernakah Berpikir, Bagaimana Nabi Sulaiman Meninggal?",
+        "category": "Khazanah",
+        "publish_time": "20-11-2024 01:01",
+        "news_link": "https://khazanah.republika.co.id/berita/sn85hq430/pernakah-berpikir-bagaimana-nabi-sulaiman-meninggal"
+    },
+    {
+        "title": "Kemenangan Indonesia, Kejutkan Media Saudi",
+        "category": "News",
+        "publish_time": "20-11-2024 00:55",
+        "news_link": "https://news.republika.co.id/berita/sn857x377/kemenangan-indonesia-kejutkan-media-saudi"
+    },
+    {
+        "title": "Bank Mega Syariah\u00a0Catat Pertumbuhan Aset 16 Persen",
+        "category": "Sharia",
+        "publish_time": "20-11-2024 00:52",
+        "news_link": "https://sharia.republika.co.id/berita/sn853a502/bank-mega-syariahcatat-pertumbuhan-aset-16-persen"
+    },
+    {
+        "title": "Kementerian UMKM akan Buat Holding Agar Terhubung dengan Industri",
+        "category": "Ekonomi",
+        "publish_time": "20-11-2024 00:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/sn84bn370/kementerian-umkm-akan-buat-holding-agar-terhubung-dengan-industri"
+    },
+    {
+        "title": "Pengumuman Tender Umum PERHUTANI",
+        "category": "Native",
+        "publish_time": "19-11-2024 22:03",
+        "news_link": "https://www.republika.co.id/berita/sn708o325/pengumuman-tender-umum-perhutani"
+    },
+    {
+        "title": "WNA Asal Taiwan Dideportasi Usai Jalani Pidana Kasus Narkotika di Subang",
+        "category": "Rejabar",
+        "publish_time": "20-11-2024 00:49",
+        "news_link": "https://rejabar.republika.co.id/berita/sn84xv512/wna-asal-taiwan-dideportasi-usai-jalani-pidana-kasus-narkotika-di-subang"
+    },
+    {
+        "title": "Rumah Sakit Terbaik di Jakarta 2024 Berdasarkan Rating Tertinggi",
+        "category": "Retizen",
+        "publish_time": "20-11-2024 00:38",
+        "news_link": "https://retizen.republika.co.id/posts/488515/rumah-sakit-terbaik-di-jakarta-2024-berdasarkan-rating-tertinggi"
+    },
+    {
+        "title": "Alasan Dibalik Pergantian Nama Bank BTPN Jadi SMBC Indonesia",
+        "category": "Ekonomi",
+        "publish_time": "20-11-2024 00:38",
+        "news_link": "https://ekonomi.republika.co.id/berita/sn84f6502/alasan-dibalik-pergantian-nama-bank-btpn-jadi-smbc-indonesia"
+    },
+    {
+        "title": "Dinas Kesehatan Kab/Kota Terbaik di Pulau Jawa Tahun 2024 Berdasarkan Rating Tertinggi",
+        "category": "Retizen",
+        "publish_time": "20-11-2024 00:38",
+        "news_link": "https://retizen.republika.co.id/posts/488516/dinas-kesehatan-kabkota-terbaik-di-pulau-jawa-tahun-2024-berdasarkan-rating-tertinggi"
+    },
+    {
+        "title": "Librisida Zionis-Israel di Jalur Gaza",
+        "category": "Retizen",
+        "publish_time": "20-11-2024 00:38",
+        "news_link": "https://retizen.republika.co.id/posts/488519/librisida-zionis-israel-di-jalur-gaza"
+    },
+    {
+        "title": "Implikasi Perkembangan Deep Learning secara Global",
+        "category": "Retizen",
+        "publish_time": "20-11-2024 00:37",
+        "news_link": "https://retizen.republika.co.id/posts/488521/implikasi-perkembangan-deep-learning-secara-global"
+    },
+    {
+        "title": "Inovasi Pembelajaran Agama Islam: Membangun Generasi Cerdas dan Spiritual di Era Modern",
+        "category": "Retizen",
+        "publish_time": "20-11-2024 00:37",
+        "news_link": "https://retizen.republika.co.id/posts/488522/inovasi-pembelajaran-agama-islam-membangun-generasi-cerdas-dan-spiritual-di-era-modern"
+    },
+    {
+        "title": "Sel Tunggal Menunjukkan Perilaku Belajar Seseorang",
+        "category": "Retizen",
+        "publish_time": "20-11-2024 00:37",
+        "news_link": "https://retizen.republika.co.id/posts/488525/sel-tunggal-menunjukkan-perilaku-belajar-seseorang"
+    },
+    {
+        "title": "Zelenskyy: Korut Bisa Mengirimkan 100 Ribu Tentara Lawan Ukraina",
+        "category": "News",
+        "publish_time": "20-11-2024 00:32",
+        "news_link": "https://news.republika.co.id/berita/sn8460377/zelenskyy-korut-bisa-mengirimkan-100-ribu-tentara-lawan-ukraina"
+    },
+    {
+        "title": "Kiat Praktis Capai Kebebasan Finansial Kelas Menengah ala Merry Riana",
+        "category": "Ekonomi",
+        "publish_time": "20-11-2024 00:31",
+        "news_link": "https://ekonomi.republika.co.id/berita/sn843r370/kiat-praktis-capai-kebebasan-finansial-kelas-menengah-ala-merry-riana"
+    },
+    {
+        "title": "Dua Kapal Perang Brunei Darussalam Tiba di Surabaya, TNI AL dan Royal Brunei Navy Siap Latma",
+        "category": "Network",
+        "publish_time": "20-11-2024 00:23",
+        "news_link": "https://magentatoday.id/posts/488410/dua-kapal-perang-brunei-darussalam-tiba-di-surabaya-tni-al-dan-royal-brunei-navy-siap-latma"
+    },
+    {
+        "title": "Bahrain Vs Australia Berakhir Imbang 2-2, Timnas Indonesia Masih di Peringkat Tiga",
+        "category": "News",
+        "publish_time": "20-11-2024 00:17",
+        "news_link": "https://news.republika.co.id/berita/sn83gd409/bahrain-vs-australia-berakhir-imbang-22-timnas-indonesia-masih-di-peringkat-tiga"
+    },
+    {
+        "title": "Pendapat Sejumlah Ulama tentang Wanita Bekerja",
+        "category": "Khazanah",
+        "publish_time": "20-11-2024 00:14",
+        "news_link": "https://khazanah.republika.co.id/berita/sn83c6430/pendapat-sejumlah-ulama-tentang-wanita-bekerja"
+    },
+    {
+        "title": "Said Didu Diperiksa Polresta Tangerang Terkait Hoaks Proyek PIK 2",
+        "category": "News",
+        "publish_time": "20-11-2024 00:13",
+        "news_link": "https://news.republika.co.id/berita/sn839o484/said-didu-diperiksa-polresta-tangerang-terkait-hoaks-proyek-pik-2"
+    },
+    {
+        "title": "Shin Tae-yong Tempatkan Lima Pemain Tengah Lawan Arab Saudi, Ini Alasannya",
+        "category": "News",
+        "publish_time": "20-11-2024 00:03",
+        "news_link": "https://news.republika.co.id/berita/sn82qh348/shin-taeyong-tempatkan-lima-pemain-tengah-lawan-arab-saudi-ini-alasannya"
+    },
+    {
+        "title": "Dorong Ekonomi Inklusif, Garudafood Berdayakan UMKM Melalui Kampung Wirausaha",
+        "category": "Esgnow",
+        "publish_time": "20-11-2024 00:03",
+        "news_link": "https://esgnow.republika.co.id/berita/sn82lg349/dorong-ekonomi-inklusif-garudafood-berdayakan-umkm-melalui-kampung-wirausaha"
+    },
+    {
+        "title": "Bahrain Imbang Lawan Australia, Jepang Butuh Satu Kemenangan Lagi untuk ke Piala Dunia",
+        "category": "News",
+        "publish_time": "20-11-2024 00:03",
+        "news_link": "https://news.republika.co.id/berita/sn81z0348/bahrain-imbang-lawan-australia-jepang-butuh-satu-kemenangan-lagi-untuk-ke-piala-dunia"
+    },
+    {
+        "title": "PDIP Singgung Sutiyoso Hingga Anies akan Kampanye untuk Pramono",
+        "category": "News",
+        "publish_time": "20-11-2024 00:03",
+        "news_link": "https://news.republika.co.id/berita/sn80an484/pdip-singgung-sutiyoso-hingga-anies-akan-kampanye-untuk-pramono"
+    },
+    {
+        "title": "Menangkan Luthfi-Yasin, Sudaryono Kerahkan Ribuan Pasukan Jangkrik",
+        "category": "News",
+        "publish_time": "20-11-2024 00:03",
+        "news_link": "https://news.republika.co.id/berita/sn7z2d484/menangkan-luthfiyasin-sudaryono-kerahkan-ribuan-pasukan-jangkrik"
+    },
+    {
+        "title": "Doa yang Dipanjatkan Umar bin Abdul Aziz saat Diangkat Jadi Khalifah",
+        "category": "Khazanah",
+        "publish_time": "19-11-2024 23:03",
+        "news_link": "https://khazanah.republika.co.id/berita/sn80xu430/doa-yang-dipanjatkan-umar-bin-abdul-aziz-saat-diangkat-jadi-khalifah"
+    },
+    {
+        "title": "Shin Tae-yong Optimistis Wujudkan Target Indonesia Posisi 3-4 Grup C Usai Bekuk Saudi",
+        "category": "News",
+        "publish_time": "19-11-2024 23:03",
+        "news_link": "https://news.republika.co.id/berita/sn80w0348/shin-taeyong-optimistis-wujudkan-target-indonesia-posisi-34-grup-c-usai-bekuk-saudi"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini di Kota Palembang dan Sekitarnya: Hujan Ringan - 20 November 2024",
+        "category": "News",
+        "publish_time": "19-11-2024 23:03",
+        "news_link": "https://news.republika.co.id/berita/sn80s2812377742/prakiraan-cuaca-hari-ini-di-kota-palembang-dan-sekitarnya-hujan-ringan-20-november-2024"
+    },
+    {
         "title": "OJK Bidik Pekerja Informal Jadi Peserta Dana Pensiun",
         "category": "Ekonomi",
-        "publish_time": "19-11-2024 23:10",
+        "publish_time": "19-11-2024 23:03",
         "news_link": "https://ekonomi.republika.co.id/berita/sn80dz370/ojk-bidik-pekerja-informal-jadi-peserta-dana-pensiun"
     },
     {
         "title": "'Kurang Ajar' dalam Berdoa, Ini Contohnya",
         "category": "Iqra",
-        "publish_time": "19-11-2024 23:09",
+        "publish_time": "19-11-2024 23:03",
         "news_link": "https://iqra.republika.co.id/berita/sn80bh430/kurang-ajar-dalam-berdoa-ini-contohnya"
     },
     {
         "title": "Jerman yang Sudah Lolos Ditahan Imbang Hungaria Lewat Gol Telat pada Laga Terakhir Grup",
         "category": "News",
-        "publish_time": "19-11-2024 23:07",
+        "publish_time": "19-11-2024 23:03",
         "news_link": "https://news.republika.co.id/berita/sn808l348/jerman-yang-sudah-lolos-ditahan-imbang-hungaria-lewat-gol-telat-pada-laga-terakhir-grup"
     },
     {
         "title": "Bela Ahok Soal Penggusuran, Ketua Harian Serang Balik RK: Itu Provokasi!",
         "category": "News",
-        "publish_time": "19-11-2024 23:05",
+        "publish_time": "19-11-2024 23:03",
         "news_link": "https://news.republika.co.id/berita/sn7zyc484/bela-ahok-soal-penggusuran-ketua-harian-serang-balik-rk-itu-provokasi"
     },
     {
         "title": "Capim KPK Ini Ingin OTT Ditiadakan, Langsung Dapat Tepuk Tangan dari Komisi III DPR",
         "category": "News",
-        "publish_time": "19-11-2024 23:02",
+        "publish_time": "19-11-2024 23:03",
         "news_link": "https://news.republika.co.id/berita/sn72ds409/capim-kpk-ini-ingin-ott-ditiadakan-langsung-dapat-tepuk-tangan-dari-komisi-iii-dpr"
     },
     {
         "title": "Lima Malam Terbaik untuk Berdoa",
         "category": "Iqra",
-        "publish_time": "19-11-2024 22:58",
+        "publish_time": "19-11-2024 23:03",
         "news_link": "https://iqra.republika.co.id/berita/sn7zuj430/lima-malam-terbaik-untuk-berdoa"
     },
     {
         "title": "Kapolri dan Panglima TNI Hadiri Doa Lintas Agama di Jatim",
         "category": "Rejogja",
-        "publish_time": "19-11-2024 22:53",
+        "publish_time": "19-11-2024 23:03",
         "news_link": "https://rejogja.republika.co.id/berita/sn7zlg291/kapolri-dan-panglima-tni-hadiri-doa-lintas-agama-di-jatim"
     },
     {
         "title": "Anak Suka Main Game Roblox? Sekarang Ada Fitur Baru, Orang Tua Bisa Awasi Akun dari Jauh",
         "category": "Ameera",
-        "publish_time": "19-11-2024 22:53",
+        "publish_time": "19-11-2024 23:03",
         "news_link": "https://ameera.republika.co.id/berita/sn7zkr425/anak-suka-main-game-roblox-sekarang-ada-fitur-baru-orang-tua-bisa-awasi-akun-dari-jauh"
     },
     {
         "title": "Bikin Bangga, Rakyat Indonesia Donasi Rp 305 Miliar untuk Palestina",
         "category": "Khazanah",
-        "publish_time": "19-11-2024 22:51",
+        "publish_time": "19-11-2024 23:03",
         "news_link": "https://khazanah.republika.co.id/berita/sn7zix483/bikin-bangga-rakyat-indonesia-donasi-rp-305-miliar-untuk-palestina"
     },
     {
         "title": "Selebrasi Tutup Mulut, Marselino Ferdinan: Tidak Ada Maksud Apa-Apa",
         "category": "News",
-        "publish_time": "19-11-2024 22:51",
+        "publish_time": "19-11-2024 23:03",
         "news_link": "https://news.republika.co.id/berita/sn7zir348/selebrasi-tutup-mulut-marselino-ferdinan-tidak-ada-maksud-apaapa"
     },
     {
         "title": "Prakiraan Cuaca 20 November 2024: Suhu Tinggi di Kota Denpasar Bali",
         "category": "News",
-        "publish_time": "19-11-2024 22:49",
+        "publish_time": "19-11-2024 23:03",
         "news_link": "https://news.republika.co.id/berita/sn7ze21154918880/prakiraan-cuaca-20-november-2024-suhu-tinggi-di-kota-denpasar-bali"
     },
     {
         "title": "Takut Roket Hizbullah, Pemukim Israel Ogah Kembali ke Utara",
         "category": "Khazanah",
-        "publish_time": "19-11-2024 22:46",
+        "publish_time": "19-11-2024 23:03",
         "news_link": "https://khazanah.republika.co.id/berita/sn7z9f483/takut-roket-hizbullah-pemukim-israel-ogah-kembali-ke-utara"
     },
     {
         "title": "Ibu Hamil Disarankan Rutin Konsumsi Vitamin D, Manfaatnya Luar Biasa untuk Anak",
         "category": "Ameera",
-        "publish_time": "19-11-2024 22:38",
+        "publish_time": "19-11-2024 23:03",
         "news_link": "https://ameera.republika.co.id/berita/sn7ywd425/ibu-hamil-disarankan-rutin-konsumsi-vitamin-d-manfaatnya-luar-biasa-untuk-anak"
     },
     {
         "title": "Tim Cadangan Belanda Ditahan Seri Bosnia dalam Laga Internasional Terakhir Edin Dzeko",
         "category": "News",
-        "publish_time": "19-11-2024 22:37",
+        "publish_time": "19-11-2024 23:03",
         "news_link": "https://news.republika.co.id/berita/sn7yut348/tim-cadangan-belanda-ditahan-seri-bosnia-dalam-laga-internasional-terakhir-edin-dzeko"
     },
     {
         "title": "Jokowi Terang-terangan Dukung Ridwan Kamil, Pramono Kecewa? Ini Jawaban Dia",
         "category": "News",
-        "publish_time": "19-11-2024 22:34",
+        "publish_time": "19-11-2024 23:03",
         "news_link": "https://news.republika.co.id/berita/sn7e6w487/jokowi-terangterangan-dukung-ridwan-kamil-pramono-kecewa-ini-jawaban-dia"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini, 20 November 2024: Kota Makassar, Hujan Petir",
         "category": "News",
-        "publish_time": "19-11-2024 22:31",
+        "publish_time": "19-11-2024 22:03",
         "news_link": "https://news.republika.co.id/berita/sn7yk21992438060/prakiraan-cuaca-hari-ini-20-november-2024-kota-makassar-hujan-petir"
     },
     {
         "title": "Contoh Laporan Iseng yang Disebut Istana di Lapor Mas Wapres",
         "category": "News",
-        "publish_time": "19-11-2024 22:26",
+        "publish_time": "19-11-2024 22:03",
         "news_link": "https://news.republika.co.id/berita/sn7ycr430/contoh-laporan-iseng-yang-disebut-istana-di-lapor-mas-wapres"
     },
     {
         "title": "Usung Tema Palestina, Omplok Layar Tarik Perhatian Wisatawan di Pantai Bali",
         "category": "Khazanah",
-        "publish_time": "19-11-2024 22:19",
+        "publish_time": "19-11-2024 22:03",
         "news_link": "https://khazanah.republika.co.id/berita/sn7y0s483/usung-tema-palestina-omplok-layar-tarik-perhatian-wisatawan-di-pantai-bali"
     },
     {
         "title": "Prakiraan Cuaca Medan dan Sekitarnya 20 November 2024: Hujan Ringan Sepanjang Siang",
         "category": "News",
-        "publish_time": "19-11-2024 22:19",
+        "publish_time": "19-11-2024 22:03",
         "news_link": "https://news.republika.co.id/berita/sn7y01967310451/prakiraan-cuaca-medan-dan-sekitarnya-20-november-2024-hujan-ringan-sepanjang-siang"
     },
     {
         "title": "Lima Fakta Kasus Mahasiswa ITB Tewas Bunuh Diri Lompat dari Apartemen",
         "category": "News",
-        "publish_time": "19-11-2024 22:12",
+        "publish_time": "19-11-2024 22:03",
         "news_link": "https://news.republika.co.id/berita/sn7xdt377/lima-fakta-kasus-mahasiswa-itb-tewas-bunuh-diri-lompat-dari-apartemen"
     },
     {
         "title": "Para Korban Penggusuran 2016 Bicara Pilgub Jakarta, Mereka Memilih Siapa?",
         "category": "News",
-        "publish_time": "19-11-2024 22:12",
+        "publish_time": "19-11-2024 22:03",
         "news_link": "https://news.republika.co.id/berita/sn7dmk487/para-korban-penggusuran-2016-bicara-pilgub-jakarta-mereka-memilih-siapa"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini Tanggal 20 November 2024 di Kota Malang dan Sekitarnya",
         "category": "News",
-        "publish_time": "19-11-2024 22:12",
+        "publish_time": "19-11-2024 22:03",
         "news_link": "https://news.republika.co.id/berita/sn7xb61974384020/prakiraan-cuaca-hari-ini-tanggal-20-november-2024-di-kota-malang-dan-sekitarnya"
     },
     {
         "title": "Film Mary Tampilkan Pemain Israel, Netflix Dinilai Ingin Hapus Identitas Palestina",
         "category": "Khazanah",
-        "publish_time": "19-11-2024 22:12",
+        "publish_time": "19-11-2024 22:03",
         "news_link": "https://khazanah.republika.co.id/berita/sn7x83483/film-mary-tampilkan-pemain-israel-netflix-dinilai-ingin-hapus-identitas-palestina"
     },
     {
         "title": "Pengumuman Tender Umum PERHUTANI",
         "category": "Native",
-        "publish_time": "19-11-2024 22:12",
+        "publish_time": "19-11-2024 22:03",
         "news_link": "https://republika.co.id/berita/sn708o325/pengumuman-tender-umum-perhutani"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini 20 November 2024 untuk Kota Surabaya dan Sekitarnya: Hujan Ringan",
-        "category": "News",
-        "publish_time": "19-11-2024 22:12",
-        "news_link": "https://news.republika.co.id/berita/sn7wm31498989776/prakiraan-cuaca-hari-ini-20-november-2024-untuk-kota-surabaya-dan-sekitarnya-hujan-ringan"
-    },
-    {
-        "title": "Tekuk Arab Saudi, Timnas Indonesia Lewati Capaian Vietnam dan Thailand",
-        "category": "News",
-        "publish_time": "19-11-2024 22:12",
-        "news_link": "https://news.republika.co.id/berita/sn7wit377/tekuk-arab-saudi-timnas-indonesia-lewati-capaian-vietnam-dan-thailand"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini: 20 November 2024 - Kota Yogyakarta dan Sekitarnya: Hujan Petir",
-        "category": "News",
-        "publish_time": "19-11-2024 21:12",
-        "news_link": "https://news.republika.co.id/berita/sn7vs41483554191/prakiraan-cuaca-hari-ini-20-november-2024-kota-yogyakarta-dan-sekitarnya-hujan-petir"
-    },
-    {
-        "title": "Prakiraan Cuaca Kota Semarang dan Sekitarnya - 20 November 2024: Hujan Ringan",
-        "category": "News",
-        "publish_time": "19-11-2024 21:12",
-        "news_link": "https://news.republika.co.id/berita/sn7uy61104712512/prakiraan-cuaca-kota-semarang-dan-sekitarnya-20-november-2024-hujan-ringan"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini tanggal 20 November 2024 untuk Daerah Tangerang dan Sekitarnya: Cuaca Berawan",
-        "category": "News",
-        "publish_time": "19-11-2024 21:12",
-        "news_link": "https://news.republika.co.id/berita/sn7uci1890601100/prakiraan-cuaca-hari-ini-tanggal-20-november-2024-untuk-daerah-tangerang-dan-sekitarnya-cuaca-berawan"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini 20 November 2024, Kota Jakarta Utara Diprediksi Cerah",
-        "category": "News",
-        "publish_time": "19-11-2024 21:12",
-        "news_link": "https://news.republika.co.id/berita/sn7tsh1679511692/prakiraan-cuaca-hari-ini-20-november-2024-kota-jakarta-utara-diprediksi-cerah"
-    },
-    {
-        "title": "Keagungan Sholat: Jadwal Sholat Hari Ini 20 November 2024 di Palembang",
-        "category": "Iqra",
-        "publish_time": "19-11-2024 20:12",
-        "news_link": "https://iqra.republika.co.id/berita/sn7tev2145865557/keagungan-sholat-jadwal-sholat-hari-ini-20-november-2024-di-palembang"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini 20 November 2024 untuk Bekasi dan Sekitarnya: Cerah di Bekasi",
-        "category": "News",
-        "publish_time": "19-11-2024 20:12",
-        "news_link": "https://news.republika.co.id/berita/sn7syl794964169/prakiraan-cuaca-hari-ini-20-november-2024-untuk-bekasi-dan-sekitarnya-cerah-di-bekasi"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini Tanggal 20 November 2024, Kota Padang dan Sekitarnya",
-        "category": "News",
-        "publish_time": "19-11-2024 20:12",
-        "news_link": "https://news.republika.co.id/berita/sn7sww675695280/prakiraan-cuaca-hari-ini-tanggal-20-november-2024-kota-padang-dan-sekitarnya"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini 20 November 2024 di Bandung dan Sekitarnya: Hujan di Kota Cimahi",
-        "category": "News",
-        "publish_time": "19-11-2024 20:12",
-        "news_link": "https://news.republika.co.id/berita/sn7sd61618317907/prakiraan-cuaca-hari-ini-20-november-2024-di-bandung-dan-sekitarnya-hujan-di-kota-cimahi"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini di Kota Banda Aceh - 20 November 2024",
-        "category": "News",
-        "publish_time": "19-11-2024 20:12",
-        "news_link": "https://news.republika.co.id/berita/sn7rxu724174805/prakiraan-cuaca-hari-ini-di-kota-banda-aceh-20-november-2024"
-    },
-    {
-        "title": "Begini Murkanya Jamaah Muslimin Saksikan Tentara IDF Lecehkan Alquran",
-        "category": "Khazanah",
-        "publish_time": "19-11-2024 20:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sn7e35483/begini-murkanya-jamaah-muslimin-saksikan-tentara-idf-lecehkan-alquran"
-    },
-    {
-        "title": "Nabi Yusuf dan Nabi Muhammad, Mana Lebih Tampan?",
-        "category": "Khazanah",
-        "publish_time": "19-11-2024 20:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sn77hk430/nabi-yusuf-dan-nabi-muhammad-mana-lebih-tampan"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini 20 November 2024 di Jakarta: Wujudkan Kehidupan Berkah Melalui Ibadah",
-        "category": "Iqra",
-        "publish_time": "19-11-2024 19:12",
-        "news_link": "https://iqra.republika.co.id/berita/sn7qhv2030984522/jadwal-sholat-hari-ini-20-november-2024-di-jakarta-wujudkan-kehidupan-berkah-melalui-ibadah"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini, 20 November 2024, di Kota Balikpapan: Hujan Ringan",
-        "category": "News",
-        "publish_time": "19-11-2024 19:12",
-        "news_link": "https://news.republika.co.id/berita/sn7qez367450765/prakiraan-cuaca-hari-ini-20-november-2024-di-kota-balikpapan-hujan-ringan"
-    },
-    {
-        "title": "Menemukan Kedamaian dengan Sholat: Jadwal Sholat Hari Ini, 20 November 2024 di Medan",
-        "category": "Iqra",
-        "publish_time": "19-11-2024 19:12",
-        "news_link": "https://iqra.republika.co.id/berita/sn7p2c261639175/menemukan-kedamaian-dengan-sholat-jadwal-sholat-hari-ini-20-november-2024-di-medan"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini: 20 November 2024 di Depok",
-        "category": "Iqra",
-        "publish_time": "19-11-2024 19:12",
-        "news_link": "https://iqra.republika.co.id/berita/sn7o3i1930780819/jadwal-sholat-hari-ini-20-november-2024-di-depok"
-    },
-    {
-        "title": "Harmonisasi Hidup: Pentingnya Sholat Tepat Waktu dan Jadwal Sholat Hari Ini di Semarang, 20 November 2024",
-        "category": "Iqra",
-        "publish_time": "19-11-2024 18:12",
-        "news_link": "https://iqra.republika.co.id/berita/sn7mxm1718582720/harmonisasi-hidup-pentingnya-sholat-tepat-waktu-dan-jadwal-sholat-hari-ini-di-semarang-20-november-2024"
-    },
-    {
-        "title": "Alasan Kejagung Harus Ungkap Aliran Uang Zarof Ricar Secara Menyeluruh Menurut Pengamat",
-        "category": "News",
-        "publish_time": "19-11-2024 18:12",
-        "news_link": "https://news.republika.co.id/berita/sn701g409/alasan-kejagung-harus-ungkap-aliran-uang-zarof-ricar-secara-menyeluruh-menurut-pengamat"
-    },
-    {
-        "title": "Siap-Siap! PPN Naik Jadi 12% Mulai 2025",
-        "category": "Visual",
-        "publish_time": "19-11-2024 17:12",
-        "news_link": "https://visual.republika.co.id/berita/sn711e370/siapsiap-ppn-naik-jadi-12-mulai-2025"
-    },
-    {
-        "title": "Di Tengah Isu Kenaikan Tarif PPN, DPR Sahkan RUU Tax Amnesty Masuk Prolegnas Prioritas",
-        "category": "Ekonomi",
-        "publish_time": "19-11-2024 17:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sn7k8j490/di-tengah-isu-kenaikan-tarif-ppn-dpr-sahkan-ruu-tax-amnesty-masuk-prolegnas-prioritas"
-    },
-    {
-        "title": "Soal Tarif PPN Jadi 12 Persen, Ini Respons Toyota",
-        "category": "Ekonomi",
-        "publish_time": "19-11-2024 17:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sn7isr490/soal-tarif-ppn-jadi-12-persen-ini-respons-toyota"
-    },
-    {
-        "title": "Pelni Uji Petik Kapal Pastikan Kelaikan Angkutan Natal dan Tahun Baru",
-        "category": "Ekonomi",
-        "publish_time": "19-11-2024 17:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sn7j2d490/pelni-uji-petik-kapal-pastikan-kelaikan-angkutan-natal-dan-tahun-baru"
-    },
-    {
-        "title": "Melepas Burung Julang Emas Kembali ke Alam Liar",
-        "category": "Visual",
-        "publish_time": "19-11-2024 17:12",
-        "news_link": "https://visual.republika.co.id/berita/sn7j0x375/melepas-burung-julang-emas-kembali-ke-alam-liar"
-    },
-    {
-        "title": "Kemenhub Buka Peluang Investasi Infrastruktur Transportasi Darat",
-        "category": "Ekonomi",
-        "publish_time": "19-11-2024 17:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sn7ixq490/kemenhub-buka-peluang-investasi-infrastruktur-transportasi-darat"
-    },
-    {
-        "title": "Debat Ketiga Pilgub Aceh Sempat Ricuh, Ini Dugaan Penyebabnya",
-        "category": "News",
-        "publish_time": "19-11-2024 17:12",
-        "news_link": "https://news.republika.co.id/berita/sn7irv320/debat-ketiga-pilgub-aceh-sempat-ricuh-ini-dugaan-penyebabnya"
     }
 ]
