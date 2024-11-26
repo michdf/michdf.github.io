@@ -1,50 +1,158 @@
 [
     {
+        "title": "Erick Thohir: 50 Ribu UMKM Masuk Ekosistem Tender BUMN di Bawah Rp15 miliar",
+        "category": "News",
+        "publish_time": "26-11-2024 23:07",
+        "news_link": "https://news.republika.co.id/berita/snkxu2484/erick-thohir-50-ribu-umkm-masuk-ekosistem-tender-bumn-di-bawah-rp15-miliar"
+    },
+    {
+        "title": "Dua Gol Lewandowski ke Gawang Brest Bawa Barcelona Kembali ke Jalur Kemenangan",
+        "category": "News",
+        "publish_time": "26-11-2024 23:05",
+        "news_link": "https://news.republika.co.id/berita/snkyuc348/dua-gol-lewandowski-ke-gawang-brest-bawa-barcelona-kembali-ke-jalur-kemenangan"
+    },
+    {
+        "title": "LPSK Angkat Bicara Soal Polisi Tembak Pelajar di Semarang",
+        "category": "News",
+        "publish_time": "26-11-2024 22:59",
+        "news_link": "https://news.republika.co.id/berita/snkcgg451/lpsk-angkat-bicara-soal-polisi-tembak-pelajar-di-semarang"
+    },
+    {
+        "title": "Erick Thohir Grateful Women Team Qualifies to Semifinals of AFF Women 2024",
+        "category": "En",
+        "publish_time": "18 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/snkxmt415/erick-thohir-grateful-women-team-qualifies-to-semifinals-of-aff-women-2024"
+    },
+    {
+        "title": "Empat Amalan Bagi Suami Istri yang Belum Mendapatkan Anak",
+        "category": "Khazanah",
+        "publish_time": "26-11-2024 22:53",
+        "news_link": "https://khazanah.republika.co.id/berita/snkyac430/empat-amalan-bagi-suami-istri-yang-belum-mendapatkan-anak"
+    },
+    {
+        "title": "29 Kampus Terbaik di Indonesia Versi THE Interdisciplinary Science Rankings 2025, IPB University Teratas",
+        "category": "Network",
+        "publish_time": "26-11-2024 22:53",
+        "news_link": "https://kampus.republika.co.id/posts/489765/29-kampus-terbaik-di-indonesia-versi-the-interdisciplinary-science-rankings-2025-ipb-university-teratas"
+    },
+    {
+        "title": "Ditinggal Ruben Amorim, Sporting Dipermalukan Arsenal 5-1 di Lisabon",
+        "category": "News",
+        "publish_time": "26-11-2024 22:53",
+        "news_link": "https://news.republika.co.id/berita/snkya2348/ditinggal-ruben-amorim-sporting-dipermalukan-arsenal-51-di-lisabon"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini di Kota Denpasar Bali dan Sekitarnya: Hujan Ringan - 27 November 2024",
+        "category": "News",
+        "publish_time": "26-11-2024 22:49",
+        "news_link": "https://news.republika.co.id/berita/snky28915409489/prakiraan-cuaca-hari-ini-di-kota-denpasar-bali-dan-sekitarnya-hujan-ringan-27-november-2024"
+    },
+    {
+        "title": "Meta dan Google Desak Australia Tunda RUU Larangan Medsos untuk Anak di Bawah 16 Tahun",
+        "category": "Ameera",
+        "publish_time": "26-11-2024 22:47",
+        "news_link": "https://ameera.republika.co.id/berita/snky06425/meta-dan-google-desak-australia-tunda-ruu-larangan-medsos-untuk-anak-di-bawah-16-tahun"
+    },
+    {
+        "title": "De Ketelaere Jadi Bintang Atalanta Saat Gasak Young Boys 6-1 di Liga Champions",
+        "category": "News",
+        "publish_time": "26-11-2024 22:42",
+        "news_link": "https://news.republika.co.id/berita/snkxqo348/de-ketelaere-jadi-bintang-atalanta-saat-gasak-young-boys-61-di-liga-champions"
+    },
+    {
+        "title": "Benarkah Planet Mars Layak Dihuni? Ini Bukti yang Ditemukan Peneliti",
+        "category": "Ameera",
+        "publish_time": "26-11-2024 22:40",
+        "news_link": "https://ameera.republika.co.id/berita/snkxo4425/benarkah-planet-mars-layak-dihuni-ini-bukti-yang-ditemukan-peneliti"
+    },
+    {
+        "title": "Boycott of Israeli Products Considered Effective in Defeating Global Neocolonialism",
+        "category": "En",
+        "publish_time": "35 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/snkxj6415/boycott-of-israeli-products-considered-effective-in-defeating-global-neocolonialism"
+    },
+    {
+        "title": "AC Milan Susah Payah Pertahankan Kemenangan Atas Slovan Bratislava",
+        "category": "News",
+        "publish_time": "26-11-2024 22:34",
+        "news_link": "https://news.republika.co.id/berita/snkxe3348/ac-milan-susah-payah-pertahankan-kemenangan-atas-slovan-bratislava"
+    },
+    {
+        "title": "Prakiraan Cuaca Kota Makassar dan Sekitarnya Hari Ini: Hujan Ringan - 27 November 2024",
+        "category": "News",
+        "publish_time": "26-11-2024 22:31",
+        "news_link": "https://news.republika.co.id/berita/snkx891753028160/prakiraan-cuaca-kota-makassar-dan-sekitarnya-hari-ini-hujan-ringan-27-november-2024"
+    },
+    {
+        "title": "Infografis 3 Perkara Syukur Menurut Imam Ghazali",
+        "category": "Visual",
+        "publish_time": "26-11-2024 22:30",
+        "news_link": "https://visual.republika.co.id/berita/snkb49366/infografis-3-perkara-syukur-menurut-imam-ghazali"
+    },
+    {
+        "title": "Erick Thohir Bersyukur Timnas Putri Lolos ke Semifinal Piala AFF Wanita 2024",
+        "category": "News",
+        "publish_time": "26-11-2024 22:19",
+        "news_link": "https://news.republika.co.id/berita/snkwpo348/erick-thohir-bersyukur-timnas-putri-lolos-ke-semifinal-piala-aff-wanita-2024"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini Tanggal 27 November 2024, Kota Medan dan Sekitarnya: Hujan Ringan",
+        "category": "News",
+        "publish_time": "26-11-2024 22:19",
+        "news_link": "https://news.republika.co.id/berita/snkwo5192424783/prakiraan-cuaca-hari-ini-tanggal-27-november-2024-kota-medan-dan-sekitarnya-hujan-ringan"
+    },
+    {
+        "title": "Claudia Scheunemann Bangga Jadi Penentu Kemenangan Timnas Putri Lawan Malaysia",
+        "category": "News",
+        "publish_time": "26-11-2024 22:14",
+        "news_link": "https://news.republika.co.id/berita/snkwh7348/claudia-scheunemann-bangga-jadi-penentu-kemenangan-timnas-putri-lawan-malaysia"
+    },
+    {
         "title": "Banyak yang Ragukan Dalih Kapolrestabes soal Korban Anggota Gangster, Ini Kesaksian Mereka",
         "category": "News",
-        "publish_time": "26-11-2024 22:04",
+        "publish_time": "26-11-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/snk80n487/banyak-yang-ragukan-dalih-kapolrestabes-soal-korban-anggota-gangster-ini-kesaksian-mereka"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 27 November 2024: Kota Malang dan Sekitarnya",
         "category": "News",
-        "publish_time": "26-11-2024 22:04",
+        "publish_time": "26-11-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/snkvz72004934597/prakiraan-cuaca-hari-ini-27-november-2024-kota-malang-dan-sekitarnya"
     },
     {
         "title": "Biden: Hizbullah-Lebanon Sepakati Gencatan Senjata",
         "category": "News",
-        "publish_time": "26-11-2024 22:01",
+        "publish_time": "26-11-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/snkvvl377/biden-hizbullahlebanon-sepakati-gencatan-senjata"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini Tanggal 27 November 2024: Surabaya dan Berawan",
         "category": "News",
-        "publish_time": "26-11-2024 21:49",
+        "publish_time": "26-11-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/snkva5111831148/prakiraan-cuaca-hari-ini-tanggal-27-november-2024-surabaya-dan-berawan"
     },
     {
         "title": "Hakim: Putusan Praperadilan Bukan Akhir dari Segala-galanya Terhadap Tom Lembong",
         "category": "News",
-        "publish_time": "26-11-2024 21:46",
+        "publish_time": "26-11-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/snkv5l377/hakim-putusan-praperadilan-bukan-akhir-dari-segalagalanya-terhadap-tom-lembong"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 27 November 2024: Kota Yogyakarta Cerah",
         "category": "News",
-        "publish_time": "26-11-2024 21:31",
+        "publish_time": "26-11-2024 21:12",
         "news_link": "https://news.republika.co.id/berita/snkug4925873648/prakiraan-cuaca-hari-ini-27-november-2024-kota-yogyakarta-cerah"
     },
     {
         "title": "Polda Siagakan 4.000 Personel Khusus untuk Amankan Pilgub Jakarta",
         "category": "News",
-        "publish_time": "26-11-2024 21:29",
+        "publish_time": "26-11-2024 21:12",
         "news_link": "https://news.republika.co.id/berita/snk4n3487/polda-siagakan-4000-personel-khusus-untuk-amankan-pilgub-jakarta"
     },
     {
         "title": "Prakiraan Cuaca Kota Semarang: Hujan Ringan 27 November 2024",
         "category": "News",
-        "publish_time": "26-11-2024 21:13",
+        "publish_time": "26-11-2024 21:12",
         "news_link": "https://news.republika.co.id/berita/snktma1402615168/prakiraan-cuaca-kota-semarang-hujan-ringan-27-november-2024"
     },
     {
@@ -190,113 +298,5 @@
         "category": "Retizen",
         "publish_time": "26-11-2024 19:12",
         "news_link": "https://retizen.republika.co.id/posts/489460/mengubah-minyak-jelantah-jadi-lilin-aromaterapi"
-    },
-    {
-        "title": "Modernisasi Pertanian untuk Kesejahteraan Rakyat",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489467/modernisasi-pertanian-untuk-kesejahteraan-rakyat"
-    },
-    {
-        "title": "Mengapa Ilmu Ekonomi Belum Mampu Menyejahterakan Umat Manusia?",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489469/mengapa-ilmu-ekonomi-belum-mampu-menyejahterakan-umat-manusia"
-    },
-    {
-        "title": "Fast Food: Kenyamanan yang Mengancam Kesehatan Anda",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489464/fast-food-kenyamanan-yang-mengancam-kesehatan-anda"
-    },
-    {
-        "title": "Resensi Buku Filosofi Menikmati Hidup",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489486/resensi-buku-filosofi-menikmati-hidup"
-    },
-    {
-        "title": "Literasi Alquran dan Pendidikan: Membangun Fondasi Peradaban Berkelanjutan",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489525/literasi-alquran-dan-pendidikan-membangun-fondasi-peradaban-berkelanjutan"
-    },
-    {
-        "title": "5 Rekomendasi Film Islami yang Wajib Ditonton Saat Tahun Baru Bareng Keluarga",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489518/5-rekomendasi-film-islami-yang-wajib-ditonton-saat-tahun-baru-bareng-keluarga"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini: Pentingnya Menjaga Waktu di Jakarta, 27 November 2024",
-        "category": "Iqra",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://iqra.republika.co.id/berita/snkp6f2052212847/jadwal-sholat-hari-ini-pentingnya-menjaga-waktu-di-jakarta-27-november-2024"
-    },
-    {
-        "title": "Indonesia di Persimpangan: PPN Tertinggi, Gaji Terendah, dan Keistimewaan Crazy Rich",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489519/indonesia-di-persimpangan-ppn-tertinggi-gaji-terendah-dan-keistimewaan-crazy-rich"
-    },
-    {
-        "title": "Bantuan Sosial Sudah tidak Relevan untuk Mengatasi Kemiskinan",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489539/bantuan-sosial-sudah-tidak-relevan-untuk-mengatasi-kemiskinan"
-    },
-    {
-        "title": "Apa Saja yang Dilakukan Dokter Hewan di Klinik?",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489555/apa-saja-yang-dilakukan-dokter-hewan-di-klinik"
-    },
-    {
-        "title": "Mengenal Tugas Perawat di Rumah Sakit: Lebih dari Sekadar Memberikan Obat",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489544/mengenal-tugas-perawat-di-rumah-sakit-lebih-dari-sekadar-memberikan-obat"
-    },
-    {
-        "title": "Mengubah Kebiasaan, Mengubah Hidup",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489541/mengubah-kebiasaan-mengubah-hidup"
-    },
-    {
-        "title": "Ekonomi Kota Surabaya Tahun 2023",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489596/ekonomi-kota-surabaya-tahun-2023"
-    },
-    {
-        "title": "Mengungkapkan Rahasia Trading",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489547/mengungkapkan-rahasia-trading"
-    },
-    {
-        "title": "Kebiasaan Cuci Tangan Pengaruhi Jumlah Bakteri pada Tangan",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489546/kebiasaan-cuci-tangan-pengaruhi-jumlah-bakteri-pada-tangan"
-    },
-    {
-        "title": "Gagal Ginjal pada Anak: Sebuah Realitas yang Memerlukan Perhatian Serius",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489545/gagal-ginjal-pada-anak-sebuah-realitas-yang-memerlukan-perhatian-serius"
-    },
-    {
-        "title": "Hal Penting yang Harus Diperhatikan Terkait Pembelajaran Coding Diterapkan Pada Jenjang SD dan SMP",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489560/hal-penting-yang-harus-diperhatikan-terkait-pembelajaran-coding-diterapkan-pada-jenjang-sd-dan-smp"
-    },
-    {
-        "title": "Pernikahan Dini di Kalangan Remaja",
-        "category": "Retizen",
-        "publish_time": "26-11-2024 19:12",
-        "news_link": "https://retizen.republika.co.id/posts/489559/pernikahan-dini-di-kalangan-remaja"
     }
 ]
