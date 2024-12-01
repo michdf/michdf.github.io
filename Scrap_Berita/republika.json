@@ -1,5 +1,47 @@
 [
     {
+        "title": "LRT Jabodebek Arah Harjamukti Mogok, Penumpang Dievakuasi",
+        "category": "News",
+        "publish_time": "01 December 2024, 18:09",
+        "news_link": "https://news.republika.co.id/berita/sntb00370/lrt-jabodebek-arah-harjamukti-mogok-penumpang-dievakuasi"
+    },
+    {
+        "title": "Masjid Berbentuk Perahu Pinisi Ikon Bulukumba\u00a0Dibuka",
+        "category": "Khazanah",
+        "publish_time": "01 December 2024, 18:02",
+        "news_link": "https://khazanah.republika.co.id/berita/sntanu366/masjid-berbentuk-perahu-pinisi-ikon-bulukumbadibuka"
+    },
+    {
+        "title": "Di Rapimnas Kadin Indonesia 2024, AHY Tegaskan Kemiskinan Musuh Bersama",
+        "category": "News",
+        "publish_time": "01 December 2024, 18:00",
+        "news_link": "https://news.republika.co.id/berita/sntakm370/di-rapimnas-kadin-indonesia-2024-ahy-tegaskan-kemiskinan-musuh-bersama"
+    },
+    {
+        "title": "Buat Badan Hukum Sendiri, JATMAN Pimpinan Habib Luthfi Pekalongan Ingin Keluar dari PBNU?",
+        "category": "Khazanah",
+        "publish_time": "01 December 2024, 17:54",
+        "news_link": "https://khazanah.republika.co.id/berita/sntabd320/buat-badan-hukum-sendiri-jatman-pimpinan-habib-luthfi-pekalongan-ingin-keluar-dari-pbnu"
+    },
+    {
+        "title": "Kepala BKPM Yakin Indonesia Bisa Gaet Investasi Rp 2.000 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "01 December 2024, 17:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/snt8dj370/kepala-bkpm-yakin-indonesia-bisa-gaet-investasi-rp-2000-triliun"
+    },
+    {
+        "title": "Keluarga Gamma Bongkar Upaya Polisi Minta Kasus Penembakan Siswa SMKN 4 tak Diperpanjang",
+        "category": "News",
+        "publish_time": "01 December 2024, 17:23",
+        "news_link": "https://news.republika.co.id/berita/snt8uz409/keluarga-gamma-bongkar-upaya-polisi-minta-kasus-penembakan-siswa-smkn-4-tak-diperpanjang"
+    },
+    {
+        "title": "Pemerintah Upayakan Peroleh Fasilitas Bebas Tarif Bea Masuk dari AS",
+        "category": "Ekonomi",
+        "publish_time": "01 December 2024, 17:15",
+        "news_link": "https://ekonomi.republika.co.id/berita/snt7xr370/pemerintah-upayakan-peroleh-fasilitas-bebas-tarif-bea-masuk-dari-as"
+    },
+    {
         "title": "Koh Dennis: Harta yang Disedekahkan Datangnya dari Allah SWT",
         "category": "Video",
         "publish_time": "01 December 2024, 17:11",
@@ -79,9 +121,9 @@
     },
     {
         "title": "BMKG Catat 107 Kali Gempa Bumi di Jabar",
-        "category": "News",
+        "category": "Rejabar",
         "publish_time": "01 December 2024, 14:56",
-        "news_link": "https://news.republika.co.id/berita/snt21j416/bmkg-catat-107-kali-gempa-bumi-di-jabar"
+        "news_link": "https://rejabar.republika.co.id/berita/snt21j416/bmkg-catat-107-kali-gempa-bumi-di-jabar"
     },
     {
         "title": "Trump Ancam Negara-Negara BRICS dengan Tarif 100 Persen",
@@ -256,47 +298,5 @@
         "category": "Network",
         "publish_time": "01 December 2024, 12:31",
         "news_link": "https://seputarmiliter.id/posts/490598/ahy-dan-petinggi-demokrat-takziah-ke-kediaman-h-misan-samsuri"
-    },
-    {
-        "title": "Ilmuwan Temukan Penyebab Autisme",
-        "category": "Network",
-        "publish_time": "01 December 2024, 12:31",
-        "news_link": "https://impresiupdate.id/posts/490603/ilmuwan-temukan-penyebab-autisme"
-    },
-    {
-        "title": "Awas... Depresi Bisa Meningkatkan Risiko Penyakit Kronis Lho...",
-        "category": "Network",
-        "publish_time": "01 December 2024, 12:31",
-        "news_link": "https://impresiupdate.id/posts/490606/awas-depresi-bisa-meningkatkan-risiko-penyakit-kronis-lho-"
-    },
-    {
-        "title": "Kolaborasi NCC dan Linkedin Dalam Rangkaian JIF 2024 Siap Gelar Webinar Karier",
-        "category": "News",
-        "publish_time": "01 December 2024, 12:31",
-        "news_link": "https://news.republika.co.id/berita/snsvbt370/kolaborasi-ncc-dan-linkedin-dalam-rangkaian-jif-2024-siap-gelar-webinar-karier"
-    },
-    {
-        "title": "Ilmuwan Temukan Serigala Ethiopia Meniru Lebah Menjilati Bunga",
-        "category": "Network",
-        "publish_time": "01 December 2024, 12:30",
-        "news_link": "https://impresiupdate.id/posts/490608/ilmuwan-temukan-serigala-ethiopia-meniru-lebah-menjilati-bunga"
-    },
-    {
-        "title": "Kontroversi Kapolrestabes Semarang, Terungkap di Sidang Diduga Perantara SYL dengan Firli",
-        "category": "News",
-        "publish_time": "01 December 2024, 12:29",
-        "news_link": "https://news.republika.co.id/berita/snsv9o487/kontroversi-kapolrestabes-semarang-terungkap-di-sidang-diduga-perantara-syl-dengan-firli"
-    },
-    {
-        "title": "Mengungkap Sejarah Terjemah Alquran : Awal Dominasi Orientalis Hingga Kiprah Syekh Fanshuri",
-        "category": "Retizen",
-        "publish_time": "01 December 2024, 12:29",
-        "news_link": "https://retizen.republika.co.id/posts/490548/mengungkap-sejarah-terjemah-alquran-awal-dominasi-orientalis-hingga-kiprah-syekh-fanshuri"
-    },
-    {
-        "title": "Seni Mengelola Stres: Mengapa Stres tidak Selalu Buruk?",
-        "category": "Retizen",
-        "publish_time": "01 December 2024, 12:29",
-        "news_link": "https://retizen.republika.co.id/posts/490577/seni-mengelola-stres-mengapa-stres-tidak-selalu-buruk"
     }
 ]
