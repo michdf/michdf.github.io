@@ -1,5 +1,89 @@
 [
     {
+        "title": "PBB Gelar Pekan Kreatif untuk Penyandang Disabilitas",
+        "category": "Ameera",
+        "publish_time": "06-12-2024 09:11",
+        "news_link": "https://ameera.republika.co.id/berita/so2euv416/pbb-gelar-pekan-kreatif-untuk-penyandang-disabilitas"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok, 7 Desember 2024: Kota Malang Diprediksi Alami Hujan Ringan",
+        "category": "News",
+        "publish_time": "06-12-2024 09:04",
+        "news_link": "https://news.republika.co.id/berita/so2ej71376486841/prakiraan-cuaca-besok-7-desember-2024-kota-malang-diprediksi-alami-hujan-ringan"
+    },
+    {
+        "title": "Rahasia Kata dalam Alquran, Begini Penjelasan Ahli",
+        "category": "Khazanah",
+        "publish_time": "06-12-2024 08:59",
+        "news_link": "https://khazanah.republika.co.id/berita/so2043451/rahasia-kata-dalam-alquran-begini-penjelasan-ahli"
+    },
+    {
+        "title": "Jawaban Mayor Teddy Soal Keputusan Miftah Mundur dari Utusan Presiden",
+        "category": "News",
+        "publish_time": "06-12-2024 08:58",
+        "news_link": "https://news.republika.co.id/berita/so2e9h377/jawaban-mayor-teddy-soal-keputusan-miftah-mundur-dari-utusan-presiden"
+    },
+    {
+        "title": "Jaga Kelestarian Harimau Sumatra, Seiko dan TWNC Luncurkan Jam Edisi Terbatas",
+        "category": "Video",
+        "publish_time": "06-12-2024 08:57",
+        "news_link": "https://tv.republika.co.id/berita/so2e88467/jaga-kelestarian-harimau-sumatra-seiko-dan-twnc-luncurkan-jam-edisi-terbatas"
+    },
+    {
+        "title": "Urgensi Pembiayaan Syariah di Tengah Turbulensi Ekonomi Global",
+        "category": "Kolom",
+        "publish_time": "06-12-2024 08:51",
+        "news_link": "https://analisis.republika.co.id/berita/so2dxt393/urgensi-pembiayaan-syariah-di-tengah-turbulensi-ekonomi-global"
+    },
+    {
+        "title": "Prakiraan Cuaca Kota Surabaya Besok: Hujan Ringan pada 7 Desember 2024",
+        "category": "News",
+        "publish_time": "06-12-2024 08:49",
+        "news_link": "https://news.republika.co.id/berita/so2du7278523537/prakiraan-cuaca-kota-surabaya-besok-hujan-ringan-pada-7-desember-2024"
+    },
+    {
+        "title": "Proyek ACCESS Perkenalkan Energi Terbarukan ke Desa-Desa Terpencil",
+        "category": "Esgnow",
+        "publish_time": "06-12-2024 08:48",
+        "news_link": "https://esgnow.republika.co.id/berita/so2dsn416/proyek-access-perkenalkan-energi-terbarukan-ke-desadesa-terpencil"
+    },
+    {
+        "title": "Miftah Mundur dari Jabatan Utusan Presiden, Ini Sikap Istana",
+        "category": "News",
+        "publish_time": "06-12-2024 08:38",
+        "news_link": "https://news.republika.co.id/berita/so2dcy377/miftah-mundur-dari-jabatan-utusan-presiden-ini-sikap-istana"
+    },
+    {
+        "title": "Toreh Sejarah, PP Muhammadiyah Kini Punya Formatur Perempuan",
+        "category": "Khazanah",
+        "publish_time": "06-12-2024 08:35",
+        "news_link": "https://khazanah.republika.co.id/berita/so2d84458/toreh-sejarah-pp-muhammadiyah-kini-punya-formatur-perempuan"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok untuk Kota Yogyakarta dan Sekitarnya 7 Desember 2024: Hujan Ringan",
+        "category": "News",
+        "publish_time": "06-12-2024 08:31",
+        "news_link": "https://news.republika.co.id/berita/so2czz126453542/prakiraan-cuaca-besok-untuk-kota-yogyakarta-dan-sekitarnya-7-desember-2024-hujan-ringan"
+    },
+    {
+        "title": "Penampakan Jalan Cipanas-Citorek yang Terputus Akibat Longsor",
+        "category": "Visual",
+        "publish_time": "06-12-2024 08:29",
+        "news_link": "https://visual.republika.co.id/berita/so2by4375/penampakan-jalan-cipanascitorek-yang-terputus-akibat-longsor"
+    },
+    {
+        "title": "Hizbullah Siap Bela Assad, Tuding Oposisi Suriah Ditunggangi Israel dan Amerika",
+        "category": "News",
+        "publish_time": "06-12-2024 08:21",
+        "news_link": "https://news.republika.co.id/berita/so2cje377/hizbullah-siap-bela-assad-tuding-oposisi-suriah-ditunggangi-israel-dan-amerika"
+    },
+    {
+        "title": "Petik Hikmah dari Kasus Gus Miftah, Muhammadiyah: Dai Harus Selalu Jaga Lisan",
+        "category": "Khazanah",
+        "publish_time": "06-12-2024 08:18",
+        "news_link": "https://khazanah.republika.co.id/berita/so2cf7458/petik-hikmah-dari-kasus-gus-miftah-muhammadiyah-dai-harus-selalu-jaga-lisan"
+    },
+    {
         "title": "Gara-gara Kata Goblok, Pendiri Bluebird Ajak Gelut Mahasiswa dan Abdul Muis Divonis Dua Bulan Penjara",
         "category": "Network",
         "publish_time": "06-12-2024 08:15",
@@ -30,273 +114,189 @@
         "news_link": "https://bandung24jam.id/posts/492087/sejumlah-warga-kolong-jembatan-pasupati-akan-di-relokasi"
     },
     {
+        "title": "PBSI Uji Coba 2 Pasangan Baru Ganda Campuran, Dejan Dipasangkan dengan Fadia",
+        "category": "Network",
+        "publish_time": "06-12-2024 08:14",
+        "news_link": "https://badmintonews.id/posts/492090/pbsi-uji-coba-2-pasangan-baru-ganda-campuran-dejan-dipasangkan-dengan-fadia"
+    },
+    {
+        "title": "Kejurnas 2024: Kesan Marcus Fernaldi Gideon yang Turun Kembali ke Lapangan",
+        "category": "Network",
+        "publish_time": "06-12-2024 08:14",
+        "news_link": "https://badmintonews.id/posts/492098/kejurnas-2024-kesan-marcus-fernaldi-gideon-yang-turun-kembali-ke-lapangan"
+    },
+    {
         "title": "Prakiraan Cuaca Besok, 7 Desember 2024: Kota Semarang Berawan",
         "category": "News",
-        "publish_time": "06-12-2024 08:13",
+        "publish_time": "06-12-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/so2c65783814950/prakiraan-cuaca-besok-7-desember-2024-kota-semarang-berawan"
     },
     {
         "title": "Dukung Si Penjual Es Teh, Merapi Park dan De Mangol View Beri Tiket Gratis Seumur Hidup",
         "category": "Rejogja",
-        "publish_time": "06-12-2024 08:13",
+        "publish_time": "06-12-2024 08:14",
         "news_link": "https://rejogja.republika.co.id/berita/so2c5c291/dukung-si-penjual-es-teh-merapi-park-dan-de-mangol-view-beri-tiket-gratis-seumur-hidup"
     },
     {
         "title": "Bantu Korban Bencana di Sukabumi, BAZNAS RI Lakukan Aksi Resik Musala dan Rumah Warga",
         "category": "News",
-        "publish_time": "06-12-2024 08:08",
+        "publish_time": "06-12-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/so2bxw490/bantu-korban-bencana-di-sukabumi-baznas-ri-lakukan-aksi-resik-musala-dan-rumah-warga"
     },
     {
         "title": "Grup K-Pop TWICE Rilis Album Baru, Gandeng Rapper Megan Thee Stallion di Lagu \u2018Strategy\u2019",
         "category": "Ameera",
-        "publish_time": "06-12-2024 08:07",
+        "publish_time": "06-12-2024 08:14",
         "news_link": "https://ameera.republika.co.id/berita/so2bwi425/grup-kpop-twice-rilis-album-baru-gandeng-rapper-megan-thee-stallion-di-lagu-strategy"
     },
     {
         "title": "Antisipasi Banjir, Pemprov DKI Jakarta Lakukan Normalisasi Kali Pesanggrahan",
         "category": "Visual",
-        "publish_time": "06-12-2024 08:07",
+        "publish_time": "06-12-2024 08:14",
         "news_link": "https://visual.republika.co.id/berita/so2bvg375/antisipasi-banjir-pemprov-dki-jakarta-lakukan-normalisasi-kali-pesanggrahan"
     },
     {
         "title": "Sudah Ada 25 Kasus Bunuh Diri di Bantul, Ternyata Ini Tiga Penyebab Utamanya",
         "category": "News",
-        "publish_time": "06-12-2024 08:05",
+        "publish_time": "06-12-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/so2be1487/sudah-ada-25-kasus-bunuh-diri-di-bantul-ternyata-ini-tiga-penyebab-utamanya"
     },
     {
         "title": "Sambil Nangis, Miftah Maulana Mundur Sebagai Utusan Khusus Presiden",
         "category": "Rejogja",
-        "publish_time": "06-12-2024 08:02",
+        "publish_time": "06-12-2024 08:14",
         "news_link": "https://rejogja.republika.co.id/berita/so2bo2282/sambil-nangis-miftah-maulana-mundur-sebagai-utusan-khusus-presiden"
     },
     {
         "title": "Pekerja Profesional Amerika Kagumi Keindahan Budaya Nusantara",
         "category": "Video",
-        "publish_time": "06-12-2024 08:01",
+        "publish_time": "06-12-2024 08:14",
         "news_link": "https://tv.republika.co.id/berita/so2bmm313/pekerja-profesional-amerika-kagumi-keindahan-budaya-nusantara"
     },
     {
         "title": "Prakiraan Cuaca Besok 7 Desember 2024 untuk Tangerang dan Sekitarnya: Hujan Ringan",
         "category": "News",
-        "publish_time": "06-12-2024 08:00",
+        "publish_time": "06-12-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/so2bkt268139434/prakiraan-cuaca-besok-7-desember-2024-untuk-tangerang-dan-sekitarnya-hujan-ringan"
     },
     {
         "title": "Tim PLN Mobile Eventure Pastikan SPKLU Siap Digunakan pada Nataru",
         "category": "News",
-        "publish_time": "06-12-2024 08:00",
+        "publish_time": "06-12-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/so1zom451/tim-pln-mobile-eventure-pastikan-spklu-siap-digunakan-pada-nataru"
     },
     {
         "title": "Rangkaian Peringatan Hari Ibu, Ketua TP-PKK Kalteng Dorong Penurunan Stunting",
         "category": "News",
-        "publish_time": "06-12-2024 07:53",
+        "publish_time": "06-12-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/so2b85490/rangkaian-peringatan-hari-ibu-ketua-tppkk-kalteng-dorong-penurunan-stunting"
     },
     {
         "title": "Legislator Komisi I Usulkan Pemerintah Buat SKB Pembatasan Medsos dan HP untuk Anak",
         "category": "News",
-        "publish_time": "06-12-2024 07:51",
+        "publish_time": "06-12-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/so2b5t487/legislator-komisi-i-usulkan-pemerintah-buat-skb-pembatasan-medsos-dan-hp-untuk-anak"
     },
     {
         "title": "Mundur dari Utusan Presiden, Miftah Mengaku tak Ditekan",
         "category": "News",
-        "publish_time": "06-12-2024 07:49",
+        "publish_time": "06-12-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/so2b2n377/mundur-dari-utusan-presiden-miftah-mengaku-tak-ditekan"
     },
     {
         "title": "Prakiraan Cuaca Besok di Kota Jakarta dan Sekitarnya: Hujan di Jakarta Timur pada 7 Desember 2024",
         "category": "News",
-        "publish_time": "06-12-2024 07:48",
+        "publish_time": "06-12-2024 08:14",
         "news_link": "https://news.republika.co.id/berita/so2b0v1553559500/prakiraan-cuaca-besok-di-kota-jakarta-dan-sekitarnya-hujan-di-jakarta-timur-pada-7-desember-2024"
     },
     {
         "title": "Menteri ATR/BPN Dorong Sertifikasi Tanah Wakaf untuk Cegah Sengketa dan Konflik",
         "category": "Rejabar",
-        "publish_time": "06-12-2024 07:41",
+        "publish_time": "06-12-2024 07:14",
         "news_link": "https://rejabar.republika.co.id/berita/so2aox512/menteri-atrbpn-dorong-sertifikasi-tanah-wakaf-untuk-cegah-sengketa-dan-konflik"
     },
     {
         "title": "Mengenal Kai Asakura Petarung MMA Asal Jepang yang akan Debut di UFC 310",
         "category": "News",
-        "publish_time": "06-12-2024 07:40",
+        "publish_time": "06-12-2024 07:14",
         "news_link": "https://news.republika.co.id/berita/so2amr456/mengenal-kai-asakura-petarung-mma-asal-jepang-yang-akan-debut-di-ufc-310"
     },
     {
         "title": "Kisah Sunhaji Si Bakul Es Teh, Lalui Ujian Berat Sebelum Diangkat Derajatnya oleh Allah",
         "category": "News",
-        "publish_time": "06-12-2024 07:38",
+        "publish_time": "06-12-2024 07:14",
         "news_link": "https://news.republika.co.id/berita/so2aji409/kisah-sunhaji-si-bakul-es-teh-lalui-ujian-berat-sebelum-diangkat-derajatnya-oleh-allah"
     },
     {
         "title": "bank bjb Tandatangani Nota Kesepahaman Pemanfaatan Produk dan Layanan dengan Sucofindo",
         "category": "Ekonomi",
-        "publish_time": "06-12-2024 07:30",
+        "publish_time": "06-12-2024 07:14",
         "news_link": "https://ekonomi.republika.co.id/berita/so2a6j490/bank-bjb-tandatangani-nota-kesepahaman-pemanfaatan-produk-dan-layanan-dengan-sucofindo"
     },
     {
         "title": "Prakiraan Cuaca Besok 7 Desember 2024, Bekasi dan Sekitarnya",
         "category": "News",
-        "publish_time": "06-12-2024 07:30",
+        "publish_time": "06-12-2024 07:14",
         "news_link": "https://news.republika.co.id/berita/so2a6d1125737097/prakiraan-cuaca-besok-7-desember-2024-bekasi-dan-sekitarnya"
     },
     {
         "title": "Perwakilan AS dan Cina Hadiri Sidang Perubahan Iklim di Mahkamah Internasional",
         "category": "Esgnow",
-        "publish_time": "06-12-2024 07:21",
+        "publish_time": "06-12-2024 07:14",
         "news_link": "https://esgnow.republika.co.id/berita/so29qs416/perwakilan-as-dan-cina-hadiri-sidang-perubahan-iklim-di-mahkamah-internasional"
     },
     {
         "title": "Pendakwah Miftah Resmi Mundur, Ini Permintaan Maafnya Terkhusus untuk Presiden Prabowo",
         "category": "News",
-        "publish_time": "06-12-2024 07:21",
+        "publish_time": "06-12-2024 07:14",
         "news_link": "https://news.republika.co.id/berita/so29qg487/pendakwah-miftah-resmi-mundur-ini-permintaan-maafnya-terkhusus-untuk-presiden-prabowo"
     },
     {
         "title": "Kasus DBD di Cirebon Melonjak Capai 1.687 Kasus, Warga Diminta Waspada",
         "category": "Rejabar",
-        "publish_time": "06-12-2024 07:18",
+        "publish_time": "06-12-2024 07:14",
         "news_link": "https://rejabar.republika.co.id/berita/so29f0512/kasus-dbd-di-cirebon-melonjak-capai-1687-kasus-warga-diminta-waspada"
     },
     {
         "title": "Kualitas Udara Membaik, India Longgarkan Pembatasan di New Delhi",
         "category": "Esgnow",
-        "publish_time": "06-12-2024 07:18",
+        "publish_time": "06-12-2024 07:14",
         "news_link": "https://esgnow.republika.co.id/berita/so29au416/kualitas-udara-membaik-india-longgarkan-pembatasan-di-new-delhi"
     },
     {
         "title": "Sambil Menangis, Miftah Minta Maaf ke Pak Prabowo, Mundur dari Utusan Khusus",
         "category": "News",
-        "publish_time": "06-12-2024 07:18",
+        "publish_time": "06-12-2024 07:14",
         "news_link": "https://news.republika.co.id/berita/so297n377/sambil-menangis-miftah-minta-maaf-ke-pak-prabowo-mundur-dari-utusan-khusus"
     },
     {
         "title": "Manfaat Pengajian untuk Kebangsaan, ini Penjelasan BKMT Aceh Besar",
         "category": "Khazanah",
-        "publish_time": "06-12-2024 07:18",
+        "publish_time": "06-12-2024 07:14",
         "news_link": "https://khazanah.republika.co.id/berita/so1zbk451/manfaat-pengajian-untuk-kebangsaan-ini-penjelasan-bkmt-aceh-besar"
     },
     {
         "title": "Gus Miftah Mundur dari Posisi Utusan Khusus Presiden",
         "category": "News",
-        "publish_time": "06-12-2024 07:18",
+        "publish_time": "06-12-2024 07:14",
         "news_link": "https://news.republika.co.id/berita/so28rp484/gus-miftah-mundur-dari-posisi-utusan-khusus-presiden"
     },
     {
         "title": "PVMBG Imbau Wisatawan Waspada Erupsi Freatik Gunung Tangkuban Parahu",
         "category": "Rejabar",
-        "publish_time": "06-12-2024 07:18",
+        "publish_time": "06-12-2024 07:14",
         "news_link": "https://rejabar.republika.co.id/berita/so28of512/pvmbg-imbau-wisatawan-waspada-erupsi-freatik-gunung-tangkuban-parahu"
     },
     {
         "title": "Legislator Minta BPH Siapkan Haji 2026",
         "category": "Khazanah",
-        "publish_time": "06-12-2024 07:18",
+        "publish_time": "06-12-2024 07:14",
         "news_link": "https://khazanah.republika.co.id/berita/so28h9483/legislator-minta-bph-siapkan-haji-2026"
     },
     {
         "title": "516 Beswan Djarum Pentaskan Gugah Jiwa Nusantara",
         "category": "News",
-        "publish_time": "06-12-2024 06:18",
+        "publish_time": "06-12-2024 07:14",
         "news_link": "https://news.republika.co.id/berita/so287y456/516-beswan-djarum-pentaskan-gugah-jiwa-nusantara"
-    },
-    {
-        "title": "Pilgub Jabar, KPU: Dedi-Erwan Menang di Kota Bandung",
-        "category": "News",
-        "publish_time": "06-12-2024 06:18",
-        "news_link": "https://news.republika.co.id/berita/so2821377/pilgub-jabar-kpu-dedierwan-menang-di-kota-bandung"
-    },
-    {
-        "title": "Seribu Ilmuwan Tulis Surat Terbuka Serukan Gencatan Senjata di Gaza",
-        "category": "Khazanah",
-        "publish_time": "06-12-2024 06:18",
-        "news_link": "https://khazanah.republika.co.id/berita/so27y1483/seribu-ilmuwan-tulis-surat-terbuka-serukan-gencatan-senjata-di-gaza"
-    },
-    {
-        "title": "Tak Kapok Dipenjara, Residivis Curanmor Ditangkap Polres Indramayu",
-        "category": "Rejabar",
-        "publish_time": "06-12-2024 06:18",
-        "news_link": "https://rejabar.republika.co.id/berita/so27tp512/tak-kapok-dipenjara-residivis-curanmor-ditangkap-polres-indramayu"
-    },
-    {
-        "title": "Peringatan Tsunami Dibatalkan Pascagempa 7,0 SR Guncang California",
-        "category": "Video",
-        "publish_time": "06-12-2024 06:18",
-        "news_link": "https://tv.republika.co.id/berita/so27p1467/peringatan-tsunami-dibatalkan-pascagempa-70-sr-guncang-california"
-    },
-    {
-        "title": "Bahan Herbal ini Tingkatkan Daya Tahan Tubuh Wanita Plus Cegah Kanker",
-        "category": "Ameera",
-        "publish_time": "06-12-2024 06:18",
-        "news_link": "https://ameera.republika.co.id/berita/so27kr451/bahan-herbal-ini-tingkatkan-daya-tahan-tubuh-wanita-plus-cegah-kanker"
-    },
-    {
-        "title": "Jawaban Gus Baha Soal Standar Gus dan Gus yang Bicara Kasar",
-        "category": "Khazanah",
-        "publish_time": "06-12-2024 06:18",
-        "news_link": "https://khazanah.republika.co.id/berita/so27fo430/jawaban-gus-baha-soal-standar-gus-dan-gus-yang-bicara-kasar"
-    },
-    {
-        "title": "Sambut Nataru, Garuda Indonesia dan Citilink Siapkan 146 Rute Penerbangan",
-        "category": "Ekonomi",
-        "publish_time": "06-12-2024 06:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/so279c502/sambut-nataru-garuda-indonesia-dan-citilink-siapkan-146-rute-penerbangan"
-    },
-    {
-        "title": "Masuk Kategori UMKM, Ojek Online Dipastikan Tetap Dapat Subsidi BBM",
-        "category": "Ekonomi",
-        "publish_time": "06-12-2024 06:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/so26zd502/masuk-kategori-umkm-ojek-online-dipastikan-tetap-dapat-subsidi-bbm"
-    },
-    {
-        "title": "BMKG: Waspada Gelombang Tinggi Hingga 4 Meter",
-        "category": "News",
-        "publish_time": "06-12-2024 06:18",
-        "news_link": "https://news.republika.co.id/berita/so26yq483/bmkg-waspada-gelombang-tinggi-hingga-4-meter"
-    },
-    {
-        "title": "Dosen Non-Muslim: Muhammadiyah adalah Rumah Kita Bersama",
-        "category": "Khazanah",
-        "publish_time": "06-12-2024 06:18",
-        "news_link": "https://khazanah.republika.co.id/berita/so26vr458/dosen-nonmuslim-muhammadiyah-adalah-rumah-kita-bersama"
-    },
-    {
-        "title": "Sambut Nataru, OTA Lion Air Group Permudah Perjalanan Wisatawan",
-        "category": "Ekonomi",
-        "publish_time": "06-12-2024 06:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/so23ub490/sambut-nataru-ota-lion-air-group-permudah-perjalanan-wisatawan"
-    },
-    {
-        "title": "Mahasiswi UBSI Rihlatun Karimah Raih Juara 1 Dakwah/Speech Competition di IISF 2024",
-        "category": "News",
-        "publish_time": "06-12-2024 06:18",
-        "news_link": "https://news.republika.co.id/berita/so23hn490/mahasiswi-ubsi-rihlatun-karimah-raih-juara-1-dakwahspeech-competition-di-iisf-2024"
-    },
-    {
-        "title": "BI Catat Cadangan Devisa pada November 2024 Turun Jadi 150,2 Miliar Dolar AS",
-        "category": "Ekonomi",
-        "publish_time": "06-12-2024 06:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/so25r5490/bi-catat-cadangan-devisa-pada-november-2024-turun-jadi-1502-miliar-dolar-as"
-    },
-    {
-        "title": "Antisipasi Kenaikan PPN dengan Efisiensi dan Ekspansi Manufaktur",
-        "category": "Ekonomi",
-        "publish_time": "06-12-2024 05:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/so255p502/antisipasi-kenaikan-ppn-dengan-efisiensi-dan-ekspansi-manufaktur"
-    },
-    {
-        "title": "Koperasi Duta Horti Gresik Sukses Ekspor 450 Kilogram Mangga Harum Manis ke Hong Kong",
-        "category": "Beacukai",
-        "publish_time": "06-12-2024 05:18",
-        "news_link": "https://republika.co.id/berita/so251h490/koperasi-duta-horti-gresik-sukses-ekspor-450-kilogram-mangga-harum-manis-ke-hong-kong"
-    },
-    {
-        "title": "Kawan Lama Solution Optimis Capai Target Rp150 Miliar di Manufacturing Indonesia 2024",
-        "category": "Ekonomi",
-        "publish_time": "06-12-2024 05:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/so251a502/kawan-lama-solution-optimis-capai-target-rp150-miliar-di-manufacturing-indonesia-2024"
     }
 ]
