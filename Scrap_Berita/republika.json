@@ -1,50 +1,140 @@
 [
     {
+        "title": "Iran Mengaku Terkejut Tentara Suriah tak Berikan Perlawanan",
+        "category": "News",
+        "publish_time": "08-12-2024 23:11",
+        "news_link": "https://news.republika.co.id/berita/so773x377/iran-mengaku-terkejut-tentara-suriah-tak-berikan-perlawanan"
+    },
+    {
+        "title": "Jatuh Bangun Kantin Kejujuran",
+        "category": "News",
+        "publish_time": "08-12-2024 23:10",
+        "news_link": "https://news.republika.co.id/berita/so5r5v393/jatuh-bangun-kantin-kejujuran"
+    },
+    {
+        "title": "Jaksa Agung: Masih Banyak PR Pemberantasan Korupsi",
+        "category": "News",
+        "publish_time": "08-12-2024 23:00",
+        "news_link": "https://news.republika.co.id/berita/so5g5l393/jaksa-agung-masih-banyak-pr-pemberantasan-korupsi"
+    },
+    {
+        "title": "Kata PBB tentang Kejatuhan Rezim Bashar Assad di Suriah",
+        "category": "Khazanah",
+        "publish_time": "08-12-2024 23:00",
+        "news_link": "https://khazanah.republika.co.id/berita/so73fv451/kata-pbb-tentang-kejatuhan-rezim-bashar-assad-di-suriah"
+    },
+    {
+        "title": "Partisipasi Rendah, Kubu RIDO akan Gugat Hasil Pilgub Jakarta ke MK",
+        "category": "News",
+        "publish_time": "08-12-2024 22:57",
+        "news_link": "https://news.republika.co.id/berita/so76g4377/partisipasi-rendah-kubu-rido-akan-gugat-hasil-pilgub-jakarta-ke-mk"
+    },
+    {
+        "title": "Wawancara Jaksa Agung: Perkara Korupsi tidak Bisa lagi Ditangani dengan Cara Konvensional",
+        "category": "News",
+        "publish_time": "08-12-2024 22:54",
+        "news_link": "https://news.republika.co.id/berita/so6eyh409/wawancara-jaksa-agung-perkara-korupsi-tidak-bisa-lagi-ditangani-dengan-cara-konvensional"
+    },
+    {
+        "title": "Napoli Gagal Gusur Atalanta dari Puncak Klasemen Liga Italia Setelah Dikalahkan Lazio",
+        "category": "News",
+        "publish_time": "08-12-2024 22:52",
+        "news_link": "https://news.republika.co.id/berita/so767n348/napoli-gagal-gusur-atalanta-dari-puncak-klasemen-liga-italia-setelah-dikalahkan-lazio"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini, Kota Denpasar Bali dan Sekitarnya: Waspada Hujan Petir 9 Desember 2024",
+        "category": "News",
+        "publish_time": "08-12-2024 22:49",
+        "news_link": "https://news.republika.co.id/berita/so76281992905516/prakiraan-cuaca-hari-ini-kota-denpasar-bali-dan-sekitarnya-waspada-hujan-petir-9-desember-2024"
+    },
+    {
+        "title": "OJK: Sektor Jasa Keuangan Dukung Perluasan Akses Pembiayaan ke UMKM",
+        "category": "Ekonomi",
+        "publish_time": "08-12-2024 22:42",
+        "news_link": "https://ekonomi.republika.co.id/berita/so75q6370/ojk-sektor-jasa-keuangan-dukung-perluasan-akses-pembiayaan-ke-umkm"
+    },
+    {
+        "title": "Tujuh Gol Tercipta di Derby London, Chelsea Berjaya Taklukkan Tottenham",
+        "category": "News",
+        "publish_time": "08-12-2024 22:40",
+        "news_link": "https://news.republika.co.id/berita/so75mm348/tujuh-gol-tercipta-di-derby-london-chelsea-berjaya-taklukkan-tottenham"
+    },
+    {
+        "title": "Terjungkal, Bashar al-Assad Kini di Rusia, Dapat Suaka dari Vladimir Putin",
+        "category": "News",
+        "publish_time": "08-12-2024 22:36",
+        "news_link": "https://news.republika.co.id/berita/so75gq377/terjungkal-bashar-alassad-kini-di-rusia-dapat-suaka-dari-vladimir-putin"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini, 9 Desember 2024: Kota Makassar Bersiap Hadapi Hujan Ringan",
+        "category": "News",
+        "publish_time": "08-12-2024 22:31",
+        "news_link": "https://news.republika.co.id/berita/so75831792576655/prakiraan-cuaca-hari-ini-9-desember-2024-kota-makassar-bersiap-hadapi-hujan-ringan"
+    },
+    {
+        "title": "Kultur Korupsi yang Mengakar, Upaya Sistemik dan Relasi Kuasa",
+        "category": "News",
+        "publish_time": "08-12-2024 22:30",
+        "news_link": "https://news.republika.co.id/berita/so5qas377/kultur-korupsi-yang-mengakar-upaya-sistemik-dan-relasi-kuasa"
+    },
+    {
+        "title": "Shin Tae-yong Sebut Laga Perdana Piala AFF 2024 Lawan Myanmar tak Mudah",
+        "category": "News",
+        "publish_time": "08-12-2024 22:22",
+        "news_link": "https://news.republika.co.id/berita/so74tt348/shin-taeyong-sebut-laga-perdana-piala-aff-2024-lawan-myanmar-tak-mudah"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini di Kota Medan dan Sekitarnya, Hujan Ringan",
+        "category": "News",
+        "publish_time": "08-12-2024 22:19",
+        "news_link": "https://news.republika.co.id/berita/so74o9771697083/prakiraan-cuaca-hari-ini-di-kota-medan-dan-sekitarnya-hujan-ringan"
+    },
+    {
         "title": "Masa Depan Operasi Tangkap Tangan di Bawah Lima Komisioner Baru KPK",
         "category": "News",
-        "publish_time": "08-12-2024 22:08",
+        "publish_time": "08-12-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/so6ftr409/masa-depan-operasi-tangkap-tangan-di-bawah-lima-komisioner-baru-kpk"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 9 Desember 2024 di Kota Malang: Hujan Ringan",
         "category": "News",
-        "publish_time": "08-12-2024 22:04",
+        "publish_time": "08-12-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/so73z655734910/prakiraan-cuaca-hari-ini-9-desember-2024-di-kota-malang-hujan-ringan"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 9 Desember 2024, Kota Surabaya dan Sekitarnya: Hujan Ringan",
         "category": "News",
-        "publish_time": "08-12-2024 21:49",
+        "publish_time": "08-12-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/so73a31817469049/prakiraan-cuaca-hari-ini-9-desember-2024-kota-surabaya-dan-sekitarnya-hujan-ringan"
     },
     {
         "title": "Yang Dilakukan Irak dan Yordania setelah Assad Dikalahkan Kelompok Perlawanan",
         "category": "Khazanah",
-        "publish_time": "08-12-2024 21:48",
+        "publish_time": "08-12-2024 22:12",
         "news_link": "https://khazanah.republika.co.id/berita/so737t451/yang-dilakukan-irak-dan-yordania-setelah-assad-dikalahkan-kelompok-perlawanan"
     },
     {
         "title": "Detik Kejatuhan Assad dan Pernyataan Menlu Rusia",
         "category": "Khazanah",
-        "publish_time": "08-12-2024 21:42",
+        "publish_time": "08-12-2024 21:12",
         "news_link": "https://khazanah.republika.co.id/berita/so72yk451/detik-kejatuhan-assad-dan-pernyataan-menlu-rusia"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini, 9 Desember 2024: Kota Yogyakarta dan Sekitarnya, Kondisi Cerah dan Hujan Ringan",
         "category": "News",
-        "publish_time": "08-12-2024 21:31",
+        "publish_time": "08-12-2024 21:12",
         "news_link": "https://news.republika.co.id/berita/so72gf1067081121/prakiraan-cuaca-hari-ini-9-desember-2024-kota-yogyakarta-dan-sekitarnya-kondisi-cerah-dan-hujan-ringan"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 9 Desember 2024: Kota Semarang Berawan",
         "category": "News",
-        "publish_time": "08-12-2024 21:13",
+        "publish_time": "08-12-2024 21:12",
         "news_link": "https://news.republika.co.id/berita/so71m31025106045/prakiraan-cuaca-hari-ini-9-desember-2024-kota-semarang-berawan"
     },
     {
         "title": "Direktur Olahraga Mundur Usai MU Kembali ke \u2018Setelan Pabrik\u2019 di Bawah Asuhan Amorim",
         "category": "News",
-        "publish_time": "08-12-2024 21:13",
+        "publish_time": "08-12-2024 21:12",
         "news_link": "https://news.republika.co.id/berita/so6cts409/direktur-olahraga-mundur-usai-mu-kembali-ke-setelan-pabrik-di-bawah-asuhan-amorim"
     },
     {
@@ -66,10 +156,10 @@
         "news_link": "https://iqra.republika.co.id/berita/so702u317124915/jadwal-sholat-hari-ini-09-desember-2024-di-palembang"
     },
     {
-        "title": "Prakiraan Cuaca Hari Ini 9 Desember 2024 di Bekasi dan Sekitarnya: Bekasi Hujan Ringan",
+        "title": "Prakiraan Cuaca Hari Ini 9 Desember 2024 di Bekasi dan Sekitarnya: Hujan Ringan",
         "category": "News",
         "publish_time": "08-12-2024 20:12",
-        "news_link": "https://news.republika.co.id/berita/so6zmi1306590674/prakiraan-cuaca-hari-ini-9-desember-2024-di-bekasi-dan-sekitarnya-bekasi-hujan-ringan"
+        "news_link": "https://news.republika.co.id/berita/so6zmi1306590674/prakiraan-cuaca-hari-ini-9-desember-2024-di-bekasi-dan-sekitarnya-hujan-ringan"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 9 Desember 2024: Kota Padang Cerah",
@@ -78,10 +168,10 @@
         "news_link": "https://news.republika.co.id/berita/so6zl02043632903/prakiraan-cuaca-hari-ini-9-desember-2024-kota-padang-cerah"
     },
     {
-        "title": "Prakiraan Cuaca Hari Ini 9 Desember 2024 di Bandung: Hujan Diprediksi",
+        "title": "Prakiraan Cuaca Hari Ini 9 Desember 2024 di Bandung dan Sekitarnya: Hujan Ringan",
         "category": "News",
         "publish_time": "08-12-2024 20:12",
-        "news_link": "https://news.republika.co.id/berita/so6z101040667778/prakiraan-cuaca-hari-ini-9-desember-2024-di-bandung-hujan-diprediksi"
+        "news_link": "https://news.republika.co.id/berita/so6z101040667778/prakiraan-cuaca-hari-ini-9-desember-2024-di-bandung-dan-sekitarnya-hujan-ringan"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 9 Desember 2024: Kota Banda Aceh Cerah Berawan",
@@ -90,10 +180,10 @@
         "news_link": "https://news.republika.co.id/berita/so6ylr124063632/prakiraan-cuaca-hari-ini-9-desember-2024-kota-banda-aceh-cerah-berawan"
     },
     {
-        "title": "Prakiraan Cuaca Hari Ini untuk Kota Mataram dan Sekitarnya: Hujan Petir, 9 Desember 2024",
+        "title": "Prakiraan Cuaca Hari Ini untuk Kota Mataram dan Sekitarnya: Hujan Petir",
         "category": "News",
         "publish_time": "08-12-2024 20:12",
-        "news_link": "https://news.republika.co.id/berita/so6xq590849699/prakiraan-cuaca-hari-ini-untuk-kota-mataram-dan-sekitarnya-hujan-petir-9-desember-2024"
+        "news_link": "https://news.republika.co.id/berita/so6xq590849699/prakiraan-cuaca-hari-ini-untuk-kota-mataram-dan-sekitarnya-hujan-petir"
     },
     {
         "title": "Jakarta Hari Ini: Kewajiban Sholat dan Jadwal Sholat Hari Ini - 09 December 2024",
@@ -208,95 +298,5 @@
         "category": "Visual",
         "publish_time": "08-12-2024 16:12",
         "news_link": "https://visual.republika.co.id/berita/so6mmg375/persita-taklukkan-persis-solo-20"
-    },
-    {
-        "title": "Rezim Assad Tumbang, KBRI Damaskus Pastikan Seluruh WNI di Suriah Aman",
-        "category": "News",
-        "publish_time": "08-12-2024 16:12",
-        "news_link": "https://news.republika.co.id/berita/so6ihz366/rezim-assad-tumbang-kbri-damaskus-pastikan-seluruh-wni-di-suriah-aman"
-    },
-    {
-        "title": "Prabowo Unggah Momen Iseng ke Wartawan",
-        "category": "Video",
-        "publish_time": "08-12-2024 16:12",
-        "news_link": "https://tv.republika.co.id/berita/so6nx9313/prabowo-unggah-momen-iseng-ke-wartawan"
-    },
-    {
-        "title": "Fokus di Kemanusiaan, Aksi Diah Warih 'Dilirik' Internasional",
-        "category": "Rejakarta",
-        "publish_time": "08-12-2024 16:12",
-        "news_link": "https://republika.co.id/berita/so671d456/fokus-di-kemanusiaan-aksi-diah-warih-dilirik-internasional"
-    },
-    {
-        "title": "Kapal Layar Motor Lorena Sari Tenggelam, Dua Orang Meninggal Dunia",
-        "category": "Visual",
-        "publish_time": "08-12-2024 16:12",
-        "news_link": "https://visual.republika.co.id/berita/so6mjj375/kapal-layar-motor-lorena-sari-tenggelam-dua-orang-meninggal-dunia"
-    },
-    {
-        "title": "Komisi VII Sarankan Sumbar Siapkan Rendang Bagi Jamaah Haji",
-        "category": "Khazanah",
-        "publish_time": "08-12-2024 16:12",
-        "news_link": "https://khazanah.republika.co.id/berita/so66oi366/komisi-vii-sarankan-sumbar-siapkan-rendang-bagi-jamaah-haji"
-    },
-    {
-        "title": "Scorpion FC Rengkuh Gelar Juara Hydroplus Soccer League 2024",
-        "category": "News",
-        "publish_time": "08-12-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/so6lum456/scorpion-fc-rengkuh-gelar-juara-hydroplus-soccer-league-2024"
-    },
-    {
-        "title": "Laporan: Seribuan Tentara Suriah Kabur ke Irak",
-        "category": "News",
-        "publish_time": "08-12-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/so6kik377/laporan-seribuan-tentara-suriah-kabur-ke-irak"
-    },
-    {
-        "title": "Layanan Pemeriksaan Kesehatan untuk Korban Banjir Bandang Sukabumi",
-        "category": "Visual",
-        "publish_time": "08-12-2024 15:12",
-        "news_link": "https://visual.republika.co.id/berita/so6ggs375/layanan-pemeriksaan-kesehatan-untuk-korban-banjir-bandang-sukabumi"
-    },
-    {
-        "title": "PM Suriah Bertahan di Damaskus, tak Tahu Lokasi Presiden Bashar al-Assad",
-        "category": "News",
-        "publish_time": "08-12-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/so6hlf484/pm-suriah-bertahan-di-damaskus-tak-tahu-lokasi-presiden-bashar-alassad"
-    },
-    {
-        "title": "Warga dan Komunitas Lingkungan Bersihkan Pantai Sasa dari Sampah Plastik",
-        "category": "Visual",
-        "publish_time": "08-12-2024 15:12",
-        "news_link": "https://visual.republika.co.id/berita/so6ge9375/warga-dan-komunitas-lingkungan-bersihkan-pantai-sasa-dari-sampah-plastik"
-    },
-    {
-        "title": "Alasan Tim Pramono-Rano Mengapa Gugatan RIDO Mengada-Ada",
-        "category": "News",
-        "publish_time": "08-12-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/so6k3d377/alasan-tim-pramonorano-mengapa-gugatan-rido-mengadaada"
-    },
-    {
-        "title": "Rusia: Bashar Al-Assad Mundur dari Kursi Presiden dan Tinggalkan Suriah",
-        "category": "News",
-        "publish_time": "08-12-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/so6jqy377/rusia-bashar-alassad-mundur-dari-kursi-presiden-dan-tinggalkan-suriah"
-    },
-    {
-        "title": "Rezim Assad Jatuh, Bandara Damaskus Ditutup Sampai 18 Desember 2024",
-        "category": "News",
-        "publish_time": "08-12-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/so6gyp484/rezim-assad-jatuh-bandara-damaskus-ditutup-sampai-18-desember-2024"
-    },
-    {
-        "title": "Tim Rido Walk Out Saat Penetapan Hasil Pilgub Jakarta",
-        "category": "Video",
-        "publish_time": "08-12-2024 14:12",
-        "news_link": "https://tv.republika.co.id/berita/so6ja4313/tim-rido-walk-out-saat-penetapan-hasil-pilgub-jakarta"
-    },
-    {
-        "title": "Sah! Pramono-Rano Terpilih Gubernur Jakarta, Syarat Satu Putaran Terpenuhi",
-        "category": "Network",
-        "publish_time": "08-12-2024 14:12",
-        "news_link": "https://ruzkaindonesia.id/posts/492746/sah-pramono-rano-terpilih-gubernur-jakarta-syarat-satu-putaran-terpenuhi"
     }
 ]
