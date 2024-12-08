@@ -1,5 +1,53 @@
 [
     {
+        "title": "Menang Pilgub Jateng, Ahmad Luthfi Siap Tancap Gas",
+        "category": "News",
+        "publish_time": "08 December 2024, 21:06",
+        "news_link": "https://news.republika.co.id/berita/so6hvn377/menang-pilgub-jateng-ahmad-luthfi-siap-tancap-gas"
+    },
+    {
+        "title": "Jejak Sejarah Peristiwa Bencana Tsunami Aceh",
+        "category": "Visual",
+        "publish_time": "08 December 2024, 21:00",
+        "news_link": "https://visual.republika.co.id/berita/so6g7b375/jejak-sejarah-peristiwa-bencana-tsunami-aceh"
+    },
+    {
+        "title": "LD PBNU dan LTM PBNU Gelar Standardisasi Kompetensi Imam dan Khatib Jumat",
+        "category": "Khazanah",
+        "publish_time": "08 December 2024, 20:53",
+        "news_link": "https://khazanah.republika.co.id/berita/so6h94366/ld-pbnu-dan-ltm-pbnu-gelar-standardisasi-kompetensi-imam-dan-khatib-jumat"
+    },
+    {
+        "title": "Benarkah Ada Biaya Tambahan untuk Rawat Inap? Ini Penjelasan BPJS Kesehatan",
+        "category": "News",
+        "publish_time": "08 December 2024, 20:40",
+        "news_link": "https://news.republika.co.id/berita/so6gmo458/benarkah-ada-biaya-tambahan-untuk-rawat-inap-ini-penjelasan-bpjs-kesehatan"
+    },
+    {
+        "title": "Wakil PM Inggris Sambut Baik Jatuhnya Rezim Assad",
+        "category": "News",
+        "publish_time": "08 December 2024, 20:39",
+        "news_link": "https://news.republika.co.id/berita/so6gl3484/wakil-pm-inggris-sambut-baik-jatuhnya-rezim-assad"
+    },
+    {
+        "title": "Sesepuh Pesantren Muhammadiyah",
+        "category": "Khazanah",
+        "publish_time": "08 December 2024, 20:28",
+        "news_link": "https://khazanah.republika.co.id/berita/so6g3o458/sesepuh-pesantren-muhammadiyah"
+    },
+    {
+        "title": "Aktivis HAM Gelar Aksi, Tuntut Kasus Munir Ditetapkan Sebagai Pelanggaran Berat HAM",
+        "category": "Visual",
+        "publish_time": "08 December 2024, 20:23",
+        "news_link": "https://visual.republika.co.id/berita/so6fv1375/aktivis-ham-gelar-aksi-tuntut-kasus-munir-ditetapkan-sebagai-pelanggaran-berat-ham"
+    },
+    {
+        "title": "Viral, Aksi Komplotan Todongkan Senjata Diduga Culik Wanita di Depan Rumahnya di Bandung",
+        "category": "Rejabar",
+        "publish_time": "08 December 2024, 20:21",
+        "news_link": "https://rejabar.republika.co.id/berita/so6fs4512/viral-aksi-komplotan-todongkan-senjata-diduga-culik-wanita-di-depan-rumahnya-di-bandung"
+    },
+    {
         "title": "Gempa Bumi Magnitudo 2,7 Guncang Kabupaten Garut Dirasakan Hingga Pangalengan",
         "category": "Rejabar",
         "publish_time": "08 December 2024, 20:15",
@@ -250,53 +298,5 @@
         "category": "News",
         "publish_time": "08 December 2024, 15:59",
         "news_link": "https://news.republika.co.id/berita/so63ni484/danrem-pastikan-danramil-penampar-manajer-spbu-di-palu-diproses-hukum"
-    },
-    {
-        "title": "Walau Ada Demo, Situasi di Korsel Kondusif Pasca Darurat Militer",
-        "category": "Video",
-        "publish_time": "08 December 2024, 15:55",
-        "news_link": "https://tv.republika.co.id/berita/so63g1467/walau-ada-demo-situasi-di-korsel-kondusif-pasca-darurat-militer"
-    },
-    {
-        "title": "Prakiraan Cuaca untuk Besok: Kota Surabaya Berawan",
-        "category": "News",
-        "publish_time": "08 December 2024, 15:49",
-        "news_link": "https://news.republika.co.id/berita/so63611816219217/prakiraan-cuaca-untuk-besok-kota-surabaya-berawan"
-    },
-    {
-        "title": "KPU Sahkan Pilgub Jakarta 2024 Satu Putaran, Tim Rido Walk Out",
-        "category": "News",
-        "publish_time": "08 December 2024, 15:41",
-        "news_link": "https://news.republika.co.id/berita/so62sg484/kpu-sahkan-pilgub-jakarta-2024-satu-putaran-tim-rido-walk-out"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok 9 Desember 2024 di Kota Yogyakarta: Hujan Ringan",
-        "category": "News",
-        "publish_time": "08 December 2024, 15:31",
-        "news_link": "https://news.republika.co.id/berita/so62c01997619373/prakiraan-cuaca-besok-9-desember-2024-di-kota-yogyakarta-hujan-ringan"
-    },
-    {
-        "title": "Ketika Umar Menyuruh Gubernur Menggembala Kambing",
-        "category": "Khazanah",
-        "publish_time": "08 December 2024, 15:29",
-        "news_link": "https://khazanah.republika.co.id/berita/so628z458/ketika-umar-menyuruh-gubernur-menggembala-kambing"
-    },
-    {
-        "title": "Donald Trump: Suriah adalah Kekacauan, AS tidak Terlibat di Dalamnya",
-        "category": "News",
-        "publish_time": "08 December 2024, 15:26",
-        "news_link": "https://news.republika.co.id/berita/so624h484/donald-trump-suriah-adalah-kekacauan-as-tidak-terlibat-di-dalamnya"
-    },
-    {
-        "title": "Firda Marsya Vokalis Voice of Baceprot Masuk Daftar 100 Wanita Inspiratif Versi BBC",
-        "category": "Ameera",
-        "publish_time": "08 December 2024, 15:17",
-        "news_link": "https://ameera.republika.co.id/berita/so612d370/firda-marsya-vokalis-voice-of-baceprot-masuk-daftar-100-wanita-inspiratif-versi-bbc"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok di Kota Semarang dan Sekitarnya: Hujan Petir Pada Siang Hari",
-        "category": "News",
-        "publish_time": "08 December 2024, 15:13",
-        "news_link": "https://news.republika.co.id/berita/so61i3128942419/prakiraan-cuaca-besok-di-kota-semarang-dan-sekitarnya-hujan-petir-pada-siang-hari"
     }
 ]
