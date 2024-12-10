@@ -1,56 +1,146 @@
 [
     {
+        "title": "Imam Hanafi Berguru kepada Imam Malik? Cek Faktanya",
+        "category": "Khazanah",
+        "publish_time": "10-12-2024 23:10",
+        "news_link": "https://khazanah.republika.co.id/berita/soawe9430/imam-hanafi-berguru-kepada-imam-malik-cek-faktanya"
+    },
+    {
+        "title": "Menteri Pigai Bicara Penegakan HAM pada Era Pemerintahan Prabowo",
+        "category": "News",
+        "publish_time": "10-12-2024 23:04",
+        "news_link": "https://news.republika.co.id/berita/soavxq484/menteri-pigai-bicara-penegakan-ham-pada-era-pemerintahan-prabowo"
+    },
+    {
+        "title": "224 Rumah Rusak Akibat Gempa 4,2 di Garut",
+        "category": "Rejabar",
+        "publish_time": "10-12-2024 23:04",
+        "news_link": "https://rejabar.republika.co.id/berita/soaw3o282/224-rumah-rusak-akibat-gempa-42-di-garut"
+    },
+    {
+        "title": "Pengamat: Tak Ada Oposisi di Era Prabowo",
+        "category": "News",
+        "publish_time": "10-12-2024 23:02",
+        "news_link": "https://news.republika.co.id/berita/soaw19377/pengamat-tak-ada-oposisi-di-era-prabowo"
+    },
+    {
+        "title": "Mendes: Transformasi Seluruh Desa Jadi Desa Cerdas Harus Dikawal",
+        "category": "News",
+        "publish_time": "10-12-2024 23:01",
+        "news_link": "https://news.republika.co.id/berita/soalbb451/mendes-transformasi-seluruh-desa-jadi-desa-cerdas-harus-dikawal"
+    },
+    {
+        "title": "Pemprov Jateng akan Tetapkan UMP 2025 Hari Ini",
+        "category": "Rejogja",
+        "publish_time": "10-12-2024 22:56",
+        "news_link": "https://rejogja.republika.co.id/berita/soavra282/pemprov-jateng-akan-tetapkan-ump-2025-hari-ini"
+    },
+    {
+        "title": "Inter Milan Terkapar di Markas Leverkusen Lewat Gol Menit Akhir Mukiele",
+        "category": "News",
+        "publish_time": "10-12-2024 22:55",
+        "news_link": "https://news.republika.co.id/berita/soavq0348/inter-milan-terkapar-di-markas-leverkusen-lewat-gol-menit-akhir-mukiele"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini Tanggal 11 Desember 2024 di Kota Denpasar dan Sekitarnya: Hujan Ringan",
+        "category": "News",
+        "publish_time": "10-12-2024 22:48",
+        "news_link": "https://news.republika.co.id/berita/soave4457876940/prakiraan-cuaca-hari-ini-tanggal-11-desember-2024-di-kota-denpasar-dan-sekitarnya-hujan-ringan"
+    },
+    {
+        "title": "Nyawa 60 Korban Terluka di RS Indonesia Terancam Mati Kelaparan",
+        "category": "Khazanah",
+        "publish_time": "10-12-2024 22:44",
+        "news_link": "https://khazanah.republika.co.id/berita/soav6k483/nyawa-60-korban-terluka-di-rs-indonesia-terancam-mati-kelaparan"
+    },
+    {
+        "title": "Real Madrid Kembali ke Jalur Kemenangan di Liga Champions, Gebuk Atalanta 3-2",
+        "category": "News",
+        "publish_time": "10-12-2024 22:41",
+        "news_link": "https://news.republika.co.id/berita/soav2i348/real-madrid-kembali-ke-jalur-kemenangan-di-liga-champions-gebuk-atalanta-32"
+    },
+    {
+        "title": "Disebut Gantikan Gus Miftah, UAH Angkat Bicara",
+        "category": "Khazanah",
+        "publish_time": "10-12-2024 22:40",
+        "news_link": "https://khazanah.republika.co.id/berita/soav07430/disebut-gantikan-gus-miftah-uah-angkat-bicara"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini 11 Desember 2024: Hujan Ringan di Kota Makassar dan Sekitarnya",
+        "category": "News",
+        "publish_time": "10-12-2024 22:31",
+        "news_link": "https://news.republika.co.id/berita/soauke1846132256/prakiraan-cuaca-hari-ini-11-desember-2024-hujan-ringan-di-kota-makassar-dan-sekitarnya"
+    },
+    {
+        "title": "Liverpool Masih Sempurna di Liga Champions, Kalahkan Girona 1-0",
+        "category": "News",
+        "publish_time": "10-12-2024 22:30",
+        "news_link": "https://news.republika.co.id/berita/soauk0348/liverpool-masih-sempurna-di-liga-champions-kalahkan-girona-10"
+    },
+    {
+        "title": "Dua Tahun Usai Terbakar, Bagaimana Kondisi Masjid JIC?",
+        "category": "Khazanah",
+        "publish_time": "10-12-2024 22:19",
+        "news_link": "https://khazanah.republika.co.id/berita/soau1u483/dua-tahun-usai-terbakar-bagaimana-kondisi-masjid-jic"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini, 11 Desember 2024, di Kota Medan: Cerah Berawan",
+        "category": "News",
+        "publish_time": "10-12-2024 22:18",
+        "news_link": "https://news.republika.co.id/berita/soau021841716907/prakiraan-cuaca-hari-ini-11-desember-2024-di-kota-medan-cerah-berawan"
+    },
+    {
         "title": "Fadli Zon Usulkan Museum Peradaban Islam Dibangun di Istiqlal",
         "category": "Khazanah",
-        "publish_time": "10-12-2024 22:10",
+        "publish_time": "10-12-2024 22:12",
         "news_link": "https://khazanah.republika.co.id/berita/soatma483/fadli-zon-usulkan-museum-peradaban-islam-dibangun-di-istiqlal"
     },
     {
         "title": "Gerindra Klaim Menang di 27 Pilkada di Jateng, Bagaimana PDIP? Ini Respons Partai Banteng",
         "category": "News",
-        "publish_time": "10-12-2024 22:04",
+        "publish_time": "10-12-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/soatcd377/gerindra-klaim-menang-di-27-pilkada-di-jateng-bagaimana-pdip-ini-respons-partai-banteng"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini, 11 Desember 2024: Kota Malang dan Udara Berawan",
         "category": "News",
-        "publish_time": "10-12-2024 22:04",
+        "publish_time": "10-12-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/soatbd2027258460/prakiraan-cuaca-hari-ini-11-desember-2024-kota-malang-dan-udara-berawan"
     },
     {
         "title": "Kaji Usulan Sertifikasi Juru Dakwah, Menag akan Libatkan Semua Ormas Islam",
         "category": "Khazanah",
-        "publish_time": "10-12-2024 22:03",
+        "publish_time": "10-12-2024 22:12",
         "news_link": "https://khazanah.republika.co.id/berita/soatat483/kaji-usulan-sertifikasi-juru-dakwah-menag-akan-libatkan-semua-ormas-islam"
     },
     {
         "title": "Kuasa Hukum Ungkap Bahaya Sentralisasi Zakat di Baznas",
         "category": "Khazanah",
-        "publish_time": "10-12-2024 21:56",
+        "publish_time": "10-12-2024 22:12",
         "news_link": "https://khazanah.republika.co.id/berita/soasz0483/kuasa-hukum-ungkap-bahaya-sentralisasi-zakat-di-baznas"
     },
     {
         "title": "Tiga Bocah Ditikam, Dua Tewas di Sumut, Ini Motif Pelaku RS",
         "category": "News",
-        "publish_time": "10-12-2024 21:51",
+        "publish_time": "10-12-2024 22:12",
         "news_link": "https://news.republika.co.id/berita/soasqe377/tiga-bocah-ditikam-dua-tewas-di-sumut-ini-motif-pelaku-rs"
     },
     {
-        "title": "Prakiraan Cuaca Hari Ini: Kota Surabaya Cerah Berawan - 11 Desember 2024",
+        "title": "Prakiraan Cuaca Hari Ini: Kota Surabaya Cerah Berawan",
         "category": "News",
-        "publish_time": "10-12-2024 21:48",
-        "news_link": "https://news.republika.co.id/berita/soasm51226307106/prakiraan-cuaca-hari-ini-kota-surabaya-cerah-berawan-11-desember-2024"
+        "publish_time": "10-12-2024 22:12",
+        "news_link": "https://news.republika.co.id/berita/soasm51226307106/prakiraan-cuaca-hari-ini-kota-surabaya-cerah-berawan"
     },
     {
         "title": "UMP 2025 DKI Jakarta Diumumkan Hari Ini, Segini Prediksi Besarannya Dibanding Tahun Lalu",
         "category": "News",
-        "publish_time": "10-12-2024 21:32",
+        "publish_time": "10-12-2024 21:12",
         "news_link": "https://news.republika.co.id/berita/soabi4409/ump-2025-dki-jakarta-diumumkan-hari-ini-segini-prediksi-besarannya-dibanding-tahun-lalu"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini Kota Yogyakarta dan Sekitarnya, 11 Desember 2024: Hujan Petir",
         "category": "News",
-        "publish_time": "10-12-2024 21:30",
+        "publish_time": "10-12-2024 21:12",
         "news_link": "https://news.republika.co.id/berita/soars41238977108/prakiraan-cuaca-hari-ini-kota-yogyakarta-dan-sekitarnya-11-desember-2024-hujan-petir"
     },
     {
@@ -208,95 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "10-12-2024 16:12",
         "news_link": "https://ekonomi.republika.co.id/berita/soadsm349/dukung-umkm-lion-parcel-turunkan-ongkir-paket-antarkota-ke-seluruh-sumatra"
-    },
-    {
-        "title": "Dorong Inovasi, Petrokimia Gresik sabet 18 Penghargaan di TKMPN 2024",
-        "category": "Ekonomi",
-        "publish_time": "10-12-2024 16:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/so9nsm370/dorong-inovasi-petrokimia-gresik-sabet-18-penghargaan-di-tkmpn-2024"
-    },
-    {
-        "title": "Tiba di Solo, Timnas Indonesia Siap Hadapi Laos",
-        "category": "Visual",
-        "publish_time": "10-12-2024 16:12",
-        "news_link": "https://visual.republika.co.id/berita/soabnf375/tiba-di-solo-timnas-indonesia-siap-hadapi-laos"
-    },
-    {
-        "title": "Kuasa Hukum Keluarga Gamma Sudah Perkirakan PTDH Aipda Robig",
-        "category": "Video",
-        "publish_time": "10-12-2024 16:12",
-        "news_link": "https://tv.republika.co.id/berita/soaboe418/kuasa-hukum-keluarga-gamma-sudah-perkirakan-ptdh-aipda-robig"
-    },
-    {
-        "title": "Menag Nasaruddin Umar Buka Festival Harmoni Istiqlal",
-        "category": "Visual",
-        "publish_time": "10-12-2024 15:12",
-        "news_link": "https://visual.republika.co.id/berita/soabl5375/menag-nasaruddin-umar-buka-festival-harmoni-istiqlal"
-    },
-    {
-        "title": "Pura-Pura Jadi WNI, WNA Asal Myanmar Pakai Identitas Palsu Saat Bikin Paspor Indonesia",
-        "category": "Rejogja",
-        "publish_time": "10-12-2024 15:12",
-        "news_link": "https://rejogja.republika.co.id/berita/soaaui282/purapura-jadi-wni-wna-asal-myanmar-pakai-identitas-palsu-saat-bikin-paspor-indonesia"
-    },
-    {
-        "title": "Sentul Selatan Jadi Primadona Baru Investasi Properti, Klaster Ini Buktinya",
-        "category": "Rejakarta",
-        "publish_time": "10-12-2024 15:12",
-        "news_link": "https://republika.co.id/berita/so9dko349/sentul-selatan-jadi-primadona-baru-investasi-properti-klaster-ini-buktinya"
-    },
-    {
-        "title": "Bawang Merah Hingga Minyak Goreng Naik Jelang Tahun Baru",
-        "category": "Ekonomi",
-        "publish_time": "10-12-2024 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/soaami483/bawang-merah-hingga-minyak-goreng-naik-jelang-tahun-baru"
-    },
-    {
-        "title": "Peneliti Minta MK Lepaskan Peran Baznas Sebagai Regulator",
-        "category": "Khazanah",
-        "publish_time": "10-12-2024 15:12",
-        "news_link": "https://khazanah.republika.co.id/berita/soaaf6483/peneliti-minta-mk-lepaskan-peran-baznas-sebagai-regulator"
-    },
-    {
-        "title": "Menkeu Ungkap Strategi Capai Target Pendapatan Negara, Tak Bahas Kenaikan Tarif PPN",
-        "category": "Ekonomi",
-        "publish_time": "10-12-2024 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/soa9cf490/menkeu-ungkap-strategi-capai-target-pendapatan-negara-tak-bahas-kenaikan-tarif-ppn"
-    },
-    {
-        "title": "Danantara Masih Belum Diluncurkan, Ini Penjelasan Menteri BUMN",
-        "category": "Ekonomi",
-        "publish_time": "10-12-2024 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/soa94a490/danantara-masih-belum-diluncurkan-ini-penjelasan-menteri-bumn"
-    },
-    {
-        "title": "Sejarah Hari HAM yang Diperingati Setiap 10 Desember",
-        "category": "News",
-        "publish_time": "10-12-2024 15:12",
-        "news_link": "https://news.republika.co.id/berita/soa900282/sejarah-hari-ham-yang-diperingati-setiap-10-desember"
-    },
-    {
-        "title": "Pendidikan Berkualitas untuk Masa Depan Berkelanjutan",
-        "category": "News",
-        "publish_time": "10-12-2024 14:12",
-        "news_link": "https://news.republika.co.id/berita/soa8k7430/pendidikan-berkualitas-untuk-masa-depan-berkelanjutan"
-    },
-    {
-        "title": "Tingginya Resiko Diabetes pada Generasi Gen Z",
-        "category": "Retizen",
-        "publish_time": "10-12-2024 14:12",
-        "news_link": "https://retizen.republika.co.id/posts/493541/tingginya-resiko-diabetes-pada-generasi-gen-z"
-    },
-    {
-        "title": "Perubahan Budaya Akibat Teknologi",
-        "category": "Retizen",
-        "publish_time": "10-12-2024 14:12",
-        "news_link": "https://retizen.republika.co.id/posts/493601/perubahan-budaya-akibat-teknologi"
-    },
-    {
-        "title": "Bom Atom dan Bom Hidrogen: Inovasi Sains yang Mengubah Jalannya Sejarah Perang Dunia",
-        "category": "Retizen",
-        "publish_time": "10-12-2024 14:12",
-        "news_link": "https://retizen.republika.co.id/posts/493661/bom-atom-dan-bom-hidrogen-inovasi-sains-yang-mengubah-jalannya-sejarah-perang-dunia"
     }
 ]
