@@ -1,74 +1,182 @@
 [
     {
+        "title": "Polresta Yogyakarta Gelar Apel Operasi Lilin Persiapan Pasukan Pengamanan Nataru",
+        "category": "Rejogja",
+        "publish_time": "20-12-2024 10:09",
+        "news_link": "https://rejogja.republika.co.id/berita/sosewa291/polresta-yogyakarta-gelar-apel-operasi-lilin-persiapan-pasukan-pengamanan-nataru"
+    },
+    {
+        "title": "Dukung Karya Disabilitas, Kantor Pusat BNI Pajang Karya Lukis 7 Seniman Visual Muda",
+        "category": "Ekonomi",
+        "publish_time": "20-12-2024 10:08",
+        "news_link": "https://ekonomi.republika.co.id/berita/soseus502/dukung-karya-disabilitas-kantor-pusat-bni-pajang-karya-lukis-7-seniman-visual-muda"
+    },
+    {
+        "title": "Mengejutkan, Empat Menteri di Kabinet Prabowo Gabung PAN",
+        "category": "News",
+        "publish_time": "20-12-2024 10:05",
+        "news_link": "https://news.republika.co.id/berita/sosepu484/mengejutkan-empat-menteri-di-kabinet-prabowo-gabung-pan"
+    },
+    {
+        "title": "Kinerja APBN 2024 On Track, Bea Cukai Ambil Peran Maksimal",
+        "category": "Beacukai",
+        "publish_time": "20-12-2024 10:02",
+        "news_link": "https://republika.co.id/berita/sosekn502/kinerja-apbn-2024-on-track-bea-cukai-ambil-peran-maksimal"
+    },
+    {
+        "title": "Presiden Turki Erdogan Serukan Persatuan Global dan Keadilan di KTT D-8",
+        "category": "Khazanah",
+        "publish_time": "20-12-2024 10:00",
+        "news_link": "https://khazanah.republika.co.id/berita/sos34q451/presiden-turki-erdogan-serukan-persatuan-global-dan-keadilan-di-ktt-d8"
+    },
+    {
+        "title": "Pemberdayaan Petani Gula Arensewu, Berdayakan Sisi Ekonomi dan Kesehatan Cisewu",
+        "category": "Esgnow",
+        "publish_time": "20-12-2024 09:58",
+        "news_link": "https://esgnow.republika.co.id/berita/sosed1502/pemberdayaan-petani-gula-arensewu-berdayakan-sisi-ekonomi-dan-kesehatan-cisewu"
+    },
+    {
+        "title": "Masuki Nataru, Arus Mudik Via Laut dari Kalimantan ke Jawa Naik 15 Persen",
+        "category": "Rejogja",
+        "publish_time": "20-12-2024 09:53",
+        "news_link": "https://rejogja.republika.co.id/berita/sose5q282/masuki-nataru-arus-mudik-via-laut-dari-kalimantan-ke-jawa-naik-15-persen"
+    },
+    {
+        "title": "Praperadilan Hakim Tersangka Kasus Suap Vonis Ronald Tannur Dinyatakan Gugur",
+        "category": "News",
+        "publish_time": "20-12-2024 09:52",
+        "news_link": "https://news.republika.co.id/berita/sose4a487/praperadilan-hakim-tersangka-kasus-suap-vonis-ronald-tannur-dinyatakan-gugur"
+    },
+    {
+        "title": "Keseruan 3 Member Seventeen Sapa Fans di Jakarta",
+        "category": "Ameera",
+        "publish_time": "20-12-2024 09:49",
+        "news_link": "https://ameera.republika.co.id/berita/sosdyb425/keseruan-3-member-seventeen-sapa-fans-di-jakarta"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok, 21 Desember 2024, Kota Denpasar dan Sekitarnya Hujan Ringan",
+        "category": "News",
+        "publish_time": "20-12-2024 09:49",
+        "news_link": "https://news.republika.co.id/berita/sosdxz1335426942/prakiraan-cuaca-besok-21-desember-2024-kota-denpasar-dan-sekitarnya-hujan-ringan"
+    },
+    {
+        "title": "Ketua Umum PP Muhammadiyah Raih Anugerah Hamengku Buwono IX",
+        "category": "Rejogja",
+        "publish_time": "20-12-2024 09:49",
+        "news_link": "https://rejogja.republika.co.id/berita/sosdxp291/ketua-umum-pp-muhammadiyah-raih-anugerah-hamengku-buwono-ix"
+    },
+    {
+        "title": "Dituduh Curang di Pilgub Jateng, Tim Luthfi-Yasin: Monggo Dibuktikan",
+        "category": "Rejogja",
+        "publish_time": "20-12-2024 09:44",
+        "news_link": "https://rejogja.republika.co.id/berita/sosdqt282/dituduh-curang-di-pilgub-jateng-tim-luthfiyasin-monggo-dibuktikan"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok 21 Desember 2024 di Kota Makassar: Hujan Ringan",
+        "category": "News",
+        "publish_time": "20-12-2024 09:31",
+        "news_link": "https://news.republika.co.id/berita/sosd491278595565/prakiraan-cuaca-besok-21-desember-2024-di-kota-makassar-hujan-ringan"
+    },
+    {
+        "title": "Turki Serukan Segera Penuhi Kebutuhan Rakyat Suriah Setelah Assad Tumbang",
+        "category": "Khazanah",
+        "publish_time": "20-12-2024 09:30",
+        "news_link": "https://khazanah.republika.co.id/berita/sos2x8451/turki-serukan-segera-penuhi-kebutuhan-rakyat-suriah-setelah-assad-tumbang"
+    },
+    {
+        "title": "Sah! Pemerintah Akui Kepengurusan PMI di Bawah Kepemimpinan Jusuf Kalla",
+        "category": "News",
+        "publish_time": "20-12-2024 09:22",
+        "news_link": "https://news.republika.co.id/berita/soscpx409/sah-pemerintah-akui-kepengurusan-pmi-di-bawah-kepemimpinan-jusuf-kalla"
+    },
+    {
+        "title": "Prakiraan Cuaca Kota Medan dan Sekitarnya Besok: Hujan Ringan Malam Hari",
+        "category": "News",
+        "publish_time": "20-12-2024 09:19",
+        "news_link": "https://news.republika.co.id/berita/soscjz1532584752/prakiraan-cuaca-kota-medan-dan-sekitarnya-besok-hujan-ringan-malam-hari"
+    },
+    {
+        "title": "Rute yang Bersinggungan dengan MRT akan Ditiadakan, Begini Kata Transjakarta",
+        "category": "News",
+        "publish_time": "20-12-2024 09:16",
+        "news_link": "https://news.republika.co.id/berita/soscf2487/rute-yang-bersinggungan-dengan-mrt-akan-ditiadakan-begini-kata-transjakarta"
+    },
+    {
+        "title": "Economists Predict Interest Rates to Start Declining Next Year",
+        "category": "En",
+        "publish_time": "58 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/soscdh415/economists-predict-interest-rates-to-start-declining-next-year"
+    },
+    {
         "title": "MES: It is Impossible to Build an Economy Without the Foundation of the Financial System",
         "category": "En",
-        "publish_time": "3 minutes ago",
+        "publish_time": "1 hours ago",
         "news_link": "https://en.republika.co.id/berita/sosc4l415/mes-it-is-impossible-to-build-an-economy-without-the-foundation-of-the-financial-system"
     },
     {
         "title": "Presiden Prabowo Tekankan D-8 tak Boleh Terpecah untuk Bela Palestina-Lebanon",
         "category": "Khazanah",
-        "publish_time": "20-12-2024 09:02",
+        "publish_time": "20-12-2024 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/sorv8g451/presiden-prabowo-tekankan-d8-tak-boleh-terpecah-untuk-bela-palestinalebanon"
     },
     {
         "title": "ShopeeFood Checkout Murah Jadi Pilihan Favorit Pengguna Sambut Akhir Tahun",
         "category": "Ekonomi",
-        "publish_time": "20-12-2024 09:01",
+        "publish_time": "20-12-2024 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sos7zh370/shopeefood-checkout-murah-jadi-pilihan-favorit-pengguna-sambut-akhir-tahun"
     },
     {
         "title": "Tindak Tegas Barang Ilegal, Bea Cukai Belawan Musnahkan Barang Hasil Penindakan",
         "category": "Beacukai",
-        "publish_time": "20-12-2024 08:57",
+        "publish_time": "20-12-2024 09:13",
         "news_link": "https://republika.co.id/berita/sos8v1370/tindak-tegas-barang-ilegal-bea-cukai-belawan-musnahkan-barang-hasil-penindakan"
     },
     {
         "title": "Artis Indonesia yang Meninggal pada 2024, Babe Cabita Hingga Marissa Haque",
         "category": "Ameera",
-        "publish_time": "20-12-2024 08:54",
+        "publish_time": "20-12-2024 09:13",
         "news_link": "https://ameera.republika.co.id/berita/sosbef425/artis-indonesia-yang-meninggal-pada-2024-babe-cabita-hingga-marissa-haque"
     },
     {
         "title": "KPU Tetapkan Gubernur dan Wakil Gubernur Jakarta Terpilih pada Awal Januari 2025",
         "category": "News",
-        "publish_time": "20-12-2024 08:53",
+        "publish_time": "20-12-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/sosbdu487/kpu-tetapkan-gubernur-dan-wakil-gubernur-jakarta-terpilih-pada-awal-januari-2025"
     },
     {
         "title": "Prakiraan Cuaca Kota Surabaya Besok 21 Desember 2024: Hujan Ringan",
         "category": "News",
-        "publish_time": "20-12-2024 08:49",
+        "publish_time": "20-12-2024 09:13",
         "news_link": "https://news.republika.co.id/berita/sosb6a1591895717/prakiraan-cuaca-kota-surabaya-besok-21-desember-2024-hujan-ringan"
     },
     {
         "title": "Polisi Tangkap Pelaku Penyiraman Air Keras di Petojo, Jakarta Pusat",
         "category": "News",
-        "publish_time": "20-12-2024 08:42",
+        "publish_time": "20-12-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sosaur484/polisi-tangkap-pelaku-penyiraman-air-keras-di-petojo-jakarta-pusat"
     },
     {
         "title": "Serba Serbi Situasi Terkini Palestina",
         "category": "Khazanah",
-        "publish_time": "20-12-2024 08:32",
+        "publish_time": "20-12-2024 08:13",
         "news_link": "https://khazanah.republika.co.id/berita/sorv39451/serba-serbi-situasi-terkini-palestina"
     },
     {
         "title": "Prakiraan Cuaca Besok, 21 Desember 2024, Kota Yogyakarta: Hujan Ringan",
         "category": "News",
-        "publish_time": "20-12-2024 08:31",
+        "publish_time": "20-12-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sosacd2065459667/prakiraan-cuaca-besok-21-desember-2024-kota-yogyakarta-hujan-ringan"
     },
     {
         "title": "Palang Merah Indonesia Pusat Resmi Melantik\u00a0Kepengurusan Baru Periode 2024-2029",
         "category": "News",
-        "publish_time": "20-12-2024 08:20",
+        "publish_time": "20-12-2024 08:13",
         "news_link": "https://news.republika.co.id/berita/sos8qa370/palang-merah-indonesia-pusat-resmi-melantikkepengurusan-baru-periode-20242029"
     },
     {
         "title": "Spanduk Kontroversial 'Yesus Bukan Tuhan' Dicopot dari Masjid Lekki",
         "category": "Khazanah",
-        "publish_time": "20-12-2024 08:16",
+        "publish_time": "20-12-2024 08:13",
         "news_link": "https://khazanah.republika.co.id/berita/sos9nl430/spanduk-kontroversial-yesus-bukan-tuhan-dicopot-dari-masjid-lekki"
     },
     {
@@ -190,113 +298,5 @@
         "category": "Khazanah",
         "publish_time": "20-12-2024 07:13",
         "news_link": "https://khazanah.republika.co.id/berita/sos6ql366/erick-perjuangkan-kembali-kek-ekonomi-syariah"
-    },
-    {
-        "title": "Bea Cukai Banjarmasin Musnahkan 1,5 Juta Batang Rokok Ilegal",
-        "category": "Beacukai",
-        "publish_time": "20-12-2024 07:13",
-        "news_link": "https://republika.co.id/berita/sos6ok370/bea-cukai-banjarmasin-musnahkan-15-juta-batang-rokok-ilegal"
-    },
-    {
-        "title": "Presiden Putin Nyatakan Siap Berunding dan Bertemu dengan Trump",
-        "category": "News",
-        "publish_time": "20-12-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/soru38451/presiden-putin-nyatakan-siap-berunding-dan-bertemu-dengan-trump"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok untuk Daerah Bogor dan Sekitarnya pada 21 Desember 2024",
-        "category": "News",
-        "publish_time": "20-12-2024 07:13",
-        "news_link": "https://news.republika.co.id/berita/sos64f1079510487/prakiraan-cuaca-besok-untuk-daerah-bogor-dan-sekitarnya-pada-21-desember-2024"
-    },
-    {
-        "title": "Inggris Bantu Indonesia Jalankan Program Konservasi",
-        "category": "Esgnow",
-        "publish_time": "20-12-2024 07:13",
-        "news_link": "https://esgnow.republika.co.id/berita/sos366416/inggris-bantu-indonesia-jalankan-program-konservasi"
-    },
-    {
-        "title": "Mitsubishi Motors Capai Produksi Satu Juta Unit di Indonesia",
-        "category": "Ekonomi",
-        "publish_time": "20-12-2024 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sos4sr370/mitsubishi-motors-capai-produksi-satu-juta-unit-di-indonesia"
-    },
-    {
-        "title": "Setelah BUMN Sehat, Erick Sebut Prabowo Prioritaskan Ekonomi Kerakyatan",
-        "category": "Khazanah",
-        "publish_time": "20-12-2024 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sos5ef366/setelah-bumn-sehat-erick-sebut-prabowo-prioritaskan-ekonomi-kerakyatan"
-    },
-    {
-        "title": "Sumbangsih Finansial dan Program Pro Rakyat Kukuhkan BRI Sebagai BUMN Terbesar",
-        "category": "Ekonomi",
-        "publish_time": "20-12-2024 06:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sos570502/sumbangsih-finansial-dan-program-pro-rakyat-kukuhkan-bri-sebagai-bumn-terbesar"
-    },
-    {
-        "title": "Polda Metro Dalami Dugaan Penonton Malaysia di DWP Diperas Polisi",
-        "category": "News",
-        "publish_time": "20-12-2024 06:13",
-        "news_link": "https://news.republika.co.id/berita/sos56u484/polda-metro-dalami-dugaan-penonton-malaysia-di-dwp-diperas-polisi"
-    },
-    {
-        "title": "Transjakarta Perpanjang Jam Layanan Selama Libur Nataru, Cek Daftar Lengkap Rutenya",
-        "category": "News",
-        "publish_time": "20-12-2024 06:13",
-        "news_link": "https://news.republika.co.id/berita/sos568425/transjakarta-perpanjang-jam-layanan-selama-libur-nataru-cek-daftar-lengkap-rutenya"
-    },
-    {
-        "title": "Sheila on 7 Umroh Bareng, Penantian Ex Personel Terkabul Setelah 18 Tahun Lamanya",
-        "category": "Network",
-        "publish_time": "20-12-2024 06:13",
-        "news_link": "https://filmusiku.com/posts/497285/sheila-on-7-umroh-bareng-penantian-ex-personel-terkabul-setelah-18-tahun-lamanya"
-    },
-    {
-        "title": "Catatan Cak AT: Taujihat untuk Negeri",
-        "category": "Network",
-        "publish_time": "20-12-2024 06:13",
-        "news_link": "https://ruzkaindonesia.id/posts/497303/catatan-cak-at-taujihat-untuk-negeri"
-    },
-    {
-        "title": "Guy Berryman Bantah Coldplay Bakal Segera Pensiun!",
-        "category": "Network",
-        "publish_time": "20-12-2024 06:13",
-        "news_link": "https://impresiupdate.id/posts/497320/guy-berryman-bantah-coldplay-bakal-segera-pensiun-"
-    },
-    {
-        "title": "Agresi Terbaru Israel Rusak Parah RS Indonesia: Krisis Kemanusiaan Memburuk",
-        "category": "Network",
-        "publish_time": "20-12-2024 06:13",
-        "news_link": "https://topnews62.com/posts/497339/agresi-terbaru-israel-rusak-parah-rs-indonesia-krisis-kemanusiaan-memburuk"
-    },
-    {
-        "title": "Depok Raih Peringkat Ketiga Indeks Pembangunan Manusia di Jabar",
-        "category": "Network",
-        "publish_time": "20-12-2024 06:13",
-        "news_link": "https://ruzkaindonesia.id/posts/497364/depok-raih-peringkat-ketiga-indeks-pembangunan-manusia-di-jabar"
-    },
-    {
-        "title": "Deretan Judul Anime yang Hadir di Crunchyroll pada 2025 Nanti, Ada Dr Stone Science Future",
-        "category": "Network",
-        "publish_time": "20-12-2024 06:13",
-        "news_link": "https://inforemaja.id/posts/496713/deretan-judul-anime-yang-hadir-di-crunchyroll-pada-2025-nanti-ada-dr-stone-science-future"
-    },
-    {
-        "title": "Wisudawan Prodi Teknik Elektro Jadi Lulusan Terbaik Universitas BSI Berkat Doa Orang Tua",
-        "category": "News",
-        "publish_time": "20-12-2024 06:13",
-        "news_link": "https://news.republika.co.id/berita/sos4bm370/wisudawan-prodi-teknik-elektro-jadi-lulusan-terbaik-universitas-bsi-berkat-doa-orang-tua"
-    },
-    {
-        "title": "Terima Surat Keputusan, JK: Tak Ada Dualisme Kepemimpinan PMI, Pertandingan Sudah Berakhir",
-        "category": "News",
-        "publish_time": "20-12-2024 06:13",
-        "news_link": "https://news.republika.co.id/berita/sos43u487/terima-surat-keputusan-jk-tak-ada-dualisme-kepemimpinan-pmi-pertandingan-sudah-berakhir"
-    },
-    {
-        "title": "Jadi Korban Hipnotis, Wanita Asal Bojongsari, Depok Kehilangan Rp 100 Juta",
-        "category": "News",
-        "publish_time": "20-12-2024 06:13",
-        "news_link": "https://news.republika.co.id/berita/sos41s484/jadi-korban-hipnotis-wanita-asal-bojongsari-depok-kehilangan-rp-100-juta"
     }
 ]
