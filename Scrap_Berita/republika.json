@@ -1,5 +1,77 @@
 [
     {
+        "title": "Pertamina Pastikan Posko MyPertamina Layani Pemudik 24 Jam",
+        "category": "Ekonomi",
+        "publish_time": "20-12-2024 13:18",
+        "news_link": "https://ekonomi.republika.co.id/berita/sosnmc522/pertamina-pastikan-posko-mypertamina-layani-pemudik-24-jam"
+    },
+    {
+        "title": "Jejak Masa Silam Keemasan Islam di Tunisia",
+        "category": "Khazanah",
+        "publish_time": "20-12-2024 13:10",
+        "news_link": "https://khazanah.republika.co.id/berita/sosn9c458/jejak-masa-silam-keemasan-islam-di-tunisia"
+    },
+    {
+        "title": "Peringatan Rasulullah Bila Hukum 'Tajam ke Bawah, Tumpul ke Atas'",
+        "category": "Khazanah",
+        "publish_time": "20-12-2024 13:04",
+        "news_link": "https://khazanah.republika.co.id/berita/sosn00458/peringatan-rasulullah-bila-hukum-tajam-ke-bawah-tumpul-ke-atas"
+    },
+    {
+        "title": "Jadwal Pekan Ke-17 Liga Italia: Atalanta, Napoli, dan Inter Berburu Singgasana",
+        "category": "News",
+        "publish_time": "20-12-2024 13:01",
+        "news_link": "https://news.republika.co.id/berita/sosmuk348/jadwal-pekan-ke17-liga-italia-atalanta-napoli-dan-inter-berburu-singgasana"
+    },
+    {
+        "title": "Senang Dipanggil 'Haji', Apakah Termasuk Riya?",
+        "category": "Khazanah",
+        "publish_time": "20-12-2024 13:00",
+        "news_link": "https://khazanah.republika.co.id/berita/sosmsp458/senang-dipanggil-haji-apakah-termasuk-riya"
+    },
+    {
+        "title": "Babe Haikal Miris, Indonesia Kalah dari China dan AS Soal Ekspor Produk Halal",
+        "category": "Sharia",
+        "publish_time": "20-12-2024 12:52",
+        "news_link": "https://sharia.republika.co.id/berita/sosmfj502/babe-haikal-miris-indonesia-kalah-dari-china-dan-as-soal-ekspor-produk-halal"
+    },
+    {
+        "title": "Jersey Marselino Lawan Gawang Arab Saudi akan Dilelang untuk Renovasi Sekolah di Surabaya",
+        "category": "Rejogja",
+        "publish_time": "20-12-2024 12:45",
+        "news_link": "https://rejogja.republika.co.id/berita/sosm3k282/jersey-marselino-lawan-gawang-arab-saudi-akan-dilelang-untuk-renovasi-sekolah-di-surabaya"
+    },
+    {
+        "title": "Prabowo Tegaskan Dukungan pada Pengembangan Ekonomi Halal Demi Pertumbuhan Regional",
+        "category": "Sharia",
+        "publish_time": "20-12-2024 12:42",
+        "news_link": "https://sharia.republika.co.id/berita/soslyo502/prabowo-tegaskan-dukungan-pada-pengembangan-ekonomi-halal-demi-pertumbuhan-regional"
+    },
+    {
+        "title": "Kasasi Ditolak MA, PT Sritex Resmi Pailit, Bagaimana Nasib Karyawannya?",
+        "category": "Rejogja",
+        "publish_time": "20-12-2024 12:36",
+        "news_link": "https://rejogja.republika.co.id/berita/soslpq282/kasasi-ditolak-ma-pt-sritex-resmi-pailit-bagaimana-nasib-karyawannya"
+    },
+    {
+        "title": "Amankan Natal dan Tahun Baru, Polres Sukabumi Kota Kerahkan Tim Macan Bintana",
+        "category": "Network",
+        "publish_time": "20-12-2024 12:35",
+        "news_link": "https://sukabumikini.com/posts/497475/amankan-natal-dan-tahun-baru-polres-sukabumi-kota-kerahkan-tim-macan-bintana"
+    },
+    {
+        "title": "Mulyo Handoyo Fokus pada Percepatan Regenerasi Pemain di Pelatnas Cipayung",
+        "category": "News",
+        "publish_time": "20-12-2024 12:34",
+        "news_link": "https://news.republika.co.id/berita/soslmr348/mulyo-handoyo-fokus-pada-percepatan-regenerasi-pemain-di-pelatnas-cipayung"
+    },
+    {
+        "title": "Zulhas Pastikan Harga dan Stok Bahan Pokok Aman",
+        "category": "Network",
+        "publish_time": "20-12-2024 12:31",
+        "news_link": "https://sekitarsurabaya.com/posts/497487/zulhas-pastikan-harga-dan-stok-bahan-pokok-aman"
+    },
+    {
         "title": "IIF Salurkan Rp 250 Miliar Percepat Proyek Tol Patimban",
         "category": "Ekonomi",
         "publish_time": "20-12-2024 12:23",
@@ -8,295 +80,223 @@
     {
         "title": "2.000 Tentara AS Ternyata Ada di Suriah, Pentagon: Untuk Perang Lawan ISIS",
         "category": "News",
-        "publish_time": "20-12-2024 12:23",
+        "publish_time": "20-12-2024 12:22",
         "news_link": "https://news.republika.co.id/berita/sosl1y377/2000-tentara-as-ternyata-ada-di-suriah-pentagon-untuk-perang-lawan-isis"
     },
     {
         "title": "Trik Mudah Samarkan Bekas Luka",
         "category": "Ameera",
-        "publish_time": "20-12-2024 12:22",
+        "publish_time": "20-12-2024 12:21",
         "news_link": "https://ameera.republika.co.id/berita/sosl0e458/trik-mudah-samarkan-bekas-luka"
     },
     {
         "title": "Catat, Ini Rekayasa Lalu Lintas Polisi Saat Malam Tahun Baru di Puncak",
         "category": "News",
-        "publish_time": "20-12-2024 12:19",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://news.republika.co.id/berita/soskv8377/catat-ini-rekayasa-lalu-lintas-polisi-saat-malam-tahun-baru-di-puncak"
     },
     {
         "title": "Pembangunan Teluk Ha Long, Vietnam Ancam Kelestarian Lingkungan dan Budaya",
         "category": "News",
-        "publish_time": "20-12-2024 12:17",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://news.republika.co.id/berita/sosks5522/pembangunan-teluk-ha-long-vietnam-ancam-kelestarian-lingkungan-dan-budaya"
     },
     {
         "title": "Hasil Autopsi Ungkap Penyebab Kematian Bocah 5 Tahun di Pasar Rebo",
         "category": "News",
-        "publish_time": "20-12-2024 12:15",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://news.republika.co.id/berita/soskq4409/hasil-autopsi-ungkap-penyebab-kematian-bocah-5-tahun-di-pasar-rebo"
     },
     {
         "title": "Modus Wanita di Palembang Bunuh Adik Ipar, Ajak Kompetisi Minum Jamu",
         "category": "News",
-        "publish_time": "20-12-2024 12:13",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://news.republika.co.id/berita/soskmf377/modus-wanita-di-palembang-bunuh-adik-ipar-ajak-kompetisi-minum-jamu"
     },
     {
         "title": "Kisah Ulama yang Mantan Perampok",
         "category": "Khazanah",
-        "publish_time": "20-12-2024 12:11",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://khazanah.republika.co.id/berita/soskjh458/kisah-ulama-yang-mantan-perampok"
     },
     {
         "title": "Dua Tersangka Penyebar Video Porno Artis dan Model Ditangkap, Modus Diungkap Polisi",
         "category": "News",
-        "publish_time": "20-12-2024 12:11",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://news.republika.co.id/berita/soski4409/dua-tersangka-penyebar-video-porno-artis-dan-model-ditangkap-modus-diungkap-polisi"
     },
     {
         "title": "Kemenag: Pentingnya Transformasi Pesantren Guna Tingkatkan Daya Saing",
         "category": "Khazanah",
-        "publish_time": "20-12-2024 12:10",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://khazanah.republika.co.id/berita/sos6p3451/kemenag-pentingnya-transformasi-pesantren-guna-tingkatkan-daya-saing"
     },
     {
         "title": "Erick Thohir: Bandara Jadi Pusat Gaya Hidup, Bukan Sekadar Tempat Naik Pesawat",
         "category": "Ekonomi",
-        "publish_time": "20-12-2024 12:08",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://ekonomi.republika.co.id/berita/soske9522/erick-thohir-bandara-jadi-pusat-gaya-hidup-bukan-sekadar-tempat-naik-pesawat"
     },
     {
         "title": "SPAM Jatiluhur I Resmi Beroperasi, Siap Suplai 1,9 Juta Jiwa di Jabodetabek dan Jabar",
         "category": "Ekonomi",
-        "publish_time": "20-12-2024 12:07",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://ekonomi.republika.co.id/berita/soskco349/spam-jatiluhur-i-resmi-beroperasi-siap-suplai-19-juta-jiwa-di-jabodetabek-dan-jabar"
     },
     {
         "title": "Belajar Mengakui Kesalahan",
         "category": "Khazanah",
-        "publish_time": "20-12-2024 12:07",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://khazanah.republika.co.id/berita/soskcb458/belajar-mengakui-kesalahan"
     },
     {
         "title": "KPU dan Bawaslu Diusulkan Jadi Badan Ad Hoc, Komisi II DPR: Tergantung Model Pemilu",
         "category": "News",
-        "publish_time": "20-12-2024 12:05",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://news.republika.co.id/berita/sosk8f487/kpu-dan-bawaslu-diusulkan-jadi-badan-ad-hoc-komisi-ii-dpr-tergantung-model-pemilu"
     },
     {
         "title": "Ini Dua Pemain yang Dipastikan Jadi Starter Lawan Filipina Menurut Shin Tae-yong",
         "category": "News",
-        "publish_time": "20-12-2024 12:02",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://news.republika.co.id/berita/sosk4g409/ini-dua-pemain-yang-dipastikan-jadi-starter-lawan-filipina-menurut-shin-taeyong"
     },
     {
         "title": "Polisi Musnahkan 11.500 Botol Miras Jelang Nataru di Bandung",
         "category": "Rejabar",
-        "publish_time": "20-12-2024 11:59",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://rejabar.republika.co.id/berita/sosjyt512/polisi-musnahkan-11500-botol-miras-jelang-nataru-di-bandung"
     },
     {
         "title": "Australia Tarik Peredaran Indomie, Ini Respons BPOM RI",
         "category": "News",
-        "publish_time": "20-12-2024 11:58",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://news.republika.co.id/berita/sosjxk409/australia-tarik-peredaran-indomie-ini-respons-bpom-ri"
     },
     {
         "title": "Oxygen.id Gencarkan Strategi Gaet Kembali Pelanggan Lama",
         "category": "Ekonomi",
-        "publish_time": "20-12-2024 11:56",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://ekonomi.republika.co.id/berita/sosjuj502/oxygenid-gencarkan-strategi-gaet-kembali-pelanggan-lama"
     },
     {
         "title": "Toyota Siapkan 5 Posko dan 300 Bengkel Siaga di Libur Nataru",
         "category": "Ekonomi",
-        "publish_time": "20-12-2024 11:55",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://ekonomi.republika.co.id/berita/sosjsb468/toyota-siapkan-5-posko-dan-300-bengkel-siaga-di-libur-nataru"
     },
     {
         "title": "Prabowo Sempat Temui Presiden Palestina di Kairo Bahas Gaza",
         "category": "News",
-        "publish_time": "20-12-2024 11:53",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://news.republika.co.id/berita/sosjpg393/prabowo-sempat-temui-presiden-palestina-di-kairo-bahas-gaza"
     },
     {
         "title": "Badan Khusus Sawit Bisa Tingkatkan Perbaikan Tata Kelola Industri Sawit",
         "category": "Esgnow",
-        "publish_time": "20-12-2024 11:52",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://esgnow.republika.co.id/berita/sosjn2522/badan-khusus-sawit-bisa-tingkatkan-perbaikan-tata-kelola-industri-sawit"
     },
     {
         "title": "Iran Kirim Surat ke Prabowo, Minta Warganya yang Ditahan di Indonesia Dipindahkan",
         "category": "News",
-        "publish_time": "20-12-2024 11:52",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://news.republika.co.id/berita/sosjmi377/iran-kirim-surat-ke-prabowo-minta-warganya-yang-ditahan-di-indonesia-dipindahkan"
     },
     {
         "title": "Shin Tae-yong Janji Timnas Indonesia akan Bekerja Keras Kalahkan Filipina",
         "category": "News",
-        "publish_time": "20-12-2024 11:51",
+        "publish_time": "20-12-2024 12:18",
         "news_link": "https://news.republika.co.id/berita/sosjks409/shin-taeyong-janji-timnas-indonesia-akan-bekerja-keras-kalahkan-filipina"
     },
     {
-        "title": "Pemerintah dan Aparat Diminta Tertibkan Nuthuk Serta Parkir Liar di Yogya Selama Nataru",
+        "title": "Nuthuk dan Parkir Liar Merajalela di Yogya Selama Nataru, Pemerintah Diminta Turun Tangan",
         "category": "Rejogja",
-        "publish_time": "20-12-2024 11:49",
-        "news_link": "https://rejogja.republika.co.id/berita/sosjia282/pemerintah-dan-aparat-diminta-tertibkan-nuthuk-serta-parkir-liar-di-yogya-selama-nataru"
+        "publish_time": "20-12-2024 12:18",
+        "news_link": "https://rejogja.republika.co.id/berita/sosjia282/nuthuk-dan-parkir-liar-merajalela-di-yogya-selama-nataru-pemerintah-diminta-turun-tangan"
     },
     {
         "title": "Antisipasi Bencana Hidrometeorologi, Jatim Lakukan Modifikasi Cuaca Hingga 22 Desember",
         "category": "Network",
-        "publish_time": "20-12-2024 11:49",
+        "publish_time": "20-12-2024 11:18",
         "news_link": "https://sekitarsurabaya.com/posts/497474/antisipasi-bencana-hidrometeorologi-jatim-lakukan-modifikasi-cuaca-hingga-22-desember"
     },
     {
         "title": "5  Hal Penting yang Perlu Anda Ketahui Soal Pelayaran Nataru 2024-25",
         "category": "Network",
-        "publish_time": "20-12-2024 11:49",
+        "publish_time": "20-12-2024 11:18",
         "news_link": "https://shippingcargo.co.id/posts/496974/5-hal-penting-yang-perlu-anda-ketahui-soal-pelayaran-nataru-2024-25"
     },
     {
         "title": "Bermimpi Surah al-Ikhlash",
         "category": "Khazanah",
-        "publish_time": "20-12-2024 11:41",
+        "publish_time": "20-12-2024 11:18",
         "news_link": "https://khazanah.republika.co.id/berita/sosj4p458/bermimpi-surah-alikhlash"
     },
     {
         "title": "Pameran Lukisan Seniman Yos Suprapto di Galeri Nasional Batal karena 5 Lukisan Kontroversi",
         "category": "News",
-        "publish_time": "20-12-2024 11:38",
+        "publish_time": "20-12-2024 11:18",
         "news_link": "https://news.republika.co.id/berita/sosize377/pameran-lukisan-seniman-yos-suprapto-di-galeri-nasional-batal-karena-5-lukisan-kontroversi"
     },
     {
         "title": "Prakiraan Cuaca Besok 21 Desember 2024 untuk Kota Padang dan Sekitarnya: Hujan Ringan di Padang Pariaman",
         "category": "News",
-        "publish_time": "20-12-2024 11:29",
+        "publish_time": "20-12-2024 11:18",
         "news_link": "https://news.republika.co.id/berita/sosil41796012782/prakiraan-cuaca-besok-21-desember-2024-untuk-kota-padang-dan-sekitarnya-hujan-ringan-di-padang-pariaman"
     },
     {
         "title": "MUI Apresiasi Prabowo Beri Kesempatan Koruptor Tobat",
         "category": "Khazanah",
-        "publish_time": "20-12-2024 11:28",
+        "publish_time": "20-12-2024 11:18",
         "news_link": "https://khazanah.republika.co.id/berita/sosijn458/mui-apresiasi-prabowo-beri-kesempatan-koruptor-tobat"
     },
     {
         "title": "KPK Tetapkan Dua Tersangka Kasus Dugaan Korupsi di PT Pembangunan Perumahan",
         "category": "News",
-        "publish_time": "20-12-2024 11:25",
+        "publish_time": "20-12-2024 11:18",
         "news_link": "https://news.republika.co.id/berita/sosidw487/kpk-tetapkan-dua-tersangka-kasus-dugaan-korupsi-di-pt-pembangunan-perumahan"
     },
     {
         "title": "Efektif, bank bjb Setorkan Modal ke Bank Jambi Senilai Rp 221,4 Miliar",
         "category": "News",
-        "publish_time": "20-12-2024 11:24",
+        "publish_time": "20-12-2024 11:18",
         "news_link": "https://news.republika.co.id/berita/sosibv502/efektif-bank-bjb-setorkan-modal-ke-bank-jambi-senilai-rp-2214-miliar"
     },
     {
-        "title": "PP PBSI Umumkan Susunan Pelatih Teknik Pelatnas Cipayung",
+        "title": "PP PBSI Umumkan Susunan Pelatih Teknik Pelatnas Cipayung, Ini Nama-namanya",
         "category": "News",
-        "publish_time": "20-12-2024 11:24",
-        "news_link": "https://news.republika.co.id/berita/sosia6348/pp-pbsi-umumkan-susunan-pelatih-teknik-pelatnas-cipayung"
+        "publish_time": "20-12-2024 11:18",
+        "news_link": "https://news.republika.co.id/berita/sosia6348/pp-pbsi-umumkan-susunan-pelatih-teknik-pelatnas-cipayung-ini-namanamanya"
     },
     {
         "title": "Jadwal Laga dan Siaran Live Timnas Indonesia Vs Filipina Serta Prediksi Susunan Pemain",
         "category": "News",
-        "publish_time": "20-12-2024 11:24",
+        "publish_time": "20-12-2024 11:18",
         "news_link": "https://news.republika.co.id/berita/sosi5g409/jadwal-laga-dan-siaran-live-timnas-indonesia-vs-filipina-serta-prediksi-susunan-pemain"
     },
     {
         "title": "Dukung Festival Ciliwung 2024, Komitmen Pertamina untuk Keberlanjutan Lingkungan",
         "category": "Esgnow",
-        "publish_time": "20-12-2024 11:24",
+        "publish_time": "20-12-2024 11:18",
         "news_link": "https://esgnow.republika.co.id/berita/sosi37522/dukung-festival-ciliwung-2024-komitmen-pertamina-untuk-keberlanjutan-lingkungan"
     },
     {
         "title": "TM Ragunan Diprediksi Dikunjungi 80 Ribu Orang Saat Libur Nataru",
         "category": "Rejakarta",
-        "publish_time": "20-12-2024 11:24",
+        "publish_time": "20-12-2024 11:18",
         "news_link": "https://republika.co.id/berita/sosi2w282/tm-ragunan-diprediksi-dikunjungi-80-ribu-orang-saat-libur-nataru"
     },
     {
         "title": "DPRD Jawa Barat Minta Warisan Budaya Takbenda Dicatat dan Kategorisasi",
         "category": "News",
-        "publish_time": "20-12-2024 11:24",
+        "publish_time": "20-12-2024 11:18",
         "news_link": "https://news.republika.co.id/berita/sosi20502/dprd-jawa-barat-minta-warisan-budaya-takbenda-dicatat-dan-kategorisasi"
     },
     {
         "title": "Peringati Hari Disabilitas Internasional, PLN Bersama Alunjiva Gelar Synergy Fest 2024",
         "category": "Ekonomi",
-        "publish_time": "20-12-2024 11:24",
+        "publish_time": "20-12-2024 11:18",
         "news_link": "https://ekonomi.republika.co.id/berita/soshrs502/peringati-hari-disabilitas-internasional-pln-bersama-alunjiva-gelar-synergy-fest-2024"
-    },
-    {
-        "title": "BYD Dolphin Menjadi Mobil China Teraman di Amerika Latin",
-        "category": "Ekonomi",
-        "publish_time": "20-12-2024 11:24",
-        "news_link": "https://ekonomi.republika.co.id/berita/soshqb468/byd-dolphin-menjadi-mobil-china-teraman-di-amerika-latin"
-    },
-    {
-        "title": "UMS Akan Tambah 7 Guru Besar",
-        "category": "News",
-        "publish_time": "20-12-2024 11:24",
-        "news_link": "https://news.republika.co.id/berita/soshni458/ums-akan-tambah-7-guru-besar"
-    },
-    {
-        "title": "Sidang JBC Ke-38 Jadi Upaya Bersama RI-PNG Bangun Kawasan Perbatasan",
-        "category": "News",
-        "publish_time": "20-12-2024 11:24",
-        "news_link": "https://news.republika.co.id/berita/sos4a4451/sidang-jbc-ke38-jadi-upaya-bersama-ripng-bangun-kawasan-perbatasan"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok 21 Desember 2024 di Kota Banda Aceh: Cerah Berawan",
-        "category": "News",
-        "publish_time": "20-12-2024 11:24",
-        "news_link": "https://news.republika.co.id/berita/soshls783366816/prakiraan-cuaca-besok-21-desember-2024-di-kota-banda-aceh-cerah-berawan"
-    },
-    {
-        "title": "Prabowo Usul Kepala Daerah Dipilih DPRD, Komisi II: Jadi Bahan Evaluasi Revisi UU Pemilu",
-        "category": "News",
-        "publish_time": "20-12-2024 11:24",
-        "news_link": "https://news.republika.co.id/berita/soshjo487/prabowo-usul-kepala-daerah-dipilih-dprd-komisi-ii-jadi-bahan-evaluasi-revisi-uu-pemilu"
-    },
-    {
-        "title": "President Prabowo Calls on D-8 Countries to Boost Economy to Support Palestine",
-        "category": "En",
-        "publish_time": "1 hours ago",
-        "news_link": "https://en.republika.co.id/berita/sosc0j415/president-prabowo-calls-on-d8-countries-to-boost-economy-to-support-palestine"
-    },
-    {
-        "title": "Investasi Halal untuk Pemula: Mudah, Aman, dan Tanpa Riba",
-        "category": "Retizen",
-        "publish_time": "20-12-2024 11:24",
-        "news_link": "https://retizen.republika.co.id/posts/497469/investasi-halal-untuk-pemula-mudah-aman-dan-tanpa-riba"
-    },
-    {
-        "title": "Pengurangan Emisi di Sektor Transportasi Temui Banyak Hambatan",
-        "category": "Esgnow",
-        "publish_time": "20-12-2024 11:24",
-        "news_link": "https://esgnow.republika.co.id/berita/soshd6522/pengurangan-emisi-di-sektor-transportasi-temui-banyak-hambatan"
-    },
-    {
-        "title": "Peran Media Sosial dalam Komunikasi Modern",
-        "category": "Retizen",
-        "publish_time": "20-12-2024 11:24",
-        "news_link": "https://retizen.republika.co.id/posts/497461/peran-media-sosial-dalam-komunikasi-modern"
-    },
-    {
-        "title": "Kemenangan Hayat Tahrir Al-sham Disebut Sebagai Kemenangan Warga Suriah",
-        "category": "Rejogja",
-        "publish_time": "20-12-2024 11:24",
-        "news_link": "https://rejogja.republika.co.id/berita/sosehv291/kemenangan-hayat-tahrir-alsham-disebut-sebagai-kemenangan-warga-suriah"
-    },
-    {
-        "title": "Menguatnya Dakwaan Genosida di Gaza",
-        "category": "Visual",
-        "publish_time": "20-12-2024 11:24",
-        "news_link": "https://visual.republika.co.id/berita/sosh0s393/menguatnya-dakwaan-genosida-di-gaza"
-    },
-    {
-        "title": "Self-reward sebagai Motivasi Diri: Apakah Efektif?",
-        "category": "Retizen",
-        "publish_time": "20-12-2024 10:24",
-        "news_link": "https://retizen.republika.co.id/posts/497035/self-reward-sebagai-motivasi-diri-apakah-efektif"
     }
 ]
