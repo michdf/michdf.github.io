@@ -1,8 +1,86 @@
 [
     {
+        "title": "Demokrat Sentil PDIP yang Protes Kenaikan PPN 12 Persen",
+        "category": "News",
+        "publish_time": "24-12-2024 14:11",
+        "news_link": "https://news.republika.co.id/berita/sp04rc484/demokrat-sentil-pdip-yang-protes-kenaikan-ppn-12-persen"
+    },
+    {
+        "title": "Apa yang Diyakini Umat Islam tentang Yesus?",
+        "category": "Khazanah",
+        "publish_time": "24-12-2024 14:11",
+        "news_link": "https://khazanah.republika.co.id/berita/sp04rb430/apa-yang-diyakini-umat-islam-tentang-yesus"
+    },
+    {
+        "title": "Menteri Nusron Pastikan Layanan Pertanahan tanpa Diskriminasi",
+        "category": "News",
+        "publish_time": "24-12-2024 14:00",
+        "news_link": "https://news.republika.co.id/berita/sozyt9451/menteri-nusron-pastikan-layanan-pertanahan-tanpa-diskriminasi"
+    },
+    {
+        "title": "Kontribusi Karyawan Disebut Kunci dalam Keberhasilan Bisnis Ekspedisi",
+        "category": "Ekonomi",
+        "publish_time": "24-12-2024 13:59",
+        "news_link": "https://ekonomi.republika.co.id/berita/sozaou320/kontribusi-karyawan-disebut-kunci-dalam-keberhasilan-bisnis-ekspedisi"
+    },
+    {
+        "title": "Pj Gubernur Lampung Paparkan Capaian Pembangunan pada Refleksi Akhir 2024",
+        "category": "News",
+        "publish_time": "24-12-2024 13:59",
+        "news_link": "https://news.republika.co.id/berita/sp046l370/pj-gubernur-lampung-paparkan-capaian-pembangunan-pada-refleksi-akhir-2024"
+    },
+    {
+        "title": "Menhut Tegaskan Pendakian ke Semeru Maksimal Sampai Ranu Kumbolo",
+        "category": "News",
+        "publish_time": "24-12-2024 13:51",
+        "news_link": "https://news.republika.co.id/berita/sp03tt484/menhut-tegaskan-pendakian-ke-semeru-maksimal-sampai-ranu-kumbolo"
+    },
+    {
+        "title": "KPK Miliki Bukti Sebagian Uang Suap Harun Masiku untuk Anggota KPU Berasal dari Hasto",
+        "category": "News",
+        "publish_time": "24-12-2024 13:49",
+        "news_link": "https://news.republika.co.id/berita/sp03qb409/kpk-miliki-bukti-sebagian-uang-suap-harun-masiku-untuk-anggota-kpu-berasal-dari-hasto"
+    },
+    {
+        "title": "Kemlu RI Ungkap Kondisi Reynhard Sinaga Saat Ini Alami Tekanan Psikis di Penjara Wakefield",
+        "category": "News",
+        "publish_time": "24-12-2024 13:45",
+        "news_link": "https://news.republika.co.id/berita/sp03ju409/kemlu-ri-ungkap-kondisi-reynhard-sinaga-saat-ini-alami-tekanan-psikis-di-penjara-wakefield"
+    },
+    {
+        "title": "Tolak Berlakukan Dua RUU, Persiden Sementara Korsel Terancam Dimakzulkan Partai Oposisi",
+        "category": "News",
+        "publish_time": "24-12-2024 13:35",
+        "news_link": "https://news.republika.co.id/berita/sp033v409/tolak-berlakukan-dua-ruu-persiden-sementara-korsel-terancam-dimakzulkan-partai-oposisi"
+    },
+    {
+        "title": "OJK: Belum Ada Permohonan Terkait Rencana Investor Baru Bank Muamalat",
+        "category": "Sharia",
+        "publish_time": "24-12-2024 13:29",
+        "news_link": "https://sharia.republika.co.id/berita/sp02tm370/ojk-belum-ada-permohonan-terkait-rencana-investor-baru-bank-muamalat"
+    },
+    {
+        "title": "Sepuluh Risiko Utama dalam Logistik yang Perlu Diwaspadai",
+        "category": "Network",
+        "publish_time": "24-12-2024 13:28",
+        "news_link": "https://shippingcargo.co.id/posts/498591/sepuluh-risiko-utama-dalam-logistik-yang-perlu-diwaspadai"
+    },
+    {
+        "title": "Stasiun Karawang Beroperasi, KCIC akan Tambah Perjalanan Whoosh pada 2025",
+        "category": "News",
+        "publish_time": "24-12-2024 13:21",
+        "news_link": "https://news.republika.co.id/berita/sp02gt409/stasiun-karawang-beroperasi-kcic-akan-tambah-perjalanan-whoosh-pada-2025"
+    },
+    {
+        "title": "Stasiun Kereta Cepat Karawang Resmi Dibuka, Tarif Mulai Rp 125 Ribu",
+        "category": "News",
+        "publish_time": "24-12-2024 13:20",
+        "news_link": "https://news.republika.co.id/berita/sp02dr484/stasiun-kereta-cepat-karawang-resmi-dibuka-tarif-mulai-rp-125-ribu"
+    },
+    {
         "title": "Pj Teguh Setyabudi Sebut Penghapusan Layanan Transjakarta Blok M-Kota Baru Wacana",
         "category": "News",
-        "publish_time": "24-12-2024 13:16",
+        "publish_time": "24-12-2024 13:15",
         "news_link": "https://news.republika.co.id/berita/sp026u409/pj-teguh-setyabudi-sebut-penghapusan-layanan-transjakarta-blok-mkota-baru-wacana"
     },
     {
@@ -14,289 +92,211 @@
     {
         "title": "Kantor Imigrasi Belum Terima Surat Pencegahan Hasto ke Luar Negeri dari KPK",
         "category": "News",
-        "publish_time": "24-12-2024 13:06",
+        "publish_time": "24-12-2024 13:11",
         "news_link": "https://news.republika.co.id/berita/sp01qf409/kantor-imigrasi-belum-terima-surat-pencegahan-hasto-ke-luar-negeri-dari-kpk"
     },
     {
         "title": "Bantu Kelompok Ternak, Tim Pengabdian UII Manfaatkan Mesin Pencacah Rumput Hemat Energi",
         "category": "Rejogja",
-        "publish_time": "24-12-2024 13:04",
+        "publish_time": "24-12-2024 13:11",
         "news_link": "https://rejogja.republika.co.id/berita/sp01ni291/bantu-kelompok-ternak-tim-pengabdian-uii-manfaatkan-mesin-pencacah-rumput-hemat-energi"
     },
     {
         "title": "Serangan-Serangan Hamas Masih Mematikan dan Pengakuan Militer Israel",
         "category": "News",
-        "publish_time": "24-12-2024 13:01",
+        "publish_time": "24-12-2024 13:11",
         "news_link": "https://news.republika.co.id/berita/sp01i5320/seranganserangan-hamas-masih-mematikan-dan-pengakuan-militer-israel"
     },
     {
         "title": "Danlanud Sultan Hasanuddin Bakal Pecat Tentara LGBT",
         "category": "News",
-        "publish_time": "24-12-2024 12:38",
+        "publish_time": "24-12-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sp00gc393/danlanud-sultan-hasanuddin-bakal-pecat-tentara-lgbt"
     },
     {
         "title": "Merasakan Perjalanan Dakwah Nabi Isa AS Lewat Teknologi 5 Dimensi",
         "category": "Khazanah",
-        "publish_time": "24-12-2024 12:35",
+        "publish_time": "24-12-2024 12:11",
         "news_link": "https://khazanah.republika.co.id/berita/sp00bf484/merasakan-perjalanan-dakwah-nabi-isa-as-lewat-teknologi-5-dimensi"
     },
     {
         "title": "Terowongan Silaturahim Istiqlal-Katedral Dibuka untuk Misa Natal",
         "category": "Visual",
-        "publish_time": "24-12-2024 12:35",
+        "publish_time": "24-12-2024 12:11",
         "news_link": "https://visual.republika.co.id/berita/sp00ak375/terowongan-silaturahim-istiqlalkatedral-dibuka-untuk-misa-natal"
     },
     {
         "title": "Pemerintah Dorong Penguatan Sinergi Zakat dan Wakaf di Indonesia",
         "category": "Khazanah",
-        "publish_time": "24-12-2024 12:35",
+        "publish_time": "24-12-2024 12:11",
         "news_link": "https://khazanah.republika.co.id/berita/sozymy451/pemerintah-dorong-penguatan-sinergi-zakat-dan-wakaf-di-indonesia"
     },
     {
         "title": "Perlengkapan Hadapi Musim Dingin Telah Disalurkan ke 2 Kamp Pengungsi Gaza",
         "category": "Khazanah",
-        "publish_time": "24-12-2024 12:33",
+        "publish_time": "24-12-2024 12:11",
         "news_link": "https://khazanah.republika.co.id/berita/sp0077320/perlengkapan-hadapi-musim-dingin-telah-disalurkan-ke-2-kamp-pengungsi-gaza"
     },
     {
         "title": "Menko AHY Targetkan Stasiun Karawang Layani Belasan Ribu Penumpang",
         "category": "News",
-        "publish_time": "24-12-2024 12:25",
+        "publish_time": "24-12-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sozzug484/menko-ahy-targetkan-stasiun-karawang-layani-belasan-ribu-penumpang"
     },
     {
         "title": "Kasus Flu Burung pada Manusia Bertambah di Amerika, Siaga Darurat Diberlakukan",
         "category": "Ameera",
-        "publish_time": "24-12-2024 12:18",
+        "publish_time": "24-12-2024 12:11",
         "news_link": "https://ameera.republika.co.id/berita/sozzis425/kasus-flu-burung-pada-manusia-bertambah-di-amerika-siaga-darurat-diberlakukan"
     },
     {
         "title": "OJK: BSI Sedang Siapkan Infrastruktur untuk Ajukan Izin Usaha Bulion",
         "category": "Ekonomi",
-        "publish_time": "24-12-2024 12:18",
+        "publish_time": "24-12-2024 12:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sozzar370/ojk-bsi-sedang-siapkan-infrastruktur-untuk-ajukan-izin-usaha-bulion"
     },
     {
         "title": "Kemenag Sebut Tiga Kompetensi yang Wajib Dimiliki Amil Zakat Masa Kini",
         "category": "Khazanah",
-        "publish_time": "24-12-2024 12:18",
+        "publish_time": "24-12-2024 12:11",
         "news_link": "https://khazanah.republika.co.id/berita/sozyih451/kemenag-sebut-tiga-kompetensi-yang-wajib-dimiliki-amil-zakat-masa-kini"
     },
     {
         "title": "Sekjen PDIP Hasto Kristiyanto dan Seorang Advokal Dicekal ke Luar Negeri",
         "category": "News",
-        "publish_time": "24-12-2024 12:18",
+        "publish_time": "24-12-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sozy7a377/sekjen-pdip-hasto-kristiyanto-dan-seorang-advokal-dicekal-ke-luar-negeri"
     },
     {
         "title": "Sebelum Bikin VOC, Belanda Dua Kali Gagal Kirim Ekspedisi Cari Rempah",
         "category": "Network",
-        "publish_time": "24-12-2024 12:18",
+        "publish_time": "24-12-2024 12:11",
         "news_link": "https://oohya.republika.co.id/posts/498711/sebelum-bikin-voc-belanda-dua-kali-gagal-kirim-ekspedisi-cari-rempah"
     },
     {
         "title": "Perppu yang Anulir PPN 12 Persen akan Tunjukkan Keberpihakan Presiden ke Rakyat",
         "category": "Ekonomi",
-        "publish_time": "24-12-2024 12:18",
+        "publish_time": "24-12-2024 12:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sozy5i370/perppu-yang-anulir-ppn-12-persen-akan-tunjukkan-keberpihakan-presiden-ke-rakyat"
     },
     {
         "title": "Dua Kasus dan Tiga Tindakan Merintangi Penyidikan Korupsi yang Buat Hasto Jadi Tersangka",
         "category": "News",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sozy3x409/dua-kasus-dan-tiga-tindakan-merintangi-penyidikan-korupsi-yang-buat-hasto-jadi-tersangka"
     },
     {
         "title": "Hasto Disebut Perintahkan Harun Masiku Rendam Ponsel Sebelum Kabur",
         "category": "News",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 12:11",
         "news_link": "https://news.republika.co.id/berita/sozxw7377/hasto-disebut-perintahkan-harun-masiku-rendam-ponsel-sebelum-kabur"
     },
     {
         "title": "Polres Indramayu dan Tim Jibom Sterilisasi Gereja",
         "category": "Rejabar",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://rejabar.republika.co.id/berita/sozxsu512/polres-indramayu-dan-tim-jibom-sterilisasi-gereja"
     },
     {
         "title": "Pengakuan Sarjana Barat tentang Beda Toleransi Antara Islam dan Kristen",
         "category": "Khazanah",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://khazanah.republika.co.id/berita/sozxpa320/pengakuan-sarjana-barat-tentang-beda-toleransi-antara-islam-dan-kristen"
     },
     {
         "title": "OJK Dorong Pengembangan Bullion Bank untuk Optimalkan Pasar Emas Nasional",
         "category": "Ekonomi",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sozxf5370/ojk-dorong-pengembangan-bullion-bank-untuk-optimalkan-pasar-emas-nasional"
     },
     {
         "title": "Kata Pakar Soal Apakah Penetapan Sekjen PDIP Jadi Tersangka KPK Politisasi",
         "category": "News",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://news.republika.co.id/berita/sozxd7451/kata-pakar-soal-apakah-penetapan-sekjen-pdip-jadi-tersangka-kpk-politisasi"
     },
     {
         "title": "Prakiraan Cuaca Besok 25 Desember 2024 di Kota Padang dan Sekitarnya",
         "category": "News",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://news.republika.co.id/berita/sozx8t1418852389/prakiraan-cuaca-besok-25-desember-2024-di-kota-padang-dan-sekitarnya"
     },
     {
         "title": "Warga Desa Bareng Bojonegoro Akhirnya Bisa Mendapatkan Sumber Air Bersih",
         "category": "Rejogja",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://rejogja.republika.co.id/berita/sozww2320/warga-desa-bareng-bojonegoro-akhirnya-bisa-mendapatkan-sumber-air-bersih"
     },
     {
         "title": "Wapres Gibran Bersama Mentan Amran Tinjau Penanaman Padi di Langkat",
         "category": "Visual",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://visual.republika.co.id/berita/sozwhi375/wapres-gibran-bersama-mentan-amran-tinjau-penanaman-padi-di-langkat"
     },
     {
         "title": "Prakiraan Cuaca Besok di Kota Banda Aceh dan Sekitarnya Tanggal 25 Desember 2024: Cerah Berawan",
         "category": "News",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://news.republika.co.id/berita/sozw9s1796328833/prakiraan-cuaca-besok-di-kota-banda-aceh-dan-sekitarnya-tanggal-25-desember-2024-cerah-berawan"
     },
     {
         "title": "AHY Resmikan Stasiun Whoosh Karawang",
         "category": "Ekonomi",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sozw9k370/ahy-resmikan-stasiun-whoosh-karawang"
     },
     {
         "title": "Kaprodi PPDS Undip Disebut Jadi Tersangka Kasus Perundungan dan Pemerasan Dokter ARL",
         "category": "News",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://news.republika.co.id/berita/sozw7x409/kaprodi-ppds-undip-disebut-jadi-tersangka-kasus-perundungan-dan-pemerasan-dokter-arl"
     },
     {
         "title": "Tetangga Kristen Memeluk Islam Melihat Kesabaran Imam Hasan al Bashri",
         "category": "Khazanah",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://khazanah.republika.co.id/berita/sozw7h430/tetangga-kristen-memeluk-islam-melihat-kesabaran-imam-hasan-al-bashri"
     },
     {
         "title": "Pemkot Bandung Gandeng Polda Telusuri Iklan Judol",
         "category": "Rejabar",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://rejabar.republika.co.id/berita/sozvzw371/pemkot-bandung-gandeng-polda-telusuri-iklan-judol"
     },
     {
         "title": "Celaka Jika Remaja Bangga Dengan Kenakalan Saat Tahun Baru",
         "category": "Khazanah",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://khazanah.republika.co.id/berita/sozvzt430/celaka-jika-remaja-bangga-dengan-kenakalan-saat-tahun-baru"
     },
     {
         "title": "Tindak Tegas Barang Impor Ilegal, Bea Cukai Tanjung Emas Gelar Pemusnahan",
         "category": "Beacukai",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://republika.co.id/berita/soztab490/tindak-tegas-barang-impor-ilegal-bea-cukai-tanjung-emas-gelar-pemusnahan"
     },
     {
         "title": "Ini Dalih KPK Mengapa Baru Sekarang Tetapkan Hasto Sebagai Tersangka",
         "category": "News",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://news.republika.co.id/berita/sozvuw487/ini-dalih-kpk-mengapa-baru-sekarang-tetapkan-hasto-sebagai-tersangka"
     },
     {
         "title": "Pelindo Dorong Stakeholders Tingkatkan Keselamatan Kerja di Lingkungan Pelabuhan",
         "category": "Ekonomi",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sozvsk370/pelindo-dorong-stakeholders-tingkatkan-keselamatan-kerja-di-lingkungan-pelabuhan"
     },
     {
         "title": "Ruben Amorim: Badai Pasti Berlalu di MU",
         "category": "News",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://news.republika.co.id/berita/sozvqc348/ruben-amorim-badai-pasti-berlalu-di-mu"
     },
     {
         "title": "Polisi Memeras Turis Malaysia, Begini Hukum Memeras dalam Islam",
         "category": "Khazanah",
-        "publish_time": "24-12-2024 11:18",
+        "publish_time": "24-12-2024 11:11",
         "news_link": "https://khazanah.republika.co.id/berita/sozvnq430/polisi-memeras-turis-malaysia-begini-hukum-memeras-dalam-islam"
-    },
-    {
-        "title": "Resmi Melantai, MR DIY Himpun Rp 4,15 Triliun dari IPO",
-        "category": "Ekonomi",
-        "publish_time": "24-12-2024 11:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/sozvk8370/resmi-melantai-mr-diy-himpun-rp-415-triliun-dari-ipo"
-    },
-    {
-        "title": "Prakiraan Cuaca Kota Mataram: Cerah Berawan dan Hujan Ringan pada 25 Desember 2024",
-        "category": "News",
-        "publish_time": "24-12-2024 11:18",
-        "news_link": "https://news.republika.co.id/berita/sozve8451735495/prakiraan-cuaca-kota-mataram-cerah-berawan-dan-hujan-ringan-pada-25-desember-2024"
-    },
-    {
-        "title": "Polisi Tetapkan Tiga Tersangka Kasus Bullying Dokter PPDS Undip, Mereka Dijerat Tiga Pasal",
-        "category": "News",
-        "publish_time": "24-12-2024 11:18",
-        "news_link": "https://news.republika.co.id/berita/sozve2487/polisi-tetapkan-tiga-tersangka-kasus-bullying-dokter-ppds-undip-mereka-dijerat-tiga-pasal"
-    },
-    {
-        "title": "Penetapan Hasto Tersangka Dikaitkan dengan Kongres PDIP? Ini Jawaban Ketua KPK",
-        "category": "News",
-        "publish_time": "24-12-2024 10:18",
-        "news_link": "https://news.republika.co.id/berita/sozv6b377/penetapan-hasto-tersangka-dikaitkan-dengan-kongres-pdip-ini-jawaban-ketua-kpk"
-    },
-    {
-        "title": "Lisandro Martinez Lihat Secercah Harapan di MU Meski Dikalahkan Bournemouth",
-        "category": "News",
-        "publish_time": "24-12-2024 10:18",
-        "news_link": "https://news.republika.co.id/berita/sozuut348/lisandro-martinez-lihat-secercah-harapan-di-mu-meski-dikalahkan-bournemouth"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok 25 Desember 2024 di Kota Balikpapan dan Sekitarnya: Udara Kabur",
-        "category": "News",
-        "publish_time": "24-12-2024 10:18",
-        "news_link": "https://news.republika.co.id/berita/sozur1989167290/prakiraan-cuaca-besok-25-desember-2024-di-kota-balikpapan-dan-sekitarnya-udara-kabur"
-    },
-    {
-        "title": "Kata Kapolri tentang Pengamanan Gereja Jelang Natal",
-        "category": "News",
-        "publish_time": "24-12-2024 10:18",
-        "news_link": "https://news.republika.co.id/berita/sozur0451/kata-kapolri-tentang-pengamanan-gereja-jelang-natal"
-    },
-    {
-        "title": "Bank Indonesia Tegaskan Sanksi Pemalsuan Uang Rupiah Sesuai UU Nomor 7 Tahun 2011",
-        "category": "Ekonomi",
-        "publish_time": "24-12-2024 10:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/sozuox370/bank-indonesia-tegaskan-sanksi-pemalsuan-uang-rupiah-sesuai-uu-nomor-7-tahun-2011"
-    },
-    {
-        "title": "KPK Sebut Hasto Pengaruhi Saksi di Kasus Harun Masiku",
-        "category": "News",
-        "publish_time": "24-12-2024 10:18",
-        "news_link": "https://news.republika.co.id/berita/sozuox393/kpk-sebut-hasto-pengaruhi-saksi-di-kasus-harun-masiku"
-    },
-    {
-        "title": "Lukisan Yos Suprapto di Galeri Nasional Diturunkan",
-        "category": "Video",
-        "publish_time": "24-12-2024 10:18",
-        "news_link": "https://tv.republika.co.id/berita/sozs1i313/lukisan-yos-suprapto-di-galeri-nasional-diturunkan"
-    },
-    {
-        "title": "KPK Resmi Tetapkan Hasto Jadi Tersangka Kasus Harun Masiku",
-        "category": "News",
-        "publish_time": "24-12-2024 10:18",
-        "news_link": "https://news.republika.co.id/berita/sozul3484/kpk-resmi-tetapkan-hasto-jadi-tersangka-kasus-harun-masiku"
-    },
-    {
-        "title": "Bea Cukai Tegal Musnahkan Lima Juta Batang Rokok Ilegal",
-        "category": "Beacukai",
-        "publish_time": "24-12-2024 10:18",
-        "news_link": "https://republika.co.id/berita/sozt17490/bea-cukai-tegal-musnahkan-lima-juta-batang-rokok-ilegal"
-    },
-    {
-        "title": "Proyek Penanganan Tebing Retak di Objek Wisata Pura Uluwatu Capai 70 Persen",
-        "category": "Visual",
-        "publish_time": "24-12-2024 10:18",
-        "news_link": "https://visual.republika.co.id/berita/sozu6j375/proyek-penanganan-tebing-retak-di-objek-wisata-pura-uluwatu-capai-70-persen"
     }
 ]
