@@ -1,8 +1,56 @@
 [
     {
+        "title": "Badai Chido Diduga Tewaskan Ribuan Warga Mayotte Prancis, 39 Korban Terkonfirmasi",
+        "category": "News",
+        "publish_time": "25-12-2024 07:09",
+        "news_link": "https://news.republika.co.id/berita/sp1fvd483/badai-chido-diduga-tewaskan-ribuan-warga-mayotte-prancis-39-korban-terkonfirmasi"
+    },
+    {
+        "title": "DKI Tiadakan ganjil Genap pada 25-26 Desember 2024 dan 1 Januari 2025",
+        "category": "News",
+        "publish_time": "25-12-2024 07:05",
+        "news_link": "https://news.republika.co.id/berita/sp1fov370/dki-tiadakan-ganjil-genap-pada-2526-desember-2024-dan-1-januari-2025"
+    },
+    {
+        "title": "Polisi Ungkap Penyebab Kecelakaan Bus Vs Truk di Tol Surabaya-Malang yang Tewaskan 4 Orang",
+        "category": "Rejogja",
+        "publish_time": "25-12-2024 07:04",
+        "news_link": "https://rejogja.republika.co.id/berita/sp1fmh282/polisi-ungkap-penyebab-kecelakaan-bus-vs-truk-di-tol-surabayamalang-yang-tewaskan-4-orang"
+    },
+    {
+        "title": "Dikaitkan dengan Hasto Tersangka, Jokowi: Hehee...Sudah Purnatugas",
+        "category": "News",
+        "publish_time": "25-12-2024 07:02",
+        "news_link": "https://news.republika.co.id/berita/sp1fjp484/dikaitkan-dengan-hasto-tersangka-jokowi-heheesudah-purnatugas"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok 26 Desember 2024: Bogor dan Kota Sukabumi",
+        "category": "News",
+        "publish_time": "25-12-2024 07:00",
+        "news_link": "https://news.republika.co.id/berita/sp1fgb2023386617/prakiraan-cuaca-besok-26-desember-2024-bogor-dan-kota-sukabumi"
+    },
+    {
+        "title": "Libur Natal, Sejumlah Ruas Jalan Protokol di Jakarta Lengang",
+        "category": "Visual",
+        "publish_time": "25-12-2024 06:59",
+        "news_link": "https://visual.republika.co.id/berita/sp1fej375/libur-natal-sejumlah-ruas-jalan-protokol-di-jakarta-lengang"
+    },
+    {
+        "title": "Polisi Peras Penonton DWP, Kompolnas: Berpotensi Dijerat Pidana",
+        "category": "News",
+        "publish_time": "25-12-2024 06:51",
+        "news_link": "https://news.republika.co.id/berita/sp1f0a484/polisi-peras-penonton-dwp-kompolnas-berpotensi-dijerat-pidana"
+    },
+    {
+        "title": "Universitas BSI Perkokoh Posisi dengan Kerja Sama Strategis di 2024",
+        "category": "News",
+        "publish_time": "25-12-2024 06:44",
+        "news_link": "https://news.republika.co.id/berita/sp1epc423/universitas-bsi-perkokoh-posisi-dengan-kerja-sama-strategis-di-2024"
+    },
+    {
         "title": "Hasto Tersangka, Ini Respons Jokowi",
         "category": "News",
-        "publish_time": "25-12-2024 06:17",
+        "publish_time": "25-12-2024 06:18",
         "news_link": "https://news.republika.co.id/berita/sp1dhx430/hasto-tersangka-ini-respons-jokowi"
     },
     {
@@ -14,289 +62,241 @@
     {
         "title": "Bolehkah Mengulang Sholat karena tak Khusyuk?",
         "category": "Khazanah",
-        "publish_time": "25-12-2024 05:51",
+        "publish_time": "25-12-2024 06:12",
         "news_link": "https://khazanah.republika.co.id/berita/sp1ca2458/bolehkah-mengulang-sholat-karena-tak-khusyuk"
     },
     {
         "title": "BMKG Lakukan Modifikasi Cuaca di Sejumlah Wilayah Rawan Bencana",
         "category": "News",
-        "publish_time": "25-12-2024 05:44",
+        "publish_time": "25-12-2024 06:12",
         "news_link": "https://news.republika.co.id/berita/sp1bxc416/bmkg-lakukan-modifikasi-cuaca-di-sejumlah-wilayah-rawan-bencana"
     },
     {
         "title": "BNI Bangun Innovation Hub di Sarinah, Lahirkan wondr by BNI untuk Generasi Muda",
         "category": "Ekonomi",
-        "publish_time": "25-12-2024 05:42",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sp1b4e423/bni-bangun-innovation-hub-di-sarinah-lahirkan-wondr-by-bni-untuk-generasi-muda"
     },
     {
         "title": "Adab Menjadi Hamba Allah",
         "category": "Khazanah",
-        "publish_time": "25-12-2024 05:41",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://khazanah.republika.co.id/berita/sp1bs6458/adab-menjadi-hamba-allah"
     },
     {
         "title": "Inalum Cetak Rekor Produksi dan Penjualan Aluminium",
         "category": "Ekonomi",
-        "publish_time": "25-12-2024 05:33",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sp1bfh416/inalum-cetak-rekor-produksi-dan-penjualan-aluminium"
     },
     {
         "title": "Politik Etis dan Pengaruhnya Bagi Pesantren",
         "category": "Khazanah",
-        "publish_time": "25-12-2024 05:30",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://khazanah.republika.co.id/berita/sp1bah458/politik-etis-dan-pengaruhnya-bagi-pesantren"
     },
     {
         "title": "Aplikasi Muslim Berbasis Blockchain akan Hadir di Indonesia",
         "category": "Sharia",
-        "publish_time": "25-12-2024 05:28",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://sharia.republika.co.id/berita/sp1aqy423/aplikasi-muslim-berbasis-blockchain-akan-hadir-di-indonesia"
     },
     {
         "title": "Keutamaan Sifat Malu",
         "category": "Khazanah",
-        "publish_time": "25-12-2024 05:22",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://khazanah.republika.co.id/berita/sp1ax4458/keutamaan-sifat-malu"
     },
     {
         "title": "Pemerintah akan Kucurkan Rp 20 Triliun untuk Kredit Investasi Padat Karya pada 2025",
         "category": "Ekonomi",
-        "publish_time": "25-12-2024 05:18",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sp1a87423/pemerintah-akan-kucurkan-rp-20-triliun-untuk-kredit-investasi-padat-karya-pada-2025"
     },
     {
         "title": "Selamat Hari Ibu",
         "category": "Khazanah",
-        "publish_time": "25-12-2024 05:18",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://khazanah.republika.co.id/berita/sp1ap8282/selamat-hari-ibu"
     },
     {
         "title": "Tarekat Qadiriyah di Indonesia",
         "category": "Khazanah",
-        "publish_time": "25-12-2024 05:18",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://khazanah.republika.co.id/berita/sp1alp458/tarekat-qadiriyah-di-indonesia"
     },
     {
         "title": "Infografis Tuduhan Perbudakan di Pembangunan Pabrik BYD di Brasil",
         "category": "Visual",
-        "publish_time": "25-12-2024 05:18",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://visual.republika.co.id/berita/sp1a6e366/infografis-tuduhan-perbudakan-di-pembangunan-pabrik-byd-di-brasil"
     },
     {
         "title": "Peluang Indonesia Menjadi Destinasi Utama Wisata Halal Dunia",
         "category": "Kolom",
-        "publish_time": "25-12-2024 05:18",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://analisis.republika.co.id/berita/sp1ae1282/peluang-indonesia-menjadi-destinasi-utama-wisata-halal-dunia"
     },
     {
         "title": "PSN Rempang Eco City, Motor Baru Penggerak Ekonomi Masyarakat",
         "category": "Ekonomi",
-        "publish_time": "25-12-2024 05:18",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sp19xv423/psn-rempang-eco-city-motor-baru-penggerak-ekonomi-masyarakat"
     },
     {
         "title": "Pemerintah Targetkan KUR 2025 Capai Rp 300 Triliun",
         "category": "Ekonomi",
-        "publish_time": "25-12-2024 05:18",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sp1a85416/pemerintah-targetkan-kur-2025-capai-rp-300-triliun"
     },
     {
         "title": "Manipulasi Visual oleh AI di Sosial Media",
         "category": "Retizen",
-        "publish_time": "25-12-2024 05:18",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://retizen.republika.co.id/posts/498915/manipulasi-visual-oleh-ai-di-sosial-media"
     },
     {
         "title": "Mengapa Teknologi Memberi Pengaruh Buruk Bagi Pendidikan?",
         "category": "Retizen",
-        "publish_time": "25-12-2024 05:18",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://retizen.republika.co.id/posts/498918/mengapa-teknologi-memberi-pengaruh-buruk-bagi-pendidikan"
     },
     {
         "title": "Memahami Ekonomi Syariah: Mengungkap Mitos dan Fakta",
         "category": "Retizen",
-        "publish_time": "25-12-2024 05:18",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://retizen.republika.co.id/posts/498919/memahami-ekonomi-syariah-mengungkap-mitos-dan-fakta"
     },
     {
         "title": "Nasabah PNM Mekaar Asal Lampung Raih Penghargaan Aksi Nyata Bela Negara",
         "category": "Ekonomi",
-        "publish_time": "25-12-2024 05:18",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sp19o1423/nasabah-pnm-mekaar-asal-lampung-raih-penghargaan-aksi-nyata-bela-negara"
     },
     {
         "title": "Bosnia Gelap Gulita Akibat Badai Salju",
         "category": "Esgnow",
-        "publish_time": "25-12-2024 05:18",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://esgnow.republika.co.id/berita/sp19gl416/bosnia-gelap-gulita-akibat-badai-salju"
     },
     {
         "title": "Demi Kesejahteraan Nelayan, Bahlil Dorong Percepatan Izin Pembangunan SPBUN",
         "category": "Ekonomi",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 05:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sp199o423/demi-kesejahteraan-nelayan-bahlil-dorong-percepatan-izin-pembangunan-spbun"
     },
     {
         "title": "Ekonomi Terpuruk, El Salvador Cabut Larangan Penambangan Logam",
         "category": "Esgnow",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://esgnow.republika.co.id/berita/sp1916416/ekonomi-terpuruk-el-salvador-cabut-larangan-penambangan-logam"
     },
     {
         "title": "KB Bank Syariah Relokasi Kantor Cabang Yogyakarta",
         "category": "Sharia",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://sharia.republika.co.id/berita/sp18n1416/kb-bank-syariah-relokasi-kantor-cabang-yogyakarta"
     },
     {
         "title": "Kekejian tak Berhenti, Israel Usir Staf Medis di Gaza dan tak Henti Sasar Rumah Sakit",
         "category": "News",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://news.republika.co.id/berita/sp18my487/kekejian-tak-berhenti-israel-usir-staf-medis-di-gaza-dan-tak-henti-sasar-rumah-sakit"
     },
     {
         "title": "Ini Pentingnya Proteksi Selama Libur Nataru",
         "category": "Ekonomi",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sp0uor370/ini-pentingnya-proteksi-selama-libur-nataru"
     },
     {
         "title": "Contraflow Tol Japek Arah Cikampek Diperpanjang",
         "category": "News",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://news.republika.co.id/berita/sp17tg366/contraflow-tol-japek-arah-cikampek-diperpanjang"
     },
     {
         "title": "DPRD Jabar Gelar Citra Bakti, Situ Ciburuy Bakal Jadi Obyek Wisata Andalan",
         "category": "Rejabar",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://rejabar.republika.co.id/berita/sp17z6423/dprd-jabar-gelar-citra-bakti-situ-ciburuy-bakal-jadi-obyek-wisata-andalan"
     },
     {
         "title": "Satu Anak Wafat Setiap Jam Akibat Serangan Israel di Gaza",
         "category": "Khazanah",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://khazanah.republika.co.id/berita/sp17kt366/satu-anak-wafat-setiap-jam-akibat-serangan-israel-di-gaza"
     },
     {
         "title": "Deretan Penemuan Paling Menakjubkan Teleskop James Webb Selama 3 Tahun: Galaksi Mati hingga Titik Merah Misterius",
         "category": "Network",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://antariksa.republika.co.id/posts/498883/deretan-penemuan-paling-menakjubkan-teleskop-james-webb-selama-3-tahun-galaksi-mati-hingga-titik-merah-misterius"
     },
     {
         "title": "Presentasi Desa Wisata 2 Hari Sebelum Melahirkan, Yuliza Zen Raih IMA UMKM Award",
         "category": "Network",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://oohya.republika.co.id/posts/498889/presentasi-desa-wisata-2-hari-sebelum-melahirkan-yuliza-zen-raih-ima-umkm-award"
     },
     {
         "title": "Pj Gubernur Jabar Umumkan Upah Sektoral 2025",
         "category": "Network",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://bandung24jam.id/posts/498794/pj-gubernur-jabar-umumkan-upah-sektoral-2025"
     },
     {
         "title": "Pasar Leuweung Jadi Inspirasi Pengembangan Ekonomi Rakyat",
         "category": "Network",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://bandung24jam.id/posts/498796/pasar-leuweung-jadi-inspirasi-pengembangan-ekonomi-rakyat"
     },
     {
         "title": "Anime 2024 yang Dapat Rating Tertinggi, Nomor Satu Paling Menarik",
         "category": "Network",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://inforemaja.id/posts/498215/anime-2024-yang-dapat-rating-tertinggi-nomor-satu-paling-menarik"
     },
     {
         "title": "Ini Jadwal Pengumuman Seleksi Petugas Haji 1446, Cek Tanggalnya",
         "category": "Network",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://sajada.id/posts/498860/ini-jadwal-pengumuman-seleksi-petugas-haji-1446-cek-tanggalnya"
     },
     {
         "title": "Lagi, Hyundai Australia Recall Ribuan Unit Ioniq 5 dan Ioniq 6 Karena Ini",
         "category": "Network",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://motoresto.id/posts/498712/lagi-hyundai-australia-recall-ribuan-unit-ioniq-5-dan-ioniq-6-karena-ini"
     },
     {
         "title": "Indonesia Upayakan Tambahan Kuota Petugas Haji 1446 H",
         "category": "Network",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://topnews62.com/posts/498867/indonesia-upayakan-tambahan-kuota-petugas-haji-1446-h"
     },
     {
         "title": "Libur Nataru, Naik Kereta ke Palembang atau Lampung Hanya Rp 32.000",
         "category": "Network",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://sumatralink.id/posts/498876/libur-nataru-naik-kereta-ke-palembang-atau-lampung-hanya-rp-32-000"
     },
     {
         "title": "Tips Aman dan Nyaman Berkendara Selama Musim Hujan",
         "category": "Network",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://motoresto.id/posts/498882/tips-aman-dan-nyaman-berkendara-selama-musim-hujan"
     },
     {
         "title": "Brasil Selidiki Risiko Pencemaran Usai Truk Berisi Asam Sulfat Jatuh ke Sungai",
         "category": "Esgnow",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://esgnow.republika.co.id/berita/sp16wh416/brasil-selidiki-risiko-pencemaran-usai-truk-berisi-asam-sulfat-jatuh-ke-sungai"
     },
     {
         "title": "Ketika Musuh Islam Ikut-ikutan Sujud",
         "category": "Khazanah",
-        "publish_time": "25-12-2024 04:18",
+        "publish_time": "25-12-2024 04:12",
         "news_link": "https://khazanah.republika.co.id/berita/sp16qz458/ketika-musuh-islam-ikutikutan-sujud"
-    },
-    {
-        "title": "Ini Penjelasan Resmi Soal Pajak pada Transaksi Digital, dari QRIS hingga Netflix",
-        "category": "Ekonomi",
-        "publish_time": "25-12-2024 03:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/sp16ih487/ini-penjelasan-resmi-soal-pajak-pada-transaksi-digital-dari-qris-hingga-netflix"
-    },
-    {
-        "title": "Polisi Siapkan Rekayasa Lalin Menuju dan dari Pantai Parangtritis",
-        "category": "Rejogja",
-        "publish_time": "25-12-2024 03:18",
-        "news_link": "https://rejogja.republika.co.id/berita/sp15gu430/polisi-siapkan-rekayasa-lalin-menuju-dan-dari-pantai-parangtritis"
-    },
-    {
-        "title": "The Sanur Kantongi Lima Sertifikasi ISO",
-        "category": "Esgnow",
-        "publish_time": "25-12-2024 03:18",
-        "news_link": "https://esgnow.republika.co.id/berita/sp1594416/the-sanur-kantongi-lima-sertifikasi-iso"
-    },
-    {
-        "title": "Ini Janji Yordania untuk Suriah Setelah Tumbangnya Bashar al-Assad",
-        "category": "News",
-        "publish_time": "25-12-2024 03:18",
-        "news_link": "https://news.republika.co.id/berita/sp156b487/ini-janji-yordania-untuk-suriah-setelah-tumbangnya-bashar-alassad"
-    },
-    {
-        "title": "Buruan, Tiket KA Daop Cirebon di Masa Libur Nataru Masih Tersedia",
-        "category": "Rejabar",
-        "publish_time": "25-12-2024 03:18",
-        "news_link": "https://rejabar.republika.co.id/berita/sp1537366/buruan-tiket-ka-daop-cirebon-di-masa-libur-nataru-masih-tersedia"
-    },
-    {
-        "title": "Kapolres Indramayu: Malam Misa Natal Aman tanpa Gangguan",
-        "category": "Rejabar",
-        "publish_time": "25-12-2024 03:18",
-        "news_link": "https://rejabar.republika.co.id/berita/sp14ps366/kapolres-indramayu-malam-misa-natal-aman-tanpa-gangguan"
-    },
-    {
-        "title": "Sejarah RS Indonesia di Gaza",
-        "category": "News",
-        "publish_time": "25-12-2024 03:18",
-        "news_link": "https://news.republika.co.id/berita/sp14jk458/sejarah-rs-indonesia-di-gaza"
-    },
-    {
-        "title": "Di Lereng Gunung Muntilan, Adapundi Ajak Lestarikan Lingkungan",
-        "category": "News",
-        "publish_time": "25-12-2024 03:18",
-        "news_link": "https://news.republika.co.id/berita/sp14l5484/di-lereng-gunung-muntilan-adapundi-ajak-lestarikan-lingkungan"
     }
 ]
