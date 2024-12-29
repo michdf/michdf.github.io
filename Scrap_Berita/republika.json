@@ -1,5 +1,53 @@
 [
     {
+        "title": "WHO Laporkan 14 Ribu Kasus Mpox di Afrika",
+        "category": "News",
+        "publish_time": "29 December 2024, 20:15",
+        "news_link": "https://news.republika.co.id/berita/sp9bhd416/who-laporkan-14-ribu-kasus-mpox-di-afrika"
+    },
+    {
+        "title": "Jelang Tahun Baru 2025, Polres Indramayu dan Kodim 0616 Gelar Patroli Skala Besar",
+        "category": "Rejabar",
+        "publish_time": "29 December 2024, 20:11",
+        "news_link": "https://rejabar.republika.co.id/berita/sp9bae423/jelang-tahun-baru-2025-polres-indramayu-dan-kodim-0616-gelar-patroli-skala-besar"
+    },
+    {
+        "title": "Pemprov Kalimantan Selatan Sumbang Satu Ton Ikan untuk Jamaah Haul Guru Sekumpul",
+        "category": "Khazanah",
+        "publish_time": "29 December 2024, 20:02",
+        "news_link": "https://khazanah.republika.co.id/berita/sp8zog451/pemprov-kalimantan-selatan-sumbang-satu-ton-ikan-untuk-jamaah-haul-guru-sekumpul"
+    },
+    {
+        "title": "Pengacara Ungkap Aipda Robig Alami Gangguan Psikis",
+        "category": "News",
+        "publish_time": "29 December 2024, 20:01",
+        "news_link": "https://news.republika.co.id/berita/sp9aex409/pengacara-ungkap-aipda-robig-alami-gangguan-psikis"
+    },
+    {
+        "title": "Lagi, Pesawat Tergelincir di Norwegia",
+        "category": "Ekonomi",
+        "publish_time": "29 December 2024, 19:44",
+        "news_link": "https://ekonomi.republika.co.id/berita/sp9a2o502/lagi-pesawat-tergelincir-di-norwegia"
+    },
+    {
+        "title": "Jaga Cadangan Air, Ratusan Bibit Pohon Aren Ditanam di Bendungan Babulu",
+        "category": "Esgnow",
+        "publish_time": "29 December 2024, 19:40",
+        "news_link": "https://esgnow.republika.co.id/berita/sp99vw416/jaga-cadangan-air-ratusan-bibit-pohon-aren-ditanam-di-bendungan-babulu"
+    },
+    {
+        "title": "Banjir Rob Melanda Sebagian Besar Wilayah Pesisir RI Sepekan ke Depan",
+        "category": "News",
+        "publish_time": "29 December 2024, 19:35",
+        "news_link": "https://news.republika.co.id/berita/sp8zk6451/banjir-rob-melanda-sebagian-besar-wilayah-pesisir-ri-sepekan-ke-depan"
+    },
+    {
+        "title": "Begini Pilu Ayah dari Bayi yang Meninggal Kedinginan di Gaza",
+        "category": "News",
+        "publish_time": "29 December 2024, 19:22",
+        "news_link": "https://news.republika.co.id/berita/sp9923393/begini-pilu-ayah-dari-bayi-yang-meninggal-kedinginan-di-gaza"
+    },
+    {
         "title": "Badai Ganggu Ribuan Penerbangan di AS",
         "category": "News",
         "publish_time": "29 December 2024, 19:19",
@@ -24,10 +72,10 @@
         "news_link": "https://news.republika.co.id/berita/sp8z88451/dukung-ekosistem-bisnis-dan-pendidikan-google-hadirkan-layanan-berikut-ini"
     },
     {
-        "title": "Aipda Robig akan Didampingi Tujuh Pengacara Saat Rekosntruksi Penembakan Gamma Besok",
+        "title": "Aipda Robig akan Didampingi Tujuh Pengacara Saat Rekonstruksi Penembakan Gamma Besok",
         "category": "News",
         "publish_time": "29 December 2024, 18:59",
-        "news_link": "https://news.republika.co.id/berita/sp97ym409/aipda-robig-akan-didampingi-tujuh-pengacara-saat-rekosntruksi-penembakan-gamma-besok"
+        "news_link": "https://news.republika.co.id/berita/sp97ym409/aipda-robig-akan-didampingi-tujuh-pengacara-saat-rekonstruksi-penembakan-gamma-besok"
     },
     {
         "title": "Natal Disebut Jadi Momen Perekat\u00a0Persatuan Bangsa\u00a0Bangsa\u00a0Pasca-Pemilu",
@@ -250,53 +298,5 @@
         "category": "Khazanah",
         "publish_time": "29 December 2024, 16:16",
         "news_link": "https://khazanah.republika.co.id/berita/sp90fg416/majelis-ulama-indonesia-tegaskan-komitmen-dukung-palestina"
-    },
-    {
-        "title": "Kilas Balik Tren Skincare 2024: Minimalis hingga Perawatan Skin Barrier",
-        "category": "Ameera",
-        "publish_time": "29 December 2024, 16:07",
-        "news_link": "https://ameera.republika.co.id/berita/sp8z9g366/kilas-balik-tren-skincare-2024-minimalis-hingga-perawatan-skin-barrier"
-    },
-    {
-        "title": "H+3 Natal, Lalu Lintas Tol Jabotabek dan Jabar Naik",
-        "category": "News",
-        "publish_time": "29 December 2024, 16:05",
-        "news_link": "https://news.republika.co.id/berita/sp8zxh416/h3-natal-lalu-lintas-tol-jabotabek-dan-jabar-naik"
-    },
-    {
-        "title": "Lebih dari 457 Ribu UMKM Tergabung di Rumah BUMN BRI",
-        "category": "Ekonomi",
-        "publish_time": "29 December 2024, 16:05",
-        "news_link": "https://ekonomi.republika.co.id/berita/sp8wnp423/lebih-dari-457-ribu-umkm-tergabung-di-rumah-bumn-bri"
-    },
-    {
-        "title": "Malam Tahun Baru 2025 di Monas akan Dimeriahkan Dzikir dan Doa, ini Penjelasannya",
-        "category": "Khazanah",
-        "publish_time": "29 December 2024, 16:03",
-        "news_link": "https://khazanah.republika.co.id/berita/sp8xrn451/malam-tahun-baru-2025-di-monas-akan-dimeriahkan-dzikir-dan-doa-ini-penjelasannya"
-    },
-    {
-        "title": "Netanyahu Didiagnosis Idap Kanker, akan Jalani Operasi",
-        "category": "News",
-        "publish_time": "29 December 2024, 16:02",
-        "news_link": "https://news.republika.co.id/berita/sp8zsc409/netanyahu-didiagnosis-idap-kanker-akan-jalani-operasi"
-    },
-    {
-        "title": "Harga Emas Meroket, BSI Ajak Masyarakat Berinvestasi Lewat BYOND",
-        "category": "Ekonomi",
-        "publish_time": "29 December 2024, 16:00",
-        "news_link": "https://ekonomi.republika.co.id/berita/sp8ulc416/harga-emas-meroket-bsi-ajak-masyarakat-berinvestasi-lewat-byond"
-    },
-    {
-        "title": "Cemari Lingkungan, TPA Bakung Bandar Lampung Disegel Aparat",
-        "category": "Visual",
-        "publish_time": "29 December 2024, 16:00",
-        "news_link": "https://visual.republika.co.id/berita/sp8w7t375/cemari-lingkungan-tpa-bakung-bandar-lampung-disegel-aparat"
-    },
-    {
-        "title": "Ini Pernyataan Resmi Boeing Usai Kecelakaan Jeju Air",
-        "category": "News",
-        "publish_time": "29 December 2024, 15:47",
-        "news_link": "https://news.republika.co.id/berita/sp8z35409/ini-pernyataan-resmi-boeing-usai-kecelakaan-jeju-air"
     }
 ]
