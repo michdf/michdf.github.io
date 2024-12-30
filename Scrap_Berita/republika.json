@@ -1,74 +1,158 @@
 [
     {
+        "title": "Wartawan Republika Raih Penghargaan Jurnalis Terbaik Humas Kemenag Award 2024",
+        "category": "Khazanah",
+        "publish_time": "30-12-2024 15:06",
+        "news_link": "https://khazanah.republika.co.id/berita/spbbae366/wartawan-republika-raih-penghargaan-jurnalis-terbaik-humas-kemenag-award-2024"
+    },
+    {
+        "title": "Terungkap, Aipda Robig Tembak Korban dari Jarak 2,5 Meter",
+        "category": "Video",
+        "publish_time": "30-12-2024 14:59",
+        "news_link": "https://tv.republika.co.id/berita/spbayu418/terungkap-aipda-robig-tembak-korban-dari-jarak-25-meter"
+    },
+    {
+        "title": "Persilahkan Hasto Mengelak, KPK: Kami Sajikan Bukti",
+        "category": "News",
+        "publish_time": "30-12-2024 14:56",
+        "news_link": "https://news.republika.co.id/berita/spbatv377/persilahkan-hasto-mengelak-kpk-kami-sajikan-bukti"
+    },
+    {
+        "title": "Hibah PKM, Dosen UBSI Kenalkan Aplikasi DAWIS untuk Peningkatan Layanan Masyarakat",
+        "category": "News",
+        "publish_time": "30-12-2024 14:47",
+        "news_link": "https://news.republika.co.id/berita/spbaff423/hibah-pkm-dosen-ubsi-kenalkan-aplikasi-dawis-untuk-peningkatan-layanan-masyarakat"
+    },
+    {
+        "title": "Media Israel Akui Kekuatan Houthi Yaman tak Bisa Diremehkan, Picu Perang Berkepanjangan",
+        "category": "News",
+        "publish_time": "30-12-2024 14:42",
+        "news_link": "https://news.republika.co.id/berita/spba7c320/media-israel-akui-kekuatan-houthi-yaman-tak-bisa-diremehkan-picu-perang-berkepanjangan"
+    },
+    {
+        "title": "Konser Dewa 19 All Stars 2.0 Diundur, GBK tak Bisa Dipakai Konser Hingga 5 Juni 2025",
+        "category": "Ameera",
+        "publish_time": "30-12-2024 14:39",
+        "news_link": "https://ameera.republika.co.id/berita/spba2p425/konser-dewa-19-all-stars-20-diundur-gbk-tak-bisa-dipakai-konser-hingga-5-juni-2025"
+    },
+    {
+        "title": "Studi Temukan Kadar Tinggi Bahan Kimia Abadi di Karet Jam Tangan Pintar, Katanya Sangat Beracun",
+        "category": "Network",
+        "publish_time": "30-12-2024 14:39",
+        "news_link": "https://inforemaja.id/posts/500708/studi-temukan-kadar-tinggi-bahan-kimia-abadi-di-karet-jam-tangan-pintar-katanya-sangat-beracun"
+    },
+    {
+        "title": "Kesaksian Tetangga Melihat YH Habisi Neneknya dengan Garpu Tanah",
+        "category": "Rejogja",
+        "publish_time": "30-12-2024 14:37",
+        "news_link": "https://rejogja.republika.co.id/berita/spb9z9377/kesaksian-tetangga-melihat-yh-habisi-neneknya-dengan-garpu-tanah"
+    },
+    {
+        "title": "Mentan: Harga Gabah dan Jagung Naik Sesuai Arahan Presiden",
+        "category": "Ekonomi",
+        "publish_time": "30-12-2024 14:35",
+        "news_link": "https://ekonomi.republika.co.id/berita/spb9ux423/mentan-harga-gabah-dan-jagung-naik-sesuai-arahan-presiden"
+    },
+    {
+        "title": "Dosen Psikologi Unair Beri Tips Mengelola Stres di Akhir Tahun",
+        "category": "Network",
+        "publish_time": "30-12-2024 14:34",
+        "news_link": "https://inforemaja.id/posts/500531/dosen-psikologi-unair-beri-tips-mengelola-stres-di-akhir-tahun"
+    },
+    {
+        "title": "Mager Tapi Olahraga Teratur, Tetap Tak Mampu Mencegah Peningkatan Risiko Masalah Jantung",
+        "category": "Network",
+        "publish_time": "30-12-2024 14:33",
+        "news_link": "https://impresiupdate.id/posts/500685/mager-tapi-olahraga-teratur-tetap-tak-mampu-mencegah-peningkatan-risiko-masalah-jantung"
+    },
+    {
+        "title": "Aipda Robig Zainudin Jalani Rekonstruksi Kasus Penembakan Pelajar di Semarang",
+        "category": "Visual",
+        "publish_time": "30-12-2024 14:29",
+        "news_link": "https://visual.republika.co.id/berita/spb7k8375/aipda-robig-zainudin-jalani-rekonstruksi-kasus-penembakan-pelajar-di-semarang"
+    },
+    {
+        "title": "Kapan Panggil Hasto dalam Status Tersangka? Ini Jawaban KPK",
+        "category": "News",
+        "publish_time": "30-12-2024 14:28",
+        "news_link": "https://news.republika.co.id/berita/spb9jh377/kapan-panggil-hasto-dalam-status-tersangka-ini-jawaban-kpk"
+    },
+    {
+        "title": "Di Balik Gelar al-Masih untuk Nabi Isa dan Dajjal",
+        "category": "Khazanah",
+        "publish_time": "30-12-2024 14:12",
+        "news_link": "https://khazanah.republika.co.id/berita/spb8t0458/di-balik-gelar-almasih-untuk-nabi-isa-dan-dajjal"
+    },
+    {
         "title": "Ketika Dajjal Lenyap dari Muka Bumi",
         "category": "Khazanah",
-        "publish_time": "30-12-2024 14:07",
+        "publish_time": "30-12-2024 14:12",
         "news_link": "https://khazanah.republika.co.id/berita/spb8lc458/ketika-dajjal-lenyap-dari-muka-bumi"
     },
     {
         "title": "Seorang Cucu Nekat Habis Nyawa Neneknya Pakai Garpu\u00a0Tanah di Cianjur",
         "category": "Rejabar",
-        "publish_time": "30-12-2024 14:01",
+        "publish_time": "30-12-2024 14:12",
         "news_link": "https://rejabar.republika.co.id/berita/spb8by512/seorang-cucu-nekat-habis-nyawa-neneknya-pakai-garputanah-di-cianjur"
     },
     {
         "title": "Masa Depan Politik Umat Islam India, Apakah akan Semakin Tergerus?",
         "category": "Khazanah",
-        "publish_time": "30-12-2024 14:00",
+        "publish_time": "30-12-2024 14:12",
         "news_link": "https://khazanah.republika.co.id/berita/spb88q320/masa-depan-politik-umat-islam-india-apakah-akan-semakin-tergerus"
     },
     {
         "title": "IHSG Ditutup Menguat 43,33 Poin pada Perdagangan Akhir Tahun 2024",
         "category": "Visual",
-        "publish_time": "30-12-2024 13:59",
+        "publish_time": "30-12-2024 14:12",
         "news_link": "https://visual.republika.co.id/berita/spb71h375/ihsg-ditutup-menguat-4333-poin-pada-perdagangan-akhir-tahun-2024"
     },
     {
         "title": "Erick Thohir Ingin Lolos ke Piala Dunia dan Olimpiade Jadi Tradisi Bagi Timnas Indonesia",
         "category": "News",
-        "publish_time": "30-12-2024 13:57",
+        "publish_time": "30-12-2024 14:12",
         "news_link": "https://news.republika.co.id/berita/spb854348/erick-thohir-ingin-lolos-ke-piala-dunia-dan-olimpiade-jadi-tradisi-bagi-timnas-indonesia"
     },
     {
         "title": "Terungkap dalam Rekonstruksi, Aipda Robig Tembak Gamma dalam Jarak 2,5 Meter",
         "category": "News",
-        "publish_time": "30-12-2024 13:52",
+        "publish_time": "30-12-2024 14:12",
         "news_link": "https://news.republika.co.id/berita/spb7w1377/terungkap-dalam-rekonstruksi-aipda-robig-tembak-gamma-dalam-jarak-25-meter"
     },
     {
         "title": "Kasus Kriminalitas 2024 di Indramayu Turun, Kecelakaan Naik",
         "category": "Rejabar",
-        "publish_time": "30-12-2024 13:49",
+        "publish_time": "30-12-2024 14:12",
         "news_link": "https://rejabar.republika.co.id/berita/spb7r6512/kasus-kriminalitas-2024-di-indramayu-turun-kecelakaan-naik"
     },
     {
         "title": "Renovasi Stadion Kanjuruhan Tuntas, Penuhi Standar FIFA",
         "category": "News",
-        "publish_time": "30-12-2024 13:48",
+        "publish_time": "30-12-2024 14:12",
         "news_link": "https://news.republika.co.id/berita/spb7q7348/renovasi-stadion-kanjuruhan-tuntas-penuhi-standar-fifa"
     },
     {
         "title": "Hakim Vonis Helena Lim 5 Tahun Penjara, Lebih Ringan dari Tuntutan JPU",
         "category": "Visual",
-        "publish_time": "30-12-2024 13:31",
+        "publish_time": "30-12-2024 13:12",
         "news_link": "https://visual.republika.co.id/berita/spb6xi375/hakim-vonis-helena-lim-5-tahun-penjara-lebih-ringan-dari-tuntutan-jpu"
     },
     {
         "title": "Gambaran Sangkakala Malaikat Israfil",
         "category": "Khazanah",
-        "publish_time": "30-12-2024 13:29",
+        "publish_time": "30-12-2024 13:12",
         "news_link": "https://khazanah.republika.co.id/berita/spb6uh458/gambaran-sangkakala-malaikat-israfil"
     },
     {
         "title": "Menjadi Keturunan Rasulullah, Otomatis Selamat di Akhirat?",
         "category": "Khazanah",
-        "publish_time": "30-12-2024 13:25",
+        "publish_time": "30-12-2024 13:12",
         "news_link": "https://khazanah.republika.co.id/berita/spb6mx458/menjadi-keturunan-rasulullah-otomatis-selamat-di-akhirat"
     },
     {
         "title": "Laporan: Dr Abu Safiya Ditahan di Penjara Israel Paling Brutal",
         "category": "News",
-        "publish_time": "30-12-2024 13:19",
+        "publish_time": "30-12-2024 13:12",
         "news_link": "https://news.republika.co.id/berita/spb6dd393/laporan-dr-abu-safiya-ditahan-di-penjara-israel-paling-brutal"
     },
     {
@@ -86,217 +170,133 @@
     {
         "title": "Hadapi Tantangan Perubahan Pasar, Ini Strategi BRI Perkuat Transformasi Digital",
         "category": "Ekonomi",
-        "publish_time": "30-12-2024 13:11",
+        "publish_time": "30-12-2024 13:12",
         "news_link": "https://ekonomi.republika.co.id/berita/spatuh423/hadapi-tantangan-perubahan-pasar-ini-strategi-bri-perkuat-transformasi-digital"
     },
     {
         "title": "Menanam Kebaikan di Bulan Rajab",
         "category": "Khazanah",
-        "publish_time": "30-12-2024 13:11",
+        "publish_time": "30-12-2024 13:12",
         "news_link": "https://khazanah.republika.co.id/berita/spb5kk430/menanam-kebaikan-di-bulan-rajab"
     },
     {
         "title": "IIF Salurkan Pembiayaan untuk Perkuat Rantai Pasokan Petrokimia",
         "category": "Ekonomi",
-        "publish_time": "30-12-2024 13:11",
+        "publish_time": "30-12-2024 13:12",
         "news_link": "https://ekonomi.republika.co.id/berita/spb5h2416/iif-salurkan-pembiayaan-untuk-perkuat-rantai-pasokan-petrokimia"
     },
     {
         "title": "Terbukti Korupsi, Mantan Dirut PT Timah Divonis 8 Tahun Penjara",
         "category": "News",
-        "publish_time": "30-12-2024 13:11",
+        "publish_time": "30-12-2024 13:12",
         "news_link": "https://news.republika.co.id/berita/spb4zg487/terbukti-korupsi-mantan-dirut-pt-timah-divonis-8-tahun-penjara"
     },
     {
         "title": "10 Mobil Paling Populer Tahun 2024",
         "category": "Ekonomi",
-        "publish_time": "30-12-2024 13:11",
+        "publish_time": "30-12-2024 13:12",
         "news_link": "https://ekonomi.republika.co.id/berita/spb4wk468/10-mobil-paling-populer-tahun-2024"
     },
     {
         "title": "Tahukan Anda Jika Soft Drink Pertama Ditemukan dari Dunia Islam?",
         "category": "Khazanah",
-        "publish_time": "30-12-2024 12:11",
+        "publish_time": "30-12-2024 12:12",
         "news_link": "https://khazanah.republika.co.id/berita/spb4li320/tahukan-anda-jika-soft-drink-pertama-ditemukan-dari-dunia-islam"
     },
     {
         "title": "Pemprov Jakarta Telah Cleansing 400 Ribu BPJS PBI, Mengapa Harvey Moeis Masih Terdaftar?",
         "category": "News",
-        "publish_time": "30-12-2024 12:11",
+        "publish_time": "30-12-2024 12:12",
         "news_link": "https://news.republika.co.id/berita/spb3rl487/pemprov-jakarta-telah-cleansing-400-ribu-bpjs-pbi-mengapa-harvey-moeis-masih-terdaftar"
     },
     {
         "title": "Ibunda Histeris Usai Helena Lim Divonis 5 Tahun Penjara di Kasus Timah",
         "category": "News",
-        "publish_time": "30-12-2024 12:11",
+        "publish_time": "30-12-2024 12:12",
         "news_link": "https://news.republika.co.id/berita/spb3ib487/ibunda-histeris-usai-helena-lim-divonis-5-tahun-penjara-di-kasus-timah"
     },
     {
         "title": "Kisah Gadis Rusia Menemukan Hidayah",
         "category": "Khazanah",
-        "publish_time": "30-12-2024 12:11",
+        "publish_time": "30-12-2024 12:12",
         "news_link": "https://khazanah.republika.co.id/berita/spb3b1458/kisah-gadis-rusia-menemukan-hidayah"
     },
     {
         "title": "Desa Batuan Sukawati, Desa BRILiaN dengan Sejuta Potensi Alam dan Budaya",
         "category": "Ekonomi",
-        "publish_time": "30-12-2024 12:11",
+        "publish_time": "30-12-2024 12:12",
         "news_link": "https://ekonomi.republika.co.id/berita/spastd423/desa-batuan-sukawati-desa-brilian-dengan-sejuta-potensi-alam-dan-budaya"
     },
     {
         "title": "Hutan Mikro Punya Banyak Manfaat bagi Wilayah Perkotaan",
         "category": "Esgnow",
-        "publish_time": "30-12-2024 12:11",
+        "publish_time": "30-12-2024 12:12",
         "news_link": "https://esgnow.republika.co.id/berita/spb2yp416/hutan-mikro-punya-banyak-manfaat-bagi-wilayah-perkotaan"
     },
     {
         "title": "Wamenag Optimistis Usulan Biaya Haji 2025 Bisa Diturunkan Signifikan",
         "category": "Khazanah",
-        "publish_time": "30-12-2024 12:11",
+        "publish_time": "30-12-2024 12:12",
         "news_link": "https://khazanah.republika.co.id/berita/spb2qc366/wamenag-optimistis-usulan-biaya-haji-2025-bisa-diturunkan-signifikan"
     },
     {
         "title": "Menteri HAM Natalius Pigai Bicara Vonis 6,5 Tahun Harvey Moeis, Begini Penilaiannya",
         "category": "News",
-        "publish_time": "30-12-2024 12:11",
+        "publish_time": "30-12-2024 12:12",
         "news_link": "https://news.republika.co.id/berita/spb2mn487/menteri-ham-natalius-pigai-bicara-vonis-65-tahun-harvey-moeis-begini-penilaiannya"
     },
     {
         "title": "Cyber University dan Skorlife Perkuat Kolaborasi untuk Mewujudkan Indonesia Emas",
         "category": "News",
-        "publish_time": "30-12-2024 12:11",
+        "publish_time": "30-12-2024 12:12",
         "news_link": "https://news.republika.co.id/berita/spb1cm423/cyber-university-dan-skorlife-perkuat-kolaborasi-untuk-mewujudkan-indonesia-emas"
     },
     {
         "title": "KNIME Training Experience, UNM Ikut Kontribusi dalam Data Connect Indonesia",
         "category": "News",
-        "publish_time": "30-12-2024 11:11",
+        "publish_time": "30-12-2024 11:12",
         "news_link": "https://news.republika.co.id/berita/spb15s423/knime-training-experience-unm-ikut-kontribusi-dalam-data-connect-indonesia"
     },
     {
         "title": "Mengapa Perlu Berlomba dalam Kebaikan?",
         "category": "Khazanah",
-        "publish_time": "30-12-2024 11:11",
+        "publish_time": "30-12-2024 11:12",
         "news_link": "https://khazanah.republika.co.id/berita/spb1g4458/mengapa-perlu-berlomba-dalam-kebaikan"
     },
     {
         "title": "Sambut Nataru, KAI Daop 8: Kami Memperbanyak Kereta Tujuan Destinasi Wisata",
         "category": "News",
-        "publish_time": "30-12-2024 11:11",
+        "publish_time": "30-12-2024 11:12",
         "news_link": "https://news.republika.co.id/berita/spb1ey451/sambut-nataru-kai-daop-8-kami-memperbanyak-kereta-tujuan-destinasi-wisata"
     },
     {
         "title": "Puluhan Anggota Polda Jabar Dipecat, Ini Penyebabnya",
         "category": "Rejabar",
-        "publish_time": "30-12-2024 11:11",
+        "publish_time": "30-12-2024 11:12",
         "news_link": "https://rejabar.republika.co.id/berita/spb1ev512/puluhan-anggota-polda-jabar-dipecat-ini-penyebabnya"
     },
     {
         "title": "Libur Nataru, Tempat Penyewaan Iphone Kebanjiran Pesanan",
         "category": "Visual",
-        "publish_time": "30-12-2024 11:11",
+        "publish_time": "30-12-2024 11:12",
         "news_link": "https://visual.republika.co.id/berita/spawoc375/libur-nataru-tempat-penyewaan-iphone-kebanjiran-pesanan"
     },
     {
         "title": "Prakiraan Cuaca Besok 31 Desember 2024: Kota Padang - Cerah Berawan",
         "category": "News",
-        "publish_time": "30-12-2024 11:11",
+        "publish_time": "30-12-2024 11:12",
         "news_link": "https://news.republika.co.id/berita/spb18u1395779520/prakiraan-cuaca-besok-31-desember-2024-kota-padang-cerah-berawan"
     },
     {
         "title": "Riset: Masyarakat Indonesia Makin Gemar Membaca",
         "category": "News",
-        "publish_time": "30-12-2024 11:11",
+        "publish_time": "30-12-2024 11:12",
         "news_link": "https://news.republika.co.id/berita/spb169451/riset-masyarakat-indonesia-makin-gemar-membaca"
     },
     {
         "title": "Tiga Golongan Layak Dikasihani",
         "category": "Khazanah",
-        "publish_time": "30-12-2024 11:11",
+        "publish_time": "30-12-2024 11:12",
         "news_link": "https://khazanah.republika.co.id/berita/spb12i458/tiga-golongan-layak-dikasihani"
-    },
-    {
-        "title": "Serap Aspirasi Nelayan Kepulauan Seribu, PHE OSES Bantu Keramba Jaring Apung",
-        "category": "Ekonomi",
-        "publish_time": "30-12-2024 11:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/spb0t0423/serap-aspirasi-nelayan-kepulauan-seribu-phe-oses-bantu-keramba-jaring-apung"
-    },
-    {
-        "title": "Anjuran Memudahkan Pernikahan, Mahar Hingga Walimah",
-        "category": "Khazanah",
-        "publish_time": "30-12-2024 11:11",
-        "news_link": "https://khazanah.republika.co.id/berita/spb0qs458/anjuran-memudahkan-pernikahan-mahar-hingga-walimah"
-    },
-    {
-        "title": "AC Milan Resmi Pecat Pelatih Paulo Fonseca, Hanya Enam Bulan Tangani Rossoneri",
-        "category": "News",
-        "publish_time": "30-12-2024 11:11",
-        "news_link": "https://news.republika.co.id/berita/spb0p2348/ac-milan-resmi-pecat-pelatih-paulo-fonseca-hanya-enam-bulan-tangani-rossoneri"
-    },
-    {
-        "title": "Mentan Amran, Menteri PU dan TNI AD Kompak Perkuat Kolaborasi Percepat Swasembada Pangan",
-        "category": "Ekonomi",
-        "publish_time": "30-12-2024 11:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/spb0ep423/mentan-amran-menteri-pu-dan-tni-ad-kompak-perkuat-kolaborasi-percepat-swasembada-pangan"
-    },
-    {
-        "title": "Seruan Pembebasan Dr Abu Safiya Menguat",
-        "category": "News",
-        "publish_time": "30-12-2024 11:11",
-        "news_link": "https://news.republika.co.id/berita/spb0bm393/seruan-pembebasan-dr-abu-safiya-menguat"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok, 31 Desember 2024, di Kota Banda Aceh dan Sekitarnya: Hujan Ringan",
-        "category": "News",
-        "publish_time": "30-12-2024 11:11",
-        "news_link": "https://news.republika.co.id/berita/spb09x1965916516/prakiraan-cuaca-besok-31-desember-2024-di-kota-banda-aceh-dan-sekitarnya-hujan-ringan"
-    },
-    {
-        "title": "Dukung Ketahanan Pangan, BRI Salurkan Kredit Rp 199,83 Triliun di Sektor Pertanian",
-        "category": "Ekonomi",
-        "publish_time": "30-12-2024 11:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sparod423/dukung-ketahanan-pangan-bri-salurkan-kredit-rp-19983-triliun-di-sektor-pertanian"
-    },
-    {
-        "title": "Anggota Polisi Jabar yang Dipecat Naik Nyaris Dua Kali Lipat",
-        "category": "News",
-        "publish_time": "30-12-2024 11:11",
-        "news_link": "https://news.republika.co.id/berita/spb08m377/anggota-polisi-jabar-yang-dipecat-naik-nyaris-dua-kali-lipat"
-    },
-    {
-        "title": "Memetik Hikmah dari Kisah Dua Orang Diampuni Allah karena Memberi Minum Anjing Kehausan",
-        "category": "Network",
-        "publish_time": "30-12-2024 11:11",
-        "news_link": "https://magentatoday.id/posts/500653/memetik-hikmah-dari-kisah-dua-orang-diampuni-allah-karena-memberi-minum-anjing-kehausan"
-    },
-    {
-        "title": "Empat Kecelakaan Pesawat dalam 5 Hari dan Baris Kursi 'Paling Aman' Menurut Penelitian",
-        "category": "News",
-        "publish_time": "30-12-2024 11:11",
-        "news_link": "https://news.republika.co.id/berita/spazxk409/empat-kecelakaan-pesawat-dalam-5-hari-dan-baris-kursi-paling-aman-menurut-penelitian"
-    },
-    {
-        "title": "Mengapa BPJS Kesehatan Harvey Moeis dan Sandra Dewi Ditanggung APBD? Ini Kata Pj Gubernur",
-        "category": "News",
-        "publish_time": "30-12-2024 11:11",
-        "news_link": "https://news.republika.co.id/berita/spazpl377/mengapa-bpjs-kesehatan-harvey-moeis-dan-sandra-dewi-ditanggung-apbd-ini-kata-pj-gubernur"
-    },
-    {
-        "title": "KSAU Sebut Jet Tempur Canggih T-50 Buatan Korsel akan Datang pada 2025",
-        "category": "News",
-        "publish_time": "30-12-2024 11:11",
-        "news_link": "https://news.republika.co.id/berita/spazoo487/ksau-sebut-jet-tempur-canggih-t50-buatan-korsel-akan-datang-pada-2025"
-    },
-    {
-        "title": "Prakiraan Cuaca 31 Desember 2024: Kota Mataram Hujan Ringan",
-        "category": "News",
-        "publish_time": "30-12-2024 11:11",
-        "news_link": "https://news.republika.co.id/berita/spaze01422667832/prakiraan-cuaca-31-desember-2024-kota-mataram-hujan-ringan"
-    },
-    {
-        "title": "Surveyor Indonesia Kawal Proyek Besar Pemerintah",
-        "category": "Ekonomi",
-        "publish_time": "30-12-2024 11:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/spazaq416/surveyor-indonesia-kawal-proyek-besar-pemerintah"
     }
 ]
