@@ -1,32 +1,110 @@
 [
     {
+        "title": "Inter Kehilangan Poin Berharga Saat Ditahan Imbang Bologna 2-2",
+        "category": "News",
+        "publish_time": "15-01-2025 23:07",
+        "news_link": "https://news.republika.co.id/berita/sq5k99348/inter-kehilangan-poin-berharga-saat-ditahan-imbang-bologna-22"
+    },
+    {
+        "title": "Pernyataan Resmi Hamas Usai Gencatan Senjata: Ini Kemenangan Rakyat Palestina!",
+        "category": "Khazanah",
+        "publish_time": "15-01-2025 23:05",
+        "news_link": "https://khazanah.republika.co.id/berita/sq5k69483/pernyataan-resmi-hamas-usai-gencatan-senjata-ini-kemenangan-rakyat-palestina"
+    },
+    {
+        "title": "Kemenkeu Masih Kaji Insentif untuk Family Office",
+        "category": "Ekonomi",
+        "publish_time": "15-01-2025 23:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/sq4f8y423/kemenkeu-masih-kaji-insentif-untuk-family-office"
+    },
+    {
+        "title": "Indra Sjafri Pastikan Indonesia tanpa Dua Pemain Keturunan Ini di Piala Asia U-20",
+        "category": "News",
+        "publish_time": "15-01-2025 23:05",
+        "news_link": "https://news.republika.co.id/berita/sq4ugt409/indra-sjafri-pastikan-indonesia-tanpa-dua-pemain-keturunan-ini-di-piala-asia-u20"
+    },
+    {
+        "title": "Ini Sumber Kebakaran Glodok Plaza Menurut Petugas Pemadam",
+        "category": "News",
+        "publish_time": "15-01-2025 22:57",
+        "news_link": "https://news.republika.co.id/berita/sq5jt4377/ini-sumber-kebakaran-glodok-plaza-menurut-petugas-pemadam"
+    },
+    {
+        "title": "Trossard Pastikan Arsenal Berjaya di Derby London Utara, Bungkam Tottenham 2-1",
+        "category": "News",
+        "publish_time": "15-01-2025 22:54",
+        "news_link": "https://news.republika.co.id/berita/sq5jmr348/trossard-pastikan-arsenal-berjaya-di-derby-london-utara-bungkam-tottenham-21"
+    },
+    {
+        "title": "Soal Pagar Laut, MUI Tangerang: Amankan Setiap Jengkal Tanah",
+        "category": "Khazanah",
+        "publish_time": "15-01-2025 22:53",
+        "news_link": "https://khazanah.republika.co.id/berita/sq5jl7430/soal-pagar-laut-mui-tangerang-amankan-setiap-jengkal-tanah"
+    },
+    {
+        "title": "Zakat untuk Makan Bergizi Gratis, Ini Pendapat Rumah Zakat yang Perlu Diperhatikan",
+        "category": "Khazanah",
+        "publish_time": "15-01-2025 22:51",
+        "news_link": "https://khazanah.republika.co.id/berita/sq5jj4483/zakat-untuk-makan-bergizi-gratis-ini-pendapat-rumah-zakat-yang-perlu-diperhatikan"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini: Hujan Ringan di Kota Denpasar Bali dan Sekitarnya 16 Januari 2025",
+        "category": "News",
+        "publish_time": "15-01-2025 22:48",
+        "news_link": "https://news.republika.co.id/berita/sq5je216939744/prakiraan-cuaca-hari-ini-hujan-ringan-di-kota-denpasar-bali-dan-sekitarnya-16-januari-2025"
+    },
+    {
+        "title": "Indonesia Konsisten Surplus Neraca Dagang Selama 56 Bulan Beruntun",
+        "category": "Ekonomi",
+        "publish_time": "15-01-2025 22:47",
+        "news_link": "https://ekonomi.republika.co.id/berita/sq4dou423/indonesia-konsisten-surplus-neraca-dagang-selama-56-bulan-beruntun"
+    },
+    {
+        "title": "Alasan tak Logis Pemasang Pagar Laut",
+        "category": "News",
+        "publish_time": "15-01-2025 22:44",
+        "news_link": "https://news.republika.co.id/berita/sq5j7e430/alasan-tak-logis-pemasang-pagar-laut"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini 16 Januari 2025: Kota Makassar Mengalami Hujan Ringan",
+        "category": "News",
+        "publish_time": "15-01-2025 22:30",
+        "news_link": "https://news.republika.co.id/berita/sq5ik4788444081/prakiraan-cuaca-hari-ini-16-januari-2025-kota-makassar-mengalami-hujan-ringan"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini 16 Januari 2025: Cerah Berawan di Kota Medan dan Sekitarnya",
+        "category": "News",
+        "publish_time": "15-01-2025 22:18",
+        "news_link": "https://news.republika.co.id/berita/sq5i071762919942/prakiraan-cuaca-hari-ini-16-januari-2025-cerah-berawan-di-kota-medan-dan-sekitarnya"
+    },
+    {
         "title": "Muzani Temui Megawati, Dapat Pesan Penting untuk Disampaikan ke Prabowo, Segera Bertemu?",
         "category": "News",
-        "publish_time": "15-01-2025 22:05",
+        "publish_time": "15-01-2025 22:11",
         "news_link": "https://news.republika.co.id/berita/sq525t487/muzani-temui-megawati-dapat-pesan-penting-untuk-disampaikan-ke-prabowo-segera-bertemu"
     },
     {
-        "title": "Prakiraan Cuaca Hari Ini di Kota Malang dan Sekitarnya \u2013 Prakiraan Hujan Ringan di Pacitan pada 16 Januari 2025  16 Januari 2025",
+        "title": "Prakiraan Cuaca Hari Ini di Kota Malang dan Sekitarnya \u2013 Prakiraan Hujan Ringan di Pacitan",
         "category": "News",
-        "publish_time": "15-01-2025 22:04",
-        "news_link": "https://news.republika.co.id/berita/sq5hb9713200057/prakiraan-cuaca-hari-ini-di-kota-malang-dan-sekitarnya-prakiraan-hujan-ringan-di-pacitan-pada-16-januari-2025-16-januari-2025"
+        "publish_time": "15-01-2025 22:11",
+        "news_link": "https://news.republika.co.id/berita/sq5hb9713200057/prakiraan-cuaca-hari-ini-di-kota-malang-dan-sekitarnya-prakiraan-hujan-ringan-di-pacitan"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini, 16 Januari 2025: Surabaya dan Sekitarnya Diprediksi Berawan",
         "category": "News",
-        "publish_time": "15-01-2025 21:49",
+        "publish_time": "15-01-2025 22:11",
         "news_link": "https://news.republika.co.id/berita/sq5gmc112941137/prakiraan-cuaca-hari-ini-16-januari-2025-surabaya-dan-sekitarnya-diprediksi-berawan"
     },
     {
-        "title": "Sanggah Makan Bergizi Gratis akan dari Zakat, KSP: Itu Memalukan!",
+        "title": "Sanggah Makan Bergizi Gratis akan dari Dana Zakat, KSP: Itu Memalukan!",
         "category": "Khazanah",
-        "publish_time": "15-01-2025 21:41",
-        "news_link": "https://khazanah.republika.co.id/berita/sq4ukm483/sanggah-makan-bergizi-gratis-akan-dari-zakat-ksp-itu-memalukan"
+        "publish_time": "15-01-2025 21:11",
+        "news_link": "https://khazanah.republika.co.id/berita/sq4ukm483/sanggah-makan-bergizi-gratis-akan-dari-dana-zakat-ksp-itu-memalukan"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 16 Januari 2025: Kota Yogyakarta dan Sekitarnya (Berawan)",
         "category": "News",
-        "publish_time": "15-01-2025 21:31",
+        "publish_time": "15-01-2025 21:11",
         "news_link": "https://news.republika.co.id/berita/sq5fs6387354807/prakiraan-cuaca-hari-ini-16-januari-2025-kota-yogyakarta-dan-sekitarnya-berawan"
     },
     {
@@ -122,7 +200,7 @@
     {
         "title": "Airlangga Ungkap 10 Juta Orang Kaya Masih Belanja di Luar Negeri",
         "category": "Ekonomi",
-        "publish_time": "15-01-2025 18:11",
+        "publish_time": "15-01-2025 17:11",
         "news_link": "https://ekonomi.republika.co.id/berita/sq4u7n370/airlangga-ungkap-10-juta-orang-kaya-masih-belanja-di-luar-negeri"
     },
     {
@@ -220,83 +298,5 @@
         "category": "Visual",
         "publish_time": "15-01-2025 15:11",
         "news_link": "https://visual.republika.co.id/berita/sq4sxo375/berkas-perkara-penembakan-bos-rental-dilimpahkan-ke-oditur-militer"
-    },
-    {
-        "title": "Tuduhan Wanita Pezina di Masa Imam Malik",
-        "category": "Khazanah",
-        "publish_time": "15-01-2025 15:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sq4ybb430/tuduhan-wanita-pezina-di-masa-imam-malik"
-    },
-    {
-        "title": "Siap Serap Gabah Beras Petani Lokal, Bulog Jabar Lakukan Pemetaan Daerah Potensial",
-        "category": "Rejabar",
-        "publish_time": "15-01-2025 15:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sq4y5l512/siap-serap-gabah-beras-petani-lokal-bulog-jabar-lakukan-pemetaan-daerah-potensial"
-    },
-    {
-        "title": "Ancelotti Mode Serius Setelah Madrid Dipermalukan Barcelona di Piala Super Spanyol",
-        "category": "News",
-        "publish_time": "15-01-2025 15:11",
-        "news_link": "https://news.republika.co.id/berita/sq4y4e348/ancelotti-mode-serius-setelah-madrid-dipermalukan-barcelona-di-piala-super-spanyol"
-    },
-    {
-        "title": "Berdamai dengan Kekurangan Diri",
-        "category": "Khazanah",
-        "publish_time": "15-01-2025 15:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sq4xvy458/berdamai-dengan-kekurangan-diri"
-    },
-    {
-        "title": "Kasusnya Segera Dilimpahkan ke PN, ASN di Kota Cimahi Segera Disidangkan",
-        "category": "Rejabar",
-        "publish_time": "15-01-2025 15:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sq4xnk512/kasusnya-segera-dilimpahkan-ke-pn-asn-di-kota-cimahi-segera-disidangkan"
-    },
-    {
-        "title": "Tahun Baru Imlek 2025, The Luxton Bandung Tampilkan Barongsai hingga Menu Khas Imlek",
-        "category": "Rejabar",
-        "publish_time": "15-01-2025 15:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sq4xcz512/tahun-baru-imlek-2025-the-luxton-bandung-tampilkan-barongsai-hingga-menu-khas-imlek"
-    },
-    {
-        "title": "Menteri Sebut MBG Jadikan Perajin Tahu-Tempe Pemasok Bahan",
-        "category": "News",
-        "publish_time": "15-01-2025 15:11",
-        "news_link": "https://news.republika.co.id/berita/sq4xcc458/menteri-sebut-mbg-jadikan-perajin-tahutempe-pemasok-bahan"
-    },
-    {
-        "title": "Timnas U-20 Jalani Turnamen Mini Jelang Tampil di Piala Asia U-20",
-        "category": "News",
-        "publish_time": "15-01-2025 15:11",
-        "news_link": "https://news.republika.co.id/berita/sq4x54348/timnas-u20-jalani-turnamen-mini-jelang-tampil-di-piala-asia-u20"
-    },
-    {
-        "title": "Timnas Indonesia U-20 Gelar Latihan Jelang Piala Asia",
-        "category": "Visual",
-        "publish_time": "15-01-2025 15:11",
-        "news_link": "https://visual.republika.co.id/berita/sq4sui375/timnas-indonesia-u20-gelar-latihan-jelang-piala-asia"
-    },
-    {
-        "title": "Lantik Almer Faiq Rusydi Jadi Ketua Kadin Jabar, Ini Pesan Ketua Umum Kadin",
-        "category": "Rejabar",
-        "publish_time": "15-01-2025 15:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sq4wxt512/lantik-almer-faiq-rusydi-jadi-ketua-kadin-jabar-ini-pesan-ketua-umum-kadin"
-    },
-    {
-        "title": "Keajaiban Bismillah",
-        "category": "Khazanah",
-        "publish_time": "15-01-2025 14:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sq4ws5458/keajaiban-bismillah"
-    },
-    {
-        "title": "Pakar Gizi: Peran Susu tidak Tergantikan dalam Makan Bergizi Gratis",
-        "category": "Ameera",
-        "publish_time": "15-01-2025 14:11",
-        "news_link": "https://ameera.republika.co.id/berita/sq4k8h370/pakar-gizi-peran-susu-tidak-tergantikan-dalam-makan-bergizi-gratis"
-    },
-    {
-        "title": "Haram Jangan Dipandang Harum",
-        "category": "Khazanah",
-        "publish_time": "15-01-2025 14:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sq4wc2458/haram-jangan-dipandang-harum"
     }
 ]
