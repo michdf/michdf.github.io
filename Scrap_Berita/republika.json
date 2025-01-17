@@ -1,56 +1,176 @@
 [
     {
+        "title": "Pagar Laut Masih Berdiri 'Angkuh', Muhammadiyah Bersama 10 Ormas Adukan ke Bareskrim Polri",
+        "category": "News",
+        "publish_time": "17-01-2025 10:12",
+        "news_link": "https://news.republika.co.id/berita/sq89pi487/pagar-laut-masih-berdiri-angkuh-muhammadiyah-bersama-10-ormas-adukan-ke-bareskrim-polri"
+    },
+    {
+        "title": "WNA Arab Saudi Pelaku Pemukul Marbut Masjid akan Dideportasi",
+        "category": "Visual",
+        "publish_time": "17-01-2025 10:12",
+        "news_link": "https://visual.republika.co.id/berita/sq89nv375/wna-arab-saudi-pelaku-pemukul-marbut-masjid-akan-dideportasi"
+    },
+    {
+        "title": "Indonesia Menang di WTO, Airlangga: Bukti Kita Bisa Lawan Diskriminasi Sawit",
+        "category": "Ekonomi",
+        "publish_time": "17-01-2025 10:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/sq89d9490/indonesia-menang-di-wto-airlangga-bukti-kita-bisa-lawan-diskriminasi-sawit"
+    },
+    {
+        "title": "Menko Airlangga Paparkan Strategi Pemerintah untuk Pertumbuhan Ekonomi 2025",
+        "category": "Ekonomi",
+        "publish_time": "17-01-2025 10:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/sq899r423/menko-airlangga-paparkan-strategi-pemerintah-untuk-pertumbuhan-ekonomi-2025"
+    },
+    {
+        "title": "MK Diminta Tetapkan Dadang Supriatna Jadi Bupati Terpilih Kabupaten Bandung, Ini Alasannya",
+        "category": "Rejabar",
+        "publish_time": "17-01-2025 10:01",
+        "news_link": "https://rejabar.republika.co.id/berita/sq896j490/mk-diminta-tetapkan-dadang-supriatna-jadi-bupati-terpilih-kabupaten-bandung-ini-alasannya"
+    },
+    {
+        "title": "Komisaris PT AJP Bos Judol, Kepala PPATK Ungkap Transaksi Janggal Sejak 2020",
+        "category": "News",
+        "publish_time": "17-01-2025 09:52",
+        "news_link": "https://news.republika.co.id/berita/sq88r9487/komisaris-pt-ajp-bos-judol-kepala-ppatk-ungkap-transaksi-janggal-sejak-2020"
+    },
+    {
+        "title": "Dana MBG dari Zakat, KH Cholil: Khawatir Muslim tidak Mau Berzakat ke LAZ",
+        "category": "Khazanah",
+        "publish_time": "17-01-2025 09:52",
+        "news_link": "https://khazanah.republika.co.id/berita/sq88qh366/dana-mbg-dari-zakat-kh-cholil-khawatir-muslim-tidak-mau-berzakat-ke-laz"
+    },
+    {
+        "title": "Puluhan Siswa SD di Sukoharjo Keracunan Makanan dari MBG, Ini Penjelasan Kodim",
+        "category": "Rejogja",
+        "publish_time": "17-01-2025 09:51",
+        "news_link": "https://rejogja.republika.co.id/berita/sq88ox282/puluhan-siswa-sd-di-sukoharjo-keracunan-makanan-dari-mbg-ini-penjelasan-kodim"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok di Kota Denpasar Bali dan Sekitarnya, Hujan Ringan pada 18 Januari 2025",
+        "category": "News",
+        "publish_time": "17-01-2025 09:49",
+        "news_link": "https://news.republika.co.id/berita/sq88mi148098969/prakiraan-cuaca-besok-di-kota-denpasar-bali-dan-sekitarnya-hujan-ringan-pada-18-januari-2025"
+    },
+    {
+        "title": "Bruno Gagal Penalti, Persebaya Masih Ditahan Imbang Malut United pada Babak Pertama",
+        "category": "News",
+        "publish_time": "17-01-2025 09:44",
+        "news_link": "https://news.republika.co.id/berita/sq88dm348/bruno-gagal-penalti-persebaya-masih-ditahan-imbang-malut-united-pada-babak-pertama"
+    },
+    {
+        "title": "Nelayan Gelar Aksi Penyegelan Pagar Laut di Tangerang, Ini Pesan Mereka untuk Prabowo",
+        "category": "News",
+        "publish_time": "17-01-2025 09:41",
+        "news_link": "https://news.republika.co.id/berita/sq8894409/nelayan-gelar-aksi-penyegelan-pagar-laut-di-tangerang-ini-pesan-mereka-untuk-prabowo"
+    },
+    {
+        "title": "Bigmatch IBL di Britama Arena Malam Ini, Satria Muda Ditantang Kesatria Bengawan Solo",
+        "category": "News",
+        "publish_time": "17-01-2025 09:32",
+        "news_link": "https://news.republika.co.id/berita/sq87t4348/bigmatch-ibl-di-britama-arena-malam-ini-satria-muda-ditantang-kesatria-bengawan-solo"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok di Kota Makassar dan Sekitarnya: Hujan Ringan - 18 Januari 2025",
+        "category": "News",
+        "publish_time": "17-01-2025 09:31",
+        "news_link": "https://news.republika.co.id/berita/sq87sj738062455/prakiraan-cuaca-besok-di-kota-makassar-dan-sekitarnya-hujan-ringan-18-januari-2025"
+    },
+    {
+        "title": "Rakerwil Lazismu DIY Angkat Sinergi Kebajikan untuk Inovasi Sosial dan Capaian SDGs",
+        "category": "Rejogja",
+        "publish_time": "17-01-2025 09:28",
+        "news_link": "https://rejogja.republika.co.id/berita/sq87mb291/rakerwil-lazismu-diy-angkat-sinergi-kebajikan-untuk-inovasi-sosial-dan-capaian-sdgs"
+    },
+    {
+        "title": "Jalur Majalengka \u2013 Kuningan via Cikijing Kembali Dibuka, Pengendara Diimbau Waspada",
+        "category": "Rejabar",
+        "publish_time": "17-01-2025 09:27",
+        "news_link": "https://rejabar.republika.co.id/berita/sq87kh512/jalur-majalengka-kuningan-via-cikijing-kembali-dibuka-pengendara-diimbau-waspada"
+    },
+    {
+        "title": "Walhi Desak Pemerintah: Segera Hancurkan Pagar Laut di Perairan Tangerang",
+        "category": "News",
+        "publish_time": "17-01-2025 09:25",
+        "news_link": "https://news.republika.co.id/berita/sq87h7409/walhi-desak-pemerintah-segera-hancurkan-pagar-laut-di-perairan-tangerang"
+    },
+    {
+        "title": "Warga Negara Arab Pemukul Marbot Masjid Akhirnya Diciduk di Cisarua Bogor",
+        "category": "News",
+        "publish_time": "17-01-2025 09:20",
+        "news_link": "https://news.republika.co.id/berita/sq8795487/warga-negara-arab-pemukul-marbot-masjid-akhirnya-diciduk-di-cisarua-bogor"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok Tanggal 18 Januari 2025 untuk Kota Medan dan Sekitarnya: Pematangsiantar Cerah Berawan",
+        "category": "News",
+        "publish_time": "17-01-2025 09:19",
+        "news_link": "https://news.republika.co.id/berita/sq87882100462793/prakiraan-cuaca-besok-tanggal-18-januari-2025-untuk-kota-medan-dan-sekitarnya-pematangsiantar-cerah-berawan"
+    },
+    {
+        "title": "Ribuan PMI Majalengka Bekerja ke Luar Negeri Secara Nonprosedural",
+        "category": "Rejabar",
+        "publish_time": "17-01-2025 09:17",
+        "news_link": "https://rejabar.republika.co.id/berita/sq873y512/ribuan-pmi-majalengka-bekerja-ke-luar-negeri-secara-nonprosedural"
+    },
+    {
+        "title": "Ar-Rahman Ayat 33 Isyaratkan Mukjizat Ilmiah Modern Bahwa Langit dan Bumi tak Berujung?",
+        "category": "Iqra",
+        "publish_time": "17-01-2025 09:14",
+        "news_link": "https://iqra.republika.co.id/berita/sq86z3320/arrahman-ayat-33-isyaratkan-mukjizat-ilmiah-modern-bahwa-langit-dan-bumi-tak-berujung"
+    },
+    {
         "title": "Pertamina Patra Niaga Mulai Salurkan B40 Secara Bertahap di Beberapa Wilayah",
         "category": "Ekonomi",
-        "publish_time": "17-01-2025 09:12",
+        "publish_time": "17-01-2025 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sq86xi522/pertamina-patra-niaga-mulai-salurkan-b40-secara-bertahap-di-beberapa-wilayah"
     },
     {
         "title": "Ketua PBNU: Aswaja Perwujudan Islam Moderat yang Merangkul Semua dengan Humanis",
         "category": "Rejogja",
-        "publish_time": "17-01-2025 09:08",
+        "publish_time": "17-01-2025 09:13",
         "news_link": "https://rejogja.republika.co.id/berita/sq84er291/ketua-pbnu-aswaja-perwujudan-islam-moderat-yang-merangkul-semua-dengan-humanis"
     },
     {
         "title": "Polres Indramayu Gelar Upacara Hari Kesadaran Nasional",
         "category": "Rejabar",
-        "publish_time": "17-01-2025 09:05",
+        "publish_time": "17-01-2025 09:13",
         "news_link": "https://rejabar.republika.co.id/berita/sq86k0512/polres-indramayu-gelar-upacara-hari-kesadaran-nasional"
     },
     {
         "title": "Jelang Praperadilan, Pengacara Hasto Klaim Siap Tunjukkan Kesalahan KPK",
         "category": "News",
-        "publish_time": "17-01-2025 09:01",
+        "publish_time": "17-01-2025 09:13",
         "news_link": "https://news.republika.co.id/berita/sq86d0487/jelang-praperadilan-pengacara-hasto-klaim-siap-tunjukkan-kesalahan-kpk"
     },
     {
         "title": "Pj Gubernur Jabar Soroti Pembatalan Kelulusan dan Penarikan 233 Ijazah Alumni Stikom",
         "category": "Rejabar",
-        "publish_time": "17-01-2025 08:50",
+        "publish_time": "17-01-2025 09:13",
         "news_link": "https://rejabar.republika.co.id/berita/sq85vq512/pj-gubernur-jabar-soroti-pembatalan-kelulusan-dan-penarikan-233-ijazah-alumni-stikom"
     },
     {
         "title": "Prakiraan Cuaca Berawan di Kota Surabaya dan Sekitarnya Besok, 18 Januari 2025",
         "category": "News",
-        "publish_time": "17-01-2025 08:49",
+        "publish_time": "17-01-2025 09:13",
         "news_link": "https://news.republika.co.id/berita/sq85u6399222048/prakiraan-cuaca-berawan-di-kota-surabaya-dan-sekitarnya-besok-18-januari-2025"
     },
     {
         "title": "Wacana Dana Zakat untuk Program Makan Bergizi Gratis, Begini Respons Prabowo",
         "category": "Video",
-        "publish_time": "17-01-2025 08:46",
+        "publish_time": "17-01-2025 09:13",
         "news_link": "https://tv.republika.co.id/berita/sq85p9313/wacana-dana-zakat-untuk-program-makan-bergizi-gratis-begini-respons-prabowo"
     },
     {
         "title": "Prakiraan Cuaca Besok di Kota Yogyakarta: Cerah pada 18 Januari 2025",
         "category": "News",
-        "publish_time": "17-01-2025 08:31",
+        "publish_time": "17-01-2025 08:13",
         "news_link": "https://news.republika.co.id/berita/sq850d795866106/prakiraan-cuaca-besok-di-kota-yogyakarta-cerah-pada-18-januari-2025"
     },
     {
         "title": "NBA Gelar Rangkaian Perayaan Imlek ke-14 Hingga Februari",
         "category": "News",
-        "publish_time": "17-01-2025 08:28",
+        "publish_time": "17-01-2025 08:13",
         "news_link": "https://news.republika.co.id/berita/sq84u8348/nba-gelar-rangkaian-perayaan-imlek-ke14-hingga-februari"
     },
     {
@@ -178,125 +298,5 @@
         "category": "News",
         "publish_time": "17-01-2025 06:13",
         "news_link": "https://news.republika.co.id/berita/sq7zuh377/sosok-hercules-dari-seorang-preman-kini-bawa-grib-ke-kancah-persaingan-ormas"
-    },
-    {
-        "title": "Indonesia Perkuat Komitmen Digital ASEAN Lewat Deklarasi Bangkok",
-        "category": "Ekonomi",
-        "publish_time": "17-01-2025 06:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sq7zsm423/indonesia-perkuat-komitmen-digital-asean-lewat-deklarasi-bangkok"
-    },
-    {
-        "title": "Protes Tukin tak Cair, Akun Medsos Asosiasi Dosen ASN Alami Peretasan",
-        "category": "News",
-        "publish_time": "17-01-2025 06:13",
-        "news_link": "https://news.republika.co.id/berita/sq7zgn409/protes-tukin-tak-cair-akun-medsos-asosiasi-dosen-asn-alami-peretasan"
-    },
-    {
-        "title": "Kekhawatiran MUI Dana Zakat untuk Makan Bergizi Gratis, Singgung Janji Presiden",
-        "category": "Khazanah",
-        "publish_time": "17-01-2025 06:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sq7ydn430/kekhawatiran-mui-dana-zakat-untuk-makan-bergizi-gratis-singgung-janji-presiden"
-    },
-    {
-        "title": "Puluhan Siswa di Sukoharjo Keracunan, SOP MBG akan Diperketat",
-        "category": "News",
-        "publish_time": "17-01-2025 06:13",
-        "news_link": "https://news.republika.co.id/berita/sq7xu6425/puluhan-siswa-di-sukoharjo-keracunan-sop-mbg-akan-diperketat"
-    },
-    {
-        "title": "Alasan Damkar Kesulitan Cari Korban Kebakaran Glodok Plaza",
-        "category": "News",
-        "publish_time": "17-01-2025 06:13",
-        "news_link": "https://news.republika.co.id/berita/sq7xoe409/alasan-damkar-kesulitan-cari-korban-kebakaran-glodok-plaza"
-    },
-    {
-        "title": "Khawatir Israel Bohong Soal Gencatan Senjata, Ini Saran PBNU Untuk Dunia",
-        "category": "Khazanah",
-        "publish_time": "17-01-2025 05:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sq7ut1430/khawatir-israel-bohong-soal-gencatan-senjata-ini-saran-pbnu-untuk-dunia"
-    },
-    {
-        "title": "BRI Satu-Satunya BUMN Penerbit Obligasi Hijau di Tahun 2024",
-        "category": "Ekonomi",
-        "publish_time": "17-01-2025 05:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sq7uql423/bri-satusatunya-bumn-penerbit-obligasi-hijau-di-tahun-2024"
-    },
-    {
-        "title": "Israel Suka Bohong, Harus Ada Pengawasan Untuk Menjamin Gencatan Senjata Berjalan Lancar",
-        "category": "Khazanah",
-        "publish_time": "17-01-2025 05:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sq7uod430/israel-suka-bohong-harus-ada-pengawasan-untuk-menjamin-gencatan-senjata-berjalan-lancar"
-    },
-    {
-        "title": "Jenazah Korban Kebakaran Glodok Plaza Diidentifikasi Lewat DNA",
-        "category": "News",
-        "publish_time": "17-01-2025 05:13",
-        "news_link": "https://news.republika.co.id/berita/sq7ujt425/jenazah-korban-kebakaran-glodok-plaza-diidentifikasi-lewat-dna"
-    },
-    {
-        "title": "Anggota Polisi Disiram Air Keras Saat Hendak Bubarkan Tawuran di Tangsel",
-        "category": "News",
-        "publish_time": "17-01-2025 04:13",
-        "news_link": "https://news.republika.co.id/berita/sq7ufw377/anggota-polisi-disiram-air-keras-saat-hendak-bubarkan-tawuran-di-tangsel"
-    },
-    {
-        "title": "Dua Bulan Diluncurkan, Byond by BSI Sudah Capai 3 Juta User Aktif",
-        "category": "Sharia",
-        "publish_time": "17-01-2025 04:13",
-        "news_link": "https://sharia.republika.co.id/berita/sq7txm423/dua-bulan-diluncurkan-byond-by-bsi-sudah-capai-3-juta-user-aktif"
-    },
-    {
-        "title": "Bank Dunia Perkirakan Ekonomi Global Tumbuh 2,7 Persen pada 2025-2026",
-        "category": "Ekonomi",
-        "publish_time": "17-01-2025 04:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sq7svj423/bank-dunia-perkirakan-ekonomi-global-tumbuh-27-persen-pada-20252026"
-    },
-    {
-        "title": "Bantuan Kebakaran Los Angeles Utamakan Donasi Uang",
-        "category": "Video",
-        "publish_time": "17-01-2025 04:13",
-        "news_link": "https://tv.republika.co.id/berita/sq7skl216/bantuan-kebakaran-los-angeles-utamakan-donasi-uang"
-    },
-    {
-        "title": "Bingung Pilih Kampus? Universitas BSI Jatiwaringin akan\u00a0Hadir di Campus Expo SMAN 9",
-        "category": "News",
-        "publish_time": "17-01-2025 04:13",
-        "news_link": "https://news.republika.co.id/berita/sq7rzs423/bingung-pilih-kampus-universitas-bsi-jatiwaringin-akanhadir-di-campus-expo-sman-9"
-    },
-    {
-        "title": "Terima Lima Kantong Jenazah Korban Kebakaran Glodok Plaza, RS Polri Bentuk Tim DVI",
-        "category": "News",
-        "publish_time": "17-01-2025 04:13",
-        "news_link": "https://news.republika.co.id/berita/sq7sf9409/terima-lima-kantong-jenazah-korban-kebakaran-glodok-plaza-rs-polri-bentuk-tim-dvi"
-    },
-    {
-        "title": "Skor ESG PGN Melesat ke 20,2, Komitmen Kuat Menuju Net Zero Emission",
-        "category": "Esgnow",
-        "publish_time": "17-01-2025 04:13",
-        "news_link": "https://esgnow.republika.co.id/berita/sq7s7k522/skor-esg-pgn-melesat-ke-202-komitmen-kuat-menuju-net-zero-emission"
-    },
-    {
-        "title": "Lulusan Prodi Teknologi Informasi Cyber University Miliki Peluang Karier Gaji Puluhan Juta",
-        "category": "News",
-        "publish_time": "17-01-2025 04:13",
-        "news_link": "https://news.republika.co.id/berita/sq7rop423/lulusan-prodi-teknologi-informasi-cyber-university-miliki-peluang-karier-gaji-puluhan-juta"
-    },
-    {
-        "title": "Kronologi Aktor Bollywood Saif Ali Khan Ditikam di Rumahnya, Alami 6 Tusukan",
-        "category": "Ameera",
-        "publish_time": "17-01-2025 03:13",
-        "news_link": "https://ameera.republika.co.id/berita/sq7rhb425/kronologi-aktor-bollywood-saif-ali-khan-ditikam-di-rumahnya-alami-6-tusukan"
-    },
-    {
-        "title": "Angkat Tema Kuliner Lewat Film Upaya Nick Gali Identitas dan Akar Budaya Indonesia",
-        "category": "Video",
-        "publish_time": "17-01-2025 03:13",
-        "news_link": "https://tv.republika.co.id/berita/sq7r54216/angkat-tema-kuliner-lewat-film-upaya-nick-gali-identitas-dan-akar-budaya-indonesia"
-    },
-    {
-        "title": "Amad Diallo, Hampir Gabung Juventus, Kini Jadi Cahaya Terang pada Musim Gelap MU",
-        "category": "News",
-        "publish_time": "17-01-2025 03:13",
-        "news_link": "https://news.republika.co.id/berita/sq7qru348/amad-diallo-hampir-gabung-juventus-kini-jadi-cahaya-terang-pada-musim-gelap-mu"
     }
 ]
