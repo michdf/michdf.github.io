@@ -1,104 +1,194 @@
 [
     {
+        "title": "Psikolog Sarankan Jangan Ambil Keputusan Cerai Saat Emosi, Ini Konsekuensinya",
+        "category": "Ameera",
+        "publish_time": "21-01-2025 04:13",
+        "news_link": "https://ameera.republika.co.id/berita/sqf7q3425/psikolog-sarankan-jangan-ambil-keputusan-cerai-saat-emosi-ini-konsekuensinya"
+    },
+    {
+        "title": "Perbedaan Perlakuan Israel dan Hamas Terhadap Tahanan",
+        "category": "Khazanah",
+        "publish_time": "21-01-2025 04:02",
+        "news_link": "https://khazanah.republika.co.id/berita/sqf781430/perbedaan-perlakuan-israel-dan-hamas-terhadap-tahanan"
+    },
+    {
+        "title": "Ternyata Ini Tujuan Trump Umumkan Darurat Energi Nasional",
+        "category": "Esgnow",
+        "publish_time": "21-01-2025 03:54",
+        "news_link": "https://esgnow.republika.co.id/berita/sqf6to416/ternyata-ini-tujuan-trump-umumkan-darurat-energi-nasional"
+    },
+    {
+        "title": "Rel Terendam Banjir, Perjalanan Kereta yang Lintasi Dua Stasiun Ini Dialihkan",
+        "category": "News",
+        "publish_time": "21-01-2025 03:52",
+        "news_link": "https://news.republika.co.id/berita/sqf6rg487/rel-terendam-banjir-perjalanan-kereta-yang-lintasi-dua-stasiun-ini-dialihkan"
+    },
+    {
+        "title": "Kolaborasi Strategis UBSI, UNAS dan LLDIKTI untuk Peningkatan Mutu Perguruan Tinggi",
+        "category": "News",
+        "publish_time": "21-01-2025 03:50",
+        "news_link": "https://news.republika.co.id/berita/sqf678370/kolaborasi-strategis-ubsi-unas-dan-lldikti-untuk-peningkatan-mutu-perguruan-tinggi"
+    },
+    {
+        "title": "Jadwal Pekan Ketujuh Liga Champions: Kesempurnaan Liverpool Diuji Lille",
+        "category": "News",
+        "publish_time": "21-01-2025 03:43",
+        "news_link": "https://news.republika.co.id/berita/sqf6bm348/jadwal-pekan-ketujuh-liga-champions-kesempurnaan-liverpool-diuji-lille"
+    },
+    {
+        "title": "Arab Saudi Tetapkan 14 Februari 2025 Batas Waktu Kontrak Layanan Haji",
+        "category": "Khazanah",
+        "publish_time": "21-01-2025 03:39",
+        "news_link": "https://khazanah.republika.co.id/berita/sqf65r366/arab-saudi-tetapkan-14-februari-2025-batas-waktu-kontrak-layanan-haji"
+    },
+    {
+        "title": "Akun Idol K-Pop Berantakan Gara-Gara Tampilan Grid Baru Instagram",
+        "category": "Ameera",
+        "publish_time": "21-01-2025 03:32",
+        "news_link": "https://ameera.republika.co.id/berita/sqf5t3425/akun-idol-kpop-berantakan-garagara-tampilan-grid-baru-instagram"
+    },
+    {
+        "title": "BRI Salurkan KUR Rp 184,98 Triliun kepada 4 Juta Pelaku UMKM pada 2024",
+        "category": "Ekonomi",
+        "publish_time": "21-01-2025 03:28",
+        "news_link": "https://ekonomi.republika.co.id/berita/sqf5ns370/bri-salurkan-kur-rp-18498-triliun-kepada-4-juta-pelaku-umkm-pada-2024"
+    },
+    {
+        "title": "Sehari Jadi Presiden, Trump Perintahkan Genjot Migas dan Abaikan Transisi Energi",
+        "category": "Esgnow",
+        "publish_time": "21-01-2025 03:28",
+        "news_link": "https://esgnow.republika.co.id/berita/sqf5mm416/sehari-jadi-presiden-trump-perintahkan-genjot-migas-dan-abaikan-transisi-energi"
+    },
+    {
+        "title": "Mendiktisaintek Sebut Dua Tokoh Demo Bagian dari Restrukturisasi, Ini Penjelasannya",
+        "category": "News",
+        "publish_time": "21-01-2025 03:23",
+        "news_link": "https://news.republika.co.id/berita/sqf5fa487/mendiktisaintek-sebut-dua-tokoh-demo-bagian-dari-restrukturisasi-ini-penjelasannya"
+    },
+    {
+        "title": "Gegana Diterjunkan, Dua Anak Terluka Akibat Kebakaran Rumah Produksi Petasan di Indramayu",
+        "category": "Rejabar",
+        "publish_time": "21-01-2025 03:16",
+        "news_link": "https://rejabar.republika.co.id/berita/sqf53k512/gegana-diterjunkan-dua-anak-terluka-akibat-kebakaran-rumah-produksi-petasan-di-indramayu"
+    },
+    {
+        "title": "Banjir di Grobogan, KAI Minta Maaf Perjalanan Kereta Terganggu",
+        "category": "News",
+        "publish_time": "21-01-2025 03:16",
+        "news_link": "https://news.republika.co.id/berita/sqf53c366/banjir-di-grobogan-kai-minta-maaf-perjalanan-kereta-terganggu"
+    },
+    {
+        "title": "Perdagangan Karbon Luar Negeri Diresmikan,\u00a0Dorong Penguatan Pasar IDXCarbon di Indonesia",
+        "category": "Esgnow",
+        "publish_time": "21-01-2025 03:15",
+        "news_link": "https://esgnow.republika.co.id/berita/sqf51v370/perdagangan-karbon-luar-negeri-diresmikandorong-penguatan-pasar-idxcarbon-di-indonesia"
+    },
+    {
+        "title": "Usai Dilantik, Trump: Zaman Keemasan AS Dimulai Sekarang",
+        "category": "Video",
+        "publish_time": "21-01-2025 03:15",
+        "news_link": "https://tv.republika.co.id/berita/sqf51e467/usai-dilantik-trump-zaman-keemasan-as-dimulai-sekarang"
+    },
+    {
         "title": "Houthi: Warning Buat Israel, Jemari Kami Dekat dengan Tombol Peluncur Bom",
         "category": "News",
-        "publish_time": "21-01-2025 03:13",
+        "publish_time": "21-01-2025 03:15",
         "news_link": "https://news.republika.co.id/berita/sqf4yj451/houthi-warning-buat-israel-jemari-kami-dekat-dengan-tombol-peluncur-bom"
     },
     {
         "title": "Trump Serukan 'Revolusi Akal Sehat' di Era Pemerintahannya",
         "category": "Video",
-        "publish_time": "21-01-2025 03:11",
+        "publish_time": "21-01-2025 03:15",
         "news_link": "https://tv.republika.co.id/berita/sqf4v9216/trump-serukan-revolusi-akal-sehat-di-era-pemerintahannya"
     },
     {
         "title": "Torch Gandeng Rumah Zakat Salurkan Seribu Tas ke Pelajar Yatim di Pelosok Indonesia",
         "category": "Rejabar",
-        "publish_time": "21-01-2025 03:10",
+        "publish_time": "21-01-2025 03:15",
         "news_link": "https://rejabar.republika.co.id/berita/sqf4so512/torch-gandeng-rumah-zakat-salurkan-seribu-tas-ke-pelajar-yatim-di-pelosok-indonesia"
     },
     {
-        "title": "Empat Tanda Meninggal Husnul Khatimah Menurut Hadis",
-        "category": "Khazanah",
-        "publish_time": "21-01-2025 03:09",
-        "news_link": "https://khazanah.republika.co.id/berita/sqf4r1483/empat-tanda-meninggal-husnul-khatimah-menurut-hadis"
+        "title": "Empat Tanda Meninggal Husnul Khatimah Menurut Hadits",
+        "category": "Iqra",
+        "publish_time": "21-01-2025 03:15",
+        "news_link": "https://iqra.republika.co.id/berita/sqf4r1483/empat-tanda-meninggal-husnul-khatimah-menurut-hadits"
     },
     {
         "title": "Kemenkes Dorong Peningkatan Desa Siaga TB di Banten",
         "category": "Network",
-        "publish_time": "21-01-2025 03:04",
+        "publish_time": "21-01-2025 03:15",
         "news_link": "https://diagnosa.id/posts/505893/kemenkes-dorong-peningkatan-desa-siaga-tb-di-banten"
     },
     {
         "title": "Usai Dilantik, Trump Cabut Ketentuan Mobil Listrik Harus 50 Persen",
         "category": "Ekonomi",
-        "publish_time": "21-01-2025 03:03",
+        "publish_time": "21-01-2025 03:15",
         "news_link": "https://ekonomi.republika.co.id/berita/sqf4gp468/usai-dilantik-trump-cabut-ketentuan-mobil-listrik-harus-50-persen"
     },
     {
         "title": "Ada yang Aneh di Pelantikan Presiden AS, Mengapa Tangan Trump tak Ditaruh di Atas Alkitab?",
         "category": "News",
-        "publish_time": "21-01-2025 03:00",
+        "publish_time": "21-01-2025 03:15",
         "news_link": "https://news.republika.co.id/berita/sqf4ch377/ada-yang-aneh-di-pelantikan-presiden-as-mengapa-tangan-trump-tak-ditaruh-di-atas-alkitab"
     },
     {
         "title": "Prof Mudzakkir: Praperadilan Hasto Uji Keabsahan Penyidik KPK",
         "category": "News",
-        "publish_time": "21-01-2025 02:57",
+        "publish_time": "21-01-2025 03:15",
         "news_link": "https://news.republika.co.id/berita/sqf47b484/prof-mudzakkir-praperadilan-hasto-uji-keabsahan-penyidik-kpk"
     },
     {
         "title": "Transformasi Karir: S2 Ilmu Komputer, Kunci Utama Menuju Masa Depan Gemilang",
         "category": "News",
-        "publish_time": "21-01-2025 02:50",
+        "publish_time": "21-01-2025 03:15",
         "news_link": "https://news.republika.co.id/berita/sqf1i4370/transformasi-karir-s2-ilmu-komputer-kunci-utama-menuju-masa-depan-gemilang"
     },
     {
         "title": "Polisi Amankan 10 Debt Collector di Bandung yang Paksa Minta Uang Rp 1,5 Juta",
         "category": "Rejabar",
-        "publish_time": "21-01-2025 02:47",
+        "publish_time": "21-01-2025 03:15",
         "news_link": "https://rejabar.republika.co.id/berita/sqf3qf512/polisi-amankan-10-debt-collector-di-bandung-yang-paksa-minta-uang-rp-15-juta"
     },
     {
         "title": "Mendikti Saintek Tanggapi Pegawai Demo: Bukan Dipecat, Pegawai Dimutasi",
         "category": "News",
-        "publish_time": "21-01-2025 02:40",
+        "publish_time": "21-01-2025 02:15",
         "news_link": "https://news.republika.co.id/berita/sqf3ew484/mendikti-saintek-tanggapi-pegawai-demo-bukan-dipecat-pegawai-dimutasi"
     },
     {
         "title": "Jalan di Sekitar Glodok Plaza Ditutup Sementara untuk Mempermudah Evakuasi Korban",
         "category": "News",
-        "publish_time": "21-01-2025 02:38",
+        "publish_time": "21-01-2025 02:15",
         "news_link": "https://news.republika.co.id/berita/sqf3au425/jalan-di-sekitar-glodok-plaza-ditutup-sementara-untuk-mempermudah-evakuasi-korban"
     },
     {
         "title": "Trump Ingin Disebut Inspirasi Perdamaian",
         "category": "News",
-        "publish_time": "21-01-2025 02:34",
+        "publish_time": "21-01-2025 02:15",
         "news_link": "https://news.republika.co.id/berita/sqf0g2451/trump-ingin-disebut-inspirasi-perdamaian"
     },
     {
         "title": "Harga Emas Antam Naik Jadi Rp 1,591 Juta per Gram",
         "category": "Ekonomi",
-        "publish_time": "21-01-2025 02:25",
+        "publish_time": "21-01-2025 02:15",
         "news_link": "https://ekonomi.republika.co.id/berita/sqf2p6370/harga-emas-antam-naik-jadi-rp-1591-juta-per-gram"
     },
     {
         "title": "Ini Pihak yang akan Di-blacklist Terkait Terbitnya Sertifikat HGB dan SHM Pagar Laut",
         "category": "News",
-        "publish_time": "21-01-2025 02:24",
+        "publish_time": "21-01-2025 02:15",
         "news_link": "https://news.republika.co.id/berita/sqf2ny430/ini-pihak-yang-akan-diblacklist-terkait-terbitnya-sertifikat-hgb-dan-shm-pagar-laut"
     },
     {
         "title": "Menteri Trenggono Ajak Kepolisian dan Bakamla Ikut Bongkar Pagar Laut",
         "category": "News",
-        "publish_time": "21-01-2025 02:22",
+        "publish_time": "21-01-2025 02:15",
         "news_link": "https://news.republika.co.id/berita/sqf2kx484/menteri-trenggono-ajak-kepolisian-dan-bakamla-ikut-bongkar-pagar-laut"
     },
     {
         "title": "Mengimajinasikan Perdamaian ala Duo Seniman Yogyakarta",
         "category": "Rejogja",
-        "publish_time": "21-01-2025 02:19",
+        "publish_time": "21-01-2025 02:15",
         "news_link": "https://rejogja.republika.co.id/berita/sqf2gh291/mengimajinasikan-perdamaian-ala-duo-seniman-yogyakarta"
     },
     {
@@ -110,193 +200,103 @@
     {
         "title": "Kesal Saksikan Gencatan Senjata, Smotrich Tebar Ancaman kepada Netanyahu Jika Dilanjutkan",
         "category": "Khazanah",
-        "publish_time": "21-01-2025 02:14",
+        "publish_time": "21-01-2025 02:15",
         "news_link": "https://khazanah.republika.co.id/berita/sqf281483/kesal-saksikan-gencatan-senjata-smotrich-tebar-ancaman-kepada-netanyahu-jika-dilanjutkan"
     },
     {
         "title": "Deretan Foto Momen Pelantikan Donald Trump Sebagai Presiden AS",
         "category": "Visual",
-        "publish_time": "21-01-2025 02:14",
+        "publish_time": "21-01-2025 02:15",
         "news_link": "https://visual.republika.co.id/berita/sqf24w375/deretan-foto-momen-pelantikan-donald-trump-sebagai-presiden-as"
     },
     {
         "title": "Trump Sebut AS Alami Darurat Energi Nasional",
         "category": "Ekonomi",
-        "publish_time": "21-01-2025 02:14",
+        "publish_time": "21-01-2025 02:15",
         "news_link": "https://ekonomi.republika.co.id/berita/sqf1e9370/trump-sebut-as-alami-darurat-energi-nasional"
     },
     {
         "title": "Ini Dugaan Hubungan Perusahaan Pemilik SHGB di Area Pagar Laut Tangerang dengan PIK 2",
         "category": "News",
-        "publish_time": "21-01-2025 02:14",
+        "publish_time": "21-01-2025 02:15",
         "news_link": "https://news.republika.co.id/berita/sqf1po377/ini-dugaan-hubungan-perusahaan-pemilik-shgb-di-area-pagar-laut-tangerang-dengan-pik-2"
     },
     {
         "title": "Brave Combat Federation Gelar 6 Event MMA Spektakuler Sepanjang 2025 di Indonesia",
         "category": "News",
-        "publish_time": "21-01-2025 02:14",
+        "publish_time": "21-01-2025 02:15",
         "news_link": "https://news.republika.co.id/berita/sqf1cu456/brave-combat-federation-gelar-6-event-mma-spektakuler-sepanjang-2025-di-indonesia"
     },
     {
         "title": "Yayasan GSN dan Atthaya Kemi Mandiri Salurkan Pupuk kepada Petani Majalengka",
         "category": "News",
-        "publish_time": "21-01-2025 02:14",
+        "publish_time": "21-01-2025 02:15",
         "news_link": "https://news.republika.co.id/berita/sqf16r456/yayasan-gsn-dan-atthaya-kemi-mandiri-salurkan-pupuk-kepada-petani-majalengka"
     },
     {
         "title": "Akuisisi Bank Victoria Syariah oleh BTN, Peluang dan Tantangan Bagi Industri Syariah",
         "category": "Sharia",
-        "publish_time": "21-01-2025 02:14",
+        "publish_time": "21-01-2025 02:15",
         "news_link": "https://sharia.republika.co.id/berita/sqf15r370/akuisisi-bank-victoria-syariah-oleh-btn-peluang-dan-tantangan-bagi-industri-syariah"
     },
     {
         "title": "Pencuri Burung di Sewon Ditangkap, Korban Alami Kerugian Jutaan Rupiah",
         "category": "Rejogja",
-        "publish_time": "21-01-2025 01:14",
+        "publish_time": "21-01-2025 01:15",
         "news_link": "https://rejogja.republika.co.id/berita/sqf0s0291/pencuri-burung-di-sewon-ditangkap-korban-alami-kerugian-jutaan-rupiah"
     },
     {
         "title": "Resmi Bangun Pabrik di Indonesia, Bisakah BYD Dominasi Pasar Mobil Nasional?",
         "category": "Ekonomi",
-        "publish_time": "21-01-2025 01:14",
+        "publish_time": "21-01-2025 01:15",
         "news_link": "https://ekonomi.republika.co.id/berita/sqf0gc468/resmi-bangun-pabrik-di-indonesia-bisakah-byd-dominasi-pasar-mobil-nasional"
     },
     {
         "title": "Jersey Baru, Logo Anyar: Ini Arti Logo Baru Garuda di Kostum Timnas Lawan Australia Nanti",
         "category": "News",
-        "publish_time": "21-01-2025 01:14",
+        "publish_time": "21-01-2025 01:15",
         "news_link": "https://news.republika.co.id/berita/sqf0fa348/jersey-baru-logo-anyar-ini-arti-logo-baru-garuda-di-kostum-timnas-lawan-australia-nanti"
     },
     {
         "title": "Sekjen PBB: Kami akan Tingkatkan Bantuan kemanusiaan ke Gaza Palestina",
         "category": "Khazanah",
-        "publish_time": "21-01-2025 01:14",
+        "publish_time": "21-01-2025 01:15",
         "news_link": "https://khazanah.republika.co.id/berita/sqf0bj451/sekjen-pbb-kami-akan-tingkatkan-bantuan-kemanusiaan-ke-gaza-palestina"
     },
     {
         "title": "Media Israel Akui, Hamas tak Mungkin Dilenyapkan di Gaza",
         "category": "News",
-        "publish_time": "21-01-2025 01:14",
+        "publish_time": "21-01-2025 01:15",
         "news_link": "https://news.republika.co.id/berita/sqeznj393/media-israel-akui-hamas-tak-mungkin-dilenyapkan-di-gaza"
     },
     {
         "title": "Man City Kontrak Bek Muda Uzbekistan Khusanov, Rogoh Rp 677 Miliar untuk Biaya Transfer",
         "category": "News",
-        "publish_time": "21-01-2025 01:14",
+        "publish_time": "21-01-2025 01:15",
         "news_link": "https://news.republika.co.id/berita/sqez68348/man-city-kontrak-bek-muda-uzbekistan-khusanov-rogoh-rp-677-miliar-untuk-biaya-transfer"
     },
     {
         "title": "Ramai-Ramai Diprotes ASN, Menteri Satryo: Rekaman Suara Beredar di Medsos Bukan Suara Saya",
         "category": "News",
-        "publish_time": "21-01-2025 01:14",
+        "publish_time": "21-01-2025 01:15",
         "news_link": "https://news.republika.co.id/berita/sqeygp377/ramairamai-diprotes-asn-menteri-satryo-rekaman-suara-beredar-di-medsos-bukan-suara-saya"
     },
     {
         "title": "Siap Beroperasi 2025, BYD Bangun Pabrik di Subang",
         "category": "Network",
-        "publish_time": "21-01-2025 01:14",
+        "publish_time": "21-01-2025 01:15",
         "news_link": "https://motoresto.id/posts/505862/siap-beroperasi-2025-byd-bangun-pabrik-di-subang"
     },
     {
         "title": "Dari Malaysia, Menhan Sjafrie Temui PM Singapura Lawrence Wong",
         "category": "Network",
-        "publish_time": "21-01-2025 01:14",
+        "publish_time": "21-01-2025 01:15",
         "news_link": "https://seputarmiliter.id/posts/505870/dari-malaysia-menhan-sjafrie-temui-pm-singapura-lawrence-wong"
     },
     {
         "title": "Kejagung: Kerugian Negara Korupsi Impor Gula Bertambah Jadi 578 Miliar",
         "category": "News",
-        "publish_time": "21-01-2025 00:14",
+        "publish_time": "21-01-2025 00:15",
         "news_link": "https://news.republika.co.id/berita/sqexz3377/kejagung-kerugian-negara-korupsi-impor-gula-bertambah-jadi-578-miliar"
-    },
-    {
-        "title": "Sakit Hati, Seorang Suami di Tasikmalaya Bakar Rumah Istri Sirinya",
-        "category": "Rejabar",
-        "publish_time": "21-01-2025 00:14",
-        "news_link": "https://rejabar.republika.co.id/berita/sqexqy512/sakit-hati-seorang-suami-di-tasikmalaya-bakar-rumah-istri-sirinya"
-    },
-    {
-        "title": "Oxfam: Jumlah Orang Kaya dan Orang Kelaparan Meningkat",
-        "category": "News",
-        "publish_time": "21-01-2025 00:14",
-        "news_link": "https://news.republika.co.id/berita/sqeu48451/oxfam-jumlah-orang-kaya-dan-orang-kelaparan-meningkat"
-    },
-    {
-        "title": "Mobil Pelat TNI yang Tabrak Motor Hingga Pejalan Kaki Ternyata Kendaran Dinas Kemenhan",
-        "category": "News",
-        "publish_time": "21-01-2025 00:14",
-        "news_link": "https://news.republika.co.id/berita/sqexho377/mobil-pelat-tni-yang-tabrak-motor-hingga-pejalan-kaki-ternyata-kendaran-dinas-kemenhan"
-    },
-    {
-        "title": "Rumah Produksi Petasan di Indramayu Terbakar, Api Sulit Dipadamkan",
-        "category": "Rejabar",
-        "publish_time": "21-01-2025 00:14",
-        "news_link": "https://rejabar.republika.co.id/berita/sqex89512/rumah-produksi-petasan-di-indramayu-terbakar-api-sulit-dipadamkan"
-    },
-    {
-        "title": "Pagar Laut Punya Sertifikat HGB, Ini Hukumnya Menurut MUI",
-        "category": "Khazanah",
-        "publish_time": "21-01-2025 00:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sqex2i430/pagar-laut-punya-sertifikat-hgb-ini-hukumnya-menurut-mui"
-    },
-    {
-        "title": "Pembelaan Nusron untuk PT Kapuk Niaga Indah dan Misteri di Balik Proyek Besar Pagar Laut",
-        "category": "News",
-        "publish_time": "21-01-2025 00:14",
-        "news_link": "https://news.republika.co.id/berita/sqex28377/pembelaan-nusron-untuk-pt-kapuk-niaga-indah-dan-misteri-di-balik-proyek-besar-pagar-laut"
-    },
-    {
-        "title": "Gaza Mulai Tenang, Pemukim Yahudi Membabi Buta di Tepi Barat",
-        "category": "News",
-        "publish_time": "21-01-2025 00:14",
-        "news_link": "https://news.republika.co.id/berita/sqevq3393/gaza-mulai-tenang-pemukim-yahudi-membabi-buta-di-tepi-barat"
-    },
-    {
-        "title": "On This Day: 21 Januari 1985, Bom Meledak di Candi Borobudur Hancurkan 9 Stupa dan 2 Patung Budha",
-        "category": "Network",
-        "publish_time": "21-01-2025 00:14",
-        "news_link": "https://magentatoday.id/posts/505782/on-this-day-21-januari-1985-bom-meledak-di-candi-borobudur-hancurkan-9-stupa-dan-2-patung-budha"
-    },
-    {
-        "title": "Donald Trump: AS Hanya Akui Kelamin Laki-Laki dan Perempuan",
-        "category": "News",
-        "publish_time": "21-01-2025 00:14",
-        "news_link": "https://news.republika.co.id/berita/sqewbx370/donald-trump-as-hanya-akui-kelamin-lakilaki-dan-perempuan"
-    },
-    {
-        "title": "Kuat di Darat dan Laut, Sejarawan Barat Catat Kekuatan Militer Kesultanan Aceh",
-        "category": "Khazanah",
-        "publish_time": "21-01-2025 00:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sqew7h430/kuat-di-darat-dan-laut-sejarawan-barat-catat-kekuatan-militer-kesultanan-aceh"
-    },
-    {
-        "title": "China Harap Bekerja Sama dengan Pemerintahan Trump, Bukan 'Perang'",
-        "category": "Ekonomi",
-        "publish_time": "21-01-2025 00:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/sqew3k370/china-harap-bekerja-sama-dengan-pemerintahan-trump-bukan-perang"
-    },
-    {
-        "title": "Habiskan Miliaran Dolar, Amerika Gagal Lawan Houthi, Begini Penjelasannya",
-        "category": "Khazanah",
-        "publish_time": "21-01-2025 00:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sqevye451/habiskan-miliaran-dolar-amerika-gagal-lawan-houthi-begini-penjelasannya"
-    },
-    {
-        "title": "Meta Segera Rilis Aplikasi Baru Edits, Jadi Saingan CapCut?",
-        "category": "Ameera",
-        "publish_time": "21-01-2025 00:14",
-        "news_link": "https://ameera.republika.co.id/berita/sqevv8425/meta-segera-rilis-aplikasi-baru-edits-jadi-saingan-capcut"
-    },
-    {
-        "title": "Bunuh Bocah Palestina saat Gencatan Senjata, Yahudi Suka Berkhianat sejak Zaman Para Nabi",
-        "category": "Iqra",
-        "publish_time": "21-01-2025 00:14",
-        "news_link": "https://iqra.republika.co.id/berita/sqevhe430/bunuh-bocah-palestina-saat-gencatan-senjata-yahudi-suka-berkhianat-sejak-zaman-para-nabi"
-    },
-    {
-        "title": "Hasil Pekan Ke-19 dan Klasemen Liga 1: Persija Ramaikan Persaingan Juara",
-        "category": "News",
-        "publish_time": "21-01-2025 00:14",
-        "news_link": "https://news.republika.co.id/berita/sqevg2348/hasil-pekan-ke19-dan-klasemen-liga-1-persija-ramaikan-persaingan-juara"
     }
 ]
