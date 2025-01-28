@@ -1,110 +1,242 @@
 [
     {
+        "title": "Indonesia-Malaysia Bahas Peningkatan Hubungan Dagang melalui Komite Gabungan",
+        "category": "Ekonomi",
+        "publish_time": "28-01-2025 10:12",
+        "news_link": "https://ekonomi.republika.co.id/berita/sqsn0y370/indonesiamalaysia-bahas-peningkatan-hubungan-dagang-melalui-komite-gabungan"
+    },
+    {
+        "title": "Ini 11 Prodi Sepi Peminat IPB dan Daya Tampungnya di SNBT 2025",
+        "category": "Network",
+        "publish_time": "28-01-2025 10:11",
+        "news_link": "https://kampus.republika.co.id/posts/506912/ini-11-prodi-sepi-peminat-ipb-dan-daya-tampungnya-di-snbt-2025"
+    },
+    {
+        "title": "Putri Gus Dur Wanti-Wanti Agar MBG tak Jadi Program \u2018Bancakan\u2019",
+        "category": "News",
+        "publish_time": "28-01-2025 10:08",
+        "news_link": "https://news.republika.co.id/berita/sqsmu6487/putri-gus-dur-wantiwanti-agar-mbg-tak-jadi-program-bancakan"
+    },
+    {
+        "title": "Dikira Kemalingan, Alarm Motor Penyelamat Warga dari Kebakaran Rumahnya",
+        "category": "Rejabar",
+        "publish_time": "28-01-2025 10:00",
+        "news_link": "https://rejabar.republika.co.id/berita/sqsmgh512/dikira-kemalingan-alarm-motor-penyelamat-warga-dari-kebakaran-rumahnya"
+    },
+    {
+        "title": "Peluang dan Tantangan Pengarusutamaan Pesantren di Indonesia",
+        "category": "Kolom",
+        "publish_time": "28-01-2025 09:58",
+        "news_link": "https://analisis.republika.co.id/berita/sqsmdt451/peluang-dan-tantangan-pengarusutamaan-pesantren-di-indonesia"
+    },
+    {
+        "title": "Pertamina Siagakan 9 Juta Tabung Elpiji Subsidi Jelang Libur Isra Miraj dan Imlek",
+        "category": "Ekonomi",
+        "publish_time": "28-01-2025 09:55",
+        "news_link": "https://ekonomi.republika.co.id/berita/sqsm8q522/pertamina-siagakan-9-juta-tabung-elpiji-subsidi-jelang-libur-isra-miraj-dan-imlek"
+    },
+    {
+        "title": "Masyarakat Rancaekek Antusias Ikuti Program Safari Dakwah Sosial",
+        "category": "Rejabar",
+        "publish_time": "28-01-2025 09:54",
+        "news_link": "https://rejabar.republika.co.id/berita/sqsm67512/masyarakat-rancaekek-antusias-ikuti-program-safari-dakwah-sosial"
+    },
+    {
+        "title": "Tak Cuma Kurangi Perjalanan Dinas, Pemprov Jakarta Pangkas Anggaran Makan dan Rapat",
+        "category": "News",
+        "publish_time": "28-01-2025 09:54",
+        "news_link": "https://news.republika.co.id/berita/sqsm5x409/tak-cuma-kurangi-perjalanan-dinas-pemprov-jakarta-pangkas-anggaran-makan-dan-rapat"
+    },
+    {
+        "title": "13 Siswa SMP Asal Mojokerto Terseret Arus di Pantai Drini, Tiga Meninggal, Satu Hilang",
+        "category": "News",
+        "publish_time": "28-01-2025 09:51",
+        "news_link": "https://news.republika.co.id/berita/sqsm1z487/13-siswa-smp-asal-mojokerto-terseret-arus-di-pantai-drini-tiga-meninggal-satu-hilang"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok di Kota Denpasar, Bali: Siang Cerah  29 Januari 2025",
+        "category": "News",
+        "publish_time": "28-01-2025 09:49",
+        "news_link": "https://news.republika.co.id/berita/sqsly21546081073/prakiraan-cuaca-besok-di-kota-denpasar-bali-siang-cerah-29-januari-2025"
+    },
+    {
+        "title": "Jalur Pendakian Gunung Marapi Ditutup Permanen",
+        "category": "News",
+        "publish_time": "28-01-2025 09:45",
+        "news_link": "https://news.republika.co.id/berita/sqslr3409/jalur-pendakian-gunung-marapi-ditutup-permanen"
+    },
+    {
+        "title": "Bersahabat Sampai ke Surga",
+        "category": "Khazanah",
+        "publish_time": "28-01-2025 09:32",
+        "news_link": "https://khazanah.republika.co.id/berita/sqp1j0458/bersahabat-sampai-ke-surga"
+    },
+    {
+        "title": "Prakiraan Cuaca Kota Makassar: Hujan Ringan pada 29 Januari 2025  29 Januari 2025",
+        "category": "News",
+        "publish_time": "28-01-2025 09:31",
+        "news_link": "https://news.republika.co.id/berita/sqsl4b704459252/prakiraan-cuaca-kota-makassar-hujan-ringan-pada-29-januari-2025-29-januari-2025"
+    },
+    {
+        "title": "WNI yang Tertembak di Malaysia Dipulangkan Usai Autopsi Rampung",
+        "category": "News",
+        "publish_time": "28-01-2025 09:30",
+        "news_link": "https://news.republika.co.id/berita/sqshn4377/wni-yang-tertembak-di-malaysia-dipulangkan-usai-autopsi-rampung"
+    },
+    {
+        "title": "Cek Google Maps, Mobil Malah Nyungsep ke Selokan di Bandung",
+        "category": "Rejabar",
+        "publish_time": "28-01-2025 09:26",
+        "news_link": "https://rejabar.republika.co.id/berita/sqskvb512/cek-google-maps-mobil-malah-nyungsep-ke-selokan-di-bandung"
+    },
+    {
+        "title": "Membanggakan, Putra Sulsel Andi Amran Sulaiman-Nazaruddin Umar, Menteri Berkinerja Terbaik",
+        "category": "News",
+        "publish_time": "28-01-2025 09:26",
+        "news_link": "https://news.republika.co.id/berita/sqskva370/membanggakan-putra-sulsel-andi-amran-sulaimannazaruddin-umar-menteri-berkinerja-terbaik"
+    },
+    {
+        "title": "Kebahagiaan Pelaut Turun, Mengapa?",
+        "category": "Network",
+        "publish_time": "28-01-2025 09:20",
+        "news_link": "https://shippingcargo.co.id/posts/506878/kebahagiaan-pelaut-turun-mengapa"
+    },
+    {
+        "title": "UNESCO dan SEVENTEEN Berikan Dana Hibah 100 Proyek Untuk Pemimpin Muda di 70 Negara",
+        "category": "Network",
+        "publish_time": "28-01-2025 09:20",
+        "news_link": "https://inforemaja.id/posts/506130/unesco-dan-seventeen-berikan-dana-hibah-100-proyek-untuk-pemimpin-muda-di-70-negara"
+    },
+    {
+        "title": "Prakiraan Cuaca Kota Medan dan Sekitarnya: Hujan Ringan Besok, 29 Januari 2025",
+        "category": "News",
+        "publish_time": "28-01-2025 09:19",
+        "news_link": "https://news.republika.co.id/berita/sqskk5916985505/prakiraan-cuaca-kota-medan-dan-sekitarnya-hujan-ringan-besok-29-januari-2025"
+    },
+    {
+        "title": "UGM Buka Pendaftaran Jalur IUP dengan Kuota 1.114 Mahasiswa Baru",
+        "category": "Network",
+        "publish_time": "28-01-2025 09:19",
+        "news_link": "https://magentatoday.id/posts/506904/ugm-buka-pendaftaran-jalur-iup-dengan-kuota-1-114-mahasiswa-baru"
+    },
+    {
+        "title": "Generasi Z vs Generasi Alpha: Pertarungan Teknologi dan Identitas di Era Digital",
+        "category": "Network",
+        "publish_time": "28-01-2025 09:19",
+        "news_link": "https://sekitarkaltim.id/posts/506905/generasi-z-vs-generasi-alpha-pertarungan-teknologi-dan-identitas-di-era-digital"
+    },
+    {
+        "title": "Pembongkaran Pagar Laut di Tangerang Sudah Capai 18,7 Kilometer",
+        "category": "News",
+        "publish_time": "28-01-2025 09:13",
+        "news_link": "https://news.republika.co.id/berita/sqskaq370/pembongkaran-pagar-laut-di-tangerang-sudah-capai-187-kilometer"
+    },
+    {
         "title": "Prakiraan Cuaca Besok, 29 Januari 2025, di Kota Malang: Hujan Ringan",
         "category": "News",
-        "publish_time": "28-01-2025 09:04",
+        "publish_time": "28-01-2025 09:13",
         "news_link": "https://news.republika.co.id/berita/sqsjv7323830283/prakiraan-cuaca-besok-29-januari-2025-di-kota-malang-hujan-ringan"
     },
     {
         "title": "Tampil Meriah, BRI UMKM EXPO(RT) 2025 Bakal Hadirkan Juicy Luicy Sampai Tulus",
         "category": "Ekonomi",
-        "publish_time": "28-01-2025 08:55",
+        "publish_time": "28-01-2025 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sqsirf490/tampil-meriah-bri-umkm-export-2025-bakal-hadirkan-juicy-luicy-sampai-tulus"
     },
     {
         "title": "Prakiraan Cuaca Besok 29 Januari 2025: Hujan Petir di Kota Surabaya dan Sekitarnya",
         "category": "News",
-        "publish_time": "28-01-2025 08:49",
+        "publish_time": "28-01-2025 09:13",
         "news_link": "https://news.republika.co.id/berita/sqsj681424902700/prakiraan-cuaca-besok-29-januari-2025-hujan-petir-di-kota-surabaya-dan-sekitarnya"
     },
     {
         "title": "Hujan Deras, Permukiman Warga di Kendari Terendam Banjir",
         "category": "Visual",
-        "publish_time": "28-01-2025 08:45",
+        "publish_time": "28-01-2025 09:13",
         "news_link": "https://visual.republika.co.id/berita/sqsj0b375/hujan-deras-permukiman-warga-di-kendari-terendam-banjir"
     },
     {
         "title": "Inisiator Dompet Dhuafa Ajak Publik Cintai Orang Miskin dan Dhuafa",
         "category": "Khazanah",
-        "publish_time": "28-01-2025 08:43",
+        "publish_time": "28-01-2025 08:13",
         "news_link": "https://khazanah.republika.co.id/berita/sqsiwb451/inisiator-dompet-dhuafa-ajak-publik-cintai-orang-miskin-dan-dhuafa"
     },
     {
-        "title": "Peran Ilmuan Muslim Dalam Perkembangan Pertanian, Industri, Metode Keilmuan di Eropa",
+        "title": "Peran Ilmuwan Muslim dalam Perkembangan Pertanian, Industri, Metode Keilmuan di Eropa",
         "category": "Khazanah",
-        "publish_time": "28-01-2025 08:41",
-        "news_link": "https://khazanah.republika.co.id/berita/sqsisw451/peran-ilmuan-muslim-dalam-perkembangan-pertanian-industri-metode-keilmuan-di-eropa"
+        "publish_time": "28-01-2025 08:13",
+        "news_link": "https://khazanah.republika.co.id/berita/sqsisw451/peran-ilmuwan-muslim-dalam-perkembangan-pertanian-industri-metode-keilmuan-di-eropa"
     },
     {
         "title": "Jenazah WNI yang Ditembak Mati Polisi Laut Malaysia Segera Dipulangkan ke Indonesia",
         "category": "Rejogja",
-        "publish_time": "28-01-2025 08:39",
+        "publish_time": "28-01-2025 08:13",
         "news_link": "https://rejogja.republika.co.id/berita/sqsip4282/jenazah-wni-yang-ditembak-mati-polisi-laut-malaysia-segera-dipulangkan-ke-indonesia"
     },
     {
         "title": "Mengatasi Klaim Kelompok Ekstremis",
         "category": "Khazanah",
-        "publish_time": "28-01-2025 08:37",
+        "publish_time": "28-01-2025 08:13",
         "news_link": "https://khazanah.republika.co.id/berita/sqp1c9458/mengatasi-klaim-kelompok-ekstremis"
     },
     {
         "title": "Pertamina: PLTGU Jawa-1 Wujud Hilirisasi dan Tranformasi Energi",
         "category": "Ekonomi",
-        "publish_time": "28-01-2025 08:36",
+        "publish_time": "28-01-2025 08:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sqsika490/pertamina-pltgu-jawa1-wujud-hilirisasi-dan-tranformasi-energi"
     },
     {
         "title": "Panen Pahala dari Bertetangga",
         "category": "Khazanah",
-        "publish_time": "28-01-2025 08:36",
+        "publish_time": "28-01-2025 08:13",
         "news_link": "https://khazanah.republika.co.id/berita/sqp1mk458/panen-pahala-dari-bertetangga"
     },
     {
         "title": "Prakiraan Cuaca Besok 29 Januari 2025: Hujan Ringan di Kota Yogyakarta",
         "category": "News",
-        "publish_time": "28-01-2025 08:31",
+        "publish_time": "28-01-2025 08:13",
         "news_link": "https://news.republika.co.id/berita/sqsicb340397263/prakiraan-cuaca-besok-29-januari-2025-hujan-ringan-di-kota-yogyakarta"
     },
     {
         "title": "Perdana, Bandara Kertajati Kedatangan Pesawat Kargo, 900 Ekor Domba Tiba",
         "category": "News",
-        "publish_time": "28-01-2025 08:30",
+        "publish_time": "28-01-2025 08:13",
         "news_link": "https://news.republika.co.id/berita/sqsia8377/perdana-bandara-kertajati-kedatangan-pesawat-kargo-900-ekor-domba-tiba"
     },
     {
         "title": "Pasangan Hiroaki dan Arina Jadi Duta Merek Promosikan Gaya Hidup Sehat",
         "category": "Ameera",
-        "publish_time": "28-01-2025 08:30",
+        "publish_time": "28-01-2025 08:13",
         "news_link": "https://ameera.republika.co.id/berita/sqsk1w484/pasangan-hiroaki-dan-arina-jadi-duta-merek-promosikan-gaya-hidup-sehat"
     },
     {
         "title": "Ingin Masuk Surga tanpa Hisab? Jadilah Seperti Kelompok Ini",
         "category": "Khazanah",
-        "publish_time": "28-01-2025 08:27",
+        "publish_time": "28-01-2025 08:13",
         "news_link": "https://khazanah.republika.co.id/berita/sqp17w458/ingin-masuk-surga-tanpa-hisab-jadilah-seperti-kelompok-ini"
     },
     {
         "title": "Jenazah WNI Korban Penembakan Aparat Malaysia akan Dipulangkan Setelah Autopsi",
         "category": "News",
-        "publish_time": "28-01-2025 08:25",
+        "publish_time": "28-01-2025 08:13",
         "news_link": "https://news.republika.co.id/berita/sqsgyy487/jenazah-wni-korban-penembakan-aparat-malaysia-akan-dipulangkan-setelah-autopsi"
     },
     {
         "title": "Pengamat Wanti-Wanti Dampak Kebijakan American First bagi Perekonomian Indonesia",
         "category": "Ekonomi",
-        "publish_time": "28-01-2025 08:24",
+        "publish_time": "28-01-2025 08:13",
         "news_link": "https://ekonomi.republika.co.id/berita/sqsi1j490/pengamat-wantiwanti-dampak-kebijakan-american-first-bagi-perekonomian-indonesia"
     },
     {
         "title": "Pedagang Burung Pipit Untung Puluhan Juta Rupiah Jelang Imlek 2025",
         "category": "Rejogja",
-        "publish_time": "28-01-2025 08:23",
+        "publish_time": "28-01-2025 08:13",
         "news_link": "https://rejogja.republika.co.id/berita/sqshz8282/pedagang-burung-pipit-untung-puluhan-juta-rupiah-jelang-imlek-2025"
     },
     {
         "title": "Gegara Genosida, Israel Dihantui Bencana Ekonomi: Penjelasan Pengamat Zionis",
         "category": "Khazanah",
-        "publish_time": "28-01-2025 08:18",
+        "publish_time": "28-01-2025 08:13",
         "news_link": "https://khazanah.republika.co.id/berita/sqshq6451/gegara-genosida-israel-dihantui-bencana-ekonomi-penjelasan-pengamat-zionis"
     },
     {
@@ -166,137 +298,5 @@
         "category": "Rejabar",
         "publish_time": "28-01-2025 08:13",
         "news_link": "https://rejabar.republika.co.id/berita/sqsgzs512/pesawat-kargo-mendarat-perdana-di-bijb-kertajati-bawa-domba-dari-australia"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok 29 Januari 2025: Daerah Tangerang dan Sekitarnya, Berawan",
-        "category": "News",
-        "publish_time": "28-01-2025 08:13",
-        "news_link": "https://news.republika.co.id/berita/sqsgwl451820216/prakiraan-cuaca-besok-29-januari-2025-daerah-tangerang-dan-sekitarnya-berawan"
-    },
-    {
-        "title": "100 Mahasiswa Terpilih Menerima Beasiswa Generasi Berkah",
-        "category": "Sharia",
-        "publish_time": "28-01-2025 08:13",
-        "news_link": "https://sharia.republika.co.id/berita/sqsglu430/100-mahasiswa-terpilih-menerima-beasiswa-generasi-berkah"
-    },
-    {
-        "title": "Prakiraan Cuaca untuk Bandung dan Sekitarnya Besok, 29 Januari 2025: Hujan Ringan Diperkirakan di Beberapa Daerah",
-        "category": "News",
-        "publish_time": "28-01-2025 08:13",
-        "news_link": "https://news.republika.co.id/berita/sqsgmk1327827942/prakiraan-cuaca-untuk-bandung-dan-sekitarnya-besok-29-januari-2025-hujan-ringan-diperkirakan-di-beberapa-daerah"
-    },
-    {
-        "title": "Permintaan Tegas Menlu RI kepada Malaysia: Investigasi Menyeluruh Insiden Penembakan 5 WNI",
-        "category": "News",
-        "publish_time": "28-01-2025 08:13",
-        "news_link": "https://news.republika.co.id/berita/sqsgm9487/permintaan-tegas-menlu-ri-kepada-malaysia-investigasi-menyeluruh-insiden-penembakan-5-wni"
-    },
-    {
-        "title": "Lautan Massa Gaza Utara, Pengamat Zionis: Netanyahu Semakin Terlihat Berbohong",
-        "category": "Khazanah",
-        "publish_time": "28-01-2025 08:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sqsgi2451/lautan-massa-gaza-utara-pengamat-zionis-netanyahu-semakin-terlihat-berbohong"
-    },
-    {
-        "title": "Pasukan Salib Serbu Gereja",
-        "category": "Khazanah",
-        "publish_time": "28-01-2025 08:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sqp14m458/pasukan-salib-serbu-gereja"
-    },
-    {
-        "title": "Sahabat Nabi Membunuh Jin Jahat",
-        "category": "Khazanah",
-        "publish_time": "28-01-2025 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sqp10i458/sahabat-nabi-membunuh-jin-jahat"
-    },
-    {
-        "title": "Soal Wacana Pertemuan Megawati dengan Prabowo, Djarot: Pasti Ketemu, Sabar",
-        "category": "News",
-        "publish_time": "28-01-2025 07:13",
-        "news_link": "https://news.republika.co.id/berita/sqsfrg487/soal-wacana-pertemuan-megawati-dengan-prabowo-djarot-pasti-ketemu-sabar"
-    },
-    {
-        "title": "Erick Thohir Rapat dengan Patrick Kluiver Hingga Bertemu Nigel de Jong",
-        "category": "News",
-        "publish_time": "28-01-2025 07:13",
-        "news_link": "https://news.republika.co.id/berita/sqsfqy484/erick-thohir-rapat-dengan-patrick-kluiver-hingga-bertemu-nigel-de-jong"
-    },
-    {
-        "title": "Kesalehan Ayah, Asuransi Terbaik bagi Anak-anaknya",
-        "category": "Retizen",
-        "publish_time": "28-01-2025 07:13",
-        "news_link": "https://retizen.republika.co.id/posts/506842/kesalehan-ayah-asuransi-terbaik-bagi-anak-anaknya"
-    },
-    {
-        "title": "Sesap Harap dari Roman Bunga di Hari Lalu: 10 Kata-kata Inspiratif!",
-        "category": "Retizen",
-        "publish_time": "28-01-2025 07:13",
-        "news_link": "https://retizen.republika.co.id/posts/506859/sesap-harap-dari-roman-bunga-di-hari-lalu-10-kata-kata-inspiratif"
-    },
-    {
-        "title": "Tes Kehamilan: Solusi atau Masalah Baru?",
-        "category": "Retizen",
-        "publish_time": "28-01-2025 07:13",
-        "news_link": "https://retizen.republika.co.id/posts/506874/tes-kehamilan-solusi-atau-masalah-baru"
-    },
-    {
-        "title": "Tips Lulus 3,3 Tahun ala Mahasiswa Psikologi",
-        "category": "Retizen",
-        "publish_time": "28-01-2025 07:13",
-        "news_link": "https://retizen.republika.co.id/posts/506883/tips-lulus-33-tahun-ala-mahasiswa-psikologi"
-    },
-    {
-        "title": "Catatan Akhir Semester 2.0: Tampilkan Karya Terbaik",
-        "category": "Retizen",
-        "publish_time": "28-01-2025 07:13",
-        "news_link": "https://retizen.republika.co.id/posts/506890/catatan-akhir-semester-2-0-tampilkan-karya-terbaik"
-    },
-    {
-        "title": "Jurnalis The New York Times: Apakah Israel Berhak Jadi Negara Yahudi?",
-        "category": "Khazanah",
-        "publish_time": "28-01-2025 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sqsfm3451/jurnalis-the-new-york-times-apakah-israel-berhak-jadi-negara-yahudi"
-    },
-    {
-        "title": "Pengamat: Pengawalan Pejabat di Jalan Harus Tertib Sesuai Aturan",
-        "category": "News",
-        "publish_time": "28-01-2025 07:13",
-        "news_link": "https://news.republika.co.id/berita/sqsflr370/pengamat-pengawalan-pejabat-di-jalan-harus-tertib-sesuai-aturan"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok 29 Januari 2025 Daerah Bekasi dan Sekitarnya: Hujan Sepanjang Hari",
-        "category": "News",
-        "publish_time": "28-01-2025 07:13",
-        "news_link": "https://news.republika.co.id/berita/sqsfil346905754/prakiraan-cuaca-besok-29-januari-2025-daerah-bekasi-dan-sekitarnya-hujan-sepanjang-hari"
-    },
-    {
-        "title": "Sang Kekasih Allah",
-        "category": "Khazanah",
-        "publish_time": "28-01-2025 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sqp0wp458/sang-kekasih-allah"
-    },
-    {
-        "title": "Viral Banyak Mobil Pecah Ban Akibat Jalan Berlubang di Tol Cipali, Ini Respons Pengelola",
-        "category": "News",
-        "publish_time": "28-01-2025 07:13",
-        "news_link": "https://news.republika.co.id/berita/sqsf5b377/viral-banyak-mobil-pecah-ban-akibat-jalan-berlubang-di-tol-cipali-ini-respons-pengelola"
-    },
-    {
-        "title": "Agar Cinta tak Terjerumus Dosa",
-        "category": "Khazanah",
-        "publish_time": "28-01-2025 07:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sqp0tj458/agar-cinta-tak-terjerumus-dosa"
-    },
-    {
-        "title": "Pemulangan Paulus Tannos Masih Diurus, KPK: Belum Ada Info Kapan Selesainya",
-        "category": "News",
-        "publish_time": "28-01-2025 07:13",
-        "news_link": "https://news.republika.co.id/berita/sqseqs487/pemulangan-paulus-tannos-masih-diurus-kpk-belum-ada-info-kapan-selesainya"
-    },
-    {
-        "title": "Senyum Warga Palestina saat Pulang Kembali ke Rumah Mereka di Gaza Utara",
-        "category": "Visual",
-        "publish_time": "28-01-2025 07:13",
-        "news_link": "https://visual.republika.co.id/berita/sqsena375/senyum-warga-palestina-saat-pulang-kembali-ke-rumah-mereka-di-gaza-utara"
     }
 ]
