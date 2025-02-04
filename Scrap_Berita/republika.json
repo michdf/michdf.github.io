@@ -1,50 +1,128 @@
 [
     {
+        "title": "Tetapkan HPP Gabah, Pemerintah Bakal Awasi Pengusaha",
+        "category": "Video",
+        "publish_time": "04-02-2025 04:10",
+        "news_link": "https://tv.republika.co.id/berita/sr51mj313/tetapkan-hpp-gabah-pemerintah-bakal-awasi-pengusaha"
+    },
+    {
+        "title": "Bolehkah Mengganti Uang Kembalian dengan Permen?",
+        "category": "Ameera",
+        "publish_time": "04-02-2025 04:07",
+        "news_link": "https://ameera.republika.co.id/berita/sr54sb425/bolehkah-mengganti-uang-kembalian-dengan-permen"
+    },
+    {
+        "title": "Setelah Diamuk Warga, Akhirnya Pengecer Boleh Jualan LPG 3 Kg Lagi",
+        "category": "Ekonomi",
+        "publish_time": "04-02-2025 04:07",
+        "news_link": "https://ekonomi.republika.co.id/berita/sr54sa502/setelah-diamuk-warga-akhirnya-pengecer-boleh-jualan-lpg-3-kg-lagi"
+    },
+    {
+        "title": "OPEC+ Pertahankan Rencana Genjot Produksi Minyak",
+        "category": "Ekonomi",
+        "publish_time": "04-02-2025 04:02",
+        "news_link": "https://ekonomi.republika.co.id/berita/sr54ja416/opec-pertahankan-rencana-genjot-produksi-minyak"
+    },
+    {
+        "title": "Perintah Presiden Prabowo untuk Menhut: Cabut Izin Kelola Hutan 18 Perusahaan",
+        "category": "News",
+        "publish_time": "04-02-2025 04:01",
+        "news_link": "https://news.republika.co.id/berita/sr54i9487/perintah-presiden-prabowo-untuk-menhut-cabut-izin-kelola-hutan-18-perusahaan"
+    },
+    {
+        "title": "Chelsea Bangkit Taklukkan West Ham, Maresca: Kemenangan Luar Biasa",
+        "category": "News",
+        "publish_time": "04-02-2025 04:00",
+        "news_link": "https://news.republika.co.id/berita/sr54g2348/chelsea-bangkit-taklukkan-west-ham-maresca-kemenangan-luar-biasa"
+    },
+    {
+        "title": "Prabowo Perintahkan Bahlil, Pengecer Boleh Jualan Lagi Gas LPG 3 Kg",
+        "category": "News",
+        "publish_time": "04-02-2025 03:59",
+        "news_link": "https://news.republika.co.id/berita/sr54e0377/prabowo-perintahkan-bahlil-pengecer-boleh-jualan-lagi-gas-lpg-3-kg"
+    },
+    {
+        "title": "Kapolda Metro Perintahkan Anak Buah, Tindaklanjuti Aduan Masyarakat di Medsos",
+        "category": "News",
+        "publish_time": "04-02-2025 03:46",
+        "news_link": "https://news.republika.co.id/berita/sr53st377/kapolda-metro-perintahkan-anak-buah-tindaklanjuti-aduan-masyarakat-di-medsos"
+    },
+    {
+        "title": "Ilmuwan Ungkap Retakan Lapisan Es Greenland Semakin Cepat, Ini Dampaknya bagi Bumi",
+        "category": "Esgnow",
+        "publish_time": "04-02-2025 03:39",
+        "news_link": "https://esgnow.republika.co.id/berita/sr53hl416/ilmuwan-ungkap-retakan-lapisan-es-greenland-semakin-cepat-ini-dampaknya-bagi-bumi"
+    },
+    {
+        "title": "Iwan Fals Datangi Polres Jaksel Terkait Kasus Organisasi OI",
+        "category": "News",
+        "publish_time": "04-02-2025 03:34",
+        "news_link": "https://news.republika.co.id/berita/sr5390487/iwan-fals-datangi-polres-jaksel-terkait-kasus-organisasi-oi"
+    },
+    {
+        "title": "Sulit Dikendalikan, Bandung Barat Minta Kuota Tambahan Buang Sampah ke TPA Sarimukti",
+        "category": "Rejabar",
+        "publish_time": "04-02-2025 03:34",
+        "news_link": "https://rejabar.republika.co.id/berita/sr5388512/sulit-dikendalikan-bandung-barat-minta-kuota-tambahan-buang-sampah-ke-tpa-sarimukti"
+    },
+    {
+        "title": "Hari Lahan Basah Sedunia 2025: Bukan Sekadar Rawa",
+        "category": "Kolom",
+        "publish_time": "04-02-2025 03:20",
+        "news_link": "https://analisis.republika.co.id/berita/sr523x393/hari-lahan-basah-sedunia-2025-bukan-sekadar-rawa"
+    },
+    {
+        "title": "Setelah Dikeluhkan Warga, Jalan Rusak di Tugu Botol Kecap Majalengka Akhirnya Diperbaiki",
+        "category": "Rejabar",
+        "publish_time": "04-02-2025 03:16",
+        "news_link": "https://rejabar.republika.co.id/berita/sr52f8512/setelah-dikeluhkan-warga-jalan-rusak-di-tugu-botol-kecap-majalengka-akhirnya-diperbaiki"
+    },
+    {
         "title": "Ombudsman RI Ingatkan Menteri Nusron Soal Aturan Plasma 30 Persen",
         "category": "News",
-        "publish_time": "04-02-2025 03:14",
+        "publish_time": "04-02-2025 03:15",
         "news_link": "https://news.republika.co.id/berita/sr52bc484/ombudsman-ri-ingatkan-menteri-nusron-soal-aturan-plasma-30-persen"
     },
     {
         "title": "Takut Ditangkap, Netanyahu Terbang ke AS Hindari Wilayah Udara Negara Eropa",
         "category": "Khazanah",
-        "publish_time": "04-02-2025 03:09",
+        "publish_time": "04-02-2025 03:15",
         "news_link": "https://khazanah.republika.co.id/berita/sr5248366/takut-ditangkap-netanyahu-terbang-ke-as-hindari-wilayah-udara-negara-eropa"
     },
     {
         "title": "Menembus Pagar Tinggi Makanan Bergizi Gratis dengan Koperasi Multi Pihak",
         "category": "Kolom",
-        "publish_time": "04-02-2025 03:04",
+        "publish_time": "04-02-2025 03:15",
         "news_link": "https://analisis.republika.co.id/berita/sr51vb393/menembus-pagar-tinggi-makanan-bergizi-gratis-dengan-koperasi-multi-pihak"
     },
     {
         "title": "Kontroversi \u2018A Business Proposal\u2019, Falcon dan Abidzar Minta Maaf",
         "category": "Ameera",
-        "publish_time": "04-02-2025 03:01",
+        "publish_time": "04-02-2025 03:15",
         "news_link": "https://ameera.republika.co.id/berita/sr51pf425/kontroversi-a-business-proposal-falcon-dan-abidzar-minta-maaf"
     },
     {
         "title": "Salah Satu Penyebab Doa tak Dikabulkan",
         "category": "Iqra",
-        "publish_time": "04-02-2025 02:59",
+        "publish_time": "04-02-2025 03:15",
         "news_link": "https://iqra.republika.co.id/berita/sr4w87430/salah-satu-penyebab-doa-tak-dikabulkan"
     },
     {
         "title": "Anggaran PU Dipangkas, AHY Sebut Pembangunan Infrastruktur Pakai Kerja Sama Internasional",
         "category": "News",
-        "publish_time": "04-02-2025 02:43",
+        "publish_time": "04-02-2025 02:15",
         "news_link": "https://news.republika.co.id/berita/sr50we487/anggaran-pu-dipangkas-ahy-sebut-pembangunan-infrastruktur-pakai-kerja-sama-internasional"
     },
     {
         "title": "Taiwan Larang Instansi Pemerintah Pakai DeepSeek",
         "category": "Ameera",
-        "publish_time": "04-02-2025 02:42",
+        "publish_time": "04-02-2025 02:15",
         "news_link": "https://ameera.republika.co.id/berita/sr50v6425/taiwan-larang-instansi-pemerintah-pakai-deepseek"
     },
     {
         "title": "Meski Tetap Nomor Satu, Keuntungan Toyota Terancam Turun",
         "category": "Ekonomi",
-        "publish_time": "04-02-2025 02:36",
+        "publish_time": "04-02-2025 02:15",
         "news_link": "https://ekonomi.republika.co.id/berita/sr50kn468/meski-tetap-nomor-satu-keuntungan-toyota-terancam-turun"
     },
     {
@@ -220,83 +298,5 @@
         "category": "Network",
         "publish_time": "04-02-2025 01:15",
         "news_link": "https://impresiupdate.id/posts/507732/mau-sehat-gunakan-garam-yang-rendah-natrium-kaya-kalium"
-    },
-    {
-        "title": "Temuan Studi Epigenetik: Sel Sperma Membawa Jejak Stres Masa Kecil",
-        "category": "Network",
-        "publish_time": "04-02-2025 01:15",
-        "news_link": "https://impresiupdate.id/posts/507734/temuan-studi-epigenetik-sel-sperma-membawa-jejak-stres-masa-kecil"
-    },
-    {
-        "title": "Honda N-BOX Jadi Kei Car Terlaris di Jepang Sepanjang 2024, Cetak Rekor Penjualan 206 Ribu Unit",
-        "category": "Network",
-        "publish_time": "04-02-2025 01:15",
-        "news_link": "https://motoresto.id/posts/507724/honda-n-box-jadi-kei-car-terlaris-di-jepang-sepanjang-2024-cetak-rekor-penjualan-206-ribu-unit"
-    },
-    {
-        "title": "Kapolri Sebut Ada Prolegnas Mengancam Kewenangan Polri, Ini Prediksi Kompolnas",
-        "category": "News",
-        "publish_time": "04-02-2025 01:15",
-        "news_link": "https://news.republika.co.id/berita/sr4w7z487/kapolri-sebut-ada-prolegnas-mengancam-kewenangan-polri-ini-prediksi-kompolnas"
-    },
-    {
-        "title": "Transistor Baru Berbasis Berlian Hasilkan Perangkat Elektronik yang Kuat dan Efisien",
-        "category": "Network",
-        "publish_time": "04-02-2025 01:15",
-        "news_link": "https://impresiupdate.id/posts/507745/transistor-baru-berbasis-berlian-hasilkan-perangkat-elektronik-yang-kuat-dan-efisien"
-    },
-    {
-        "title": "Said Aqil Husin Al-Munawwar Santri Harus Menghafalkan Banyak Kitab",
-        "category": "Network",
-        "publish_time": "04-02-2025 01:15",
-        "news_link": "https://sajada.id/posts/507747/said-aqil-husin-al-munawwar-santri-harus-menghafalkan-banyak-kitab"
-    },
-    {
-        "title": "Bacaan Doa agar Terhindar dari Istidraj",
-        "category": "Iqra",
-        "publish_time": "04-02-2025 01:15",
-        "news_link": "https://iqra.republika.co.id/berita/sr4vsf430/bacaan-doa-agar-terhindar-dari-istidraj"
-    },
-    {
-        "title": "Cerita Kepala Intel Melawan Saat Ditodong KKB Papua, Matikan Listrik Tembakan Revolver",
-        "category": "News",
-        "publish_time": "04-02-2025 01:15",
-        "news_link": "https://news.republika.co.id/berita/sr4vy2377/cerita-kepala-intel-melawan-saat-ditodong-kkb-papua-matikan-listrik-tembakan-revolver"
-    },
-    {
-        "title": "Dokumen Hamas ini Buktikan Operasi Badai Aqsa Hancurkan Reputasi Intelijen Israel",
-        "category": "Khazanah",
-        "publish_time": "04-02-2025 01:15",
-        "news_link": "https://khazanah.republika.co.id/berita/sr4vv6451/dokumen-hamas-ini-buktikan-operasi-badai-aqsa-hancurkan-reputasi-intelijen-israel"
-    },
-    {
-        "title": "Ulama Salaf Sangat Mendengarkan Nasihat Guru",
-        "category": "Khazanah",
-        "publish_time": "04-02-2025 01:15",
-        "news_link": "https://khazanah.republika.co.id/berita/sr4vmc430/ulama-salaf-sangat-mendengarkan-nasihat-guru"
-    },
-    {
-        "title": "Malaysia Tangkap Satu WNI dalam Kasus Penembakan APMM, RI Minta Penjelasan",
-        "category": "News",
-        "publish_time": "04-02-2025 01:15",
-        "news_link": "https://news.republika.co.id/berita/sr4vki487/malaysia-tangkap-satu-wni-dalam-kasus-penembakan-apmm-ri-minta-penjelasan"
-    },
-    {
-        "title": "Pendaftaran SNBP 2025 Dimulai Hari Ini, Cek Jadwal, Persyaratan, Pilihan Prodi, dan Tahapan Seleksi",
-        "category": "Network",
-        "publish_time": "04-02-2025 00:15",
-        "news_link": "https://kampus.republika.co.id/posts/507746/pendaftaran-snbp-2025-dimulai-hari-ini-cek-jadwal-persyaratan-pilihan-prodi-dan-tahapan-seleksi"
-    },
-    {
-        "title": "Setuju USAID Ditutup, Trump Bekukan Semua Bantuan Asing",
-        "category": "Video",
-        "publish_time": "04-02-2025 00:15",
-        "news_link": "https://tv.republika.co.id/berita/sr4v6z313/setuju-usaid-ditutup-trump-bekukan-semua-bantuan-asing"
-    },
-    {
-        "title": "Agen Gas Bertanya-tanya, Mengapa Beli Elpiji Pakai Salinan KTP?",
-        "category": "News",
-        "publish_time": "04-02-2025 00:15",
-        "news_link": "https://news.republika.co.id/berita/sr4v4l377/agen-gas-bertanyatanya-mengapa-beli-elpiji-pakai-salinan-ktp"
     }
 ]
