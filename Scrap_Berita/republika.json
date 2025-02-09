@@ -1,5 +1,89 @@
 [
     {
+        "title": "Festival Cap Go Meh, Keberagaman Budaya yang Berpotensi Datangkan Wisatawan",
+        "category": "Video",
+        "publish_time": "09 February 2025, 18:09",
+        "news_link": "https://tv.republika.co.id/berita/srexnb418/festival-cap-go-meh-keberagaman-budaya-yang-berpotensi-datangkan-wisatawan"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok 10 Februari 2025 di Kota Banda Aceh dan Sekitarnya, Cuaca Berawan",
+        "category": "News",
+        "publish_time": "09 February 2025, 18:08",
+        "news_link": "https://news.republika.co.id/berita/srexlx1954874507/prakiraan-cuaca-besok-10-februari-2025-di-kota-banda-aceh-dan-sekitarnya-cuaca-berawan"
+    },
+    {
+        "title": "Bekuk PSS Sleman 2-1, Bali United Naik ke Peringkat Lima BRI Liga 1",
+        "category": "News",
+        "publish_time": "09 February 2025, 17:55",
+        "news_link": "https://news.republika.co.id/berita/srex1a348/bekuk-pss-sleman-21-bali-united-naik-ke-peringkat-lima-bri-liga-1"
+    },
+    {
+        "title": "Cek Kesehatannya Gratis, Tindakan dan Pengobatannya Bayar",
+        "category": "News",
+        "publish_time": "09 February 2025, 17:50",
+        "news_link": "https://news.republika.co.id/berita/sressk370/cek-kesehatannya-gratis-tindakan-dan-pengobatannya-bayar"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok 10 Februari 2025: Hujan di Kota Mataram dan Sekitarnya",
+        "category": "News",
+        "publish_time": "09 February 2025, 17:49",
+        "news_link": "https://news.republika.co.id/berita/srewqb1465716055/prakiraan-cuaca-besok-10-februari-2025-hujan-di-kota-mataram-dan-sekitarnya"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok, 10 Februari 2025: Hujan Ringan di Kota Balikpapan dan Sekitarnya",
+        "category": "News",
+        "publish_time": "09 February 2025, 17:35",
+        "news_link": "https://news.republika.co.id/berita/srew2p247405654/prakiraan-cuaca-besok-10-februari-2025-hujan-ringan-di-kota-balikpapan-dan-sekitarnya"
+    },
+    {
+        "title": "Resep agar Rezeki Lancar dan Berkah",
+        "category": "Khazanah",
+        "publish_time": "09 February 2025, 17:27",
+        "news_link": "https://khazanah.republika.co.id/berita/srevp9458/resep-agar-rezeki-lancar-dan-berkah"
+    },
+    {
+        "title": "Sandy Walsh Gabung Yokohama Marinos, Jadi Pemain Keenam Indonesia Merumput di Jepang",
+        "category": "News",
+        "publish_time": "09 February 2025, 17:26",
+        "news_link": "https://news.republika.co.id/berita/srevoh348/sandy-walsh-gabung-yokohama-marinos-jadi-pemain-keenam-indonesia-merumput-di-jepang"
+    },
+    {
+        "title": "Tren Make-Up Lebaran 2025 Ala Paragon: Sesuai Personal Color",
+        "category": "Ameera",
+        "publish_time": "09 February 2025, 17:23",
+        "news_link": "https://ameera.republika.co.id/berita/sreviw425/tren-makeup-lebaran-2025-ala-paragon-sesuai-personal-color"
+    },
+    {
+        "title": "Jadi Tersangka Korupsi Jiwasraya, Ini Rincian Kekayaan Dirjen Anggaran Isa Rachmatarwata",
+        "category": "Ekonomi",
+        "publish_time": "09 February 2025, 17:20",
+        "news_link": "https://ekonomi.republika.co.id/berita/sresm9370/jadi-tersangka-korupsi-jiwasraya-ini-rincian-kekayaan-dirjen-anggaran-isa-rachmatarwata"
+    },
+    {
+        "title": "Mengukur Kesiapan Industri Lokal di Era BRICS dan Periode Kedua Trump",
+        "category": "Ekonomi",
+        "publish_time": "09 February 2025, 17:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/srevc8522/mengukur-kesiapan-industri-lokal-di-era-brics-dan-periode-kedua-trump"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok: Kota Palembang Berawan pada 10 Februari 2025",
+        "category": "News",
+        "publish_time": "09 February 2025, 17:19",
+        "news_link": "https://news.republika.co.id/berita/srevc264017673/prakiraan-cuaca-besok-kota-palembang-berawan-pada-10-februari-2025"
+    },
+    {
+        "title": "Lembaran Baru Hak Cipta",
+        "category": "Kolom",
+        "publish_time": "09 February 2025, 17:17",
+        "news_link": "https://www.republika.id/posts/56681/lembaran-baru-hak-cipta"
+    },
+    {
+        "title": "Kegagalan Komunikasi Organisasi Kabinet Prabowo Gibran",
+        "category": "Kolom",
+        "publish_time": "09 February 2025, 17:13",
+        "news_link": "https://analisis.republika.co.id/berita/srev2k393/kegagalan-komunikasi-organisasi-kabinet-prabowo-gibran"
+    },
+    {
         "title": "Margo Redjo: Jejak 110 Tahun Kopi Nusantara yang tak Lekang oleh Zaman",
         "category": "Ameera",
         "publish_time": "09 February 2025, 17:05",
@@ -7,9 +91,9 @@
     },
     {
         "title": "BPKH Ungkap Investor Mulai Lirik Bank Muamalat",
-        "category": "Ekonomi",
+        "category": "Ekonomi Syariah",
         "publish_time": "09 February 2025, 16:59",
-        "news_link": "https://ekonomi.republika.co.id/berita/sreueg458/bpkh-ungkap-investor-mulai-lirik-bank-muamalat"
+        "news_link": "https://sharia.republika.co.id/berita/sreueg458/bpkh-ungkap-investor-mulai-lirik-bank-muamalat"
     },
     {
         "title": "Saham BRIS Naik 10,62 Persen Sejak Awal 2025",
@@ -214,89 +298,5 @@
         "category": "Ameera",
         "publish_time": "09 February 2025, 13:59",
         "news_link": "https://ameera.republika.co.id/berita/srem2j425/putusan-bebas-bos-samsung-jaksa-korea-selatan-dikabarkan-bakal-ajukan-banding"
-    },
-    {
-        "title": "Polisi Bakal Gelar Razia Menghadapi Libur Lebaran 2025 di Bandung",
-        "category": "Rejabar",
-        "publish_time": "09 February 2025, 13:56",
-        "news_link": "https://rejabar.republika.co.id/berita/srelyu512/polisi-bakal-gelar-razia-menghadapi-libur-lebaran-2025-di-bandung"
-    },
-    {
-        "title": "Sepi Terdampak Tol Cipularang, Restoran di KBB Ini jadi Langganan Dedi Mulyadi dan Prabowo",
-        "category": "Rejabar",
-        "publish_time": "09 February 2025, 13:52",
-        "news_link": "https://rejabar.republika.co.id/berita/srelrp512/sepi-terdampak-tol-cipularang-restoran-di-kbb-ini-jadi-langganan-dedi-mulyadi-dan-prabowo"
-    },
-    {
-        "title": "Hipertensi tak Terkendali Bisa Picu Aneurisma Berujung Stroke",
-        "category": "Ameera",
-        "publish_time": "09 February 2025, 13:50",
-        "news_link": "https://ameera.republika.co.id/berita/srelo1425/hipertensi-tak-terkendali-bisa-picu-aneurisma-berujung-stroke"
-    },
-    {
-        "title": "Era Jokowi Meninggalkan Warisan Utang dan Persoalan Hukum",
-        "category": "Retizen",
-        "publish_time": "09 February 2025, 13:45",
-        "news_link": "https://retizen.republika.co.id/posts/508387/era-jokowi-meninggalkan-warisan-utang-dan-persoalan-hukum"
-    },
-    {
-        "title": "Akademi Tun Razak Dorong Transformasi Perguruan Tinggi dalam Rakor BKSPTIS",
-        "category": "Retizen",
-        "publish_time": "09 February 2025, 13:45",
-        "news_link": "https://retizen.republika.co.id/posts/508457/akademi-tun-razak-dorong-transformasi-perguruan-tinggi-dalam-rakor-bksptis"
-    },
-    {
-        "title": "PPDB Berubah Lagi, Benarkan Solusi Pendidikan Hari ini",
-        "category": "Retizen",
-        "publish_time": "09 February 2025, 13:45",
-        "news_link": "https://retizen.republika.co.id/posts/508452/ppdb-berubah-lagi-benarkan-solusi-pendidikan-hari-ini"
-    },
-    {
-        "title": "Membaca Surat Al Kaafiruun adalah Sebagai Sebab Pembebas dari Perbuatan Syirik",
-        "category": "Retizen",
-        "publish_time": "09 February 2025, 13:45",
-        "news_link": "https://retizen.republika.co.id/posts/508458/membaca-surat-al-kaafiruun-adalah-sebagai-sebab-pembebas-dari-perbuatan-syirik"
-    },
-    {
-        "title": "Prabowo Instruksikan Efisiensi APBD, Pemkot Cimahi: Kita Sudah Tagging!",
-        "category": "Rejabar",
-        "publish_time": "09 February 2025, 13:43",
-        "news_link": "https://rejabar.republika.co.id/berita/srelcd512/prabowo-instruksikan-efisiensi-apbd-pemkot-cimahi-kita-sudah-tagging"
-    },
-    {
-        "title": "Kementerian ATR/BPN Kebakaran, Nusron Wahid: Tak Ada Dokumen HGB yang Terbakar",
-        "category": "News",
-        "publish_time": "09 February 2025, 13:41",
-        "news_link": "https://news.republika.co.id/berita/srel99377/kementerian-atrbpn-kebakaran-nusron-wahid-tak-ada-dokumen-hgb-yang-terbakar"
-    },
-    {
-        "title": "10 Prodi Sepi Peminat USU di SNBP 2024, Pilihan untuk SNBP 2025",
-        "category": "Network",
-        "publish_time": "09 February 2025, 13:35",
-        "news_link": "https://kampusiana.id/posts/508497/10-prodi-sepi-peminat-usu-di-snbp-2024-pilihan-untuk-snbp-2025"
-    },
-    {
-        "title": "Apindo Jabar Nilai Kebijakan Pj Gubernur Bey Soal Pengupahan Beri Kepastian ke Dunia Usaha",
-        "category": "Rejabar",
-        "publish_time": "09 February 2025, 13:35",
-        "news_link": "https://rejabar.republika.co.id/berita/srekz1512/apindo-jabar-nilai-kebijakan-pj-gubernur-bey-soal-pengupahan-beri-kepastian-ke-dunia-usaha"
-    },
-    {
-        "title": "Luncurkan Aplikasi Baru, Ini Keunggulan Bale by BTN",
-        "category": "Ekonomi",
-        "publish_time": "09 February 2025, 13:25",
-        "news_link": "https://ekonomi.republika.co.id/berita/sreinc370/luncurkan-aplikasi-baru-ini-keunggulan-bale-by-btn"
-    },
-    {
-        "title": "TV Rusia Termakan Laporan Palsu yang Klaim DeepSeek Berbasis Kode Soviet",
-        "category": "Ameera",
-        "publish_time": "09 February 2025, 13:24",
-        "news_link": "https://ameera.republika.co.id/berita/srekhd425/tv-rusia-termakan-laporan-palsu-yang-klaim-deepseek-berbasis-kode-soviet"
-    },
-    {
-        "title": "Siapkan Perlengkapan Taktis Terbaik untuk Tiap Misi dan Petualangan",
-        "category": "Network",
-        "publish_time": "09 February 2025, 13:17",
-        "news_link": "https://bandung24jam.id/posts/508475/siapkan-perlengkapan-taktis-terbaik-untuk-tiap-misi-dan-petualangan"
     }
 ]
