@@ -1,9 +1,63 @@
 [
     {
+        "title": "Imbas Pemangkasan Anggaran, Atlet Pelatnas Atletik di Pangalengan Dipulangkan",
+        "category": "News",
+        "publish_time": "16 February 2025, 00:11",
+        "news_link": "https://news.republika.co.id/berita/srqf6b366/imbas-pemangkasan-anggaran-atlet-pelatnas-atletik-di-pangalengan-dipulangkan"
+    },
+    {
+        "title": "Jadwal Sholat Hari Ini di Makassar, 16 Februari 2025: Berkah di Balik Waktu Sholat",
+        "category": "Iqra",
+        "publish_time": "16 February 2025, 00:01",
+        "news_link": "https://iqra.republika.co.id/berita/srqhxx795780424/jadwal-sholat-hari-ini-di-makassar-16-februari-2025-berkah-di-balik-waktu-sholat"
+    },
+    {
+        "title": "BPBD Yogyakarta Uji Coba 9 Peringatan Dini Banjir di 3 Sungai",
+        "category": "Rejogja",
+        "publish_time": "15 February 2025, 23:59",
+        "news_link": "https://rejogja.republika.co.id/berita/srqhue282/bpbd-yogyakarta-uji-coba-9-peringatan-dini-banjir-di-3-sungai"
+    },
+    {
+        "title": "Gol Bruno Moreira Bawa Persebaya Kalahkan PSBS Biak",
+        "category": "Visual",
+        "publish_time": "15 February 2025, 23:59",
+        "news_link": "https://visual.republika.co.id/berita/srqgfd375/gol-bruno-moreira-bawa-persebaya-kalahkan-psbs-biak"
+    },
+    {
+        "title": "Embarkasi Makassar akan Berangkatkan 15.683 Calon Jamaah Haji",
+        "category": "Khazanah",
+        "publish_time": "15 February 2025, 23:45",
+        "news_link": "https://khazanah.republika.co.id/berita/srpudb366/embarkasi-makassar-akan-berangkatkan-15683-calon-jamaah-haji"
+    },
+    {
+        "title": "Rajawali Nusindo Amankan Pasokan Gula dan Migor saat Ramadhan",
+        "category": "Ekonomi",
+        "publish_time": "15 February 2025, 23:37",
+        "news_link": "https://ekonomi.republika.co.id/berita/srqbft370/rajawali-nusindo-amankan-pasokan-gula-dan-migor-saat-ramadhan"
+    },
+    {
+        "title": "Ekonomi Malaysia Tumbuh 5,1 Persen di 2024",
+        "category": "Ekonomi",
+        "publish_time": "15 February 2025, 23:27",
+        "news_link": "https://ekonomi.republika.co.id/berita/srqaxe370/ekonomi-malaysia-tumbuh-51-persen-di-2024"
+    },
+    {
         "title": "OpenAI Tolak Tawaran Akuisisi Elon Musk 97,4 Miliar Dolar AS",
         "category": "Ekonomi",
         "publish_time": "15 February 2025, 23:10",
         "news_link": "https://ekonomi.republika.co.id/berita/srqarr370/openai-tolak-tawaran-akuisisi-elon-musk-974-miliar-dolar-as"
+    },
+    {
+        "title": "Bahaya Narkoba bagi Kesehatan Mental",
+        "category": "Network",
+        "publish_time": "15 February 2025, 23:09",
+        "news_link": "https://diagnosa.republika.co.id/posts/509103/bahaya-narkoba-bagi-kesehatan-mental"
+    },
+    {
+        "title": "Muslimat NU Sambut Mendikdasmen Abdul Mu'ti dengan Sholawat Badar, Dukung Program Wajib Belajar 13 Tahun",
+        "category": "Network",
+        "publish_time": "15 February 2025, 23:09",
+        "news_link": "https://cari.republika.co.id/posts/509402/muslimat-nu-sambut-mendikdasmen-abdul-muti-dengan-sholawat-badar-dukung-program-wajib-belajar-13-tahun"
     },
     {
         "title": "Kejuaraan Campuran Asia 2025: Indonesia Tembus Final",
@@ -244,59 +298,5 @@
         "category": "Ekonomi Syariah",
         "publish_time": "15 February 2025, 20:14",
         "news_link": "https://sharia.republika.co.id/berita/srq7g5370/btn-syariah-akan-jadi-bank-umum-syariah-pada-2025"
-    },
-    {
-        "title": "Disebut Kabinet Gemuk, Prabowo: Enggak Peduli Saya yang Penting Hasilnya!",
-        "category": "News",
-        "publish_time": "15 February 2025, 20:09",
-        "news_link": "https://news.republika.co.id/berita/srq787377/disebut-kabinet-gemuk-prabowo-enggak-peduli-saya-yang-penting-hasilnya"
-    },
-    {
-        "title": "Peredaran Rokok Polos Capai 95 Persen, Negara Rugi Triliunan",
-        "category": "Ekonomi",
-        "publish_time": "15 February 2025, 20:09",
-        "news_link": "https://ekonomi.republika.co.id/berita/srpxiy370/peredaran-rokok-polos-capai-95-persen-negara-rugi-triliunan"
-    },
-    {
-        "title": "Demokrat Sebut Laut Indonesia Kaya: Jangan Hanya Bahas Pagar Laut",
-        "category": "News",
-        "publish_time": "15 February 2025, 20:03",
-        "news_link": "https://news.republika.co.id/berita/srq6xj451/demokrat-sebut-laut-indonesia-kaya-jangan-hanya-bahas-pagar-laut"
-    },
-    {
-        "title": "Hujan Deras, Kawasan Permukiman di Rangkasbitung Terendam Banjir",
-        "category": "Visual",
-        "publish_time": "15 February 2025, 20:00",
-        "news_link": "https://visual.republika.co.id/berita/srq34w375/hujan-deras-kawasan-permukiman-di-rangkasbitung-terendam-banjir"
-    },
-    {
-        "title": "Jungkook BTS Tulis Surat Menyentuh untuk Penggemar, Apa Isinya?",
-        "category": "Ameera",
-        "publish_time": "15 February 2025, 19:58",
-        "news_link": "https://ameera.republika.co.id/berita/srq6q6425/jungkook-bts-tulis-surat-menyentuh-untuk-penggemar-apa-isinya"
-    },
-    {
-        "title": "Anggota TNI Diduga Tembak Mati Bos Rental, LPSK: Kami Lindungi Saksi dan Korban",
-        "category": "News",
-        "publish_time": "15 February 2025, 19:55",
-        "news_link": "https://news.republika.co.id/berita/srq6l8451/anggota-tni-diduga-tembak-mati-bos-rental-lpsk-kami-lindungi-saksi-dan-korban"
-    },
-    {
-        "title": "Pasca Praperadilan Kandas, KPK Panggil Hasto Pekan Depan",
-        "category": "News",
-        "publish_time": "15 February 2025, 19:49",
-        "news_link": "https://news.republika.co.id/berita/srq6a9451/pasca-praperadilan-kandas-kpk-panggil-hasto-pekan-depan"
-    },
-    {
-        "title": "Strategi NasDem Gaet Anak Muda All Out Bangun Politik",
-        "category": "News",
-        "publish_time": "15 February 2025, 19:45",
-        "news_link": "https://news.republika.co.id/berita/srq63z451/strategi-nasdem-gaet-anak-muda-all-out-bangun-politik"
-    },
-    {
-        "title": "Penghinaan, Israel Bebaskan Pejuang Palestina dengan Seragam Berlogo Bintang Daud",
-        "category": "News",
-        "publish_time": "15 February 2025, 19:42",
-        "news_link": "https://news.republika.co.id/berita/srq5y1377/penghinaan-israel-bebaskan-pejuang-palestina-dengan-seragam-berlogo-bintang-daud"
     }
 ]
