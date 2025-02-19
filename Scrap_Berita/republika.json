@@ -1,32 +1,56 @@
 [
     {
+        "title": "Mohamed Salah Selamatkan Liverpool dari Kekalahan di Kandang Aston Villa",
+        "category": "News",
+        "publish_time": "19-02-2025 22:00",
+        "news_link": "https://news.republika.co.id/berita/sryafo348/mohamed-salah-selamatkan-liverpool-dari-kekalahan-di-kandang-aston-villa"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini: Kota Surabaya dan Sekitarnya - 20 Februari 2025",
+        "category": "News",
+        "publish_time": "19-02-2025 21:49",
+        "news_link": "https://news.republika.co.id/berita/sry9ya47001486/prakiraan-cuaca-hari-ini-kota-surabaya-dan-sekitarnya-20-februari-2025"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini 20 Februari 2025 Kota Yogyakarta: Hujan Ringan",
+        "category": "News",
+        "publish_time": "19-02-2025 21:31",
+        "news_link": "https://news.republika.co.id/berita/sry947659019028/prakiraan-cuaca-hari-ini-20-februari-2025-kota-yogyakarta-hujan-ringan"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini 20 Februari 2025 di Kota Semarang: Hujan Ringan",
+        "category": "News",
+        "publish_time": "19-02-2025 21:13",
+        "news_link": "https://news.republika.co.id/berita/sry8a61396472851/prakiraan-cuaca-hari-ini-20-februari-2025-di-kota-semarang-hujan-ringan"
+    },
+    {
         "title": "Prakiraan Cuaca Hari Ini: Berawan di Tangerang dan Sekitarnya - 20 Februari 2025",
         "category": "News",
-        "publish_time": "19-02-2025 21:00",
+        "publish_time": "19-02-2025 21:12",
         "news_link": "https://news.republika.co.id/berita/sry7oj1640134740/prakiraan-cuaca-hari-ini-berawan-di-tangerang-dan-sekitarnya-20-februari-2025"
     },
     {
         "title": "Anies Komentari Tagar Kabur Aja Dulu: Nasionalisme Bukan Ditentukan Tempat Tinggal",
         "category": "Rejogja",
-        "publish_time": "19-02-2025 20:55",
+        "publish_time": "19-02-2025 21:12",
         "news_link": "https://rejogja.republika.co.id/berita/srxp5g282/anies-komentari-tagar-kabur-aja-dulu-nasionalisme-bukan-ditentukan-tempat-tinggal"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 20 Februari 2025 untuk Bekasi dan Sekitarnya: Hujan Ringan di Karawang",
         "category": "News",
-        "publish_time": "19-02-2025 20:30",
+        "publish_time": "19-02-2025 20:12",
         "news_link": "https://news.republika.co.id/berita/sry6ap1282837735/prakiraan-cuaca-hari-ini-20-februari-2025-untuk-bekasi-dan-sekitarnya-hujan-ringan-di-karawang"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini Tanggal 20 Februari 2025: Kota Padang dan Sekitarnya - Cuaca Berawan",
         "category": "News",
-        "publish_time": "19-02-2025 20:29",
+        "publish_time": "19-02-2025 20:12",
         "news_link": "https://news.republika.co.id/berita/sry6911596581465/prakiraan-cuaca-hari-ini-tanggal-20-februari-2025-kota-padang-dan-sekitarnya-cuaca-berawan"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini di Bandung dan Sekitarnya: Hujan di Kota Cimahi 20 Februari 2025",
         "category": "News",
-        "publish_time": "19-02-2025 20:17",
+        "publish_time": "19-02-2025 20:12",
         "news_link": "https://news.republika.co.id/berita/sry5p51974269589/prakiraan-cuaca-hari-ini-di-bandung-dan-sekitarnya-hujan-di-kota-cimahi-20-februari-2025"
     },
     {
@@ -274,29 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "19-02-2025 14:12",
         "news_link": "https://ekonomi.republika.co.id/berita/srxpka423/3-kementerian-kompak-teken-mou-lindungi-pahlawan-devisa"
-    },
-    {
-        "title": "Media Komunikasi PTPN IV Regional I Role Model Bagi Transformasi BUMN",
-        "category": "Ekonomi",
-        "publish_time": "19-02-2025 14:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/srxpht472/media-komunikasi-ptpn-iv-regional-i-role-model-bagi-transformasi-bumn"
-    },
-    {
-        "title": "Presdir Freeport: Teknologi Smart Mining Tingkatkan Keamanan dan Tekan Biaya Operasional",
-        "category": "Ekonomi",
-        "publish_time": "19-02-2025 14:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/srxoim456/presdir-freeport-teknologi-smart-mining-tingkatkan-keamanan-dan-tekan-biaya-operasional"
-    },
-    {
-        "title": "Reshuffle Kabinet, Presiden Prabowo Lantik Brian Yuliarto Jadi Mendiktisaintek",
-        "category": "Visual",
-        "publish_time": "19-02-2025 14:12",
-        "news_link": "https://visual.republika.co.id/berita/srxonh375/reshuffle-kabinet-presiden-prabowo-lantik-brian-yuliarto-jadi-mendiktisaintek"
-    },
-    {
-        "title": "Rasulullah Pernah Melarang Penulisan Hadis, Mengapa?",
-        "category": "Khazanah",
-        "publish_time": "19-02-2025 14:12",
-        "news_link": "https://khazanah.republika.co.id/berita/srxodo458/rasulullah-pernah-melarang-penulisan-hadis-mengapa"
     }
 ]
