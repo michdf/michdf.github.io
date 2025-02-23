@@ -1,5 +1,83 @@
 [
     {
+        "title": "The All-New Mercedes Benz G 500 Professional Line Diluncurkan di BCA Expoversary 2025",
+        "category": "Ekonomi",
+        "publish_time": "23 February 2025, 13:07",
+        "news_link": "https://ekonomi.republika.co.id/berita/ss4h0l483/the-allnew-mercedes-benz-g-500-professional-line-diluncurkan-di-bca-expoversary-2025"
+    },
+    {
+        "title": "UMKM Binaan Pertamina Ekspor Perdana Madu dan Teh ke Filipina",
+        "category": "Ekonomi",
+        "publish_time": "23 February 2025, 13:02",
+        "news_link": "https://ekonomi.republika.co.id/berita/ss4gs2472/umkm-binaan-pertamina-ekspor-perdana-madu-dan-teh-ke-filipina"
+    },
+    {
+        "title": "Rektor Univ Muhammadiyah Gorontalo: Alquran Inspirasi Lestarikan Lingkungan",
+        "category": "News",
+        "publish_time": "23 February 2025, 13:01",
+        "news_link": "https://news.republika.co.id/berita/ss4dn1451/rektor-univ-muhammadiyah-gorontalo-alquran-inspirasi-lestarikan-lingkungan"
+    },
+    {
+        "title": "TPST Santiong Olah 50 Ton Sampah Menjadi Bahan Bakar Alternatif RDF",
+        "category": "Visual",
+        "publish_time": "23 February 2025, 13:00",
+        "news_link": "https://visual.republika.co.id/berita/ss3ecy375/tpst-santiong-olah-50-ton-sampah-menjadi-bahan-bakar-alternatif-rdf"
+    },
+    {
+        "title": "LIB Dukung Larangan Suporter Tim Tamu Dilanjutkan Musim Depan",
+        "category": "News",
+        "publish_time": "23 February 2025, 12:55",
+        "news_link": "https://news.republika.co.id/berita/ss4ggv416/lib-dukung-larangan-suporter-tim-tamu-dilanjutkan-musim-depan"
+    },
+    {
+        "title": "Dokter Spesialis Penyakit Dalam UGM Beri Penanganan Dini Terhadap Kanker, Kurangi Pasien Gejala Stadium Lanjut dan Akhir",
+        "category": "Network",
+        "publish_time": "23 February 2025, 12:31",
+        "news_link": "https://inforemaja.id/posts/509197/dokter-spesialis-penyakit-dalam-ugm-beri-penanganan-dini-terhadap-kanker-kurangi-pasien-gejala-stadium-lanjut-dan-akhir"
+    },
+    {
+        "title": "40 Peserta Ikuti Lintas Iman Harmony Camp, Belajar Bersama Rawat Lingkungan",
+        "category": "Khazanah",
+        "publish_time": "23 February 2025, 12:31",
+        "news_link": "https://khazanah.republika.co.id/berita/ss4d8a451/40-peserta-ikuti-lintas-iman-harmony-camp-belajar-bersama-rawat-lingkungan"
+    },
+    {
+        "title": "Momen Sandera Israel Cium Kening Pejuang Hamas",
+        "category": "Video",
+        "publish_time": "23 February 2025, 12:28",
+        "news_link": "https://tv.republika.co.id/berita/ss4civ313/momen-sandera-israel-cium-kening-pejuang-hamas"
+    },
+    {
+        "title": "Tentara Israel yang Dilepaskan Hamas: Netanyahu, Anda Telah Membunuh Kami Semua",
+        "category": "Khazanah",
+        "publish_time": "23 February 2025, 12:20",
+        "news_link": "https://khazanah.republika.co.id/berita/ss4etw320/tentara-israel-yang-dilepaskan-hamas-netanyahu-anda-telah-membunuh-kami-semua"
+    },
+    {
+        "title": "Militer Israel Siapkan Tank Serbu Tepi Barat",
+        "category": "News",
+        "publish_time": "23 February 2025, 12:19",
+        "news_link": "https://news.republika.co.id/berita/ss4es8393/militer-israel-siapkan-tank-serbu-tepi-barat"
+    },
+    {
+        "title": "Erick Thohir Announces Emil Audero Will Join the National Team, Undergo Naturalization Next Week",
+        "category": "En",
+        "publish_time": "Sunday, 23 February 2025, 12:18",
+        "news_link": "https://en.republika.co.id/berita/ss4eqd415/erick-thohir-announces-emil-audero-will-join-the-national-team-undergo-naturalization-next-week"
+    },
+    {
+        "title": "Lahan Eks BLBI di Karawaci Dikaji untuk Perumahan MBR",
+        "category": "Ekonomi",
+        "publish_time": "23 February 2025, 12:15",
+        "news_link": "https://ekonomi.republika.co.id/berita/ss4elh416/lahan-eks-blbi-di-karawaci-dikaji-untuk-perumahan-mbr"
+    },
+    {
+        "title": "Lebanon Siapkan Pemakaman Bersejarah untuk Pemimpin Hizbullah",
+        "category": "News",
+        "publish_time": "23 February 2025, 12:13",
+        "news_link": "https://news.republika.co.id/berita/ss4ehu328/lebanon-siapkan-pemakaman-bersejarah-untuk-pemimpin-hizbullah"
+    },
+    {
         "title": "Netanyahu Main Curang, Gencatan Senjata Terancam",
         "category": "News",
         "publish_time": "23 February 2025, 12:08",
@@ -150,10 +228,10 @@
         "news_link": "https://rejogja.republika.co.id/berita/ss48lu291/makanan-tujuh-negara-asia-jadi-menu-unggulan-ramadhan-di-grand-kangen-hotel-yogyakarta"
     },
     {
-        "title": "Tiga Himbara Pastikan Dana Nasabah Aman, Imbau Masyarakat tidak Terpancing",
+        "title": "Tiga Bank Himbara Pastikan Dana Nasabah Aman, Imbau Masyarakat tidak Terpancing",
         "category": "Ekonomi",
         "publish_time": "23 February 2025, 10:03",
-        "news_link": "https://ekonomi.republika.co.id/berita/ss48hp328/tiga-himbara-pastikan-dana-nasabah-aman-imbau-masyarakat-tidak-terpancing"
+        "news_link": "https://ekonomi.republika.co.id/berita/ss48hp328/tiga-bank-himbara-pastikan-dana-nasabah-aman-imbau-masyarakat-tidak-terpancing"
     },
     {
         "title": "Deretan Mobil Listrik yang Dapat Penghargaan di IIMS 2025",
@@ -220,83 +298,5 @@
         "category": "Rejogja",
         "publish_time": "23 February 2025, 08:46",
         "news_link": "https://rejogja.republika.co.id/berita/ss44y4320/yayasan-merah-putih-peduli-nyekar-di-makam-rm-margono-djojohadikusumo"
-    },
-    {
-        "title": "Pramono-Rano Dilantik, Ini Harapan Legislator Syafi Djohan untuk DKI Jakarta",
-        "category": "Rejakarta",
-        "publish_time": "23 February 2025, 08:34",
-        "news_link": "https://republika.co.id/berita//ss2z2n320/pramono-rano-dilantik-ini-harapan-legislator-syafi-djohan-untuk-dki-jakarta"
-    },
-    {
-        "title": "Komunitas Cikarang Gelar Aksi Solidaritas Dukung Band Sukatani",
-        "category": "News",
-        "publish_time": "23 February 2025, 08:24",
-        "news_link": "https://news.republika.co.id/berita/ss43x0328/komunitas-cikarang-gelar-aksi-solidaritas-dukung-band-sukatani"
-    },
-    {
-        "title": "Israel Berulah di Suriah, Bergerak Caplok Quneitra di Wilayah Selatan",
-        "category": "Khazanah",
-        "publish_time": "23 February 2025, 08:21",
-        "news_link": "https://khazanah.republika.co.id/berita/ss43sa320/israel-berulah-di-suriah-bergerak-caplok-quneitra-di-wilayah-selatan"
-    },
-    {
-        "title": "Sambut Ramadhan, Masjid Syuhada Yogyakarta Hadirkan Program Takjil Menu Nusantara",
-        "category": "Rejogja",
-        "publish_time": "23 February 2025, 08:11",
-        "news_link": "https://rejogja.republika.co.id/berita/ss43al291/sambut-ramadhan-masjid-syuhada-yogyakarta-hadirkan-program-takjil-menu-nusantara"
-    },
-    {
-        "title": "Vatikan Laporkan Paus Fransiskus Masih Kritis",
-        "category": "News",
-        "publish_time": "23 February 2025, 08:01",
-        "news_link": "https://news.republika.co.id/berita/ss42u4328/vatikan-laporkan-paus-fransiskus-masih-kritis"
-    },
-    {
-        "title": "Mahfud MD: Menciptakan Lagu untuk Kritik adalah HAM",
-        "category": "News",
-        "publish_time": "23 February 2025, 07:51",
-        "news_link": "https://news.republika.co.id/berita/ss42dd328/mahfud-md-menciptakan-lagu-untuk-kritik-adalah-ham"
-    },
-    {
-        "title": "Pramono-Rano Didesak Atasi Polusi Udara Jakarta",
-        "category": "Esgnow",
-        "publish_time": "23 February 2025, 07:44",
-        "news_link": "https://esgnow.republika.co.id/berita/ss4224416/pramonorano-didesak-atasi-polusi-udara-jakarta"
-    },
-    {
-        "title": "Yogurt Dapat Melindungi Usus Melawan Kanker Usus Besar",
-        "category": "Network",
-        "publish_time": "23 February 2025, 07:33",
-        "news_link": "https://impresiupdate.id/posts/510855/yogurt-dapat-melindungi-usus-melawan-kanker-usus-besar"
-    },
-    {
-        "title": "Momen Langka Abadikan Tentara Israel Cium Kepala 2 Pejuang Hamas",
-        "category": "Khazanah",
-        "publish_time": "23 February 2025, 07:23",
-        "news_link": "https://khazanah.republika.co.id/berita/ss413g320/momen-langka-abadikan-tentara-israel-cium-kepala-2-pejuang-hamas"
-    },
-    {
-        "title": "Korsel Bakal Bangun Dua Pembangkit Nuklir Skala Besar",
-        "category": "Esgnow",
-        "publish_time": "23 February 2025, 07:14",
-        "news_link": "https://esgnow.republika.co.id/berita/ss40o2416/korsel-bakal-bangun-dua-pembangkit-nuklir-skala-besar"
-    },
-    {
-        "title": "Pola Makan Kaya Buah, Cokelat, Kopi, dan Anggur Bisa Turunkan Risiko Sindrom Metabolik",
-        "category": "Network",
-        "publish_time": "23 February 2025, 07:05",
-        "news_link": "https://impresiupdate.id/posts/510851/pola-makan-kaya-buah-cokelat-kopi-dan-anggur-bisa-turunkan-risiko-sindrom-metabolik"
-    },
-    {
-        "title": "Wow... Sayap Kupu-kupu Dapat Membantu Mendiagnosis Kanker Lebih Cepat dan Akurat",
-        "category": "Network",
-        "publish_time": "23 February 2025, 07:04",
-        "news_link": "https://impresiupdate.id/posts/510849/wow-sayap-kupu-kupu-dapat-membantu-mendiagnosis-kanker-lebih-cepat-dan-akurat"
-    },
-    {
-        "title": "Wow... Sayap Kupu-kupu Dapat Membantu Mendiagnosis Kanker Lebih Cepat dan Akurat",
-        "category": "Network",
-        "publish_time": "23 February 2025, 07:04",
-        "news_link": "https://impresiupdate.id/posts/510849/wow-sayap-kupu-kupu-dapat-membantu-mendiagnosis-kanker-lebih-cepat-dan-akurat"
     }
 ]
