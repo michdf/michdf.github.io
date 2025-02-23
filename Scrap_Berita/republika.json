@@ -1,9 +1,87 @@
 [
     {
+        "title": "Menlu RI Ajak Belanda Dukung Program Prioritas Indonesia",
+        "category": "News",
+        "publish_time": "23 February 2025, 22:11",
+        "news_link": "https://news.republika.co.id/berita/ss566g522/menlu-ri-ajak-belanda-dukung-program-prioritas-indonesia"
+    },
+    {
+        "title": "Pemprov DKI Tambah RDF untuk Kelola Sampah Jakarta",
+        "category": "Rejakarta",
+        "publish_time": "23 February 2025, 22:11",
+        "news_link": "https://republika.co.id/berita//ss53l9430/pemprov-dki-tambah-rdf-untuk-kelola-sampah-jakarta"
+    },
+    {
+        "title": "Dugaan Oknum Intimidasi Sukatani, Polri Tegaskan Masih Banyak Anggota Polisi Taat Hukum",
+        "category": "Rejogja",
+        "publish_time": "23 February 2025, 22:10",
+        "news_link": "https://rejogja.republika.co.id/berita/ss5666282/dugaan-oknum-intimidasi-sukatani-polri-tegaskan-masih-banyak-anggota-polisi-taat-hukum"
+    },
+    {
+        "title": "Greenpeace Indonesia: Kontaminasi Mikroplastik Ancam Fungsi Kognitif Manusia",
+        "category": "Esgnow",
+        "publish_time": "23 February 2025, 22:05",
+        "news_link": "https://esgnow.republika.co.id/berita/ss55x6522/greenpeace-indonesia-kontaminasi-mikroplastik-ancam-fungsi-kognitif-manusia"
+    },
+    {
+        "title": "Uni Eropa tak Wajibkan Laporan Keberlanjutan untuk Korporasi",
+        "category": "Esgnow",
+        "publish_time": "23 February 2025, 22:00",
+        "news_link": "https://esgnow.republika.co.id/berita/ss55o0522/uni-eropa-tak-wajibkan-laporan-keberlanjutan-untuk-korporasi"
+    },
+    {
+        "title": "Menteri Lingkungan Hidup Ingatkan Pasar Kelola Sampah Secara Mandiri, Ini Aturannya",
+        "category": "Rejabar",
+        "publish_time": "23 February 2025, 21:59",
+        "news_link": "https://rejabar.republika.co.id/berita/ss55nt512/menteri-lingkungan-hidup-ingatkan-pasar-kelola-sampah-secara-mandiri-ini-aturannya"
+    },
+    {
+        "title": "Ribuan Jamaah Antusias Hadiri Tabligh Akbar Peace Full Ramadhan yang Hadirkan UAS",
+        "category": "Rejabar",
+        "publish_time": "23 February 2025, 21:51",
+        "news_link": "https://rejabar.republika.co.id/berita/ss55ah512/ribuan-jamaah-antusias-hadiri-tabligh-akbar-peace-full-ramadhan-yang-hadirkan-uas"
+    },
+    {
+        "title": "Lagu Bayar Bayar Bayar: Kritik Tajam untuk Polisi.",
+        "category": "Retizen",
+        "publish_time": "23 February 2025, 21:41",
+        "news_link": "https://retizen.republika.co.id/posts/510812/lagu-bayar-bayar-bayar-kritik-tajam-untuk-polisi"
+    },
+    {
+        "title": "Tak Ada yang Istimewa, Tapi Ini Ceritaku",
+        "category": "Retizen",
+        "publish_time": "23 February 2025, 21:41",
+        "news_link": "https://retizen.republika.co.id/posts/510902/tak-ada-yang-istimewa-tapi-ini-ceritaku"
+    },
+    {
+        "title": "12 Prodi Paling Favorit PNJ, Referensi untuk SNBT 2025",
+        "category": "Network",
+        "publish_time": "23 February 2025, 21:29",
+        "news_link": "https://kampus.republika.co.id/posts/510945/12-prodi-paling-favorit-pnj-referensi-untuk-snbt-2025"
+    },
+    {
+        "title": "Garudafood Gagas Program Pengelolaan Sampah Organik di Depok, Dorong Ekonomi Sirkular",
+        "category": "Esgnow",
+        "publish_time": "23 February 2025, 21:27",
+        "news_link": "https://esgnow.republika.co.id/berita/ss545v349/garudafood-gagas-program-pengelolaan-sampah-organik-di-depok-dorong-ekonomi-sirkular"
+    },
+    {
+        "title": "Pengamat Sebut Bank Emas\u00a0Bisa\u00a0Jadi Alternatif Dorong Inklusi Keuangan",
+        "category": "Ekonomi",
+        "publish_time": "23 February 2025, 21:21",
+        "news_link": "https://ekonomi.republika.co.id/berita/ss52nc423/pengamat-sebut-bank-emasbisajadi-alternatif-dorong-inklusi-keuangan"
+    },
+    {
+        "title": "Keutamaan Membaca Alquran di Bulan Ramadhan",
+        "category": "Khazanah",
+        "publish_time": "23 February 2025, 21:19",
+        "news_link": "https://khazanah.republika.co.id/berita/ss53bz430/keutamaan-membaca-alquran-di-bulan-ramadhan"
+    },
+    {
         "title": "Bagaimana Cara Khatam Alquran di Bulan Ramadhan",
-        "category": "Iqra",
+        "category": "Khazanah",
         "publish_time": "23 February 2025, 21:06",
-        "news_link": "https://iqra.republika.co.id/berita/ss537j430/bagaimana-cara-khatam-alquran-di-bulan-ramadhan"
+        "news_link": "https://khazanah.republika.co.id/berita/ss537j430/bagaimana-cara-khatam-alquran-di-bulan-ramadhan"
     },
     {
         "title": "Persija Kalah dari PSM, Carlos Pena Kecewa dengan Permainan Anak Asuhnya",
@@ -220,83 +298,5 @@
         "category": "Ekonomi Syariah",
         "publish_time": "23 February 2025, 19:00",
         "news_link": "https://sharia.republika.co.id/berita/ss4wws423/ojk-dorong-keuangan-syariah-untuk-kesejahteraan-masyarakat-melalui-gerak-syariah-2025"
-    },
-    {
-        "title": "Ribuan Masyarakat dari Berbagai Ormas Islam se-Bandung Gelar Aksi Bela Palestina",
-        "category": "Rejabar",
-        "publish_time": "23 February 2025, 18:58",
-        "news_link": "https://rejabar.republika.co.id/berita/ss4x9x512/ribuan-masyarakat-dari-berbagai-ormas-islam-sebandung-gelar-aksi-bela-palestina"
-    },
-    {
-        "title": "BCA Syariah Dorong Pembiayaan Berkelanjutan melalui Mobil Listrik",
-        "category": "Esgnow",
-        "publish_time": "23 February 2025, 18:56",
-        "news_link": "https://esgnow.republika.co.id/berita/ss4x5q522/bca-syariah-dorong-pembiayaan-berkelanjutan-melalui-mobil-listrik"
-    },
-    {
-        "title": "Tren 2025: Asuransi Perjalanan dan Kendaraan EV Diprediksi Makin Diminati",
-        "category": "Esgnow",
-        "publish_time": "23 February 2025, 18:53",
-        "news_link": "https://esgnow.republika.co.id/berita/ss4x1a522/tren-2025-asuransi-perjalanan-dan-kendaraan-ev-diprediksi-makin-diminati"
-    },
-    {
-        "title": "BCA Syariah Kaji Bisnis Bullion Bank, Prioritaskan Pembiayaan Emas",
-        "category": "Ekonomi Syariah",
-        "publish_time": "23 February 2025, 18:45",
-        "news_link": "https://sharia.republika.co.id/berita/ss4wo4423/bca-syariah-kaji-bisnis-bullion-bank-prioritaskan-pembiayaan-emas"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok 24 Februari 2025 di Kota Padang: Berawan",
-        "category": "News",
-        "publish_time": "23 February 2025, 18:29",
-        "news_link": "https://news.republika.co.id/berita/ss4vx1509440228/prakiraan-cuaca-besok-24-februari-2025-di-kota-padang-berawan"
-    },
-    {
-        "title": "4.025 Siswa di Bandung Barat Ditargetkan Terima Makan Bergizi Gratis",
-        "category": "Rejabar",
-        "publish_time": "23 February 2025, 18:26",
-        "news_link": "https://rejabar.republika.co.id/berita/ss4vrl282/4025-siswa-di-bandung-barat-ditargetkan-terima-makan-bergizi-gratis"
-    },
-    {
-        "title": "Dituduh Dukung Zionisme, Anggun: Saya tak Dukung Politik Israel",
-        "category": "News",
-        "publish_time": "23 February 2025, 18:24",
-        "news_link": "https://news.republika.co.id/berita/ss4vog377/dituduh-dukung-zionisme-anggun-saya-tak-dukung-politik-israel"
-    },
-    {
-        "title": "Update Kondisi Paus Frasiskus: Sudah Bisa Beristirahat Semalaman",
-        "category": "News",
-        "publish_time": "23 February 2025, 18:18",
-        "news_link": "https://news.republika.co.id/berita/ss4vfi409/update-kondisi-paus-frasiskus-sudah-bisa-beristirahat-semalaman"
-    },
-    {
-        "title": "Quo Vadis Sektor Maritim Indonesia? Sebuah Tinjauan",
-        "category": "Network",
-        "publish_time": "23 February 2025, 18:16",
-        "news_link": "https://shippingcargo.co.id/posts/510783/quo-vadis-sektor-maritim-indonesia-sebuah-tinjauan"
-    },
-    {
-        "title": "Gencatan Senjata di Ujung Tanduk",
-        "category": "Network",
-        "publish_time": "23 February 2025, 18:16",
-        "news_link": "https://sekitarkaltim.id/posts/510894/gencatan-senjata-di-ujung-tanduk"
-    },
-    {
-        "title": "Menyambut Ramadhan: Tantangan dan Strategi Pengendalian Diri bagi Pekerja Profesional",
-        "category": "Network",
-        "publish_time": "23 February 2025, 18:16",
-        "news_link": "https://topnews62.com/posts/510897/menyambut-ramadhan-tantangan-dan-strategi-pengendalian-diri-bagi-pekerja-profesional"
-    },
-    {
-        "title": "Tentukan Awal Ramadhan 2025, Kemenag Akan Pantau 125 Titik Hilal",
-        "category": "Network",
-        "publish_time": "23 February 2025, 18:16",
-        "news_link": "https://sekitarkaltim.id/posts/510899/tentukan-awal-ramadhan-2025-kemenag-akan-pantau-125-titik-hilal"
-    },
-    {
-        "title": "Prakiraan Cuaca Kota Banda Aceh: Hujan Ringan pada 24 Februari 2025",
-        "category": "News",
-        "publish_time": "23 February 2025, 18:08",
-        "news_link": "https://news.republika.co.id/berita/ss4uy2285216837/prakiraan-cuaca-kota-banda-aceh-hujan-ringan-pada-24-februari-2025"
     }
 ]
