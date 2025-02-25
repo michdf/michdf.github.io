@@ -1,38 +1,122 @@
 [
     {
+        "title": "Chelsea Kembali ke Jalur Kemenangan, Bournemouth Goyah",
+        "category": "News",
+        "publish_time": "25-02-2025 23:09",
+        "news_link": "https://news.republika.co.id/berita/ss9ho5348/chelsea-kembali-ke-jalur-kemenangan-bournemouth-goyah"
+    },
+    {
+        "title": "Pj Gubernur Bangga Demokrasi di Papua Pegunungan Sudah Matang",
+        "category": "News",
+        "publish_time": "25-02-2025 23:07",
+        "news_link": "https://news.republika.co.id/berita/ss9gtk484/pj-gubernur-bangga-demokrasi-di-papua-pegunungan-sudah-matang"
+    },
+    {
+        "title": "Enam Bayi Baru Lahir Meninggal Kedinginan di Gaza",
+        "category": "News",
+        "publish_time": "25-02-2025 23:03",
+        "news_link": "https://news.republika.co.id/berita/ss9hdu393/enam-bayi-baru-lahir-meninggal-kedinginan-di-gaza"
+    },
+    {
+        "title": "Masjid Cut Meutia Siap Gelar Ramadhan Jazz Festival 2025",
+        "category": "Khazanah",
+        "publish_time": "25-02-2025 23:03",
+        "news_link": "https://khazanah.republika.co.id/berita/ss9hdq483/masjid-cut-meutia-siap-gelar-ramadhan-jazz-festival-2025"
+    },
+    {
+        "title": "KPK Hari Ini Jadwalkan Pemeriksaan Ketum Pemuda Pancasila Japto Soerjosoemarno",
+        "category": "News",
+        "publish_time": "25-02-2025 22:56",
+        "news_link": "https://news.republika.co.id/berita/ss9h12409/kpk-hari-ini-jadwalkan-pemeriksaan-ketum-pemuda-pancasila-japto-soerjosoemarno"
+    },
+    {
+        "title": "Apakah Riza Chalid Tersangkut Skandal Korupsi Minyak Mentah? Ini Kata Kejagung",
+        "category": "News",
+        "publish_time": "25-02-2025 22:55",
+        "news_link": "https://news.republika.co.id/berita/ss9h0b377/apakah-riza-chalid-tersangkut-skandal-korupsi-minyak-mentah-ini-kata-kejagung"
+    },
+    {
+        "title": "Kazan Forum Digelar untuk Kuatkan Relasi Rusia-Dunia Islam",
+        "category": "Khazanah",
+        "publish_time": "25-02-2025 22:54",
+        "news_link": "https://khazanah.republika.co.id/berita/ss9gyv483/kazan-forum-digelar-untuk-kuatkan-relasi-rusiadunia-islam"
+    },
+    {
+        "title": "Ingatkan Guru tak Bersandar Kurikulum, Founder GSM: Jangan Jadi Ikan Mati Terseret Arus",
+        "category": "Rejogja",
+        "publish_time": "25-02-2025 22:53",
+        "news_link": "https://rejogja.republika.co.id/berita/ss9gwc291/ingatkan-guru-tak-bersandar-kurikulum-founder-gsm-jangan-jadi-ikan-mati-terseret-arus"
+    },
+    {
+        "title": "Gempa Magnitudo 5.2 Guncang Sulut pada Rabu Dini Hari",
+        "category": "News",
+        "publish_time": "25-02-2025 22:48",
+        "news_link": "https://news.republika.co.id/berita/ss9go1409/gempa-magnitudo-52-guncang-sulut-pada-rabu-dini-hari"
+    },
+    {
+        "title": "Di Kongres Demokrat Prabowo: Siapa Tahu Ada Presiden AHY",
+        "category": "News",
+        "publish_time": "25-02-2025 22:40",
+        "news_link": "https://news.republika.co.id/berita/ss9gat484/di-kongres-demokrat-prabowo-siapa-tahu-ada-presiden-ahy"
+    },
+    {
+        "title": "Infografis Persiapan Menuju Ramadhan Penuh Berkah",
+        "category": "Visual",
+        "publish_time": "25-02-2025 22:35",
+        "news_link": "https://visual.republika.co.id/berita/ss91cw366/infografis-persiapan-menuju-ramadhan-penuh-berkah"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini 26 Februari 2025: Kota Makassar dan Sekitarnya dengan Hujan Ringan",
+        "category": "News",
+        "publish_time": "25-02-2025 22:31",
+        "news_link": "https://news.republika.co.id/berita/ss9fwe1654555847/prakiraan-cuaca-hari-ini-26-februari-2025-kota-makassar-dan-sekitarnya-dengan-hujan-ringan"
+    },
+    {
+        "title": "Diminta Pergi, Israel Malah Bombardir Suriah",
+        "category": "News",
+        "publish_time": "25-02-2025 22:24",
+        "news_link": "https://news.republika.co.id/berita/ss9fkv393/diminta-pergi-israel-malah-bombardir-suriah"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini di Kota Medan dan Sekitarnya - 26 Februari 2025: Hujan Ringan pada Siang Hari",
+        "category": "News",
+        "publish_time": "25-02-2025 22:19",
+        "news_link": "https://news.republika.co.id/berita/ss9fc91999097357/prakiraan-cuaca-hari-ini-di-kota-medan-dan-sekitarnya-26-februari-2025-hujan-ringan-pada-siang-hari"
+    },
+    {
         "title": "Prakiraan Cuaca Hari Ini untuk Kota Malang dan Sekitarnya - Hujan Ringan pada 26 Februari 2025",
         "category": "News",
-        "publish_time": "25-02-2025 22:04",
+        "publish_time": "25-02-2025 22:12",
         "news_link": "https://news.republika.co.id/berita/ss9enk930621574/prakiraan-cuaca-hari-ini-untuk-kota-malang-dan-sekitarnya-hujan-ringan-pada-26-februari-2025"
     },
     {
         "title": "PDIP Bantah Megawati Larang Kepala Daerah Ikut Retret, Ini Klarifikasi DPP",
         "category": "News",
-        "publish_time": "25-02-2025 21:52",
+        "publish_time": "25-02-2025 22:12",
         "news_link": "https://news.republika.co.id/berita/ss9e2v377/pdip-bantah-megawati-larang-kepala-daerah-ikut-retret-ini-klarifikasi-dpp"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 26 Februari 2025 Surabaya: Hujan Ringan di Siang Hari",
         "category": "News",
-        "publish_time": "25-02-2025 21:49",
+        "publish_time": "25-02-2025 22:12",
         "news_link": "https://news.republika.co.id/berita/ss9dyk1073255958/prakiraan-cuaca-hari-ini-26-februari-2025-surabaya-hujan-ringan-di-siang-hari"
     },
     {
         "title": "Prabowo: Yang Melihat Indonesia Gelap Itu Siapa?",
         "category": "News",
-        "publish_time": "25-02-2025 21:42",
+        "publish_time": "25-02-2025 21:12",
         "news_link": "https://news.republika.co.id/berita/ss9dmv377/prabowo-yang-melihat-indonesia-gelap-itu-siapa"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini Tanggal 26 Februari 2025 di Kota Yogyakarta: Hujan Ringan",
         "category": "News",
-        "publish_time": "25-02-2025 21:31",
+        "publish_time": "25-02-2025 21:12",
         "news_link": "https://news.republika.co.id/berita/ss9d48345663985/prakiraan-cuaca-hari-ini-tanggal-26-februari-2025-di-kota-yogyakarta-hujan-ringan"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 26 Februari 2025: Kota Semarang dan Sekitarnya, Tegal Berawan",
         "category": "News",
-        "publish_time": "25-02-2025 21:13",
+        "publish_time": "25-02-2025 21:12",
         "news_link": "https://news.republika.co.id/berita/ss9caf2120536582/prakiraan-cuaca-hari-ini-26-februari-2025-kota-semarang-dan-sekitarnya-tegal-berawan"
     },
     {
@@ -214,89 +298,5 @@
         "category": "News",
         "publish_time": "25-02-2025 16:12",
         "news_link": "https://news.republika.co.id/berita/ss8zqh348/timo-werner-siap-perkuat-tottenham-lawan-man-city-ben-davies-disimpan"
-    },
-    {
-        "title": "Unnes Enggan Ungkap Profil Dosen Terduga Pelaku Pelecehan Seksual di Kampusnya",
-        "category": "Rejogja",
-        "publish_time": "25-02-2025 16:12",
-        "news_link": "https://rejogja.republika.co.id/berita/ss8zjq282/unnes-enggan-ungkap-profil-dosen-terduga-pelaku-pelecehan-seksual-di-kampusnya"
-    },
-    {
-        "title": "ASDP Perkuat Layanan Merak-Bakauheni untuk Kelancaran Mudik Lebaran 2025",
-        "category": "Ekonomi",
-        "publish_time": "25-02-2025 16:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/ss8g5x370/asdp-perkuat-layanan-merakbakauheni-untuk-kelancaran-mudik-lebaran-2025"
-    },
-    {
-        "title": "Pramono Ikut Retret di Akmil Magelang, Jubir PDIP: Sudah Koordinasi dengan Megawati",
-        "category": "News",
-        "publish_time": "25-02-2025 16:12",
-        "news_link": "https://news.republika.co.id/berita/ss8z6j348/pramono-ikut-retret-di-akmil-magelang-jubir-pdip-sudah-koordinasi-dengan-megawati"
-    },
-    {
-        "title": "Kalahkan PSPS, Persijap Jepara Sukses Promosi ke Liga 1",
-        "category": "Visual",
-        "publish_time": "25-02-2025 16:12",
-        "news_link": "https://visual.republika.co.id/berita/ss8w7r375/kalahkan-psps-persijap-jepara-sukses-promosi-ke-liga-1"
-    },
-    {
-        "title": "Bejo Sugiantoro Dimakamkan di TPU Geluran, Besok Pagi",
-        "category": "News",
-        "publish_time": "25-02-2025 16:12",
-        "news_link": "https://news.republika.co.id/berita/ss8yqt348/bejo-sugiantoro-dimakamkan-di-tpu-geluran-besok-pagi"
-    },
-    {
-        "title": "Penyelundupan Narkoba ke Lapas Semarang Digagalkan, Pelaku Sembunyikan Sabu di Dubur",
-        "category": "Rejogja",
-        "publish_time": "25-02-2025 16:12",
-        "news_link": "https://rejogja.republika.co.id/berita/ss8yce282/penyelundupan-narkoba-ke-lapas-semarang-digagalkan-pelaku-sembunyikan-sabu-di-dubur"
-    },
-    {
-        "title": "Heboh! Thailand Bakar Ladang Ganja, Satu Kampung Mendadak Ketawa",
-        "category": "Retizen",
-        "publish_time": "25-02-2025 16:12",
-        "news_link": "https://retizen.republika.co.id/posts/511400/heboh-thailand-bakar-ladang-ganja-satu-kampung-mendadak-ketawa"
-    },
-    {
-        "title": "Bank Mandiri Dukung Konsolidasi Aset BUMN Lewat Danantara",
-        "category": "Ekonomi",
-        "publish_time": "25-02-2025 16:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/ss8xzx490/bank-mandiri-dukung-konsolidasi-aset-bumn-lewat-danantara"
-    },
-    {
-        "title": "Roberta Flack, Sang Pelantun 'Killing Me Softly With His Song' Meninggal di Usia 88",
-        "category": "Network",
-        "publish_time": "25-02-2025 16:12",
-        "news_link": "https://impresiupdate.id/posts/511374/roberta-flack-sang-pelantun-killing-me-softly-with-his-song-meninggal-di-usia-88"
-    },
-    {
-        "title": "Tahun 2024, BMH Bukukan Pengumpulan Zakat Sebesar Rp. 268 Miliar",
-        "category": "Network",
-        "publish_time": "25-02-2025 16:12",
-        "news_link": "https://sajada.id/posts/511378/tahun-2024-bmh-bukukan-pengumpulan-zakat-sebesar-rp-268-miliar"
-    },
-    {
-        "title": "Jembatan Mahakam I Akan Ditutup Sementara",
-        "category": "Network",
-        "publish_time": "25-02-2025 16:12",
-        "news_link": "https://sekitarkaltim.id/posts/511389/jembatan-mahakam-i-akan-ditutup-sementara"
-    },
-    {
-        "title": "Menanti War Takjil: Memburu Hidangan Pembuka dan Praktik Toleransi Tinggi",
-        "category": "Network",
-        "publish_time": "25-02-2025 16:12",
-        "news_link": "https://sekitarkaltim.id/posts/511396/menanti-war-takjil-memburu-hidangan-pembuka-dan-praktik-toleransi-tinggi"
-    },
-    {
-        "title": "Mendagri Klaim Retret Bangun Chemistry Antar Kepala Daerah",
-        "category": "News",
-        "publish_time": "25-02-2025 16:12",
-        "news_link": "https://news.republika.co.id/berita/ss8jx0451/mendagri-klaim-retret-bangun-chemistry-antar-kepala-daerah"
-    },
-    {
-        "title": "PGN Group Raih 10 Penghargaan PROPER 2024, Bukti Komitmen terhadap Keberlanjutan",
-        "category": "Esgnow",
-        "publish_time": "25-02-2025 16:12",
-        "news_link": "https://esgnow.republika.co.id/berita/ss8xtc522/pgn-group-raih-10-penghargaan-proper-2024-bukti-komitmen-terhadap-keberlanjutan"
     }
 ]
