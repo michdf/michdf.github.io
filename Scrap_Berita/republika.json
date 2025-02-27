@@ -1,116 +1,248 @@
 [
     {
+        "title": "Sekjen MUI Serahkan Sertifikat Standarisasi Kepada Dai",
+        "category": "Khazanah",
+        "publish_time": "27-02-2025 10:13",
+        "news_link": "https://khazanah.republika.co.id/berita/ssbtu1451/sekjen-mui-serahkan-sertifikat-standarisasi-kepada-dai"
+    },
+    {
+        "title": "Polri-TNI Bersama Mahasiswa Gelar Baksos, Bagikan Ratusan Paket Bansos",
+        "category": "Rejabar",
+        "publish_time": "27-02-2025 10:10",
+        "news_link": "https://rejabar.republika.co.id/berita/ssc6xk512/polritni-bersama-mahasiswa-gelar-baksos-bagikan-ratusan-paket-bansos"
+    },
+    {
+        "title": "Adakah Pacaran yang Halal? Simak Penjelasan KH Quraish Shihab Ini!",
+        "category": "Khazanah",
+        "publish_time": "27-02-2025 10:04",
+        "news_link": "https://khazanah.republika.co.id/berita/ssc6n5458/adakah-pacaran-yang-halal-simak-penjelasan-kh-quraish-shihab-ini"
+    },
+    {
+        "title": "Tiga Cara yang Bisa Dilakukan Orang Tua Ketika Anak Belajar Puasa",
+        "category": "Khazanah",
+        "publish_time": "27-02-2025 10:03",
+        "news_link": "https://khazanah.republika.co.id/berita/ssc6kr425/tiga-cara-yang-bisa-dilakukan-orang-tua-ketika-anak-belajar-puasa"
+    },
+    {
+        "title": "Sahrin Hamid Jadi Ketum Ormas Gerakan Rakyat, Ini Posisi Anies",
+        "category": "News",
+        "publish_time": "27-02-2025 10:01",
+        "news_link": "https://news.republika.co.id/berita/ssc6ie377/sahrin-hamid-jadi-ketum-ormas-gerakan-rakyat-ini-posisi-anies"
+    },
+    {
+        "title": "Potret Sungai CItarum Lama yang Kembali Dipenuhi Sampah",
+        "category": "Visual",
+        "publish_time": "27-02-2025 10:00",
+        "news_link": "https://visual.republika.co.id/berita/ssc1x6375/potret-sungai-citarum-lama-yang-kembali-dipenuhi-sampah"
+    },
+    {
+        "title": "Bolehkah Tambahkan 'Sayyidina' pada Nama Muhammad saat Baca Tasyahud Dalam Shalat?",
+        "category": "Khazanah",
+        "publish_time": "27-02-2025 09:58",
+        "news_link": "https://khazanah.republika.co.id/berita/ssc6di458/bolehkah-tambahkan-sayyidina-pada-nama-muhammad-saat-baca-tasyahud-dalam-shalat"
+    },
+    {
+        "title": "Siasat Tersembunyi Israel di Balik Serangan Terus-menerus ke Suriah",
+        "category": "Khazanah",
+        "publish_time": "27-02-2025 09:50",
+        "news_link": "https://khazanah.republika.co.id/berita/ssc5zr320/siasat-tersembunyi-israel-di-balik-serangan-terusmenerus-ke-suriah"
+    },
+    {
+        "title": "Panduan Lengkap Mengajukan Jurnal untuk Terindeks di Scopus by Dr Ahyani",
+        "category": "Retizen",
+        "publish_time": "27-02-2025 09:48",
+        "news_link": "https://retizen.republika.co.id/posts/511758/panduan-lengkap-mengajukan-jurnal-untuk-terindeks-di-scopus-by-dr-ahyani"
+    },
+    {
+        "title": "Kisah Wafatnya Imam Syafii",
+        "category": "Khazanah",
+        "publish_time": "27-02-2025 09:43",
+        "news_link": "https://khazanah.republika.co.id/berita/ssc5nr458/kisah-wafatnya-imam-syafii"
+    },
+    {
+        "title": "Maybank Syariah Kucurkan Dana Rp 3,5 Miliar untuk Program Sertifikasi Halal UMKM",
+        "category": "Ekonomi Syariah",
+        "publish_time": "27-02-2025 09:42",
+        "news_link": "https://sharia.republika.co.id/berita/ssc5lu490/maybank-syariah-kucurkan-dana-rp-35-miliar-untuk-program-sertifikasi-halal-umkm"
+    },
+    {
+        "title": "Wakaf Sarana Air Bersih Jadi Solusi Krisis Warga Pedalaman NTB",
+        "category": "Khazanah",
+        "publish_time": "27-02-2025 09:38",
+        "news_link": "https://khazanah.republika.co.id/berita/ssc5gg483/wakaf-sarana-air-bersih-jadi-solusi-krisis-warga-pedalaman-ntb"
+    },
+    {
+        "title": "Deklarasi Ormas Gerakan Rakyat, Anies: Tengoklah Rakyat dengan Rasa Kepercayaan",
+        "category": "News",
+        "publish_time": "27-02-2025 09:38",
+        "news_link": "https://news.republika.co.id/berita/ssc5fk377/deklarasi-ormas-gerakan-rakyat-anies-tengoklah-rakyat-dengan-rasa-kepercayaan"
+    },
+    {
+        "title": "Menunda-nunda Kebaikan, Awal dari Kerugian",
+        "category": "Khazanah",
+        "publish_time": "27-02-2025 09:37",
+        "news_link": "https://khazanah.republika.co.id/berita/ssc5dh458/menundanunda-kebaikan-awal-dari-kerugian"
+    },
+    {
+        "title": "Permudah Akses Perawatan Kulit, Halodoc Perkenalkan Haloskin",
+        "category": "Ameera",
+        "publish_time": "27-02-2025 09:34",
+        "news_link": "https://ameera.republika.co.id/berita/ssc59n425/permudah-akses-perawatan-kulit-halodoc-perkenalkan-haloskin"
+    },
+    {
+        "title": "Tak Perlu ke Bank! Buka Rekening bank bjb dari HP, Langsung Jadi!",
+        "category": "Ekonomi",
+        "publish_time": "27-02-2025 09:32",
+        "news_link": "https://ekonomi.republika.co.id/berita/ssc56c368/tak-perlu-ke-bank-buka-rekening-bank-bjb-dari-hp-langsung-jadi"
+    },
+    {
+        "title": "Bappenas: Dominasi Negara G7 Semakin Berkurang",
+        "category": "News",
+        "publish_time": "27-02-2025 09:31",
+        "news_link": "https://news.republika.co.id/berita/ssbtpm451/bappenas-dominasi-negara-g7-semakin-berkurang"
+    },
+    {
+        "title": "Lubang Sedalam 7 Meter Muncul di Tengah Jalan di Tulungagung",
+        "category": "Visual",
+        "publish_time": "27-02-2025 09:30",
+        "news_link": "https://visual.republika.co.id/berita/ssc1ty375/lubang-sedalam-7-meter-muncul-di-tengah-jalan-di-tulungagung"
+    },
+    {
+        "title": "Tetap On-Bid, Pengemudi Ojol tidak Ikut-ikutan Demo",
+        "category": "News",
+        "publish_time": "27-02-2025 09:26",
+        "news_link": "https://news.republika.co.id/berita/ssc4wg484/tetap-onbid-pengemudi-ojol-tidak-ikutikutan-demo"
+    },
+    {
+        "title": "The Fed Makin Jauh Dari Penurunan Suku Bunga, Rupiah Melemah",
+        "category": "Ekonomi",
+        "publish_time": "27-02-2025 09:23",
+        "news_link": "https://ekonomi.republika.co.id/berita/ssc4rb490/the-fed-makin-jauh-dari-penurunan-suku-bunga-rupiah-melemah"
+    },
+    {
+        "title": "Diduga Selingkuh dengan Anggota Dewan, Wakapolres Pulau Taliabu Ditahan",
+        "category": "News",
+        "publish_time": "27-02-2025 09:16",
+        "news_link": "https://news.republika.co.id/berita/ssc4en377/diduga-selingkuh-dengan-anggota-dewan-wakapolres-pulau-taliabu-ditahan"
+    },
+    {
+        "title": "Pertamina Pastikan tidak Ada Kebakaran Tangki di Kilang Cilacap",
+        "category": "Ekonomi",
+        "publish_time": "27-02-2025 09:16",
+        "news_link": "https://ekonomi.republika.co.id/berita/ssc4em490/pertamina-pastikan-tidak-ada-kebakaran-tangki-di-kilang-cilacap"
+    },
+    {
         "title": "Penjelasan Kejagung soal Modus Blending, dari 'Oplosan' Premium Dijual Harga Pertamax",
         "category": "News",
-        "publish_time": "27-02-2025 09:12",
+        "publish_time": "27-02-2025 09:14",
         "news_link": "https://news.republika.co.id/berita/ssc48x487/penjelasan-kejagung-soal-modus-blending-dari-oplosan-premium-dijual-harga-pertamax"
     },
     {
         "title": "Ustadz Oni Sahroni: Pentingnya Dakwah Merangkul Anak Muda di Era Digital",
         "category": "Khazanah",
-        "publish_time": "27-02-2025 09:11",
+        "publish_time": "27-02-2025 09:14",
         "news_link": "https://khazanah.republika.co.id/berita/ssc46g425/ustadz-oni-sahroni-pentingnya-dakwah-merangkul-anak-muda-di-era-digital"
     },
     {
         "title": "Polres Indramayu Gelar Binrohtal Rutin",
         "category": "Rejabar",
-        "publish_time": "27-02-2025 09:06",
+        "publish_time": "27-02-2025 09:14",
         "news_link": "https://rejabar.republika.co.id/berita/ssc3yh512/polres-indramayu-gelar-binrohtal-rutin"
     },
     {
         "title": "Menag Ajak Sukseskan Gerakan Nasional Sadar Tertib Arsip",
         "category": "Khazanah",
-        "publish_time": "27-02-2025 09:02",
+        "publish_time": "27-02-2025 09:14",
         "news_link": "https://khazanah.republika.co.id/berita/ssbth6451/menag-ajak-sukseskan-gerakan-nasional-sadar-tertib-arsip"
     },
     {
         "title": "Komisi II Gelar Rapat Bahas Pencoblosan Ulang Pilkada",
         "category": "Visual",
-        "publish_time": "27-02-2025 09:00",
+        "publish_time": "27-02-2025 09:14",
         "news_link": "https://visual.republika.co.id/berita/ssc1rc375/komisi-ii-gelar-rapat-bahas-pencoblosan-ulang-pilkada"
     },
     {
         "title": "Cinema XXI Bukukan Laba Bersih Rp 802,5 Miliar pada 2024",
         "category": "Ekonomi",
-        "publish_time": "27-02-2025 08:53",
+        "publish_time": "27-02-2025 09:14",
         "news_link": "https://ekonomi.republika.co.id/berita/ssc3d6490/cinema-xxi-bukukan-laba-bersih-rp-8025-miliar-pada-2024"
     },
     {
         "title": "Kemenag Kirim 1.000 Pendakwah ke Pedalaman Hingga ke Luar Negeri",
         "category": "Khazanah",
-        "publish_time": "27-02-2025 08:52",
+        "publish_time": "27-02-2025 09:14",
         "news_link": "https://khazanah.republika.co.id/berita/ssc3bf320/kemenag-kirim-1000-pendakwah-ke-pedalaman-hingga-ke-luar-negeri"
     },
     {
         "title": "Prakiraan Cuaca Besok, 28 Februari 2025: Hujan Ringan di Kota Surabaya dan Sekitarnya",
         "category": "News",
-        "publish_time": "27-02-2025 08:49",
+        "publish_time": "27-02-2025 09:14",
         "news_link": "https://news.republika.co.id/berita/ssc36j448744612/prakiraan-cuaca-besok-28-februari-2025-hujan-ringan-di-kota-surabaya-dan-sekitarnya"
     },
     {
         "title": "Taman di Jakarta akan Dibuka 24 Jam, DLH Siap Tempatkan Personel untuk Jaga Kebersihan",
         "category": "News",
-        "publish_time": "27-02-2025 08:49",
+        "publish_time": "27-02-2025 09:14",
         "news_link": "https://news.republika.co.id/berita/ssc35o487/taman-di-jakarta-akan-dibuka-24-jam-dlh-siap-tempatkan-personel-untuk-jaga-kebersihan"
     },
     {
         "title": "Pertumbuhan Kapasitas Energi Surya Cina Diprediksi Melambat",
         "category": "Esgnow",
-        "publish_time": "27-02-2025 08:47",
+        "publish_time": "27-02-2025 09:14",
         "news_link": "https://esgnow.republika.co.id/berita/ssc331416/pertumbuhan-kapasitas-energi-surya-cina-diprediksi-melambat"
     },
     {
         "title": "GWM Resmikan Dealer Kedua di Surabaya, Targetkan Bangun Total 30 Jaringan di 2025",
         "category": "Ekonomi",
-        "publish_time": "27-02-2025 08:46",
+        "publish_time": "27-02-2025 09:14",
         "news_link": "https://ekonomi.republika.co.id/berita/ssc31c349/gwm-resmikan-dealer-kedua-di-surabaya-targetkan-bangun-total-30-jaringan-di-2025"
     },
     {
         "title": "Erick Thohir Luncurkan Reksa Dana Sepak Bola Pertama di Indonesia",
         "category": "Ekonomi",
-        "publish_time": "27-02-2025 08:43",
+        "publish_time": "27-02-2025 08:14",
         "news_link": "https://ekonomi.republika.co.id/berita/ssc2w2490/erick-thohir-luncurkan-reksa-dana-sepak-bola-pertama-di-indonesia"
     },
     {
         "title": "Kapolri Bakal Tindak Personel yang Terlibat Kasus Tarakan",
         "category": "News",
-        "publish_time": "27-02-2025 08:41",
+        "publish_time": "27-02-2025 08:14",
         "news_link": "https://news.republika.co.id/berita/ssc2t3484/kapolri-bakal-tindak-personel-yang-terlibat-kasus-tarakan"
     },
     {
         "title": "Retribusi Sampah di Jakarta Rp 10 Ribu hingga Rp 77 Ribu, Ini Warga yang Dapat Gratis",
         "category": "News",
-        "publish_time": "27-02-2025 08:37",
+        "publish_time": "27-02-2025 08:14",
         "news_link": "https://news.republika.co.id/berita/ssc2md487/retribusi-sampah-di-jakarta-rp-10-ribu-hingga-rp-77-ribu-ini-warga-yang-dapat-gratis"
     },
     {
         "title": "KPK: Pemeriksaan Ketum Pemuda Pancasila Japto Terkait Penerimaan Metrik Ton Bupati Rita",
         "category": "News",
-        "publish_time": "27-02-2025 08:36",
+        "publish_time": "27-02-2025 08:14",
         "news_link": "https://news.republika.co.id/berita/ssc2jr377/kpk-pemeriksaan-ketum-pemuda-pancasila-japto-terkait-penerimaan-metrik-ton-bupati-rita"
     },
     {
         "title": "Dapat Dispensasi di Bulan Ramadhan, Bagaimana Jam Belajar Siswa Madrasah?",
         "category": "Khazanah",
-        "publish_time": "27-02-2025 08:32",
+        "publish_time": "27-02-2025 08:14",
         "news_link": "https://khazanah.republika.co.id/berita/ssbtcp451/dapat-dispensasi-di-bulan-ramadhan-bagaimana-jam-belajar-siswa-madrasah"
     },
     {
         "title": "Prakiraan Cuaca Besok 28 Februari 2025: Kota Yogyakarta Hujan Sedang",
         "category": "News",
-        "publish_time": "27-02-2025 08:31",
+        "publish_time": "27-02-2025 08:14",
         "news_link": "https://news.republika.co.id/berita/ssc2cb965539853/prakiraan-cuaca-besok-28-februari-2025-kota-yogyakarta-hujan-sedang"
     },
     {
         "title": "Aksi Emak-emak di Tangerang Tolak Pinjol dan Judi Online",
         "category": "Visual",
-        "publish_time": "27-02-2025 08:30",
+        "publish_time": "27-02-2025 08:14",
         "news_link": "https://visual.republika.co.id/berita/ssc1m9375/aksi-emakemak-di-tangerang-tolak-pinjol-dan-judi-online"
     },
     {
         "title": "Praktisi Migas: Blending Sesuatu yang Biasa di Kilang",
         "category": "Ekonomi",
-        "publish_time": "27-02-2025 08:24",
+        "publish_time": "27-02-2025 08:14",
         "news_link": "https://ekonomi.republika.co.id/berita/ssc20v490/praktisi-migas-blending-sesuatu-yang-biasa-di-kilang"
     },
     {
@@ -166,137 +298,5 @@
         "category": "Rejogja",
         "publish_time": "27-02-2025 08:14",
         "news_link": "https://rejogja.republika.co.id/berita/ssc0ve291/mencari-oposisi"
-    },
-    {
-        "title": "Pemprov DKI Antisipasi Peningkatan Sampah Selama Ramadhan",
-        "category": "Khazanah",
-        "publish_time": "27-02-2025 08:14",
-        "news_link": "https://khazanah.republika.co.id/berita/ssc0qm425/pemprov-dki-antisipasi-peningkatan-sampah-selama-ramadhan"
-    },
-    {
-        "title": "Soal Kabar BBM Oplosan di Pertamina, Ini Penjelasan Wakil Ketua Komisi XII DPR",
-        "category": "Ekonomi",
-        "publish_time": "27-02-2025 08:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/ssc0p3490/soal-kabar-bbm-oplosan-di-pertamina-ini-penjelasan-wakil-ketua-komisi-xii-dpr"
-    },
-    {
-        "title": "Ini Makna Mendalam Lembah Tidar Bagi Bupati Bandung",
-        "category": "Rejabar",
-        "publish_time": "27-02-2025 08:14",
-        "news_link": "https://rejabar.republika.co.id/berita/ssc0n0368/ini-makna-mendalam-lembah-tidar-bagi-bupati-bandung"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok 28 Februari 2025 di Bandung dan Sekitarnya: Hujan Ringan di Bandung",
-        "category": "News",
-        "publish_time": "27-02-2025 08:14",
-        "news_link": "https://news.republika.co.id/berita/ssc0ml1530747921/prakiraan-cuaca-besok-28-februari-2025-di-bandung-dan-sekitarnya-hujan-ringan-di-bandung"
-    },
-    {
-        "title": "KPK Kembali Lelang Barang Rampasan Koruptor, Ada Tas Branded hingga Mobil Mewah",
-        "category": "Visual",
-        "publish_time": "27-02-2025 08:14",
-        "news_link": "https://visual.republika.co.id/berita/ssc0f7375/kpk-kembali-lelang-barang-rampasan-koruptor-ada-tas-branded-hingga-mobil-mewah"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok:  Jakarta Pusat Cerah Berawan - 28 Februari 2025",
-        "category": "News",
-        "publish_time": "27-02-2025 08:14",
-        "news_link": "https://news.republika.co.id/berita/ssc0cv1625151146/prakiraan-cuaca-besok-jakarta-pusat-cerah-berawan-28-februari-2025"
-    },
-    {
-        "title": "Lanal Tanjung Balai Tangkap Kapal Asing Mencuri Ikan di Indonesia",
-        "category": "News",
-        "publish_time": "27-02-2025 08:14",
-        "news_link": "https://news.republika.co.id/berita/ssc0c9484/lanal-tanjung-balai-tangkap-kapal-asing-mencuri-ikan-di-indonesia"
-    },
-    {
-        "title": "Komisi XII: BBM Pertamina yang Beredar Sudah Disertifikasi Lemigas",
-        "category": "Ekonomi",
-        "publish_time": "27-02-2025 07:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/ssbzyb490/komisi-xii-bbm-pertamina-yang-beredar-sudah-disertifikasi-lemigas"
-    },
-    {
-        "title": "Diperiksa KPK, Hasto: Berdasarkan Eksaminasi Ahli Hukum, Saya tak Terlibat",
-        "category": "News",
-        "publish_time": "27-02-2025 07:14",
-        "news_link": "https://news.republika.co.id/berita/ssbzy7377/diperiksa-kpk-hasto-berdasarkan-eksaminasi-ahli-hukum-saya-tak-terlibat"
-    },
-    {
-        "title": "PKS Siapkan 5 Program Ramadhan: Ada Sahur Hingga Mudik Gratis",
-        "category": "News",
-        "publish_time": "27-02-2025 07:14",
-        "news_link": "https://news.republika.co.id/berita/ssbt4t451/pks-siapkan-5-program-ramadhan-ada-sahur-hingga-mudik-gratis"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok 28 Februari 2025: Daerah Bekasi dan Sekitarnya Akan Mengalami Hujan Ringan",
-        "category": "News",
-        "publish_time": "27-02-2025 07:14",
-        "news_link": "https://news.republika.co.id/berita/ssbzit561570906/prakiraan-cuaca-besok-28-februari-2025-daerah-bekasi-dan-sekitarnya-akan-mengalami-hujan-ringan"
-    },
-    {
-        "title": "BSI Perluas Layanan Remitansi di Korea Selatan",
-        "category": "Ekonomi Syariah",
-        "publish_time": "27-02-2025 07:14",
-        "news_link": "https://sharia.republika.co.id/berita/ssbzaq490/bsi-perluas-layanan-remitansi-di-korea-selatan"
-    },
-    {
-        "title": "Masyarakat Miskin Bisa Dapat Bantuan Hukum Gratis dari Negara",
-        "category": "News",
-        "publish_time": "27-02-2025 07:14",
-        "news_link": "https://news.republika.co.id/berita/ssbz0a368/masyarakat-miskin-bisa-dapat-bantuan-hukum-gratis-dari-negara"
-    },
-    {
-        "title": "PLN: Tren Penggunaan Kendaraan Listrik di Indonesia Terus Meningkat",
-        "category": "Ekonomi",
-        "publish_time": "27-02-2025 07:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/ssbyzk423/pln-tren-penggunaan-kendaraan-listrik-di-indonesia-terus-meningkat"
-    },
-    {
-        "title": "Unika Atma Jaya Bersama FSF Bangun Diskusi Keberagaman Umat Beragama",
-        "category": "Rejogja",
-        "publish_time": "27-02-2025 07:14",
-        "news_link": "https://rejogja.republika.co.id/berita/ssbymw291/unika-atma-jaya-bersama-fsf-bangun-diskusi-keberagaman-umat-beragama"
-    },
-    {
-        "title": "KPK: Mobil Listrik Hadiah Erdogan ke Prabowo tak Perlu Dilaporkan",
-        "category": "News",
-        "publish_time": "27-02-2025 07:14",
-        "news_link": "https://news.republika.co.id/berita/ssbyme377/kpk-mobil-listrik-hadiah-erdogan-ke-prabowo-tak-perlu-dilaporkan"
-    },
-    {
-        "title": "UNY Terima 2.410 Mahasiswa Baru di SNBT 2025, Ini 10 Prodi Sepi Peminat yang Bisa Jadi Incaran",
-        "category": "Network",
-        "publish_time": "27-02-2025 07:14",
-        "news_link": "https://kampusiana.id/posts/511740/uny-terima-2-410-mahasiswa-baru-di-snbt-2025-ini-10-prodi-sepi-peminat-yang-bisa-jadi-incaran"
-    },
-    {
-        "title": "Peneliti Ini Minta Pemerintah Perlu Evaluasi Kebijakan Harga Beras",
-        "category": "Network",
-        "publish_time": "27-02-2025 07:14",
-        "news_link": "https://ruzkaindonesia.id/posts/511737/peneliti-ini-minta-pemerintah-perlu-evaluasi-kebijakan-harga-beras"
-    },
-    {
-        "title": "Wamen ESDM Pastikan Pasokan BBM, LPG, Listrik, Aman Menuju Ramadhan",
-        "category": "Ekonomi",
-        "publish_time": "27-02-2025 07:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/ssbyjw423/wamen-esdm-pastikan-pasokan-bbm-lpg-listrik-aman-menuju-ramadhan"
-    },
-    {
-        "title": "Pramono dan Rano Kompak Kenakan Seragam Komcad di Akmil",
-        "category": "News",
-        "publish_time": "27-02-2025 07:14",
-        "news_link": "https://news.republika.co.id/berita/ssbyff484/pramono-dan-rano-kompak-kenakan-seragam-komcad-di-akmil"
-    },
-    {
-        "title": "PBSI tak Mau Hanya Bergantung pada Jonatan dan Fajar/Rian di All England",
-        "category": "News",
-        "publish_time": "27-02-2025 07:14",
-        "news_link": "https://news.republika.co.id/berita/ssbyaa348/pbsi-tak-mau-hanya-bergantung-pada-jonatan-dan-fajarrian-di-all-england"
-    },
-    {
-        "title": "Apa Pentingnya Indonesia Punya Bank Emas?",
-        "category": "Visual",
-        "publish_time": "27-02-2025 07:14",
-        "news_link": "https://visual.republika.co.id/berita/ssby69502/apa-pentingnya-indonesia-punya-bank-emas"
     }
 ]
