@@ -1,74 +1,170 @@
 [
     {
+        "title": "Olahraga Saat Puasa, Kapan Waktu Terbaik?",
+        "category": "Khazanah",
+        "publish_time": "03-03-2025 22:07",
+        "news_link": "https://khazanah.republika.co.id/berita/sskirz425/olahraga-saat-puasa-kapan-waktu-terbaik"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini di Kota Malang dan Sekitarnya, 4 Maret 2025",
+        "category": "News",
+        "publish_time": "03-03-2025 22:04",
+        "news_link": "https://news.republika.co.id/berita/sskinh39361629/prakiraan-cuaca-hari-ini-di-kota-malang-dan-sekitarnya-4-maret-2025"
+    },
+    {
+        "title": "Lanjutkan Proyek Hilirisasi Batu Bara Jadi Gas, Bahlil: Tak Perlu Investor Asing",
+        "category": "Ekonomi",
+        "publish_time": "03-03-2025 22:02",
+        "news_link": "https://ekonomi.republika.co.id/berita/sskikp490/lanjutkan-proyek-hilirisasi-batu-bara-jadi-gas-bahlil-tak-perlu-investor-asing"
+    },
+    {
+        "title": "Perang Dagang Amerika Utara Dimulai",
+        "category": "News",
+        "publish_time": "03-03-2025 21:58",
+        "news_link": "https://news.republika.co.id/berita/sskicm393/perang-dagang-amerika-utara-dimulai"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari ini Tanggal 4 Maret 2025: Kota Surabaya Cerah",
+        "category": "News",
+        "publish_time": "03-03-2025 21:49",
+        "news_link": "https://news.republika.co.id/berita/sskhy828018761/prakiraan-cuaca-hari-ini-tanggal-4-maret-2025-kota-surabaya-cerah"
+    },
+    {
+        "title": "Jangan Lewatkan Shalat Sunah sebelum Subuh! Raih Keutamaannya",
+        "category": "Khazanah",
+        "publish_time": "03-03-2025 21:47",
+        "news_link": "https://khazanah.republika.co.id/berita/sskhuz458/jangan-lewatkan-shalat-sunah-sebelum-subuh-raih-keutamaannya"
+    },
+    {
+        "title": "IAEA: Iran Alami Lonjakan Stok Uranium, Mampu Produksi Enam Bom Nuklir dalam Waktu Cepat",
+        "category": "News",
+        "publish_time": "03-03-2025 21:46",
+        "news_link": "https://news.republika.co.id/berita/sskhtc409/iaea-iran-alami-lonjakan-stok-uranium-mampu-produksi-enam-bom-nuklir-dalam-waktu-cepat"
+    },
+    {
+        "title": "Eks PM Malaysia Ismail Sabri Terjerat Kasus Korupsi, Rp 626 Miliar dan Emas 16 Kg Disita",
+        "category": "News",
+        "publish_time": "03-03-2025 21:44",
+        "news_link": "https://news.republika.co.id/berita/sskhqk377/eks-pm-malaysia-ismail-sabri-terjerat-kasus-korupsi-rp-626-miliar-dan-emas-16-kg-disita"
+    },
+    {
+        "title": "Parlemen Israel Ricuh, Keluarga Sandera Dipukuli dan Diusir",
+        "category": "News",
+        "publish_time": "03-03-2025 21:41",
+        "news_link": "https://news.republika.co.id/berita/sskhke393/parlemen-israel-ricuh-keluarga-sandera-dipukuli-dan-diusir"
+    },
+    {
+        "title": "Prakiraan Cuaca di Kota Yogyakarta dan Sekitarnya - Hujan Ringan pada 4 Maret 2025",
+        "category": "News",
+        "publish_time": "03-03-2025 21:31",
+        "news_link": "https://news.republika.co.id/berita/sskh49124644549/prakiraan-cuaca-di-kota-yogyakarta-dan-sekitarnya-hujan-ringan-pada-4-maret-2025"
+    },
+    {
+        "title": "Netanyahu Bernafsu Kembali Jalankan Genosida di Gaza",
+        "category": "News",
+        "publish_time": "03-03-2025 21:31",
+        "news_link": "https://news.republika.co.id/berita/sskh40393/netanyahu-bernafsu-kembali-jalankan-genosida-di-gaza"
+    },
+    {
+        "title": "Yang Bedakan antara Puasa Orang Islam dan Yahudi-Nasrani",
+        "category": "Khazanah",
+        "publish_time": "03-03-2025 21:29",
+        "news_link": "https://khazanah.republika.co.id/berita/sskh1u458/yang-bedakan-antara-puasa-orang-islam-dan-yahudinasrani"
+    },
+    {
+        "title": "\u2018Halte Petukangan D\u2019Masiv Hadiah Spesial Buat Kami\u2019",
+        "category": "Ameera",
+        "publish_time": "03-03-2025 21:23",
+        "news_link": "https://ameera.republika.co.id/berita/sskgqu425/halte-petukangan-dmasiv-hadiah-spesial-buat-kami"
+    },
+    {
+        "title": "Bagaimana Cara Membangunkan Sahur pada Zaman Rasulullah?",
+        "category": "Khazanah",
+        "publish_time": "03-03-2025 21:15",
+        "news_link": "https://khazanah.republika.co.id/berita/sskgd1458/bagaimana-cara-membangunkan-sahur-pada-zaman-rasulullah"
+    },
+    {
+        "title": "PSIS tanpa Persiapan Maksimal Jelang Lawan Persija",
+        "category": "News",
+        "publish_time": "03-03-2025 21:15",
+        "news_link": "https://news.republika.co.id/berita/sskgd0348/psis-tanpa-persiapan-maksimal-jelang-lawan-persija"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini di Semarang dan Magelang, 4 Maret 2025",
+        "category": "News",
+        "publish_time": "03-03-2025 21:13",
+        "news_link": "https://news.republika.co.id/berita/sskga91486287807/prakiraan-cuaca-hari-ini-di-semarang-dan-magelang-4-maret-2025"
+    },
+    {
         "title": "Arema Incar Kemenangan atas Malut United di Ternate",
         "category": "News",
-        "publish_time": "03-03-2025 21:02",
+        "publish_time": "03-03-2025 21:12",
         "news_link": "https://news.republika.co.id/berita/sskfs7348/arema-incar-kemenangan-atas-malut-united-di-ternate"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini, 4 Maret 2025: Tangerang dan Sekitarnya, Hujan Ringan Diprediksi di Kota Cilegon",
         "category": "News",
-        "publish_time": "03-03-2025 21:00",
+        "publish_time": "03-03-2025 21:12",
         "news_link": "https://news.republika.co.id/berita/sskfoq1470986817/prakiraan-cuaca-hari-ini-4-maret-2025-tangerang-dan-sekitarnya-hujan-ringan-diprediksi-di-kota-cilegon"
     },
     {
         "title": "Jika Umroh Mandiri Dilegalkan, Amphuri Nilai Ekonomi Umat Terancam",
         "category": "Khazanah",
-        "publish_time": "03-03-2025 21:00",
+        "publish_time": "03-03-2025 21:12",
         "news_link": "https://khazanah.republika.co.id/berita/ssjv2y430/jika-umroh-mandiri-dilegalkan-amphuri-nilai-ekonomi-umat-terancam"
     },
     {
         "title": "Mengenal Pakkat, Makanan dari Pucuk Rotan Khas Mandailing yang Banyak Dicari saat Ramadhan",
         "category": "Visual",
-        "publish_time": "03-03-2025 21:00",
+        "publish_time": "03-03-2025 21:12",
         "news_link": "https://visual.republika.co.id/berita/ssk2wy375/mengenal-pakkat-makanan-dari-pucuk-rotan-khas-mandailing-yang-banyak-dicari-saat-ramadhan"
     },
     {
         "title": "Jadwal Imsakiyah Ramadhan Hari Ini dan Sholat 04 Maret 2025 di Palembang",
         "category": "Iqra",
-        "publish_time": "03-03-2025 20:40",
+        "publish_time": "03-03-2025 20:12",
         "news_link": "https://iqra.republika.co.id/berita/ssker21983272768/jadwal-imsakiyah-ramadhan-hari-ini-dan-sholat-04-maret-2025-di-palembang"
     },
     {
         "title": "Eks PM Malaysia Jadi Tersangka Korupsi, Uang Tunai 170 Juta Ringgit dan 16 Kg Emas Disita",
         "category": "News",
-        "publish_time": "03-03-2025 20:34",
+        "publish_time": "03-03-2025 20:12",
         "news_link": "https://news.republika.co.id/berita/sskeh4409/eks-pm-malaysia-jadi-tersangka-korupsi-uang-tunai-170-juta-ringgit-dan-16-kg-emas-disita"
     },
     {
         "title": "Baru 70 Persen Janji Politik KDM Tertuang di APBD 2025",
         "category": "Rejabar",
-        "publish_time": "03-03-2025 20:31",
+        "publish_time": "03-03-2025 20:12",
         "news_link": "https://rejabar.republika.co.id/berita/sskecx371/baru-70-persen-janji-politik-kdm-tertuang-di-apbd-2025"
     },
     {
         "title": "Tiket Timnas Indonesia Vs Bahrain Bisa Dibeli Mulai Hari Ini, Simak Caranya",
         "category": "News",
-        "publish_time": "03-03-2025 20:31",
+        "publish_time": "03-03-2025 20:12",
         "news_link": "https://news.republika.co.id/berita/sskec9348/tiket-timnas-indonesia-vs-bahrain-bisa-dibeli-mulai-hari-ini-simak-caranya"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini Tanggal 4 Maret 2025 untuk Bekasi dan Sekitarnya: Hujan Sedang",
         "category": "News",
-        "publish_time": "03-03-2025 20:30",
+        "publish_time": "03-03-2025 20:12",
         "news_link": "https://news.republika.co.id/berita/sskeau1941891625/prakiraan-cuaca-hari-ini-tanggal-4-maret-2025-untuk-bekasi-dan-sekitarnya-hujan-sedang"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini, 04 Maret 2025: Kota Padang Berawan",
         "category": "News",
-        "publish_time": "03-03-2025 20:29",
+        "publish_time": "03-03-2025 20:12",
         "news_link": "https://news.republika.co.id/berita/sske9163505397/prakiraan-cuaca-hari-ini-04-maret-2025-kota-padang-berawan"
     },
     {
         "title": "Pos Pantau Depok Siaga 1, BPBD Minta Warga Bantaran Kali Ciliwung Waspada Banjir",
         "category": "News",
-        "publish_time": "03-03-2025 20:27",
+        "publish_time": "03-03-2025 20:12",
         "news_link": "https://news.republika.co.id/berita/sske60409/pos-pantau-depok-siaga-1-bpbd-minta-warga-bantaran-kali-ciliwung-waspada-banjir"
     },
     {
         "title": "Prakiraan Cuaca Hari ini 4 Maret 2025: Hujan di Bandung dan Sekitarnya",
         "category": "News",
-        "publish_time": "03-03-2025 20:17",
+        "publish_time": "03-03-2025 20:12",
         "news_link": "https://news.republika.co.id/berita/sskdp1537516393/prakiraan-cuaca-hari-ini-4-maret-2025-hujan-di-bandung-dan-sekitarnya"
     },
     {
@@ -202,101 +298,5 @@
         "category": "News",
         "publish_time": "03-03-2025 16:12",
         "news_link": "https://news.republika.co.id/berita/ssk24h348/hamilton-sesumbar-tak-ada-pembalap-senior-setara-dengannya"
-    },
-    {
-        "title": "Pemprov DKI Siap Berkolaborasi dengan PSSI untuk Benahi Akses JIS",
-        "category": "News",
-        "publish_time": "03-03-2025 16:12",
-        "news_link": "https://news.republika.co.id/berita/ssk1tk348/pemprov-dki-siap-berkolaborasi-dengan-pssi-untuk-benahi-akses-jis"
-    },
-    {
-        "title": "Dedi Mulyadi akan Evaluasi Bangunan di Puncak: Fungsi Resapan Air di Puncak Dikembalikan",
-        "category": "Rejabar",
-        "publish_time": "03-03-2025 16:12",
-        "news_link": "https://rejabar.republika.co.id/berita/ssk1ni512/dedi-mulyadi-akan-evaluasi-bangunan-di-puncak-fungsi-resapan-air-di-puncak-dikembalikan"
-    },
-    {
-        "title": "Menteri Lingkungan Hidup Sematkan PROPER dan Green Leadership untuk BUMN Ini",
-        "category": "Ekonomi",
-        "publish_time": "03-03-2025 16:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/ssk1hv483/menteri-lingkungan-hidup-sematkan-proper-dan-green-leadership-untuk-bumn-ini"
-    },
-    {
-        "title": "Simeone Merasa Kali Ini Atletico Bisa Kalahkan Madrid di Liga Champions",
-        "category": "News",
-        "publish_time": "03-03-2025 16:12",
-        "news_link": "https://news.republika.co.id/berita/ssk19e348/simeone-merasa-kali-ini-atletico-bisa-kalahkan-madrid-di-liga-champions"
-    },
-    {
-        "title": "Soal Polemik Kadin Jabar, Pengurus Kota/Kabupaten Minta Kadin Indonesia Jadi Penengah",
-        "category": "Rejabar",
-        "publish_time": "03-03-2025 16:12",
-        "news_link": "https://rejabar.republika.co.id/berita/ssk17w512/soal-polemik-kadin-jabar-pengurus-kotakabupaten-minta-kadin-indonesia-jadi-penengah"
-    },
-    {
-        "title": "Viral Pria Bersenjata Diduga Intimidasi Pengendara di Bandung Barat",
-        "category": "Rejabar",
-        "publish_time": "03-03-2025 15:12",
-        "news_link": "https://rejabar.republika.co.id/berita/ssk0ax512/viral-pria-bersenjata-diduga-intimidasi-pengendara-di-bandung-barat"
-    },
-    {
-        "title": "Blankenheim, Produk Sepatu Kulit Asli Bandung yang Turut Berdayakan Pengrajin Sepatu",
-        "category": "Rejabar",
-        "publish_time": "03-03-2025 15:12",
-        "news_link": "https://rejabar.republika.co.id/berita/ssjzy9512/blankenheim-produk-sepatu-kulit-asli-bandung-yang-turut-berdayakan-pengrajin-sepatu"
-    },
-    {
-        "title": "Banjir Bandang Landa Kawasan Puncak Cisarua, Ini yang Dilakukan PTPN I",
-        "category": "Rejabar",
-        "publish_time": "03-03-2025 15:12",
-        "news_link": "https://rejabar.republika.co.id/berita/ssjzbq512/banjir-bandang-landa-kawasan-puncak-cisarua-ini-yang-dilakukan-ptpn-i"
-    },
-    {
-        "title": "Produksi Beras Januari-April Diproyeksi Capai Rekor Tertinggi dalam 7 Tahun Terakhir",
-        "category": "Ekonomi",
-        "publish_time": "03-03-2025 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/ssjz71502/produksi-beras-januariapril-diproyeksi-capai-rekor-tertinggi-dalam-7-tahun-terakhir"
-    },
-    {
-        "title": "Viral Halte Petukangan D\u2019Masiv, Ini Kata PT Transjakarta",
-        "category": "Ameera",
-        "publish_time": "03-03-2025 15:12",
-        "news_link": "https://ameera.republika.co.id/berita/ssjyjf425/viral-halte-petukangan-dmasiv-ini-kata-pt-transjakarta"
-    },
-    {
-        "title": "Opini : Uang",
-        "category": "Network",
-        "publish_time": "03-03-2025 15:12",
-        "news_link": "https://kampus.republika.co.id/posts/512424/opini-uang"
-    },
-    {
-        "title": "13 Prodi Sepi Peminat UNJ, Peluang Lolos Peserta SNBT 2025",
-        "category": "Network",
-        "publish_time": "03-03-2025 14:12",
-        "news_link": "https://kampusiana.id/posts/512420/13-prodi-sepi-peminat-unj-peluang-lolos-peserta-snbt-2025"
-    },
-    {
-        "title": "Dinkes Depok Bagikan Tips Cegah Bau Mulut Saat Berpuasa",
-        "category": "Network",
-        "publish_time": "03-03-2025 14:12",
-        "news_link": "https://ruzkaindonesia.id/posts/512418/dinkes-depok-bagikan-tips-cegah-bau-mulut-saat-berpuasa"
-    },
-    {
-        "title": "Demoday Halal Startup 2025 Diharap Perluas Industri Halal",
-        "category": "Ekonomi Syariah",
-        "publish_time": "03-03-2025 14:12",
-        "news_link": "https://sharia.republika.co.id/berita/ssjxo8472/demoday-halal-startup-2025-diharap-perluas-industri-halal"
-    },
-    {
-        "title": "Berburu Doa di Sepanjang Ramadhan",
-        "category": "Network",
-        "publish_time": "03-03-2025 14:12",
-        "news_link": "https://sumatralink.id/posts/512417/berburu-doa-di-sepanjang-ramadhan"
-    },
-    {
-        "title": "TNI AL Diskusi dengan AL Belanda Bahas Latihan Bersama di Utrecht",
-        "category": "Network",
-        "publish_time": "03-03-2025 14:12",
-        "news_link": "https://seputarmiliter.id/posts/512415/tni-al-diskusi-dengan-al-belanda-bahas-latihan-bersama-di-utrecht"
     }
 ]
