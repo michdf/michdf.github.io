@@ -1,146 +1,254 @@
 [
     {
+        "title": "Ratusan Masjid dan Pesantren di Yogya Dapat Bantuan Alat Kebersihan Selama Ramadhan",
+        "category": "Rejogja",
+        "publish_time": "07-03-2025 12:23",
+        "news_link": "https://rejogja.republika.co.id/berita/ssr6f2282/ratusan-masjid-dan-pesantren-di-yogya-dapat-bantuan-alat-kebersihan-selama-ramadhan"
+    },
+    {
+        "title": "Survei: Jepang, Singapura, dan Korsel Jadi Destinasi Favorit Liburan Luar Negeri WNI",
+        "category": "Ameera",
+        "publish_time": "07-03-2025 12:20",
+        "news_link": "https://ameera.republika.co.id/berita/ssr690416/survei-jepang-singapura-dan-korsel-jadi-destinasi-favorit-liburan-luar-negeri-wni"
+    },
+    {
+        "title": "ASN di Majalengka Istiqomah Gerakan Ngantor Berdhuha",
+        "category": "Rejabar",
+        "publish_time": "07-03-2025 12:18",
+        "news_link": "https://rejabar.republika.co.id/berita/ssr65o282/asn-di-majalengka-istiqomah-gerakan-ngantor-berdhuha"
+    },
+    {
+        "title": "Prabowo dan Ray Dalio Bahas Danantara dan Investasi di Indonesia",
+        "category": "News",
+        "publish_time": "07-03-2025 12:17",
+        "news_link": "https://news.republika.co.id/berita/ssr64z484/prabowo-dan-ray-dalio-bahas-danantara-dan-investasi-di-indonesia"
+    },
+    {
+        "title": "Pakar PBB Nilai Israel Gunakan Kelaparan Sebagai Senjata Terhadap Warga Gaza",
+        "category": "News",
+        "publish_time": "07-03-2025 12:16",
+        "news_link": "https://news.republika.co.id/berita/ssr3i8409/pakar-pbb-nilai-israel-gunakan-kelaparan-sebagai-senjata-terhadap-warga-gaza"
+    },
+    {
+        "title": "Sedekah kepada Ahli Maksiat, Apakah Sia-sia?",
+        "category": "Khazanah",
+        "publish_time": "07-03-2025 12:16",
+        "news_link": "https://khazanah.republika.co.id/berita/ssr622458/sedekah-kepada-ahli-maksiat-apakah-siasia"
+    },
+    {
+        "title": "Media Sosial : Instrumen Strategis Dalam Komunikasi Kebencanaan di Era Disrupsi",
+        "category": "Retizen",
+        "publish_time": "07-03-2025 12:12",
+        "news_link": "https://retizen.republika.co.id/posts/513014/media-sosial-instrumen-strategis-dalam-komunikasi-kebencanaan-di-era-disrupsi"
+    },
+    {
+        "title": "Bantuan Pasca Banjir Kota Bekasi",
+        "category": "Retizen",
+        "publish_time": "07-03-2025 12:11",
+        "news_link": "https://retizen.republika.co.id/posts/513080/bantuan-pasca-banjir-kota-bekasi"
+    },
+    {
+        "title": "Eco-Ramadhan: Mengurangi Sampah, Menambah Berkah",
+        "category": "Retizen",
+        "publish_time": "07-03-2025 12:11",
+        "news_link": "https://retizen.republika.co.id/posts/513091/eco-ramadhan-mengurangi-sampah-menambah-berkah"
+    },
+    {
+        "title": "Pasca Banjir yang Membutuhkan Atensi",
+        "category": "Retizen",
+        "publish_time": "07-03-2025 12:11",
+        "news_link": "https://retizen.republika.co.id/posts/513069/pasca-banjir-yang-membutuhkan-atensi"
+    },
+    {
+        "title": "Bulog Belum Temukan Kasus Gabah Petani Dibeli tak Standar HPP",
+        "category": "Rejogja",
+        "publish_time": "07-03-2025 12:09",
+        "news_link": "https://rejogja.republika.co.id/berita/ssr5ri282/bulog-belum-temukan-kasus-gabah-petani-dibeli-tak-standar-hpp"
+    },
+    {
+        "title": "Krisis Iklim Ancam Pembangkit Listrik Nuklir Tua di Florida",
+        "category": "Esgnow",
+        "publish_time": "07-03-2025 12:09",
+        "news_link": "https://esgnow.republika.co.id/berita/ssr5qh416/krisis-iklim-ancam-pembangkit-listrik-nuklir-tua-di-florida"
+    },
+    {
+        "title": "Mengenal Tradisi Unik Sholat Jumat di Masjid Kesultanan Ternate",
+        "category": "Visual",
+        "publish_time": "07-03-2025 12:00",
+        "news_link": "https://visual.republika.co.id/berita/ssqxwy375/mengenal-tradisi-unik-sholat-jumat-di-masjid-kesultanan-ternate"
+    },
+    {
+        "title": "Pastikan Kapal Prima, PELNI Siap Layani Pemudik",
+        "category": "Ekonomi",
+        "publish_time": "07-03-2025 11:58",
+        "news_link": "https://ekonomi.republika.co.id/berita/ssr595416/pastikan-kapal-prima-pelni-siap-layani-pemudik"
+    },
+    {
+        "title": "Pemerintah Gencarkan Program Sampah Jadi Energi",
+        "category": "Esgnow",
+        "publish_time": "07-03-2025 11:50",
+        "news_link": "https://esgnow.republika.co.id/berita/ssr4ul416/pemerintah-gencarkan-program-sampah-jadi-energi"
+    },
+    {
+        "title": "Polemik Disertasi Menteri Bahlil, Ketua Komisi X Sebut UI Sudah Transparan",
+        "category": "News",
+        "publish_time": "07-03-2025 11:48",
+        "news_link": "https://news.republika.co.id/berita/ssr4ry472/polemik-disertasi-menteri-bahlil-ketua-komisi-x-sebut-ui-sudah-transparan"
+    },
+    {
+        "title": "KPK Limpahkan Berkas Perkara Hasto ke Pengadilan Tipikor",
+        "category": "News",
+        "publish_time": "07-03-2025 11:25",
+        "news_link": "https://news.republika.co.id/berita/ssr3a4409/kpk-limpahkan-berkas-perkara-hasto-ke-pengadilan-tipikor"
+    },
+    {
+        "title": "Waketum Gerindra Ungkap Danantara Impian Begawan Soemitro Djojohadikusumo",
+        "category": "News",
+        "publish_time": "07-03-2025 11:25",
+        "news_link": "https://news.republika.co.id/berita/ssr34o484/waketum-gerindra-ungkap-danantara-impian-begawan-soemitro-djojohadikusumo"
+    },
+    {
         "title": "KAI Beri Diskon 25 Persen untuk yang Mau Mudik Lebih Awal",
         "category": "Ekonomi",
-        "publish_time": "07-03-2025 11:07",
+        "publish_time": "07-03-2025 11:25",
         "news_link": "https://ekonomi.republika.co.id/berita/ssr2vj423/kai-beri-diskon-25-persen-untuk-yang-mau-mudik-lebih-awal"
     },
     {
         "title": "Polisi Belum Bisa Simpulkan Penyebab Kematian Mahasiswa UKI Meski Beredar Foto-Foto Korban",
         "category": "News",
-        "publish_time": "07-03-2025 11:03",
+        "publish_time": "07-03-2025 11:25",
         "news_link": "https://news.republika.co.id/berita/ssr2p8409/polisi-belum-bisa-simpulkan-penyebab-kematian-mahasiswa-uki-meski-beredar-fotofoto-korban"
     },
     {
         "title": "Banjir di Telukjambe Karawang Belum Surut, Ketinggian Air Capai 150 Centimeter",
         "category": "Visual",
-        "publish_time": "07-03-2025 11:00",
+        "publish_time": "07-03-2025 11:25",
         "news_link": "https://visual.republika.co.id/berita/ssqxrz375/banjir-di-telukjambe-karawang-belum-surut-ketinggian-air-capai-150-centimeter"
     },
     {
         "title": "Sekjen Partai Komunis Vietnam akan Lakukan Lawatan Perdana ke Indonesia",
         "category": "News",
-        "publish_time": "07-03-2025 10:57",
+        "publish_time": "07-03-2025 11:25",
         "news_link": "https://news.republika.co.id/berita/ssr2fb487/sekjen-partai-komunis-vietnam-akan-lakukan-lawatan-perdana-ke-indonesia"
     },
     {
         "title": "Ini Produk-Produk Apple yang Dapat Sertifikat TKDN Terbaru dari Kemenperin, Ada Iphone 16",
         "category": "Ekonomi",
-        "publish_time": "07-03-2025 10:56",
+        "publish_time": "07-03-2025 11:25",
         "news_link": "https://ekonomi.republika.co.id/berita/ssr2e0409/ini-produkproduk-apple-yang-dapat-sertifikat-tkdn-terbaru-dari-kemenperin-ada-iphone-16"
     },
     {
         "title": "KAI Properti Salurkan Bingkisan Bantuan ke Anak Yatim di Bandung",
         "category": "Network",
-        "publish_time": "07-03-2025 10:56",
+        "publish_time": "07-03-2025 11:25",
         "news_link": "https://sekitarbandung.id/posts/513098/kai-properti-salurkan-bingkisan-bantuan-ke-anak-yatim-di-bandung"
     },
     {
         "title": "AHS Bootcamp: Sarana Kreativitas Peserta Kompetisi AIA Healthiest Schools 2025",
         "category": "Network",
-        "publish_time": "07-03-2025 10:55",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://magentatoday.id/posts/513093/ahs-bootcamp-sarana-kreativitas-peserta-kompetisi-aia-healthiest-schools-2025"
     },
     {
         "title": "Baykar dan Leonardo Kembangkan Sistem Peperangan Penerbangan Masa depan",
         "category": "Network",
-        "publish_time": "07-03-2025 10:54",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://seputarmiliter.id/posts/512972/baykar-dan-leonardo-kembangkan-sistem-peperangan-penerbangan-masa-depan"
     },
     {
         "title": "Hasil Penelitian: Pemeriksaan AI Dapat Mencegah Penyakit Kehilangan Penglihatan",
         "category": "Network",
-        "publish_time": "07-03-2025 10:54",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://impresiupdate.id/posts/513026/hasil-penelitian-pemeriksaan-ai-dapat-mencegah-penyakit-kehilangan-penglihatan"
     },
     {
         "title": "Penggunaan Rokok Elektrik Bisa Meningkatkan Risiko Kanker",
         "category": "Network",
-        "publish_time": "07-03-2025 10:54",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://impresiupdate.id/posts/513019/penggunaan-rokok-elektrik-bisa-meningkatkan-risiko-kanker"
     },
     {
         "title": "Kemasan Makanan Ramah Lingkungan: Pilihan dan Tips",
         "category": "Retizen",
-        "publish_time": "07-03-2025 10:53",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://retizen.republika.co.id/posts/513095/kemasan-makanan-ramah-lingkungan-pilihan-dan-tips"
     },
     {
         "title": "Perempuan dan Mimbar Tarawih",
         "category": "Retizen",
-        "publish_time": "07-03-2025 10:52",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://retizen.republika.co.id/posts/513006/perempuan-dan-mimbar-tarawih"
     },
     {
         "title": "Rekam Jejak Jalur Rempah Dunia",
         "category": "Retizen",
-        "publish_time": "07-03-2025 10:52",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://retizen.republika.co.id/posts/513042/rekam-jejak-jalur-rempah-dunia"
     },
     {
         "title": "Bertemu Prabowo, Kadin Harap Berkolaborasi dengan Danantara Indonesia",
         "category": "Ekonomi",
-        "publish_time": "07-03-2025 10:52",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://ekonomi.republika.co.id/berita/ssr271484/bertemu-prabowo-kadin-harap-berkolaborasi-dengan-danantara-indonesia"
     },
     {
         "title": "Santri Hafidz Qur'an DT Peduli Sumatera Barat Lulus Tasmi' Qur'an 30 Juz",
         "category": "Retizen",
-        "publish_time": "07-03-2025 10:52",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://retizen.republika.co.id/posts/513024/santri-hafidz-quran-dt-peduli-sumatera-barat-lulus-tasmi-quran-30-juz"
     },
     {
         "title": "Ranking FIFA Timnas Putri Indonesia Naik Tiga Tingkat",
         "category": "News",
-        "publish_time": "07-03-2025 10:52",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://news.republika.co.id/berita/ssr1qt348/ranking-fifa-timnas-putri-indonesia-naik-tiga-tingkat"
     },
     {
         "title": "Prakiraan Cuaca Kota Mataram 8 Maret 2025: Hujan Ringan",
         "category": "News",
-        "publish_time": "07-03-2025 10:49",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://news.republika.co.id/berita/ssr22c1380765162/prakiraan-cuaca-kota-mataram-8-maret-2025-hujan-ringan"
     },
     {
         "title": "IHSG Akhir Pekan Ditutup Menguat di Tengah Pelemahan Bursa Kawasan",
         "category": "Ekonomi",
-        "publish_time": "07-03-2025 10:45",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://ekonomi.republika.co.id/berita/ssr1rh423/ihsg-akhir-pekan-ditutup-menguat-di-tengah-pelemahan-bursa-kawasan"
     },
     {
         "title": "Ruben Amorim Bela Rasmus Hojlund yang Masih Seret Gol di MU",
         "category": "News",
-        "publish_time": "07-03-2025 10:39",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://news.republika.co.id/berita/ssr1lf348/ruben-amorim-bela-rasmus-hojlund-yang-masih-seret-gol-di-mu"
     },
     {
         "title": "China Ingin BRICS jadi Pusat Kerja Sama Negara-Negara Berkembang",
         "category": "Ekonomi",
-        "publish_time": "07-03-2025 10:36",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://ekonomi.republika.co.id/berita/ssr1h1423/china-ingin-brics-jadi-pusat-kerja-sama-negaranegara-berkembang"
     },
     {
         "title": "Kemendukbangga/BKKBN Jalin Kerja Sama dengan KPPMI/BPPMI dalam Penguatan Pekerja Migran",
         "category": "News",
-        "publish_time": "07-03-2025 10:31",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://news.republika.co.id/berita/ssr18k472/kemendukbanggabkkbn-jalin-kerja-sama-dengan-kppmibppmi-dalam-penguatan-pekerja-migran"
     },
     {
         "title": "Prabowo Pertemukan Pengusaha Besar RI dengan Investor Ray Dalio Bahas Danantara",
         "category": "News",
-        "publish_time": "07-03-2025 10:30",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://news.republika.co.id/berita/ssr169487/prabowo-pertemukan-pengusaha-besar-ri-dengan-investor-ray-dalio-bahas-danantara"
     },
     {
         "title": "Investasi Digital Meningkat, Livin\u2019 by Mandiri Catat Lonjakan 10 Kali Lipat",
         "category": "Ekonomi",
-        "publish_time": "07-03-2025 10:28",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://ekonomi.republika.co.id/berita/ssr142423/investasi-digital-meningkat-livin-by-mandiri-catat-lonjakan-10-kali-lipat"
     },
     {
         "title": "Memetik Pelajaran dari Kasus Agnez Mo",
         "category": "Kolom",
-        "publish_time": "07-03-2025 10:26",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://analisis.republika.co.id/berita/ssqu4i291/memetik-pelajaran-dari-kasus-agnez-mo"
     },
     {
@@ -152,151 +260,43 @@
     {
         "title": "Rupiah Ditutup Perkasa Pekan Ini, Sentuh Level Rp 16.294",
         "category": "Ekonomi",
-        "publish_time": "07-03-2025 10:22",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://ekonomi.republika.co.id/berita/ssr0ti423/rupiah-ditutup-perkasa-pekan-ini-sentuh-level-rp-16294"
     },
     {
         "title": "Aset Permata Syariah Capai Rp 38 Triliun, Rencana Spin-Off Masih Dikaji",
         "category": "Ekonomi Syariah",
-        "publish_time": "07-03-2025 10:21",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://sharia.republika.co.id/berita/ssr0sd502/aset-permata-syariah-capai-rp-38-triliun-rencana-spinoff-masih-dikaji"
     },
     {
         "title": "Jadwal Buka Puasa Hari Ini: 7 Maret 2025 di Bandung",
         "category": "Iqra",
-        "publish_time": "07-03-2025 10:15",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://iqra.republika.co.id/berita/ssr0hf878683645/jadwal-buka-puasa-hari-ini-7-maret-2025-di-bandung"
     },
     {
         "title": "Prabowo Ajak Menteri dan Taipan dengar Arahan Miliarder Global Ray Dalio",
         "category": "News",
-        "publish_time": "07-03-2025 10:14",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://news.republika.co.id/berita/ssr0g1484/prabowo-ajak-menteri-dan-taipan-dengar-arahan-miliarder-global-ray-dalio"
     },
     {
         "title": "Jadwal Buka Puasa Hari Ini: 7 Maret 2025 di Semarang",
         "category": "Iqra",
-        "publish_time": "07-03-2025 10:11",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://iqra.republika.co.id/berita/ssr05t1968986478/jadwal-buka-puasa-hari-ini-7-maret-2025-di-semarang"
     },
     {
         "title": "Sebanyak 5.000 Kursi Disiapkan dalam Mudik Gratis Bersama Pertamina 2025",
         "category": "Ekonomi",
-        "publish_time": "07-03-2025 10:11",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://ekonomi.republika.co.id/berita/ssr04q472/sebanyak-5000-kursi-disiapkan-dalam-mudik-gratis-bersama-pertamina-2025"
     },
     {
         "title": "Dikeluarkan dari Surga, Nabi Adam Jadi Petani di Bumi untuk Cukupi Kebutuhan Sehari-hari?",
         "category": "Khazanah",
-        "publish_time": "07-03-2025 10:11",
+        "publish_time": "07-03-2025 10:25",
         "news_link": "https://khazanah.republika.co.id/berita/ssr03m320/dikeluarkan-dari-surga-nabi-adam-jadi-petani-di-bumi-untuk-cukupi-kebutuhan-seharihari"
-    },
-    {
-        "title": "Simak Jadwal Buka Puasa Hari Ini di Surabaya, 7 Maret 2025!",
-        "category": "Iqra",
-        "publish_time": "07-03-2025 10:11",
-        "news_link": "https://iqra.republika.co.id/berita/ssqzuh1414225976/simak-jadwal-buka-puasa-hari-ini-di-surabaya-7-maret-2025"
-    },
-    {
-        "title": "Penjualan Buah di Pasar Induk Kramat Jati Meningkat Selama Ramadhan",
-        "category": "Visual",
-        "publish_time": "07-03-2025 10:11",
-        "news_link": "https://visual.republika.co.id/berita/ssqxpi375/penjualan-buah-di-pasar-induk-kramat-jati-meningkat-selama-ramadhan"
-    },
-    {
-        "title": "Mahasiswa UKI Tewas di Kampus Usai Mabuk, Ini Kata Polisi terkait Penyebab Kematian",
-        "category": "News",
-        "publish_time": "07-03-2025 10:11",
-        "news_link": "https://news.republika.co.id/berita/ssqzr2487/mahasiswa-uki-tewas-di-kampus-usai-mabuk-ini-kata-polisi-terkait-penyebab-kematian"
-    },
-    {
-        "title": "Jaringan Listrik PLN 100 Persen Sudah Normal Kembali Pascabanjir Jabodebek",
-        "category": "Ekonomi",
-        "publish_time": "07-03-2025 10:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/ssqzlq472/jaringan-listrik-pln-100-persen-sudah-normal-kembali-pascabanjir-jabodebek"
-    },
-    {
-        "title": "Terungkap! Jumlah Harta Para Pengusaha yang Temui Presiden di Istana Capai Rp 1.400 T",
-        "category": "News",
-        "publish_time": "07-03-2025 10:11",
-        "news_link": "https://news.republika.co.id/berita/ssqz8b475/terungkap-jumlah-harta-para-pengusaha-yang-temui-presiden-di-istana-capai-rp-1400-t"
-    },
-    {
-        "title": "Penundaan Tarif AS Berikan Sentimen Positif ke IHSG",
-        "category": "Ekonomi",
-        "publish_time": "07-03-2025 10:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/ssqz45370/penundaan-tarif-as-berikan-sentimen-positif-ke-ihsg"
-    },
-    {
-        "title": "Pertamina Peduli Salurkan Bantuan ke Warga Terdampak Banjir di Jakarta Selatan",
-        "category": "Ekonomi",
-        "publish_time": "07-03-2025 10:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/ssqz0r472/pertamina-peduli-salurkan-bantuan-ke-warga-terdampak-banjir-di-jakarta-selatan"
-    },
-    {
-        "title": "Sopir Pikap Terlibat Kecelakaan dengan Bendahara Partai Demokrat Ditetapkan Tersangka",
-        "category": "News",
-        "publish_time": "07-03-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/ssqyv4409/sopir-pikap-terlibat-kecelakaan-dengan-bendahara-partai-demokrat-ditetapkan-tersangka"
-    },
-    {
-        "title": "BI Bisa Pangkas Suku Bunga, tapi Ruangnya Semakin Terbatas",
-        "category": "Ekonomi",
-        "publish_time": "07-03-2025 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/ssqyqo423/bi-bisa-pangkas-suku-bunga-tapi-ruangnya-semakin-terbatas"
-    },
-    {
-        "title": "AS tak Lagi Berbagi Data Kualitas Udara",
-        "category": "Esgnow",
-        "publish_time": "07-03-2025 09:11",
-        "news_link": "https://esgnow.republika.co.id/berita/ssqyjz416/as-tak-lagi-berbagi-data-kualitas-udara"
-    },
-    {
-        "title": "Kevin Diks Cedera, Peluang Eliano Reijnders Main Bela Timnas Indonesia",
-        "category": "News",
-        "publish_time": "07-03-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/ssqyhx348/kevin-diks-cedera-peluang-eliano-reijnders-main-bela-timnas-indonesia"
-    },
-    {
-        "title": "Jihad Anak Muda Toronto: Pasang Papan Ramadhan Mubarak Pertama Kali dalam Sejarah",
-        "category": "Khazanah",
-        "publish_time": "07-03-2025 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/ssqyhg483/jihad-anak-muda-toronto-pasang-papan-ramadhan-mubarak-pertama-kali-dalam-sejarah"
-    },
-    {
-        "title": "Ketua Bawaslu Bandung Barat Ditangkap Polisi Terkait Kasus Narkoba",
-        "category": "Visual",
-        "publish_time": "07-03-2025 09:11",
-        "news_link": "https://visual.republika.co.id/berita/ssqx8k375/ketua-bawaslu-bandung-barat-ditangkap-polisi-terkait-kasus-narkoba"
-    },
-    {
-        "title": "Punya Anak Disabilitas, Apakah Bentuk Azab Allah SWT untuk Kedua Orang Tuanya?",
-        "category": "Khazanah",
-        "publish_time": "07-03-2025 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/ssqy92320/punya-anak-disabilitas-apakah-bentuk-azab-allah-swt-untuk-kedua-orang-tuanya"
-    },
-    {
-        "title": "Cadangan Devisa Februari 2025 Turun Tipis Jadi Rp 2.522 Triliun",
-        "category": "Ekonomi",
-        "publish_time": "07-03-2025 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/ssqy8f502/cadangan-devisa-februari-2025-turun-tipis-jadi-rp-2522-triliun"
-    },
-    {
-        "title": "Ramadhan Melatih Kejujuran dan Jiwa Muraqabah",
-        "category": "Khazanah",
-        "publish_time": "07-03-2025 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/ssqxyl458/ramadhan-melatih-kejujuran-dan-jiwa-muraqabah"
-    },
-    {
-        "title": "BNI Satu-satunya Bank Indonesia yang Raih Penghargaan Asia Sustainability Reporting Awards",
-        "category": "Ekonomi",
-        "publish_time": "07-03-2025 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/ssqxw4423/bni-satusatunya-bank-indonesia-yang-raih-penghargaan-asia-sustainability-reporting-awards"
-    },
-    {
-        "title": "Dukung Ketahanan Pangan Prabowo, Brantas Abipraya Percepat Pembangunan Bendungan",
-        "category": "Ekonomi",
-        "publish_time": "07-03-2025 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/ssqxnv370/dukung-ketahanan-pangan-prabowo-brantas-abipraya-percepat-pembangunan-bendungan"
     }
 ]
