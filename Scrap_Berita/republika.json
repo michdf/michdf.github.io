@@ -1,44 +1,74 @@
 [
     {
+        "title": "Sejuta Lebih Warga Gaza Terancam Tanpa Air Minum",
+        "category": "News",
+        "publish_time": "10-03-2025 22:00",
+        "news_link": "https://news.republika.co.id/berita/ssxh5o393/sejuta-lebih-warga-gaza-terancam-tanpa-air-minum"
+    },
+    {
+        "title": "BMW Dibuat Marah Sampai Melakukan Gugatan, Ini Alasan Mengapa BYD Gunakan Merek M6",
+        "category": "Ekonomi",
+        "publish_time": "10-03-2025 22:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/ssxbyf468/bmw-dibuat-marah-sampai-melakukan-gugatan-ini-alasan-mengapa-byd-gunakan-merek-m6"
+    },
+    {
+        "title": "Studi: Puasa Ramadhan Bantu Turunkan Tekanan Darah",
+        "category": "Khazanah",
+        "publish_time": "10-03-2025 21:48",
+        "news_link": "https://khazanah.republika.co.id/berita/ssxgkv425/studi-puasa-ramadhan-bantu-turunkan-tekanan-darah"
+    },
+    {
+        "title": "Ikut Permintaan Prabowo, Grab Berikan Bonus Hari Raya ke Ojol, Ini Syarat untuk Dapat",
+        "category": "News",
+        "publish_time": "10-03-2025 21:35",
+        "news_link": "https://news.republika.co.id/berita/ssxfzr377/ikut-permintaan-prabowo-grab-berikan-bonus-hari-raya-ke-ojol-ini-syarat-untuk-dapat"
+    },
+    {
+        "title": "Trump Ancam Tangkap Lebih Banyak Aktivis Pro-Palestina",
+        "category": "News",
+        "publish_time": "10-03-2025 21:17",
+        "news_link": "https://news.republika.co.id/berita/ssxf5m393/trump-ancam-tangkap-lebih-banyak-aktivis-propalestina"
+    },
+    {
         "title": "Izin Tambang Muhammadiyah Terbit Bulan Ini, Begini Terima Kasih Anwar Abbas kepada Bahlil",
         "category": "Khazanah",
-        "publish_time": "10-03-2025 21:08",
+        "publish_time": "10-03-2025 21:12",
         "news_link": "https://khazanah.republika.co.id/berita/ssxepe483/izin-tambang-muhammadiyah-terbit-bulan-ini-begini-terima-kasih-anwar-abbas-kepada-bahlil"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini: Tangerang dan Sekitarnya, 11 Maret 2025",
         "category": "News",
-        "publish_time": "10-03-2025 21:00",
+        "publish_time": "10-03-2025 21:12",
         "news_link": "https://news.republika.co.id/berita/ssxecp176392393/prakiraan-cuaca-hari-ini-tangerang-dan-sekitarnya-11-maret-2025"
     },
     {
         "title": "Ada Kode Zakat dalam Kasus Korupsi LPEI, Benarkah Zakat Dikorupsi?",
         "category": "Khazanah",
-        "publish_time": "10-03-2025 21:00",
+        "publish_time": "10-03-2025 21:12",
         "news_link": "https://khazanah.republika.co.id/berita/ssxec2483/ada-kode-zakat-dalam-kasus-korupsi-lpei-benarkah-zakat-dikorupsi"
     },
     {
         "title": "Menengok Aktivitas Ramadhan di Masjid Luar Batang Jakarta",
         "category": "Visual",
-        "publish_time": "10-03-2025 21:00",
+        "publish_time": "10-03-2025 21:12",
         "news_link": "https://visual.republika.co.id/berita/sswyb1375/menengok-aktivitas-ramadhan-di-masjid-luar-batang-jakarta"
     },
     {
         "title": "Dapat Rp 6 Triliun dari Adidas, Liverpool Usir Nike Keluar dari Stadion Anfield",
         "category": "News",
-        "publish_time": "10-03-2025 20:42",
+        "publish_time": "10-03-2025 20:12",
         "news_link": "https://news.republika.co.id/berita/ssxdj0468/dapat-rp-6-triliun-dari-adidas-liverpool-usir-nike-keluar-dari-stadion-anfield"
     },
     {
         "title": "Memperkuat Iman dengan Jadwal Imsakiyah Ramadhan Hari Ini, 11 Maret 2025, di Palembang",
         "category": "Khazanah",
-        "publish_time": "10-03-2025 20:40",
+        "publish_time": "10-03-2025 20:12",
         "news_link": "https://khazanah.republika.co.id/berita/ssxdf41634127030/memperkuat-iman-dengan-jadwal-imsakiyah-ramadhan-hari-ini-11-maret-2025-di-palembang"
     },
     {
         "title": "Luncurkan SPPA, BEI Targetkan Transaksi Rp 200 Triliun",
         "category": "Ekonomi",
-        "publish_time": "10-03-2025 20:24",
+        "publish_time": "10-03-2025 20:12",
         "news_link": "https://ekonomi.republika.co.id/berita/ssxcog370/luncurkan-sppa-bei-targetkan-transaksi-rp-200-triliun"
     },
     {
@@ -268,35 +298,5 @@
         "category": "Rejabar",
         "publish_time": "10-03-2025 14:12",
         "news_link": "https://rejabar.republika.co.id/berita/sswwod282/rumahnya-digeledah-kpk-ridwan-kamil-kami-kooperatif-dan-mendukung-tim-kpk"
-    },
-    {
-        "title": "Panglima Siagakan 66.714 Personel TNI Amankan Libur Idul Fitri",
-        "category": "Network",
-        "publish_time": "10-03-2025 14:12",
-        "news_link": "https://seputarmiliter.id/posts/513503/panglima-siagakan-66-714-personel-tni-amankan-libur-idul-fitri"
-    },
-    {
-        "title": "Ketika Shalat Khusyuk, Anak Panah Melesat Tak Terasa",
-        "category": "Network",
-        "publish_time": "10-03-2025 14:12",
-        "news_link": "https://sumatralink.id/posts/513513/ketika-shalat-khusyuk-anak-panah-melesat-tak-terasa"
-    },
-    {
-        "title": "ASDP Perkuat Ekspansi Layanan Ro-Ro, Tingkatkan Konektivitas Maritim",
-        "category": "Network",
-        "publish_time": "10-03-2025 14:12",
-        "news_link": "https://shippingcargo.co.id/posts/513445/asdp-perkuat-ekspansi-layanan-ro-ro-tingkatkan-konektivitas-maritim"
-    },
-    {
-        "title": "AHY Dukung Dedi Mulyadi Tertibkan Kawasan Puncak Bogor",
-        "category": "Rejabar",
-        "publish_time": "10-03-2025 14:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sswwd1282/ahy-dukung-dedi-mulyadi-tertibkan-kawasan-puncak-bogor"
-    },
-    {
-        "title": "Ini Isi Secarik Surat Ridwan Kamil Soal Penggeledahan KPK ke Kediamannya",
-        "category": "Rejabar",
-        "publish_time": "10-03-2025 14:12",
-        "news_link": "https://rejabar.republika.co.id/berita/sswwc1512/ini-isi-secarik-surat-ridwan-kamil-soal-penggeledahan-kpk-ke-kediamannya"
     }
 ]
