@@ -1,5 +1,77 @@
 [
     {
+        "title": "Ada Ancaman Resesi AS, Rupiah Berpotensi Menguat",
+        "category": "Ekonomi",
+        "publish_time": "10-03-2025 04:08",
+        "news_link": "https://ekonomi.republika.co.id/berita/ssw3gv490/ada-ancaman-resesi-as-rupiah-berpotensi-menguat"
+    },
+    {
+        "title": "Sekjen Hizbullah Sanggah Ada Kesepakatan Rahasia dengan Israel",
+        "category": "Khazanah",
+        "publish_time": "10-03-2025 04:04",
+        "news_link": "https://khazanah.republika.co.id/berita/ssw3bh483/sekjen-hizbullah-sanggah-ada-kesepakatan-rahasia-dengan-israel"
+    },
+    {
+        "title": "Bea Cukai Soekarno Hatta Ungkap Jaringan Internasional, 3.089 Jiwa Selamat dari Narkoba",
+        "category": "Beacukai",
+        "publish_time": "10-03-2025 04:04",
+        "news_link": "https://republika.co.id/berita//ssw3bg472/bea-cukai-soekarno-hatta-ungkap-jaringan-internasional-3-089-jiwa-selamat-dari-narkoba"
+    },
+    {
+        "title": "Tradisi Bukber Ramadhan Diprediksi Bisa Dongkrak Penerimaan Pajak Resto di Kota Cimahi",
+        "category": "Rejabar",
+        "publish_time": "10-03-2025 03:42",
+        "news_link": "https://rejabar.republika.co.id/berita/ssw29n512/tradisi-bukber-ramadhan-diprediksi-bisa-dongkrak-penerimaan-pajak-resto-di-kota-cimahi"
+    },
+    {
+        "title": "Lulusan UNM Kampus Jatiwaringin Sukses Berkarier di Dunia Profesional",
+        "category": "News",
+        "publish_time": "10-03-2025 03:37",
+        "news_link": "https://news.republika.co.id/berita/ssw220472/lulusan-unm-kampus-jatiwaringin-sukses-berkarier-di-dunia-profesional"
+    },
+    {
+        "title": "Harga Cabai Rawit Masih Betah di Level Rp 89 Ribu per Kilogram",
+        "category": "Ekonomi",
+        "publish_time": "10-03-2025 03:32",
+        "news_link": "https://ekonomi.republika.co.id/berita/ssw1ub490/harga-cabai-rawit-masih-betah-di-level-rp-89-ribu-per-kilogram"
+    },
+    {
+        "title": "Triwulan I-2025, APBD Jabar Dinilai Belum Pulihkan Ekonomi Warga",
+        "category": "Rejabar",
+        "publish_time": "10-03-2025 03:31",
+        "news_link": "https://rejabar.republika.co.id/berita/ssw1sk512/triwulan-i2025-apbd-jabar-dinilai-belum-pulihkan-ekonomi-warga"
+    },
+    {
+        "title": "Dampingi Masyarakat, Cyber University Tingkatkan Literasi IT untuk Pelayanan Publik",
+        "category": "News",
+        "publish_time": "10-03-2025 03:28",
+        "news_link": "https://news.republika.co.id/berita/ssw1n8472/dampingi-masyarakat-cyber-university-tingkatkan-literasi-it-untuk-pelayanan-publik"
+    },
+    {
+        "title": "Penuhi Kebutuhan Lebaran, BRI Siapkan Uang Tunai Rp 32,8 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "10-03-2025 03:26",
+        "news_link": "https://ekonomi.republika.co.id/berita/ssw1kg490/penuhi-kebutuhan-lebaran-bri-siapkan-uang-tunai-rp-328-triliun"
+    },
+    {
+        "title": "IHSG Dibuka Lesu, Pasar Tunggu Data Indeks Keyakinan Konsumen",
+        "category": "Ekonomi",
+        "publish_time": "10-03-2025 03:23",
+        "news_link": "https://ekonomi.republika.co.id/berita/ssw1f1490/ihsg-dibuka-lesu-pasar-tunggu-data-indeks-keyakinan-konsumen"
+    },
+    {
+        "title": "Bikin Selalu Optimis, Ini Rahasia Berdoa dengan Asmaul Husna Menurut Quraish Shihab",
+        "category": "Iqra",
+        "publish_time": "10-03-2025 03:19",
+        "news_link": "https://iqra.republika.co.id/berita/ssw18i483/bikin-selalu-optimis-ini-rahasia-berdoa-dengan-asmaul-husna-menurut-quraish-shihab"
+    },
+    {
+        "title": "Sekda Jabar Herman Sebut, Ini Penyebab Sampah Longsor di TPA Sarimukti",
+        "category": "Rejabar",
+        "publish_time": "10-03-2025 03:18",
+        "news_link": "https://rejabar.republika.co.id/berita/ssw15w512/sekda-jabar-herman-sebut-ini-penyebab-sampah-longsor-di-tpa-sarimukti"
+    },
+    {
         "title": "Perpustakaan UNM Menjadi Ruang Diskusi untuk Tingkatkan Pemikiran Kritis Mahasiswa",
         "category": "News",
         "publish_time": "10-03-2025 03:13",
@@ -8,49 +80,49 @@
     {
         "title": "Komitmen Rawat Lima Masjid Raya, Pemprov Jabar Anggarkan Rp 1,6 Miliar",
         "category": "Rejabar",
-        "publish_time": "10-03-2025 03:00",
+        "publish_time": "10-03-2025 03:13",
         "news_link": "https://rejabar.republika.co.id/berita/ssw0dj512/komitmen-rawat-lima-masjid-raya-pemprov-jabar-anggarkan-rp-16-miliar"
     },
     {
         "title": "Dewas BPKH: Pertumbuhan Dana Haji Lampaui Target",
         "category": "Khazanah",
-        "publish_time": "10-03-2025 02:58",
+        "publish_time": "10-03-2025 03:13",
         "news_link": "https://khazanah.republika.co.id/berita/ssw09s483/dewas-bpkh-pertumbuhan-dana-haji-lampaui-target"
     },
     {
         "title": "Israel Putus Aliran Listrik di Gaza",
         "category": "Video",
-        "publish_time": "10-03-2025 02:35",
+        "publish_time": "10-03-2025 02:13",
         "news_link": "https://tv.republika.co.id/berita/ssvz7p313/israel-putus-aliran-listrik-di-gaza"
     },
     {
         "title": "BMKG Sebut Sepekan ke Depan Bandung Raya Berpotensi Hujan",
         "category": "Rejabar",
-        "publish_time": "10-03-2025 02:30",
+        "publish_time": "10-03-2025 02:13",
         "news_link": "https://rejabar.republika.co.id/berita/ssvyy7512/bmkg-sebut-sepekan-ke-depan-bandung-raya-berpotensi-hujan"
     },
     {
         "title": "Pemprov DKI Jakarta Kaji Pindahkan Warga Bantaran Sungai Rawan Banjir ke Rusun",
         "category": "News",
-        "publish_time": "10-03-2025 02:19",
+        "publish_time": "10-03-2025 02:13",
         "news_link": "https://news.republika.co.id/berita/ssvxgj409/pemprov-dki-jakarta-kaji-pindahkan-warga-bantaran-sungai-rawan-banjir-ke-rusun"
     },
     {
         "title": "Banjir Masih Merendam 8.790 Rumah dan Memutus Akses Jalan di Kabupaten Bandung",
         "category": "Rejabar",
-        "publish_time": "10-03-2025 02:18",
+        "publish_time": "10-03-2025 02:13",
         "news_link": "https://rejabar.republika.co.id/berita/ssvyeh512/banjir-masih-merendam-8790-rumah-dan-memutus-akses-jalan-di-kabupaten-bandung"
     },
     {
         "title": "Disnaker Umumkan Pembayaran THR Paling Lambat 24 Maret 2025",
         "category": "News",
-        "publish_time": "10-03-2025 02:16",
+        "publish_time": "10-03-2025 02:13",
         "news_link": "https://news.republika.co.id/berita/ssvyc2484/disnaker-umumkan-pembayaran-thr-paling-lambat-24-maret-2025"
     },
     {
         "title": "Harga Emas Hari Ini Naik Rp 3.000 per Gram",
         "category": "Ekonomi",
-        "publish_time": "10-03-2025 02:14",
+        "publish_time": "10-03-2025 02:13",
         "news_link": "https://ekonomi.republika.co.id/berita/ssvy7u490/harga-emas-hari-ini-naik-rp-3000-per-gram"
     },
     {
@@ -226,77 +298,5 @@
         "category": "Khazanah",
         "publish_time": "10-03-2025 00:13",
         "news_link": "https://khazanah.republika.co.id/berita/ssvruh483/lantunan-ayat-suci-dari-balik-jeruji"
-    },
-    {
-        "title": "Rachmat Pambudy dan Dadan Hindayana Kunjungi Dapur BGN di Bekasi",
-        "category": "News",
-        "publish_time": "09-03-2025 23:13",
-        "news_link": "https://news.republika.co.id/berita/ssvjx1484/rachmat-pambudy-dan-dadan-hindayana-kunjungi-dapur-bgn-di-bekasi"
-    },
-    {
-        "title": "Pelatih Persija Doakan Rizky Ridho dan Ferarri Berikan yang Terbaik untuk Timnas Indonesia",
-        "category": "News",
-        "publish_time": "09-03-2025 23:13",
-        "news_link": "https://news.republika.co.id/berita/ssvr1x348/pelatih-persija-doakan-rizky-ridho-dan-ferarri-berikan-yang-terbaik-untuk-timnas-indonesia"
-    },
-    {
-        "title": "Polri Mulai Selidiki Kecurangan Pengemasan Produk Minyakita",
-        "category": "News",
-        "publish_time": "09-03-2025 23:13",
-        "news_link": "https://news.republika.co.id/berita/ssviei484/polri-mulai-selidiki-kecurangan-pengemasan-produk-minyakita"
-    },
-    {
-        "title": "Pebulu Tangkis Indonesia Berlatih di Birmingham Arena, Pulihkan Fisik Jelang All England",
-        "category": "News",
-        "publish_time": "09-03-2025 23:13",
-        "news_link": "https://news.republika.co.id/berita/ssvpt9348/pebulu-tangkis-indonesia-berlatih-di-birmingham-arena-pulihkan-fisik-jelang-all-england"
-    },
-    {
-        "title": "Hujan Petir Diprakirakan Landa Sebagian Jakarta pada Senin Pagi",
-        "category": "News",
-        "publish_time": "09-03-2025 23:13",
-        "news_link": "https://news.republika.co.id/berita/ssvkgd409/hujan-petir-diprakirakan-landa-sebagian-jakarta-pada-senin-pagi"
-    },
-    {
-        "title": "Atalanta Permalukan Juventus di Kandang Sendiri, Hangatkan Persaingan Juara Serie A",
-        "category": "News",
-        "publish_time": "09-03-2025 23:13",
-        "news_link": "https://news.republika.co.id/berita/ssvpct348/atalanta-permalukan-juventus-di-kandang-sendiri-hangatkan-persaingan-juara-serie-a"
-    },
-    {
-        "title": "Mau Dilebur dengan BP Haji, Anggota BPKH: Seperti Minyak dan Air",
-        "category": "Khazanah",
-        "publish_time": "09-03-2025 23:13",
-        "news_link": "https://khazanah.republika.co.id/berita/ssvp93483/mau-dilebur-dengan-bp-haji-anggota-bpkh-seperti-minyak-dan-air"
-    },
-    {
-        "title": "Tips Simpan Jarum Pentul Supaya Nggak Sering Hilang, Cocok untuk Pengguna Hijab",
-        "category": "Ameera",
-        "publish_time": "09-03-2025 23:13",
-        "news_link": "https://ameera.republika.co.id/berita/ssvp93425/tips-simpan-jarum-pentul-supaya-nggak-sering-hilang-cocok-untuk-pengguna-hijab"
-    },
-    {
-        "title": "Biadab! Israel Putus Pasokan Listrik ke Jalur Gaza di Tengah Gencatan Senjata",
-        "category": "Khazanah",
-        "publish_time": "09-03-2025 23:13",
-        "news_link": "https://khazanah.republika.co.id/berita/ssvov2483/biadab-israel-putus-pasokan-listrik-ke-jalur-gaza-di-tengah-gencatan-senjata"
-    },
-    {
-        "title": "Bijak Bermedsos Selama Ramadhan: Selektif Scroll, Jaga Jempol",
-        "category": "Khazanah",
-        "publish_time": "09-03-2025 22:13",
-        "news_link": "https://khazanah.republika.co.id/berita/ssvo8m425/bijak-bermedsos-selama-ramadhan-selektif-scroll-jaga-jempol"
-    },
-    {
-        "title": "Hangtuah Kembali Menang, Prawira Kalah Menyesakkan dalam Lanjutan IBL",
-        "category": "News",
-        "publish_time": "09-03-2025 22:13",
-        "news_link": "https://news.republika.co.id/berita/ssvnvt348/hangtuah-kembali-menang-prawira-kalah-menyesakkan-dalam-lanjutan-ibl"
-    },
-    {
-        "title": "Terungkap, OPM Kerap Beli Senjata dari Aparat yang 'Butuh Uang\u2019",
-        "category": "News",
-        "publish_time": "09-03-2025 22:13",
-        "news_link": "https://news.republika.co.id/berita/ssvne2393/terungkap-opm-kerap-beli-senjata-dari-aparat-yang-butuh-uang"
     }
 ]
