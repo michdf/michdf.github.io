@@ -1,110 +1,200 @@
 [
     {
+        "title": "BMKG: Jalan Underpass di Kulonprogo Rawan Tsunami pada Libur Lebaran",
+        "category": "Rejogja",
+        "publish_time": "12-03-2025 06:18",
+        "news_link": "https://rejogja.republika.co.id/berita/sszyup483/bmkg-jalan-underpass-di-kulonprogo-rawan-tsunami-pada-libur-lebaran"
+    },
+    {
+        "title": "Ingin Buat Program Sarapan Gratis, Pramono: Bukan untuk Saingi MBG",
+        "category": "News",
+        "publish_time": "12-03-2025 06:13",
+        "news_link": "https://news.republika.co.id/berita/sszynm377/ingin-buat-program-sarapan-gratis-pramono-bukan-untuk-saingi-mbg"
+    },
+    {
+        "title": "Mendag Minta Pengawasan Minyakita di Pasar Diperketat",
+        "category": "Ekonomi",
+        "publish_time": "12-03-2025 06:13",
+        "news_link": "https://ekonomi.republika.co.id/berita/sszync370/mendag-minta-pengawasan-minyakita-di-pasar-diperketat"
+    },
+    {
+        "title": "Hanya Tujuh Negara yang Penuhi Standar Kualitas Udara WHO",
+        "category": "Esgnow",
+        "publish_time": "12-03-2025 06:12",
+        "news_link": "https://esgnow.republika.co.id/berita/sszym9416/hanya-tujuh-negara-yang-penuhi-standar-kualitas-udara-who"
+    },
+    {
+        "title": "Menteri Brian Ingin Galakkan Riset-Riset Haji",
+        "category": "Khazanah",
+        "publish_time": "12-03-2025 06:07",
+        "news_link": "https://khazanah.republika.co.id/berita/sszydn483/menteri-brian-ingin-galakkan-risetriset-haji"
+    },
+    {
+        "title": "Hukum Talak Main-main, Bercanda atau Mabuk",
+        "category": "Khazanah",
+        "publish_time": "12-03-2025 06:05",
+        "news_link": "https://khazanah.republika.co.id/berita/sszy9u458/hukum-talak-mainmain-bercanda-atau-mabuk"
+    },
+    {
+        "title": "Israel Latihan Militer dengan AS, Iran tak Mau Kalah Latgab dengan China dan Rusia",
+        "category": "News",
+        "publish_time": "12-03-2025 06:01",
+        "news_link": "https://news.republika.co.id/berita/sszy3i377/israel-latihan-militer-dengan-as-iran-tak-mau-kalah-latgab-dengan-china-dan-rusia"
+    },
+    {
+        "title": "Puasa Sepanjang Waktu Salman al-Farisi",
+        "category": "Khazanah",
+        "publish_time": "12-03-2025 06:01",
+        "news_link": "https://khazanah.republika.co.id/berita/sszy2l458/puasa-sepanjang-waktu-salman-alfarisi"
+    },
+    {
+        "title": "Polusi Mikroplastik Ancam Ketahanan Pangan Global",
+        "category": "Esgnow",
+        "publish_time": "12-03-2025 05:58",
+        "news_link": "https://esgnow.republika.co.id/berita/sszxxe416/polusi-mikroplastik-ancam-ketahanan-pangan-global"
+    },
+    {
+        "title": "Dirut Pertamina Pilih 'Ngumpet' Saat Kasus Korupsi Mencuat, Ini Alasannya",
+        "category": "Ekonomi",
+        "publish_time": "12-03-2025 05:55",
+        "news_link": "https://ekonomi.republika.co.id/berita/sszxtp370/dirut-pertamina-pilih-ngumpet-saat-kasus-korupsi-mencuat-ini-alasannya"
+    },
+    {
+        "title": "Slot Bangga Aksi Liverpool Meski Terdepak dari Liga Champions, Enrique Puji Karakter PSG",
+        "category": "News",
+        "publish_time": "12-03-2025 05:49",
+        "news_link": "https://news.republika.co.id/berita/sszxie348/slot-bangga-aksi-liverpool-meski-terdepak-dari-liga-champions-enrique-puji-karakter-psg"
+    },
+    {
+        "title": "Mengenal Empat Hukum Puasa Dalam Islam",
+        "category": "Khazanah",
+        "publish_time": "12-03-2025 05:34",
+        "news_link": "https://khazanah.republika.co.id/berita/sszwtw458/mengenal-empat-hukum-puasa-dalam-islam"
+    },
+    {
+        "title": "Kesulitan di Liga Domestik, Arteta Tegaskan Arsenal tidak Tertekan Main di Liga Champions",
+        "category": "News",
+        "publish_time": "12-03-2025 05:20",
+        "news_link": "https://news.republika.co.id/berita/sszw7d348/kesulitan-di-liga-domestik-arteta-tegaskan-arsenal-tidak-tertekan-main-di-liga-champions"
+    },
+    {
+        "title": "PT DI Siap Produksi 20 Pesawat CN235 untuk TNI AD, AL, dan AU",
+        "category": "News",
+        "publish_time": "12-03-2025 05:19",
+        "news_link": "https://news.republika.co.id/berita/sszw4j484/pt-di-siap-produksi-20-pesawat-cn235-untuk-tni-ad-al-dan-au"
+    },
+    {
+        "title": "Buntut Larangan Study Tour Jabar, TMII Alami Pembatalan Kunjungan",
+        "category": "News",
+        "publish_time": "12-03-2025 05:18",
+        "news_link": "https://news.republika.co.id/berita/sszvyt425/buntut-larangan-study-tour-jabar-tmii-alami-pembatalan-kunjungan"
+    },
+    {
         "title": "Horee....Libur Lebaran Anak Sekolah  Diperpanjang Jadi 20 Hari",
         "category": "Network",
-        "publish_time": "12-03-2025 05:09",
+        "publish_time": "12-03-2025 05:18",
         "news_link": "https://kampus.republika.co.id/posts/513768/horee-libur-lebaran-anak-sekolah-diperpanjang-jadi-20-hari"
     },
     {
         "title": "Dampak Global Proteksionisme Trump: Ancaman bagi Stabilitas Ekonomi Dunia",
         "category": "Kolom",
-        "publish_time": "12-03-2025 05:08",
+        "publish_time": "12-03-2025 05:18",
         "news_link": "https://analisis.republika.co.id/berita/sszvms475/dampak-global-proteksionisme-trump-ancaman-bagi-stabilitas-ekonomi-dunia"
     },
     {
         "title": "Pengangkatan CASN Ditunda Oktober, Ombudsman: Jadi Pengangguran Sementara",
         "category": "News",
-        "publish_time": "12-03-2025 05:07",
+        "publish_time": "12-03-2025 05:18",
         "news_link": "https://news.republika.co.id/berita/sszvl6484/pengangkatan-casn-ditunda-oktober-ombudsman-jadi-pengangguran-sementara"
     },
     {
         "title": "KKP Dorong Modernisasi Kapal Perikanan Indonesia",
         "category": "Ekonomi",
-        "publish_time": "12-03-2025 05:05",
+        "publish_time": "12-03-2025 05:18",
         "news_link": "https://ekonomi.republika.co.id/berita/sszstw490/kkp-dorong-modernisasi-kapal-perikanan-indonesia"
     },
     {
         "title": "Hujan Es Batu di DIY, Warga: Seumur-umur Baru Pertama Lihat",
         "category": "Rejogja",
-        "publish_time": "12-03-2025 05:03",
+        "publish_time": "12-03-2025 05:18",
         "news_link": "https://rejogja.republika.co.id/berita/sszve4282/hujan-es-batu-di-diy-warga-seumurumur-baru-pertama-lihat"
     },
     {
         "title": "Agenda Trumpelon yang Sesungguhnya",
         "category": "Kolom",
-        "publish_time": "12-03-2025 04:55",
+        "publish_time": "12-03-2025 05:18",
         "news_link": "https://analisis.republika.co.id/berita/sszv02475/agenda-trumpelon-yang-sesungguhnya"
     },
     {
         "title": "Pemprov Jateng Selidiki Kematian Atlet Taekwondo Pelajar Boyolali Saat Latihan",
         "category": "Rejogja",
-        "publish_time": "12-03-2025 04:51",
+        "publish_time": "12-03-2025 05:18",
         "news_link": "https://rejogja.republika.co.id/berita/sszutc282/pemprov-jateng-selidiki-kematian-atlet-taekwondo-pelajar-boyolali-saat-latihan"
     },
     {
         "title": "Kebijakan Mudik 2025 dan Kepentingan Publik, Bedah Kebijakan Tarif Transportasi Pemerintah",
         "category": "Kolom",
-        "publish_time": "12-03-2025 04:44",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://analisis.republika.co.id/berita/sszuj3475/kebijakan-mudik-2025-dan-kepentingan-publik-bedah-kebijakan-tarif-transportasi-pemerintah"
     },
     {
         "title": "Dapat Fasilitas dari Bea Cukai, PT Taru Martani Ekspor Tembakau Iris ke Jepang",
         "category": "Beacukai",
-        "publish_time": "12-03-2025 04:29",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://republika.co.id/berita//ssztsv472/dapat-fasilitas-dari-bea-cukai-pt-taru-martani-ekspor-tembakau-iris-ke-jepang"
     },
     {
         "title": "Doa Hari ke-12 Puasa Ramadhan",
         "category": "Network",
-        "publish_time": "12-03-2025 04:28",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://sajada.id/posts/513712/doa-hari-ke-12-puasa-ramadhan"
     },
     {
         "title": "All England 2025: Daniel/Fikri Tumbangkan Unggulan Pertama Denmark",
         "category": "Network",
-        "publish_time": "12-03-2025 04:28",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://badmintonews.id/posts/513713/all-england-2025-daniel-fikri-tumbangkan-unggulan-pertama-denmark"
     },
     {
         "title": "Kemenkes Pastikan Penyakit Ginjal jadi Prioritas Penanganan",
         "category": "Network",
-        "publish_time": "12-03-2025 04:27",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://diagnosa.id/posts/513724/kemenkes-pastikan-penyakit-ginjal-jadi-prioritas-penanganan"
     },
     {
         "title": "Tahun Ini Pemerintah Perkuat Infrastruktur Kesehatan",
         "category": "Network",
-        "publish_time": "12-03-2025 04:27",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://diagnosa.id/posts/513726/tahun-ini-pemerintah-perkuat-infrastruktur-kesehatan"
     },
     {
         "title": "Misteri Seputar Kasus Kematian Bintang K-Pop Wheesung",
         "category": "Network",
-        "publish_time": "12-03-2025 04:27",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://impresiupdate.id/posts/513736/misteri-seputar-kasus-kematian-bintang-k-pop-wheesung"
     },
     {
         "title": "Masyarakat Diimbau Jadikan Motor Alternatif Transportasi Terakhir Mudik",
         "category": "News",
-        "publish_time": "12-03-2025 04:27",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://news.republika.co.id/berita/ssztp6425/masyarakat-diimbau-jadikan-motor-alternatif-transportasi-terakhir-mudik"
     },
     {
         "title": "Ingat Hal Ini Supaya Tetap Aman Berkendara Saat Berpuasa",
         "category": "Network",
-        "publish_time": "12-03-2025 04:26",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://motoresto.id/posts/513746/ingat-hal-ini-supaya-tetap-aman-berkendara-saat-berpuasa"
     },
     {
         "title": "Honda Dominasi Seri Pembuka Super Formula 2025 di Suzuka",
         "category": "Network",
-        "publish_time": "12-03-2025 04:26",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://motoresto.id/posts/513752/honda-dominasi-seri-pembuka-super-formula-2025-di-suzuka"
     },
     {
         "title": "Anggota DPR Apresiasi Komitmen Pemerintah Kembangkan Eksyar",
         "category": "Network",
-        "publish_time": "12-03-2025 04:25",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://pemantiknews.id/posts/513754/anggota-dpr-apresiasi-komitmen-pemerintah-kembangkan-eksyar"
     },
     {
@@ -116,187 +206,97 @@
     {
         "title": "Hadits ke-26 Arbain Nawawi: Setiap Persendian Ada Sedekahnya",
         "category": "Network",
-        "publish_time": "12-03-2025 04:14",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://sajada.id/posts/513711/hadits-ke-26-arbain-nawawi-setiap-persendian-ada-sedekahnya"
     },
     {
         "title": "Ariana Grande Rilis Album 'Eternal Sunshine' Akhir Bulan Ini",
         "category": "Network",
-        "publish_time": "12-03-2025 04:13",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://impresiupdate.id/posts/513689/ariana-grande-rilis-album-eternal-sunshine-akhir-bulan-ini"
     },
     {
         "title": "Tank Zionis Targetkan Masyarakat Sipil, Lima Warga Palestina Tewas",
         "category": "Network",
-        "publish_time": "12-03-2025 04:13",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://sekitarkaltim.id/posts/513708/tank-zionis-targetkan-masyarakat-sipil-lima-warga-palestina-tewas"
     },
     {
         "title": "Universitas Mercu Buana dan FDCH Timor Leste Bersinergi dalam Pengembangan SDM",
         "category": "News",
-        "publish_time": "12-03-2025 04:13",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://news.republika.co.id/berita/sszsu4349/universitas-mercu-buana-dan-fdch-timor-leste-bersinergi-dalam-pengembangan-sdm"
     },
     {
         "title": "BP Batam Sebut Rempang Eco City Masih Jadi PSN",
         "category": "Ekonomi",
-        "publish_time": "12-03-2025 04:13",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://ekonomi.republika.co.id/berita/sszsqx490/bp-batam-sebut-rempang-eco-city-masih-jadi-psn"
     },
     {
         "title": "Mengajak Anak Mencintai Masjid",
         "category": "Video",
-        "publish_time": "12-03-2025 04:13",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://tv.republika.co.id/berita/sszspx313/mengajak-anak-mencintai-masjid"
     },
     {
         "title": "400 Liter Kopi Dibagikan Setiap Hari untuk Jamaah Umroh",
         "category": "Khazanah",
-        "publish_time": "12-03-2025 04:13",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://khazanah.republika.co.id/berita/sszslo430/400-liter-kopi-dibagikan-setiap-hari-untuk-jamaah-umroh"
     },
     {
         "title": "Film Demon Slayer: Kimetsu no Yaiba Infinity Castle Tayang di Indonesia Mulai 15 Agustus",
         "category": "Ameera",
-        "publish_time": "12-03-2025 04:13",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://ameera.republika.co.id/berita/sszsfx425/film-demon-slayer-kimetsu-no-yaiba-infinity-castle-tayang-di-indonesia-mulai-15-agustus"
     },
     {
         "title": "50 Kampus Terbaik di Indonesia Versi Edurank 2025, Mana Pilihanmu ?",
         "category": "Network",
-        "publish_time": "12-03-2025 04:13",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://kampus.republika.co.id/posts/513750/50-kampus-terbaik-di-indonesia-versi-edurank-2025-mana-pilihanmu"
     },
     {
         "title": "Kekhawatiran Perang Dagang Meningkat, Rupiah Melemah",
         "category": "Ekonomi",
-        "publish_time": "12-03-2025 04:13",
+        "publish_time": "12-03-2025 04:18",
         "news_link": "https://ekonomi.republika.co.id/berita/sszs3q490/kekhawatiran-perang-dagang-meningkat-rupiah-melemah"
     },
     {
         "title": "Pelatihan Kadet Pelayaran, Apakah Penting?",
         "category": "Network",
-        "publish_time": "12-03-2025 04:13",
+        "publish_time": "12-03-2025 03:18",
         "news_link": "https://shippingcargo.co.id/posts/513705/pelatihan-kadet-pelayaran-apakah-penting"
     },
     {
         "title": "KAI Commuter Kembali Terima Kedatangan Dua Trainset\u00a0KRL dari China",
         "category": "Ekonomi",
-        "publish_time": "12-03-2025 03:13",
+        "publish_time": "12-03-2025 03:18",
         "news_link": "https://ekonomi.republika.co.id/berita/sszr9v490/kai-commuter-kembali-terima-kedatangan-dua-trainsetkrl-dari-china"
     },
     {
         "title": "Ini Tawaran Skema THR untuk Driver Ojol dari KSPI",
         "category": "News",
-        "publish_time": "12-03-2025 03:13",
+        "publish_time": "12-03-2025 03:18",
         "news_link": "https://news.republika.co.id/berita/sszo2h409/ini-tawaran-skema-thr-untuk-driver-ojol-dari-kspi"
     },
     {
         "title": "Sentimen Global dan Domestik Beragam, IHSG Galau",
         "category": "Ekonomi",
-        "publish_time": "12-03-2025 03:13",
+        "publish_time": "12-03-2025 03:18",
         "news_link": "https://ekonomi.republika.co.id/berita/sszqhe490/sentimen-global-dan-domestik-beragam-ihsg-galau"
     },
     {
         "title": "Stok Uranium Iran Mendekati Level Bisa untuk Membuat Bom Nuklir, PBB Gelar Rapat",
         "category": "News",
-        "publish_time": "12-03-2025 03:13",
+        "publish_time": "12-03-2025 03:18",
         "news_link": "https://news.republika.co.id/berita/ssznga409/stok-uranium-iran-mendekati-level-bisa-untuk-membuat-bom-nuklir-pbb-gelar-rapat"
     },
     {
         "title": "Cara Atur Pola Tidur Saat Puasa Agar tak Lemas",
         "category": "Khazanah",
-        "publish_time": "12-03-2025 03:13",
+        "publish_time": "12-03-2025 03:18",
         "news_link": "https://khazanah.republika.co.id/berita/sszpds425/cara-atur-pola-tidur-saat-puasa-agar-tak-lemas"
-    },
-    {
-        "title": "Harga Emas Meroket, Kini Sentuh Rp 1.702.000 per Gram",
-        "category": "Ekonomi",
-        "publish_time": "12-03-2025 03:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sszp27490/harga-emas-meroket-kini-sentuh-rp-1702000-per-gram"
-    },
-    {
-        "title": "Tiga Rangkaian Kereta di Stasiun Tugu Yogyakarta Terbakar",
-        "category": "News",
-        "publish_time": "12-03-2025 03:13",
-        "news_link": "https://news.republika.co.id/berita/sszozh484/tiga-rangkaian-kereta-di-stasiun-tugu-yogyakarta-terbakar"
-    },
-    {
-        "title": "Disney Tiadakan Karpet Merah Film Snow White, Buntut Kontroversi Para Pemain?",
-        "category": "Ameera",
-        "publish_time": "12-03-2025 02:13",
-        "news_link": "https://ameera.republika.co.id/berita/sszowh425/disney-tiadakan-karpet-merah-film-snow-white-buntut-kontroversi-para-pemain"
-    },
-    {
-        "title": "OJK Hentikan 4.036 Entitas Ilegal dari Januari\u2014Februari 2025, Mayoritas Pinjol",
-        "category": "Ekonomi",
-        "publish_time": "12-03-2025 02:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sszoti490/ojk-hentikan-4036-entitas-ilegal-dari-januarifebruari-2025-mayoritas-pinjol"
-    },
-    {
-        "title": "Ada Pihak Lain Harus Bertanggung Jawab dalam Korupsi Pertamina, Ini Penjelasan Pakar Hukum",
-        "category": "News",
-        "publish_time": "12-03-2025 02:13",
-        "news_link": "https://news.republika.co.id/berita/sszols472/ada-pihak-lain-harus-bertanggung-jawab-dalam-korupsi-pertamina-ini-penjelasan-pakar-hukum"
-    },
-    {
-        "title": "Hamas Siap Memulai Babak Baru Negosiasi Gencatan Senjata di Gaza",
-        "category": "News",
-        "publish_time": "12-03-2025 02:13",
-        "news_link": "https://news.republika.co.id/berita/ssznsa409/hamas-siap-memulai-babak-baru-negosiasi-gencatan-senjata-di-gaza"
-    },
-    {
-        "title": "Manfaat Konsumsi Minuman Serat Selama Berpuasa Menurut Medis",
-        "category": "Khazanah",
-        "publish_time": "12-03-2025 02:13",
-        "news_link": "https://khazanah.republika.co.id/berita/ssznvd320/manfaat-konsumsi-minuman-serat-selama-berpuasa-menurut-medis"
-    },
-    {
-        "title": "Raffi Ahmad Bagi Tips Penting Sebelum Mulai Lari",
-        "category": "Ameera",
-        "publish_time": "12-03-2025 02:13",
-        "news_link": "https://ameera.republika.co.id/berita/ssznrr328/raffi-ahmad-bagi-tips-penting-sebelum-mulai-lari"
-    },
-    {
-        "title": "Lima Perkara Viral Libatkan Polisi, dari Intimidasi, Fitnah, Pelecehan Hingga Pembunuhan",
-        "category": "News",
-        "publish_time": "12-03-2025 02:13",
-        "news_link": "https://news.republika.co.id/berita/ssznpf377/lima-perkara-viral-libatkan-polisi-dari-intimidasi-fitnah-pelecehan-hingga-pembunuhan"
-    },
-    {
-        "title": "Menkop Sebut Koperasi Desa Merah Putih tidak Gantikan BUMDes",
-        "category": "Ekonomi",
-        "publish_time": "12-03-2025 02:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/ssznoa490/menkop-sebut-koperasi-desa-merah-putih-tidak-gantikan-bumdes"
-    },
-    {
-        "title": "Jawab Rangkap Jabatan Menag-Imam Istiqlal, Prof Nasaruddin: Menteri Agama Dulu Juga Begitu",
-        "category": "Khazanah",
-        "publish_time": "12-03-2025 02:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sszn7i320/jawab-rangkap-jabatan-menagimam-istiqlal-prof-nasaruddin-menteri-agama-dulu-juga-begitu"
-    },
-    {
-        "title": "Mantan Presiden Filipina Rodrigo Duterte Ditahan ICC",
-        "category": "Video",
-        "publish_time": "12-03-2025 02:13",
-        "news_link": "https://tv.republika.co.id/berita/sszlzq313/mantan-presiden-filipina-rodrigo-duterte-ditahan-icc"
-    },
-    {
-        "title": "Duterte Diterbangkan ke Den Haag untuk Diadili di Mahkamah Pidana Internasional",
-        "category": "News",
-        "publish_time": "12-03-2025 02:13",
-        "news_link": "https://news.republika.co.id/berita/sszkt3409/duterte-diterbangkan-ke-den-haag-untuk-diadili-di-mahkamah-pidana-internasional"
-    },
-    {
-        "title": "Tafsir Hadits Ikan Memohon Ampunan kepada Orang yang Berpuasa",
-        "category": "Iqra",
-        "publish_time": "12-03-2025 02:13",
-        "news_link": "https://iqra.republika.co.id/berita/sszkqp430/tafsir-hadits-ikan-memohon-ampunan-kepada-orang-yang-berpuasa"
-    },
-    {
-        "title": "Israel Terus Blokade Gaza, Houthi Kembali Sasar Kapal di Laut Merah",
-        "category": "News",
-        "publish_time": "12-03-2025 02:13",
-        "news_link": "https://news.republika.co.id/berita/sszmkg393/israel-terus-blokade-gaza-houthi-kembali-sasar-kapal-di-laut-merah"
     }
 ]
