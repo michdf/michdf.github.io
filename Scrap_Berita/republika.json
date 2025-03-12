@@ -1,56 +1,140 @@
 [
     {
+        "title": "Indonesia Terima Kongo Masuk dalam Geng Negara Produsen Sawit Dunia",
+        "category": "Ekonomi",
+        "publish_time": "12-03-2025 23:12",
+        "news_link": "https://ekonomi.republika.co.id/berita/st1789490/indonesia-terima-kongo-masuk-dalam-geng-negara-produsen-sawit-dunia"
+    },
+    {
+        "title": "Wajah Baru di Timnas Indonesia, Septian Bagaskara Siap Berikan yang Terbaik",
+        "category": "News",
+        "publish_time": "12-03-2025 23:09",
+        "news_link": "https://news.republika.co.id/berita/st19nw348/wajah-baru-di-timnas-indonesia-septian-bagaskara-siap-berikan-yang-terbaik"
+    },
+    {
+        "title": "Mesir dan Qatar Berdiskusi di Doha Bahas Upaya Stabilkan Gencatan Senjata di Gaza",
+        "category": "News",
+        "publish_time": "12-03-2025 23:04",
+        "news_link": "https://news.republika.co.id/berita/st12ye409/mesir-dan-qatar-berdiskusi-di-doha-bahas-upaya-stabilkan-gencatan-senjata-di-gaza"
+    },
+    {
+        "title": "Antrean Penumpang Mudik Lebaran Mengular di Pelabuhan Semayang",
+        "category": "Visual",
+        "publish_time": "12-03-2025 23:00",
+        "news_link": "https://visual.republika.co.id/berita/st0u6y375/antrean-penumpang-mudik-lebaran-mengular-di-pelabuhan-semayang"
+    },
+    {
+        "title": "Pandangan Ulama Fikih soal Penyelewengan Pajak",
+        "category": "Khazanah",
+        "publish_time": "12-03-2025 23:00",
+        "news_link": "https://khazanah.republika.co.id/berita/st18kz430/pandangan-ulama-fikih-soal-penyelewengan-pajak"
+    },
+    {
+        "title": "OPM Klaim Bunuh 10 Prajurit TNI, Kogabwilhan III: Itu Informasi Latihan",
+        "category": "News",
+        "publish_time": "12-03-2025 22:58",
+        "news_link": "https://news.republika.co.id/berita/st0za4484/opm-klaim-bunuh-10-prajurit-tni-kogabwilhan-iii-itu-informasi-latihan"
+    },
+    {
+        "title": "Aktor Kim Soo-hyun Terancam Diboikot Imbas Kasus dengan Kim Sae-ron",
+        "category": "Ameera",
+        "publish_time": "12-03-2025 22:51",
+        "news_link": "https://ameera.republika.co.id/berita/st18tr425/aktor-kim-soohyun-terancam-diboikot-imbas-kasus-dengan-kim-saeron"
+    },
+    {
+        "title": "Dramatis, Real Madrid Lolos ke Perempat Final Liga Champions Lewat Adu Penalti",
+        "category": "News",
+        "publish_time": "12-03-2025 22:50",
+        "news_link": "https://news.republika.co.id/berita/st18rh348/dramatis-real-madrid-lolos-ke-perempat-final-liga-champions-lewat-adu-penalti"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini: Kota Denpasar, Bali 13 Maret 2025",
+        "category": "News",
+        "publish_time": "12-03-2025 22:49",
+        "news_link": "https://news.republika.co.id/berita/st18qg1532432786/prakiraan-cuaca-hari-ini-kota-denpasar-bali-13-maret-2025"
+    },
+    {
+        "title": "Cara Memanfaatkan Kekayaan Alam Sesuai Quran dan Sunah Menurut Hanan Attaki",
+        "category": "Khazanah",
+        "publish_time": "12-03-2025 22:46",
+        "news_link": "https://khazanah.republika.co.id/berita/st18l3483/cara-memanfaatkan-kekayaan-alam-sesuai-quran-dan-sunah-menurut-hanan-attaki"
+    },
+    {
+        "title": "Baznas Dorong Konsep Zakat Hijau",
+        "category": "Khazanah",
+        "publish_time": "12-03-2025 22:35",
+        "news_link": "https://khazanah.republika.co.id/berita/st1827483/baznas-dorong-konsep-zakat-hijau"
+    },
+    {
+        "title": "Prakiraan Cuaca Hari Ini 13 Maret 2025: Kota Makassar Hujan Ringan",
+        "category": "News",
+        "publish_time": "12-03-2025 22:31",
+        "news_link": "https://news.republika.co.id/berita/st17wc1859035985/prakiraan-cuaca-hari-ini-13-maret-2025-kota-makassar-hujan-ringan"
+    },
+    {
+        "title": "Masuk Pertengahan Ramadhan, Ini Tips Jaga Stamina Saat Puasa Agar Tetap Bugar",
+        "category": "Khazanah",
+        "publish_time": "12-03-2025 22:30",
+        "news_link": "https://khazanah.republika.co.id/berita/st17un425/masuk-pertengahan-ramadhan-ini-tips-jaga-stamina-saat-puasa-agar-tetap-bugar"
+    },
+    {
+        "title": "Ustadz Hanan Attaki: Jadilah Seperti Pohon",
+        "category": "Khazanah",
+        "publish_time": "12-03-2025 22:28",
+        "news_link": "https://khazanah.republika.co.id/berita/st17qs483/ustadz-hanan-attaki-jadilah-seperti-pohon"
+    },
+    {
         "title": "Apindo: Perusahaan Siap Bayarkan THR Tepat Waktu",
         "category": "Ekonomi",
-        "publish_time": "12-03-2025 22:10",
+        "publish_time": "12-03-2025 22:13",
         "news_link": "https://ekonomi.republika.co.id/berita/st16xv490/apindo-perusahaan-siap-bayarkan-thr-tepat-waktu"
     },
     {
         "title": "Diperiksa Kejagung Terkait Kasus Korupsi Pertamina, Ahok Pastikan Datang",
         "category": "News",
-        "publish_time": "12-03-2025 22:04",
+        "publish_time": "12-03-2025 22:13",
         "news_link": "https://news.republika.co.id/berita/st10r4484/diperiksa-kejagung-terkait-kasus-korupsi-pertamina-ahok-pastikan-datang"
     },
     {
         "title": "Pemerintah Ingin Tambah Kapasitas Kilang, SKK Migas Bakal Genjot Lifting",
         "category": "Ekonomi",
-        "publish_time": "12-03-2025 22:03",
+        "publish_time": "12-03-2025 22:13",
         "news_link": "https://ekonomi.republika.co.id/berita/st16mv490/pemerintah-ingin-tambah-kapasitas-kilang-skk-migas-bakal-genjot-lifting"
     },
     {
         "title": "Pelindo Perkuat Logistik Nasional dengan Transformasi Pelabuhan Nonpetikemas",
         "category": "Ekonomi",
-        "publish_time": "12-03-2025 21:57",
+        "publish_time": "12-03-2025 22:13",
         "news_link": "https://ekonomi.republika.co.id/berita/st16c8490/pelindo-perkuat-logistik-nasional-dengan-transformasi-pelabuhan-nonpetikemas"
     },
     {
         "title": "Perang Dagang Memanas, Eropa-Kanada Balas Tarif AS",
         "category": "News",
-        "publish_time": "12-03-2025 21:33",
+        "publish_time": "12-03-2025 21:13",
         "news_link": "https://news.republika.co.id/berita/st157j393/perang-dagang-memanas-eropakanada-balas-tarif-as"
     },
     {
         "title": "Presiden Prabowo Undang Para Rektor ke Istana Sore Ini",
         "category": "News",
-        "publish_time": "12-03-2025 21:27",
+        "publish_time": "12-03-2025 21:13",
         "news_link": "https://news.republika.co.id/berita/st12cw484/presiden-prabowo-undang-para-rektor-ke-istana-sore-ini"
     },
     {
         "title": "Trump Mundur dari Rencana Kosongkan Gaza",
         "category": "News",
-        "publish_time": "12-03-2025 21:25",
+        "publish_time": "12-03-2025 21:13",
         "news_link": "https://news.republika.co.id/berita/st14tw393/trump-mundur-dari-rencana-kosongkan-gaza"
     },
     {
         "title": "Ayatollah Khamenei: Jika Kami Ingin Membuat Bom Nuklir, AS tidak Bisa Menghentikan Kami",
         "category": "News",
-        "publish_time": "12-03-2025 21:24",
+        "publish_time": "12-03-2025 21:13",
         "news_link": "https://news.republika.co.id/berita/st14sb409/ayatollah-khamenei-jika-kami-ingin-membuat-bom-nuklir-as-tidak-bisa-menghentikan-kami"
     },
     {
         "title": "Kasat Narkoba Bone Dicopot, Diduga Minta Uang Damai Rp 80 Juta",
         "category": "News",
-        "publish_time": "12-03-2025 21:16",
+        "publish_time": "12-03-2025 21:13",
         "news_link": "https://news.republika.co.id/berita/st14fa377/kasat-narkoba-bone-dicopot-diduga-minta-uang-damai-rp-80-juta"
     },
     {
@@ -62,241 +146,157 @@
     {
         "title": "Merasakan Sensasi Beribadah dari Ketinggian Ibu Kota Jakarta",
         "category": "Visual",
-        "publish_time": "12-03-2025 21:12",
+        "publish_time": "12-03-2025 21:13",
         "news_link": "https://visual.republika.co.id/berita/st0tx9375/merasakan-sensasi-beribadah-dari-ketinggian-ibu-kota-jakarta"
     },
     {
         "title": "Jadwal Imsakiyah Ramadhan Hari Ini 13 Maret 2025 untuk Palembang: Optimalkan Ibadah di Bulan Suci",
         "category": "Khazanah",
-        "publish_time": "12-03-2025 20:12",
+        "publish_time": "12-03-2025 20:13",
         "news_link": "https://khazanah.republika.co.id/berita/st12r31462720005/jadwal-imsakiyah-ramadhan-hari-ini-13-maret-2025-untuk-palembang-optimalkan-ibadah-di-bulan-suci"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini, 13 Maret 2025 Untuk Bekasi dan Sekitarnya: Hujan Ringan di Karawang",
         "category": "News",
-        "publish_time": "12-03-2025 20:12",
+        "publish_time": "12-03-2025 20:13",
         "news_link": "https://news.republika.co.id/berita/st12al846180778/prakiraan-cuaca-hari-ini-13-maret-2025-untuk-bekasi-dan-sekitarnya-hujan-ringan-di-karawang"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini: Hujan di Bandung dan Sekitarnya 13 Maret 2025",
         "category": "News",
-        "publish_time": "12-03-2025 20:12",
+        "publish_time": "12-03-2025 20:13",
         "news_link": "https://news.republika.co.id/berita/st11p4945334300/prakiraan-cuaca-hari-ini-hujan-di-bandung-dan-sekitarnya-13-maret-2025"
     },
     {
         "title": "Presdir HMS Ungkap Strategi Keberhasilan Perusahaan di Ajang Asia Business Conference",
         "category": "Ekonomi",
-        "publish_time": "12-03-2025 20:12",
+        "publish_time": "12-03-2025 20:13",
         "news_link": "https://ekonomi.republika.co.id/berita/st0td1349/presdir-hms-ungkap-strategi-keberhasilan-perusahaan-di-ajang-asia-business-conference"
     },
     {
         "title": "Inilah Jadwal Imsakiyah Ramadhan Hari Ini: Yogyakarta, 13 Maret 2025 - 13 Ramadhan 1446 H",
         "category": "Khazanah",
-        "publish_time": "12-03-2025 20:12",
+        "publish_time": "12-03-2025 20:13",
         "news_link": "https://khazanah.republika.co.id/berita/st11d8657795186/inilah-jadwal-imsakiyah-ramadhan-hari-ini-yogyakarta-13-maret-2025-13-ramadhan-1446-h"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 13 Maret 2025: Kota Banda Aceh Berawan",
         "category": "News",
-        "publish_time": "12-03-2025 20:12",
+        "publish_time": "12-03-2025 20:13",
         "news_link": "https://news.republika.co.id/berita/st119w868646866/prakiraan-cuaca-hari-ini-13-maret-2025-kota-banda-aceh-berawan"
     },
     {
         "title": "Lagi, Polisi Grebek Tempat Produksi MinyaKita Tidak Sesuai Takaran",
         "category": "Visual",
-        "publish_time": "12-03-2025 20:12",
+        "publish_time": "12-03-2025 20:13",
         "news_link": "https://visual.republika.co.id/berita/st0uq1375/lagi-polisi-grebek-tempat-produksi-minyakita-tidak-sesuai-takaran"
     },
     {
         "title": "Mengungkap Makna Spiritualitas dengan Jadwal Imsakiyah Ramadhan Hari Ini, 13 Maret 2025 di Jakarta",
         "category": "Khazanah",
-        "publish_time": "12-03-2025 19:12",
+        "publish_time": "12-03-2025 19:13",
         "news_link": "https://khazanah.republika.co.id/berita/st0zu72069296535/mengungkap-makna-spiritualitas-dengan-jadwal-imsakiyah-ramadhan-hari-ini-13-maret-2025-di-jakarta"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 13 Maret 2025 Kota Balikpapan: Cerah Berawan",
         "category": "News",
-        "publish_time": "12-03-2025 19:12",
+        "publish_time": "12-03-2025 19:13",
         "news_link": "https://news.republika.co.id/berita/st0zr31342677566/prakiraan-cuaca-hari-ini-13-maret-2025-kota-balikpapan-cerah-berawan"
     },
     {
         "title": "Jadwal Imsakiyah Ramadhan Hari Ini di Medan: Tanggal 13 Maret 2025",
         "category": "Khazanah",
-        "publish_time": "12-03-2025 19:12",
+        "publish_time": "12-03-2025 19:13",
         "news_link": "https://khazanah.republika.co.id/berita/st0yef1012915775/jadwal-imsakiyah-ramadhan-hari-ini-di-medan-tanggal-13-maret-2025"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini 13 Maret 2025 Bogor dan Sekitarnya: Hujan Ringan",
         "category": "News",
-        "publish_time": "12-03-2025 19:12",
+        "publish_time": "12-03-2025 19:13",
         "news_link": "https://news.republika.co.id/berita/st0y4r311034955/prakiraan-cuaca-hari-ini-13-maret-2025-bogor-dan-sekitarnya-hujan-ringan"
     },
     {
         "title": "TNI AD Diserang, KSAD Geram: Otak Kampungan, Agen Asing Kah?",
         "category": "News",
-        "publish_time": "12-03-2025 19:12",
+        "publish_time": "12-03-2025 19:13",
         "news_link": "https://news.republika.co.id/berita/st0xm6484/tni-ad-diserang-ksad-geram-otak-kampungan-agen-asing-kah"
     },
     {
         "title": "Jadwal Imsakiyah Ramadhan Hari Ini - 13 Maret 2025, Depok: Meraih Berkah di Bulan Suci",
         "category": "Khazanah",
-        "publish_time": "12-03-2025 19:12",
+        "publish_time": "12-03-2025 19:13",
         "news_link": "https://khazanah.republika.co.id/berita/st0xfc169758295/jadwal-imsakiyah-ramadhan-hari-ini-13-maret-2025-depok-meraih-berkah-di-bulan-suci"
     },
     {
         "title": "Temukan Kedamaian di Bulan Suci: Jadwal Imsakiyah Ramadhan Hari Ini, 13 Maret 2025, untuk Semarang",
         "category": "Khazanah",
-        "publish_time": "12-03-2025 18:12",
+        "publish_time": "12-03-2025 18:13",
         "news_link": "https://khazanah.republika.co.id/berita/st0w9n1775154474/temukan-kedamaian-di-bulan-suci-jadwal-imsakiyah-ramadhan-hari-ini-13-maret-2025-untuk-semarang"
     },
     {
         "title": "Imran Nahumarury Minta Pemain Malut United tak Berpuas Diri Usai Tembus ke Peringkat Lima",
         "category": "News",
-        "publish_time": "12-03-2025 18:12",
+        "publish_time": "12-03-2025 18:13",
         "news_link": "https://news.republika.co.id/berita/st0vrg348/imran-nahumarury-minta-pemain-malut-united-tak-berpuas-diri-usai-tembus-ke-peringkat-lima"
     },
     {
         "title": "Keberkahan Menyongsong Ramadhan: Jadwal Imsakiyah Ramadhan Hari Ini - 13 Maret 2025 di Bandung",
         "category": "Khazanah",
-        "publish_time": "12-03-2025 18:12",
+        "publish_time": "12-03-2025 18:13",
         "news_link": "https://khazanah.republika.co.id/berita/st0v941297886007/keberkahan-menyongsong-ramadhan-jadwal-imsakiyah-ramadhan-hari-ini-13-maret-2025-di-bandung"
     },
     {
         "title": "Banyak Buat Kesalahan, Gregoria Belum Puas Meski Lolos ke Babak Kedua All England 2025",
         "category": "News",
-        "publish_time": "12-03-2025 18:12",
+        "publish_time": "12-03-2025 18:13",
         "news_link": "https://news.republika.co.id/berita/st0v11348/banyak-buat-kesalahan-gregoria-belum-puas-meski-lolos-ke-babak-kedua-all-england-2025"
     },
     {
         "title": "Sabar/Reza Taklukkan Unggulan Ketiga Liang/Wang pada Babak Pertama All England 2025",
         "category": "News",
-        "publish_time": "12-03-2025 18:12",
+        "publish_time": "12-03-2025 17:13",
         "news_link": "https://news.republika.co.id/berita/st0uk9348/sabarreza-taklukkan-unggulan-ketiga-liangwang-pada-babak-pertama-all-england-2025"
     },
     {
         "title": "Jadwal Imsakiyah Ramadhan Hari Ini: 13 Maret 2025 di Surabaya",
         "category": "Khazanah",
-        "publish_time": "12-03-2025 17:12",
+        "publish_time": "12-03-2025 17:13",
         "news_link": "https://khazanah.republika.co.id/berita/st0tyk609327309/jadwal-imsakiyah-ramadhan-hari-ini-13-maret-2025-di-surabaya"
     },
     {
         "title": "Niat dan Doa Setelah Sholat Tahajud",
         "category": "Iqra",
-        "publish_time": "12-03-2025 17:12",
+        "publish_time": "12-03-2025 17:13",
         "news_link": "https://iqra.republika.co.id/berita/st0njy366/niat-dan-doa-setelah-sholat-tahajud"
     },
     {
         "title": "Jadwal Imsakiyah Ramadhan Hari Ini di Makassar, 13 Maret 2025: Menuju Kesucian di Bulan Penuh Berkah",
         "category": "Khazanah",
-        "publish_time": "12-03-2025 17:12",
+        "publish_time": "12-03-2025 17:13",
         "news_link": "https://khazanah.republika.co.id/berita/st0snq876553922/jadwal-imsakiyah-ramadhan-hari-ini-di-makassar-13-maret-2025-menuju-kesucian-di-bulan-penuh-berkah"
     },
     {
         "title": "Satria Muda Tampil Perkasa, Tundukkan Rajawali Medan 94-67",
         "category": "Visual",
-        "publish_time": "12-03-2025 17:12",
+        "publish_time": "12-03-2025 17:13",
         "news_link": "https://visual.republika.co.id/berita/st0ses375/satria-muda-tampil-perkasa-tundukkan-rajawali-medan-9467"
     },
     {
         "title": "Ustadz Hanan Attaki Ungkap Surat Alquran yang Izinkan Pertambangan Bumi Asalkan...",
         "category": "Khazanah",
-        "publish_time": "12-03-2025 17:12",
+        "publish_time": "12-03-2025 17:13",
         "news_link": "https://khazanah.republika.co.id/berita/st0sgr320/ustadz-hanan-attaki-ungkap-surat-alquran-yang-izinkan-pertambangan-bumi-asalkan"
     },
     {
         "title": "MSP Achieves Two Green Proper KLHK 2024, Proof of Company Commitment",
         "category": "En",
-        "publish_time": "5 hours ago",
+        "publish_time": "6 hours ago",
         "news_link": "https://en.republika.co.id/berita/st0k36451/msp-achieves-two-green-proper-klhk-2024-proof-of-company-commitment"
     },
     {
         "title": "Indonesia Re Dorong Pemberdayaan Petani di Sumatra Barat",
         "category": "Resumatra",
-        "publish_time": "12-03-2025 16:12",
+        "publish_time": "12-03-2025 16:13",
         "news_link": "https://republika.co.id/berita//st0rhd456/indonesia-re-dorong-pemberdayaan-petani-di-sumatra-barat"
-    },
-    {
-        "title": "Kluivert Bicara Pentingnya Nutrisi untuk Pemain Timnas Jelang Laga Kontra Australia",
-        "category": "News",
-        "publish_time": "12-03-2025 16:12",
-        "news_link": "https://news.republika.co.id/berita/st0r8j348/kluivert-bicara-pentingnya-nutrisi-untuk-pemain-timnas-jelang-laga-kontra-australia"
-    },
-    {
-        "title": "Delapan Unit Alat Berat Dikerahkan dalam Proses Perbaikan Tanggul Sungai Tuntang",
-        "category": "Visual",
-        "publish_time": "12-03-2025 16:12",
-        "news_link": "https://visual.republika.co.id/berita/st0l5d375/delapan-unit-alat-berat-dikerahkan-dalam-proses-perbaikan-tanggul-sungai-tuntang"
-    },
-    {
-        "title": "Polisi Selidiki Kasus Codeblu, Diduga Ada Pelanggaran UU ITE",
-        "category": "News",
-        "publish_time": "12-03-2025 15:12",
-        "news_link": "https://news.republika.co.id/berita/st0oms423/polisi-selidiki-kasus-codeblu-diduga-ada-pelanggaran-uu-ite"
-    },
-    {
-        "title": "Aplikator Dukung Bonus bagi Mitra Jelang Lebaran 2025",
-        "category": "Ekonomi",
-        "publish_time": "12-03-2025 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/st0o8s423/aplikator-dukung-bonus-bagi-mitra-jelang-lebaran-2025"
-    },
-    {
-        "title": "Komunitas Pasien Cuci Darah Khawatirkan Pergantian Merek Obat Transplantasi Ginjal",
-        "category": "News",
-        "publish_time": "12-03-2025 15:12",
-        "news_link": "https://news.republika.co.id/berita/st0muh366/komunitas-pasien-cuci-darah-khawatirkan-pergantian-merek-obat-transplantasi-ginjal"
-    },
-    {
-        "title": "Anak Bermasalah dengan Hukum di Cirebon Diberi Kesempatan Mesantren dan Modal Usaha",
-        "category": "Rejabar",
-        "publish_time": "12-03-2025 15:12",
-        "news_link": "https://rejabar.republika.co.id/berita/st0o2h512/anak-bermasalah-dengan-hukum-di-cirebon-diberi-kesempatan-mesantren-dan-modal-usaha"
-    },
-    {
-        "title": "Usai Dubes Bahrain, Kini Dubes Australia Sambangi Kantor Erick Thohir, Ada Apa?",
-        "category": "Ekonomi",
-        "publish_time": "12-03-2025 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/st0nwd423/usai-dubes-bahrain-kini-dubes-australia-sambangi-kantor-erick-thohir-ada-apa"
-    },
-    {
-        "title": "Ratusan Warga Bandung Barat Terserang DBD di Awal 2025",
-        "category": "Rejabar",
-        "publish_time": "12-03-2025 15:12",
-        "news_link": "https://rejabar.republika.co.id/berita/st0npa512/ratusan-warga-bandung-barat-terserang-dbd-di-awal-2025"
-    },
-    {
-        "title": "Mirae Asset: Bulan Ini Waktu yang Tepat Bagi BI Turunkan Suku Bunga",
-        "category": "Ekonomi",
-        "publish_time": "12-03-2025 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/st0ial370/mirae-asset-bulan-ini-waktu-yang-tepat-bagi-bi-turunkan-suku-bunga"
-    },
-    {
-        "title": "Tanpa Koreksi Fiskal dari Pemerintah, Defisit APBN 2025 Bisa Mendekati Rp 800 Triliun",
-        "category": "Ekonomi",
-        "publish_time": "12-03-2025 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/st0njk423/tanpa-koreksi-fiskal-dari-pemerintah-defisit-apbn-2025-bisa-mendekati-rp-800-triliun"
-    },
-    {
-        "title": "Bocah 4 Tahun yang Terseret Arus Sungai di Tasikmalaya Ditemukan Tewas",
-        "category": "Rejabar",
-        "publish_time": "12-03-2025 15:12",
-        "news_link": "https://rejabar.republika.co.id/berita/st0net512/bocah-4-tahun-yang-terseret-arus-sungai-di-tasikmalaya-ditemukan-tewas"
-    },
-    {
-        "title": "Kawal Haji 2025, Itjen Kemenag Awasi Penyediaan Layanan Haji",
-        "category": "Khazanah",
-        "publish_time": "12-03-2025 15:12",
-        "news_link": "https://khazanah.republika.co.id/berita/st0ki7451/kawal-haji-2025-itjen-kemenag-awasi-penyediaan-layanan-haji"
-    },
-    {
-        "title": "Aturan Baru ESDM Tentang Pedoman PJBL dari Pembangkit Listrik EBT",
-        "category": "Ekonomi",
-        "publish_time": "12-03-2025 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/st0mp1423/aturan-baru-esdm-tentang-pedoman-pjbl-dari-pembangkit-listrik-ebt"
-    },
-    {
-        "title": "Melihat Lebih Dekat Proses Pengemasan Produk MinyaKita",
-        "category": "Visual",
-        "publish_time": "12-03-2025 15:12",
-        "news_link": "https://visual.republika.co.id/berita/st0kz9375/melihat-lebih-dekat-proses-pengemasan-produk-minyakita"
     }
 ]
