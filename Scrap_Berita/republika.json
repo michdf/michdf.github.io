@@ -1,50 +1,224 @@
 [
     {
+        "title": "Bahlil Safari Ramadhan ke Ponpes di Pasuruan, Ajak Santri Doakan Prabowo dan Bangsa",
+        "category": "News",
+        "publish_time": "14-03-2025 10:13",
+        "news_link": "https://news.republika.co.id/berita/st3z1q368/bahlil-safari-ramadhan-ke-ponpes-di-pasuruan-ajak-santri-doakan-prabowo-dan-bangsa"
+    },
+    {
+        "title": "Rehab Sekolah, Kemendikdasmen RI Alokasikan Rp 17 Triliun Lebih",
+        "category": "Rejabar",
+        "publish_time": "14-03-2025 10:11",
+        "news_link": "https://rejabar.republika.co.id/berita/st3yyt512/rehab-sekolah-kemendikdasmen-ri-alokasikan-rp-17-triliun-lebih"
+    },
+    {
+        "title": "Pemerintah Transfer Langsung Tunjangan Guru ASN, Ketua DPD RI: Semua Guru Harus Sejahtera",
+        "category": "News",
+        "publish_time": "14-03-2025 10:09",
+        "news_link": "https://news.republika.co.id/berita/st3xc1366/pemerintah-transfer-langsung-tunjangan-guru-asn-ketua-dpd-ri-semua-guru-harus-sejahtera"
+    },
+    {
+        "title": "Pesan Nabi: Permudah, Jangan Mempersulit",
+        "category": "Khazanah",
+        "publish_time": "14-03-2025 10:09",
+        "news_link": "https://khazanah.republika.co.id/berita/st3yuo458/pesan-nabi-permudah-jangan-mempersulit"
+    },
+    {
+        "title": "Kurangi Antrean, Kecepatan Transaksi QRIS Tap Hanya 0,3 Detik",
+        "category": "Ekonomi",
+        "publish_time": "14-03-2025 10:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/st3yh1370/kurangi-antrean-kecepatan-transaksi-qris-tap-hanya-03-detik"
+    },
+    {
+        "title": "Akan Bertemu Prabowo Saat Lebaran? Jokowi: Ya, Kalau Diberi Waktu",
+        "category": "News",
+        "publish_time": "14-03-2025 10:04",
+        "news_link": "https://news.republika.co.id/berita/st3yno487/akan-bertemu-prabowo-saat-lebaran-jokowi-ya-kalau-diberi-waktu"
+    },
+    {
+        "title": "ITF Bawuran Beroperasi, Solusi Atasi Sampah Yogyakarta",
+        "category": "Rejogja",
+        "publish_time": "14-03-2025 09:54",
+        "news_link": "https://rejogja.republika.co.id/berita/st3y5s282/itf-bawuran-beroperasi-solusi-atasi-sampah-yogyakarta"
+    },
+    {
+        "title": "Jorge Martin Umumkan Absen di GP Amerika",
+        "category": "News",
+        "publish_time": "14-03-2025 09:53",
+        "news_link": "https://news.republika.co.id/berita/st3xtn348/jorge-martin-umumkan-absen-di-gp-amerika"
+    },
+    {
+        "title": "Sebanyak 3,4 Juta Kendaraan Diprediksi Bakal Melintasi Tol Tangerang-Merak",
+        "category": "Ekonomi",
+        "publish_time": "14-03-2025 09:47",
+        "news_link": "https://ekonomi.republika.co.id/berita/st3xuq370/sebanyak-34-juta-kendaraan-diprediksi-bakal-melintasi-tol-tangerangmerak"
+    },
+    {
+        "title": "Pembebasan Lahan Mulai Mei 2025, Normalisasi Ciliwung Ditarget Rampung Tahun Depan",
+        "category": "News",
+        "publish_time": "14-03-2025 09:45",
+        "news_link": "https://news.republika.co.id/berita/st3xqx487/pembebasan-lahan-mulai-mei-2025-normalisasi-ciliwung-ditarget-rampung-tahun-depan"
+    },
+    {
+        "title": "Le Sserafim Comeback dengan Album Mini Kelima HOT",
+        "category": "Ameera",
+        "publish_time": "14-03-2025 09:43",
+        "news_link": "https://ameera.republika.co.id/berita/st3xnx425/le-sserafim-comeback-dengan-album-mini-kelima-hot"
+    },
+    {
+        "title": "Timnas U-17 Berangkat Lebih Cepat ke Piala Asia, Erick Thohir: Target Lolos ke Piala Dunia",
+        "category": "News",
+        "publish_time": "14-03-2025 09:41",
+        "news_link": "https://news.republika.co.id/berita/st3xl0348/timnas-u17-berangkat-lebih-cepat-ke-piala-asia-erick-thohir-target-lolos-ke-piala-dunia"
+    },
+    {
+        "title": "Sejumlah Harga Pangan di Bantul Merangkak Naik, Tapi Stok Aman",
+        "category": "Rejogja",
+        "publish_time": "14-03-2025 09:37",
+        "news_link": "https://rejogja.republika.co.id/berita/st3xe5282/sejumlah-harga-pangan-di-bantul-merangkak-naik-tapi-stok-aman"
+    },
+    {
+        "title": "Merasa Difitnah Deddy Sitorus, Jokowi: Saya Ngalah Terus, tapi Ada Batasnya",
+        "category": "News",
+        "publish_time": "14-03-2025 09:35",
+        "news_link": "https://news.republika.co.id/berita/st3xb7484/merasa-difitnah-deddy-sitorus-jokowi-saya-ngalah-terus-tapi-ada-batasnya"
+    },
+    {
+        "title": "Kisah Serban Rasulullah untuk Shafwan",
+        "category": "Khazanah",
+        "publish_time": "14-03-2025 09:34",
+        "news_link": "https://khazanah.republika.co.id/berita/st3x9l458/kisah-serban-rasulullah-untuk-shafwan"
+    },
+    {
+        "title": "Kisah Buya Hamka tentang Orang Komunis Masih Rajin Shalat",
+        "category": "Khazanah",
+        "publish_time": "14-03-2025 09:29",
+        "news_link": "https://khazanah.republika.co.id/berita/st3x14458/kisah-buya-hamka-tentang-orang-komunis-masih-rajin-shalat"
+    },
+    {
+        "title": "Rupiah Menguat Dipengaruhi Harapan Pemotongan Suku Bunga",
+        "category": "Ekonomi",
+        "publish_time": "14-03-2025 09:27",
+        "news_link": "https://ekonomi.republika.co.id/berita/st3wwq370/rupiah-menguat-dipengaruhi-harapan-pemotongan-suku-bunga"
+    },
+    {
+        "title": "Lilin Aromaterapi dari Minyak Jelantah",
+        "category": "Retizen",
+        "publish_time": "14-03-2025 09:21",
+        "news_link": "https://retizen.republika.co.id/posts/513992/lilin-aromaterapi-dari-minyak-jelantah"
+    },
+    {
+        "title": "Risiko dan Bahaya Penggunaan Vape",
+        "category": "Retizen",
+        "publish_time": "14-03-2025 09:21",
+        "news_link": "https://retizen.republika.co.id/posts/514117/risiko-dan-bahaya-penggunaan-vape"
+    },
+    {
+        "title": "Dampak Bullying dan Langkah Nyata Penanggulangannya",
+        "category": "Retizen",
+        "publish_time": "14-03-2025 09:21",
+        "news_link": "https://retizen.republika.co.id/posts/514125/dampak-bullying-dan-langkah-nyata-penanggulangannya"
+    },
+    {
+        "title": "Ramadhan Kareem, Kebahagiaan Orang Yang Melaksanakan Puasa Ramadhan",
+        "category": "Retizen",
+        "publish_time": "14-03-2025 09:21",
+        "news_link": "https://retizen.republika.co.id/posts/514130/ramadhan-kareem-kebahagiaan-orang-yang-melaksanakan-puasa-ramadhan"
+    },
+    {
+        "title": "Ngabuburit Sambil Main Game Bulldozer",
+        "category": "Retizen",
+        "publish_time": "14-03-2025 09:21",
+        "news_link": "https://retizen.republika.co.id/posts/514135/ngabuburit-sambil-main-game-bulldozer"
+    },
+    {
+        "title": "Potensi Jawa Timur dan Peran Bank Daerah",
+        "category": "Network",
+        "publish_time": "14-03-2025 09:20",
+        "news_link": "https://sekitarsurabaya.com/posts/514128/potensi-jawa-timur-dan-peran-bank-daerah"
+    },
+    {
+        "title": "Sarasehan Budaya, Religiusitas Sastra Nusantara",
+        "category": "Network",
+        "publish_time": "14-03-2025 09:20",
+        "news_link": "https://ruzkaindonesia.id/posts/514131/sarasehan-budaya-religiusitas-sastra-nusantara"
+    },
+    {
+        "title": "Wamen Stella Sebut Investasi SDM Jadi Kunci Pertumbuhan Ekonomi",
+        "category": "Network",
+        "publish_time": "14-03-2025 09:20",
+        "news_link": "https://ruzkaindonesia.id/posts/514132/wamen-stella-sebut-investasi-sdm-jadi-kunci-pertumbuhan-ekonomi"
+    },
+    {
+        "title": "Permudah Pembayaran Digital, BI Resmi Luncurkan QRIS Tap",
+        "category": "Ekonomi",
+        "publish_time": "14-03-2025 09:20",
+        "news_link": "https://ekonomi.republika.co.id/berita/st3wlb370/permudah-pembayaran-digital-bi-resmi-luncurkan-qris-tap"
+    },
+    {
+        "title": "Yogyakarta dan Tasikmalaya Diguyur Hujan Es, Ini Penyebabnya",
+        "category": "Network",
+        "publish_time": "14-03-2025 09:20",
+        "news_link": "https://magentatoday.id/posts/514139/yogyakarta-dan-tasikmalaya-diguyur-hujan-es-ini-penyebabnya"
+    },
+    {
+        "title": "Menteri Karding Lapor Presiden Prabowo Ingin Kirim PMI ke Arab Saudi",
+        "category": "News",
+        "publish_time": "14-03-2025 09:18",
+        "news_link": "https://news.republika.co.id/berita/st3wiv484/menteri-karding-lapor-presiden-prabowo-ingin-kirim-pmi-ke-arab-saudi"
+    },
+    {
+        "title": "Maemuna Center-AWG Inisiasi Pembangunan RS Ibu-Anak Indonesia di Gaza",
+        "category": "Khazanah",
+        "publish_time": "14-03-2025 09:14",
+        "news_link": "https://khazanah.republika.co.id/berita/st3wcb458/maemuna-centerawg-inisiasi-pembangunan-rs-ibuanak-indonesia-di-gaza"
+    },
+    {
         "title": "Mentan Sidak Pasar di Surabaya, Kembali Bongkar Kecurangan Takaran Minyakkita",
         "category": "Ekonomi",
-        "publish_time": "14-03-2025 09:10",
+        "publish_time": "14-03-2025 09:14",
         "news_link": "https://ekonomi.republika.co.id/berita/st3w5x472/mentan-sidak-pasar-di-surabaya-kembali-bongkar-kecurangan-takaran-minyakkita"
     },
     {
         "title": "Perpecahan Zionis Israel Seperti\u00a0Sudah Diisyaratkan Alquran",
         "category": "Khazanah",
-        "publish_time": "14-03-2025 09:09",
+        "publish_time": "14-03-2025 09:14",
         "news_link": "https://khazanah.republika.co.id/berita/st3w3i430/perpecahan-zionis-israel-sepertisudah-diisyaratkan-alquran"
     },
     {
         "title": "Ramadhan, KPN Corp Ingatkan Toleransi Antar Sesama",
         "category": "Khazanah",
-        "publish_time": "14-03-2025 09:09",
+        "publish_time": "14-03-2025 09:14",
         "news_link": "https://khazanah.republika.co.id/berita/st3vxn430/ramadhan-kpn-corp-ingatkan-toleransi-antar-sesama"
     },
     {
         "title": "Kemenag Rilis Buku Elektronik Manasik Haji, Bisa Diunduh Melalui Ponsel",
         "category": "Khazanah",
-        "publish_time": "14-03-2025 08:57",
+        "publish_time": "14-03-2025 09:14",
         "news_link": "https://khazanah.republika.co.id/berita/st3vj5366/kemenag-rilis-buku-elektronik-manasik-haji-bisa-diunduh-melalui-ponsel"
     },
     {
         "title": "TASPEN Pastikan Pembayaran Tunjangan Hari Raya Tahun 2025 Tepat Waktu",
         "category": "Ekonomi",
-        "publish_time": "14-03-2025 08:56",
+        "publish_time": "14-03-2025 09:14",
         "news_link": "https://ekonomi.republika.co.id/berita/st3vin472/taspen-pastikan-pembayaran-tunjangan-hari-raya-tahun-2025-tepat-waktu"
     },
     {
         "title": "Kejagung Terima Berkas Kasus Pagar Laut Tangerang dari Bareskrim",
         "category": "News",
-        "publish_time": "14-03-2025 08:45",
+        "publish_time": "14-03-2025 09:14",
         "news_link": "https://news.republika.co.id/berita/st3uk7487/kejagung-terima-berkas-kasus-pagar-laut-tangerang-dari-bareskrim"
     },
     {
         "title": "Polisi Periksa Pengurus RW di Jakarta Barat yang Buat Edaran Permintaan THR, Ini Hasilnya",
         "category": "News",
-        "publish_time": "14-03-2025 08:25",
+        "publish_time": "14-03-2025 08:14",
         "news_link": "https://news.republika.co.id/berita/st3u2e487/polisi-periksa-pengurus-rw-di-jakarta-barat-yang-buat-edaran-permintaan-thr-ini-hasilnya"
     },
     {
-        "title": "Daya Beli Melemah, Pemerintah Luncurkan Program Diskon Besar-Besaran",
+        "title": "Daya Beli Melemah, Pemerintah Luncurkan Program Diskon Besar-besaran",
         "category": "Ekonomi",
-        "publish_time": "14-03-2025 08:15",
+        "publish_time": "14-03-2025 08:14",
         "news_link": "https://ekonomi.republika.co.id/berita/st3sh0502/daya-beli-melemah-pemerintah-luncurkan-program-diskon-besarbesaran"
     },
     {
@@ -124,179 +298,5 @@
         "category": "Network",
         "publish_time": "14-03-2025 08:14",
         "news_link": "https://seputarmiliter.id/posts/514112/china-luncurkan-kapal-tongkang-rahasia-analis-kaitkan-invasi-ke-taiwan"
-    },
-    {
-        "title": "Masjid Salman ITB, Hadirkan Salah Satu Pemimpin Paragon di Kajian Ramadhan",
-        "category": "Rejabar",
-        "publish_time": "14-03-2025 08:14",
-        "news_link": "https://rejabar.republika.co.id/berita/st3sr9512/masjid-salman-itb-hadirkan-salah-satu-pemimpin-paragon-di-kajian-ramadhan"
-    },
-    {
-        "title": "Catatan Cak AT: Pulau Penjara Koruptor",
-        "category": "Network",
-        "publish_time": "14-03-2025 08:14",
-        "news_link": "https://ruzkaindonesia.id/posts/514114/catatan-cak-at-pulau-penjara-koruptor"
-    },
-    {
-        "title": "Daop 8 Surabaya Operasikan 58 Lokomotif dan 417 Kereta untuk Angkutan Lebaran 2025",
-        "category": "Network",
-        "publish_time": "14-03-2025 08:14",
-        "news_link": "https://sekitarsurabaya.com/posts/514115/daop-8-surabaya-operasikan-58-lokomotif-dan-417-kereta-untuk-angkutan-lebaran-2025"
-    },
-    {
-        "title": "Sertifikat Objek Tanah di Sempadan Sungai akan Dicabut",
-        "category": "Network",
-        "publish_time": "14-03-2025 08:14",
-        "news_link": "https://bandung24jam.id/posts/514116/sertifikat-objek-tanah-di-sempadan-sungai-akan-dicabut"
-    },
-    {
-        "title": "Perusahaan Shipping Disarankan Gunakan Tarif Spot, Kenapa?",
-        "category": "Network",
-        "publish_time": "14-03-2025 08:14",
-        "news_link": "https://shippingcargo.co.id/posts/514080/perusahaan-shipping-disarankan-gunakan-tarif-spot-kenapa"
-    },
-    {
-        "title": "Mudik Gratis BUMN Dibuka, Begini Cara Daftarnya di Aplikasi PLN Mobile",
-        "category": "Network",
-        "publish_time": "14-03-2025 08:14",
-        "news_link": "https://ruzkaindonesia.id/posts/514134/mudik-gratis-bumn-dibuka-begini-cara-daftarnya-di-aplikasi-pln-mobile"
-    },
-    {
-        "title": "Daftar Mudik Gratis BUMN 2025 Bisa Lewat Aplikasi PLN Mobile, Buruan!",
-        "category": "Network",
-        "publish_time": "14-03-2025 08:14",
-        "news_link": "https://pemantiknews.id/posts/514138/daftar-mudik-gratis-bumn-2025-bisa-lewat-aplikasi-pln-mobile-buruan-"
-    },
-    {
-        "title": "Pemkot Surabaya Buka Posko Pengaduan THR, Bisa Lapor Offline Maupun Online",
-        "category": "Network",
-        "publish_time": "14-03-2025 08:14",
-        "news_link": "https://sekitarsurabaya.com/posts/514136/pemkot-surabaya-buka-posko-pengaduan-thr-bisa-lapor-offline-maupun-online"
-    },
-    {
-        "title": "Peritel Global Percepat Impor Jelang Q2",
-        "category": "Network",
-        "publish_time": "14-03-2025 08:14",
-        "news_link": "https://shippingcargo.co.id/posts/514077/peritel-global-percepat-impor-jelang-q2"
-    },
-    {
-        "title": "Kopi Indonesia Jadi Raja di Pasar Mesir, Penjualan Tembus Rp 2,2 Triliun pada 2024",
-        "category": "Ekonomi Syariah",
-        "publish_time": "14-03-2025 08:14",
-        "news_link": "https://sharia.republika.co.id/berita/st3kqf502/kopi-indonesia-jadi-raja-di-pasar-mesir-penjualan-tembus-rp-22-triliun-pada-2024"
-    },
-    {
-        "title": "Rekor Baru Stephen Curry, Pemain Pertama dengan 4.000 Tripoin di NBA",
-        "category": "News",
-        "publish_time": "14-03-2025 08:14",
-        "news_link": "https://news.republika.co.id/berita/st3sd0348/rekor-baru-stephen-curry-pemain-pertama-dengan-4000-tripoin-di-nba"
-    },
-    {
-        "title": "Dakwaan: Hasto Sempat Mengaku tak Punya Ponsel Hingga Perintahkan Kusnadi Rendam Telepon",
-        "category": "News",
-        "publish_time": "14-03-2025 07:14",
-        "news_link": "https://news.republika.co.id/berita/st3s2i487/dakwaan-hasto-sempat-mengaku-tak-punya-ponsel-hingga-perintahkan-kusnadi-rendam-telepon"
-    },
-    {
-        "title": "Bea Cukai Perkuat Asistensi UMKM di Cilegon dan Pasuruan",
-        "category": "Beacukai",
-        "publish_time": "14-03-2025 07:14",
-        "news_link": "https://republika.co.id/berita//st3rsg472/bea-cukai-perkuat-asistensi-umkm-di-cilegon-dan-pasuruan"
-    },
-    {
-        "title": "Akhirnya, Airlangga Sebut Sudah Data Ormas yang Hambat Investasi di Indonesia",
-        "category": "Ekonomi",
-        "publish_time": "14-03-2025 07:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/st3rj0502/akhirnya-airlangga-sebut-sudah-data-ormas-yang-hambat-investasi-di-indonesia"
-    },
-    {
-        "title": "Hanya Gara-Gara Tatapan, Ojol Ditusuk Seorang Pria Gunakan Karembit di Sumedang",
-        "category": "Rejabar",
-        "publish_time": "14-03-2025 07:14",
-        "news_link": "https://rejabar.republika.co.id/berita/st3rgq512/hanya-garagara-tatapan-ojol-ditusuk-seorang-pria-gunakan-karembit-di-sumedang"
-    },
-    {
-        "title": "Mudik Gratis PLN Bersama BUMN Dibuka, Begini Cara Daftarnya di Aplikasi PLN Mobile!",
-        "category": "Ekonomi",
-        "publish_time": "14-03-2025 07:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/st3r92472/mudik-gratis-pln-bersama-bumn-dibuka-begini-cara-daftarnya-di-aplikasi-pln-mobile"
-    },
-    {
-        "title": "Hadapi Indonesia, Popovic Panggil Enam Pemain yang Belum Pernah Perkuat Australia",
-        "category": "News",
-        "publish_time": "14-03-2025 07:14",
-        "news_link": "https://news.republika.co.id/berita/st3r7t348/hadapi-indonesia-popovic-panggil-enam-pemain-yang-belum-pernah-perkuat-australia"
-    },
-    {
-        "title": "Ramai Video \u2018Bergoyang\u2019 Saat di Majelis, MUI Ingatkan Pentingnya Adab",
-        "category": "Ameera",
-        "publish_time": "14-03-2025 07:14",
-        "news_link": "https://ameera.republika.co.id/berita/st3r3y425/ramai-video-bergoyang-saat-di-majelis-mui-ingatkan-pentingnya-adab"
-    },
-    {
-        "title": "Menjadi UMKM Binaan BRI, Antarkan Baso Aci Tercabaikan Masuk 25 Besar UMKM Terbaik",
-        "category": "Rejabar",
-        "publish_time": "14-03-2025 07:14",
-        "news_link": "https://rejabar.republika.co.id/berita/st3r1x512/menjadi-umkm-binaan-bri-antarkan-baso-aci-tercabaikan-masuk-25-besar-umkm-terbaik"
-    },
-    {
-        "title": "Jurus Erick Thohir Tingkatkan Pelayanan Jamaah Haji dan Umrah di Terminal 2",
-        "category": "Khazanah",
-        "publish_time": "14-03-2025 07:14",
-        "news_link": "https://khazanah.republika.co.id/berita/st3qp0483/jurus-erick-thohir-tingkatkan-pelayanan-jamaah-haji-dan-umrah-di-terminal-2"
-    },
-    {
-        "title": "Apa Status Ridwan Kamil di Kasus Korupsi BJB? Ini Kata KPK",
-        "category": "News",
-        "publish_time": "14-03-2025 07:14",
-        "news_link": "https://news.republika.co.id/berita/st3q6r409/apa-status-ridwan-kamil-di-kasus-korupsi-bjb-ini-kata-kpk"
-    },
-    {
-        "title": "Museum Batik Pekalongan Pamerkan Koleksi Jejak Islam dalam Batik",
-        "category": "Khazanah",
-        "publish_time": "14-03-2025 07:14",
-        "news_link": "https://khazanah.republika.co.id/berita/st3pvq483/museum-batik-pekalongan-pamerkan-koleksi-jejak-islam-dalam-batik"
-    },
-    {
-        "title": "Kedutan Wajah Berulang Bisa Jadi Bukan Sekadar Tanda Kelelahan",
-        "category": "Ameera",
-        "publish_time": "14-03-2025 07:14",
-        "news_link": "https://ameera.republika.co.id/berita/st3po7370/kedutan-wajah-berulang-bisa-jadi-bukan-sekadar-tanda-kelelahan"
-    },
-    {
-        "title": "AS Ajukan Proposal Gencatan Senjata, Israel Harus Cabut Blokade Bantuan Kemanusiaan Gaza",
-        "category": "Khazanah",
-        "publish_time": "14-03-2025 07:14",
-        "news_link": "https://khazanah.republika.co.id/berita/st3pj7483/as-ajukan-proposal-gencatan-senjata-israel-harus-cabut-blokade-bantuan-kemanusiaan-gaza"
-    },
-    {
-        "title": "KPK: Penggeledahan Rumah Ridwan Kamil Hasil Petunjuk dari Penyidikan Kasus BJB",
-        "category": "News",
-        "publish_time": "14-03-2025 06:14",
-        "news_link": "https://news.republika.co.id/berita/st3pdo409/kpk-penggeledahan-rumah-ridwan-kamil-hasil-petunjuk-dari-penyidikan-kasus-bjb"
-    },
-    {
-        "title": "Rajawali Nusindo Tingkatkan Distribusi Minyak Goreng jelang Lebaran",
-        "category": "Ekonomi",
-        "publish_time": "14-03-2025 06:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/st3p1z370/rajawali-nusindo-tingkatkan-distribusi-minyak-goreng-jelang-lebaran"
-    },
-    {
-        "title": "Wujudkan Indonesia Emas 2045, GP Ansor Luncurkan LMS Ansor University",
-        "category": "Khazanah",
-        "publish_time": "14-03-2025 06:14",
-        "news_link": "https://khazanah.republika.co.id/berita/st3owc320/wujudkan-indonesia-emas-2045-gp-ansor-luncurkan-lms-ansor-university"
-    },
-    {
-        "title": "Modus Baru Kecurangan MinyaKita Terungkap, Ada Penyalahgunaan Lisensi",
-        "category": "Ekonomi",
-        "publish_time": "14-03-2025 06:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/st3ota490/modus-baru-kecurangan-minyakita-terungkap-ada-penyalahgunaan-lisensi"
-    },
-    {
-        "title": "Dua Begal Tertangkap Tangan Warga di Bandung, Sempat Ditelanjangi",
-        "category": "Rejabar",
-        "publish_time": "14-03-2025 06:14",
-        "news_link": "https://rejabar.republika.co.id/berita/st3om2512/dua-begal-tertangkap-tangan-warga-di-bandung-sempat-ditelanjangi"
     }
 ]
