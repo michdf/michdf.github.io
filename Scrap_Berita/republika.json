@@ -1,86 +1,182 @@
 [
     {
+        "title": "Pemerintah Janji Bakal Disiplin Fiskal, IHSG Menghijau",
+        "category": "Ekonomi",
+        "publish_time": "20-03-2025 10:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/stf33t490/pemerintah-janji-bakal-disiplin-fiskal-ihsg-menghijau"
+    },
+    {
+        "title": "Jadwal Buka Puasa Hari Ini: 20 Maret 2025 di Semarang",
+        "category": "Khazanah",
+        "publish_time": "20-03-2025 10:08",
+        "news_link": "https://khazanah.republika.co.id/berita/stf2tl1713139751/jadwal-buka-puasa-hari-ini-20-maret-2025-di-semarang"
+    },
+    {
+        "title": "Hamas: Serangan Israel Bahayakan Sandera",
+        "category": "Khazanah",
+        "publish_time": "20-03-2025 10:02",
+        "news_link": "https://khazanah.republika.co.id/berita/stf2kw483/hamas-serangan-israel-bahayakan-sandera"
+    },
+    {
+        "title": "BUMN Karya Jadi Agrinas, Kementeria BUMN: Perkuat Sektor Pangan",
+        "category": "Ekonomi",
+        "publish_time": "20-03-2025 10:01",
+        "news_link": "https://ekonomi.republika.co.id/berita/stf2j9490/bumn-karya-jadi-agrinas-kementeria-bumn-perkuat-sektor-pangan"
+    },
+    {
+        "title": "Jadwal Buka Puasa Hari Ini 20 Maret 2025 dan Keutamaan Beribadah di Bulan Ramadhan di Surabaya",
+        "category": "Khazanah",
+        "publish_time": "20-03-2025 10:01",
+        "news_link": "https://khazanah.republika.co.id/berita/stf2i21640693402/jadwal-buka-puasa-hari-ini-20-maret-2025-dan-keutamaan-beribadah-di-bulan-ramadhan-di-surabaya"
+    },
+    {
+        "title": "Polres Indramayu Gelar Tarawih Keliling, Pererat Sinergi dengan Masyarakat",
+        "category": "Rejabar",
+        "publish_time": "20-03-2025 09:56",
+        "news_link": "https://rejabar.republika.co.id/berita/stf2au512/polres-indramayu-gelar-tarawih-keliling-pererat-sinergi-dengan-masyarakat"
+    },
+    {
+        "title": "Tol Padang-Sicincin Siap Digunakan untuk Mudik",
+        "category": "News",
+        "publish_time": "20-03-2025 09:56",
+        "news_link": "https://news.republika.co.id/berita/stf29n370/tol-padangsicincin-siap-digunakan-untuk-mudik"
+    },
+    {
+        "title": "Pertamina Jamin Kesiapan Stok BBM dan LPG di Regional Jawa Bagian Tengah",
+        "category": "Ekonomi",
+        "publish_time": "20-03-2025 09:53",
+        "news_link": "https://ekonomi.republika.co.id/berita/stf24e472/pertamina-jamin-kesiapan-stok-bbm-dan-lpg-di-regional-jawa-bagian-tengah"
+    },
+    {
+        "title": "Jumlah Petugas Separuh dari Tahun Lalu, Kemenag Sumbar Minta Jamaah Mandiri",
+        "category": "Khazanah",
+        "publish_time": "20-03-2025 09:50",
+        "news_link": "https://khazanah.republika.co.id/berita/stf1zr483/jumlah-petugas-separuh-dari-tahun-lalu-kemenag-sumbar-minta-jamaah-mandiri"
+    },
+    {
+        "title": "Aksi Mahasiswa Tolak RUU TNI Masih Belanjut, Jalan Gatot Subroto Depan DPR Ditutup",
+        "category": "News",
+        "publish_time": "20-03-2025 09:42",
+        "news_link": "https://news.republika.co.id/berita/stf1n0409/aksi-mahasiswa-tolak-ruu-tni-masih-belanjut-jalan-gatot-subroto-depan-dpr-ditutup"
+    },
+    {
+        "title": "DKUKMPP Sumedang Gelar Operasi Pasar Bersubsidi dan Bazar Murah Idul Fitri",
+        "category": "Rejabar",
+        "publish_time": "20-03-2025 09:41",
+        "news_link": "https://rejabar.republika.co.id/berita/stf1l4472/dkukmpp-sumedang-gelar-operasi-pasar-bersubsidi-dan-bazar-murah-idul-fitri"
+    },
+    {
+        "title": "Resmikan KEK Industropolis Batang, Prabowo: Hilirisasi Jadi Kunci",
+        "category": "Ekonomi",
+        "publish_time": "20-03-2025 09:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/stf1hm490/resmikan-kek-industropolis-batang-prabowo-hilirisasi-jadi-kunci"
+    },
+    {
+        "title": "Polres Indramayu Siap Amankan Arus Mudik dan Permukiman Warga",
+        "category": "Rejabar",
+        "publish_time": "20-03-2025 09:34",
+        "news_link": "https://rejabar.republika.co.id/berita/stf194512/polres-indramayu-siap-amankan-arus-mudik-dan-permukiman-warga"
+    },
+    {
+        "title": "Sinergi Foundation Bentuk Entitas Baru, Sinergi Amil Zakat dan Sinergi Nazhir Wakaf",
+        "category": "Khazanah",
+        "publish_time": "20-03-2025 09:30",
+        "news_link": "https://khazanah.republika.co.id/berita/stf12b472/sinergi-foundation-bentuk-entitas-baru-sinergi-amil-zakat-dan-sinergi-nazhir-wakaf"
+    },
+    {
+        "title": "Menhan Tepis Ada Permintaan Khusus Prabowo dalam Pengesahan UU TNI",
+        "category": "News",
+        "publish_time": "20-03-2025 09:24",
+        "news_link": "https://news.republika.co.id/berita/stf0te484/menhan-tepis-ada-permintaan-khusus-prabowo-dalam-pengesahan-uu-tni"
+    },
+    {
+        "title": "Prakiraan Cuaca Kota Medan: Hujan Ringan Tanggal 21 Maret 2025",
+        "category": "News",
+        "publish_time": "20-03-2025 09:19",
+        "news_link": "https://news.republika.co.id/berita/stf0kd2092702089/prakiraan-cuaca-kota-medan-hujan-ringan-tanggal-21-maret-2025"
+    },
+    {
         "title": "THR untuk Para ASN di Kota Cimahi Mulai Dicairkan, Segini Besaran Anggarannya",
         "category": "Rejabar",
-        "publish_time": "20-03-2025 09:13",
+        "publish_time": "20-03-2025 09:14",
         "news_link": "https://rejabar.republika.co.id/berita/stf0ar512/thr-untuk-para-asn-di-kota-cimahi-mulai-dicairkan-segini-besaran-anggarannya"
     },
     {
         "title": "Prakiraan Cuaca Besok di Kota Malang dan Sekitarnya: Hujan Ringan 21 Maret 2025",
         "category": "News",
-        "publish_time": "20-03-2025 09:04",
+        "publish_time": "20-03-2025 09:14",
         "news_link": "https://news.republika.co.id/berita/stezv91774174382/prakiraan-cuaca-besok-di-kota-malang-dan-sekitarnya-hujan-ringan-21-maret-2025"
     },
     {
         "title": "Dedi Mulyadi Tegaskan Insentif Delman dan Becak Bukan Pemborosan, Ungkap Sumber Dananya",
         "category": "News",
-        "publish_time": "20-03-2025 09:02",
+        "publish_time": "20-03-2025 09:14",
         "news_link": "https://news.republika.co.id/berita/stezs9409/dedi-mulyadi-tegaskan-insentif-delman-dan-becak-bukan-pemborosan-ungkap-sumber-dananya"
     },
     {
         "title": "Viral Begal Motor Dihadiahi Bogem Mentah oleh Warga di Indramayu",
         "category": "Rejabar",
-        "publish_time": "20-03-2025 08:57",
+        "publish_time": "20-03-2025 09:14",
         "news_link": "https://rejabar.republika.co.id/berita/stezk1512/viral-begal-motor-dihadiahi-bogem-mentah-oleh-warga-di-indramayu"
     },
     {
         "title": "Polda Jabar Melarang Kendaraan Sumbu Tiga Beroperasi Saat Mudik Lebaran",
         "category": "Ekonomi",
-        "publish_time": "20-03-2025 08:56",
+        "publish_time": "20-03-2025 09:14",
         "news_link": "https://ekonomi.republika.co.id/berita/stezip349/polda-jabar-melarang-kendaraan-sumbu-tiga-beroperasi-saat-mudik-lebaran"
     },
     {
         "title": "Bank Mandiri Terbitkan Global Bond Senilai 800 Juta Dolar AS",
         "category": "Ekonomi",
-        "publish_time": "20-03-2025 08:56",
+        "publish_time": "20-03-2025 09:14",
         "news_link": "https://ekonomi.republika.co.id/berita/stezid370/bank-mandiri-terbitkan-global-bond-senilai-800-juta-dolar-as"
     },
     {
         "title": "Media Dilarang Siaran Live Persidangan Tom Lembong, Ini Alasan Hakim",
         "category": "News",
-        "publish_time": "20-03-2025 08:47",
+        "publish_time": "20-03-2025 09:14",
         "news_link": "https://news.republika.co.id/berita/stez2r409/media-dilarang-siaran-live-persidangan-tom-lembong-ini-alasan-hakim"
     },
     {
         "title": "Film Pangku Masuk Cannes, Menbud: Bukti Kualitas Film Nasional",
         "category": "Ameera",
-        "publish_time": "20-03-2025 08:38",
+        "publish_time": "20-03-2025 08:14",
         "news_link": "https://ameera.republika.co.id/berita/steyon425/film-pangku-masuk-cannes-menbud-bukti-kualitas-film-nasional"
     },
     {
         "title": "Mitos atau Fakta, Susu Kambing Tinggi Kolesterol?",
         "category": "Ameera",
-        "publish_time": "20-03-2025 08:36",
+        "publish_time": "20-03-2025 08:14",
         "news_link": "https://ameera.republika.co.id/berita/steylf328/mitos-atau-fakta-susu-kambing-tinggi-kolesterol"
     },
     {
         "title": "Prakiraan Cuaca Besok untuk Kota Yogyakarta dan Sekitarnya: Hujan Ringan 21 Maret 2025",
         "category": "News",
-        "publish_time": "20-03-2025 08:31",
+        "publish_time": "20-03-2025 08:14",
         "news_link": "https://news.republika.co.id/berita/steyc31700255112/prakiraan-cuaca-besok-untuk-kota-yogyakarta-dan-sekitarnya-hujan-ringan-21-maret-2025"
     },
     {
         "title": "KNEKS dan Nanobank Syariah Bermitra Perkuat Ekosistem Keuangan Syariah",
         "category": "Ekonomi Syariah",
-        "publish_time": "20-03-2025 08:27",
+        "publish_time": "20-03-2025 08:14",
         "news_link": "https://sharia.republika.co.id/berita/stey5h472/kneks-dan-nanobank-syariah-bermitra-perkuat-ekosistem-keuangan-syariah"
     },
     {
         "title": "Pemkot Yogya Perketat Pengawasan Daging di Pasar Tradisional Jelang Lebaran",
         "category": "Rejogja",
-        "publish_time": "20-03-2025 08:23",
+        "publish_time": "20-03-2025 08:14",
         "news_link": "https://rejogja.republika.co.id/berita/stexzp282/pemkot-yogya-perketat-pengawasan-daging-di-pasar-tradisional-jelang-lebaran"
     },
     {
         "title": "Ini Starting XI Indonesia Lawan Australia: Ole Romeny dan Dean James Debut",
         "category": "News",
-        "publish_time": "20-03-2025 08:20",
+        "publish_time": "20-03-2025 08:14",
         "news_link": "https://news.republika.co.id/berita/stexu7348/ini-starting-xi-indonesia-lawan-australia-ole-romeny-dan-dean-james-debut"
     },
     {
         "title": "Usai Resmikan KEK Batang, Prabowo Kasih Pesan untuk Timnas Indonesia",
         "category": "News",
-        "publish_time": "20-03-2025 08:16",
+        "publish_time": "20-03-2025 08:14",
         "news_link": "https://news.republika.co.id/berita/stexnf490/usai-resmikan-kek-batang-prabowo-kasih-pesan-untuk-timnas-indonesia"
     },
     {
@@ -202,101 +298,5 @@
         "category": "Esgnow",
         "publish_time": "20-03-2025 07:14",
         "news_link": "https://esgnow.republika.co.id/berita/stevia490/minta-maaf-kepada-warga-terdampak-bau-rdf-rorotan-gubernur-dki-kami-tanggung-jawab"
-    },
-    {
-        "title": "Kala Buya Hamka Hendak Menjual Gamis dan Peci karena Kesulitan Ekonomi",
-        "category": "Khazanah",
-        "publish_time": "20-03-2025 07:14",
-        "news_link": "https://khazanah.republika.co.id/berita/stevgb483/kala-buya-hamka-hendak-menjual-gamis-dan-peci-karena-kesulitan-ekonomi"
-    },
-    {
-        "title": "Menhan: Tak Ada Divifungsi TNI, Jangankan Jasad, Arwahnya Sudah Enggak Ada",
-        "category": "News",
-        "publish_time": "20-03-2025 07:14",
-        "news_link": "https://news.republika.co.id/berita/stevcu377/menhan-tak-ada-divifungsi-tni-jangankan-jasad-arwahnya-sudah-enggak-ada"
-    },
-    {
-        "title": "Film Snow White Debut dengan Skor Rendah di Rotten Tomatoes",
-        "category": "Ameera",
-        "publish_time": "20-03-2025 07:14",
-        "news_link": "https://ameera.republika.co.id/berita/stev0n425/film-snow-white-debut-dengan-skor-rendah-di-rotten-tomatoes"
-    },
-    {
-        "title": "Pakar Sebut Ada Pembegalan Kewenangan Kejaksaan untuk Tangani Perkara Korupsi",
-        "category": "News",
-        "publish_time": "20-03-2025 07:14",
-        "news_link": "https://news.republika.co.id/berita/steurs318/pakar-sebut-ada-pembegalan-kewenangan-kejaksaan-untuk-tangani-perkara-korupsi"
-    },
-    {
-        "title": "Kampanye #BijakGaram: Ramadan Sehat dengan Pola Makan Rendah Garam",
-        "category": "Ameera",
-        "publish_time": "20-03-2025 07:14",
-        "news_link": "https://ameera.republika.co.id/berita/steumv522/kampanye-bijakgaram-ramadan-sehat-dengan-pola-makan-rendah-garam"
-    },
-    {
-        "title": "MUI Desak PBB Segera Keluarkan Resolusi Darurat Hentikan Kebiadaban Israel",
-        "category": "Khazanah",
-        "publish_time": "20-03-2025 07:14",
-        "news_link": "https://khazanah.republika.co.id/berita/steulm483/mui-desak-pbb-segera-keluarkan-resolusi-darurat-hentikan-kebiadaban-israel"
-    },
-    {
-        "title": "Puan: Tentara Aktif Tetap Dilarang Berbisnis dan Berpolitik dalam UU TNI Baru",
-        "category": "News",
-        "publish_time": "20-03-2025 07:14",
-        "news_link": "https://news.republika.co.id/berita/steuiw377/puan-tentara-aktif-tetap-dilarang-berbisnis-dan-berpolitik-dalam-uu-tni-baru"
-    },
-    {
-        "title": "Prabowo Targetkan Ada 1 KEK di Setiap Provinsi",
-        "category": "Ekonomi",
-        "publish_time": "20-03-2025 07:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/steui0490/prabowo-targetkan-ada-1-kek-di-setiap-provinsi"
-    },
-    {
-        "title": "Mengenal Qaul Qadim dan Qaul Jadid Imam Syafii",
-        "category": "Khazanah",
-        "publish_time": "20-03-2025 07:14",
-        "news_link": "https://khazanah.republika.co.id/berita/steuhw458/mengenal-qaul-qadim-dan-qaul-jadid-imam-syafii"
-    },
-    {
-        "title": "Waspada! Jalur Utama Mudik Lebaran di Bandung Barat Berlubang",
-        "category": "Rejabar",
-        "publish_time": "20-03-2025 07:14",
-        "news_link": "https://rejabar.republika.co.id/berita/steu8w512/waspada-jalur-utama-mudik-lebaran-di-bandung-barat-berlubang"
-    },
-    {
-        "title": "Keponakan Presiden Prabowo Blak-blakan Soal UU TNI yang Baru Disahkan, Ini Isinya",
-        "category": "News",
-        "publish_time": "20-03-2025 07:14",
-        "news_link": "https://news.republika.co.id/berita/steu4n487/keponakan-presiden-prabowo-blakblakan-soal-uu-tni-yang-baru-disahkan-ini-isinya"
-    },
-    {
-        "title": "Prihatin Satpam Ditusuk Anggota LSM Gara-Gara THR, Dedi Mulyadi: Tak Boleh Ada Lagi",
-        "category": "Rejabar",
-        "publish_time": "20-03-2025 07:14",
-        "news_link": "https://rejabar.republika.co.id/berita/stetzy512/prihatin-satpam-ditusuk-anggota-lsm-garagara-thr-dedi-mulyadi-tak-boleh-ada-lagi"
-    },
-    {
-        "title": "Polisi Tindak Ormas Minta THR ke Pengusaha Tanjung Priok",
-        "category": "News",
-        "publish_time": "20-03-2025 07:14",
-        "news_link": "https://news.republika.co.id/berita/stetxl377/polisi-tindak-ormas-minta-thr-ke-pengusaha-tanjung-priok"
-    },
-    {
-        "title": "Penderita Diabetes Diminta Perhatikan Tanda-Tanda Ini Saat Berpuasa",
-        "category": "Ameera",
-        "publish_time": "20-03-2025 07:14",
-        "news_link": "https://ameera.republika.co.id/berita/stetwg349/penderita-diabetes-diminta-perhatikan-tandatanda-ini-saat-berpuasa"
-    },
-    {
-        "title": "48,6 Juta Masyarakat Indonesia Terdampak Panas Ekstrem",
-        "category": "Esgnow",
-        "publish_time": "20-03-2025 07:14",
-        "news_link": "https://esgnow.republika.co.id/berita/stetwf425/486-juta-masyarakat-indonesia-terdampak-panas-ekstrem"
-    },
-    {
-        "title": "Turun Ayat tentang Neraka, Rasulullah pun Menangis",
-        "category": "Khazanah",
-        "publish_time": "20-03-2025 07:14",
-        "news_link": "https://khazanah.republika.co.id/berita/stetw2458/turun-ayat-tentang-neraka-rasulullah-pun-menangis"
     }
 ]
