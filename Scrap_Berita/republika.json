@@ -1,15 +1,93 @@
 [
     {
+        "title": "Pramono: Persaingan di Jakarta tidak Mudah",
+        "category": "News",
+        "publish_time": "22 March 2025, 22:11",
+        "news_link": "https://news.republika.co.id/berita/stj66l377/pramono-persaingan-di-jakarta-tidak-mudah"
+    },
+    {
+        "title": "GIPI Sebut Kepala Daerah Larang Study Tour Rugikan Industri Pariwisata",
+        "category": "Ekonomi",
+        "publish_time": "22 March 2025, 22:04",
+        "news_link": "https://ekonomi.republika.co.id/berita/stj5uz484/gipi-sebut-kepala-daerah-larang-study-tour-rugikan-industri-pariwisata"
+    },
+    {
+        "title": "Polda Aceh Sediakan Penitipan Motor Gratis di Polres dan Polsek",
+        "category": "Visual",
+        "publish_time": "22 March 2025, 22:01",
+        "news_link": "https://visual.republika.co.id/berita/stj11s375/polda-aceh-sediakan-penitipan-motor-gratis-di-polres-dan-polsek"
+    },
+    {
+        "title": "Lima WNI Wafat dalam Kecelakaan Bus Umroh  Dimakamkan di Saudi",
+        "category": "Khazanah",
+        "publish_time": "22 March 2025, 21:54",
+        "news_link": "https://khazanah.republika.co.id/berita/stj5fj430/lima-wni-wafat-dalam-kecelakaan-bus-umroh-dimakamkan-di-saudi"
+    },
+    {
+        "title": "Bersama Muslimat NU, Khofifah Distribusikan 1.000 Paket Lebaran dari Keluarga JK",
+        "category": "Khazanah",
+        "publish_time": "22 March 2025, 21:51",
+        "news_link": "https://khazanah.republika.co.id/berita/stj59z430/bersama-muslimat-nu-khofifah-distribusikan-1000-paket-lebaran-dari-keluarga-jk"
+    },
+    {
+        "title": "BUMN Award 2025 Apresiasi Perusahaan Pelat Merah Berdampak untuk Masyarakat",
+        "category": "Ekonomi",
+        "publish_time": "22 March 2025, 21:48",
+        "news_link": "https://ekonomi.republika.co.id/berita/stj54s483/bumn-award-2025-apresiasi-perusahaan-pelat-merah-berdampak-untuk-masyarakat"
+    },
+    {
+        "title": "Pertamina Siapkan Layanan Gratis Antar LPG",
+        "category": "Ameera",
+        "publish_time": "22 March 2025, 21:48",
+        "news_link": "https://ameera.republika.co.id/berita/stj54s522/pertamina-siapkan-layanan-gratis-antar-lpg"
+    },
+    {
+        "title": "H-9 Lebaran, Pemudik PELNI Tembus 226 Ribu Penumpang, Balikpapan-Surabaya Ruas Terpadat",
+        "category": "Rejogja",
+        "publish_time": "22 March 2025, 21:42",
+        "news_link": "https://rejogja.republika.co.id/berita/stj4ux282/h9-lebaran-pemudik-pelni-tembus-226-ribu-penumpang-balikpapansurabaya-ruas-terpadat"
+    },
+    {
+        "title": "Tafsir Buya Hamka: Pejabat dan Pegawai Korup Tempatnya di Neraka",
+        "category": "Iqra",
+        "publish_time": "22 March 2025, 21:35",
+        "news_link": "https://iqra.republika.co.id/berita/stj4jz430/tafsir-buya-hamka-pejabat-dan-pegawai-korup-tempatnya-di-neraka"
+    },
+    {
+        "title": "Harga Kelapa Naik, Pembeli Menjerit, Pedagang Serukan Demo",
+        "category": "Rejogja",
+        "publish_time": "22 March 2025, 21:28",
+        "news_link": "https://rejogja.republika.co.id/berita/stj485282/harga-kelapa-naik-pembeli-menjerit-pedagang-serukan-demo"
+    },
+    {
+        "title": "Jelang Mudik Lebaran, Ramp Check Digelar di Terminal Harjamukti",
+        "category": "Rejabar",
+        "publish_time": "22 March 2025, 21:22",
+        "news_link": "https://rejabar.republika.co.id/berita/stj3xj282/jelang-mudik-lebaran-ramp-check-digelar-di-terminal-harjamukti"
+    },
+    {
+        "title": "Badan Pangan Waspadai Kenaikan Harga Bawang Putih dan Bawang Merah",
+        "category": "Ekonomi",
+        "publish_time": "22 March 2025, 21:18",
+        "news_link": "https://ekonomi.republika.co.id/berita/stj3r5490/badan-pangan-waspadai-kenaikan-harga-bawang-putih-dan-bawang-merah"
+    },
+    {
+        "title": "Catat, Ini 3 Ruas Fungsional di Jalan Tol Trans Sumatera untuk Mudik dan Balik Lebaran",
+        "category": "Ekonomi",
+        "publish_time": "22 March 2025, 21:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/stj3kh490/catat-ini-3-ruas-fungsional-di-jalan-tol-trans-sumatera-untuk-mudik-dan-balik-lebaran"
+    },
+    {
         "title": "TPA Degayu Ditutup, Pemkot Pekalongan Tetapkan Darurat Sampah Selama 6 Bulan",
         "category": "Rejogja",
         "publish_time": "22 March 2025, 21:03",
         "news_link": "https://rejogja.republika.co.id/berita/stj32l282/tpa-degayu-ditutup-pemkot-pekalongan-tetapkan-darurat-sampah-selama-6-bulan"
     },
     {
-        "title": "Kebijakan Efisiensi Presisen Prabowo, Industri Pariwisata Menjerit",
+        "title": "Kebijakan Efisiensi Presiden Prabowo, Industri Pariwisata Menjerit",
         "category": "Ekonomi",
         "publish_time": "22 March 2025, 21:03",
-        "news_link": "https://ekonomi.republika.co.id/berita/stj328484/kebijakan-efisiensi-presisen-prabowo-industri-pariwisata-menjerit"
+        "news_link": "https://ekonomi.republika.co.id/berita/stj328484/kebijakan-efisiensi-presiden-prabowo-industri-pariwisata-menjerit"
     },
     {
         "title": "THR Cair, Ahli Keuangan Imbau Warga Hindari Belanja Berlebihan",
@@ -220,83 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "22 March 2025, 18:05",
         "news_link": "https://ekonomi.republika.co.id/berita/stiute368/bni-matikan-listrik-di-perayaan-earth-hour-sejenak-tanpa-cahaya-demi-kelestarian-bumi"
-    },
-    {
-        "title": "Bangun Kembali Palestina, INH: Ada Tiga Ikatan Kita dengan Palestina",
-        "category": "News",
-        "publish_time": "22 March 2025, 18:01",
-        "news_link": "https://news.republika.co.id/berita/stieiq451/bangun-kembali-palestina-inh-ada-tiga-ikatan-kita-dengan-palestina"
-    },
-    {
-        "title": "10 Hari Terakhir Ramadhan, Haruskah Lakukan Sholat Lailatul Qadar?",
-        "category": "Network",
-        "publish_time": "22 March 2025, 17:59",
-        "news_link": "https://magentatoday.id/posts/515346/10-hari-terakhir-ramadhan-haruskah-lakukan-sholat-lailatul-qadar"
-    },
-    {
-        "title": "Pertama Sejak 3 Bulan Terakhir, 5 Roket Ditembakkan ke Israel dari Lebanon Selatan",
-        "category": "Khazanah",
-        "publish_time": "22 March 2025, 17:58",
-        "news_link": "https://khazanah.republika.co.id/berita/stiuia320/pertama-sejak-3-bulan-terakhir-5-roket-ditembakkan-ke-israel-dari-lebanon-selatan"
-    },
-    {
-        "title": "Adaro Resmikan Pembangunan 500 Rumah Gratis untuk Masyarakat Berpenghasilan Rendah",
-        "category": "Ekonomi",
-        "publish_time": "22 March 2025, 17:54",
-        "news_link": "https://ekonomi.republika.co.id/berita/stiubj368/adaro-resmikan-pembangunan-500-rumah-gratis-untuk-masyarakat-berpenghasilan-rendah"
-    },
-    {
-        "title": "Masa Reses, Verrell Bramasta Sosialisasikan Talent DNA di Tiga SMA Bekasi",
-        "category": "News",
-        "publish_time": "22 March 2025, 17:54",
-        "news_link": "https://news.republika.co.id/berita/stiyxd318/masa-reses-verrell-bramasta-sosialisasikan-talent-dna-di-tiga-sma-bekasi"
-    },
-    {
-        "title": "Kepala Badan Gizi Ungkap Kekalahan Timnas Indonesia Berkaitan dengan Kualitas Gizi",
-        "category": "Ekonomi",
-        "publish_time": "22 March 2025, 17:50",
-        "news_link": "https://ekonomi.republika.co.id/berita/stiu13490/kepala-badan-gizi-ungkap-kekalahan-timnas-indonesia-berkaitan-dengan-kualitas-gizi"
-    },
-    {
-        "title": "RUU TNI Disahkan DPR, Supremasi Sipil Harus Dijunjung Tinggi",
-        "category": "News",
-        "publish_time": "22 March 2025, 17:43",
-        "news_link": "https://news.republika.co.id/berita/stitt0484/ruu-tni-disahkan-dpr-supremasi-sipil-harus-dijunjung-tinggi"
-    },
-    {
-        "title": "Kementerian PU dan BGN Kerja Sama Bangun Dapur Makan Bergizi Gratis",
-        "category": "Ekonomi",
-        "publish_time": "22 March 2025, 17:43",
-        "news_link": "https://ekonomi.republika.co.id/berita/stitsg490/kementerian-pu-dan-bgn-kerja-sama-bangun-dapur-makan-bergizi-gratis"
-    },
-    {
-        "title": "Presiden Prabowo Jelaskan Fungsi Sekolah Rakyat, Letkol Teddy Bantu Susun Kurikulum",
-        "category": "News",
-        "publish_time": "22 March 2025, 17:40",
-        "news_link": "https://news.republika.co.id/berita/stilw9451/presiden-prabowo-jelaskan-fungsi-sekolah-rakyat-letkol-teddy-bantu-susun-kurikulum"
-    },
-    {
-        "title": "500 Rumah Gratis Siap Dibangun, Kementerian PKP dan Adaro Resmikan Proyek Baru",
-        "category": "Visual",
-        "publish_time": "22 March 2025, 17:38",
-        "news_link": "https://visual.republika.co.id/berita/stitkm368/500-rumah-gratis-siap-dibangun-kementerian-pkp-dan-adaro-resmikan-proyek-baru"
-    },
-    {
-        "title": "Pantauan Arus Mudik, Hampir 100 Ribu Kendaraan Melintas di Tol Trans Sumatera",
-        "category": "Ekonomi",
-        "publish_time": "22 March 2025, 17:36",
-        "news_link": "https://ekonomi.republika.co.id/berita/stitgd490/pantauan-arus-mudik-hampir-100-ribu-kendaraan-melintas-di-tol-trans-sumatera"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok, 23 Maret 2025, Kota Balikpapan dan Sekitarnya: Hujan Petir",
-        "category": "News",
-        "publish_time": "22 March 2025, 17:35",
-        "news_link": "https://news.republika.co.id/berita/stiteo1583313733/prakiraan-cuaca-besok-23-maret-2025-kota-balikpapan-dan-sekitarnya-hujan-petir"
-    },
-    {
-        "title": "Kia Gelar Program Bengkel Siaga Lebaran, Ini Lokasinya",
-        "category": "Ekonomi",
-        "publish_time": "22 March 2025, 17:29",
-        "news_link": "https://ekonomi.republika.co.id/berita/stit4l468/kia-gelar-program-bengkel-siaga-lebaran-ini-lokasinya"
     }
 ]
