@@ -1,15 +1,93 @@
 [
     {
+        "title": "Prabowo: Harga Saham Boleh Naik-Turun, Harga Pangan Aman",
+        "category": "Video",
+        "publish_time": "22 March 2025, 12:12",
+        "news_link": "https://tv.republika.co.id/berita/stibrz313/prabowo-harga-saham-boleh-naikturun-harga-pangan-aman"
+    },
+    {
+        "title": "Manajemen Hana Bank Sesalkan Pembakaran Kantor Oleh Sekelompok Orang",
+        "category": "Rejabar",
+        "publish_time": "22 March 2025, 12:10",
+        "news_link": "https://rejabar.republika.co.id/berita/stiedm370/manajemen-hana-bank-sesalkan-pembakaran-kantor-oleh-sekelompok-orang"
+    },
+    {
+        "title": "Di Tengah Serangan ke Gaza, Israel Dibayang-bayangi Perang Saudara",
+        "category": "Khazanah",
+        "publish_time": "22 March 2025, 12:07",
+        "news_link": "https://khazanah.republika.co.id/berita/stie7s320/di-tengah-serangan-ke-gaza-israel-dibayangbayangi-perang-saudara"
+    },
+    {
+        "title": "Jelang Lebaran, Kementerian ESDM dan Pertamina Jamin BBM di Palembang Lancar",
+        "category": "Ekonomi",
+        "publish_time": "22 March 2025, 12:06",
+        "news_link": "https://ekonomi.republika.co.id/berita/stie6w368/jelang-lebaran-kementerian-esdm-dan-pertamina-jamin-bbm-di-palembang-lancar"
+    },
+    {
+        "title": "Penjualan Pelumas Mobil Melonjak, ExxonMobil Targetkan Ekspansi di 2025",
+        "category": "Ekonomi",
+        "publish_time": "22 March 2025, 12:04",
+        "news_link": "https://ekonomi.republika.co.id/berita/stie4b349/penjualan-pelumas-mobil-melonjak-exxonmobil-targetkan-ekspansi-di-2025"
+    },
+    {
+        "title": "Kantor Bank Hana di Bandung Dibakar, Polisi Periksa CCTV, Buru Pelaku",
+        "category": "News",
+        "publish_time": "22 March 2025, 11:43",
+        "news_link": "https://news.republika.co.id/berita/stid40377/kantor-bank-hana-di-bandung-dibakar-polisi-periksa-cctv-buru-pelaku"
+    },
+    {
+        "title": "Gempa Guncang Iran, Ini Nasib Fasilitas Utama Nuklir Natanz",
+        "category": "Khazanah",
+        "publish_time": "22 March 2025, 11:42",
+        "news_link": "https://khazanah.republika.co.id/berita/stid2s483/gempa-guncang-iran-ini-nasib-fasilitas-utama-nuklir-natanz"
+    },
+    {
+        "title": "Kadin DKI Fasilitasi 50 Pelaku UMKM untuk Semarakkan Bazar di Kemenkop",
+        "category": "Rejakarta",
+        "publish_time": "22 March 2025, 11:40",
+        "news_link": "https://republika.co.id/berita//sticyr456/kadin-dki-fasilitasi-50-pelaku-umkm-untuk-semarakkan-bazar-di-kemenkop"
+    },
+    {
+        "title": "H-9 Lebaran, Pemudik PELNI Tembus 226 Ribu Penumpang",
+        "category": "Ekonomi",
+        "publish_time": "22 March 2025, 11:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/stiala370/h9-lebaran-pemudik-pelni-tembus-226-ribu-penumpang"
+    },
+    {
+        "title": "Demi Bumi Lebih Lestari, Bank Mandiri Punya Cara Jitu Daur Ulang Air",
+        "category": "Esgnow",
+        "publish_time": "22 March 2025, 11:34",
+        "news_link": "https://esgnow.republika.co.id/berita/sticow368/demi-bumi-lebih-lestari-bank-mandiri-punya-cara-jitu-daur-ulang-air"
+    },
+    {
+        "title": "Sebut Ijazah Jokowi Asli, UGM Bongkar Kebohongan Rismon, Patahkan Teori Times New Roman",
+        "category": "News",
+        "publish_time": "22 March 2025, 11:28",
+        "news_link": "https://news.republika.co.id/berita/sticg8377/sebut-ijazah-jokowi-asli-ugm-bongkar-kebohongan-rismon-patahkan-teori-times-new-roman"
+    },
+    {
+        "title": "Kemenag Sumbar: Calhaj tak Bisa Melunasi Biaya Haji Jika tidak Istithaah",
+        "category": "Khazanah",
+        "publish_time": "22 March 2025, 11:28",
+        "news_link": "https://khazanah.republika.co.id/berita/sticfj483/kemenag-sumbar-calhaj-tak-bisa-melunasi-biaya-haji-jika-tidak-istithaah"
+    },
+    {
+        "title": "Terapkan Hukuman Islam Ini Jika Ingin Berantas Premanisme Ormas yang Meresahkan",
+        "category": "Khazanah",
+        "publish_time": "22 March 2025, 11:27",
+        "news_link": "https://khazanah.republika.co.id/berita/sticen320/terapkan-hukuman-islam-ini-jika-ingin-berantas-premanisme-ormas-yang-meresahkan"
+    },
+    {
         "title": "Bangun Jet Temput Next Gen, Trump Pilih Gandeng Boeing",
         "category": "News",
         "publish_time": "22 March 2025, 11:15",
         "news_link": "https://news.republika.co.id/berita/stia94370/bangun-jet-temput-next-gen-trump-pilih-gandeng-boeing"
     },
     {
-        "title": "Polisi Ungkap Kantor Hana Bank Bandung Dibakar Sekelompok Orang, Begini Kronologinya",
+        "title": "Polisi Ungkap Kantor Hana Bank Bandung Dibakar Orang tak Dikenal, Begini Kronologinya",
         "category": "Rejabar",
         "publish_time": "22 March 2025, 11:13",
-        "news_link": "https://rejabar.republika.co.id/berita/stibq7483/polisi-ungkap-kantor-hana-bank-bandung-dibakar-sekelompok-orang-begini-kronologinya"
+        "news_link": "https://rejabar.republika.co.id/berita/stibq7483/polisi-ungkap-kantor-hana-bank-bandung-dibakar-orang-tak-dikenal-begini-kronologinya"
     },
     {
         "title": "Kebakaran Hanguskan Kantor Hana Bank Bandung, Begini Nasib Brangkasnya",
@@ -18,16 +96,16 @@
         "news_link": "https://rejabar.republika.co.id/berita/stib4l483/kebakaran-hanguskan-kantor-hana-bank-bandung-begini-nasib-brangkasnya"
     },
     {
-        "title": "Yordania Bangkitkan Lagi Tradisi Meriam Ramadhan",
-        "category": "Video",
-        "publish_time": "22 March 2025, 11:00",
-        "news_link": "https://tv.republika.co.id/berita/stiakw313/yordania-bangkitkan-lagi-tradisi-meriam-ramadhan"
-    },
-    {
         "title": "MahakaX, AIM dan Ubiklan Jalin Kolaborasi Hadirkan Arka Entertainment",
         "category": "Visual",
         "publish_time": "22 March 2025, 11:00",
         "news_link": "https://visual.republika.co.id/berita/sths39375/mahakax-aim-dan-ubiklan-jalin-kolaborasi-hadirkan-arka-entertainment"
+    },
+    {
+        "title": "Yordania Bangkitkan Lagi Tradisi Meriam Ramadhan",
+        "category": "Video",
+        "publish_time": "22 March 2025, 11:00",
+        "news_link": "https://tv.republika.co.id/berita/stiakw313/yordania-bangkitkan-lagi-tradisi-meriam-ramadhan"
     },
     {
         "title": "Bahlil: 307 SPKLU Layani Pemudik Mobil Listrik di Jateng-Yogya",
@@ -220,83 +298,5 @@
         "category": "Khazanah",
         "publish_time": "22 March 2025, 06:17",
         "news_link": "https://khazanah.republika.co.id/berita/sthy1u483/dua-ratus-anak-gugur-di-jalur-gaza"
-    },
-    {
-        "title": "Prabowo: Saya Terima Surat dari Pimpinan Dunia, Mereka Mau Belajar MBG dari Kita",
-        "category": "News",
-        "publish_time": "22 March 2025, 06:10",
-        "news_link": "https://news.republika.co.id/berita/sthx8w377/prabowo-saya-terima-surat-dari-pimpinan-dunia-mereka-mau-belajar-mbg-dari-kita"
-    },
-    {
-        "title": "Kantongi Sertifikat Postel, Iphone 16 Segera Beredar di Indonesia?",
-        "category": "Ekonomi",
-        "publish_time": "22 March 2025, 06:10",
-        "news_link": "https://ekonomi.republika.co.id/berita/sthunm370/kantongi-sertifikat-postel-iphone-16-segera-beredar-di-indonesia"
-    },
-    {
-        "title": "Pesan Warga Gaza: Kami Dibantai Dunia Diam, Cukup Allah yang Jadi Pelindung",
-        "category": "Khazanah",
-        "publish_time": "22 March 2025, 06:07",
-        "news_link": "https://khazanah.republika.co.id/berita/sthxl5483/pesan-warga-gaza-kami-dibantai-dunia-diam-cukup-allah-yang-jadi-pelindung"
-    },
-    {
-        "title": "Kebiadaban Berlanjut, Israel Bombardir Satu-satunya RS Kanker di Gaza",
-        "category": "Khazanah",
-        "publish_time": "22 March 2025, 05:54",
-        "news_link": "https://khazanah.republika.co.id/berita/sthwy6483/kebiadaban-berlanjut-israel-bombardir-satusatunya-rs-kanker-di-gaza"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini 22 Maret 2025: Denpasar Bali Diguyur Hujan Ringan",
-        "category": "News",
-        "publish_time": "22 March 2025, 05:49",
-        "news_link": "https://news.republika.co.id/berita/sthwq5888681707/prakiraan-cuaca-hari-ini-22-maret-2025-denpasar-bali-diguyur-hujan-ringan"
-    },
-    {
-        "title": "PCNU Kota Depok Bagikan Sebanyak 300 Paket Buka Puasa",
-        "category": "Khazanah",
-        "publish_time": "22 March 2025, 05:45",
-        "news_link": "https://khazanah.republika.co.id/berita/sthwjw320/pcnu-kota-depok-bagikan-sebanyak-300-paket-buka-puasa"
-    },
-    {
-        "title": "Hutan Wakaf akan Jadi Program Prioritas Kemenag",
-        "category": "Khazanah",
-        "publish_time": "22 March 2025, 05:35",
-        "news_link": "https://khazanah.republika.co.id/berita/sth1uh483/hutan-wakaf-akan-jadi-program-prioritas-kemenag"
-    },
-    {
-        "title": "Bukber Nasdem, Jokowi, Puan, dan Pramono Hadir, Anies tidak Ada",
-        "category": "News",
-        "publish_time": "22 March 2025, 05:17",
-        "news_link": "https://news.republika.co.id/berita/sthv9o484/bukber-nasdem-jokowi-puan-dan-pramono-hadir-anies-tidak-ada"
-    },
-    {
-        "title": "Timbulkan Bau Busuk, Warga Minta RDF Plant Rorotan Ditutup",
-        "category": "Visual",
-        "publish_time": "22 March 2025, 05:00",
-        "news_link": "https://visual.republika.co.id/berita/sthr7y375/timbulkan-bau-busuk-warga-minta-rdf-plant-rorotan-ditutup"
-    },
-    {
-        "title": "Wamenhan Jamu Menteri DAPA Korsel Bahas Jet KF-21 Boramae",
-        "category": "Network",
-        "publish_time": "22 March 2025, 04:24",
-        "news_link": "https://seputarmiliter.id/posts/515371/wamenhan-jamu-menteri-dapa-korsel-bahas-jet-kf-21-boramae"
-    },
-    {
-        "title": "Doa Hari ke-22 Ramadhan",
-        "category": "Network",
-        "publish_time": "22 March 2025, 04:24",
-        "news_link": "https://sajada.id/posts/515368/doa-hari-ke-22-ramadhan"
-    },
-    {
-        "title": "Jumlah Jamaah Umroh Naik 31 Persen Selama Kuartal Keempat 2024",
-        "category": "Network",
-        "publish_time": "22 March 2025, 04:24",
-        "news_link": "https://magentatoday.id/posts/515338/jumlah-jamaah-umroh-naik-31-persen-selama-kuartal-keempat-2024"
-    },
-    {
-        "title": "Geger! Penemuan 59 Ladang Ganja di Bromo, 4 Orang Jadi Tersangka, Ini Kronologinya",
-        "category": "Network",
-        "publish_time": "22 March 2025, 04:24",
-        "news_link": "https://ruzkaindonesia.id/posts/515370/geger-penemuan-59-ladang-ganja-di-bromo-4-orang-jadi-tersangka-ini-kronologinya"
     }
 ]
