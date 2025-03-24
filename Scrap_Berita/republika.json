@@ -1,122 +1,248 @@
 [
     {
+        "title": "Bank of Japan\u00a0Siap Naikkan Suku Bunga, Meski Terancam Rugi Triliunan Yen",
+        "category": "Ekonomi",
+        "publish_time": "24-03-2025 06:16",
+        "news_link": "https://ekonomi.republika.co.id/berita/stm6s0423/bank-of-japansiap-naikkan-suku-bunga-meski-terancam-rugi-triliunan-yen"
+    },
+    {
+        "title": "Pengamat: IHSG Rebound Jika Ada Sinyal Positif Kebijakan Ekonomi RI",
+        "category": "Ekonomi",
+        "publish_time": "24-03-2025 06:16",
+        "news_link": "https://ekonomi.republika.co.id/berita/stm6rp370/pengamat-ihsg-rebound-jika-ada-sinyal-positif-kebijakan-ekonomi-ri"
+    },
+    {
+        "title": "Cara Menentukan Arah Kiblat Saat Pemudik Harus Sholat di Kereta",
+        "category": "Khazanah",
+        "publish_time": "24-03-2025 06:14",
+        "news_link": "https://khazanah.republika.co.id/berita/stm6om483/cara-menentukan-arah-kiblat-saat-pemudik-harus-sholat-di-kereta"
+    },
+    {
+        "title": "Mitsubishi Fuso Raih Kepercayaan Utama Konsumen, Pimpin Pasar Bertahun-tahun",
+        "category": "Ekonomi",
+        "publish_time": "24-03-2025 06:04",
+        "news_link": "https://ekonomi.republika.co.id/berita/stm68l468/mitsubishi-fuso-raih-kepercayaan-utama-konsumen-pimpin-pasar-bertahuntahun"
+    },
+    {
+        "title": "Lebaran Sebentar Lagi, Kendaraan Masuk Tol Mulai Melonjak",
+        "category": "News",
+        "publish_time": "24-03-2025 06:04",
+        "news_link": "https://news.republika.co.id/berita/stm0rq451/lebaran-sebentar-lagi-kendaraan-masuk-tol-mulai-melonjak"
+    },
+    {
+        "title": "Gelar Apel Angkutan Lebaran 2025, KAI Daop 6 Siap Sambut Musim Mudik",
+        "category": "Rejogja",
+        "publish_time": "24-03-2025 06:02",
+        "news_link": "https://rejogja.republika.co.id/berita/stm64x291/gelar-apel-angkutan-lebaran-2025-kai-daop-6-siap-sambut-musim-mudik"
+    },
+    {
+        "title": "Alquran Abadikan Pembunuhan Pertama dalam Sejarah Manusia, Ini Cara Qabil Bunuh Habil",
+        "category": "Iqra",
+        "publish_time": "24-03-2025 06:02",
+        "news_link": "https://iqra.republika.co.id/berita/stm64u320/alquran-abadikan-pembunuhan-pertama-dalam-sejarah-manusia-ini-cara-qabil-bunuh-habil"
+    },
+    {
+        "title": "Pastikan Stok, PMI Genjot Donor Darah Selama Ramadhan dan Mudik Lebaran",
+        "category": "Khazanah",
+        "publish_time": "24-03-2025 05:58",
+        "news_link": "https://khazanah.republika.co.id/berita/stm5yn483/pastikan-stok-pmi-genjot-donor-darah-selama-ramadhan-dan-mudik-lebaran"
+    },
+    {
+        "title": "Kebijakan Dedi Mulyadi di Jabar Diikuti, Gubernur Jateng Hapus Tunggakan Pajak Bermotor",
+        "category": "News",
+        "publish_time": "24-03-2025 05:56",
+        "news_link": "https://news.republika.co.id/berita/stm5vk487/kebijakan-dedi-mulyadi-di-jabar-diikuti-gubernur-jateng-hapus-tunggakan-pajak-bermotor"
+    },
+    {
+        "title": "Bea Cukai Semarang Amankan Ribuan Liter Arak Bali tak Berizin",
+        "category": "Beacukai",
+        "publish_time": "24-03-2025 05:54",
+        "news_link": "https://republika.co.id/berita//stm5rq472/bea-cukai-semarang-amankan-ribuan-liter-arak-bali-tak-berizin"
+    },
+    {
+        "title": "Masjid Diberondong Kelompok Bersenjata, Sebanyak 44 Jamaah Syahid",
+        "category": "Khazanah",
+        "publish_time": "24-03-2025 05:49",
+        "news_link": "https://khazanah.republika.co.id/berita/stm5iq483/masjid-diberondong-kelompok-bersenjata-sebanyak-44-jamaah-syahid"
+    },
+    {
+        "title": "Akhiri Rangkaian Telusur Rasa Ramadhan, Peserta Susuri Kawasan Kauman Yogyakarta",
+        "category": "Rejogja",
+        "publish_time": "24-03-2025 05:46",
+        "news_link": "https://rejogja.republika.co.id/berita/stm5dr291/akhiri-rangkaian-telusur-rasa-ramadhan-peserta-susuri-kawasan-kauman-yogyakarta"
+    },
+    {
+        "title": "Pemudik Padati Stasiun Senen pada H-7 Lebaran",
+        "category": "News",
+        "publish_time": "24-03-2025 05:43",
+        "news_link": "https://news.republika.co.id/berita/stm59j425/pemudik-padati-stasiun-senen-pada-h7-lebaran"
+    },
+    {
+        "title": "Duta Anak Badung Bali Bangun SDM Masyarakat Setempat",
+        "category": "News",
+        "publish_time": "24-03-2025 05:43",
+        "news_link": "https://news.republika.co.id/berita/stm0fm451/duta-anak-badung-bali-bangun-sdm-masyarakat-setempat"
+    },
+    {
+        "title": "Bantah OPM, Bupati: Guru di Yahukimo Bukan Anggota TNI",
+        "category": "News",
+        "publish_time": "24-03-2025 05:38",
+        "news_link": "https://news.republika.co.id/berita/stm50c377/bantah-opm-bupati-guru-di-yahukimo-bukan-anggota-tni"
+    },
+    {
+        "title": "Masjid akan Jadi Tempat Rehat Para Pemudik",
+        "category": "Khazanah",
+        "publish_time": "24-03-2025 05:36",
+        "news_link": "https://khazanah.republika.co.id/berita/stm4xg483/masjid-akan-jadi-tempat-rehat-para-pemudik"
+    },
+    {
+        "title": "Sri Mulyani: Diskon Listrik Gunakan Rp 13,6 Triliun Dana APBN",
+        "category": "Ekonomi",
+        "publish_time": "24-03-2025 05:23",
+        "news_link": "https://ekonomi.republika.co.id/berita/stm4co370/sri-mulyani-diskon-listrik-gunakan-rp-136-triliun-dana-apbn"
+    },
+    {
+        "title": "H-7 Lebaran 2025, Stasiun Gambir Berangkatkan 12 Ribu Pemudik",
+        "category": "Khazanah",
+        "publish_time": "24-03-2025 05:19",
+        "news_link": "https://khazanah.republika.co.id/berita/stm441366/h7-lebaran-2025-stasiun-gambir-berangkatkan-12-ribu-pemudik"
+    },
+    {
+        "title": "Demontrasi di Turki Ricuh, Erdogan Melawan Ingatkan Oposisi",
+        "category": "News",
+        "publish_time": "24-03-2025 05:19",
+        "news_link": "https://news.republika.co.id/berita/stm43u377/demontrasi-di-turki-ricuh-erdogan-melawan-ingatkan-oposisi"
+    },
+    {
+        "title": "Fitur Baru KAI: Bisa Pilih Kursi Sesama Wanita, Begini Caranya",
+        "category": "Ameera",
+        "publish_time": "24-03-2025 05:19",
+        "news_link": "https://ameera.republika.co.id/berita/stm412425/fitur-baru-kai-bisa-pilih-kursi-sesama-wanita-begini-caranya"
+    },
+    {
+        "title": "AHY Harapkan Pengurus Baru Partai Demokrat Jadi Energi Bangun Kualitas Demokrasi",
+        "category": "News",
+        "publish_time": "24-03-2025 05:19",
+        "news_link": "https://news.republika.co.id/berita/stm07y451/ahy-harapkan-pengurus-baru-partai-demokrat-jadi-energi-bangun-kualitas-demokrasi"
+    },
+    {
         "title": "IDAI Ingatkan Orang Tua tak Beri Anak Makanan Tinggi Gula Saat Mudik",
         "category": "Ameera",
-        "publish_time": "24-03-2025 05:12",
+        "publish_time": "24-03-2025 05:19",
         "news_link": "https://ameera.republika.co.id/berita/stm3t3370/idai-ingatkan-orang-tua-tak-beri-anak-makanan-tinggi-gula-saat-mudik"
     },
     {
         "title": "Komunikasi dengan Empati, Bukan Sembarang Kata",
         "category": "Rejogja",
-        "publish_time": "24-03-2025 05:08",
+        "publish_time": "24-03-2025 05:19",
         "news_link": "https://rejogja.republika.co.id/berita/stm3nj291/komunikasi-dengan-empati-bukan-sembarang-kata"
     },
     {
         "title": "Penyelundupan Pakaian Bekas di Perairan Pasir Putih Digagalkan Bea Cukai Atambua",
         "category": "Beacukai",
-        "publish_time": "24-03-2025 05:07",
+        "publish_time": "24-03-2025 05:19",
         "news_link": "https://republika.co.id/berita//stm3lb472/penyelundupan-pakaian-bekas-di-perairan-pasir-putih-digagalkan-bea-cukai-atambua"
     },
     {
-        "title": "Mau Batal Puasa di Perjalanan, Ini Jarak Mudik yang Dibolehkan Syariat",
+        "title": "Mau Batal Puasa di Perjalanan, Ini Jarak Mudik yang Diperbolehkan Syariat",
         "category": "Khazanah",
-        "publish_time": "24-03-2025 05:05",
-        "news_link": "https://khazanah.republika.co.id/berita/stm3h4483/mau-batal-puasa-di-perjalanan-ini-jarak-mudik-yang-dibolehkan-syariat"
+        "publish_time": "24-03-2025 05:19",
+        "news_link": "https://khazanah.republika.co.id/berita/stm3h4483/mau-batal-puasa-di-perjalanan-ini-jarak-mudik-yang-diperbolehkan-syariat"
     },
     {
         "title": "Lebaran Sebentar Lagi, Begini Kondisi Lalu Lintas di Yogyakarta",
         "category": "News",
-        "publish_time": "24-03-2025 05:00",
+        "publish_time": "24-03-2025 05:19",
         "news_link": "https://news.republika.co.id/berita/stm00n451/lebaran-sebentar-lagi-begini-kondisi-lalu-lintas-di-yogyakarta"
     },
     {
         "title": "Pendapatan Film Snow White pada Pekan Awal Penayangan tak Sesuai Proyeksi",
         "category": "Ameera",
-        "publish_time": "24-03-2025 05:00",
+        "publish_time": "24-03-2025 05:19",
         "news_link": "https://ameera.republika.co.id/berita/stm39e425/pendapatan-film-snow-white-pada-pekan-awal-penayangan-tak-sesuai-proyeksi"
     },
     {
         "title": "Ineu Purwadewi Sosialisasikan Perda Ekonomi Kreatif Bersama Masyarakat Sumedang",
         "category": "Rejabar",
-        "publish_time": "24-03-2025 04:59",
+        "publish_time": "24-03-2025 05:19",
         "news_link": "https://rejabar.republika.co.id/berita/stm37z512/ineu-purwadewi-sosialisasikan-perda-ekonomi-kreatif-bersama-masyarakat-sumedang"
     },
     {
         "title": "PWI Jabar Tetap Solid, Surat Pembekuan HCB Diabaikan",
         "category": "Rejabar",
-        "publish_time": "24-03-2025 04:53",
+        "publish_time": "24-03-2025 05:19",
         "news_link": "https://rejabar.republika.co.id/berita/stm2wx371/pwi-jabar-tetap-solid-surat-pembekuan-hcb-diabaikan"
     },
     {
         "title": "IHSG Anjlok, Ekonom Soroti Volatilitas Pasar dan Tekanan ke Bank Indonesia",
         "category": "Ekonomi",
-        "publish_time": "24-03-2025 04:52",
+        "publish_time": "24-03-2025 05:19",
         "news_link": "https://ekonomi.republika.co.id/berita/stm2w4370/ihsg-anjlok-ekonom-soroti-volatilitas-pasar-dan-tekanan-ke-bank-indonesia"
     },
     {
         "title": "Penuhi Persyaratan Regulasi, Upbit Indonesia Peroleh Izin dari OJK",
         "category": "Rejogja",
-        "publish_time": "24-03-2025 04:50",
+        "publish_time": "24-03-2025 05:19",
         "news_link": "https://rejogja.republika.co.id/berita/stm2sp291/penuhi-persyaratan-regulasi-upbit-indonesia-peroleh-izin-dari-ojk"
     },
     {
         "title": "ATM Rp 20 Ribu dan Rp 10 Ribu Jadi Buruan Warga, Ini Daftar Lengkapnya di Jabodetabek",
         "category": "Ekonomi",
-        "publish_time": "24-03-2025 04:46",
+        "publish_time": "24-03-2025 04:19",
         "news_link": "https://ekonomi.republika.co.id/berita/stm2m2502/atm-rp-20-ribu-dan-rp-10-ribu-jadi-buruan-warga-ini-daftar-lengkapnya-di-jabodetabek"
     },
     {
         "title": "Survei Ini Ungkap Kekecewaan Rakyat Palestina Atas Sikap Negara-Negara Arab Terhadap Gaza",
         "category": "Khazanah",
-        "publish_time": "24-03-2025 04:45",
+        "publish_time": "24-03-2025 04:19",
         "news_link": "https://khazanah.republika.co.id/berita/stm2ke320/survei-ini-ungkap-kekecewaan-rakyat-palestina-atas-sikap-negaranegara-arab-terhadap-gaza"
     },
     {
         "title": "Republika dan Ruber Innovation Lab Ajak 300 Gen Z Main Gim Buddy Pekerti Lawan Bullying",
         "category": "Khazanah",
-        "publish_time": "24-03-2025 04:42",
+        "publish_time": "24-03-2025 04:19",
         "news_link": "https://khazanah.republika.co.id/berita/stm2em366/republika-dan-ruber-innovation-lab-ajak-300-gen-z-main-gim-buddy-pekerti-lawan-bullying"
     },
     {
         "title": "Ketua Komisi III DPR Klaim Ada Kesalahan Redaksi Pasal Penghinaan Presiden di RUU KUHAP",
         "category": "News",
-        "publish_time": "24-03-2025 04:40",
+        "publish_time": "24-03-2025 04:19",
         "news_link": "https://news.republika.co.id/berita/stm2b9409/ketua-komisi-iii-dpr-klaim-ada-kesalahan-redaksi-pasal-penghinaan-presiden-di-ruu-kuhap"
     },
     {
         "title": "Kata Menteri Asli Papua Soal OPM Bunuh Tenaga Pendidik",
         "category": "News",
-        "publish_time": "24-03-2025 04:37",
+        "publish_time": "24-03-2025 04:19",
         "news_link": "https://news.republika.co.id/berita/stm26y451/kata-menteri-asli-papua-soal-opm-bunuh-tenaga-pendidik"
     },
     {
         "title": "H-7 Lebaran, KAI Daop 2 Bandung Berangkatkan 243 Ribu Penumpang",
         "category": "Rejabar",
-        "publish_time": "24-03-2025 04:35",
+        "publish_time": "24-03-2025 04:19",
         "news_link": "https://rejabar.republika.co.id/berita/stm234512/h7-lebaran-kai-daop-2-bandung-berangkatkan-243-ribu-penumpang"
     },
     {
         "title": "Mudik Lebaran Pakai Kendaraan Dinas? Pemda Ini Buat Arahan Khusus",
         "category": "Khazanah",
-        "publish_time": "24-03-2025 04:30",
+        "publish_time": "24-03-2025 04:19",
         "news_link": "https://khazanah.republika.co.id/berita/stlzvo451/mudik-lebaran-pakai-kendaraan-dinas-pemda-ini-buat-arahan-khusus"
     },
     {
         "title": "Jelang Lebaran, Volume Penumpang di BIJB Kertajati Mulai Meningkat",
         "category": "Rejabar",
-        "publish_time": "24-03-2025 04:24",
+        "publish_time": "24-03-2025 04:19",
         "news_link": "https://rejabar.republika.co.id/berita/stm1m1512/jelang-lebaran-volume-penumpang-di-bijb-kertajati-mulai-meningkat"
     },
     {
         "title": "Pejabat Energi Atom Iran Kirim Pesan Tegas kepada AS Soal Nuklir",
         "category": "Khazanah",
-        "publish_time": "24-03-2025 04:20",
+        "publish_time": "24-03-2025 04:19",
         "news_link": "https://khazanah.republika.co.id/berita/stm1fb483/pejabat-energi-atom-iran-kirim-pesan-tegas-kepada-as-soal-nuklir"
     },
     {
         "title": "Laporan: Ada Tawaran Mengasingkan 3.000 Anggota Hamas dari Jalur Gaza",
         "category": "News",
-        "publish_time": "24-03-2025 04:20",
+        "publish_time": "24-03-2025 04:19",
         "news_link": "https://news.republika.co.id/berita/stm1e0377/laporan-ada-tawaran-mengasingkan-3000-anggota-hamas-dari-jalur-gaza"
     },
     {
@@ -128,175 +254,49 @@
     {
         "title": "Jepang, Teka-teki Negeri Thawalisi yang Disebut Ibnu Battuta dan Masuknya Islam",
         "category": "Khazanah",
-        "publish_time": "24-03-2025 04:13",
+        "publish_time": "24-03-2025 04:19",
         "news_link": "https://khazanah.republika.co.id/berita/stm0xm320/jepang-tekateki-negeri-thawalisi-yang-disebut-ibnu-battuta-dan-masuknya-islam"
     },
     {
         "title": "Klinik Ekspor Bea Cukai Malang Bantu Kirim Tanaman Platycerium Willinckii ke Jepang",
         "category": "Beacukai",
-        "publish_time": "24-03-2025 04:13",
+        "publish_time": "24-03-2025 04:19",
         "news_link": "https://republika.co.id/berita//stm0v3472/klinik-ekspor-bea-cukai-malang-bantu-kirim-tanaman-platycerium-willinckii-ke-jepang"
     },
     {
         "title": "H-7 Lebaran, Pemudik di Terminal Cicaheum Mudik Lebih Awal",
         "category": "Rejabar",
-        "publish_time": "24-03-2025 04:13",
+        "publish_time": "24-03-2025 04:19",
         "news_link": "https://rejabar.republika.co.id/berita/stm0o3512/h7-lebaran-pemudik-di-terminal-cicaheum-mudik-lebih-awal"
     },
     {
         "title": "KKB Bunuh Tenaga Pendidik, Anggota DPR: Negara Jangan Diam",
         "category": "News",
-        "publish_time": "24-03-2025 04:13",
+        "publish_time": "24-03-2025 04:19",
         "news_link": "https://news.republika.co.id/berita/stlzhq451/kkb-bunuh-tenaga-pendidik-anggota-dpr-negara-jangan-diam"
     },
     {
         "title": "Bea Cukai Amankan Ratusan Ribu Batang Rokok Ilegal di Gudang Penyimpanan",
         "category": "Beacukai",
-        "publish_time": "24-03-2025 04:13",
+        "publish_time": "24-03-2025 04:19",
         "news_link": "https://republika.co.id/berita//stm0g2472/bea-cukai-amankan-ratusan-ribu-batang-rokok-ilegal-di-gudang-penyimpanan"
     },
     {
         "title": "Ramadhan akan Berakhir, Muslim Diimbau Segera Tunaikan Zakat",
         "category": "Khazanah",
-        "publish_time": "24-03-2025 04:13",
+        "publish_time": "24-03-2025 03:19",
         "news_link": "https://khazanah.republika.co.id/berita/stlzbw451/ramadhan-akan-berakhir-muslim-diimbau-segera-tunaikan-zakat"
     },
     {
         "title": "Pemudik Motor Mulai Ramaikan Jalur Pantura Cirebon, Siang Ini Diperkirakan Makin Meningkat",
         "category": "Rejabar",
-        "publish_time": "24-03-2025 04:13",
+        "publish_time": "24-03-2025 03:19",
         "news_link": "https://rejabar.republika.co.id/berita/stlzwr512/pemudik-motor-mulai-ramaikan-jalur-pantura-cirebon-siang-ini-diperkirakan-makin-meningkat"
     },
     {
         "title": "IHSG Dibuka Melemah, Diprediksi Mendatar di Tengah Wait and See Ekonomi Global",
         "category": "Ekonomi",
-        "publish_time": "24-03-2025 03:13",
+        "publish_time": "24-03-2025 03:19",
         "news_link": "https://ekonomi.republika.co.id/berita/stlzn5502/ihsg-dibuka-melemah-diprediksi-mendatar-di-tengah-wait-and-see-ekonomi-global"
-    },
-    {
-        "title": "Pemudik Motor Mulai Padati Jalur Pantura Cirebon",
-        "category": "News",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://news.republika.co.id/berita/stlzld416/pemudik-motor-mulai-padati-jalur-pantura-cirebon"
-    },
-    {
-        "title": "Gus Ipul: Sekolah Rakyat Harus Hasilkan Siswa Berkualitas",
-        "category": "News",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://news.republika.co.id/berita/stlz81451/gus-ipul-sekolah-rakyat-harus-hasilkan-siswa-berkualitas"
-    },
-    {
-        "title": "Waspadai Beredar Hoaks Medsos Mengatasnamakan Dedi Mulyadi, Ini Penjelasan Diskominfo",
-        "category": "Rejabar",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://rejabar.republika.co.id/berita/stlzf6512/waspadai-beredar-hoaks-medsos-mengatasnamakan-dedi-mulyadi-ini-penjelasan-diskominfo"
-    },
-    {
-        "title": "Kapuspen: Guru di Yahukimo Dibunuh karena tak Kasih Duit ke OPM",
-        "category": "News",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://news.republika.co.id/berita/stlzf5377/kapuspen-guru-di-yahukimo-dibunuh-karena-tak-kasih-duit-ke-opm"
-    },
-    {
-        "title": "Hari Pertama Operasi Ketupat Candi, Tol Trans Jawa Terpantau Lancar",
-        "category": "News",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://news.republika.co.id/berita/stlz9l416/hari-pertama-operasi-ketupat-candi-tol-trans-jawa-terpantau-lancar"
-    },
-    {
-        "title": "Anggota Hamas Terbunuh Saat Dirawat di RS Nasser",
-        "category": "News",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://news.republika.co.id/berita/stlz71409/anggota-hamas-terbunuh-saat-dirawat-di-rs-nasser"
-    },
-    {
-        "title": "Wakil Ketua MPR: Upaya Hapus Perkawinan Anak Harus Konsisten",
-        "category": "News",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://news.republika.co.id/berita/stlz4k451/wakil-ketua-mpr-upaya-hapus-perkawinan-anak-harus-konsisten"
-    },
-    {
-        "title": "Utamakan MBG daripada Buka Lapangan Kerja, Langgar Konstitusi?",
-        "category": "Kolom",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://analisis.republika.co.id/berita/stlyqz458/utamakan-mbg-daripada-buka-lapangan-kerja-langgar-konstitusi"
-    },
-    {
-        "title": "Bayar Tol Pakai BRIZZI Bikin Perjalanan Mudik Lebih Nyaman",
-        "category": "Ekonomi",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/stlyla472/bayar-tol-pakai-brizzi-bikin-perjalanan-mudik-lebih-nyaman"
-    },
-    {
-        "title": "Jadi Ahli Cloud Computing? Begini Cara Cyber University Persiapkan Mahasiswanya!",
-        "category": "News",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://news.republika.co.id/berita/stly6s472/jadi-ahli-cloud-computing-begini-cara-cyber-university-persiapkan-mahasiswanya"
-    },
-    {
-        "title": "Mata Uang Terlemah Negara-Negara Islam di Hadapan Dolar AS pada 2025, Rupiah Masuk?",
-        "category": "Khazanah",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://khazanah.republika.co.id/berita/stly1j320/mata-uang-terlemah-negaranegara-islam-di-hadapan-dolar-as-pada-2025-rupiah-masuk"
-    },
-    {
-        "title": "Arus Mudik dengan Kapal Cepat di Pelabuhan Kuala Tungkal Meningkat",
-        "category": "Visual",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://visual.republika.co.id/berita/stl6cf375/arus-mudik-dengan-kapal-cepat-di-pelabuhan-kuala-tungkal-meningkat"
-    },
-    {
-        "title": "Larangan saat Ibadah Haji",
-        "category": "Khazanah",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://khazanah.republika.co.id/berita/stly0s430/larangan-saat-ibadah-haji"
-    },
-    {
-        "title": "Ide Brilian Antarkan Mahasiswa UNM Menang Pitching Startup",
-        "category": "News",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://news.republika.co.id/berita/stlxpr472/ide-brilian-antarkan-mahasiswa-unm-menang-pitching-startup"
-    },
-    {
-        "title": "Jelang Nyepi dan Lebaran, Harga Cabai di Bali \"Meroket\"",
-        "category": "Ekonomi",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/stlxmh416/jelang-nyepi-dan-lebaran-harga-cabai-di-bali-meroket"
-    },
-    {
-        "title": "Mudik demi Orang Tua",
-        "category": "Khazanah",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://www.republika.id/posts/57255/mudik-demi-orang-tua"
-    },
-    {
-        "title": "Transformasi Digital Dunia Kerja, UBSI Gandeng SeeMeCV Hadirkan Portal Karier Mahasiswa",
-        "category": "News",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://news.republika.co.id/berita/stlxa7472/transformasi-digital-dunia-kerja-ubsi-gandeng-seemecv-hadirkan-portal-karier-mahasiswa"
-    },
-    {
-        "title": "Memahami Itikaf di Bulan Ramadhan",
-        "category": "Visual",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://visual.republika.co.id/berita/stlx98458/memahami-itikaf-di-bulan-ramadhan"
-    },
-    {
-        "title": "Gletser Mencair, Ketahanan Pangan dan Air Dunia Terancam",
-        "category": "Esgnow",
-        "publish_time": "24-03-2025 03:13",
-        "news_link": "https://esgnow.republika.co.id/berita/stlx6m416/gletser-mencair-ketahanan-pangan-dan-air-dunia-terancam"
-    },
-    {
-        "title": "Bea Cukai Pangkalpinang Gagalkan Peredaran Rokok Ilegal di Pulau Bangka",
-        "category": "Beacukai",
-        "publish_time": "24-03-2025 02:13",
-        "news_link": "https://republika.co.id/berita//stlwsq472/bea-cukai-pangkalpinang-gagalkan-peredaran-rokok-ilegal-di-pulau-bangka"
-    },
-    {
-        "title": "Rupiah Tertekan, Dolar Perkasa: Apa Dampaknya?",
-        "category": "Kolom",
-        "publish_time": "24-03-2025 02:13",
-        "news_link": "https://analisis.republika.co.id/berita/stlwqi475/rupiah-tertekan-dolar-perkasa-apa-dampaknya"
     }
 ]
