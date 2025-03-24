@@ -1,80 +1,296 @@
 [
     {
+        "title": "Polisi Gencarkan Patroli Antisipasi Penggunaan Petasan",
+        "category": "Rejogja",
+        "publish_time": "24-03-2025 15:13",
+        "news_link": "https://rejogja.republika.co.id/berita/stmvms282/polisi-gencarkan-patroli-antisipasi-penggunaan-petasan"
+    },
+    {
+        "title": "Wanita Muda Ditemukan Tewas di Kamar Kos Lampung, Polisi Temukan Bekas Jeratan Kabel",
+        "category": "News",
+        "publish_time": "24-03-2025 15:08",
+        "news_link": "https://news.republika.co.id/berita/stmvex377/wanita-muda-ditemukan-tewas-di-kamar-kos-lampung-polisi-temukan-bekas-jeratan-kabel"
+    },
+    {
+        "title": "Polres Indramayu Selidiki Dugaan Bullying di SDN 3 Lemahmekar",
+        "category": "Rejabar",
+        "publish_time": "24-03-2025 15:03",
+        "news_link": "https://rejabar.republika.co.id/berita/stmv6y512/polres-indramayu-selidiki-dugaan-bullying-di-sdn-3-lemahmekar"
+    },
+    {
+        "title": "RUU KUHAP dan Urgensi Modernisasi Hukum Acara Pidana",
+        "category": "Kolom",
+        "publish_time": "24-03-2025 15:02",
+        "news_link": "https://analisis.republika.co.id/berita/stmv4q320/ruu-kuhap-dan-urgensi-modernisasi-hukum-acara-pidana"
+    },
+    {
+        "title": "Masuki Arus Mudik, Luthfi Klaim tak Ada Jalan Berlubang di Jalur Provinsi Jateng",
+        "category": "News",
+        "publish_time": "24-03-2025 15:01",
+        "news_link": "https://news.republika.co.id/berita/stmv2f377/masuki-arus-mudik-luthfi-klaim-tak-ada-jalan-berlubang-di-jalur-provinsi-jateng"
+    },
+    {
+        "title": "Kapolda Jabar Tinjau Kesiapan Pengamanan Ops Ketupat 2025 di Tol Cipali Indramayu",
+        "category": "Rejabar",
+        "publish_time": "24-03-2025 14:51",
+        "news_link": "https://rejabar.republika.co.id/berita/stmum3512/kapolda-jabar-tinjau-kesiapan-pengamanan-ops-ketupat-2025-di-tol-cipali-indramayu"
+    },
+    {
+        "title": "Semarak Ramadhan Unisba 2025, Meriahkan Ramadhan Penuh Berkah",
+        "category": "Network",
+        "publish_time": "24-03-2025 14:49",
+        "news_link": "https://bandung24jam.id/posts/515705/semarak-ramadhan-unisba-2025-meriahkan-ramadhan-penuh-berkah"
+    },
+    {
+        "title": "41 Relawan Sobat Aksi Ramadan PTBA Bersih-Bersih Tiga Masjid di Tanjung Enim",
+        "category": "Network",
+        "publish_time": "24-03-2025 14:48",
+        "news_link": "https://kingdomsriwijaya.id/posts/515714/41-relawan-sobat-aksi-ramadan-ptba-bersih-bersih-tiga-masjid-di-tanjung-enim"
+    },
+    {
+        "title": "Pengurus Danantara Diklaim Bukan Orang Titipan",
+        "category": "Network",
+        "publish_time": "24-03-2025 14:48",
+        "news_link": "https://sekitarkaltim.id/posts/515734/pengurus-danantara-diklaim-bukan-orang-titipan"
+    },
+    {
+        "title": "Roadshow ke Empat Kecamatan, Wali Kota Sukabumi Dorong Naiknya PAD Lewat PBB-P2",
+        "category": "Network",
+        "publish_time": "24-03-2025 14:48",
+        "news_link": "https://sukabumikini.com/posts/515719/roadshow-ke-empat-kecamatan-wali-kota-sukabumi-dorong-naiknya-pad-lewat-pbb-p2"
+    },
+    {
+        "title": "Urai Kemacetan di Tol dan Jalur Arteri Cirebon, Tim Motoris Diterjunkan",
+        "category": "Rejabar",
+        "publish_time": "24-03-2025 14:46",
+        "news_link": "https://rejabar.republika.co.id/berita/stmuew512/urai-kemacetan-di-tol-dan-jalur-arteri-cirebon-tim-motoris-diterjunkan"
+    },
+    {
+        "title": "AQUA Gandeng Masjid Istiqlal Gelar Kajian Agama dan Sesi Edukasi Bermanfaat",
+        "category": "Khazanah",
+        "publish_time": "24-03-2025 14:46",
+        "news_link": "https://khazanah.republika.co.id/berita/stmudv368/aqua-gandeng-masjid-istiqlal-gelar-kajian-agama-dan-sesi-edukasi-bermanfaat"
+    },
+    {
+        "title": "Terima Aduan, KY Usut Putusan Bebasnya Anggota Polisi dalam Kasus Dugaan Pencabulan Anak",
+        "category": "News",
+        "publish_time": "24-03-2025 14:45",
+        "news_link": "https://news.republika.co.id/berita/stmuc7487/terima-aduan-ky-usut-putusan-bebasnya-anggota-polisi-dalam-kasus-dugaan-pencabulan-anak"
+    },
+    {
+        "title": "Depo Sampah di Yogyakarta Ditargetkan Bersih Sebelum Lebaran",
+        "category": "Rejogja",
+        "publish_time": "24-03-2025 14:40",
+        "news_link": "https://rejogja.republika.co.id/berita/stmu3w282/depo-sampah-di-yogyakarta-ditargetkan-bersih-sebelum-lebaran"
+    },
+    {
+        "title": "Pemuda Pengangguran di Jabar Terus Naik, PKB Dorong Pemprov Buat Formulasi",
+        "category": "Rejabar",
+        "publish_time": "24-03-2025 14:39",
+        "news_link": "https://rejabar.republika.co.id/berita/stmu2z512/pemuda-pengangguran-di-jabar-terus-naik-pkb-dorong-pemprov-buat-formulasi"
+    },
+    {
+        "title": "Polres Bekasi Ungkap Kasus Pria Berseragam Pemda Minta THR di Pasar Cibitung, Ini Faktanya",
+        "category": "News",
+        "publish_time": "24-03-2025 14:39",
+        "news_link": "https://news.republika.co.id/berita/stmu1w377/polres-bekasi-ungkap-kasus-pria-berseragam-pemda-minta-thr-di-pasar-cibitung-ini-faktanya"
+    },
+    {
+        "title": "Menteri Energi Inggris Kritik Oposisi yang Tolak Target Nol Emisi",
+        "category": "Esgnow",
+        "publish_time": "24-03-2025 14:36",
+        "news_link": "https://esgnow.republika.co.id/berita/stmtxl416/menteri-energi-inggris-kritik-oposisi-yang-tolak-target-nol-emisi"
+    },
+    {
+        "title": "Drama",
+        "category": "Network",
+        "publish_time": "24-03-2025 14:35",
+        "news_link": "https://chingudeul.republika.co.id/posts/515687/drama"
+    },
+    {
+        "title": "J-Hope BTS Isyaratkan Aktivitas Full Member Setelah Wamil",
+        "category": "Network",
+        "publish_time": "24-03-2025 14:35",
+        "news_link": "https://chingudeul.republika.co.id/posts/515688/j-hope-bts-isyaratkan-aktivitas-full-member-setelah-wamil"
+    },
+    {
+        "title": "Jelang Lebaran, Pemprov Jateng Buka Posko Aduan THR Bagi Pekerja",
+        "category": "News",
+        "publish_time": "24-03-2025 14:34",
+        "news_link": "https://news.republika.co.id/berita/stmtuw487/jelang-lebaran-pemprov-jateng-buka-posko-aduan-thr-bagi-pekerja"
+    },
+    {
+        "title": "Lonjakan Pemudik Akibat Kebijakan WFA, ASDP Perketat Pengaturan Arus di Pelabuhan Merak",
+        "category": "Network",
+        "publish_time": "24-03-2025 14:34",
+        "news_link": "https://shippingcargo.co.id/posts/515653/lonjakan-pemudik-akibat-kebijakan-wfa-asdp-perketat-pengaturan-arus-di-pelabuhan-merak"
+    },
+    {
+        "title": "Kejuaraan Asia 2025: Cedera Belum Pulih, PBSI Tarik Ginting",
+        "category": "Network",
+        "publish_time": "24-03-2025 14:33",
+        "news_link": "https://badmintonews.id/posts/515703/kejuaraan-asia-2025-cedera-belum-pulih-pbsi-tarik-ginting"
+    },
+    {
+        "title": "Zakat Fitrah, Wujud Peduli kepada Fakir Miskin",
+        "category": "Network",
+        "publish_time": "24-03-2025 14:33",
+        "news_link": "https://sumatralink.id/posts/515704/zakat-fitrah-wujud-peduli-kepada-fakir-miskin"
+    },
+    {
+        "title": "Info Harga Pangan di Bandung Terkini: Stabil dan Tersedia",
+        "category": "Network",
+        "publish_time": "24-03-2025 14:33",
+        "news_link": "https://bandung24jam.id/posts/515706/info-harga-pangan-di-bandung-terkini-stabil-dan-tersedia"
+    },
+    {
+        "title": "Pesawat Su-25 Rusia Jatuh Saat Latihan di Primorsky Krai",
+        "category": "Network",
+        "publish_time": "24-03-2025 14:32",
+        "news_link": "https://seputarmiliter.id/posts/515713/pesawat-su-25-rusia-jatuh-saat-latihan-di-primorsky-krai"
+    },
+    {
+        "title": "Pemudik Mulai Ramai, Bandara SAMS Sepinggan Siapkan Posko Terpadu",
+        "category": "Network",
+        "publish_time": "24-03-2025 14:32",
+        "news_link": "https://sekitarkaltim.id/posts/515720/pemudik-mulai-ramai-bandara-sams-sepinggan-siapkan-posko-terpadu"
+    },
+    {
+        "title": "Dinkes Depok Siagakan Nakes di Pospam-Posyan Lebaran 2025",
+        "category": "Network",
+        "publish_time": "24-03-2025 14:32",
+        "news_link": "https://ruzkaindonesia.id/posts/515725/dinkes-depok-siagakan-nakes-di-pospam-posyan-lebaran-2025"
+    },
+    {
+        "title": "Serangan Udara Zionis Tewasakan Delapan Warga Gaza Termasuk Wartawan",
+        "category": "Network",
+        "publish_time": "24-03-2025 14:31",
+        "news_link": "https://sekitarkaltim.id/posts/515729/serangan-udara-zionis-tewasakan-delapan-warga-gaza-termasuk-wartawan"
+    },
+    {
+        "title": "Dua Polisi NTT Terbukti Lakukan Hubungan Sesama Jenis Dipecat",
+        "category": "News",
+        "publish_time": "24-03-2025 14:28",
+        "news_link": "https://news.republika.co.id/berita/stmtkj377/dua-polisi-ntt-terbukti-lakukan-hubungan-sesama-jenis-dipecat"
+    },
+    {
+        "title": "Kendaraan Besar Dilarang Melintas, Ini Kondisi Lalin di Tol Cipali",
+        "category": "Rejabar",
+        "publish_time": "24-03-2025 14:28",
+        "news_link": "https://rejabar.republika.co.id/berita/stmtk6512/kendaraan-besar-dilarang-melintas-ini-kondisi-lalin-di-tol-cipali"
+    },
+    {
+        "title": "Sesama Musisi Berseteru Tentang Royalti, PKB: Direct License tak Diatur dalam UU Hak Cipta",
+        "category": "News",
+        "publish_time": "24-03-2025 14:26",
+        "news_link": "https://news.republika.co.id/berita/stmth9487/sesama-musisi-berseteru-tentang-royalti-pkb-direct-license-tak-diatur-dalam-uu-hak-cipta"
+    },
+    {
+        "title": "Daddy Rohanady Sebut Gerindra Siap Kawal RTRW Jabar",
+        "category": "Rejabar",
+        "publish_time": "24-03-2025 14:22",
+        "news_link": "https://rejabar.republika.co.id/berita/stmtar368/daddy-rohanady-sebut-gerindra-siap-kawal-rtrw-jabar"
+    },
+    {
+        "title": "PLN UID Jakarta Jamin Keandalan Pasokan Listrik untuk Lebaran",
+        "category": "Ekonomi",
+        "publish_time": "24-03-2025 14:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/stmt61416/pln-uid-jakarta-jamin-keandalan-pasokan-listrik-untuk-lebaran"
+    },
+    {
+        "title": "Kebudayaan Islam Pegang Peran Strategis dalam Membentuk Karakter Bangsa",
+        "category": "Khazanah",
+        "publish_time": "24-03-2025 14:19",
+        "news_link": "https://khazanah.republika.co.id/berita/stmt5g349/kebudayaan-islam-pegang-peran-strategis-dalam-membentuk-karakter-bangsa"
+    },
+    {
+        "title": "RUU TNI Disahkan, Guru Besar UMJ Soroti Transparansi dan Supremasi Sipil",
+        "category": "Rejogja",
+        "publish_time": "24-03-2025 14:17",
+        "news_link": "https://rejogja.republika.co.id/berita/stmt1d368/ruu-tni-disahkan-guru-besar-umj-soroti-transparansi-dan-supremasi-sipil"
+    },
+    {
+        "title": "Masjid di Rest Area Tol Purbaleunyi-Cipularang Buka 24 Jam Layani Pemudik",
+        "category": "Rejabar",
+        "publish_time": "24-03-2025 14:17",
+        "news_link": "https://rejabar.republika.co.id/berita/stmt1d512/masjid-di-rest-area-tol-purbaleunyicipularang-buka-24-jam-layani-pemudik"
+    },
+    {
         "title": "ICMI Jabar jadi Percontohan karena Berbasis AI",
         "category": "Rejabar",
-        "publish_time": "24-03-2025 14:12",
+        "publish_time": "24-03-2025 14:14",
         "news_link": "https://rejabar.republika.co.id/berita/stmssz512/icmi-jabar-jadi-percontohan-karena-berbasis-ai"
     },
     {
         "title": "Patrick Kluivert: Kami tak Sabar untuk Laga Besok",
         "category": "News",
-        "publish_time": "24-03-2025 14:02",
+        "publish_time": "24-03-2025 14:14",
         "news_link": "https://news.republika.co.id/berita/stmsde348/patrick-kluivert-kami-tak-sabar-untuk-laga-besok"
     },
     {
         "title": "Marselino Ferdinan: Kami Sudah Siap 100 Persen, Mati-matian Raih Tiga Poin",
         "category": "News",
-        "publish_time": "24-03-2025 13:56",
+        "publish_time": "24-03-2025 14:14",
         "news_link": "https://news.republika.co.id/berita/stms25348/marselino-ferdinan-kami-sudah-siap-100-persen-matimatian-raih-tiga-poin"
     },
     {
         "title": "Kemenkop Pastikan Kopdes Merah Putih Tak Akan Geser Keberadaan BUMDes",
         "category": "Ekonomi",
-        "publish_time": "24-03-2025 13:55",
+        "publish_time": "24-03-2025 14:14",
         "news_link": "https://ekonomi.republika.co.id/berita/stms1g349/kemenkop-pastikan-kopdes-merah-putih-tak-akan-geser-keberadaan-bumdes"
     },
     {
         "title": "Petani yang Tenggelam di Sungai Ciparang Subang Ditemukan Tewas",
         "category": "Rejabar",
-        "publish_time": "24-03-2025 13:55",
+        "publish_time": "24-03-2025 14:14",
         "news_link": "https://rejabar.republika.co.id/berita/stms0q512/petani-yang-tenggelam-di-sungai-ciparang-subang-ditemukan-tewas"
     },
     {
         "title": "Jelang Lebaran, Penitipan Kucing di Banda Aceh Laris Manis",
         "category": "Ameera",
-        "publish_time": "24-03-2025 13:52",
+        "publish_time": "24-03-2025 14:14",
         "news_link": "https://ameera.republika.co.id/berita/stmrvl425/jelang-lebaran-penitipan-kucing-di-banda-aceh-laris-manis"
     },
     {
         "title": "Distribusi Bansos Sembako dan PKH Triwulan I 2025 di Mataram Capai 99 Persen",
         "category": "News",
-        "publish_time": "24-03-2025 13:38",
+        "publish_time": "24-03-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/stm85k451/distribusi-bansos-sembako-dan-pkh-triwulan-i-2025-di-mataram-capai-99-persen"
     },
     {
         "title": "AI Hingga Quantum Computing, Kombinasi Dahsyat yang Mengubah Cara Belajar",
         "category": "News",
-        "publish_time": "24-03-2025 13:37",
+        "publish_time": "24-03-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/stmr6b368/ai-hingga-quantum-computing-kombinasi-dahsyat-yang-mengubah-cara-belajar"
     },
     {
         "title": "Jaga Anak Tetap Sehat Saat Perjalanan Mudik, Jangan Skip Langkah Ini",
         "category": "Ameera",
-        "publish_time": "24-03-2025 13:34",
+        "publish_time": "24-03-2025 13:14",
         "news_link": "https://ameera.republika.co.id/berita/stmj1q366/jaga-anak-tetap-sehat-saat-perjalanan-mudik-jangan-skip-langkah-ini"
     },
     {
         "title": "UNM Hadirkan Program IEP, Bantu Lulusan Langsung Siap Kerja Profesional",
         "category": "News",
-        "publish_time": "24-03-2025 13:29",
+        "publish_time": "24-03-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/stmquf368/unm-hadirkan-program-iep-bantu-lulusan-langsung-siap-kerja-profesional"
     },
     {
         "title": "Pemudik Motor Diimbau Rutin Pantau Informasi Cuaca",
         "category": "News",
-        "publish_time": "24-03-2025 13:28",
+        "publish_time": "24-03-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/stmqss425/pemudik-motor-diimbau-rutin-pantau-informasi-cuaca"
     },
     {
         "title": "Jeffrey Sachs, Penasihat Danantara Penentang Zionis Israel dan Pendukung Palestina Merdeka",
         "category": "Ekonomi",
-        "publish_time": "24-03-2025 13:21",
+        "publish_time": "24-03-2025 13:14",
         "news_link": "https://ekonomi.republika.co.id/berita/stmqfq409/jeffrey-sachs-penasihat-danantara-penentang-zionis-israel-dan-pendukung-palestina-merdeka"
     },
     {
         "title": "UBSI dan SeeMeCV Hadirkan Job Fair Rutin, Peluang Karier Terbuka Lebar",
         "category": "News",
-        "publish_time": "24-03-2025 13:18",
+        "publish_time": "24-03-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/stmqba368/ubsi-dan-seemecv-hadirkan-job-fair-rutin-peluang-karier-terbuka-lebar"
     },
     {
@@ -82,221 +298,5 @@
         "category": "News",
         "publish_time": "24-03-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/stmq4j348/pelatih-bahrain-puji-keramahan-orang-indonesia-dan-pelayanan-pssi"
-    },
-    {
-        "title": "Ramadan Berkah! Bank Mandiri Santuni Ribuan Yatim dan Dhuafa, Ada Mudik Gratis Juga",
-        "category": "Khazanah",
-        "publish_time": "24-03-2025 13:13",
-        "news_link": "https://khazanah.republika.co.id/berita/stmq11368/ramadan-berkah-bank-mandiri-santuni-ribuan-yatim-dan-dhuafa-ada-mudik-gratis-juga"
-    },
-    {
-        "title": "ART Curi Jam Tangan Rp3 Miliar, Modus Licik Bikin Geleng Kepala",
-        "category": "News",
-        "publish_time": "24-03-2025 13:13",
-        "news_link": "https://news.republika.co.id/berita/stmpqp425/art-curi-jam-tangan-rp3-miliar-modus-licik-bikin-geleng-kepala"
-    },
-    {
-        "title": "Seluk-Beluk Shalat di Perjalanan: Bolehkah Tayamum dengan 'Debu Mikroskopis'?",
-        "category": "Khazanah",
-        "publish_time": "24-03-2025 13:13",
-        "news_link": "https://khazanah.republika.co.id/berita/stmpmi458/selukbeluk-shalat-di-perjalanan-bolehkah-tayamum-dengan-debu-mikroskopis"
-    },
-    {
-        "title": "Hutama Karya Perkirakan Pengerjaan Flyover Sitinjau Lauik Rampung 2,5 Tahun",
-        "category": "News",
-        "publish_time": "24-03-2025 13:13",
-        "news_link": "https://news.republika.co.id/berita/stmoxo370/hutama-karya-perkirakan-pengerjaan-flyover-sitinjau-lauik-rampung-25-tahun"
-    },
-    {
-        "title": "BRI Pilih Dirut BSI Jadi Nakhoda Baru, Ini Sepak Terjangnya",
-        "category": "Ekonomi",
-        "publish_time": "24-03-2025 13:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/stmot1502/bri-pilih-dirut-bsi-jadi-nakhoda-baru-ini-sepak-terjangnya"
-    },
-    {
-        "title": "Pengelola Terminal Pulo Gebang Siapkan Penginapan Bagi Pemudik, Harga Sewa Rp15 Ribu",
-        "category": "News",
-        "publish_time": "24-03-2025 12:13",
-        "news_link": "https://news.republika.co.id/berita/stmoaq425/pengelola-terminal-pulo-gebang-siapkan-penginapan-bagi-pemudik-harga-sewa-rp15-ribu"
-    },
-    {
-        "title": "Indonesia dan Negara Mitra Berkomitmen Lanjutkan JETP",
-        "category": "Esgnow",
-        "publish_time": "24-03-2025 12:13",
-        "news_link": "https://esgnow.republika.co.id/berita/stmo5a416/indonesia-dan-negara-mitra-berkomitmen-lanjutkan-jetp"
-    },
-    {
-        "title": "Film Perang Kota Dinilai Relevan Ditonton Generasi Muda",
-        "category": "Ameera",
-        "publish_time": "24-03-2025 12:13",
-        "news_link": "https://ameera.republika.co.id/berita/stmn3h425/film-perang-kota-dinilai-relevan-ditonton-generasi-muda"
-    },
-    {
-        "title": "Rosan: Pengurus Danantara Telah Melalui Seleksi yang Ketat,\u00a0Punya Track Record Baik",
-        "category": "Ekonomi",
-        "publish_time": "24-03-2025 12:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/stmmxd370/rosan-pengurus-danantara-telah-melalui-seleksi-yang-ketatpunya-track-record-baik"
-    },
-    {
-        "title": "Wakil Ketua DPR Bagikan 10 Ribu Paket Sembako di Surabaya dan Sidoarjo",
-        "category": "Khazanah",
-        "publish_time": "24-03-2025 11:13",
-        "news_link": "https://khazanah.republika.co.id/berita/stmlek484/wakil-ketua-dpr-bagikan-10-ribu-paket-sembako-di-surabaya-dan-sidoarjo"
-    },
-    {
-        "title": "Trincao Bahagia Jadi Bintang Keberhasilan Portugal ke Semifinal UEFA Nations League",
-        "category": "News",
-        "publish_time": "24-03-2025 11:13",
-        "news_link": "https://news.republika.co.id/berita/stmlea348/trincao-bahagia-jadi-bintang-keberhasilan-portugal-ke-semifinal-uefa-nations-league"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok, 25 Maret 2025: Kota Padang Cerah",
-        "category": "News",
-        "publish_time": "24-03-2025 11:13",
-        "news_link": "https://news.republika.co.id/berita/stml941508759964/prakiraan-cuaca-besok-25-maret-2025-kota-padang-cerah"
-    },
-    {
-        "title": "Ketika Para Lansia Belajari Waris, Wasiat, Wakaf, dan Hibah: Mengapa Penting?",
-        "category": "Khazanah",
-        "publish_time": "24-03-2025 11:13",
-        "news_link": "https://khazanah.republika.co.id/berita/stmkmm320/ketika-para-lansia-belajari-waris-wasiat-wakaf-dan-hibah-mengapa-penting"
-    },
-    {
-        "title": "Sebulan Lebih Dilaksanakan, Program Cek Kesehatan Gratis di Jakarta Belum Sesuai Target",
-        "category": "News",
-        "publish_time": "24-03-2025 11:13",
-        "news_link": "https://news.republika.co.id/berita/stmk7a487/sebulan-lebih-dilaksanakan-program-cek-kesehatan-gratis-di-jakarta-belum-sesuai-target"
-    },
-    {
-        "title": "BRI Tetapkan Dividen Rp 51,74 Triliun, Lebih Besar dari Tahun Lalu",
-        "category": "Ekonomi",
-        "publish_time": "24-03-2025 11:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/stmjzc423/bri-tetapkan-dividen-rp-5174-triliun-lebih-besar-dari-tahun-lalu"
-    },
-    {
-        "title": "Kendaraan Pemudik Padati Pelabuhan Gilimanuk",
-        "category": "Visual",
-        "publish_time": "24-03-2025 11:13",
-        "news_link": "https://visual.republika.co.id/berita/stmcbg375/kendaraan-pemudik-padati-pelabuhan-gilimanuk"
-    },
-    {
-        "title": "Ketua Komisi III DPR: Kejaksaan Tetap Bisa Menyidik Perkara Korupsi di RKUHAP",
-        "category": "News",
-        "publish_time": "24-03-2025 11:13",
-        "news_link": "https://news.republika.co.id/berita/stmj7y409/ketua-komisi-iii-dpr-kejaksaan-tetap-bisa-menyidik-perkara-korupsi-di-rkuhap"
-    },
-    {
-        "title": "Tanda-Tanda Puasa Ramadhan yang Berhasil Menurut Imam Al Ghazali",
-        "category": "Retizen",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://retizen.republika.co.id/posts/515685/tanda-tanda-puasa-ramadhan-yang-berhasil-menurut-imam-al-ghazali"
-    },
-    {
-        "title": "Tidak Ada Negara yang Berani Menyerang Iran Menurut Menlu Araghchi, Ini Alasannya",
-        "category": "News",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://news.republika.co.id/berita/stmix8409/tidak-ada-negara-yang-berani-menyerang-iran-menurut-menlu-araghchi-ini-alasannya"
-    },
-    {
-        "title": "Grab Bayarkan BHR kepada Ratusan Ribu Pengemudi, Segini Besarannya",
-        "category": "Ekonomi",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/stmigt423/grab-bayarkan-bhr-kepada-ratusan-ribu-pengemudi-segini-besarannya"
-    },
-    {
-        "title": "Jadwal Buka Puasa Hari Ini, 24 Maret 2025 di Jakarta: Lengkap dengan Jadwal Imsakiyah Ramadhan",
-        "category": "Khazanah",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://khazanah.republika.co.id/berita/stmida8479507/jadwal-buka-puasa-hari-ini-24-maret-2025-di-jakarta-lengkap-dengan-jadwal-imsakiyah-ramadhan"
-    },
-    {
-        "title": "Kecam Tayangan Berkonten LGBT saat Ramadhan, Aisyiyah: KPI Harus Tegas!",
-        "category": "Khazanah",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://khazanah.republika.co.id/berita/stmi7d458/kecam-tayangan-berkonten-lgbt-saat-ramadhan-aisyiyah-kpi-harus-tegas"
-    },
-    {
-        "title": "BSI Catat Transaksi Remitansi Capai Rp 1,5 Triliun Jelang Lebaran",
-        "category": "Ekonomi Syariah",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://sharia.republika.co.id/berita/stmi5q370/bsi-catat-transaksi-remitansi-capai-rp-15-triliun-jelang-lebaran"
-    },
-    {
-        "title": "KPI akan Proses Tayangan Berbau LGBT di Bulan Ramadhan",
-        "category": "Khazanah",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://khazanah.republika.co.id/berita/stmhei366/kpi-akan-proses-tayangan-berbau-lgbt-di-bulan-ramadhan"
-    },
-    {
-        "title": "74 Persen Responden Dilaporkan Memperhatikan Iklan Saat Berada di Transportasi Umum",
-        "category": "Rejakarta",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://republika.co.id/berita//stmi27483/74-persen-responden-dilaporkan-memperhatikan-iklan-saat-berada-di-transportasi-umum"
-    },
-    {
-        "title": "Kebijakan WFA Diharapkan Tekan Kepadatan Pemudik di Pelabuhan Merak",
-        "category": "Network",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://shippingcargo.co.id/posts/515652/kebijakan-wfa-diharapkan-tekan-kepadatan-pemudik-di-pelabuhan-merak"
-    },
-    {
-        "title": "Pergerakan Pemudik Sudah Terlihat Sejak Akhir Pekan Lalu, Dipicu WFA?",
-        "category": "Network",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://pemantiknews.id/posts/515693/pergerakan-pemudik-sudah-terlihat-sejak-akhir-pekan-lalu-dipicu-wfa-"
-    },
-    {
-        "title": "Waskita Bangga Ikut Renovasi Masjidil Haram",
-        "category": "Ekonomi",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/stmhjy423/waskita-bangga-ikut-renovasi-masjidil-haram"
-    },
-    {
-        "title": "Jadwal Buka Puasa Hari Ini 24 Maret 2025 di Semarang: Temukan di Sini!",
-        "category": "Khazanah",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://khazanah.republika.co.id/berita/stmhhm351720538/jadwal-buka-puasa-hari-ini-24-maret-2025-di-semarang-temukan-di-sini"
-    },
-    {
-        "title": "Empat Warga Asing Jadi Dewan Penasihat Danantara, Ini Profilnya",
-        "category": "Ekonomi",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/stmh7k423/empat-warga-asing-jadi-dewan-penasihat-danantara-ini-profilnya"
-    },
-    {
-        "title": "Beredar Surat Minta 'Uang Pembinaan' Buat Lebaran dari GRIB Mersel, Ini Klarifikasi DPP",
-        "category": "News",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://news.republika.co.id/berita/stmdzj377/beredar-surat-minta-uang-pembinaan-buat-lebaran-dari-grib-mersel-ini-klarifikasi-dpp"
-    },
-    {
-        "title": "Cegah Pendangkalan, Petugas Gabungan Bersihkan Sampah yang Menumpuk di BKT Tambakrejo",
-        "category": "Visual",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://visual.republika.co.id/berita/stmcdy375/cegah-pendangkalan-petugas-gabungan-bersihkan-sampah-yang-menumpuk-di-bkt-tambakrejo"
-    },
-    {
-        "title": "Fee Titip Tukar Uang, Halalkah?",
-        "category": "Khazanah",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://khazanah.republika.co.id/berita/stmgzx458/fee-titip-tukar-uang-halalkah"
-    },
-    {
-        "title": "Perang Darat di Jalur Gaza, Israel Terpaksa Harus Lakukan Ini Agar tak Dibantai",
-        "category": "Khazanah",
-        "publish_time": "24-03-2025 10:13",
-        "news_link": "https://khazanah.republika.co.id/berita/stmgtx320/perang-darat-di-jalur-gaza-israel-terpaksa-harus-lakukan-ini-agar-tak-dibantai"
-    },
-    {
-        "title": "Pertamina NRE Bangun PLTS Dukung Produksi Petani Jamur",
-        "category": "Esgnow",
-        "publish_time": "24-03-2025 09:13",
-        "news_link": "https://esgnow.republika.co.id/berita/stmgby416/pertamina-nre-bangun-plts-dukung-produksi-petani-jamur"
-    },
-    {
-        "title": "Film Perang Kota Pakai Format Unik 4:3, Fokus ke Karakter, Bukan Set!",
-        "category": "Ameera",
-        "publish_time": "24-03-2025 09:13",
-        "news_link": "https://ameera.republika.co.id/berita/stmgbb425/film-perang-kota-pakai-format-unik-43-fokus-ke-karakter-bukan-set"
     }
 ]
