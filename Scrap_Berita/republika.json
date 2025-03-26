@@ -1,56 +1,134 @@
 [
     {
+        "title": "Apple Umumkan iPhone 16 akan Tersedia Mulai 11 April",
+        "category": "Ekonomi",
+        "publish_time": "26-03-2025 23:09",
+        "news_link": "https://ekonomi.republika.co.id/berita/str4yb370/apple-umumkan-iphone-16-akan-tersedia-mulai-11-april"
+    },
+    {
+        "title": "Bung Kus: Kunci Kemenangan Timnas Indonesia di Keseimbangan Menyerang dan Bertahan",
+        "category": "News",
+        "publish_time": "26-03-2025 23:06",
+        "news_link": "https://news.republika.co.id/berita/str6w7348/bung-kus-kunci-kemenangan-timnas-indonesia-di-keseimbangan-menyerang-dan-bertahan"
+    },
+    {
+        "title": "RI Diberitakan Diminta Kerahkan Tentara ke Perbatasan Rusia-Ukraina, Ini Tanggapan Kemlu",
+        "category": "Khazanah",
+        "publish_time": "26-03-2025 23:06",
+        "news_link": "https://khazanah.republika.co.id/berita/str6vu483/ri-diberitakan-diminta-kerahkan-tentara-ke-perbatasan-rusiaukraina-ini-tanggapan-kemlu"
+    },
+    {
+        "title": "Danasyariah Gandeng VIDA, Percepat Verifikasi Online untuk Akses Pembiayaan",
+        "category": "Ekonomi Syariah",
+        "publish_time": "26-03-2025 23:04",
+        "news_link": "https://sharia.republika.co.id/berita/str4au490/danasyariah-gandeng-vida-percepat-verifikasi-online-untuk-akses-pembiayaan"
+    },
+    {
+        "title": "Polres Karawang Bebaskan Sejumlah Mahasiswa Pendemo Tolak UU TNI yang Sempat Ditangkap",
+        "category": "News",
+        "publish_time": "26-03-2025 23:00",
+        "news_link": "https://news.republika.co.id/berita/str03j409/polres-karawang-bebaskan-sejumlah-mahasiswa-pendemo-tolak-uu-tni-yang-sempat-ditangkap"
+    },
+    {
+        "title": "850 Guru Ngaji dan Marbot Masjid Mudik Gratis Bersama Baznas",
+        "category": "Khazanah",
+        "publish_time": "26-03-2025 22:57",
+        "news_link": "https://khazanah.republika.co.id/berita/str6gy483/850-guru-ngaji-dan-marbot-masjid-mudik-gratis-bersama-baznas"
+    },
+    {
+        "title": "Masih Ada Ormas Memaksa Minta THR, Wamenag: Agama Mengajarkan Memberi Bukan Meminta",
+        "category": "Khazanah",
+        "publish_time": "26-03-2025 22:50",
+        "news_link": "https://khazanah.republika.co.id/berita/str65c483/masih-ada-ormas-memaksa-minta-thr-wamenag-agama-mengajarkan-memberi-bukan-meminta"
+    },
+    {
+        "title": "Patrick Kluivert Nilai Indonesia Seharusnya Bisa Menang 3-0 Lawan Bahrain",
+        "category": "News",
+        "publish_time": "26-03-2025 22:46",
+        "news_link": "https://news.republika.co.id/berita/str5xv348/patrick-kluivert-nilai-indonesia-seharusnya-bisa-menang-30-lawan-bahrain"
+    },
+    {
+        "title": "Pertama Kali Setelah 15 Tahun, tidak Ada Crane di Area Masjidil Haram",
+        "category": "Khazanah",
+        "publish_time": "26-03-2025 22:44",
+        "news_link": "https://khazanah.republika.co.id/berita/str5up483/pertama-kali-setelah-15-tahun-tidak-ada-crane-di-area-masjidil-haram"
+    },
+    {
+        "title": "Ikarao Hadir Respons Tren Karaoke Rumahan yang Terus Berkembang",
+        "category": "Ameera",
+        "publish_time": "26-03-2025 22:40",
+        "news_link": "https://ameera.republika.co.id/berita/str5oe484/ikarao-hadir-respons-tren-karaoke-rumahan-yang-terus-berkembang"
+    },
+    {
+        "title": "Lepas Mudik Gratis PKB, Cak Imin: Jangan Bawa Keluarga tanpa Skill ke Jakarta",
+        "category": "News",
+        "publish_time": "26-03-2025 22:35",
+        "news_link": "https://news.republika.co.id/berita/str38b484/lepas-mudik-gratis-pkb-cak-imin-jangan-bawa-keluarga-tanpa-skill-ke-jakarta"
+    },
+    {
+        "title": "Ini Alasan Dewa United Lepas Pape Malick Dime",
+        "category": "News",
+        "publish_time": "26-03-2025 22:35",
+        "news_link": "https://news.republika.co.id/berita/str5ft348/ini-alasan-dewa-united-lepas-pape-malick-dime"
+    },
+    {
+        "title": "SPBU Muri Tegal Sediakan Penyewaan Tempat Tidur untuk Pemudik",
+        "category": "Visual",
+        "publish_time": "26-03-2025 22:14",
+        "news_link": "https://visual.republika.co.id/berita/str1s1375/spbu-muri-tegal-sediakan-penyewaan-tempat-tidur-untuk-pemudik"
+    },
+    {
         "title": "Prakiraan Cuaca Hari Ini, 27 Maret 2025: Kota Surabaya Berawan",
         "category": "News",
-        "publish_time": "26-03-2025 21:49",
+        "publish_time": "26-03-2025 22:12",
         "news_link": "https://news.republika.co.id/berita/str3a72049312152/prakiraan-cuaca-hari-ini-27-maret-2025-kota-surabaya-berawan"
     },
     {
         "title": "Bungkam atas Penangkapan Sutradara No Other Land, Academy Dikecam",
         "category": "Ameera",
-        "publish_time": "26-03-2025 21:36",
+        "publish_time": "26-03-2025 21:12",
         "news_link": "https://ameera.republika.co.id/berita/str2p6425/bungkam-atas-penangkapan-sutradara-no-other-land-academy-dikecam"
     },
     {
         "title": "Eks Panglima IDF: Israel Selangkah Lagi Menuju Perang Sipil",
         "category": "News",
-        "publish_time": "26-03-2025 21:33",
+        "publish_time": "26-03-2025 21:12",
         "news_link": "https://news.republika.co.id/berita/str2k9393/eks-panglima-idf-israel-selangkah-lagi-menuju-perang-sipil"
     },
     {
         "title": "Prakiraan Cuaca Hari Ini: Cuaca Cerah di Kota Yogyakarta dan Sekitarnya 27 Maret 2025",
         "category": "News",
-        "publish_time": "26-03-2025 21:31",
+        "publish_time": "26-03-2025 21:12",
         "news_link": "https://news.republika.co.id/berita/str2g8164955348/prakiraan-cuaca-hari-ini-cuaca-cerah-di-kota-yogyakarta-dan-sekitarnya-27-maret-2025"
     },
     {
         "title": "Film Debut Sutradara Reza Rahadian \u2018Melenggang\u2019 ke Cannes",
         "category": "Ameera",
-        "publish_time": "26-03-2025 21:30",
+        "publish_time": "26-03-2025 21:12",
         "news_link": "https://ameera.republika.co.id/berita/str2f6425/film-debut-sutradara-reza-rahadian-melenggang-ke-cannes"
     },
     {
         "title": "Israel Dilaporkan Bersiap Pindahkan 100 Warga Gaza ke Indonesia",
         "category": "News",
-        "publish_time": "26-03-2025 21:23",
+        "publish_time": "26-03-2025 21:12",
         "news_link": "https://news.republika.co.id/berita/str22q393/israel-dilaporkan-bersiap-pindahkan-100-warga-gaza-ke-indonesia"
     },
     {
         "title": "Presiden Prabowo Undang Jokowi Buka Bersama di Istana",
         "category": "News",
-        "publish_time": "26-03-2025 21:18",
+        "publish_time": "26-03-2025 21:12",
         "news_link": "https://news.republika.co.id/berita/str1uu484/presiden-prabowo-undang-jokowi-buka-bersama-di-istana"
     },
     {
         "title": "Tradisi Kirab Zakat Fitrah di Keraton Kasunanan Solo",
         "category": "Visual",
-        "publish_time": "26-03-2025 21:14",
+        "publish_time": "26-03-2025 21:12",
         "news_link": "https://visual.republika.co.id/berita/str1oo375/tradisi-kirab-zakat-fitrah-di-keraton-kasunanan-solo"
     },
     {
         "title": "Bolehkah Muslim yang Sengaja tak Berpuasa Ramadhan Merayakan Idul Fitri?",
         "category": "Khazanah",
-        "publish_time": "26-03-2025 21:13",
+        "publish_time": "26-03-2025 21:12",
         "news_link": "https://khazanah.republika.co.id/berita/str1nj430/bolehkah-muslim-yang-sengaja-tak-berpuasa-ramadhan-merayakan-idul-fitri"
     },
     {
@@ -220,83 +298,5 @@
         "category": "Rejabar",
         "publish_time": "26-03-2025 16:12",
         "news_link": "https://rejabar.republika.co.id/berita/stqmpn512/berawal-dari-hobi-umkm-binaan-bri-asal-cimahi-hasilkan-berbagai-produk-dari-limbah-kain"
-    },
-    {
-        "title": "BYD Operasikan 500 Pengisian Daya Cepat 1000 kW Mulai Pekan Depan",
-        "category": "Ekonomi",
-        "publish_time": "26-03-2025 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/stqm3q468/byd-operasikan-500-pengisian-daya-cepat-1000-kw-mulai-pekan-depan"
-    },
-    {
-        "title": "H-5 Lebaran, Gerbang Tol Kalikangkung Ramai Lancar",
-        "category": "Visual",
-        "publish_time": "26-03-2025 15:12",
-        "news_link": "https://visual.republika.co.id/berita/stqly8375/h5-lebaran-gerbang-tol-kalikangkung-ramai-lancar"
-    },
-    {
-        "title": "Terima Menlu Prancis, Menteri Sugiono Bahas Rencana Kunjungan Macron ke Indonesia",
-        "category": "News",
-        "publish_time": "26-03-2025 15:12",
-        "news_link": "https://news.republika.co.id/berita/stqkwj377/terima-menlu-prancis-menteri-sugiono-bahas-rencana-kunjungan-macron-ke-indonesia"
-    },
-    {
-        "title": "Pertamina Patra Niaga JBB Salurkan Bantuan Korban Tanah Bergerak di Tasikmalaya",
-        "category": "Esgnow",
-        "publish_time": "26-03-2025 15:12",
-        "news_link": "https://esgnow.republika.co.id/berita/stqlok349/pertamina-patra-niaga-jbb-salurkan-bantuan-korban-tanah-bergerak-di-tasikmalaya"
-    },
-    {
-        "title": "Rudal Jelajah Storm Shadow tak Digunakan Ukraina Lawan Rusia",
-        "category": "Network",
-        "publish_time": "26-03-2025 15:12",
-        "news_link": "https://seputarmiliter.id/posts/516000/rudal-jelajah-storm-shadow-tak-digunakan-ukraina-lawan-rusia"
-    },
-    {
-        "title": "Tangisan Orang Beriman Saat Ramadhan Pergi",
-        "category": "Network",
-        "publish_time": "26-03-2025 15:12",
-        "news_link": "https://sumatralink.id/posts/516014/tangisan-orang-beriman-saat-ramadhan-pergi"
-    },
-    {
-        "title": "Tinggalkan Televisi, Gen Z dan Milenial Lebih Pilih Sosial Media untuk Melihat Konten",
-        "category": "Network",
-        "publish_time": "26-03-2025 15:12",
-        "news_link": "https://inforemaja.id/posts/515995/tinggalkan-televisi-gen-z-dan-milenial-lebih-pilih-sosial-media-untuk-melihat-konten"
-    },
-    {
-        "title": "Wuling Jamin Ketenangan Perjalanan Mudik Lebaran, Ini yang Diberikan kepada Konsumen",
-        "category": "Ekonomi",
-        "publish_time": "26-03-2025 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/stqlfj468/wuling-jamin-ketenangan-perjalanan-mudik-lebaran-ini-yang-diberikan-kepada-konsumen"
-    },
-    {
-        "title": "ASDP: Suasana Mudik di Pelabuhan Merak Kondusif",
-        "category": "News",
-        "publish_time": "26-03-2025 15:12",
-        "news_link": "https://news.republika.co.id/berita/stqklg377/asdp-suasana-mudik-di-pelabuhan-merak-kondusif"
-    },
-    {
-        "title": "Anggota TNI Diduga Terlibat Pembunuhan Jurnalis Wanita di Kalsel",
-        "category": "News",
-        "publish_time": "26-03-2025 15:12",
-        "news_link": "https://news.republika.co.id/berita/stqjz0377/anggota-tni-diduga-terlibat-pembunuhan-jurnalis-wanita-di-kalsel"
-    },
-    {
-        "title": "Jumlah Pemudik Berkurang, Menko Airlangga: Perputaran Uang Lebaran Stabil",
-        "category": "Khazanah",
-        "publish_time": "26-03-2025 15:12",
-        "news_link": "https://khazanah.republika.co.id/berita/stqfq9451/jumlah-pemudik-berkurang-menko-airlangga-perputaran-uang-lebaran-stabil"
-    },
-    {
-        "title": "AHM Angkut 1.100 Motor Pemudik Tujuan Semarang dan Yogyakarta",
-        "category": "Visual",
-        "publish_time": "26-03-2025 14:12",
-        "news_link": "https://visual.republika.co.id/berita/stqhtv375/ahm-angkut-1100-motor-pemudik-tujuan-semarang-dan-yogyakarta"
-    },
-    {
-        "title": "Pastikan Perjalanan Mudik Aman, Puluhan Sopir Bus di Terminal Jombor Jalani Tes Urine",
-        "category": "Rejogja",
-        "publish_time": "26-03-2025 14:12",
-        "news_link": "https://rejogja.republika.co.id/berita/stqiuy291/pastikan-perjalanan-mudik-aman-puluhan-sopir-bus-di-terminal-jombor-jalani-tes-urine"
     }
 ]
