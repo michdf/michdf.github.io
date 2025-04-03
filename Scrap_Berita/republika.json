@@ -1,9 +1,63 @@
 [
     {
-        "title": "BBPOM Makassar Awasi Peredaran Makanan Olahan Pasca-Lebaran",
+        "title": "Pasukan Misi Kemanusiaan RI Mulai Beroperasi di Myanmar",
+        "category": "News",
+        "publish_time": "03-04-2025 03:30",
+        "news_link": "https://news.republika.co.id/berita/su48v0416/pasukan-misi-kemanusiaan-ri-mulai-beroperasi-di-myanmar"
+    },
+    {
+        "title": "Dua Wisatawan Tenggelam di Pantai Karang Papak dan Sayang Heulang Garut Belum Ditemukan",
+        "category": "Rejabar",
+        "publish_time": "03-04-2025 03:15",
+        "news_link": "https://rejabar.republika.co.id/berita/su4h1p512/dua-wisatawan-tenggelam-di-pantai-karang-papak-dan-sayang-heulang-garut-belum-ditemukan"
+    },
+    {
+        "title": "Banyak Menteri Silaturahmi ke Ketua MPR, Puan: Kami Semua Bersama Bangun Bangsa",
+        "category": "News",
+        "publish_time": "03-04-2025 03:13",
+        "news_link": "https://news.republika.co.id/berita/su4gxx451/banyak-menteri-silaturahmi-ke-ketua-mpr-puan-kami-semua-bersama-bangun-bangsa"
+    },
+    {
+        "title": "Israel Setujui UU Kontroversial untuk Bangun Yerusalem Raya dan Hapus Identitas Islam",
+        "category": "News",
+        "publish_time": "03-04-2025 03:06",
+        "news_link": "https://news.republika.co.id/berita/su4gm4451/israel-setujui-uu-kontroversial-untuk-bangun-yerusalem-raya-dan-hapus-identitas-islam"
+    },
+    {
+        "title": "Harga Emas Naik Rp 17.000 per Gram, Ini Daftar Lengkapnya",
+        "category": "Ekonomi",
+        "publish_time": "03-04-2025 03:06",
+        "news_link": "https://ekonomi.republika.co.id/berita/su4gi8490/harga-emas-naik-rp-17000-per-gram-ini-daftar-lengkapnya"
+    },
+    {
+        "title": "Sampah Menumpuk di Aliran Wates Kalimati Tangerang",
+        "category": "Visual",
+        "publish_time": "03-04-2025 03:00",
+        "news_link": "https://visual.republika.co.id/berita/su3kz3375/sampah-menumpuk-di-aliran-wates-kalimati-tangerang"
+    },
+    {
+        "title": "Mantan Pemimpin Dunia Desak Uni Eropa Lanjutkan Agenda Perubahan Iklim",
+        "category": "Esgnow",
+        "publish_time": "03-04-2025 03:00",
+        "news_link": "https://esgnow.republika.co.id/berita/su485b416/mantan-pemimpin-dunia-desak-uni-eropa-lanjutkan-agenda-perubahan-iklim"
+    },
+    {
+        "title": "Rupiah Hampir Tembus Rp 16.800 per Dolar AS, Tertekan Kebijakan Tarif Trump",
+        "category": "Ekonomi",
+        "publish_time": "03-04-2025 03:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/su4gbg490/rupiah-hampir-tembus-rp-16800-per-dolar-as-tertekan-kebijakan-tarif-trump"
+    },
+    {
+        "title": "Ibu dan Bayi 4 Bulan Ditinggal Suami Tanpa Uang Sepeser Pun Saat Perjalanan Mudik",
+        "category": "Rejabar",
+        "publish_time": "03-04-2025 02:58",
+        "news_link": "https://rejabar.republika.co.id/berita/su4g8d512/ibu-dan-bayi-4-bulan-ditinggal-suami-tanpa-uang-sepeser-pun-saat-perjalanan-mudik"
+    },
+    {
+        "title": "BBPOM Makassar Awasi Peredaran Makanan Olahan Setelah Lebaran",
         "category": "News",
         "publish_time": "03-04-2025 02:55",
-        "news_link": "https://news.republika.co.id/berita/su4g47425/bbpom-makassar-awasi-peredaran-makanan-olahan-pascalebaran"
+        "news_link": "https://news.republika.co.id/berita/su4g47425/bbpom-makassar-awasi-peredaran-makanan-olahan-setelah-lebaran"
     },
     {
         "title": "Trump Naikkan Tarif Impor RI 32 Persen, Ekonom: Pelemahan Rupiah dan IHSG Berlanjut",
@@ -14,13 +68,13 @@
     {
         "title": "Pramono Janji Sediakan Rusun untuk Warga Terdampak Normalisasi Ciliwung",
         "category": "News",
-        "publish_time": "03-04-2025 02:38",
+        "publish_time": "03-04-2025 02:39",
         "news_link": "https://news.republika.co.id/berita/su4fcj416/pramono-janji-sediakan-rusun-untuk-warga-terdampak-normalisasi-ciliwung"
     },
     {
         "title": "Kebijakan Trump Bikin Tarif Impor AS Meroket, Tertinggi Sejak 1910",
         "category": "Ekonomi",
-        "publish_time": "03-04-2025 02:38",
+        "publish_time": "03-04-2025 02:39",
         "news_link": "https://ekonomi.republika.co.id/berita/su4fcc490/kebijakan-trump-bikin-tarif-impor-as-meroket-tertinggi-sejak-1910"
     },
     {
@@ -32,271 +86,217 @@
     {
         "title": "Libur Lebaran, Wisatawan Menikmati Keindahan Danau Talaga di Donggala",
         "category": "News",
-        "publish_time": "03-04-2025 02:36",
+        "publish_time": "03-04-2025 02:37",
         "news_link": "https://news.republika.co.id/berita/su4f8z366/libur-lebaran-wisatawan-menikmati-keindahan-danau-talaga-di-donggala"
     },
     {
         "title": "Balon Nyangkut di Kabel, Listrik Padam",
         "category": "Video",
-        "publish_time": "03-04-2025 02:30",
+        "publish_time": "03-04-2025 02:31",
         "news_link": "https://tv.republika.co.id/berita/su4eyc313/balon-nyangkut-di-kabel-listrik-padam"
     },
     {
         "title": "Trump Naikkan Tarif Impor RI, Celios Wanti-Wanti Resesi Indonesia, Otomotif Bisa Terpukul",
         "category": "Ekonomi",
-        "publish_time": "03-04-2025 02:19",
+        "publish_time": "03-04-2025 02:31",
         "news_link": "https://ekonomi.republika.co.id/berita/su4efg377/trump-naikkan-tarif-impor-ri-celios-wantiwanti-resesi-indonesia-otomotif-bisa-terpukul"
     },
     {
         "title": "Tanpa Diet Ribet, 5 Kebiasaan Pagi Ini Dipercaya Bisa Bakar Lemak dan Tingkatkan Fokus",
         "category": "Ameera",
-        "publish_time": "03-04-2025 02:11",
+        "publish_time": "03-04-2025 02:31",
         "news_link": "https://ameera.republika.co.id/berita/su4e2m425/tanpa-diet-ribet-5-kebiasaan-pagi-ini-dipercaya-bisa-bakar-lemak-dan-tingkatkan-fokus"
     },
     {
         "title": "Arus Balik, Anggota DPR: Tekan Angka Kecelakaan Lalu Lintas",
         "category": "News",
-        "publish_time": "03-04-2025 02:01",
+        "publish_time": "03-04-2025 01:31",
         "news_link": "https://news.republika.co.id/berita/su4b75451/arus-balik-anggota-dpr-tekan-angka-kecelakaan-lalu-lintas"
     },
     {
         "title": "Jumlah Korban Gempa Myanmar Nyaris 3.000 Jiwa,  Kemungkinan Bakal Terus Bertambah",
         "category": "News",
-        "publish_time": "03-04-2025 02:00",
+        "publish_time": "03-04-2025 01:31",
         "news_link": "https://news.republika.co.id/berita/su4c9k377/jumlah-korban-gempa-myanmar-nyaris-3000-jiwa-kemungkinan-bakal-terus-bertambah"
     },
     {
         "title": "Khofifah Minta Bos Maspion Pastikan tidak Ada PHK di Jatim",
         "category": "Ekonomi",
-        "publish_time": "03-04-2025 01:56",
+        "publish_time": "03-04-2025 01:31",
         "news_link": "https://ekonomi.republika.co.id/berita/su4cte490/khofifah-minta-bos-maspion-pastikan-tidak-ada-phk-di-jatim"
     },
     {
         "title": "Car Seat Bukan Sekadar Aksesori, Ini Pentingnya Menurut Dokter",
         "category": "Ameera",
-        "publish_time": "03-04-2025 01:56",
+        "publish_time": "03-04-2025 01:31",
         "news_link": "https://ameera.republika.co.id/berita/su4cr3425/car-seat-bukan-sekadar-aksesori-ini-pentingnya-menurut-dokter"
     },
     {
         "title": "Respons Perang Dagang Trump, PM Australia Geram: Bukan Tindakan Seorang Teman",
         "category": "News",
-        "publish_time": "03-04-2025 01:56",
+        "publish_time": "03-04-2025 01:31",
         "news_link": "https://news.republika.co.id/berita/su4awi377/respons-perang-dagang-trump-pm-australia-geram-bukan-tindakan-seorang-teman"
     },
     {
         "title": "Kementerian PU: Tol Gending-Paiton Dibuka Fungsional Saat Arus Balik",
         "category": "Ekonomi",
-        "publish_time": "03-04-2025 01:56",
+        "publish_time": "03-04-2025 01:31",
         "news_link": "https://ekonomi.republika.co.id/berita/su4cjo490/kementerian-pu-tol-gendingpaiton-dibuka-fungsional-saat-arus-balik"
     },
     {
         "title": "Ada-Ada Saja, Mourinho Pencet Hidung Pelatih Galatasaray Setelah Fenerbahce Kalah",
         "category": "News",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 01:31",
         "news_link": "https://news.republika.co.id/berita/su4byq348/adaada-saja-mourinho-pencet-hidung-pelatih-galatasaray-setelah-fenerbahce-kalah"
     },
     {
         "title": "Menteri Agraria Nusron: Pemegang Sertifikat Tanah Sebelum 1997 Harus Cek ke Kantor Tanah",
         "category": "News",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 01:31",
         "news_link": "https://news.republika.co.id/berita/su4bwh451/menteri-agraria-nusron-pemegang-sertifikat-tanah-sebelum-1997-harus-cek-ke-kantor-tanah"
     },
     {
         "title": "Ini Kesaksian Satu-satunya Korban Selamat Paramedis Palestina, Ungkap Kebohongan Israel",
         "category": "News",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 01:31",
         "news_link": "https://news.republika.co.id/berita/su49sp377/ini-kesaksian-satusatunya-korban-selamat-paramedis-palestina-ungkap-kebohongan-israel"
     },
     {
         "title": "Indonesia Ikut Diserang Tarif Trump, Ini Besaran Surplus yang Dirasakan dari AS",
         "category": "Ekonomi",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 01:31",
         "news_link": "https://ekonomi.republika.co.id/berita/su4bir490/indonesia-ikut-diserang-tarif-trump-ini-besaran-surplus-yang-dirasakan-dari-as"
     },
     {
         "title": "Ikut Pertamina UMK Academy, Produk UMK Bisa Go Global",
         "category": "Esgnow",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 01:31",
         "news_link": "https://esgnow.republika.co.id/berita/su4bd5522/ikut-pertamina-umk-academy-produk-umk-bisa-go-global"
     },
     {
         "title": "Porsche 911 GT3 RS, Perpaduan Kecepatan dan Teknologi Balap",
         "category": "Network",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 01:31",
         "news_link": "https://motoresto.id/posts/516851/porsche-911-gt3-rs-perpaduan-kecepatan-dan-teknologi-balap"
     },
     {
         "title": "Erick Thohir Doakan yang Terbaik untuk Perjuangan Timnas U-17 di Piala Asia",
         "category": "News",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 01:31",
         "news_link": "https://news.republika.co.id/berita/su4b54348/erick-thohir-doakan-yang-terbaik-untuk-perjuangan-timnas-u17-di-piala-asia"
     },
     {
         "title": "Bank Sentral dan Kecanduan Narasi \u201cBeda dari Krisis 1998\"",
         "category": "Kolom",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 01:31",
         "news_link": "https://analisis.republika.co.id/berita/su3nby475/bank-sentral-dan-kecanduan-narasi-beda-dari-krisis-1998"
     },
     {
         "title": "AI, Pembelajaran Koding-ka, dan Lompatan Sunyi Indonesia",
         "category": "Kolom",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://analisis.republika.co.id/berita/su4asp451/ai-pembelajaran-kodingka-dan-lompatan-sunyi-indonesia"
     },
     {
         "title": "Trump Umumkan Perang Dagang, Siap Melawan Ini Reaksi Pemimpin Negara Dunia",
         "category": "News",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://news.republika.co.id/berita/su48nb377/trump-umumkan-perang-dagang-siap-melawan-ini-reaksi-pemimpin-negara-dunia"
     },
     {
         "title": "Nelayan Libur Melaut, Produksi Ikan Cakalang Fufu di Gorontalo Tersendat",
         "category": "Visual",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://visual.republika.co.id/berita/su3kup375/nelayan-libur-melaut-produksi-ikan-cakalang-fufu-di-gorontalo-tersendat"
     },
     {
         "title": "Neil Young Khawatir Masuk Daftar Hitam AS Gegara Kritik Donald Trump",
         "category": "Network",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://impresiupdate.id/posts/516848/neil-young-khawatir-masuk-daftar-hitam-as-gegara-kritik-donald-trump"
     },
     {
         "title": "Penerimaan Murid Baru, Waket MPR: Orang Tua Harus Tahu Prosedur SPMB.",
         "category": "News",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://news.republika.co.id/berita/su4ah1451/penerimaan-murid-baru-waket-mpr-orang-tua-harus-tahu-prosedur-spmb"
     },
     {
         "title": "Singkirkan Duri dari Jalan, Salah Satu Cabang Iman",
         "category": "Khazanah",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://khazanah.republika.co.id/berita/su3qzc458/singkirkan-duri-dari-jalan-salah-satu-cabang-iman"
     },
     {
         "title": "Pejuang Gaza Beraksi, Brigade Al Quds Hujani Kota-Kota Perbatasan Israel dengan Roket",
         "category": "Khazanah",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://khazanah.republika.co.id/berita/su49w3483/pejuang-gaza-beraksi-brigade-al-quds-hujani-kotakota-perbatasan-israel-dengan-roket"
     },
     {
         "title": "Kronologi Suami Aniaya Mantan Istri di Blitar, Diduga Rebutan Motor",
         "category": "News",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://news.republika.co.id/berita/su47rb377/kronologi-suami-aniaya-mantan-istri-di-blitar-diduga-rebutan-motor"
     },
     {
         "title": "Aksi Presiden Mesir El Sisi Bagikan McDonald's Dikecam, tak Ada Empati Atas Genosida Gaza",
         "category": "Khazanah",
-        "publish_time": "03-04-2025 00:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://khazanah.republika.co.id/berita/su49dn320/aksi-presiden-mesir-el-sisi-bagikan-mcdonalds-dikecam-tak-ada-empati-atas-genosida-gaza"
     },
     {
         "title": "Ini Alasan Trump Kenakan Tarif ke Mitra Dagang, Termasuk Indonesia Ikut Kena",
         "category": "Ekonomi",
-        "publish_time": "02-04-2025 23:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://ekonomi.republika.co.id/berita/su478v377/ini-alasan-trump-kenakan-tarif-ke-mitra-dagang-termasuk-indonesia-ikut-kena"
     },
     {
         "title": "Nikmati Libur Lebaran dengan Uji Adrenalin di Wahana Rainbow Nalisa Cipanten Majalengka",
         "category": "Rejabar",
-        "publish_time": "02-04-2025 23:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://rejabar.republika.co.id/berita/su48p9512/nikmati-libur-lebaran-dengan-uji-adrenalin-di-wahana-rainbow-nalisa-cipanten-majalengka"
     },
     {
         "title": "Sucikan Hati dan Jiwa dengan Ingat Mati",
         "category": "Khazanah",
-        "publish_time": "02-04-2025 23:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://khazanah.republika.co.id/berita/su3qn7458/sucikan-hati-dan-jiwa-dengan-ingat-mati"
     },
     {
         "title": "Menahan Kentut saat Shalat, Bolehkah?",
         "category": "Khazanah",
-        "publish_time": "02-04-2025 23:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://khazanah.republika.co.id/berita/su3qcm458/menahan-kentut-saat-shalat-bolehkah"
     },
     {
         "title": "Sejarah THR: Dulu Hanya untuk PNS, Kini Semua Pekerja Terima",
         "category": "Network",
-        "publish_time": "02-04-2025 23:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://magentatoday.id/posts/516841/sejarah-thr-dulu-hanya-untuk-pns-kini-semua-pekerja-terima"
     },
     {
         "title": "Kebiasaan Mengagumkan Cucu Rasulullah",
         "category": "Network",
-        "publish_time": "02-04-2025 23:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://sajada.id/posts/516858/kebiasaan-mengagumkan-cucu-rasulullah"
     },
     {
         "title": "Rilis Video Musik 'Radio Silence', Sum 41: Kami Persembahkan Video Musik Terakhir",
         "category": "Network",
-        "publish_time": "02-04-2025 23:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://impresiupdate.id/posts/516844/rilis-video-musik-radio-silence-sum-41-kami-persembahkan-video-musik-terakhir"
     },
     {
         "title": "Oli Sykes Bocorkan Musik Baru Bring Me The Horizon",
         "category": "Network",
-        "publish_time": "02-04-2025 23:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://impresiupdate.id/posts/516847/oli-sykes-bocorkan-musik-baru-bring-me-the-horizon"
     },
     {
         "title": "Arus Mudik Lebaran 2025: Hampir Dua Juta Kendaraan Tinggalkan Jakarta",
         "category": "Network",
-        "publish_time": "02-04-2025 23:56",
+        "publish_time": "03-04-2025 00:31",
         "news_link": "https://motoresto.id/posts/516839/arus-mudik-lebaran-2025-hampir-dua-juta-kendaraan-tinggalkan-jakarta"
-    },
-    {
-        "title": "Tarif Sekunder AS: Tekanan atau Bumerang?",
-        "category": "Kolom",
-        "publish_time": "02-04-2025 23:56",
-        "news_link": "https://analisis.republika.co.id/berita/su3mlr475/tarif-sekunder-as-tekanan-atau-bumerang"
-    },
-    {
-        "title": "Kesaksian Dokter Forensik, Ini Bukti Kuat Tentara Israel Eksekusi Paramedis Palestina",
-        "category": "News",
-        "publish_time": "02-04-2025 23:56",
-        "news_link": "https://news.republika.co.id/berita/su450s377/kesaksian-dokter-forensik-ini-bukti-kuat-tentara-israel-eksekusi-paramedis-palestina"
-    },
-    {
-        "title": "Mengenal Emisi Cakupan 1,2, dan 3",
-        "category": "Esgnow",
-        "publish_time": "02-04-2025 23:56",
-        "news_link": "https://esgnow.republika.co.id/berita/su33pg416/mengenal-emisi-cakupan-12-dan-3"
-    },
-    {
-        "title": "Bekal Rasulullah untuk Sahabat Akan Pergi Jauh",
-        "category": "Khazanah",
-        "publish_time": "02-04-2025 23:56",
-        "news_link": "https://khazanah.republika.co.id/berita/su3lsg458/bekal-rasulullah-untuk-sahabat-akan-pergi-jauh"
-    },
-    {
-        "title": "Puluhan Kendaraan Arus Balik Lewat Tol Cipali ke Jakarta",
-        "category": "Rejabar",
-        "publish_time": "02-04-2025 23:56",
-        "news_link": "https://rejabar.republika.co.id/berita/su47py512/puluhan-kendaraan-arus-balik-lewat-tol-cipali-ke-jakarta"
-    },
-    {
-        "title": "Merasa Susah Menyerap Ilmu? Ini Nasihat dari Ulama",
-        "category": "Khazanah",
-        "publish_time": "02-04-2025 23:56",
-        "news_link": "https://khazanah.republika.co.id/berita/su3lf6458/merasa-susah-menyerap-ilmu-ini-nasihat-dari-ulama"
-    },
-    {
-        "title": "Menhub Apresiasi Polri atas Penurunan Kecelakaan Lalu Lintas pada Mudik Lebaran 2025",
-        "category": "News",
-        "publish_time": "02-04-2025 23:56",
-        "news_link": "https://news.republika.co.id/berita/su4724348/menhub-apresiasi-polri-atas-penurunan-kecelakaan-lalu-lintas-pada-mudik-lebaran-2025"
-    },
-    {
-        "title": "AS Periksa Medsos Pemohon Visa, Kritikus Amerika dan Israel akan Ditolak Masuk",
-        "category": "News",
-        "publish_time": "02-04-2025 23:56",
-        "news_link": "https://news.republika.co.id/berita/su44cm377/as-periksa-medsos-pemohon-visa-kritikus-amerika-dan-israel-akan-ditolak-masuk"
-    },
-    {
-        "title": "Derby Milan tanpa Pemenang pada Leg Pertama Semifinal Coppa Italia",
-        "category": "News",
-        "publish_time": "02-04-2025 23:56",
-        "news_link": "https://news.republika.co.id/berita/su46sr348/derby-milan-tanpa-pemenang-pada-leg-pertama-semifinal-coppa-italia"
     }
 ]
