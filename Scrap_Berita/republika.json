@@ -1,110 +1,266 @@
 [
     {
+        "title": "Penyelundupan 93 Kg Sabu di Perairan Lagoi Berhasil Digagalkan Bea Cukai Batam",
+        "category": "Beacukai",
+        "publish_time": "08-04-2025 10:13",
+        "news_link": "https://republika.co.id/berita//sue9pc472/penyelundupan-93-kg-sabu-di-perairan-lagoi-berhasil-digagalkan-bea-cukai-batam"
+    },
+    {
+        "title": "Aipda Robig Didakwa Pasal Berlapis di Kasus Pembunuhan Gamma",
+        "category": "News",
+        "publish_time": "08-04-2025 10:10",
+        "news_link": "https://news.republika.co.id/berita/sue9lk409/aipda-robig-didakwa-pasal-berlapis-di-kasus-pembunuhan-gamma"
+    },
+    {
+        "title": "Sempat Diwarnai Trading Halt, IHSG Hari Ini Turun 7,9 Persen",
+        "category": "Ekonomi",
+        "publish_time": "08-04-2025 10:08",
+        "news_link": "https://ekonomi.republika.co.id/berita/sue9gy490/sempat-diwarnai-trading-halt-ihsg-hari-ini-turun-79-persen"
+    },
+    {
+        "title": "Disebut Bunuh Wartawati Kalsel Terencana, Ini Cara Anggota TNI Habisi Korban Kata Dispenal",
+        "category": "News",
+        "publish_time": "08-04-2025 10:06",
+        "news_link": "https://news.republika.co.id/berita/sue9dp377/disebut-bunuh-wartawati-kalsel-terencana-ini-cara-anggota-tni-habisi-korban-kata-dispenal"
+    },
+    {
+        "title": "Pecat Guru Besar Fakultas Farmasi karena Cabuli Mahasiswa, UGM Serahkan kepada Kemendikti",
+        "category": "Rejogja",
+        "publish_time": "08-04-2025 10:06",
+        "news_link": "https://rejogja.republika.co.id/berita/sue9dj282/pecat-guru-besar-fakultas-farmasi-karena-cabuli-mahasiswa-ugm-serahkan-kepada-kemendikti"
+    },
+    {
+        "title": "BEM Universitas Udayana Desak Rektor Cabut Perjanjian Kerja Sama dengan TNI AD",
+        "category": "News",
+        "publish_time": "08-04-2025 10:05",
+        "news_link": "https://news.republika.co.id/berita/sue9d1409/bem-universitas-udayana-desak-rektor-cabut-perjanjian-kerja-sama-dengan-tni-ad"
+    },
+    {
+        "title": "InJourney Airports Kembangkan Area Ritel dan F&B Kelas Dunia di 16 Bandara",
+        "category": "News",
+        "publish_time": "08-04-2025 10:05",
+        "news_link": "https://news.republika.co.id/berita/sue4ci451/injourney-airports-kembangkan-area-ritel-dan-fb-kelas-dunia-di-16-bandara"
+    },
+    {
+        "title": "Lawan Insomnia! Ini 7 Aktivitas yang Bikin Tidur Berkualitas Ala Psikolog",
+        "category": "Ameera",
+        "publish_time": "08-04-2025 10:03",
+        "news_link": "https://ameera.republika.co.id/berita/sue99v425/lawan-insomnia-ini-7-aktivitas-yang-bikin-tidur-berkualitas-ala-psikolog"
+    },
+    {
+        "title": "Tampilkan Desain Unik, Masjid di Sudan Ini Mirip Permata",
+        "category": "Khazanah",
+        "publish_time": "08-04-2025 09:59",
+        "news_link": "https://khazanah.republika.co.id/berita/sue87u458/tampilkan-desain-unik-masjid-di-sudan-ini-mirip-permata"
+    },
+    {
+        "title": "Kanwil Bea Cukai Aceh Musnahkan Ribuan Karung Bawang Merah dan Pakaian Bekas Ilegal",
+        "category": "Beacukai",
+        "publish_time": "08-04-2025 09:58",
+        "news_link": "https://republika.co.id/berita//sue91f472/kanwil-bea-cukai-aceh-musnahkan-ribuan-karung-bawang-merah-dan-pakaian-bekas-ilegal"
+    },
+    {
+        "title": "Israel Dilaporkan akan Izinkan Bantuan Kemanusiaan ke Gaza demi Hindari Tuntutan Hukum",
+        "category": "News",
+        "publish_time": "08-04-2025 09:58",
+        "news_link": "https://news.republika.co.id/berita/sue90q409/israel-dilaporkan-akan-izinkan-bantuan-kemanusiaan-ke-gaza-demi-hindari-tuntutan-hukum"
+    },
+    {
+        "title": "Di Hadapan Nabi, Muslimah Ini Gugat Cerai Suaminya",
+        "category": "Khazanah",
+        "publish_time": "08-04-2025 09:50",
+        "news_link": "https://khazanah.republika.co.id/berita/sue7zb458/di-hadapan-nabi-muslimah-ini-gugat-cerai-suaminya"
+    },
+    {
+        "title": "PYI Salurkan Zakat Fitrah ke 2.793 Mustahik di Sembilan Provinsi",
+        "category": "Rejabar",
+        "publish_time": "08-04-2025 09:46",
+        "news_link": "https://rejabar.republika.co.id/berita/sue8hh472/pyi-salurkan-zakat-fitrah-ke-2793-mustahik-di-sembilan-provinsi"
+    },
+    {
+        "title": "Perjuangan Sahabat Nabi yang Disabilitas Netra",
+        "category": "Khazanah",
+        "publish_time": "08-04-2025 09:45",
+        "news_link": "https://khazanah.republika.co.id/berita/sue7n9458/perjuangan-sahabat-nabi-yang-disabilitas-netra"
+    },
+    {
+        "title": "Tidak Hanya di Mobil Listrik, Kinerja BYD di Pasar Baterai EV Juga Melonjak Tahun Ini",
+        "category": "Ekonomi",
+        "publish_time": "08-04-2025 09:45",
+        "news_link": "https://ekonomi.republika.co.id/berita/sue8et468/tidak-hanya-di-mobil-listrik-kinerja-byd-di-pasar-baterai-ev-juga-melonjak-tahun-ini"
+    },
+    {
+        "title": "Guru Besar UGM Cabuli Mahasiswa Berujung Dipecat",
+        "category": "Rejogja",
+        "publish_time": "08-04-2025 09:44",
+        "news_link": "https://rejogja.republika.co.id/berita/sue8cs282/guru-besar-ugm-cabuli-mahasiswa-berujung-dipecat"
+    },
+    {
+        "title": "Jadwal Perempat Final Liga Champions: Arsenal Tantang Madrid, Munchen Kontra Inter",
+        "category": "News",
+        "publish_time": "08-04-2025 09:34",
+        "news_link": "https://news.republika.co.id/berita/sue7xc348/jadwal-perempat-final-liga-champions-arsenal-tantang-madrid-munchen-kontra-inter"
+    },
+    {
+        "title": "Terminal Pulo Genbang Siapkan Loker untuk Simpan Barang Penumpang yang Tertinggal",
+        "category": "News",
+        "publish_time": "08-04-2025 09:32",
+        "news_link": "https://news.republika.co.id/berita/sue7ua425/terminal-pulo-genbang-siapkan-loker-untuk-simpan-barang-penumpang-yang-tertinggal"
+    },
+    {
+        "title": "Teladan Mbah Hamid Pasuruan Dalam Berdakwah",
+        "category": "Khazanah",
+        "publish_time": "08-04-2025 09:32",
+        "news_link": "https://khazanah.republika.co.id/berita/sue7ej458/teladan-mbah-hamid-pasuruan-dalam-berdakwah"
+    },
+    {
+        "title": "Tarif Trump Bikin Pusing, Sri Mulyani Siapkan Insentif Pajak",
+        "category": "Ekonomi",
+        "publish_time": "08-04-2025 09:30",
+        "news_link": "https://ekonomi.republika.co.id/berita/sue7qt490/tarif-trump-bikin-pusing-sri-mulyani-siapkan-insentif-pajak"
+    },
+    {
+        "title": "Prabowo: Jangan Percaya Matahari Terbit dari Barat",
+        "category": "Ekonomi",
+        "publish_time": "08-04-2025 09:23",
+        "news_link": "https://ekonomi.republika.co.id/berita/sue7f7430/prabowo-jangan-percaya-matahari-terbit-dari-barat"
+    },
+    {
+        "title": "Dinilai Dikuasai Sepeda Listrik, Pemkot Sukabumi Segera Tata Kembali Lapang Merdeka",
+        "category": "Network",
+        "publish_time": "08-04-2025 09:21",
+        "news_link": "https://sukabumikini.com/posts/517344/dinilai-dikuasai-sepeda-listrik-pemkot-sukabumi-segera-tata-kembali-lapang-merdeka"
+    },
+    {
+        "title": "Usulan Pajak Karbon: Siapa Mendukung, Siapa Menolak?",
+        "category": "Network",
+        "publish_time": "08-04-2025 09:21",
+        "news_link": "https://shippingcargo.co.id/posts/517278/usulan-pajak-karbon-siapa-mendukung-siapa-menolak"
+    },
+    {
+        "title": "Nemu Uang di jalan, Ambil, Diamkan atau Umumkan?",
+        "category": "Network",
+        "publish_time": "08-04-2025 09:20",
+        "news_link": "https://sajada.id/posts/517346/nemu-uang-di-jalan-ambil-diamkan-atau-umumkan-"
+    },
+    {
+        "title": "Kisah Muslimah Pemberani pada Zaman Nabi",
+        "category": "Khazanah",
+        "publish_time": "08-04-2025 09:19",
+        "news_link": "https://khazanah.republika.co.id/berita/sue77c458/kisah-muslimah-pemberani-pada-zaman-nabi"
+    },
+    {
+        "title": "Bea Cukai dan Kejari Banyuwangi Tangani Perkara Penyidikan Tindak Pidana Bidang Cukai",
+        "category": "Beacukai",
+        "publish_time": "08-04-2025 09:18",
+        "news_link": "https://republika.co.id/berita//sue765472/bea-cukai-dan-kejari-banyuwangi-tangani-perkara-penyidikan-tindak-pidana-bidang-cukai"
+    },
+    {
         "title": "Sejarah Masjid Syuhada di Yogyakarta",
         "category": "Khazanah",
-        "publish_time": "08-04-2025 09:13",
+        "publish_time": "08-04-2025 09:15",
         "news_link": "https://khazanah.republika.co.id/berita/sue6yh458/sejarah-masjid-syuhada-di-yogyakarta"
     },
     {
         "title": "Ekonomi Indonesia Minim Terkait Perdagangan Global, Pasar Dinilai Bakal Segera Pulih",
         "category": "Ekonomi",
-        "publish_time": "08-04-2025 09:12",
+        "publish_time": "08-04-2025 09:15",
         "news_link": "https://ekonomi.republika.co.id/berita/sue6wz490/ekonomi-indonesia-minim-terkait-perdagangan-global-pasar-dinilai-bakal-segera-pulih"
     },
     {
         "title": "Penyidik Denpomal: Pembunuhan Juwita oleh TSK Kelasi Satu Jumran Dilakukan Terencana",
         "category": "News",
-        "publish_time": "08-04-2025 09:05",
+        "publish_time": "08-04-2025 09:15",
         "news_link": "https://news.republika.co.id/berita/sue6ky377/penyidik-denpomal-pembunuhan-juwita-oleh-tsk-kelasi-satu-jumran-dilakukan-terencana"
     },
     {
         "title": "Pemprov Jakarta Siapkan Pelatihan Kerja untuk Pendatang",
         "category": "News",
-        "publish_time": "08-04-2025 09:05",
+        "publish_time": "08-04-2025 09:15",
         "news_link": "https://news.republika.co.id/berita/sue6kl416/pemprov-jakarta-siapkan-pelatihan-kerja-untuk-pendatang"
     },
     {
         "title": "MPV Hybrid Termurah Diluncurkan Wuling, Harga Rp 158 Jutaan",
         "category": "Ekonomi",
-        "publish_time": "08-04-2025 09:03",
+        "publish_time": "08-04-2025 09:15",
         "news_link": "https://ekonomi.republika.co.id/berita/sue6gw468/mpv-hybrid-termurah-diluncurkan-wuling-harga-rp-158-jutaan"
     },
     {
         "title": "Ini Rute Favorit Penumpang DAMRI Saat Mudik Lebaran 2025",
         "category": "News",
-        "publish_time": "08-04-2025 09:02",
+        "publish_time": "08-04-2025 09:15",
         "news_link": "https://news.republika.co.id/berita/sue48q451/ini-rute-favorit-penumpang-damri-saat-mudik-lebaran-2025"
     },
     {
         "title": "Pemain Belia Leicester Pakai Kaus Polos Lawan Newcastle karena Aturan Sponsor Judi",
         "category": "News",
-        "publish_time": "08-04-2025 08:59",
+        "publish_time": "08-04-2025 09:15",
         "news_link": "https://news.republika.co.id/berita/sue6ag348/pemain-belia-leicester-pakai-kaus-polos-lawan-newcastle-karena-aturan-sponsor-judi"
     },
     {
         "title": "Seringkali Manusia Meniru Sifat Iblis Ini",
         "category": "Khazanah",
-        "publish_time": "08-04-2025 08:55",
+        "publish_time": "08-04-2025 09:15",
         "news_link": "https://khazanah.republika.co.id/berita/sue64z430/seringkali-manusia-meniru-sifat-iblis-ini"
     },
     {
         "title": "Pemkab Pangandaran Kerahkan ASN Bersihkan Sampah di Tempat Wisata",
         "category": "Esgnow",
-        "publish_time": "08-04-2025 08:51",
+        "publish_time": "08-04-2025 09:15",
         "news_link": "https://esgnow.republika.co.id/berita/sue5xn416/pemkab-pangandaran-kerahkan-asn-bersihkan-sampah-di-tempat-wisata"
     },
     {
         "title": "Triple Shocks Guncang Pasar, Airlangga\u00a0Kembali Tegaskan Fundamental Ekonomi Tetap Kuat",
         "category": "Ekonomi",
-        "publish_time": "08-04-2025 08:45",
+        "publish_time": "08-04-2025 08:15",
         "news_link": "https://ekonomi.republika.co.id/berita/sue5n6490/triple-shocks-guncang-pasar-airlanggakembali-tegaskan-fundamental-ekonomi-tetap-kuat"
     },
     {
         "title": "Tutup One Way Nasional, Menhub Dudy Apresiasi Seluruh Stakeholder dan Masyarakat",
         "category": "News",
-        "publish_time": "08-04-2025 08:43",
+        "publish_time": "08-04-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/sue5jx472/tutup-one-way-nasional-menhub-dudy-apresiasi-seluruh-stakeholder-dan-masyarakat"
     },
     {
         "title": "ASEAN Belum Optimal Manfaatkan Potensi Energi Terbarukan",
         "category": "Esgnow",
-        "publish_time": "08-04-2025 08:34",
+        "publish_time": "08-04-2025 08:15",
         "news_link": "https://esgnow.republika.co.id/berita/sue55x416/asean-belum-optimal-manfaatkan-potensi-energi-terbarukan"
     },
     {
         "title": "Jatim Lumbung Pangan, Khofifah: Produksi Beras Kami Tertinggi",
         "category": "News",
-        "publish_time": "08-04-2025 08:32",
+        "publish_time": "08-04-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/sue451451/jatim-lumbung-pangan-khofifah-produksi-beras-kami-tertinggi"
     },
     {
         "title": "Bea Cukai Malang Lepas Ekspor Keripik Buah dan Sayur ke Singapura",
         "category": "Beacukai",
-        "publish_time": "08-04-2025 08:32",
+        "publish_time": "08-04-2025 08:15",
         "news_link": "https://republika.co.id/berita//sue518368/bea-cukai-malang-lepas-ekspor-keripik-buah-dan-sayur-ke-singapura"
     },
     {
         "title": "Aipda Robig, Polisi Pelaku Penembakan Siswa SMKN 4 Semarang Mulai Diadili",
         "category": "News",
-        "publish_time": "08-04-2025 08:31",
+        "publish_time": "08-04-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/sue50w409/aipda-robig-polisi-pelaku-penembakan-siswa-smkn-4-semarang-mulai-diadili"
     },
     {
         "title": "Trump Ancam Beijing Tarif 50 Persen, China Ogah Tunduk, akan Berjuang Sampai Akhir",
         "category": "Ekonomi",
-        "publish_time": "08-04-2025 08:26",
+        "publish_time": "08-04-2025 08:15",
         "news_link": "https://ekonomi.republika.co.id/berita/sue4sf377/trump-ancam-beijing-tarif-50-persen-china-ogah-tunduk-akan-berjuang-sampai-akhir"
     },
     {
         "title": "Jumlah Pendatang ke Jakarta Usai Lebaran Alami Penurunan, Pramono Singgung IKN",
         "category": "News",
-        "publish_time": "08-04-2025 08:24",
+        "publish_time": "08-04-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/sue4pb409/jumlah-pendatang-ke-jakarta-usai-lebaran-alami-penurunan-pramono-singgung-ikn"
     },
     {
         "title": "Harumkan Nama Bangsa, Taruna TNI ini Jadi Lulusan Terbaik Sekolah Militer Jepang",
         "category": "News",
-        "publish_time": "08-04-2025 08:23",
+        "publish_time": "08-04-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/sue4n7451/harumkan-nama-bangsa-taruna-tni-ini-jadi-lulusan-terbaik-sekolah-militer-jepang"
     },
     {
@@ -142,161 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "08-04-2025 08:15",
         "news_link": "https://ekonomi.republika.co.id/berita/sue38o490/prabowo-tidak-ada-hasil-instan-yang-instan-hanya-tongkat-nabi-musa"
-    },
-    {
-        "title": "Allah Murka kepada Hamba yang tidak Berdoa",
-        "category": "Iqra",
-        "publish_time": "08-04-2025 08:15",
-        "news_link": "https://iqra.republika.co.id/berita/sue35p430/allah-murka-kepada-hamba-yang-tidak-berdoa"
-    },
-    {
-        "title": "IHSG Terkoreksi Usai Libur Lebaran, Masih Ada Potensi Pelemahan Lanjutan",
-        "category": "Ekonomi",
-        "publish_time": "08-04-2025 08:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/sue2xu490/ihsg-terkoreksi-usai-libur-lebaran-masih-ada-potensi-pelemahan-lanjutan"
-    },
-    {
-        "title": "Angkat Pejabat Lama, Prabowo: Kalau Andal dan Baik untuk Apa Diganti!",
-        "category": "News",
-        "publish_time": "08-04-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/sue2u1484/angkat-pejabat-lama-prabowo-kalau-andal-dan-baik-untuk-apa-diganti"
-    },
-    {
-        "title": "Lucky Hakim ke Jepang, Bima Arya: Dia Dimintai Keterangan oleh Inspektorat Kemendagri",
-        "category": "News",
-        "publish_time": "08-04-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/sue2nz451/lucky-hakim-ke-jepang-bima-arya-dia-dimintai-keterangan-oleh-inspektorat-kemendagri"
-    },
-    {
-        "title": "Prabowo Mau Bicara dengan Tokoh 'Indonesia Gelap', Sebut Rocky Gerung, Tell Me Whats Wrong",
-        "category": "News",
-        "publish_time": "08-04-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/sue2m7377/prabowo-mau-bicara-dengan-tokoh-indonesia-gelap-sebut-rocky-gerung-tell-me-whats-wrong"
-    },
-    {
-        "title": "Lebih dari 50 Ribu Warga Gaza Wafat, Israel Malah Dibantu Amerika Rp 67 T Setiap Tahun",
-        "category": "News",
-        "publish_time": "08-04-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/sue1vy451/lebih-dari-50-ribu-warga-gaza-wafat-israel-malah-dibantu-amerika-rp-67-t-setiap-tahun"
-    },
-    {
-        "title": "Israel Khawatir dengan Kekuatan Turki di Suriah, Lobi AS Agar tak Jual F-35 ke Ankara",
-        "category": "News",
-        "publish_time": "08-04-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/sue1bm377/israel-khawatir-dengan-kekuatan-turki-di-suriah-lobi-as-agar-tak-jual-f35-ke-ankara"
-    },
-    {
-        "title": "Unair Masuk Ranking Universitas Dunia, Mendiktisaintek: Atmosfer Pendidikan yang Inovatif",
-        "category": "News",
-        "publish_time": "08-04-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/sue13f451/unair-masuk-ranking-universitas-dunia-mendiktisaintek-atmosfer-pendidikan-yang-inovatif"
-    },
-    {
-        "title": "Antisipasi Kerugian Panen, Sultan HB X Ajak Petani Daftarkan Status Sawah Jadi Lahan Abadi",
-        "category": "Rejogja",
-        "publish_time": "08-04-2025 07:15",
-        "news_link": "https://rejogja.republika.co.id/berita/sue0x9291/antisipasi-kerugian-panen-sultan-hb-x-ajak-petani-daftarkan-status-sawah-jadi-lahan-abadi"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok untuk Bogor dan Sekitarnya, 9 April 2025",
-        "category": "News",
-        "publish_time": "08-04-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/sue0sh186635560/prakiraan-cuaca-besok-untuk-bogor-dan-sekitarnya-9-april-2025"
-    },
-    {
-        "title": "Terbukti Lakukan Kekerasan Seksual ke Mahasiswa, Guru Besar Farmasi UGM Dipecat",
-        "category": "Rejogja",
-        "publish_time": "08-04-2025 07:15",
-        "news_link": "https://rejogja.republika.co.id/berita/sue0pw291/terbukti-lakukan-kekerasan-seksual-ke-mahasiswa-guru-besar-farmasi-ugm-dipecat"
-    },
-    {
-        "title": "Tidur Nyenyak Setelah Libur Lebaran, Ini Tips dari Ahli",
-        "category": "Ameera",
-        "publish_time": "08-04-2025 07:15",
-        "news_link": "https://ameera.republika.co.id/berita/sue0o7425/tidur-nyenyak-setelah-libur-lebaran-ini-tips-dari-ahli"
-    },
-    {
-        "title": "IHSG Jeblok, Pengamat Nilai Faktornya Bukan Sekadar Tekanan Global",
-        "category": "Ekonomi",
-        "publish_time": "08-04-2025 07:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/sue0hb490/ihsg-jeblok-pengamat-nilai-faktornya-bukan-sekadar-tekanan-global"
-    },
-    {
-        "title": "40 Persen Listrik Global Kini Berasal dari Energi Bersih",
-        "category": "Esgnow",
-        "publish_time": "08-04-2025 07:15",
-        "news_link": "https://esgnow.republika.co.id/berita/sue0cq416/40-persen-listrik-global-kini-berasal-dari-energi-bersih"
-    },
-    {
-        "title": "Penonton Film Minecraft Bikin Gaduh di Bioskop Amerika, Polisi Turun Tangan",
-        "category": "Ameera",
-        "publish_time": "08-04-2025 06:15",
-        "news_link": "https://ameera.republika.co.id/berita/sue03m425/penonton-film-minecraft-bikin-gaduh-di-bioskop-amerika-polisi-turun-tangan"
-    },
-    {
-        "title": "Soal Kabar Pertemuan Megawati-Prabowo, Ini Kata Politikus PDIP",
-        "category": "News",
-        "publish_time": "08-04-2025 06:15",
-        "news_link": "https://news.republika.co.id/berita/sue00f377/soal-kabar-pertemuan-megawatiprabowo-ini-kata-politikus-pdip"
-    },
-    {
-        "title": "Carsome Dorong Inovasi Berbasis Data dan AI bersama Google Cloud dan Searce",
-        "category": "Ekonomi",
-        "publish_time": "08-04-2025 06:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/sudzwp291/carsome-dorong-inovasi-berbasis-data-dan-ai-bersama-google-cloud-dan-searce"
-    },
-    {
-        "title": "Multiperspektif Mudik",
-        "category": "Network",
-        "publish_time": "08-04-2025 06:15",
-        "news_link": "https://diagnosa.id/posts/517294/multiperspektif-mudik"
-    },
-    {
-        "title": "Ekspor Mobil Listrik China Turun 18 Persen, Eropa Alami Penurunan Terbesar",
-        "category": "Network",
-        "publish_time": "08-04-2025 06:15",
-        "news_link": "https://motoresto.id/posts/517272/ekspor-mobil-listrik-china-turun-18-persen-eropa-alami-penurunan-terbesar"
-    },
-    {
-        "title": "Masjid di Pekalongan Sediakan Layanan Pijat hingga Potong Rambut Gratis bagi Pemudik",
-        "category": "Network",
-        "publish_time": "08-04-2025 06:15",
-        "news_link": "https://diagnosa.id/posts/517297/masjid-di-pekalongan-sediakan-layanan-pijat-hingga-potong-rambut-gratis-bagi-pemudik"
-    },
-    {
-        "title": "Scrubber di Kapal Kargo Bisa Lebih Ramah Lingkungan",
-        "category": "Network",
-        "publish_time": "08-04-2025 06:15",
-        "news_link": "https://shippingcargo.co.id/posts/517276/scrubber-di-kapal-kargo-bisa-lebih-ramah-lingkungan"
-    },
-    {
-        "title": "Helmut Marko Soroti Penampilan Yuki Tsunoda di Suzuka: Banyak Belajar Meski Belum Cetak Poin",
-        "category": "Network",
-        "publish_time": "08-04-2025 06:15",
-        "news_link": "https://motoresto.id/posts/517273/helmut-marko-soroti-penampilan-yuki-tsunoda-di-suzuka-banyak-belajar-meski-belum-cetak-poin"
-    },
-    {
-        "title": "Catatan Cak AT: PR Besar Bedah Demokrasi",
-        "category": "Network",
-        "publish_time": "08-04-2025 06:15",
-        "news_link": "https://ruzkaindonesia.id/posts/517318/catatan-cak-at-pr-besar-bedah-demokrasi"
-    },
-    {
-        "title": "Nanobubbles: Gelembung Kecil, Harapan Besar untuk Stroke",
-        "category": "Network",
-        "publish_time": "08-04-2025 06:15",
-        "news_link": "https://diagnosa.id/posts/517328/nanobubbles-gelembung-kecil-harapan-besar-untuk-stroke"
-    },
-    {
-        "title": "Selama Libur Lebaran, Masjid Al Jabbar dan Pangandaran Paling Banyak Dikunjungi",
-        "category": "Rejabar",
-        "publish_time": "08-04-2025 06:15",
-        "news_link": "https://rejabar.republika.co.id/berita/sudzhw512/selama-libur-lebaran-masjid-al-jabbar-dan-pangandaran-paling-banyak-dikunjungi"
-    },
-    {
-        "title": "Meriahkan Tradisi Syawalan, Nelayan Gelar Lomba Panjat Pinang di Laut",
-        "category": "Visual",
-        "publish_time": "08-04-2025 06:15",
-        "news_link": "https://visual.republika.co.id/berita/sudtpr375/meriahkan-tradisi-syawalan-nelayan-gelar-lomba-panjat-pinang-di-laut"
     }
 ]
