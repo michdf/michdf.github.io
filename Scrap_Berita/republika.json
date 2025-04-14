@@ -1,98 +1,230 @@
 [
     {
+        "title": "Petugas Haji Indonesia Jadi 4.420 Orang, Berikut Pos Layanan yang Disiapkan untuk Jamaah",
+        "category": "Khazanah",
+        "publish_time": "14-04-2025 12:18",
+        "news_link": "https://khazanah.republika.co.id/berita/supjik483/petugas-haji-indonesia-jadi-4420-orang-berikut-pos-layanan-yang-disiapkan-untuk-jamaah"
+    },
+    {
+        "title": "Yuk Ikut Avoskin Trail Run Sepanjang 7,2 Km di Kaki Gunung Merapi",
+        "category": "News",
+        "publish_time": "14-04-2025 12:17",
+        "news_link": "https://news.republika.co.id/berita/supjie484/yuk-ikut-avoskin-trail-run-sepanjang-72-km-di-kaki-gunung-merapi"
+    },
+    {
+        "title": "Hadiri Peresmian Gold Coast Bengkong, Kapolri Tekankan Pencegahan TPPO-PMI Ilegal",
+        "category": "News",
+        "publish_time": "14-04-2025 12:16",
+        "news_link": "https://news.republika.co.id/berita/supjfc472/hadiri-peresmian-gold-coast-bengkong-kapolri-tekankan-pencegahan-tppopmi-ilegal"
+    },
+    {
+        "title": "Polisi Dalami Jaringan Peredaran Uang Palsu Usai Tangkap Mantan Artis Drama Kolosal",
+        "category": "News",
+        "publish_time": "14-04-2025 12:14",
+        "news_link": "https://news.republika.co.id/berita/supjc6409/polisi-dalami-jaringan-peredaran-uang-palsu-usai-tangkap-mantan-artis-drama-kolosal"
+    },
+    {
+        "title": "IHSG di Tengah Gejolak: Strategi Bertahan di Masa Sulit",
+        "category": "News",
+        "publish_time": "14-04-2025 12:05",
+        "news_link": "https://news.republika.co.id/berita/supiy2472/ihsg-di-tengah-gejolak-strategi-bertahan-di-masa-sulit"
+    },
+    {
+        "title": "Besok, Dishub Uji Coba Rute Transjabodetabek Alam Sutera-Blok M",
+        "category": "News",
+        "publish_time": "14-04-2025 12:01",
+        "news_link": "https://news.republika.co.id/berita/supiqe484/besok-dishub-uji-coba-rute-transjabodetabek-alam-suterablok-m"
+    },
+    {
+        "title": "Sidang Lanjutan Tom Lembong Hadirkan Saksi dari JPU",
+        "category": "Visual",
+        "publish_time": "14-04-2025 11:59",
+        "news_link": "https://visual.republika.co.id/berita/supf9w375/sidang-lanjutan-tom-lembong-hadirkan-saksi-dari-jpu"
+    },
+    {
+        "title": "Kedai Kopi AS Khawatir Semakin Meroketnya Harga Akibat Kebijakan Tarif",
+        "category": "Ekonomi",
+        "publish_time": "14-04-2025 11:58",
+        "news_link": "https://ekonomi.republika.co.id/berita/supil8423/kedai-kopi-as-khawatir-semakin-meroketnya-harga-akibat-kebijakan-tarif"
+    },
+    {
+        "title": "Survei Kedai Kopi: 91,2 Persen Masyarakat Puas dengan Rekayasa Lalu Lintas Mudik 2025",
+        "category": "Khazanah",
+        "publish_time": "14-04-2025 11:55",
+        "news_link": "https://khazanah.republika.co.id/berita/supihv366/survei-kedai-kopi-912-persen-masyarakat-puas-dengan-rekayasa-lalu-lintas-mudik-2025"
+    },
+    {
+        "title": "Golden Ticket UBSI, Siswa Bisa Masuk Kuliah tanpa Biaya",
+        "category": "News",
+        "publish_time": "14-04-2025 11:52",
+        "news_link": "https://news.republika.co.id/berita/supibo472/golden-ticket-ubsi-siswa-bisa-masuk-kuliah-tanpa-biaya"
+    },
+    {
+        "title": "Tiket.com dan Plataran Indonesia Bersinergi Majukan Pariwisata Berkelanjutan",
+        "category": "Esgnow",
+        "publish_time": "14-04-2025 11:49",
+        "news_link": "https://esgnow.republika.co.id/berita/supi7f416/tiketcom-dan-plataran-indonesia-bersinergi-majukan-pariwisata-berkelanjutan"
+    },
+    {
+        "title": "Pancing Kemarahan Umat, Ratusan Pemukim Israel Kembali Serbu Masjid Al Aqsa",
+        "category": "Khazanah",
+        "publish_time": "14-04-2025 11:47",
+        "news_link": "https://khazanah.republika.co.id/berita/supi3m483/pancing-kemarahan-umat-ratusan-pemukim-israel-kembali-serbu-masjid-al-aqsa"
+    },
+    {
+        "title": "Universitas Nusa Mandiri, Tempat Berkembangnya Startup Generasi Z",
+        "category": "News",
+        "publish_time": "14-04-2025 11:43",
+        "news_link": "https://news.republika.co.id/berita/suphxn472/universitas-nusa-mandiri-tempat-berkembangnya-startup-generasi-z"
+    },
+    {
+        "title": "Pendapatan PTBA Tumbuh 11 Persen, Ini Kunci Suksesnya",
+        "category": "Ekonomi",
+        "publish_time": "14-04-2025 11:38",
+        "news_link": "https://ekonomi.republika.co.id/berita/suphoe490/pendapatan-ptba-tumbuh-11-persen-ini-kunci-suksesnya"
+    },
+    {
+        "title": "Perundingan Nuklir Iran-AS Pindah ke Italia",
+        "category": "News",
+        "publish_time": "14-04-2025 11:32",
+        "news_link": "https://news.republika.co.id/berita/supher393/perundingan-nuklir-iranas-pindah-ke-italia"
+    },
+    {
+        "title": "Atasi Kemacetan di Puncak Bogor, Kemen PU akan Bangun Jalan Tol Puncak",
+        "category": "Network",
+        "publish_time": "14-04-2025 11:30",
+        "news_link": "https://ruzkaindonesia.id/posts/518001/atasi-kemacetan-di-puncak-bogor-kemen-pu-akan-bangun-jalan-tol-puncak"
+    },
+    {
+        "title": "Tim Kuasa Hukum Bantah Ijazah UGM Milik Jokowi Palsu",
+        "category": "News",
+        "publish_time": "14-04-2025 11:27",
+        "news_link": "https://news.republika.co.id/berita/supgz0484/tim-kuasa-hukum-bantah-ijazah-ugm-milik-jokowi-palsu"
+    },
+    {
+        "title": "Serangan Berulang Israel ke Rumah Sakit di Gaza",
+        "category": "Visual",
+        "publish_time": "14-04-2025 11:27",
+        "news_link": "https://visual.republika.co.id/berita/supgvd393/serangan-berulang-israel-ke-rumah-sakit-di-gaza"
+    },
+    {
+        "title": "10 Atlet Papan Atas Mancanegara yang Memutuskan Masuk Islam",
+        "category": "Khazanah",
+        "publish_time": "14-04-2025 11:27",
+        "news_link": "https://khazanah.republika.co.id/berita/supdx0320/10-atlet-papan-atas-mancanegara-yang-memutuskan-masuk-islam"
+    },
+    {
+        "title": "Menko Airlangga Targetkan Ada Penerbangan Langsung Jakarta-Moskow",
+        "category": "News",
+        "publish_time": "14-04-2025 11:27",
+        "news_link": "https://news.republika.co.id/berita/supgih484/menko-airlangga-targetkan-ada-penerbangan-langsung-jakartamoskow"
+    },
+    {
+        "title": "Impor Kontainer AS Naik 11 Persen, Sinyal Awal Guncangan Rantai Pasok Global?",
+        "category": "Network",
+        "publish_time": "14-04-2025 11:27",
+        "news_link": "https://shippingcargo.co.id/posts/518063/impor-kontainer-as-naik-11-persen-sinyal-awal-guncangan-rantai-pasok-global"
+    },
+    {
+        "title": "Adab Minum dalam Islam",
+        "category": "Network",
+        "publish_time": "14-04-2025 11:27",
+        "news_link": "https://sajada.id/posts/518154/adab-minum-dalam-islam"
+    },
+    {
         "title": "Gudang Suku Cadang Mobil di Tangerang Hangus Terbakar",
         "category": "Visual",
-        "publish_time": "14-04-2025 11:11",
+        "publish_time": "14-04-2025 11:27",
         "news_link": "https://visual.republika.co.id/berita/supfcg375/gudang-suku-cadang-mobil-di-tangerang-hangus-terbakar"
     },
     {
         "title": "Sekda Berau: Penambahan Rute Penerbangan Dorong Pertumbuhan Ekonomi",
         "category": "News",
-        "publish_time": "14-04-2025 11:09",
+        "publish_time": "14-04-2025 11:27",
         "news_link": "https://news.republika.co.id/berita/supgdb451/sekda-berau-penambahan-rute-penerbangan-dorong-pertumbuhan-ekonomi"
     },
     {
         "title": "Polisi Sudah Periksa 17 Saksi Kasus Dokter PPDS Diduga Perkosa Keluarga Pasien",
         "category": "News",
-        "publish_time": "14-04-2025 11:09",
+        "publish_time": "14-04-2025 11:27",
         "news_link": "https://news.republika.co.id/berita/supgbx487/polisi-sudah-periksa-17-saksi-kasus-dokter-ppds-diduga-perkosa-keluarga-pasien"
     },
     {
         "title": "Respons Tarif Trump, China akan \u2018Mengurangi\u2019 Perilisan Film Hollywood",
         "category": "Ekonomi",
-        "publish_time": "14-04-2025 11:07",
+        "publish_time": "14-04-2025 11:27",
         "news_link": "https://ekonomi.republika.co.id/berita/supg8l423/respons-tarif-trump-china-akan-mengurangi-perilisan-film-hollywood"
     },
     {
         "title": "Harumkan Nama Bangsa, Patung dari Jamur Seniman RI Kejutkan Warga Shanghai",
         "category": "News",
-        "publish_time": "14-04-2025 11:03",
+        "publish_time": "14-04-2025 11:27",
         "news_link": "https://news.republika.co.id/berita/supg3f451/harumkan-nama-bangsa-patung-dari-jamur-seniman-ri-kejutkan-warga-shanghai"
     },
     {
         "title": "3 Juta Penonton 'Terhipnotis' Film Animasi Lokal Jumbo",
         "category": "Ameera",
-        "publish_time": "14-04-2025 11:01",
+        "publish_time": "14-04-2025 11:27",
         "news_link": "https://ameera.republika.co.id/berita/supfyl425/3-juta-penonton-terhipnotis-film-animasi-lokal-jumbo"
     },
     {
         "title": "Menhan AS Pete Hegseth Tebar Narasi Memojokkan China, Respons Beijing Menohok",
         "category": "News",
-        "publish_time": "14-04-2025 10:55",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/supfq2451/menhan-as-pete-hegseth-tebar-narasi-memojokkan-china-respons-beijing-menohok"
     },
     {
         "title": "Hery Gunardi Resmi Pimpin Perbanas",
         "category": "Ekonomi",
-        "publish_time": "14-04-2025 10:51",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://ekonomi.republika.co.id/berita/supfil423/hery-gunardi-resmi-pimpin-perbanas"
     },
     {
         "title": "Psikolog Ungkap Tips Pilih Jurusan Tepat Bagi Pelajar SMA",
         "category": "Ameera",
-        "publish_time": "14-04-2025 10:50",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://ameera.republika.co.id/berita/supfgk425/psikolog-ungkap-tips-pilih-jurusan-tepat-bagi-pelajar-sma"
     },
     {
         "title": "PTBA Genjot Pemanfaatan Energi Terbarukan",
         "category": "Esgnow",
-        "publish_time": "14-04-2025 10:48",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://esgnow.republika.co.id/berita/supfd4416/ptba-genjot-pemanfaatan-energi-terbarukan"
     },
     {
         "title": "Hakim Djuyamto Ditangkap Kejagung, PDIP Sebut Karma Pernah Tolak Praperadilan Hasto",
         "category": "News",
-        "publish_time": "14-04-2025 10:43",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/supf4g409/hakim-djuyamto-ditangkap-kejagung-pdip-sebut-karma-pernah-tolak-praperadilan-hasto"
     },
     {
         "title": "InJourney Sees Modest 2% Growth with 10.67M Passengers During 2025 Lebaran Transit",
         "category": "En",
-        "publish_time": "31 minutes ago",
+        "publish_time": "2 hours ago",
         "news_link": "https://en.republika.co.id/berita/supf0s502/injourney-sees-modest-2-growth-with-1067m-passengers-during-2025-lebaran-transit"
     },
     {
         "title": "Mulai 1 Maret Harga Ekspor Batu Bara Dikendalikan HBA, Begini Tanggapan PTBA",
         "category": "Ekonomi",
-        "publish_time": "14-04-2025 10:37",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://ekonomi.republika.co.id/berita/supevs423/mulai-1-maret-harga-ekspor-batu-bara-dikendalikan-hba-begini-tanggapan-ptba"
     },
     {
         "title": "Puan Respons Isu 'Matahari Kembar' Usai Para Menteri Halal Bihalal ke Jokowi",
         "category": "News",
-        "publish_time": "14-04-2025 10:35",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/supesg409/puan-respons-isu-matahari-kembar-usai-para-menteri-halal-bihalal-ke-jokowi"
     },
     {
         "title": "Rumahnya di Surabaya Digeledah KPK, Begini Respons LaNyalla",
         "category": "News",
-        "publish_time": "14-04-2025 10:34",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/supeqq484/rumahnya-di-surabaya-digeledah-kpk-begini-respons-lanyalla"
     },
     {
         "title": "Semakin Meluas, Ribuan Tentara IDF Tolak Perintah Netanyahu untuk Perang",
         "category": "News",
-        "publish_time": "14-04-2025 10:30",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/supeiz451/semakin-meluas-ribuan-tentara-idf-tolak-perintah-netanyahu-untuk-perang"
     },
     {
@@ -110,193 +242,61 @@
     {
         "title": "PLN Gandeng Masdar Kembangkan PLTS Terapung di Indonesia",
         "category": "Esgnow",
-        "publish_time": "14-04-2025 10:23",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://esgnow.republika.co.id/berita/supe8g416/pln-gandeng-masdar-kembangkan-plts-terapung-di-indonesia"
     },
     {
         "title": "Dokter Tegaskan Kontrol Gula Darah tak Selalu dari Terapi Obat",
         "category": "Ameera",
-        "publish_time": "14-04-2025 10:20",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://ameera.republika.co.id/berita/supe2u425/dokter-tegaskan-kontrol-gula-darah-tak-selalu-dari-terapi-obat"
     },
     {
         "title": "Tidak Cuma Ayat Kursi atau Qulhu, Ini Ayat-Ayat Alquran \u2018Pengusir\u2019 Setan Dan Sihir",
         "category": "Iqra",
-        "publish_time": "14-04-2025 10:19",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://iqra.republika.co.id/berita/supcx6320/tidak-cuma-ayat-kursi-atau-qulhu-ini-ayatayat-alquran-pengusir-setan-dan-sihir"
     },
     {
         "title": "Beri Jaminan Aman, Fapet UGM Dorong Sertifikasi dan Labeling Produk Peternakan",
         "category": "Rejogja",
-        "publish_time": "14-04-2025 10:18",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://rejogja.republika.co.id/berita/supdzj291/beri-jaminan-aman-fapet-ugm-dorong-sertifikasi-dan-labeling-produk-peternakan"
     },
     {
         "title": "Menyemai Pendidikan untuk Pelajar Desa Bojanegara",
         "category": "Khazanah",
-        "publish_time": "14-04-2025 10:17",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://khazanah.republika.co.id/berita/supdxd472/menyemai-pendidikan-untuk-pelajar-desa-bojanegara"
     },
     {
         "title": "Vokalis Coldplay Chris Martin Berbagi Cara Lawan Depresi: Menulis Bebas Hingga Meditasi",
         "category": "Ameera",
-        "publish_time": "14-04-2025 10:14",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://ameera.republika.co.id/berita/supdt6425/vokalis-coldplay-chris-martin-berbagi-cara-lawan-depresi-menulis-bebas-hingga-meditasi"
     },
     {
         "title": "Ketua PBNU: Guru Tua Sosok yang DIhormati, Nahdliyin Jangan Terprovokasi",
         "category": "Khazanah",
-        "publish_time": "14-04-2025 10:14",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://khazanah.republika.co.id/berita/supdsl483/ketua-pbnu-guru-tua-sosok-yang-dihormati-nahdliyin-jangan-terprovokasi"
     },
     {
         "title": "Perajin Tempe Keluhkan Kenaikan Harga Kedelai",
         "category": "Visual",
-        "publish_time": "14-04-2025 10:11",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://visual.republika.co.id/berita/supdnm375/perajin-tempe-keluhkan-kenaikan-harga-kedelai"
     },
     {
         "title": "Dua Orang Habib yang Dikagumi Quraish Shihab",
         "category": "News",
-        "publish_time": "14-04-2025 10:11",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/supdn7451/dua-orang-habib-yang-dikagumi-quraish-shihab"
     },
     {
         "title": "Vivo V50 Lite: Terobosan Smartphone Tipis dengan Baterai 'Monster'",
         "category": "Ameera",
-        "publish_time": "14-04-2025 10:11",
+        "publish_time": "14-04-2025 10:27",
         "news_link": "https://ameera.republika.co.id/berita/supdn6425/vivo-v50-lite-terobosan-smartphone-tipis-dengan-baterai-monster"
-    },
-    {
-        "title": "Rebranding Bank DKI, Pramono Tolak 'Orang Titipan'",
-        "category": "Ekonomi",
-        "publish_time": "14-04-2025 10:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/supdn4423/rebranding-bank-dki-pramono-tolak-orang-titipan"
-    },
-    {
-        "title": "MPM Muhammadiyah Ajak Komunitas Mardiko Bantul Olah Sampah dan Ciptakan Peluang Ekonomi",
-        "category": "Rejogja",
-        "publish_time": "14-04-2025 10:11",
-        "news_link": "https://rejogja.republika.co.id/berita/supdn3291/mpm-muhammadiyah-ajak-komunitas-mardiko-bantul-olah-sampah-dan-ciptakan-peluang-ekonomi"
-    },
-    {
-        "title": "Pemimpin Muslim Mulai Jadi Sasaran Kemarahan Demo Pro-Palestina",
-        "category": "News",
-        "publish_time": "14-04-2025 10:11",
-        "news_link": "https://news.republika.co.id/berita/supdlt393/pemimpin-muslim-mulai-jadi-sasaran-kemarahan-demo-propalestina"
-    },
-    {
-        "title": "MUI Keluarkan Pernyataan Bersama Soal Palestina: Sikapi Rencana Evakuasi dan Fatwa Jihad",
-        "category": "Khazanah",
-        "publish_time": "14-04-2025 10:11",
-        "news_link": "https://khazanah.republika.co.id/berita/supdh6483/mui-keluarkan-pernyataan-bersama-soal-palestina-sikapi-rencana-evakuasi-dan-fatwa-jihad"
-    },
-    {
-        "title": "Gara-Gara Tarif Trump, Sony Bakal Naikkan Harga Jual PS5",
-        "category": "Ekonomi",
-        "publish_time": "14-04-2025 10:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/supd6j490/garagara-tarif-trump-sony-bakal-naikkan-harga-jual-ps5"
-    },
-    {
-        "title": "Pemerintah Siapkan Satgas PHK, Pengusaha Khawatir Ada PHK Besar-besaran",
-        "category": "Ekonomi",
-        "publish_time": "14-04-2025 10:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/supd3c423/pemerintah-siapkan-satgas-phk-pengusaha-khawatir-ada-phk-besarbesaran"
-    },
-    {
-        "title": "Ketua KPK Janji tak akan Ambil Honor dari Jabatan di BPI Danantara",
-        "category": "News",
-        "publish_time": "14-04-2025 10:11",
-        "news_link": "https://news.republika.co.id/berita/supcpg487/ketua-kpk-janji-tak-akan-ambil-honor-dari-jabatan-di-bpi-danantara"
-    },
-    {
-        "title": "Profil Sekar Arum Widara, Mantan Artis Kolosal yang Ditangkap karena Uang Palsu",
-        "category": "Ameera",
-        "publish_time": "14-04-2025 10:11",
-        "news_link": "https://ameera.republika.co.id/berita/supchr425/profil-sekar-arum-widara-mantan-artis-kolosal-yang-ditangkap-karena-uang-palsu"
-    },
-    {
-        "title": "Uang Suap Rp 60 Miliar Vonis Lepas Kasus CPO Dibagi-bagi, Hakim Mana Paling \u2018Rakus'?",
-        "category": "News",
-        "publish_time": "14-04-2025 10:11",
-        "news_link": "https://news.republika.co.id/berita/supcfh484/uang-suap-rp-60-miliar-vonis-lepas-kasus-cpo-dibagibagi-hakim-mana-paling-rakus"
-    },
-    {
-        "title": "Pembangkan Berlanjut, Israel Kian Dekati Perang Sipil",
-        "category": "News",
-        "publish_time": "14-04-2025 10:11",
-        "news_link": "https://news.republika.co.id/berita/supcbc393/pembangkan-berlanjut-israel-kian-dekati-perang-sipil"
-    },
-    {
-        "title": "Perang Dagang China-AS: Persaingan Ekonomi yang Mengguncang Dunia",
-        "category": "Retizen",
-        "publish_time": "14-04-2025 09:11",
-        "news_link": "https://retizen.republika.co.id/posts/518138/perang-dagang-china-as-persaingan-ekonomi-yang-mengguncang-dunia"
-    },
-    {
-        "title": "Apel 20 Ribu Banser Bareng TNI, Addin: Manunggal Kekuatan Indonesia",
-        "category": "Khazanah",
-        "publish_time": "14-04-2025 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/supc5s320/apel-20-ribu-banser-bareng-tni-addin-manunggal-kekuatan-indonesia"
-    },
-    {
-        "title": "Merajut Sinergi Media dan Pemerintah di Halal Bihalal PWI Kota Bandung",
-        "category": "Rejabar",
-        "publish_time": "14-04-2025 09:11",
-        "news_link": "https://rejabar.republika.co.id/berita/supc56472/merajut-sinergi-media-dan-pemerintah-di-halal-bihalal-pwi-kota-bandung"
-    },
-    {
-        "title": "Gapki Targetkan Ekspor Minyak Sawit ke Rusia Tembus 1 Juta Ton",
-        "category": "Ekonomi",
-        "publish_time": "14-04-2025 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/supc3r370/gapki-targetkan-ekspor-minyak-sawit-ke-rusia-tembus-1-juta-ton"
-    },
-    {
-        "title": "Rusia Ingin Jalin Hubungan Ekonomi Lebih Erat dengan RI",
-        "category": "Ekonomi",
-        "publish_time": "14-04-2025 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/supc1p423/rusia-ingin-jalin-hubungan-ekonomi-lebih-erat-dengan-ri"
-    },
-    {
-        "title": "Geramnya Hamas Usai Israel Larang Umat Kristen Masuk Yerusalem Untuk Minggu Palma",
-        "category": "Khazanah",
-        "publish_time": "14-04-2025 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/supbz0483/geramnya-hamas-usai-israel-larang-umat-kristen-masuk-yerusalem-untuk-minggu-palma"
-    },
-    {
-        "title": "Kementerian PPPA Minta Dokter PPDS Pelaku Pemerkosaan Dihukum Berat",
-        "category": "News",
-        "publish_time": "14-04-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/supbvv425/kementerian-pppa-minta-dokter-ppds-pelaku-pemerkosaan-dihukum-berat"
-    },
-    {
-        "title": "Konsil Kesehatan Indonesia, Pastikan Dokter Tersangka Pelecehan Seksual Dicabut Hak Praktiknya Seumur Hidup",
-        "category": "Network",
-        "publish_time": "14-04-2025 09:11",
-        "news_link": "https://diagnosa.id/posts/518142/konsil-kesehatan-indonesia-pastikan-dokter-tersangka-pelecehan-seksual-dicabut-hak-praktiknya-seumur-hidup"
-    },
-    {
-        "title": "2,4 Juta Porsi Makanan Disiapkan untuk Jamaah RI Selama Puncak Haji",
-        "category": "Khazanah",
-        "publish_time": "14-04-2025 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/supbr3458/24-juta-porsi-makanan-disiapkan-untuk-jamaah-ri-selama-puncak-haji"
-    },
-    {
-        "title": "Rasulullah SAW Ungkap Yahudi akan Dikalahkan Umat Islam, Tapi Kapan dan Bagaimana?",
-        "category": "Iqra",
-        "publish_time": "14-04-2025 09:11",
-        "news_link": "https://iqra.republika.co.id/berita/supbnd320/rasulullah-saw-ungkap-yahudi-akan-dikalahkan-umat-islam-tapi-kapan-dan-bagaimana"
-    },
-    {
-        "title": "Klinik Patella Solusi Pengobatan Nyeri Lutut dan Sendi",
-        "category": "Ameera",
-        "publish_time": "14-04-2025 09:11",
-        "news_link": "https://ameera.republika.co.id/berita/supbn1368/klinik-patella-solusi-pengobatan-nyeri-lutut-dan-sendi"
-    },
-    {
-        "title": "Van Dijk Bangga Bantu Liverpool Makin Dekat Menuju Gelar Impian",
-        "category": "News",
-        "publish_time": "14-04-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/supbla348/van-dijk-bangga-bantu-liverpool-makin-dekat-menuju-gelar-impian"
     }
 ]
