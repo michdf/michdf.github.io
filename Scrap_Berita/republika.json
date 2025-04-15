@@ -1,110 +1,242 @@
 [
     {
+        "title": "Meniru Teladan Sultan Mehmed al-Fatih",
+        "category": "Khazanah",
+        "publish_time": "15-04-2025 12:27",
+        "news_link": "https://khazanah.republika.co.id/berita/surela458/meniru-teladan-sultan-mehmed-alfatih"
+    },
+    {
+        "title": "Meski Lagi Krisis, Mahasiswa UBSI Kampus Tasikmalaya Nggak Kehabisan Ide Usaha",
+        "category": "News",
+        "publish_time": "15-04-2025 12:25",
+        "news_link": "https://news.republika.co.id/berita/surej1472/meski-lagi-krisis-mahasiswa-ubsi-kampus-tasikmalaya-nggak-kehabisan-ide-usaha"
+    },
+    {
+        "title": "Menjalin Persahabatan karena Allah",
+        "category": "Khazanah",
+        "publish_time": "15-04-2025 12:20",
+        "news_link": "https://khazanah.republika.co.id/berita/sureb2458/menjalin-persahabatan-karena-allah"
+    },
+    {
+        "title": "Konsisten Berkarya, Jurnal Pariwisata UBSI Tembus Akreditasi SINTA 4",
+        "category": "News",
+        "publish_time": "15-04-2025 12:15",
+        "news_link": "https://news.republika.co.id/berita/sure20472/konsisten-berkarya-jurnal-pariwisata-ubsi-tembus-akreditasi-sinta-4"
+    },
+    {
+        "title": "Respons Kasus Dokter Cabuli Pasien di Garut, Unpad: Mengarah ke Alumni Program Spesialis",
+        "category": "News",
+        "publish_time": "15-04-2025 12:11",
+        "news_link": "https://news.republika.co.id/berita/surckj409/respons-kasus-dokter-cabuli-pasien-di-garut-unpad-mengarah-ke-alumni-program-spesialis"
+    },
+    {
+        "title": "Perspektif Dosen dan Praktisi Tentang Peran TIK dalam Transformasi Digital",
+        "category": "News",
+        "publish_time": "15-04-2025 12:06",
+        "news_link": "https://news.republika.co.id/berita/surdmz472/perspektif-dosen-dan-praktisi-tentang-peran-tik-dalam-transformasi-digital"
+    },
+    {
+        "title": "Mengenal Kuliner Neraka, Buah Zaqqum",
+        "category": "Khazanah",
+        "publish_time": "15-04-2025 12:05",
+        "news_link": "https://khazanah.republika.co.id/berita/surdm2458/mengenal-kuliner-neraka-buah-zaqqum"
+    },
+    {
+        "title": "Danantara Gandeng Investasi Qatar 4 Miliar Dolas AS, Ini Sektor yang Diincar",
+        "category": "Ekonomi",
+        "publish_time": "15-04-2025 12:04",
+        "news_link": "https://ekonomi.republika.co.id/berita/surcj1490/danantara-gandeng-investasi-qatar-4-miliar-dolas-as-ini-sektor-yang-diincar"
+    },
+    {
+        "title": "Mengubah Pakaian Bekas Jadi Produk Ramah Lingkungan Bernilai Tinggi",
+        "category": "Visual",
+        "publish_time": "15-04-2025 11:59",
+        "news_link": "https://visual.republika.co.id/berita/surbhm375/mengubah-pakaian-bekas-jadi-produk-ramah-lingkungan-bernilai-tinggi"
+    },
+    {
+        "title": "Pramono Segera Lanjutkan Normalisasi Kali Ciliwung",
+        "category": "News",
+        "publish_time": "15-04-2025 11:57",
+        "news_link": "https://news.republika.co.id/berita/surd8g416/pramono-segera-lanjutkan-normalisasi-kali-ciliwung"
+    },
+    {
+        "title": "Update Pemulangan Paulus Tannos, Menkum: Singapura Minta Dokumen Lagi",
+        "category": "News",
+        "publish_time": "15-04-2025 11:52",
+        "news_link": "https://news.republika.co.id/berita/surd00484/update-pemulangan-paulus-tannos-menkum-singapura-minta-dokumen-lagi"
+    },
+    {
+        "title": "Taufik Hidayat Isyaratkan Degradasi Atlet Pelatnas Cipayung Usai Nirgelar di BAC 2025",
+        "category": "News",
+        "publish_time": "15-04-2025 11:50",
+        "news_link": "https://news.republika.co.id/berita/suradx409/taufik-hidayat-isyaratkan-degradasi-atlet-pelatnas-cipayung-usai-nirgelar-di-bac-2025"
+    },
+    {
+        "title": "Badan Pangan Dorong Intervensi Terukur Kendalikan Inflasi",
+        "category": "Ekonomi",
+        "publish_time": "15-04-2025 11:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/surcw8416/badan-pangan-dorong-intervensi-terukur-kendalikan-inflasi"
+    },
+    {
+        "title": "Menkum Apresiasi Kinerja Ditjen AHU Tuntaskan 2,9 Juta Permohonan",
+        "category": "News",
+        "publish_time": "15-04-2025 11:44",
+        "news_link": "https://news.republika.co.id/berita/surcma484/menkum-apresiasi-kinerja-ditjen-ahu-tuntaskan-29-juta-permohonan"
+    },
+    {
+        "title": "BMKG Sebut Bulan Ini Masih Rawan Hujan Lebat dan Cuaca Ekstrem",
+        "category": "News",
+        "publish_time": "15-04-2025 11:42",
+        "news_link": "https://news.republika.co.id/berita/surcjj416/bmkg-sebut-bulan-ini-masih-rawan-hujan-lebat-dan-cuaca-ekstrem"
+    },
+    {
+        "title": "Soal Pelecehan Dokter Obgyn Garut, Kementerian PPPA Koordinasi dengan Pemda",
+        "category": "Ameera",
+        "publish_time": "15-04-2025 11:41",
+        "news_link": "https://ameera.republika.co.id/berita/surci2425/soal-pelecehan-dokter-obgyn-garut-kementerian-pppa-koordinasi-dengan-pemda"
+    },
+    {
+        "title": "Bahlil Siapkan Insentif untuk Mobil Hidrogen, Ini Syaratnya",
+        "category": "Ekonomi",
+        "publish_time": "15-04-2025 11:32",
+        "news_link": "https://ekonomi.republika.co.id/berita/surc2m490/bahlil-siapkan-insentif-untuk-mobil-hidrogen-ini-syaratnya"
+    },
+    {
+        "title": "Temui Jokowi Saat Idul Fitri, Bahlil: Semua Menteri di Bawah Perintah Prabowo",
+        "category": "Ekonomi",
+        "publish_time": "15-04-2025 11:27",
+        "news_link": "https://ekonomi.republika.co.id/berita/surbok490/temui-jokowi-saat-idul-fitri-bahlil-semua-menteri-di-bawah-perintah-prabowo"
+    },
+    {
+        "title": "Buang Sampah Sembarangan di Kota Bandung Bisa Dijerat Hukum",
+        "category": "Network",
+        "publish_time": "15-04-2025 11:27",
+        "news_link": "https://bandung24jam.id/posts/518344/buang-sampah-sembarangan-di-kota-bandung-bisa-dijerat-hukum"
+    },
+    {
+        "title": "Harganya Capai Rp 20 Juta, Ratusan Nelayan Cumi di Indramayu Tolak VMS",
+        "category": "Rejabar",
+        "publish_time": "15-04-2025 11:27",
+        "news_link": "https://rejabar.republika.co.id/berita/surbgj512/harganya-capai-rp-20-juta-ratusan-nelayan-cumi-di-indramayu-tolak-vms"
+    },
+    {
+        "title": "Jin BTS Siap Hadirkan Gema Kehidupan Lewat Album Echo",
+        "category": "Network",
+        "publish_time": "15-04-2025 11:27",
+        "news_link": "https://chingudeul.republika.co.id/posts/518303/jin-bts-siap-hadirkan-gema-kehidupan-lewat-album-echo"
+    },
+    {
+        "title": "Trump Bahas Tarif Semikonduktor, Rupiah Bergerak Melemah",
+        "category": "Ekonomi",
+        "publish_time": "15-04-2025 11:27",
+        "news_link": "https://ekonomi.republika.co.id/berita/surb7d490/trump-bahas-tarif-semikonduktor-rupiah-bergerak-melemah"
+    },
+    {
         "title": "Jepang akan Negosiasi Tarif dengan AS Pekan Ini",
         "category": "Ekonomi",
-        "publish_time": "15-04-2025 11:09",
+        "publish_time": "15-04-2025 11:27",
         "news_link": "https://ekonomi.republika.co.id/berita/surb14423/jepang-akan-negosiasi-tarif-dengan-as-pekan-ini"
     },
     {
         "title": "Sentimen Positif Menaungi Bursa, IHSG Menguat!",
         "category": "Ekonomi",
-        "publish_time": "15-04-2025 11:08",
+        "publish_time": "15-04-2025 11:27",
         "news_link": "https://ekonomi.republika.co.id/berita/surazb490/sentimen-positif-menaungi-bursa-ihsg-menguat"
     },
     {
         "title": "Di Hadapan Satgas Yonif 501, YSA Tobat Jadi OPM, Sekarang Komitmen Bela NKRI",
         "category": "News",
-        "publish_time": "15-04-2025 11:07",
+        "publish_time": "15-04-2025 11:27",
         "news_link": "https://news.republika.co.id/berita/suraxl451/di-hadapan-satgas-yonif-501-ysa-tobat-jadi-opm-sekarang-komitmen-bela-nkri"
     },
     {
         "title": "Aksi Tuntut Penyelesaian Kasus Pembunuhan Tokoh Adat Dayak",
         "category": "Visual",
-        "publish_time": "15-04-2025 11:02",
+        "publish_time": "15-04-2025 11:27",
         "news_link": "https://visual.republika.co.id/berita/suraoa375/aksi-tuntut-penyelesaian-kasus-pembunuhan-tokoh-adat-dayak"
     },
     {
         "title": "Turbulensi Global tak Halangi Kebangkitan Industri Halal",
         "category": "Ekonomi Syariah",
-        "publish_time": "15-04-2025 11:01",
+        "publish_time": "15-04-2025 11:27",
         "news_link": "https://sharia.republika.co.id/berita/surano423/turbulensi-global-tak-halangi-kebangkitan-industri-halal"
     },
     {
         "title": "Soal Dokter Cabul Lecehkan Pasien di Garut, Dedi Mulyadi Minta Izin Praktiknya Dicabut",
         "category": "Rejabar",
-        "publish_time": "15-04-2025 11:01",
+        "publish_time": "15-04-2025 11:27",
         "news_link": "https://rejabar.republika.co.id/berita/suramj512/soal-dokter-cabul-lecehkan-pasien-di-garut-dedi-mulyadi-minta-izin-praktiknya-dicabut"
     },
     {
         "title": "Polemik Ijazah Palsu, UGM Siap Buka Seluruh Dokumen Akademik Jokowi",
         "category": "Rejogja",
-        "publish_time": "15-04-2025 10:55",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://rejogja.republika.co.id/berita/suradt282/polemik-ijazah-palsu-ugm-siap-buka-seluruh-dokumen-akademik-jokowi"
     },
     {
         "title": "Penyidik KPK Dikawal Polisi Geledah Kantor KONi Jatim di Surabaya",
         "category": "News",
-        "publish_time": "15-04-2025 10:54",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/surabm484/penyidik-kpk-dikawal-polisi-geledah-kantor-koni-jatim-di-surabaya"
     },
     {
         "title": "2 Rahasia Bocor Sebabkan Anggota Shin Bet Ditangkap, Salah Satunya tentang Teroris Yahudi",
         "category": "News",
-        "publish_time": "15-04-2025 10:53",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/suraaa451/2-rahasia-bocor-sebabkan-anggota-shin-bet-ditangkap-salah-satunya-tentang-teroris-yahudi"
     },
     {
         "title": "Masuk Surga Berkat Utang",
         "category": "Khazanah",
-        "publish_time": "15-04-2025 10:48",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://khazanah.republika.co.id/berita/sura1t483/masuk-surga-berkat-utang"
     },
     {
         "title": "Bintang Voli Putri Dunia Asal AS Perkuat Jakarta Pertamina Enduro di Final Four Proliga",
         "category": "News",
-        "publish_time": "15-04-2025 10:46",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/sur9ya409/bintang-voli-putri-dunia-asal-as-perkuat-jakarta-pertamina-enduro-di-final-four-proliga"
     },
     {
         "title": "Pengamat Sebut Tarif Trump Picu Turunnya Keyakinan Konsumen",
         "category": "Ekonomi",
-        "publish_time": "15-04-2025 10:44",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://ekonomi.republika.co.id/berita/sur9ve423/pengamat-sebut-tarif-trump-picu-turunnya-keyakinan-konsumen"
     },
     {
         "title": "Penghormatan Terakhir untuk Abdullah Ahmad Badawi",
         "category": "News",
-        "publish_time": "15-04-2025 10:43",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/sur9tx484/penghormatan-terakhir-untuk-abdullah-ahmad-badawi"
     },
     {
         "title": "Megawati Ungkap Alasan tak Perpanjang Kontrak di Red Sparks",
         "category": "News",
-        "publish_time": "15-04-2025 10:40",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/sur9no409/megawati-ungkap-alasan-tak-perpanjang-kontrak-di-red-sparks"
     },
     {
         "title": "Satu Baru Masuk Indonesia, Analis: Tiga Perusahaan Otomotif China Ini Terancam Bangkrut",
         "category": "Ekonomi",
-        "publish_time": "15-04-2025 10:37",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://ekonomi.republika.co.id/berita/sur9j2468/satu-baru-masuk-indonesia-analis-tiga-perusahaan-otomotif-china-ini-terancam-bangkrut"
     },
     {
         "title": "Pelecehan Guru Besar UGM Cerminan Kekuasaan yang Menyimpang",
         "category": "Rejogja",
-        "publish_time": "15-04-2025 10:36",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://rejogja.republika.co.id/berita/sur9gt282/pelecehan-guru-besar-ugm-cerminan-kekuasaan-yang-menyimpang"
     },
     {
         "title": "Lion Air Siapkan 5 Pesawat Berbadan\u00a0Lebar Layani Penerbangan Haji 2025",
         "category": "Ekonomi",
-        "publish_time": "15-04-2025 10:33",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://ekonomi.republika.co.id/berita/sur9c3423/lion-air-siapkan-5-pesawat-berbadanlebar-layani-penerbangan-haji-2025"
     },
     {
         "title": "Menteri Karding Ungkap Ada 80 Pekerja Indonesia Ilegal di Kamboja",
         "category": "News",
-        "publish_time": "15-04-2025 10:31",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/sur98j484/menteri-karding-ungkap-ada-80-pekerja-indonesia-ilegal-di-kamboja"
     },
     {
@@ -116,187 +248,55 @@
     {
         "title": "Kebumen Jadi Destinasi Wisata Dunia Gegara Satu Objek Wisata ini",
         "category": "Rejogja",
-        "publish_time": "15-04-2025 10:25",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://rejogja.republika.co.id/berita/sur8zm451/kebumen-jadi-destinasi-wisata-dunia-gegara-satu-objek-wisata-ini"
     },
     {
         "title": "Harga Tembus Rp 1,89 Juta per Gram, BSI Dorong Emas Jadi Investasi Utama",
         "category": "Ekonomi",
-        "publish_time": "15-04-2025 10:25",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://ekonomi.republika.co.id/berita/sur8yr423/harga-tembus-rp-189-juta-per-gram-bsi-dorong-emas-jadi-investasi-utama"
     },
     {
         "title": "Bertemu Wakil PM Rusia, Prabowo Diundang Hadiri Forum Ekonomi St Petersburg",
         "category": "News",
-        "publish_time": "15-04-2025 10:25",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/sur8yl484/bertemu-wakil-pm-rusia-prabowo-diundang-hadiri-forum-ekonomi-st-petersburg"
     },
     {
         "title": "KLH Dukung Bali Larang Air Minum Kemasan Kecil",
         "category": "Esgnow",
-        "publish_time": "15-04-2025 10:24",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://esgnow.republika.co.id/berita/sur8xj416/klh-dukung-bali-larang-air-minum-kemasan-kecil"
     },
     {
         "title": "Laporan: Meta Penuhi 94 Persen Penghapusan Konten Anti Israel",
         "category": "Khazanah",
-        "publish_time": "15-04-2025 10:21",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://khazanah.republika.co.id/berita/sur8t9483/laporan-meta-penuhi-94-persen-penghapusan-konten-anti-israel"
     },
     {
         "title": "Bahas Kesiapan Hunian KSB, Jakpro Temui Warga Kampung Bayam",
         "category": "News",
-        "publish_time": "15-04-2025 10:11",
+        "publish_time": "15-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/sur7rn487/bahas-kesiapan-hunian-ksb-jakpro-temui-warga-kampung-bayam"
     },
     {
         "title": "'Jagalah Dirimu dan Keluargamu dari Api Neraka'",
         "category": "Khazanah",
-        "publish_time": "15-04-2025 10:11",
+        "publish_time": "15-04-2025 09:27",
         "news_link": "https://khazanah.republika.co.id/berita/sur7l1458/jagalah-dirimu-dan-keluargamu-dari-api-neraka"
     },
     {
         "title": "Gertakan Kebijakan Tarif Donald Trump yang Mulai Mengendur",
         "category": "Ekonomi",
-        "publish_time": "15-04-2025 10:11",
+        "publish_time": "15-04-2025 09:27",
         "news_link": "https://ekonomi.republika.co.id/berita/sur7ij409/gertakan-kebijakan-tarif-donald-trump-yang-mulai-mengendur"
     },
     {
         "title": "Pertamina, Hyundai Motor Group, dan Pemprov Jawa Barat Kembangkan Proyek Waste-to-Hydrogen",
         "category": "Ekonomi",
-        "publish_time": "15-04-2025 10:11",
+        "publish_time": "15-04-2025 09:27",
         "news_link": "https://ekonomi.republika.co.id/berita/sur7bf472/pertamina-hyundai-motor-group-dan-pemprov-jawa-barat-kembangkan-proyek-wastetohydrogen"
-    },
-    {
-        "title": "Tiga Cara Memelihara Silaturahim",
-        "category": "Khazanah",
-        "publish_time": "15-04-2025 10:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sur74y458/tiga-cara-memelihara-silaturahim"
-    },
-    {
-        "title": "Gubernur Pramono Masih Kaji Nama Pengganti untuk Bank DKI, Ini Opsi yang Muncul",
-        "category": "News",
-        "publish_time": "15-04-2025 10:11",
-        "news_link": "https://news.republika.co.id/berita/sur728487/gubernur-pramono-masih-kaji-nama-pengganti-untuk-bank-dki-ini-opsi-yang-muncul"
-    },
-    {
-        "title": "Jin BTS Siap Hadirkan Gema Kehidupan Lewat Album Echo",
-        "category": "Network",
-        "publish_time": "15-04-2025 10:11",
-        "news_link": "https://chingudeul.republika.co.id/posts/518303/jin-bts-siap-hadirkan-gema-kehidupan-lewat-album-echo"
-    },
-    {
-        "title": "5 Drama Korea yang Mengajarkan Kita untuk Tumaninah dan Menyembuhkan Diri",
-        "category": "Network",
-        "publish_time": "15-04-2025 10:11",
-        "news_link": "https://chingudeul.republika.co.id/posts/518336/5-drama-korea-yang-mengajarkan-kita-untuk-tumaninah-dan-menyembuhkan-diri"
-    },
-    {
-        "title": "Kantung Renang Ikan Menginspirasi Pengobatan Perbaikan Jantung",
-        "category": "Network",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://impresiupdate.id/posts/518291/kantung-renang-ikan-menginspirasi-pengobatan-perbaikan-jantung"
-    },
-    {
-        "title": "Mengapa Perlu Memperingati Wafatnya Seseorang? Ini Alasannya",
-        "category": "Network",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://sajada.id/posts/518314/mengapa-perlu-memperingati-wafatnya-seseorang-ini-alasannya"
-    },
-    {
-        "title": "Pagar Laut Masih Berdiri, Nelayan Bekasi Keluhkan Sulitnya Melaut",
-        "category": "Network",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://ruzkaindonesia.id/posts/518332/pagar-laut-masih-berdiri-nelayan-bekasi-keluhkan-sulitnya-melaut"
-    },
-    {
-        "title": "Jarak Tempuh 210 Km, Geely Luncurkan Panda Mini EV Seharga Rp 115 Juta",
-        "category": "Ekonomi",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sur6wo468/jarak-tempuh-210-km-geely-luncurkan-panda-mini-ev-seharga-rp-115-juta"
-    },
-    {
-        "title": "Armageddon, Perang Dahsyat yang Jadi Tanda Kiamat",
-        "category": "Khazanah",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sur6re458/armageddon-perang-dahsyat-yang-jadi-tanda-kiamat"
-    },
-    {
-        "title": "Tepis Isu Dugaan Ijazah Palsu Jokowi, UGM Siap Jadi Saksi\u00a0di Pengadilan",
-        "category": "Rejogja",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://rejogja.republika.co.id/berita/sur6dv291/tepis-isu-dugaan-ijazah-palsu-jokowi-ugm-siap-jadi-saksidi-pengadilan"
-    },
-    {
-        "title": "KKI Diminta Segera Nonaktifkan STR Dokter yang Diduga Lecehkan Pasien di Garut",
-        "category": "News",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/sur6dd487/kki-diminta-segera-nonaktifkan-str-dokter-yang-diduga-lecehkan-pasien-di-garut"
-    },
-    {
-        "title": "BNN Konsultasikan Isu Legalisasi Ganja dan Kratom, Menteri HAM Menolak Tegas",
-        "category": "News",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/sur69x409/bnn-konsultasikan-isu-legalisasi-ganja-dan-kratom-menteri-ham-menolak-tegas"
-    },
-    {
-        "title": "Jajak Pendapat di Israel: 49 Persen Percaya Hamas Kuat, Mustahil Digulingkan",
-        "category": "News",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/sur61q451/jajak-pendapat-di-israel-49-persen-percaya-hamas-kuat-mustahil-digulingkan"
-    },
-    {
-        "title": "Bung Kus: Kekalahan Timnas U-17 Sadarkan Kita Masih Banyak Kekurangan Menuju Piala Dunia",
-        "category": "News",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/sur5o3348/bung-kus-kekalahan-timnas-u17-sadarkan-kita-masih-banyak-kekurangan-menuju-piala-dunia"
-    },
-    {
-        "title": "RS As Shifa Gaza Kesulitan Rawat Pasien Usai Israel Bom RS Al Ahli Baptist",
-        "category": "Khazanah",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sur5ni483/rs-as-shifa-gaza-kesulitan-rawat-pasien-usai-israel-bom-rs-al-ahli-baptist"
-    },
-    {
-        "title": "Dua Geopark Indonesia Ditetapkan Sebagai UNESCO Global Geoparks",
-        "category": "Esgnow",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://esgnow.republika.co.id/berita/sur5m7416/dua-geopark-indonesia-ditetapkan-sebagai-unesco-global-geoparks"
-    },
-    {
-        "title": "Pakar Sebut Hukuman untuk Hakim Penerima Suap Harus Diperberat, Ini Usulannya",
-        "category": "News",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/sur57f487/pakar-sebut-hukuman-untuk-hakim-penerima-suap-harus-diperberat-ini-usulannya"
-    },
-    {
-        "title": "Kawasan Blok M Jakarta Bersolek, Siap Jadi Ibu Kota ASEAN",
-        "category": "Visual",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://visual.republika.co.id/berita/sur49w375/kawasan-blok-m-jakarta-bersolek-siap-jadi-ibu-kota-asean"
-    },
-    {
-        "title": "Gawat, Lahan Sawah Dilindungi di Bandung Menyusut Drastis",
-        "category": "Rejabar",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sur4so282/gawat-lahan-sawah-dilindungi-di-bandung-menyusut-drastis"
-    },
-    {
-        "title": "Menteri LH Ungkap Daya Dukung Alam Kritis, Pulau Jawa di Ambang Krisis Air Bersih",
-        "category": "Esgnow",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://esgnow.republika.co.id/berita/sur4lj416/menteri-lh-ungkap-daya-dukung-alam-kritis-pulau-jawa-di-ambang-krisis-air-bersih"
-    },
-    {
-        "title": "Roy Suryo Cs Minta UGM tak Tutupi Dugaan Ijazah Palsu Jokowi",
-        "category": "Rejogja",
-        "publish_time": "15-04-2025 09:11",
-        "news_link": "https://rejogja.republika.co.id/berita/sur46v291/roy-suryo-cs-minta-ugm-tak-tutupi-dugaan-ijazah-palsu-jokowi"
-    },
-    {
-        "title": "Unai Emery: Aston Villa Harus Manfaatkan Keunggulan Kandang Lawan PSG",
-        "category": "News",
-        "publish_time": "15-04-2025 08:11",
-        "news_link": "https://news.republika.co.id/berita/sur3ye348/unai-emery-aston-villa-harus-manfaatkan-keunggulan-kandang-lawan-psg"
     }
 ]
