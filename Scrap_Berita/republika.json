@@ -1,5 +1,11 @@
 [
     {
+        "title": "TikTok, Trump dan Tiongkok",
+        "category": "Kolom",
+        "publish_time": "20 April 2025, 02:30",
+        "news_link": "https://analisis.republika.co.id/berita/suzcua475/tiktok-trump-dan-tiongkok"
+    },
+    {
         "title": "Gambar SUV Hibrid BYD yang Bisa Mengapung di Air Ini Sudah Beredar Sebelum Debut",
         "category": "Ekonomi",
         "publish_time": "20 April 2025, 01:16",
@@ -216,16 +222,16 @@
         "news_link": "https://news.republika.co.id/berita/suymwu456/kahf-iaitb-cup-2025-championship-jadi-ajang-inovasi-lintas-generasi-satu-lapangan"
     },
     {
-        "title": "Kebakaran Hutan Amazon Ancam Es Kutub Selatan",
-        "category": "Esgnow",
-        "publish_time": "19 April 2025, 17:00",
-        "news_link": "https://esgnow.republika.co.id/berita/suyanc416/kebakaran-hutan-amazon-ancam-es-kutub-selatan"
-    },
-    {
         "title": "Ilmuwan Inggris Kembangkan Teknologi Baru Penangkap Karbon dari Laut",
         "category": "Esgnow",
         "publish_time": "19 April 2025, 17:00",
         "news_link": "https://esgnow.republika.co.id/berita/suy9ow416/ilmuwan-inggris-kembangkan-teknologi-baru-penangkap-karbon-dari-laut"
+    },
+    {
+        "title": "Kebakaran Hutan Amazon Ancam Es Kutub Selatan",
+        "category": "Esgnow",
+        "publish_time": "19 April 2025, 17:00",
+        "news_link": "https://esgnow.republika.co.id/berita/suyanc416/kebakaran-hutan-amazon-ancam-es-kutub-selatan"
     },
     {
         "title": "Pemerintah Tutup Ratusan Lokasi Pembuangan Sampah Terbuka",
@@ -292,11 +298,5 @@
         "category": "Esgnow",
         "publish_time": "19 April 2025, 15:00",
         "news_link": "https://esgnow.republika.co.id/berita/suxzmh416/pemkab-agam-luncurkan-program-sedekah-sampah-libatkan-masjid-sebagai-pusat-gerakan-hijau"
-    },
-    {
-        "title": "Lebih dari 100 Ribu Visa Jamaah Haji Telah Keluar",
-        "category": "Khazanah",
-        "publish_time": "19 April 2025, 14:59",
-        "news_link": "https://khazanah.republika.co.id/berita/suygv3377/lebih-dari-100-ribu-visa-jamaah-haji-telah-keluar"
     }
 ]
