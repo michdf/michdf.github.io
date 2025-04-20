@@ -1,5 +1,89 @@
 [
     {
+        "title": "PSI Jabar Optimistis Pemilu 2029 akan Bersinar",
+        "category": "Rejabar",
+        "publish_time": "20 April 2025, 18:04",
+        "news_link": "https://rejabar.republika.co.id/berita/sv0k2s472/psi-jabar-optimistis-pemilu-2029-akan-bersinar"
+    },
+    {
+        "title": "CIMB Niaga Tawarkan Kartini Loan untuk Pengusaha Perempuan",
+        "category": "Ekonomi",
+        "publish_time": "20 April 2025, 17:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/sv0jqf490/cimb-niaga-tawarkan-kartini-loan-untuk-pengusaha-perempuan"
+    },
+    {
+        "title": "Sempat Unggul dan Berbalik Tertinggal, Persita Akhirnya Kalahkan Arema 3-2",
+        "category": "News",
+        "publish_time": "20 April 2025, 17:53",
+        "news_link": "https://news.republika.co.id/berita/sv0jl5409/sempat-unggul-dan-berbalik-tertinggal-persita-akhirnya-kalahkan-arema-32"
+    },
+    {
+        "title": "Proses Pengambilan Formulir Ketum Tidar Berjalan Lancar",
+        "category": "Rejakarta",
+        "publish_time": "20 April 2025, 17:49",
+        "news_link": "https://republika.co.id/berita//sv0je6456/proses-pengambilan-formulir-ketum-tidar-berjalan-lancar"
+    },
+    {
+        "title": "GP Ansor Gaungkan Patriot Ketahanan Pangan Jelang Puncak Harlah ke-91",
+        "category": "Khazanah",
+        "publish_time": "20 April 2025, 17:45",
+        "news_link": "https://khazanah.republika.co.id/berita/sv0j8a320/gp-ansor-gaungkan-patriot-ketahanan-pangan-jelang-puncak-harlah-ke91"
+    },
+    {
+        "title": "Volatilitas Bitcoin Cerminan Reaksi Pasar pada Kebijakan AS",
+        "category": "Ekonomi",
+        "publish_time": "20 April 2025, 17:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/sv0iyi490/volatilitas-bitcoin-cerminan-reaksi-pasar-pada-kebijakan-as"
+    },
+    {
+        "title": "Semarak Parade Hari Kartini di Bundaran HI",
+        "category": "Visual",
+        "publish_time": "20 April 2025, 17:39",
+        "news_link": "https://visual.republika.co.id/berita/sv0ixn375/semarak-parade-hari-kartini-di-bundaran-hi"
+    },
+    {
+        "title": "PAN Persilakan Prabowo Nyapres Kembali, Wapresnya Nanti Dulu",
+        "category": "News",
+        "publish_time": "20 April 2025, 17:38",
+        "news_link": "https://news.republika.co.id/berita/sv0ivz393/pan-persilakan-prabowo-nyapres-kembali-wapresnya-nanti-dulu"
+    },
+    {
+        "title": "Polisi Bakal Sikat Debt Collector yang Bikin Resah Pengendara di Cimahi-KBB",
+        "category": "Rejabar",
+        "publish_time": "20 April 2025, 17:36",
+        "news_link": "https://rejabar.republika.co.id/berita/sv0isv512/polisi-bakal-sikat-debt-collector-yang-bikin-resah-pengendara-di-cimahikbb"
+    },
+    {
+        "title": "PCINU Yordania Salurkan Bantuan untuk Warga Gaza yang Mengungsi di Perbatasan",
+        "category": "Khazanah",
+        "publish_time": "20 April 2025, 17:33",
+        "news_link": "https://khazanah.republika.co.id/berita/sv0inf320/pcinu-yordania-salurkan-bantuan-untuk-warga-gaza-yang-mengungsi-di-perbatasan"
+    },
+    {
+        "title": "Puluhan Pejabat ASN Cimahi Digembleng Ala Militer, Wali Kota: Supaya tak Salah Jalan",
+        "category": "Rejabar",
+        "publish_time": "20 April 2025, 17:32",
+        "news_link": "https://rejabar.republika.co.id/berita/sv0img512/puluhan-pejabat-asn-cimahi-digembleng-ala-militer-wali-kota-supaya-tak-salah-jalan"
+    },
+    {
+        "title": "Program Makan Bergizi Gratis Serap Produksi Sapi Perah Lokal di Cimahi",
+        "category": "Ekonomi",
+        "publish_time": "20 April 2025, 17:32",
+        "news_link": "https://ekonomi.republika.co.id/berita/sv0im4490/program-makan-bergizi-gratis-serap-produksi-sapi-perah-lokal-di-cimahi"
+    },
+    {
+        "title": "Satu Orang Meninggal Dunia Akibat Banjir Bandang di Palabuhanratu Sukabumi",
+        "category": "Rejabar",
+        "publish_time": "20 April 2025, 17:25",
+        "news_link": "https://rejabar.republika.co.id/berita/sv0iaj512/satu-orang-meninggal-dunia-akibat-banjir-bandang-di-palabuhanratu-sukabumi"
+    },
+    {
+        "title": "Ada Kebijakan Tarif Impor AS, Toko Elektronik di Bandung Masih Optimistis Penjualan Tumbuh",
+        "category": "Rejabar",
+        "publish_time": "20 April 2025, 17:20",
+        "news_link": "https://rejabar.republika.co.id/berita/sv0i2a512/ada-kebijakan-tarif-impor-as-toko-elektronik-di-bandung-masih-optimistis-penjualan-tumbuh"
+    },
+    {
         "title": "Ciri-ciri Orang Fasik",
         "category": "Khazanah",
         "publish_time": "20 April 2025, 17:13",
@@ -40,6 +124,42 @@
         "category": "Ameera",
         "publish_time": "20 April 2025, 16:44",
         "news_link": "https://ameera.republika.co.id/berita/sv0gea370/keanu-reeves-akan-berperan-sebagai-penjahat-di-film-terbaru-weezer"
+    },
+    {
+        "title": "Sejumlah Ulama, Tokoh, hingga Ketua MPR Ahmad Muzani Hadiri Halal Bihalal DH",
+        "category": "Network",
+        "publish_time": "20 April 2025, 16:42",
+        "news_link": "https://bandung24jam.id/posts/518894/sejumlah-ulama-tokoh-hingga-ketua-mpr-ahmad-muzani-hadiri-halal-bihalal-dh"
+    },
+    {
+        "title": "Heboh Bau Menyengat Mirip Gas di Bekasi: BPBD Masih Telusuri Sumber Penyebabnya",
+        "category": "Network",
+        "publish_time": "20 April 2025, 16:42",
+        "news_link": "https://topnews62.com/posts/518930/heboh-bau-menyengat-mirip-gas-di-bekasi-bpbd-masih-telusuri-sumber-penyebabnya"
+    },
+    {
+        "title": "Badai Es di Jupiter Melontarkan Bola-Bola Es Raksasa Berisi Amonia dan Air",
+        "category": "Network",
+        "publish_time": "20 April 2025, 16:42",
+        "news_link": "https://impresiupdate.id/posts/518931/badai-es-di-jupiter-melontarkan-bola-bola-es-raksasa-berisi-amonia-dan-air"
+    },
+    {
+        "title": "Benarkah Obat Kumur Bisa Meningkatkan Tekanan Darah?",
+        "category": "Network",
+        "publish_time": "20 April 2025, 16:42",
+        "news_link": "https://impresiupdate.id/posts/518933/benarkah-obat-kumur-bisa-meningkatkan-tekanan-darah-"
+    },
+    {
+        "title": "Puluhan Ribu Massa Mengikuti Aksi Soilidaritas Palestina",
+        "category": "Network",
+        "publish_time": "20 April 2025, 16:41",
+        "news_link": "https://bandung24jam.id/posts/518946/puluhan-ribu-massa-mengikuti-aksi-soilidaritas-palestina"
+    },
+    {
+        "title": "Puluhan Ribu Massa Mengikuti Aksi Soilidaritas Palestina",
+        "category": "Network",
+        "publish_time": "20 April 2025, 16:41",
+        "news_link": "https://bandung24jam.id/posts/518946/puluhan-ribu-massa-mengikuti-aksi-soilidaritas-palestina"
     },
     {
         "title": "Program Studi Manajemen UNM Lahirkan Pemimpin Bisnis Masa Depan",
@@ -178,125 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "20 April 2025, 14:57",
         "news_link": "https://ekonomi.republika.co.id/berita/sv0bfj490/negosiasi-tarif-perdagangan-dengan-as-airlangga-mengaku-suasana-cair"
-    },
-    {
-        "title": "Mencegah Maksiat, Mendekatkan Diri kepada Allah",
-        "category": "Khazanah",
-        "publish_time": "20 April 2025, 14:53",
-        "news_link": "https://khazanah.republika.co.id/berita/sv0b9u458/mencegah-maksiat-mendekatkan-diri-kepada-allah"
-    },
-    {
-        "title": "Umat Kristen yang Ingin Rayakan Sabtu Suci di Yerusalem Diblokir oleh Israel",
-        "category": "News",
-        "publish_time": "20 April 2025, 14:53",
-        "news_link": "https://news.republika.co.id/berita/sv0b9h409/umat-kristen-yang-ingin-rayakan-sabtu-suci-di-yerusalem-diblokir-oleh-israel"
-    },
-    {
-        "title": "Tiga Peracik Tembakau Sintetis Samarkan Lokasi Home Industry Narkoba di Pemukiman Padat",
-        "category": "Rejabar",
-        "publish_time": "20 April 2025, 14:53",
-        "news_link": "https://rejabar.republika.co.id/berita/sv0b8x512/tiga-peracik-tembakau-sintetis-samarkan-lokasi-home-industry-narkoba-di-pemukiman-padat"
-    },
-    {
-        "title": "Permohonan Uji Materiil Perpres Kantor Komunikasi Kepresidenan Diajukan ke MA",
-        "category": "News",
-        "publish_time": "20 April 2025, 14:50",
-        "news_link": "https://news.republika.co.id/berita/sv0b18430/permohonan-uji-materiil-perpres-kantor-komunikasi-kepresidenan-diajukan-ke-ma"
-    },
-    {
-        "title": "Gedung Tower 3 Asrama Haji Indramayu Diresmikan, Siap Melayani Jamaah Haji",
-        "category": "Rejabar",
-        "publish_time": "20 April 2025, 14:47",
-        "news_link": "https://rejabar.republika.co.id/berita/sv0azu512/gedung-tower-3-asrama-haji-indramayu-diresmikan-siap-melayani-jamaah-haji"
-    },
-    {
-        "title": "Trump Protes Sertifikasi Halal Indonesia, Kadin: Halal Adalah Kualitas!",
-        "category": "Ekonomi Syariah",
-        "publish_time": "20 April 2025, 14:44",
-        "news_link": "https://sharia.republika.co.id/berita/sv0auz490/trump-protes-sertifikasi-halal-indonesia-kadin-halal-adalah-kualitas"
-    },
-    {
-        "title": "Teladan Ali Bin Abi Thalib, Peduli pada Kaum Dhuafa",
-        "category": "Khazanah",
-        "publish_time": "20 April 2025, 14:44",
-        "news_link": "https://khazanah.republika.co.id/berita/sv0aud458/teladan-ali-bin-abi-thalib-peduli-pada-kaum-dhuafa"
-    },
-    {
-        "title": "Israel Larang Umat Kristen ke Gereja Makam Kudus",
-        "category": "Video",
-        "publish_time": "20 April 2025, 14:35",
-        "news_link": "https://tv.republika.co.id/berita/sv0af6313/israel-larang-umat-kristen-ke-gereja-makam-kudus"
-    },
-    {
-        "title": "Nasihat Rasulullah untuk Para Pemimpin",
-        "category": "Khazanah",
-        "publish_time": "20 April 2025, 14:35",
-        "news_link": "https://khazanah.republika.co.id/berita/sv0aej458/nasihat-rasulullah-untuk-para-pemimpin"
-    },
-    {
-        "title": "Hadiri Halalbihalal, Gubernur Pramono Apresiasi Kiprah Muhammadiyah Jakarta",
-        "category": "Khazanah",
-        "publish_time": "20 April 2025, 14:27",
-        "news_link": "https://khazanah.republika.co.id/berita/sv0a2b458/hadiri-halalbihalal-gubernur-pramono-apresiasi-kiprah-muhammadiyah-jakarta"
-    },
-    {
-        "title": "WNI Ditangkap Imigrasi AS, Korban Kebijakan Anti-Palestina Trump?",
-        "category": "News",
-        "publish_time": "20 April 2025, 14:24",
-        "news_link": "https://news.republika.co.id/berita/sv09x1393/wni-ditangkap-imigrasi-as-korban-kebijakan-antipalestina-trump"
-    },
-    {
-        "title": "Kedubes AS Didemo, Massa Aksi: Janji Allah Soal Kemerdekaan Palestina Makin di Depan Mata",
-        "category": "News",
-        "publish_time": "20 April 2025, 14:22",
-        "news_link": "https://news.republika.co.id/berita/sv09tf409/kedubes-as-didemo-massa-aksi-janji-allah-soal-kemerdekaan-palestina-makin-di-depan-mata"
-    },
-    {
-        "title": "BRICS Memiliki Peran Strategis dalam Perjuangan Mengatasi Perubahan Iklim",
-        "category": "News",
-        "publish_time": "20 April 2025, 14:20",
-        "news_link": "https://news.republika.co.id/berita/sv09q2451/brics-memiliki-peran-strategis-dalam-perjuangan-mengatasi-perubahan-iklim"
-    },
-    {
-        "title": "Polisi Indramayu Evakuasi Bocah Tenggelam di Sungai",
-        "category": "Rejabar",
-        "publish_time": "20 April 2025, 14:05",
-        "news_link": "https://rejabar.republika.co.id/berita/sv090l512/polisi-indramayu-evakuasi-bocah-tenggelam-di-sungai"
-    },
-    {
-        "title": "Tarif Trump Ancam UMKM Halal, Pemerintah Diminta Akselerasi Diplomasi Ekspor",
-        "category": "News",
-        "publish_time": "20 April 2025, 14:04",
-        "news_link": "https://news.republika.co.id/berita/sv08yt484/tarif-trump-ancam-umkm-halal-pemerintah-diminta-akselerasi-diplomasi-ekspor"
-    },
-    {
-        "title": "Sekda Jabar Sebut Efisiensi APBD 2025 Rp 5,1 Triliun untuk Berbagai Program Rakyat",
-        "category": "Rejabar",
-        "publish_time": "20 April 2025, 14:00",
-        "news_link": "https://rejabar.republika.co.id/berita/sv08td512/sekda-jabar-sebut-efisiensi-apbd-2025-rp-51-triliun-untuk-berbagai-program-rakyat"
-    },
-    {
-        "title": "Dirjen AHU Sosialisasikan KUHP Baru kepada 1.800 Siswa Secapa Polri",
-        "category": "News",
-        "publish_time": "20 April 2025, 13:50",
-        "news_link": "https://news.republika.co.id/berita/sv08bq484/dirjen-ahu-sosialisasikan-kuhp-baru-kepada-1800-siswa-secapa-polri"
-    },
-    {
-        "title": "Kapolres Indramayu Pimpin Langsung Pengamanan Konser Musik Rock 2025",
-        "category": "Rejabar",
-        "publish_time": "20 April 2025, 13:47",
-        "news_link": "https://rejabar.republika.co.id/berita/sv0878512/kapolres-indramayu-pimpin-langsung-pengamanan-konser-musik-rock-2025"
-    },
-    {
-        "title": "Child Grooming dan Pedofilia, Apa Bedanya?",
-        "category": "Ameera",
-        "publish_time": "20 April 2025, 13:40",
-        "news_link": "https://ameera.republika.co.id/berita/sv07v2370/child-grooming-dan-pedofilia-apa-bedanya"
-    },
-    {
-        "title": "KH Athian Ali Ajak Umat Islam Indonesia tak Berhenti Bantu Palestina",
-        "category": "Rejabar",
-        "publish_time": "20 April 2025, 13:37",
-        "news_link": "https://rejabar.republika.co.id/berita/sv07rb512/kh-athian-ali-ajak-umat-islam-indonesia-tak-berhenti-bantu-palestina"
     }
 ]
