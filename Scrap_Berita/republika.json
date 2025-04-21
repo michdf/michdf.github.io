@@ -1,302 +1,308 @@
 [
     {
+        "title": "Setiap Langkah Penuh Harapan, JKN Jadi Saksi Perjuangan Samsuriati Demi Suami dan Anak",
+        "category": "News",
+        "publish_time": "21-04-2025 09:15",
+        "news_link": "https://news.republika.co.id/berita/sv28f6368/setiap-langkah-penuh-harapan-jkn-jadi-saksi-perjuangan-samsuriati-demi-suami-dan-anak"
+    },
+    {
+        "title": "Dapat Titipan Tas Berisi Uang dari Hakim DJU, Satpam Pun Bertanya-tanya",
+        "category": "News",
+        "publish_time": "21-04-2025 10:14",
+        "news_link": "https://news.republika.co.id/berita/sv2cf7377/dapat-titipan-tas-berisi-uang-dari-hakim-dju-satpam-pun-bertanyatanya"
+    },
+    {
+        "title": "Religious Affairs Minister Mourns Pope Francis Dies: His Service is Unforgettable",
+        "category": "En",
+        "publish_time": "3 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/sv2ccg415/religious-affairs-minister-mourns-pope-francis-dies-his-service-is-unforgettable"
+    },
+    {
+        "title": "Paus Fransiskus Wafat, MUI: Dunia Kehilangan Sosok Cinta Damai",
+        "category": "Khazanah",
+        "publish_time": "21-04-2025 10:09",
+        "news_link": "https://khazanah.republika.co.id/berita/sv2c7c458/paus-fransiskus-wafat-mui-dunia-kehilangan-sosok-cinta-damai"
+    },
+    {
+        "title": "Viral Diskusi di UI Didatangi Dandim Depok, Ini Klarifikasi TNI AD",
+        "category": "News",
+        "publish_time": "21-04-2025 10:06",
+        "news_link": "https://news.republika.co.id/berita/sv2c2y409/viral-diskusi-di-ui-didatangi-dandim-depok-ini-klarifikasi-tni-ad"
+    },
+    {
+        "title": "Viral Warga Sakit Ditandu Gegara Jalan Rusak di Bandung Barat, Ini Kata Kades",
+        "category": "Rejabar",
+        "publish_time": "21-04-2025 10:05",
+        "news_link": "https://rejabar.republika.co.id/berita/sv2c0e512/viral-warga-sakit-ditandu-gegara-jalan-rusak-di-bandung-barat-ini-kata-kades"
+    },
+    {
+        "title": "Paus Fransiskus Wafat, Siapa Penggantinya?",
+        "category": "News",
+        "publish_time": "21-04-2025 09:54",
+        "news_link": "https://news.republika.co.id/berita/sv2bi1393/paus-fransiskus-wafat-siapa-penggantinya"
+    },
+    {
+        "title": "Pasarnya Terus Direbut BYD, Staf Penjualan Tesla Bekerja tanpa Libur dalam Sepekan",
+        "category": "Ekonomi",
+        "publish_time": "21-04-2025 09:51",
+        "news_link": "https://ekonomi.republika.co.id/berita/sv2bdv468/pasarnya-terus-direbut-byd-staf-penjualan-tesla-bekerja-tanpa-libur-dalam-sepekan"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok, 22 April 2025: Kota Denpasar, Bali dan Sekitarnya",
+        "category": "News",
+        "publish_time": "21-04-2025 09:49",
+        "news_link": "https://news.republika.co.id/berita/sv2ba31703775559/prakiraan-cuaca-besok-22-april-2025-kota-denpasar-bali-dan-sekitarnya"
+    },
+    {
+        "title": "Paus Fransiskus Wafat, Muhammadiyah Sampaikan Duka Cita",
+        "category": "Khazanah",
+        "publish_time": "21-04-2025 09:47",
+        "news_link": "https://khazanah.republika.co.id/berita/sv2b65458/paus-fransiskus-wafat-muhammadiyah-sampaikan-duka-cita"
+    },
+    {
+        "title": "Menag Nasaruddin Umar Berduka Paus Fransiskus Meninggal: Jasa Beliau tak Terlupakan",
+        "category": "Rejogja",
+        "publish_time": "21-04-2025 09:44",
+        "news_link": "https://rejogja.republika.co.id/berita/sv2b26282/menag-nasaruddin-umar-berduka-paus-fransiskus-meninggal-jasa-beliau-tak-terlupakan"
+    },
+    {
+        "title": "Di Mana Bukit Tursina Berada?",
+        "category": "Khazanah",
+        "publish_time": "21-04-2025 09:38",
+        "news_link": "https://khazanah.republika.co.id/berita/sv2arj458/di-mana-bukit-tursina-berada"
+    },
+    {
+        "title": "AC Milan Dilaporkan akan Pecat Sergio Conceicao Akhir Musim Ini",
+        "category": "News",
+        "publish_time": "21-04-2025 09:34",
+        "news_link": "https://news.republika.co.id/berita/sv2am1348/ac-milan-dilaporkan-akan-pecat-sergio-conceicao-akhir-musim-ini"
+    },
+    {
+        "title": "Kehadiran TNI di Sejumlah Kampus Jadi Polemik, Mensesneg akan Lakukan Penelusuran",
+        "category": "News",
+        "publish_time": "21-04-2025 09:31",
+        "news_link": "https://news.republika.co.id/berita/sv2agz409/kehadiran-tni-di-sejumlah-kampus-jadi-polemik-mensesneg-akan-lakukan-penelusuran"
+    },
+    {
+        "title": "Kata Kowani tentang Hari Kartini",
+        "category": "News",
+        "publish_time": "21-04-2025 09:29",
+        "news_link": "https://news.republika.co.id/berita/sv289k451/kata-kowani-tentang-hari-kartini"
+    },
+    {
+        "title": "Jajanan Anak Bersertifikasi Halal Mengandung Babi, IHW: UU JPH Harus Ditegakkan",
+        "category": "Khazanah",
+        "publish_time": "21-04-2025 09:26",
+        "news_link": "https://khazanah.republika.co.id/berita/sv2a8m430/jajanan-anak-bersertifikasi-halal-mengandung-babi-ihw-uu-jph-harus-ditegakkan"
+    },
+    {
+        "title": "Polda Jatim Benarkan Anggota Polres Pacitan Diduga Perkosa Tahanan Wanita",
+        "category": "News",
+        "publish_time": "21-04-2025 09:24",
+        "news_link": "https://news.republika.co.id/berita/sv2a3s409/polda-jatim-benarkan-anggota-polres-pacitan-diduga-perkosa-tahanan-wanita"
+    },
+    {
+        "title": "Paus Fransiskus Wafat, Begini Hubungan Baiknya dengan Islam",
+        "category": "News",
+        "publish_time": "21-04-2025 09:17",
+        "news_link": "https://news.republika.co.id/berita/sv29sq393/paus-fransiskus-wafat-begini-hubungan-baiknya-dengan-islam"
+    },
+    {
+        "title": "UMJ Selenggarakan Forum Global, 15 Negara Bahas Isu Sosial Dunia",
+        "category": "News",
+        "publish_time": "21-04-2025 09:16",
+        "news_link": "https://news.republika.co.id/berita/sv29qp368/umj-selenggarakan-forum-global-15-negara-bahas-isu-sosial-dunia"
+    },
+    {
+        "title": "Polisi Amankan Ustadz yang Diduga Lecehkan Puluhan Santriwati",
+        "category": "News",
+        "publish_time": "21-04-2025 09:15",
+        "news_link": "https://news.republika.co.id/berita/sv29ps425/polisi-amankan-ustadz-yang-diduga-lecehkan-puluhan-santriwati"
+    },
+    {
         "title": "Bertemu Gibran, Wakil PM Malaysia Bahas Penggunaan Sertifikat Halal Bersama",
         "category": "Khazanah",
-        "publish_time": "21-04-2025 09:14",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://khazanah.republika.co.id/berita/sv29of366/bertemu-gibran-wakil-pm-malaysia-bahas-penggunaan-sertifikat-halal-bersama"
     },
     {
         "title": "Tanpa Gregoria yang Sakit, Tim Rajawali Kalahkan Garuda di Simulasi Piala Sudirman 2025",
         "category": "News",
-        "publish_time": "21-04-2025 09:14",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://news.republika.co.id/berita/sv29o1348/tanpa-gregoria-yang-sakit-tim-rajawali-kalahkan-garuda-di-simulasi-piala-sudirman-2025"
     },
     {
         "title": "Amerika Protes Aturan Halal di Indonesia, Ini Jawaban BPJPH",
         "category": "Khazanah",
-        "publish_time": "21-04-2025 09:12",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://khazanah.republika.co.id/berita/sv29ko430/amerika-protes-aturan-halal-di-indonesia-ini-jawaban-bpjph"
     },
     {
         "title": "Teknologi Jarak Jauh, Transformasi Inspeksi Maritim?",
         "category": "Network",
-        "publish_time": "21-04-2025 09:11",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://shippingcargo.co.id/posts/518961/teknologi-jarak-jauh-transformasi-inspeksi-maritim"
     },
     {
-        "title": "Berbagai Lokasi Dakwah Para Nabi Allah",
+        "title": "Berbagai Lokasi Dakwah para Nabi Allah",
         "category": "Khazanah",
-        "publish_time": "21-04-2025 09:11",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://khazanah.republika.co.id/berita/sv29i7458/berbagai-lokasi-dakwah-para-nabi-allah"
     },
     {
         "title": "KLH Dorong Pemulihan Lahan Tambang Jadi Pusat Ekonomi Rakyat",
         "category": "Esgnow",
-        "publish_time": "21-04-2025 09:08",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://esgnow.republika.co.id/berita/sv29ds416/klh-dorong-pemulihan-lahan-tambang-jadi-pusat-ekonomi-rakyat"
     },
     {
         "title": "Terinspirasi Film Bidaah, Korban Pelecehan Laporkan Ustadz Ponpes ke Polisi",
         "category": "News",
-        "publish_time": "21-04-2025 09:07",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://news.republika.co.id/berita/sv29cg425/terinspirasi-film-bidaah-korban-pelecehan-laporkan-ustadz-ponpes-ke-polisi"
     },
     {
         "title": "Terungkap Peran Tersangka, Identitas Ormas, dan Motif Pembakaran Mobil Polisi di Depok",
         "category": "News",
-        "publish_time": "21-04-2025 09:05",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://news.republika.co.id/berita/sv2993409/terungkap-peran-tersangka-identitas-ormas-dan-motif-pembakaran-mobil-polisi-di-depok"
     },
     {
         "title": "Hari Kartini Momentum Optimalisasi Pemberdayaan Perempuan",
         "category": "News",
-        "publish_time": "21-04-2025 09:02",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://news.republika.co.id/berita/sv286o451/hari-kartini-momentum-optimalisasi-pemberdayaan-perempuan"
     },
     {
         "title": "Dosen UMJ Tekankan Pentingnya Gizi Seimbang di Tengah Diaspora Indonesia di Jepang",
         "category": "News",
-        "publish_time": "21-04-2025 09:01",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://news.republika.co.id/berita/sv292m368/dosen-umj-tekankan-pentingnya-gizi-seimbang-di-tengah-diaspora-indonesia-di-jepang"
     },
     {
         "title": "Renovasi Kantor Bhayangkari Diresmikan, Ini Pesan Kapolres Indramayu",
         "category": "Rejabar",
-        "publish_time": "21-04-2025 08:59",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://rejabar.republika.co.id/berita/sv28y7512/renovasi-kantor-bhayangkari-diresmikan-ini-pesan-kapolres-indramayu"
     },
     {
         "title": "Paus Fransiskus Wafat, Ini Profil Sang Pemimpin Umat Katolik Sedunia",
         "category": "News",
-        "publish_time": "21-04-2025 08:58",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://news.republika.co.id/berita/sv28wb458/paus-fransiskus-wafat-ini-profil-sang-pemimpin-umat-katolik-sedunia"
     },
     {
         "title": "Perpaduan Pemain Senior dan Muda, Ketum PBSI Target Final Piala Sudirman 2025",
         "category": "News",
-        "publish_time": "21-04-2025 08:56",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://news.republika.co.id/berita/sv28ue348/perpaduan-pemain-senior-dan-muda-ketum-pbsi-target-final-piala-sudirman-2025"
     },
     {
         "title": "Rupiah Menguat Seiring Ketidakpastian Kebijakan Moneter AS",
         "category": "Ekonomi",
-        "publish_time": "21-04-2025 08:55",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://ekonomi.republika.co.id/berita/sv28sl370/rupiah-menguat-seiring-ketidakpastian-kebijakan-moneter-as"
     },
     {
         "title": "Aparat Harus Miskinkan Hakim dan Pengacara Penerima Suap Rp 60 Miliar",
         "category": "News",
-        "publish_time": "21-04-2025 08:51",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://news.republika.co.id/berita/sv299z484/aparat-harus-miskinkan-hakim-dan-pengacara-penerima-suap-rp-60-miliar"
     },
     {
         "title": "Bursa Karbon Catat Volume Transaksi 690.675 Ton CO2e pada Kuartal I 2025",
         "category": "Ekonomi",
-        "publish_time": "21-04-2025 08:50",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://ekonomi.republika.co.id/berita/sv28jq370/bursa-karbon-catat-volume-transaksi-690675-ton-co2e-pada-kuartal-i-2025"
     },
     {
         "title": "Setiap Langkah Penuh Harapan, JKN Jadi Saksi Perjuangan Samsuriati Demi Suami dan Anak",
         "category": "News",
-        "publish_time": "21-04-2025 08:47",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://news.republika.co.id/berita/sv28f6368/setiap-langkah-penuh-harapan-jkn-jadi-saksi-perjuangan-samsuriati-demi-suami-dan-anak"
     },
     {
         "title": "Benarkah Alexander the Great adalah Dzulqarnain?",
         "category": "Khazanah",
-        "publish_time": "21-04-2025 08:46",
+        "publish_time": "21-04-2025 09:15",
         "news_link": "https://khazanah.republika.co.id/berita/sv28d3458/benarkah-alexander-the-great-adalah-dzulqarnain"
     },
     {
         "title": "Pembakaran Mobil Polisi di Depok Diperintah Ketua Ormas Wilayah Cimanggis",
         "category": "News",
-        "publish_time": "21-04-2025 08:45",
+        "publish_time": "21-04-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/sv28bl348/pembakaran-mobil-polisi-di-depok-diperintah-ketua-ormas-wilayah-cimanggis"
     },
     {
         "title": "Kartini: Perempuan, Pena, dan Perubahan",
         "category": "Video",
-        "publish_time": "21-04-2025 08:42",
+        "publish_time": "21-04-2025 08:15",
         "news_link": "https://tv.republika.co.id/berita/sv285j418/kartini-perempuan-pena-dan-perubahan"
     },
     {
         "title": "Nestapa Warga di Kota Paling Berpolusi: \u2018Anak Saya Bernapas Seperti Ikan Kehabisan Air\u2019",
         "category": "Esgnow",
-        "publish_time": "21-04-2025 08:40",
+        "publish_time": "21-04-2025 08:15",
         "news_link": "https://esgnow.republika.co.id/berita/sv282h416/nestapa-warga-di-kota-paling-berpolusi-anak-saya-bernapas-seperti-ikan-kehabisan-air"
     },
     {
         "title": "Iran-AS Rundingkan Nuklir, Israel Takutkan Hal Berikut ini",
         "category": "News",
-        "publish_time": "21-04-2025 08:37",
+        "publish_time": "21-04-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/sv27yi451/iranas-rundingkan-nuklir-israel-takutkan-hal-berikut-ini"
     },
     {
         "title": "Polres Indramayu Gelar Sertijab, Ini Daftar Lengkap Kapolsek dan Pejabat yang Dimutasi",
         "category": "Rejabar",
-        "publish_time": "21-04-2025 08:37",
+        "publish_time": "21-04-2025 08:15",
         "news_link": "https://rejabar.republika.co.id/berita/sv27y9512/polres-indramayu-gelar-sertijab-ini-daftar-lengkap-kapolsek-dan-pejabat-yang-dimutasi"
     },
     {
         "title": "Penyesalan Seorang Hakim",
         "category": "Khazanah",
-        "publish_time": "21-04-2025 08:33",
+        "publish_time": "21-04-2025 08:15",
         "news_link": "https://khazanah.republika.co.id/berita/sv27qx458/penyesalan-seorang-hakim"
     },
     {
         "title": "Dedi Mulyadi Optimistis Cirebon akan Jadi Yogyakartanya Jabar",
         "category": "Rejabar",
-        "publish_time": "21-04-2025 08:30",
+        "publish_time": "21-04-2025 08:15",
         "news_link": "https://rejabar.republika.co.id/berita/sv27mz512/dedi-mulyadi-optimistis-cirebon-akan-jadi-yogyakartanya-jabar"
     },
     {
         "title": "Makin Takwa, Makin Kaya",
         "category": "Khazanah",
-        "publish_time": "21-04-2025 08:27",
+        "publish_time": "21-04-2025 08:15",
         "news_link": "https://khazanah.republika.co.id/berita/sv27hg458/makin-takwa-makin-kaya"
     },
     {
         "title": "Pemerintah Targetkan Masalah Sampah Selesai 2029",
         "category": "Esgnow",
-        "publish_time": "21-04-2025 08:24",
+        "publish_time": "21-04-2025 08:15",
         "news_link": "https://esgnow.republika.co.id/berita/sv27ca416/pemerintah-targetkan-masalah-sampah-selesai-2029"
     },
     {
         "title": "Olo, Warna \u2018Misterius\u2019 yang Baru Bisa Dilihat 5 Orang di Bumi",
         "category": "Ameera",
-        "publish_time": "21-04-2025 08:23",
+        "publish_time": "21-04-2025 08:15",
         "news_link": "https://ameera.republika.co.id/berita/sv27az425/olo-warna-misterius-yang-baru-bisa-dilihat-5-orang-di-bumi"
     },
     {
         "title": "Ulama ini Ternyata Guru RA Kartini, KH Ahmad Dahlan, dan KH Hasyim Asyari",
         "category": "News",
-        "publish_time": "21-04-2025 08:23",
+        "publish_time": "21-04-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/sv27au451/ulama-ini-ternyata-guru-ra-kartini-kh-ahmad-dahlan-dan-kh-hasyim-asyari"
     },
     {
         "title": "Dorong Pertumbuhan Ekonomi, Kanwil Bea Cukai Jakarta Resmikan Fasilitas Toko Bebas Bea",
         "category": "Beacukai",
-        "publish_time": "21-04-2025 08:21",
+        "publish_time": "21-04-2025 08:15",
         "news_link": "https://republika.co.id/berita//sv277y368/dorong-pertumbuhan-ekonomi-kanwil-bea-cukai-jakarta-resmikan-fasilitas-toko-bebas-bea"
     },
     {
         "title": "Unisba Ambil Sumpah 37 Apoteker Baru, Kadinkes Jabar Ingatkan Soal Adab",
         "category": "Rejabar",
-        "publish_time": "21-04-2025 08:21",
+        "publish_time": "21-04-2025 08:15",
         "news_link": "https://rejabar.republika.co.id/berita/sv2773512/unisba-ambil-sumpah-37-apoteker-baru-kadinkes-jabar-ingatkan-soal-adab"
-    },
-    {
-        "title": "Impor Tambahan dari AS Tak Ganggu Swasembada, Pemerintah Pastikan Strategi Terukur",
-        "category": "Network",
-        "publish_time": "21-04-2025 08:21",
-        "news_link": "https://shippingcargo.co.id/posts/518951/impor-tambahan-dari-as-tak-ganggu-swasembada-pemerintah-pastikan-strategi-terukur"
-    },
-    {
-        "title": "Gubernur Dedi Siap Lawan Putusan PTUN Sengketa SMAN 1 Bandung",
-        "category": "News",
-        "publish_time": "21-04-2025 08:21",
-        "news_link": "https://news.republika.co.id/berita/sv276j484/gubernur-dedi-siap-lawan-putusan-ptun-sengketa-sman-1-bandung"
-    },
-    {
-        "title": "Bayi Cumi-cumi Raksasa Terekam Hidup-hidup Pertama Kalinya di Alam Liar",
-        "category": "Network",
-        "publish_time": "21-04-2025 08:20",
-        "news_link": "https://impresiupdate.id/posts/519041/bayi-cumi-cumi-raksasa-terekam-hidup-hidup-pertama-kalinya-di-alam-liar"
-    },
-    {
-        "title": "Menhan dan Menlu RI Gelar Pertemuan  Tingkat Tinggi Pertama di Beijing",
-        "category": "Network",
-        "publish_time": "21-04-2025 08:20",
-        "news_link": "https://seputarmiliter.id/posts/519073/menhan-dan-menlu-ri-gelar-pertemuan-tingkat-tinggi-pertama-di-beijing"
-    },
-    {
-        "title": "Rezeki Selain Harta Benda",
-        "category": "Khazanah",
-        "publish_time": "21-04-2025 08:19",
-        "news_link": "https://khazanah.republika.co.id/berita/sv274s458/rezeki-selain-harta-benda"
-    },
-    {
-        "title": "Bea Cukai Sidoarjo Amankan 19 Ribu Batang Rokok Ilegal dalam Operasi Gabungan",
-        "category": "Beacukai",
-        "publish_time": "21-04-2025 08:17",
-        "news_link": "https://republika.co.id/berita//sv2702368/bea-cukai-sidoarjo-amankan-19-ribu-batang-rokok-ilegal-dalam-operasi-gabungan"
-    },
-    {
-        "title": "Prakiraan Cuaca Kota Semarang dan Sekitarnya: Semarang Cerah Berawan 22 April 2025",
-        "category": "News",
-        "publish_time": "21-04-2025 08:15",
-        "news_link": "https://news.republika.co.id/berita/sv26u21217143016/prakiraan-cuaca-kota-semarang-dan-sekitarnya-semarang-cerah-berawan-22-april-2025"
-    },
-    {
-        "title": "Paus Fransiskus Wafat dalam Usia 88 Tahun",
-        "category": "News",
-        "publish_time": "21-04-2025 08:15",
-        "news_link": "https://news.republika.co.id/berita/sv26s9484/paus-fransiskus-wafat-dalam-usia-88-tahun"
-    },
-    {
-        "title": "Temuan Penelitian: Tidur Sehat Bisa Menurunkan Risiko Infeksi Serius",
-        "category": "Network",
-        "publish_time": "21-04-2025 08:15",
-        "news_link": "https://impresiupdate.id/posts/519043/temuan-penelitian-tidur-sehat-bisa-menurunkan-risiko-infeksi-serius"
-    },
-    {
-        "title": "Batuan Mars Ungkap Petunjuk Tentang Gunung Berapi Purba dan Tanda-tanda Kehidupan",
-        "category": "Network",
-        "publish_time": "21-04-2025 08:15",
-        "news_link": "https://impresiupdate.id/posts/519049/batuan-mars-ungkap-petunjuk-tentang-gunung-berapi-purba-dan-tanda-tanda-kehidupan"
-    },
-    {
-        "title": "AS Siapkan Tarif Baru Peralatan Pelabuhan  Tiongkok, Tekan Dominasi Tarif",
-        "category": "Network",
-        "publish_time": "21-04-2025 08:15",
-        "news_link": "https://shippingcargo.co.id/posts/518959/as-siapkan-tarif-baru-peralatan-pelabuhan-tiongkok-tekan-dominasi-tarif"
-    },
-    {
-        "title": "AS Siapkan Tarif Baru Peralatan Pelabuhan  Tiongkok, Tekan Dominasi Tarif",
-        "category": "Network",
-        "publish_time": "21-04-2025 08:15",
-        "news_link": "https://shippingcargo.co.id/posts/518959/as-siapkan-tarif-baru-peralatan-pelabuhan-tiongkok-tekan-dominasi-tarif"
-    },
-    {
-        "title": "Catatan Cak AT: Penjurusan Reborn, Menghidupkan Stigma",
-        "category": "Network",
-        "publish_time": "21-04-2025 08:15",
-        "news_link": "https://ruzkaindonesia.id/posts/519070/catatan-cak-at-penjurusan-reborn-menghidupkan-stigma"
-    },
-    {
-        "title": "Catatan Cak AT: Penjurusan Reborn, Menghidupkan Stigma",
-        "category": "Network",
-        "publish_time": "21-04-2025 08:15",
-        "news_link": "https://ruzkaindonesia.id/posts/519070/catatan-cak-at-penjurusan-reborn-menghidupkan-stigma"
-    },
-    {
-        "title": "On This Day: 21 April 1879 Kartini Lahir, Pelopor Emansipasi Wanita dan Pejuang Vegetarian",
-        "category": "Network",
-        "publish_time": "21-04-2025 08:15",
-        "news_link": "https://magentatoday.id/posts/519084/on-this-day-21-april-1879-kartini-lahir-pelopor-emansipasi-wanita-dan-pejuang-vegetarian"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok, 22 April 2025: Hujan di Kota Tangerang dan Sekitarnya",
-        "category": "News",
-        "publish_time": "21-04-2025 08:15",
-        "news_link": "https://news.republika.co.id/berita/sv268j1050469549/prakiraan-cuaca-besok-22-april-2025-hujan-di-kota-tangerang-dan-sekitarnya"
-    },
-    {
-        "title": "HUT Ke-62,\u00a0TASPEN Berikan Bantuan Kursi Roda kepada Peserta Pensiun",
-        "category": "Ekonomi",
-        "publish_time": "21-04-2025 08:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/sv266p368/hut-ke62taspen-berikan-bantuan-kursi-roda-kepada-peserta-pensiun"
-    },
-    {
-        "title": "Hari Kartini, Puan Maharani: Perempuan Harus Berani Bersuara",
-        "category": "News",
-        "publish_time": "21-04-2025 08:15",
-        "news_link": "https://news.republika.co.id/berita/sv265a451/hari-kartini-puan-maharani-perempuan-harus-berani-bersuara"
-    },
-    {
-        "title": "Bea Cukai dan Pemkot Tegal Musnahkan Belasan Ribu Batang Rokok Ilegal",
-        "category": "Beacukai",
-        "publish_time": "21-04-2025 08:15",
-        "news_link": "https://republika.co.id/berita//sv264h472/bea-cukai-dan-pemkot-tegal-musnahkan-belasan-ribu-batang-rokok-ilegal"
     }
 ]
