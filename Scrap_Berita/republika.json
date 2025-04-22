@@ -1,110 +1,230 @@
 [
     {
+        "title": "Pelatih Union Saint-Gilloise Minta Maaf Staf Lempar Bola ke Lapangan untuk Cegah Serangan",
+        "category": "News",
+        "publish_time": "22-04-2025 15:07",
+        "news_link": "https://news.republika.co.id/berita/sv4k1m348/pelatih-union-saintgilloise-minta-maaf-staf-lempar-bola-ke-lapangan-untuk-cegah-serangan"
+    },
+    {
+        "title": "Indonesia Lanjutkan Pelayanan Medis Korban Gempa Myanmar",
+        "category": "News",
+        "publish_time": "22-04-2025 14:59",
+        "news_link": "https://news.republika.co.id/berita/sv4ji9370/indonesia-lanjutkan-pelayanan-medis-korban-gempa-myanmar"
+    },
+    {
+        "title": "Erintuah Damanik dan Mangapul Dituntut Vonis 9 Tahun Penjara",
+        "category": "Visual",
+        "publish_time": "22-04-2025 14:59",
+        "news_link": "https://visual.republika.co.id/berita/sv4ig8375/erintuah-damanik-dan-mangapul-dituntut-vonis-9-tahun-penjara"
+    },
+    {
+        "title": "BPH Cek Kesiapan Layanan Haji di Bandara Soekarno Hatta",
+        "category": "Khazanah",
+        "publish_time": "22-04-2025 14:44",
+        "news_link": "https://khazanah.republika.co.id/berita/sv4j60370/bph-cek-kesiapan-layanan-haji-di-bandara-soekarno-hatta"
+    },
+    {
+        "title": "Ijazah Karyawan Ditahan, Laporkan ke Balai Kota Surabaya dan Kantor Disperinaker",
+        "category": "Rejogja",
+        "publish_time": "22-04-2025 14:43",
+        "news_link": "https://rejogja.republika.co.id/berita/sv4jl0282/ijazah-karyawan-ditahan-laporkan-ke-balai-kota-surabaya-dan-kantor-disperinaker"
+    },
+    {
+        "title": "Manchester City Terima Bonus Terbesar dari UEFA karena Lepas Pemain untuk Timnas",
+        "category": "News",
+        "publish_time": "22-04-2025 14:43",
+        "news_link": "https://news.republika.co.id/berita/sv4jki348/manchester-city-terima-bonus-terbesar-dari-uefa-karena-lepas-pemain-untuk-timnas"
+    },
+    {
+        "title": "Bhayangkara Buka Peluang Rekrut Pemain Timnas yang Minim Bermain di Klubnya",
+        "category": "News",
+        "publish_time": "22-04-2025 14:36",
+        "news_link": "https://news.republika.co.id/berita/sv4j97348/bhayangkara-buka-peluang-rekrut-pemain-timnas-yang-minim-bermain-di-klubnya"
+    },
+    {
+        "title": "Pasar Sisi Walungan Cika Cika Jadi Destinasi Wisata Baru di Bandung",
+        "category": "Visual",
+        "publish_time": "22-04-2025 14:35",
+        "news_link": "https://visual.republika.co.id/berita/sv4j6w375/pasar-sisi-walungan-cika-cika-jadi-destinasi-wisata-baru-di-bandung"
+    },
+    {
+        "title": "Prabowo Respons Dukungan PAN untuknya pada Pilpres 2029, Begini Katanya",
+        "category": "News",
+        "publish_time": "22-04-2025 14:34",
+        "news_link": "https://news.republika.co.id/berita/sv4j61487/prabowo-respons-dukungan-pan-untuknya-pada-pilpres-2029-begini-katanya"
+    },
+    {
+        "title": "Diancam Dibunuh di Sosmed, Dedi Mulyadi: Risiko Pemimpin, Kita Lihat Akun Asli atau Bukan",
+        "category": "Rejabar",
+        "publish_time": "22-04-2025 14:28",
+        "news_link": "https://rejabar.republika.co.id/berita/sv4iv5282/diancam-dibunuh-di-sosmed-dedi-mulyadi-risiko-pemimpin-kita-lihat-akun-asli-atau-bukan"
+    },
+    {
+        "title": "Kemenag Paparkan Strategi Atasi Keterbatasan Petugas Haji",
+        "category": "Khazanah",
+        "publish_time": "22-04-2025 14:26",
+        "news_link": "https://khazanah.republika.co.id/berita/sv4isf370/kemenag-paparkan-strategi-atasi-keterbatasan-petugas-haji"
+    },
+    {
+        "title": "Xiamen Geser Miami: Terminal Kapal Pesiar Terbesar Dunia Dibuka",
+        "category": "Network",
+        "publish_time": "22-04-2025 14:22",
+        "news_link": "https://shippingcargo.co.id/posts/519080/xiamen-geser-miami-terminal-kapal-pesiar-terbesar-dunia-dibuka"
+    },
+    {
+        "title": "Catatan Cak AT: Transformasi Bank DKI, Digitalnya Ketinggalan Indonesia",
+        "category": "Network",
+        "publish_time": "22-04-2025 14:22",
+        "news_link": "https://ruzkaindonesia.id/posts/519302/catatan-cak-at-transformasi-bank-dki-digitalnya-ketinggalan-indonesia"
+    },
+    {
+        "title": "Hadapi Pesatnya Teknologi Informasi, Sukabumi Gencarkan Literasi Digital",
+        "category": "Network",
+        "publish_time": "22-04-2025 14:22",
+        "news_link": "https://sukabumikini.com/posts/519320/hadapi-pesatnya-teknologi-informasi-sukabumi-gencarkan-literasi-digital"
+    },
+    {
+        "title": "Tren Lempar Popcorn dan Ayam Hidup Saat Tonton A Minecraft Movie Timbulkan Kekhawatiran di AS",
+        "category": "Network",
+        "publish_time": "22-04-2025 14:21",
+        "news_link": "https://filmusiku.com/posts/519321/tren-lempar-popcorn-dan-ayam-hidup-saat-tonton-a-minecraft-movie-timbulkan-kekhawatiran-di-as"
+    },
+    {
+        "title": "Polisi Tangkap 27 Orang Penjual Obat Terlarang di Depok",
+        "category": "Network",
+        "publish_time": "22-04-2025 14:21",
+        "news_link": "https://ruzkaindonesia.id/posts/519328/polisi-tangkap-27-orang-penjual-obat-terlarang-di-depok"
+    },
+    {
+        "title": "Hari Bumi 2025: Sumsel Menuai Bencana Ekologis, Lawan Keserakahan, Tegakkan Keadilan Ekologis",
+        "category": "Network",
+        "publish_time": "22-04-2025 14:21",
+        "news_link": "https://kingdomsriwijaya.id/posts/519329/hari-bumi-2025-sumsel-menuai-bencana-ekologis-lawan-keserakahan-tegakkan-keadilan-ekologis"
+    },
+    {
+        "title": "UPH Media Gathering 2025: Ajak Mitra Media Massa Berkolaborasi dan Berdampak",
+        "category": "Network",
+        "publish_time": "22-04-2025 14:20",
+        "news_link": "https://pemantiknews.id/posts/519324/uph-media-gathering-2025-ajak-mitra-media-massa-berkolaborasi-dan-berdampak"
+    },
+    {
+        "title": "Pemkot Bukittinggi Gunakan Sistem Parkir Nontunai Antisipasi Pungutan",
+        "category": "News",
+        "publish_time": "22-04-2025 14:14",
+        "news_link": "https://news.republika.co.id/berita/sv4i8l370/pemkot-bukittinggi-gunakan-sistem-parkir-nontunai-antisipasi-pungutan"
+    },
+    {
+        "title": "Sempat Disita KPK Dalam Kasus Rohadi, Lucky Hakim akan Fungsikan Kembali RS Reysa",
+        "category": "Rejabar",
+        "publish_time": "22-04-2025 14:14",
+        "news_link": "https://rejabar.republika.co.id/berita/sv4i7y512/sempat-disita-kpk-dalam-kasus-rohadi-lucky-hakim-akan-fungsikan-kembali-rs-reysa"
+    },
+    {
         "title": "Bhayangkara Ubah Nama, Bermarkas di Lampung pada Liga 1 Musim Depan",
         "category": "News",
-        "publish_time": "22-04-2025 14:11",
+        "publish_time": "22-04-2025 14:14",
         "news_link": "https://news.republika.co.id/berita/sv4i3c348/bhayangkara-ubah-nama-bermarkas-di-lampung-pada-liga-1-musim-depan"
     },
     {
         "title": "Soal Negosiasi Tarif, Presiden Prabowo Tunggu Laporan Airlangga",
         "category": "Ekonomi",
-        "publish_time": "22-04-2025 14:03",
+        "publish_time": "22-04-2025 14:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sv4hpj370/soal-negosiasi-tarif-presiden-prabowo-tunggu-laporan-airlangga"
     },
     {
         "title": "Intip Menu Makanan Jamaah Calon Haji Aceh Selama Penerbangan",
         "category": "Visual",
-        "publish_time": "22-04-2025 14:02",
+        "publish_time": "22-04-2025 14:14",
         "news_link": "https://visual.republika.co.id/berita/sv4hna375/intip-menu-makanan-jamaah-calon-haji-aceh-selama-penerbangan"
     },
     {
         "title": "Ini Pentingnya Diaktifkan Kembali Penjurusan Saat SMA Menurut BRIN",
         "category": "News",
-        "publish_time": "22-04-2025 13:56",
+        "publish_time": "22-04-2025 14:14",
         "news_link": "https://news.republika.co.id/berita/sv4hdq370/ini-pentingnya-diaktifkan-kembali-penjurusan-saat-sma-menurut-brin"
     },
     {
         "title": "KOI Targetkan Lebih dari Dua Emas pada Olimpiade 2028 Los Angeles",
         "category": "News",
-        "publish_time": "22-04-2025 13:55",
+        "publish_time": "22-04-2025 14:14",
         "news_link": "https://news.republika.co.id/berita/sv4h13348/koi-targetkan-lebih-dari-dua-emas-pada-olimpiade-2028-los-angeles"
     },
     {
         "title": "Polisi Selidiki Kasus Keracunan Massal Siswa SMP dan MAN di Cianjur",
         "category": "Rejabar",
-        "publish_time": "22-04-2025 13:49",
+        "publish_time": "22-04-2025 14:14",
         "news_link": "https://rejabar.republika.co.id/berita/sv4h1i512/polisi-selidiki-kasus-keracunan-massal-siswa-smp-dan-man-di-cianjur"
     },
     {
         "title": "Lantik PPIH Solo, Wagub Jateng: Panitia Haji Bukan Soal Banyaknya, Tapi Makna Pelayanan",
         "category": "Khazanah",
-        "publish_time": "22-04-2025 13:45",
+        "publish_time": "22-04-2025 14:14",
         "news_link": "https://khazanah.republika.co.id/berita/sv4gvr377/lantik-ppih-solo-wagub-jateng-panitia-haji-bukan-soal-banyaknya-tapi-makna-pelayanan"
     },
     {
         "title": "IMF Pangkas Proyeksi Pertumbuhan Ekonomi Sejumlah Negara karena Perang Tarif, Indonesia?",
         "category": "Ekonomi",
-        "publish_time": "22-04-2025 13:42",
+        "publish_time": "22-04-2025 13:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sv4gr0370/imf-pangkas-proyeksi-pertumbuhan-ekonomi-sejumlah-negara-karena-perang-tarif-indonesia"
     },
     {
         "title": "Soal Ancaman Pembunuhan Terhadap Dedi Mulyadi, Ini Respons Polda Jabar",
         "category": "News",
-        "publish_time": "22-04-2025 13:36",
+        "publish_time": "22-04-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/sv4gfs377/soal-ancaman-pembunuhan-terhadap-dedi-mulyadi-ini-respons-polda-jabar"
     },
     {
         "title": "Pemkot Solo Siapkan Rp 20 Miliar untuk Atasi Banjir di Underpass Joglo Saat Hujan",
         "category": "Rejogja",
-        "publish_time": "22-04-2025 13:36",
+        "publish_time": "22-04-2025 13:14",
         "news_link": "https://rejogja.republika.co.id/berita/sv4gfh282/pemkot-solo-siapkan-rp-20-miliar-untuk-atasi-banjir-di-underpass-joglo-saat-hujan"
     },
     {
         "title": "Sukacita dan Haru Warnai Wisuda ke-61 UBSI, Bukti Perjuangan Luar Biasa Para Wisudawan",
         "category": "News",
-        "publish_time": "22-04-2025 13:31",
+        "publish_time": "22-04-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/sv4g77368/sukacita-dan-haru-warnai-wisuda-ke61-ubsi-bukti-perjuangan-luar-biasa-para-wisudawan"
     },
     {
         "title": "Pengacara Tunggu Perintah, Empat Orang akan Digugat Terkait Tuduhan Ijazah Palsu Jokowi",
         "category": "News",
-        "publish_time": "22-04-2025 13:31",
+        "publish_time": "22-04-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/sv4g76377/pengacara-tunggu-perintah-empat-orang-akan-digugat-terkait-tuduhan-ijazah-palsu-jokowi"
     },
     {
         "title": "Jalan di Ibu Kota KBB Ini Rusak Parah, Petani Urunan Dana Perbaikan Alakadarnya",
         "category": "Rejabar",
-        "publish_time": "22-04-2025 13:29",
+        "publish_time": "22-04-2025 13:14",
         "news_link": "https://rejabar.republika.co.id/berita/sv4g3u512/jalan-di-ibu-kota-kbb-ini-rusak-parah-petani-urunan-dana-perbaikan-alakadarnya"
     },
     {
         "title": "Reaktovasi Jalur Kereta di Jabar Butuh Rp 15 Triliun",
         "category": "Rejabar",
-        "publish_time": "22-04-2025 13:27",
+        "publish_time": "22-04-2025 13:14",
         "news_link": "https://rejabar.republika.co.id/berita/sv4g1i370/reaktovasi-jalur-kereta-di-jabar-butuh-rp-15-triliun"
     },
     {
         "title": "Pagelaran Wayang Golek Saat Hari Jadi ke-384 Kabupaten Bandung Bikin Warga Terpana",
         "category": "Rejabar",
-        "publish_time": "22-04-2025 13:24",
+        "publish_time": "22-04-2025 13:14",
         "news_link": "https://rejabar.republika.co.id/berita/sv4fw8368/pagelaran-wayang-golek-saat-hari-jadi-ke384-kabupaten-bandung-bikin-warga-terpana"
     },
     {
         "title": "Soeharto Diusulkan Jadi Pahlawan Nasional Bersama Gus Dur dan Kiai Bisri Sansuri",
         "category": "Rejogja",
-        "publish_time": "22-04-2025 13:23",
+        "publish_time": "22-04-2025 13:14",
         "news_link": "https://rejogja.republika.co.id/berita/sv4fus282/soeharto-diusulkan-jadi-pahlawan-nasional-bersama-gus-dur-dan-kiai-bisri-sansuri"
     },
     {
         "title": "PBB Dorong Pemuda Wujudkan SDGs",
         "category": "Esgnow",
-        "publish_time": "22-04-2025 13:21",
+        "publish_time": "22-04-2025 13:14",
         "news_link": "https://esgnow.republika.co.id/berita/sv4fqk416/pbb-dorong-pemuda-wujudkan-sdgs"
     },
     {
         "title": "Paus Fransiskus akan Dimakamkan Hari Sabtu 26 April 2025",
         "category": "News",
-        "publish_time": "22-04-2025 13:21",
+        "publish_time": "22-04-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/sv4fqg370/paus-fransiskus-akan-dimakamkan-hari-sabtu-26-april-2025"
     },
     {
@@ -178,125 +298,5 @@
         "category": "Rejogja",
         "publish_time": "22-04-2025 12:14",
         "news_link": "https://rejogja.republika.co.id/berita/sv4dpy291/bumikan-semangat-kartini-perempuan-diimbau-aktif-tanggulangi-terorisme"
-    },
-    {
-        "title": "Hari Bumi 2025 Gaungkan Energi Terbarukan",
-        "category": "Esgnow",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://esgnow.republika.co.id/berita/sv4dkv416/hari-bumi-2025-gaungkan-energi-terbarukan"
-    },
-    {
-        "title": "Hutan Wakaf di Indonesia Rumuskan Peta Jalan Lima Tahun ke Depan",
-        "category": "Khazanah",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sv4diw483/hutan-wakaf-di-indonesia-rumuskan-peta-jalan-lima-tahun-ke-depan"
-    },
-    {
-        "title": "Perubahan Rute Per\u00a01 Mei, Bus Listrik Trans Jogja Fokus di Kawasan Sumbu Filosofi",
-        "category": "Rejogja",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://rejogja.republika.co.id/berita/sv4ddk291/perubahan-rute-per1-mei-bus-listrik-trans-jogja-fokus-di-kawasan-sumbu-filosofi"
-    },
-    {
-        "title": "Pakai AI Canggih, Grab: ini Sistem Pribadi yang Cerdas",
-        "category": "News",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://news.republika.co.id/berita/sv4d7o451/pakai-ai-canggih-grab-ini-sistem-pribadi-yang-cerdas"
-    },
-    {
-        "title": "Kejagung dan Dewan Pers Sepakat Kasus Perintangan Penyidikan tak Terkait Pemberitaan",
-        "category": "News",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://news.republika.co.id/berita/sv4cwo393/kejagung-dan-dewan-pers-sepakat-kasus-perintangan-penyidikan-tak-terkait-pemberitaan"
-    },
-    {
-        "title": "Ditanya Soal Konsorsium Korsel yang Hengkang dari Indonesia, Ini Jawaban Prabowo",
-        "category": "News",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://news.republika.co.id/berita/sv4d6h409/ditanya-soal-konsorsium-korsel-yang-hengkang-dari-indonesia-ini-jawaban-prabowo"
-    },
-    {
-        "title": "Prabowo Perluas ISPO, Industri Hilir Sawit Juga Wajib Terapkan Praktik Berkelanjutan",
-        "category": "Esgnow",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://esgnow.republika.co.id/berita/sv4cvc416/prabowo-perluas-ispo-industri-hilir-sawit-juga-wajib-terapkan-praktik-berkelanjutan"
-    },
-    {
-        "title": "Dugaan Awal Mengapa Jajanan Anak Mengandung Unsur Babi Bisa Beredar di Pasaran",
-        "category": "News",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://news.republika.co.id/berita/sv4cob409/dugaan-awal-mengapa-jajanan-anak-mengandung-unsur-babi-bisa-beredar-di-pasaran"
-    },
-    {
-        "title": "Penghormatan Terakhir untuk Paus Fransiskus di Kedubes Vatikan Jakarta",
-        "category": "Visual",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://visual.republika.co.id/berita/sv4cmi375/penghormatan-terakhir-untuk-paus-fransiskus-di-kedubes-vatikan-jakarta"
-    },
-    {
-        "title": "Menag Luncurkan Gerakan Satu Juta Pohon",
-        "category": "Khazanah",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sv4cid483/menag-luncurkan-gerakan-satu-juta-pohon"
-    },
-    {
-        "title": "Cianjur Tetapkan Status KLB Keracunan Massal Diduga karena MBG, Sampel Makanan Diperiksa",
-        "category": "Rejabar",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://rejabar.republika.co.id/berita/sv4ce9512/cianjur-tetapkan-status-klb-keracunan-massal-diduga-karena-mbg-sampel-makanan-diperiksa"
-    },
-    {
-        "title": "Tina Wiryawati Sebut Semangat Kartini Wajib Hadir di Setiap Ruang Kebijakan",
-        "category": "Rejabar",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://rejabar.republika.co.id/berita/sv4bzz368/tina-wiryawati-sebut-semangat-kartini-wajib-hadir-di-setiap-ruang-kebijakan"
-    },
-    {
-        "title": "Eks Menteri Pertahanan Bongkar Kebohongan Israel Soal Terowongan, Ternyata...",
-        "category": "Khazanah",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sv4bxg320/eks-menteri-pertahanan-bongkar-kebohongan-israel-soal-terowongan-ternyata"
-    },
-    {
-        "title": "Pertemuannya dengan Siswa Sespimmen Tuai Kontroversi, Ini Klarifikasi Jokowi",
-        "category": "News",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://news.republika.co.id/berita/sv4bwn409/pertemuannya-dengan-siswa-sespimmen-tuai-kontroversi-ini-klarifikasi-jokowi"
-    },
-    {
-        "title": "Bandara Soekarno-Hatta Siapkan Skema Pemberangkatan Haji 2025",
-        "category": "Khazanah",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sv4bub366/bandara-soekarnohatta-siapkan-skema-pemberangkatan-haji-2025"
-    },
-    {
-        "title": "Kapolri Datangi Cirebon, Resmikan Pondok Hingga Temui Dewan Sepuh",
-        "category": "News",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://news.republika.co.id/berita/sv4bu7368/kapolri-datangi-cirebon-resmikan-pondok-hingga-temui-dewan-sepuh"
-    },
-    {
-        "title": "PNM Dorong Kartini Penggerak Lingkungan dari Sampah Bukit Berlian",
-        "category": "Rekalimantan",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://republika.co.id/berita//sv4brl456/pnm-dorong-kartini-penggerak-lingkungan-dari-sampah-bukit-berlian"
-    },
-    {
-        "title": "Kandang F-35 Inggris Diduga Cemari Lingkungan, Ahli: Efeknya hingga Ratusan Tahun",
-        "category": "News",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://news.republika.co.id/berita/sv4bkk451/kandang-f35-inggris-diduga-cemari-lingkungan-ahli-efeknya-hingga-ratusan-tahun"
-    },
-    {
-        "title": "Dapat Ancaman Pembunuhan via Live Chat Youtube, Dedi Mulyadi: Risiko Pemimpin",
-        "category": "News",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://news.republika.co.id/berita/sv4bka409/dapat-ancaman-pembunuhan-via-live-chat-youtube-dedi-mulyadi-risiko-pemimpin"
-    },
-    {
-        "title": "BEI: Perkembangan Pasar Modal di Papua Alami Pertumbuhan Positif",
-        "category": "Ekonomi",
-        "publish_time": "22-04-2025 12:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/sv4am2423/bei-perkembangan-pasar-modal-di-papua-alami-pertumbuhan-positif"
     }
 ]
