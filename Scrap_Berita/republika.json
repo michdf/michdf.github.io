@@ -1,5 +1,83 @@
 [
     {
+        "title": "Melihat Lebih Dekat Persiapan Armada Angkutan Haji Maskapai Garuda",
+        "category": "Visual",
+        "publish_time": "24-04-2025 13:59",
+        "news_link": "https://visual.republika.co.id/berita/sv825n375/melihat-lebih-dekat-persiapan-armada-angkutan-haji-maskapai-garuda"
+    },
+    {
+        "title": "Ekonom Ingatkan Negosiasi dengan AS Jangan Korbankan Neraca Dagang",
+        "category": "Ekonomi",
+        "publish_time": "24-04-2025 13:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/sv86qo416/ekonom-ingatkan-negosiasi-dengan-as-jangan-korbankan-neraca-dagang"
+    },
+    {
+        "title": "Whoosh Catat Lonjakan Signifikan Jumlah Pelanggan Warga Negara Asing",
+        "category": "Network",
+        "publish_time": "24-04-2025 13:46",
+        "news_link": "https://kreta.id/posts/519719/whoosh-catat-lonjakan-signifikan-jumlah-pelanggan-warga-negara-asing"
+    },
+    {
+        "title": "KaI Investasi 612 Kereta dan 54 Lokomotif Baru",
+        "category": "Network",
+        "publish_time": "24-04-2025 13:45",
+        "news_link": "https://kreta.id/posts/521941/kai-investasi-612-kereta-dan-54-lokomotif-baru"
+    },
+    {
+        "title": "Vietnam Dilaporkan Beli Jet F-16 Viper Gantikan Sukhoi Su-27 dan Su-30",
+        "category": "Network",
+        "publish_time": "24-04-2025 13:45",
+        "news_link": "https://seputarmiliter.id/posts/521944/vietnam-dilaporkan-beli-jet-f-16-viper-gantikan-sukhoi-su-27-dan-su-30"
+    },
+    {
+        "title": "ABF Sita dan Musnahkan Dua Kapal Nelayan Asal Indonesia di Perairan Australia Barat",
+        "category": "Network",
+        "publish_time": "24-04-2025 13:45",
+        "news_link": "https://shippingcargo.co.id/posts/519483/abf-sita-dan-musnahkan-dua-kapal-nelayan-asal-indonesia-di-perairan-australia-barat"
+    },
+    {
+        "title": "Pekan Imunisasi Dunia, Depok Galakkan PENARI di Seluruh Puskesmas",
+        "category": "Network",
+        "publish_time": "24-04-2025 13:42",
+        "news_link": "https://ruzkaindonesia.id/posts/521957/pekan-imunisasi-dunia-depok-galakkan-penari-di-seluruh-puskesmas"
+    },
+    {
+        "title": "Nurly Meilinda Raih Doktor Komunikasi, Kaji Domestikasi Teknologi dan Pemberdayaan Perempuan",
+        "category": "Network",
+        "publish_time": "24-04-2025 13:42",
+        "news_link": "https://kingdomsriwijaya.id/posts/521956/nurly-meilinda-raih-doktor-komunikasi-kaji-domestikasi-teknologi-dan-pemberdayaan-perempuan"
+    },
+    {
+        "title": "Kisah Rizky, Mahasiswa Disabilitas yang Bersinar Lewat Prodi Bisnis Digital UNM",
+        "category": "News",
+        "publish_time": "24-04-2025 13:41",
+        "news_link": "https://news.republika.co.id/berita/sv8616368/kisah-rizky-mahasiswa-disabilitas-yang-bersinar-lewat-prodi-bisnis-digital-unm"
+    },
+    {
+        "title": "Desa Cangkingan Ubah Sampah Jadi Berkah, Punya Perdes Lingkungan hingga TPST 3R",
+        "category": "Esgnow",
+        "publish_time": "24-04-2025 13:36",
+        "news_link": "https://esgnow.republika.co.id/berita/sv85t9416/desa-cangkingan-ubah-sampah-jadi-berkah-punya-perdes-lingkungan-hingga-tpst-3r"
+    },
+    {
+        "title": "Kerja di Sekretariat Presiden, Gracias Sabet Gelar Wisudawan Terbaik UBSI ke-61",
+        "category": "News",
+        "publish_time": "24-04-2025 13:34",
+        "news_link": "https://news.republika.co.id/berita/sv85pp368/kerja-di-sekretariat-presiden-gracias-sabet-gelar-wisudawan-terbaik-ubsi-ke61"
+    },
+    {
+        "title": "MK Gelar Sidang Pendahuluan Gugatan UU Hak Cipta yang Diajukan Ariel Noah",
+        "category": "Visual",
+        "publish_time": "24-04-2025 13:29",
+        "news_link": "https://visual.republika.co.id/berita/sv81ib375/mk-gelar-sidang-pendahuluan-gugatan-uu-hak-cipta-yang-diajukan-ariel-noah"
+    },
+    {
+        "title": "Ratusan Warga Cirebon Diserang DBD Akibat Perubahan Cuaca Ekstrem",
+        "category": "Rejabar",
+        "publish_time": "24-04-2025 13:28",
+        "news_link": "https://rejabar.republika.co.id/berita/sv85g1512/ratusan-warga-cirebon-diserang-dbd-akibat-perubahan-cuaca-ekstrem"
+    },
+    {
         "title": "BytePlus Hadir di Indonesia, Dukung Pengembangan Ekosistem Digital",
         "category": "Ameera",
         "publish_time": "24-04-2025 13:25",
@@ -20,283 +98,205 @@
     {
         "title": "Kontrak Formula E Habis Tahun Ini, Pramono Minta FEO Turunkan Harga Kalau Mau Diperpanjang",
         "category": "News",
-        "publish_time": "24-04-2025 13:09",
+        "publish_time": "24-04-2025 13:12",
         "news_link": "https://news.republika.co.id/berita/sv83rp487/kontrak-formula-e-habis-tahun-ini-pramono-minta-feo-turunkan-harga-kalau-mau-diperpanjang"
     },
     {
         "title": "OJK Luncurkan OJK Infinity 2.0, Dorong Inovasi Keuangan Digital Lebih Maju",
         "category": "Ekonomi",
-        "publish_time": "24-04-2025 13:08",
+        "publish_time": "24-04-2025 13:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sv84j6368/ojk-luncurkan-ojk-infinity-20-dorong-inovasi-keuangan-digital-lebih-maju"
     },
     {
         "title": "Kukuhkan Petugas Haji, Jabar Siap Berangkatkan 38.723 Calhaj",
         "category": "Rejabar",
-        "publish_time": "24-04-2025 13:08",
+        "publish_time": "24-04-2025 13:12",
         "news_link": "https://rejabar.republika.co.id/berita/sv84j1512/kukuhkan-petugas-haji-jabar-siap-berangkatkan-38723-calhaj"
     },
     {
         "title": "Bukan Premanisme Ormas, Ini Persoalan yang Ada di Pabrik BYD Subang Menurut Dedi Mulyadi",
         "category": "News",
-        "publish_time": "24-04-2025 13:06",
+        "publish_time": "24-04-2025 13:12",
         "news_link": "https://news.republika.co.id/berita/sv84fx409/bukan-premanisme-ormas-ini-persoalan-yang-ada-di-pabrik-byd-subang-menurut-dedi-mulyadi"
     },
     {
         "title": "Targetkan Diaspora Raih Pendidikan Tinggi, LSPR Institute Buka Perwakilan di Korea Selatan",
         "category": "Rejogja",
-        "publish_time": "24-04-2025 13:05",
+        "publish_time": "24-04-2025 13:12",
         "news_link": "https://rejogja.republika.co.id/berita/sv84eh291/targetkan-diaspora-raih-pendidikan-tinggi-lspr-institute-buka-perwakilan-di-korea-selatan"
     },
     {
         "title": "Hubungan Memanas, Pakistan Tutup Wilayah Udara untuk Semua Penerbangan India",
         "category": "News",
-        "publish_time": "24-04-2025 13:01",
+        "publish_time": "24-04-2025 13:12",
         "news_link": "https://news.republika.co.id/berita/sv847l377/hubungan-memanas-pakistan-tutup-wilayah-udara-untuk-semua-penerbangan-india"
     },
     {
         "title": "Asrama Haji Indramayu Siap Layani 11.948 Calon Jamaah Haji",
         "category": "Visual",
-        "publish_time": "24-04-2025 12:59",
+        "publish_time": "24-04-2025 13:12",
         "news_link": "https://visual.republika.co.id/berita/sv81dy375/asrama-haji-indramayu-siap-layani-11948-calon-jamaah-haji"
     },
     {
         "title": "Bangun Budaya Bersih di Destinasi Wisata",
         "category": "Esgnow",
-        "publish_time": "24-04-2025 12:59",
+        "publish_time": "24-04-2025 13:12",
         "news_link": "https://esgnow.republika.co.id/berita/sv80kb416/bangun-budaya-bersih-di-destinasi-wisata"
     },
     {
         "title": "Rekrut Pelatih Justin Tatum, Pelita Jaya Ingin Makin Berkembang di IBL dan BCL Asia",
         "category": "News",
-        "publish_time": "24-04-2025 12:59",
+        "publish_time": "24-04-2025 13:12",
         "news_link": "https://news.republika.co.id/berita/sv8436348/rekrut-pelatih-justin-tatum-pelita-jaya-ingin-makin-berkembang-di-ibl-dan-bcl-asia"
     },
     {
         "title": "Jelang Penutupan, Ada 663 Calhaj di Jabar Belum Lunasi Bipih",
         "category": "Rejabar",
-        "publish_time": "24-04-2025 12:54",
+        "publish_time": "24-04-2025 13:12",
         "news_link": "https://rejabar.republika.co.id/berita/sv83uu512/jelang-penutupan-ada-663-calhaj-di-jabar-belum-lunasi-bipih"
     },
     {
         "title": "Ikut Bagian Utusan RI ke Vatikan, Ini Kata Natalius Pigai",
         "category": "News",
-        "publish_time": "24-04-2025 12:48",
+        "publish_time": "24-04-2025 13:12",
         "news_link": "https://news.republika.co.id/berita/sv83lp377/ikut-bagian-utusan-ri-ke-vatikan-ini-kata-natalius-pigai"
     },
     {
         "title": "Wiranto: Presiden Prabowo Hormati Delapan Usulan Forum Purnawirawan",
         "category": "News",
-        "publish_time": "24-04-2025 12:47",
+        "publish_time": "24-04-2025 13:12",
         "news_link": "https://news.republika.co.id/berita/sv83k3487/wiranto-presiden-prabowo-hormati-delapan-usulan-forum-purnawirawan"
     },
     {
         "title": "KH Maruf Amin Ajak Ulama Jaga Persatuan demi Indonesia Sejahtera",
         "category": "Khazanah",
-        "publish_time": "24-04-2025 12:43",
+        "publish_time": "24-04-2025 13:12",
         "news_link": "https://khazanah.republika.co.id/berita/sv80ox451/kh-maruf-amin-ajak-ulama-jaga-persatuan-demi-indonesia-sejahtera"
     },
     {
         "title": "Menteri Fadli Zon Dukung Ekosistem Film Dalam Negeri Lewat Dana Indonesiana",
         "category": "News",
-        "publish_time": "24-04-2025 12:41",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://news.republika.co.id/berita/sv83a1458/menteri-fadli-zon-dukung-ekosistem-film-dalam-negeri-lewat-dana-indonesiana"
     },
     {
         "title": "Ditargetkan Final, Tim Indonesia di Piala Sudirman Terbang Ke Xiamen China",
         "category": "News",
-        "publish_time": "24-04-2025 12:41",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://news.republika.co.id/berita/sv839e348/ditargetkan-final-tim-indonesia-di-piala-sudirman-terbang-ke-xiamen-china"
     },
     {
         "title": "Kapolres Indramayu Apresiasi Aksi Damai May Day GASBUMI FSBmigas-KASBI Berjalan Tertib",
         "category": "Rejabar",
-        "publish_time": "24-04-2025 12:37",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://rejabar.republika.co.id/berita/sv833s512/kapolres-indramayu-apresiasi-aksi-damai-may-day-gasbumi-fsbmigaskasbi-berjalan-tertib"
     },
     {
         "title": "Seismolog: Gempa Istanbul Pertanda Gempa Lebih Besar di Masa Depan",
         "category": "News",
-        "publish_time": "24-04-2025 12:37",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://news.republika.co.id/berita/sv832q377/seismolog-gempa-istanbul-pertanda-gempa-lebih-besar-di-masa-depan"
     },
     {
         "title": "Pemprov Jateng Ajukan Gunung Slamet Peroleh Status Taman Nasional",
         "category": "News",
-        "publish_time": "24-04-2025 12:35",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://news.republika.co.id/berita/sv830c487/pemprov-jateng-ajukan-gunung-slamet-peroleh-status-taman-nasional"
     },
     {
         "title": "Berapa Lama Masa Nifas Menurut Fikih Islam?",
         "category": "Khazanah",
-        "publish_time": "24-04-2025 12:32",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://khazanah.republika.co.id/berita/sv82u5458/berapa-lama-masa-nifas-menurut-fikih-islam"
     },
     {
         "title": "Dukung Penuh Ajang Balap Formula E 2025, Pramono: Harus Full Speed",
         "category": "News",
-        "publish_time": "24-04-2025 12:30",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://news.republika.co.id/berita/sv82qk487/dukung-penuh-ajang-balap-formula-e-2025-pramono-harus-full-speed"
     },
     {
         "title": "Bertemu PM Fiji, Presiden Prabowo Bahas Kerja Sama Pendidikan dan Pertahanan",
         "category": "Visual",
-        "publish_time": "24-04-2025 12:29",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://visual.republika.co.id/berita/sv81b4375/bertemu-pm-fiji-presiden-prabowo-bahas-kerja-sama-pendidikan-dan-pertahanan"
     },
     {
         "title": "Balasan Menohok Kneecap ke Presenter TV Soal Gaza: Bunuh 20 Ribu Anak, Itu Baru Agresif!",
         "category": "Ameera",
-        "publish_time": "24-04-2025 12:28",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://ameera.republika.co.id/berita/sv82nm425/balasan-menohok-kneecap-ke-presenter-tv-soal-gaza-bunuh-20-ribu-anak-itu-baru-agresif"
     },
     {
         "title": "Pengacara Terlibat Suap Rp.60 Miliar, Muhammadiyah: Perilaku yang Mencoreng Profesi",
         "category": "News",
-        "publish_time": "24-04-2025 12:27",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://news.republika.co.id/berita/sv82lb318/pengacara-terlibat-suap-rp60-miliar-muhammadiyah-perilaku-yang-mencoreng-profesi"
     },
     {
         "title": "Kemendagri Catat Ada 341 Usulan Daerah Pemekaran per April 2025",
         "category": "News",
-        "publish_time": "24-04-2025 12:26",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://news.republika.co.id/berita/sv82kb370/kemendagri-catat-ada-341-usulan-daerah-pemekaran-per-april-2025"
     },
     {
         "title": "Sang Jubir Kaum Muslimah di Zaman Nabi",
         "category": "Khazanah",
-        "publish_time": "24-04-2025 12:25",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://khazanah.republika.co.id/berita/sv82cu458/sang-jubir-kaum-muslimah-di-zaman-nabi"
     },
     {
         "title": "Berkas Perkara Bolak-Balik Polri-Kejagung, Kades Kohod pun 'Lepas' dari Penahanan",
         "category": "News",
-        "publish_time": "24-04-2025 12:25",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://news.republika.co.id/berita/sv828h409/berkas-perkara-bolakbalik-polrikejagung-kades-kohod-pun-lepas-dari-penahanan"
     },
     {
         "title": "Garudafood Bagi Dividen Rp 350,33 Miliar, per Saham Jadi Segini",
         "category": "Ekonomi",
-        "publish_time": "24-04-2025 12:25",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sv827x370/garudafood-bagi-dividen-rp-35033-miliar-per-saham-jadi-segini"
     },
     {
         "title": "Sidang Hasto Kristiyanto Kembali Diwarnai Kericuhan",
         "category": "News",
-        "publish_time": "24-04-2025 12:25",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://news.republika.co.id/berita/sv821v409/sidang-hasto-kristiyanto-kembali-diwarnai-kericuhan"
     },
     {
         "title": "Wamentan Singgung Peran Prabowo Ubah Kebijakan Pupuk Subsidi Hingga Produksi Beras Naik",
         "category": "Ekonomi",
-        "publish_time": "24-04-2025 12:25",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://ekonomi.republika.co.id/berita/sv81wg430/wamentan-singgung-peran-prabowo-ubah-kebijakan-pupuk-subsidi-hingga-produksi-beras-naik"
     },
     {
         "title": "Update Klasemen Liga Inggris: Liverpool Cuma Butuh Satu Poin untuk Juara",
         "category": "News",
-        "publish_time": "24-04-2025 12:25",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://news.republika.co.id/berita/sv81w7409/update-klasemen-liga-inggris-liverpool-cuma-butuh-satu-poin-untuk-juara"
     },
     {
         "title": "Musim Kemarau di Depan Mata, Warga DIY Diminta Siapkan Cadangan Air",
         "category": "Rejogja",
-        "publish_time": "24-04-2025 12:25",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://rejogja.republika.co.id/berita/sv81uj282/musim-kemarau-di-depan-mata-warga-diy-diminta-siapkan-cadangan-air"
     },
     {
         "title": "Jadwal Lengkap Pekan Ke-34 Liga Italia Serie A",
         "category": "News",
-        "publish_time": "24-04-2025 12:25",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://news.republika.co.id/berita/sv81ii409/jadwal-lengkap-pekan-ke34-liga-italia-serie-a"
     },
     {
         "title": "Negara Bagian AS Ramai-Ramai Gugat Trump, Sebut Perang Tarif Picu Kekacauan Ekonomi",
         "category": "News",
-        "publish_time": "24-04-2025 12:25",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://news.republika.co.id/berita/sv81e9377/negara-bagian-as-ramairamai-gugat-trump-sebut-perang-tarif-picu-kekacauan-ekonomi"
     },
     {
         "title": "Warga Badui Mau Turun Gunung untuk Perayaan ini",
         "category": "News",
-        "publish_time": "24-04-2025 12:25",
+        "publish_time": "24-04-2025 12:12",
         "news_link": "https://news.republika.co.id/berita/sv80d0451/warga-badui-mau-turun-gunung-untuk-perayaan-ini"
-    },
-    {
-        "title": "Kasus Kematian Mahasiswa UKI Disetop, Ini Temuan Dokter Forensik dari Autopsi Tubuh Kenzha",
-        "category": "News",
-        "publish_time": "24-04-2025 12:25",
-        "news_link": "https://news.republika.co.id/berita/sv81br409/kasus-kematian-mahasiswa-uki-disetop-ini-temuan-dokter-forensik-dari-autopsi-tubuh-kenzha"
-    },
-    {
-        "title": "Makin Menyala, PLTA Batang Toru Tambah Pasokan Listrik Sumatera",
-        "category": "Ekonomi",
-        "publish_time": "24-04-2025 11:25",
-        "news_link": "https://ekonomi.republika.co.id/berita/sv8144451/makin-menyala-plta-batang-toru-tambah-pasokan-listrik-sumatera"
-    },
-    {
-        "title": "Pengembalian Gelang Coldplay di Seoul Jadi yang Tertinggi: 98 Persen, Kalahkan Tokyo",
-        "category": "Ameera",
-        "publish_time": "24-04-2025 11:25",
-        "news_link": "https://ameera.republika.co.id/berita/sv80yl425/pengembalian-gelang-coldplay-di-seoul-jadi-yang-tertinggi-98-persen-kalahkan-tokyo"
-    },
-    {
-        "title": "Geliat Perdagangan di Pasar Mangga Dua Jakarta",
-        "category": "Visual",
-        "publish_time": "24-04-2025 11:25",
-        "news_link": "https://visual.republika.co.id/berita/sv80t2375/geliat-perdagangan-di-pasar-mangga-dua-jakarta"
-    },
-    {
-        "title": "Haji 2025, Garuda Indonesia: Kebanggaan, 7 Tahun Khidmah Terbaik untuk Jamaah Haji",
-        "category": "Khazanah",
-        "publish_time": "24-04-2025 11:25",
-        "news_link": "https://khazanah.republika.co.id/berita/sv8021451/haji-2025-garuda-indonesia-kebanggaan-7-tahun-khidmah-terbaik-untuk-jamaah-haji"
-    },
-    {
-        "title": "Calhaj Jangan Sampai Keliru Maknai Hadis Pahala Shalat di Masjidil Haram",
-        "category": "Khazanah",
-        "publish_time": "24-04-2025 11:25",
-        "news_link": "https://khazanah.republika.co.id/berita/sv80mw458/calhaj-jangan-sampai-keliru-maknai-hadis-pahala-shalat-di-masjidil-haram"
-    },
-    {
-        "title": "Singapura Penyumbang Terbesar Investasi di Indonesia",
-        "category": "Ekonomi",
-        "publish_time": "24-04-2025 11:25",
-        "news_link": "https://ekonomi.republika.co.id/berita/sv80lb423/singapura-penyumbang-terbesar-investasi-di-indonesia"
-    },
-    {
-        "title": "Tak Jua Sampai di Shanghai, Warga China Ditemukan Tewas Gantung Diri di Bandara Soetta",
-        "category": "News",
-        "publish_time": "24-04-2025 11:25",
-        "news_link": "https://news.republika.co.id/berita/sv80kz377/tak-jua-sampai-di-shanghai-warga-china-ditemukan-tewas-gantung-diri-di-bandara-soetta"
-    },
-    {
-        "title": "Kone Academy Upgrade Fasilitas: Cetak Ahli Lift Eskalator Era Digital dan AI",
-        "category": "News",
-        "publish_time": "24-04-2025 11:25",
-        "news_link": "https://news.republika.co.id/berita/sv7mbx349/kone-academy-upgrade-fasilitas-cetak-ahli-lift-eskalator-era-digital-dan-ai"
-    },
-    {
-        "title": "Bersama Rasulullah SAW di Surga",
-        "category": "Khazanah",
-        "publish_time": "24-04-2025 11:25",
-        "news_link": "https://khazanah.republika.co.id/berita/sv800q458/bersama-rasulullah-saw-di-surga"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok untuk Kota Padang dan Sekitarnya, 25 April 2025",
-        "category": "News",
-        "publish_time": "24-04-2025 11:25",
-        "news_link": "https://news.republika.co.id/berita/sv7zwx584644053/prakiraan-cuaca-besok-untuk-kota-padang-dan-sekitarnya-25-april-2025"
-    },
-    {
-        "title": "Kemenhut Dorong Kolaborasi Pemetaan untuk Percepat Rehabilitasi Hutan",
-        "category": "Esgnow",
-        "publish_time": "24-04-2025 11:25",
-        "news_link": "https://esgnow.republika.co.id/berita/sv7zwx416/kemenhut-dorong-kolaborasi-pemetaan-untuk-percepat-rehabilitasi-hutan"
-    },
-    {
-        "title": "Sekolah Rakyat, Mensos: Saya Memberikan Rasa Hormat kepada Daerah",
-        "category": "News",
-        "publish_time": "24-04-2025 11:25",
-        "news_link": "https://news.republika.co.id/berita/sv7zsg451/sekolah-rakyat-mensos-saya-memberikan-rasa-hormat-kepada-daerah"
     }
 ]
