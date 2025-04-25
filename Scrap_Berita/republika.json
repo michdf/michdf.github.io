@@ -1,116 +1,218 @@
 [
     {
+        "title": "Sepuluh Lifter Indonesia Berlaga pada Kejuaraan Asia 2025",
+        "category": "News",
+        "publish_time": "25-04-2025 15:06",
+        "news_link": "https://news.republika.co.id/berita/sva4m3348/sepuluh-lifter-indonesia-berlaga-pada-kejuaraan-asia-2025"
+    },
+    {
+        "title": "Polisi: Pegawai Unram Perkosa Mahasiswi Saat Korban Kesurupan",
+        "category": "News",
+        "publish_time": "25-04-2025 15:00",
+        "news_link": "https://news.republika.co.id/berita/sva01j377/polisi-pegawai-unram-perkosa-mahasiswi-saat-korban-kesurupan"
+    },
+    {
+        "title": "Pembangunan LRT Jakarta Fase 1B Velodrome-Manggarai Ditargetkan Rampung di 2026",
+        "category": "Visual",
+        "publish_time": "25-04-2025 15:00",
+        "news_link": "https://visual.republika.co.id/berita/sva3tj375/pembangunan-lrt-jakarta-fase-1b-velodromemanggarai-ditargetkan-rampung-di-2026"
+    },
+    {
+        "title": "ASN Temanggung Ditemukan Meninggal Saat Mendaki Gunung Merbabu",
+        "category": "News",
+        "publish_time": "25-04-2025 15:00",
+        "news_link": "https://news.republika.co.id/berita/sva0sd377/asn-temanggung-ditemukan-meninggal-saat-mendaki-gunung-merbabu"
+    },
+    {
+        "title": "Suriah Tangkap Pimpinan Pejuang Palestina, MUI: Tersandera Amerika",
+        "category": "Khazanah",
+        "publish_time": "25-04-2025 14:58",
+        "news_link": "https://khazanah.republika.co.id/berita/sva4a8430/suriah-tangkap-pimpinan-pejuang-palestina-mui-tersandera-amerika"
+    },
+    {
+        "title": "Lewandowski dan Alejandro Balde Absen Bela Barcelona pada Final Copa Del Rey Kontra Madrid",
+        "category": "News",
+        "publish_time": "25-04-2025 14:55",
+        "news_link": "https://news.republika.co.id/berita/sva448348/lewandowski-dan-alejandro-balde-absen-bela-barcelona-pada-final-copa-del-rey-kontra-madrid"
+    },
+    {
+        "title": "Atlet Muda Yad Hapizudin Sabet Emas di Singapore Open Track and Field Championships 2025",
+        "category": "News",
+        "publish_time": "25-04-2025 14:45",
+        "news_link": "https://news.republika.co.id/berita/sva3o7348/atlet-muda-yad-hapizudin-sabet-emas-di-singapore-open-track-and-field-championships-2025"
+    },
+    {
+        "title": "Kemenag Umumkan Hasil Seleksi Petugas Haji, Dikirim Lewat WA Blast",
+        "category": "Khazanah",
+        "publish_time": "25-04-2025 14:41",
+        "news_link": "https://khazanah.republika.co.id/berita/sva3gp366/kemenag-umumkan-hasil-seleksi-petugas-haji-dikirim-lewat-wa-blast"
+    },
+    {
+        "title": "Novel Benny Arnas Saranghaeyo Ukhti Sudah Rilis, Bisa Baca Gratis",
+        "category": "Network",
+        "publish_time": "25-04-2025 14:40",
+        "news_link": "https://kingdomsriwijaya.id/posts/522175/novel-benny-arnas-saranghaeyo-ukhti-sudah-rilis-bisa-baca-gratis"
+    },
+    {
+        "title": "Motor Royal Enfield Ridwan Kamil Terdaftar Atas Nama Orang Lain",
+        "category": "News",
+        "publish_time": "25-04-2025 14:36",
+        "news_link": "https://news.republika.co.id/berita/sva39a370/motor-royal-enfield-ridwan-kamil-terdaftar-atas-nama-orang-lain"
+    },
+    {
+        "title": "Rencana Matang Buat Malut United Bangkit dari Ketertinggalan untuk Kalahkan Dewa United",
+        "category": "News",
+        "publish_time": "25-04-2025 14:35",
+        "news_link": "https://news.republika.co.id/berita/sva37k348/rencana-matang-buat-malut-united-bangkit-dari-ketertinggalan-untuk-kalahkan-dewa-united"
+    },
+    {
+        "title": "Kemendukbangga Galakkan Vasektomi Tingkatkan Peran Ayah dalam Keluarga",
+        "category": "News",
+        "publish_time": "25-04-2025 14:33",
+        "news_link": "https://news.republika.co.id/berita/sva33q484/kemendukbangga-galakkan-vasektomi-tingkatkan-peran-ayah-dalam-keluarga"
+    },
+    {
+        "title": "Usul Solo Jadi Daerah Istimewa, Anggota DPR: Tak Ada Lagi yang Perlu Diistimewakan",
+        "category": "News",
+        "publish_time": "25-04-2025 14:30",
+        "news_link": "https://news.republika.co.id/berita/sva0g8377/usul-solo-jadi-daerah-istimewa-anggota-dpr-tak-ada-lagi-yang-perlu-diistimewakan"
+    },
+    {
+        "title": "Flyover Grogol Rawan Kecelakaan, Legislator Desak Perbaikan Jalan",
+        "category": "News",
+        "publish_time": "25-04-2025 14:30",
+        "news_link": "https://news.republika.co.id/berita/sva00e416/flyover-grogol-rawan-kecelakaan-legislator-desak-perbaikan-jalan"
+    },
+    {
+        "title": "Kisah Rohman, Lulusan UNM Ini Sukses Bangun Usaha Kuliner Ayam Geprek Umi Eni",
+        "category": "News",
+        "publish_time": "25-04-2025 14:26",
+        "news_link": "https://news.republika.co.id/berita/sva2rn368/kisah-rohman-lulusan-unm-ini-sukses-bangun-usaha-kuliner-ayam-geprek-umi-eni"
+    },
+    {
+        "title": "Pusat Kesejahteraan Anak di Sumbawa Siap Tampung 300 Anak Terlantar",
+        "category": "Khazanah",
+        "publish_time": "25-04-2025 14:18",
+        "news_link": "https://khazanah.republika.co.id/berita/sva2f3416/pusat-kesejahteraan-anak-di-sumbawa-siap-tampung-300-anak-terlantar"
+    },
+    {
+        "title": "Gandeng Orangekloud, UNM Siap Hadirkan Aplikasi tanpa Harus Coding",
+        "category": "News",
+        "publish_time": "25-04-2025 14:18",
+        "news_link": "https://news.republika.co.id/berita/sva2f1368/gandeng-orangekloud-unm-siap-hadirkan-aplikasi-tanpa-harus-coding"
+    },
+    {
         "title": "BNI Salurkan Kredit Rp 1,51 Triliun untuk Pembangunan Pabrik VinFast",
         "category": "Ekonomi",
-        "publish_time": "25-04-2025 14:11",
+        "publish_time": "25-04-2025 14:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sva22u370/bni-salurkan-kredit-rp-151-triliun-untuk-pembangunan-pabrik-vinfast"
     },
     {
         "title": "Naik 6 Persen, Pelindo Multi Terminal Sukses Layani Angkutan Lebaran 2025",
         "category": "Ekonomi",
-        "publish_time": "25-04-2025 14:09",
+        "publish_time": "25-04-2025 14:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sva1zm368/naik-6-persen-pelindo-multi-terminal-sukses-layani-angkutan-lebaran-2025"
     },
     {
         "title": "Pameran Maritim Terbesar Kembali Digelar di Jakarta, Ada Apa Saja di Dalamnya?",
         "category": "Ekonomi",
-        "publish_time": "25-04-2025 14:08",
+        "publish_time": "25-04-2025 14:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sv9lxi349/pameran-maritim-terbesar-kembali-digelar-di-jakarta-ada-apa-saja-di-dalamnya"
     },
     {
         "title": "Revisi Permendag 8 Masih Menunggu Satgas Deregulasi",
         "category": "Ekonomi",
-        "publish_time": "25-04-2025 14:03",
+        "publish_time": "25-04-2025 14:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sva1qb370/revisi-permendag-8-masih-menunggu-satgas-deregulasi"
     },
     {
         "title": "MUI Tanggapi Suriah yang Tangkap Pimpinan Pejuang Palestina",
         "category": "Khazanah",
-        "publish_time": "25-04-2025 14:02",
+        "publish_time": "25-04-2025 14:14",
         "news_link": "https://khazanah.republika.co.id/berita/sva1oe430/mui-tanggapi-suriah-yang-tangkap-pimpinan-pejuang-palestina"
-    },
-    {
-        "title": "Sektor Swasta Diminta Berperan Aktif dalam Pendanaan Iklim",
-        "category": "Esgnow",
-        "publish_time": "25-04-2025 13:59",
-        "news_link": "https://esgnow.republika.co.id/berita/sv9xb8416/sektor-swasta-diminta-berperan-aktif-dalam-pendanaan-iklim"
     },
     {
         "title": "350 Warga Binaan Rutan Kelas IIB Serang Jalani Pemeriksaan Kesehatan dan HIV",
         "category": "Visual",
-        "publish_time": "25-04-2025 13:59",
+        "publish_time": "25-04-2025 14:14",
         "news_link": "https://visual.republika.co.id/berita/sv9y5x375/350-warga-binaan-rutan-kelas-iib-serang-jalani-pemeriksaan-kesehatan-dan-hiv"
+    },
+    {
+        "title": "Sektor Swasta Diminta Berperan Aktif dalam Pendanaan Iklim",
+        "category": "Esgnow",
+        "publish_time": "25-04-2025 14:14",
+        "news_link": "https://esgnow.republika.co.id/berita/sv9xb8416/sektor-swasta-diminta-berperan-aktif-dalam-pendanaan-iklim"
     },
     {
         "title": "YPKAI Galang Dana Lewat Aksi Maraton 57 Km untuk Anak Pejuang Kanker",
         "category": "Ameera",
-        "publish_time": "25-04-2025 13:49",
+        "publish_time": "25-04-2025 14:14",
         "news_link": "https://ameera.republika.co.id/berita/sv9znd416/ypkai-galang-dana-lewat-aksi-maraton-57-km-untuk-anak-pejuang-kanker"
     },
     {
         "title": "Guru Besar UI Ajak Bangun Bangsa dengan Memanfaatkan Kearifan Lokal",
         "category": "News",
-        "publish_time": "25-04-2025 13:48",
+        "publish_time": "25-04-2025 14:14",
         "news_link": "https://news.republika.co.id/berita/sv9vo1451/guru-besar-ui-ajak-bangun-bangsa-dengan-memanfaatkan-kearifan-lokal"
     },
     {
         "title": "Viral Truk Tronton Berjalan Mundur lagi di Ruas Tol Purbaleunyi, Ini Kronologinya",
         "category": "Rejabar",
-        "publish_time": "25-04-2025 13:47",
+        "publish_time": "25-04-2025 14:14",
         "news_link": "https://rejabar.republika.co.id/berita/sva0zc512/viral-truk-tronton-berjalan-mundur-lagi-di-ruas-tol-purbaleunyi-ini-kronologinya"
     },
     {
         "title": "Pelindo Jalankan Program Tahap Kedua Restorasi Ekosistem Pesisir",
         "category": "Esgnow",
-        "publish_time": "25-04-2025 13:44",
+        "publish_time": "25-04-2025 14:14",
         "news_link": "https://esgnow.republika.co.id/berita/sva0j5370/pelindo-jalankan-program-tahap-kedua-restorasi-ekosistem-pesisir"
     },
     {
         "title": "Trauma Healing dan Rehabilitasi Anak Bangsa yang Pernah Terpapar Konflik Dinilai Penting",
         "category": "Resumatra",
-        "publish_time": "25-04-2025 13:41",
+        "publish_time": "25-04-2025 13:14",
         "news_link": "https://republika.co.id/berita//sva0op291/trauma-healing-dan-rehabilitasi-anak-bangsa-yang-pernah-terpapar-konflik-dinilai-penting"
     },
     {
         "title": "KAI Dukung Rencana KDM Reaktivasi Jalur Kereta Api di Jabar",
         "category": "Ekonomi",
-        "publish_time": "25-04-2025 13:30",
+        "publish_time": "25-04-2025 13:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sva07o370/kai-dukung-rencana-kdm-reaktivasi-jalur-kereta-api-di-jabar"
     },
     {
         "title": "Industri Batubara Penuh Tantangan, ABM Investama Tunjukkan Resiliensi dan Komitmen ESG",
         "category": "Esgnow",
-        "publish_time": "25-04-2025 13:26",
+        "publish_time": "25-04-2025 13:14",
         "news_link": "https://esgnow.republika.co.id/berita/sva004291/industri-batubara-penuh-tantangan-abm-investama-tunjukkan-resiliensi-dan-komitmen-esg"
     },
     {
         "title": "IKA ITS Selenggarakan Marine Digital Summit 2025",
         "category": "News",
-        "publish_time": "25-04-2025 13:20",
+        "publish_time": "25-04-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/sv9uwp451/ika-its-selenggarakan-marine-digital-summit-2025"
     },
     {
         "title": "Hampir 2.000 CPNS Mundur, Ini Penyebabnya Menurut Puan Maharani",
         "category": "News",
-        "publish_time": "25-04-2025 13:18",
+        "publish_time": "25-04-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/sv9zng377/hampir-2000-cpns-mundur-ini-penyebabnya-menurut-puan-maharani"
     },
     {
         "title": "Kelurahan Cimpaeun Depok Ajak Warga Bersihkan Sampah Liar di Jalan Raya Tapos RW 17",
         "category": "Network",
-        "publish_time": "25-04-2025 13:17",
+        "publish_time": "25-04-2025 13:14",
         "news_link": "https://ruzkaindonesia.id/posts/522166/kelurahan-cimpaeun-depok-ajak-warga-bersihkan-sampah-liar-di-jalan-raya-tapos-rw-17"
     },
     {
         "title": "Hadits ke-27 Arbain Nawawi: Kebaikan dan Akhlak",
         "category": "Network",
-        "publish_time": "25-04-2025 13:17",
+        "publish_time": "25-04-2025 13:14",
         "news_link": "https://sajada.id/posts/522151/hadits-ke-27-arbain-nawawi-kebaikan-dan-akhlak"
     },
     {
         "title": "Viral, Polisi Lakukan Pungli ke Pemotor di Jalan Cadas Pangeran Sumedang",
         "category": "Rejabar",
-        "publish_time": "25-04-2025 13:15",
+        "publish_time": "25-04-2025 13:14",
         "news_link": "https://rejabar.republika.co.id/berita/sv9zh1512/viral-polisi-lakukan-pungli-ke-pemotor-di-jalan-cadas-pangeran-sumedang"
     },
     {
@@ -122,181 +224,79 @@
     {
         "title": "Investor dan Nilai Reksa Dana Mirae Asset Meningkat di Kuartal I 2025",
         "category": "Ekonomi",
-        "publish_time": "25-04-2025 13:13",
+        "publish_time": "25-04-2025 13:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sv9ywo370/investor-dan-nilai-reksa-dana-mirae-asset-meningkat-di-kuartal-i-2025"
     },
     {
         "title": "Terekam Kamera, Polisi Ambil Duit Sogokan Tilang di Jalan Cadas Pangeran Sumedang",
         "category": "News",
-        "publish_time": "25-04-2025 13:13",
+        "publish_time": "25-04-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/sv9yrq377/terekam-kamera-polisi-ambil-duit-sogokan-tilang-di-jalan-cadas-pangeran-sumedang"
     },
     {
         "title": "Arne Slot Ingin Liverpool Segera Pastikan Gelar Juara Liga Inggris",
         "category": "News",
-        "publish_time": "25-04-2025 13:13",
+        "publish_time": "25-04-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/sv9yio348/arne-slot-ingin-liverpool-segera-pastikan-gelar-juara-liga-inggris"
     },
     {
         "title": "Kemenag Perpanjang Pelunasan Biaya Haji Reguler untuk Empat Provinsi",
         "category": "Khazanah",
-        "publish_time": "25-04-2025 13:13",
+        "publish_time": "25-04-2025 13:14",
         "news_link": "https://khazanah.republika.co.id/berita/sv9y8n377/kemenag-perpanjang-pelunasan-biaya-haji-reguler-untuk-empat-provinsi"
     },
     {
         "title": "Santri Syaikhona Kholil dan Mbah Hasyim yang Jadi Pejuang di Pringsewu",
         "category": "Khazanah",
-        "publish_time": "25-04-2025 13:13",
+        "publish_time": "25-04-2025 13:14",
         "news_link": "https://khazanah.republika.co.id/berita/sv9vi9451/santri-syaikhona-kholil-dan-mbah-hasyim-yang-jadi-pejuang-di-pringsewu"
     },
     {
         "title": "Pertamina Siapkan 95.700 Kiloliter Avtur untuk Penerbangan Haji 2025",
         "category": "Ekonomi",
-        "publish_time": "25-04-2025 12:13",
+        "publish_time": "25-04-2025 12:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sv9y0g370/pertamina-siapkan-95700-kiloliter-avtur-untuk-penerbangan-haji-2025"
     },
     {
         "title": "Grand Dafam Braga Bandung Tunjukkan Cinta Budaya Lewat Busana Daerah",
         "category": "Rejabar",
-        "publish_time": "25-04-2025 12:13",
+        "publish_time": "25-04-2025 12:14",
         "news_link": "https://rejabar.republika.co.id/berita/sv9xzz368/grand-dafam-braga-bandung-tunjukkan-cinta-budaya-lewat-busana-daerah"
     },
     {
         "title": "Hasil Tes Psikologi Dokter Residen Perkosa Keluarga Pasien di RSHS Diumumkan Senin",
         "category": "Rejabar",
-        "publish_time": "25-04-2025 12:13",
+        "publish_time": "25-04-2025 12:14",
         "news_link": "https://rejabar.republika.co.id/berita/sv9xu0512/hasil-tes-psikologi-dokter-residen-perkosa-keluarga-pasien-di-rshs-diumumkan-senin"
     },
     {
         "title": "Motor Royal Enfield Ridwan Kamil Disita KPK",
         "category": "Visual",
-        "publish_time": "25-04-2025 12:13",
+        "publish_time": "25-04-2025 12:14",
         "news_link": "https://visual.republika.co.id/berita/sv9xia375/motor-royal-enfield-ridwan-kamil-disita-kpk"
     },
     {
         "title": "Ekonom Sebut DHE 100 Persen Stabilkan Cadangan Devisa dan Kurs Rupiah",
         "category": "Ekonomi",
-        "publish_time": "25-04-2025 12:13",
+        "publish_time": "25-04-2025 12:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sv9xh2370/ekonom-sebut-dhe-100-persen-stabilkan-cadangan-devisa-dan-kurs-rupiah"
     },
     {
         "title": "Jenderal Rusia Tewas Dihantam Bom Mobil",
         "category": "News",
-        "publish_time": "25-04-2025 12:13",
+        "publish_time": "25-04-2025 12:14",
         "news_link": "https://news.republika.co.id/berita/sv9x8x377/jenderal-rusia-tewas-dihantam-bom-mobil"
     },
     {
         "title": "The Fed Buka Pintu Pemotongan Suku Bunga, Rupiah Menguat",
         "category": "Ekonomi",
-        "publish_time": "25-04-2025 12:13",
+        "publish_time": "25-04-2025 12:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sv9wyd370/the-fed-buka-pintu-pemotongan-suku-bunga-rupiah-menguat"
     },
     {
         "title": "BRI: Penyaluran KUR pada Kuartal I 2025 Capai Rp 42,2Triliun",
         "category": "Ekonomi",
-        "publish_time": "25-04-2025 12:13",
+        "publish_time": "25-04-2025 12:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sv9woi370/bri-penyaluran-kur-pada-kuartal-i-2025-capai-rp-422triliun"
-    },
-    {
-        "title": "Indo Beatlemania Club Aktif Kembali, Siap Rangkul Generasi Muda",
-        "category": "Ameera",
-        "publish_time": "25-04-2025 12:13",
-        "news_link": "https://ameera.republika.co.id/berita/sv9wck425/indo-beatlemania-club-aktif-kembali-siap-rangkul-generasi-muda"
-    },
-    {
-        "title": "OJK Ajak Investor Pilih Emiten Peduli Lingkungan",
-        "category": "Esgnow",
-        "publish_time": "25-04-2025 12:13",
-        "news_link": "https://esgnow.republika.co.id/berita/sv9waj416/ojk-ajak-investor-pilih-emiten-peduli-lingkungan"
-    },
-    {
-        "title": "LSI Menilai Bupati Bandung Cerdas Terjemahkan Program Besar Prabowo",
-        "category": "News",
-        "publish_time": "25-04-2025 12:13",
-        "news_link": "https://news.republika.co.id/berita/sv9vj4318/lsi-menilai-bupati-bandung-cerdas-terjemahkan-program-besar-prabowo"
-    },
-    {
-        "title": "Mengapa Prabowo Tunjuk Jokowi Sebagai Utusan ke Vatikan, Bukan Menag? Ini Alasannya",
-        "category": "News",
-        "publish_time": "25-04-2025 12:13",
-        "news_link": "https://news.republika.co.id/berita/sv9vj7377/mengapa-prabowo-tunjuk-jokowi-sebagai-utusan-ke-vatikan-bukan-menag-ini-alasannya"
-    },
-    {
-        "title": "Sinagog AS Tutup Pintu Bagi Politisi Ekstremis Israel Ben Gvir",
-        "category": "Khazanah",
-        "publish_time": "25-04-2025 12:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sv9vbd451/sinagog-as-tutup-pintu-bagi-politisi-ekstremis-israel-ben-gvir"
-    },
-    {
-        "title": "Hidup Normal Lagi Setelah Sakit Jantung? Rehabilitasi Jantung Jawabannya",
-        "category": "Ameera",
-        "publish_time": "25-04-2025 12:13",
-        "news_link": "https://ameera.republika.co.id/berita/sv9vbd425/hidup-normal-lagi-setelah-sakit-jantung-rehabilitasi-jantung-jawabannya"
-    },
-    {
-        "title": "Hari Bumi 2025, Bimas Buddha Kemenag Gelar Aksi Pelestarian Lingkungan",
-        "category": "News",
-        "publish_time": "25-04-2025 11:13",
-        "news_link": "https://news.republika.co.id/berita/sv9v6d451/hari-bumi-2025-bimas-buddha-kemenag-gelar-aksi-pelestarian-lingkungan"
-    },
-    {
-        "title": "Yayasan Mitra Program MBG di Kalibata Bantah Gelapkan Dana",
-        "category": "News",
-        "publish_time": "25-04-2025 11:13",
-        "news_link": "https://news.republika.co.id/berita/sv9uym348/yayasan-mitra-program-mbg-di-kalibata-bantah-gelapkan-dana"
-    },
-    {
-        "title": "Longsor di Jalan Penghubung Cirebon Kuningan Ditangani Darurat",
-        "category": "Rejabar",
-        "publish_time": "25-04-2025 11:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sv9uw8512/longsor-di-jalan-penghubung-cirebon-kuningan-ditangani-darurat"
-    },
-    {
-        "title": "KPK Sebut Motor Royal Enfield Classic 500 tak Ada di LHKPN Ridwan Kamil",
-        "category": "News",
-        "publish_time": "25-04-2025 11:13",
-        "news_link": "https://news.republika.co.id/berita/sv9upw484/kpk-sebut-motor-royal-enfield-classic-500-tak-ada-di-lhkpn-ridwan-kamil"
-    },
-    {
-        "title": "Anak Muda Rentan Alami Duck Syndrome, Ini Pemicunya Menurut Psikolog",
-        "category": "Ameera",
-        "publish_time": "25-04-2025 11:13",
-        "news_link": "https://ameera.republika.co.id/berita/sv9uni425/anak-muda-rentan-alami-duck-syndrome-ini-pemicunya-menurut-psikolog"
-    },
-    {
-        "title": "Biksu Thudong Asal Thailand Lintasi Pantura Indramayu, Polisi Beri Pengamanan",
-        "category": "Rejabar",
-        "publish_time": "25-04-2025 11:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sv9tyj512/biksu-thudong-asal-thailand-lintasi-pantura-indramayu-polisi-beri-pengamanan"
-    },
-    {
-        "title": "Polres Indramayu Ultimatum DPO Begal Sadis, Beri Waktu 3X24 Jam",
-        "category": "Rejabar",
-        "publish_time": "25-04-2025 11:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sv9tet512/polres-indramayu-ultimatum-dpo-begal-sadis-beri-waktu-3x24-jam"
-    },
-    {
-        "title": "900 Petani Lokal Dukung NanasQu Binaan Pertamina Tembus Pasar Ekspor",
-        "category": "Esgnow",
-        "publish_time": "25-04-2025 11:13",
-        "news_link": "https://esgnow.republika.co.id/berita/sv9ssj368/900-petani-lokal-dukung-nanasqu-binaan-pertamina-tembus-pasar-ekspor"
-    },
-    {
-        "title": "Legislator Minta Pemprov DKI Perbaiki Jalan Rusak di Flyover Grogol",
-        "category": "News",
-        "publish_time": "25-04-2025 11:13",
-        "news_link": "https://news.republika.co.id/berita/sv9sn3484/legislator-minta-pemprov-dki-perbaiki-jalan-rusak-di-flyover-grogol"
-    },
-    {
-        "title": "Kunjungi Mesir, Menlu Italia Sampaikan Dukung Rencana Arab Bangun Kembali Gaza",
-        "category": "News",
-        "publish_time": "25-04-2025 11:13",
-        "news_link": "https://news.republika.co.id/berita/sv9skd348/kunjungi-mesir-menlu-italia-sampaikan-dukung-rencana-arab-bangun-kembali-gaza"
-    },
-    {
-        "title": "Pakistan Belajar KB ke Indonesia, Soroti Peran Ustadz Edukasi Masyarakat",
-        "category": "News",
-        "publish_time": "25-04-2025 10:13",
-        "news_link": "https://news.republika.co.id/berita/sv9s3h484/pakistan-belajar-kb-ke-indonesia-soroti-peran-ustadz-edukasi-masyarakat"
     }
 ]
