@@ -1,5 +1,65 @@
 [
     {
+        "title": "Waskita Mulai Bangun Gedung DPRD DIY senilai Rp 293,8 Miliar",
+        "category": "Ekonomi",
+        "publish_time": "26 April 2025, 22:08",
+        "news_link": "https://ekonomi.republika.co.id/berita/svblnu370/waskita-mulai-bangun-gedung-dprd-diy-senilai-rp-2938-miliar"
+    },
+    {
+        "title": "Orang-orang Pilihan Allah",
+        "category": "Khazanah",
+        "publish_time": "26 April 2025, 21:47",
+        "news_link": "https://khazanah.republika.co.id/berita/svbyek458/orangorang-pilihan-allah"
+    },
+    {
+        "title": "Ledakan Hebat Terjadi di Pelabuhan Iran, Ini Dugaan Sumber Penyebabnya",
+        "category": "News",
+        "publish_time": "26 April 2025, 21:45",
+        "news_link": "https://news.republika.co.id/berita/svbwh2377/ledakan-hebat-terjadi-di-pelabuhan-iran-ini-dugaan-sumber-penyebabnya"
+    },
+    {
+        "title": "Akibat Tarif Trump, Produsen Tas Outdoor Asal Bandung Torch Tertunda Ekspansi ke Amerika",
+        "category": "Rejabar",
+        "publish_time": "26 April 2025, 21:42",
+        "news_link": "https://rejabar.republika.co.id/berita/svby61512/akibat-tarif-trump-produsen-tas-outdoor-asal-bandung-torch-tertunda-ekspansi-ke-amerika"
+    },
+    {
+        "title": "Kasus Penyelundupan Narkoba, Tiga Anggota Polisi Terancam Dipecat",
+        "category": "Rejogja",
+        "publish_time": "26 April 2025, 21:36",
+        "news_link": "https://rejogja.republika.co.id/berita/svbxwx458/kasus-penyelundupan-narkoba-tiga-anggota-polisi-terancam-dipecat"
+    },
+    {
+        "title": "Buka Kornas, Mentan Pastikan PPL Bergerak Wujudkan Swasembada Pangan",
+        "category": "Ekonomi",
+        "publish_time": "26 April 2025, 21:31",
+        "news_link": "https://ekonomi.republika.co.id/berita/svbxp6472/buka-kornas-mentan-pastikan-ppl-bergerak-wujudkan-swasembada-pangan"
+    },
+    {
+        "title": "Cegah Abrasi Laut, Pelajar Tanam Ribuan Bibit Mangrove",
+        "category": "Visual",
+        "publish_time": "26 April 2025, 21:30",
+        "news_link": "https://visual.republika.co.id/berita/svbtkp375/cegah-abrasi-laut-pelajar-tanam-ribuan-bibit-mangrove"
+    },
+    {
+        "title": "Persib Semakin Dekat dengan Gelar Juara Liga 1 Usai Kalahkan PSS Sleman 3-0",
+        "category": "News",
+        "publish_time": "26 April 2025, 21:15",
+        "news_link": "https://news.republika.co.id/berita/svbwxq409/persib-semakin-dekat-dengan-gelar-juara-liga-1-usai-kalahkan-pss-sleman-30"
+    },
+    {
+        "title": "Terdampak Pandemi, Perajin Aksesori Kulit Cabaco Bangkit dengan Omzet Ratusan Juta",
+        "category": "Rejabar",
+        "publish_time": "26 April 2025, 21:15",
+        "news_link": "https://rejabar.republika.co.id/berita/svbwx6512/terdampak-pandemi-perajin-aksesori-kulit-cabaco-bangkit-dengan-omzet-ratusan-juta"
+    },
+    {
+        "title": "Iran Pecat Pejabat Televisi yang Hina Sunni dan Arab Saudi",
+        "category": "News",
+        "publish_time": "26 April 2025, 21:15",
+        "news_link": "https://news.republika.co.id/berita/svbw0m377/iran-pecat-pejabat-televisi-yang-hina-sunni-dan-arab-saudi"
+    },
+    {
         "title": "Amran Optimistis Produksi Beras 2025 Di Atas Target 32 Juta Ton",
         "category": "Ekonomi",
         "publish_time": "26 April 2025, 21:10",
@@ -238,65 +298,5 @@
         "category": "News",
         "publish_time": "26 April 2025, 18:59",
         "news_link": "https://news.republika.co.id/berita/svbqnu377/ledakan-hebat-terjadi-di-pelabuhan-iran-lebih-dari-406-orang-terluka"
-    },
-    {
-        "title": "Antusiasme Warga Hadiri Gelaran Lebaran Betawi 2025",
-        "category": "Visual",
-        "publish_time": "26 April 2025, 18:39",
-        "news_link": "https://visual.republika.co.id/berita/svbpqh375/antusiasme-warga-hadiri-gelaran-lebaran-betawi-2025"
-    },
-    {
-        "title": "Tiada Sebanding dengan Khusyuknya Ibadah",
-        "category": "Khazanah",
-        "publish_time": "26 April 2025, 18:37",
-        "news_link": "https://khazanah.republika.co.id/berita/svbplw458/tiada-sebanding-dengan-khusyuknya-ibadah"
-    },
-    {
-        "title": "Cak Lontong dan Sutiyoso Diangkat Jadi Komisaris Ancol",
-        "category": "Ekonomi",
-        "publish_time": "26 April 2025, 18:35",
-        "news_link": "https://ekonomi.republika.co.id/berita/svbpjp370/cak-lontong-dan-sutiyoso-diangkat-jadi-komisaris-ancol"
-    },
-    {
-        "title": "Pramono Pilih Bebaskan Ijazah Warga Jakarta yang Tersandera, Daripada Putihkan Pajak Mobil",
-        "category": "News",
-        "publish_time": "26 April 2025, 18:30",
-        "news_link": "https://news.republika.co.id/berita/svbpas377/pramono-pilih-bebaskan-ijazah-warga-jakarta-yang-tersandera-daripada-putihkan-pajak-mobil"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok di Kota Padang dan Sekitarnya pada 27 April 2025",
-        "category": "News",
-        "publish_time": "26 April 2025, 18:29",
-        "news_link": "https://news.republika.co.id/berita/svbp8o1142688069/prakiraan-cuaca-besok-di-kota-padang-dan-sekitarnya-pada-27-april-2025"
-    },
-    {
-        "title": "Gubernur Berikan Pembinaan kepada Kepala Sekolah Negeri se-Provinsi Banten",
-        "category": "News",
-        "publish_time": "26 April 2025, 18:25",
-        "news_link": "https://news.republika.co.id/berita/svbp1z472/gubernur-berikan-pembinaan-kepada-kepala-sekolah-negeri-seprovinsi-banten"
-    },
-    {
-        "title": "Perlukah iPhone 16 Pakai Casing? Simak Penjelasannya Berikut Ini",
-        "category": "Ameera",
-        "publish_time": "26 April 2025, 18:23",
-        "news_link": "https://ameera.republika.co.id/berita/svboyp425/perlukah-iphone-16-pakai-casing-simak-penjelasannya-berikut-ini"
-    },
-    {
-        "title": "Putra Wakil Direktur CIA Tewas Saat Berperang Bela Rusia",
-        "category": "News",
-        "publish_time": "26 April 2025, 18:14",
-        "news_link": "https://news.republika.co.id/berita/svbokk377/putra-wakil-direktur-cia-tewas-saat-berperang-bela-rusia"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok, 27 April 2025: Kota Banda Aceh dan Sekitarnya Cerah Berawan",
-        "category": "News",
-        "publish_time": "26 April 2025, 18:08",
-        "news_link": "https://news.republika.co.id/berita/svbo9s1103185244/prakiraan-cuaca-besok-27-april-2025-kota-banda-aceh-dan-sekitarnya-cerah-berawan"
-    },
-    {
-        "title": "Ini Penyebab Anak Jadi Kidal, Bukan karena Salah Didik",
-        "category": "Ameera",
-        "publish_time": "26 April 2025, 18:06",
-        "news_link": "https://ameera.republika.co.id/berita/svbo6a425/ini-penyebab-anak-jadi-kidal-bukan-karena-salah-didik"
     }
 ]
