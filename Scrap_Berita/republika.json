@@ -1,92 +1,236 @@
 [
     {
+        "title": "Prakiraan Cuaca Besok Kota Semarang: Cerah Berawan 1 Mei 2025",
+        "category": "News",
+        "publish_time": "30-04-2025 08:13",
+        "news_link": "https://news.republika.co.id/berita/sviuu6672925104/prakiraan-cuaca-besok-kota-semarang-cerah-berawan-1-mei-2025"
+    },
+    {
+        "title": "Defisit APBN Capai 0,43 Persen pada Maret 2025, Sri Mulyani: Sesuai Desain",
+        "category": "Ekonomi",
+        "publish_time": "30-04-2025 08:11",
+        "news_link": "https://ekonomi.republika.co.id/berita/sviuqj370/defisit-apbn-capai-043-persen-pada-maret-2025-sri-mulyani-sesuai-desain"
+    },
+    {
+        "title": "Soal Besaran Upah Buruh, Menteri Airlangga: Besok Saya Panggil Pengusaha Industri",
+        "category": "Ekonomi",
+        "publish_time": "30-04-2025 08:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/sviuot451/soal-besaran-upah-buruh-menteri-airlangga-besok-saya-panggil-pengusaha-industri"
+    },
+    {
+        "title": "Kesaksian Direktur ICU Klinik, Maradona Diizinkan Pesan Hamburger",
+        "category": "News",
+        "publish_time": "30-04-2025 08:09",
+        "news_link": "https://news.republika.co.id/berita/sviuno348/kesaksian-direktur-icu-klinik-maradona-diizinkan-pesan-hamburger"
+    },
+    {
+        "title": "Mengapa Sekolah dan Orang Tua Kadang tak Sepaham?",
+        "category": "Ameera",
+        "publish_time": "30-04-2025 08:05",
+        "news_link": "https://ameera.republika.co.id/berita/sviuhr425/mengapa-sekolah-dan-orang-tua-kadang-tak-sepaham"
+    },
+    {
+        "title": "Kejutan 1 Mei Buat Buruh, Mensesneg: Presiden Prabowo akan Pidato di Monas",
+        "category": "News",
+        "publish_time": "30-04-2025 08:05",
+        "news_link": "https://news.republika.co.id/berita/sviuhp451/kejutan-1-mei-buat-buruh-mensesneg-presiden-prabowo-akan-pidato-di-monas"
+    },
+    {
+        "title": "Ingin Anak Saleh? Orang Tua Mesti Lakukan Ini",
+        "category": "Khazanah",
+        "publish_time": "30-04-2025 08:03",
+        "news_link": "https://khazanah.republika.co.id/berita/sviudz458/ingin-anak-saleh-orang-tua-mesti-lakukan-ini"
+    },
+    {
+        "title": "Tahun Ini, Sebanyak 2.455 Calon Jamaah Haji Asal Bandung Berangkat ke Tanah Suci",
+        "category": "Rejabar",
+        "publish_time": "30-04-2025 08:01",
+        "news_link": "https://rejabar.republika.co.id/berita/sviuaz512/tahun-ini-sebanyak-2455-calon-jamaah-haji-asal-bandung-berangkat-ke-tanah-suci"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok: Kota Tangerang Berawan 1 Mei 2025",
+        "category": "News",
+        "publish_time": "30-04-2025 08:00",
+        "news_link": "https://news.republika.co.id/berita/sviu8h21147878/prakiraan-cuaca-besok-kota-tangerang-berawan-1-mei-2025"
+    },
+    {
+        "title": "Masjid Agung Al Akbar Surabaya, Khofifah: Berdimensi Spiritual Plus Wisata Religi",
+        "category": "Rejogja",
+        "publish_time": "30-04-2025 07:57",
+        "news_link": "https://rejogja.republika.co.id/berita/sviu47451/masjid-agung-al-akbar-surabaya-khofifah-berdimensi-spiritual-plus-wisata-religi"
+    },
+    {
+        "title": "Ini Lima Orang yang Diadukan Jokowi ke Polisi karena Kasus Tuduhan Ijazah Palsu",
+        "category": "News",
+        "publish_time": "30-04-2025 07:57",
+        "news_link": "https://news.republika.co.id/berita/sviu3j377/ini-lima-orang-yang-diadukan-jokowi-ke-polisi-karena-kasus-tuduhan-ijazah-palsu"
+    },
+    {
+        "title": "Cegah Ancaman dan Intimidasi, Mbah Tupon Ditawari Tinggal Sementara di Rumah Dinas Bupati",
+        "category": "News",
+        "publish_time": "30-04-2025 07:47",
+        "news_link": "https://news.republika.co.id/berita/svitn8409/cegah-ancaman-dan-intimidasi-mbah-tupon-ditawari-tinggal-sementara-di-rumah-dinas-bupati"
+    },
+    {
+        "title": "Panglima TNI Ganti Letjen Kunto, Putra Try Sutrisno dari Pangkogabwilhan I",
+        "category": "News",
+        "publish_time": "30-04-2025 07:45",
+        "news_link": "https://news.republika.co.id/berita/svitj0484/panglima-tni-ganti-letjen-kunto-putra-try-sutrisno-dari-pangkogabwilhan-i"
+    },
+    {
+        "title": "BNPB Aktifkan Desk Karhutla di Tujuh Provinsi",
+        "category": "News",
+        "publish_time": "30-04-2025 07:36",
+        "news_link": "https://news.republika.co.id/berita/svit5e416/bnpb-aktifkan-desk-karhutla-di-tujuh-provinsi"
+    },
+    {
+        "title": "Sebelum Bebaskan Makkah, Rasulullah Bermimpi Naik Haji",
+        "category": "Khazanah",
+        "publish_time": "30-04-2025 07:36",
+        "news_link": "https://khazanah.republika.co.id/berita/svit50458/sebelum-bebaskan-makkah-rasulullah-bermimpi-naik-haji"
+    },
+    {
+        "title": "Berpartisipasi dalam Hari Kesiapsiagaan Bencana, Human Initiative Kirim Mobil Kemanusiaan",
+        "category": "Rejogja",
+        "publish_time": "30-04-2025 07:35",
+        "news_link": "https://rejogja.republika.co.id/berita/svit24320/berpartisipasi-dalam-hari-kesiapsiagaan-bencana-human-initiative-kirim-mobil-kemanusiaan"
+    },
+    {
+        "title": "On This Day: 30 April 1945, Adolf Hitler Bunuh Diri di Bunker",
+        "category": "Network",
+        "publish_time": "30-04-2025 07:30",
+        "news_link": "https://magentatoday.id/posts/522839/on-this-day-30-april-1945-adolf-hitler-bunuh-diri-di-bunker"
+    },
+    {
+        "title": "Menhan Usul Tunjangan Operasi TNI Dinaikkan, Kalau Perlu Sampai 100 Persen",
+        "category": "News",
+        "publish_time": "30-04-2025 07:26",
+        "news_link": "https://news.republika.co.id/berita/svisod409/menhan-usul-tunjangan-operasi-tni-dinaikkan-kalau-perlu-sampai-100-persen"
+    },
+    {
+        "title": "Bea Cukai Dukung UMKM Bekasi dan Makassar Tembus Pasar Ekspor",
+        "category": "Beacukai",
+        "publish_time": "30-04-2025 07:25",
+        "news_link": "https://republika.co.id/berita//svisly368/bea-cukai-dukung-umkm-bekasi-dan-makassar-tembus-pasar-ekspor"
+    },
+    {
+        "title": "Saat Industri Tekstil Melemah, Eva Justru Menjahit Peluang dari Rumah",
+        "category": "Ekonomi",
+        "publish_time": "30-04-2025 07:21",
+        "news_link": "https://ekonomi.republika.co.id/berita/svisf5370/saat-industri-tekstil-melemah-eva-justru-menjahit-peluang-dari-rumah"
+    },
+    {
+        "title": "Prabowo Bisa Saja tak Berkenan Hasan Nasbi Mundur, Ini Penjelasan Mensesneg",
+        "category": "News",
+        "publish_time": "30-04-2025 07:21",
+        "news_link": "https://news.republika.co.id/berita/svisf1409/prabowo-bisa-saja-tak-berkenan-hasan-nasbi-mundur-ini-penjelasan-mensesneg"
+    },
+    {
+        "title": "Jangan Suka Berandai-andai",
+        "category": "Khazanah",
+        "publish_time": "30-04-2025 07:20",
+        "news_link": "https://khazanah.republika.co.id/berita/svisdd458/jangan-suka-berandaiandai"
+    },
+    {
+        "title": "Bea Cukai Batam Amankan Tukang Cat yang Selipkan Sabu di Sandal",
+        "category": "Beacukai",
+        "publish_time": "30-04-2025 07:19",
+        "news_link": "https://republika.co.id/berita//svisb0368/bea-cukai-batam-amankan-tukang-cat-yang-selipkan-sabu-di-sandal"
+    },
+    {
+        "title": "Kita Sudah Lama Jadi Orang Indonesia\u2026.",
+        "category": "Kolom",
+        "publish_time": "30-04-2025 07:19",
+        "news_link": "https://analisis.republika.co.id/berita/sviuwh475/kita-sudah-lama-jadi-orang-indonesia"
+    },
+    {
         "title": "Rumah Predator Seks di Jepara Digeledah Polisi, Motif Pelaku Didalami",
         "category": "News",
-        "publish_time": "30-04-2025 07:02",
+        "publish_time": "30-04-2025 07:19",
         "news_link": "https://news.republika.co.id/berita/svirk9409/rumah-predator-seks-di-jepara-digeledah-polisi-motif-pelaku-didalami"
     },
     {
         "title": "Polisi Selidiki Kasus Lansia Ditemukan Terkubur di Kamar Rumah di Bandung",
         "category": "Rejabar",
-        "publish_time": "30-04-2025 07:01",
+        "publish_time": "30-04-2025 07:19",
         "news_link": "https://rejabar.republika.co.id/berita/sviri8512/polisi-selidiki-kasus-lansia-ditemukan-terkubur-di-kamar-rumah-di-bandung"
     },
     {
         "title": "Pemkab Bantul Siap Bantu Mbah Tupon Peroleh Kembali Hak Sertifikat Tanahnya",
         "category": "Rejogja",
-        "publish_time": "30-04-2025 07:00",
+        "publish_time": "30-04-2025 07:19",
         "news_link": "https://rejogja.republika.co.id/berita/svirhv291/pemkab-bantul-siap-bantu-mbah-tupon-peroleh-kembali-hak-sertifikat-tanahnya"
     },
     {
         "title": "Suplemen Ternak Pangkalan Bun Tembus Pasar Belanda",
         "category": "Beacukai",
-        "publish_time": "30-04-2025 06:57",
+        "publish_time": "30-04-2025 07:19",
         "news_link": "https://republika.co.id/berita//svirbk368/suplemen-ternak-pangkalan-bun-tembus-pasar-belanda"
     },
     {
         "title": "BRI Pastikan Operasional Tetap Normal Usai Berada di Bawah Danantara",
         "category": "Ekonomi",
-        "publish_time": "30-04-2025 06:56",
+        "publish_time": "30-04-2025 07:19",
         "news_link": "https://ekonomi.republika.co.id/berita/svirb0370/bri-pastikan-operasional-tetap-normal-usai-berada-di-bawah-danantara"
     },
     {
         "title": "Tak Perlu ke Kantor, Ubah Faskes Cukup dari Rumah dengan Mobile JKN",
         "category": "News",
-        "publish_time": "30-04-2025 06:52",
+        "publish_time": "30-04-2025 07:19",
         "news_link": "https://news.republika.co.id/berita/svir35472/tak-perlu-ke-kantor-ubah-faskes-cukup-dari-rumah-dengan-mobile-jkn"
     },
     {
         "title": "Finlandia Dukung Target Ambisius Pemangkasan Emisi Uni Eropa",
         "category": "Esgnow",
-        "publish_time": "30-04-2025 06:46",
+        "publish_time": "30-04-2025 06:19",
         "news_link": "https://esgnow.republika.co.id/berita/sviqul416/finlandia-dukung-target-ambisius-pemangkasan-emisi-uni-eropa"
     },
     {
         "title": "Tak Lagi Repot! Valen Apresiasi Kemudahan Bayar Iuran JKN Secara Online",
         "category": "News",
-        "publish_time": "30-04-2025 06:39",
+        "publish_time": "30-04-2025 06:19",
         "news_link": "https://news.republika.co.id/berita/sviqi3472/tak-lagi-repot-valen-apresiasi-kemudahan-bayar-iuran-jkn-secara-online"
     },
     {
         "title": "Setelah Sekian Lama, Ini Alasan Jokowi Baru Laporkan Tudingan Ijazah Palsu ke Polisi",
         "category": "News",
-        "publish_time": "30-04-2025 06:38",
+        "publish_time": "30-04-2025 06:19",
         "news_link": "https://news.republika.co.id/berita/sviqgx377/setelah-sekian-lama-ini-alasan-jokowi-baru-laporkan-tudingan-ijazah-palsu-ke-polisi"
     },
     {
         "title": "Jamaah Haji RI Rentan Penyakit Pernapasan, Amphuri Ingatkan Pentingnya Vaksin Pneumonia",
         "category": "Khazanah",
-        "publish_time": "30-04-2025 06:38",
+        "publish_time": "30-04-2025 06:19",
         "news_link": "https://khazanah.republika.co.id/berita/sviqgp483/jamaah-haji-ri-rentan-penyakit-pernapasan-amphuri-ingatkan-pentingnya-vaksin-pneumonia"
     },
     {
         "title": "Laporkan Tuduhan Ijazah Palsu ke Polda, Jokowi: Perlu Dibawa ke Ranah Hukum Biar Jelas",
         "category": "News",
-        "publish_time": "30-04-2025 06:30",
+        "publish_time": "30-04-2025 06:19",
         "news_link": "https://news.republika.co.id/berita/sviq3q377/laporkan-tuduhan-ijazah-palsu-ke-polda-jokowi-perlu-dibawa-ke-ranah-hukum-biar-jelas"
     },
     {
         "title": "CarboNEX Jadi Wadah Edukasi dan Kolaborasi Pasar Karbon",
         "category": "Esgnow",
-        "publish_time": "30-04-2025 06:30",
+        "publish_time": "30-04-2025 06:19",
         "news_link": "https://esgnow.republika.co.id/berita/sviq3e416/carbonex-jadi-wadah-edukasi-dan-kolaborasi-pasar-karbon"
     },
     {
         "title": "Belajar dari Jumbo: Kualitas, Inovasi, dan Strategi",
         "category": "Rejogja",
-        "publish_time": "30-04-2025 06:27",
+        "publish_time": "30-04-2025 06:19",
         "news_link": "https://rejogja.republika.co.id/berita/svipyg291/belajar-dari-jumbo-kualitas-inovasi-dan-strategi"
     },
     {
         "title": "Boston Celtics Susul Cleveland Cavaliers dan Indiana Pacers ke Semifinal Wilayah Timur NBA",
         "category": "News",
-        "publish_time": "30-04-2025 06:25",
+        "publish_time": "30-04-2025 06:19",
         "news_link": "https://news.republika.co.id/berita/svipvj348/boston-celtics-susul-cleveland-cavaliers-dan-indiana-pacers-ke-semifinal-wilayah-timur-nba"
     },
     {
         "title": "Polisi Periksa Sopir Travel yang Terlibat Kecelakaan Maut di Tol Cisumdawu, Ini Hasilnya",
         "category": "News",
-        "publish_time": "30-04-2025 06:25",
+        "publish_time": "30-04-2025 06:19",
         "news_link": "https://news.republika.co.id/berita/svipuv487/polisi-periksa-sopir-travel-yang-terlibat-kecelakaan-maut-di-tol-cisumdawu-ini-hasilnya"
     },
     {
@@ -98,205 +242,61 @@
     {
         "title": "Serapan Bulog Sepanjang April 2025, Capai 1,3 Juta Ton Beras",
         "category": "Ekonomi",
-        "publish_time": "30-04-2025 06:16",
+        "publish_time": "30-04-2025 06:19",
         "news_link": "https://ekonomi.republika.co.id/berita/svipfx370/serapan-bulog-sepanjang-april-2025-capai-13-juta-ton-beras"
     },
     {
         "title": "Muhammadiyah Salurkan Bantuan untuk Korban Gempa Myanmar",
         "category": "Khazanah",
-        "publish_time": "30-04-2025 06:13",
+        "publish_time": "30-04-2025 06:19",
         "news_link": "https://khazanah.republika.co.id/berita/svip8y458/muhammadiyah-salurkan-bantuan-untuk-korban-gempa-myanmar"
     },
     {
         "title": "Jokowi Laporkan Tudingan Ijazah Palsu ke Polda Metro Jaya",
         "category": "News",
-        "publish_time": "30-04-2025 06:13",
+        "publish_time": "30-04-2025 06:19",
         "news_link": "https://news.republika.co.id/berita/svip1d377/jokowi-laporkan-tudingan-ijazah-palsu-ke-polda-metro-jaya"
     },
     {
         "title": "Bupati Bandung Dadang Supriatna Terpilih Jadi Ketua Umum AKKOPSI",
         "category": "Rejabar",
-        "publish_time": "30-04-2025 06:13",
+        "publish_time": "30-04-2025 06:19",
         "news_link": "https://rejabar.republika.co.id/berita/svioyo368/bupati-bandung-dadang-supriatna-terpilih-jadi-ketua-umum-akkopsi"
     },
     {
         "title": "Polisi Bandara Soetta Gagalkan Keberangkatan 71 Calon Jamaah Haji Nonprosedural",
         "category": "Khazanah",
-        "publish_time": "30-04-2025 06:13",
+        "publish_time": "30-04-2025 06:19",
         "news_link": "https://khazanah.republika.co.id/berita/sviol3377/polisi-bandara-soetta-gagalkan-keberangkatan-71-calon-jamaah-haji-nonprosedural"
     },
     {
         "title": "Panitia SNPMB Kumpulkan Bukti Dugaan Keterlibatan Bimbel dalam Kecurangan UTBK 2025",
         "category": "News",
-        "publish_time": "30-04-2025 06:13",
+        "publish_time": "30-04-2025 06:19",
         "news_link": "https://news.republika.co.id/berita/svioc5487/panitia-snpmb-kumpulkan-bukti-dugaan-keterlibatan-bimbel-dalam-kecurangan-utbk-2025"
     },
     {
         "title": "Lima Tower Rusun di Batang tak Berpenghuni, APBN Rugi, Maruarar Sebut Rencana tak Matang",
         "category": "News",
-        "publish_time": "30-04-2025 06:13",
+        "publish_time": "30-04-2025 05:19",
         "news_link": "https://news.republika.co.id/berita/svio1q377/lima-tower-rusun-di-batang-tak-berpenghuni-apbn-rugi-maruarar-sebut-rencana-tak-matang"
     },
     {
         "title": "Tangguh di Tengah Gejolak Global, BRI Bukukan Laba Rp 13,8 Triliun",
         "category": "Ekonomi",
-        "publish_time": "30-04-2025 05:13",
+        "publish_time": "30-04-2025 05:19",
         "news_link": "https://ekonomi.republika.co.id/berita/svinlk368/tangguh-di-tengah-gejolak-global-bri-bukukan-laba-rp-138-triliun"
     },
     {
         "title": "Mengaku Tak Tutup Mata dengan PHK, Ini Langkah Pemerintah Respons Pemecatan Buruh",
         "category": "News",
-        "publish_time": "30-04-2025 05:13",
+        "publish_time": "30-04-2025 05:19",
         "news_link": "https://news.republika.co.id/berita/svinkh377/mengaku-tak-tutup-mata-dengan-phk-ini-langkah-pemerintah-respons-pemecatan-buruh"
     },
     {
         "title": "Dabbah, Hewan Melata akan Datangi Manusia Jelang Kiamat",
         "category": "Khazanah",
-        "publish_time": "30-04-2025 05:13",
+        "publish_time": "30-04-2025 05:19",
         "news_link": "https://khazanah.republika.co.id/berita/svingh458/dabbah-hewan-melata-akan-datangi-manusia-jelang-kiamat"
-    },
-    {
-        "title": "Apa Itu Vasektomi yang Diusulkan Jadi Syarat Bansos di Jabar?",
-        "category": "Ameera",
-        "publish_time": "30-04-2025 05:13",
-        "news_link": "https://ameera.republika.co.id/berita/svimzc425/apa-itu-vasektomi-yang-diusulkan-jadi-syarat-bansos-di-jabar"
-    },
-    {
-        "title": "Kisah Nabi Adam Berhaji",
-        "category": "Khazanah",
-        "publish_time": "30-04-2025 05:13",
-        "news_link": "https://khazanah.republika.co.id/berita/svimxg458/kisah-nabi-adam-berhaji"
-    },
-    {
-        "title": "Waketum MUI Dukung Kejagung Terus Bongkar Mafia Peradilan Sampai ke Akarnya",
-        "category": "News",
-        "publish_time": "30-04-2025 05:13",
-        "news_link": "https://news.republika.co.id/berita/svimu2318/waketum-mui-dukung-kejagung-terus-bongkar-mafia-peradilan-sampai-ke-akarnya"
-    },
-    {
-        "title": "Panitia SNPMB 2025 Akui Salah Pasang Foto Joki UTBK",
-        "category": "News",
-        "publish_time": "30-04-2025 05:13",
-        "news_link": "https://news.republika.co.id/berita/svimgk409/panitia-snpmb-2025-akui-salah-pasang-foto-joki-utbk"
-    },
-    {
-        "title": "Kenaikan Harga Emas Dinilai Sinyal Kekhawatiran Atas Kondisi Ekonomi, Istana: Berlebihan",
-        "category": "News",
-        "publish_time": "30-04-2025 05:13",
-        "news_link": "https://news.republika.co.id/berita/svily5409/kenaikan-harga-emas-dinilai-sinyal-kekhawatiran-atas-kondisi-ekonomi-istana-berlebihan"
-    },
-    {
-        "title": "Mendy dan Alaba Cedera, Pertahanan Madrid Goyah Sampai Akhir Musim",
-        "category": "News",
-        "publish_time": "30-04-2025 05:13",
-        "news_link": "https://news.republika.co.id/berita/svilt8348/mendy-dan-alaba-cedera-pertahanan-madrid-goyah-sampai-akhir-musim"
-    },
-    {
-        "title": "Bukukan Laba Rp 13,8 Triliun di Kuartal I 2025, BRI Fokus UMKM",
-        "category": "Ekonomi",
-        "publish_time": "30-04-2025 05:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/svilcp370/bukukan-laba-rp-138-triliun-di-kuartal-i-2025-bri-fokus-umkm"
-    },
-    {
-        "title": "Saudi Mulai Terima Gelombang Kedatangan Jamaah Haji",
-        "category": "Khazanah",
-        "publish_time": "30-04-2025 05:13",
-        "news_link": "https://khazanah.republika.co.id/berita/svil88483/saudi-mulai-terima-gelombang-kedatangan-jamaah-haji"
-    },
-    {
-        "title": "Nyeri Pinggang? Jika Alami Tanda-Tanda Ini, Harus Waspada",
-        "category": "Ameera",
-        "publish_time": "30-04-2025 04:13",
-        "news_link": "https://ameera.republika.co.id/berita/svil4p425/nyeri-pinggang-jika-alami-tandatanda-ini-harus-waspada"
-    },
-    {
-        "title": "Alih-Alih Pemutihan, Pramono akan Persulit Penunggak Pajak Kendaraan Bermotor di Jakarta",
-        "category": "News",
-        "publish_time": "30-04-2025 04:13",
-        "news_link": "https://news.republika.co.id/berita/svikw4409/alihalih-pemutihan-pramono-akan-persulit-penunggak-pajak-kendaraan-bermotor-di-jakarta"
-    },
-    {
-        "title": "Bukan Sekadar Gim, Ini Tantangan dan Peluang eSports Jadi Cabang Olahraga",
-        "category": "Ameera",
-        "publish_time": "30-04-2025 04:13",
-        "news_link": "https://ameera.republika.co.id/berita/svikw1368/bukan-sekadar-gim-ini-tantangan-dan-peluang-esports-jadi-cabang-olahraga"
-    },
-    {
-        "title": "Australia Supports Development of Muhammadiyah Schools in Victoria",
-        "category": "En",
-        "publish_time": "3 hours ago",
-        "news_link": "https://en.republika.co.id/berita/svik4p415/australia-supports-development-of-muhammadiyah-schools-in-victoria"
-    },
-    {
-        "title": "Israel Tahan Lebih dari 360 Staf Medis di Gaza",
-        "category": "Khazanah",
-        "publish_time": "30-04-2025 04:13",
-        "news_link": "https://khazanah.republika.co.id/berita/svijt6483/israel-tahan-lebih-dari-360-staf-medis-di-gaza"
-    },
-    {
-        "title": "Tujuh Provinsi Jadi Prioritas Penanganan Karhutla",
-        "category": "Esgnow",
-        "publish_time": "30-04-2025 04:13",
-        "news_link": "https://esgnow.republika.co.id/berita/svijbm416/tujuh-provinsi-jadi-prioritas-penanganan-karhutla"
-    },
-    {
-        "title": "Momen Pramono Anung Berangkat Kerja Naik TransJakarta",
-        "category": "Visual",
-        "publish_time": "30-04-2025 04:13",
-        "news_link": "https://visual.republika.co.id/berita/svij2u375/momen-pramono-anung-berangkat-kerja-naik-transjakarta"
-    },
-    {
-        "title": "Alquran Bicara tentang Konservasi Air",
-        "category": "Iqra",
-        "publish_time": "30-04-2025 04:13",
-        "news_link": "https://iqra.republika.co.id/berita/svij0r483/alquran-bicara-tentang-konservasi-air"
-    },
-    {
-        "title": "Mensesneg Pastikan Presiden Prabowo Hadiri Peringatan May Day di Monas",
-        "category": "News",
-        "publish_time": "30-04-2025 04:13",
-        "news_link": "https://news.republika.co.id/berita/sviisg484/mensesneg-pastikan-presiden-prabowo-hadiri-peringatan-may-day-di-monas"
-    },
-    {
-        "title": "Mahasiswi UBSI Ini Menangkan Lomba Fashion Show Berkat Sentuhan Budaya",
-        "category": "News",
-        "publish_time": "30-04-2025 04:13",
-        "news_link": "https://news.republika.co.id/berita/sviirj368/mahasiswi-ubsi-ini-menangkan-lomba-fashion-show-berkat-sentuhan-budaya"
-    },
-    {
-        "title": "Remaja yang Debat dengan Dedi Mulyadi Dinilai Belum Paham Prioritas Hidup",
-        "category": "Ameera",
-        "publish_time": "30-04-2025 04:13",
-        "news_link": "https://ameera.republika.co.id/berita/sviijo425/remaja-yang-debat-dengan-dedi-mulyadi-dinilai-belum-paham-prioritas-hidup"
-    },
-    {
-        "title": "Seminar Keperawatan UBSI Bakar Semangat Calon Perawat Tembus Karier Internasional",
-        "category": "News",
-        "publish_time": "30-04-2025 04:13",
-        "news_link": "https://news.republika.co.id/berita/sviigj368/seminar-keperawatan-ubsi-bakar-semangat-calon-perawat-tembus-karier-internasional"
-    },
-    {
-        "title": "Open House PraDoktoral UNM Kupas Tuntas Tren dan Kesempatan Riset di Bidang Informatika",
-        "category": "News",
-        "publish_time": "30-04-2025 03:13",
-        "news_link": "https://news.republika.co.id/berita/svii4s368/open-house-pradoktoral-unm-kupas-tuntas-tren-dan-kesempatan-riset-di-bidang-informatika"
-    },
-    {
-        "title": "Jokowi Sambangi di SPKT Polda Metro Jaya, Lapor Ijazah Palsu?",
-        "category": "News",
-        "publish_time": "30-04-2025 03:13",
-        "news_link": "https://news.republika.co.id/berita/svii4j484/jokowi-sambangi-di-spkt-polda-metro-jaya-lapor-ijazah-palsu"
-    },
-    {
-        "title": "Rudiger Dihukum Larangan Enam Pertandingan karena Lempar Kantong Es ke Wasit",
-        "category": "News",
-        "publish_time": "30-04-2025 03:13",
-        "news_link": "https://news.republika.co.id/berita/svihu3348/rudiger-dihukum-larangan-enam-pertandingan-karena-lempar-kantong-es-ke-wasit"
-    },
-    {
-        "title": "UNM Wisuda Ke-38, Lahirkan Generasi Pemimpin Siap Hadapi Tantangan Global",
-        "category": "News",
-        "publish_time": "30-04-2025 03:13",
-        "news_link": "https://news.republika.co.id/berita/sviht6368/unm-wisuda-ke38-lahirkan-generasi-pemimpin-siap-hadapi-tantangan-global"
     }
 ]
