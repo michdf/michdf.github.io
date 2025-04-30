@@ -1,80 +1,296 @@
 [
     {
+        "title": "Kecurangan UTBK Terus Ditemukan, Dua Joki Gantikan Lima Peserta, Ini Jumlah Keuntungannya",
+        "category": "News",
+        "publish_time": "30-04-2025 12:27",
+        "news_link": "https://news.republika.co.id/berita/svj6m3487/kecurangan-utbk-terus-ditemukan-dua-joki-gantikan-lima-peserta-ini-jumlah-keuntungannya"
+    },
+    {
+        "title": "KDM Wajibkan Vasektomi Syarat Bansos, PBNU: Haram Jika Tujuannya Menolak Anugerah Allah",
+        "category": "Rejabar",
+        "publish_time": "30-04-2025 12:20",
+        "news_link": "https://rejabar.republika.co.id/berita/svj6af282/kdm-wajibkan-vasektomi-syarat-bansos-pbnu-haram-jika-tujuannya-menolak-anugerah-allah"
+    },
+    {
+        "title": "Tarif Trump Dianggap bukan Hambatan, Wamenperin: Justru Kesempatan Nego Lebih Besar",
+        "category": "Ekonomi",
+        "publish_time": "30-04-2025 12:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/svj69l451/tarif-trump-dianggap-bukan-hambatan-wamenperin-justru-kesempatan-nego-lebih-besar"
+    },
+    {
+        "title": "KDM Usul Vasektomi Jadi Syarat Bansos, Ini Respons PBNU",
+        "category": "Khazanah",
+        "publish_time": "30-04-2025 12:19",
+        "news_link": "https://khazanah.republika.co.id/berita/svj68c430/kdm-usul-vasektomi-jadi-syarat-bansos-ini-respons-pbnu"
+    },
+    {
+        "title": "Dedi Mulyadi Evaluasi Dana Hibah Pendidikan, Ini Respons Mendikdasmen",
+        "category": "News",
+        "publish_time": "30-04-2025 12:19",
+        "news_link": "https://news.republika.co.id/berita/svj684458/dedi-mulyadi-evaluasi-dana-hibah-pendidikan-ini-respons-mendikdasmen"
+    },
+    {
+        "title": "Jenderal Agus Subiyanto Sudah Punya Kandidat Wakil Panglima TNI",
+        "category": "News",
+        "publish_time": "30-04-2025 12:17",
+        "news_link": "https://news.republika.co.id/berita/svj665484/jenderal-agus-subiyanto-sudah-punya-kandidat-wakil-panglima-tni"
+    },
+    {
+        "title": "Yahudi Ekstremis akan Kibarkan Bendera Secara Massal di Al-Aqsa, Menyakitkan!",
+        "category": "Khazanah",
+        "publish_time": "30-04-2025 12:09",
+        "news_link": "https://khazanah.republika.co.id/berita/svj5rg320/yahudi-ekstremis-akan-kibarkan-bendera-secara-massal-di-alaqsa-menyakitkan"
+    },
+    {
+        "title": "Musisi Lina Makoul Dikecam Israel karena Sebut Haifa Bagian dari Palestina",
+        "category": "Ameera",
+        "publish_time": "30-04-2025 12:07",
+        "news_link": "https://ameera.republika.co.id/berita/svj5pg425/musisi-lina-makoul-dikecam-israel-karena-sebut-haifa-bagian-dari-palestina"
+    },
+    {
+        "title": "Cuaca Jakarta dan Jawa Timur Panas Seperti \"Neraka Bocor\", BMKG Jelaskan Alasannya",
+        "category": "Rejogja",
+        "publish_time": "30-04-2025 12:04",
+        "news_link": "https://rejogja.republika.co.id/berita/svj5k0282/cuaca-jakarta-dan-jawa-timur-panas-seperti-neraka-bocor-bmkg-jelaskan-alasannya"
+    },
+    {
+        "title": "Indeks Pembangunan Literasi Masyarakat Sukabumi Tertinggi Kedua di Jabar",
+        "category": "Network",
+        "publish_time": "30-04-2025 12:01",
+        "news_link": "https://sukabumikini.com/posts/522853/indeks-pembangunan-literasi-masyarakat-sukabumi-tertinggi-kedua-di-jabar"
+    },
+    {
+        "title": "Ini 10 Menteri dengan Kinerja Terbaik, Abdul Mu'ti Peringkat Pertama",
+        "category": "News",
+        "publish_time": "30-04-2025 12:01",
+        "news_link": "https://news.republika.co.id/berita/svj5es458/ini-10-menteri-dengan-kinerja-terbaik-abdul-muti-peringkat-pertama"
+    },
+    {
+        "title": "Berkas UU TNI Belum Bisa Diakses, Ketua KIP Persilakan Masyarakat Daftarkan Gugaran",
+        "category": "News",
+        "publish_time": "30-04-2025 12:01",
+        "news_link": "https://news.republika.co.id/berita/svj5e5409/berkas-uu-tni-belum-bisa-diakses-ketua-kip-persilakan-masyarakat-daftarkan-gugaran"
+    },
+    {
+        "title": "Harmoni Musik Ukulele Sora Wanodja Nusantara",
+        "category": "Network",
+        "publish_time": "30-04-2025 11:58",
+        "news_link": "https://bandung24jam.id/posts/522863/harmoni-musik-ukulele-sora-wanodja-nusantara"
+    },
+    {
+        "title": "Zakat untuk Bangkitkan Desa, Atasi Kemiskinan Ekstrem",
+        "category": "Network",
+        "publish_time": "30-04-2025 11:58",
+        "news_link": "https://bisnistime.com/posts/522873/zakat-untuk-bangkitkan-desa-atasi-kemiskinan-ekstrem"
+    },
+    {
+        "title": "Mau Jadi Amil Zakat? Yuk, Ikut Sertifikasi Amil",
+        "category": "Network",
+        "publish_time": "30-04-2025 11:58",
+        "news_link": "https://sajada.id/posts/522875/mau-jadi-amil-zakat-yuk-ikut-sertifikasi-amil"
+    },
+    {
+        "title": "Hanya Visa Ini yang Boleh Masuk Makkah",
+        "category": "Network",
+        "publish_time": "30-04-2025 11:57",
+        "news_link": "https://sajada.id/posts/522888/hanya-visa-ini-yang-boleh-masuk-makkah"
+    },
+    {
+        "title": "Perang Tarif AS Tiongok Buat Brasil Untung, Lingkungan Buntung",
+        "category": "Network",
+        "publish_time": "30-04-2025 11:57",
+        "news_link": "https://shippingcargo.co.id/posts/522813/perang-tarif-as-tiongok-buat-brasil-untung-lingkungan-buntung"
+    },
+    {
+        "title": "Re.Search Luncurkan Buku Panduan Usaha Sosial untuk Organisasi Masyarakat Sipil",
+        "category": "Network",
+        "publish_time": "30-04-2025 11:56",
+        "news_link": "https://magentatoday.id/posts/522896/re-search-luncurkan-buku-panduan-usaha-sosial-untuk-organisasi-masyarakat-sipil"
+    },
+    {
+        "title": "Dubes India: Prabowo Berbela Sungkawa atas Serangan Teror di Kashmir",
+        "category": "News",
+        "publish_time": "30-04-2025 11:55",
+        "news_link": "https://news.republika.co.id/berita/svj547484/dubes-india-prabowo-berbela-sungkawa-atas-serangan-teror-di-kashmir"
+    },
+    {
+        "title": "Menteri ESDM Buka Peluang Target 1 Juta Barel Maju 2029",
+        "category": "Ekonomi",
+        "publish_time": "30-04-2025 11:54",
+        "news_link": "https://ekonomi.republika.co.id/berita/svj538423/menteri-esdm-buka-peluang-target-1-juta-barel-maju-2029"
+    },
+    {
+        "title": "Tiga Kreator TikTok Ini Sukses Mengemas Pelajaran Jadi Lebih Fun",
+        "category": "Ameera",
+        "publish_time": "30-04-2025 11:54",
+        "news_link": "https://ameera.republika.co.id/berita/svj52y425/tiga-kreator-tiktok-ini-sukses-mengemas-pelajaran-jadi-lebih-fun"
+    },
+    {
+        "title": "Alami Syok, Guru SMA di KBB yang Beri Tugas Gambar Alat Reproduksi \"Diparkir\" Sementara",
+        "category": "Rejabar",
+        "publish_time": "30-04-2025 11:54",
+        "news_link": "https://rejabar.republika.co.id/berita/svj52h512/alami-syok-guru-sma-di-kbb-yang-beri-tugas-gambar-alat-reproduksi-diparkir-sementara"
+    },
+    {
+        "title": "Bukan Keputusan Sulit, Ole Romeny Ungkap Alasan Pilih Bela Timnas Indonesia",
+        "category": "News",
+        "publish_time": "30-04-2025 11:52",
+        "news_link": "https://news.republika.co.id/berita/svj4ze409/bukan-keputusan-sulit-ole-romeny-ungkap-alasan-pilih-bela-timnas-indonesia"
+    },
+    {
+        "title": "Gegara Tarif Tinggi Trump, Menkeu Srimul: Harga Boneka Barbie dan Hot Wheels akan Melonjak",
+        "category": "Ekonomi",
+        "publish_time": "30-04-2025 11:49",
+        "news_link": "https://ekonomi.republika.co.id/berita/svj4uu451/gegara-tarif-tinggi-trump-menkeu-srimul-harga-boneka-barbie-dan-hot-wheels-akan-melonjak"
+    },
+    {
+        "title": "Universitas Udayana Pecat Mahasiswa yang Kerap Edit Foto Perempuan Menjadi Foto Asusila",
+        "category": "News",
+        "publish_time": "30-04-2025 11:44",
+        "news_link": "https://news.republika.co.id/berita/svj4m4409/universitas-udayana-pecat-mahasiswa-yang-kerap-edit-foto-perempuan-menjadi-foto-asusila"
+    },
+    {
+        "title": "Polisi Dalami Kericuhan Dua Kelompok karena Sengketa Lahan di Kemang",
+        "category": "News",
+        "publish_time": "30-04-2025 11:42",
+        "news_link": "https://news.republika.co.id/berita/svj4k0484/polisi-dalami-kericuhan-dua-kelompok-karena-sengketa-lahan-di-kemang"
+    },
+    {
+        "title": "NICL Catat Penjualan Melonjak 365 Persen, Fokus pada Keberlanjutan di Tengah Ketidakpastia",
+        "category": "Ekonomi",
+        "publish_time": "30-04-2025 11:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/svj4g4522/nicl-catat-penjualan-melonjak-365-persen-fokus-pada-keberlanjutan-di-tengah-ketidakpastia"
+    },
+    {
+        "title": "Persis Minta Petugas Haji Jaga Nama Baik Indonesia",
+        "category": "Khazanah",
+        "publish_time": "30-04-2025 11:40",
+        "news_link": "https://khazanah.republika.co.id/berita/svj4fg483/persis-minta-petugas-haji-jaga-nama-baik-indonesia"
+    },
+    {
+        "title": "Inalum Terima Pengiriman Perdana Alumina dari SGAR Mempawah",
+        "category": "Ekonomi",
+        "publish_time": "30-04-2025 11:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/svj4f3423/inalum-terima-pengiriman-perdana-alumina-dari-sgar-mempawah"
+    },
+    {
+        "title": "Pendapatan Negara Tambah Rp 200 T, Sri Mulyani: Tren Penerimaan Pajak Jadi Perhatian",
+        "category": "Ekonomi",
+        "publish_time": "30-04-2025 11:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/svj4e9451/pendapatan-negara-tambah-rp-200-t-sri-mulyani-tren-penerimaan-pajak-jadi-perhatian"
+    },
+    {
+        "title": "Irwan Akib Tegaskan Pentingnya Ikhlas dalam Bermuhammadiyah",
+        "category": "News",
+        "publish_time": "30-04-2025 11:35",
+        "news_link": "https://news.republika.co.id/berita/svj48a472/irwan-akib-tegaskan-pentingnya-ikhlas-dalam-bermuhammadiyah"
+    },
+    {
+        "title": "Menkeu: Trump Jadi Alasan Gejolak Ekonomi Maret - April",
+        "category": "Ekonomi",
+        "publish_time": "30-04-2025 11:35",
+        "news_link": "https://ekonomi.republika.co.id/berita/svj46z522/menkeu-trump-jadi-alasan-gejolak-ekonomi-maret-april"
+    },
+    {
+        "title": "Keteguhan Iman Bilal bin Rabah",
+        "category": "Khazanah",
+        "publish_time": "30-04-2025 11:33",
+        "news_link": "https://khazanah.republika.co.id/berita/svj442458/keteguhan-iman-bilal-bin-rabah"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok di Kota Padang dan Sekitarnya 1 Mei 2025",
+        "category": "News",
+        "publish_time": "30-04-2025 11:29",
+        "news_link": "https://news.republika.co.id/berita/svj3ww752358155/prakiraan-cuaca-besok-di-kota-padang-dan-sekitarnya-1-mei-2025"
+    },
+    {
+        "title": "Kerja Sama GP Ansor-Danantara, Rosan: Semakin Mandiri, Gus Addin: Profesional dan Untung",
+        "category": "Ekonomi",
+        "publish_time": "30-04-2025 11:27",
+        "news_link": "https://ekonomi.republika.co.id/berita/svj3tq451/kerja-sama-gp-ansordanantara-rosan-semakin-mandiri-gus-addin-profesional-dan-untung"
+    },
+    {
+        "title": "Alumnus FIK UMJ Paparkan Adanya Integrasi Nilai Islam dan Ilmu Kesehatan",
+        "category": "News",
+        "publish_time": "30-04-2025 11:27",
+        "news_link": "https://news.republika.co.id/berita/svj3pa472/alumnus-fik-umj-paparkan-adanya-integrasi-nilai-islam-dan-ilmu-kesehatan"
+    },
+    {
         "title": "PLN IP Berdayakan Penyandang Disabilitas untuk Kembangkan Ekosistem EV",
         "category": "Ekonomi",
-        "publish_time": "30-04-2025 11:11",
+        "publish_time": "30-04-2025 11:27",
         "news_link": "https://ekonomi.republika.co.id/berita/svj33c423/pln-ip-berdayakan-penyandang-disabilitas-untuk-kembangkan-ekosistem-ev"
     },
     {
         "title": "Jelang Kedatangan Jamaah Haji RI ke Tanah Suci, 95 Hotel dan 21 Dapur Umum Sudah Siap",
         "category": "Khazanah",
-        "publish_time": "30-04-2025 11:07",
+        "publish_time": "30-04-2025 11:27",
         "news_link": "https://khazanah.republika.co.id/berita/svj2xf377/jelang-kedatangan-jamaah-haji-ri-ke-tanah-suci-95-hotel-dan-21-dapur-umum-sudah-siap"
     },
     {
         "title": "Kapolri Buka Rakernis Gabungan Polri TA 2025, Polres Indramayu Ikuti Secara Virtual",
         "category": "Rejabar",
-        "publish_time": "30-04-2025 11:05",
+        "publish_time": "30-04-2025 11:27",
         "news_link": "https://rejabar.republika.co.id/berita/svj2u1512/kapolri-buka-rakernis-gabungan-polri-ta-2025-polres-indramayu-ikuti-secara-virtual"
     },
     {
         "title": "Prodi PAI FAI UMJ Borong Prestasi dalam Munas dan International Conference",
         "category": "News",
-        "publish_time": "30-04-2025 11:05",
+        "publish_time": "30-04-2025 11:27",
         "news_link": "https://news.republika.co.id/berita/svj2tr472/prodi-pai-fai-umj-borong-prestasi-dalam-munas-dan-international-conference"
     },
     {
         "title": "IIF Bukukan Laba Bersih Rp 122,51 Miliar",
         "category": "Ekonomi",
-        "publish_time": "30-04-2025 11:02",
+        "publish_time": "30-04-2025 11:27",
         "news_link": "https://ekonomi.republika.co.id/berita/svj2p2416/iif-bukukan-laba-bersih-rp-12251-miliar"
     },
     {
         "title": "AFSI Targetkan Perusahaan Fintech Syariah Siap IPO dalam Dua Tahun Mendatang",
         "category": "Ekonomi Syariah",
-        "publish_time": "30-04-2025 11:00",
+        "publish_time": "30-04-2025 11:27",
         "news_link": "https://sharia.republika.co.id/berita/svj2l8423/afsi-targetkan-perusahaan-fintech-syariah-siap-ipo-dalam-dua-tahun-mendatang"
     },
     {
         "title": "PUMA dan Warner Bros Rilis Koleksi Spesial Harry Potter",
         "category": "Ameera",
-        "publish_time": "30-04-2025 10:58",
+        "publish_time": "30-04-2025 11:27",
         "news_link": "https://ameera.republika.co.id/berita/svj2hz425/puma-dan-warner-bros-rilis-koleksi-spesial-harry-potter"
     },
     {
         "title": "Pembiayaan Berkelanjutan BSI Capai Rp 72,6 Triliun, Didorong Inisiatif Green Banking",
         "category": "Ekonomi Syariah",
-        "publish_time": "30-04-2025 10:52",
+        "publish_time": "30-04-2025 10:27",
         "news_link": "https://sharia.republika.co.id/berita/svj27h423/pembiayaan-berkelanjutan-bsi-capai-rp-726-triliun-didorong-inisiatif-green-banking"
     },
     {
         "title": "Kronologi Dua Orang Joki UTBK SNBT di ISBI Bandung Gantikan 5 Peserta, Dibayar Rp 50 Juta",
         "category": "Rejabar",
-        "publish_time": "30-04-2025 10:47",
+        "publish_time": "30-04-2025 10:27",
         "news_link": "https://rejabar.republika.co.id/berita/svj20f512/kronologi-dua-orang-joki-utbk-snbt-di-isbi-bandung-gantikan-5-peserta-dibayar-rp-50-juta"
     },
     {
         "title": "Menkeu Sebut Investor Masih Percaya pada Perekonomian Indonesia",
         "category": "Ekonomi",
-        "publish_time": "30-04-2025 10:37",
+        "publish_time": "30-04-2025 10:27",
         "news_link": "https://ekonomi.republika.co.id/berita/svj1iw423/menkeu-sebut-investor-masih-percaya-pada-perekonomian-indonesia"
     },
     {
         "title": "Ayah Mahasiswa UKI Sebut Anaknya Sempat Dipukul Sebelum Jatuh Bersama Pagar",
         "category": "News",
-        "publish_time": "30-04-2025 10:34",
+        "publish_time": "30-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/svj1el377/ayah-mahasiswa-uki-sebut-anaknya-sempat-dipukul-sebelum-jatuh-bersama-pagar"
     },
     {
         "title": "Bertemu Presiden Prabowo, Dubes India Bahas Rudal Brahmos",
         "category": "News",
-        "publish_time": "30-04-2025 10:33",
+        "publish_time": "30-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/svj1dg484/bertemu-presiden-prabowo-dubes-india-bahas-rudal-brahmos"
     },
     {
         "title": "KBUMN Dorong Penguatan Komunikasi Digital Lewat Workshop Media Sosial Berbasis AI",
         "category": "News",
-        "publish_time": "30-04-2025 10:31",
+        "publish_time": "30-04-2025 10:27",
         "news_link": "https://news.republika.co.id/berita/svj19s370/kbumn-dorong-penguatan-komunikasi-digital-lewat-workshop-media-sosial-berbasis-ai"
     },
     {
@@ -82,221 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "30-04-2025 10:27",
         "news_link": "https://ekonomi.republika.co.id/berita/svj13b416/danareksa-targetkan-tpk-batu-ampar-jadi-hub-regional"
-    },
-    {
-        "title": "Jumlah Pelanggan Indosat Bertambah, Region Jateng-DIY Kontribusi 15,9 Juta",
-        "category": "Rejogja",
-        "publish_time": "30-04-2025 10:22",
-        "news_link": "https://rejogja.republika.co.id/berita/svj0ty291/jumlah-pelanggan-indosat-bertambah-region-jatengdiy-kontribusi-159-juta"
-    },
-    {
-        "title": "APBN 2025 Defisit Rp 104,2 Triliun, Sri Mulyani: Baru Permulaan",
-        "category": "Ekonomi",
-        "publish_time": "30-04-2025 10:17",
-        "news_link": "https://ekonomi.republika.co.id/berita/svj0lg423/apbn-2025-defisit-rp-1042-triliun-sri-mulyani-baru-permulaan"
-    },
-    {
-        "title": "Prabowo Panggil Persatuan Purnawirawan TNI AD ke Istana, Ada  Apa?",
-        "category": "News",
-        "publish_time": "30-04-2025 10:12",
-        "news_link": "https://news.republika.co.id/berita/svj0cw377/prabowo-panggil-persatuan-purnawirawan-tni-ad-ke-istana-ada-apa"
-    },
-    {
-        "title": "Menteri Karding Lepas Perawat yang akan Bekerja di Wina Bergaji Rp 50 Juta",
-        "category": "News",
-        "publish_time": "30-04-2025 10:11",
-        "news_link": "https://news.republika.co.id/berita/svj058484/menteri-karding-lepas-perawat-yang-akan-bekerja-di-wina-bergaji-rp-50-juta"
-    },
-    {
-        "title": "Strategi Tiongkok Hadapi Dampak Perang Dagang: Perlihatkan Kesabaran, Tidak Panik",
-        "category": "Kolom",
-        "publish_time": "30-04-2025 10:11",
-        "news_link": "https://analisis.republika.co.id/berita/svj03j475/strategi-tiongkok-hadapi-dampak-perang-dagang-perlihatkan-kesabaran-tidak-panik"
-    },
-    {
-        "title": "Bagai Gempa Bumi, Bom Israel Hujani Gaza",
-        "category": "News",
-        "publish_time": "30-04-2025 10:11",
-        "news_link": "https://news.republika.co.id/berita/svj037393/bagai-gempa-bumi-bom-israel-hujani-gaza"
-    },
-    {
-        "title": "DPP Perbasi Matangkan Program Timnas Putri untuk Pertahankan Emas SEA Games",
-        "category": "News",
-        "publish_time": "30-04-2025 10:11",
-        "news_link": "https://news.republika.co.id/berita/svj00c348/dpp-perbasi-matangkan-program-timnas-putri-untuk-pertahankan-emas-sea-games"
-    },
-    {
-        "title": "Wuling Hadirkan Lini Mobil Listrik Lengkap di PEVS 2025, Termasuk EV Van",
-        "category": "Ekonomi",
-        "publish_time": "30-04-2025 10:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/svizze349/wuling-hadirkan-lini-mobil-listrik-lengkap-di-pevs-2025-termasuk-ev-van"
-    },
-    {
-        "title": "Kecurangan UTBK SNBT Libatkan Pegawai Kampus Terjadi di Unej",
-        "category": "News",
-        "publish_time": "30-04-2025 10:11",
-        "news_link": "https://news.republika.co.id/berita/svizz5487/kecurangan-utbk-snbt-libatkan-pegawai-kampus-terjadi-di-unej"
-    },
-    {
-        "title": "Laba Bersih BSI Tembus Rp 1,87 Triliun di Kuartal I 2025, Tumbuh 10,05 Persen",
-        "category": "Ekonomi Syariah",
-        "publish_time": "30-04-2025 10:11",
-        "news_link": "https://sharia.republika.co.id/berita/svizy9423/laba-bersih-bsi-tembus-rp-187-triliun-di-kuartal-i-2025-tumbuh-1005-persen"
-    },
-    {
-        "title": "Bima Dilematis, Antara Rimpu, Media Sosial, dan Tanggung Jawab Moral",
-        "category": "Rejogja",
-        "publish_time": "30-04-2025 10:11",
-        "news_link": "https://rejogja.republika.co.id/berita/svizxp291/bima-dilematis-antara-rimpu-media-sosial-dan-tanggung-jawab-moral"
-    },
-    {
-        "title": "RUPS Tahunan ADHI Setujui Laporan Kinerja Tahun Buku 2024,",
-        "category": "Ekonomi",
-        "publish_time": "30-04-2025 10:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/svizqz370/rups-tahunan-adhi-setujui-laporan-kinerja-tahun-buku-2024"
-    },
-    {
-        "title": "Kemenperin Rumuskan Strategi Penurunan Emisi Industri",
-        "category": "Esgnow",
-        "publish_time": "30-04-2025 10:11",
-        "news_link": "https://esgnow.republika.co.id/berita/svizgf416/kemenperin-rumuskan-strategi-penurunan-emisi-industri"
-    },
-    {
-        "title": "Klinik Kecantikan ADC Clinic Hadirkan Dua Teknologi Laser Unggulan",
-        "category": "Rejabar",
-        "publish_time": "30-04-2025 10:11",
-        "news_link": "https://rejabar.republika.co.id/berita/svixbm291/klinik-kecantikan-adc-clinic-hadirkan-dua-teknologi-laser-unggulan"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok, 1 Mei 2025: Kota Denpasar Bali dan Hujan di Badung",
-        "category": "News",
-        "publish_time": "30-04-2025 10:11",
-        "news_link": "https://news.republika.co.id/berita/svizab286942907/prakiraan-cuaca-besok-1-mei-2025-kota-denpasar-bali-dan-hujan-di-badung"
-    },
-    {
-        "title": "Konten Edukasi di TikTok Makin Diminati, Kini Capai 24 Juta Unggahan",
-        "category": "Ameera",
-        "publish_time": "30-04-2025 10:11",
-        "news_link": "https://ameera.republika.co.id/berita/sviz97425/konten-edukasi-di-tiktok-makin-diminati-kini-capai-24-juta-unggahan"
-    },
-    {
-        "title": "Bahlil Kaji Pemutihan Utang BBM TNI AL Senilai Rp 3,2 Triliun",
-        "category": "Ekonomi",
-        "publish_time": "30-04-2025 10:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sviz8s423/bahlil-kaji-pemutihan-utang-bbm-tni-al-senilai-rp-32-triliun"
-    },
-    {
-        "title": "Gagal Ginjal Kronis, The Silent Killer",
-        "category": "Rejogja",
-        "publish_time": "30-04-2025 10:11",
-        "news_link": "https://rejogja.republika.co.id/berita/sviz0i291/gagal-ginjal-kronis-the-silent-killer"
-    },
-    {
-        "title": "Kinerja BRI Kuartal I 2025, CAR 24,03 Persen Hingga Himpun DPK Rp 1.421 Triliun",
-        "category": "Ekonomi",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sviynn423/kinerja-bri-kuartal-i-2025-car-2403-persen-hingga-himpun-dpk-rp-1421-triliun"
-    },
-    {
-        "title": "Waspada Syirik Besar di Sekitar Kita, Ini 6 Bahayanya di Dunia dan Akhirat",
-        "category": "Khazanah",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://khazanah.republika.co.id/berita/sviygx320/waspada-syirik-besar-di-sekitar-kita-ini-6-bahayanya-di-dunia-dan-akhirat"
-    },
-    {
-        "title": "Jokowi Tunjukkan Ijazah dari SD Sampai Kuliah ke Polisi",
-        "category": "News",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/sviyer377/jokowi-tunjukkan-ijazah-dari-sd-sampai-kuliah-ke-polisi"
-    },
-    {
-        "title": "Simpan Sabu Dalam Bungkus Kopi, Seorang Pria Ditangkap Polres Indramayu",
-        "category": "Rejabar",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://rejabar.republika.co.id/berita/svixvi512/simpan-sabu-dalam-bungkus-kopi-seorang-pria-ditangkap-polres-indramayu"
-    },
-    {
-        "title": "Rupiah Ditutup Menguat ke Rp 16.603 Hari Ini",
-        "category": "Ekonomi",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/svixuc423/rupiah-ditutup-menguat-ke-rp-16603-hari-ini"
-    },
-    {
-        "title": "Sertifikat Tanah Mbah Tupon Beralih Nama, ATR/BPN Bantul\u00a0Duga Ada Cacat Administrasi",
-        "category": "Rejogja",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://rejogja.republika.co.id/berita/svixs0291/sertifikat-tanah-mbah-tupon-beralih-nama-atrbpn-bantulduga-ada-cacat-administrasi"
-    },
-    {
-        "title": "Polisi Gagalkan Tawuran Remaja Bersenjata Tajam di Perbatasan Indramayu\u2013Cirebon",
-        "category": "Rejabar",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://rejabar.republika.co.id/berita/svixlq512/polisi-gagalkan-tawuran-remaja-bersenjata-tajam-di-perbatasan-indramayucirebon"
-    },
-    {
-        "title": "Mentan Lapor Prabowo: Stok Beras Tertinggi Selama 23 Tahun",
-        "category": "News",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/svixi1484/mentan-lapor-prabowo-stok-beras-tertinggi-selama-23-tahun"
-    },
-    {
-        "title": "Bantah Keluarga Korban, Kapolrestro Jaktim: Tidak Ada Pengeroyokan Mahasiswa UKI",
-        "category": "News",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/svixdv409/bantah-keluarga-korban-kapolrestro-jaktim-tidak-ada-pengeroyokan-mahasiswa-uki"
-    },
-    {
-        "title": "KPK Panggil Pegawai KPU RI Terkait Kasus Harun Masiku",
-        "category": "News",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/svix9x487/kpk-panggil-pegawai-kpu-ri-terkait-kasus-harun-masiku"
-    },
-    {
-        "title": "RDP dengan Menhan, Anggota DPR: Biar Anggota TNI tak Boros Konsumsi BBM, Pakai Barcode",
-        "category": "News",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/sviwzn451/rdp-dengan-menhan-anggota-dpr-biar-anggota-tni-tak-boros-konsumsi-bbm-pakai-barcode"
-    },
-    {
-        "title": "Muasal Haji Akbar Menurut Akademisi dan Pakar Alquran: Tidak Selamanya Hari Jumat",
-        "category": "Iqra",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://iqra.republika.co.id/berita/sviwsl483/muasal-haji-akbar-menurut-akademisi-dan-pakar-alquran-tidak-selamanya-hari-jumat"
-    },
-    {
-        "title": "Laporan Intelijen Pakistan: India akan Menyerang 24-36 Jam ke Depan",
-        "category": "News",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/sviwm4377/laporan-intelijen-pakistan-india-akan-menyerang-2436-jam-ke-depan"
-    },
-    {
-        "title": "Banyak Prajurit Butuh Rumah Dinas, Begini Kata Menteri Pertahanan",
-        "category": "News",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/sviwk9451/banyak-prajurit-butuh-rumah-dinas-begini-kata-menteri-pertahanan"
-    },
-    {
-        "title": "Harga Kedelai Impor Naik, Ukuran Tempe jadi Lebih Mini",
-        "category": "Rejabar",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://rejabar.republika.co.id/berita/sviwk3512/harga-kedelai-impor-naik-ukuran-tempe-jadi-lebih-mini"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok: Kota Surabaya dan Sekitarnya, 1 Mei 2025 | Cuaca Cerah di Surabaya",
-        "category": "News",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/sviwi71204164306/prakiraan-cuaca-besok-kota-surabaya-dan-sekitarnya-1-mei-2025-cuaca-cerah-di-surabaya"
-    },
-    {
-        "title": "50 Tahun Lalu, AS Didepak dari Vietnam",
-        "category": "News",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://news.republika.co.id/berita/sviwha393/50-tahun-lalu-as-didepak-dari-vietnam"
-    },
-    {
-        "title": "Kinerja PGN Tetap Solid Meski Dunia Sedang Bergejolak",
-        "category": "Ekonomi",
-        "publish_time": "30-04-2025 09:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/sviwfw368/kinerja-pgn-tetap-solid-meski-dunia-sedang-bergejolak"
     }
 ]
