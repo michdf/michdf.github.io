@@ -1,5 +1,89 @@
 [
     {
+        "title": "Sanubari Palestina, Komunitas Kolaborasi Seniman dan Artis Peduli Rakyat Palestina",
+        "category": "Ameera",
+        "publish_time": "02-05-2025 05:01",
+        "news_link": "https://ameera.republika.co.id/berita/svmbba425/sanubari-palestina-komunitas-kolaborasi-seniman-dan-artis-peduli-rakyat-palestina"
+    },
+    {
+        "title": "Pembongkaran Tempat Parkir ABA Malioboro Ditunda, Juru Parkir Kembali Bisa Bekerja",
+        "category": "Rejogja",
+        "publish_time": "02-05-2025 04:48",
+        "news_link": "https://rejogja.republika.co.id/berita/svmap4291/pembongkaran-tempat-parkir-aba-malioboro-ditunda-juru-parkir-kembali-bisa-bekerja"
+    },
+    {
+        "title": "Laba BRI Insurance Naik 45 Persen pada 2024",
+        "category": "Ekonomi",
+        "publish_time": "02-05-2025 04:43",
+        "news_link": "https://ekonomi.republika.co.id/berita/svmahh370/laba-bri-insurance-naik-45-persen-pada-2024"
+    },
+    {
+        "title": "Sekolah Langganan Banjir di Semarang Berinovasi Buat Sudut Baca Digital",
+        "category": "Rejogja",
+        "publish_time": "02-05-2025 04:41",
+        "news_link": "https://rejogja.republika.co.id/berita/svmadl291/sekolah-langganan-banjir-di-semarang-berinovasi-buat-sudut-baca-digital"
+    },
+    {
+        "title": "Ini Cara Mahasiswa Bisa Raup Untung dari Bisnis Berbasis AI",
+        "category": "News",
+        "publish_time": "02-05-2025 04:40",
+        "news_link": "https://news.republika.co.id/berita/svmac9368/ini-cara-mahasiswa-bisa-raup-untung-dari-bisnis-berbasis-ai"
+    },
+    {
+        "title": "MUI Sampaikan Tahniah, Doa dan Pesan untuk Kesuksesan Haji 2025",
+        "category": "Khazanah",
+        "publish_time": "02-05-2025 04:38",
+        "news_link": "https://khazanah.republika.co.id/berita/svma8d458/mui-sampaikan-tahniah-doa-dan-pesan-untuk-kesuksesan-haji-2025"
+    },
+    {
+        "title": "Makkah Siapkan 428.289 Kamar untuk 1,8 Juta Jamaah Haji",
+        "category": "Khazanah",
+        "publish_time": "02-05-2025 04:37",
+        "news_link": "https://khazanah.republika.co.id/berita/svma64483/makkah-siapkan-428289-kamar-untuk-18-juta-jamaah-haji"
+    },
+    {
+        "title": "MUI Jabar Pertanyakan Vasektomi Jadi Syarat Penerima Bansos, Kedaruratannya Apa?",
+        "category": "Rejabar",
+        "publish_time": "02-05-2025 04:35",
+        "news_link": "https://rejabar.republika.co.id/berita/svma3u512/mui-jabar-pertanyakan-vasektomi-jadi-syarat-penerima-bansos-kedaruratannya-apa"
+    },
+    {
+        "title": "Universitas Nusa Mandiri Margonda Bikin Kuliah Makin Gampang, Karier Makin Dekat",
+        "category": "News",
+        "publish_time": "02-05-2025 04:33",
+        "news_link": "https://news.republika.co.id/berita/svma0x368/universitas-nusa-mandiri-margonda-bikin-kuliah-makin-gampang-karier-makin-dekat"
+    },
+    {
+        "title": "Sudah Tangkap Pejuang Hamas, Israel Malah Bombardir Area Dekat Istana Suriah",
+        "category": "News",
+        "publish_time": "02-05-2025 04:29",
+        "news_link": "https://news.republika.co.id/berita/svm9tv451/sudah-tangkap-pejuang-hamas-israel-malah-bombardir-area-dekat-istana-suriah"
+    },
+    {
+        "title": "Menuju Perpustakaan Unggul, Cyber University Aktif dalam Penguatan Akreditasi",
+        "category": "News",
+        "publish_time": "02-05-2025 04:28",
+        "news_link": "https://news.republika.co.id/berita/svm9s3368/menuju-perpustakaan-unggul-cyber-university-aktif-dalam-penguatan-akreditasi"
+    },
+    {
+        "title": "Indonesia Susun Rencana Adaptasi Nasional Hadapi Dampak Krisis Iklim",
+        "category": "Esgnow",
+        "publish_time": "02-05-2025 04:28",
+        "news_link": "https://esgnow.republika.co.id/berita/svm9r1416/indonesia-susun-rencana-adaptasi-nasional-hadapi-dampak-krisis-iklim"
+    },
+    {
+        "title": "Area Sekitar Ka'bah Hampir Kosong Jelang Muslim Haji",
+        "category": "Khazanah",
+        "publish_time": "02-05-2025 04:23",
+        "news_link": "https://khazanah.republika.co.id/berita/svm9j2483/area-sekitar-kabah-hampir-kosong-jelang-muslim-haji"
+    },
+    {
+        "title": "Cyber University Buka Jalan Karier Instan! Mahasiswa Akhir Langsung Dapat Pekerjaan",
+        "category": "News",
+        "publish_time": "02-05-2025 04:23",
+        "news_link": "https://news.republika.co.id/berita/svm9iz368/cyber-university-buka-jalan-karier-instan-mahasiswa-akhir-langsung-dapat-pekerjaan"
+    },
+    {
         "title": "Rayakan Hari Pendidikan, Bank Mandiri Turun Tangan Bangun Pendidikan Inklusif",
         "category": "Esgnow",
         "publish_time": "02-05-2025 04:15",
@@ -8,295 +92,211 @@
     {
         "title": "Menag: Haji adalah Perjalanan ke 'Langit'",
         "category": "Khazanah",
-        "publish_time": "02-05-2025 04:09",
+        "publish_time": "02-05-2025 04:14",
         "news_link": "https://khazanah.republika.co.id/berita/svm8vy377/menag-haji-adalah-perjalanan-ke-langit"
     },
     {
         "title": "Triwulan Pertama 2025, Pertamina Hulu Energy Tembus Produksi 1,04 Juta Barel per Hari",
         "category": "Ekonomi",
-        "publish_time": "02-05-2025 04:05",
+        "publish_time": "02-05-2025 04:14",
         "news_link": "https://ekonomi.republika.co.id/berita/svm8o6368/triwulan-pertama-2025-pertamina-hulu-energy-tembus-produksi-104-juta-barel-per-hari"
     },
     {
         "title": "Cinema XXI Catat Rekor Baru, Lebih dari 14 Juta Penonton pada April 2025",
         "category": "Ameera",
-        "publish_time": "02-05-2025 03:58",
+        "publish_time": "02-05-2025 04:14",
         "news_link": "https://ameera.republika.co.id/berita/svm8c8456/cinema-xxi-catat-rekor-baru-lebih-dari-14-juta-penonton-pada-april-2025"
     },
     {
         "title": "DJKI Kemenkum Bicara Potensi Kekayaan Intelektual pada Fenomena 'Sound Horeg'",
         "category": "News",
-        "publish_time": "02-05-2025 03:55",
+        "publish_time": "02-05-2025 04:14",
         "news_link": "https://news.republika.co.id/berita/svm80y487/djki-kemenkum-bicara-potensi-kekayaan-intelektual-pada-fenomena-sound-horeg"
     },
     {
         "title": "Gotrade Perluas Inovasi dengan Fitur-fitur Ini",
         "category": "Ekonomi",
-        "publish_time": "02-05-2025 03:46",
+        "publish_time": "02-05-2025 04:14",
         "news_link": "https://ekonomi.republika.co.id/berita/svm7tc456/gotrade-perluas-inovasi-dengan-fiturfitur-ini"
     },
     {
         "title": "Polemik Pembentukan Daerah Otonomi Baru Mencuat, Moratorium Sejak 2014 Waktunya Dicabut?",
         "category": "News",
-        "publish_time": "02-05-2025 03:40",
+        "publish_time": "02-05-2025 03:14",
         "news_link": "https://news.republika.co.id/berita/svm7im487/polemik-pembentukan-daerah-otonomi-baru-mencuat-moratorium-sejak-2014-waktunya-dicabut"
     },
     {
         "title": "Rahasia Info Serang Yaman Bocor, Media AS: Penasihat Keamanan Nasional Dicopot",
         "category": "News",
-        "publish_time": "02-05-2025 03:34",
+        "publish_time": "02-05-2025 03:14",
         "news_link": "https://news.republika.co.id/berita/svm78w451/rahasia-info-serang-yaman-bocor-media-as-penasihat-keamanan-nasional-dicopot"
     },
     {
         "title": "Kapolres Indramayu Pastikan Pengamanan Asrama Haji Embarkasi Kertajati",
         "category": "Rejabar",
-        "publish_time": "02-05-2025 03:26",
+        "publish_time": "02-05-2025 03:14",
         "news_link": "https://rejabar.republika.co.id/berita/svm6uu368/kapolres-indramayu-pastikan-pengamanan-asrama-haji-embarkasi-kertajati"
     },
     {
         "title": "Inggris Belum Siap Hadapi Dampak Perubahan Iklim",
         "category": "Esgnow",
-        "publish_time": "02-05-2025 03:22",
+        "publish_time": "02-05-2025 03:14",
         "news_link": "https://esgnow.republika.co.id/berita/svm6ox416/inggris-belum-siap-hadapi-dampak-perubahan-iklim"
     },
     {
         "title": "5 Ribu Rekening Rp 600 M Diblokir, PPATK: Cegah Pinjol, Narkoba, Penipuan, dan Prostitusi",
         "category": "News",
-        "publish_time": "02-05-2025 03:17",
+        "publish_time": "02-05-2025 03:14",
         "news_link": "https://news.republika.co.id/berita/svm6dx451/5-ribu-rekening-rp-600-m-diblokir-ppatk-cegah-pinjol-narkoba-penipuan-dan-prostitusi"
     },
     {
         "title": "Jakarta akan Uji Coba Sekolah Swasta Gratis",
         "category": "News",
-        "publish_time": "02-05-2025 03:17",
+        "publish_time": "02-05-2025 03:14",
         "news_link": "https://news.republika.co.id/berita/svm6dl377/jakarta-akan-uji-coba-sekolah-swasta-gratis"
     },
     {
         "title": "Menata Ulang Pembangunan Lewat Keadilan ala Ibnu Khaldun",
         "category": "Kolom",
-        "publish_time": "02-05-2025 03:17",
+        "publish_time": "02-05-2025 03:14",
         "news_link": "https://analisis.republika.co.id/berita/svm5ee393/menata-ulang-pembangunan-lewat-keadilan-ala-ibnu-khaldun"
     },
     {
         "title": "Air Bersih Langka Anak Kecil di Gaza Kejar Tangki Air",
         "category": "Video",
-        "publish_time": "02-05-2025 03:17",
+        "publish_time": "02-05-2025 03:14",
         "news_link": "https://tv.republika.co.id/berita/svm4w0313/air-bersih-langka-anak-kecil-di-gaza-kejar-tangki-air"
     },
     {
         "title": "Epik! Begini Cara Brigade Al Qassam Menyerang Tentara Israel dari Jarak Dekat",
         "category": "Khazanah",
-        "publish_time": "02-05-2025 02:17",
+        "publish_time": "02-05-2025 02:14",
         "news_link": "https://khazanah.republika.co.id/berita/svm4w5483/epik-begini-cara-brigade-al-qassam-menyerang-tentara-israel-dari-jarak-dekat"
     },
     {
         "title": "Presiden Prabowo Hadiri Peringatan Hardiknas di SDN Cimahpar 5 Kota Bogor",
         "category": "News",
-        "publish_time": "02-05-2025 02:17",
+        "publish_time": "02-05-2025 02:14",
         "news_link": "https://news.republika.co.id/berita/svm4ek484/presiden-prabowo-hadiri-peringatan-hardiknas-di-sdn-cimahpar-5-kota-bogor"
     },
     {
         "title": "Menhub Pastikan Kesiapan Transportasi Jamaah Calon Haji 2025",
         "category": "Ekonomi",
-        "publish_time": "02-05-2025 02:17",
+        "publish_time": "02-05-2025 02:14",
         "news_link": "https://ekonomi.republika.co.id/berita/svm416423/menhub-pastikan-kesiapan-transportasi-jamaah-calon-haji-2025"
     },
     {
         "title": "12 Pimpinan Ormas Islam Bertemu Ketum PBNU, Bicara Upaya\u00a0Setop Genosida di Gaza",
         "category": "Khazanah",
-        "publish_time": "02-05-2025 02:17",
+        "publish_time": "02-05-2025 02:14",
         "news_link": "https://khazanah.republika.co.id/berita/svm3kf366/12-pimpinan-ormas-islam-bertemu-ketum-pbnu-bicara-upayasetop-genosida-di-gaza"
     },
     {
         "title": "WHO: Sistem Kesehatan Global Alami Gangguan Pendanaan Terbesar dalam Sejarah",
         "category": "Ekonomi",
-        "publish_time": "02-05-2025 02:17",
+        "publish_time": "02-05-2025 02:14",
         "news_link": "https://ekonomi.republika.co.id/berita/svm3id423/who-sistem-kesehatan-global-alami-gangguan-pendanaan-terbesar-dalam-sejarah"
     },
     {
         "title": "Emas Masih dalam Cicilan, Wajib Zakat?",
         "category": "Ameera",
-        "publish_time": "02-05-2025 02:17",
+        "publish_time": "02-05-2025 02:14",
         "news_link": "https://www.republika.id/posts/57693/emas-masih-dalam-cicilan-wajib-zakat"
     },
     {
         "title": "Kejarlah Mimpi Sampai New York, Perjalanan Inspiratif Santriwati MAN 4 Jombang ke Amerika",
         "category": "Rejogja",
-        "publish_time": "02-05-2025 02:17",
+        "publish_time": "02-05-2025 02:14",
         "news_link": "https://rejogja.republika.co.id/berita/svm2ut291/kejarlah-mimpi-sampai-new-york-perjalanan-inspiratif-santriwati-man-4-jombang-ke-amerika"
     },
     {
         "title": "Blokade Gaza, Bos Houthi: 57 Negara OKI tak Bisa Kirim Sepotong Roti dan Susu ke Gaza",
         "category": "News",
-        "publish_time": "02-05-2025 02:17",
+        "publish_time": "02-05-2025 02:14",
         "news_link": "https://news.republika.co.id/berita/svm2e1451/blokade-gaza-bos-houthi-57-negara-oki-tak-bisa-kirim-sepotong-roti-dan-susu-ke-gaza"
     },
     {
         "title": "Dalil-Dalil Sejumlah Amalan di Hari Jumat",
         "category": "Iqra",
-        "publish_time": "02-05-2025 01:17",
+        "publish_time": "02-05-2025 02:14",
         "news_link": "https://iqra.republika.co.id/berita/svm27l430/dalildalil-sejumlah-amalan-di-hari-jumat"
     },
     {
         "title": "UII Resmikan Program Magister Ilmu Komunikasi dengan Perspektif Digital dan Lingkungan",
         "category": "Rejogja",
-        "publish_time": "02-05-2025 01:17",
+        "publish_time": "02-05-2025 01:14",
         "news_link": "https://rejogja.republika.co.id/berita/svm25j291/uii-resmikan-program-magister-ilmu-komunikasi-dengan-perspektif-digital-dan-lingkungan"
     },
     {
         "title": "Berikut Jalur yang Digunakan CFD di Jalan Margonda Raya, Ini Waktunya",
         "category": "Network",
-        "publish_time": "02-05-2025 01:17",
+        "publish_time": "02-05-2025 01:14",
         "news_link": "https://ruzkaindonesia.id/posts/523037/berikut-jalur-yang-digunakan-cfd-di-jalan-margonda-raya-ini-waktunya"
     },
     {
         "title": "Pemkot Depok Telah Pasang 1.058 Titik Internet Publik dan Internet RW",
         "category": "Network",
-        "publish_time": "02-05-2025 01:17",
+        "publish_time": "02-05-2025 01:14",
         "news_link": "https://ruzkaindonesia.id/posts/523042/pemkot-depok-telah-pasang-1-058-titik-internet-publik-dan-internet-rw"
     },
     {
         "title": "Suzuki Fronx Usung Desain Stylish Ala SUV Coupe, Harga?",
         "category": "Network",
-        "publish_time": "02-05-2025 01:17",
+        "publish_time": "02-05-2025 01:14",
         "news_link": "https://motoresto.id/posts/522971/suzuki-fronx-usung-desain-stylish-ala-suv-coupe-harga-"
     },
     {
         "title": "Racing Bulls Pamer Livery Spesial Jelang GP Miami 2025",
         "category": "Network",
-        "publish_time": "02-05-2025 01:17",
+        "publish_time": "02-05-2025 01:14",
         "news_link": "https://motoresto.id/posts/522995/racing-bulls-pamer-livery-spesial-jelang-gp-miami-2025"
     },
     {
         "title": "Honda XL750 Transalp 2025 Resmi Dirilis, Intip Spesifikasi dan Fiturnya!",
         "category": "Network",
-        "publish_time": "02-05-2025 01:17",
+        "publish_time": "02-05-2025 01:14",
         "news_link": "https://motoresto.id/posts/523051/honda-xl750-transalp-2025-resmi-dirilis-intip-spesifikasi-dan-fiturnya"
     },
     {
         "title": "Habis Sunnah Rasul dengan Istri di Malam Jumat, Ini Niat dan Rukun Mandi Junub yang Benar",
         "category": "Network",
-        "publish_time": "02-05-2025 01:17",
+        "publish_time": "02-05-2025 01:14",
         "news_link": "https://kurusetra.republika.co.id/posts/523076/habis-sunnah-rasul-dengan-istri-di-malam-jumat-ini-niat-dan-rukun-mandi-junub-yang-benar"
     },
     {
         "title": "Apakah Pinjaman ke Bank Termasuk Riba dan Bagaimana Hukumnya dalam Islam?",
         "category": "Network",
-        "publish_time": "02-05-2025 01:17",
+        "publish_time": "02-05-2025 01:14",
         "news_link": "https://kurusetra.republika.co.id/posts/523074/apakah-pinjaman-ke-bank-termasuk-riba-dan-bagaimana-hukumnya-dalam-islam"
     },
     {
         "title": "Als Ik Eens Nederlander Was, Kritikan Tajam untuk Mental Kolonial",
         "category": "News",
-        "publish_time": "02-05-2025 01:17",
+        "publish_time": "02-05-2025 01:14",
         "news_link": "https://www.republika.id/posts/57700/als-ik-eens-nederlander-was-kritikan-tajam-untuk-mental-kolonial"
     },
     {
         "title": "Direktur BCA Bagikan Kiat Digitalisasi Sukses di Universitas Gadjah Mada",
         "category": "Rejogja",
-        "publish_time": "02-05-2025 01:17",
+        "publish_time": "02-05-2025 01:14",
         "news_link": "https://rejogja.republika.co.id/berita/svm1lu291/direktur-bca-bagikan-kiat-digitalisasi-sukses-di-universitas-gadjah-mada"
     },
     {
         "title": "Naskah Khutbah Jumat: Pentingnya Menjauhi Lingkungan Pertemanan yang Toxic",
         "category": "Iqra",
-        "publish_time": "02-05-2025 01:17",
+        "publish_time": "02-05-2025 01:14",
         "news_link": "https://iqra.republika.co.id/berita/svm158366/naskah-khutbah-jumat-pentingnya-menjauhi-lingkungan-pertemanan-yang-toxic"
     },
     {
         "title": "Hardiknas 2025: Partisipasi Semesta Wujudkan Pendidikan Bermutu untuk Semua",
         "category": "Kolom",
-        "publish_time": "02-05-2025 01:17",
+        "publish_time": "02-05-2025 01:14",
         "news_link": "https://analisis.republika.co.id/berita/svm157451/hardiknas-2025-partisipasi-semesta-wujudkan-pendidikan-bermutu-untuk-semua"
     },
     {
         "title": "Kualitas Udara Jakarta Terburuk Ketujuh di Dunia pada Jumat Pagi",
         "category": "News",
-        "publish_time": "02-05-2025 01:17",
+        "publish_time": "02-05-2025 01:14",
         "news_link": "https://news.republika.co.id/berita/svm0t3423/kualitas-udara-jakarta-terburuk-ketujuh-di-dunia-pada-jumat-pagi"
-    },
-    {
-        "title": "Menteri PKP: Rumah Subsidi Bukan untuk Orang Kaya!",
-        "category": "Ekonomi",
-        "publish_time": "02-05-2025 01:17",
-        "news_link": "https://ekonomi.republika.co.id/berita/svm0eh423/menteri-pkp-rumah-subsidi-bukan-untuk-orang-kaya"
-    },
-    {
-        "title": "Peringati Hardiknas, Guru di Jakut Tanda Tangani Petisi Tolak Pemerasan dan Intimidasi",
-        "category": "News",
-        "publish_time": "02-05-2025 01:17",
-        "news_link": "https://news.republika.co.id/berita/svm0d4430/peringati-hardiknas-guru-di-jakut-tanda-tangani-petisi-tolak-pemerasan-dan-intimidasi"
-    },
-    {
-        "title": "Ibarat Pohon Kurma",
-        "category": "Khazanah",
-        "publish_time": "02-05-2025 01:17",
-        "news_link": "https://www.republika.id/posts/57694/ibarat-pohon-kurma"
-    },
-    {
-        "title": "Amphuri: InsyaAllah Haji Tahun ini Lebih Baik dan Lancar",
-        "category": "Video",
-        "publish_time": "02-05-2025 01:17",
-        "news_link": "https://tv.republika.co.id/berita/svlzro313/amphuri-insyaallah-haji-tahun-ini-lebih-baik-dan-lancar"
-    },
-    {
-        "title": "Politikus PAN: Prabowo Jadi Presiden Pertama di Era Reformasi Ikut Aksi May Day",
-        "category": "News",
-        "publish_time": "02-05-2025 01:17",
-        "news_link": "https://news.republika.co.id/berita/svlzz9377/politikus-pan-prabowo-jadi-presiden-pertama-di-era-reformasi-ikut-aksi-may-day"
-    },
-    {
-        "title": "Penumpang LRT Cetak Rekor di Hari\u00a0 Pertama ASN Jakarta Wajib Gunakan Transportasi Umum",
-        "category": "Ekonomi",
-        "publish_time": "02-05-2025 01:17",
-        "news_link": "https://ekonomi.republika.co.id/berita/svlzyo423/penumpang-lrt-cetak-rekor-di-hari-pertama-asn-jakarta-wajib-gunakan-transportasi-umum"
-    },
-    {
-        "title": "Keutamaan Sabar dalam Diri Muslim",
-        "category": "Khazanah",
-        "publish_time": "02-05-2025 01:17",
-        "news_link": "https://khazanah.republika.co.id/berita/svlznk458/keutamaan-sabar-dalam-diri-muslim"
-    },
-    {
-        "title": "Perubahan Iklim Picu Kebakaran Hutan Mematikan di Korsel",
-        "category": "Esgnow",
-        "publish_time": "02-05-2025 00:17",
-        "news_link": "https://esgnow.republika.co.id/berita/svlzf9416/perubahan-iklim-picu-kebakaran-hutan-mematikan-di-korsel"
-    },
-    {
-        "title": "Sampah Menggunung di Pasar Caringin, Ini Desakan Pedagang ke Dedi Mulyadi",
-        "category": "Esgnow",
-        "publish_time": "02-05-2025 00:17",
-        "news_link": "https://esgnow.republika.co.id/berita/svlz1l416/sampah-menggunung-di-pasar-caringin-ini-desakan-pedagang-ke-dedi-mulyadi"
-    },
-    {
-        "title": "Hercules Minta Maaf ke Sutiyoso, 'Sentil' Balik Mantan Panglima Gatot: Aku Salah Apa?",
-        "category": "News",
-        "publish_time": "02-05-2025 00:17",
-        "news_link": "https://news.republika.co.id/berita/svlymw377/hercules-minta-maaf-ke-sutiyoso-sentil-balik-mantan-panglima-gatot-aku-salah-apa"
-    },
-    {
-        "title": "MUI Jabar:  Vasektomi Usulan Gubernur Dedi Mulyadi Hukumnya Haram",
-        "category": "Khazanah",
-        "publish_time": "02-05-2025 00:17",
-        "news_link": "https://khazanah.republika.co.id/berita/svlyk3483/mui-jabar-vasektomi-usulan-gubernur-dedi-mulyadi-hukumnya-haram"
-    },
-    {
-        "title": "Membumikan Kemanusiaan dalam Transformasi Pendidikan Tinggi",
-        "category": "Rejogja",
-        "publish_time": "02-05-2025 00:17",
-        "news_link": "https://rejogja.republika.co.id/berita/svlyey291/membumikan-kemanusiaan-dalam-transformasi-pendidikan-tinggi"
-    },
-    {
-        "title": "Marak PHK, Buruh Jateng Kritik Aturan Batas Usia Melamar Kerja, Di Atas 40 Tahun Susah",
-        "category": "News",
-        "publish_time": "01-05-2025 23:17",
-        "news_link": "https://news.republika.co.id/berita/svlwj7377/marak-phk-buruh-jateng-kritik-aturan-batas-usia-melamar-kerja-di-atas-40-tahun-susah"
-    },
-    {
-        "title": "Cucu Ki Hadjar Dewantara Gagas Pendidikan yang Memerdekakan dan Berdaya Saing",
-        "category": "News",
-        "publish_time": "01-05-2025 23:17",
-        "news_link": "https://news.republika.co.id/berita/svlvg6291/cucu-ki-hadjar-dewantara-gagas-pendidikan-yang-memerdekakan-dan-berdaya-saing"
     }
 ]
