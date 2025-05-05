@@ -1,110 +1,236 @@
 [
     {
+        "title": "|Prakiraan Cuaca Kota Semarang dan Sekitarnya - Hujan Ringan Diperkirakan di Beberapa Wilayah - 6 Mei 2025",
+        "category": "News",
+        "publish_time": "05-05-2025 08:13",
+        "news_link": "https://news.republika.co.id/berita/svs465598789075/prakiraan-cuaca-kota-semarang-dan-sekitarnya-hujan-ringan-diperkirakan-di-beberapa-wilayah-6-mei-2025"
+    },
+    {
+        "title": "Allah Sebaik-baik Penolong",
+        "category": "Khazanah",
+        "publish_time": "05-05-2025 08:10",
+        "news_link": "https://khazanah.republika.co.id/berita/svs422458/allah-sebaikbaik-penolong"
+    },
+    {
+        "title": "Wali Kota Yogyakarta Tanggapi MBG\u00a0Mandek\u00a0di Sejumlah Sekolah",
+        "category": "Rejogja",
+        "publish_time": "05-05-2025 08:09",
+        "news_link": "https://rejogja.republika.co.id/berita/svs3zx291/wali-kota-yogyakarta-tanggapi-mbgmandekdi-sejumlah-sekolah"
+    },
+    {
+        "title": "Kapolres Indramayu Pimpin Upacara Korp Rapor Kenaikan Pangkat Pengabdian Personel",
+        "category": "Rejabar",
+        "publish_time": "05-05-2025 08:00",
+        "news_link": "https://rejabar.republika.co.id/berita/svs3l1512/kapolres-indramayu-pimpin-upacara-korp-rapor-kenaikan-pangkat-pengabdian-personel"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok di Tangerang dan Sekitarnya: Hujan di Sorong 6 Mei 2025",
+        "category": "News",
+        "publish_time": "05-05-2025 08:00",
+        "news_link": "https://news.republika.co.id/berita/svs3kl612834054/prakiraan-cuaca-besok-di-tangerang-dan-sekitarnya-hujan-di-sorong-6-mei-2025"
+    },
+    {
+        "title": "Ruang Kelas Dikunci Kontraktor, Siswa SDN Bendono 1 Demak Belajar di Kolong Bangunan",
+        "category": "Visual",
+        "publish_time": "05-05-2025 08:00",
+        "news_link": "https://visual.republika.co.id/berita/svrz6x375/ruang-kelas-dikunci-kontraktor-siswa-sdn-bendono-1-demak-belajar-di-kolong-bangunan"
+    },
+    {
+        "title": "Indonesian Economic Growth Slowed to 4.87 Percent in Q1",
+        "category": "En",
+        "publish_time": "21 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/svs3ir415/indonesian-economic-growth-slowed-to-487-percent-in-q1"
+    },
+    {
+        "title": "Inilah Cara Rasulullah Bersabar",
+        "category": "Khazanah",
+        "publish_time": "05-05-2025 07:57",
+        "news_link": "https://khazanah.republika.co.id/berita/svs3g9458/inilah-cara-rasulullah-bersabar"
+    },
+    {
+        "title": "Tak Sekadar Pindah Tempat, Ini Jenis-jenis Hijrah",
+        "category": "Khazanah",
+        "publish_time": "05-05-2025 07:53",
+        "news_link": "https://khazanah.republika.co.id/berita/svs39o458/tak-sekadar-pindah-tempat-ini-jenisjenis-hijrah"
+    },
+    {
+        "title": "Bea Cukai Tanjung Priok Fasilitasi Ekspor Galvanize ke Amerika Serikat",
+        "category": "Beacukai",
+        "publish_time": "05-05-2025 07:49",
+        "news_link": "https://republika.co.id/berita//svs32c472/bea-cukai-tanjung-priok-fasilitasi-ekspor-galvanize-ke-amerika-serikat"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok di Kota Jakarta dan Sekitarnya pada 6 Mei 2025: Hujan Ringan",
+        "category": "News",
+        "publish_time": "05-05-2025 07:48",
+        "news_link": "https://news.republika.co.id/berita/svs30m1600375465/prakiraan-cuaca-besok-di-kota-jakarta-dan-sekitarnya-pada-6-mei-2025-hujan-ringan"
+    },
+    {
+        "title": "Ratusan Visa Calon Jamaah Haji di Mataram Belum Keluar",
+        "category": "Khazanah",
+        "publish_time": "05-05-2025 07:48",
+        "news_link": "https://khazanah.republika.co.id/berita/svs307430/ratusan-visa-calon-jamaah-haji-di-mataram-belum-keluar"
+    },
+    {
+        "title": "Niat Menabung Meningkat Pasca Lebaran, Indeks Capai 83,4",
+        "category": "Ekonomi",
+        "publish_time": "05-05-2025 07:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/svs2ns370/niat-menabung-meningkat-pasca-lebaran-indeks-capai-834"
+    },
+    {
+        "title": "Wisudawan Terbaik MES UIN Gus Dur Dedikasikan Riset untuk Pengembangan UMKM",
+        "category": "Rejogja",
+        "publish_time": "05-05-2025 07:38",
+        "news_link": "https://rejogja.republika.co.id/berita/svs2k9291/wisudawan-terbaik-mes-uin-gus-dur-dedikasikan-riset-untuk-pengembangan-umkm"
+    },
+    {
+        "title": "Rumah Zakat Bersama UNFPA dan PKBI Soft Launching Program Kawal Bumil",
+        "category": "Khazanah",
+        "publish_time": "05-05-2025 07:38",
+        "news_link": "https://khazanah.republika.co.id/berita/svs2jh472/rumah-zakat-bersama-unfpa-dan-pkbi-soft-launching-program-kawal-bumil"
+    },
+    {
+        "title": "Perayaan Waisak di Candi Borobudur Siap Digelar",
+        "category": "Ameera",
+        "publish_time": "05-05-2025 07:34",
+        "news_link": "https://ameera.republika.co.id/berita/svs2dv328/perayaan-waisak-di-candi-borobudur-siap-digelar"
+    },
+    {
+        "title": "Dedi Mulyadi Ingin Vasektomi Syarat Bansos, Mensos Bilang Begini",
+        "category": "Rejogja",
+        "publish_time": "05-05-2025 07:28",
+        "news_link": "https://rejogja.republika.co.id/berita/svs23l282/dedi-mulyadi-ingin-vasektomi-syarat-bansos-mensos-bilang-begini"
+    },
+    {
+        "title": "Suhu di Madinah Capai 35 Derajat Celcius, Jamaah Diimbau Perbanyak Minum",
+        "category": "Khazanah",
+        "publish_time": "05-05-2025 07:25",
+        "news_link": "https://khazanah.republika.co.id/berita/svs1z9483/suhu-di-madinah-capai-35-derajat-celcius-jamaah-diimbau-perbanyak-minum"
+    },
+    {
+        "title": "DPR RI Tegaskan Transisi ke Energi Terbarukan Sebuah Keharusan",
+        "category": "Esgnow",
+        "publish_time": "05-05-2025 07:20",
+        "news_link": "https://esgnow.republika.co.id/berita/svs1mq416/dpr-ri-tegaskan-transisi-ke-energi-terbarukan-sebuah-keharusan"
+    },
+    {
+        "title": "Ingin TikTok Tetap Eksis, Trump Perpanjang Tenggat Divestasi",
+        "category": "Ameera",
+        "publish_time": "05-05-2025 07:20",
+        "news_link": "https://ameera.republika.co.id/berita/svs1kt328/ingin-tiktok-tetap-eksis-trump-perpanjang-tenggat-divestasi"
+    },
+    {
+        "title": "Airlangga: Pertumbuhan Ekonomi RI Nomor Dua Tertinggi di Kelompok G20",
+        "category": "Ekonomi",
+        "publish_time": "05-05-2025 07:20",
+        "news_link": "https://ekonomi.republika.co.id/berita/svs1k7370/airlangga-pertumbuhan-ekonomi-ri-nomor-dua-tertinggi-di-kelompok-g20"
+    },
+    {
         "title": "Bagaimana Rudal Houthi Bisa Menembus Iron Dome dan THAAD Menurut Analis Militer",
         "category": "News",
-        "publish_time": "05-05-2025 07:11",
+        "publish_time": "05-05-2025 07:20",
         "news_link": "https://news.republika.co.id/berita/svs1c3409/bagaimana-rudal-houthi-bisa-menembus-iron-dome-dan-thaad-menurut-analis-militer"
     },
     {
         "title": "Percepat Ekosistem Kendaraan Listrik, Gotion Tunjukkan Inovasi Baterai pada PEVS 2025",
         "category": "Rejogja",
-        "publish_time": "05-05-2025 07:10",
+        "publish_time": "05-05-2025 07:20",
         "news_link": "https://rejogja.republika.co.id/berita/svs19l291/percepat-ekosistem-kendaraan-listrik-gotion-tunjukkan-inovasi-baterai-pada-pevs-2025"
     },
     {
         "title": "Masyarakat Diminta Lapor Jika Temukan Promosi Haji Tanpa Antre",
         "category": "Khazanah",
-        "publish_time": "05-05-2025 07:06",
+        "publish_time": "05-05-2025 07:20",
         "news_link": "https://khazanah.republika.co.id/berita/svs13q430/masyarakat-diminta-lapor-jika-temukan-promosi-haji-tanpa-antre"
     },
     {
         "title": "Berburu Pahala ke Masjid Nabawi, Raudhah dan Quba",
         "category": "Khazanah",
-        "publish_time": "05-05-2025 07:01",
+        "publish_time": "05-05-2025 07:20",
         "news_link": "https://khazanah.republika.co.id/berita/svs0un483/berburu-pahala-ke-masjid-nabawi-raudhah-dan-quba"
     },
     {
         "title": "Prakiraan Cuaca Besok 6 Mei 2025 Daerah Bogor dan Sekitarnya: Hujan",
         "category": "News",
-        "publish_time": "05-05-2025 06:59",
+        "publish_time": "05-05-2025 07:20",
         "news_link": "https://news.republika.co.id/berita/svs0sn1732850331/prakiraan-cuaca-besok-6-mei-2025-daerah-bogor-dan-sekitarnya-hujan"
     },
     {
         "title": "Bareskrim Polri Ungkap Kasus Pengoplosan Gas LPG 3 Kg",
         "category": "Visual",
-        "publish_time": "05-05-2025 06:59",
+        "publish_time": "05-05-2025 07:20",
         "news_link": "https://visual.republika.co.id/berita/svrz4s375/bareskrim-polri-ungkap-kasus-pengoplosan-gas-lpg-3-kg"
     },
     {
         "title": "Kebakaran Hutan Dahsyat Israel Ternyata Senjata Makan Tuan",
         "category": "News",
-        "publish_time": "05-05-2025 06:57",
+        "publish_time": "05-05-2025 07:20",
         "news_link": "https://news.republika.co.id/berita/svs0ob393/kebakaran-hutan-dahsyat-israel-ternyata-senjata-makan-tuan"
     },
     {
         "title": "Menang di GP Miami, Oscar Piastri Kenang Debut Buruk di Tempat yang Sama Dua Tahun Lalu",
         "category": "News",
-        "publish_time": "05-05-2025 06:56",
+        "publish_time": "05-05-2025 07:20",
         "news_link": "https://news.republika.co.id/berita/svs0mf348/menang-di-gp-miami-oscar-piastri-kenang-debut-buruk-di-tempat-yang-sama-dua-tahun-lalu"
     },
     {
         "title": "Seorang Jamaah Haji Asal Medan Gantikan Ibunya ke Tanah Suci, Ini Prosesnya",
         "category": "Khazanah",
-        "publish_time": "05-05-2025 06:56",
+        "publish_time": "05-05-2025 07:20",
         "news_link": "https://khazanah.republika.co.id/berita/svs0m7430/seorang-jamaah-haji-asal-medan-gantikan-ibunya-ke-tanah-suci-ini-prosesnya"
     },
     {
         "title": "Jumlah Pengangguran di Indonesia Bertambah 83 Ribuan Jadi 7,28 Juta Orang",
         "category": "Ekonomi",
-        "publish_time": "05-05-2025 06:48",
+        "publish_time": "05-05-2025 06:20",
         "news_link": "https://ekonomi.republika.co.id/berita/svs0a7370/jumlah-pengangguran-di-indonesia-bertambah-83-ribuan-jadi-728-juta-orang"
     },
     {
         "title": "Pertamina Turut Rayakan Puncak Perayaan Hari Buruh Internasional 2025",
         "category": "Ekonomi",
-        "publish_time": "05-05-2025 06:48",
+        "publish_time": "05-05-2025 06:20",
         "news_link": "https://ekonomi.republika.co.id/berita/svs09v472/pertamina-turut-rayakan-puncak-perayaan-hari-buruh-internasional-2025"
     },
     {
         "title": "Momen Prabowo Beri Selamat PM Terpilih Australia",
         "category": "Video",
-        "publish_time": "05-05-2025 06:41",
+        "publish_time": "05-05-2025 06:20",
         "news_link": "https://tv.republika.co.id/berita/svrzxd313/momen-prabowo-beri-selamat-pm-terpilih-australia"
     },
     {
         "title": "Sebulan, Lucky Hakim Luluskan 1.000 Izin Usaha di Indramayu",
         "category": "Rejabar",
-        "publish_time": "05-05-2025 06:40",
+        "publish_time": "05-05-2025 06:20",
         "news_link": "https://rejabar.republika.co.id/berita/svrzwv512/sebulan-lucky-hakim-luluskan-1000-izin-usaha-di-indramayu"
     },
     {
         "title": "Tuntunan Doa Jamaah Haji Saat Berada di Raudhah",
         "category": "Iqra",
-        "publish_time": "05-05-2025 06:39",
+        "publish_time": "05-05-2025 06:20",
         "news_link": "https://iqra.republika.co.id/berita/svrzuy483/tuntunan-doa-jamaah-haji-saat-berada-di-raudhah"
     },
     {
         "title": "Bupati Bandung Optimistis Wujudkan \"Bandung Lebih Bedas\" di RPJMD 2025-2029",
         "category": "Rejabar",
-        "publish_time": "05-05-2025 06:34",
+        "publish_time": "05-05-2025 06:20",
         "news_link": "https://rejabar.republika.co.id/berita/svrzmk472/bupati-bandung-optimistis-wujudkan-bandung-lebih-bedas-di-rpjmd-20252029"
     },
     {
         "title": "InJourney Airports Tuntaskan Transformasi Terminal Umrah dan Haji Soetta",
         "category": "Ekonomi",
-        "publish_time": "05-05-2025 06:31",
+        "publish_time": "05-05-2025 06:20",
         "news_link": "https://ekonomi.republika.co.id/berita/svrzgj370/injourney-airports-tuntaskan-transformasi-terminal-umrah-dan-haji-soetta"
     },
     {
         "title": "Polda Jateng Siap Serahkan Tiga Tersangka Kasus PPDS Undip ke Kejaksaan",
         "category": "News",
-        "publish_time": "05-05-2025 06:30",
+        "publish_time": "05-05-2025 06:20",
         "news_link": "https://news.republika.co.id/berita/svrzfz348/polda-jateng-siap-serahkan-tiga-tersangka-kasus-ppds-undip-ke-kejaksaan"
     },
     {
         "title": "Pemberangkatan Jamaah Calon Haji Embarkasi Medan ke Madinah",
         "category": "Visual",
-        "publish_time": "05-05-2025 06:22",
+        "publish_time": "05-05-2025 06:20",
         "news_link": "https://visual.republika.co.id/berita/svrz2o375/pemberangkatan-jamaah-calon-haji-embarkasi-medan-ke-madinah"
     },
     {
@@ -116,187 +242,61 @@
     {
         "title": "Komnas Haji Minta BPKH dan Danantara Danai Perkampungan Haji di Arab Saudi",
         "category": "Khazanah",
-        "publish_time": "05-05-2025 06:16",
+        "publish_time": "05-05-2025 06:20",
         "news_link": "https://khazanah.republika.co.id/berita/svryrl483/komnas-haji-minta-bpkh-dan-danantara-danai-perkampungan-haji-di-arab-saudi"
     },
     {
         "title": "Persik Bisa Bantu Persib Berpesta Juara BRI Liga 1 Petang Nanti, Begini Caranya",
         "category": "News",
-        "publish_time": "05-05-2025 06:15",
+        "publish_time": "05-05-2025 06:20",
         "news_link": "https://news.republika.co.id/berita/svryr1348/persik-bisa-bantu-persib-berpesta-juara-bri-liga-1-petang-nanti-begini-caranya"
     },
     {
         "title": "Sektor Pertanian Tumbuh\u00a0Double Digit, Topang Pertumbuhan Ekonomi di Kuartal I 2025",
         "category": "Ekonomi",
-        "publish_time": "05-05-2025 06:15",
+        "publish_time": "05-05-2025 06:20",
         "news_link": "https://ekonomi.republika.co.id/berita/svrypr370/sektor-pertanian-tumbuhdouble-digit-topang-pertumbuhan-ekonomi-di-kuartal-i-2025"
     },
     {
         "title": "Komisi I DPR Pilih tak Mempermasalahkan Mutasi Letjen Kunto yang Kemudian Dibatalkan",
         "category": "News",
-        "publish_time": "05-05-2025 06:14",
+        "publish_time": "05-05-2025 06:20",
         "news_link": "https://news.republika.co.id/berita/svryeo409/komisi-i-dpr-pilih-tak-mempermasalahkan-mutasi-letjen-kunto-yang-kemudian-dibatalkan"
     },
     {
         "title": "RUPTL Rampung, IIF Siap Biayai Proyek Listrik EBT",
         "category": "Esgnow",
-        "publish_time": "05-05-2025 06:14",
+        "publish_time": "05-05-2025 06:20",
         "news_link": "https://esgnow.republika.co.id/berita/svrxzd416/ruptl-rampung-iif-siap-biayai-proyek-listrik-ebt"
     },
     {
         "title": "Sinergi Bea Cukai dan Bareskrim Polri Gagalkan Peredaran 192 Bungkus Sabu di Aceh",
         "category": "Beacukai",
-        "publish_time": "05-05-2025 06:14",
+        "publish_time": "05-05-2025 06:20",
         "news_link": "https://republika.co.id/berita//svrxxl472/sinergi-bea-cukai-dan-bareskrim-polri-gagalkan-peredaran-192-bungkus-sabu-di-aceh"
     },
     {
         "title": "Begal Sadis Bacok Warga yang Tengah Menunggu Ojol di Bandung, Polisi Tangkap Pelaku",
         "category": "Rejabar",
-        "publish_time": "05-05-2025 06:14",
+        "publish_time": "05-05-2025 06:20",
         "news_link": "https://rejabar.republika.co.id/berita/svrxsp512/begal-sadis-bacok-warga-yang-tengah-menunggu-ojol-di-bandung-polisi-tangkap-pelaku"
     },
     {
         "title": "Khofifah Hapus Batas Usia Kerja, INDEF: Dampaknya Positif",
         "category": "News",
-        "publish_time": "05-05-2025 06:14",
+        "publish_time": "05-05-2025 05:20",
         "news_link": "https://news.republika.co.id/berita/svrgzt451/khofifah-hapus-batas-usia-kerja-indef-dampaknya-positif"
     },
     {
         "title": "Trump: Iran tak Perlu Program Nuklir karena Punya Banyak Minyak",
         "category": "News",
-        "publish_time": "05-05-2025 05:14",
+        "publish_time": "05-05-2025 05:20",
         "news_link": "https://news.republika.co.id/berita/svrx11409/trump-iran-tak-perlu-program-nuklir-karena-punya-banyak-minyak"
     },
     {
         "title": "Indonesia Masuk Jajaran 12 Besar Negara Manufaktur Global",
         "category": "Network",
-        "publish_time": "05-05-2025 05:14",
+        "publish_time": "05-05-2025 05:20",
         "news_link": "https://bisnistime.com/posts/523585/indonesia-masuk-jajaran-12-besar-negara-manufaktur-global"
-    },
-    {
-        "title": "Mahmoud Abbas Ancam Faksi-Faksi Perlawanan Palestina untuk Melucuti Senjata",
-        "category": "Khazanah",
-        "publish_time": "05-05-2025 05:14",
-        "news_link": "https://khazanah.republika.co.id/berita/svrwko483/mahmoud-abbas-ancam-faksifaksi-perlawanan-palestina-untuk-melucuti-senjata"
-    },
-    {
-        "title": "KNEKS Dorong\u00a050 Persen Koperasi Merah Putih Berbasis Syariah",
-        "category": "Ekonomi Syariah",
-        "publish_time": "05-05-2025 05:14",
-        "news_link": "https://sharia.republika.co.id/berita/svrwau370/kneks-dorong50-persen-koperasi-merah-putih-berbasis-syariah"
-    },
-    {
-        "title": "Ancelotti Janjikan Real Madrid Habis-habisan di El Clasico Penentu Juara La Liga",
-        "category": "News",
-        "publish_time": "05-05-2025 05:14",
-        "news_link": "https://news.republika.co.id/berita/svrvz7348/ancelotti-janjikan-real-madrid-habishabisan-di-el-clasico-penentu-juara-la-liga"
-    },
-    {
-        "title": "Manfaatkan Fasilitas SKA, Beragam Produk Asal Majalengka Tembus Pasar Mancanegara",
-        "category": "Beacukai",
-        "publish_time": "05-05-2025 05:14",
-        "news_link": "https://republika.co.id/berita//svrvws472/manfaatkan-fasilitas-ska-beragam-produk-asal-majalengka-tembus-pasar-mancanegara"
-    },
-    {
-        "title": "Indonesia-Norwegia Perkuat Kerja Sama Perangi Perubahan Iklim",
-        "category": "Esgnow",
-        "publish_time": "05-05-2025 05:14",
-        "news_link": "https://esgnow.republika.co.id/berita/svrvri416/indonesianorwegia-perkuat-kerja-sama-perangi-perubahan-iklim"
-    },
-    {
-        "title": "Bea Cukai Tegal Gagalkan Peredaran 1,3 Juta Batang Rokok Ilegal di Awal Mei",
-        "category": "Beacukai",
-        "publish_time": "05-05-2025 05:14",
-        "news_link": "https://republika.co.id/berita//svrvjb472/bea-cukai-tegal-gagalkan-peredaran-13-juta-batang-rokok-ilegal-di-awal-mei"
-    },
-    {
-        "title": "Letjen (Purn) Yayat Sudrajat Geram ke Hercules: Balik Sana ke Timor Timur!",
-        "category": "Network",
-        "publish_time": "05-05-2025 05:14",
-        "news_link": "https://seputarmiliter.id/posts/523554/letjen-purn-yayat-sudrajat-geram-ke-hercules-balik-sana-ke-timor-timur-"
-    },
-    {
-        "title": "Catatan Cak AT: Peran Baru Jurnalis, Melatih AI Menulis Berita",
-        "category": "Network",
-        "publish_time": "05-05-2025 05:14",
-        "news_link": "https://ruzkaindonesia.id/posts/523562/catatan-cak-at-peran-baru-jurnalis-melatih-ai-menulis-berita"
-    },
-    {
-        "title": "11 Pertimbangan Utama Shipper dalam Memilih Carrier Kontainer",
-        "category": "Network",
-        "publish_time": "05-05-2025 05:14",
-        "news_link": "https://shippingcargo.co.id/posts/523463/11-pertimbangan-utama-shipper-dalam-memilih-carrier-kontainer"
-    },
-    {
-        "title": "Kisah Pedagang Kelontong Tunaikan Ibadah Haji, Kuncinya Konsisten Menabung",
-        "category": "Network",
-        "publish_time": "05-05-2025 05:14",
-        "news_link": "https://sekitarsurabaya.com/posts/523574/kisah-pedagang-kelontong-tunaikan-ibadah-haji-kuncinya-konsisten-menabung"
-    },
-    {
-        "title": "Pertambangan Jadi Sektor yang Tekan Angka Pertumbuhan Ekonomi di Kuartal I 2025",
-        "category": "Ekonomi",
-        "publish_time": "05-05-2025 05:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/svrv0e370/pertambangan-jadi-sektor-yang-tekan-angka-pertumbuhan-ekonomi-di-kuartal-i-2025"
-    },
-    {
-        "title": "Menakar Dalil Keutamaan Rangkaian Sholat Arbain di Masjid Nabawi",
-        "category": "Khazanah",
-        "publish_time": "05-05-2025 04:14",
-        "news_link": "https://khazanah.republika.co.id/berita/svrtx3483/menakar-dalil-keutamaan-rangkaian-sholat-arbain-di-masjid-nabawi"
-    },
-    {
-        "title": "Pertumbuhan Ekonomi Indonesia Pada Kuartal I Melambat Jadi 4,87 Persen",
-        "category": "Ekonomi",
-        "publish_time": "05-05-2025 04:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/svrtoa370/pertumbuhan-ekonomi-indonesia-pada-kuartal-i-melambat-jadi-487-persen"
-    },
-    {
-        "title": "MK Tolak Gugatan, Pasangan Yuni Wonda-Mus Kogoya Menangi Pilkada Puncak Jaya",
-        "category": "News",
-        "publish_time": "05-05-2025 04:14",
-        "news_link": "https://news.republika.co.id/berita/svrtmk409/mk-tolak-gugatan-pasangan-yuni-wondamus-kogoya-menangi-pilkada-puncak-jaya"
-    },
-    {
-        "title": "Raih Predikat Champion of the Year, Bank Mandiri Kukuhkan Komitmen pada Talenta Unggul",
-        "category": "Ekonomi",
-        "publish_time": "05-05-2025 04:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/svrtk9472/raih-predikat-champion-of-the-year-bank-mandiri-kukuhkan-komitmen-pada-talenta-unggul"
-    },
-    {
-        "title": "Parah! Takut Diburu, Wajah 120 Tentara Israel Diburamkan Saat Seremoni Resmi Negara",
-        "category": "Khazanah",
-        "publish_time": "05-05-2025 04:14",
-        "news_link": "https://khazanah.republika.co.id/berita/svrszl320/parah-takut-diburu-wajah-120-tentara-israel-diburamkan-saat-seremoni-resmi-negara"
-    },
-    {
-        "title": "Halal Corner: Minuman Berlogo Halal Mengandung Babi Bermerek Pororo",
-        "category": "Khazanah",
-        "publish_time": "05-05-2025 04:14",
-        "news_link": "https://khazanah.republika.co.id/berita/svrswz430/halal-corner-minuman-berlogo-halal-mengandung-babi-bermerek-pororo"
-    },
-    {
-        "title": "Dosen UBSI Kenalkan Literasi AI kepada Santri Al Mansyuriyah Tangerang",
-        "category": "News",
-        "publish_time": "05-05-2025 04:14",
-        "news_link": "https://news.republika.co.id/berita/svrsu9472/dosen-ubsi-kenalkan-literasi-ai-kepada-santri-al-mansyuriyah-tangerang"
-    },
-    {
-        "title": "Joki UTBK SNBT yang Terungkap di ISBI Bandung Lakukan Juga di Unpad",
-        "category": "Rejabar",
-        "publish_time": "05-05-2025 04:14",
-        "news_link": "https://rejabar.republika.co.id/berita/svrsnm512/joki-utbk-snbt-yang-terungkap-di-isbi-bandung-lakukan-juga-di-unpad"
-    },
-    {
-        "title": "Bukan Mimpi! Kerja di Jepang Jadi Nyata Lewat Program Keperawatan UBSI",
-        "category": "News",
-        "publish_time": "05-05-2025 04:14",
-        "news_link": "https://news.republika.co.id/berita/svrsed472/bukan-mimpi-kerja-di-jepang-jadi-nyata-lewat-program-keperawatan-ubsi"
-    },
-    {
-        "title": "Golden State Warriors Tim Terakhir Lolos ke Semifinal Wilayah Barat NBA",
-        "category": "News",
-        "publish_time": "05-05-2025 04:14",
-        "news_link": "https://news.republika.co.id/berita/svrs8o348/golden-state-warriors-tim-terakhir-lolos-ke-semifinal-wilayah-barat-nba"
     }
 ]
