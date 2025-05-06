@@ -1,104 +1,272 @@
 [
     {
+        "title": "UNM Buka Jalan Karier Lewat Kolaborasi Bareng PT Catur Sentosa Adiprana",
+        "category": "News",
+        "publish_time": "06-05-2025 12:28",
+        "news_link": "https://news.republika.co.id/berita/svuanb368/unm-buka-jalan-karier-lewat-kolaborasi-bareng-pt-catur-sentosa-adiprana"
+    },
+    {
+        "title": "TASPEN Perkuat Edukasi Anti-Perundungan, Ciptakan Budaya Kerja yang Aman dan Inklusif",
+        "category": "Esgnow",
+        "publish_time": "06-05-2025 12:23",
+        "news_link": "https://esgnow.republika.co.id/berita/svuadv368/taspen-perkuat-edukasi-antiperundungan-ciptakan-budaya-kerja-yang-aman-dan-inklusif"
+    },
+    {
+        "title": "Erick Thohir: Lapangan FIFA Arena Dirawat dan Dikelola Komunitas",
+        "category": "News",
+        "publish_time": "06-05-2025 12:20",
+        "news_link": "https://news.republika.co.id/berita/svu99f348/erick-thohir-lapangan-fifa-arena-dirawat-dan-dikelola-komunitas"
+    },
+    {
+        "title": "Asa Siswa SD Negeri 1 Petuk Katimpun Menanti Sekolahnya Diperbaiki",
+        "category": "Visual",
+        "publish_time": "06-05-2025 12:15",
+        "news_link": "https://visual.republika.co.id/berita/svu3y2375/asa-siswa-sd-negeri-1-petuk-katimpun-menanti-sekolahnya-diperbaiki"
+    },
+    {
+        "title": "Gubernur Jateng Larang Pelajar Konvoi Kendaraan Rayakan Kelulusan: Tak Perlu Hura-Hura",
+        "category": "Rejogja",
+        "publish_time": "06-05-2025 12:11",
+        "news_link": "https://rejogja.republika.co.id/berita/svu9u0282/gubernur-jateng-larang-pelajar-konvoi-kendaraan-rayakan-kelulusan-tak-perlu-hurahura"
+    },
+    {
+        "title": "Tindak Lanjuti Temuan BPK, PPI Kuasai Kembali Aset Rumah Dinas di Surabaya",
+        "category": "Ekonomi",
+        "publish_time": "06-05-2025 12:08",
+        "news_link": "https://ekonomi.republika.co.id/berita/svu9pj416/tindak-lanjuti-temuan-bpk-ppi-kuasai-kembali-aset-rumah-dinas-di-surabaya"
+    },
+    {
+        "title": "Erick Thohir: Garuda Academy Siapkan Leadership Baru Lanjutkan Transformasi Sepak Bola",
+        "category": "News",
+        "publish_time": "06-05-2025 12:06",
+        "news_link": "https://news.republika.co.id/berita/svu9mx348/erick-thohir-garuda-academy-siapkan-leadership-baru-lanjutkan-transformasi-sepak-bola"
+    },
+    {
+        "title": "Menjajal Mobil Paling Cerdas Suzuki yang Dipasarkan di Indonesia, Begini Rasanya",
+        "category": "Ekonomi",
+        "publish_time": "06-05-2025 12:06",
+        "news_link": "https://ekonomi.republika.co.id/berita/svu9m1468/menjajal-mobil-paling-cerdas-suzuki-yang-dipasarkan-di-indonesia-begini-rasanya"
+    },
+    {
+        "title": "15 Pesawat Dikandangkan, Ini Kata Garuda Indonesia",
+        "category": "Ekonomi",
+        "publish_time": "06-05-2025 12:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/svu9hg370/15-pesawat-dikandangkan-ini-kata-garuda-indonesia"
+    },
+    {
+        "title": "Tim Advokasi Ajukan Penangguhan Penahanan 6 Tersangka Kerusuhan May Day Semarang",
+        "category": "Rejogja",
+        "publish_time": "06-05-2025 12:03",
+        "news_link": "https://rejogja.republika.co.id/berita/svu9hb282/tim-advokasi-ajukan-penangguhan-penahanan-6-tersangka-kerusuhan-may-day-semarang"
+    },
+    {
+        "title": "Sutiyoso Ingatkan Hercules: Selayaknya Juga Dia Minta Maaf ke Jenderal Purnawirawan Gatot",
+        "category": "News",
+        "publish_time": "06-05-2025 11:54",
+        "news_link": "https://news.republika.co.id/berita/svu92s409/sutiyoso-ingatkan-hercules-selayaknya-juga-dia-minta-maaf-ke-jenderal-purnawirawan-gatot"
+    },
+    {
+        "title": "FIFA Arena Diluncurkan, Erick Thohir Bangga Indonesia Pionir Program Football for School",
+        "category": "News",
+        "publish_time": "06-05-2025 11:54",
+        "news_link": "https://news.republika.co.id/berita/svu92m348/fifa-arena-diluncurkan-erick-thohir-bangga-indonesia-pionir-program-football-for-school"
+    },
+    {
+        "title": "Pengadilan Negeri Bandung Benarkan Lisa Mariana Gugat Ridwan Kamil",
+        "category": "Rejabar",
+        "publish_time": "06-05-2025 11:51",
+        "news_link": "https://rejabar.republika.co.id/berita/svu8xq512/pengadilan-negeri-bandung-benarkan-lisa-mariana-gugat-ridwan-kamil"
+    },
+    {
+        "title": "Prabowo Ingin RI Lima Tahun Lagi Swasembada Energi: Merdeka atau Mati!",
+        "category": "News",
+        "publish_time": "06-05-2025 11:50",
+        "news_link": "https://news.republika.co.id/berita/svu8ut484/prabowo-ingin-ri-lima-tahun-lagi-swasembada-energi-merdeka-atau-mati"
+    },
+    {
+        "title": "Cegah Dehidrasi dan Penyakit Kulit, Jamaah Haji Diminta Lakukan Ini",
+        "category": "Rejogja",
+        "publish_time": "06-05-2025 11:48",
+        "news_link": "https://rejogja.republika.co.id/berita/svu8rt282/cegah-dehidrasi-dan-penyakit-kulit-jamaah-haji-diminta-lakukan-ini"
+    },
+    {
+        "title": "Didampingi Mentan Amran, Gibran Blusukan di NTT",
+        "category": "Ekonomi",
+        "publish_time": "06-05-2025 11:42",
+        "news_link": "https://ekonomi.republika.co.id/berita/svu8iq490/didampingi-mentan-amran-gibran-blusukan-di-ntt"
+    },
+    {
+        "title": "Jelang Persib Vs Barito di Stadion GBLA, Polisi Antisipasi Euforia Bobotoh",
+        "category": "Rejabar",
+        "publish_time": "06-05-2025 11:41",
+        "news_link": "https://rejabar.republika.co.id/berita/svu8gi512/jelang-persib-vs-barito-di-stadion-gbla-polisi-antisipasi-euforia-bobotoh"
+    },
+    {
+        "title": "Nggak 'Kaleng-Kaleng', Film Indonesia Siap Unjuk Gigi di Festival Film Cannes",
+        "category": "Ameera",
+        "publish_time": "06-05-2025 11:41",
+        "news_link": "https://ameera.republika.co.id/berita/svu8fw425/nggak-kalengkaleng-film-indonesia-siap-unjuk-gigi-di-festival-film-cannes"
+    },
+    {
+        "title": "Dam Haji di Indonesia, Kepala BP Haji: Saudi Ok, Bisa Buat MBG, Genjot Ekonomi RI",
+        "category": "Khazanah",
+        "publish_time": "06-05-2025 11:39",
+        "news_link": "https://khazanah.republika.co.id/berita/svu8df451/dam-haji-di-indonesia-kepala-bp-haji-saudi-ok-bisa-buat-mbg-genjot-ekonomi-ri"
+    },
+    {
+        "title": "12 Korban Tewas Kecelakaan Bus ALS di Padang Panjang Teridentifikasi, Ini Datanya",
+        "category": "News",
+        "publish_time": "06-05-2025 11:39",
+        "news_link": "https://news.republika.co.id/berita/svu8d8409/12-korban-tewas-kecelakaan-bus-als-di-padang-panjang-teridentifikasi-ini-datanya"
+    },
+    {
+        "title": "Pemerintah Revisi Aturan, Swasta Bakal Bisa Bangun Charging Station Kendaraan Listrik",
+        "category": "Ekonomi",
+        "publish_time": "06-05-2025 11:33",
+        "news_link": "https://ekonomi.republika.co.id/berita/svu83v490/pemerintah-revisi-aturan-swasta-bakal-bisa-bangun-charging-station-kendaraan-listrik"
+    },
+    {
+        "title": "Indonesia dan Uni Eropa Jajaki Kesepakatan Akhir I-EU CEPA",
+        "category": "Ekonomi",
+        "publish_time": "06-05-2025 11:30",
+        "news_link": "https://ekonomi.republika.co.id/berita/svu6hb490/indonesia-dan-uni-eropa-jajaki-kesepakatan-akhir-ieu-cepa"
+    },
+    {
+        "title": "Melihat Lebih Dekat Layanan Administrasi Kependudukan Gratis di Bali",
+        "category": "Visual",
+        "publish_time": "06-05-2025 11:30",
+        "news_link": "https://visual.republika.co.id/berita/svu3h7375/melihat-lebih-dekat-layanan-administrasi-kependudukan-gratis-di-bali"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok 7 Mei 2025 di Kota Padang: Berawan",
+        "category": "News",
+        "publish_time": "06-05-2025 11:30",
+        "news_link": "https://news.republika.co.id/berita/svu7wu255026157/prakiraan-cuaca-besok-7-mei-2025-di-kota-padang-berawan"
+    },
+    {
+        "title": "Transaksi EDC BSI Tembus Rp 600 Miliar per Maret 2025",
+        "category": "Ekonomi Syariah",
+        "publish_time": "06-05-2025 11:30",
+        "news_link": "https://sharia.republika.co.id/berita/svu7fn490/transaksi-edc-bsi-tembus-rp-600-miliar-per-maret-2025"
+    },
+    {
+        "title": "Edukasi Anak Cegah Kejahatan Seksual, Anggota DPR: Penting, Tanpa Tabu-Stigma",
+        "category": "News",
+        "publish_time": "06-05-2025 11:30",
+        "news_link": "https://news.republika.co.id/berita/svu0um451/edukasi-anak-cegah-kejahatan-seksual-anggota-dpr-penting-tanpa-tabustigma"
+    },
+    {
+        "title": "Sektor Pertanian Unggul dalam Pertumbuhan Ekonomi, Ini Analisis Ekonom",
+        "category": "Ekonomi",
+        "publish_time": "06-05-2025 11:30",
+        "news_link": "https://ekonomi.republika.co.id/berita/svu789490/sektor-pertanian-unggul-dalam-pertumbuhan-ekonomi-ini-analisis-ekonom"
+    },
+    {
+        "title": "NTB Perketat Izin Alih Fungsi Lahan Pertanian",
+        "category": "Ekonomi",
+        "publish_time": "06-05-2025 11:30",
+        "news_link": "https://ekonomi.republika.co.id/berita/svu76n416/ntb-perketat-izin-alih-fungsi-lahan-pertanian"
+    },
+    {
         "title": "Mengapa Umat Islam Kini Lemah dan tak Berdaya? Ini 7 Sebabnya Menurut Alquran Hadits",
         "category": "Iqra",
-        "publish_time": "06-05-2025 11:11",
+        "publish_time": "06-05-2025 11:30",
         "news_link": "https://iqra.republika.co.id/berita/svu727320/mengapa-umat-islam-kini-lemah-dan-tak-berdaya-ini-7-sebabnya-menurut-alquran-hadits"
     },
     {
         "title": "Prakiraan Cuaca Kota Banda Aceh dan Sekitarnya, 7 Mei 2025: Berawan",
         "category": "News",
-        "publish_time": "06-05-2025 11:08",
+        "publish_time": "06-05-2025 11:30",
         "news_link": "https://news.republika.co.id/berita/svu6xt1030104149/prakiraan-cuaca-kota-banda-aceh-dan-sekitarnya-7-mei-2025-berawan"
     },
     {
         "title": "Perkuat Sektor Penggilingan Daging, LPPOM Dorong Sertifikasi Halal dari Hulu",
         "category": "Khazanah",
-        "publish_time": "06-05-2025 11:08",
+        "publish_time": "06-05-2025 11:30",
         "news_link": "https://khazanah.republika.co.id/berita/svu6xh458/perkuat-sektor-penggilingan-daging-lppom-dorong-sertifikasi-halal-dari-hulu"
     },
     {
         "title": "Sudah Sampai Jeddah, 30 Jamaah Indonesia Ditemukan Ingin Berhaji dengan Visa Ziarah",
         "category": "Khazanah",
-        "publish_time": "06-05-2025 10:59",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://khazanah.republika.co.id/berita/svu6jg366/sudah-sampai-jeddah-30-jamaah-indonesia-ditemukan-ingin-berhaji-dengan-visa-ziarah"
     },
     {
         "title": "Menkop Sebut 5.700 Desa Siap Bentuk Koperasi Merah Putih",
         "category": "Ekonomi",
-        "publish_time": "06-05-2025 10:51",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://ekonomi.republika.co.id/berita/svu655416/menkop-sebut-5700-desa-siap-bentuk-koperasi-merah-putih"
     },
     {
         "title": "Timah Fokus Perbaiki Tata Kelola dan Profesionalisme",
         "category": "Ekonomi",
-        "publish_time": "06-05-2025 10:48",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://ekonomi.republika.co.id/berita/svu61f522/timah-fokus-perbaiki-tata-kelola-dan-profesionalisme"
     },
     {
         "title": "Eks Ketua PPATK: UU BUMN tak Bikin Jajaran BUMN Kebal Hukum Korupsi",
         "category": "News",
-        "publish_time": "06-05-2025 10:47",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://news.republika.co.id/berita/svu5yt393/eks-ketua-ppatk-uu-bumn-tak-bikin-jajaran-bumn-kebal-hukum-korupsi"
     },
     {
         "title": "12.708 Guru di Bengkulu Terima Tunjangan, Kemenkeu: 19,45 Persen dari Total Pagu",
         "category": "News",
-        "publish_time": "06-05-2025 10:47",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://news.republika.co.id/berita/svu0nq451/12708-guru-di-bengkulu-terima-tunjangan-kemenkeu-1945-persen-dari-total-pagu"
     },
     {
         "title": "Kecelakaan Mobil Beruntun di Bandung, Satu Pengendara Motor Ikut Terseret Hingga Tewas",
         "category": "Rejabar",
-        "publish_time": "06-05-2025 10:42",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://rejabar.republika.co.id/berita/svu5r8512/kecelakaan-mobil-beruntun-di-bandung-satu-pengendara-motor-ikut-terseret-hingga-tewas"
     },
     {
         "title": "Gnawa, Warisan Musik Sufi dari Maroko",
         "category": "Khazanah",
-        "publish_time": "06-05-2025 10:42",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://khazanah.republika.co.id/berita/svu5r6458/gnawa-warisan-musik-sufi-dari-maroko"
     },
     {
         "title": "Pertumbuhan Ekonomi Hanya 4,87 Persen, Airlangga Siapkan Kebijakan Dorong Daya Beli",
         "category": "Ekonomi",
-        "publish_time": "06-05-2025 10:42",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://ekonomi.republika.co.id/berita/svu5qx490/pertumbuhan-ekonomi-hanya-487-persen-airlangga-siapkan-kebijakan-dorong-daya-beli"
     },
     {
         "title": "Begini Kronologi Terbakarnya Truk TNI AD di Tol Gempol",
         "category": "News",
-        "publish_time": "06-05-2025 10:40",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://news.republika.co.id/berita/svu5n6393/begini-kronologi-terbakarnya-truk-tni-ad-di-tol-gempol"
     },
     {
         "title": "Ada Korupsi di Balik Pailitnya Sritex?",
         "category": "News",
-        "publish_time": "06-05-2025 10:34",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://news.republika.co.id/berita/svu5dl393/ada-korupsi-di-balik-pailitnya-sritex"
     },
     {
         "title": "PGN Mampu Kurangi Emisi 29.723 ton CO2",
         "category": "Esgnow",
-        "publish_time": "06-05-2025 10:33",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://esgnow.republika.co.id/berita/svu5bx522/pgn-mampu-kurangi-emisi-29723-ton-co2"
     },
     {
         "title": "Saudi Larang Visa Ziarah, 30 Jamaah Asal Madura Maksa Ingin Naik Haji",
         "category": "Khazanah",
-        "publish_time": "06-05-2025 10:33",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://khazanah.republika.co.id/berita/svu5bj430/saudi-larang-visa-ziarah-30-jamaah-asal-madura-maksa-ingin-naik-haji"
     },
     {
         "title": "LazisMu Luncurkan 'SOS', Gerakan Zakat untuk Pendidikan",
         "category": "Khazanah",
-        "publish_time": "06-05-2025 10:32",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://khazanah.republika.co.id/berita/svu5ag458/lazismu-luncurkan-sos-gerakan-zakat-untuk-pendidikan"
     },
     {
         "title": "Dorong Inklusi Keuangan, OJK Resmikan Indeks Akses Keuangan Daerah",
         "category": "Ekonomi",
-        "publish_time": "06-05-2025 10:31",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://ekonomi.republika.co.id/berita/svu57p368/dorong-inklusi-keuangan-ojk-resmikan-indeks-akses-keuangan-daerah"
     },
     {
@@ -116,187 +284,19 @@
     {
         "title": "Kapolri Perintahkan Penindakan Premanisme",
         "category": "News",
-        "publish_time": "06-05-2025 10:29",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://news.republika.co.id/berita/svu54y393/kapolri-perintahkan-penindakan-premanisme"
     },
     {
         "title": "Pasar Cermati Hasil Pertemuan The Fed, IHSG Melejit",
         "category": "Ekonomi",
-        "publish_time": "06-05-2025 10:25",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://ekonomi.republika.co.id/berita/svu4z3490/pasar-cermati-hasil-pertemuan-the-fed-ihsg-melejit"
     },
     {
         "title": "BSI Catat Tabungan Emas Capai 250 Kilogram per Bulan",
         "category": "Ekonomi Syariah",
-        "publish_time": "06-05-2025 10:23",
+        "publish_time": "06-05-2025 10:30",
         "news_link": "https://sharia.republika.co.id/berita/svu4ve423/bsi-catat-tabungan-emas-capai-250-kilogram-per-bulan"
-    },
-    {
-        "title": "Prakiraan Cuaca Kota Palembang dan Sekitarnya pada 7 Mei 2025: Hujan Ringan",
-        "category": "News",
-        "publish_time": "06-05-2025 10:19",
-        "news_link": "https://news.republika.co.id/berita/svu4o91866995652/prakiraan-cuaca-kota-palembang-dan-sekitarnya-pada-7-mei-2025-hujan-ringan"
-    },
-    {
-        "title": "Pertamina Lestarikan Batik Tulis Langka Asal Tasikmalaya",
-        "category": "Esgnow",
-        "publish_time": "06-05-2025 10:19",
-        "news_link": "https://esgnow.republika.co.id/berita/svu4o7522/pertamina-lestarikan-batik-tulis-langka-asal-tasikmalaya"
-    },
-    {
-        "title": "Polytron Rilis Mobil Listrik G3 dan G3+, Pesan Sekarang, Dikirim Bulan Juli",
-        "category": "Ekonomi",
-        "publish_time": "06-05-2025 10:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/svu4n2348/polytron-rilis-mobil-listrik-g3-dan-g3-pesan-sekarang-dikirim-bulan-juli"
-    },
-    {
-        "title": "Menperin: Indonesia tak Mengalami Deindustrialisasi",
-        "category": "Ekonomi",
-        "publish_time": "06-05-2025 10:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/svu4hx423/menperin-indonesia-tak-mengalami-deindustrialisasi"
-    },
-    {
-        "title": "Perdagangan Satwa Liar Marak, Trenggiling Hingga Cula Badak Diselundupkan ke Banyak Negara",
-        "category": "Esgnow",
-        "publish_time": "06-05-2025 10:12",
-        "news_link": "https://esgnow.republika.co.id/berita/svu491416/perdagangan-satwa-liar-marak-trenggiling-hingga-cula-badak-diselundupkan-ke-banyak-negara"
-    },
-    {
-        "title": "Kecelakaan di Padang Panjang Tewaskan 12 Orang, Banyak Penumpang Terjepit Badan Bus",
-        "category": "News",
-        "publish_time": "06-05-2025 10:12",
-        "news_link": "https://news.republika.co.id/berita/svu48h409/kecelakaan-di-padang-panjang-tewaskan-12-orang-banyak-penumpang-terjepit-badan-bus"
-    },
-    {
-        "title": "Prabowo Duduk di Samping Try Sutrisno di Acara Halal BiHalal Purnawirawan TNI-Polri",
-        "category": "News",
-        "publish_time": "06-05-2025 10:12",
-        "news_link": "https://news.republika.co.id/berita/svu452484/prabowo-duduk-di-samping-try-sutrisno-di-acara-halal-bihalal-purnawirawan-tnipolri"
-    },
-    {
-        "title": "Betapa Tegasnya Khalifah Umar Tegakkan Keadilan",
-        "category": "Khazanah",
-        "publish_time": "06-05-2025 10:12",
-        "news_link": "https://khazanah.republika.co.id/berita/svu3yr458/betapa-tegasnya-khalifah-umar-tegakkan-keadilan"
-    },
-    {
-        "title": "Rupiah Menguat, Pengamat: Pasar Optimistis Program Prioritas Pemerintah",
-        "category": "Ekonomi",
-        "publish_time": "06-05-2025 10:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/svu3y8423/rupiah-menguat-pengamat-pasar-optimistis-program-prioritas-pemerintah"
-    },
-    {
-        "title": "12 Tewas dalam Kecelakaan Bus ALS di Padang Panjang, Ini Kronologinya Menurut Kapolda",
-        "category": "News",
-        "publish_time": "06-05-2025 10:12",
-        "news_link": "https://news.republika.co.id/berita/svu3q4409/12-tewas-dalam-kecelakaan-bus-als-di-padang-panjang-ini-kronologinya-menurut-kapolda"
-    },
-    {
-        "title": "Membunuh tanpa Sengaja, Bagaimana Hukumannya?",
-        "category": "Khazanah",
-        "publish_time": "06-05-2025 10:12",
-        "news_link": "https://khazanah.republika.co.id/berita/svu3mx458/membunuh-tanpa-sengaja-bagaimana-hukumannya"
-    },
-    {
-        "title": "Pelaksanaan Terbilang Lancar, Penambahan Syarikah Jadi Tantangan Baru Layanan Ibadah Haji",
-        "category": "Khazanah",
-        "publish_time": "06-05-2025 10:12",
-        "news_link": "https://khazanah.republika.co.id/berita/svu3j4377/pelaksanaan-terbilang-lancar-penambahan-syarikah-jadi-tantangan-baru-layanan-ibadah-haji"
-    },
-    {
-        "title": "Sambut ASEAN Pasca-2025, Kesehatan Digital Jadi Agenda Bersama Lewat Global Future Fellows",
-        "category": "News",
-        "publish_time": "06-05-2025 10:12",
-        "news_link": "https://news.republika.co.id/berita/svu3i6456/sambut-asean-pasca2025-kesehatan-digital-jadi-agenda-bersama-lewat-global-future-fellows"
-    },
-    {
-        "title": "Perluasan Makan Bergizi Gratis, BGN: Perluasan SPPG Jangkau Wilayah yang Butuh MBG",
-        "category": "News",
-        "publish_time": "06-05-2025 10:12",
-        "news_link": "https://news.republika.co.id/berita/svu0b3451/perluasan-makan-bergizi-gratis-bgn-perluasan-sppg-jangkau-wilayah-yang-butuh-mbg"
-    },
-    {
-        "title": "Prakiraan Cuaca Besok Tanggal 7 Mei 2025 di Denpasar Kota Berawan",
-        "category": "News",
-        "publish_time": "06-05-2025 10:12",
-        "news_link": "https://news.republika.co.id/berita/svu3a81449624805/prakiraan-cuaca-besok-tanggal-7-mei-2025-di-denpasar-kota-berawan"
-    },
-    {
-        "title": "Polytron Rilis Mobil Listrik Rp 300 Jutaan, Baterai Bisa Disewa",
-        "category": "Ekonomi",
-        "publish_time": "06-05-2025 10:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/svu38m409/polytron-rilis-mobil-listrik-rp-300-jutaan-baterai-bisa-disewa"
-    },
-    {
-        "title": "Lembaga Bimbel di Yogyakarta Diduga Terlibat Praktik Curang UTBK",
-        "category": "Rejogja",
-        "publish_time": "06-05-2025 10:12",
-        "news_link": "https://rejogja.republika.co.id/berita/svu352291/lembaga-bimbel-di-yogyakarta-diduga-terlibat-praktik-curang-utbk"
-    },
-    {
-        "title": "BPKH Bawa 475 Ton Bumbu Masak untuk Katering Jamaah Haji",
-        "category": "Video",
-        "publish_time": "06-05-2025 10:12",
-        "news_link": "https://tv.republika.co.id/berita/svu33v418/bpkh-bawa-475-ton-bumbu-masak-untuk-katering-jamaah-haji"
-    },
-    {
-        "title": "Kecelakaan Maut Bus ALS di Padang, 12 Orang Meninggal Dunia",
-        "category": "Visual",
-        "publish_time": "06-05-2025 10:12",
-        "news_link": "https://visual.republika.co.id/berita/svu33r375/kecelakaan-maut-bus-als-di-padang-12-orang-meninggal-dunia"
-    },
-    {
-        "title": "Begini Cara Menjaga dan Mengurus Lightstick BTS, Jangan Sampai Rusak Ya",
-        "category": "Network",
-        "publish_time": "06-05-2025 09:12",
-        "news_link": "https://chingudeul.republika.co.id/posts/523891/begini-cara-menjaga-dan-mengurus-lightstick-bts-jangan-sampai-rusak-ya"
-    },
-    {
-        "title": "1.190 Peserta Ikuti Seleksi PPPK Pemkot Sukabumi Tahap 2",
-        "category": "Network",
-        "publish_time": "06-05-2025 09:12",
-        "news_link": "https://sukabumikini.com/posts/523899/1-190-peserta-ikuti-seleksi-pppk-pemkot-sukabumi-tahap-2"
-    },
-    {
-        "title": "Jadi Prioritas, Ini Layanan yang Diterima Lansia dan Disabilitas Setiba di Tanah Suci",
-        "category": "Khazanah",
-        "publish_time": "06-05-2025 09:12",
-        "news_link": "https://khazanah.republika.co.id/berita/svu2j9377/jadi-prioritas-ini-layanan-yang-diterima-lansia-dan-disabilitas-setiba-di-tanah-suci"
-    },
-    {
-        "title": "Mandiri Sekuritas: Pilih Instrumen Investasi Sesuai Profil Risiko",
-        "category": "Ekonomi",
-        "publish_time": "06-05-2025 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/svu277423/mandiri-sekuritas-pilih-instrumen-investasi-sesuai-profil-risiko"
-    },
-    {
-        "title": "Polres Cianjur Buru Pelaku Pengeroyokan Seorang Nenek",
-        "category": "Rejabar",
-        "publish_time": "06-05-2025 09:12",
-        "news_link": "https://rejabar.republika.co.id/berita/svu235430/polres-cianjur-buru-pelaku-pengeroyokan-seorang-nenek"
-    },
-    {
-        "title": "Pandangan Buya Yahya Soal Vasektomi, Azl, KB Spiral",
-        "category": "Khazanah",
-        "publish_time": "06-05-2025 09:12",
-        "news_link": "https://khazanah.republika.co.id/berita/svu1xz430/pandangan-buya-yahya-soal-vasektomi-azl-kb-spiral"
-    },
-    {
-        "title": "Bersihkan Karat Hati",
-        "category": "Khazanah",
-        "publish_time": "06-05-2025 09:12",
-        "news_link": "https://khazanah.republika.co.id/berita/svu1wn458/bersihkan-karat-hati"
-    },
-    {
-        "title": "Setelah Tabrak 2 Santri, Pengemudi Mobil Barang Kabur, Sekarang Diciduk Polisi, Masuk Bui",
-        "category": "News",
-        "publish_time": "06-05-2025 09:12",
-        "news_link": "https://news.republika.co.id/berita/svu02j451/setelah-tabrak-2-santri-pengemudi-mobil-barang-kabur-sekarang-diciduk-polisi-masuk-bui"
-    },
-    {
-        "title": "PUSKEPI: Kasus di Bali Tunjukkan Sistem Proteksi Listrik Nasional Berjalan Baik",
-        "category": "Ekonomi",
-        "publish_time": "06-05-2025 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/svu1ty430/puskepi-kasus-di-bali-tunjukkan-sistem-proteksi-listrik-nasional-berjalan-baik"
     }
 ]
