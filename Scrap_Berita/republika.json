@@ -1,5 +1,149 @@
 [
     {
+        "title": "BMKG Modifikasi Cuaca Cegah Kebakaran Lahan Gambut di Riau",
+        "category": "News",
+        "publish_time": "06-05-2025 07:09",
+        "news_link": "https://news.republika.co.id/berita/svtvut416/bmkg-modifikasi-cuaca-cegah-kebakaran-lahan-gambut-di-riau"
+    },
+    {
+        "title": "Purnawirawan TNI Usul Pemakzulan Gibran, Lemhanas: Tidak Perlu Dikaji Lebih Lanjut",
+        "category": "News",
+        "publish_time": "06-05-2025 07:07",
+        "news_link": "https://news.republika.co.id/berita/svtvsq409/purnawirawan-tni-usul-pemakzulan-gibran-lemhanas-tidak-perlu-dikaji-lebih-lanjut"
+    },
+    {
+        "title": "Bupati Bandung Wujudkan Aspirasi Masyarakat: Resmikan Pembangunan Alun-alun Paseh",
+        "category": "Rejabar",
+        "publish_time": "06-05-2025 07:06",
+        "news_link": "https://rejabar.republika.co.id/berita/svtvq6472/bupati-bandung-wujudkan-aspirasi-masyarakat-resmikan-pembangunan-alunalun-paseh"
+    },
+    {
+        "title": "Studi: Wanita dengan Endometriosis Berisiko Menopause pada Usia 30-an",
+        "category": "Ameera",
+        "publish_time": "06-05-2025 07:02",
+        "news_link": "https://ameera.republika.co.id/berita/svtvjo425/studi-wanita-dengan-endometriosis-berisiko-menopause-pada-usia-30an"
+    },
+    {
+        "title": "Usai Kasus Dugaan Penggelapan di Kalibata, BGN Ubah Pola Pencairan Dana ke Mitra MBG",
+        "category": "News",
+        "publish_time": "06-05-2025 07:02",
+        "news_link": "https://news.republika.co.id/berita/svtvje409/usai-kasus-dugaan-penggelapan-di-kalibata-bgn-ubah-pola-pencairan-dana-ke-mitra-mbg"
+    },
+    {
+        "title": "Prakiraan Cuaca Bogor dan Sekitarnya Besok, 7 Mei 2025: Kota Depok Kehujanan",
+        "category": "News",
+        "publish_time": "06-05-2025 07:00",
+        "news_link": "https://news.republika.co.id/berita/svtvgo507571607/prakiraan-cuaca-bogor-dan-sekitarnya-besok-7-mei-2025-kota-depok-kehujanan"
+    },
+    {
+        "title": "OIKN Hijaukan 80 Hektare Lahan di Kota Nusantara",
+        "category": "Esgnow",
+        "publish_time": "06-05-2025 06:54",
+        "news_link": "https://esgnow.republika.co.id/berita/svtv60416/oikn-hijaukan-80-hektare-lahan-di-kota-nusantara"
+    },
+    {
+        "title": "BI Prakirakan Pertumbuhan Ekonomi RI 2025 Dipengaruhi Tarif AS",
+        "category": "Ekonomi Syariah",
+        "publish_time": "06-05-2025 06:43",
+        "news_link": "https://sharia.republika.co.id/berita/svtuo4423/bi-prakirakan-pertumbuhan-ekonomi-ri-2025-dipengaruhi-tarif-as"
+    },
+    {
+        "title": "Ketimpangan Wilayah Jadi Tantangan Inklusi Keuangan Nasional",
+        "category": "Ekonomi",
+        "publish_time": "06-05-2025 06:36",
+        "news_link": "https://ekonomi.republika.co.id/berita/svtud1423/ketimpangan-wilayah-jadi-tantangan-inklusi-keuangan-nasional"
+    },
+    {
+        "title": "PKB Jawa Tengah Berdukacita Atas Meninggalnya Gus Alam",
+        "category": "Rejogja",
+        "publish_time": "06-05-2025 06:32",
+        "news_link": "https://rejogja.republika.co.id/berita/svtu6r282/pkb-jawa-tengah-berdukacita-atas-meninggalnya-gus-alam"
+    },
+    {
+        "title": "Persib Juara Liga 1 Musim 2024/2025",
+        "category": "Network",
+        "publish_time": "06-05-2025 06:32",
+        "news_link": "https://bandung24jam.id/posts/523829/persib-juara-liga-1-musim-2024-2025"
+    },
+    {
+        "title": "Kloter Pertama Calhaj Depok Dilepas Supian Suri, Pesannya, Fokus Ibadah",
+        "category": "Network",
+        "publish_time": "06-05-2025 06:32",
+        "news_link": "https://ruzkaindonesia.id/posts/523835/kloter-pertama-calhaj-depok-dilepas-supian-suri-pesannya-fokus-ibadah"
+    },
+    {
+        "title": "Orang Tua di Depok Diedukasi akan Pentingnya Imunisasi Bagi Anak",
+        "category": "Network",
+        "publish_time": "06-05-2025 06:32",
+        "news_link": "https://ruzkaindonesia.id/posts/523799/orang-tua-di-depok-diedukasi-akan-pentingnya-imunisasi-bagi-anak"
+    },
+    {
+        "title": "Panduan Navigasi Selat Lombok dan Sunda: Kolaborasi Strategis Indonesia dan Witherbys",
+        "category": "Network",
+        "publish_time": "06-05-2025 06:32",
+        "news_link": "https://shippingcargo.co.id/posts/523670/panduan-navigasi-selat-lombok-dan-sunda-kolaborasi-strategis-indonesia-dan-witherbys"
+    },
+    {
+        "title": "Konsep Produksi dalam Islam: Antara Etika, Kebutuhan, dan Keberkahan",
+        "category": "Retizen",
+        "publish_time": "06-05-2025 06:32",
+        "news_link": "https://retizen.republika.co.id/posts/523789/konsep-produksi-dalam-islam-antara-etika-kebutuhan-dan-keberkahan"
+    },
+    {
+        "title": "Kabar Gembira Bagi Ahlul Qur'an! Keutamaan Membaca, Mempelajari, dan Mengamalkan Al-Quran!",
+        "category": "Retizen",
+        "publish_time": "06-05-2025 06:31",
+        "news_link": "https://retizen.republika.co.id/posts/523798/kabar-gembira-bagi-ahlul-quran-keutamaan-membaca-mempelajari-dan-mengamalkan-al-quran"
+    },
+    {
+        "title": "Pedagang Kaki Lima dan Keberkahan Bisnis dalam Islam: Meneladani Rasulullah dalam Berniaga",
+        "category": "Retizen",
+        "publish_time": "06-05-2025 06:31",
+        "news_link": "https://retizen.republika.co.id/posts/523749/pedagang-kaki-lima-dan-keberkahan-bisnis-dalam-islam-meneladani-rasulullah-dalam-berniaga"
+    },
+    {
+        "title": "Gubernur Konten: Refleksi tentang Realitas Politik Indonesia",
+        "category": "Retizen",
+        "publish_time": "06-05-2025 06:31",
+        "news_link": "https://retizen.republika.co.id/posts/523756/gubernur-konten-refleksi-tentang-realitas-politik-indonesia"
+    },
+    {
+        "title": "Refleksi Pembelajaran dalam Momentun Hari Pendidikan Nasional 2025",
+        "category": "Retizen",
+        "publish_time": "06-05-2025 06:31",
+        "news_link": "https://retizen.republika.co.id/posts/523764/refleksi-pembelajaran-dalam-momentun-hari-pendidikan-nasional-2025"
+    },
+    {
+        "title": "Membangun Harmoni Melalui Komunikasi yang Berpancasila",
+        "category": "Retizen",
+        "publish_time": "06-05-2025 06:31",
+        "news_link": "https://retizen.republika.co.id/posts/523818/membangun-harmoni-melalui-komunikasi-yang-berpancasila"
+    },
+    {
+        "title": "Sempat Dirawat Usai Kecelakaan di Tol Pemalang, Anggota DPR Gus Alam Meninggal Dunia",
+        "category": "Rejogja",
+        "publish_time": "06-05-2025 06:27",
+        "news_link": "https://rejogja.republika.co.id/berita/svtty9282/sempat-dirawat-usai-kecelakaan-di-tol-pemalang-anggota-dpr-gus-alam-meninggal-dunia"
+    },
+    {
+        "title": "Agar Mampu Bersaing di Pasar Global, Bea Cukai Gencarkan Asistensi Ekspor Bagi UMKM",
+        "category": "Beacukai",
+        "publish_time": "06-05-2025 06:26",
+        "news_link": "https://republika.co.id/berita//svttwk472/agar-mampu-bersaing-di-pasar-global-bea-cukai-gencarkan-asistensi-ekspor-bagi-umkm"
+    },
+    {
+        "title": "Perkembangan Media Research di Indonesia",
+        "category": "Kolom",
+        "publish_time": "06-05-2025 06:22",
+        "news_link": "https://analisis.republika.co.id/berita/svtoe0393/perkembangan-media-research-di-indonesia"
+    },
+    {
+        "title": "Kejagung Periksa Nicke Widyawati Terkait Kasus Korupsi Minyak Mentah",
+        "category": "News",
+        "publish_time": "06-05-2025 06:20",
+        "news_link": "https://news.republika.co.id/berita/svttm1484/kejagung-periksa-nicke-widyawati-terkait-kasus-korupsi-minyak-mentah"
+    },
+    {
         "title": "MWA Tetapkan 3 Calon Rektor UPI Periode 2025-2030, Ini yang Terpilih",
         "category": "Rejabar",
         "publish_time": "06-05-2025 06:18",
@@ -14,289 +158,145 @@
     {
         "title": "Bea Cukai Fasilitasi Puluhan Ribu Sarden Kaleng Asal Banyuwangi ke Pasar Luar Negeri",
         "category": "Beacukai",
-        "publish_time": "06-05-2025 06:08",
+        "publish_time": "06-05-2025 06:14",
         "news_link": "https://republika.co.id/berita//svtt2s472/bea-cukai-fasilitasi-puluhan-ribu-sarden-kaleng-asal-banyuwangi-ke-pasar-luar-negeri"
     },
     {
         "title": "Cerita Siswa Terlibat Tawuran Kini Masuk Barak Militer Rindam Siliwangi",
         "category": "News",
-        "publish_time": "06-05-2025 06:05",
+        "publish_time": "06-05-2025 06:14",
         "news_link": "https://news.republika.co.id/berita/svtsxi409/cerita-siswa-terlibat-tawuran-kini-masuk-barak-militer-rindam-siliwangi"
     },
     {
         "title": "Empat Orang Pelaku Anarkis yang Rusak Mobil Polisi di Bandung Ditangkap",
         "category": "Rejabar",
-        "publish_time": "06-05-2025 06:05",
+        "publish_time": "06-05-2025 06:14",
         "news_link": "https://rejabar.republika.co.id/berita/svtsw9512/empat-orang-pelaku-anarkis-yang-rusak-mobil-polisi-di-bandung-ditangkap"
     },
     {
         "title": "Ikadin Beri Masukan RUU KUHAP ke Pemerintah dan DPR",
         "category": "News",
-        "publish_time": "06-05-2025 06:03",
+        "publish_time": "06-05-2025 06:14",
         "news_link": "https://news.republika.co.id/berita/svtstn484/ikadin-beri-masukan-ruu-kuhap-ke-pemerintah-dan-dpr"
     },
     {
         "title": "Bongkar Sindikat Penyelundupan Benih Lobster, Bea Cukai Batam Cegah Kerugian Rp 48 Miliar",
         "category": "Beacukai",
-        "publish_time": "06-05-2025 05:59",
+        "publish_time": "06-05-2025 06:14",
         "news_link": "https://republika.co.id/berita//svtsml472/bongkar-sindikat-penyelundupan-benih-lobster-bea-cukai-batam-cegah-kerugian-rp-48-miliar"
     },
     {
         "title": "Bantul Siapkan Bawuran Sebagai Lokasi\u00a0Pengolahan Sampah Jadi Energi",
         "category": "Esgnow",
-        "publish_time": "06-05-2025 05:59",
+        "publish_time": "06-05-2025 06:14",
         "news_link": "https://esgnow.republika.co.id/berita/svtsmi416/bantul-siapkan-bawuran-sebagai-lokasipengolahan-sampah-jadi-energi"
     },
     {
         "title": "KPK Pastikan Direksi BUMN Dapat Dijerat UU Tipikor",
         "category": "News",
-        "publish_time": "06-05-2025 05:56",
+        "publish_time": "06-05-2025 06:14",
         "news_link": "https://news.republika.co.id/berita/svtsi5484/kpk-pastikan-direksi-bumn-dapat-dijerat-uu-tipikor"
     },
     {
         "title": "Pertumbuhan Ekonomi di Kuartal I 2025 Melambat, BI Juga Prediksi Lebih Rendah dari Target",
         "category": "Ekonomi",
-        "publish_time": "06-05-2025 05:53",
+        "publish_time": "06-05-2025 06:14",
         "news_link": "https://ekonomi.republika.co.id/berita/svtsd1423/pertumbuhan-ekonomi-di-kuartal-i-2025-melambat-bi-juga-prediksi-lebih-rendah-dari-target"
     },
     {
         "title": "Penabur Kids Festival 2025 Dukung Upaya Mencetak Anak Indonesia Hebat",
         "category": "News",
-        "publish_time": "06-05-2025 05:52",
+        "publish_time": "06-05-2025 06:14",
         "news_link": "https://news.republika.co.id/berita/svtsax456/penabur-kids-festival-2025-dukung-upaya-mencetak-anak-indonesia-hebat"
     },
     {
         "title": "DPRD Jabar Kecolongan, APBD 2025 Telah Lima Kali Diubah",
         "category": "Rejabar",
-        "publish_time": "06-05-2025 05:51",
+        "publish_time": "06-05-2025 06:14",
         "news_link": "https://rejabar.republika.co.id/berita/svtsa1512/dprd-jabar-kecolongan-apbd-2025-telah-lima-kali-diubah"
     },
     {
         "title": "Hari Lingkungan Hidup, Ini Cara Pertamina Dorong Pekerja Jadi Role Model Dekarbonisasi",
         "category": "Ekonomi",
-        "publish_time": "06-05-2025 05:46",
+        "publish_time": "06-05-2025 06:14",
         "news_link": "https://ekonomi.republika.co.id/berita/svts13472/hari-lingkungan-hidup-ini-cara-pertamina-dorong-pekerja-jadi-role-model-dekarbonisasi"
     },
     {
         "title": "Biznet Festival Kembali Digelar di Medan, Beri Koneksi Lebih Melalui Konser Musik",
         "category": "Ekonomi",
-        "publish_time": "06-05-2025 05:37",
+        "publish_time": "06-05-2025 05:14",
         "news_link": "https://ekonomi.republika.co.id/berita/svtrm2472/biznet-festival-kembali-digelar-di-medan-beri-koneksi-lebih-melalui-konser-musik"
     },
     {
         "title": "Diaspora RI Rayakan Hari Buruh: Bangun Relasi Kerja Bermartabat dan Welas Asih",
         "category": "News",
-        "publish_time": "06-05-2025 05:26",
+        "publish_time": "06-05-2025 05:14",
         "news_link": "https://news.republika.co.id/berita/svtr38451/diaspora-ri-rayakan-hari-buruh-bangun-relasi-kerja-bermartabat-dan-welas-asih"
     },
     {
         "title": "Jangan Menghina Sesama Muslim",
         "category": "Khazanah",
-        "publish_time": "06-05-2025 05:23",
+        "publish_time": "06-05-2025 05:14",
         "news_link": "https://khazanah.republika.co.id/berita/svtqzh458/jangan-menghina-sesama-muslim"
     },
     {
         "title": "Resmi Berkantor Lagi, Hasan Nasbi Tetap Jabat Kepala PCO",
         "category": "News",
-        "publish_time": "06-05-2025 05:20",
+        "publish_time": "06-05-2025 05:14",
         "news_link": "https://news.republika.co.id/berita/svtqol484/resmi-berkantor-lagi-hasan-nasbi-tetap-jabat-kepala-pco"
     },
     {
         "title": "Mahasiswa Doktoral FTI UII Kembangkan Model Strategi Pencegahan-Perlindungan K3 pada UMKM",
         "category": "Rejogja",
-        "publish_time": "06-05-2025 05:20",
+        "publish_time": "06-05-2025 05:14",
         "news_link": "https://rejogja.republika.co.id/berita/svtq3m291/mahasiswa-doktoral-fti-uii-kembangkan-model-strategi-pencegahanperlindungan-k3-pada-umkm"
     },
     {
         "title": "Jokowi: Saya Sudah Dihina Sehina-hinanya",
         "category": "Video",
-        "publish_time": "06-05-2025 05:20",
+        "publish_time": "06-05-2025 05:14",
         "news_link": "https://tv.republika.co.id/berita/svtpin418/jokowi-saya-sudah-dihina-sehinahinanya"
     },
     {
         "title": "Israel Mau Caplok Gaza, Sekjen PBB: Gaza Harus Tetap Palestina",
         "category": "News",
-        "publish_time": "06-05-2025 04:20",
+        "publish_time": "06-05-2025 05:14",
         "news_link": "https://news.republika.co.id/berita/svtpey451/israel-mau-caplok-gaza-sekjen-pbb-gaza-harus-tetap-palestina"
     },
     {
         "title": "Kronologi Truk Kostrad Meledak di Km 774 Tol Gempol, Pasuruan",
         "category": "News",
-        "publish_time": "06-05-2025 04:20",
+        "publish_time": "06-05-2025 05:14",
         "news_link": "https://news.republika.co.id/berita/svtpc4484/kronologi-truk-kostrad-meledak-di-km-774-tol-gempol-pasuruan"
     },
     {
         "title": "Pekalongan Kampanyekan Gerakan Sekolah Kelola Sampah",
         "category": "Esgnow",
-        "publish_time": "06-05-2025 04:20",
+        "publish_time": "06-05-2025 04:14",
         "news_link": "https://esgnow.republika.co.id/berita/svtp6f416/pekalongan-kampanyekan-gerakan-sekolah-kelola-sampah"
     },
     {
         "title": "Huawei Dorong Adopsi AI Lewat Solusi Cloud Full-Stack untuk Pacu Transformasi Cerdas",
         "category": "Rejogja",
-        "publish_time": "06-05-2025 04:20",
+        "publish_time": "06-05-2025 04:14",
         "news_link": "https://rejogja.republika.co.id/berita/svtopc291/huawei-dorong-adopsi-ai-lewat-solusi-cloud-fullstack-untuk-pacu-transformasi-cerdas"
     },
     {
         "title": "UU MD3 Digugat, MK Diminta Wajibkan Semua Rapat DPR Digelar di Gedung DPR",
         "category": "News",
-        "publish_time": "06-05-2025 04:20",
+        "publish_time": "06-05-2025 04:14",
         "news_link": "https://news.republika.co.id/berita/svtoka409/uu-md3-digugat-mk-diminta-wajibkan-semua-rapat-dpr-digelar-di-gedung-dpr"
     },
     {
         "title": "Ukir Sejarah! Shah Rukh Khan Jadi Aktor Bollywood Pertama yang Melenggang di Met Gala",
         "category": "Ameera",
-        "publish_time": "06-05-2025 04:20",
+        "publish_time": "06-05-2025 04:14",
         "news_link": "https://ameera.republika.co.id/berita/svto9y425/ukir-sejarah-shah-rukh-khan-jadi-aktor-bollywood-pertama-yang-melenggang-di-met-gala"
     },
     {
         "title": "Dinsos Jabar Beri Penjelasan Soal Realisasi Vasektomi Bagi Penerima Bansos dan Beasiswa",
         "category": "Rejabar",
-        "publish_time": "06-05-2025 04:20",
+        "publish_time": "06-05-2025 04:14",
         "news_link": "https://rejabar.republika.co.id/berita/svto7w512/dinsos-jabar-beri-penjelasan-soal-realisasi-vasektomi-bagi-penerima-bansos-dan-beasiswa"
-    },
-    {
-        "title": "Ada Apa Dengan TNI?",
-        "category": "Kolom",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://analisis.republika.co.id/berita/svto1j393/ada-apa-dengan-tni"
-    },
-    {
-        "title": "Lisa Mariana Gugat Ridwan Kamil di PN Bandung, Sidang Digelar akhir Mei",
-        "category": "Rejabar",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://rejabar.republika.co.id/berita/svtnso512/lisa-mariana-gugat-ridwan-kamil-di-pn-bandung-sidang-digelar-akhir-mei"
-    },
-    {
-        "title": "Israel Kalap, Serang Sekaligus Palestina, Yaman, Lebanon, dan Suriah",
-        "category": "News",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://news.republika.co.id/berita/svtnnw393/israel-kalap-serang-sekaligus-palestina-yaman-lebanon-dan-suriah"
-    },
-    {
-        "title": "BPJPH Gencarkan Pengawasan Produk Untuk Wujudkan Tertib Halal",
-        "category": "Khazanah",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://khazanah.republika.co.id/berita/svtncn430/bpjph-gencarkan-pengawasan-produk-untuk-wujudkan-tertib-halal"
-    },
-    {
-        "title": "Ini Cara Mendaftar Pendidikan Karakter untuk Siswa di Barak Militer di Jabar",
-        "category": "Rejabar",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://rejabar.republika.co.id/berita/svtncn512/ini-cara-mendaftar-pendidikan-karakter-untuk-siswa-di-barak-militer-di-jabar"
-    },
-    {
-        "title": "Spanyol akan Tingkatkan Pendanaan Untuk Penyelidikan Kejahatan Perang di Gaza",
-        "category": "Khazanah",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://khazanah.republika.co.id/berita/svtn84430/spanyol-akan-tingkatkan-pendanaan-untuk-penyelidikan-kejahatan-perang-di-gaza"
-    },
-    {
-        "title": "Inter Vs Barcelona: Nerazzurri Andalkan Magis Giuseppe Meazza",
-        "category": "News",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://news.republika.co.id/berita/svtn3v348/inter-vs-barcelona-nerazzurri-andalkan-magis-giuseppe-meazza"
-    },
-    {
-        "title": "BPJS Ketenagakerjaan Kelola Dana 801,32 Triliun pada Kuartal I 2025",
-        "category": "Network",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://diagnosa.id/posts/523772/bpjs-ketenagakerjaan-kelola-dana-801-32-triliun-pada-kuartal-i-2025"
-    },
-    {
-        "title": "Tak Akur dengan Strategi Tim, Lewis Hamilton Beri Sindiran Pedas ke Ferrari",
-        "category": "Network",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://motoresto.id/posts/523682/tak-akur-dengan-strategi-tim-lewis-hamilton-beri-sindiran-pedas-ke-ferrari"
-    },
-    {
-        "title": "Kelaparan dan Kekurangan Gizi Ancam Gaza: Akibat Blokade",
-        "category": "Network",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://topnews62.com/posts/523751/kelaparan-dan-kekurangan-gizi-ancam-gaza-akibat-blokade"
-    },
-    {
-        "title": "Tembus Jalan Terjal Pegunungan Sulawesi Tengah demi Wakaf Air Bersih untuk Warga Patingke",
-        "category": "Khazanah",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://khazanah.republika.co.id/berita/svtn1k483/tembus-jalan-terjal-pegunungan-sulawesi-tengah-demi-wakaf-air-bersih-untuk-warga-patingke"
-    },
-    {
-        "title": "Pelajaran Matematika Kelas 1 SD, Lengkap dengan Penjelasannya",
-        "category": "Network",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://kidnews.id/posts/523743/pelajaran-matematika-kelas-1-sd-lengkap-dengan-penjelasannya"
-    },
-    {
-        "title": "Indonesia Kembali Masuk White List Tokyo MoU: Bukti Kualitas dan Keamanan Kapal Nasional",
-        "category": "Network",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://shippingcargo.co.id/posts/523637/indonesia-kembali-masuk-white-list-tokyo-mou-bukti-kualitas-dan-keamanan-kapal-nasional"
-    },
-    {
-        "title": "Waspadalah... Erythritol, Pengganti Gula yang Populer Dapat Bahayakan Kesehatan Jantung dan Otak",
-        "category": "Network",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://impresiupdate.id/posts/523797/waspadalah-erythritol-pengganti-gula-yang-populer-dapat-bahayakan-kesehatan-jantung-dan-otak"
-    },
-    {
-        "title": "Majelis Ulama Islam Singapura: Vasektomi tidak Diperbolehkan",
-        "category": "Khazanah",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://khazanah.republika.co.id/berita/svtmw1430/majelis-ulama-islam-singapura-vasektomi-tidak-diperbolehkan"
-    },
-    {
-        "title": "Rihanna Ungkap Kehamilan Anak Ketiga di Met Gala 2025",
-        "category": "Network",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://impresiupdate.id/posts/523800/rihanna-ungkap-kehamilan-anak-ketiga-di-met-gala-2025"
-    },
-    {
-        "title": "Prabowo Terima Delapan Dubes dari Italia Sampai Somalia di Istana",
-        "category": "News",
-        "publish_time": "06-05-2025 04:20",
-        "news_link": "https://news.republika.co.id/berita/svtmv8484/prabowo-terima-delapan-dubes-dari-italia-sampai-somalia-di-istana"
-    },
-    {
-        "title": "Serangan Israel Kian Brutal Seiring Rencana Pencaplokan Gaza",
-        "category": "News",
-        "publish_time": "06-05-2025 03:20",
-        "news_link": "https://news.republika.co.id/berita/svtm3t393/serangan-israel-kian-brutal-seiring-rencana-pencaplokan-gaza"
-    },
-    {
-        "title": "Dapat Pendanaan, Pembangunan PLTP Muara Laboh Unit 2 Ditargetkan Selesai 2027",
-        "category": "Esgnow",
-        "publish_time": "06-05-2025 03:20",
-        "news_link": "https://esgnow.republika.co.id/berita/svtlzn416/dapat-pendanaan-pembangunan-pltp-muara-laboh-unit-2-ditargetkan-selesai-2027"
-    },
-    {
-        "title": "Israel-AS Berkongsi Bombardir Yaman",
-        "category": "News",
-        "publish_time": "06-05-2025 03:20",
-        "news_link": "https://news.republika.co.id/berita/svtlk0393/israelas-berkongsi-bombardir-yaman"
-    },
-    {
-        "title": "Pintu Pro Futures Catat Performa Ciamik, Jumlah Transaksi Naik 40 Persen",
-        "category": "Ekonomi",
-        "publish_time": "06-05-2025 03:20",
-        "news_link": "https://ekonomi.republika.co.id/berita/svtlh4370/pintu-pro-futures-catat-performa-ciamik-jumlah-transaksi-naik-40-persen"
-    },
-    {
-        "title": "Kenaikan Produksi Pertanian Disebut Jadi Penopang Ekonomi Nasional",
-        "category": "Ekonomi",
-        "publish_time": "06-05-2025 03:20",
-        "news_link": "https://ekonomi.republika.co.id/berita/svtle8522/kenaikan-produksi-pertanian-disebut-jadi-penopang-ekonomi-nasional"
-    },
-    {
-        "title": "Soal Blackout di Bali, Pemulihannya Dinilai Lebih Cepat Dibandingkan di Eropa",
-        "category": "Ekonomi",
-        "publish_time": "06-05-2025 03:20",
-        "news_link": "https://ekonomi.republika.co.id/berita/svtlbe522/soal-blackout-di-bali-pemulihannya-dinilai-lebih-cepat-dibandingkan-di-eropa"
-    },
-    {
-        "title": "Pertama Kali Dalam 57 Tahun, Stok Beras di Bulog Tembus 3,5 Juta Ton",
-        "category": "Ekonomi",
-        "publish_time": "06-05-2025 03:20",
-        "news_link": "https://ekonomi.republika.co.id/berita/svtl6d522/pertama-kali-dalam-57-tahun-stok-beras-di-bulog-tembus-35-juta-ton"
     }
 ]
