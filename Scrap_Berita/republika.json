@@ -1,92 +1,188 @@
 [
     {
+        "title": "Kolaborasi dengan PLN, Wali Kota Ratu Dewa: Tampilkan Palembang yang Bersih, Sehat, dan Tertata",
+        "category": "News",
+        "publish_time": "09-05-2025 16:06",
+        "news_link": "https://news.republika.co.id/berita/svzttb451/kolaborasi-dengan-pln-wali-kota-ratu-dewa-tampilkan-palembang-yang-bersih-sehat-dan-tertata"
+    },
+    {
+        "title": "Buntut Trump Kecewa: Menhan AS Batal ke Tel Aviv, Israel Ditekan Ikut Kesepakatan Soal Gaza",
+        "category": "News",
+        "publish_time": "09-05-2025 16:06",
+        "news_link": "https://news.republika.co.id/berita/sw04r5320/buntut-trump-kecewa-menhan-as-batal-ke-tel-aviv-israel-ditekan-ikut-kesepakatan-soal-gaza"
+    },
+    {
+        "title": "Prabowo Ingin Hapus Outsourcing, Menaker: Tetap Pertimbangkan Risiko Investasi",
+        "category": "News",
+        "publish_time": "09-05-2025 16:05",
+        "news_link": "https://news.republika.co.id/berita/sw04ox282/prabowo-ingin-hapus-outsourcing-menaker-tetap-pertimbangkan-risiko-investasi"
+    },
+    {
+        "title": "Sosialisasi Perpres Tata Kelola Pupuk Subsidi Digelar di Madiun",
+        "category": "Ekonomi",
+        "publish_time": "09-05-2025 16:02",
+        "news_link": "https://ekonomi.republika.co.id/berita/sw04kx483/sosialisasi-perpres-tata-kelola-pupuk-subsidi-digelar-di-madiun"
+    },
+    {
+        "title": "OJK Sebut Danantara Bisa Jadi Penyedia Likuiditas, Ini Syaratnya",
+        "category": "Ekonomi",
+        "publish_time": "09-05-2025 16:01",
+        "news_link": "https://ekonomi.republika.co.id/berita/sw04j3490/ojk-sebut-danantara-bisa-jadi-penyedia-likuiditas-ini-syaratnya"
+    },
+    {
+        "title": "Gen Z Perlu Melek Digital dan Bijak Bermedia Sosial",
+        "category": "News",
+        "publish_time": "09-05-2025 16:00",
+        "news_link": "https://news.republika.co.id/berita/sw04gn522/gen-z-perlu-melek-digital-dan-bijak-bermedia-sosial"
+    },
+    {
+        "title": "Kesiapan Kamar Hotel untuk Jamaah Calon Haji Indonesia di Makkah",
+        "category": "Visual",
+        "publish_time": "09-05-2025 15:58",
+        "news_link": "https://visual.republika.co.id/berita/sw04e7375/kesiapan-kamar-hotel-untuk-jamaah-calon-haji-indonesia-di-makkah"
+    },
+    {
+        "title": "Prof Didik J Rachbini Kembali Terpilih sebagai Rektor Universitas Paramadina",
+        "category": "News",
+        "publish_time": "09-05-2025 15:52",
+        "news_link": "https://news.republika.co.id/berita/sw042s475/prof-didik-j-rachbini-kembali-terpilih-sebagai-rektor-universitas-paramadina"
+    },
+    {
+        "title": "Kerja Sama Energi ini Bernilai 10 Juta Dolar AS Dukung Pertumbuhan Ekonomi Nasional",
+        "category": "Ekonomi",
+        "publish_time": "09-05-2025 15:51",
+        "news_link": "https://ekonomi.republika.co.id/berita/svzu3n451/kerja-sama-energi-ini-bernilai-10-juta-dolar-as-dukung-pertumbuhan-ekonomi-nasional"
+    },
+    {
+        "title": "Bank BUMN Topang Pertumbuhan Kredit Perbankan",
+        "category": "Ekonomi",
+        "publish_time": "09-05-2025 15:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/sw03i6490/bank-bumn-topang-pertumbuhan-kredit-perbankan"
+    },
+    {
+        "title": "Outstanding Pembiayaan Pinjol per Maret 2025 Tembus Rp 80,02 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "09-05-2025 15:37",
+        "news_link": "https://ekonomi.republika.co.id/berita/sw03dy490/outstanding-pembiayaan-pinjol-per-maret-2025-tembus-rp-8002-triliun"
+    },
+    {
+        "title": "OJK Ungkap Tren Penurunan Jumlah BPR Masih Akan Berlanjut",
+        "category": "Ekonomi",
+        "publish_time": "09-05-2025 15:33",
+        "news_link": "https://ekonomi.republika.co.id/berita/sw037v490/ojk-ungkap-tren-penurunan-jumlah-bpr-masih-akan-berlanjut"
+    },
+    {
+        "title": "Bintang Kumpul! Angga Yunanda, Maudy Ayunda, Hingga Anggun Main Film Bareng",
+        "category": "Ameera",
+        "publish_time": "09-05-2025 15:22",
+        "news_link": "https://ameera.republika.co.id/berita/sw02p1425/bintang-kumpul-angga-yunanda-maudy-ayunda-hingga-anggun-main-film-bareng"
+    },
+    {
+        "title": "Taman Budaya Bogorun 2025 Siap Gaet Ribuan Pelari, Dorong PAD dan UMKM Lokal",
+        "category": "News",
+        "publish_time": "09-05-2025 15:21",
+        "news_link": "https://news.republika.co.id/berita/sw02ol366/taman-budaya-bogorun-2025-siap-gaet-ribuan-pelari-dorong-pad-dan-umkm-lokal"
+    },
+    {
+        "title": "Laba Bersih Antam Melonjak 10 Kali Lipat",
+        "category": "Ekonomi",
+        "publish_time": "09-05-2025 15:18",
+        "news_link": "https://ekonomi.republika.co.id/berita/sw02is490/laba-bersih-antam-melonjak-10-kali-lipat"
+    },
+    {
+        "title": "Dua Kunci Menuju Optimalisasi Smart City",
+        "category": "News",
+        "publish_time": "09-05-2025 15:17",
+        "news_link": "https://news.republika.co.id/berita/svzuns451/dua-kunci-menuju-optimalisasi-smart-city"
+    },
+    {
         "title": "Masuk Usia 33 Tahun, Bank Muamalat Ingin Jadi Bank Haji dan Wakaf Nasional",
         "category": "Ekonomi Syariah",
-        "publish_time": "09-05-2025 15:13",
+        "publish_time": "09-05-2025 15:17",
         "news_link": "https://sharia.republika.co.id/berita/sw02ah490/masuk-usia-33-tahun-bank-muamalat-ingin-jadi-bank-haji-dan-wakaf-nasional"
     },
     {
         "title": "Mohamed Salah Sabet Gelar Pesepak Bola Terbaik Liga Inggris Versi Asosiasi Penulis Sepak Bola",
         "category": "News",
-        "publish_time": "09-05-2025 15:03",
+        "publish_time": "09-05-2025 15:17",
         "news_link": "https://news.republika.co.id/berita/sw01v1348/mohamed-salah-sabet-gelar-pesepak-bola-terbaik-liga-inggris-versi-asosiasi-penulis-sepak-bola"
     },
     {
         "title": "Tidak Ada Tempat untuk Premanisme! Polda Metro Jaya Gelar Operasi 24 Jam",
         "category": "Network",
-        "publish_time": "09-05-2025 15:02",
+        "publish_time": "09-05-2025 15:17",
         "news_link": "https://ruzkaindonesia.id/posts/524502/tidak-ada-tempat-untuk-premanisme-polda-metro-jaya-gelar-operasi-24-jam"
     },
     {
         "title": "Depok Bebaskan PBB dan Beri Diskon BPHTB hingga 50 Persen",
         "category": "Network",
-        "publish_time": "09-05-2025 15:02",
+        "publish_time": "09-05-2025 15:17",
         "news_link": "https://ruzkaindonesia.id/posts/524501/depok-bebaskan-pbb-dan-beri-diskon-bphtb-hingga-50-persen"
     },
     {
         "title": "Wagub Lemhannas Resmi Bintang Tiga, Kapuspen TNI Bintang Dua",
         "category": "Network",
-        "publish_time": "09-05-2025 15:02",
+        "publish_time": "09-05-2025 15:17",
         "news_link": "https://seputarmiliter.id/posts/524524/wagub-lemhannas-resmi-bintang-tiga-kapuspen-tni-bintang-dua"
     },
     {
         "title": "Kejar Swasembada Pangan, Kaltim Siapkan 25 Ribu Hektare Lahan",
         "category": "Network",
-        "publish_time": "09-05-2025 15:01",
+        "publish_time": "09-05-2025 15:17",
         "news_link": "https://sekitarkaltim.id/posts/524547/kejar-swasembada-pangan-kaltim-siapkan-25-ribu-hektare-lahan"
     },
     {
         "title": "Polri Berhasil Tuntaskan Ribuan Kasus Premanisme",
         "category": "Network",
-        "publish_time": "09-05-2025 15:01",
+        "publish_time": "09-05-2025 15:17",
         "news_link": "https://sekitarkaltim.id/posts/524548/polri-berhasil-tuntaskan-ribuan-kasus-premanisme"
     },
     {
         "title": "Buruh Sritex akan Dipekerjakan Kembali, Menaker: Sedang Penyiapan Finalisasi",
         "category": "Rejogja",
-        "publish_time": "09-05-2025 14:59",
+        "publish_time": "09-05-2025 15:17",
         "news_link": "https://rejogja.republika.co.id/berita/sw01oc282/buruh-sritex-akan-dipekerjakan-kembali-menaker-sedang-penyiapan-finalisasi"
     },
     {
         "title": "Nawakara Edukasi Siswa SD Soal Keselamatan dan Lingkungan",
         "category": "Esgnow",
-        "publish_time": "09-05-2025 14:59",
+        "publish_time": "09-05-2025 15:17",
         "news_link": "https://esgnow.republika.co.id/berita/svzzi3416/nawakara-edukasi-siswa-sd-soal-keselamatan-dan-lingkungan"
     },
     {
         "title": "Barito Putera Keluar dari Zona Degradasi Usai Tahan Persib 1-1",
         "category": "News",
-        "publish_time": "09-05-2025 14:52",
+        "publish_time": "09-05-2025 15:17",
         "news_link": "https://news.republika.co.id/berita/sw01bg348/barito-putera-keluar-dari-zona-degradasi-usai-tahan-persib-11"
     },
     {
         "title": "S-400 India Gagalkan Serangan Roket China di Dekat Amritsar",
         "category": "Network",
-        "publish_time": "09-05-2025 14:36",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://seputarmiliter.id/posts/524549/s-400-india-gagalkan-serangan-roket-china-di-dekat-amritsar"
     },
     {
         "title": "KNEKS Dorong Produk Aceh Go International Lewat KDMP Syariah",
         "category": "Ekonomi Syariah",
-        "publish_time": "09-05-2025 14:25",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://sharia.republika.co.id/berita/sw002t368/kneks-dorong-produk-aceh-go-international-lewat-kdmp-syariah"
     },
     {
         "title": "Operasi Pemberantasan Premanisme Berkedok Ormas Dimulai, Masyarakat Diminta Aktif Melapor",
         "category": "News",
-        "publish_time": "09-05-2025 14:23",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://news.republika.co.id/berita/sw000d409/operasi-pemberantasan-premanisme-berkedok-ormas-dimulai-masyarakat-diminta-aktif-melapor"
     },
     {
         "title": "KAI Daop 4 Semarang Sediakan 86.500 Tiket Sambut Libur Panjang Waisak",
         "category": "Rejogja",
-        "publish_time": "09-05-2025 14:21",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://rejogja.republika.co.id/berita/svzzw9282/kai-daop-4-semarang-sediakan-86500-tiket-sambut-libur-panjang-waisak"
     },
     {
         "title": "Pemprov Jabar Dinilai Langgar Inpres 1/2025 Soal Efisiensi",
         "category": "Rejabar",
-        "publish_time": "09-05-2025 14:18",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://rejabar.republika.co.id/berita/svzzs9371/pemprov-jabar-dinilai-langgar-inpres-12025-soal-efisiensi"
     },
     {
@@ -98,205 +194,109 @@
     {
         "title": "Badan Usaha Milik Ansor Luncurkan Sistem untuk Kemudahan Perjalanan Umroh",
         "category": "Khazanah",
-        "publish_time": "09-05-2025 14:16",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://khazanah.republika.co.id/berita/svzznb430/badan-usaha-milik-ansor-luncurkan-sistem-untuk-kemudahan-perjalanan-umroh"
     },
     {
         "title": "Asri Welas Jadi Biang Gosip di Film Baru Garapan Bayu Skak",
         "category": "Ameera",
-        "publish_time": "09-05-2025 14:14",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://ameera.republika.co.id/berita/svzz8m425/asri-welas-jadi-biang-gosip-di-film-baru-garapan-bayu-skak"
     },
     {
         "title": "OJK Jaga Sektor Jasa Keuangan Tetap Resilien",
         "category": "Ekonomi",
-        "publish_time": "09-05-2025 14:14",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://ekonomi.republika.co.id/berita/svzjsv423/ojk-jaga-sektor-jasa-keuangan-tetap-resilien"
     },
     {
         "title": "OJK Blokir 14.117 Rekening yang Berhubungan dengan Judi Online",
         "category": "Ekonomi",
-        "publish_time": "09-05-2025 14:14",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://ekonomi.republika.co.id/berita/svzyx3490/ojk-blokir-14117-rekening-yang-berhubungan-dengan-judi-online"
     },
     {
         "title": "Tunaikan Janji ke Petani, Prabowo Kirim 1.000 Burung Hantu ke Majalengka",
         "category": "Ekonomi",
-        "publish_time": "09-05-2025 14:14",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://ekonomi.republika.co.id/berita/svzwc5416/tunaikan-janji-ke-petani-prabowo-kirim-1000-burung-hantu-ke-majalengka"
     },
     {
         "title": "Tegas! Ratusan Preman di Cimahi Ditangkap Polisi",
         "category": "Visual",
-        "publish_time": "09-05-2025 14:14",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://visual.republika.co.id/berita/svzu97375/tegas-ratusan-preman-di-cimahi-ditangkap-polisi"
     },
     {
         "title": "Libur Waisak, 600 Kantong Parkir Disiapkan untuk Pengunjung Candi Borobudur",
         "category": "Rejogja",
-        "publish_time": "09-05-2025 14:14",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://rejogja.republika.co.id/berita/svzyud282/libur-waisak-600-kantong-parkir-disiapkan-untuk-pengunjung-candi-borobudur"
     },
     {
         "title": "Ahli Kesehatan Ungkap Alasan Indonesia Perlu Vaksin TB Baru",
         "category": "Ameera",
-        "publish_time": "09-05-2025 14:14",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://ameera.republika.co.id/berita/svzyrv425/ahli-kesehatan-ungkap-alasan-indonesia-perlu-vaksin-tb-baru"
     },
     {
         "title": "Dosen Bisnis Digital UNM Ciptakan Teknologi Canggih Deteksi Penyakit Padi",
         "category": "News",
-        "publish_time": "09-05-2025 14:14",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://news.republika.co.id/berita/svzyn6368/dosen-bisnis-digital-unm-ciptakan-teknologi-canggih-deteksi-penyakit-padi"
     },
     {
         "title": "Sakit, Jamaah Haji Asal Sidoarjo Meninggal di Pesawat Menuju Madinah, Ini Penjelasan PPIH",
         "category": "Rejogja",
-        "publish_time": "09-05-2025 14:14",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://rejogja.republika.co.id/berita/svzymi282/sakit-jamaah-haji-asal-sidoarjo-meninggal-di-pesawat-menuju-madinah-ini-penjelasan-ppih"
     },
     {
         "title": "KB Bank Syariah Buka Kantor Fungsional di RS Aisyiyah Kudus",
         "category": "Ekonomi Syariah",
-        "publish_time": "09-05-2025 14:14",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://sharia.republika.co.id/berita/svzx1p416/kb-bank-syariah-buka-kantor-fungsional-di-rs-aisyiyah-kudus"
     },
     {
         "title": "Riset Tembus Jurnal Internasional, Dosen UNM Kupas Kekuatan Platform Digital untuk UMKM",
         "category": "News",
-        "publish_time": "09-05-2025 14:14",
+        "publish_time": "09-05-2025 14:17",
         "news_link": "https://news.republika.co.id/berita/svzyd8368/riset-tembus-jurnal-internasional-dosen-unm-kupas-kekuatan-platform-digital-untuk-umkm"
     },
     {
         "title": "Trump Dilaporkan Segera Umumkan Perdamaian Gaza, Rangkul Hamas, Abaikan Netanyahu",
         "category": "News",
-        "publish_time": "09-05-2025 14:14",
+        "publish_time": "09-05-2025 13:17",
         "news_link": "https://news.republika.co.id/berita/svzyai409/trump-dilaporkan-segera-umumkan-perdamaian-gaza-rangkul-hamas-abaikan-netanyahu"
     },
     {
         "title": "Istana Bantah Efisiensi Anggaran Picu Perlambatan Ekonomi",
         "category": "Ekonomi",
-        "publish_time": "09-05-2025 14:14",
+        "publish_time": "09-05-2025 13:17",
         "news_link": "https://ekonomi.republika.co.id/berita/svzy9p490/istana-bantah-efisiensi-anggaran-picu-perlambatan-ekonomi"
     },
     {
         "title": "BI: Indeks Keyakinan Konsumen Naik pada April 2025",
         "category": "Ekonomi",
-        "publish_time": "09-05-2025 13:14",
+        "publish_time": "09-05-2025 13:17",
         "news_link": "https://ekonomi.republika.co.id/berita/svzy37490/bi-indeks-keyakinan-konsumen-naik-pada-april-2025"
     },
     {
         "title": "Petinju Dunia Daud Yordan Tantang Wamentan Sudaryono ke Kalbar, Ada Apa?",
         "category": "Ekonomi",
-        "publish_time": "09-05-2025 13:14",
+        "publish_time": "09-05-2025 13:17",
         "news_link": "https://ekonomi.republika.co.id/berita/svzxyf368/petinju-dunia-daud-yordan-tantang-wamentan-sudaryono-ke-kalbar-ada-apa"
     },
     {
         "title": "Sempat Dirawat di RSUP Sardjito, Sopir Truk Kecelakaan Maut Purworejo Meninggal Dunia",
         "category": "Rejogja",
-        "publish_time": "09-05-2025 13:14",
+        "publish_time": "09-05-2025 13:17",
         "news_link": "https://rejogja.republika.co.id/berita/svzxs8282/sempat-dirawat-di-rsup-sardjito-sopir-truk-kecelakaan-maut-purworejo-meninggal-dunia"
     },
     {
         "title": "Libur Panjang Waisak, 100 Ribu Tiket Kereta Api di Bandung Ludes Terjual",
         "category": "Rejabar",
-        "publish_time": "09-05-2025 13:14",
+        "publish_time": "09-05-2025 13:17",
         "news_link": "https://rejabar.republika.co.id/berita/svzxoi512/libur-panjang-waisak-100-ribu-tiket-kereta-api-di-bandung-ludes-terjual"
-    },
-    {
-        "title": "ITB Benarkan Mahasiswi Ditangkap Akibat Buat Meme Presiden, Orang Tua Minta Maaf",
-        "category": "Rejabar",
-        "publish_time": "09-05-2025 13:14",
-        "news_link": "https://rejabar.republika.co.id/berita/svzxhc512/itb-benarkan-mahasiswi-ditangkap-akibat-buat-meme-presiden-orang-tua-minta-maaf"
-    },
-    {
-        "title": "Pengemudi Ojol Desak Regulasi Kemitraan Digital yang Adil",
-        "category": "Ekonomi",
-        "publish_time": "09-05-2025 13:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/svzwto423/pengemudi-ojol-desak-regulasi-kemitraan-digital-yang-adil"
-    },
-    {
-        "title": "Tak Hanya Berwisata, Pangandaran Bisa Jadi Pilihan Berinvestasi",
-        "category": "Rejabar",
-        "publish_time": "09-05-2025 13:14",
-        "news_link": "https://rejabar.republika.co.id/berita/svzx6u512/tak-hanya-berwisata-pangandaran-bisa-jadi-pilihan-berinvestasi"
-    },
-    {
-        "title": "Jelang Operasi Pemberantasan Premanisme, Ini Peringatan Kapolda Metro Jaya untuk Ormas",
-        "category": "News",
-        "publish_time": "09-05-2025 13:14",
-        "news_link": "https://news.republika.co.id/berita/svzwmq409/jelang-operasi-pemberantasan-premanisme-ini-peringatan-kapolda-metro-jaya-untuk-ormas"
-    },
-    {
-        "title": "BI: Modal Asing Masuk Rp 120 Miliar di Pekan Pertama Mei 2025",
-        "category": "Ekonomi",
-        "publish_time": "09-05-2025 13:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/svzwez423/bi-modal-asing-masuk-rp-120-miliar-di-pekan-pertama-mei-2025"
-    },
-    {
-        "title": "GS Supermarket akan Tutup Seluruh Gerainya di Indonesia",
-        "category": "Visual",
-        "publish_time": "09-05-2025 13:14",
-        "news_link": "https://visual.republika.co.id/berita/svzu4v375/gs-supermarket-akan-tutup-seluruh-gerainya-di-indonesia"
-    },
-    {
-        "title": "Saham ANTM Berpeluang Masuk MSCI dan FTSE",
-        "category": "Ekonomi",
-        "publish_time": "09-05-2025 13:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/svzvz9423/saham-antm-berpeluang-masuk-msci-dan-ftse"
-    },
-    {
-        "title": "Berani Tawuran? Gubernur DKI Pramono: Aparat Tindak Tegas-Manusiawi Pelakunya",
-        "category": "News",
-        "publish_time": "09-05-2025 13:14",
-        "news_link": "https://news.republika.co.id/berita/svzvy7451/berani-tawuran-gubernur-dki-pramono-aparat-tindak-tegasmanusiawi-pelakunya"
-    },
-    {
-        "title": "Kejagung Buru Pendana 'Operasi Pelemahan Citra Kejaksaan'",
-        "category": "News",
-        "publish_time": "09-05-2025 13:14",
-        "news_link": "https://news.republika.co.id/berita/svzvv2393/kejagung-buru-pendana-operasi-pelemahan-citra-kejaksaan"
-    },
-    {
-        "title": "Polisi Bersih-bersih Preman di Kota Cimahi dan Bandung Barat",
-        "category": "Rejabar",
-        "publish_time": "09-05-2025 13:14",
-        "news_link": "https://rejabar.republika.co.id/berita/svzvlf512/polisi-bersihbersih-preman-di-kota-cimahi-dan-bandung-barat"
-    },
-    {
-        "title": "Selama Ini Tampak Mesra-Mesra Saja, Mengapa Trump dan Netanyahu Pecah Kongsi?",
-        "category": "Khazanah",
-        "publish_time": "09-05-2025 13:14",
-        "news_link": "https://khazanah.republika.co.id/berita/svzvl3320/selama-ini-tampak-mesramesra-saja-mengapa-trump-dan-netanyahu-pecah-kongsi"
-    },
-    {
-        "title": "Kemendikdasmen dan KPAI: Hati-Hati Soal Siswa Masuk Barak",
-        "category": "News",
-        "publish_time": "09-05-2025 13:14",
-        "news_link": "https://news.republika.co.id/berita/svzvk3393/kemendikdasmen-dan-kpai-hatihati-soal-siswa-masuk-barak"
-    },
-    {
-        "title": "Bangun Pendidikan, Sekjen MPR: Di Tangan Guru Nilai Kejujuran, Gotong Royong, Nasionalisme, Tumbuh",
-        "category": "News",
-        "publish_time": "09-05-2025 13:14",
-        "news_link": "https://news.republika.co.id/berita/svzvj2451/bangun-pendidikan-sekjen-mpr-di-tangan-guru-nilai-kejujuran-gotong-royong-nasionalisme-tumbuh"
-    },
-    {
-        "title": "Film Terbaru Bayu Skak Angkat Masalah Sosial dengan Balutan Komedi Khas Jawa",
-        "category": "Ameera",
-        "publish_time": "09-05-2025 13:14",
-        "news_link": "https://ameera.republika.co.id/berita/svzvho425/film-terbaru-bayu-skak-angkat-masalah-sosial-dengan-balutan-komedi-khas-jawa"
-    },
-    {
-        "title": "Xabi Alonso Umumkan Tinggalkan Leverkusen, Belum Mau Sebut Real Madrid Klub Berikutnya",
-        "category": "News",
-        "publish_time": "09-05-2025 13:14",
-        "news_link": "https://news.republika.co.id/berita/svzvh6348/xabi-alonso-umumkan-tinggalkan-leverkusen-belum-mau-sebut-real-madrid-klub-berikutnya"
-    },
-    {
-        "title": "Mahasiswa ITB Ditangkap Polisi Terkait Unggahan Meme di Medsos",
-        "category": "Rejabar",
-        "publish_time": "09-05-2025 12:14",
-        "news_link": "https://rejabar.republika.co.id/berita/svzvas512/mahasiswa-itb-ditangkap-polisi-terkait-unggahan-meme-di-medsos"
     }
 ]
