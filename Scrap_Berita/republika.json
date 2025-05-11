@@ -1,5 +1,89 @@
 [
     {
+        "title": "BNPB: Cuaca Ekstrem Picu Bencana di Yogyakarta dan Bogor",
+        "category": "News",
+        "publish_time": "11 May 2025, 08:13",
+        "news_link": "https://news.republika.co.id/berita/sw2oq9328/bnpb-cuaca-ekstrem-picu-bencana-di-yogyakarta-dan-bogor"
+    },
+    {
+        "title": "Guardiola Akui Manchester City Buang Peluang Besar Setelah Ditahan Imbang Southampton",
+        "category": "News",
+        "publish_time": "11 May 2025, 08:12",
+        "news_link": "https://news.republika.co.id/berita/sw2nrm348/guardiola-akui-manchester-city-buang-peluang-besar-setelah-ditahan-imbang-southampton"
+    },
+    {
+        "title": "Geliat Wisata Kawasan Lembang di Momen Libur Panjang Waisak",
+        "category": "Visual",
+        "publish_time": "11 May 2025, 08:00",
+        "news_link": "https://visual.republika.co.id/berita/sw1sre375/geliat-wisata-kawasan-lembang-di-momen-libur-panjang-waisak"
+    },
+    {
+        "title": "Merokok Hingga Kolesterol Tinggi Jadi Faktor Risiko Penyakit Jantung",
+        "category": "Ameera",
+        "publish_time": "11 May 2025, 07:51",
+        "news_link": "https://ameera.republika.co.id/berita/sw2np4328/merokok-hingga-kolesterol-tinggi-jadi-faktor-risiko-penyakit-jantung"
+    },
+    {
+        "title": "BSI Operasikan 674 Outlet Weekend Banking, Transaksi ATM Tembus 48 Juta",
+        "category": "Ekonomi Syariah",
+        "publish_time": "11 May 2025, 07:20",
+        "news_link": "https://sharia.republika.co.id/berita/sw2jet490/bsi-operasikan-674-outlet-weekend-banking-transaksi-atm-tembus-48-juta"
+    },
+    {
+        "title": "Arab Saudi akan Denda WNA yang Berhaji tanpa Visa",
+        "category": "Khazanah",
+        "publish_time": "11 May 2025, 07:14",
+        "news_link": "https://khazanah.republika.co.id/berita/sw2lq9430/arab-saudi-akan-denda-wna-yang-berhaji-tanpa-visa"
+    },
+    {
+        "title": "Kejagung: Pengakuan Zarof Ricar Terima Rp 50 Miliar Sudah Jadi Fakta Persidangan",
+        "category": "News",
+        "publish_time": "11 May 2025, 07:09",
+        "news_link": "https://news.republika.co.id/berita/sw2ls5348/kejagung-pengakuan-zarof-ricar-terima-rp-50-miliar-sudah-jadi-fakta-persidangan"
+    },
+    {
+        "title": "Pengemudi yang Tewaskan Pelajar SMAN 5 Bandung Ditetapkan Tersangka",
+        "category": "News",
+        "publish_time": "11 May 2025, 07:07",
+        "news_link": "https://news.republika.co.id/berita/sw2loo328/pengemudi-yang-tewaskan-pelajar-sman-5-bandung-ditetapkan-tersangka"
+    },
+    {
+        "title": "Jejak Dialog Antaragama di Jerman",
+        "category": "Kolom",
+        "publish_time": "11 May 2025, 07:00",
+        "news_link": "https://analisis.republika.co.id/berita/sw2lcb393/jejak-dialog-antaragama-di-jerman"
+    },
+    {
+        "title": "Pertamina Enduro Juara Proliga 2025 Kalahkan Popsivo, Junaida Santi Jadi MVP",
+        "category": "News",
+        "publish_time": "11 May 2025, 06:51",
+        "news_link": "https://news.republika.co.id/berita/sw2kxr348/pertamina-enduro-juara-proliga-2025-kalahkan-popsivo-junaida-santi-jadi-mvp"
+    },
+    {
+        "title": "Lelah Berperang, Tentara Israel Banyak yang Menolak Bertugas",
+        "category": "Khazanah",
+        "publish_time": "11 May 2025, 06:40",
+        "news_link": "https://khazanah.republika.co.id/berita/sw2ite430/lelah-berperang-tentara-israel-banyak-yang-menolak-bertugas"
+    },
+    {
+        "title": "IHSG Menghijau, IPO dan Kampanye Literasi Warnai Bursa Sepekan Terakhir",
+        "category": "Ekonomi",
+        "publish_time": "11 May 2025, 06:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/sw2j43490/ihsg-menghijau-ipo-dan-kampanye-literasi-warnai-bursa-sepekan-terakhir"
+    },
+    {
+        "title": "Aston Villa Jaga Harapan Lolos ke Liga Champions Lewat Kemenangan Tipis atas Bournemouth",
+        "category": "News",
+        "publish_time": "11 May 2025, 06:26",
+        "news_link": "https://news.republika.co.id/berita/sw2jrn348/aston-villa-jaga-harapan-lolos-ke-liga-champions-lewat-kemenangan-tipis-atas-bournemouth"
+    },
+    {
+        "title": "Lazio Tahan Imbang Juventus, Persaingan ke Liga Champions Sengit",
+        "category": "News",
+        "publish_time": "11 May 2025, 06:15",
+        "news_link": "https://news.republika.co.id/berita/sw2j9n348/lazio-tahan-imbang-juventus-persaingan-ke-liga-champions-sengit"
+    },
+    {
         "title": "Pupuk Indonesia Uji Coba Fitur Baru Aplikasi Digital di Kabupaten Madiun",
         "category": "Ekonomi",
         "publish_time": "11 May 2025, 06:07",
@@ -214,89 +298,5 @@
         "category": "Khazanah",
         "publish_time": "10 May 2025, 19:52",
         "news_link": "https://khazanah.republika.co.id/berita/sw1nrr430/dalil-kurban-dalam-alquran"
-    },
-    {
-        "title": "Rudal Hipersonik Pakistan Dilaporkan Hancurkan Pangkalan Tempat India Memulai Serangan ke Masjid",
-        "category": "Khazanah",
-        "publish_time": "10 May 2025, 19:51",
-        "news_link": "https://khazanah.republika.co.id/berita/sw1qdx483/rudal-hipersonik-pakistan-dilaporkan-hancurkan-pangkalan-tempat-india-memulai-serangan-ke-masjid"
-    },
-    {
-        "title": "Kemenag Sumbar Gunakan Kokarde Khusus Bagi Jamaah Calon Haji Lansia",
-        "category": "Khazanah",
-        "publish_time": "10 May 2025, 19:10",
-        "news_link": "https://khazanah.republika.co.id/berita/sw1oi4370/kemenag-sumbar-gunakan-kokarde-khusus-bagi-jamaah-calon-haji-lansia"
-    },
-    {
-        "title": "Antusiasme Pelajar di Semarang Ikuti Kegiatan Terapi Hutan",
-        "category": "Visual",
-        "publish_time": "10 May 2025, 19:06",
-        "news_link": "https://visual.republika.co.id/berita/sw1ll6375/antusiasme-pelajar-di-semarang-ikuti-kegiatan-terapi-hutan"
-    },
-    {
-        "title": "Launching 4 Badan, Gelora Komitmen Bela Perjuangan Palestina Merdeka",
-        "category": "News",
-        "publish_time": "10 May 2025, 19:01",
-        "news_link": "https://news.republika.co.id/berita/sw1o1x451/launching-4-badan-gelora-komitmen-bela-perjuangan-palestina-merdeka"
-    },
-    {
-        "title": "Mayoritas Jamaah Haji Yogyakarta Ditempatkan di Misfalah",
-        "category": "Khazanah",
-        "publish_time": "10 May 2025, 18:59",
-        "news_link": "https://khazanah.republika.co.id/berita/sw1nyq430/mayoritas-jamaah-haji-yogyakarta-ditempatkan-di-misfalah"
-    },
-    {
-        "title": "Keutamaan Bagi Orang yang Berqurban",
-        "category": "Khazanah",
-        "publish_time": "10 May 2025, 18:57",
-        "news_link": "https://khazanah.republika.co.id/berita/sw1nn2430/keutamaan-bagi-orang-yang-berqurban"
-    },
-    {
-        "title": "BGN Kaji Asuransi Bagi Pekerja SPPG Hingga Penerima Manfaat MBG",
-        "category": "Ekonomi",
-        "publish_time": "10 May 2025, 18:56",
-        "news_link": "https://ekonomi.republika.co.id/berita/sw1num370/bgn-kaji-asuransi-bagi-pekerja-sppg-hingga-penerima-manfaat-mbg"
-    },
-    {
-        "title": "Tingkatkan Kualitas Guru, Mendikdasmen: Terima Kasih Umsida",
-        "category": "News",
-        "publish_time": "10 May 2025, 18:51",
-        "news_link": "https://news.republika.co.id/berita/sw1l18451/tingkatkan-kualitas-guru-mendikdasmen-terima-kasih-umsida"
-    },
-    {
-        "title": "Tuntunan Rasulullah tentang Qurban dan Aqiqah",
-        "category": "Khazanah",
-        "publish_time": "10 May 2025, 18:49",
-        "news_link": "https://khazanah.republika.co.id/berita/sw1nj1430/tuntunan-rasulullah-tentang-qurban-dan-aqiqah"
-    },
-    {
-        "title": "Siswa Nakal di Jabar Dibawa ke Barak, Natalius Pigai: Itu Pendidikan yang Bagus",
-        "category": "News",
-        "publish_time": "10 May 2025, 18:43",
-        "news_link": "https://news.republika.co.id/berita/sw1n8j484/siswa-nakal-di-jabar-dibawa-ke-barak-natalius-pigai-itu-pendidikan-yang-bagus"
-    },
-    {
-        "title": "Jamaah Haji Karimun Wafat di Madinah, Dimakamkan di Jannatul Baqi",
-        "category": "Khazanah",
-        "publish_time": "10 May 2025, 18:34",
-        "news_link": "https://khazanah.republika.co.id/berita/sw1mu9366/jamaah-haji-karimun-wafat-di-madinah-dimakamkan-di-jannatul-baqi"
-    },
-    {
-        "title": "Rifki Ardiansyah, Bagikan Kisah Membangun Startup di Podcast UNM",
-        "category": "News",
-        "publish_time": "10 May 2025, 18:33",
-        "news_link": "https://news.republika.co.id/berita/sw1mrc472/rifki-ardiansyah-bagikan-kisah-membangun-startup-di-podcast-unm"
-    },
-    {
-        "title": "Sarjana Plus: Ketika Kuliah Nggak Cuma Buat Dapet Gelar",
-        "category": "News",
-        "publish_time": "10 May 2025, 18:19",
-        "news_link": "https://news.republika.co.id/berita/sw1m56472/sarjana-plus-ketika-kuliah-nggak-cuma-buat-dapet-gelar"
-    },
-    {
-        "title": "Libur Panjang Waisak, Volume Penyeberangan di Pelabuhan Ulee Lheue Meningkat",
-        "category": "Visual",
-        "publish_time": "10 May 2025, 18:04",
-        "news_link": "https://visual.republika.co.id/berita/sw1lez375/libur-panjang-waisak-volume-penyeberangan-di-pelabuhan-ulee-lheue-meningkat"
     }
 ]
