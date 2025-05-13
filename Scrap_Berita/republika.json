@@ -1,56 +1,80 @@
 [
     {
+        "title": "Sergio Conceicao Minta Pemain Milan Bahagiakan Fans dengan Trofi Coppa Italia",
+        "category": "News",
+        "publish_time": "13-05-2025 23:11",
+        "news_link": "https://news.republika.co.id/berita/sw832z348/sergio-conceicao-minta-pemain-milan-bahagiakan-fans-dengan-trofi-coppa-italia"
+    },
+    {
+        "title": "Contoh Nyata Dukung Ketahanan Pangan, Bupati Aceh Besar: Layanan Bajak Sawah Gratis",
+        "category": "News",
+        "publish_time": "13-05-2025 23:00",
+        "news_link": "https://news.republika.co.id/berita/sw7imq451/contoh-nyata-dukung-ketahanan-pangan-bupati-aceh-besar-layanan-bajak-sawah-gratis"
+    },
+    {
+        "title": "Asap Mengepul dari BYD Seal di Palmerah, Ini Tanggapan BYD Indonesia",
+        "category": "Ekonomi",
+        "publish_time": "13-05-2025 22:57",
+        "news_link": "https://ekonomi.republika.co.id/berita/sw82gf348/asap-mengepul-dari-byd-seal-di-palmerah-ini-tanggapan-byd-indonesia"
+    },
+    {
+        "title": "Begini Respons Warga Usai Perpustakaan Jakarta Dibuka Sampai Malam Hari",
+        "category": "News",
+        "publish_time": "13-05-2025 22:44",
+        "news_link": "https://news.republika.co.id/berita/sw7fp8487/begini-respons-warga-usai-perpustakaan-jakarta-dibuka-sampai-malam-hari"
+    },
+    {
         "title": "Tentara Israel Berpaspor AS Tolak Bertemu Netanyahu, Ini Alasannya Menurut Aljazeera",
         "category": "Khazanah",
-        "publish_time": "13-05-2025 22:07",
+        "publish_time": "13-05-2025 22:13",
         "news_link": "https://khazanah.republika.co.id/berita/sw8061320/tentara-israel-berpaspor-as-tolak-bertemu-netanyahu-ini-alasannya-menurut-aljazeera"
     },
     {
         "title": "Orderan Fiktif di Semarang Merebak, Ini Penjelasan Gojek",
         "category": "News",
-        "publish_time": "13-05-2025 22:04",
+        "publish_time": "13-05-2025 22:13",
         "news_link": "https://news.republika.co.id/berita/sw7f9w487/orderan-fiktif-di-semarang-merebak-ini-penjelasan-gojek"
     },
     {
         "title": "Momentum Wirausaha Syariah di Tengah Ketidakpastian Global",
         "category": "Kolom",
-        "publish_time": "13-05-2025 21:59",
+        "publish_time": "13-05-2025 22:13",
         "news_link": "https://analisis.republika.co.id/berita/sw76wj393/momentum-wirausaha-syariah-di-tengah-ketidakpastian-global"
     },
     {
         "title": "Parlemen Sedunia akan Bahas Islamofobia Hingga Palestina",
         "category": "Khazanah",
-        "publish_time": "13-05-2025 21:46",
+        "publish_time": "13-05-2025 22:13",
         "news_link": "https://khazanah.republika.co.id/berita/sw7gfx483/parlemen-sedunia-akan-bahas-islamofobia-hingga-palestina"
     },
     {
         "title": "Kala Abrahah Hendak Menghancurkan Ka'bah, Kisah Pasukan Gajah Dibinasakan dalam Alquran",
         "category": "Iqra",
-        "publish_time": "13-05-2025 21:43",
+        "publish_time": "13-05-2025 21:13",
         "news_link": "https://iqra.republika.co.id/berita/sw7eud483/kala-abrahah-hendak-menghancurkan-kabah-kisah-pasukan-gajah-dibinasakan-dalam-alquran"
     },
     {
         "title": "Presiden Prancis Lawatan ke Indonesia pada 27-29 Mei 2025",
         "category": "News",
-        "publish_time": "13-05-2025 21:43",
+        "publish_time": "13-05-2025 21:13",
         "news_link": "https://news.republika.co.id/berita/sw7fvo484/presiden-prancis-lawatan-ke-indonesia-pada-2729-mei-2025"
     },
     {
         "title": "Manchester United Terdepan Dapatkan Penyerang Ipswich Liam Delap, tapi Harus Juara Liga Europa Dulu",
         "category": "News",
-        "publish_time": "13-05-2025 21:33",
+        "publish_time": "13-05-2025 21:13",
         "news_link": "https://news.republika.co.id/berita/sw7yjt348/manchester-united-terdepan-dapatkan-penyerang-ipswich-liam-delap-tapi-harus-juara-liga-europa-dulu"
     },
     {
         "title": "Latih Brasil Bulan Depan, Ancelotti Bangga Memori Juara Bersama Real Madrid",
         "category": "News",
-        "publish_time": "13-05-2025 21:24",
+        "publish_time": "13-05-2025 21:13",
         "news_link": "https://news.republika.co.id/berita/sw7y57348/latih-brasil-bulan-depan-ancelotti-bangga-memori-juara-bersama-real-madrid"
     },
     {
         "title": "Kemenlu AS: Donald Trump dan Pangeran MBS Diskusikan Pengakhiran Perang di Gaza",
         "category": "News",
-        "publish_time": "13-05-2025 21:21",
+        "publish_time": "13-05-2025 21:13",
         "news_link": "https://news.republika.co.id/berita/sw7ff0409/kemenlu-as-donald-trump-dan-pangeran-mbs-diskusikan-pengakhiran-perang-di-gaza"
     },
     {
@@ -274,29 +298,5 @@
         "category": "Rejogja",
         "publish_time": "13-05-2025 16:13",
         "news_link": "https://rejogja.republika.co.id/berita/sw7iqc282/penumpang-kai-tujuan-yogyakarta-naik-106-persen-di-libur-waisak"
-    },
-    {
-        "title": "Konferensi PUIC Soroti Peran Pemuda dan Ekosistem Startup",
-        "category": "Dpr Ri",
-        "publish_time": "13-05-2025 16:13",
-        "news_link": "https://republika.co.id/berita//sw7in4349/konferensi-puic-soroti-peran-pemuda-dan-ekosistem-startup"
-    },
-    {
-        "title": "Teliti saat Membeli Hewan Kurban",
-        "category": "Khazanah",
-        "publish_time": "13-05-2025 15:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sw7hul430/teliti-saat-membeli-hewan-kurban"
-    },
-    {
-        "title": "CNN Menjelaskan Kronologi Gencatan Senjata Antara India Vs Pakistan",
-        "category": "Network",
-        "publish_time": "13-05-2025 15:13",
-        "news_link": "https://seputarmiliter.id/posts/525107/cnn-menjelaskan-kronologi-gencatan-senjata-antara-india-vs-pakistan"
-    },
-    {
-        "title": "Regulasi Digital: Hambatan Baru Pelayaran?",
-        "category": "Network",
-        "publish_time": "13-05-2025 15:13",
-        "news_link": "https://shippingcargo.co.id/posts/524910/regulasi-digital-hambatan-baru-pelayaran"
     }
 ]
