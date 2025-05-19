@@ -1,86 +1,242 @@
 [
     {
+        "title": "Hakim Ini Didakwa Terima Gratifikasi Rp 21,85 Miliar Selama Menjabat Sebagai Ketua Pengadilan Negeri",
+        "category": "News",
+        "publish_time": "19-05-2025 08:21",
+        "news_link": "https://news.republika.co.id/berita/swi1vw487/hakim-ini-didakwa-terima-gratifikasi-rp-2185-miliar-selama-menjabat-sebagai-ketua-pengadilan-negeri"
+    },
+    {
+        "title": "Viral Keluhan Nasabah Bank Termasuk Bos Kaskus Soal Blokir Rekening Dormant dan Alasan PPATK",
+        "category": "News",
+        "publish_time": "19-05-2025 08:13",
+        "news_link": "https://news.republika.co.id/berita/swi1io409/viral-keluhan-nasabah-bank-termasuk-bos-kaskus-soal-blokir-rekening-dormant-dan-alasan-ppatk"
+    },
+    {
+        "title": "Gen Z Sekarang Lebih Rentan Kena Kanker Usus Besar, Kok Bisa?",
+        "category": "Ameera",
+        "publish_time": "19-05-2025 08:13",
+        "news_link": "https://ameera.republika.co.id/berita/swi1i5425/gen-z-sekarang-lebih-rentan-kena-kanker-usus-besar-kok-bisa"
+    },
+    {
+        "title": "500 Ribu Ojol Bakal Demo Serentak, Polisi Siapkan Skema Lalu Lintas",
+        "category": "Ekonomi",
+        "publish_time": "19-05-2025 08:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/swi15h370/500-ribu-ojol-bakal-demo-serentak-polisi-siapkan-skema-lalu-lintas"
+    },
+    {
+        "title": "Federasi Guru Desak Mendikdasmen Turun Tangan Hentikan Program Dedi Mulyadi",
+        "category": "News",
+        "publish_time": "19-05-2025 08:05",
+        "news_link": "https://news.republika.co.id/berita/swi15a487/federasi-guru-desak-mendikdasmen-turun-tangan-hentikan-program-dedi-mulyadi"
+    },
+    {
+        "title": "Mengapa Nabi Isa dan Dajjal Digelari al-Masih?",
+        "category": "Khazanah",
+        "publish_time": "19-05-2025 08:05",
+        "news_link": "https://khazanah.republika.co.id/berita/swi14x458/mengapa-nabi-isa-dan-dajjal-digelari-almasih"
+    },
+    {
+        "title": "Sampah Liar Kotori Kawasan Wisata di Bandung Barat Bikin Jeje Geram",
+        "category": "Rejabar",
+        "publish_time": "19-05-2025 08:04",
+        "news_link": "https://rejabar.republika.co.id/berita/swi13e512/sampah-liar-kotori-kawasan-wisata-di-bandung-barat-bikin-jeje-geram"
+    },
+    {
+        "title": "Drama Gaun di Cannes 2025, Aktris 'Diusir' karena Terlalu Seksi?",
+        "category": "Ameera",
+        "publish_time": "19-05-2025 07:57",
+        "news_link": "https://ameera.republika.co.id/berita/swi0s0425/drama-gaun-di-cannes-2025-aktris-diusir-karena-terlalu-seksi"
+    },
+    {
+        "title": "Ekonom Bank Mandiri: Akselerasi Ekonomi 2025 Butuh Penguatan Sinergi Fiskal dan Moneter",
+        "category": "Ekonomi",
+        "publish_time": "19-05-2025 07:55",
+        "news_link": "https://ekonomi.republika.co.id/berita/swi0or472/ekonom-bank-mandiri-akselerasi-ekonomi-2025-butuh-penguatan-sinergi-fiskal-dan-moneter"
+    },
+    {
+        "title": "Kisah Mualaf Amerika, Pernah Emosi Hingga Hampir Mengebom Masjid",
+        "category": "Khazanah",
+        "publish_time": "19-05-2025 07:55",
+        "news_link": "https://khazanah.republika.co.id/berita/swi0o8458/kisah-mualaf-amerika-pernah-emosi-hingga-hampir-mengebom-masjid"
+    },
+    {
+        "title": "PPATK: Nasabah Terdampak Pemblokiran Rekening Dormant Bisa Minta Reaktivasi",
+        "category": "Ekonomi Syariah",
+        "publish_time": "19-05-2025 07:51",
+        "news_link": "https://sharia.republika.co.id/berita/swi0hk393/ppatk-nasabah-terdampak-pemblokiran-rekening-dormant-bisa-minta-reaktivasi"
+    },
+    {
+        "title": "Prakiraan Cuaca 25 Oktober 2023: Hujan Gerimis di Jakarta Selatan",
+        "category": "News",
+        "publish_time": "19-05-2025 07:48",
+        "news_link": "https://news.republika.co.id/berita/swi0cs568854508/prakiraan-cuaca-25-oktober-2023-hujan-gerimis-di-jakarta-selatan"
+    },
+    {
+        "title": "Inilah Alasan Tidur Malam yang Cukup Sangat Penting Bagi Kesehatan Jantung",
+        "category": "Network",
+        "publish_time": "19-05-2025 07:46",
+        "news_link": "https://impresiupdate.id/posts/526019/inilah-alasan-tidur-malam-yang-cukup-sangat-penting-bagi-kesehatan-jantung"
+    },
+    {
+        "title": "Idul Adha 2025, Ini Panduan Cerdas Membeli Hewan Kurban",
+        "category": "Network",
+        "publish_time": "19-05-2025 07:46",
+        "news_link": "https://ruzkaindonesia.id/posts/526026/idul-adha-2025-ini-panduan-cerdas-membeli-hewan-kurban"
+    },
+    {
+        "title": "Setelah RS Indonesia, Israel Bombardir RS Al-Nasser di Khan Younis",
+        "category": "News",
+        "publish_time": "19-05-2025 07:39",
+        "news_link": "https://news.republika.co.id/berita/swhzxf393/setelah-rs-indonesia-israel-bombardir-rs-alnasser-di-khan-younis"
+    },
+    {
+        "title": "Bea Cukai Dukung Ekspor Perdana Panel Surya PT Atum Power Bintan ke Amerika Serikat",
+        "category": "Beacukai",
+        "publish_time": "19-05-2025 07:38",
+        "news_link": "https://republika.co.id/berita//swhzvz472/bea-cukai-dukung-ekspor-perdana-panel-surya-pt-atum-power-bintan-ke-amerika-serikat"
+    },
+    {
+        "title": "Kemnaker Siapkan Satgas PHK, Targetkan Rampung Bulan Ini",
+        "category": "Ekonomi",
+        "publish_time": "19-05-2025 07:33",
+        "news_link": "https://ekonomi.republika.co.id/berita/swhznq370/kemnaker-siapkan-satgas-phk-targetkan-rampung-bulan-ini"
+    },
+    {
+        "title": "Alibi Budi Arie Usai Dakwaan Jaksa Sebut Dirinya Terima Setoran dari Agen-Agen Judol",
+        "category": "News",
+        "publish_time": "19-05-2025 07:32",
+        "news_link": "https://news.republika.co.id/berita/swhzmj409/alibi-budi-arie-usai-dakwaan-jaksa-sebut-dirinya-terima-setoran-dari-agenagen-judol"
+    },
+    {
+        "title": "Prakiraan Cuaca Besok: 28 Oktober 2023, Bekasi Hujan",
+        "category": "News",
+        "publish_time": "19-05-2025 07:30",
+        "news_link": "https://news.republika.co.id/berita/swhzif1658656403/prakiraan-cuaca-besok-28-oktober-2023-bekasi-hujan"
+    },
+    {
+        "title": "Dubes RI Ajak Investor Jepang Danai Pembangunan Berkelanjutan",
+        "category": "Esgnow",
+        "publish_time": "19-05-2025 07:30",
+        "news_link": "https://esgnow.republika.co.id/berita/swhzgn416/dubes-ri-ajak-investor-jepang-danai-pembangunan-berkelanjutan"
+    },
+    {
+        "title": "Saudi Tangkap Tiga WNI karena Kasus Dugaan Penipuan Haji",
+        "category": "Khazanah",
+        "publish_time": "19-05-2025 07:25",
+        "news_link": "https://www.republika.id/posts/57887/saudi-tangkap-tiga-wni-karena-kasus-dugaan-penipuan-haji"
+    },
+    {
+        "title": "Etos Kerja Seorang Muslim",
+        "category": "Khazanah",
+        "publish_time": "19-05-2025 07:25",
+        "news_link": "https://khazanah.republika.co.id/berita/swhz9y458/etos-kerja-seorang-muslim"
+    },
+    {
+        "title": "Sineas Dunia Merapat! Palestina Buka 'Dompet' Buat Bikin Film",
+        "category": "Ameera",
+        "publish_time": "19-05-2025 07:24",
+        "news_link": "https://ameera.republika.co.id/berita/swhz8y425/sineas-dunia-merapat-palestina-buka-dompet-buat-bikin-film"
+    },
+    {
+        "title": "Sempat Kabur, Mobil Pembawa 710 Ribu Batang Rokok Ilegal Ditindak Bea Cukai di Tol Cirebon",
+        "category": "Beacukai",
+        "publish_time": "19-05-2025 07:23",
+        "news_link": "https://republika.co.id/berita//swhz7n472/sempat-kabur-mobil-pembawa-710-ribu-batang-rokok-ilegal-ditindak-bea-cukai-di-tol-cirebon"
+    },
+    {
+        "title": "Atasi Banjir Langganan di Jalan Nasional, Ini Skema yang Dibuat Pemkot Cimahi",
+        "category": "Rejabar",
+        "publish_time": "19-05-2025 07:21",
+        "news_link": "https://rejabar.republika.co.id/berita/swhz0v512/atasi-banjir-langganan-di-jalan-nasional-ini-skema-yang-dibuat-pemkot-cimahi"
+    },
+    {
+        "title": "Menhub Dudy Panggil Gojek, Grab, dan Maxim Jelang Aksi Offbid Ojol",
+        "category": "Ekonomi",
+        "publish_time": "19-05-2025 07:21",
+        "news_link": "https://ekonomi.republika.co.id/berita/swhywk423/menhub-dudy-panggil-gojek-grab-dan-maxim-jelang-aksi-offbid-ojol"
+    },
+    {
         "title": "Lemas Usai Umrah Wajib, Seorang Jamaah Haji Asal Mataram Wafat",
         "category": "Khazanah",
-        "publish_time": "19-05-2025 07:13",
+        "publish_time": "19-05-2025 07:21",
         "news_link": "https://khazanah.republika.co.id/berita/swhyp9483/lemas-usai-umrah-wajib-seorang-jamaah-haji-asal-mataram-wafat"
     },
     {
         "title": "Meluber ke Bahu Jalan, Lapak Pedagang Buah di Ternate Ditertibkan Petugas",
         "category": "Visual",
-        "publish_time": "19-05-2025 07:10",
+        "publish_time": "19-05-2025 07:21",
         "news_link": "https://visual.republika.co.id/berita/swhyk3375/meluber-ke-bahu-jalan-lapak-pedagang-buah-di-ternate-ditertibkan-petugas"
     },
     {
         "title": "11 Preman di Bandung Jadi Tersangka Pungli Parkir Liar dan Palak Pemilik Kios",
         "category": "Rejabar",
-        "publish_time": "19-05-2025 07:08",
+        "publish_time": "19-05-2025 07:21",
         "news_link": "https://rejabar.republika.co.id/berita/swhyhc282/11-preman-di-bandung-jadi-tersangka-pungli-parkir-liar-dan-palak-pemilik-kios"
     },
     {
         "title": "Bea Cukai dan Polri Ungkap Kasus Impor Permen Ganja Pesanan Atlet IBL",
         "category": "Beacukai",
-        "publish_time": "19-05-2025 07:06",
+        "publish_time": "19-05-2025 07:21",
         "news_link": "https://republika.co.id/berita//swhyen472/bea-cukai-dan-polri-ungkap-kasus-impor-permen-ganja-pesanan-atlet-ibl"
     },
     {
         "title": "Sorong Selatan Simpan Potensi Ekowisata Berkelanjutan",
         "category": "Esgnow",
-        "publish_time": "19-05-2025 07:00",
+        "publish_time": "19-05-2025 07:21",
         "news_link": "https://esgnow.republika.co.id/berita/swhvd3416/sorong-selatan-simpan-potensi-ekowisata-berkelanjutan"
     },
     {
         "title": "Polda Jateng Ringkus Empat Anggota GRIB Pelaku Perusakan dan Pencurian Properti Milik KAI",
         "category": "News",
-        "publish_time": "19-05-2025 06:57",
+        "publish_time": "19-05-2025 07:21",
         "news_link": "https://news.republika.co.id/berita/swhxz6409/polda-jateng-ringkus-empat-anggota-grib-pelaku-perusakan-dan-pencurian-properti-milik-kai"
     },
     {
         "title": "Krakatau Steel Buka Peluang Kerja bagi Tenaga Kerja Disabilitas",
         "category": "Esgnow",
-        "publish_time": "19-05-2025 06:57",
+        "publish_time": "19-05-2025 07:21",
         "news_link": "https://esgnow.republika.co.id/berita/swhxz1416/krakatau-steel-buka-peluang-kerja-bagi-tenaga-kerja-disabilitas"
     },
     {
         "title": "Unggah Konten Sakiti Perasaan Umat Islam, Dokter di Singapura Didenda Rp 124 Juta",
         "category": "Khazanah",
-        "publish_time": "19-05-2025 06:52",
+        "publish_time": "19-05-2025 06:21",
         "news_link": "https://khazanah.republika.co.id/berita/swhxqh320/unggah-konten-sakiti-perasaan-umat-islam-dokter-di-singapura-didenda-rp-124-juta"
     },
     {
         "title": "Gercep! Tinjau Lokasi Longsor Nagreg, Kang DS: Kantor Desa Kendan Ambruk, 60 Rumah Warga Terancam",
         "category": "Rejabar",
-        "publish_time": "19-05-2025 06:45",
+        "publish_time": "19-05-2025 06:21",
         "news_link": "https://rejabar.republika.co.id/berita/swhxeq472/gercep-tinjau-lokasi-longsor-nagreg-kang-ds-kantor-desa-kendan-ambruk-60-rumah-warga-terancam"
     },
     {
         "title": "Kepala BP Haji Lepas Penasihat Agama ke Tanah Suci, Apa Saja Tugasnya Selama Musim Haji?",
         "category": "Khazanah",
-        "publish_time": "19-05-2025 06:39",
+        "publish_time": "19-05-2025 06:21",
         "news_link": "https://khazanah.republika.co.id/berita/swhx5t483/kepala-bp-haji-lepas-penasihat-agama-ke-tanah-suci-apa-saja-tugasnya-selama-musim-haji"
     },
     {
         "title": "Lionel Messi Jadi Pemain Terbaik Sepanjang Masa versi IFFHS",
         "category": "News",
-        "publish_time": "19-05-2025 06:37",
+        "publish_time": "19-05-2025 06:21",
         "news_link": "https://news.republika.co.id/berita/swhx2k348/lionel-messi-jadi-pemain-terbaik-sepanjang-masa-versi-iffhs"
     },
     {
         "title": "Bertemu PM Thailand, Prabowo Bahas Konflik Palestina dan Myanmar",
         "category": "News",
-        "publish_time": "19-05-2025 06:29",
+        "publish_time": "19-05-2025 06:21",
         "news_link": "https://news.republika.co.id/berita/swhwo0484/bertemu-pm-thailand-prabowo-bahas-konflik-palestina-dan-myanmar"
     },
     {
         "title": "Jaksa Pertimbangkan Hadirkan Budi Arie Jadi Saksi di Persidangan Kasus Pengamanan Situs Judol",
         "category": "News",
-        "publish_time": "19-05-2025 06:28",
+        "publish_time": "19-05-2025 06:21",
         "news_link": "https://news.republika.co.id/berita/swhwnc348/jaksa-pertimbangkan-hadirkan-budi-arie-jadi-saksi-di-persidangan-kasus-pengamanan-situs-judol"
     },
     {
         "title": "Kartu Nusuk Jamaah Haji Belum Terbit tapi Ingin ke Masjidil Haram, Ini Caranya",
         "category": "Khazanah",
-        "publish_time": "19-05-2025 06:24",
+        "publish_time": "19-05-2025 06:21",
         "news_link": "https://khazanah.republika.co.id/berita/swhwgj430/kartu-nusuk-jamaah-haji-belum-terbit-tapi-ingin-ke-masjidil-haram-ini-caranya"
     },
     {
@@ -92,211 +248,55 @@
     {
         "title": "Ini Capaian Penindakan Bea Cukai Tanjung Balai Karimun Januari-Mei 2025",
         "category": "Beacukai",
-        "publish_time": "19-05-2025 06:15",
+        "publish_time": "19-05-2025 06:21",
         "news_link": "https://republika.co.id/berita//swhvzl472/ini-capaian-penindakan-bea-cukai-tanjung-balai-karimun-januari-mei-2025"
     },
     {
         "title": "Tingkatkan Kesejahteraan Ojol, Organisasi Tawarkan Hapus PPN dan PPh",
         "category": "News",
-        "publish_time": "19-05-2025 06:15",
+        "publish_time": "19-05-2025 06:21",
         "news_link": "https://news.republika.co.id/berita/swhvts484/tingkatkan-kesejahteraan-ojol-organisasi-tawarkan-hapus-ppn-dan-pph"
     },
     {
         "title": "Pertumbuhan Ekonomi RI Diprediksi di Bawah 5 Persen, Bank Mandiri Tetap Optimistis",
         "category": "Ekonomi",
-        "publish_time": "19-05-2025 06:15",
+        "publish_time": "19-05-2025 06:21",
         "news_link": "https://ekonomi.republika.co.id/berita/swhvm1423/pertumbuhan-ekonomi-ri-diprediksi-di-bawah-5-persen-bank-mandiri-tetap-optimistis"
     },
     {
         "title": "Ridwan Kamil tak Hadiri Sidang Gugatan Lisa Mariana di PN Bandung, Sidang Ditunda",
         "category": "Rejabar",
-        "publish_time": "19-05-2025 06:15",
+        "publish_time": "19-05-2025 06:21",
         "news_link": "https://rejabar.republika.co.id/berita/swhv7f512/ridwan-kamil-tak-hadiri-sidang-gugatan-lisa-mariana-di-pn-bandung-sidang-ditunda"
     },
     {
         "title": "Di Hadapan Kader Golkar, Bahlil Dorong Perubahan Sistem Politik di Indonesia",
         "category": "Rejogja",
-        "publish_time": "19-05-2025 06:15",
+        "publish_time": "19-05-2025 06:21",
         "news_link": "https://rejogja.republika.co.id/berita/swhv33291/di-hadapan-kader-golkar-bahlil-dorong-perubahan-sistem-politik-di-indonesia"
     },
     {
         "title": "Kader PSI Dipanggil Polda Metro Terkait Laporan Ijazah Palsu Jokowi",
         "category": "News",
-        "publish_time": "19-05-2025 06:15",
+        "publish_time": "19-05-2025 06:21",
         "news_link": "https://news.republika.co.id/berita/swhv1s484/kader-psi-dipanggil-polda-metro-terkait-laporan-ijazah-palsu-jokowi"
     },
     {
         "title": "Aksi untuk Gaza di Belanda, Terbesar Selama Dua Dekade",
         "category": "Video",
-        "publish_time": "19-05-2025 06:15",
+        "publish_time": "19-05-2025 06:21",
         "news_link": "https://tv.republika.co.id/berita/swhuz4313/aksi-untuk-gaza-di-belanda-terbesar-selama-dua-dekade"
     },
     {
         "title": "Menjaga GOTO: Antara Kapital Asing dan Kedaulatan Digital Nasional",
         "category": "Kolom",
-        "publish_time": "19-05-2025 06:15",
+        "publish_time": "19-05-2025 05:21",
         "news_link": "https://analisis.republika.co.id/berita/swhuvo393/menjaga-goto-antara-kapital-asing-dan-kedaulatan-digital-nasional"
     },
     {
         "title": "Tornado Terjang AS, 25 Orang Tewas di Kentucky dan Missouri",
         "category": "News",
-        "publish_time": "19-05-2025 05:15",
+        "publish_time": "19-05-2025 05:21",
         "news_link": "https://news.republika.co.id/berita/swhumn416/tornado-terjang-as-25-orang-tewas-di-kentucky-dan-missouri"
-    },
-    {
-        "title": "Kepala Sekolah Jangan Lagi Takut Sama Preman",
-        "category": "Kolom",
-        "publish_time": "19-05-2025 05:15",
-        "news_link": "https://analisis.republika.co.id/berita/swhp7i393/kepala-sekolah-jangan-lagi-takut-sama-preman"
-    },
-    {
-        "title": "Pengemudi Ojol Bakal Gelar Aksi dan Matikan Aplikasi Besok, Ini Lima Tuntutannya",
-        "category": "Ekonomi",
-        "publish_time": "19-05-2025 05:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/swhu55423/pengemudi-ojol-bakal-gelar-aksi-dan-matikan-aplikasi-besok-ini-lima-tuntutannya"
-    },
-    {
-        "title": "Konflik dan Perubahan Iklim Picu Krisis Kelaparan Global",
-        "category": "Esgnow",
-        "publish_time": "19-05-2025 05:15",
-        "news_link": "https://esgnow.republika.co.id/berita/swhu23416/konflik-dan-perubahan-iklim-picu-krisis-kelaparan-global"
-    },
-    {
-        "title": "Benci Umat Islam dan Patuh Israel, Apa Sebenarnya Hindutva yang Kini Menjangkiti India?",
-        "category": "Khazanah",
-        "publish_time": "19-05-2025 05:15",
-        "news_link": "https://khazanah.republika.co.id/berita/swhtuw320/benci-umat-islam-dan-patuh-israel-apa-sebenarnya-hindutva-yang-kini-menjangkiti-india"
-    },
-    {
-        "title": "Di Tengah Deru Peluru, Hafalan Alquran tak Padam: AMAL Ulurkan Tangan untuk Anak Yatim Gaza",
-        "category": "Khazanah",
-        "publish_time": "19-05-2025 05:15",
-        "news_link": "https://khazanah.republika.co.id/berita/swhtfh472/di-tengah-deru-peluru-hafalan-alquran-tak-padam-amal-ulurkan-tangan-untuk-anak-yatim-gaza"
-    },
-    {
-        "title": "Adil atau Zalim?",
-        "category": "Khazanah",
-        "publish_time": "19-05-2025 05:15",
-        "news_link": "https://www.republika.id/posts/57883/adil-atau-zalim"
-    },
-    {
-        "title": "Pasukan Israel Hancurkan RS Indonesia di Gaza, Puluhan Orang Terjebak",
-        "category": "News",
-        "publish_time": "19-05-2025 05:15",
-        "news_link": "https://news.republika.co.id/berita/swhswi370/pasukan-israel-hancurkan-rs-indonesia-di-gaza-puluhan-orang-terjebak"
-    },
-    {
-        "title": "Kemenaker Bakal Terbitkan SE Sanksi Perusahaan Tahan Ijazah Pegawai",
-        "category": "News",
-        "publish_time": "19-05-2025 05:15",
-        "news_link": "https://news.republika.co.id/berita/swhsin484/kemenaker-bakal-terbitkan-se-sanksi-perusahaan-tahan-ijazah-pegawai"
-    },
-    {
-        "title": "Rupiah Diperkirakan Menguat, Penurunan Rating Utang AS Jadi Faktor Pendorong",
-        "category": "Ekonomi",
-        "publish_time": "19-05-2025 05:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/swhsgz423/rupiah-diperkirakan-menguat-penurunan-rating-utang-as-jadi-faktor-pendorong"
-    },
-    {
-        "title": "Respons Pasangan Jamaah Terpisah di Makkah, Ini Penjelasan Dirjen PHU dan Solusinya",
-        "category": "Video",
-        "publish_time": "19-05-2025 05:15",
-        "news_link": "https://tv.republika.co.id/berita/swhsco313/respons-pasangan-jamaah-terpisah-di-makkah-ini-penjelasan-dirjen-phu-dan-solusinya"
-    },
-    {
-        "title": "RS Indonesia di Gaza Kembali Dikepung, MER-C Desak Penjajah Hentikan Serangan",
-        "category": "Khazanah",
-        "publish_time": "19-05-2025 05:15",
-        "news_link": "https://khazanah.republika.co.id/berita/swhsba430/rs-indonesia-di-gaza-kembali-dikepung-merc-desak-penjajah-hentikan-serangan"
-    },
-    {
-        "title": "Mission: Impossible Dapat Standing Ovation 5 Menit, Ini Keharuan Tom Cruise",
-        "category": "Ameera",
-        "publish_time": "19-05-2025 05:15",
-        "news_link": "https://ameera.republika.co.id/berita/swhs6f425/mission-impossible-dapat-standing-ovation-5-menit-ini-keharuan-tom-cruise"
-    },
-    {
-        "title": "Kemenkes Thailand Ingatkan Jamaah Haji Ancaman Wabah MERS",
-        "category": "Khazanah",
-        "publish_time": "19-05-2025 05:15",
-        "news_link": "https://khazanah.republika.co.id/berita/swhs0h430/kemenkes-thailand-ingatkan-jamaah-haji-ancaman-wabah-mers"
-    },
-    {
-        "title": "Lisa Mariana Datangi PN Bandung Jalani Sidang Gugatan ke Ridwan Kamil",
-        "category": "Rejabar",
-        "publish_time": "19-05-2025 05:15",
-        "news_link": "https://rejabar.republika.co.id/berita/swhrzs512/lisa-mariana-datangi-pn-bandung-jalani-sidang-gugatan-ke-ridwan-kamil"
-    },
-    {
-        "title": "Destinasi Wisata di Pantai Nusa Dua Akomodasi Acara 24 Jam Penuh",
-        "category": "News",
-        "publish_time": "19-05-2025 04:15",
-        "news_link": "https://news.republika.co.id/berita/swhruk484/destinasi-wisata-di-pantai-nusa-dua-akomodasi-acara-24-jam-penuh"
-    },
-    {
-        "title": "Erick Tunjuk Rizal Pahlevi Gantikan Faik Fahmi Jadi Dirut InJourney Airports",
-        "category": "Ekonomi",
-        "publish_time": "19-05-2025 04:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/swhrh0484/erick-tunjuk-rizal-pahlevi-gantikan-faik-fahmi-jadi-dirut-injourney-airports"
-    },
-    {
-        "title": "BI Dinilai Punya Momentum Turunkan Suku Bunga pada RDG Mei 2025",
-        "category": "Ekonomi",
-        "publish_time": "19-05-2025 04:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/swhr8s423/bi-dinilai-punya-momentum-turunkan-suku-bunga-pada-rdg-mei-2025"
-    },
-    {
-        "title": "Waduh...The Who Pecat Drummer Zak Starkey Untuk Kedua Kalinya",
-        "category": "Network",
-        "publish_time": "19-05-2025 04:15",
-        "news_link": "https://impresiupdate.id/posts/526003/waduh-the-who-pecat-drummer-zak-starkey-untuk-kedua-kalinya"
-    },
-    {
-        "title": "Kembali Mengecam Trump, Bruce Springsteen: DPR Gagal Total Melindungi Rakyat Amerika!",
-        "category": "Network",
-        "publish_time": "19-05-2025 04:15",
-        "news_link": "https://impresiupdate.id/posts/526015/kembali-mengecam-trump-bruce-springsteen-dpr-gagal-total-melindungi-rakyat-amerika-"
-    },
-    {
-        "title": "Paus Leo XIV Bicara Soal Keprihatinan di Gaza: Anak, Keluarga, Lansia Terjerumus dalam Kelaparan",
-        "category": "Khazanah",
-        "publish_time": "19-05-2025 04:15",
-        "news_link": "https://khazanah.republika.co.id/berita/swhqyq451/paus-leo-xiv-bicara-soal-keprihatinan-di-gaza-anak-keluarga-lansia-terjerumus-dalam-kelaparan"
-    },
-    {
-        "title": "Pertama Kali Sejak Satu Dekade, Saudi Mulai Penerbangan Haji untuk Jamaah Iran",
-        "category": "Khazanah",
-        "publish_time": "19-05-2025 04:15",
-        "news_link": "https://khazanah.republika.co.id/berita/swhqnv483/pertama-kali-sejak-satu-dekade-saudi-mulai-penerbangan-haji-untuk-jamaah-iran"
-    },
-    {
-        "title": "Perang Ukraina, Witkoff: Kuncinya Trump dan Putin Berbicara",
-        "category": "News",
-        "publish_time": "19-05-2025 04:15",
-        "news_link": "https://news.republika.co.id/berita/swhqiv451/perang-ukraina-witkoff-kuncinya-trump-dan-putin-berbicara"
-    },
-    {
-        "title": "Pengakuan Perwira Israel: Tidak Jelas Kemenangan Seperti Apa yang Dijanjikan kepada Kami di Gaza",
-        "category": "Khazanah",
-        "publish_time": "19-05-2025 04:15",
-        "news_link": "https://khazanah.republika.co.id/berita/swhq3i320/pengakuan-perwira-israel-tidak-jelas-kemenangan-seperti-apa-yang-dijanjikan-kepada-kami-di-gaza"
-    },
-    {
-        "title": "Cegah Flu Burung, Petugas Kesehatan di Aceh Berikan Vaksin pada Ayam Petelur",
-        "category": "Visual",
-        "publish_time": "19-05-2025 04:15",
-        "news_link": "https://visual.republika.co.id/berita/swhkj4375/cegah-flu-burung-petugas-kesehatan-di-aceh-berikan-vaksin-pada-ayam-petelur"
-    },
-    {
-        "title": "Presiden Trump dari Riyadh: Semoga (Rakyat) Suriah Beruntung!",
-        "category": "Kolom",
-        "publish_time": "19-05-2025 04:15",
-        "news_link": "https://www.republika.id/posts/57882/presiden-trump-dari-riyadh-semoga-rakyat-suriah-beruntung"
-    },
-    {
-        "title": "LSI: Amran Sulaiman Potensial dan Cocok Pimpin PPP",
-        "category": "News",
-        "publish_time": "19-05-2025 03:15",
-        "news_link": "https://news.republika.co.id/berita/swhp2h318/lsi-amran-sulaiman-potensial-dan-cocok-pimpin-ppp"
     }
 ]
