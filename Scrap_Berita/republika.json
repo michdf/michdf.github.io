@@ -1,56 +1,242 @@
 [
     {
+        "title": "Sandi \u2018Kereta Gideon\u2019 Cerminkan Rencana Pembersihan Etnis di Gaza",
+        "category": "News",
+        "publish_time": "19-05-2025 03:14",
+        "news_link": "https://news.republika.co.id/berita/swhnnx393/sandi-kereta-gideon-cerminkan-rencana-pembersihan-etnis-di-gaza"
+    },
+    {
+        "title": "Debut Maut Film Final Destination Bloodlines, Geser Thunderbolts dari Takhta Box Office",
+        "category": "Ameera",
+        "publish_time": "19-05-2025 03:10",
+        "news_link": "https://ameera.republika.co.id/berita/swhnhq425/debut-maut-film-final-destination-bloodlines-geser-thunderbolts-dari-takhta-box-office"
+    },
+    {
+        "title": "Mata Kamera Menyala, Mikrofon Siap\u2014Kisah Hebatmu Dimulai di UBSI Kampus Bekasi!",
+        "category": "News",
+        "publish_time": "19-05-2025 03:10",
+        "news_link": "https://news.republika.co.id/berita/swhnho472/mata-kamera-menyala-mikrofon-siapkisah-hebatmu-dimulai-di-ubsi-kampus-bekasi"
+    },
+    {
+        "title": "Produksi Beras Naik, Stok Cadangan Beras Sentuh 3,8 Juta Ton per Mei 2025",
+        "category": "Ekonomi",
+        "publish_time": "19-05-2025 03:08",
+        "news_link": "https://ekonomi.republika.co.id/berita/swhnet423/produksi-beras-naik-stok-cadangan-beras-sentuh-38-juta-ton-per-mei-2025"
+    },
+    {
+        "title": "Kapolri Beri Motivasi 119 Siswa Terpilih SMA Kemala Taruna Bhayangkara",
+        "category": "News",
+        "publish_time": "19-05-2025 03:03",
+        "news_link": "https://news.republika.co.id/berita/swhn6g484/kapolri-beri-motivasi-119-siswa-terpilih-sma-kemala-taruna-bhayangkara"
+    },
+    {
+        "title": "Longsor Menimbun Rumah dan Kantor Desa di Nagreg Bandung, Tiga Orang Terluka",
+        "category": "Rejabar",
+        "publish_time": "19-05-2025 03:03",
+        "news_link": "https://rejabar.republika.co.id/berita/swhn6d512/longsor-menimbun-rumah-dan-kantor-desa-di-nagreg-bandung-tiga-orang-terluka"
+    },
+    {
+        "title": "Ingin Jadi Ahli Teknologi? Ini 5 Kampus S2 Komputer Terbaik di Jakarta yang Wajib Kamu Tahu",
+        "category": "News",
+        "publish_time": "19-05-2025 03:00",
+        "news_link": "https://news.republika.co.id/berita/swhn0o472/ingin-jadi-ahli-teknologi-ini-5-kampus-s2-komputer-terbaik-di-jakarta-yang-wajib-kamu-tahu"
+    },
+    {
+        "title": "PPATK Klarifikasi Pemblokiran Rekening Dormant, Ini Tujuannya",
+        "category": "Ekonomi",
+        "publish_time": "19-05-2025 02:59",
+        "news_link": "https://ekonomi.republika.co.id/berita/swhmyf370/ppatk-klarifikasi-pemblokiran-rekening-dormant-ini-tujuannya"
+    },
+    {
+        "title": "Milklife Soccer Challenge 2025 Seri Solo, Dua SD Ini Tampil Gemilang untuk Raih Juara",
+        "category": "News",
+        "publish_time": "19-05-2025 02:58",
+        "news_link": "https://news.republika.co.id/berita/swhmxx456/milklife-soccer-challenge-2025-seri-solo-dua-sd-ini-tampil-gemilang-untuk-raih-juara"
+    },
+    {
+        "title": "Membanggakan! Sutradara Indonesia Angga Sasongko Bawa Film Ratu Malaka ke Cannes",
+        "category": "Ameera",
+        "publish_time": "19-05-2025 02:48",
+        "news_link": "https://ameera.republika.co.id/berita/swhmgw425/membanggakan-sutradara-indonesia-angga-sasongko-bawa-film-ratu-malaka-ke-cannes"
+    },
+    {
+        "title": "IHSG Berpotensi Lanjut Menguat, Suku Bunga dan Rebalancing MSCI Jadi Pemicu",
+        "category": "Ekonomi",
+        "publish_time": "19-05-2025 02:33",
+        "news_link": "https://ekonomi.republika.co.id/berita/swhlrh423/ihsg-berpotensi-lanjut-menguat-suku-bunga-dan-rebalancing-msci-jadi-pemicu"
+    },
+    {
+        "title": "RS Indonesia di Gaza Diincar Israel Sejak Awal Genosida",
+        "category": "News",
+        "publish_time": "19-05-2025 02:27",
+        "news_link": "https://news.republika.co.id/berita/swhli8393/rs-indonesia-di-gaza-diincar-israel-sejak-awal-genosida"
+    },
+    {
+        "title": "Gelar Operasi Darat Skala Besar, Israel: Hantam 670 Target",
+        "category": "News",
+        "publish_time": "19-05-2025 02:23",
+        "news_link": "https://news.republika.co.id/berita/swhlbh451/gelar-operasi-darat-skala-besar-israel-hantam-670-target"
+    },
+    {
+        "title": "PPATK Jelaskan Alasan Blokir 28 Ribu Rekening Sepanjang 2024",
+        "category": "News",
+        "publish_time": "19-05-2025 02:19",
+        "news_link": "https://news.republika.co.id/berita/swhl3v484/ppatk-jelaskan-alasan-blokir-28-ribu-rekening-sepanjang-2024"
+    },
+    {
+        "title": "Ribuan \u2018Racun\u2019 Tersembunyi Mengintai di Balik Kemasan Makanan, Apa Dampaknya?",
+        "category": "Ameera",
+        "publish_time": "19-05-2025 02:14",
+        "news_link": "https://ameera.republika.co.id/berita/swhkvc425/ribuan-racun-tersembunyi-mengintai-di-balik-kemasan-makanan-apa-dampaknya"
+    },
+    {
+        "title": "Jabat Tangan Bapak Suci Leo XIV, Cak Imin: Penegasan Bangun Dunia dengan Pelayanan, bukan Dominasi",
+        "category": "News",
+        "publish_time": "19-05-2025 02:14",
+        "news_link": "https://news.republika.co.id/berita/swhkqi451/jabat-tangan-bapak-suci-leo-xiv-cak-imin-penegasan-bangun-dunia-dengan-pelayanan-bukan-dominasi"
+    },
+    {
+        "title": "UMK Academy Pertamina Berdampak Nyata, Batik Lokal 'Apikmen' Buktikan Mampu Go Global",
+        "category": "Ekonomi",
+        "publish_time": "19-05-2025 02:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/swhko2472/umk-academy-pertamina-berdampak-nyata-batik-lokal-apikmen-buktikan-mampu-go-global"
+    },
+    {
+        "title": "Ditekan Dunia Internasional, Netanyahu Akhirnya Izinkan Bantuan Makanan Masuk Gaza",
+        "category": "News",
+        "publish_time": "19-05-2025 02:14",
+        "news_link": "https://news.republika.co.id/berita/swhkiv409/ditekan-dunia-internasional-netanyahu-akhirnya-izinkan-bantuan-makanan-masuk-gaza"
+    },
+    {
+        "title": "Presiden Amerika ke-46 Joe Biden Divonis Idap Kanker Prostat yang Menyebar Sampai Tulang",
+        "category": "News",
+        "publish_time": "19-05-2025 02:14",
+        "news_link": "https://news.republika.co.id/berita/swhkb4451/presiden-amerika-ke46-joe-biden-divonis-idap-kanker-prostat-yang-menyebar-sampai-tulang"
+    },
+    {
+        "title": "Tarian Penantang Maut Srikandi Tong Setan",
+        "category": "Visual",
+        "publish_time": "19-05-2025 02:14",
+        "news_link": "https://visual.republika.co.id/berita/swhk0r375/tarian-penantang-maut-srikandi-tong-setan"
+    },
+    {
+        "title": "Lembang Dikepung Longsor dan Banjir, Alih Fungsi Lahan Dinilai Jadi Salah Satu Biang Kerok",
+        "category": "Rejabar",
+        "publish_time": "19-05-2025 02:14",
+        "news_link": "https://rejabar.republika.co.id/berita/swhjxn512/lembang-dikepung-longsor-dan-banjir-alih-fungsi-lahan-dinilai-jadi-salah-satu-biang-kerok"
+    },
+    {
+        "title": "Luncurkan 200 Mobil Siaga dan Ambulans, PKB Jabar: Ini Bukan Gimik Politik",
+        "category": "Rejabar",
+        "publish_time": "19-05-2025 02:14",
+        "news_link": "https://rejabar.republika.co.id/berita/swhjlv512/luncurkan-200-mobil-siaga-dan-ambulans-pkb-jabar-ini-bukan-gimik-politik"
+    },
+    {
+        "title": "Pemerintah Keluarkan Permenkeu PE Subsidi Biodesel, SPKS Menolak",
+        "category": "Ekonomi",
+        "publish_time": "19-05-2025 02:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/swhjyh484/pemerintah-keluarkan-permenkeu-pe-subsidi-biodesel-spks-menolak"
+    },
+    {
+        "title": "Pertamina Sulap Ekonomi Pesisir Berbasis Ramah Lingkungan",
+        "category": "Esgnow",
+        "publish_time": "19-05-2025 01:14",
+        "news_link": "https://esgnow.republika.co.id/berita/swhjhr522/pertamina-sulap-ekonomi-pesisir-berbasis-ramah-lingkungan"
+    },
+    {
+        "title": "Lansia yang tak Menyerah Menuju Kabah",
+        "category": "Video",
+        "publish_time": "19-05-2025 01:14",
+        "news_link": "https://tv.republika.co.id/berita/swhjd4418/lansia-yang-tak-menyerah-menuju-kabah"
+    },
+    {
+        "title": "Gaza Memburuk di Tengah Serangan Israel, Ada 150 Warga Syahid Sejak Subuh Ini",
+        "category": "Khazanah",
+        "publish_time": "19-05-2025 01:14",
+        "news_link": "https://khazanah.republika.co.id/berita/swhjbz483/gaza-memburuk-di-tengah-serangan-israel-ada-150-warga-syahid-sejak-subuh-ini"
+    },
+    {
+        "title": "Menaker Ingin Masjid Besar Jadi Pusat Pelatihan Vokasi",
+        "category": "Khazanah",
+        "publish_time": "19-05-2025 01:14",
+        "news_link": "https://khazanah.republika.co.id/berita/swhiod483/menaker-ingin-masjid-besar-jadi-pusat-pelatihan-vokasi"
+    },
+    {
+        "title": "Efektifkah Siswa Masuk Barak?",
+        "category": "Video",
+        "publish_time": "19-05-2025 01:14",
+        "news_link": "https://tv.republika.co.id/berita/swhi9i418/efektifkah-siswa-masuk-barak"
+    },
+    {
+        "title": "Dukung Kesejahteraan Ojol, tapi Oraski tak Ikut Turun ke Jalan 20 Mei 2025",
+        "category": "News",
+        "publish_time": "19-05-2025 01:14",
+        "news_link": "https://news.republika.co.id/berita/swhi8v484/dukung-kesejahteraan-ojol-tapi-oraski-tak-ikut-turun-ke-jalan-20-mei-2025"
+    },
+    {
+        "title": "Daerah Ini Melarang Pedagang Hewan Kurban Jualan di Pinggir Jalan",
+        "category": "Khazanah",
+        "publish_time": "19-05-2025 01:14",
+        "news_link": "https://khazanah.republika.co.id/berita/swhi67483/daerah-ini-melarang-pedagang-hewan-kurban-jualan-di-pinggir-jalan"
+    },
+    {
+        "title": "Polisi Tangkap Puluhan Preman yang Buat Resah Warga Cimahi-KBB",
+        "category": "Rejabar",
+        "publish_time": "19-05-2025 01:14",
+        "news_link": "https://rejabar.republika.co.id/berita/swhi2l512/polisi-tangkap-puluhan-preman-yang-buat-resah-warga-cimahikbb"
+    },
+    {
         "title": "Ramai Arab Saudi Deportasi Jamaah Liar, Mufti Mesir Haramkan Haji Ilegal Serukan Lawan Mafia",
         "category": "Khazanah",
-        "publish_time": "19-05-2025 00:51",
+        "publish_time": "19-05-2025 01:14",
         "news_link": "https://khazanah.republika.co.id/berita/swhh2i320/ramai-arab-saudi-deportasi-jamaah-liar-mufti-mesir-haramkan-haji-ilegal-serukan-lawan-mafia"
     },
     {
         "title": "Sepekan Terakhir, IHSG Ditutup 7.106, Nilai Kapitalisasi Tembus Rp 12.318 Triliun",
         "category": "Ekonomi",
-        "publish_time": "19-05-2025 00:51",
+        "publish_time": "19-05-2025 01:14",
         "news_link": "https://ekonomi.republika.co.id/berita/swhh16484/sepekan-terakhir-ihsg-ditutup-7106-nilai-kapitalisasi-tembus-rp-12318-triliun"
     },
     {
         "title": "Demo Terbesar di Belanda dalam 20 Tahun Terakhir Desak Dihentikannya Genosida di Gaza",
         "category": "News",
-        "publish_time": "19-05-2025 00:49",
+        "publish_time": "19-05-2025 01:14",
         "news_link": "https://news.republika.co.id/berita/swhgxs409/demo-terbesar-di-belanda-dalam-20-tahun-terakhir-desak-dihentikannya-genosida-di-gaza"
     },
     {
         "title": "40 Menit Mengudara, Pesawat Haji Kembali ke Bandara Kualanamu",
         "category": "Khazanah",
-        "publish_time": "19-05-2025 00:45",
+        "publish_time": "19-05-2025 01:14",
         "news_link": "https://khazanah.republika.co.id/berita/swhgsa430/40-menit-mengudara-pesawat-haji-kembali-ke-bandara-kualanamu"
     },
     {
         "title": "Pembukaan Penempatan PMI ke Arab Saudi Keputusan Tepat",
         "category": "News",
-        "publish_time": "19-05-2025 00:42",
+        "publish_time": "19-05-2025 00:14",
         "news_link": "https://news.republika.co.id/berita/swhgmm484/pembukaan-penempatan-pmi-ke-arab-saudi-keputusan-tepat"
     },
     {
         "title": "Pakar China Jelaskan Keunggulan Jet Tempur Chengdu J-10CE",
         "category": "Network",
-        "publish_time": "19-05-2025 00:31",
+        "publish_time": "19-05-2025 00:14",
         "news_link": "https://seputarmiliter.id/posts/525949/pakar-china-jelaskan-keunggulan-jet-tempur-chengdu-j-10ce"
     },
     {
         "title": "75 Persen Kendaraan Darurat di Gaza Tidak Bisa Beroperasi Lagi",
         "category": "Network",
-        "publish_time": "19-05-2025 00:30",
+        "publish_time": "19-05-2025 00:14",
         "news_link": "https://sekitarkaltim.id/posts/525955/75-persen-kendaraan-darurat-di-gaza-tidak-bisa-beroperasi-lagi"
     },
     {
         "title": "Elkan, Ragnar, dan Hokky tak Dipanggil ke Timnas",
         "category": "Network",
-        "publish_time": "19-05-2025 00:30",
+        "publish_time": "19-05-2025 00:14",
         "news_link": "https://sajada.id/posts/525957/elkan-ragnar-dan-hokky-tak-dipanggil-ke-timnas"
     },
     {
         "title": "Prakiraan Cuaca Samarinda Senin 19 Mei 2025: Terpantau Adanya Potensi Hujan",
         "category": "Network",
-        "publish_time": "19-05-2025 00:29",
+        "publish_time": "19-05-2025 00:14",
         "news_link": "https://sekitarkaltim.id/posts/525961/prakiraan-cuaca-samarinda-senin-19-mei-2025-terpantau-adanya-potensi-hujan"
     },
     {
@@ -62,241 +248,55 @@
     {
         "title": "Houthi tak Berhenti Bom Bandara Ben Gurion, Rusak Lalu Lintas Penerbangan Internasional Israel",
         "category": "Khazanah",
-        "publish_time": "19-05-2025 00:13",
+        "publish_time": "19-05-2025 00:14",
         "news_link": "https://khazanah.republika.co.id/berita/swgs9k483/houthi-tak-berhenti-bom-bandara-ben-gurion-rusak-lalu-lintas-penerbangan-internasional-israel"
     },
     {
         "title": "YIS Gandeng Gemawira Gelar Bootcamp Dorong UMKM Naik Kelas",
         "category": "News",
-        "publish_time": "19-05-2025 00:13",
+        "publish_time": "19-05-2025 00:14",
         "news_link": "https://news.republika.co.id/berita/swhe79484/yis-gandeng-gemawira-gelar-bootcamp-dorong-umkm-naik-kelas"
     },
     {
         "title": "Persis Solo dan Madura United Tetap di Liga 1, Tiga Tim Masih Bersaing Lolos dari Zona Degradasi",
         "category": "News",
-        "publish_time": "19-05-2025 00:13",
+        "publish_time": "19-05-2025 00:14",
         "news_link": "https://news.republika.co.id/berita/swhe3z409/persis-solo-dan-madura-united-tetap-di-liga-1-tiga-tim-masih-bersaing-lolos-dari-zona-degradasi"
     },
     {
         "title": "Inter Milan dan Napoli Sama-Sama Imbang, Juara Serie A Ditentukan pada Pekan Terakhir",
         "category": "News",
-        "publish_time": "19-05-2025 00:13",
+        "publish_time": "19-05-2025 00:14",
         "news_link": "https://news.republika.co.id/berita/swhe1j348/inter-milan-dan-napoli-samasama-imbang-juara-serie-a-ditentukan-pada-pekan-terakhir"
     },
     {
         "title": "PDIP Gembleng Kepala Daerah Atasi Stunting Hingga Dukung Ketahanan Pangan",
         "category": "News",
-        "publish_time": "18-05-2025 23:13",
+        "publish_time": "18-05-2025 23:14",
         "news_link": "https://news.republika.co.id/berita/swhdu0484/pdip-gembleng-kepala-daerah-atasi-stunting-hingga-dukung-ketahanan-pangan"
     },
     {
         "title": "RS Indonesia Dikepung, Layanan Medis di Gaza Utara Lumpuh Total",
         "category": "Khazanah",
-        "publish_time": "18-05-2025 23:13",
+        "publish_time": "18-05-2025 23:14",
         "news_link": "https://khazanah.republika.co.id/berita/swhdrd430/rs-indonesia-dikepung-layanan-medis-di-gaza-utara-lumpuh-total"
     },
     {
         "title": "Tiada Lelah Melayani Jamaah",
         "category": "Khazanah",
-        "publish_time": "18-05-2025 23:13",
+        "publish_time": "18-05-2025 23:14",
         "news_link": "https://khazanah.republika.co.id/berita/swgp3x483/tiada-lelah-melayani-jamaah"
     },
     {
         "title": "DPP Projo Bantah Budi Arie Terima Setoran Judol: Framing Jahat",
         "category": "News",
-        "publish_time": "18-05-2025 23:13",
+        "publish_time": "18-05-2025 23:14",
         "news_link": "https://news.republika.co.id/berita/swhdd3484/dpp-projo-bantah-budi-arie-terima-setoran-judol-framing-jahat"
     },
     {
         "title": "Calon Jamaah Haji Asal Solo Dirawat di Deli Serdang",
         "category": "Khazanah",
-        "publish_time": "18-05-2025 23:13",
+        "publish_time": "18-05-2025 23:14",
         "news_link": "https://khazanah.republika.co.id/berita/swhd0i430/calon-jamaah-haji-asal-solo-dirawat-di-deli-serdang"
-    },
-    {
-        "title": "Saudi Usir Hampir 15 Ribu Penduduk Ilegal Saat Musim Haji dalam Satu Pekan",
-        "category": "Khazanah",
-        "publish_time": "18-05-2025 23:13",
-        "news_link": "https://khazanah.republika.co.id/berita/swgnlt483/saudi-usir-hampir-15-ribu-penduduk-ilegal-saat-musim-haji-dalam-satu-pekan"
-    },
-    {
-        "title": "Lagi, Tiga WNI Ditangkap di Makkah karena Iklan Haji Palsu di Medsos",
-        "category": "Khazanah",
-        "publish_time": "18-05-2025 23:13",
-        "news_link": "https://khazanah.republika.co.id/berita/swgjqi483/lagi-tiga-wni-ditangkap-di-makkah-karena-iklan-haji-palsu-di-medsos"
-    },
-    {
-        "title": "Israel Bom RS Indonesia, MER-C Sebut Getarannya Seperti Gempa Bumi",
-        "category": "Khazanah",
-        "publish_time": "18-05-2025 22:13",
-        "news_link": "https://khazanah.republika.co.id/berita/swhanu483/israel-bom-rs-indonesia-merc-sebut-getarannya-seperti-gempa-bumi"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini di Kota Malang dan Sekitarnya: Cerah, 25 Oktober 2023",
-        "category": "News",
-        "publish_time": "18-05-2025 22:13",
-        "news_link": "https://news.republika.co.id/berita/swh9b31520457207/prakiraan-cuaca-hari-ini-di-kota-malang-dan-sekitarnya-cerah-25-oktober-2023"
-    },
-    {
-        "title": "Prakiraan Cuaca Hari Ini, 25 Oktober 2023, Kota Semarang dan Sekitarnya",
-        "category": "News",
-        "publish_time": "18-05-2025 21:13",
-        "news_link": "https://news.republika.co.id/berita/swh6y21705868691/prakiraan-cuaca-hari-ini-25-oktober-2023-kota-semarang-dan-sekitarnya"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini dan Keutamaan Sholat: Palembang, 19 Mei 2025",
-        "category": "Khazanah",
-        "publish_time": "18-05-2025 20:13",
-        "news_link": "https://khazanah.republika.co.id/berita/swh5ex976868200/jadwal-sholat-hari-ini-dan-keutamaan-sholat-palembang-19-mei-2025"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini Tanggal 19 Mei 2025 di Yogyakarta: Temukan Waktu Terbaik untuk Beribadah",
-        "category": "Khazanah",
-        "publish_time": "18-05-2025 20:13",
-        "news_link": "https://khazanah.republika.co.id/berita/swh40x898573870/jadwal-sholat-hari-ini-tanggal-19-mei-2025-di-yogyakarta-temukan-waktu-terbaik-untuk-beribadah"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini, 19 Mei 2025, di Jakarta: Panduan Tepat Waktu Beribadah",
-        "category": "Khazanah",
-        "publish_time": "18-05-2025 19:13",
-        "news_link": "https://khazanah.republika.co.id/berita/swh2hw1236840536/jadwal-sholat-hari-ini-19-mei-2025-di-jakarta-panduan-tepat-waktu-beribadah"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini dan Inspirasi Al-Quran: 19 Mei 2025 di Medan",
-        "category": "Khazanah",
-        "publish_time": "18-05-2025 19:13",
-        "news_link": "https://khazanah.republika.co.id/berita/swh12b732318641/jadwal-sholat-hari-ini-dan-inspirasi-alquran-19-mei-2025-di-medan"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini di Depok, 19 Mei 2025: Penyejuk Jiwa di Setiap Waktu",
-        "category": "Khazanah",
-        "publish_time": "18-05-2025 19:13",
-        "news_link": "https://khazanah.republika.co.id/berita/swh0391801435581/jadwal-sholat-hari-ini-di-depok-19-mei-2025-penyejuk-jiwa-di-setiap-waktu"
-    },
-    {
-        "title": "Kenalkan Ini Pesaing BYD Seagull yang Segera Dipasarkan di RI dari Geely, Harga Rp 175 Juta",
-        "category": "Ekonomi",
-        "publish_time": "18-05-2025 18:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/swgyi6468/kenalkan-ini-pesaing-byd-seagull-yang-segera-dipasarkan-di-ri-dari-geely-harga-rp-175-juta"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini di Bandung, 19 Mei 2025: Sebuah Panduan Islami bagi Anda yang Beriman",
-        "category": "Khazanah",
-        "publish_time": "18-05-2025 18:13",
-        "news_link": "https://khazanah.republika.co.id/berita/swgxx11778655466/jadwal-sholat-hari-ini-di-bandung-19-mei-2025-sebuah-panduan-islami-bagi-anda-yang-beriman"
-    },
-    {
-        "title": "Menyambut Kedamaian: Jadwal Sholat Hari Ini, 19 Mei 2025 di Surabaya",
-        "category": "Khazanah",
-        "publish_time": "18-05-2025 17:13",
-        "news_link": "https://khazanah.republika.co.id/berita/swgwm91534327819/menyambut-kedamaian-jadwal-sholat-hari-ini-19-mei-2025-di-surabaya"
-    },
-    {
-        "title": "Makassar Sambut Hari dengan Ketakwaan: Jadwal Sholat Hari Ini, 19 Mei 2025",
-        "category": "Khazanah",
-        "publish_time": "18-05-2025 17:13",
-        "news_link": "https://khazanah.republika.co.id/berita/swgvbp527627257/makassar-sambut-hari-dengan-ketakwaan-jadwal-sholat-hari-ini-19-mei-2025"
-    },
-    {
-        "title": "Polda Jateng Limpahkan Berkas Kasus Predator Seks Jepara ke Kejaksaan",
-        "category": "Rejogja",
-        "publish_time": "18-05-2025 17:13",
-        "news_link": "https://rejogja.republika.co.id/berita/swgv6x282/polda-jateng-limpahkan-berkas-kasus-predator-seks-jepara-ke-kejaksaan"
-    },
-    {
-        "title": "20 Unit Mobil Damkar Dikerahkan untuk Padamkan Kebakaran Pabrik Karet di Padang",
-        "category": "Visual",
-        "publish_time": "18-05-2025 17:13",
-        "news_link": "https://visual.republika.co.id/berita/swgsyo375/20-unit-mobil-damkar-dikerahkan-untuk-padamkan-kebakaran-pabrik-karet-di-padang"
-    },
-    {
-        "title": "Lusa, 500 Ribu Ojol se-Indonesia Bakal Gelar Unjuk Rasa",
-        "category": "Network",
-        "publish_time": "18-05-2025 16:13",
-        "news_link": "https://sekitarkaltim.id/posts/525924/lusa-500-ribu-ojol-se-indonesia-bakal-gelar-unjuk-rasa"
-    },
-    {
-        "title": "Kelurahan Sukamaju Depok Ajak Warga Gabung Koperasi Merah Putih",
-        "category": "Network",
-        "publish_time": "18-05-2025 16:13",
-        "news_link": "https://ruzkaindonesia.id/posts/525943/kelurahan-sukamaju-depok-ajak-warga-gabung-koperasi-merah-putih"
-    },
-    {
-        "title": "Ulasan Puisi",
-        "category": "Retizen",
-        "publish_time": "18-05-2025 16:13",
-        "news_link": "https://retizen.republika.co.id/posts/525940/ulasan-puisi"
-    },
-    {
-        "title": "Jangan Bandingkan Anak Kita, Jangan Juga Lupakan Orang Tua Kita",
-        "category": "Retizen",
-        "publish_time": "18-05-2025 16:13",
-        "news_link": "https://retizen.republika.co.id/posts/525916/jangan-bandingkan-anak-kita-jangan-juga-lupakan-orang-tua-kita"
-    },
-    {
-        "title": "Ayah dan Luka yang Tak Terlihat",
-        "category": "Retizen",
-        "publish_time": "18-05-2025 16:13",
-        "news_link": "https://retizen.republika.co.id/posts/525922/ayah-dan-luka-yang-tak-terlihat"
-    },
-    {
-        "title": "Konsep Ilmu dalam Pendidikan Islam (Part 5)",
-        "category": "Retizen",
-        "publish_time": "18-05-2025 16:13",
-        "news_link": "https://retizen.republika.co.id/posts/525944/konsep-ilmu-dalam-pendidikan-islam-part-5"
-    },
-    {
-        "title": "Ribuan Tentara Zionis Kena Mental, Puluhan Lainnya Bunuh Diri",
-        "category": "Network",
-        "publish_time": "18-05-2025 16:13",
-        "news_link": "https://sekitarkaltim.id/posts/525920/ribuan-tentara-zionis-kena-mental-puluhan-lainnya-bunuh-diri"
-    },
-    {
-        "title": "Mobil Terobos CFD Margonda Depok Nyaris Diamuk Massa",
-        "category": "Network",
-        "publish_time": "18-05-2025 16:13",
-        "news_link": "https://ruzkaindonesia.id/posts/525941/mobil-terobos-cfd-margonda-depok-nyaris-diamuk-massa"
-    },
-    {
-        "title": "Mudir Ali Jatman Terima Kunjungan Mursyid Naqsabandiyah Malaysia",
-        "category": "Network",
-        "publish_time": "18-05-2025 16:13",
-        "news_link": "https://sajada.id/posts/525942/mudir-ali-jatman-terima-kunjungan-mursyid-naqsabandiyah-malaysia"
-    },
-    {
-        "title": "Daftar 32 Nama Pemain Timnas yang Dipanggil Hadapi China dan Jepang",
-        "category": "Network",
-        "publish_time": "18-05-2025 16:13",
-        "news_link": "https://sajada.id/posts/525931/daftar-32-nama-pemain-timnas-yang-dipanggil-hadapi-china-dan-jepang"
-    },
-    {
-        "title": "BRI Insurance Bayarkan Klaim Asuransi Alat Berat Korban Longsor di Morowali Utara",
-        "category": "Ekonomi",
-        "publish_time": "18-05-2025 15:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/swg6vb370/bri-insurance-bayarkan-klaim-asuransi-alat-berat-korban-longsor-di-morowali-utara"
-    },
-    {
-        "title": "Polda Jateng Buru Pemimpin Jaringan Wartawan Gadungan Pelaku Pemerasan",
-        "category": "Rejogja",
-        "publish_time": "18-05-2025 15:13",
-        "news_link": "https://rejogja.republika.co.id/berita/swgpr7282/polda-jateng-buru-pemimpin-jaringan-wartawan-gadungan-pelaku-pemerasan"
-    },
-    {
-        "title": "Menikmati Libur Akhir Pekan di Taman Lapangan Banteng",
-        "category": "Visual",
-        "publish_time": "18-05-2025 15:13",
-        "news_link": "https://visual.republika.co.id/berita/swgnmb375/menikmati-libur-akhir-pekan-di-taman-lapangan-banteng"
-    },
-    {
-        "title": "Keutamaan Doa Nabi Yunus",
-        "category": "Iqra",
-        "publish_time": "18-05-2025 14:13",
-        "news_link": "https://iqra.republika.co.id/berita/swgggd430/keutamaan-doa-nabi-yunus"
-    },
-    {
-        "title": "Senator AS Ini Desak Israel Segera Cabut Blokade Bantuan Kemanusiaan Masuk Gaza",
-        "category": "News",
-        "publish_time": "18-05-2025 14:13",
-        "news_link": "https://news.republika.co.id/berita/swgjyq409/senator-as-ini-desak-israel-segera-cabut-blokade-bantuan-kemanusiaan-masuk-gaza"
     }
 ]
