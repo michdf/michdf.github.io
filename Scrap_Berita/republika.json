@@ -1,5 +1,47 @@
 [
     {
+        "title": "KJRI Perth: Lomba Layar Terpanjang Australia Ditutup di Labuan Bajo",
+        "category": "News",
+        "publish_time": "25 May 2025, 18:03",
+        "news_link": "https://news.republika.co.id/berita/swt133451/kjri-perth-lomba-layar-terpanjang-australia-ditutup-di-labuan-bajo"
+    },
+    {
+        "title": "Belajar Jumat-Sabtu di UBSI, Kuliah tak Harus Resign Kerja",
+        "category": "News",
+        "publish_time": "25 May 2025, 17:59",
+        "news_link": "https://news.republika.co.id/berita/swtd6i472/belajar-jumatsabtu-di-ubsi-kuliah-tak-harus-resign-kerja"
+    },
+    {
+        "title": "Menguatkan Komitmen Penegakan Hukum: Catatan Atas RPJMN 2025-2029",
+        "category": "Kolom",
+        "publish_time": "25 May 2025, 17:53",
+        "news_link": "https://analisis.republika.co.id/berita/swtcwr320/menguatkan-komitmen-penegakan-hukum-catatan-atas-rpjmn-20252029"
+    },
+    {
+        "title": "Strategi Kunci Spesialis Sistem Informasi dalam Transformasi Digital Perusahaan",
+        "category": "News",
+        "publish_time": "25 May 2025, 17:42",
+        "news_link": "https://news.republika.co.id/berita/swtceh472/strategi-kunci-spesialis-sistem-informasi-dalam-transformasi-digital-perusahaan"
+    },
+    {
+        "title": "Ini Para Pemain yang Putuskan Hengkang dari Persija",
+        "category": "News",
+        "publish_time": "25 May 2025, 17:39",
+        "news_link": "https://news.republika.co.id/berita/swtc9d409/ini-para-pemain-yang-putuskan-hengkang-dari-persija"
+    },
+    {
+        "title": "Mundur dari PSBS Biak, Owen Rahadian akan Tetap Berikan Dukungan",
+        "category": "News",
+        "publish_time": "25 May 2025, 17:24",
+        "news_link": "https://news.republika.co.id/berita/swtbl0456/mundur-dari-psbs-biak-owen-rahadian-akan-tetap-berikan-dukungan"
+    },
+    {
+        "title": "Buka Outlet Baru di Dipatiukur, Restoran Almaz Bidik Bandung Sebelah Barat untuk Ekspansi",
+        "category": "Rejabar",
+        "publish_time": "25 May 2025, 17:18",
+        "news_link": "https://rejabar.republika.co.id/berita/swtba9512/buka-outlet-baru-di-dipatiukur-restoran-almaz-bidik-bandung-sebelah-barat-untuk-ekspansi"
+    },
+    {
         "title": "Cerita Muslimah Pelanggan Ayam Goreng Widuran: Kenapa Gak Bilang Ada Babinya, Padahal Aku Berjilbab",
         "category": "Rejogja",
         "publish_time": "25 May 2025, 17:05",
@@ -12,10 +54,10 @@
         "news_link": "https://news.republika.co.id/berita/swt0y8451/pasarkan-produk-umkm-di-jakarta-gubernur-gorontalo-sinergi-buka-pasar-lebih-luas"
     },
     {
-        "title": "Aktivis Perempuan se Asia Pasifik Berkumpul di Bandung Dorong Kemerdekaan Palestina",
+        "title": "Aktivis Perempuan se-Asia Pasifik Berkumpul di Bandung Dorong Kemerdekaan Palestina",
         "category": "Rejabar",
         "publish_time": "25 May 2025, 16:59",
-        "news_link": "https://rejabar.republika.co.id/berita/swtaec512/aktivis-perempuan-se-asia-pasifik-berkumpul-di-bandung-dorong-kemerdekaan-palestina"
+        "news_link": "https://rejabar.republika.co.id/berita/swtaec512/aktivis-perempuan-seasia-pasifik-berkumpul-di-bandung-dorong-kemerdekaan-palestina"
     },
     {
         "title": "Sudah 53 Tahun Buka, Ayam Goreng Widuran Solo Pakai Bahan Baku Non Halal, Manajemen Beri Penjelasan",
@@ -256,47 +298,5 @@
         "category": "Network",
         "publish_time": "25 May 2025, 12:58",
         "news_link": "https://impresiupdate.id/posts/527350/studi-menunjukkan-penyebab-mengejutkan-dari-penyakit-autoimun-apakah-itu-"
-    },
-    {
-        "title": "Pemerintah Fokus Tarik Investasi dari Sektor Ini",
-        "category": "Ekonomi",
-        "publish_time": "25 May 2025, 12:50",
-        "news_link": "https://ekonomi.republika.co.id/berita/swsywt370/pemerintah-fokus-tarik-investasi-dari-sektor-ini"
-    },
-    {
-        "title": "Kenali SVT, Gangguan Irama Jantung yang Bisa Dialami Usia Muda",
-        "category": "Ameera",
-        "publish_time": "25 May 2025, 12:50",
-        "news_link": "https://ameera.republika.co.id/berita/swsyvk349/kenali-svt-gangguan-irama-jantung-yang-bisa-dialami-usia-muda"
-    },
-    {
-        "title": "Menimbang Unifikasi Kode Etik Guru Indonesia",
-        "category": "Rejogja",
-        "publish_time": "25 May 2025, 12:36",
-        "news_link": "https://rejogja.republika.co.id/berita/swsy9f291/menimbang-unifikasi-kode-etik-guru-indonesia"
-    },
-    {
-        "title": "Yunani Kerahkan Unit Elite dan Drone untuk Hadapi Musim Kebakaran Lahan Tahun Ini",
-        "category": "News",
-        "publish_time": "25 May 2025, 12:30",
-        "news_link": "https://news.republika.co.id/berita/swsw2x487/yunani-kerahkan-unit-elite-dan-drone-untuk-hadapi-musim-kebakaran-lahan-tahun-ini"
-    },
-    {
-        "title": "Bertemu Perdana Menteri Li Qiang di Istana, Prabowo Tegaskan Komitmen Kerja Sama dengan China",
-        "category": "News",
-        "publish_time": "25 May 2025, 12:09",
-        "news_link": "https://news.republika.co.id/berita/swsx05487/bertemu-perdana-menteri-li-qiang-di-istana-prabowo-tegaskan-komitmen-kerja-sama-dengan-china"
-    },
-    {
-        "title": "Catatan Cak AT: E-Voting Pilkades: Dari Coblosan ke Colokan",
-        "category": "Network",
-        "publish_time": "25 May 2025, 11:50",
-        "news_link": "https://ruzkaindonesia.id/posts/527334/catatan-cak-at-e-voting-pilkades-dari-coblosan-ke-colokan"
-    },
-    {
-        "title": "Kementerian Lingkungan Hidup Konsolidasikan Kesiapsiagaan Hadapi Kebakaran Lahan",
-        "category": "Esgnow",
-        "publish_time": "25 May 2025, 11:45",
-        "news_link": "https://esgnow.republika.co.id/berita/swsvwa487/kementerian-lingkungan-hidup-konsolidasikan-kesiapsiagaan-hadapi-kebakaran-lahan"
     }
 ]
