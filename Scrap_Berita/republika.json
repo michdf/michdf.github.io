@@ -1,44 +1,146 @@
 [
     {
+        "title": "Jabatan Ketum dan Sekjen Parpol Perlu Dibatasi Satu Periode",
+        "category": "News",
+        "publish_time": "02-06-2025 01:13",
+        "news_link": "https://news.republika.co.id/berita/sx7fdx328/jabatan-ketum-dan-sekjen-parpol-perlu-dibatasi-satu-periode"
+    },
+    {
+        "title": "Stok Beras Capai 4 Juta Ton, Ini PR Besar untuk Bulog",
+        "category": "Ekonomi",
+        "publish_time": "02-06-2025 01:13",
+        "news_link": "https://ekonomi.republika.co.id/berita/sx7fdp490/stok-beras-capai-4-juta-ton-ini-pr-besar-untuk-bulog"
+    },
+    {
+        "title": "Thailand Dua Gelar di Singapore Open, Malaysia, China, dan Korsel Masing-Masing Satu",
+        "category": "News",
+        "publish_time": "02-06-2025 01:11",
+        "news_link": "https://news.republika.co.id/berita/sx7fcj348/thailand-dua-gelar-di-singapore-open-malaysia-china-dan-korsel-masingmasing-satu"
+    },
+    {
+        "title": "BMKG Catat 118 Kejadian Gempa Bumi Terjadi Sepanjang Mei di Jabar",
+        "category": "Rejabar",
+        "publish_time": "02-06-2025 01:06",
+        "news_link": "https://rejabar.republika.co.id/berita/sx7f3y512/bmkg-catat-118-kejadian-gempa-bumi-terjadi-sepanjang-mei-di-jabar"
+    },
+    {
+        "title": "Tiga Alasan Dinamakan Arafah",
+        "category": "Khazanah",
+        "publish_time": "02-06-2025 01:00",
+        "news_link": "https://khazanah.republika.co.id/berita/sx7et1430/tiga-alasan-dinamakan-arafah"
+    },
+    {
+        "title": "Perbanyak Baca Ini saat Wukuf di Arafah",
+        "category": "Khazanah",
+        "publish_time": "02-06-2025 00:57",
+        "news_link": "https://khazanah.republika.co.id/berita/sx7epa430/perbanyak-baca-ini-saat-wukuf-di-arafah"
+    },
+    {
+        "title": "Oscar Piastri Puji Kehebatan Mobilnya Usai Juara GP F1 Spanyol",
+        "category": "News",
+        "publish_time": "02-06-2025 00:55",
+        "news_link": "https://news.republika.co.id/berita/sx7eku348/oscar-piastri-puji-kehebatan-mobilnya-usai-juara-gp-f1-spanyol"
+    },
+    {
+        "title": "Data dan Fakta Serangan Drone Ukraina yang Hancurkan Pesawat Pembom Rusia",
+        "category": "News",
+        "publish_time": "02-06-2025 00:54",
+        "news_link": "https://news.republika.co.id/berita/sx7ek4484/data-dan-fakta-serangan-drone-ukraina-yang-hancurkan-pesawat-pembom-rusia"
+    },
+    {
+        "title": "AS Resmi Sodorkan Proposal Terbaru Negosiasi Nuklir, Iran Diminta Terima",
+        "category": "News",
+        "publish_time": "02-06-2025 00:50",
+        "news_link": "https://news.republika.co.id/berita/sx7ecq409/as-resmi-sodorkan-proposal-terbaru-negosiasi-nuklir-iran-diminta-terima"
+    },
+    {
+        "title": "Angkot Jaklingko Remuk Tabrak Tiang di Sunter",
+        "category": "News",
+        "publish_time": "02-06-2025 00:19",
+        "news_link": "https://news.republika.co.id/berita/sx7cxv484/angkot-jaklingko-remuk-tabrak-tiang-di-sunter"
+    },
+    {
+        "title": "176 Tambang Ilegal Ditemukan di Jabar, ESDM Perketat Pengawasan",
+        "category": "Ekonomi",
+        "publish_time": "02-06-2025 00:13",
+        "news_link": "https://ekonomi.republika.co.id/berita/sx7cg6370/176-tambang-ilegal-ditemukan-di-jabar-esdm-perketat-pengawasan"
+    },
+    {
+        "title": "Ukraina Rilis Ratusan Drone yang Sukses Serang Empat Lanud Utama Rusia",
+        "category": "News",
+        "publish_time": "02-06-2025 00:13",
+        "news_link": "https://news.republika.co.id/berita/sx7c6a484/ukraina-rilis-ratusan-drone-yang-sukses-serang-empat-lanud-utama-rusia"
+    },
+    {
+        "title": "Tim Pengawas Diminta Bersinergi agar Jamaah Haji Dapat Pelayanan Baik",
+        "category": "Khazanah",
+        "publish_time": "02-06-2025 00:13",
+        "news_link": "https://khazanah.republika.co.id/berita/sx7aqo430/tim-pengawas-diminta-bersinergi-agar-jamaah-haji-dapat-pelayanan-baik"
+    },
+    {
+        "title": "Ukraina Klaim Hancurkan 40 Pesawat Pembom Rusia Senilai Rp 114 Triliun",
+        "category": "News",
+        "publish_time": "01-06-2025 23:13",
+        "news_link": "https://news.republika.co.id/berita/sx7ate484/ukraina-klaim-hancurkan-40-pesawat-pembom-rusia-senilai-rp-114-triliun"
+    },
+    {
+        "title": "Kisah Para Wanita yang Menjaga Kota Madinah saat Perang Uhud",
+        "category": "Khazanah",
+        "publish_time": "01-06-2025 23:13",
+        "news_link": "https://khazanah.republika.co.id/berita/sx7akh430/kisah-para-wanita-yang-menjaga-kota-madinah-saat-perang-uhud"
+    },
+    {
+        "title": "Perayaan Juara Liga Champions PSG Berujung Kerusuhan di Paris, Dua Tewas",
+        "category": "News",
+        "publish_time": "01-06-2025 23:13",
+        "news_link": "https://news.republika.co.id/berita/sx7a3o409/perayaan-juara-liga-champions-psg-berujung-kerusuhan-di-paris-dua-tewas"
+    },
+    {
+        "title": "Kemenag: Semua Anggota Jamaah Haji Indonesia Sudah Berada di Makkah",
+        "category": "Khazanah",
+        "publish_time": "01-06-2025 23:13",
+        "news_link": "https://khazanah.republika.co.id/berita/sx70b3483/kemenag-semua-anggota-jamaah-haji-indonesia-sudah-berada-di-makkah"
+    },
+    {
         "title": "Seskab Teddy Berbincang Serius dengan Dubes Rusia, Apa yang Dibahas?",
         "category": "News",
-        "publish_time": "01-06-2025 23:12",
+        "publish_time": "01-06-2025 23:13",
         "news_link": "https://news.republika.co.id/berita/sx79tc484/seskab-teddy-berbincang-serius-dengan-dubes-rusia-apa-yang-dibahas"
     },
     {
         "title": "Terungkap, Dua Koperasi Pesantren Kelola Penambangan Batu Kuda",
         "category": "Khazanah",
-        "publish_time": "01-06-2025 23:08",
+        "publish_time": "01-06-2025 23:13",
         "news_link": "https://khazanah.republika.co.id/berita/sx79l1483/terungkap-dua-koperasi-pesantren-kelola-penambangan-batu-kuda"
     },
     {
         "title": "Di Jeddah, PBNU Ungkap Lamanya Masa Tunggu Calon Haji di Indonesia",
         "category": "Khazanah",
-        "publish_time": "01-06-2025 23:07",
+        "publish_time": "01-06-2025 23:13",
         "news_link": "https://khazanah.republika.co.id/berita/sx6y3h483/di-jeddah-pbnu-ungkap-lamanya-masa-tunggu-calon-haji-di-indonesia"
     },
     {
         "title": "Sebagai Khalifah, Abu Bakar Mengurangi Sendiri Gajinya dan Mengganti yang telah Diterima",
         "category": "Khazanah",
-        "publish_time": "01-06-2025 23:06",
+        "publish_time": "01-06-2025 23:13",
         "news_link": "https://khazanah.republika.co.id/berita/sx79hu430/sebagai-khalifah-abu-bakar-mengurangi-sendiri-gajinya-dan-mengganti-yang-telah-diterima"
     },
     {
         "title": "Serangan Drone Mematikan Ukraina Hancurkan Pesawat Pembom Tu-95 dan Tu-22M3",
         "category": "News",
-        "publish_time": "01-06-2025 22:51",
+        "publish_time": "01-06-2025 23:13",
         "news_link": "https://news.republika.co.id/berita/sx78sk484/serangan-drone-mematikan-ukraina-hancurkan-pesawat-pembom-tu95-dan-tu22m3"
     },
     {
         "title": "Arab Saudi Jaring 269 Ribu Jamaah Haji Ilegal",
         "category": "Khazanah",
-        "publish_time": "01-06-2025 22:49",
+        "publish_time": "01-06-2025 23:13",
         "news_link": "https://khazanah.republika.co.id/berita/sx78pb483/arab-saudi-jaring-269-ribu-jamaah-haji-ilegal"
     },
     {
         "title": "Gugur Sebelum Mandi Junub di Malam Pernikahan, Jenazah Syuhada Ini Dimandikan Malaikat",
         "category": "Khazanah",
-        "publish_time": "01-06-2025 22:34",
+        "publish_time": "01-06-2025 22:13",
         "news_link": "https://khazanah.republika.co.id/berita/sx780e430/gugur-sebelum-mandi-junub-di-malam-pernikahan-jenazah-syuhada-ini-dimandikan-malaikat"
     },
     {
@@ -196,107 +298,5 @@
         "category": "Rejogja",
         "publish_time": "01-06-2025 17:13",
         "news_link": "https://rejogja.republika.co.id/berita/sx6sb7282/mensos-jabar-jateng-dan-jatim-sumbang-52-persen-angka-kemiskinan-nasional"
-    },
-    {
-        "title": "Menteri Saudi Kasih 'Lampu Hijau' Dokter Indonesia Rawat Jamaah Haji di Klinik",
-        "category": "Khazanah",
-        "publish_time": "01-06-2025 16:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sx6rdn377/menteri-saudi-kasih-lampu-hijau-dokter-indonesia-rawat-jamaah-haji-di-klinik"
-    },
-    {
-        "title": "Aksi Melati Berinteraksi dengan Penghuni Lapas Anak dan Perempuan",
-        "category": "Resumatra",
-        "publish_time": "01-06-2025 16:13",
-        "news_link": "https://republika.co.id/berita//sx6qzv320/aksi-melati-berinteraksi-dengan-penghuni-lapas-anak-dan-perempuan"
-    },
-    {
-        "title": "Anak Bermasalah di Bogor Akan Dibina di Barak Militer Yonif 315 Garuda",
-        "category": "Visual",
-        "publish_time": "01-06-2025 16:13",
-        "news_link": "https://visual.republika.co.id/berita/sx6o92375/anak-bermasalah-di-bogor-akan-dibina-di-barak-militer-yonif-315-garuda"
-    },
-    {
-        "title": "Palak Sopir Truk Pakai Katana, Preman di Semarang tak Berkutik Saat Ditangkap Polisi",
-        "category": "Rejogja",
-        "publish_time": "01-06-2025 16:13",
-        "news_link": "https://rejogja.republika.co.id/berita/sx6qgw282/palak-sopir-truk-pakai-katana-preman-di-semarang-tak-berkutik-saat-ditangkap-polisi"
-    },
-    {
-        "title": "Ini Titik Krusial Pelaksanaan Puncak Haji yang Jadi Sorotan",
-        "category": "Khazanah",
-        "publish_time": "01-06-2025 16:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sx6qbd425/ini-titik-krusial-pelaksanaan-puncak-haji-yang-jadi-sorotan"
-    },
-    {
-        "title": "Hari Lahir Pancasila, Bulan Bung Karno, dan Langkah Mewujudkan RPJMN Berbasis Trisakti",
-        "category": "Kolom",
-        "publish_time": "01-06-2025 16:13",
-        "news_link": "https://analisis.republika.co.id/berita/sx6pj6320/hari-lahir-pancasila-bulan-bung-karno-dan-langkah-mewujudkan-rpjmn-berbasis-trisakti"
-    },
-    {
-        "title": "Film Echo Hunter Dibikin Pakai AI Full, Aktornya Cuma Suara",
-        "category": "Ameera",
-        "publish_time": "01-06-2025 16:13",
-        "news_link": "https://ameera.republika.co.id/berita/sx6piu425/film-echo-hunter-dibikin-pakai-ai-full-aktornya-cuma-suara"
-    },
-    {
-        "title": "Prosesi Saro-Saro, Tradisi Unik Sambut Pasangan Pengantin di Ternate",
-        "category": "Visual",
-        "publish_time": "01-06-2025 16:13",
-        "news_link": "https://visual.republika.co.id/berita/sx6o5d375/prosesi-sarosaro-tradisi-unik-sambut-pasangan-pengantin-di-ternate"
-    },
-    {
-        "title": "Jangan Anggap Remeh Asap Rokok Sekitar, Dokter Ungkap Risikonya Setara Perokok Aktif",
-        "category": "Ameera",
-        "publish_time": "01-06-2025 15:13",
-        "news_link": "https://ameera.republika.co.id/berita/sx6ona425/jangan-anggap-remeh-asap-rokok-sekitar-dokter-ungkap-risikonya-setara-perokok-aktif"
-    },
-    {
-        "title": "Jamaah Haji Asal Indramayu Wafat di Tanah Suci, Sudah Siapkan Kain Kafan dari Rumah",
-        "category": "Rejabar",
-        "publish_time": "01-06-2025 15:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sx6o3r512/jamaah-haji-asal-indramayu-wafat-di-tanah-suci-sudah-siapkan-kain-kafan-dari-rumah"
-    },
-    {
-        "title": "Sumitro Institute, Upaya Menghidupkan Kembali Ekonomi Pembangunan Ala Sang Begawan Ekonomi",
-        "category": "Ekonomi",
-        "publish_time": "01-06-2025 15:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sx6npl320/sumitro-institute-upaya-menghidupkan-kembali-ekonomi-pembangunan-ala-sang-begawan-ekonomi"
-    },
-    {
-        "title": "Ribuan Pendekar Pencak Silat Ramaikan HUT IPSI di Padepokan TMII",
-        "category": "Visual",
-        "publish_time": "01-06-2025 15:13",
-        "news_link": "https://visual.republika.co.id/berita/sx6nn0375/ribuan-pendekar-pencak-silat-ramaikan-hut-ipsi-di-padepokan-tmii"
-    },
-    {
-        "title": "SPBU Vivo Turunkan Harga BBM Mulai 1 Juni 2025, Ini Daftar Harga Lengkapnya",
-        "category": "Ekonomi",
-        "publish_time": "01-06-2025 14:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sx6jh0490/spbu-vivo-turunkan-harga-bbm-mulai-1-juni-2025-ini-daftar-harga-lengkapnya"
-    },
-    {
-        "title": "Peringati Hari Pancasila, Para Tokoh Sunda Berdiskusi Menggali Nilai Pancasila yang Hilang",
-        "category": "Rejabar",
-        "publish_time": "01-06-2025 14:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sx6lxk512/peringati-hari-pancasila-para-tokoh-sunda-berdiskusi-menggali-nilai-pancasila-yang-hilang"
-    },
-    {
-        "title": "SDN 073 Pajagalan B dan SDN 075 Jatayu Juarai MilkLife Soccer Challenge - Bandung 2025",
-        "category": "News",
-        "publish_time": "01-06-2025 14:13",
-        "news_link": "https://news.republika.co.id/berita/sx6lr2456/sdn-073-pajagalan-b-dan-sdn-075-jatayu-juarai-milklife-soccer-challenge-bandung-2025"
-    },
-    {
-        "title": "Tim UMS Sabet Empat Medali Emas pada Ajang World Young Inventors Exhibition 2025",
-        "category": "News",
-        "publish_time": "01-06-2025 14:13",
-        "news_link": "https://news.republika.co.id/berita/sx6le0291/tim-ums-sabet-empat-medali-emas-pada-ajang-world-young-inventors-exhibition-2025"
-    },
-    {
-        "title": "Terungkap Begini Penampakan Alat Mata-mata Israel Dibenamkan di Dinding Lebanon",
-        "category": "Khazanah",
-        "publish_time": "01-06-2025 14:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sx6l0q320/terungkap-begini-penampakan-alat-matamata-israel-dibenamkan-di-dinding-lebanon"
     }
 ]
