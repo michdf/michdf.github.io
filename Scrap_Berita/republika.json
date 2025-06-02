@@ -1,92 +1,170 @@
 [
     {
+        "title": "Stok Beras Nasional Melimpah, Indonesia Sudah Bisa Ekspor Beras?",
+        "category": "Ekonomi",
+        "publish_time": "02-06-2025 10:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/sx84a9490/stok-beras-nasional-melimpah-indonesia-sudah-bisa-ekspor-beras"
+    },
+    {
+        "title": "Presiden Prabowo Berikan 24 Sapi Kurban untuk Rakyat Aceh",
+        "category": "Khazanah",
+        "publish_time": "02-06-2025 10:07",
+        "news_link": "https://khazanah.republika.co.id/berita/sx845b458/presiden-prabowo-berikan-24-sapi-kurban-untuk-rakyat-aceh"
+    },
+    {
+        "title": "Berhasil Teridentifikasi, Ini Identitas Korban Ke-20 Longsor Gunung Kuda",
+        "category": "Rejabar",
+        "publish_time": "02-06-2025 10:07",
+        "news_link": "https://rejabar.republika.co.id/berita/sx844r512/berhasil-teridentifikasi-ini-identitas-korban-ke20-longsor-gunung-kuda"
+    },
+    {
+        "title": "Captain Hakeng: Saatnya Riau Bangkit Jadi Raja Maritim Lagi!",
+        "category": "Resumatra",
+        "publish_time": "02-06-2025 10:01",
+        "news_link": "https://republika.co.id/berita//sx83v5320/captain-hakeng-saatnya-riau-bangkit-jadi-raja-maritim-lagi"
+    },
+    {
+        "title": "BSI Catat 65 Ribu Rekening Haji Muda, Cicil Emas Jadi Solusi Dana",
+        "category": "Ekonomi Syariah",
+        "publish_time": "02-06-2025 10:00",
+        "news_link": "https://sharia.republika.co.id/berita/sx83s8370/bsi-catat-65-ribu-rekening-haji-muda-cicil-emas-jadi-solusi-dana"
+    },
+    {
+        "title": "Hore! Pelajar dan Mahasiswa Gratis Naik Trans Semarang",
+        "category": "Visual",
+        "publish_time": "02-06-2025 09:59",
+        "news_link": "https://visual.republika.co.id/berita/sx821l375/hore-pelajar-dan-mahasiswa-gratis-naik-trans-semarang"
+    },
+    {
+        "title": "Kolaborasi Program Kurban, Lazismu Terima Amanah 1 Ekor Sapi Limosin dari Shopee",
+        "category": "Khazanah",
+        "publish_time": "02-06-2025 09:47",
+        "news_link": "https://khazanah.republika.co.id/berita/sx836s458/kolaborasi-program-kurban-lazismu-terima-amanah-1-ekor-sapi-limosin-dari-shopee"
+    },
+    {
+        "title": "Paket Stimulus Ekonomi Rp 24,44 Triliun Diumumkan: Subsidi Transportasi hingga Bantuan Sosial",
+        "category": "Ekonomi",
+        "publish_time": "02-06-2025 09:43",
+        "news_link": "https://ekonomi.republika.co.id/berita/sx830o370/paket-stimulus-ekonomi-rp-2444-triliun-diumumkan-subsidi-transportasi-hingga-bantuan-sosial"
+    },
+    {
+        "title": "Sutradara Australia Beri Masterclass Interaktif untuk Para Sineas Muda di Yogyakarta",
+        "category": "Rejogja",
+        "publish_time": "02-06-2025 09:39",
+        "news_link": "https://rejogja.republika.co.id/berita/sx82u1291/sutradara-australia-beri-masterclass-interaktif-untuk-para-sineas-muda-di-yogyakarta"
+    },
+    {
+        "title": "Ketimpangan Ekspor-Impor Beras: Indonesia Lebih Banyak Impor, Ekspor Minim",
+        "category": "Ekonomi",
+        "publish_time": "02-06-2025 09:38",
+        "news_link": "https://ekonomi.republika.co.id/berita/sx82sx370/ketimpangan-eksporimpor-beras-indonesia-lebih-banyak-impor-ekspor-minim"
+    },
+    {
+        "title": "Warkop DKI \u2018Disulap\u2019 Jadi Kartun, Siap Ngakak di Bioskop Juni Ini",
+        "category": "Ameera",
+        "publish_time": "02-06-2025 09:33",
+        "news_link": "https://ameera.republika.co.id/berita/sx82kc425/warkop-dki-disulap-jadi-kartun-siap-ngakak-di-bioskop-juni-ini"
+    },
+    {
+        "title": "Mimpi Abdullah, Tanda Kemuliaan Orang Terpilih",
+        "category": "Khazanah",
+        "publish_time": "02-06-2025 09:25",
+        "news_link": "https://khazanah.republika.co.id/berita/sx826h458/mimpi-abdullah-tanda-kemuliaan-orang-terpilih"
+    },
+    {
+        "title": "Ngebut Bahu Jalan Tol Surabaya-Gempol, BMW Tabrak Honda Brio Hingga Terpelanting dan Rusak Parah",
+        "category": "Rejogja",
+        "publish_time": "02-06-2025 09:19",
+        "news_link": "https://rejogja.republika.co.id/berita/sx81x5282/ngebut-bahu-jalan-tol-surabayagempol-bmw-tabrak-honda-brio-hingga-terpelanting-dan-rusak-parah"
+    },
+    {
         "title": "GP Ansor Apresiasi Penyelenggaraan Haji, Sebut Kendala Teknis adalah Wajar",
         "category": "Khazanah",
-        "publish_time": "02-06-2025 09:14",
+        "publish_time": "02-06-2025 09:16",
         "news_link": "https://khazanah.republika.co.id/berita/sx81p4320/gp-ansor-apresiasi-penyelenggaraan-haji-sebut-kendala-teknis-adalah-wajar"
     },
     {
         "title": "PLN: Bauran Energi Terbarukan Capai 34,3 Persen pada 2034, Lampaui Target Nasional",
         "category": "Esgnow",
-        "publish_time": "02-06-2025 09:03",
+        "publish_time": "02-06-2025 09:16",
         "news_link": "https://esgnow.republika.co.id/berita/sx815m416/pln-bauran-energi-terbarukan-capai-343-persen-pada-2034-lampaui-target-nasional"
     },
     {
         "title": "Warga Sukoharjo Sulap Sampah Plastik Jadi BBM Alternatif",
         "category": "Visual",
-        "publish_time": "02-06-2025 08:59",
+        "publish_time": "02-06-2025 09:16",
         "news_link": "https://visual.republika.co.id/berita/sx7uog375/warga-sukoharjo-sulap-sampah-plastik-jadi-bbm-alternatif"
     },
     {
         "title": "Saudi Cegat Ratusan Ribu Jamaah Haji Ilegal, KJRI: Ada WNI Terjaring",
         "category": "Khazanah",
-        "publish_time": "02-06-2025 08:59",
+        "publish_time": "02-06-2025 09:16",
         "news_link": "https://khazanah.republika.co.id/berita/sx80z8458/saudi-cegat-ratusan-ribu-jamaah-haji-ilegal-kjri-ada-wni-terjaring"
     },
     {
         "title": "Ketua PBNU Usul Kampanye Berhaji Cukup Sekali Lebih Digencarkan",
         "category": "Network",
-        "publish_time": "02-06-2025 08:41",
+        "publish_time": "02-06-2025 08:16",
         "news_link": "https://sajada.id/posts/528821/ketua-pbnu-usul-kampanye-berhaji-cukup-sekali-lebih-digencarkan"
     },
     {
         "title": "Lagi, Tarif Kontainer Trans-Pasifik Kembali Meroket",
         "category": "Network",
-        "publish_time": "02-06-2025 08:40",
+        "publish_time": "02-06-2025 08:16",
         "news_link": "https://shippingcargo.co.id/posts/528785/lagi-tarif-kontainer-trans-pasifik-kembali-meroket"
     },
     {
         "title": "Khutbah Idul Adha: Meneladani Nabi Ibrahim Sang Kekasih Allah",
         "category": "Network",
-        "publish_time": "02-06-2025 08:40",
+        "publish_time": "02-06-2025 08:16",
         "news_link": "https://sajada.id/posts/528831/khutbah-idul-adha-meneladani-nabi-ibrahim-sang-kekasih-allah"
     },
     {
         "title": "Kemitraan Flu Burung Australia-Indonesia Dapat Dukungan Internasional",
         "category": "Network",
-        "publish_time": "02-06-2025 08:40",
+        "publish_time": "02-06-2025 08:16",
         "news_link": "https://magentatoday.id/posts/528859/kemitraan-flu-burung-australia-indonesia-dapat-dukungan-internasional"
     },
     {
         "title": "Konser Musik Listersi Bersama Titik Koempul",
         "category": "Network",
-        "publish_time": "02-06-2025 08:40",
+        "publish_time": "02-06-2025 08:16",
         "news_link": "https://bandung24jam.id/posts/528861/konser-musik-listersi-bersama-titik-koempul"
     },
     {
         "title": "BPS: Realisasi Luas Panen Padi Turun 3,22 Persen pada April 2025",
         "category": "Ekonomi",
-        "publish_time": "02-06-2025 08:39",
+        "publish_time": "02-06-2025 08:16",
         "news_link": "https://ekonomi.republika.co.id/berita/sx801y370/bps-realisasi-luas-panen-padi-turun-322-persen-pada-april-2025"
     },
     {
         "title": "FSGI Kritik Titah KDM Soal Masuk Sekolah Pukul 06.00",
         "category": "News",
-        "publish_time": "02-06-2025 08:38",
+        "publish_time": "02-06-2025 08:16",
         "news_link": "https://news.republika.co.id/berita/sx800f393/fsgi-kritik-titah-kdm-soal-masuk-sekolah-pukul-0600"
     },
     {
         "title": "Penyidik Kejagung akan Periksa Nadiem Makarim",
         "category": "News",
-        "publish_time": "02-06-2025 08:30",
+        "publish_time": "02-06-2025 08:16",
         "news_link": "https://news.republika.co.id/berita/sx7zmn484/penyidik-kejagung-akan-periksa-nadiem-makarim"
     },
     {
         "title": "Kemenkes Siapkan Aturan Teknis Iklan Rokok Elektronik di Media Sosial",
         "category": "Ameera",
-        "publish_time": "02-06-2025 08:30",
+        "publish_time": "02-06-2025 08:16",
         "news_link": "https://ameera.republika.co.id/berita/sx7zmn370/kemenkes-siapkan-aturan-teknis-iklan-rokok-elektronik-di-media-sosial"
     },
     {
         "title": "Visa Haji Furoda tak Keluar, Asosiasi: Tiap Biro Perjalanan Rugi Rp 5 Miliar",
         "category": "Khazanah",
-        "publish_time": "02-06-2025 08:20",
+        "publish_time": "02-06-2025 08:16",
         "news_link": "https://khazanah.republika.co.id/berita/sx7z6i458/visa-haji-furoda-tak-keluar-asosiasi-tiap-biro-perjalanan-rugi-rp-5-miliar"
     },
     {
         "title": "Jelang Puncak Haji, Republika Hadirkan Kabar dari Tanah Suci Lewat 'Live Report Haji 2025'",
         "category": "Khazanah",
-        "publish_time": "02-06-2025 08:18",
+        "publish_time": "02-06-2025 08:16",
         "news_link": "https://khazanah.republika.co.id/berita/sx7vkv366/jelang-puncak-haji-republika-hadirkan-kabar-dari-tanah-suci-lewat-live-report-haji-2025"
     },
     {
@@ -220,83 +298,5 @@
         "category": "News",
         "publish_time": "02-06-2025 07:16",
         "news_link": "https://news.republika.co.id/berita/sx7wfx472/artha-graha-peduli-gelar-peringatan-hari-lahir-pancasila-tanamkan-nilai-persatuan-sejak-dini"
-    },
-    {
-        "title": "Sebanyak 3,2 GW PLTU Beroperasi, 3,1 GW Lagi Masih Dibangun",
-        "category": "Ekonomi",
-        "publish_time": "02-06-2025 07:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/sx7w5p370/sebanyak-32-gw-pltu-beroperasi-31-gw-lagi-masih-dibangun"
-    },
-    {
-        "title": "Kembali Ditemukan, Korban Ke-20 Longsor Gunung Belum Teridentifikasi",
-        "category": "Rejabar",
-        "publish_time": "02-06-2025 07:16",
-        "news_link": "https://rejabar.republika.co.id/berita/sx7vwi512/kembali-ditemukan-korban-ke20-longsor-gunung-belum-teridentifikasi"
-    },
-    {
-        "title": "Antusiasme Siswa SLBN Depok Ikuti Edukasi Polisi Satwa",
-        "category": "Visual",
-        "publish_time": "02-06-2025 07:16",
-        "news_link": "https://visual.republika.co.id/berita/sx7ug5375/antusiasme-siswa-slbn-depok-ikuti-edukasi-polisi-satwa"
-    },
-    {
-        "title": "Kejagung Bantah Nadiem Makarim DPO Kasus Chromebook",
-        "category": "News",
-        "publish_time": "02-06-2025 07:16",
-        "news_link": "https://news.republika.co.id/berita/sx7vff484/kejagung-bantah-nadiem-makarim-dpo-kasus-chromebook"
-    },
-    {
-        "title": "Visa Furoda tak Terbit, Wendi Cagur dan Istri Batal Berangkat Haji Tahun Ini",
-        "category": "Ameera",
-        "publish_time": "02-06-2025 07:16",
-        "news_link": "https://ameera.republika.co.id/berita/sx7vbw425/visa-furoda-tak-terbit-wendi-cagur-dan-istri-batal-berangkat-haji-tahun-ini"
-    },
-    {
-        "title": "Merasa Punya Banyak Dosa, Ayo Puasa Arafah!",
-        "category": "Khazanah",
-        "publish_time": "02-06-2025 07:16",
-        "news_link": "https://khazanah.republika.co.id/berita/sx7vbr483/merasa-punya-banyak-dosa-ayo-puasa-arafah"
-    },
-    {
-        "title": "ESDM Tunggu Arahan Resmi soal Diskon Tarif Listrik 50 Persen",
-        "category": "Ekonomi",
-        "publish_time": "02-06-2025 07:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/sx7v7r370/esdm-tunggu-arahan-resmi-soal-diskon-tarif-listrik-50-persen"
-    },
-    {
-        "title": "Jejak\u00a0Kehadiran Turki Utsmani di Aceh dari Masa Akhir Bani Abbasiyah",
-        "category": "Khazanah",
-        "publish_time": "02-06-2025 07:16",
-        "news_link": "https://khazanah.republika.co.id/berita/sx7uxk430/jejakkehadiran-turki-utsmani-di-aceh-dari-masa-akhir-bani-abbasiyah"
-    },
-    {
-        "title": "Menjajal Wisata Malam Perpaduan Hutan Pinus dengan Teknologi di Lembang",
-        "category": "Rejabar",
-        "publish_time": "02-06-2025 07:16",
-        "news_link": "https://rejabar.republika.co.id/berita/sx7uvn512/menjajal-wisata-malam-perpaduan-hutan-pinus-dengan-teknologi-di-lembang"
-    },
-    {
-        "title": "Israel Hancurkan Pusat Cuci Darah di Gaza Utara, Pasien Gagal Ginjal Terancam",
-        "category": "Khazanah",
-        "publish_time": "02-06-2025 06:16",
-        "news_link": "https://khazanah.republika.co.id/berita/sx7uob483/israel-hancurkan-pusat-cuci-darah-di-gaza-utara-pasien-gagal-ginjal-terancam"
-    },
-    {
-        "title": "Solusi dari Komnas Haji Untuk Jamaah Furoda Gagal Berangkat dan Travel",
-        "category": "Khazanah",
-        "publish_time": "02-06-2025 06:16",
-        "news_link": "https://khazanah.republika.co.id/berita/sx7uo4430/solusi-dari-komnas-haji-untuk-jamaah-furoda-gagal-berangkat-dan-travel"
-    },
-    {
-        "title": "Infografis Sembilan Maklumat untuk Jamaah Haji RI saat Puncak Haji",
-        "category": "Visual",
-        "publish_time": "02-06-2025 06:16",
-        "news_link": "https://visual.republika.co.id/berita/sx7uk8430/infografis-sembilan-maklumat-untuk-jamaah-haji-ri-saat-puncak-haji"
-    },
-    {
-        "title": "BAIC Luncurkan BJ40 Plus, Rakitan Indonesia, Harga Turun Jauh Jadi Rp 600 Jutaan",
-        "category": "Ekonomi",
-        "publish_time": "02-06-2025 06:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/sx7uir348/baic-luncurkan-bj40-plus-rakitan-indonesia-harga-turun-jauh-jadi-rp-600-jutaan"
     }
 ]
