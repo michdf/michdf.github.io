@@ -1,128 +1,242 @@
 [
     {
-        "title": "Kesaktian Pancasila, Ini Dialog Presiden Soekarno dengan Presiden Josef Broz Tito",
+        "title": "BPS: Ekspor Indonesia hingga April Tumbuh 6,65 Persen",
+        "category": "Ekonomi",
+        "publish_time": "02-06-2025 06:20",
+        "news_link": "https://ekonomi.republika.co.id/berita/sx7tlh370/bps-ekspor-indonesia-hingga-april-tumbuh-665-persen"
+    },
+    {
+        "title": "Tren ESG Meningkat, OJK: Emisi Obligasi Hijau Tembus Rp 36 Triliun",
+        "category": "Esgnow",
+        "publish_time": "02-06-2025 06:17",
+        "news_link": "https://esgnow.republika.co.id/berita/sx7th1490/tren-esg-meningkat-ojk-emisi-obligasi-hijau-tembus-rp-36-triliun"
+    },
+    {
+        "title": "KRL Baru CLI-125 dari China Mulai Beroperasi, Fokus di Lintas Bogor dan Cikarang",
+        "category": "Ekonomi",
+        "publish_time": "02-06-2025 06:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/sx7t4q490/krl-baru-cli125-dari-china-mulai-beroperasi-fokus-di-lintas-bogor-dan-cikarang"
+    },
+    {
+        "title": "Bupati Bandung Paparkan Capaian Prestasi Nasional dari Program 100 Hari Kerja",
+        "category": "Rejabar",
+        "publish_time": "02-06-2025 06:09",
+        "news_link": "https://rejabar.republika.co.id/berita/sx7t3l472/bupati-bandung-paparkan-capaian-prestasi-nasional-dari-program-100-hari-kerja"
+    },
+    {
+        "title": "KNKT: Penanganan Truk ODOL Perlu Kolaborasi Lintas Kementerian",
+        "category": "Ekonomi",
+        "publish_time": "02-06-2025 06:04",
+        "news_link": "https://ekonomi.republika.co.id/berita/sx7sul490/knkt-penanganan-truk-odol-perlu-kolaborasi-lintas-kementerian"
+    },
+    {
+        "title": "Renovasi Stadion Sepakbola Tugu Jakarta Ditargetkan Selesai Akhir 2025",
+        "category": "Visual",
+        "publish_time": "02-06-2025 06:00",
+        "news_link": "https://visual.republika.co.id/berita/sx7pqf375/renovasi-stadion-sepakbola-tugu-jakarta-ditargetkan-selesai-akhir-2025"
+    },
+    {
+        "title": "Energi Surya Dominan di RUPTL, Infrastruktur Masih Jadi Tantangan",
+        "category": "Esgnow",
+        "publish_time": "02-06-2025 06:00",
+        "news_link": "https://esgnow.republika.co.id/berita/sx7oo1416/energi-surya-dominan-di-ruptl-infrastruktur-masih-jadi-tantangan"
+    },
+    {
+        "title": "Prabowo: Jangan Biarkan Bangsa Asing Adu Domba Kita Lewat LSM",
+        "category": "News",
+        "publish_time": "02-06-2025 05:50",
+        "news_link": "https://news.republika.co.id/berita/sx7s7h484/prabowo-jangan-biarkan-bangsa-asing-adu-domba-kita-lewat-lsm"
+    },
+    {
+        "title": "Kota Bandung Waspadai Peningkatan Kasus Covid-19 di Asia",
+        "category": "Rejabar",
+        "publish_time": "02-06-2025 05:43",
+        "news_link": "https://rejabar.republika.co.id/berita/sx7rwf512/kota-bandung-waspadai-peningkatan-kasus-covid19-di-asia"
+    },
+    {
+        "title": "Memaknai Ibadah Haji",
+        "category": "Khazanah",
+        "publish_time": "02-06-2025 05:40",
+        "news_link": "https://www.republika.id/posts/58033/memaknai-ibadah-haji"
+    },
+    {
+        "title": "Arab Saudi Siapkan Pengamanan Ketat untuk Haji 2025 di Arafah",
+        "category": "Khazanah",
+        "publish_time": "02-06-2025 05:36",
+        "news_link": "https://khazanah.republika.co.id/berita/sx7rl7366/arab-saudi-siapkan-pengamanan-ketat-untuk-haji-2025-di-arafah"
+    },
+    {
+        "title": "Gen Z Banyak Mengalami Anxiety",
+        "category": "Retizen",
+        "publish_time": "02-06-2025 05:35",
+        "news_link": "https://retizen.republika.co.id/posts/528792/gen-z-banyak-mengalami-anxiety"
+    },
+    {
+        "title": "Shalat di Tengah Kesibukan Kuliah, Emang Bisa?",
+        "category": "Retizen",
+        "publish_time": "02-06-2025 05:35",
+        "news_link": "https://retizen.republika.co.id/posts/528774/shalat-di-tengah-kesibukan-kuliah-emang-bisa"
+    },
+    {
+        "title": "MANUSIA SILVER: Bukan Sekadar Mengemis, Ini Jeritan Bangsa yang Lelah!",
+        "category": "Retizen",
+        "publish_time": "02-06-2025 05:35",
+        "news_link": "https://retizen.republika.co.id/posts/528803/manusia-silver-bukan-sekadar-mengemis-ini-jeritan-bangsa-yang-lelah"
+    },
+    {
+        "title": "Soal Ayam Goreng Babi, Vladimir Putin Tertawa Saat Menterinya Ingin Ekspor Babi ke Indonesia: Mereka Muslim",
         "category": "Network",
-        "publish_time": "02-06-2025 05:13",
-        "news_link": "https://ruzkaindonesia.id/posts/528777/kesaktian-pancasila-ini-dialog-presiden-soekarno-dengan-presiden-josef-broz-tito"
+        "publish_time": "02-06-2025 05:35",
+        "news_link": "https://kurusetra.republika.co.id/posts/528813/soal-ayam-goreng-babi-vladimir-putin-tertawa-saat-menterinya-ingin-ekspor-babi-ke-indonesia-mereka-muslim"
+    },
+    {
+        "title": "PM Qatar akan Temui Pemimpin Hamas Bahas Proposal Gencatan Senjata AS",
+        "category": "News",
+        "publish_time": "02-06-2025 05:30",
+        "news_link": "https://news.republika.co.id/berita/sx7rav409/pm-qatar-akan-temui-pemimpin-hamas-bahas-proposal-gencatan-senjata-as"
+    },
+    {
+        "title": "Jati Diri",
+        "category": "Khazanah",
+        "publish_time": "02-06-2025 05:22",
+        "news_link": "https://www.republika.id/posts/58031/jati-diri"
+    },
+    {
+        "title": "BPS Catat Surplus Neraca Perdagangan April 2025 Capai 0,16 Miliar Dolar AS",
+        "category": "Ekonomi",
+        "publish_time": "02-06-2025 05:22",
+        "news_link": "https://ekonomi.republika.co.id/berita/sx7qq9370/bps-catat-surplus-neraca-perdagangan-april-2025-capai-016-miliar-dolar-as"
+    },
+    {
+        "title": "Pidato Hari Jadi Pancasila, Prabowo: Semua Kebocoran Harus Berhenti",
+        "category": "News",
+        "publish_time": "02-06-2025 05:22",
+        "news_link": "https://news.republika.co.id/berita/sx7qp2484/pidato-hari-jadi-pancasila-prabowo-semua-kebocoran-harus-berhenti"
+    },
+    {
+        "title": "Bukan Sekadar Dokumen Sejarah, Gubernur Anwar Hafid: Pancasila Adalah Jiwa Bangsa ini",
+        "category": "News",
+        "publish_time": "02-06-2025 05:22",
+        "news_link": "https://news.republika.co.id/berita/sx7iiw451/bukan-sekadar-dokumen-sejarah-gubernur-anwar-hafid-pancasila-adalah-jiwa-bangsa-ini"
     },
     {
         "title": "Kesaktian Pancasila, Ini Dialog Presiden Soekarno dengan Presiden Josef Broz Tito",
         "category": "Network",
-        "publish_time": "02-06-2025 05:13",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://ruzkaindonesia.id/posts/528777/kesaktian-pancasila-ini-dialog-presiden-soekarno-dengan-presiden-josef-broz-tito"
     },
     {
         "title": "Catatan Cak AT: Homo Erectus Purba di Laut Madura",
         "category": "Network",
-        "publish_time": "02-06-2025 05:13",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://ruzkaindonesia.id/posts/528771/catatan-cak-at-homo-erectus-purba-di-laut-madura"
     },
     {
         "title": "Oscar Piastri Menang di GP Spanyol 2025, Ungkap Strategi di Balik Kemenangan Kelima Musim Ini",
         "category": "Network",
-        "publish_time": "02-06-2025 05:13",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://motoresto.id/posts/528767/oscar-piastri-menang-di-gp-spanyol-2025-ungkap-strategi-di-balik-kemenangan-kelima-musim-ini"
     },
     {
         "title": "Ada 459.081 Lansia Nikmati Diskon 20 Persen Naik Kereta Api di Hari Lansia",
         "category": "Network",
-        "publish_time": "02-06-2025 05:12",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://kreta.id/posts/528802/ada-459-081-lansia-nikmati-diskon-20-persen-naik-kereta-api-di-hari-lansia"
     },
     {
         "title": "Meninjau Konsesi Tambang Untuk Ormas Keagamaan: Tragedi Cirebon dan Bayangan Komodifikasi Keagamaan",
         "category": "News",
-        "publish_time": "02-06-2025 05:12",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://news.republika.co.id/berita/sx7qhn371/meninjau-konsesi-tambang-untuk-ormas-keagamaan-tragedi-cirebon-dan-bayangan-komodifikasi-keagamaan"
     },
     {
         "title": "Di Sukabumi, Surat Edaran Menaker Larangan Penahanan Ijazah Disosialisasikan ke Perusahaan",
         "category": "Network",
-        "publish_time": "02-06-2025 05:12",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://sukabumikini.com/posts/528804/di-sukabumi-surat-edaran-menaker-larangan-penahanan-ijazah-disosialisasikan-ke-perusahaan"
     },
     {
         "title": "Pemkot Bandung Kaji Operasional SD-SMP Swasta Gratis",
         "category": "Rejabar",
-        "publish_time": "02-06-2025 05:12",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://rejabar.republika.co.id/berita/sx7qh1512/pemkot-bandung-kaji-operasional-sdsmp-swasta-gratis"
     },
     {
         "title": "Kemenlu Janjikan Kepulangan Jenazah WNI Korban Kecelakaan Kapal Seychelles",
         "category": "News",
-        "publish_time": "02-06-2025 05:11",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://news.republika.co.id/berita/sx7qgj393/kemenlu-janjikan-kepulangan-jenazah-wni-korban-kecelakaan-kapal-seychelles"
     },
     {
         "title": "Dirut PLN Sebut Diskon 50 Persen Tarif Listik Mulai 5 Juni 2025",
         "category": "Ekonomi",
-        "publish_time": "02-06-2025 05:09",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://ekonomi.republika.co.id/berita/sx7qc9484/dirut-pln-sebut-diskon-50-persen-tarif-listik-mulai-5-juni-2025"
     },
     {
         "title": "Jay Idzes Dilaporkan Diincar Klub-Klub Elite Eropa, Ini Daftarnya",
         "category": "News",
-        "publish_time": "02-06-2025 05:06",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://news.republika.co.id/berita/sx7q7m409/jay-idzes-dilaporkan-diincar-klubklub-elite-eropa-ini-daftarnya"
     },
     {
         "title": "Jatim Raih 10 Penghargaan Anugerah Adinata Syariah 2025",
         "category": "News",
-        "publish_time": "02-06-2025 05:03",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://news.republika.co.id/berita/sx7q2d484/jatim-raih-10-penghargaan-anugerah-adinata-syariah-2025"
     },
     {
         "title": "Ukraina Klaim Hancurkan 34 Persen Armada Pesawat Pembom Rusia Lewat Serangan Drone",
         "category": "News",
-        "publish_time": "02-06-2025 05:02",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://news.republika.co.id/berita/sx7q13409/ukraina-klaim-hancurkan-34-persen-armada-pesawat-pembom-rusia-lewat-serangan-drone"
     },
     {
         "title": "Ingin Bangun Negara Yahudi, Israel Lakukan Langkah Ini untuk Arab Saudi",
         "category": "Khazanah",
-        "publish_time": "02-06-2025 05:00",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://khazanah.republika.co.id/berita/sx7py9430/ingin-bangun-negara-yahudi-israel-lakukan-langkah-ini-untuk-arab-saudi"
     },
     {
         "title": "Bantuan Kemanusiaan Pun Dipolitisasi oleh Negara Zionis!",
         "category": "Kolom",
-        "publish_time": "02-06-2025 04:58",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://www.republika.id/posts/58032/bantuan-kemanusiaan-pun-dipolitisasi-oleh-negara-zionis"
     },
     {
         "title": "Timnas China Tiba di Jakarta Malam Ini, Batal Diperkuat Mantan Pemain Espanyol",
         "category": "News",
-        "publish_time": "02-06-2025 04:58",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://news.republika.co.id/berita/sx7ptt348/timnas-china-tiba-di-jakarta-malam-ini-batal-diperkuat-mantan-pemain-espanyol"
     },
     {
         "title": "Badan Geologi Sudah Ingatkan Kerawanan di Tambang Gunung Kuda Cirebon Sebelum Longsor",
         "category": "Rejabar",
-        "publish_time": "02-06-2025 04:54",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://rejabar.republika.co.id/berita/sx7pmy512/badan-geologi-sudah-ingatkan-kerawanan-di-tambang-gunung-kuda-cirebon-sebelum-longsor"
     },
     {
         "title": "Tolak Relokasi, Ratusan Pedagang Pasar Bogor Geruduk Balaikota",
         "category": "Visual",
-        "publish_time": "02-06-2025 04:52",
+        "publish_time": "02-06-2025 05:22",
         "news_link": "https://visual.republika.co.id/berita/sx7pko375/tolak-relokasi-ratusan-pedagang-pasar-bogor-geruduk-balaikota"
     },
     {
         "title": "Anggota Grib Jaya Ditangkap Polisi karena Jual Sabu di Cimahi dan Bandung Barat",
         "category": "Rejabar",
-        "publish_time": "02-06-2025 04:46",
+        "publish_time": "02-06-2025 04:22",
         "news_link": "https://rejabar.republika.co.id/berita/sx7pb0282/anggota-grib-jaya-ditangkap-polisi-karena-jual-sabu-di-cimahi-dan-bandung-barat"
     },
     {
         "title": "Gunung Kuda Pernah Longsor Tapi Izin Tambang Tetap Diberikan, Ini Penjelasan Dinas ESDM",
         "category": "Rejabar",
-        "publish_time": "02-06-2025 04:45",
+        "publish_time": "02-06-2025 04:22",
         "news_link": "https://rejabar.republika.co.id/berita/sx7p98512/gunung-kuda-pernah-longsor-tapi-izin-tambang-tetap-diberikan-ini-penjelasan-dinas-esdm"
     },
     {
         "title": "Gubernur DKI Jakarta Minta Limbah Hewan Qurban tak Dibuang ke Sungai",
         "category": "Esgnow",
-        "publish_time": "02-06-2025 04:38",
+        "publish_time": "02-06-2025 04:22",
         "news_link": "https://esgnow.republika.co.id/berita/sx7oxp425/gubernur-dki-jakarta-minta-limbah-hewan-qurban-tak-dibuang-ke-sungai"
     },
     {
@@ -134,169 +248,55 @@
     {
         "title": "Bea Cukai dan BPOM Semarang Ungkap Kasus Peredaran Obat Ilegal Senilai Rp 3,7 Miliar",
         "category": "Beacukai",
-        "publish_time": "02-06-2025 04:19",
+        "publish_time": "02-06-2025 04:22",
         "news_link": "https://republika.co.id/berita//sx7o1l472/bea-cukai-dan-bpom-semarang-ungkap-kasus-peredaran-obat-ilegal-senilai-rp-37-miliar"
     },
     {
         "title": "Setengah Penduduk Dunia Alami Gelombang Panas Ekstrem",
         "category": "Esgnow",
-        "publish_time": "02-06-2025 04:15",
+        "publish_time": "02-06-2025 04:22",
         "news_link": "https://esgnow.republika.co.id/berita/sx7ntr416/setengah-penduduk-dunia-alami-gelombang-panas-ekstrem"
     },
     {
         "title": "Universitas Nusa Mandiri Hadiri NSW International Education Summit 2025, Perkuat Jejaring Global",
         "category": "News",
-        "publish_time": "02-06-2025 04:15",
+        "publish_time": "02-06-2025 04:22",
         "news_link": "https://news.republika.co.id/berita/sx7nmb472/universitas-nusa-mandiri-hadiri-nsw-international-education-summit-2025-perkuat-jejaring-global"
     },
     {
         "title": "100 Hari Pimpin Bogor, Bupati Rudy Susmanto: Bencana Datang Saat Baru Dilantik",
         "category": "News",
-        "publish_time": "02-06-2025 04:15",
+        "publish_time": "02-06-2025 04:22",
         "news_link": "https://news.republika.co.id/berita/sx7hya451/100-hari-pimpin-bogor-bupati-rudy-susmanto-bencana-datang-saat-baru-dilantik"
     },
     {
         "title": "Mahasiswa Cyber University Siap Ikuti Pertukaran Mahasiswa Internasional",
         "category": "News",
-        "publish_time": "02-06-2025 04:15",
+        "publish_time": "02-06-2025 04:22",
         "news_link": "https://news.republika.co.id/berita/sx7n7u472/mahasiswa-cyber-university-siap-ikuti-pertukaran-mahasiswa-internasional"
     },
     {
         "title": "Gagal UTBK-SNBT Bukan Akhir, UNM Siap Jadi Rumah Baru untuk Raih Masa Depan",
         "category": "News",
-        "publish_time": "02-06-2025 04:15",
+        "publish_time": "02-06-2025 04:22",
         "news_link": "https://news.republika.co.id/berita/sx7mt2472/gagal-utbksnbt-bukan-akhir-unm-siap-jadi-rumah-baru-untuk-raih-masa-depan"
     },
     {
         "title": "Skor UTBK Bukan Cuma Buat Nambah Stres, tapi Bisa Bikin Kuliah Gratis",
         "category": "News",
-        "publish_time": "02-06-2025 03:15",
+        "publish_time": "02-06-2025 03:22",
         "news_link": "https://news.republika.co.id/berita/sx7mf6472/skor-utbk-bukan-cuma-buat-nambah-stres-tapi-bisa-bikin-kuliah-gratis"
     },
     {
         "title": "Jejak Izin Tambang untuk Pesantren di Tragedi Longsor Galian C Gunung Kuda",
         "category": "News",
-        "publish_time": "02-06-2025 03:15",
+        "publish_time": "02-06-2025 03:22",
         "news_link": "https://news.republika.co.id/berita/sx7mdh409/jejak-izin-tambang-untuk-pesantren-di-tragedi-longsor-galian-c-gunung-kuda"
     },
     {
         "title": "Masih Malas Pakai Sunscreen? Dokter Ingatkan Soal Bahaya Ini",
         "category": "Ameera",
-        "publish_time": "02-06-2025 03:15",
+        "publish_time": "02-06-2025 03:22",
         "news_link": "https://ameera.republika.co.id/berita/sx7mc5425/masih-malas-pakai-sunscreen-dokter-ingatkan-soal-bahaya-ini"
-    },
-    {
-        "title": "Saudi Luncurkan Konsultasi Medis Digital Bagi Jamaah Haji: Buka 24 Jam",
-        "category": "Khazanah",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://khazanah.republika.co.id/berita/sx7m97483/saudi-luncurkan-konsultasi-medis-digital-bagi-jamaah-haji-buka-24-jam"
-    },
-    {
-        "title": "QRISis Kedaulatan Data",
-        "category": "News",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://news.republika.co.id/berita/sx7m05472/qrisis-kedaulatan-data"
-    },
-    {
-        "title": "Saudi Perpendek Waktu antara Adzan dengan Iqamah Selama Musim Haji, Ini Alasannya",
-        "category": "Khazanah",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://khazanah.republika.co.id/berita/sx7lxn483/saudi-perpendek-waktu-antara-adzan-dengan-iqamah-selama-musim-haji-ini-alasannya"
-    },
-    {
-        "title": "Lima Catatan dari Keberhasilan Pacers Lolos ke Final NBA",
-        "category": "News",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://news.republika.co.id/berita/sx7lvy348/lima-catatan-dari-keberhasilan-pacers-lolos-ke-final-nba"
-    },
-    {
-        "title": "Studi: Kematian Akibat Kanker Terkait Alkohol di Amerika Naik 2 Kali Lipat",
-        "category": "Ameera",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://ameera.republika.co.id/berita/sx7lp8425/studi-kematian-akibat-kanker-terkait-alkohol-di-amerika-naik-2-kali-lipat"
-    },
-    {
-        "title": "KDM Minta Sekolah Mulai Pukul 06.00, Bagaimana di Negara Maju?",
-        "category": "News",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://news.republika.co.id/berita/sx7ll2393/kdm-minta-sekolah-mulai-pukul-0600-bagaimana-di-negara-maju"
-    },
-    {
-        "title": "Hari Ini, Patroli Jam Malam Terhadap Siswa di Bandung Mulai Diberlakukan",
-        "category": "Rejabar",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://rejabar.republika.co.id/berita/sx7lhi512/hari-ini-patroli-jam-malam-terhadap-siswa-di-bandung-mulai-diberlakukan"
-    },
-    {
-        "title": "Ekspor PT SGI Buktikan Sarung Tangan Olahraga Lokal Mampu Bersaing di Pasar Dunia",
-        "category": "Beacukai",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://republika.co.id/berita//sx7lec472/ekspor-pt-sgi-buktikan-sarung-tangan-olahraga-lokal-mampu-bersaing-di-pasar-dunia"
-    },
-    {
-        "title": "Rupiah Menguat Tipis, Terdorong Sentimen Tarif Baja AS",
-        "category": "Ekonomi",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/sx7l8c490/rupiah-menguat-tipis-terdorong-sentimen-tarif-baja-as"
-    },
-    {
-        "title": "Gelar Investor Gathering, bank bjb syariah Kenalkan Sukuk Subordinasi Pertama Senilai Rp 300 Miliar",
-        "category": "Rejabar",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://rejabar.republika.co.id/berita/sx7l7n512/gelar-investor-gathering-bank-bjb-syariah-kenalkan-sukuk-subordinasi-pertama-senilai-rp-300-miliar"
-    },
-    {
-        "title": "Bea Cukai Ngurah Rai Temukan 1,7 Kg Kokain di Paket Pos Asal Inggris",
-        "category": "Beacukai",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://republika.co.id/berita//sx7l04472/bea-cukai-ngurah-rai-temukan-17-kg-kokain-di-paket-pos-asal-inggris"
-    },
-    {
-        "title": "Presiden Prabowo Pimpin Upacara Hari Lahir Pancasila 2025",
-        "category": "News",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://news.republika.co.id/berita/sx7kx9484/presiden-prabowo-pimpin-upacara-hari-lahir-pancasila-2025"
-    },
-    {
-        "title": "Ketika Warisan Menjadi Sumber Luka",
-        "category": "Retizen",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://retizen.republika.co.id/posts/528737/ketika-warisan-menjadi-sumber-luka"
-    },
-    {
-        "title": "AI dalam Perspektif Fiqih",
-        "category": "Retizen",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://retizen.republika.co.id/posts/528728/ai-dalam-perspektif-fiqih"
-    },
-    {
-        "title": "Melindungi Gen Z sebagai Generasi Digital dari Ancaman Siber",
-        "category": "Retizen",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://retizen.republika.co.id/posts/528738/melindungi-gen-z-sebagai-generasi-digital-dari-ancaman-siber"
-    },
-    {
-        "title": "Layani Jamaah Lansia di Tanah Suci dengan Hati",
-        "category": "Video",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://tv.republika.co.id/berita/sx7kvx313/layani-jamaah-lansia-di-tanah-suci-dengan-hati"
-    },
-    {
-        "title": "Produk Haram Bertebaran: Islam Menjamin Kehalalan",
-        "category": "Retizen",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://retizen.republika.co.id/posts/528745/produk-haram-bertebaran-islam-menjamin-kehalalan"
-    },
-    {
-        "title": "Belasan Pelajar Keroyok Siswa SMK di Malang",
-        "category": "Retizen",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://retizen.republika.co.id/posts/528763/belasan-pelajar-keroyok-siswa-smk-di-malang"
-    },
-    {
-        "title": "OPM Ancam Serbu Wamena, Presiden Gus Dur Pernah Izinkan Bendera Bintang Kejora Berkibar di Papua",
-        "category": "Network",
-        "publish_time": "02-06-2025 03:15",
-        "news_link": "https://kurusetra.republika.co.id/posts/528769/opm-ancam-serbu-wamena-presiden-gus-dur-pernah-izinkan-bendera-bintang-kejora-berkibar-di-papua"
     }
 ]
