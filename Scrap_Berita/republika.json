@@ -1,44 +1,74 @@
 [
     {
+        "title": "Gunung Raung Erupsi, Warga Diminta Jauhi Zona Merah",
+        "category": "Visual",
+        "publish_time": "06-06-2025 16:00",
+        "news_link": "https://visual.republika.co.id/berita/sxfwjy375/gunung-raung-erupsi-warga-diminta-jauhi-zona-merah"
+    },
+    {
+        "title": "Tak Larut dalam Euforia, Jay Idzes Tekankan Timnas Indonesia Fokus Hadapi Jepang",
+        "category": "Network",
+        "publish_time": "06-06-2025 15:50",
+        "news_link": "https://skor.republika.co.id/posts/683953/tak-larut-dalam-euforia-jay-idzes-tekankan-timnas-indonesia-fokus-hadapi-jepang"
+    },
+    {
+        "title": "Hanya Jepang yang Mampu Runtuhkan Tembok Timnas Indonesia di SUGBK",
+        "category": "Network",
+        "publish_time": "06-06-2025 15:50",
+        "news_link": "https://skor.republika.co.id/posts/683952/hanya-jepang-yang-mampu-runtuhkan-tembok-timnas-indonesia-di-sugbk"
+    },
+    {
+        "title": "Idul Adha 1446 H, Pelindo Salurkan 924 Hewan Qurban untuk Warga Sekitar",
+        "category": "Khazanah",
+        "publish_time": "06-06-2025 15:37",
+        "news_link": "https://khazanah.republika.co.id/berita/sxfskb370/idul-adha-1446-h-pelindo-salurkan-924-hewan-qurban-untuk-warga-sekitar"
+    },
+    {
+        "title": "Kalahkan Ganda China, Fajar/Rian Melaju ke Semifinal Indonesia Open",
+        "category": "Visual",
+        "publish_time": "06-06-2025 15:30",
+        "news_link": "https://visual.republika.co.id/berita/sxfwhv375/kalahkan-ganda-china-fajarrian-melaju-ke-semifinal-indonesia-open"
+    },
+    {
         "title": "Winger Barcelona Raphinha Dinobatkan Sebagai Pemain Terbaik La Liga Musim Ini",
         "category": "News",
-        "publish_time": "06-06-2025 15:11",
+        "publish_time": "06-06-2025 15:19",
         "news_link": "https://news.republika.co.id/berita/sxfwu7348/winger-barcelona-raphinha-dinobatkan-sebagai-pemain-terbaik-la-liga-musim-ini"
     },
     {
         "title": "Ustadz Yahya Waloni Wafat Saat Khutbah Jumat, MUI Berduka",
         "category": "Khazanah",
-        "publish_time": "06-06-2025 15:05",
+        "publish_time": "06-06-2025 15:19",
         "news_link": "https://khazanah.republika.co.id/berita/sxfunf366/ustadz-yahya-waloni-wafat-saat-khutbah-jumat-mui-berduka"
     },
     {
         "title": "Kesibukan RPH Dharma Jaya Cakung Layani Pemotongan Hewan Kurban",
         "category": "Visual",
-        "publish_time": "06-06-2025 15:00",
+        "publish_time": "06-06-2025 15:19",
         "news_link": "https://visual.republika.co.id/berita/sxfvec375/kesibukan-rph-dharma-jaya-cakung-layani-pemotongan-hewan-kurban"
     },
     {
         "title": "Prabowo Undang Pemain Timnas, Erick Thohir: Sebuah Apresiasi",
         "category": "Video",
-        "publish_time": "06-06-2025 14:53",
+        "publish_time": "06-06-2025 15:19",
         "news_link": "https://tv.republika.co.id/berita/sxfw0u418/prabowo-undang-pemain-timnas-erick-thohir-sebuah-apresiasi"
     },
     {
         "title": "KDM Terapkan Jam Malam dan Masuk Sekolah Jam 6, Begini Respon Pelajar Bandung",
         "category": "Rejabar",
-        "publish_time": "06-06-2025 14:39",
+        "publish_time": "06-06-2025 14:19",
         "news_link": "https://rejabar.republika.co.id/berita/sxfvcw282/kdm-terapkan-jam-malam-dan-masuk-sekolah-jam-6-begini-respon-pelajar-bandung"
     },
     {
         "title": "Fajar Alfian Akan Berpasangan dengan Muhammad Shohibul Fikri di Tur Asia",
         "category": "Network",
-        "publish_time": "06-06-2025 14:30",
+        "publish_time": "06-06-2025 14:19",
         "news_link": "https://skor.republika.co.id/posts/683945/fajar-alfian-akan-berpasangan-dengan-muhammad-shohibul-fikri-di-tur-asia"
     },
     {
         "title": "Mau Disembelih, Sapi 500 Kilogram di Bandung Ngamuk Injak 5 Anak Hingga Patah Tulang",
         "category": "Rejabar",
-        "publish_time": "06-06-2025 14:29",
+        "publish_time": "06-06-2025 14:19",
         "news_link": "https://rejabar.republika.co.id/berita/sxfuwg282/mau-disembelih-sapi-500-kilogram-di-bandung-ngamuk-injak-5-anak-hingga-patah-tulang"
     },
     {
@@ -50,253 +80,223 @@
     {
         "title": "Dipasangkan dengan Fikri, Fajar Alfian Ingin Ukur Kemampuannya",
         "category": "News",
-        "publish_time": "06-06-2025 14:17",
+        "publish_time": "06-06-2025 14:19",
         "news_link": "https://news.republika.co.id/berita/sxfudf348/dipasangkan-dengan-fikri-fajar-alfian-ingin-ukur-kemampuannya"
     },
     {
         "title": "PLN Aktifkan 17.633 Posko Siaga Listrik dan 3.887 SPKLU Selama Libur Idul Adha",
         "category": "Ekonomi",
-        "publish_time": "06-06-2025 14:15",
+        "publish_time": "06-06-2025 14:19",
         "news_link": "https://ekonomi.republika.co.id/berita/sxftci370/pln-aktifkan-17633-posko-siaga-listrik-dan-3887-spklu-selama-libur-idul-adha"
     },
     {
         "title": "Fajar/Rian dan Sabar/Reza Lolos, Ganda Putra Jadi Satu-satunya Tumpuan di Semifinal Indonesia Open",
         "category": "News",
-        "publish_time": "06-06-2025 14:13",
+        "publish_time": "06-06-2025 14:19",
         "news_link": "https://news.republika.co.id/berita/sxftzz348/fajarrian-dan-sabarreza-lolos-ganda-putra-jadi-satusatunya-tumpuan-di-semifinal-indonesia-open"
     },
     {
         "title": "Citilink Terapkan Diskon Tarif Penerbangan 50 Persen hingga Akhir Juli",
         "category": "Ekonomi",
-        "publish_time": "06-06-2025 14:13",
+        "publish_time": "06-06-2025 14:19",
         "news_link": "https://ekonomi.republika.co.id/berita/sxft2x370/citilink-terapkan-diskon-tarif-penerbangan-50-persen-hingga-akhir-juli"
     },
     {
         "title": "Duka Warga Kapuk Muara di Momen Idul Adha",
         "category": "Visual",
-        "publish_time": "06-06-2025 14:13",
+        "publish_time": "06-06-2025 14:19",
         "news_link": "https://visual.republika.co.id/berita/sxfqud375/duka-warga-kapuk-muara-di-momen-idul-adha"
     },
     {
         "title": "Jalan Menuju Kawasan Wisata Lembang Digenangi Air Bercampur Kotoran Sapi",
         "category": "Rejabar",
-        "publish_time": "06-06-2025 14:13",
+        "publish_time": "06-06-2025 14:19",
         "news_link": "https://rejabar.republika.co.id/berita/sxftjx512/jalan-menuju-kawasan-wisata-lembang-digenangi-air-bercampur-kotoran-sapi"
     },
     {
         "title": "Lulusan Prodi Bisnis Digital Cyber University Diterima Kerja di BRI Usai Sukses Jalani Magang",
         "category": "News",
-        "publish_time": "06-06-2025 14:13",
+        "publish_time": "06-06-2025 14:19",
         "news_link": "https://news.republika.co.id/berita/sxft8x472/lulusan-prodi-bisnis-digital-cyber-university-diterima-kerja-di-bri-usai-sukses-jalani-magang"
     },
     {
         "title": "Indonesia Open 2025: Dua Ganda Putra ke Semifinal",
         "category": "Network",
-        "publish_time": "06-06-2025 14:13",
+        "publish_time": "06-06-2025 14:19",
         "news_link": "https://skor.republika.co.id/posts/683927/indonesia-open-2025-dua-ganda-putra-ke-semifinal"
     },
     {
         "title": "Cegah Maraknya Peredaran Meterai Palsu, Materai Tempel Sekarang Bisa Dibeli di E-Commerce",
         "category": "Rejabar",
-        "publish_time": "06-06-2025 14:13",
+        "publish_time": "06-06-2025 13:19",
         "news_link": "https://rejabar.republika.co.id/berita/sxfsxz512/cegah-maraknya-peredaran-meterai-palsu-materai-tempel-sekarang-bisa-dibeli-di-ecommerce"
     },
     {
         "title": "Mahasiswa Cyber University Diasah Public Speaking, Persiapan Sambut Mahasiswa Internasional",
         "category": "News",
-        "publish_time": "06-06-2025 14:13",
+        "publish_time": "06-06-2025 13:19",
         "news_link": "https://news.republika.co.id/berita/sxfst0472/mahasiswa-cyber-university-diasah-public-speaking-persiapan-sambut-mahasiswa-internasional"
     },
     {
         "title": "Idul Adha 1446 H, Sumbar Salurkan 49.500 Hewan Kurban Termasuk Sapi dan Kerbau",
         "category": "Resumatra",
-        "publish_time": "06-06-2025 13:13",
+        "publish_time": "06-06-2025 13:19",
         "news_link": "https://republika.co.id/berita//sxfssd370/idul-adha-1446-h-sumbar-salurkan-49-500-hewan-kurban-termasuk-sapi-dan-kerbau"
     },
     {
         "title": "Okupansi Kereta Api Jelang Idul Adha 2025 Capai 130 Persen",
         "category": "Ekonomi",
-        "publish_time": "06-06-2025 13:13",
+        "publish_time": "06-06-2025 13:19",
         "news_link": "https://ekonomi.republika.co.id/berita/sxfnpl370/okupansi-kereta-api-jelang-idul-adha-2025-capai-130-persen"
     },
     {
         "title": "Pemerintah Siapkan Bantuan Beras untuk 18,3 Juta Warga, Fokus Wilayah Harga Tinggi",
         "category": "Ekonomi",
-        "publish_time": "06-06-2025 13:13",
+        "publish_time": "06-06-2025 13:19",
         "news_link": "https://ekonomi.republika.co.id/berita/sxfngy370/pemerintah-siapkan-bantuan-beras-untuk-183-juta-warga-fokus-wilayah-harga-tinggi"
     },
     {
         "title": "Jamaah Haji Indonesia Tuntas Mabit di Muzdalifah",
         "category": "Khazanah",
-        "publish_time": "06-06-2025 13:13",
+        "publish_time": "06-06-2025 13:19",
         "news_link": "https://khazanah.republika.co.id/berita/sxfqvq366/jamaah-haji-indonesia-tuntas-mabit-di-muzdalifah"
     },
     {
         "title": "Jay Idzes Tegaskan Laga Kontra Jepang Tetap Penting Bagi Timnas Indonesia",
         "category": "News",
-        "publish_time": "06-06-2025 13:13",
+        "publish_time": "06-06-2025 13:19",
         "news_link": "https://news.republika.co.id/berita/sxfqlg348/jay-idzes-tegaskan-laga-kontra-jepang-tetap-penting-bagi-timnas-indonesia"
     },
     {
         "title": "Kemenperin Siapkan Aturan Kawasan Industri Kecil di Bawah 50 Hektare",
         "category": "Ekonomi",
-        "publish_time": "06-06-2025 13:13",
+        "publish_time": "06-06-2025 13:19",
         "news_link": "https://ekonomi.republika.co.id/berita/sxfnbx370/kemenperin-siapkan-aturan-kawasan-industri-kecil-di-bawah-50-hektare"
     },
     {
         "title": "Bank Mandiri Perkuat Komitmen Sosial Lewat Program Kurban di Idul Adha 1446 H",
         "category": "Ekonomi",
-        "publish_time": "06-06-2025 13:13",
+        "publish_time": "06-06-2025 13:19",
         "news_link": "https://ekonomi.republika.co.id/berita/sxfqis472/bank-mandiri-perkuat-komitmen-sosial-lewat-program-kurban-di-idul-adha-1446-h"
     },
     {
         "title": "Masjid At-Thohir Sembelih 25 Hewan Kurban, Momen Berbagi untuk Sesama",
         "category": "Visual",
-        "publish_time": "06-06-2025 13:13",
+        "publish_time": "06-06-2025 13:19",
         "news_link": "https://visual.republika.co.id/berita/sxfqg3375/masjid-atthohir-sembelih-25-hewan-kurban-momen-berbagi-untuk-sesama"
     },
     {
         "title": "Hari Pertama Idul Adha, Dua Juta Jamaah Haji Lempar Jumrah",
         "category": "Khazanah",
-        "publish_time": "06-06-2025 12:13",
+        "publish_time": "06-06-2025 12:19",
         "news_link": "https://khazanah.republika.co.id/berita/sxfptc366/hari-pertama-idul-adha-dua-juta-jamaah-haji-lempar-jumrah"
     },
     {
         "title": "Diskon Tarif Tol 20 Persen Berlaku saat Libur Idul Adha 2025, Ringankan Pengguna Jalan",
         "category": "Ekonomi",
-        "publish_time": "06-06-2025 12:13",
+        "publish_time": "06-06-2025 12:19",
         "news_link": "https://ekonomi.republika.co.id/berita/sxfpj7370/diskon-tarif-tol-20-persen-berlaku-saat-libur-idul-adha-2025-ringankan-pengguna-jalan"
     },
     {
         "title": "Ketum PSSI: Presiden Prabowo Perlakukan Timnas Seperti Keluarga",
         "category": "News",
-        "publish_time": "06-06-2025 12:13",
+        "publish_time": "06-06-2025 12:19",
         "news_link": "https://news.republika.co.id/berita/sxfphu475/ketum-pssi-presiden-prabowo-perlakukan-timnas-seperti-keluarga"
     },
     {
         "title": "Volume Lalu Lintas Tol Jabodetabek Naik 14,66 Persen Jelang Idul Adha",
         "category": "Ekonomi",
-        "publish_time": "06-06-2025 12:13",
+        "publish_time": "06-06-2025 12:19",
         "news_link": "https://ekonomi.republika.co.id/berita/sxfn47370/volume-lalu-lintas-tol-jabodetabek-naik-1466-persen-jelang-idul-adha"
     },
     {
         "title": "Libur Idul Adha 2025, Kawasan Wisata Lembang Lengang Diguyur Hujan Deras",
         "category": "Rejabar",
-        "publish_time": "06-06-2025 12:13",
+        "publish_time": "06-06-2025 12:19",
         "news_link": "https://rejabar.republika.co.id/berita/sxfp1g512/libur-idul-adha-2025-kawasan-wisata-lembang-lengang-diguyur-hujan-deras"
     },
     {
         "title": "Pencarian Korban Longsor Tambang Gunung Kuda Cirebon Dihentikan, Ini Penyebabnya",
         "category": "Rejabar",
-        "publish_time": "06-06-2025 12:13",
+        "publish_time": "06-06-2025 12:19",
         "news_link": "https://rejabar.republika.co.id/berita/sxfor4512/pencarian-korban-longsor-tambang-gunung-kuda-cirebon-dihentikan-ini-penyebabnya"
     },
     {
         "title": "Tahun Ini, Unisba Salurkan Daging Kurban ke 4.163 Penerima",
         "category": "Rejabar",
-        "publish_time": "06-06-2025 12:13",
+        "publish_time": "06-06-2025 12:19",
         "news_link": "https://rejabar.republika.co.id/berita/sxfohp512/tahun-ini-unisba-salurkan-daging-kurban-ke-4163-penerima"
     },
     {
         "title": "Libur Idul Adha, InJourney Airports Prediksi 2,71 Juta Penumpang",
         "category": "Ekonomi",
-        "publish_time": "06-06-2025 12:13",
+        "publish_time": "06-06-2025 12:19",
         "news_link": "https://ekonomi.republika.co.id/berita/sxfmzf370/libur-idul-adha-injourney-airports-prediksi-271-juta-penumpang"
     },
     {
         "title": "Korem 132 Serahkan 19 Ekor Hewan Kurban ke Panitia untuk Disalurkan",
         "category": "News",
-        "publish_time": "06-06-2025 12:13",
+        "publish_time": "06-06-2025 12:19",
         "news_link": "https://news.republika.co.id/berita/sxfdcx451/korem-132-serahkan-19-ekor-hewan-kurban-ke-panitia-untuk-disalurkan"
     },
     {
         "title": "Dulu Mesra Kini Seteru, Elon Musk dan Donald Trump Memanas di Sosmed",
         "category": "News",
-        "publish_time": "06-06-2025 12:13",
+        "publish_time": "06-06-2025 12:19",
         "news_link": "https://news.republika.co.id/berita/sxfo5o475/dulu-mesra-kini-seteru-elon-musk-dan-donald-trump-memanas-di-sosmed"
     },
     {
         "title": "80 Ribu Warga Palestina Sholat Idul Adha di Al Aqsa Meski Dibatasi Israel",
         "category": "Khazanah",
-        "publish_time": "06-06-2025 12:13",
+        "publish_time": "06-06-2025 12:19",
         "news_link": "https://khazanah.republika.co.id/berita/sxfnr2348/80-ribu-warga-palestina-sholat-idul-adha-di-al-aqsa-meski-dibatasi-israel"
     },
     {
         "title": "Pemain Timnas Diberi Prabowo Goody Bag Berisi Jam Tangan Rolex Seharga Ratusan Juta",
         "category": "News",
-        "publish_time": "06-06-2025 12:13",
+        "publish_time": "06-06-2025 12:19",
         "news_link": "https://news.republika.co.id/berita/sxfnna484/pemain-timnas-diberi-prabowo-goody-bag-berisi-jam-tangan-rolex-seharga-ratusan-juta"
     },
     {
         "title": "EVOS Esports Depak Tiga Pelatih Dampak Kegagalan Lolos Playoff MPL ID Season 15",
         "category": "Network",
-        "publish_time": "06-06-2025 12:13",
+        "publish_time": "06-06-2025 12:19",
         "news_link": "https://skor.republika.co.id/posts/683915/evos-esports-depak-tiga-pelatih-dampak-kegagalan-lolos-playoff-mpl-id-season-15"
     },
     {
         "title": "Mendikdasmen: Idul Adha Sarana Manusia Menyucikan Jiwa dan Memperkuat Akhlak Mulia",
         "category": "News",
-        "publish_time": "06-06-2025 12:13",
+        "publish_time": "06-06-2025 12:19",
         "news_link": "https://news.republika.co.id/berita/sxfnjg472/mendikdasmen-idul-adha-sarana-manusia-menyucikan-jiwa-dan-memperkuat-akhlak-mulia"
     },
     {
         "title": "Menteri PKP: Rumah Subsidi Harus Utamakan Kualitas, Bukan Sekadar Ukuran",
         "category": "Ekonomi",
-        "publish_time": "06-06-2025 12:13",
+        "publish_time": "06-06-2025 12:19",
         "news_link": "https://ekonomi.republika.co.id/berita/sxfmro370/menteri-pkp-rumah-subsidi-harus-utamakan-kualitas-bukan-sekadar-ukuran"
     },
     {
         "title": "Dorong Kosmetik Halal, BPJPH Pastikan untuk Jaminan Kualitas dan Kenyamanan Konsumen",
         "category": "Ekonomi Syariah",
-        "publish_time": "06-06-2025 11:13",
+        "publish_time": "06-06-2025 11:19",
         "news_link": "https://sharia.republika.co.id/berita/sxeyef451/dorong-kosmetik-halal-bpjph-pastikan-untuk-jaminan-kualitas-dan-kenyamanan-konsumen"
     },
     {
         "title": "Kementerian PKP Tawarkan Rumah Subsidi Ukuran Kecil untuk Tujuan Ini",
         "category": "Ekonomi",
-        "publish_time": "06-06-2025 11:13",
+        "publish_time": "06-06-2025 11:19",
         "news_link": "https://ekonomi.republika.co.id/berita/sxfmls370/kementerian-pkp-tawarkan-rumah-subsidi-ukuran-kecil-untuk-tujuan-ini"
     },
     {
         "title": "Pengusaha Tambang Ini Puncaki Daftar Orang Terkaya RI",
         "category": "Ekonomi",
-        "publish_time": "06-06-2025 11:13",
+        "publish_time": "06-06-2025 11:19",
         "news_link": "https://ekonomi.republika.co.id/berita/sxfmdp370/pengusaha-tambang-ini-puncaki-daftar-orang-terkaya-ri"
     },
     {
         "title": "Bersama Sejumlah Kementerian dan Lembaga, KNEKS: Percepat Pengembangan Ekonomi dan Keuangan Syariah",
         "category": "Ekonomi Syariah",
-        "publish_time": "06-06-2025 11:13",
+        "publish_time": "06-06-2025 11:19",
         "news_link": "https://sharia.republika.co.id/berita/sxfmab451/bersama-sejumlah-kementerian-dan-lembaga-kneks-percepat-pengembangan-ekonomi-dan-keuangan-syariah"
-    },
-    {
-        "title": "Presiden Prabowo Beri Sambutan Hangat untuk Timnas Indonnesia usai Tundukkan China",
-        "category": "Network",
-        "publish_time": "06-06-2025 11:13",
-        "news_link": "https://skor.republika.co.id/posts/683908/presiden-prabowo-beri-sambutan-hangat-untuk-timnas-indonnesia-usai-tundukkan-china"
-    },
-    {
-        "title": "Hidayat Nur Wahid Jadi Khatib Idul Adha 1446 H di UMJ",
-        "category": "News",
-        "publish_time": "06-06-2025 11:13",
-        "news_link": "https://news.republika.co.id/berita/sxflri472/hidayat-nur-wahid-jadi-khatib-idul-adha-1446-h-di-umj"
-    },
-    {
-        "title": "Perawat Indonesia Kini Bisa Berkarier di Austria, Swiss, Jerman, dan Belanda.",
-        "category": "News",
-        "publish_time": "06-06-2025 11:13",
-        "news_link": "https://news.republika.co.id/berita/sxflrg484/perawat-indonesia-kini-bisa-berkarier-di-austria-swiss-jerman-dan-belanda"
-    },
-    {
-        "title": "Ustadz Yahya Maloni Meninggal, Ustadz Yusuf Mansur: Indah Banget Wafatnya",
-        "category": "Khazanah",
-        "publish_time": "06-06-2025 11:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sxflqs430/ustadz-yahya-maloni-meninggal-ustadz-yusuf-mansur-indah-banget-wafatnya"
-    },
-    {
-        "title": "Mahasiswi ITB Tewas Terlindas Truk di Jatinangor Sumedang",
-        "category": "Rejabar",
-        "publish_time": "06-06-2025 11:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sxfli0512/mahasiswi-itb-tewas-terlindas-truk-di-jatinangor-sumedang"
     }
 ]
