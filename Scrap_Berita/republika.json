@@ -1,9 +1,51 @@
 [
     {
-        "title": "PBB Ungkap 2.700 Lebih Balita di Gaza Menderita Gizi Buruk Akut",
-        "category": "News",
+        "title": "Chris Martin Coldplay di Konsernya: Saya Senang Lihat Bendera Palestina",
+        "category": "Ameera",
+        "publish_time": "08 June 2025, 13:16",
+        "news_link": "https://ameera.republika.co.id/berita/sxixfk425/chris-martin-coldplay-di-konsernya-saya-senang-lihat-bendera-palestina"
+    },
+    {
+        "title": "Awasi Tambang di Raja Ampat, Kemenhut Siapkan Tiga Instrumen Hukum",
+        "category": "Esgnow",
+        "publish_time": "08 June 2025, 13:13",
+        "news_link": "https://esgnow.republika.co.id/berita/sxix9t416/awasi-tambang-di-raja-ampat-kemenhut-siapkan-tiga-instrumen-hukum"
+    },
+    {
+        "title": "Game Corner: Tiga Hero Offlaner yang Bisa Jadi Counter Kalea",
+        "category": "Network",
+        "publish_time": "08 June 2025, 13:10",
+        "news_link": "https://skor.republika.co.id/posts/684168/game-corner-tiga-hero-offlaner-yang-bisa-jadi-counter-kalea"
+    },
+    {
+        "title": "Perseteruan Trump-Musk Picu Krisis Terbesar di NASA",
+        "category": "Ekonomi",
+        "publish_time": "08 June 2025, 13:01",
+        "news_link": "https://ekonomi.republika.co.id/berita/sxiwqx423/perseteruan-trumpmusk-picu-krisis-terbesar-di-nasa"
+    },
+    {
+        "title": "Frustrasi, Yuto Nagatomo Berharap Dimainkan Lawan Timnas Indonesia",
+        "category": "Network",
+        "publish_time": "08 June 2025, 12:50",
+        "news_link": "https://skor.republika.co.id/posts/684164/frustrasi-yuto-nagatomo-berharap-dimainkan-lawan-timnas-indonesia"
+    },
+    {
+        "title": "Pertumbuhan Lapangan Kerja AS Melambat, Ketidakpastian Tarif Jadi Penghambat",
+        "category": "Ekonomi",
+        "publish_time": "08 June 2025, 12:43",
+        "news_link": "https://ekonomi.republika.co.id/berita/sxivw4423/pertumbuhan-lapangan-kerja-as-melambat-ketidakpastian-tarif-jadi-penghambat"
+    },
+    {
+        "title": "Lolos 109 Hibah Riset, UMS Jadi PTS Peraih Hibah DPPM Terbanyak Tingkat LLDIKTI VI Jateng",
+        "category": "Rejogja",
+        "publish_time": "08 June 2025, 12:20",
+        "news_link": "https://rejogja.republika.co.id/berita/sxiuuy291/lolos-109-hibah-riset-ums-jadi-pts-peraih-hibah-dppm-terbanyak-tingkat-lldikti-vi-jateng"
+    },
+    {
+        "title": "PBB Ungkap Lebih dari 2.700 Balita di Gaza Alami Gizi Buruk Akut",
+        "category": "Ameera",
         "publish_time": "08 June 2025, 12:12",
-        "news_link": "https://news.republika.co.id/berita/sxiuhn425/pbb-ungkap-2700-lebih-balita-di-gaza-menderita-gizi-buruk-akut"
+        "news_link": "https://ameera.republika.co.id/berita/sxiuhn425/pbb-ungkap-lebih-dari-2700-balita-di-gaza-alami-gizi-buruk-akut"
     },
     {
         "title": "Sambut Momentum Libur Sekolah, Sleman Andalkan Pariwisata untuk Dongkrak Ekonomi Daerah",
@@ -48,7 +90,7 @@
         "news_link": "https://skor.republika.co.id/posts/684152/thomas-tuchel-tak-puas-inggris-menang-tipis-dari-tim-lemah-eropa-di-barcelona"
     },
     {
-        "title": "Harga Emas di Pegadaian Merosot Dua Hari Beruntun, Berikut Daftar lengkapnya",
+        "title": "Harga Emas di Pegadaian Merosot Dua Hari Beruntun, Berikut Daftar Lengkapnya",
         "category": "Ekonomi",
         "publish_time": "08 June 2025, 11:01",
         "news_link": "https://ekonomi.republika.co.id/berita/sxir72423/harga-emas-di-pegadaian-merosot-dua-hari-beruntun-berikut-daftar-lengkapnya"
@@ -256,47 +298,5 @@
         "category": "Khazanah",
         "publish_time": "08 June 2025, 06:33",
         "news_link": "https://khazanah.republika.co.id/berita/sxierw483/anwar-ibrahim-serukan-kerjasama-asean-dengan-negara-teluk-untuk-akhiri-kekejaman-israel"
-    },
-    {
-        "title": "Cadangan Air Menipis, Inggris Hadapi Ancaman Kekeringan",
-        "category": "Esgnow",
-        "publish_time": "08 June 2025, 06:30",
-        "news_link": "https://esgnow.republika.co.id/berita/sxidm0416/cadangan-air-menipis-inggris-hadapi-ancaman-kekeringan"
-    },
-    {
-        "title": "Jamaah Haji Lansia Diminta Tetap di Tenda, PPIH: Lempar Jumroh Bisa Diwakilkan",
-        "category": "Khazanah",
-        "publish_time": "08 June 2025, 06:14",
-        "news_link": "https://khazanah.republika.co.id/berita/sxidvk483/jamaah-haji-lansia-diminta-tetap-di-tenda-ppih-lempar-jumroh-bisa-diwakilkan"
-    },
-    {
-        "title": "Mengapa Sebagian Jamaah Haji Berjalan Kaki dari Muzdalifah ke Mina? Begini Penjelasan Kemenag",
-        "category": "Khazanah",
-        "publish_time": "08 June 2025, 06:02",
-        "news_link": "https://khazanah.republika.co.id/berita/sxidce483/mengapa-sebagian-jamaah-haji-berjalan-kaki-dari-muzdalifah-ke-mina-begini-penjelasan-kemenag"
-    },
-    {
-        "title": "Pembiayaan Multifinance Syariah Capai Rp 28,76 Triliun per April 2025",
-        "category": "Ekonomi",
-        "publish_time": "08 June 2025, 06:01",
-        "news_link": "https://ekonomi.republika.co.id/berita/sxidan423/pembiayaan-multifinance-syariah-capai-rp-2876-triliun-per-april-2025"
-    },
-    {
-        "title": "Sekjen PBB Ungkap Bahayanya Polusi Plastik bagi Manusia dan Planet",
-        "category": "Esgnow",
-        "publish_time": "08 June 2025, 06:00",
-        "news_link": "https://esgnow.republika.co.id/berita/sxhf5q416/sekjen-pbb-ungkap-bahayanya-polusi-plastik-bagi-manusia-dan-planet"
-    },
-    {
-        "title": "Wapres Gibran Unggah Video Ekonomi Syariah, Jadi Ingat Kembali Soal Pertanyaan SGIE ke Cak Imin",
-        "category": "Ekonomi Syariah",
-        "publish_time": "08 June 2025, 05:59",
-        "news_link": "https://sharia.republika.co.id/berita/sxhuks475/wapres-gibran-unggah-video-ekonomi-syariah-jadi-ingat-kembali-soal-pertanyaan-sgie-ke-cak-imin"
-    },
-    {
-        "title": "Celios Kritik Skema Kredit Kopdes Merah Putih, Usulkan Pembiayaan Campuran",
-        "category": "Ekonomi",
-        "publish_time": "08 June 2025, 05:51",
-        "news_link": "https://ekonomi.republika.co.id/berita/sxicum416/celios-kritik-skema-kredit-kopdes-merah-putih-usulkan-pembiayaan-campuran"
     }
 ]
