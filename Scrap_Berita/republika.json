@@ -1,116 +1,206 @@
 [
     {
+        "title": "GoRujuk, Solusi AI untuk Diagnosis Mandiri Ginekolog Karya UNM Raih Hibah Kemdikti 2025",
+        "category": "News",
+        "publish_time": "13-06-2025 04:20",
+        "news_link": "https://news.republika.co.id/berita/sxs1e3368/gorujuk-solusi-ai-untuk-diagnosis-mandiri-ginekolog-karya-unm-raih-hibah-kemdikti-2025"
+    },
+    {
+        "title": "Begini Modus Kasus Hibah Rp 6,5 Miliar untuk Pramuka di Kota Bandung, Eks Pejabat Penting Dipenjara",
+        "category": "News",
+        "publish_time": "13-06-2025 04:10",
+        "news_link": "https://news.republika.co.id/berita/sxs0xz487/begini-modus-kasus-hibah-rp-65-miliar-untuk-pramuka-di-kota-bandung-eks-pejabat-penting-dipenjara"
+    },
+    {
+        "title": "Menhan Sjafrie Undang Akademisi dan Purnawirawan TNI-Polri Sosialisasikan DPN",
+        "category": "News",
+        "publish_time": "13-06-2025 04:04",
+        "news_link": "https://news.republika.co.id/berita/sxs0o9484/menhan-sjafrie-undang-akademisi-dan-purnawirawan-tnipolri-sosialisasikan-dpn"
+    },
+    {
+        "title": "Tren Keselamatan Kapal Bulker Meningkat, Tantangan Tetap Ada",
+        "category": "Network",
+        "publish_time": "13-06-2025 03:58",
+        "news_link": "https://shippingcargo.co.id/posts/684748/tren-keselamatan-kapal-bulker-meningkat-tantangan-tetap-ada"
+    },
+    {
+        "title": "Paul McCartney Berduka Atas Kematian Brian Wilson",
+        "category": "Network",
+        "publish_time": "13-06-2025 03:58",
+        "news_link": "https://impresiupdate.id/posts/685141/paul-mccartney-berduka-atas-kematian-brian-wilson"
+    },
+    {
+        "title": "Kenapa Makanan Halal Wajib Bagi Muslim?",
+        "category": "Video",
+        "publish_time": "13-06-2025 03:50",
+        "news_link": "https://tv.republika.co.id/berita/sxs00f418/kenapa-makanan-halal-wajib-bagi-muslim"
+    },
+    {
+        "title": "Pemerintah Susun Ulang Aturan untuk Percepat Swasembada Gula",
+        "category": "Ekonomi",
+        "publish_time": "13-06-2025 03:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/sxs00a490/pemerintah-susun-ulang-aturan-untuk-percepat-swasembada-gula"
+    },
+    {
+        "title": "Maruarar Ajak Milenial Bahas Draf Rumah Subsidi Minimalis",
+        "category": "Ekonomi",
+        "publish_time": "13-06-2025 03:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/sxrzjr490/maruarar-ajak-milenial-bahas-draf-rumah-subsidi-minimalis"
+    },
+    {
+        "title": "Makassar Siap Jadi Bagian Transformasi Infrastruktur Nasional",
+        "category": "News",
+        "publish_time": "13-06-2025 03:33",
+        "news_link": "https://news.republika.co.id/berita/sxrwk7451/makassar-siap-jadi-bagian-transformasi-infrastruktur-nasional"
+    },
+    {
+        "title": "Kontroversi Inter Miami Lolos Piala Dunia Antarklub 2025",
+        "category": "Network",
+        "publish_time": "13-06-2025 03:29",
+        "news_link": "https://skor.republika.co.id/posts/685137/kontroversi-inter-miami-lolos-piala-dunia-antarklub-2025"
+    },
+    {
+        "title": "Infografis Peta Jalan Dekarbonisasi Industri Nikel",
+        "category": "Visual",
+        "publish_time": "13-06-2025 03:28",
+        "news_link": "https://visual.republika.co.id/berita/sxryg7416/infografis-peta-jalan-dekarbonisasi-industri-nikel"
+    },
+    {
+        "title": "PT Timah Tebar Dividen Sebesar Rp474 Miliar",
+        "category": "Ekonomi",
+        "publish_time": "13-06-2025 03:28",
+        "news_link": "https://ekonomi.republika.co.id/berita/sxrz0e490/pt-timah-tebar-dividen-sebesar-rp474-miliar"
+    },
+    {
+        "title": "Iran Siapkan Pembalasan Hebat, Pejabat Israel Ngumpet",
+        "category": "News",
+        "publish_time": "13-06-2025 03:23",
+        "news_link": "https://news.republika.co.id/berita/sxryr8393/iran-siapkan-pembalasan-hebat-pejabat-israel-ngumpet"
+    },
+    {
+        "title": "Ketidakpastian Geopolitik, Saham Emiten Emas Dinilai Punya Prospek Cerah",
+        "category": "Ekonomi",
+        "publish_time": "13-06-2025 03:22",
+        "news_link": "https://ekonomi.republika.co.id/berita/sxrylw490/ketidakpastian-geopolitik-saham-emiten-emas-dinilai-punya-prospek-cerah"
+    },
+    {
+        "title": "Selain Panglima Garda Revolusi Iran, Orang-Orang Penting Ini Juga Dilaporkan Gugur Diserang Israel",
+        "category": "News",
+        "publish_time": "13-06-2025 03:22",
+        "news_link": "https://news.republika.co.id/berita/sxryl4487/selain-panglima-garda-revolusi-iran-orangorang-penting-ini-juga-dilaporkan-gugur-diserang-israel"
+    },
+    {
         "title": "Mau Naik Kereta Uap Wisata di Ambarawa? Ini Jadwal dan Harga Tiketnya",
         "category": "Network",
-        "publish_time": "13-06-2025 03:14",
+        "publish_time": "13-06-2025 03:22",
         "news_link": "https://kreta.id/posts/685071/mau-naik-kereta-uap-wisata-di-ambarawa-ini-jadwal-dan-harga-tiketnya"
     },
     {
         "title": "Sayyidina Abu Bakar As-Shiddiq: Sahabat Sejati Penopang Risalah Hakiki",
         "category": "Network",
-        "publish_time": "13-06-2025 03:14",
+        "publish_time": "13-06-2025 03:22",
         "news_link": "https://sekitarkaltim.id/posts/685105/sayyidina-abu-bakar-as-shiddiq-sahabat-sejati-penopang-risalah-hakiki"
     },
     {
         "title": "Cuaca Balikpapan 13 Juni 2025: Cerah Berawan, Hujan Petir Singkat",
         "category": "Network",
-        "publish_time": "13-06-2025 03:14",
+        "publish_time": "13-06-2025 03:22",
         "news_link": "https://sekitarkaltim.id/posts/685106/cuaca-balikpapan-13-juni-2025-cerah-berawan-hujan-petir-singkat"
     },
     {
         "title": "Selamatkan Bumi: Tokoh Agama dan Masyarakat Adat Desak Cabut Seluruh IUP",
         "category": "Network",
-        "publish_time": "13-06-2025 03:13",
+        "publish_time": "13-06-2025 03:22",
         "news_link": "https://sekitarkaltim.id/posts/685107/selamatkan-bumi-tokoh-agama-dan-masyarakat-adat-desak-cabut-seluruh-iup"
     },
     {
         "title": "Australia dan Indonesia Memperkuat Layanan untuk Ibu dan Anak",
         "category": "Network",
-        "publish_time": "13-06-2025 03:11",
+        "publish_time": "13-06-2025 03:22",
         "news_link": "https://pemantiknews.id/posts/685119/australia-dan-indonesia-memperkuat-layanan-untuk-ibu-dan-anak"
     },
     {
         "title": "Catatan Cak AT: Muqaddimah Lite tentang Sufi Bahlul",
         "category": "Network",
-        "publish_time": "13-06-2025 03:11",
+        "publish_time": "13-06-2025 03:22",
         "news_link": "https://ruzkaindonesia.id/posts/685117/catatan-cak-at-muqaddimah-lite-tentang-sufi-bahlul"
     },
     {
         "title": "Dukung Pembentukan Badan Otorita Tanggul Laut, Ini Penjelasan AHY",
         "category": "Ekonomi",
-        "publish_time": "13-06-2025 03:10",
+        "publish_time": "13-06-2025 03:22",
         "news_link": "https://ekonomi.republika.co.id/berita/sxry5t490/dukung-pembentukan-badan-otorita-tanggul-laut-ini-penjelasan-ahy"
     },
     {
         "title": "ITS Galakkan Aksi Peduli Ekosistem Laut",
         "category": "Network",
-        "publish_time": "13-06-2025 03:10",
+        "publish_time": "13-06-2025 03:22",
         "news_link": "https://pemantiknews.id/posts/685121/its-galakkan-aksi-peduli-ekosistem-laut"
     },
     {
         "title": "102 Water Station Sudah Tersedia di 39 Stasiun",
         "category": "Network",
-        "publish_time": "13-06-2025 03:09",
+        "publish_time": "13-06-2025 03:22",
         "news_link": "https://kreta.id/posts/685124/102-water-station-sudah-tersedia-di-39-stasiun"
     },
     {
         "title": "Anggota DPR : Kejaksaan Harus Proaktif Tindak Tambang Ilegal di Raja Ampat",
         "category": "Network",
-        "publish_time": "13-06-2025 03:09",
+        "publish_time": "13-06-2025 03:22",
         "news_link": "https://pemantiknews.id/posts/685125/anggota-dpr-kejaksaan-harus-proaktif-tindak-tambang-ilegal-di-raja-ampat"
     },
     {
         "title": "Program Cek Kesehatan Gratis Temukan Tiga Penyakit Dominan Masyarakat",
         "category": "Network",
-        "publish_time": "13-06-2025 03:09",
+        "publish_time": "13-06-2025 03:22",
         "news_link": "https://sekitarkaltim.id/posts/685127/program-cek-kesehatan-gratis-temukan-tiga-penyakit-dominan-masyarakat"
     },
     {
         "title": "Puding Rumahan Eksis di Mall, Kisah Sukses UMKM Berkat Program Pelatihan PNM",
         "category": "Ekonomi",
-        "publish_time": "13-06-2025 03:08",
+        "publish_time": "13-06-2025 03:22",
         "news_link": "https://ekonomi.republika.co.id/berita/sxry2n368/puding-rumahan-eksis-di-mall-kisah-sukses-umkm-berkat-program-pelatihan-pnm"
     },
     {
         "title": "FUNDtastic Beri Literasi Keuangan kepada Anak Sejak Dini",
         "category": "Rejakarta",
-        "publish_time": "13-06-2025 02:57",
+        "publish_time": "13-06-2025 03:22",
         "news_link": "https://republika.co.id/berita//sxrwa2456/fundtastic-beri-literasi-keuangan-kepada-anak-sejak-dini"
     },
     {
         "title": "Gaji Hakim Naik 280 Persen, KY: Jangan Ada Lagi Hakim Korup!",
         "category": "News",
-        "publish_time": "13-06-2025 02:57",
+        "publish_time": "13-06-2025 03:22",
         "news_link": "https://news.republika.co.id/berita/sxrxjj487/gaji-hakim-naik-280-persen-ky-jangan-ada-lagi-hakim-korup"
     },
     {
         "title": "Kadispora hingga Eks Sekda Kota Bandung Ditetapkan Tersangka Kasus Korupsi Hibah Rp 6,5 Miliar",
         "category": "Rejabar",
-        "publish_time": "13-06-2025 02:56",
+        "publish_time": "13-06-2025 03:22",
         "news_link": "https://rejabar.republika.co.id/berita/sxrxhl512/kadispora-hingga-eks-sekda-kota-bandung-ditetapkan-tersangka-kasus-korupsi-hibah-rp-65-miliar"
     },
     {
         "title": "Bio Farma Distribusikan Produk Radiofarmaka Pertama Buatan Dalam Negeri FloDeg",
         "category": "Rejabar",
-        "publish_time": "13-06-2025 02:44",
+        "publish_time": "13-06-2025 02:22",
         "news_link": "https://rejabar.republika.co.id/berita/sxrwy9512/bio-farma-distribusikan-produk-radiofarmaka-pertama-buatan-dalam-negeri-flodeg"
     },
     {
         "title": "Serangan Israel Dilaporkan Tewaskan Panglima Garda Revolusi Iran",
         "category": "News",
-        "publish_time": "13-06-2025 02:44",
+        "publish_time": "13-06-2025 02:22",
         "news_link": "https://news.republika.co.id/berita/sxrwxc393/serangan-israel-dilaporkan-tewaskan-panglima-garda-revolusi-iran"
     },
     {
         "title": "Pemkab Jayawijaya Sebut Gereja Berperan Penting Jaga Kerukunan Umat",
         "category": "News",
-        "publish_time": "13-06-2025 02:33",
+        "publish_time": "13-06-2025 02:22",
         "news_link": "https://news.republika.co.id/berita/sxrwgc451/pemkab-jayawijaya-sebut-gereja-berperan-penting-jaga-kerukunan-umat"
     },
     {
         "title": "Lini Masa: Sejarah Konflik Terkini Iran-Israel",
         "category": "News",
-        "publish_time": "13-06-2025 02:32",
+        "publish_time": "13-06-2025 02:22",
         "news_link": "https://news.republika.co.id/berita/sxrwdd393/lini-masa-sejarah-konflik-terkini-iranisrael"
     },
     {
@@ -122,181 +212,91 @@
     {
         "title": "Rosan: Investasi Danantara Siap Ciptakan Lapangan Kerja",
         "category": "Ekonomi",
-        "publish_time": "13-06-2025 02:20",
+        "publish_time": "13-06-2025 02:22",
         "news_link": "https://ekonomi.republika.co.id/berita/sxrvh0423/rosan-investasi-danantara-siap-ciptakan-lapangan-kerja"
     },
     {
         "title": "Apakah Mimpi Bertemu Nabi Muhammad Menjadi Hadits? Begini Jawaban Habib Taufiq Assegaf",
         "category": "Iqra",
-        "publish_time": "13-06-2025 02:17",
+        "publish_time": "13-06-2025 02:22",
         "news_link": "https://iqra.republika.co.id/berita/sxrvpb451/apakah-mimpi-bertemu-nabi-muhammad-menjadi-hadits-begini-jawaban-habib-taufiq-assegaf"
     },
     {
         "title": "Millers for Nutrition Resmi Diluncurkan, Bappenas Dorong Fortifikasi Pangan Perkuat SDM",
         "category": "Ameera",
-        "publish_time": "13-06-2025 02:16",
+        "publish_time": "13-06-2025 02:22",
         "news_link": "https://ameera.republika.co.id/berita/sxrsyc416/millers-for-nutrition-resmi-diluncurkan-bappenas-dorong-fortifikasi-pangan-perkuat-sdm"
     },
     {
         "title": "Guru Besar UI Tolak Intervensi Negara dalam Pendidikan Kedokteran, Ini Permenkes yang Dianggap Cacat",
         "category": "News",
-        "publish_time": "13-06-2025 02:16",
+        "publish_time": "13-06-2025 02:22",
         "news_link": "https://news.republika.co.id/berita/sxrvg4487/guru-besar-ui-tolak-intervensi-negara-dalam-pendidikan-kedokteran-ini-permenkes-yang-dianggap-cacat"
     },
     {
         "title": "Polisi Amankan 4 Orang Pengunjung Tempat Hiburan Malam di Bandung Diduga Konsumsi Narkoba",
         "category": "Rejabar",
-        "publish_time": "13-06-2025 02:16",
+        "publish_time": "13-06-2025 02:22",
         "news_link": "https://rejabar.republika.co.id/berita/sxrv46512/polisi-amankan-4-orang-pengunjung-tempat-hiburan-malam-di-bandung-diduga-konsumsi-narkoba"
     },
     {
         "title": "OASIS Schoolyards Semarang Tuntaskan Program, Perkuat Ketangguhan Sekolah",
         "category": "Rejogja",
-        "publish_time": "13-06-2025 02:16",
+        "publish_time": "13-06-2025 02:22",
         "news_link": "https://rejogja.republika.co.id/berita/sxrv2f456/oasis-schoolyards-semarang-tuntaskan-program-perkuat-ketangguhan-sekolah"
     },
     {
         "title": "IHSG Berpotensi Menguat, Pasar Tunggu Kepastian Tarif dari AS",
         "category": "Ekonomi",
-        "publish_time": "13-06-2025 02:16",
+        "publish_time": "13-06-2025 02:22",
         "news_link": "https://ekonomi.republika.co.id/berita/sxrv1o423/ihsg-berpotensi-menguat-pasar-tunggu-kepastian-tarif-dari-as"
     },
     {
         "title": "Rapor Saddil Ramdani selama 4 Musim di Sabah FC",
         "category": "Network",
-        "publish_time": "13-06-2025 02:16",
+        "publish_time": "13-06-2025 02:22",
         "news_link": "https://skor.republika.co.id/posts/685122/rapor-saddil-ramdani-selama-4-musim-di-sabah-fc"
     },
     {
         "title": "CREA Soroti Kenaikan Pembangkit Fosil dalam RUPTL",
         "category": "Esgnow",
-        "publish_time": "13-06-2025 02:16",
+        "publish_time": "13-06-2025 02:22",
         "news_link": "https://esgnow.republika.co.id/berita/sxrqdd416/crea-soroti-kenaikan-pembangkit-fosil-dalam-ruptl"
     },
     {
         "title": "Kisah Belanda Depok, Budak yang Naik Derajat",
         "category": "Network",
-        "publish_time": "13-06-2025 02:16",
+        "publish_time": "13-06-2025 02:22",
         "news_link": "https://kurusetra.republika.co.id/posts/685100/kisah-belanda-depok-budak-yang-naik-derajat"
     },
     {
         "title": "Harga Emas Pegadaian Naik Tiga Hari Berturut-turut, Antam Tertinggi",
         "category": "Ekonomi",
-        "publish_time": "13-06-2025 02:16",
+        "publish_time": "13-06-2025 02:22",
         "news_link": "https://ekonomi.republika.co.id/berita/sxrul8423/harga-emas-pegadaian-naik-tiga-hari-berturutturut-antam-tertinggi"
     },
     {
         "title": "Komunitas Peduli Pendidikan Jabar Ungkap Modus Jual Beli Kursi di SPMB, Kuota Siswa Ditambah",
         "category": "Rejabar",
-        "publish_time": "13-06-2025 02:16",
+        "publish_time": "13-06-2025 02:22",
         "news_link": "https://rejabar.republika.co.id/berita/sxrukz512/komunitas-peduli-pendidikan-jabar-ungkap-modus-jual-beli-kursi-di-spmb-kuota-siswa-ditambah"
     },
     {
         "title": "IIF Kawal Proyek Infrastruktur Petrokimia di Indramayu",
         "category": "Ekonomi",
-        "publish_time": "13-06-2025 02:16",
+        "publish_time": "13-06-2025 01:22",
         "news_link": "https://ekonomi.republika.co.id/berita/sxrr5q416/iif-kawal-proyek-infrastruktur-petrokimia-di-indramayu"
     },
     {
         "title": "Gaji Hakim Dinaikkan Hingga 280 Persen, Legislator Wanti-Wanti tentang Permainan Hukum",
         "category": "News",
-        "publish_time": "13-06-2025 02:16",
+        "publish_time": "13-06-2025 01:22",
         "news_link": "https://news.republika.co.id/berita/sxrucn487/gaji-hakim-dinaikkan-hingga-280-persen-legislator-wantiwanti-tentang-permainan-hukum"
     },
     {
         "title": "Proyek Tanggul Laut Raksasa, Butuh Waktu 10 Tahun dan Biaya Rp 1.297 Triliun",
         "category": "Ekonomi",
-        "publish_time": "13-06-2025 01:16",
+        "publish_time": "13-06-2025 01:22",
         "news_link": "https://ekonomi.republika.co.id/berita/sxrtlp423/proyek-tanggul-laut-raksasa-butuh-waktu-10-tahun-dan-biaya-rp-1297-triliun"
-    },
-    {
-        "title": "BPKH Limited Serahkan Uang Kompensasi ke Jamaah Haji",
-        "category": "Khazanah",
-        "publish_time": "13-06-2025 01:16",
-        "news_link": "https://khazanah.republika.co.id/berita/sxrtfn451/bpkh-limited-serahkan-uang-kompensasi-ke-jamaah-haji"
-    },
-    {
-        "title": "Israel Serang Iran, AS: Kami tidak Terlibat!",
-        "category": "News",
-        "publish_time": "13-06-2025 01:16",
-        "news_link": "https://news.republika.co.id/berita/sxrsrw458/israel-serang-iran-as-kami-tidak-terlibat"
-    },
-    {
-        "title": "Jet Israel Serang Teheran, AS: Kami Enggak Ikutan, Jangan Serang Kami",
-        "category": "Khazanah",
-        "publish_time": "13-06-2025 01:16",
-        "news_link": "https://khazanah.republika.co.id/berita/sxrsnx483/jet-israel-serang-teheran-as-kami-enggak-ikutan-jangan-serang-kami"
-    },
-    {
-        "title": "Manut Israel? Mesir Usir Aktivis yang Hendak Tembus Gaza",
-        "category": "News",
-        "publish_time": "13-06-2025 01:16",
-        "news_link": "https://news.republika.co.id/berita/sxrs32458/manut-israel-mesir-usir-aktivis-yang-hendak-tembus-gaza"
-    },
-    {
-        "title": "Rute Baru Transjabodetabek Tinggi Peminat, Pegawai Swasta Wajib Naik Transportasi Umum Setiap Rabu?",
-        "category": "News",
-        "publish_time": "13-06-2025 01:16",
-        "news_link": "https://news.republika.co.id/berita/sxrs2y487/rute-baru-transjabodetabek-tinggi-peminat-pegawai-swasta-wajib-naik-transportasi-umum-setiap-rabu"
-    },
-    {
-        "title": "Piala Dunia Antarklub 2025 dalam Angka, dari Lionel Messi hingga Kylian Mbappe",
-        "category": "Network",
-        "publish_time": "13-06-2025 01:16",
-        "news_link": "https://skor.republika.co.id/posts/685116/piala-dunia-antarklub-2025-dalam-angka-dari-lionel-messi-hingga-kylian-mbappe"
-    },
-    {
-        "title": "Literasi Sensor Film Rendah LSF: Pengawasan Ortu Minim",
-        "category": "News",
-        "publish_time": "13-06-2025 00:16",
-        "news_link": "https://news.republika.co.id/berita/sxrqze451/literasi-sensor-film-rendah-lsf-pengawasan-ortu-minim"
-    },
-    {
-        "title": "Gelandang Anyar Manchester City Tijjani Reijnders Bicara Pengaruh Budaya Indonesia pada Dirinya",
-        "category": "News",
-        "publish_time": "13-06-2025 00:16",
-        "news_link": "https://news.republika.co.id/berita/sxrqtl348/gelandang-anyar-manchester-city-tijjani-reijnders-bicara-pengaruh-budaya-indonesia-pada-dirinya"
-    },
-    {
-        "title": "Kenaikan Gaji Hakim 280 Persen, Tertinggi Sepanjang Sejarah",
-        "category": "Ekonomi",
-        "publish_time": "13-06-2025 00:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/sxrqa5423/kenaikan-gaji-hakim-280-persen-tertinggi-sepanjang-sejarah"
-    },
-    {
-        "title": "Trump: Ada Peluang Konflik Masif di Timur Tengah",
-        "category": "Khazanah",
-        "publish_time": "13-06-2025 00:16",
-        "news_link": "https://khazanah.republika.co.id/berita/sxrqlb458/trump-ada-peluang-konflik-masif-di-timur-tengah"
-    },
-    {
-        "title": "Israel Serang Iran! Ledakan di Teheran, Sirene  Meraung di Tel Aviv",
-        "category": "News",
-        "publish_time": "13-06-2025 00:16",
-        "news_link": "https://news.republika.co.id/berita/sxrqf8393/israel-serang-iran-ledakan-di-teheran-sirene-meraung-di-tel-aviv"
-    },
-    {
-        "title": "PPIH: Jamaah Haji yang Sakit Bisa Ikuti Tanazul",
-        "category": "Khazanah",
-        "publish_time": "13-06-2025 00:16",
-        "news_link": "https://khazanah.republika.co.id/berita/sxrq4i483/ppih-jamaah-haji-yang-sakit-bisa-ikuti-tanazul"
-    },
-    {
-        "title": "Rosan Percepat Deregulasi untuk Perbaiki Iklim Investasi Indonesia",
-        "category": "Ekonomi",
-        "publish_time": "13-06-2025 00:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/sxrpam423/rosan-percepat-deregulasi-untuk-perbaiki-iklim-investasi-indonesia"
-    },
-    {
-        "title": "Nomor dan Posisi Kursi Vishwash Kumar Ramesh, Penumpang Air India 171 yang Selamat",
-        "category": "News",
-        "publish_time": "13-06-2025 00:16",
-        "news_link": "https://news.republika.co.id/berita/sxrpfg409/nomor-dan-posisi-kursi-vishwash-kumar-ramesh-penumpang-air-india-171-yang-selamat"
-    },
-    {
-        "title": "5 Mantan Rekan Lionel Messi yang Menganggapnya Bukan Pemain Terbaik",
-        "category": "Network",
-        "publish_time": "13-06-2025 00:16",
-        "news_link": "https://skor.republika.co.id/posts/685112/5-mantan-rekan-lionel-messi-yang-menganggapnya-bukan-pemain-terbaik"
     }
 ]
