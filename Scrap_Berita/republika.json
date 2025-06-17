@@ -1,56 +1,254 @@
 [
     {
+        "title": "Kejati Jabar Periksa 15 Saksi Terkait Kasus Dugaan Korupsi Hibah Pramuka yang Seret Kadispora",
+        "category": "Rejabar",
+        "publish_time": "17-06-2025 03:14",
+        "news_link": "https://rejabar.republika.co.id/berita/sxzczc512/kejati-jabar-periksa-15-saksi-terkait-kasus-dugaan-korupsi-hibah-pramuka-yang-seret-kadispora"
+    },
+    {
+        "title": "Rupiah Diprediksi Masih Melemah Akibat Konflik di Timur Tengah",
+        "category": "Ekonomi",
+        "publish_time": "17-06-2025 03:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/sxzctk370/rupiah-diprediksi-masih-melemah-akibat-konflik-di-timur-tengah"
+    },
+    {
+        "title": "Warga Israel Berbondong-Bondong Kabur Lewat Laut",
+        "category": "News",
+        "publish_time": "17-06-2025 03:10",
+        "news_link": "https://news.republika.co.id/berita/sxzctg393/warga-israel-berbondongbondong-kabur-lewat-laut"
+    },
+    {
+        "title": "Keren, Wajah Baru Candi Muaro Jambi",
+        "category": "Video",
+        "publish_time": "17-06-2025 03:03",
+        "news_link": "https://tv.republika.co.id/berita/sxzci8313/keren-wajah-baru-candi-muaro-jambi"
+    },
+    {
+        "title": "Tensi Geopolitik Terkendali, IHSG Dibuka Menguat",
+        "category": "Ekonomi",
+        "publish_time": "17-06-2025 03:01",
+        "news_link": "https://ekonomi.republika.co.id/berita/sxzceg370/tensi-geopolitik-terkendali-ihsg-dibuka-menguat"
+    },
+    {
+        "title": "Hasil Piala Dunia Antarklub: Chelsea Menang, Boca Imbang",
+        "category": "Network",
+        "publish_time": "17-06-2025 03:00",
+        "news_link": "https://skor.republika.co.id/posts/686027/hasil-piala-dunia-antarklub-chelsea-menang-boca-imbang"
+    },
+    {
+        "title": "Atas Arahan Raja Salman, Wakil Menteri Haji Arab Saudi Cek Penginapan Jamaah Haji Iran",
+        "category": "Khazanah",
+        "publish_time": "17-06-2025 02:53",
+        "news_link": "https://khazanah.republika.co.id/berita/sxzc08430/atas-arahan-raja-salman-wakil-menteri-haji-arab-saudi-cek-penginapan-jamaah-haji-iran"
+    },
+    {
+        "title": "Blockchain: Solusi Atasi Keraguan Koperasi Merah Putih",
+        "category": "Kolom",
+        "publish_time": "17-06-2025 02:51",
+        "news_link": "https://analisis.republika.co.id/berita/sxzbws393/blockchain-solusi-atasi-keraguan-koperasi-merah-putih"
+    },
+    {
+        "title": "Sahar Emami, Jurnalis Perempuan Iran yang Getarkan Dunia, Tetap Siaran Meski Studio Dirudal Israel",
+        "category": "Ameera",
+        "publish_time": "17-06-2025 02:48",
+        "news_link": "https://ameera.republika.co.id/berita/sxzbsx425/sahar-emami-jurnalis-perempuan-iran-yang-getarkan-dunia-tetap-siaran-meski-studio-dirudal-israel"
+    },
+    {
+        "title": "Iwan Koswara Harap SPMB Tahap Dua di Jabar Berjalan Tanpa Masalah",
+        "category": "Rejabar",
+        "publish_time": "17-06-2025 02:47",
+        "news_link": "https://rejabar.republika.co.id/berita/sxzbrg472/iwan-koswara-harap-spmb-tahap-dua-di-jabar-berjalan-tanpa-masalah"
+    },
+    {
+        "title": "Mahasiswa Ilmu Komunikasi UPJ Gelar Sosialiasi Nomor Darurat Bersama dengan Damkar Tangsel",
+        "category": "Rejakarta",
+        "publish_time": "17-06-2025 02:47",
+        "news_link": "https://republika.co.id/berita//sxzb3d282/mahasiswa-ilmu-komunikasi-upj-gelar-sosialiasi-nomor-darurat-bersama-dengan-damkar-tangsel"
+    },
+    {
+        "title": "Shafiyah Expo 2025: Menyatukan Cinta, Edukasi, dan UMKM dalam Satu Event",
+        "category": "Rejogja",
+        "publish_time": "17-06-2025 02:40",
+        "news_link": "https://rejogja.republika.co.id/berita/sxzbfw291/shafiyah-expo-2025-menyatukan-cinta-edukasi-dan-umkm-dalam-satu-event"
+    },
+    {
+        "title": "Kneecap, Grup Hip-hop Irlandia yang tak Gentar Dukung Palestina",
+        "category": "Ameera",
+        "publish_time": "17-06-2025 02:38",
+        "news_link": "https://ameera.republika.co.id/berita/sxzbba328/kneecap-grup-hiphop-irlandia-yang-tak-gentar-dukung-palestina"
+    },
+    {
+        "title": "Yuk, Kenali Lebih Dekat Prodi Bisnis Digital dan Peluang Kariernya",
+        "category": "News",
+        "publish_time": "17-06-2025 02:33",
+        "news_link": "https://news.republika.co.id/berita/sxzb3x472/yuk-kenali-lebih-dekat-prodi-bisnis-digital-dan-peluang-kariernya"
+    },
+    {
+        "title": "Nekat Bawa Air Zamzam ke dalam Koper, Pasti Ketahuan",
+        "category": "Video",
+        "publish_time": "17-06-2025 02:32",
+        "news_link": "https://tv.republika.co.id/berita/sxzb1l313/nekat-bawa-air-zamzam-ke-dalam-koper-pasti-ketahuan"
+    },
+    {
+        "title": "Harga Emas Antam Turun Rp 18 Ribu",
+        "category": "Ekonomi",
+        "publish_time": "17-06-2025 02:31",
+        "news_link": "https://ekonomi.republika.co.id/berita/sxzb04370/harga-emas-antam-turun-rp-18-ribu"
+    },
+    {
+        "title": "Kupas Tuntas Masa Depan Lulusan Prodi Teknologi Informasi di Open House 2025",
+        "category": "News",
+        "publish_time": "17-06-2025 02:23",
+        "news_link": "https://news.republika.co.id/berita/sxzana472/kupas-tuntas-masa-depan-lulusan-prodi-teknologi-informasi-di-open-house-2025"
+    },
+    {
+        "title": "Balasan Iran Bangkrutkan Ratusan Ribu Warga Israel",
+        "category": "News",
+        "publish_time": "17-06-2025 02:22",
+        "news_link": "https://news.republika.co.id/berita/sxzal6393/balasan-iran-bangkrutkan-ratusan-ribu-warga-israel"
+    },
+    {
+        "title": "Nusa Mandiri Startup Center: Wadah Mahasiswa dan Alumni Wujudkan Mimpi Bangun Startup",
+        "category": "News",
+        "publish_time": "17-06-2025 02:14",
+        "news_link": "https://news.republika.co.id/berita/sxza61472/nusa-mandiri-startup-center-wadah-mahasiswa-dan-alumni-wujudkan-mimpi-bangun-startup"
+    },
+    {
+        "title": "WhatsApp akan Tampilkan Iklan di Fitur Status",
+        "category": "Ameera",
+        "publish_time": "17-06-2025 02:14",
+        "news_link": "https://ameera.republika.co.id/berita/sxza5r425/whatsapp-akan-tampilkan-iklan-di-fitur-status"
+    },
+    {
+        "title": "Suka Cita Warganet Arab Saat Israel Dihujani Rudal Iran: Rasakan Penderitaan yang Dialami di Gaza!",
+        "category": "Khazanah",
+        "publish_time": "17-06-2025 02:14",
+        "news_link": "https://khazanah.republika.co.id/berita/sxza5b320/suka-cita-warganet-arab-saat-israel-dihujani-rudal-iran-rasakan-penderitaan-yang-dialami-di-gaza"
+    },
+    {
+        "title": "Permintaan Global Naik, HPE Tembaga Ditetapkan 4.606,40 Dolar AS",
+        "category": "Ekonomi",
+        "publish_time": "17-06-2025 02:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/sxz9wk370/permintaan-global-naik-hpe-tembaga-ditetapkan-460640-dolar-as"
+    },
+    {
+        "title": "Enzo Maresca Puas Performa Chelsea pada Laga Perdana Piala Dunia Antarklub",
+        "category": "News",
+        "publish_time": "17-06-2025 02:14",
+        "news_link": "https://news.republika.co.id/berita/sxz9t4348/enzo-maresca-puas-performa-chelsea-pada-laga-perdana-piala-dunia-antarklub"
+    },
+    {
+        "title": "Jurusan Ilmu Komunikasi Belajar Apa Aja? Gabung HangOut Campus Online UBSI, Dibahas Tuntas di Sini!",
+        "category": "News",
+        "publish_time": "17-06-2025 02:14",
+        "news_link": "https://news.republika.co.id/berita/sxz9qg472/jurusan-ilmu-komunikasi-belajar-apa-aja-gabung-hangout-campus-online-ubsi-dibahas-tuntas-di-sini"
+    },
+    {
+        "title": "Mahasiswa Tersangka Kerusuhan May Day di Semarang Ajukan Praperadilan, Nilai Polisi Sewenang-wenang",
+        "category": "Rejogja",
+        "publish_time": "17-06-2025 02:14",
+        "news_link": "https://rejogja.republika.co.id/berita/sxz9jy282/mahasiswa-tersangka-kerusuhan-may-day-di-semarang-ajukan-praperadilan-nilai-polisi-sewenangwenang"
+    },
+    {
+        "title": "Bank Dunia: Garis Kemiskinan BPS Lebih Relevan untuk Indonesia",
+        "category": "Ekonomi",
+        "publish_time": "17-06-2025 02:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/sxz9gm370/bank-dunia-garis-kemiskinan-bps-lebih-relevan-untuk-indonesia"
+    },
+    {
+        "title": "Pemerintah: Garis Kemiskinan BPS Lebih Relevan untuk Kebijakan Nasional",
+        "category": "Ekonomi",
+        "publish_time": "17-06-2025 02:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/sxz8va370/pemerintah-garis-kemiskinan-bps-lebih-relevan-untuk-kebijakan-nasional"
+    },
+    {
+        "title": "Dukung Insan Pers Unggul, BRI Fellowship Journalism 2025 Kukuhkan 45 Jurnalis Penerima Beasiswa S2",
+        "category": "Ekonomi",
+        "publish_time": "17-06-2025 01:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/sxz8i2472/dukung-insan-pers-unggul-bri-fellowship-journalism-2025-kukuhkan-45-jurnalis-penerima-beasiswa-s2"
+    },
+    {
+        "title": "Santri Aceh Barat: Tak Sejengkal Pun Tanah Aceh akan Kami Lepas",
+        "category": "News",
+        "publish_time": "17-06-2025 01:14",
+        "news_link": "https://news.republika.co.id/berita/sxz8ho393/santri-aceh-barat-tak-sejengkal-pun-tanah-aceh-akan-kami-lepas"
+    },
+    {
+        "title": "Kemenlu Ungkap Kondisi WNI di Iran saat Ini",
+        "category": "Khazanah",
+        "publish_time": "17-06-2025 01:14",
+        "news_link": "https://khazanah.republika.co.id/berita/sxz85f430/kemenlu-ungkap-kondisi-wni-di-iran-saat-ini"
+    },
+    {
+        "title": "BSMI Soroti Minimnya Partisipasi Indonesia dalam Global March to Gaza 2025",
+        "category": "Khazanah",
+        "publish_time": "17-06-2025 01:14",
+        "news_link": "https://khazanah.republika.co.id/berita/sxz81g430/bsmi-soroti-minimnya-partisipasi-indonesia-dalam-global-march-to-gaza-2025"
+    },
+    {
+        "title": "Misteri Kerugian Israel Akibat Serangan Iran, Begini Pembacaan Para Pakar tentang Fakta Sebenarnya",
+        "category": "Khazanah",
+        "publish_time": "17-06-2025 01:14",
+        "news_link": "https://khazanah.republika.co.id/berita/sxz80n320/misteri-kerugian-israel-akibat-serangan-iran-begini-pembacaan-para-pakar-tentang-fakta-sebenarnya"
+    },
+    {
+        "title": "PPIH: Jamaah Dilarang Bawa Air Zamzam, Kalau Ketahuan Koper Dibongkar",
+        "category": "Khazanah",
+        "publish_time": "17-06-2025 01:14",
+        "news_link": "https://khazanah.republika.co.id/berita/sxz7i3483/ppih-jamaah-dilarang-bawa-air-zamzam-kalau-ketahuan-koper-dibongkar"
+    },
+    {
         "title": "Lagi, Iran Sukses Tembak Jatuh Jet Tempur F-35 Israel",
         "category": "Khazanah",
-        "publish_time": "17-06-2025 01:09",
+        "publish_time": "17-06-2025 01:14",
         "news_link": "https://khazanah.republika.co.id/berita/sxz789483/lagi-iran-sukses-tembak-jatuh-jet-tempur-f35-israel"
     },
     {
         "title": "Sevilla Tunjuk Mantan Pemain Almeyda Sebagai Manajer Durasi Kontrak 3 Tahun",
         "category": "News",
-        "publish_time": "17-06-2025 01:03",
+        "publish_time": "17-06-2025 01:14",
         "news_link": "https://news.republika.co.id/berita/sxz6xq348/sevilla-tunjuk-mantan-pemain-almeyda-sebagai-manajer-durasi-kontrak-3-tahun"
     },
     {
         "title": "Donald Trump Desak Jutaan Warga di Teheran Dievakuasi, Isyarat AS Gabung Perang?",
         "category": "News",
-        "publish_time": "17-06-2025 01:02",
+        "publish_time": "17-06-2025 01:14",
         "news_link": "https://news.republika.co.id/berita/sxz6wz409/donald-trump-desak-jutaan-warga-di-teheran-dievakuasi-isyarat-as-gabung-perang"
     },
     {
         "title": "PPIH Ingatkan Jamaah Haji tak Bawa Payung dan Kabel Rol Masuk ke Kabin Pesawat",
         "category": "Khazanah",
-        "publish_time": "17-06-2025 00:57",
+        "publish_time": "17-06-2025 01:14",
         "news_link": "https://khazanah.republika.co.id/berita/sxz6nj483/ppih-ingatkan-jamaah-haji-tak-bawa-payung-dan-kabel-rol-masuk-ke-kabin-pesawat"
     },
     {
         "title": "Indonesia Tuan Rumah Dua Ajang Bergengsi FIBA 3x3 pada Juli 2025",
         "category": "News",
-        "publish_time": "17-06-2025 00:56",
+        "publish_time": "17-06-2025 01:14",
         "news_link": "https://news.republika.co.id/berita/sxz6ms348/indonesia-tuan-rumah-dua-ajang-bergengsi-fiba-3x3-pada-juli-2025"
     },
     {
         "title": "Disebut Tolak Kedatangan Dr Zakir Naik ke Indonesia, Gus Yasin: Kapan Saya Melarang?",
         "category": "Rejogja",
-        "publish_time": "17-06-2025 00:52",
+        "publish_time": "17-06-2025 01:14",
         "news_link": "https://rejogja.republika.co.id/berita/sxz6fe282/disebut-tolak-kedatangan-dr-zakir-naik-ke-indonesia-gus-yasin-kapan-saya-melarang"
     },
     {
         "title": "Perang Israel-Iran, Komisi I Minta WNI Diselamatkan",
         "category": "Khazanah",
-        "publish_time": "17-06-2025 00:49",
+        "publish_time": "17-06-2025 01:14",
         "news_link": "https://khazanah.republika.co.id/berita/sxz6bc483/perang-israeliran-komisi-i-minta-wni-diselamatkan"
     },
     {
         "title": "Pemprov Jabar akan Beri Sanksi ASN Pelanggar SPMB",
         "category": "Rejabar",
-        "publish_time": "17-06-2025 00:39",
+        "publish_time": "17-06-2025 00:14",
         "news_link": "https://rejabar.republika.co.id/berita/sxz5tt282/pemprov-jabar-akan-beri-sanksi-asn-pelanggar-spmb"
     },
     {
         "title": "Prabowo Dorong Kolaborasi Temasek dan Danantara di Proyek Energi Terbarukan",
         "category": "Esgnow",
-        "publish_time": "17-06-2025 00:34",
+        "publish_time": "17-06-2025 00:14",
         "news_link": "https://esgnow.republika.co.id/berita/sxz5d1370/prabowo-dorong-kolaborasi-temasek-dan-danantara-di-proyek-energi-terbarukan"
     },
     {
@@ -62,241 +260,43 @@
     {
         "title": "ID FOOD Suplai Pangan untuk Koperasi Desa Merah Putih",
         "category": "Ekonomi",
-        "publish_time": "17-06-2025 00:12",
+        "publish_time": "17-06-2025 00:14",
         "news_link": "https://ekonomi.republika.co.id/berita/sxz4i8370/id-food-suplai-pangan-untuk-koperasi-desa-merah-putih"
     },
     {
         "title": "Tak Main vs Chelsea, Adrian Wibowo Menanti Kesempatan Main",
         "category": "Network",
-        "publish_time": "16-06-2025 23:12",
+        "publish_time": "16-06-2025 23:14",
         "news_link": "https://skor.republika.co.id/posts/685975/tak-main-vs-chelsea-adrian-wibowo-menanti-kesempatan-main"
     },
     {
         "title": "Iran Luncurkan Serangan Balasan Semalaman, Sistem Pertahanan Rudal Israel Hancur",
         "category": "Khazanah",
-        "publish_time": "16-06-2025 23:12",
+        "publish_time": "16-06-2025 23:14",
         "news_link": "https://khazanah.republika.co.id/berita/sxz2fh483/iran-luncurkan-serangan-balasan-semalaman-sistem-pertahanan-rudal-israel-hancur"
     },
     {
         "title": "Prediksi dan Link Live Streaming Monterrey vs Inter Milan di Piala Dunia Antarklub 2025",
         "category": "Network",
-        "publish_time": "16-06-2025 23:12",
+        "publish_time": "16-06-2025 23:14",
         "news_link": "https://skor.republika.co.id/posts/685973/prediksi-dan-link-live-streaming-monterrey-vs-inter-milan-di-piala-dunia-antarklub-2025"
     },
     {
         "title": "Partisipasi Relawan Indonesia di Global March to Gaza Minim, Begini kata Sekjen BSMI",
         "category": "Khazanah",
-        "publish_time": "16-06-2025 23:12",
+        "publish_time": "16-06-2025 23:14",
         "news_link": "https://khazanah.republika.co.id/berita/sxz1ol483/partisipasi-relawan-indonesia-di-global-march-to-gaza-minim-begini-kata-sekjen-bsmi"
     },
     {
         "title": "Isyarat dari Kemendagri Ubah SK yang Picu Kegaduhan Sengketa Empat Pulau",
         "category": "News",
-        "publish_time": "16-06-2025 23:12",
+        "publish_time": "16-06-2025 23:14",
         "news_link": "https://news.republika.co.id/berita/sxyhgh409/isyarat-dari-kemendagri-ubah-sk-yang-picu-kegaduhan-sengketa-empat-pulau"
     },
     {
         "title": "Viral Kades di Cirebon Nyawer di Diskotik, Ini Ancaman KDM",
         "category": "Rejabar",
-        "publish_time": "16-06-2025 23:12",
+        "publish_time": "16-06-2025 23:14",
         "news_link": "https://rejabar.republika.co.id/berita/sxz1jp430/viral-kades-di-cirebon-nyawer-di-diskotik-ini-ancaman-kdm"
-    },
-    {
-        "title": "Diam-Diam, Israel Minta Iran Berhenti Perang dan Kembali ke Meja Perundingan",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 23:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxys9t483/diamdiam-israel-minta-iran-berhenti-perang-dan-kembali-ke-meja-perundingan"
-    },
-    {
-        "title": "Bambang Pacul: PDIP akan Buat Penulisan Ulang Sejarah Tandingi Kemendikbud",
-        "category": "News",
-        "publish_time": "16-06-2025 23:12",
-        "news_link": "https://news.republika.co.id/berita/sxyhuw409/bambang-pacul-pdip-akan-buat-penulisan-ulang-sejarah-tandingi-kemendikbud"
-    },
-    {
-        "title": "Komunitas Yahudi Iran: Rezim Zionis akan Menyesali Tindakannya yang Memalukan!",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 22:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxyo8e483/komunitas-yahudi-iran-rezim-zionis-akan-menyesali-tindakannya-yang-memalukan"
-    },
-    {
-        "title": "Kemlu: Ada 42 WNI Terjebak di Israel",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 22:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxynd2483/kemlu-ada-42-wni-terjebak-di-israel"
-    },
-    {
-        "title": "Konflik Iran-Israel Paksa Tiga Negara Timur Tengah Absen di Bali",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 21:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxyvxz430/konflik-iranisrael-paksa-tiga-negara-timur-tengah-absen-di-bali"
-    },
-    {
-        "title": "Hulu Ledak Rudal Iran Buat Bunker tak Efektif Lindungi Warga Israel",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 21:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxyv5w430/hulu-ledak-rudal-iran-buat-bunker-tak-efektif-lindungi-warga-israel"
-    },
-    {
-        "title": "Judul: Memahami Makna Sholat dan Jadwal Sholat Hari Ini 17 Juni 2025 di Palembang",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 20:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxyur3188466386/judul-memahami-makna-sholat-dan-jadwal-sholat-hari-ini-17-juni-2025-di-palembang"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini di Yogyakarta Pada Tanggal 17 Juni 2025",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 20:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxytd41985061800/jadwal-sholat-hari-ini-di-yogyakarta-pada-tanggal-17-juni-2025"
-    },
-    {
-        "title": "Kapolri Tinjau Layanan Kesehatan Gratis di Polres Metro Bekasi",
-        "category": "News",
-        "publish_time": "16-06-2025 19:12",
-        "news_link": "https://news.republika.co.id/berita/sxyeft484/kapolri-tinjau-layanan-kesehatan-gratis-di-polres-metro-bekasi"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini di Jakarta, 17 Juni 2025: Kenali Makna Sholat dalam Kehidupan Sehari-hari",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 19:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxyru0397587894/jadwal-sholat-hari-ini-di-jakarta-17-juni-2025-kenali-makna-sholat-dalam-kehidupan-seharihari"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini di Medan, 17 Juni 2025: Ikuti Waktu yang Tepat untuk Beribadah",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 19:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxyqef580129964/jadwal-sholat-hari-ini-di-medan-17-juni-2025-ikuti-waktu-yang-tepat-untuk-beribadah"
-    },
-    {
-        "title": "Menyambut Hari dengan Sempurna: Jadwal Sholat Hari Ini 17 Juni 2025 di Depok",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 19:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxypfi1339622597/menyambut-hari-dengan-sempurna-jadwal-sholat-hari-ini-17-juni-2025-di-depok"
-    },
-    {
-        "title": "Para Menlu OKI akan Berkumpul di Istanbul Bahas Konflik Israel-Iran",
-        "category": "News",
-        "publish_time": "16-06-2025 18:12",
-        "news_link": "https://news.republika.co.id/berita/sxye69484/para-menlu-oki-akan-berkumpul-di-istanbul-bahas-konflik-israeliran"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini di Semarang: 17 Juni 2025 - Memanfaatkan Waktu dengan Lebih Baik",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 18:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxyo9t1482882880/jadwal-sholat-hari-ini-di-semarang-17-juni-2025-memanfaatkan-waktu-dengan-lebih-baik"
-    },
-    {
-        "title": "Gacor di AVC Nations Cup 2025, Ersandrina Devega Bintang Baru Timnas Voli Putri Indonesia",
-        "category": "Network",
-        "publish_time": "16-06-2025 18:12",
-        "news_link": "https://skor.republika.co.id/posts/685963/gacor-di-avc-nations-cup-2025-ersandrina-devega-bintang-baru-timnas-voli-putri-indonesia"
-    },
-    {
-        "title": "Menemukan Kedamaian dengan Sholat: Jadwal Sholat Hari Ini di Bandung, 17 Juni 2025",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 18:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxyn961790634206/menemukan-kedamaian-dengan-sholat-jadwal-sholat-hari-ini-di-bandung-17-juni-2025"
-    },
-    {
-        "title": "Pakistan Tutup Seluruh Jalur Penyeberangan Perbatasannya dengan Iran",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 18:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxymx5483/pakistan-tutup-seluruh-jalur-penyeberangan-perbatasannya-dengan-iran"
-    },
-    {
-        "title": "Zero Waste Warriors: Kumpulkan Ribuan Botol Plastik Hingga Drop Box Sampah",
-        "category": "Esgnow",
-        "publish_time": "16-06-2025 18:12",
-        "news_link": "https://esgnow.republika.co.id/berita/sxymk4483/zero-waste-warriors-kumpulkan-ribuan-botol-plastik-hingga-drop-box-sampah"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini di Surabaya 17 Juni 2025: Temui Kedamaian dalam Ibadah",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 17:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxylyf115584411/jadwal-sholat-hari-ini-di-surabaya-17-juni-2025-temui-kedamaian-dalam-ibadah"
-    },
-    {
-        "title": "Senandungkan Ibadah: Jadwal Sholat Hari Ini di Makassar, Nasional 17 Juni 2025",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 17:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxyknq1361405196/senandungkan-ibadah-jadwal-sholat-hari-ini-di-makassar-nasional-17-juni-2025"
-    },
-    {
-        "title": "Menag: Jangan Mendramatisir Seolah Jamaah Haji Indonesia 'Kiamat'",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 17:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxybyw430/menag-jangan-mendramatisir-seolah-jamaah-haji-indonesia-kiamat"
-    },
-    {
-        "title": "KPK Periksa Kepala BPH Migas Terkait Dugaan Korupsi Jual Beli Gas PT PGN",
-        "category": "Visual",
-        "publish_time": "16-06-2025 17:12",
-        "news_link": "https://visual.republika.co.id/berita/sxyj2e375/kpk-periksa-kepala-bph-migas-terkait-dugaan-korupsi-jual-beli-gas-pt-pgn"
-    },
-    {
-        "title": "Prancis Tutup Stan Israel yang Pamerkan Senjata Pembunuh di Gaza",
-        "category": "News",
-        "publish_time": "16-06-2025 17:12",
-        "news_link": "https://news.republika.co.id/berita/sxykcl393/prancis-tutup-stan-israel-yang-pamerkan-senjata-pembunuh-di-gaza"
-    },
-    {
-        "title": "Heroik, Presenter Wanita IRIB tak Gentar Lanjut Siaran Usai Gedung TV Nasional Iran Dibom Israel",
-        "category": "News",
-        "publish_time": "16-06-2025 16:12",
-        "news_link": "https://news.republika.co.id/berita/sxyjou409/heroik-presenter-wanita-irib-tak-gentar-lanjut-siaran-usai-gedung-tv-nasional-iran-dibom-israel"
-    },
-    {
-        "title": "Tinggalkan Singapura, Presiden Prabowo Menuju St Petersburg, Rusia",
-        "category": "News",
-        "publish_time": "16-06-2025 16:12",
-        "news_link": "https://news.republika.co.id/berita/sxyio3484/tinggalkan-singapura-presiden-prabowo-menuju-st-petersburg-rusia"
-    },
-    {
-        "title": "Apel Pemuda Pelopor Siaga Membangun Desa",
-        "category": "Visual",
-        "publish_time": "16-06-2025 16:12",
-        "news_link": "https://visual.republika.co.id/berita/sxyhwk375/apel-pemuda-pelopor-siaga-membangun-desa"
-    },
-    {
-        "title": "Dedi Mulyadi dan Tomy Winata Adu Cepat Naik Tangga di Cianjur",
-        "category": "News",
-        "publish_time": "16-06-2025 16:12",
-        "news_link": "https://news.republika.co.id/berita/sxyhf3368/dedi-mulyadi-dan-tomy-winata-adu-cepat-naik-tangga-di-cianjur"
-    },
-    {
-        "title": "Iran Hujani Israel dengan Rudal, Yerusalem Porak-poranda",
-        "category": "Network",
-        "publish_time": "16-06-2025 15:12",
-        "news_link": "https://ruzkaindonesia.id/posts/685892/iran-hujani-israel-dengan-rudal-yerusalem-porak-poranda"
-    },
-    {
-        "title": "Keren Tanpa Rokok!, Remaja Depok Deklarasi Dukung KTR",
-        "category": "Network",
-        "publish_time": "16-06-2025 15:12",
-        "news_link": "https://ruzkaindonesia.id/posts/685908/keren-tanpa-rokok-remaja-depok-deklarasi-dukung-ktr"
-    },
-    {
-        "title": "Diskon Tiket Kapal Dorong Lonjakan Penumpang Pelni Saat Libur Sekolah",
-        "category": "Network",
-        "publish_time": "16-06-2025 15:12",
-        "news_link": "https://shippingcargo.co.id/posts/685804/diskon-tiket-kapal-dorong-lonjakan-penumpang-pelni-saat-libur-sekolah"
-    },
-    {
-        "title": "Masduki, Barista Asal Madura yang 30 Tahun Jaga Cita Rasa Kopi di Jeddah",
-        "category": "Khazanah",
-        "publish_time": "16-06-2025 15:12",
-        "news_link": "https://khazanah.republika.co.id/berita/sxya0y366/masduki-barista-asal-madura-yang-30-tahun-jaga-cita-rasa-kopi-di-jeddah"
-    },
-    {
-        "title": "Terbukti Korupsi, Mantan Dirut Indofarma Divonis 10 Tahun Penjara",
-        "category": "Visual",
-        "publish_time": "16-06-2025 15:12",
-        "news_link": "https://visual.republika.co.id/berita/sxy9i3375/terbukti-korupsi-mantan-dirut-indofarma-divonis-10-tahun-penjara"
-    },
-    {
-        "title": "Premi Unit Link Sentuh Rp13,37 Triliun, OJK: Porsi Stabil di 22 Persen",
-        "category": "Ekonomi",
-        "publish_time": "16-06-2025 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/sxycuh370/premi-unit-link-sentuh-rp1337-triliun-ojk-porsi-stabil-di-22-persen"
     }
 ]
