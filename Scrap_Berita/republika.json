@@ -1,110 +1,248 @@
 [
     {
+        "title": "Telkom Perkenalkan StuntingHub, Platform Solusi Pantau Cegah Stunting",
+        "category": "News",
+        "publish_time": "19-06-2025 10:15",
+        "news_link": "https://news.republika.co.id/berita/sy3ltm423/telkom-perkenalkan-stuntinghub-platform-solusi-pantau-cegah-stunting"
+    },
+    {
+        "title": "Mendagri Tito Bolehkan Pemda Rapat di Hotel Asal tidak Berlebihan",
+        "category": "News",
+        "publish_time": "19-06-2025 10:15",
+        "news_link": "https://news.republika.co.id/berita/sy3lti409/mendagri-tito-bolehkan-pemda-rapat-di-hotel-asal-tidak-berlebihan"
+    },
+    {
+        "title": "OKI Akan Bahas Serangan Israel, Menlu Iran Dijadwalkan Hadir",
+        "category": "News",
+        "publish_time": "19-06-2025 10:13",
+        "news_link": "https://news.republika.co.id/berita/sy3lpr458/oki-akan-bahas-serangan-israel-menlu-iran-dijadwalkan-hadir"
+    },
+    {
+        "title": "Beasiswa Cinta Pendidikan, Bupati Jember: 20 Ribu Anak Jember Kami Sekolahkan",
+        "category": "News",
+        "publish_time": "19-06-2025 10:12",
+        "news_link": "https://news.republika.co.id/berita/sy3576451/beasiswa-cinta-pendidikan-bupati-jember-20-ribu-anak-jember-kami-sekolahkan"
+    },
+    {
+        "title": "RUPTL 2025\u20132034 Andalkan PLTS, tapi SDM Masih Kurang",
+        "category": "Esgnow",
+        "publish_time": "19-06-2025 10:10",
+        "news_link": "https://esgnow.republika.co.id/berita/sy3ll8416/ruptl-20252034-andalkan-plts-tapi-sdm-masih-kurang"
+    },
+    {
+        "title": "Indo Defence Expo and Forum 2025 Lahirkan Kolaborasi untuk Teknologi Satelit Nasional",
+        "category": "News",
+        "publish_time": "19-06-2025 10:09",
+        "news_link": "https://news.republika.co.id/berita/sy3k7t456/indo-defence-expo-and-forum-2025-lahirkan-kolaborasi-untuk-teknologi-satelit-nasional"
+    },
+    {
+        "title": "Perbanyak Portofolio, Pertamina NRE Akuisisi 20 Persen Saham Perusahaan EBT Filipina",
+        "category": "Esgnow",
+        "publish_time": "19-06-2025 10:09",
+        "news_link": "https://esgnow.republika.co.id/berita/sy3lim490/perbanyak-portofolio-pertamina-nre-akuisisi-20-persen-saham-perusahaan-ebt-filipina"
+    },
+    {
+        "title": "Dukung MBG, Kemenpar: Bermuara pada Misi Mulia Menjamin Gizi Setiap Anak Bangsa",
+        "category": "News",
+        "publish_time": "19-06-2025 10:02",
+        "news_link": "https://news.republika.co.id/berita/sy3d0q451/dukung-mbg-kemenpar-bermuara-pada-misi-mulia-menjamin-gizi-setiap-anak-bangsa"
+    },
+    {
+        "title": "Mendagri Tito Tegaskan Pemda Boleh Rapat di Hotel, Ini Syaratnya",
+        "category": "News",
+        "publish_time": "19-06-2025 10:00",
+        "news_link": "https://news.republika.co.id/berita/sy3l4n487/mendagri-tito-tegaskan-pemda-boleh-rapat-di-hotel-ini-syaratnya"
+    },
+    {
+        "title": "Infinity Celebration Jadi Tema Anniversary Ke-8 Free Fire",
+        "category": "Network",
+        "publish_time": "19-06-2025 10:00",
+        "news_link": "https://skor.republika.co.id/posts/686711/infinity-celebration-jadi-tema-anniversary-ke-8-free-fire"
+    },
+    {
+        "title": "PLN UID Jabar Gandeng Filantra dan Komunitas Lingkungan Gelar Aksi Zero Waste Warriors",
+        "category": "Khazanah",
+        "publish_time": "19-06-2025 09:57",
+        "news_link": "https://khazanah.republika.co.id/berita/sy3kyu368/pln-uid-jabar-gandeng-filantra-dan-komunitas-lingkungan-gelar-aksi-zero-waste-warriors"
+    },
+    {
+        "title": "Bupati Bandung Barat Jeje Ritchie Ismail Ngaku Jarang ke Kantor, Ini Alasannya",
+        "category": "Rejabar",
+        "publish_time": "19-06-2025 09:54",
+        "news_link": "https://rejabar.republika.co.id/berita/sy3kta512/bupati-bandung-barat-jeje-ritchie-ismail-ngaku-jarang-ke-kantor-ini-alasannya"
+    },
+    {
+        "title": "Prabowo ke Rusia Bahas Pengembangan Nuklir? Ini Penjelasan ESDM",
+        "category": "Ekonomi",
+        "publish_time": "19-06-2025 09:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/sy3kn3490/prabowo-ke-rusia-bahas-pengembangan-nuklir-ini-penjelasan-esdm"
+    },
+    {
+        "title": "Putin dan Pemimpin UEA Bahas Perang Iran-Israel, Serukan Penyelesaian Diplomatik",
+        "category": "News",
+        "publish_time": "19-06-2025 09:46",
+        "news_link": "https://news.republika.co.id/berita/sy3kge458/putin-dan-pemimpin-uea-bahas-perang-iranisrael-serukan-penyelesaian-diplomatik"
+    },
+    {
+        "title": "Wanita Penipu Adopsi Bayi Ditangkap di Jakarta Barat",
+        "category": "News",
+        "publish_time": "19-06-2025 09:43",
+        "news_link": "https://news.republika.co.id/berita/sy3kaw425/wanita-penipu-adopsi-bayi-ditangkap-di-jakarta-barat"
+    },
+    {
+        "title": "KPK Periksa Terpidana Kasus Bansos PKH untuk Penyidikan Bansos Presiden",
+        "category": "News",
+        "publish_time": "19-06-2025 09:40",
+        "news_link": "https://news.republika.co.id/berita/sy3k64487/kpk-periksa-terpidana-kasus-bansos-pkh-untuk-penyidikan-bansos-presiden"
+    },
+    {
+        "title": "10 Mobil Listrik Terlaris China, Satu pun tak ada yang Masuk Indonesia, Ini Daftarnya",
+        "category": "Ekonomi",
+        "publish_time": "19-06-2025 09:36",
+        "news_link": "https://ekonomi.republika.co.id/berita/sy3jzn468/10-mobil-listrik-terlaris-china-satu-pun-tak-ada-yang-masuk-indonesia-ini-daftarnya"
+    },
+    {
+        "title": "Retreat Kepala Daerah Gelombang 2 di IPDN Jatinangor, Peserta Diperbolehkan Bikin Konten",
+        "category": "Rejabar",
+        "publish_time": "19-06-2025 09:32",
+        "news_link": "https://rejabar.republika.co.id/berita/sy3jsz512/retreat-kepala-daerah-gelombang-2-di-ipdn-jatinangor-peserta-diperbolehkan-bikin-konten"
+    },
+    {
+        "title": "BEI Targetkan Tambahan 10 Ribu Investor Syariah Setiap Tahun",
+        "category": "Ekonomi",
+        "publish_time": "19-06-2025 09:32",
+        "news_link": "https://ekonomi.republika.co.id/berita/sy3jsu423/bei-targetkan-tambahan-10-ribu-investor-syariah-setiap-tahun"
+    },
+    {
+        "title": "Tiba di Madinah, Jamaah Haji Indonesia Terharu Melihat Kubah Hijau",
+        "category": "Khazanah",
+        "publish_time": "19-06-2025 09:26",
+        "news_link": "https://khazanah.republika.co.id/berita/sy3izg430/tiba-di-madinah-jamaah-haji-indonesia-terharu-melihat-kubah-hijau"
+    },
+    {
+        "title": "Pernah Nangis Saat Dengar Musik? Ini Penjelasan Ilmiah di Baliknya",
+        "category": "Ameera",
+        "publish_time": "19-06-2025 09:25",
+        "news_link": "https://ameera.republika.co.id/berita/sy3jh4425/pernah-nangis-saat-dengar-musik-ini-penjelasan-ilmiah-di-baliknya"
+    },
+    {
+        "title": "BPJS Ketenagakerjaan Dukung Program Rekrutmen Mitra Digital",
+        "category": "Rejakarta",
+        "publish_time": "19-06-2025 09:24",
+        "news_link": "https://republika.co.id/berita//sy3jb3430/bpjs-ketenagakerjaan-dukung-program-rekrutmen-mitra-digital"
+    },
+    {
+        "title": "Inklusi Keuangan Syariah Baru 13 Persen, Sistem Belum Menyentuh Akar Umat",
+        "category": "Ekonomi Syariah",
+        "publish_time": "19-06-2025 09:24",
+        "news_link": "https://sharia.republika.co.id/berita/sy3jfp423/inklusi-keuangan-syariah-baru-13-persen-sistem-belum-menyentuh-akar-umat"
+    },
+    {
         "title": "Wamendagri: 87 Kepala Daerah Bakal Ikuti Retreat di Kampus IPDN Jatinangor, Enam Orang Sakit",
         "category": "Rejabar",
-        "publish_time": "19-06-2025 09:11",
+        "publish_time": "19-06-2025 09:16",
         "news_link": "https://rejabar.republika.co.id/berita/sy3iuu512/wamendagri-87-kepala-daerah-bakal-ikuti-retreat-di-kampus-ipdn-jatinangor-enam-orang-sakit"
     },
     {
         "title": "Defisit Tidak Selalu Berarti Ekspansif",
         "category": "Kolom",
-        "publish_time": "19-06-2025 09:08",
+        "publish_time": "19-06-2025 09:16",
         "news_link": "https://analisis.republika.co.id/berita/sy3ipw475/defisit-tidak-selalu-berarti-ekspansif"
     },
     {
         "title": "Kemenpar Gelar FGD untuk Susun Panduan Bagi Pengelola Destinasi Wisata",
         "category": "News",
-        "publish_time": "19-06-2025 09:06",
+        "publish_time": "19-06-2025 09:16",
         "news_link": "https://news.republika.co.id/berita/sy3cv3451/kemenpar-gelar-fgd-untuk-susun-panduan-bagi-pengelola-destinasi-wisata"
     },
     {
         "title": "Dokter Anak Ingatkan Bahaya Camilan Manis Buat Si Kecil",
         "category": "Ameera",
-        "publish_time": "19-06-2025 09:03",
+        "publish_time": "19-06-2025 09:16",
         "news_link": "https://ameera.republika.co.id/berita/sy3ih0425/dokter-anak-ingatkan-bahaya-camilan-manis-buat-si-kecil"
     },
     {
         "title": "Depopulasi Jepang Picu Krisis Keanekaragaman Hayati",
         "category": "Esgnow",
-        "publish_time": "19-06-2025 09:03",
+        "publish_time": "19-06-2025 09:16",
         "news_link": "https://esgnow.republika.co.id/berita/sy3igs416/depopulasi-jepang-picu-krisis-keanekaragaman-hayati"
     },
     {
         "title": "Kejagung Bantah Wilmar: Rp11,8 Triliun yang Disita Bukan Uang Jaminan",
         "category": "News",
-        "publish_time": "19-06-2025 09:02",
+        "publish_time": "19-06-2025 09:16",
         "news_link": "https://news.republika.co.id/berita/sy3if9409/kejagung-bantah-wilmar-rp118-triliun-yang-disita-bukan-uang-jaminan"
     },
     {
         "title": "CIMB Niaga Syariah: Daftar Haji Lewat OCTO Mobile Naik 10 Persen",
         "category": "Ekonomi Syariah",
-        "publish_time": "19-06-2025 09:02",
+        "publish_time": "19-06-2025 09:16",
         "news_link": "https://sharia.republika.co.id/berita/sy3if0423/cimb-niaga-syariah-daftar-haji-lewat-octo-mobile-naik-10-persen"
     },
     {
         "title": "Sehari Terakhir, 140 Warga Gaza Syahid Dibunuh Israel",
         "category": "Khazanah",
-        "publish_time": "19-06-2025 09:01",
+        "publish_time": "19-06-2025 09:16",
         "news_link": "https://khazanah.republika.co.id/berita/sy3ie3458/sehari-terakhir-140-warga-gaza-syahid-dibunuh-israel"
     },
     {
         "title": "Polres Indramayu Kembali Raih Penghargaan Pelayanan Publik \u201cA\u201d dari Kapolri",
         "category": "Rejabar",
-        "publish_time": "19-06-2025 08:51",
+        "publish_time": "19-06-2025 09:16",
         "news_link": "https://rejabar.republika.co.id/berita/sy3hxq512/polres-indramayu-kembali-raih-penghargaan-pelayanan-publik-a-dari-kapolri"
     },
     {
         "title": "Cultureplex Cinema, Indahnya Sentuhan Nippon Paint di CGV Grand Indonesia",
         "category": "Rejakarta",
-        "publish_time": "19-06-2025 08:42",
+        "publish_time": "19-06-2025 08:16",
         "news_link": "https://republika.co.id/berita//sy3hin456/cultureplex-cinema-indahnya-sentuhan-nippon-paint-di-cgv-grand-indonesia"
     },
     {
         "title": "PPDB 2025, Sebanyak 10 SD di Gunungkidul Tanpa Murid Baru",
         "category": "Rejogja",
-        "publish_time": "19-06-2025 08:39",
+        "publish_time": "19-06-2025 08:16",
         "news_link": "https://rejogja.republika.co.id/berita/sy3hci291/ppdb-2025-sebanyak-10-sd-di-gunungkidul-tanpa-murid-baru"
     },
     {
         "title": "Bergabung dalam Global March to Gaza, Ketua KPIPA Sempat Bertahan di Kairo",
         "category": "Khazanah",
-        "publish_time": "19-06-2025 08:35",
+        "publish_time": "19-06-2025 08:16",
         "news_link": "https://khazanah.republika.co.id/berita/sy3h64320/bergabung-dalam-global-march-to-gaza-ketua-kpipa-sempat-bertahan-di-kairo"
     },
     {
         "title": "AS Mulai Geser Pesawat Tempur dan Kapal dari Timteng",
         "category": "News",
-        "publish_time": "19-06-2025 08:32",
+        "publish_time": "19-06-2025 08:16",
         "news_link": "https://news.republika.co.id/berita/sy3h2f458/as-mulai-geser-pesawat-tempur-dan-kapal-dari-timteng"
     },
     {
         "title": "Temanmu Sedih Banget? Ini Cara Terbaik Menemaninya",
         "category": "Ameera",
-        "publish_time": "19-06-2025 08:29",
+        "publish_time": "19-06-2025 08:16",
         "news_link": "https://ameera.republika.co.id/berita/sy3gwo425/temanmu-sedih-banget-ini-cara-terbaik-menemaninya"
     },
     {
         "title": "Menlu RI: Sikap Negara G7 Bela Israel Perburuk Situasi",
         "category": "News",
-        "publish_time": "19-06-2025 08:27",
+        "publish_time": "19-06-2025 08:16",
         "news_link": "https://news.republika.co.id/berita/sy3gsx487/menlu-ri-sikap-negara-g7-bela-israel-perburuk-situasi"
     },
     {
         "title": "Bandara Ahmad Yani Semarang akan Layani Penerbangan ke Malaysia dan Singapura",
         "category": "Rejogja",
-        "publish_time": "19-06-2025 08:26",
+        "publish_time": "19-06-2025 08:16",
         "news_link": "https://rejogja.republika.co.id/berita/sy3grp282/bandara-ahmad-yani-semarang-akan-layani-penerbangan-ke-malaysia-dan-singapura"
     },
     {
         "title": "Daftar Haji Kini Bisa di Kantor Pos, PosIND dan Bank Muamalat Luncurkan RTJH",
         "category": "Ekonomi Syariah",
-        "publish_time": "19-06-2025 08:21",
+        "publish_time": "19-06-2025 08:16",
         "news_link": "https://sharia.republika.co.id/berita/sy3gjk423/daftar-haji-kini-bisa-di-kantor-pos-posind-dan-bank-muamalat-luncurkan-rtjh"
     },
     {
         "title": "Anak Muda Juga Bisa Kena Hipertensi, Bagaimana Cara Mencegahnya?",
         "category": "Ameera",
-        "publish_time": "19-06-2025 08:19",
+        "publish_time": "19-06-2025 08:16",
         "news_link": "https://ameera.republika.co.id/berita/sy3ggs425/anak-muda-juga-bisa-kena-hipertensi-bagaimana-cara-mencegahnya"
     },
     {
@@ -160,143 +298,5 @@
         "category": "News",
         "publish_time": "19-06-2025 07:16",
         "news_link": "https://news.republika.co.id/berita/sy35cn451/perkuat-ham-kemenham-garuda-indonesia-miliki-ruang-penting-bangun-ham"
-    },
-    {
-        "title": "Erupsi Lewotobi Reda, Bandara Ngurah Rai Bali Pulihkan Jadwal Penerbangan",
-        "category": "Ekonomi",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/sy3efe423/erupsi-lewotobi-reda-bandara-ngurah-rai-bali-pulihkan-jadwal-penerbangan"
-    },
-    {
-        "title": "Bermunajat di Taman Surga 'Raudhah'",
-        "category": "Video",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://tv.republika.co.id/berita/sy3efc313/bermunajat-di-taman-surga-raudhah"
-    },
-    {
-        "title": "Rusia Ingatkan AS: Jangan Serang Iran",
-        "category": "News",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://news.republika.co.id/berita/sy3ec9409/rusia-ingatkan-as-jangan-serang-iran"
-    },
-    {
-        "title": "Temui Cak Imin, BP Haji Ajak Kawal Revisi UU Haji",
-        "category": "Khazanah",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://khazanah.republika.co.id/berita/sy3ddc483/temui-cak-imin-bp-haji-ajak-kawal-revisi-uu-haji"
-    },
-    {
-        "title": "Kebakaran di Pondok Baru, Ketua RT: APAR Gagal Padamkan Api, Korban Sempat Teriak Minta Tolong",
-        "category": "News",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://news.republika.co.id/berita/sy3dbw451/kebakaran-di-pondok-baru-ketua-rt-apar-gagal-padamkan-api-korban-sempat-teriak-minta-tolong"
-    },
-    {
-        "title": "Operasi Gabungan Pejuang Gaza Tewaskan Petinggi Militer Israel, Perlawanan tak Surut",
-        "category": "Khazanah",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://khazanah.republika.co.id/berita/sy3d1o320/operasi-gabungan-pejuang-gaza-tewaskan-petinggi-militer-israel-perlawanan-tak-surut"
-    },
-    {
-        "title": "PLN Setor Rp 65 Triliun ke Negara, Ini Rinciannya",
-        "category": "Ekonomi",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/sy3cys423/pln-setor-rp-65-triliun-ke-negara-ini-rinciannya"
-    },
-    {
-        "title": "Warga Palestina di Kota-kota Israel Ditolak Masuk Bunker Perlindungan",
-        "category": "Network",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://sekitarkaltim.id/posts/686509/warga-palestina-di-kota-kota-israel-ditolak-masuk-bunker-perlindungan"
-    },
-    {
-        "title": "Anggarkan Rp 160 Miliar, Kaltim Gratiskan Layanan Kesehatan",
-        "category": "Network",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://sekitarkaltim.id/posts/686520/anggarkan-rp-160-miliar-kaltim-gratiskan-layanan-kesehatan"
-    },
-    {
-        "title": "Jika AS Serang Iran, Bom Siluman Bisa Digunakan Trump",
-        "category": "Network",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://sekitarkaltim.id/posts/686522/jika-as-serang-iran-bom-siluman-bisa-digunakan-trump"
-    },
-    {
-        "title": "Aksi Nyata Dukung Gaya Hidup Sehat dan Pelestarian Lingkungan di SOFestival 2025",
-        "category": "Network",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://bisnistime.com/posts/686560/aksi-nyata-dukung-gaya-hidup-sehat-dan-pelestarian-lingkungan-di-sofestival-2025"
-    },
-    {
-        "title": "Catatan Cak AT: Seni Perang dalam Diam",
-        "category": "Network",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://ruzkaindonesia.id/posts/686570/catatan-cak-at-seni-perang-dalam-diam"
-    },
-    {
-        "title": "Ekspor Batubara Indonesia Tidak Terimbas Konflik Israel-Iran",
-        "category": "Network",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://shippingcargo.co.id/posts/686381/ekspor-batubara-indonesia-tidak-terimbas-konflik-israel-iran"
-    },
-    {
-        "title": "Wamendikdasmen Fajar Tegaskan SPMB Berjalan Baik",
-        "category": "Network",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://pemantiknews.id/posts/686595/wamendikdasmen-fajar-tegaskan-spmb-berjalan-baik"
-    },
-    {
-        "title": "Trailer Springsteen: Deliver Me From Nowhere Dirilis",
-        "category": "Network",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://impresiupdate.id/posts/686620/trailer-springsteen-deliver-me-from-nowhere-dirilis"
-    },
-    {
-        "title": "Siapa yang Bertanggung Jawab Saat Asteroid Menuju Bumi?",
-        "category": "Network",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://impresiupdate.id/posts/686622/siapa-yang-bertanggung-jawab-saat-asteroid-menuju-bumi-"
-    },
-    {
-        "title": "Chip 3D Mungil Bisa Tingkatkan Daya Ponsel dan Memangkas Penggunaan Energi",
-        "category": "Network",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://impresiupdate.id/posts/686626/chip-3d-mungil-bisa-tingkatkan-daya-ponsel-dan-memangkas-penggunaan-energi"
-    },
-    {
-        "title": "Jelang Konser Perpisahan Black Sabbath, Ozzy Osbourne: Saya Terlahir Gugup",
-        "category": "Network",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://impresiupdate.id/posts/686628/jelang-konser-perpisahan-black-sabbath-ozzy-osbourne-saya-terlahir-gugup"
-    },
-    {
-        "title": "Pemerintah Tegaskan, Layanan TBC Itu Gratis",
-        "category": "Network",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://diagnosa.id/posts/686630/pemerintah-tegaskan-layanan-tbc-itu-gratis"
-    },
-    {
-        "title": "Hasto Susun Pleidoi Gunakan AI",
-        "category": "News",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://news.republika.co.id/berita/sy3ccm409/hasto-susun-pleidoi-gunakan-ai"
-    },
-    {
-        "title": "KPK Periksa Deputi Gubernur BI dan Dua Anggota DPR Diperiksa Terkait Kasus CSR",
-        "category": "News",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://news.republika.co.id/berita/sy3ccl487/kpk-periksa-deputi-gubernur-bi-dan-dua-anggota-dpr-diperiksa-terkait-kasus-csr"
-    },
-    {
-        "title": "LBH Ansor Dampingi Transmigran Korban Konflik Agraria, Endus Keterlibatan Mafia Tanah",
-        "category": "Resumatra",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://republika.co.id/berita//sy3cbm320/lbh-ansor-dampingi-transmigran-korban-konflik-agraria-endus-keterlibatan-mafia-tanah"
-    },
-    {
-        "title": "Camp Tahfidz Raudhatul Quran 2025: Menghafal Sambil Memahami Alquran",
-        "category": "Khazanah",
-        "publish_time": "19-06-2025 07:16",
-        "news_link": "https://khazanah.republika.co.id/berita/sy3c8t483/camp-tahfidz-raudhatul-quran-2025-menghafal-sambil-memahami-alquran"
     }
 ]
