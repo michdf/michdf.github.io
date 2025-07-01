@@ -1,176 +1,260 @@
 [
     {
+        "title": "Meninggal Mendadak adalah Tanda Su'ul Khatimah, Benarkah?",
+        "category": "Khazanah",
+        "publish_time": "01-07-2025 12:21",
+        "news_link": "https://khazanah.republika.co.id/berita/sypznl458/meninggal-mendadak-adalah-tanda-suul-khatimah-benarkah"
+    },
+    {
+        "title": "Fornas VIII Siap Digelar di NTB, 73 Inorga Bakal Dipertandingkan",
+        "category": "Network",
+        "publish_time": "01-07-2025 12:09",
+        "news_link": "https://skor.republika.co.id/posts/689805/fornas-viii-siap-digelar-di-ntb-73-inorga-bakal-dipertandingkan"
+    },
+    {
+        "title": "BSI Biayai Proyek Hijau dan Sosial dengan Sukuk Berkelanjutan",
+        "category": "Ekonomi Syariah",
+        "publish_time": "01-07-2025 12:06",
+        "news_link": "https://sharia.republika.co.id/berita/sypyyl416/bsi-biayai-proyek-hijau-dan-sosial-dengan-sukuk-berkelanjutan"
+    },
+    {
+        "title": "Kisah Syuhada Uhud",
+        "category": "Khazanah",
+        "publish_time": "01-07-2025 12:06",
+        "news_link": "https://khazanah.republika.co.id/berita/sypyyh458/kisah-syuhada-uhud"
+    },
+    {
+        "title": "SKK Migas Targetkan Puluhan Proyek Migas Onstream hingga 2030",
+        "category": "Ekonomi",
+        "publish_time": "01-07-2025 12:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/sypyu9370/skk-migas-targetkan-puluhan-proyek-migas-onstream-hingga-2030"
+    },
+    {
+        "title": "Bertolak ke Arab Saudi, Prabowo Titip Pesan ke Gibran, Ini Penjelasan Dasco",
+        "category": "News",
+        "publish_time": "01-07-2025 12:00",
+        "news_link": "https://news.republika.co.id/berita/sypyoq377/bertolak-ke-arab-saudi-prabowo-titip-pesan-ke-gibran-ini-penjelasan-dasco"
+    },
+    {
+        "title": "Melalui Cincin, Tremendum Bawa Cerita Budaya Nusantara ke World Expo Osaka 2025",
+        "category": "Ameera",
+        "publish_time": "01-07-2025 11:45",
+        "news_link": "https://ameera.republika.co.id/berita/sypsx1291/melalui-cincin-tremendum-bawa-cerita-budaya-nusantara-ke-world-expo-osaka-2025"
+    },
+    {
+        "title": "Kasasi Ditolak, Harvey Moeis Tetap Dihukum 20 Tahun Penjara",
+        "category": "News",
+        "publish_time": "01-07-2025 11:44",
+        "news_link": "https://news.republika.co.id/berita/sypxy4377/kasasi-ditolak-harvey-moeis-tetap-dihukum-20-tahun-penjara"
+    },
+    {
+        "title": "Gubernur Jateng: Wibawa Polri Bukan dari Seragam, tapi Suri Teladan",
+        "category": "News",
+        "publish_time": "01-07-2025 11:38",
+        "news_link": "https://news.republika.co.id/berita/sypxoe377/gubernur-jateng-wibawa-polri-bukan-dari-seragam-tapi-suri-teladan"
+    },
+    {
+        "title": "APBN 2024 Tumbuh 7,6 Persen, Defisit Lebih Rendah dari Target",
+        "category": "Ekonomi",
+        "publish_time": "01-07-2025 11:36",
+        "news_link": "https://ekonomi.republika.co.id/berita/sypxkx370/apbn-2024-tumbuh-76-persen-defisit-lebih-rendah-dari-target"
+    },
+    {
+        "title": "Perpustakaan Kaltim Utamakan Layanan Ramah Anak di Musim Libur Sekolah",
+        "category": "News",
+        "publish_time": "01-07-2025 11:30",
+        "news_link": "https://news.republika.co.id/berita/sypr25451/perpustakaan-kaltim-utamakan-layanan-ramah-anak-di-musim-libur-sekolah"
+    },
+    {
+        "title": "Polda Banten Hadirkan Warung Bhabin Keliling di Hari Bhayangkara",
+        "category": "News",
+        "publish_time": "01-07-2025 11:30",
+        "news_link": "https://news.republika.co.id/berita/sypptc451/polda-banten-hadirkan-warung-bhabin-keliling-di-hari-bhayangkara"
+    },
+    {
+        "title": "Keteladanan Jenderal Hoegeng, Sosok Kapolri yang Harum Namanya",
+        "category": "News",
+        "publish_time": "01-07-2025 11:30",
+        "news_link": "https://news.republika.co.id/berita/sypwtz458/keteladanan-jenderal-hoegeng-sosok-kapolri-yang-harum-namanya"
+    },
+    {
+        "title": "Hadir di Jakarta Fair Kemayoran, Ariston Tampilkan Solusi Rumah Tangga Inovatif",
+        "category": "Rejakarta",
+        "publish_time": "01-07-2025 11:30",
+        "news_link": "https://republika.co.id/berita//syps1j291/hadir-di-jakarta-fair-kemayoran-ariston-tampilkan-solusi-rumah-tangga-inovatif"
+    },
+    {
         "title": "FLPP Capai Rp 18,8 Triliun, Target Rumah Subsidi Dinaikkan jadi 350 Ribu Unit",
         "category": "Ekonomi",
-        "publish_time": "01-07-2025 11:09",
+        "publish_time": "01-07-2025 11:30",
         "news_link": "https://ekonomi.republika.co.id/berita/sypwbb370/flpp-capai-rp-188-triliun-target-rumah-subsidi-dinaikkan-jadi-350-ribu-unit"
     },
     {
         "title": "Disnaker Depok Serahkan Bantuan Alat Pembuat Kopi ke Rumah Autis",
         "category": "Network",
-        "publish_time": "01-07-2025 11:06",
+        "publish_time": "01-07-2025 11:30",
         "news_link": "https://ruzkaindonesia.id/posts/689747/disnaker-depok-serahkan-bantuan-alat-pembuat-kopi-ke-rumah-autis"
     },
     {
         "title": "Karma Digital dan Dosa Turunan di Era Smartphone",
         "category": "Kolom",
-        "publish_time": "01-07-2025 11:05",
+        "publish_time": "01-07-2025 11:30",
         "news_link": "https://analisis.republika.co.id/berita/sypw5a458/karma-digital-dan-dosa-turunan-di-era-smartphone"
     },
     {
         "title": "Tumbuhkan Ekonomi, Segitiga Emas Sukabumi-Cianjur-Bogor Perkuat Konektivitas Infrastruktur",
         "category": "Network",
-        "publish_time": "01-07-2025 11:05",
+        "publish_time": "01-07-2025 11:30",
         "news_link": "https://sukabumikini.com/posts/689761/tumbuhkan-ekonomi-segitiga-emas-sukabumi-cianjur-bogor-perkuat-konektivitas-infrastruktur"
     },
     {
         "title": "Gangguan GPS Hambat Logistik Maritim di Selat Hormuz",
         "category": "Network",
-        "publish_time": "01-07-2025 11:05",
+        "publish_time": "01-07-2025 11:30",
         "news_link": "https://shippingcargo.co.id/posts/689549/gangguan-gps-hambat-logistik-maritim-di-selat-hormuz"
     },
     {
         "title": "Jadwal dan Harga Tiket Argo Dwipangga Relasi Gambir-Solo PP Juli 2025",
         "category": "Network",
-        "publish_time": "01-07-2025 11:05",
+        "publish_time": "01-07-2025 11:30",
         "news_link": "https://kreta.id/posts/689772/jadwal-dan-harga-tiket-argo-dwipangga-relasi-gambir-solo-pp-juli-2025"
     },
     {
         "title": "Mengapa Doa Ibu Mustajabah?",
         "category": "Network",
-        "publish_time": "01-07-2025 11:04",
+        "publish_time": "01-07-2025 11:30",
         "news_link": "https://sajada.id/posts/689762/mengapa-doa-ibu-mustajabah-"
     },
     {
         "title": "Ingat Baik-Baik, Ini 6 Karakteristik Layanan Pinjaman Online yang Legal dan Tepercaya",
         "category": "Network",
-        "publish_time": "01-07-2025 11:04",
+        "publish_time": "01-07-2025 11:30",
         "news_link": "https://cari.republika.co.id/posts/689777/ingat-baik-baik-ini-6-karakteristik-layanan-pinjaman-online-yang-legal-dan-tepercaya"
     },
     {
         "title": "Produk Kerajinan Sukabumi Ditargetkan Tembus Pasar Nasional Hingga Ekspor",
         "category": "Network",
-        "publish_time": "01-07-2025 11:04",
+        "publish_time": "01-07-2025 11:30",
         "news_link": "https://sukabumikini.com/posts/689781/produk-kerajinan-sukabumi-ditargetkan-tembus-pasar-nasional-hingga-ekspor"
     },
     {
         "title": "Pemkot Depok Hentikan Bansos Santunan Kematian, Dinilai Tidak Relevan dengan RPJMD",
         "category": "Network",
-        "publish_time": "01-07-2025 11:04",
+        "publish_time": "01-07-2025 11:30",
         "news_link": "https://ruzkaindonesia.id/posts/689782/pemkot-depok-hentikan-bansos-santunan-kematian-dinilai-tidak-relevan-dengan-rpjmd"
     },
     {
         "title": "Hari Lingkungan Hidup Sedunia, SCG dan KLH Dorong Inovasi Pengelolaan Sampah Plastik",
         "category": "Network",
-        "publish_time": "01-07-2025 11:03",
+        "publish_time": "01-07-2025 11:30",
         "news_link": "https://sukabumikini.com/posts/689784/hari-lingkungan-hidup-sedunia-scg-dan-klh-dorong-inovasi-pengelolaan-sampah-plastik"
     },
     {
         "title": "Ukraina Gunakan Drone Jarak Jauh UJ-26 \"Bober\" Serang Sukhoi Su-30",
         "category": "Network",
-        "publish_time": "01-07-2025 11:03",
+        "publish_time": "01-07-2025 11:30",
         "news_link": "https://seputarmiliter.id/posts/689788/ukraina-gunakan-drone-jarak-jauh-uj-26-bober-serang-sukhoi-su-30"
     },
     {
         "title": "Bayraktar TB2 Kini Dilengkapi Rudal Pembunuh Drone",
         "category": "Network",
-        "publish_time": "01-07-2025 11:03",
+        "publish_time": "01-07-2025 11:30",
         "news_link": "https://seputarmiliter.id/posts/689791/bayraktar-tb2-kini-dilengkapi-rudal-pembunuh-drone"
     },
     {
         "title": "Kakek-Nenek Reuni, Honor Guntur Soekarnoputra Rp 15 Ribu",
         "category": "Network",
-        "publish_time": "01-07-2025 11:02",
+        "publish_time": "01-07-2025 11:30",
         "news_link": "https://oohya.republika.co.id/posts/689749/kakek-nenek-reuni-honor-guntur-soekarnoputra-rp-15-ribu"
     },
     {
         "title": "Menteri LH Keliling Jakarta Awasi Sampah untuk Operasional RDF Rorotan",
         "category": "News",
-        "publish_time": "01-07-2025 11:01",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://news.republika.co.id/berita/sypppm451/menteri-lh-keliling-jakarta-awasi-sampah-untuk-operasional-rdf-rorotan"
     },
     {
         "title": "Standar Ganda \u2018Death to IDF' AS dan Inggris",
         "category": "News",
-        "publish_time": "01-07-2025 11:00",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://news.republika.co.id/berita/sypvwy393/standar-ganda-death-to-idf-as-dan-inggris"
     },
     {
         "title": "Dorong Regenerasi Atlet Esports, BCA dan Alter Ego Gelar myBCA Esports Academy",
         "category": "Network",
-        "publish_time": "01-07-2025 11:00",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://skor.republika.co.id/posts/689792/dorong-regenerasi-atlet-esports-bca-dan-alter-ego-gelar-my-bca-esports-academy"
     },
     {
         "title": "Jelang Tahun Ajaran Baru, Warga Ramai-Ramai Jual Emas untuk Biaya Sekolah",
         "category": "Visual",
-        "publish_time": "01-07-2025 11:00",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://visual.republika.co.id/berita/syps1y375/jelang-tahun-ajaran-baru-warga-ramairamai-jual-emas-untuk-biaya-sekolah"
     },
     {
         "title": "Nikita Mirzani Jalani Sidang Eksepsi, Titip Harapan Ini kepada Presiden Prabowo",
         "category": "Ameera",
-        "publish_time": "01-07-2025 10:58",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://ameera.republika.co.id/berita/sypvsw425/nikita-mirzani-jalani-sidang-eksepsi-titip-harapan-ini-kepada-presiden-prabowo"
     },
     {
         "title": "Gejolak Geopolitik Harus Jadi Momentum Percepatan Infrastruktur Hijau",
         "category": "Esgnow",
-        "publish_time": "01-07-2025 10:58",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://esgnow.republika.co.id/berita/sypvsc416/gejolak-geopolitik-harus-jadi-momentum-percepatan-infrastruktur-hijau"
     },
     {
         "title": "Ratusan Pendaki Nikmati Liburan di Puncak Ciremai",
         "category": "Rejabar",
-        "publish_time": "01-07-2025 10:50",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://rejabar.republika.co.id/berita/sypvg4512/ratusan-pendaki-nikmati-liburan-di-puncak-ciremai"
     },
     {
         "title": "Prediksi dan Link Live Streaming Pakistan vs Indonesia di Kualifikasi Piala Asia Wanita 2026",
         "category": "Network",
-        "publish_time": "01-07-2025 10:50",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://skor.republika.co.id/posts/689789/prediksi-dan-link-live-streaming-pakistan-vs-indonesia-di-kualifikasi-piala-asia-wanita-2026"
     },
     {
         "title": "Penyanyi Dangdut Hamdan ATT Meninggal Dunia",
         "category": "Ameera",
-        "publish_time": "01-07-2025 10:48",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://ameera.republika.co.id/berita/sypvbo425/penyanyi-dangdut-hamdan-att-meninggal-dunia"
     },
     {
         "title": "Industri Makanan dan Minuman Jadi Tulang Punggung Ekonomi Halal",
         "category": "Ekonomi Syariah",
-        "publish_time": "01-07-2025 10:45",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://sharia.republika.co.id/berita/sypv81370/industri-makanan-dan-minuman-jadi-tulang-punggung-ekonomi-halal"
     },
     {
         "title": "Siap Tes DNA, Ini Alasan Revelino Lakukan Intervensi dan Minta Hakim Tolak Gugatan Lisa Mariana",
         "category": "News",
-        "publish_time": "01-07-2025 10:44",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://news.republika.co.id/berita/sypv5d409/siap-tes-dna-ini-alasan-revelino-lakukan-intervensi-dan-minta-hakim-tolak-gugatan-lisa-mariana"
     },
     {
         "title": "Gabah dan Cabai Dongkrak Nilai Tukar Petani",
         "category": "Ekonomi",
-        "publish_time": "01-07-2025 10:39",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://ekonomi.republika.co.id/berita/sypux8416/gabah-dan-cabai-dongkrak-nilai-tukar-petani"
     },
     {
         "title": "Pendaftaran Program Beasiswa Teladan Tanoto Foundation Kembali Dibuka",
         "category": "Rejogja",
-        "publish_time": "01-07-2025 10:37",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://rejogja.republika.co.id/berita/sypsca291/pendaftaran-program-beasiswa-teladan-tanoto-foundation-kembali-dibuka"
     },
     {
         "title": "Daftar Enam Tim yang Sudah Lolos ke Perempat Final Piala Dunia Antarklub 2025",
         "category": "News",
-        "publish_time": "01-07-2025 10:35",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://news.republika.co.id/berita/sypuq7409/daftar-enam-tim-yang-sudah-lolos-ke-perempat-final-piala-dunia-antarklub-2025"
     },
     {
         "title": "Cerita Lengkap Suami yang Viral Usai Istrinya Meninggal di RSUD Cibabat",
         "category": "Rejabar",
-        "publish_time": "01-07-2025 10:34",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://rejabar.republika.co.id/berita/sypupl512/cerita-lengkap-suami-yang-viral-usai-istrinya-meninggal-di-rsud-cibabat"
     },
     {
@@ -188,115 +272,31 @@
     {
         "title": "Miss Papua Dituding 'Dukung' Zionis, Ini Kata Pendeta Papua",
         "category": "News",
-        "publish_time": "01-07-2025 10:29",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://news.republika.co.id/berita/sypugd393/miss-papua-dituding-dukung-zionis-ini-kata-pendeta-papua"
     },
     {
         "title": "Kemenag: Zakat\u00a0tak Lewat LAZ Seperti Orang Shalat Sendirian",
         "category": "Khazanah",
-        "publish_time": "01-07-2025 10:29",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://khazanah.republika.co.id/berita/sypp1q451/kemenag-zakattak-lewat-laz-seperti-orang-shalat-sendirian"
     },
     {
         "title": "Waspada! Pakai Skincare Retinoid Saat Hamil Bisa Picu Cacat Janin",
         "category": "Ameera",
-        "publish_time": "01-07-2025 10:24",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://ameera.republika.co.id/berita/sypu8t425/waspada-pakai-skincare-retinoid-saat-hamil-bisa-picu-cacat-janin"
     },
     {
         "title": "IHSG Ditutup Melemah Dipimpin Sektor Transportasi dan Logistik",
         "category": "Ekonomi",
-        "publish_time": "01-07-2025 10:24",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://ekonomi.republika.co.id/berita/sypu7l370/ihsg-ditutup-melemah-dipimpin-sektor-transportasi-dan-logistik"
     },
     {
         "title": "Gubernur Jabar Dedi Mulyadi Ganti Nama RSUD Al Ihsan Jadi RSUD Welas Asih, Ini Penyebabnya",
         "category": "Rejabar",
-        "publish_time": "01-07-2025 10:20",
+        "publish_time": "01-07-2025 10:30",
         "news_link": "https://rejabar.republika.co.id/berita/sypu28512/gubernur-jabar-dedi-mulyadi-ganti-nama-rsud-al-ihsan-jadi-rsud-welas-asih-ini-penyebabnya"
-    },
-    {
-        "title": "Kemenperin dan Unpad Kolaborasi Percepat Industri Hijau Nasional",
-        "category": "Esgnow",
-        "publish_time": "01-07-2025 10:20",
-        "news_link": "https://esgnow.republika.co.id/berita/sypu28370/kemenperin-dan-unpad-kolaborasi-percepat-industri-hijau-nasional"
-    },
-    {
-        "title": "Viral Bocah Terjatuh dari Bus 'Mabes AD' yang Melaju di Tol, Ini Kronologinya Versi Polisi",
-        "category": "News",
-        "publish_time": "01-07-2025 10:17",
-        "news_link": "https://news.republika.co.id/berita/syptw1409/viral-bocah-terjatuh-dari-bus-mabes-ad-yang-melaju-di-tol-ini-kronologinya-versi-polisi"
-    },
-    {
-        "title": "UMKM Harus Mulai Melek Pemasaran Digital, Teknologi BigBox AI Bisa Bantu Mengotomatisasi Pelanggan",
-        "category": "Rejabar",
-        "publish_time": "01-07-2025 10:13",
-        "news_link": "https://rejabar.republika.co.id/berita/syptq0512/umkm-harus-mulai-melek-pemasaran-digital-teknologi-bigbox-ai-bisa-bantu-mengotomatisasi-pelanggan"
-    },
-    {
-        "title": "Pemain Keturunan Baru Timnas Malaysia Diragukan, FAM Beri Pernyataan Tegas",
-        "category": "Network",
-        "publish_time": "01-07-2025 10:13",
-        "news_link": "https://skor.republika.co.id/posts/689770/pemain-naturalisasi-baru-timnas-malaysia-diragukan-fam-beri-pernyataan-tegas"
-    },
-    {
-        "title": "Menteri LH Ungkap Pentingnya Pengoperasian RDF Rorotan",
-        "category": "Esgnow",
-        "publish_time": "01-07-2025 10:13",
-        "news_link": "https://esgnow.republika.co.id/berita/sypsaq416/menteri-lh-ungkap-pentingnya-pengoperasian-rdf-rorotan"
-    },
-    {
-        "title": "Atraksi Robot dan Defile Pasukan Warnai HUT ke-79 Bhayangkara di Monas",
-        "category": "Visual",
-        "publish_time": "01-07-2025 10:13",
-        "news_link": "https://visual.republika.co.id/berita/syprxo375/atraksi-robot-dan-defile-pasukan-warnai-hut-ke79-bhayangkara-di-monas"
-    },
-    {
-        "title": "Akademisi Ungkap Buku Ini Catat Sejarah Tanah Blang Padang Diwakafkan untuk Masjid Baiturrahman",
-        "category": "News",
-        "publish_time": "01-07-2025 10:13",
-        "news_link": "https://news.republika.co.id/berita/sypt31409/akademisi-ungkap-buku-ini-catat-sejarah-tanah-blang-padang-diwakafkan-untuk-masjid-baiturrahman"
-    },
-    {
-        "title": "Ketika Rasulullah Mengganjal Perutnya dengan Batu",
-        "category": "Khazanah",
-        "publish_time": "01-07-2025 10:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sypstu458/ketika-rasulullah-mengganjal-perutnya-dengan-batu"
-    },
-    {
-        "title": "Manchester United Tunggu Tawaran untuk Rashford dan Garnacho",
-        "category": "News",
-        "publish_time": "01-07-2025 10:13",
-        "news_link": "https://news.republika.co.id/berita/sypsrq348/manchester-united-tunggu-tawaran-untuk-rashford-dan-garnacho"
-    },
-    {
-        "title": "Ekonom Ingatkan Kenaikan Tarif Ojol Justru Bisa Rugikan Pengemudi",
-        "category": "Ekonomi",
-        "publish_time": "01-07-2025 10:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/sypsjx370/ekonom-ingatkan-kenaikan-tarif-ojol-justru-bisa-rugikan-pengemudi"
-    },
-    {
-        "title": "Belasan Muara di Indramayu Alami Pendangkalan Parah",
-        "category": "Rejabar",
-        "publish_time": "01-07-2025 10:13",
-        "news_link": "https://rejabar.republika.co.id/berita/sypshd512/belasan-muara-di-indramayu-alami-pendangkalan-parah"
-    },
-    {
-        "title": "Trauma Ledakan Belum Hilang, Warga Tolak SPBU Gedongtengen Beroperasi Lagi",
-        "category": "Rejogja",
-        "publish_time": "01-07-2025 10:13",
-        "news_link": "https://rejogja.republika.co.id/berita/sypsgu291/trauma-ledakan-belum-hilang-warga-tolak-spbu-gedongtengen-beroperasi-lagi"
-    },
-    {
-        "title": "Nubuat Nabi tentang Sungai Eufrat dan Gunung Emas",
-        "category": "Khazanah",
-        "publish_time": "01-07-2025 10:13",
-        "news_link": "https://khazanah.republika.co.id/berita/sypsgl458/nubuat-nabi-tentang-sungai-eufrat-dan-gunung-emas"
-    },
-    {
-        "title": "Dari Kasus Skincare ke Meja Hijau, Nikita Mirzani Minta Keadilan di Sidang Eksepsi",
-        "category": "Ameera",
-        "publish_time": "01-07-2025 09:13",
-        "news_link": "https://ameera.republika.co.id/berita/sypscs425/dari-kasus-skincare-ke-meja-hijau-nikita-mirzani-minta-keadilan-di-sidang-eksepsi"
     }
 ]
