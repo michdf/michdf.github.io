@@ -1,68 +1,182 @@
 [
     {
+        "title": "Kadin Yakin IEU-CEPA Dongkrak Volume Perdagangan",
+        "category": "Ekonomi",
+        "publish_time": "14-07-2025 04:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/szdgi5416/kadin-yakin-ieucepa-dongkrak-volume-perdagangan"
+    },
+    {
+        "title": "Luis Enrique Ribut dengan Joao Pedro, Niatnya Hanya Melerai",
+        "category": "Network",
+        "publish_time": "14-07-2025 04:29",
+        "news_link": "https://skor.republika.co.id/posts/692623/luis-enrique-ribut-dengan-joao-pedro-niatnya-hanya-melerai"
+    },
+    {
+        "title": "Dua\u00a0Sekolah Rakyat di\u00a0DIY\u00a0Dibuka\u00a0Hari Ini, 275 Anak Ikut Orientasi",
+        "category": "Rejogja",
+        "publish_time": "14-07-2025 04:28",
+        "news_link": "https://rejogja.republika.co.id/berita/szdggh291/duasekolah-rakyat-didiydibukahari-ini-275-anak-ikut-orientasi"
+    },
+    {
+        "title": "DPR Masih Buka Masukan Revisi KUHAP Sebelum Disahkan di Paripurna",
+        "category": "News",
+        "publish_time": "14-07-2025 04:25",
+        "news_link": "https://news.republika.co.id/berita/szdgbf484/dpr-masih-buka-masukan-revisi-kuhap-sebelum-disahkan-di-paripurna"
+    },
+    {
+        "title": "Saatnya Menjadikan Guru Ngaji Sebagai Profesi",
+        "category": "Khazanah",
+        "publish_time": "14-07-2025 04:20",
+        "news_link": "https://khazanah.republika.co.id/berita/szdg2w483/saatnya-menjadikan-guru-ngaji-sebagai-profesi"
+    },
+    {
+        "title": "KKP Dorong Penerapan SNI Demi Tingkatkan Daya Saing Produk Perikanan",
+        "category": "Ekonomi",
+        "publish_time": "14-07-2025 04:12",
+        "news_link": "https://ekonomi.republika.co.id/berita/szdfq1430/kkp-dorong-penerapan-sni-demi-tingkatkan-daya-saing-produk-perikanan"
+    },
+    {
+        "title": "Cyber University Tuan Rumah Verifikasi Pelaporan SPMI Semester I 2025 Oleh LLDikti Wilayah III",
+        "category": "News",
+        "publish_time": "14-07-2025 04:08",
+        "news_link": "https://news.republika.co.id/berita/szdfi8472/cyber-university-tuan-rumah-verifikasi-pelaporan-spmi-semester-i-2025-oleh-lldikti-wilayah-iii"
+    },
+    {
+        "title": "Modal Rp180 Ribu Bangun Prodia: Rahasia Andi Wijaya Bertahan 52 Tahun di Industri Lab Medis",
+        "category": "Ameera",
+        "publish_time": "14-07-2025 03:59",
+        "news_link": "https://ameera.republika.co.id/berita/szd2eb525/modal-rp180-ribu-bangun-prodia-rahasia-andi-wijaya-bertahan-52-tahun-di-industri-lab-medis"
+    },
+    {
+        "title": "UNM Tawarkan Potongan Biaya Kuliah dan Program IEP 3+1 untuk Cetak Manajer Muda Andal",
+        "category": "News",
+        "publish_time": "14-07-2025 03:59",
+        "news_link": "https://news.republika.co.id/berita/szdf37472/unm-tawarkan-potongan-biaya-kuliah-dan-program-iep-31-untuk-cetak-manajer-muda-andal"
+    },
+    {
+        "title": "Matahari Melintas di Atas Ka'bah Selasa-Rabu, Kemenag Minta Umat Cek Arah Kiblat, Ini Caranya",
+        "category": "Khazanah",
+        "publish_time": "14-07-2025 03:55",
+        "news_link": "https://khazanah.republika.co.id/berita/szdexm483/matahari-melintas-di-atas-kabah-selasarabu-kemenag-minta-umat-cek-arah-kiblat-ini-caranya"
+    },
+    {
+        "title": "Kelulusan UKMPPD di Atas Rata-Rata, Kedokteran Unika Atma Jaya Siapkan Calon Dokter Berkualitas",
+        "category": "Rejogja",
+        "publish_time": "14-07-2025 03:52",
+        "news_link": "https://rejogja.republika.co.id/berita/szdcew291/kelulusan-ukmppd-di-atas-ratarata-kedokteran-unika-atma-jaya-siapkan-calon-dokter-berkualitas"
+    },
+    {
+        "title": "Kunjungi Telkom Akses Semarang, Mahasiswa UBSI Pelajari Administrasi Proyek Konstruksi Jaringan",
+        "category": "News",
+        "publish_time": "14-07-2025 03:48",
+        "news_link": "https://news.republika.co.id/berita/szdelo472/kunjungi-telkom-akses-semarang-mahasiswa-ubsi-pelajari-administrasi-proyek-konstruksi-jaringan"
+    },
+    {
+        "title": "Bandung Kota Termacet: Farhan Atur Jam Sekolah, Dishub Sebut Banyak Pengendara tak Tertib",
+        "category": "News",
+        "publish_time": "14-07-2025 03:48",
+        "news_link": "https://news.republika.co.id/berita/szdeld409/bandung-kota-termacet-farhan-atur-jam-sekolah-dishub-sebut-banyak-pengendara-tak-tertib"
+    },
+    {
+        "title": "UE dan Indonesia Sepakati Tiga Fokus Kemitraan Strategis",
+        "category": "Ekonomi",
+        "publish_time": "14-07-2025 03:47",
+        "news_link": "https://ekonomi.republika.co.id/berita/szdekg416/ue-dan-indonesia-sepakati-tiga-fokus-kemitraan-strategis"
+    },
+    {
+        "title": "Peran Usus dalam Kesehatan, Mengapa Usus Disebut 'Otak Kedua'",
+        "category": "Ameera",
+        "publish_time": "14-07-2025 03:47",
+        "news_link": "https://ameera.republika.co.id/berita/szdejz328/peran-usus-dalam-kesehatan-mengapa-usus-disebut-otak-kedua"
+    },
+    {
+        "title": "Penjualan BYD Semester I 2025 di Indonesia Sudah Lewati Total Penjualan BYD di Tahun 2024 karena Ini",
+        "category": "Ekonomi",
+        "publish_time": "14-07-2025 03:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/szde8p468/penjualan-byd-semester-i-2025-di-indonesia-sudah-lewati-total-penjualan-byd-di-tahun-2024-karena-ini"
+    },
+    {
+        "title": "UNM Ajak Orang Tua Mahasiswa Baru Kenali Ekosistem Wirausaha Digital Lewat NKBO",
+        "category": "News",
+        "publish_time": "14-07-2025 03:37",
+        "news_link": "https://news.republika.co.id/berita/szde2s472/unm-ajak-orang-tua-mahasiswa-baru-kenali-ekosistem-wirausaha-digital-lewat-nkbo"
+    },
+    {
+        "title": "BI: Utang Luar Negeri Indonesia Tumbuh Melambat pada Mei 2025 Jadi Rp 7.065 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "14-07-2025 03:36",
+        "news_link": "https://ekonomi.republika.co.id/berita/szddo2423/bi-utang-luar-negeri-indonesia-tumbuh-melambat-pada-mei-2025-jadi-rp-7065-triliun"
+    },
+    {
+        "title": "UNM Dorong Mahasiswa Terjun ke Dunia Industri Lewat Program Magang Berdampak dan IEP 3+1",
+        "category": "News",
+        "publish_time": "14-07-2025 03:36",
+        "news_link": "https://news.republika.co.id/berita/szddoh472/unm-dorong-mahasiswa-terjun-ke-dunia-industri-lewat-program-magang-berdampak-dan-iep-31"
+    },
+    {
         "title": "Harga Emas Antam Senin Pagi Naik, Tembus Rp 1,924 Juta per Gram",
         "category": "Ekonomi",
-        "publish_time": "14-07-2025 03:25",
+        "publish_time": "14-07-2025 03:36",
         "news_link": "https://ekonomi.republika.co.id/berita/szdd2d423/harga-emas-antam-senin-pagi-naik-tembus-rp-1924-juta-per-gram"
     },
     {
         "title": "Kisah Sukses Magang Mahasiwa Cyber University Jadi Digital Marketer Andal, Lewat CLP 3+1",
         "category": "News",
-        "publish_time": "14-07-2025 03:20",
+        "publish_time": "14-07-2025 03:36",
         "news_link": "https://news.republika.co.id/berita/szddad472/kisah-sukses-magang-mahasiwa-cyber-university-jadi-digital-marketer-andal-lewat-clp-31"
     },
     {
         "title": "Superman Raup 122 Juta Dolar AS di Pekan Pembuka",
         "category": "Ameera",
-        "publish_time": "14-07-2025 03:19",
+        "publish_time": "14-07-2025 03:36",
         "news_link": "https://ameera.republika.co.id/berita/szdd8w328/superman-raup-122-juta-dolar-as-di-pekan-pembuka"
     },
     {
         "title": "Puluhan Anggota Jamaah Haji Masih Dirawat di Saudi, Keluarga Bisa Cek Kondisinya di Sini",
         "category": "Khazanah",
-        "publish_time": "14-07-2025 03:19",
+        "publish_time": "14-07-2025 03:36",
         "news_link": "https://khazanah.republika.co.id/berita/szdd8l483/puluhan-anggota-jamaah-haji-masih-dirawat-di-saudi-keluarga-bisa-cek-kondisinya-di-sini"
     },
     {
         "title": "Rupiah Melemah Imbas Ancaman Tarif Trump terhadap UE dan Meksiko",
         "category": "Ekonomi",
-        "publish_time": "14-07-2025 03:10",
+        "publish_time": "14-07-2025 03:36",
         "news_link": "https://ekonomi.republika.co.id/berita/szdcr1423/rupiah-melemah-imbas-ancaman-tarif-trump-terhadap-ue-dan-meksiko"
     },
     {
         "title": "PNM Fasilitasi 50 Nasabah Mekaar Jualan di Stadion, Untung Berlipat!",
         "category": "Ekonomi",
-        "publish_time": "14-07-2025 03:04",
+        "publish_time": "14-07-2025 02:36",
         "news_link": "https://ekonomi.republika.co.id/berita/szdcil472/pnm-fasilitasi-50-nasabah-mekaar-jualan-di-stadion-untung-berlipat"
     },
     {
         "title": "Kasus Oplos Beras Premium Mencuat, Begini Nasib Orang yang Mengoplos Gandum pada Zaman Rasul",
         "category": "Khazanah",
-        "publish_time": "14-07-2025 03:03",
+        "publish_time": "14-07-2025 02:36",
         "news_link": "https://khazanah.republika.co.id/berita/szdchk483/kasus-oplos-beras-premium-mencuat-begini-nasib-orang-yang-mengoplos-gandum-pada-zaman-rasul"
     },
     {
         "title": "IHSG Menguat 1,18 Persen, Pasar Optimistis Sambut Sentimen Domestik",
         "category": "Ekonomi",
-        "publish_time": "14-07-2025 03:00",
+        "publish_time": "14-07-2025 02:36",
         "news_link": "https://ekonomi.republika.co.id/berita/szdcda423/ihsg-menguat-118-persen-pasar-optimistis-sambut-sentimen-domestik"
     },
     {
         "title": "Kebijakan 50 Murid per Kelas, Solusi atau Masalah Baru?",
         "category": "Ameera",
-        "publish_time": "14-07-2025 02:59",
+        "publish_time": "14-07-2025 02:36",
         "news_link": "https://ameera.republika.co.id/berita/szdcbb328/kebijakan-50-murid-per-kelas-solusi-atau-masalah-baru"
     },
     {
         "title": "Cara Trading Futures dan Alternatif Binance Futures di Indonesia",
         "category": "Ekonomi",
-        "publish_time": "14-07-2025 02:54",
+        "publish_time": "14-07-2025 02:36",
         "news_link": "https://ekonomi.republika.co.id/berita/szdc1z472/cara-trading-futures-dan-alternatif-binance-futures-di-indonesia"
     },
     {
         "title": "Jumlah Syuhada Gaza Tembus 58 Ribu Jiwa",
         "category": "Khazanah",
-        "publish_time": "14-07-2025 02:43",
+        "publish_time": "14-07-2025 02:36",
         "news_link": "https://khazanah.republika.co.id/berita/szdbjl483/jumlah-syuhada-gaza-tembus-58-ribu-jiwa"
     },
     {
@@ -74,229 +188,115 @@
     {
         "title": "Wacana Haji Via Jalur Laut, Angkutan Udara Diminta Diperkuat Lebih Dulu",
         "category": "Khazanah",
-        "publish_time": "14-07-2025 02:28",
+        "publish_time": "14-07-2025 02:36",
         "news_link": "https://khazanah.republika.co.id/berita/szdanf483/wacana-haji-via-jalur-laut-angkutan-udara-diminta-diperkuat-lebih-dulu"
     },
     {
         "title": "Pengelola Minta Maaf atas Pemutaran Audio Tidak Pantas di GBK",
         "category": "News",
-        "publish_time": "14-07-2025 02:28",
+        "publish_time": "14-07-2025 02:36",
         "news_link": "https://news.republika.co.id/berita/szdaay430/pengelola-minta-maaf-atas-pemutaran-audio-tidak-pantas-di-gbk"
     },
     {
         "title": "Riau Bhayangkara Run 2025 Dilepas Langsung Kapolri, Diikuti 13.079 Pelari, Dongkrak Ekonomi Riau",
         "category": "News",
-        "publish_time": "14-07-2025 02:28",
+        "publish_time": "14-07-2025 02:36",
         "news_link": "https://news.republika.co.id/berita/szda7c456/riau-bhayangkara-run-2025-dilepas-langsung-kapolri-diikuti-13079-pelari-dongkrak-ekonomi-riau"
     },
     {
         "title": "Lulus dari Universitas Muhammadiyah, Mahasiswi Protestan: Aku Enggak Dikucilkan",
         "category": "Khazanah",
-        "publish_time": "14-07-2025 02:28",
+        "publish_time": "14-07-2025 02:36",
         "news_link": "https://khazanah.republika.co.id/berita/szda0x483/lulus-dari-universitas-muhammadiyah-mahasiswi-protestan-aku-enggak-dikucilkan"
     },
     {
         "title": "OPM Klaim Aksi Pembunuhan di Timika, Satu Anggota TNI Gugur",
         "category": "News",
-        "publish_time": "14-07-2025 01:28",
+        "publish_time": "14-07-2025 01:36",
         "news_link": "https://news.republika.co.id/berita/szd957409/opm-klaim-aksi-pembunuhan-di-timika-satu-anggota-tni-gugur"
     },
     {
         "title": "KKP Perkuat Kelembagaan Nelayan Lewat Kopdes Merah Putih",
         "category": "News",
-        "publish_time": "14-07-2025 01:28",
+        "publish_time": "14-07-2025 01:36",
         "news_link": "https://news.republika.co.id/berita/szd8kb451/kkp-perkuat-kelembagaan-nelayan-lewat-kopdes-merah-putih"
     },
     {
         "title": "Pencarian KMP Tunu Pratama Jaya Menemukan Titik Terang, Menhub Apresiasi Tim SAR Gabungan",
         "category": "News",
-        "publish_time": "14-07-2025 01:28",
+        "publish_time": "14-07-2025 01:36",
         "news_link": "https://news.republika.co.id/berita/szd8ho423/pencarian-kmp-tunu-pratama-jaya-menemukan-titik-terang-menhub-apresiasi-tim-sar-gabungan"
     },
     {
         "title": "Anggota Kopdes Merah Putih akan Jalani Sertifikasi",
         "category": "Ekonomi",
-        "publish_time": "14-07-2025 01:28",
+        "publish_time": "14-07-2025 01:36",
         "news_link": "https://ekonomi.republika.co.id/berita/szd7x6423/anggota-kopdes-merah-putih-akan-jalani-sertifikasi"
     },
     {
         "title": "Dewa United Juara ke-3 Piala Presiden",
         "category": "Network",
-        "publish_time": "14-07-2025 01:28",
+        "publish_time": "14-07-2025 01:36",
         "news_link": "https://kangjepret.id/posts/692451/dewa-united-juara-ke-3-piala-presiden"
     },
     {
         "title": "Setiap Hari 27 Anak Gaza Tewas Dibunuh Zionis, UNICEF Tuntut Penyelidikan",
         "category": "Network",
-        "publish_time": "14-07-2025 01:28",
+        "publish_time": "14-07-2025 01:36",
         "news_link": "https://sekitarkaltim.id/posts/692457/setiap-hari-27-anak-gaza-tewas-dibunuh-zionis-unicef-tuntut-penyelidikan"
     },
     {
         "title": "BMKG: Baru 30 Persen Zona Masuk Kemarau, Waspadai Cuaca Ekstrem",
         "category": "Network",
-        "publish_time": "14-07-2025 01:28",
+        "publish_time": "14-07-2025 01:36",
         "news_link": "https://sekitarkaltim.id/posts/692462/bmkg-baru-30-persen-zona-masuk-kemarau-waspadai-cuaca-ekstrem"
     },
     {
         "title": "Uji Keamanan Gempa Bumi, Para Ilmuwan Mengguncang Gedung Baja 10 Lantai, Hasilnya?",
         "category": "Network",
-        "publish_time": "14-07-2025 01:28",
+        "publish_time": "14-07-2025 01:36",
         "news_link": "https://impresiupdate.id/posts/692475/uji-keamanan-gempa-bumi-para-ilmuwan-mengguncang-gedung-baja-10-lantai-hasilnya-"
     },
     {
         "title": "Apakah Mandi Es Benar-Benar Bermanfaat? Inilah Kata Sains",
         "category": "Network",
-        "publish_time": "14-07-2025 01:28",
+        "publish_time": "14-07-2025 01:36",
         "news_link": "https://impresiupdate.id/posts/692478/apakah-mandi-es-benar-benar-bermanfaat-inilah-kata-sains"
     },
     {
         "title": "KAI Apresiasi Kesabaran Pelanggan Saat Sistem Pemesanan Terganggu",
         "category": "Network",
-        "publish_time": "14-07-2025 01:28",
+        "publish_time": "14-07-2025 01:36",
         "news_link": "https://kreta.id/posts/692481/kai-apresiasi-kesabaran-pelanggan-saat-sistem-pemesanan-terganggu"
     },
     {
         "title": "Catatan Cak AT: Sajak Empat Baris dalam Amplop Cokelat",
         "category": "Network",
-        "publish_time": "14-07-2025 01:28",
+        "publish_time": "14-07-2025 01:36",
         "news_link": "https://ruzkaindonesia.id/posts/692491/catatan-cak-at-sajak-empat-baris-dalam-amplop-cokelat"
     },
     {
         "title": "Karnaval Budaya Situmekar, Jadi Ajang Apresiasi Keberagaman Budaya Lokal Sukabumi",
         "category": "Network",
-        "publish_time": "14-07-2025 01:28",
+        "publish_time": "14-07-2025 01:36",
         "news_link": "https://sukabumikini.com/posts/692495/karnaval-budaya-situmekar-jadi-ajang-apresiasi-keberagaman-budaya-lokal-sukabumi"
     },
     {
         "title": "Foto Lama Ini Masih Menyimpan Metadata Tahun 1937",
         "category": "Network",
-        "publish_time": "14-07-2025 01:28",
+        "publish_time": "14-07-2025 01:36",
         "news_link": "https://kangjepret.id/posts/692498/foto-lama-ini-masih-menyimpan-metadata-tahun-1937"
     },
     {
         "title": "F4 Reuni Rayakan 25 Tahun Grup, Bawakan Meteor Rain di Panggung Live",
         "category": "Network",
-        "publish_time": "14-07-2025 01:28",
+        "publish_time": "14-07-2025 01:36",
         "news_link": "https://filmusiku.com/posts/692500/f4-reuni-rayakan-25-tahun-grup-bawakan-meteor-rain-di-panggung-live"
     },
     {
         "title": "Uni Eropa Dorong China Pimpin Aksi Iklim",
         "category": "Esgnow",
-        "publish_time": "14-07-2025 01:28",
+        "publish_time": "14-07-2025 01:36",
         "news_link": "https://esgnow.republika.co.id/berita/szd7mh416/uni-eropa-dorong-china-pimpin-aksi-iklim"
-    },
-    {
-        "title": "Lewat Program Tahsin Alquran, Ratusan Pelajar SD di Sukabumi Didorong Jadi Generasi Religius",
-        "category": "Network",
-        "publish_time": "14-07-2025 01:28",
-        "news_link": "https://sukabumikini.com/posts/692513/lewat-program-tahsin-alquran-ratusan-pelajar-sd-di-sukabumi-didorong-jadi-generasi-religius"
-    },
-    {
-        "title": "Fiksi Mini Bukan Maksi, Menuju Rekor MURI Menulis 10.000 Fiksi Mini",
-        "category": "Network",
-        "publish_time": "14-07-2025 01:28",
-        "news_link": "https://kingdomsriwijaya.id/posts/692517/fiksi-mini-bukan-maksi-menuju-rekor-muri-menulis-10-000-fiksi-mini"
-    },
-    {
-        "title": "Resmi Operasikan Bank Syariah Matahari, Warga Muhammadiyah Diajak Kembangkan Ekonomi Umat",
-        "category": "Network",
-        "publish_time": "14-07-2025 01:28",
-        "news_link": "https://sajada.id/posts/692519/resmi-operasikan-bank-syariah-matahari-warga-muhammadiyah-diajak-kembangkan-ekonomi-umat"
-    },
-    {
-        "title": "Ke Bandung dari Gambir Naik KA Parahyangan, Ini Jadwalnya",
-        "category": "Network",
-        "publish_time": "14-07-2025 01:28",
-        "news_link": "https://kreta.id/posts/692576/ke-bandung-dari-gambir-naik-ka-parahyangan-ini-jadwalnya"
-    },
-    {
-        "title": "Bikin Macet, Wali Kota Bandung Tagih Kapan Flyover Nurtanio Rampung",
-        "category": "Rejabar",
-        "publish_time": "14-07-2025 01:28",
-        "news_link": "https://rejabar.republika.co.id/berita/szd7e8512/bikin-macet-wali-kota-bandung-tagih-kapan-flyover-nurtanio-rampung"
-    },
-    {
-        "title": "Psikiater Sebut Trauma Bisa Menular Pada Orang-Orang Terdekat",
-        "category": "Ameera",
-        "publish_time": "14-07-2025 01:28",
-        "news_link": "https://ameera.republika.co.id/berita/szd7dm328/psikiater-sebut-trauma-bisa-menular-pada-orangorang-terdekat"
-    },
-    {
-        "title": "Berhasil Sepakati CEPA, Rosan Berharap Investasi dari Uni Eropa Makin Besar",
-        "category": "Ekonomi",
-        "publish_time": "14-07-2025 01:28",
-        "news_link": "https://ekonomi.republika.co.id/berita/szd6nx490/berhasil-sepakati-cepa-rosan-berharap-investasi-dari-uni-eropa-makin-besar"
-    },
-    {
-        "title": "Ustadz Fatih Ajak Muslim Hantarkan Hidayah Menembus Batas Kemustahilan",
-        "category": "Khazanah",
-        "publish_time": "14-07-2025 01:28",
-        "news_link": "https://khazanah.republika.co.id/berita/szd6jj430/ustadz-fatih-ajak-muslim-hantarkan-hidayah-menembus-batas-kemustahilan"
-    },
-    {
-        "title": "Kopdes Merah Putih Jadi Titik Distribusi SPHP Beras dan Pangan Murah",
-        "category": "Ekonomi",
-        "publish_time": "14-07-2025 01:28",
-        "news_link": "https://ekonomi.republika.co.id/berita/szd6wk423/kopdes-merah-putih-jadi-titik-distribusi-sphp-beras-dan-pangan-murah"
-    },
-    {
-        "title": "VISION+ Hadir di Platform Oxygen.id, Perkuat Sinergi Digital dan Hiburan tanpa Batas",
-        "category": "Ameera",
-        "publish_time": "14-07-2025 01:28",
-        "news_link": "https://ameera.republika.co.id/berita/sz83m1368/vision-hadir-di-platform-oxygenid-perkuat-sinergi-digital-dan-hiburan-tanpa-batas"
-    },
-    {
-        "title": "MUI Dukung Pencoretan Penerima Bansos yang Terlibat Judi Online",
-        "category": "Khazanah",
-        "publish_time": "14-07-2025 01:28",
-        "news_link": "https://khazanah.republika.co.id/berita/szd4xe430/mui-dukung-pencoretan-penerima-bansos-yang-terlibat-judi-online"
-    },
-    {
-        "title": "New Balance Luncurkan Rebel v5, Sepatu Lari Ringan tanpa Karbon untuk Cetak PB",
-        "category": "Ameera",
-        "publish_time": "14-07-2025 01:28",
-        "news_link": "https://ameera.republika.co.id/berita/szd66f490/new-balance-luncurkan-rebel-v5-sepatu-lari-ringan-tanpa-karbon-untuk-cetak-pb"
-    },
-    {
-        "title": "Prabowo: Hampir Semua Tarif Impor RI-Uni Eropa Jadi Nol Persen, CEPA Siap Diteken September",
-        "category": "Ekonomi",
-        "publish_time": "14-07-2025 00:28",
-        "news_link": "https://ekonomi.republika.co.id/berita/szd6cs490/prabowo-hampir-semua-tarif-impor-riuni-eropa-jadi-nol-persen-cepa-siap-diteken-september"
-    },
-    {
-        "title": "Rae Lil Black Mengaku Menemukan Ketenangan Saat Mengingat Allah",
-        "category": "Khazanah",
-        "publish_time": "14-07-2025 00:28",
-        "news_link": "https://khazanah.republika.co.id/berita/szd5tk430/rae-lil-black-mengaku-menemukan-ketenangan-saat-mengingat-allah"
-    },
-    {
-        "title": "Mencari Raja Minyak Riza Chalid dalam Korupsi Minyak Mentah Rp 285 Triliun",
-        "category": "News",
-        "publish_time": "14-07-2025 00:28",
-        "news_link": "https://news.republika.co.id/berita/szd5q1484/mencari-raja-minyak-riza-chalid-dalam-korupsi-minyak-mentah-rp-285-triliun"
-    },
-    {
-        "title": "Ini Jadwal KA Pangrango Relasi Bogor-Sukabumi-Bogor",
-        "category": "Network",
-        "publish_time": "14-07-2025 00:28",
-        "news_link": "https://kreta.id/posts/692527/ini-jadwal-ka-pangrango-relasi-bogor-sukabumi-bogor"
-    },
-    {
-        "title": "Jawaban Rae Lil Black Saat Ditanya Mengapa Lebih Memilih Islam",
-        "category": "Khazanah",
-        "publish_time": "14-07-2025 00:28",
-        "news_link": "https://khazanah.republika.co.id/berita/szd5jh430/jawaban-rae-lil-black-saat-ditanya-mengapa-lebih-memilih-islam"
-    },
-    {
-        "title": "1.038 Koperasi Merah Putih di Kaltim Siap Beroperasi",
-        "category": "Network",
-        "publish_time": "14-07-2025 00:28",
-        "news_link": "https://sekitarkaltim.id/posts/692528/1-038-koperasi-merah-putih-di-kaltim-siap-beroperasi"
-    },
-    {
-        "title": "Liburan Sekolah Bernilai: Antara Alam, Iman, dan Keberkahan Wakaf",
-        "category": "Network",
-        "publish_time": "14-07-2025 00:28",
-        "news_link": "https://bisnistime.com/posts/692529/liburan-sekolah-bernilai-antara-alam-iman-dan-keberkahan-wakaf"
     }
 ]
