@@ -1,116 +1,284 @@
 [
     {
+        "title": "Buah Kesabaran Ummu Habibah",
+        "category": "Khazanah",
+        "publish_time": "17-07-2025 12:24",
+        "news_link": "https://khazanah.republika.co.id/berita/szjmgz458/buah-kesabaran-ummu-habibah"
+    },
+    {
+        "title": "UGM Bantah Pernyataan Mantan Rektor Prof Sofian Effendi, Tegaskan Jokowi Lulus 1985",
+        "category": "News",
+        "publish_time": "17-07-2025 12:18",
+        "news_link": "https://news.republika.co.id/berita/szjm7e377/ugm-bantah-pernyataan-mantan-rektor-prof-sofian-effendi-tegaskan-jokowi-lulus-1985"
+    },
+    {
+        "title": "Realisasi Kampung Haji Dinilai Jadi Lompatan Besar Era Prabowo",
+        "category": "Khazanah",
+        "publish_time": "17-07-2025 12:17",
+        "news_link": "https://khazanah.republika.co.id/berita/szjm51483/realisasi-kampung-haji-dinilai-jadi-lompatan-besar-era-prabowo"
+    },
+    {
+        "title": "Penjelasan Setneg Soal Viral Kucing Prabowo dikawal Polisi",
+        "category": "Video",
+        "publish_time": "17-07-2025 12:16",
+        "news_link": "https://tv.republika.co.id/berita/szjm37526/penjelasan-setneg-soal-viral-kucing-prabowo-dikawal-polisi"
+    },
+    {
+        "title": "Tarif 19 Persen dari Trump, Pengamat: Harus Saling Menguntungkan",
+        "category": "News",
+        "publish_time": "17-07-2025 12:15",
+        "news_link": "https://news.republika.co.id/berita/sziulv451/tarif-19-persen-dari-trump-pengamat-harus-saling-menguntungkan"
+    },
+    {
+        "title": "Impor LPG dari AS Direncanakan Naik Jadi 60 Persen",
+        "category": "Ekonomi",
+        "publish_time": "17-07-2025 12:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/szjlzx370/impor-lpg-dari-as-direncanakan-naik-jadi-60-persen"
+    },
+    {
+        "title": "Sinergi dan Transformasi, Kunci BPJS Kesehatan Optimalkan Layanan Kesehatan",
+        "category": "News",
+        "publish_time": "17-07-2025 12:12",
+        "news_link": "https://news.republika.co.id/berita/szjlwz368/sinergi-dan-transformasi-kunci-bpjs-kesehatan-optimalkan-layanan-kesehatan"
+    },
+    {
+        "title": "Kecelakaan Air India: Pesawat Boeing Kini Jadi Sorotan",
+        "category": "News",
+        "publish_time": "17-07-2025 12:08",
+        "news_link": "https://news.republika.co.id/berita/szjllt9315000/kecelakaan-air-india-pesawat-boeing-kini-jadi-sorotan"
+    },
+    {
+        "title": "Kunjungi Rumah Ortu Bayi yang Meninggal di RSUD Linggajati, Ini Kata Bupati Kuningan",
+        "category": "Rejabar",
+        "publish_time": "17-07-2025 12:06",
+        "news_link": "https://rejabar.republika.co.id/berita/szjln0512/kunjungi-rumah-ortu-bayi-yang-meninggal-di-rsud-linggajati-ini-kata-bupati-kuningan"
+    },
+    {
+        "title": "Pengurangan Polusi di Asia Timur Justru Mempercepat Pemanasan Global",
+        "category": "Esgnow",
+        "publish_time": "17-07-2025 12:05",
+        "news_link": "https://esgnow.republika.co.id/berita/szjlla416/pengurangan-polusi-di-asia-timur-justru-mempercepat-pemanasan-global"
+    },
+    {
+        "title": "Tarif Impor AS 19 Persen, Ini Dua Keuntungannya Bagi Indonesia Menurut Mendag",
+        "category": "Ekonomi",
+        "publish_time": "17-07-2025 12:04",
+        "news_link": "https://ekonomi.republika.co.id/berita/szjk79370/tarif-impor-as-19-persen-ini-dua-keuntungannya-bagi-indonesia-menurut-mendag"
+    },
+    {
+        "title": "Ketika Putra Rasulullah Wafat",
+        "category": "Khazanah",
+        "publish_time": "17-07-2025 12:03",
+        "news_link": "https://khazanah.republika.co.id/berita/szjlit458/ketika-putra-rasulullah-wafat"
+    },
+    {
+        "title": "12 Tahun Berturut-Turut, Singapura Kembali Jadi Pusat Maritim Dunia",
+        "category": "Network",
+        "publish_time": "17-07-2025 12:00",
+        "news_link": "https://shippingcargo.co.id/posts/692905/12-tahun-berturut-turut-singapura-kembali-jadi-pusat-maritim-dunia"
+    },
+    {
+        "title": "Sekolah di Sukabumi Massif Sosialisasikan Satuan Pendidikan Aman Bencana",
+        "category": "Network",
+        "publish_time": "17-07-2025 12:00",
+        "news_link": "https://sukabumikini.com/posts/693359/sekolah-di-sukabumi-massif-sosialisasikan-satuan-pendidikan-aman-bencana"
+    },
+    {
+        "title": "Honor of Kings Bakal Dipertandingkan di Fornas VIII NTB 2025",
+        "category": "Network",
+        "publish_time": "17-07-2025 11:59",
+        "news_link": "https://skor.republika.co.id/posts/693364/honor-of-kings-bakal-dipertandingkan-di-fornas-viii-ntb-2025"
+    },
+    {
+        "title": "Petugas Gabungan Lakukan Sidak Beras Premium di Pasar Panorama Lembang",
+        "category": "Visual",
+        "publish_time": "17-07-2025 11:59",
+        "news_link": "https://visual.republika.co.id/berita/szjj5a375/petugas-gabungan-lakukan-sidak-beras-premium-di-pasar-panorama-lembang"
+    },
+    {
+        "title": "KPK Panggil 17 Saksi Kasus Dana Hibah Jatim di Polres Malang",
+        "category": "News",
+        "publish_time": "17-07-2025 11:59",
+        "news_link": "https://news.republika.co.id/berita/szjlb6487/kpk-panggil-17-saksi-kasus-dana-hibah-jatim-di-polres-malang"
+    },
+    {
+        "title": "Gereja Katolik di Gaza Dibom Tank Israel, Dua Meninggal",
+        "category": "News",
+        "publish_time": "17-07-2025 11:54",
+        "news_link": "https://news.republika.co.id/berita/szjl3k393/gereja-katolik-di-gaza-dibom-tank-israel-dua-meninggal"
+    },
+    {
+        "title": "Buntut Kematian Bayi, Bupati Kuningan Nonaktifkan Sementara Direktur RSUD Linggajati",
+        "category": "Rejabar",
+        "publish_time": "17-07-2025 11:52",
+        "news_link": "https://rejabar.republika.co.id/berita/szjkzx512/buntut-kematian-bayi-bupati-kuningan-nonaktifkan-sementara-direktur-rsud-linggajati"
+    },
+    {
+        "title": "Azab Menimpa Madyan, Kaum Nabi Syuaib",
+        "category": "Khazanah",
+        "publish_time": "17-07-2025 11:50",
+        "news_link": "https://khazanah.republika.co.id/berita/szjkvw458/azab-menimpa-madyan-kaum-nabi-syuaib"
+    },
+    {
+        "title": "Beras Food Station Terbukti tak Sesuai Standar, Pemprov Jakarta Buka Suara",
+        "category": "News",
+        "publish_time": "17-07-2025 11:37",
+        "news_link": "https://news.republika.co.id/berita/szjkb0487/beras-food-station-terbukti-tak-sesuai-standar-pemprov-jakarta-buka-suara"
+    },
+    {
+        "title": "Puncak HUT RI ke-80 di Jakarta, Wamensesneg: IKN Masih Pembangunan",
+        "category": "News",
+        "publish_time": "17-07-2025 11:34",
+        "news_link": "https://news.republika.co.id/berita/szjk5x377/puncak-hut-ri-ke80-di-jakarta-wamensesneg-ikn-masih-pembangunan"
+    },
+    {
+        "title": "Anak Perempuan Putus Sekolah di Magelang Dipaksa Jadi PSK Daring, Begini Modusnya",
+        "category": "News",
+        "publish_time": "17-07-2025 11:31",
+        "news_link": "https://news.republika.co.id/berita/szjk1j487/anak-perempuan-putus-sekolah-di-magelang-dipaksa-jadi-psk-daring-begini-modusnya"
+    },
+    {
+        "title": "Paper Rex Siap Lepas Pemain Indonesia di Skuadnya",
+        "category": "Network",
+        "publish_time": "17-07-2025 11:31",
+        "news_link": "https://skor.republika.co.id/posts/693358/paper-rex-siap-lepas-pemain-indonesia-di-skuadnya"
+    },
+    {
+        "title": "Segera Cek! BSU Rp 600 Ribu Sudah Cair untuk 11,4 Juta Pekerja",
+        "category": "Ekonomi",
+        "publish_time": "17-07-2025 11:31",
+        "news_link": "https://ekonomi.republika.co.id/berita/szjjvl370/segera-cek-bsu-rp-600-ribu-sudah-cair-untuk-114-juta-pekerja"
+    },
+    {
+        "title": "Kisah Kaum Nabi Shalih",
+        "category": "Khazanah",
+        "publish_time": "17-07-2025 11:31",
+        "news_link": "https://khazanah.republika.co.id/berita/szjjq3458/kisah-kaum-nabi-shalih"
+    },
+    {
+        "title": "Beasiswa Pendidikan Jarak Jauh, Kemenag: Untuk Respons Persoalan Serba Digital",
+        "category": "Khazanah",
+        "publish_time": "17-07-2025 11:31",
+        "news_link": "https://khazanah.republika.co.id/berita/szj8hw451/beasiswa-pendidikan-jarak-jauh-kemenag-untuk-respons-persoalan-serba-digital"
+    },
+    {
+        "title": "Sebelum Menjadi Nabi, Seperti Apa Ibadah Muhammad SAW?",
+        "category": "Khazanah",
+        "publish_time": "17-07-2025 11:31",
+        "news_link": "https://khazanah.republika.co.id/berita/szjjdl458/sebelum-menjadi-nabi-seperti-apa-ibadah-muhammad-saw"
+    },
+    {
         "title": "Ineu Purwadewi Dorong Kinerja Fiskal Jabar di Semester II Lebih Maksimal",
         "category": "Rejabar",
-        "publish_time": "17-07-2025 11:11",
+        "publish_time": "17-07-2025 11:31",
         "news_link": "https://rejabar.republika.co.id/berita/szjj42368/ineu-purwadewi-dorong-kinerja-fiskal-jabar-di-semester-ii-lebih-maksimal"
     },
     {
         "title": "Resmi Jadi Sponsor Persija, Logo Bank Jakarta Bakal Tampil di Jersey",
         "category": "News",
-        "publish_time": "17-07-2025 11:10",
+        "publish_time": "17-07-2025 11:31",
         "news_link": "https://news.republika.co.id/berita/szjj2b484/resmi-jadi-sponsor-persija-logo-bank-jakarta-bakal-tampil-di-jersey"
     },
     {
         "title": "Antusiasme Tinggi, Pendaftaran Lomba Cipta Lagu Anak Indonesia Diperpanjang",
         "category": "News",
-        "publish_time": "17-07-2025 11:07",
+        "publish_time": "17-07-2025 11:31",
         "news_link": "https://news.republika.co.id/berita/szjiwv320/antusiasme-tinggi-pendaftaran-lomba-cipta-lagu-anak-indonesia-diperpanjang"
     },
     {
         "title": "Melihat Aktivitas Koperasi Kelurahan Merah Putih Sukamaju Depok",
         "category": "Visual",
-        "publish_time": "17-07-2025 10:59",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://visual.republika.co.id/berita/szjgoe375/melihat-aktivitas-koperasi-kelurahan-merah-putih-sukamaju-depok"
     },
     {
         "title": "Aset Keuangan Syariah Diprediksi Tembus 7,5 Triliun Dolar AS pada 2028",
         "category": "Ekonomi Syariah",
-        "publish_time": "17-07-2025 10:59",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://sharia.republika.co.id/berita/szjffq423/aset-keuangan-syariah-diprediksi-tembus-75-triliun-dolar-as-pada-2028"
     },
     {
         "title": "SIG Gunakan AI Jaga Pasokan Bahan Bangunan",
         "category": "Ekonomi",
-        "publish_time": "17-07-2025 10:56",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://ekonomi.republika.co.id/berita/szjied416/sig-gunakan-ai-jaga-pasokan-bahan-bangunan"
     },
     {
         "title": "Pendaki Wanita Asal Belanda Terjatuh di Rinjani, SAR Kerahkan Helikopter Evakuasi",
         "category": "News",
-        "publish_time": "17-07-2025 10:53",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://news.republika.co.id/berita/szji9s366/pendaki-wanita-asal-belanda-terjatuh-di-rinjani-sar-kerahkan-helikopter-evakuasi"
     },
     {
         "title": "Detail Hadiah Royale Pass Terbaru PUBG Mobile RP Ace 14",
         "category": "Network",
-        "publish_time": "17-07-2025 10:49",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://skor.republika.co.id/posts/693353/detail-hadiah-royale-pass-terbaru-pubg-mobile-rp-ace-14"
     },
     {
         "title": "Bansos Rp200 Ribu Sudah Cair, Ini Pesan Menkeu Sri Mulyani",
         "category": "Ekonomi",
-        "publish_time": "17-07-2025 10:49",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://ekonomi.republika.co.id/berita/szjhmr370/bansos-rp200-ribu-sudah-cair-ini-pesan-menkeu-sri-mulyani"
     },
     {
         "title": "Keluh Kesah Murid dan Guru SMA Negeri di Jabar karena Kebijakan Dedi Mulyadi 50 Siswa per Kelas",
         "category": "Rejabar",
-        "publish_time": "17-07-2025 10:48",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://rejabar.republika.co.id/berita/szji0m282/keluh-kesah-murid-dan-guru-sma-negeri-di-jabar-karena-kebijakan-dedi-mulyadi-50-siswa-per-kelas"
     },
     {
         "title": "Riza Chalid Ternyata tak Ada di Singapura, Kejagung Belum Tahu Persis 'Raja Minyak' Itu Berada",
         "category": "News",
-        "publish_time": "17-07-2025 10:46",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://news.republika.co.id/berita/szjhyd377/riza-chalid-ternyata-tak-ada-di-singapura-kejagung-belum-tahu-persis-raja-minyak-itu-berada"
     },
     {
         "title": "Gelar Silaturahim di Ponpes Al-Musaddadiyah, Menag Ajak Rawat Tradisi Pesantren",
         "category": "Rejabar",
-        "publish_time": "17-07-2025 10:45",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://rejabar.republika.co.id/berita/szjhwy291/gelar-silaturahim-di-ponpes-almusaddadiyah-menag-ajak-rawat-tradisi-pesantren"
     },
     {
         "title": "Wamensesneg: Prabowo Umumkan Logo dan Tema HUT Ke-80 RI pada 18 Juli",
         "category": "News",
-        "publish_time": "17-07-2025 10:44",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://news.republika.co.id/berita/szjhvj484/wamensesneg-prabowo-umumkan-logo-dan-tema-hut-ke80-ri-pada-18-juli"
     },
     {
         "title": "Kaya Raya dan Berilmu, Inilah Kisah Ibnu Hajar al-Asqalani",
         "category": "Khazanah",
-        "publish_time": "17-07-2025 10:42",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://khazanah.republika.co.id/berita/szjhre458/kaya-raya-dan-berilmu-inilah-kisah-ibnu-hajar-alasqalani"
     },
     {
         "title": "Bung Kus Berharap Ole Bisa Perkuat Timnas di Babak Kempat Kualifikasi Piala Dunia, Peluang Terbuka",
         "category": "News",
-        "publish_time": "17-07-2025 10:39",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://news.republika.co.id/berita/szjhm6348/bung-kus-berharap-ole-bisa-perkuat-timnas-di-babak-kempat-kualifikasi-piala-dunia-peluang-terbuka"
     },
     {
         "title": "Garuda Indonesia Sambut Kesepakatan Tarif AS dan Rencana Pembelian Pesawat Boeing",
         "category": "Ekonomi",
-        "publish_time": "17-07-2025 10:38",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://ekonomi.republika.co.id/berita/szjhl6416/garuda-indonesia-sambut-kesepakatan-tarif-as-dan-rencana-pembelian-pesawat-boeing"
     },
     {
         "title": "Indonesia Bersama 12 Negara Sepakati Hukuman untuk Israel",
         "category": "News",
-        "publish_time": "17-07-2025 10:36",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://news.republika.co.id/berita/szjhgr393/indonesia-bersama-12-negara-sepakati-hukuman-untuk-israel"
     },
     {
         "title": "Wahai Muslimah, Sedang Ikhtiar Jodoh? Baca 9 Doa Indah Berikut Ini",
         "category": "Iqra",
-        "publish_time": "17-07-2025 10:33",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://iqra.republika.co.id/berita/szjhcu320/wahai-muslimah-sedang-ikhtiar-jodoh-baca-9-doa-indah-berikut-ini"
     },
     {
         "title": "Penyanyi Pretty Little Baby Meninggal di Usia 87 Tahun",
         "category": "Ameera",
-        "publish_time": "17-07-2025 10:33",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://ameera.republika.co.id/berita/szjhc3328/penyanyi-pretty-little-baby-meninggal-di-usia-87-tahun"
     },
     {
@@ -122,181 +290,13 @@
     {
         "title": "Israel Gunakan Tank Tabrak Gereja Keluarga Kudus di Gaza",
         "category": "News",
-        "publish_time": "17-07-2025 10:27",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://news.republika.co.id/berita/szjh2c484/israel-gunakan-tank-tabrak-gereja-keluarga-kudus-di-gaza"
     },
     {
         "title": "Diikuti 3.000 Atlet, Turnamen 'Domino Menpora Cup 2025' di Luwu Berlangsung Meriah",
         "category": "News",
-        "publish_time": "17-07-2025 10:26",
+        "publish_time": "17-07-2025 10:31",
         "news_link": "https://news.republika.co.id/berita/szjh1a291/diikuti-3000-atlet-turnamen-domino-menpora-cup-2025-di-luwu-berlangsung-meriah"
-    },
-    {
-        "title": "Kejagung Beri Dua Pilihan untuk Riza Chalid, Balik ke Indonesia atau Jadi Buron Internasional!",
-        "category": "News",
-        "publish_time": "17-07-2025 10:17",
-        "news_link": "https://news.republika.co.id/berita/szjglz487/kejagung-beri-dua-pilihan-untuk-riza-chalid-balik-ke-indonesia-atau-jadi-buron-internasional"
-    },
-    {
-        "title": "Klaim Rp 2,3 Triliun, Prudential Syariah Tunjukkan Kinerja Solid dan Komitmen Inklusif",
-        "category": "Ekonomi Syariah",
-        "publish_time": "17-07-2025 10:16",
-        "news_link": "https://sharia.republika.co.id/berita/szjgjn370/klaim-rp-23-triliun-prudential-syariah-tunjukkan-kinerja-solid-dan-komitmen-inklusif"
-    },
-    {
-        "title": "ESDM: Jika Emisi tak Turun Setelah 2030, NZE 2060 Hanya Omon-Omon",
-        "category": "Esgnow",
-        "publish_time": "17-07-2025 10:13",
-        "news_link": "https://esgnow.republika.co.id/berita/szjgfp416/esdm-jika-emisi-tak-turun-setelah-2030-nze-2060-hanya-omonomon"
-    },
-    {
-        "title": "Cuaca Ekstrem Hingga Virus: Ini Tantangan Kesehatan Jamaah Haji Menurut Amphuri",
-        "category": "Khazanah",
-        "publish_time": "17-07-2025 10:13",
-        "news_link": "https://khazanah.republika.co.id/berita/szj9ai366/cuaca-ekstrem-hingga-virus-ini-tantangan-kesehatan-jamaah-haji-menurut-amphuri"
-    },
-    {
-        "title": "Puluhan Pemotor Lawan Arah Terjaring Operasi Patuh Jaya di Pasar Minggu",
-        "category": "Visual",
-        "publish_time": "17-07-2025 10:13",
-        "news_link": "https://visual.republika.co.id/berita/szjg87375/puluhan-pemotor-lawan-arah-terjaring-operasi-patuh-jaya-di-pasar-minggu"
-    },
-    {
-        "title": "BP Tapera Dorong KUR Perumahan untuk Percepat Tiga Juta Rumah",
-        "category": "Ekonomi",
-        "publish_time": "17-07-2025 10:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/szjg5y370/bp-tapera-dorong-kur-perumahan-untuk-percepat-tiga-juta-rumah"
-    },
-    {
-        "title": "Imigrasi Batal Luncurkan Paspor Merah Putih pada 17 Agustus 2025",
-        "category": "News",
-        "publish_time": "17-07-2025 10:13",
-        "news_link": "https://news.republika.co.id/berita/szjfoh484/imigrasi-batal-luncurkan-paspor-merah-putih-pada-17-agustus-2025"
-    },
-    {
-        "title": "Akhir Kehidupan yang Buruk, Ini Tanda-tandanya",
-        "category": "Khazanah",
-        "publish_time": "17-07-2025 10:13",
-        "news_link": "https://khazanah.republika.co.id/berita/szjfj5458/akhir-kehidupan-yang-buruk-ini-tandatandanya"
-    },
-    {
-        "title": "Penjelasan Presiden Prabowo Soal Tarif Dagang ke AS Turun",
-        "category": "Video",
-        "publish_time": "17-07-2025 10:13",
-        "news_link": "https://tv.republika.co.id/berita/szhukk526/penjelasan-presiden-prabowo-soal-tarif-dagang-ke-as-turun"
-    },
-    {
-        "title": "MK Tolak Uji Materi 'Menteri Dilarang Rangkap Pengurus Parpol'",
-        "category": "News",
-        "publish_time": "17-07-2025 10:13",
-        "news_link": "https://news.republika.co.id/berita/szjfbm487/mk-tolak-uji-materi-menteri-dilarang-rangkap-pengurus-parpol"
-    },
-    {
-        "title": "Baru Putri Kusuma Wardani yang Melaju ke Perempat Final Japan Open 2025",
-        "category": "News",
-        "publish_time": "17-07-2025 10:13",
-        "news_link": "https://news.republika.co.id/berita/szjfag348/baru-putri-kusuma-wardani-yang-melaju-ke-perempat-final-japan-open-2025"
-    },
-    {
-        "title": "Tekun Menuntut Ilmu dan Nyaris 'Lupa' Menikah, Ini Kisah Syekh Yasin",
-        "category": "Khazanah",
-        "publish_time": "17-07-2025 10:13",
-        "news_link": "https://khazanah.republika.co.id/berita/szjf5n458/tekun-menuntut-ilmu-dan-nyaris-lupa-menikah-ini-kisah-syekh-yasin"
-    },
-    {
-        "title": "Kelompok Den Haag Putuskan Setop Perdagangan Senjata dan Perlengkapan Militer dengan Israel",
-        "category": "News",
-        "publish_time": "17-07-2025 10:13",
-        "news_link": "https://news.republika.co.id/berita/szjf3n409/kelompok-den-haag-putuskan-setop-perdagangan-senjata-dan-perlengkapan-militer-dengan-israel"
-    },
-    {
-        "title": "Mitsubishi Motors Luncurkan All-New Destinator, SUV Tujuh Penumpang yang Mirip XForce",
-        "category": "Ekonomi",
-        "publish_time": "17-07-2025 09:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/szjf05348/mitsubishi-motors-luncurkan-allnew-destinator-suv-tujuh-penumpang-yang-mirip-xforce"
-    },
-    {
-        "title": "Mendag Sebut Peluang Ekspor ke AS Makin Besar",
-        "category": "Ekonomi",
-        "publish_time": "17-07-2025 09:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/szjeyp416/mendag-sebut-peluang-ekspor-ke-as-makin-besar"
-    },
-    {
-        "title": "Mengulangi Shalat karena tak Khusyuk, Bolehkah?",
-        "category": "Khazanah",
-        "publish_time": "17-07-2025 09:13",
-        "news_link": "https://khazanah.republika.co.id/berita/szjex7458/mengulangi-shalat-karena-tak-khusyuk-bolehkah"
-    },
-    {
-        "title": "Indonesia Tolak Transhipment, Komitmen pada Tarif 19 Persen dengan AS",
-        "category": "Ekonomi",
-        "publish_time": "17-07-2025 09:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/szjevt370/indonesia-tolak-transhipment-komitmen-pada-tarif-19-persen-dengan-as"
-    },
-    {
-        "title": "Peran Vital ZEE Indonesia dalam Logistik dan Pelayaran Maritim Global",
-        "category": "Network",
-        "publish_time": "17-07-2025 09:13",
-        "news_link": "https://shippingcargo.co.id/posts/692844/peran-vital-zee-indonesia-dalam-logistik-dan-pelayaran-maritim-global"
-    },
-    {
-        "title": "Surabaya Bidik Investasi Rp42 Triliun, Maksimalkan Perizinan Online Terintegrasi",
-        "category": "Network",
-        "publish_time": "17-07-2025 09:13",
-        "news_link": "https://sekitarsurabaya.com/posts/693329/surabaya-bidik-investasi-rp42-triliun-maksimalkan-perizinan-online-terintegrasi"
-    },
-    {
-        "title": "AHY Ungkap Efek Buruk ODOL",
-        "category": "Video",
-        "publish_time": "17-07-2025 09:13",
-        "news_link": "https://tv.republika.co.id/berita/szjega313/ahy-ungkap-efek-buruk-odol"
-    },
-    {
-        "title": "Mulai Tahun Depan, BP Haji Libatkan Penyuluh di Tingkat Kecamatan",
-        "category": "Khazanah",
-        "publish_time": "17-07-2025 09:13",
-        "news_link": "https://khazanah.republika.co.id/berita/szjed5458/mulai-tahun-depan-bp-haji-libatkan-penyuluh-di-tingkat-kecamatan"
-    },
-    {
-        "title": "Lurah Jawab Dugaan Pungli dalam Rekrutmen PPSU di Cipinang Muara, Begini Katanya",
-        "category": "News",
-        "publish_time": "17-07-2025 09:13",
-        "news_link": "https://news.republika.co.id/berita/szje9e487/lurah-jawab-dugaan-pungli-dalam-rekrutmen-ppsu-di-cipinang-muara-begini-katanya"
-    },
-    {
-        "title": "Kulit Sehat Ala Luna Maya: Bukan Cuma Skincare, Temukan Tipsnya di Sini",
-        "category": "Ameera",
-        "publish_time": "17-07-2025 09:13",
-        "news_link": "https://ameera.republika.co.id/berita/szje9d425/kulit-sehat-ala-luna-maya-bukan-cuma-skincare-temukan-tipsnya-di-sini"
-    },
-    {
-        "title": "Soal Dugaan Bansos untuk Judol, Mensos akan Periksa Pendamping PKH",
-        "category": "News",
-        "publish_time": "17-07-2025 09:13",
-        "news_link": "https://news.republika.co.id/berita/szje84458/soal-dugaan-bansos-untuk-judol-mensos-akan-periksa-pendamping-pkh"
-    },
-    {
-        "title": "Kemenko Pangan: Kopdes Merah Putih Gerakkan Lini Usaha Wilayah Pesisir",
-        "category": "News",
-        "publish_time": "17-07-2025 09:13",
-        "news_link": "https://news.republika.co.id/berita/szj8bu451/kemenko-pangan-kopdes-merah-putih-gerakkan-lini-usaha-wilayah-pesisir"
-    },
-    {
-        "title": "Penyidik Jampidsus Kejagung Pastikan Nadiem akan Diperiksa Lagi",
-        "category": "News",
-        "publish_time": "17-07-2025 09:13",
-        "news_link": "https://news.republika.co.id/berita/szjdoh484/penyidik-jampidsus-kejagung-pastikan-nadiem-akan-diperiksa-lagi"
-    },
-    {
-        "title": "Bioetanol Brasil Disebut Berasal dari Papua, Indonesia Siap Perkuat Kerja Sama Energi",
-        "category": "Ekonomi",
-        "publish_time": "17-07-2025 09:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/szjdl0370/bioetanol-brasil-disebut-berasal-dari-papua-indonesia-siap-perkuat-kerja-sama-energi"
-    },
-    {
-        "title": "Embat Rp 13 Miliar, Tersangka Korupsi BUMD Cilacap Pakai Duit Haram untuk Beli Pabrik Beras",
-        "category": "Rejogja",
-        "publish_time": "17-07-2025 09:13",
-        "news_link": "https://rejogja.republika.co.id/berita/szjdc0282/embat-rp-13-miliar-tersangka-korupsi-bumd-cilacap-pakai-duit-haram-untuk-beli-pabrik-beras"
     }
 ]
