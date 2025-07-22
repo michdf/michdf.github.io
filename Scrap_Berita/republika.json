@@ -1,134 +1,254 @@
 [
     {
+        "title": "Tata Kelola Koperasi Merah Putih Dipertanyakan, Himbara Jawab Begini",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2025 13:24",
+        "news_link": "https://ekonomi.republika.co.id/berita/szsyks502/tata-kelola-koperasi-merah-putih-dipertanyakan-himbara-jawab-begini"
+    },
+    {
+        "title": "21 Anak Meninggal Kelaparan di Gaza dalam Tiga Hari",
+        "category": "News",
+        "publish_time": "22-07-2025 13:21",
+        "news_link": "https://news.republika.co.id/berita/szsyfu393/21-anak-meninggal-kelaparan-di-gaza-dalam-tiga-hari"
+    },
+    {
+        "title": "Prabowo Minta BPS Tingkatkan Akurasi Data, Ada Apa?",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2025 13:17",
+        "news_link": "https://ekonomi.republika.co.id/berita/szsy8f490/prabowo-minta-bps-tingkatkan-akurasi-data-ada-apa"
+    },
+    {
+        "title": "Respons Indomaret Atas Kehadiran 80 Ribu Koperasi Desa",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2025 13:08",
+        "news_link": "https://ekonomi.republika.co.id/berita/szsxtw409/respons-indomaret-atas-kehadiran-80-ribu-koperasi-desa"
+    },
+    {
+        "title": "Bangun 12 RS di Zona Hitam Papua, Menkes Minta Bantuan Menhan",
+        "category": "News",
+        "publish_time": "22-07-2025 13:06",
+        "news_link": "https://news.republika.co.id/berita/szsxq7484/bangun-12-rs-di-zona-hitam-papua-menkes-minta-bantuan-menhan"
+    },
+    {
+        "title": "Kunjungi Klaten, Verrel Sebut Kebijakan yang Tepat Butuh Dengarkan Suara Desa",
+        "category": "Dpr Ri",
+        "publish_time": "22-07-2025 13:05",
+        "news_link": "https://republika.co.id/berita//szsxpt349/kunjungi-klaten-verrel-sebut-kebijakan-yang-tepat-butuh-dengarkan-suara-desa"
+    },
+    {
+        "title": "KPK Periksa Sekda Sumut Terkait Kasus Dugaan Suap Proyek Jalan",
+        "category": "News",
+        "publish_time": "22-07-2025 13:04",
+        "news_link": "https://news.republika.co.id/berita/szsxmp487/kpk-periksa-sekda-sumut-terkait-kasus-dugaan-suap-proyek-jalan"
+    },
+    {
+        "title": "Uni Eropa Ultimatum Israel, Siapkan 'Semua Pilihan' Bila Bantuan tak Masuk Gaza",
+        "category": "News",
+        "publish_time": "22-07-2025 13:03",
+        "news_link": "https://news.republika.co.id/berita/szsxls393/uni-eropa-ultimatum-israel-siapkan-semua-pilihan-bila-bantuan-tak-masuk-gaza"
+    },
+    {
+        "title": "Prabowo Sampai Amran Kompak Sebut Kopdes Merah Putih Bakal Perkuat Alur Distribusi Pangan",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2025 13:02",
+        "news_link": "https://ekonomi.republika.co.id/berita/szsxkt490/prabowo-sampai-amran-kompak-sebut-kopdes-merah-putih-bakal-perkuat-alur-distribusi-pangan"
+    },
+    {
+        "title": "Pertama dalam Sejarah, UIN Walisongo Kirim 22 Mahasiswa Prodi Haji-Umrah KKN ke Arab Saudi",
+        "category": "Khazanah",
+        "publish_time": "22-07-2025 13:00",
+        "news_link": "https://khazanah.republika.co.id/berita/szsxgu320/pertama-dalam-sejarah-uin-walisongo-kirim-22-mahasiswa-prodi-hajiumrah-kkn-ke-arab-saudi"
+    },
+    {
+        "title": "Bank Jakarta Sediakan Layanan Perbankan untuk PKL",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2025 12:58",
+        "news_link": "https://ekonomi.republika.co.id/berita/szsxe4416/bank-jakarta-sediakan-layanan-perbankan-untuk-pkl"
+    },
+    {
+        "title": "Danantara Siapkan Investasi di Luar Negeri Rp130 Triliun, Rosan: Fokus Tetap di Indonesia",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2025 12:57",
+        "news_link": "https://ekonomi.republika.co.id/berita/szsxbp490/danantara-siapkan-investasi-di-luar-negeri-rp130-triliun-rosan-fokus-tetap-di-indonesia"
+    },
+    {
+        "title": "WFP: Warga Gaza Sudah tidak Makan Berhari-hari Akibat Blokade Israel",
+        "category": "News",
+        "publish_time": "22-07-2025 12:53",
+        "news_link": "https://news.republika.co.id/berita/szsx4y409/wfp-warga-gaza-sudah-tidak-makan-berharihari-akibat-blokade-israel"
+    },
+    {
+        "title": "BPOM Buka Suara Kasus Blackmores di Australia Diduga Picu Keracunan",
+        "category": "Ameera",
+        "publish_time": "22-07-2025 12:50",
+        "news_link": "https://ameera.republika.co.id/berita/szswzd425/bpom-buka-suara-kasus-blackmores-di-australia-diduga-picu-keracunan"
+    },
+    {
+        "title": "Ummi Siti Oded: Cantik Lahir Batin, Perempuan Jabar Harus Tangguh dan Mandiri",
+        "category": "Rejabar",
+        "publish_time": "22-07-2025 12:50",
+        "news_link": "https://rejabar.republika.co.id/berita/szswzb472/ummi-siti-oded-cantik-lahir-batin-perempuan-jabar-harus-tangguh-dan-mandiri"
+    },
+    {
+        "title": "Terungkap, Pengadilan Militer Pecat Satriya Arta Kumbara Sejak 2023, Ini Isi Putusannya",
+        "category": "News",
+        "publish_time": "22-07-2025 12:49",
+        "news_link": "https://news.republika.co.id/berita/szswz1487/terungkap-pengadilan-militer-pecat-satriya-arta-kumbara-sejak-2023-ini-isi-putusannya"
+    },
+    {
+        "title": "AS Kaji Kritik Terhadap Israel Jadi Pertimbangan Pengajuan Visa Pelajar",
+        "category": "Khazanah",
+        "publish_time": "22-07-2025 12:49",
+        "news_link": "https://khazanah.republika.co.id/berita/szswxx320/as-kaji-kritik-terhadap-israel-jadi-pertimbangan-pengajuan-visa-pelajar"
+    },
+    {
+        "title": "Cegah Perdagangan Ilegal, Pelajar di Sukabumi Didorong Peduli Kelestarian Satwa Liar",
+        "category": "Network",
+        "publish_time": "22-07-2025 12:46",
+        "news_link": "https://sukabumikini.com/posts/694301/cegah-perdagangan-ilegal-pelajar-di-sukabumi-didorong-peduli-kelestarian-satwa-liar"
+    },
+    {
+        "title": "Viral Aksi Bagi-Bagi Bir Saat Ajang Lari di Bandung, Ini Reaksi Wali Kota Bandung Farhan",
+        "category": "Rejabar",
+        "publish_time": "22-07-2025 12:46",
+        "news_link": "https://rejabar.republika.co.id/berita/szswsx512/viral-aksi-bagibagi-bir-saat-ajang-lari-di-bandung-ini-reaksi-wali-kota-bandung-farhan"
+    },
+    {
+        "title": "Respons Cyberbullying, Hokky Caraka Somasi Lima Akun Instagram",
+        "category": "News",
+        "publish_time": "22-07-2025 12:45",
+        "news_link": "https://news.republika.co.id/berita/szsws9409/respons-cyberbullying-hokky-caraka-somasi-lima-akun-instagram"
+    },
+    {
         "title": "Como FC Luncurkan Jersi Kandang: Didesain Didit Prabowo, Terinspirasi Danau Como",
         "category": "News",
-        "publish_time": "22-07-2025 12:31",
+        "publish_time": "22-07-2025 12:34",
         "news_link": "https://news.republika.co.id/berita/szsw48409/como-fc-luncurkan-jersi-kandang-didesain-didit-prabowo-terinspirasi-danau-como"
     },
     {
         "title": "Tolak RKUHAP, Mahasiswa dan Koalisi Masyarakat Sipil Gelar Aksi di DPR",
         "category": "Visual",
-        "publish_time": "22-07-2025 12:29",
+        "publish_time": "22-07-2025 12:34",
         "news_link": "https://visual.republika.co.id/berita/szsuxa375/tolak-rkuhap-mahasiswa-dan-koalisi-masyarakat-sipil-gelar-aksi-di-dpr"
     },
     {
         "title": "Viral Aksi Bagi-Bagi Bir Saat Ajang Lari, Wali Kota Farhan: Saya Gak Tahu Kalau Itu Bir",
         "category": "Khazanah",
-        "publish_time": "22-07-2025 12:28",
+        "publish_time": "22-07-2025 12:34",
         "news_link": "https://khazanah.republika.co.id/berita/szsw0e483/viral-aksi-bagibagi-bir-saat-ajang-lari-wali-kota-farhan-saya-gak-tahu-kalau-itu-bir"
     },
     {
         "title": "Bahlil Ungkap Sedang Evaluasi Pemberian Izin Tambang untuk Muhammadiyah, Ini Alasannya",
         "category": "Ekonomi",
-        "publish_time": "22-07-2025 12:25",
+        "publish_time": "22-07-2025 12:34",
         "news_link": "https://ekonomi.republika.co.id/berita/szsvu6490/bahlil-ungkap-sedang-evaluasi-pemberian-izin-tambang-untuk-muhammadiyah-ini-alasannya"
     },
     {
         "title": "Banggar Usul Penetapan 219 Proyek PSN, Ada Tujuh Proyek Baru",
         "category": "Ekonomi",
-        "publish_time": "22-07-2025 12:19",
+        "publish_time": "22-07-2025 12:34",
         "news_link": "https://ekonomi.republika.co.id/berita/szsvl7490/banggar-usul-penetapan-219-proyek-psn-ada-tujuh-proyek-baru"
     },
     {
         "title": "Pengakuan Free Runners Bandung: Bagi-Bagi Bir di Event Lari Kolaborasi Resmi",
         "category": "Khazanah",
-        "publish_time": "22-07-2025 12:19",
+        "publish_time": "22-07-2025 12:34",
         "news_link": "https://khazanah.republika.co.id/berita/szsvl1483/pengakuan-free-runners-bandung-bagibagi-bir-di-event-lari-kolaborasi-resmi"
     },
     {
         "title": "Forum Dai Internasional: Keislaman di ASEAN Rahmah dan Ramah",
         "category": "Khazanah",
-        "publish_time": "22-07-2025 12:17",
+        "publish_time": "22-07-2025 12:34",
         "news_link": "https://khazanah.republika.co.id/berita/szsvhs320/forum-dai-internasional-keislaman-di-asean-rahmah-dan-ramah"
     },
     {
         "title": "Kopdes Merah Putih Bantu Warga Penuhi Kebutuhan dengan Harga Terjangkau",
         "category": "News",
-        "publish_time": "22-07-2025 12:06",
+        "publish_time": "22-07-2025 12:34",
         "news_link": "https://news.republika.co.id/berita/szs8y9451/kopdes-merah-putih-bantu-warga-penuhi-kebutuhan-dengan-harga-terjangkau"
     },
     {
         "title": "Akibat Perangi Iran, Angka Pengangguran Israel Melonjak Tajam",
         "category": "Khazanah",
-        "publish_time": "22-07-2025 12:06",
+        "publish_time": "22-07-2025 12:34",
         "news_link": "https://khazanah.republika.co.id/berita/szsuzl320/akibat-perangi-iran-angka-pengangguran-israel-melonjak-tajam"
     },
     {
         "title": "Kecewa Disingkirkan BTS, Unggul FC Bidik Peringkat Tiga Pro Futsal League 2024-2025",
         "category": "Network",
-        "publish_time": "22-07-2025 11:59",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://skor.republika.co.id/posts/694332/kecewa-disingkirkan-bts-unggul-fc-bidik-peringkat-tiga-pro-futsal-league-2024-2025"
     },
     {
         "title": "PP Nasyiatul Aisyiyah Apresiasi Remisi ABH dan Dorong Reunifikasi LIbatkan Keluarga dan Lingkungan",
         "category": "News",
-        "publish_time": "22-07-2025 11:54",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://news.republika.co.id/berita/szsuf6291/pp-nasyiatul-aisyiyah-apresiasi-remisi-abh-dan-dorong-reunifikasi-libatkan-keluarga-dan-lingkungan"
     },
     {
         "title": "Jaksa Pastikan Ajukan Banding Atas Vonis Tom Lembong",
         "category": "News",
-        "publish_time": "22-07-2025 11:54",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://news.republika.co.id/berita/szsueo409/jaksa-pastikan-ajukan-banding-atas-vonis-tom-lembong"
     },
     {
         "title": "Kembangkan Digitalisasi, Sri Mulyani Ungkap Pegawai Kemenkeu Berkurang Hampir 1.000 Orang",
         "category": "Ekonomi",
-        "publish_time": "22-07-2025 11:53",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://ekonomi.republika.co.id/berita/szsucs490/kembangkan-digitalisasi-sri-mulyani-ungkap-pegawai-kemenkeu-berkurang-hampir-1000-orang"
     },
     {
         "title": "Mengapa Barat Gagal Tumbangkan Rezim Iran Seperti di Irak dan Afghanistan?",
         "category": "Khazanah",
-        "publish_time": "22-07-2025 11:49",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://khazanah.republika.co.id/berita/szsu6b320/mengapa-barat-gagal-tumbangkan-rezim-iran-seperti-di-irak-dan-afghanistan"
     },
     {
         "title": "Ini Fakta Baru Terkait Kasus Kematian Diplomat Muda Kemenlu yang Didapat Kompolnas",
         "category": "News",
-        "publish_time": "22-07-2025 11:46",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://news.republika.co.id/berita/szsu2g409/ini-fakta-baru-terkait-kasus-kematian-diplomat-muda-kemenlu-yang-didapat-kompolnas"
     },
     {
         "title": "Tragedi Laut dan Asuransi Maritim: 5 Payout Terbesar dalam Sejarah Perkapalan",
         "category": "Network",
-        "publish_time": "22-07-2025 11:44",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://shippingcargo.co.id/posts/694202/tragedi-laut-dan-asuransi-maritim-5-payout-terbesar-dalam-sejarah-perkapalan"
     },
     {
         "title": "KAI Perkenalkan Lokomotif Hasil Reverse Engineering",
         "category": "Network",
-        "publish_time": "22-07-2025 11:44",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://kreta.id/posts/694322/kai-perkenalkan-lokomotif-hasil-reverse-engineering"
     },
     {
         "title": "Pocari Sweat Run 2025 di Kota Bandung Diwarnai Bagi-Bagi Bir, Farhan Ngaku tak Tahu",
         "category": "Rejabar",
-        "publish_time": "22-07-2025 11:44",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://rejabar.republika.co.id/berita/szsty0282/pocari-sweat-run-2025-di-kota-bandung-diwarnai-bagibagi-bir-farhan-ngaku-tak-tahu"
     },
     {
         "title": "TNI Beri Bantuan untuk Bayi Baru Lahir di Perbatasan Boven Digoel",
         "category": "Network",
-        "publish_time": "22-07-2025 11:44",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://pemantiknews.id/posts/694313/tni-beri-bantuan-untuk-bayi-baru-lahir-di-perbatasan-boven-digoel"
     },
     {
         "title": "Rupiah Menguat Tipis, Perlambatan Ekonomi dan Tarif AS Jadi Pemicunya",
         "category": "Ekonomi",
-        "publish_time": "22-07-2025 11:41",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://ekonomi.republika.co.id/berita/szsttt490/rupiah-menguat-tipis-perlambatan-ekonomi-dan-tarif-as-jadi-pemicunya"
     },
     {
         "title": "Pramono Bungkam Ditanya Beras Oplosan PT Food Station Tjipinang Jaya",
         "category": "News",
-        "publish_time": "22-07-2025 11:36",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://news.republika.co.id/berita/szstlp484/pramono-bungkam-ditanya-beras-oplosan-pt-food-station-tjipinang-jaya"
     },
     {
         "title": "Mendagri Minta Pemda Percepat Perizinan Program 3 Juta Rumah",
         "category": "Ekonomi",
-        "publish_time": "22-07-2025 11:35",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://ekonomi.republika.co.id/berita/szstjk416/mendagri-minta-pemda-percepat-perizinan-program-3-juta-rumah"
     },
     {
@@ -140,163 +260,43 @@
     {
         "title": "Sejumlah Musisi Hadiri Sidang Uji Materi Hak Cipta di MK",
         "category": "Visual",
-        "publish_time": "22-07-2025 11:32",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://visual.republika.co.id/berita/szstbl375/sejumlah-musisi-hadiri-sidang-uji-materi-hak-cipta-di-mk"
     },
     {
         "title": "Kolaborasi WE Finance Code Perluas Akses Pendanaan UMKM Perempuan",
         "category": "Esgnow",
-        "publish_time": "22-07-2025 11:32",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://esgnow.republika.co.id/berita/szst7h490/kolaborasi-we-finance-code-perluas-akses-pendanaan-umkm-perempuan"
     },
     {
         "title": "Prabowo Pimpin Ratas, Investasi 2024 di KEK Lampaui Target",
         "category": "News",
-        "publish_time": "22-07-2025 11:32",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://news.republika.co.id/berita/szst1p484/prabowo-pimpin-ratas-investasi-2024-di-kek-lampaui-target"
     },
     {
         "title": "Kemenperin Susun Peta Jalan Dekarbonisasi Sembilan Sektor Industri",
         "category": "Esgnow",
-        "publish_time": "22-07-2025 11:32",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://esgnow.republika.co.id/berita/szst15416/kemenperin-susun-peta-jalan-dekarbonisasi-sembilan-sektor-industri"
     },
     {
         "title": "Telkom Gelar Culture Festival 2025: Teguhkan Budaya Kolaboratif dan Sadar Cyber Security",
         "category": "Ekonomi",
-        "publish_time": "22-07-2025 11:32",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://ekonomi.republika.co.id/berita/szssx6472/telkom-gelar-culture-festival-2025-teguhkan-budaya-kolaboratif-dan-sadar-cyber-security"
     },
     {
         "title": "Perang Terpanjang yang Terjadi di Arab Masa Jahiliyah Sebelum Islam, Pemicunya Wanita?",
         "category": "Khazanah",
-        "publish_time": "22-07-2025 11:32",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://khazanah.republika.co.id/berita/szssw7320/perang-terpanjang-yang-terjadi-di-arab-masa-jahiliyah-sebelum-islam-pemicunya-wanita"
     },
     {
         "title": "Dewan Pers Jajaki Kerja Sama dengan HEC Montreal, Dorong Jurnalis Berkiprah di Ajang Global",
         "category": "News",
-        "publish_time": "22-07-2025 11:32",
+        "publish_time": "22-07-2025 11:34",
         "news_link": "https://news.republika.co.id/berita/szssnx487/dewan-pers-jajaki-kerja-sama-dengan-hec-montreal-dorong-jurnalis-berkiprah-di-ajang-global"
-    },
-    {
-        "title": "Menengok Penerapan Kebijakan 50 Siswa per Kelas di SMAN 1 Depok, Tambah AC Pun Dinilai Bukan Solusi",
-        "category": "News",
-        "publish_time": "22-07-2025 11:32",
-        "news_link": "https://news.republika.co.id/berita/szssm7409/menengok-penerapan-kebijakan-50-siswa-per-kelas-di-sman-1-depok-tambah-ac-pun-dinilai-bukan-solusi"
-    },
-    {
-        "title": "Siapa Kafir Quraisy dan Mengapa Ada yang Akui Kebenaran Alquran dari Golongan Mereka?",
-        "category": "Khazanah",
-        "publish_time": "22-07-2025 11:32",
-        "news_link": "https://khazanah.republika.co.id/berita/szsskc320/siapa-kafir-quraisy-dan-mengapa-ada-yang-akui-kebenaran-alquran-dari-golongan-mereka"
-    },
-    {
-        "title": "Bagnaia Menyerah Kejar Marc Marquez dalam Perebutan Gelar Juara MotoGP 2025",
-        "category": "News",
-        "publish_time": "22-07-2025 11:32",
-        "news_link": "https://news.republika.co.id/berita/szsshn348/bagnaia-menyerah-kejar-marc-marquez-dalam-perebutan-gelar-juara-motogp-2025"
-    },
-    {
-        "title": "Terungkap 3 Kali Upaya Pembunuhan Presiden Suriah, Salah Satunya Nyaris Berhasil",
-        "category": "Khazanah",
-        "publish_time": "22-07-2025 11:32",
-        "news_link": "https://khazanah.republika.co.id/berita/szss17320/terungkap-3-kali-upaya-pembunuhan-presiden-suriah-salah-satunya-nyaris-berhasil"
-    },
-    {
-        "title": "Nyambi Jualan Narkoba, IRT di Kota Cimahi Mengaku Dapat Untung Rp 2 Juta",
-        "category": "Rejabar",
-        "publish_time": "22-07-2025 10:32",
-        "news_link": "https://rejabar.republika.co.id/berita/szsrss512/nyambi-jualan-narkoba-irt-di-kota-cimahi-mengaku-dapat-untung-rp-2-juta"
-    },
-    {
-        "title": "Kompolnas Periksa Kunci Slot hingga Plafon Indekos Diplomat Tewas Terlilit Lakban, Begini Hasilnya",
-        "category": "News",
-        "publish_time": "22-07-2025 10:32",
-        "news_link": "https://news.republika.co.id/berita/szsrpv487/kompolnas-periksa-kunci-slot-hingga-plafon-indekos-diplomat-tewas-terlilit-lakban-begini-hasilnya"
-    },
-    {
-        "title": "Drone Houthi Yaman Hajar 5 Situs Vital Militer Israel, Militer Zionis Bantah Terdampak",
-        "category": "Khazanah",
-        "publish_time": "22-07-2025 10:32",
-        "news_link": "https://khazanah.republika.co.id/berita/szsrmk320/drone-houthi-yaman-hajar-5-situs-vital-militer-israel-militer-zionis-bantah-terdampak"
-    },
-    {
-        "title": "InJourney Airports Siapkan Perpindahan Penerbangan dari Halim",
-        "category": "Ekonomi",
-        "publish_time": "22-07-2025 10:32",
-        "news_link": "https://ekonomi.republika.co.id/berita/szsrdn490/injourney-airports-siapkan-perpindahan-penerbangan-dari-halim"
-    },
-    {
-        "title": "Dua Anak Kembali Meninggal Kelaparan di Gaza",
-        "category": "News",
-        "publish_time": "22-07-2025 10:32",
-        "news_link": "https://news.republika.co.id/berita/szsr8x393/dua-anak-kembali-meninggal-kelaparan-di-gaza"
-    },
-    {
-        "title": "Gus Irfan: Pengesahan RUU Haji dan Umrah Pastikan Kelancaran Haji Tahun Depan",
-        "category": "Khazanah",
-        "publish_time": "22-07-2025 10:32",
-        "news_link": "https://khazanah.republika.co.id/berita/szsr0g483/gus-irfan-pengesahan-ruu-haji-dan-umrah-pastikan-kelancaran-haji-tahun-depan"
-    },
-    {
-        "title": "Disperindag Jateng Razia Beras Premium di Tiga Daerah",
-        "category": "Ekonomi",
-        "publish_time": "22-07-2025 10:32",
-        "news_link": "https://ekonomi.republika.co.id/berita/szsr0c416/disperindag-jateng-razia-beras-premium-di-tiga-daerah"
-    },
-    {
-        "title": "Ian Puleio, Pemain Asing Anyar Arema yang Punya Pengalaman Main di Liga Champions",
-        "category": "Network",
-        "publish_time": "22-07-2025 10:32",
-        "news_link": "https://skor.republika.co.id/posts/694321/ian-puleio-pemain-asing-anyar-arema-yang-punya-pengalaman-main-di-liga-champions"
-    },
-    {
-        "title": "Gajah Versus Banteng di Jateng, Jokowi akan Gerus Suara PDIP?",
-        "category": "News",
-        "publish_time": "22-07-2025 10:32",
-        "news_link": "https://news.republika.co.id/berita/szsquu377/gajah-versus-banteng-di-jateng-jokowi-akan-gerus-suara-pdip"
-    },
-    {
-        "title": "Indef: Lapangan Kerja Harus Jadi Arus Utama Kebijakan Pemerintah",
-        "category": "Ekonomi",
-        "publish_time": "22-07-2025 10:32",
-        "news_link": "https://ekonomi.republika.co.id/berita/szsqof370/indef-lapangan-kerja-harus-jadi-arus-utama-kebijakan-pemerintah"
-    },
-    {
-        "title": "IHSG Melemah 0,72 Persen, Profit Taking Dominasi Pasar Saham",
-        "category": "Ekonomi",
-        "publish_time": "22-07-2025 10:32",
-        "news_link": "https://ekonomi.republika.co.id/berita/szsqnt490/ihsg-melemah-072-persen-profit-taking-dominasi-pasar-saham"
-    },
-    {
-        "title": "Ditumbangkan Ganendra Satya, Pelatih TSI Jakarta Soroti Penyelesaian Akhir",
-        "category": "Network",
-        "publish_time": "22-07-2025 10:32",
-        "news_link": "https://skor.republika.co.id/posts/694317/ditumbangkan-ganendra-satya-pelatih-tsi-jakarta-soroti-penyelesaian-akhir"
-    },
-    {
-        "title": "Indonesia-Swiss Jajaki Kerja Sama Pengembangan SDM Hijau",
-        "category": "Esgnow",
-        "publish_time": "22-07-2025 10:32",
-        "news_link": "https://esgnow.republika.co.id/berita/szsqc5416/indonesiaswiss-jajaki-kerja-sama-pengembangan-sdm-hijau"
-    },
-    {
-        "title": "Imbas Kasus Beras Oplosan, Pramono Panggil Dirut Food Station",
-        "category": "Ekonomi",
-        "publish_time": "22-07-2025 10:32",
-        "news_link": "https://ekonomi.republika.co.id/berita/szsq2a490/imbas-kasus-beras-oplosan-pramono-panggil-dirut-food-station"
-    },
-    {
-        "title": "Ini Alasan Kejagung yang Belum Bisa Tangkap Tersangka Korupsi Riza Chalid di Malaysia",
-        "category": "News",
-        "publish_time": "22-07-2025 10:32",
-        "news_link": "https://news.republika.co.id/berita/szspi9377/ini-alasan-kejagung-yang-belum-bisa-tangkap-tersangka-korupsi-riza-chalid-di-malaysia"
-    },
-    {
-        "title": "Anggota DPR Fraksi PAN Desak Pemerintah Koalisi Internasional Tekan Israel",
-        "category": "News",
-        "publish_time": "22-07-2025 10:32",
-        "news_link": "https://news.republika.co.id/berita/szsp9q318/anggota-dpr-fraksi-pan-desak-pemerintah-koalisi-internasional-tekan-israel"
     }
 ]
