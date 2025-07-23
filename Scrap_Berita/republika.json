@@ -1,26 +1,74 @@
 [
     {
+        "title": "Pejuang Palestina Habisi 25 Tentara Israel di Rafah",
+        "category": "News",
+        "publish_time": "23-07-2025 23:07",
+        "news_link": "https://news.republika.co.id/berita/szvk9c393/pejuang-palestina-habisi-25-tentara-israel-di-rafah"
+    },
+    {
+        "title": "Kenalkan Ini Mobil China JAECOO yang Memberikan Layanan Perawatan Seumur Hidup Gratis",
+        "category": "Ekonomi",
+        "publish_time": "23-07-2025 23:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/szv5ed468/kenalkan-ini-mobil-china-jaecoo-yang-memberikan-layanan-perawatan-seumur-hidup-gratis"
+    },
+    {
+        "title": "Iran Berhasil Usir Kapal Perang AS dari Teluk Oman",
+        "category": "News",
+        "publish_time": "23-07-2025 22:48",
+        "news_link": "https://news.republika.co.id/berita/szvjcs393/iran-berhasil-usir-kapal-perang-as-dari-teluk-oman"
+    },
+    {
+        "title": "Allegri Soroti Penguasaan Bola AC Milan Ketika Takluk dari Arsenal, Arteta Puas Adaptasi Pemain Baru",
+        "category": "News",
+        "publish_time": "23-07-2025 22:45",
+        "news_link": "https://news.republika.co.id/berita/szviqo348/allegri-soroti-penguasaan-bola-ac-milan-ketika-takluk-dari-arsenal-arteta-puas-adaptasi-pemain-baru"
+    },
+    {
+        "title": "eFootball Kembali Ramaikan FIFAe World Cup 2025",
+        "category": "Network",
+        "publish_time": "23-07-2025 22:39",
+        "news_link": "https://skor.republika.co.id/posts/694608/e-football-kembali-ramaikan-fif-ae-world-cup-2025"
+    },
+    {
+        "title": "Parlemen Israel Sepakati Pencaplokan Tepi Barat",
+        "category": "News",
+        "publish_time": "23-07-2025 22:37",
+        "news_link": "https://news.republika.co.id/berita/szvivx393/parlemen-israel-sepakati-pencaplokan-tepi-barat"
+    },
+    {
+        "title": "Liverpool Rekrut Penyerang Prancis Hugo Ekitike",
+        "category": "News",
+        "publish_time": "23-07-2025 22:25",
+        "news_link": "https://news.republika.co.id/berita/szviat348/liverpool-rekrut-penyerang-prancis-hugo-ekitike"
+    },
+    {
+        "title": "Bank Indonesia Bakal Uji Coba Payment ID untuk Penyaluran Bansos",
+        "category": "Ekonomi",
+        "publish_time": "23-07-2025 22:18",
+        "news_link": "https://ekonomi.republika.co.id/berita/szuys2490/bank-indonesia-bakal-uji-coba-payment-id-untuk-penyaluran-bansos"
+    },
+    {
         "title": "Juventus Perpanjang Kontrak Federico Gatti Sampai 2030",
         "category": "News",
-        "publish_time": "23-07-2025 22:11",
+        "publish_time": "23-07-2025 22:15",
         "news_link": "https://news.republika.co.id/berita/szvho2348/juventus-perpanjang-kontrak-federico-gatti-sampai-2030"
     },
     {
         "title": "Pelindo Dukung Pembinaan Anak Lapas Lewat Program Pelita Warna",
         "category": "Ekonomi",
-        "publish_time": "23-07-2025 22:03",
+        "publish_time": "23-07-2025 22:15",
         "news_link": "https://ekonomi.republika.co.id/berita/szvh97370/pelindo-dukung-pembinaan-anak-lapas-lewat-program-pelita-warna"
     },
     {
-        "title": "Barcelona Resmi Dapatkan Marcus Rashford, Dipinjamn Semusim dari Manchester United",
+        "title": "Barcelona Resmi Dapatkan Marcus Rashford, Dipinjam Semusim dari Manchester United",
         "category": "News",
-        "publish_time": "23-07-2025 21:46",
-        "news_link": "https://news.republika.co.id/berita/szvghr348/barcelona-resmi-dapatkan-marcus-rashford-dipinjamn-semusim-dari-manchester-united"
+        "publish_time": "23-07-2025 22:15",
+        "news_link": "https://news.republika.co.id/berita/szvghr348/barcelona-resmi-dapatkan-marcus-rashford-dipinjam-semusim-dari-manchester-united"
     },
     {
         "title": "Viral Satwa Jaguar di Ragunan Terlihat Lemas, Manajemen Berikan Klarifikasi",
         "category": "News",
-        "publish_time": "23-07-2025 21:29",
+        "publish_time": "23-07-2025 21:15",
         "news_link": "https://news.republika.co.id/berita/szvfpc348/viral-satwa-jaguar-di-ragunan-terlihat-lemas-manajemen-berikan-klarifikasi"
     },
     {
@@ -250,53 +298,5 @@
         "category": "Rejabar",
         "publish_time": "23-07-2025 14:15",
         "news_link": "https://rejabar.republika.co.id/berita/szuvmn512/ribuan-pencari-kerja-serbu-job-fair-2025-kota-cirebon"
-    },
-    {
-        "title": "Koperasi Desa Merah Putih Dinilai Lengkapi Ekosistem Distribusi Pupuk",
-        "category": "Ekonomi",
-        "publish_time": "23-07-2025 14:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/szuvmd483/koperasi-desa-merah-putih-dinilai-lengkapi-ekosistem-distribusi-pupuk"
-    },
-    {
-        "title": "Peringati Hari Anak, Pemkot Bandung Luncurkan Gerakan Tujuh Kebiasaan Anak Indonesia Hebat",
-        "category": "Rejabar",
-        "publish_time": "23-07-2025 14:15",
-        "news_link": "https://rejabar.republika.co.id/berita/szuvc2512/peringati-hari-anak-pemkot-bandung-luncurkan-gerakan-tujuh-kebiasaan-anak-indonesia-hebat"
-    },
-    {
-        "title": "Aktris Senior Widyawati Mengaku Dekat dengan Menantu, Seperti Anak Sendiri",
-        "category": "Ameera",
-        "publish_time": "23-07-2025 14:15",
-        "news_link": "https://ameera.republika.co.id/berita/szuv8g425/aktris-senior-widyawati-mengaku-dekat-dengan-menantu-seperti-anak-sendiri"
-    },
-    {
-        "title": "Pengusaha Tambang NU Gelar Turnamen Golf Berhadiah Mobil",
-        "category": "Khazanah",
-        "publish_time": "23-07-2025 14:15",
-        "news_link": "https://khazanah.republika.co.id/berita/szuv41483/pengusaha-tambang-nu-gelar-turnamen-golf-berhadiah-mobil"
-    },
-    {
-        "title": "Mengenal Sosok Muhammad bin Ali",
-        "category": "Khazanah",
-        "publish_time": "23-07-2025 14:15",
-        "news_link": "https://khazanah.republika.co.id/berita/szuusm458/mengenal-sosok-muhammad-bin-ali"
-    },
-    {
-        "title": "Qassam Kembali Hajar Merkava Canggih Israel, Tentara Zionis Bertumbangan",
-        "category": "Khazanah",
-        "publish_time": "23-07-2025 14:15",
-        "news_link": "https://khazanah.republika.co.id/berita/szuuo4320/qassam-kembali-hajar-merkava-canggih-israel-tentara-zionis-bertumbangan"
-    },
-    {
-        "title": "Usai Kalahkan Persija Macan, TSI Jakarta Hadapi Semen Padang Diklat ISA di Laga Pamungkas",
-        "category": "Network",
-        "publish_time": "23-07-2025 14:15",
-        "news_link": "https://skor.republika.co.id/posts/694565/usai-kalahkan-persija-macan-tsi-jakarta-hadapi-semen-padang-diklat-isa-di-laga-pamungkas"
-    },
-    {
-        "title": "Dua Mantan Bintang Asing Persib Gabung Malut United, Bawa DNA Juara",
-        "category": "Network",
-        "publish_time": "23-07-2025 14:15",
-        "news_link": "https://skor.republika.co.id/posts/694564/dua-mantan-bintang-asing-persib-gabung-malut-united-bawa-dna-juara"
     }
 ]
