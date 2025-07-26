@@ -1,5 +1,83 @@
 [
     {
+        "title": "Rumah di Kota Cimahi Terbakar, Pemilik Alami Kerugian Rp 200 Juta",
+        "category": "Rejabar",
+        "publish_time": "26 July 2025, 16:10",
+        "news_link": "https://rejabar.republika.co.id/berita/t001i3512/rumah-di-kota-cimahi-terbakar-pemilik-alami-kerugian-rp-200-juta"
+    },
+    {
+        "title": "PM Inggris: Anak Gaza Akan Dievakuasi untuk Perawatan di Inggris",
+        "category": "News",
+        "publish_time": "26 July 2025, 16:10",
+        "news_link": "https://news.republika.co.id/berita/t000no370/pm-inggris-anak-gaza-akan-dievakuasi-untuk-perawatan-di-inggris"
+    },
+    {
+        "title": "Reuni Ke-45 Fakultas Kehutanan UGM, Jokowi Curhat Dituduh Punya Ijazah Palsu",
+        "category": "News",
+        "publish_time": "26 July 2025, 16:04",
+        "news_link": "https://news.republika.co.id/berita/t00175484/reuni-ke45-fakultas-kehutanan-ugm-jokowi-curhat-dituduh-punya-ijazah-palsu"
+    },
+    {
+        "title": "Erick Thohir: Hokky Caraka Punya Mental yang Kuat",
+        "category": "News",
+        "publish_time": "26 July 2025, 16:02",
+        "news_link": "https://news.republika.co.id/berita/t00146451/erick-thohir-hokky-caraka-punya-mental-yang-kuat"
+    },
+    {
+        "title": "Pertamina Salurkan Bantuan Kemanusiaan untuk Korban Kebakaran Kelurahan 1 Ulu Palembang",
+        "category": "Ekonomi",
+        "publish_time": "26 July 2025, 15:57",
+        "news_link": "https://ekonomi.republika.co.id/berita/t000vl522/pertamina-salurkan-bantuan-kemanusiaan-untuk-korban-kebakaran-kelurahan-1-ulu-palembang"
+    },
+    {
+        "title": "Politisi PDIP: Konflik Kamboja-Thailand Wajib Diselesaikan Lewat ASEAN",
+        "category": "News",
+        "publish_time": "26 July 2025, 15:50",
+        "news_link": "https://news.republika.co.id/berita/t000k8451/politisi-pdip-konflik-kambojathailand-wajib-diselesaikan-lewat-asean"
+    },
+    {
+        "title": "Drone Bayangi Kapal Bantuan ke Gaza, Koalisi Internasional Waspadai Intersepsi",
+        "category": "News",
+        "publish_time": "26 July 2025, 15:43",
+        "news_link": "https://news.republika.co.id/berita/t0008t370/drone-bayangi-kapal-bantuan-ke-gaza-koalisi-internasional-waspadai-intersepsi"
+    },
+    {
+        "title": "Pemerintah Siapkan Perpres PLTS Desa, Targetkan Swasembada Energi Nasional",
+        "category": "Ekonomi",
+        "publish_time": "26 July 2025, 15:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0003s370/pemerintah-siapkan-perpres-plts-desa-targetkan-swasembada-energi-nasional"
+    },
+    {
+        "title": "Sandiaga Gelar Program Beauty Class bagi Penyandang Disabilitas",
+        "category": "News",
+        "publish_time": "26 July 2025, 15:37",
+        "news_link": "https://news.republika.co.id/berita/szzzz2484/sandiaga-gelar-program-beauty-class-bagi-penyandang-disabilitas"
+    },
+    {
+        "title": "Otsus Aceh, Anggota DPR: Aceh Miliki Keunggulan Geografis",
+        "category": "News",
+        "publish_time": "26 July 2025, 15:36",
+        "news_link": "https://news.republika.co.id/berita/szzugc451/otsus-aceh-anggota-dpr-aceh-miliki-keunggulan-geografis"
+    },
+    {
+        "title": "Rumah Panggung Terbakar, Nenek 70 Tahun di Cianjur Meninggal Terpanggang",
+        "category": "Rejabar",
+        "publish_time": "26 July 2025, 15:34",
+        "news_link": "https://rejabar.republika.co.id/berita/szzzu2282/rumah-panggung-terbakar-nenek-70-tahun-di-cianjur-meninggal-terpanggang"
+    },
+    {
+        "title": "Komisi I DPR Ingatkan Konflik Thailand-Kamboja Lemahkan Stabilitas ASEAN",
+        "category": "News",
+        "publish_time": "26 July 2025, 15:26",
+        "news_link": "https://news.republika.co.id/berita/szzzgw484/komisi-i-dpr-ingatkan-konflik-thailandkamboja-lemahkan-stabilitas-asean"
+    },
+    {
+        "title": "Honda STEP WGN e:HEV Tawarkan 100 Fitur untuk Manjakan Konsumen",
+        "category": "Ekonomi",
+        "publish_time": "26 July 2025, 15:22",
+        "news_link": "https://ekonomi.republika.co.id/berita/szzz93468/honda-step-wgn-ehev-tawarkan-100-fitur-untuk-manjakan-konsumen"
+    },
+    {
         "title": "Peternak di Lembang Kebingungan, Sapi Betina Mati Mendadak Terjangkit Penyakit Misterius",
         "category": "Rejabar",
         "publish_time": "26 July 2025, 15:11",
@@ -220,83 +298,5 @@
         "category": "Khazanah",
         "publish_time": "26 July 2025, 10:56",
         "news_link": "https://khazanah.republika.co.id/berita/szzmxe430/mengenal-ummu-hamid-sahabat-nabi-yang-terkenal-taat-beribadah"
-    },
-    {
-        "title": "Pakar Pesimistis Gencatan Senjata Cepat Kamboja-Thailand Dapat Segera Terjadi, Ini Alasannya",
-        "category": "News",
-        "publish_time": "26 July 2025, 10:43",
-        "news_link": "https://news.republika.co.id/berita/szzmd5377/pakar-pesimistis-gencatan-senjata-cepat-kambojathailand-dapat-segera-terjadi-ini-alasannya"
-    },
-    {
-        "title": "Macron akan Akui Palestina, Indonesia: Langkah Positif untuk Perdamaian",
-        "category": "News",
-        "publish_time": "26 July 2025, 10:32",
-        "news_link": "https://news.republika.co.id/berita/szzlth370/macron-akan-akui-palestina-indonesia-langkah-positif-untuk-perdamaian"
-    },
-    {
-        "title": "Gaza Terancam Kehabisan Makanan Terapeutik, Anak-anak Jadi Korban",
-        "category": "News",
-        "publish_time": "26 July 2025, 10:12",
-        "news_link": "https://news.republika.co.id/berita/szzkw2370/gaza-terancam-kehabisan-makanan-terapeutik-anakanak-jadi-korban"
-    },
-    {
-        "title": "Pria di Mesir Kirim Bantuan ke Gaza dengan Botol",
-        "category": "Video",
-        "publish_time": "26 July 2025, 10:09",
-        "news_link": "https://tv.republika.co.id/berita/szzkr6313/pria-di-mesir-kirim-bantuan-ke-gaza-dengan-botol"
-    },
-    {
-        "title": "Dubes Palestina ke Eropa: Setop Pasok Senjata ke Israel",
-        "category": "News",
-        "publish_time": "26 July 2025, 10:00",
-        "news_link": "https://news.republika.co.id/berita/szzhvx377/dubes-palestina-ke-eropa-setop-pasok-senjata-ke-israel"
-    },
-    {
-        "title": "China dan Uni Eropa Sepakat Perkuat Kerja Sama Iklim Jelang COP30",
-        "category": "Esgnow",
-        "publish_time": "26 July 2025, 10:00",
-        "news_link": "https://esgnow.republika.co.id/berita/szziyq370/china-dan-uni-eropa-sepakat-perkuat-kerja-sama-iklim-jelang-cop30"
-    },
-    {
-        "title": "Dorong Pertumbuhan Ekonomi Semester II, Insentif Pajak Properti Diperpanjang",
-        "category": "Ekonomi",
-        "publish_time": "26 July 2025, 09:56",
-        "news_link": "https://ekonomi.republika.co.id/berita/szzk6x490/dorong-pertumbuhan-ekonomi-semester-ii-insentif-pajak-properti-diperpanjang"
-    },
-    {
-        "title": "Laba Bersih BTPN Syariah Tumbuh 16,6 Persen, Sentra Umrah Naik Jadi 18 Kelompok",
-        "category": "Ekonomi Syariah",
-        "publish_time": "26 July 2025, 09:52",
-        "news_link": "https://sharia.republika.co.id/berita/szzjyp490/laba-bersih-btpn-syariah-tumbuh-166-persen-sentra-umrah-naik-jadi-18-kelompok"
-    },
-    {
-        "title": "Hasto Divonis 3,5 Tahun Penjara, Ini Sikap Ganjar",
-        "category": "News",
-        "publish_time": "26 July 2025, 09:30",
-        "news_link": "https://news.republika.co.id/berita/szzhke377/hasto-divonis-35-tahun-penjara-ini-sikap-ganjar"
-    },
-    {
-        "title": "KPK: Ada Keuntungan yang Diambil dari Pembagian Kuota Haji Khusus",
-        "category": "Khazanah",
-        "publish_time": "26 July 2025, 09:27",
-        "news_link": "https://khazanah.republika.co.id/berita/szziug430/kpk-ada-keuntungan-yang-diambil-dari-pembagian-kuota-haji-khusus"
-    },
-    {
-        "title": "KLH Segel Empat Perusahaan dan Tutup Pabrik Sawit karena Karhutla di Riau",
-        "category": "Esgnow",
-        "publish_time": "26 July 2025, 09:22",
-        "news_link": "https://esgnow.republika.co.id/berita/szzikv370/klh-segel-empat-perusahaan-dan-tutup-pabrik-sawit-karena-karhutla-di-riau"
-    },
-    {
-        "title": "Pendapat Ulama tentang Dilipatgandakannya Dosa untuk Perbuatan Buruk di Makkah",
-        "category": "Khazanah",
-        "publish_time": "26 July 2025, 09:18",
-        "news_link": "https://khazanah.republika.co.id/berita/szzifb430/pendapat-ulama-tentang-dilipatgandakannya-dosa-untuk-perbuatan-buruk-di-makkah"
-    },
-    {
-        "title": "Starter XI Timnas U-23 Indonesia Kali Terakhir vs Vietnam",
-        "category": "Network",
-        "publish_time": "26 July 2025, 09:10",
-        "news_link": "https://skor.republika.co.id/posts/695051/starter-xi-timnas-u-23-indonesia-kali-terakhir-vs-vietnam"
     }
 ]
