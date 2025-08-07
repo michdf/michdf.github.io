@@ -1,98 +1,200 @@
 [
     {
+        "title": "Larang Tegas Berbuat Boros dalam Islam",
+        "category": "Khazanah",
+        "publish_time": "07-08-2025 13:34",
+        "news_link": "https://khazanah.republika.co.id/berita/t0mlq8430/larang-tegas-berbuat-boros-dalam-islam"
+    },
+    {
+        "title": "Omzet Turun Gegara Pedagang Ayam di Pinggir Jalan Banting Harga, Pedagang Pasar di Cimahi Meradang",
+        "category": "Rejabar",
+        "publish_time": "07-08-2025 13:29",
+        "news_link": "https://rejabar.republika.co.id/berita/t0mlho512/omzet-turun-gegara-pedagang-ayam-di-pinggir-jalan-banting-harga-pedagang-pasar-di-cimahi-meradang"
+    },
+    {
+        "title": "Geger Mantan Tentara IDF Bangun Villa Mewah di Bali, Kok Bisa Lolos WN Israel Masuk Indonesia?",
+        "category": "Rejogja",
+        "publish_time": "07-08-2025 13:25",
+        "news_link": "https://rejogja.republika.co.id/berita/t0mlbo282/geger-mantan-tentara-idf-bangun-villa-mewah-di-bali-kok-bisa-lolos-wn-israel-masuk-indonesia"
+    },
+    {
+        "title": "Ragam Ilmu yang Dibutuhkan untuk Tafsir Alquran",
+        "category": "Iqra",
+        "publish_time": "07-08-2025 13:23",
+        "news_link": "https://iqra.republika.co.id/berita/t0ml6s430/ragam-ilmu-yang-dibutuhkan-untuk-tafsir-alquran"
+    },
+    {
+        "title": "Cari Pemain untuk FIFA eWorld Cup, PSSI Luncurkan IFEC",
+        "category": "Network",
+        "publish_time": "07-08-2025 13:19",
+        "news_link": "https://skor.republika.co.id/posts/697423/cari-pemain-untuk-fifa-e-world-cup-pssi-luncurkan-ifec"
+    },
+    {
+        "title": "Dinaikkannya Derajat Orang yang Membaca Alquran",
+        "category": "Iqra",
+        "publish_time": "07-08-2025 13:15",
+        "news_link": "https://iqra.republika.co.id/berita/t0mcnc430/dinaikkannya-derajat-orang-yang-membaca-alquran"
+    },
+    {
+        "title": "Layanan AHU Kini Hadir Di Seluruh MPP Jabotabek",
+        "category": "Rejakarta",
+        "publish_time": "07-08-2025 13:13",
+        "news_link": "https://republika.co.id/berita//t0mkrl349/layanan-ahu-kini-hadir-di-seluruh-mpp-jabotabek"
+    },
+    {
+        "title": "Warga Bandung Barat yang tak Punya Rumah Capai 99 Ribu, Ini Penyebabnya",
+        "category": "Rejabar",
+        "publish_time": "07-08-2025 13:13",
+        "news_link": "https://rejabar.republika.co.id/berita/t0mkqe512/warga-bandung-barat-yang-tak-punya-rumah-capai-99-ribu-ini-penyebabnya"
+    },
+    {
+        "title": "Di Jamuan Makan Malam, Menlu Belarusia Apresiasi Hubungan Persahabatan dengan RI",
+        "category": "News",
+        "publish_time": "07-08-2025 13:10",
+        "news_link": "https://news.republika.co.id/berita/t0lwew483/di-jamuan-makan-malam-menlu-belarusia-apresiasi-hubungan-persahabatan-dengan-ri"
+    },
+    {
+        "title": "DTI-CX 2025 Dorong Kolaborasi Digital dan Penguatan Infrastruktur Data Center",
+        "category": "Ameera",
+        "publish_time": "07-08-2025 13:02",
+        "news_link": "https://ameera.republika.co.id/berita/t0mk8h349/dticx-2025-dorong-kolaborasi-digital-dan-penguatan-infrastruktur-data-center"
+    },
+    {
+        "title": "Kisruh Royalti Musik dan Pesan Imam Ali Bin Abi Thalib",
+        "category": "Khazanah",
+        "publish_time": "07-08-2025 12:58",
+        "news_link": "https://khazanah.republika.co.id/berita/t0mk1g320/kisruh-royalti-musik-dan-pesan-imam-ali-bin-abi-thalib"
+    },
+    {
+        "title": "Gabung Parahyangan Run 2025: Dapat Slot Lari Gratis dari bank bjb!",
+        "category": "Ekonomi",
+        "publish_time": "07-08-2025 12:57",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0mjzl472/gabung-parahyangan-run-2025-dapat-slot-lari-gratis-dari-bank-bjb"
+    },
+    {
+        "title": "Viral Bendera One Piece Berkibar di Bandung Barat Jelang HUT RI, Ini Penjelasan Kepala Desa",
+        "category": "Rejabar",
+        "publish_time": "07-08-2025 12:54",
+        "news_link": "https://rejabar.republika.co.id/berita/t0mjuu512/viral-bendera-one-piece-berkibar-di-bandung-barat-jelang-hut-ri-ini-penjelasan-kepala-desa"
+    },
+    {
+        "title": "IHSG Bergerak Lesu, Ini Penyebabnya",
+        "category": "Ekonomi",
+        "publish_time": "07-08-2025 12:51",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0mjqz490/ihsg-bergerak-lesu-ini-penyebabnya"
+    },
+    {
+        "title": "Pasar Optimistis Suku Bunga AS Bakal Turun, Rupiah Perkasa Hari Ini",
+        "category": "Ekonomi",
+        "publish_time": "07-08-2025 12:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0mjok490/pasar-optimistis-suku-bunga-as-bakal-turun-rupiah-perkasa-hari-ini"
+    },
+    {
+        "title": "Dosen UMJ Bimbing KWT Waru Ubah Sampah Jadi Pupuk",
+        "category": "News",
+        "publish_time": "07-08-2025 12:38",
+        "news_link": "https://news.republika.co.id/berita/t0mj40472/dosen-umj-bimbing-kwt-waru-ubah-sampah-jadi-pupuk"
+    },
+    {
+        "title": "Israel Panik Foto Pilot Jet Tempur Perempuannya Beserta Keluarga Dirilis Iran",
+        "category": "Khazanah",
+        "publish_time": "07-08-2025 12:36",
+        "news_link": "https://khazanah.republika.co.id/berita/t0mj1t483/israel-panik-foto-pilot-jet-tempur-perempuannya-beserta-keluarga-dirilis-iran"
+    },
+    {
         "title": "Bappenas Luncurkan Dua Dokumen Strategis Bangun Ekonomi Biru",
         "category": "Esgnow",
-        "publish_time": "07-08-2025 12:29",
+        "publish_time": "07-08-2025 12:36",
         "news_link": "https://esgnow.republika.co.id/berita/t0mioo416/bappenas-luncurkan-dua-dokumen-strategis-bangun-ekonomi-biru"
     },
     {
         "title": "Chatib Basri: Iklim Investasi Kunci Tarik Investor, Bukan Hanya Soal Tarif",
         "category": "Ekonomi",
-        "publish_time": "07-08-2025 12:28",
+        "publish_time": "07-08-2025 12:36",
         "news_link": "https://ekonomi.republika.co.id/berita/t0mimh490/chatib-basri-iklim-investasi-kunci-tarik-investor-bukan-hanya-soal-tarif"
     },
     {
         "title": "Telkom Hadirkan WMS Standard & WMS Fit: Solusi End-to-End Wi-Fi Sesuai Kebutuhan Bisnis",
         "category": "Ekonomi",
-        "publish_time": "07-08-2025 12:24",
+        "publish_time": "07-08-2025 12:36",
         "news_link": "https://ekonomi.republika.co.id/berita/t0mig0472/telkom-hadirkan-wms-standard-wms-fit-solusi-endtoend-wifi-sesuai-kebutuhan-bisnis"
     },
     {
         "title": "Densus 99 Banser Apresiasi Densus 88 Polri, Dorong Kolaborasi dengan Ormas Moderat",
         "category": "Khazanah",
-        "publish_time": "07-08-2025 12:22",
+        "publish_time": "07-08-2025 12:36",
         "news_link": "https://khazanah.republika.co.id/berita/t0mid4320/densus-99-banser-apresiasi-densus-88-polri-dorong-kolaborasi-dengan-ormas-moderat"
     },
     {
         "title": "Hadits Nabi: Kiamat tak akan Terjadi Hingga Sungai Eufrat Surut dan Menyibakkan Gunung Emas",
         "category": "Iqra",
-        "publish_time": "07-08-2025 12:16",
+        "publish_time": "07-08-2025 12:36",
         "news_link": "https://iqra.republika.co.id/berita/t0mi37483/hadits-nabi-kiamat-tak-akan-terjadi-hingga-sungai-eufrat-surut-dan-menyibakkan-gunung-emas"
     },
     {
         "title": "Bagaimana Pahala yang Diberikan untuk Orang tak Lancar Membaca Alquran?",
         "category": "Iqra",
-        "publish_time": "07-08-2025 12:15",
+        "publish_time": "07-08-2025 12:36",
         "news_link": "https://iqra.republika.co.id/berita/t0mciw430/bagaimana-pahala-yang-diberikan-untuk-orang-tak-lancar-membaca-alquran"
     },
     {
         "title": "Iwan Fals Teringat Almarhum Putranya, Galang Rambu Anarki, Ketika Nyanyikan Lagu \u2018Bunga Terakhir\u2019",
         "category": "Ameera",
-        "publish_time": "07-08-2025 12:14",
+        "publish_time": "07-08-2025 12:36",
         "news_link": "https://ameera.republika.co.id/berita/t0mi03425/iwan-fals-teringat-almarhum-putranya-galang-rambu-anarki-ketika-nyanyikan-lagu-bunga-terakhir"
     },
     {
         "title": "Pemkab Bener Meriah Gandeng Cazbox by Metranet Rilis Aplikasi Titanium, Percepat Penurunan Stunting",
         "category": "Ekonomi",
-        "publish_time": "07-08-2025 12:11",
+        "publish_time": "07-08-2025 12:36",
         "news_link": "https://ekonomi.republika.co.id/berita/t0mhtv472/pemkab-bener-meriah-gandeng-cazbox-by-metranet-rilis-aplikasi-titanium-percepat-penurunan-stunting"
     },
     {
         "title": "Kemenhut dan Polri Bongkar Penyimpanan Ilegal 169 Satwa Dilindungi di Sorong",
         "category": "Esgnow",
-        "publish_time": "07-08-2025 12:10",
+        "publish_time": "07-08-2025 12:36",
         "news_link": "https://esgnow.republika.co.id/berita/t0mhs9416/kemenhut-dan-polri-bongkar-penyimpanan-ilegal-169-satwa-dilindungi-di-sorong"
     },
     {
         "title": "Mentan: Beras SPHP dan Bansos Turunkan Harga di Pasar",
         "category": "Ekonomi",
-        "publish_time": "07-08-2025 12:04",
+        "publish_time": "07-08-2025 11:36",
         "news_link": "https://ekonomi.republika.co.id/berita/t0mhje490/mentan-beras-sphp-dan-bansos-turunkan-harga-di-pasar"
     },
     {
         "title": "Timnas Putri Indonesia Terlempar dari 100 Besar Ranking FIFA Dibalap Malaysia",
         "category": "Network",
-        "publish_time": "07-08-2025 12:00",
+        "publish_time": "07-08-2025 11:36",
         "news_link": "https://skor.republika.co.id/posts/697408/timnas-putri-indonesia-terlempar-dari-100-besar-ranking-fifa-dibalap-malaysia"
     },
     {
         "title": "Balada Pusat Perbelanjaan, Pengunjung Sepi dan Jarang Beli",
         "category": "Visual",
-        "publish_time": "07-08-2025 12:00",
+        "publish_time": "07-08-2025 11:36",
         "news_link": "https://visual.republika.co.id/berita/t0mgmt375/balada-pusat-perbelanjaan-pengunjung-sepi-dan-jarang-beli"
     },
     {
         "title": "Banyak UUS Spin Off, AASI: Prospek Industri Asuransi Syariah Positif",
         "category": "Ekonomi Syariah",
-        "publish_time": "07-08-2025 11:58",
+        "publish_time": "07-08-2025 11:36",
         "news_link": "https://sharia.republika.co.id/berita/t0mh90490/banyak-uus-spin-off-aasi-prospek-industri-asuransi-syariah-positif"
     },
     {
         "title": "PSSI Luncurkan Indonesia Football Esports Championship Sebagai Jalur Resmi Menuju FIFAe World Cup",
         "category": "News",
-        "publish_time": "07-08-2025 11:54",
+        "publish_time": "07-08-2025 11:36",
         "news_link": "https://news.republika.co.id/berita/t0mh1u348/pssi-luncurkan-indonesia-football-esports-championship-sebagai-jalur-resmi-menuju-fifae-world-cup"
     },
     {
         "title": "PPATK Ungkap Temuan Anomali, 78 Ribu Penerima Bansos Terindikasi Aktif Main Judol",
         "category": "News",
-        "publish_time": "07-08-2025 11:50",
+        "publish_time": "07-08-2025 11:36",
         "news_link": "https://news.republika.co.id/berita/t0mgwe409/ppatk-ungkap-temuan-anomali-78-ribu-penerima-bansos-terindikasi-aktif-main-judol"
     },
     {
         "title": "Perkuat Industri Asuransi Syariah, AASI Kembali Gelar SICA 2025",
         "category": "Ekonomi Syariah",
-        "publish_time": "07-08-2025 11:46",
+        "publish_time": "07-08-2025 11:36",
         "news_link": "https://sharia.republika.co.id/berita/t0mgpn490/perkuat-industri-asuransi-syariah-aasi-kembali-gelar-sica-2025"
     },
     {
@@ -110,193 +212,91 @@
     {
         "title": "Gus Yaqut Diperiksa 5 Jam Terkait Dugaan Korupsi Kuota Haji",
         "category": "Visual",
-        "publish_time": "07-08-2025 11:34",
+        "publish_time": "07-08-2025 11:36",
         "news_link": "https://visual.republika.co.id/berita/t0mfuc375/gus-yaqut-diperiksa-5-jam-terkait-dugaan-korupsi-kuota-haji"
     },
     {
         "title": "Tepung Pati Ubi Jalar Sebagai Substitusi Tepung Pati Sagu",
         "category": "News",
-        "publish_time": "07-08-2025 11:34",
+        "publish_time": "07-08-2025 11:36",
         "news_link": "https://news.republika.co.id/berita/t0mai3393/tepung-pati-ubi-jalar-sebagai-substitusi-tepung-pati-sagu"
     },
     {
         "title": "La Liga akan Hadir dengan Pembukaan Spektakuler dan Kampanye untuk Penggemar",
         "category": "Network",
-        "publish_time": "07-08-2025 11:34",
+        "publish_time": "07-08-2025 11:36",
         "news_link": "https://skor.republika.co.id/posts/697400/la-liga-akan-hadir-dengan-pembukaan-spektakuler-dan-kampanye-untuk-penggemar"
     },
     {
         "title": "Bedhayan Topeng Abdi Sekartaji Tampil di Gedung Kesenian Jakarta",
         "category": "Ameera",
-        "publish_time": "07-08-2025 11:34",
+        "publish_time": "07-08-2025 11:36",
         "news_link": "https://ameera.republika.co.id/berita/t0mgi7484/bedhayan-topeng-abdi-sekartaji-tampil-di-gedung-kesenian-jakarta"
     },
     {
         "title": "Terungkap Cara 'Mata Elang' Lacak Nomor Polisi Kendaraan yang Diincar",
         "category": "News",
-        "publish_time": "07-08-2025 11:34",
+        "publish_time": "07-08-2025 11:36",
         "news_link": "https://news.republika.co.id/berita/t0mfbs409/terungkap-cara-mata-elang-lacak-nomor-polisi-kendaraan-yang-diincar"
     },
     {
         "title": "Tiga Keutamaan Orang Bertakwa",
         "category": "Iqra",
-        "publish_time": "07-08-2025 11:34",
+        "publish_time": "07-08-2025 11:36",
         "news_link": "https://iqra.republika.co.id/berita/t0mcec430/tiga-keutamaan-orang-bertakwa"
     },
     {
         "title": "LSF: Penyensoran tak Lagi Memotong Film",
         "category": "Ameera",
-        "publish_time": "07-08-2025 11:34",
+        "publish_time": "07-08-2025 11:36",
         "news_link": "https://ameera.republika.co.id/berita/t0mf0n458/lsf-penyensoran-tak-lagi-memotong-film"
     },
     {
         "title": "Peradi SAI dan Wagub Erwan Bahas Peran Advokat dalam Pembangunan",
         "category": "Rejabar",
-        "publish_time": "07-08-2025 11:34",
+        "publish_time": "07-08-2025 11:36",
         "news_link": "https://rejabar.republika.co.id/berita/t0mezd472/peradi-sai-dan-wagub-erwan-bahas-peran-advokat-dalam-pembangunan"
     },
     {
         "title": "BTN Tunggu RUPSLB Bank Victoria Syariah untuk Tuntaskan Spin-Off",
         "category": "Ekonomi Syariah",
-        "publish_time": "07-08-2025 10:34",
+        "publish_time": "07-08-2025 10:36",
         "news_link": "https://sharia.republika.co.id/berita/t0memz370/btn-tunggu-rupslb-bank-victoria-syariah-untuk-tuntaskan-spinoff"
     },
     {
         "title": "Pencarian Empat Nelayan Berlanjut, Petugas Sisir Perairan Cirebon Hingga Indramayu",
         "category": "Rejabar",
-        "publish_time": "07-08-2025 10:34",
+        "publish_time": "07-08-2025 10:36",
         "news_link": "https://rejabar.republika.co.id/berita/t0meg0512/pencarian-empat-nelayan-berlanjut-petugas-sisir-perairan-cirebon-hingga-indramayu"
     },
     {
         "title": "Sikap Pemaaf yang Dicontohkan Nabi",
         "category": "Khazanah",
-        "publish_time": "07-08-2025 10:34",
+        "publish_time": "07-08-2025 10:36",
         "news_link": "https://khazanah.republika.co.id/berita/t0me9b458/sikap-pemaaf-yang-dicontohkan-nabi"
     },
     {
         "title": "Prabowo: Pertumbuhan Ekonomi 5,12 Persen Buktikan RI Unggul di G20 dan ASEAN",
         "category": "Ekonomi",
-        "publish_time": "07-08-2025 10:34",
+        "publish_time": "07-08-2025 10:36",
         "news_link": "https://ekonomi.republika.co.id/berita/t0me4h423/prabowo-pertumbuhan-ekonomi-512-persen-buktikan-ri-unggul-di-g20-dan-asean"
     },
     {
         "title": "Setelah Mandi Wajib Haruskah Wudhu Lagi Untuk Sholat?",
         "category": "Khazanah",
-        "publish_time": "07-08-2025 10:34",
+        "publish_time": "07-08-2025 10:36",
         "news_link": "https://khazanah.republika.co.id/berita/t0mdy0483/setelah-mandi-wajib-haruskah-wudhu-lagi-untuk-sholat"
     },
     {
         "title": "Ramai Seperti Pasar, Kemenhut akan Perketat Kuota Wisatawan ke Pulau Padar Komodo",
         "category": "Esgnow",
-        "publish_time": "07-08-2025 10:34",
+        "publish_time": "07-08-2025 10:36",
         "news_link": "https://esgnow.republika.co.id/berita/t0mdly370/ramai-seperti-pasar-kemenhut-akan-perketat-kuota-wisatawan-ke-pulau-padar-komodo"
     },
     {
         "title": "Kericuhan di Kebun Binatang Bandung, Bayi Orang Utan Anak Asuh Farhan Sempat Terlantar dan Digembok",
         "category": "Rejabar",
-        "publish_time": "07-08-2025 10:34",
+        "publish_time": "07-08-2025 10:36",
         "news_link": "https://rejabar.republika.co.id/berita/t0mdk6512/kericuhan-di-kebun-binatang-bandung-bayi-orang-utan-anak-asuh-farhan-sempat-terlantar-dan-digembok"
-    },
-    {
-        "title": "Istana: Prabowo Siap Kirim Pasukan Perdamaian ke Gaza",
-        "category": "Khazanah",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://khazanah.republika.co.id/berita/t0mdbu483/istana-prabowo-siap-kirim-pasukan-perdamaian-ke-gaza"
-    },
-    {
-        "title": "WHO: Sistem Kesehatan Gaza Kritis, Ribuan Pasien Butuh Penanganan Segera",
-        "category": "Khazanah",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://khazanah.republika.co.id/berita/t0mdb5366/who-sistem-kesehatan-gaza-kritis-ribuan-pasien-butuh-penanganan-segera"
-    },
-    {
-        "title": "Viral Puluhan Potongan Kepala Kucing Ditemukan di Sidoarjo, Ini Penjelasan Polisi",
-        "category": "Rejogja",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://rejogja.republika.co.id/berita/t0md9l282/viral-puluhan-potongan-kepala-kucing-ditemukan-di-sidoarjo-ini-penjelasan-polisi"
-    },
-    {
-        "title": "Sambut HUT RI ke-80, Bank Mandiri Akselerasi Generasi Muda Melek Finansial Lewat SimPel",
-        "category": "Ekonomi",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://ekonomi.republika.co.id/berita/t0md7o472/sambut-hut-ri-ke80-bank-mandiri-akselerasi-generasi-muda-melek-finansial-lewat-simpel"
-    },
-    {
-        "title": "Jadwal Lengkap Timnas Voli Putri U-21 Indonesia di Kejuaraan Dunia Voli U-21 2025",
-        "category": "Network",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://skor.republika.co.id/posts/697393/jadwal-lengkap-timnas-voli-putri-u-21-indonesia-di-kejuaraan-dunia-voli-u-21-2025"
-    },
-    {
-        "title": "Bupati Kolaka Timur Muncul ke Publik Bantah Kena OTT, Minta KPK tak Buat Drama",
-        "category": "News",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://news.republika.co.id/berita/t0mczu484/bupati-kolaka-timur-muncul-ke-publik-bantah-kena-ott-minta-kpk-tak-buat-drama"
-    },
-    {
-        "title": "Sabang-Merauke dan Angka Keramat Proklamasi Kemerdekaan",
-        "category": "Network",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://oohya.republika.co.id/posts/697389/sabang-merauke-dan-angka-keramat-proklamasi-kemerdekaan"
-    },
-    {
-        "title": "Kemenag Latih Ratusan Penghulu untuk Jadi Pelayan Umat, Bina Keluarga Indonesia",
-        "category": "Network",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://sekitarkaltim.id/posts/697392/kemenag-latih-ratusan-penghulu-untuk-jadi-pelayan-umat-bina-keluarga-indonesia"
-    },
-    {
-        "title": "PHE Raih 6 Penghargaan Digital Nasional, AI dan IoT Jadi Kunci",
-        "category": "Ekonomi",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://ekonomi.republika.co.id/berita/t0mcv2370/phe-raih-6-penghargaan-digital-nasional-ai-dan-iot-jadi-kunci"
-    },
-    {
-        "title": "Hutan Adat Bantu Serap Karbon dan Kurangi Emisi, Ini Kata Kementerian",
-        "category": "Esgnow",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://esgnow.republika.co.id/berita/t0mcut423/hutan-adat-bantu-serap-karbon-dan-kurangi-emisi-ini-kata-kementerian"
-    },
-    {
-        "title": "Ketika Emas Berlimpah di Sungai Eufrat, Mengapa Justru Rasulullah SAW Melarang Mengambilnya?",
-        "category": "Iqra",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://iqra.republika.co.id/berita/t0mcso320/ketika-emas-berlimpah-di-sungai-eufrat-mengapa-justru-rasulullah-saw-melarang-mengambilnya"
-    },
-    {
-        "title": "Data Pertumbuhan Ekonomi Dikritik, Hasan Nasbi: Data BPS Bukan Ramalan Zodiak",
-        "category": "Ekonomi",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://ekonomi.republika.co.id/berita/t0mcsf490/data-pertumbuhan-ekonomi-dikritik-hasan-nasbi-data-bps-bukan-ramalan-zodiak"
-    },
-    {
-        "title": "Soal Sekolah Baru di Jabar, Dedi Mulyadi Sindir Ridwan Kamil?",
-        "category": "Rejabar",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://rejabar.republika.co.id/berita/t0mcrx512/soal-sekolah-baru-di-jabar-dedi-mulyadi-sindir-ridwan-kamil"
-    },
-    {
-        "title": "11 Pemain U-21 Paling Bernilai di Bursa Transfer Musim Panas 2025",
-        "category": "Network",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://skor.republika.co.id/posts/697391/pemain-u-21-paling-bernilai-di-bursa-transfer-musim-panas-2025"
-    },
-    {
-        "title": "Sejarah Pulau Galang, Lokasi Pengobatan Warga Gaza di Kepri",
-        "category": "News",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://news.republika.co.id/berita/t0mcj7393/sejarah-pulau-galang-lokasi-pengobatan-warga-gaza-di-kepri"
-    },
-    {
-        "title": "Digugat SMA Swasta Soal Kebijakan 50 Orang Per Kelas, Ini Reaksi Dedi Mulyadi",
-        "category": "Rejabar",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://rejabar.republika.co.id/berita/t0mcbg512/digugat-sma-swasta-soal-kebijakan-50-orang-per-kelas-ini-reaksi-dedi-mulyadi"
-    },
-    {
-        "title": "Membakar Mushaf Rusak, Bolehkah?",
-        "category": "Iqra",
-        "publish_time": "07-08-2025 10:34",
-        "news_link": "https://iqra.republika.co.id/berita/t0mc91430/membakar-mushaf-rusak-bolehkah"
     }
 ]
