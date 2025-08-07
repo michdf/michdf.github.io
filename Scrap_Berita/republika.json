@@ -1,98 +1,200 @@
 [
     {
+        "title": "Koepoe-Koepoe Gelar Kompetisi Masak Level SMK, Diikuti Hampir 1.350 Siswa di 3 Kota",
+        "category": "News",
+        "publish_time": "07-08-2025 06:22",
+        "news_link": "https://news.republika.co.id/berita/t0m1oh349/koepoekoepoe-gelar-kompetisi-masak-level-smk-diikuti-hampir-1350-siswa-di-3-kota"
+    },
+    {
+        "title": "Mahasiswa UNM Ciptakan Inovasi Pakan Ramah Lingkungan, Raih Hibah P2MW 2025",
+        "category": "News",
+        "publish_time": "07-08-2025 06:19",
+        "news_link": "https://news.republika.co.id/berita/t0m1ju368/mahasiswa-unm-ciptakan-inovasi-pakan-ramah-lingkungan-raih-hibah-p2mw-2025"
+    },
+    {
+        "title": "317 Koperasi Merah Putih Diresmikan di Indramayu, Targetkan Kemandirian Ekonomi Desa",
+        "category": "Ekonomi",
+        "publish_time": "07-08-2025 06:17",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0m1g4423/317-koperasi-merah-putih-diresmikan-di-indramayu-targetkan-kemandirian-ekonomi-desa"
+    },
+    {
+        "title": "UNM Cetak Konsultan Digital Masa Depan Lewat Prodi Bisnis Digital dan Program IEP 3+1",
+        "category": "News",
+        "publish_time": "07-08-2025 06:09",
+        "news_link": "https://news.republika.co.id/berita/t0m12t368/unm-cetak-konsultan-digital-masa-depan-lewat-prodi-bisnis-digital-dan-program-iep-31"
+    },
+    {
+        "title": "Tangani Sampah Laut, KKP Luncurkan Program Sebasah",
+        "category": "Esgnow",
+        "publish_time": "07-08-2025 06:02",
+        "news_link": "https://esgnow.republika.co.id/berita/t0m0rv416/tangani-sampah-laut-kkp-luncurkan-program-sebasah"
+    },
+    {
+        "title": "Presiden Prabowo Siapkan Pulau Galang untuk Obati 2.000 Warga Gaza",
+        "category": "News",
+        "publish_time": "07-08-2025 06:01",
+        "news_link": "https://news.republika.co.id/berita/t0m0pe377/presiden-prabowo-siapkan-pulau-galang-untuk-obati-2000-warga-gaza"
+    },
+    {
+        "title": "Semarak HUT ke-80 RI, 80 Pendaftar Pertama Cyber University Dapat Jaket Varsity Eksklusif",
+        "category": "News",
+        "publish_time": "07-08-2025 05:58",
+        "news_link": "https://news.republika.co.id/berita/t0m0l7368/semarak-hut-ke80-ri-80-pendaftar-pertama-cyber-university-dapat-jaket-varsity-eksklusif"
+    },
+    {
+        "title": "Polisi Temukan Orang Tua Kandung Bayi yang Dijual ke Singapura , Bakal Dites DNA",
+        "category": "News",
+        "publish_time": "07-08-2025 05:56",
+        "news_link": "https://news.republika.co.id/berita/t0m0h3377/polisi-temukan-orang-tua-kandung-bayi-yang-dijual-ke-singapura-bakal-dites-dna"
+    },
+    {
+        "title": "KPK OTT Seorang Bupati di Sulawesi Tenggara",
+        "category": "News",
+        "publish_time": "07-08-2025 05:52",
+        "news_link": "https://news.republika.co.id/berita/t0m0by487/kpk-ott-seorang-bupati-di-sulawesi-tenggara"
+    },
+    {
+        "title": "Merah Putih dan Jolly Roger: Dilema Nasionalisme di Era Pop Culture",
+        "category": "News",
+        "publish_time": "07-08-2025 05:52",
+        "news_link": "https://www.republika.id/posts/58695/merah-putih-dan-jolly-roger-dilema-nasionalisme-di-era-pop-culture"
+    },
+    {
+        "title": "Tak Dihiraukan Dedi Mulyadi, Pekerja Pariwisata Bakal Gelar Demo ke Jakarta Hingga Mogok Massal",
+        "category": "News",
+        "publish_time": "07-08-2025 05:49",
+        "news_link": "https://news.republika.co.id/berita/t0m05t377/tak-dihiraukan-dedi-mulyadi-pekerja-pariwisata-bakal-gelar-demo-ke-jakarta-hingga-mogok-massal"
+    },
+    {
+        "title": "BI Dukung UMKM Naik Kelas Lewat Karya Kreatif Indonesia 2025",
+        "category": "Ekonomi",
+        "publish_time": "07-08-2025 05:45",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0lzz6423/bi-dukung-umkm-naik-kelas-lewat-karya-kreatif-indonesia-2025"
+    },
+    {
+        "title": "Isyarat Kuat KPK akan Menaikkan Perkara Google Cloud ke Level Penyidikan, Siapa Tersangka?",
+        "category": "News",
+        "publish_time": "07-08-2025 05:43",
+        "news_link": "https://news.republika.co.id/berita/t0lzwq487/isyarat-kuat-kpk-akan-menaikkan-perkara-google-cloud-ke-level-penyidikan-siapa-tersangka"
+    },
+    {
+        "title": "Rosan Ungkap Investor Jepang Paling Setia Terhadap Indonesia",
+        "category": "Ekonomi",
+        "publish_time": "07-08-2025 05:36",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0lzk0490/rosan-ungkap-investor-jepang-paling-setia-terhadap-indonesia"
+    },
+    {
+        "title": "Prabowo Terheran Banyak Menteri hingga Dirut BUMN Lulusan ITB",
+        "category": "News",
+        "publish_time": "07-08-2025 05:30",
+        "news_link": "https://news.republika.co.id/berita/t0lza2484/prabowo-terheran-banyak-menteri-hingga-dirut-bumn-lulusan-itb"
+    },
+    {
+        "title": "Di Hadapan Ribuan Peneliti, Sri Mulyani Janji Tambah Dana Abadi Pendidikan Saat Ini Capai Rp 154 T",
+        "category": "Rejabar",
+        "publish_time": "07-08-2025 05:26",
+        "news_link": "https://rejabar.republika.co.id/berita/t0lz3r512/di-hadapan-ribuan-peneliti-sri-mulyani-janji-tambah-dana-abadi-pendidikan-saat-ini-capai-rp-154-t"
+    },
+    {
+        "title": "BigHit Punya Grup K-Pop Baru: CORTIS, Siapa Saja Anggotanya?",
+        "category": "Ameera",
+        "publish_time": "07-08-2025 05:26",
+        "news_link": "https://ameera.republika.co.id/berita/t0lz3n425/bighit-punya-grup-kpop-baru-cortis-siapa-saja-anggotanya"
+    },
+    {
         "title": "Perjanjian Global tentang Polusi Plastik, Apa Harapan dari Negosiasi di Jenewa?",
         "category": "Esgnow",
-        "publish_time": "07-08-2025 05:24",
+        "publish_time": "07-08-2025 05:25",
         "news_link": "https://esgnow.republika.co.id/berita/t0lz0y423/perjanjian-global-tentang-polusi-plastik-apa-harapan-dari-negosiasi-di-jenewa"
     },
     {
         "title": "Agar Keluarga Bisa Berkumpul Kembali di Surga",
         "category": "Khazanah",
-        "publish_time": "07-08-2025 05:24",
+        "publish_time": "07-08-2025 05:25",
         "news_link": "https://khazanah.republika.co.id/berita/t0lz0m458/agar-keluarga-bisa-berkumpul-kembali-di-surga"
     },
     {
         "title": "Instagram Rilis Fitur Repost dan Peta, Pengguna Kini Bisa Unggah Ulang Konten Teman",
         "category": "Ameera",
-        "publish_time": "07-08-2025 05:23",
+        "publish_time": "07-08-2025 05:25",
         "news_link": "https://ameera.republika.co.id/berita/t0lyys370/instagram-rilis-fitur-repost-dan-peta-pengguna-kini-bisa-unggah-ulang-konten-teman"
     },
     {
         "title": "BI: Cadangan Devisa Indonesia pada Juli 2025 Turun Jadi 152 Miliar Dolar AS",
         "category": "Ekonomi",
-        "publish_time": "07-08-2025 05:19",
+        "publish_time": "07-08-2025 05:25",
         "news_link": "https://ekonomi.republika.co.id/berita/t0lytj490/bi-cadangan-devisa-indonesia-pada-juli-2025-turun-jadi-152-miliar-dolar-as"
     },
     {
         "title": "Dorong Pertumbuhan Industri dan Ekspor, Dirjen Bea Cukai Tinjau Kawasan Berikat",
         "category": "Beacukai",
-        "publish_time": "07-08-2025 05:16",
+        "publish_time": "07-08-2025 05:25",
         "news_link": "https://republika.co.id/berita//t0lyog368/dorong-pertumbuhan-industri-dan-ekspor-dirjen-bea-cukai-tinjau-kawasan-berikat"
     },
     {
         "title": "Kemenhub: Korban Kecelakaan Kapal di Sanur Berhasil Ditemukan",
         "category": "Ekonomi",
-        "publish_time": "07-08-2025 05:13",
+        "publish_time": "07-08-2025 05:25",
         "news_link": "https://ekonomi.republika.co.id/berita/t0lyit490/kemenhub-korban-kecelakaan-kapal-di-sanur-berhasil-ditemukan"
     },
     {
         "title": "E-Bike Jadi Pilihan, Ofero Bidik Segmen Wanita Urban",
         "category": "Ekonomi",
-        "publish_time": "07-08-2025 05:11",
+        "publish_time": "07-08-2025 05:25",
         "news_link": "https://ekonomi.republika.co.id/berita/t0lyg2348/ebike-jadi-pilihan-ofero-bidik-segmen-wanita-urban"
     },
     {
         "title": "Freeport Tetap Prioritaskan Pasar Domestik Meski AS Berlakukan Tarif Nol Persen",
         "category": "Ekonomi",
-        "publish_time": "07-08-2025 05:04",
+        "publish_time": "07-08-2025 05:25",
         "news_link": "https://ekonomi.republika.co.id/berita/t0ly3g370/freeport-tetap-prioritaskan-pasar-domestik-meski-as-berlakukan-tarif-nol-persen"
     },
     {
         "title": "Pertumbuhan Investasi RI di Luar Ekspektasi, Ini Komentar Rosan",
         "category": "Ekonomi",
-        "publish_time": "07-08-2025 05:02",
+        "publish_time": "07-08-2025 05:25",
         "news_link": "https://ekonomi.republika.co.id/berita/t0ly0i490/pertumbuhan-investasi-ri-di-luar-ekspektasi-ini-komentar-rosan"
     },
     {
         "title": "Sifat Pemalu Rasulullah",
         "category": "Khazanah",
-        "publish_time": "07-08-2025 04:56",
+        "publish_time": "07-08-2025 05:25",
         "news_link": "https://khazanah.republika.co.id/berita/t0lxqd458/sifat-pemalu-rasulullah"
     },
     {
         "title": "Ketahanan Pangan, Irwasum Polri: Kontribusi Pesantren Hampir 200 Ribu Hektare",
         "category": "Khazanah",
-        "publish_time": "07-08-2025 04:51",
+        "publish_time": "07-08-2025 04:25",
         "news_link": "https://khazanah.republika.co.id/berita/t0ls3l451/ketahanan-pangan-irwasum-polri-kontribusi-pesantren-hampir-200-ribu-hektare"
     },
     {
         "title": "Kementerian PU Targetkan 50 Sekolah Rakyat Rampung Akhir Agustus",
         "category": "Ekonomi",
-        "publish_time": "07-08-2025 04:46",
+        "publish_time": "07-08-2025 04:25",
         "news_link": "https://ekonomi.republika.co.id/berita/t0lxa4490/kementerian-pu-targetkan-50-sekolah-rakyat-rampung-akhir-agustus"
     },
     {
         "title": "Pedagang di Pasar Barito Belum Mau Relokasi, Pramono: Pembangunan Taman Mesti Tetap Jalan",
         "category": "News",
-        "publish_time": "07-08-2025 04:45",
+        "publish_time": "07-08-2025 04:25",
         "news_link": "https://news.republika.co.id/berita/t0lx8i377/pedagang-di-pasar-barito-belum-mau-relokasi-pramono-pembangunan-taman-mesti-tetap-jalan"
     },
     {
         "title": "TNI Berhasil Lumpuhkan Petinggi OPM Mayer Wenda",
         "category": "News",
-        "publish_time": "07-08-2025 04:40",
+        "publish_time": "07-08-2025 04:25",
         "news_link": "https://news.republika.co.id/berita/t0lx0c451/tni-berhasil-lumpuhkan-petinggi-opm-mayer-wenda"
     },
     {
         "title": "Perpres 85/2025, Kemenhan Urus Farmasi Hingga Kelola Intelijen Pertahanan",
         "category": "News",
-        "publish_time": "07-08-2025 04:31",
+        "publish_time": "07-08-2025 04:25",
         "news_link": "https://news.republika.co.id/berita/t0lwkn484/perpres-852025-kemenhan-urus-farmasi-hingga-kelola-intelijen-pertahanan"
     },
     {
         "title": "Bea Cukai Tindak Pembawaan Uang Asing tanpa Pemberitahuan di Pelabuhan Sri Bintan Pura",
         "category": "Beacukai",
-        "publish_time": "07-08-2025 04:30",
+        "publish_time": "07-08-2025 04:25",
         "news_link": "https://republika.co.id/berita//t0lwjg368/bea-cukai-tindak-pembawaan-uang-asing-tanpa-pemberitahuan-di-pelabuhan-sri-bintan-pura"
     },
     {
@@ -104,199 +206,97 @@
     {
         "title": "Menunda Gaji dan Kurangi Upah tanpa Kesepakatan? Begini Pandangan Islam",
         "category": "Khazanah",
-        "publish_time": "07-08-2025 04:24",
+        "publish_time": "07-08-2025 04:25",
         "news_link": "https://khazanah.republika.co.id/berita/t0lw6t458/menunda-gaji-dan-kurangi-upah-tanpa-kesepakatan-begini-pandangan-islam"
     },
     {
         "title": "Jelang HUT ke-80 RI, PB Jatma Aswaja akan Gelar Zikir Kebangsaan di Istiqlal",
         "category": "Khazanah",
-        "publish_time": "07-08-2025 04:24",
+        "publish_time": "07-08-2025 04:25",
         "news_link": "https://khazanah.republika.co.id/berita/t0lvy2451/jelang-hut-ke80-ri-pb-jatma-aswaja-akan-gelar-zikir-kebangsaan-di-istiqlal"
     },
     {
         "title": "Vibrant dan Stylish, Archipelago Bawa Napas Baru ke Bali Lewat Quest Vibe Dewi Sri",
         "category": "Ameera",
-        "publish_time": "07-08-2025 04:24",
+        "publish_time": "07-08-2025 04:25",
         "news_link": "https://ameera.republika.co.id/berita/t0lvsi368/vibrant-dan-stylish-archipelago-bawa-napas-baru-ke-bali-lewat-quest-vibe-dewi-sri"
     },
     {
         "title": "Hasil Drawing IBL All Indonesian 2025",
         "category": "Network",
-        "publish_time": "07-08-2025 04:24",
+        "publish_time": "07-08-2025 04:25",
         "news_link": "https://skor.republika.co.id/posts/697313/hasil-drawing-ibl-all-indonesian-2025"
     },
     {
         "title": "Ini Ketakutan Panglima Militer Israel Jika Zionis Ambil Alih Sepenuhnya Jalur Gaza",
         "category": "News",
-        "publish_time": "07-08-2025 03:24",
+        "publish_time": "07-08-2025 03:25",
         "news_link": "https://news.republika.co.id/berita/t0luua377/ini-ketakutan-panglima-militer-israel-jika-zionis-ambil-alih-sepenuhnya-jalur-gaza"
     },
     {
         "title": "Kemenkum Tegaskan Royalti Musik adalah Hak Musisi, Bukan Pajak Buat Negara",
         "category": "Ameera",
-        "publish_time": "07-08-2025 03:24",
+        "publish_time": "07-08-2025 03:25",
         "news_link": "https://ameera.republika.co.id/berita/t0lupg425/kemenkum-tegaskan-royalti-musik-adalah-hak-musisi-bukan-pajak-buat-negara"
     },
     {
         "title": "AdMedika Raih 2 Gold Winner di Contact Center World Awards Asia Pacific 2025",
         "category": "Ekonomi",
-        "publish_time": "07-08-2025 03:24",
+        "publish_time": "07-08-2025 03:25",
         "news_link": "https://ekonomi.republika.co.id/berita/t0luc3368/admedika-raih-2-gold-winner-di-contact-center-world-awards-asia-pacific-2025"
     },
     {
         "title": "Distribusi Efisien Lewat BUMN: Koperasi Merah Putih Terekam Sistem Digital",
         "category": "Video",
-        "publish_time": "07-08-2025 03:24",
+        "publish_time": "07-08-2025 03:25",
         "news_link": "https://tv.republika.co.id/berita/t0lu8m313/distribusi-efisien-lewat-bumn-koperasi-merah-putih-terekam-sistem-digital"
     },
     {
         "title": "Depok dan Bekasi Habiskan Biaya Transportasi Umum Lebih Mahal dari Bogor dan Tangerang",
         "category": "News",
-        "publish_time": "07-08-2025 03:24",
+        "publish_time": "07-08-2025 03:25",
         "news_link": "https://news.republika.co.id/berita/t0lu65348/depok-dan-bekasi-habiskan-biaya-transportasi-umum-lebih-mahal-dari-bogor-dan-tangerang"
     },
     {
         "title": "Jika di Padang Mahsyar Manusia Dikumpulkan Telanjang, Apa Fungsi Kain Kafan?",
         "category": "Khazanah",
-        "publish_time": "07-08-2025 03:24",
+        "publish_time": "07-08-2025 03:25",
         "news_link": "https://khazanah.republika.co.id/berita/t0lu5g458/jika-di-padang-mahsyar-manusia-dikumpulkan-telanjang-apa-fungsi-kain-kafan"
     },
     {
         "title": "UMKM Riau Ekspor 1 Kontainer Produk Rotan ke Malaysia",
         "category": "Beacukai",
-        "publish_time": "07-08-2025 03:24",
+        "publish_time": "07-08-2025 03:25",
         "news_link": "https://republika.co.id/berita//t0ltwt368/umkm-riau-ekspor-1-kontainer-produk-rotan-ke-malaysia"
     },
     {
         "title": "Hadiri Pemeriksaan di KPK, Gus Yaqut: Saya Hanya Bawa SK Sebagai Menteri",
         "category": "News",
-        "publish_time": "07-08-2025 03:24",
+        "publish_time": "07-08-2025 03:25",
         "news_link": "https://news.republika.co.id/berita/t0ltvr377/hadiri-pemeriksaan-di-kpk-gus-yaqut-saya-hanya-bawa-sk-sebagai-menteri"
     },
     {
         "title": "Perkawinan Anak, Kemenag: Kami akan Terus Tekan",
         "category": "Khazanah",
-        "publish_time": "07-08-2025 03:24",
+        "publish_time": "07-08-2025 03:25",
         "news_link": "https://khazanah.republika.co.id/berita/t0lq9q451/perkawinan-anak-kemenag-kami-akan-terus-tekan"
     },
     {
         "title": "Surat Terbuka Skylar Soal Pamit dari RRQ",
         "category": "Network",
-        "publish_time": "07-08-2025 03:24",
+        "publish_time": "07-08-2025 03:25",
         "news_link": "https://skor.republika.co.id/posts/697303/surat-terbuka-skylar-soal-pamit-dari-rrq"
     },
     {
         "title": "Pemotongan Gaji Pemain Otomatis dan Pengumuman Keputusan VAR Warnai Serie A Musim Depan",
         "category": "News",
-        "publish_time": "07-08-2025 03:24",
+        "publish_time": "07-08-2025 03:25",
         "news_link": "https://news.republika.co.id/berita/t0lt9z348/pemotongan-gaji-pemain-otomatis-dan-pengumuman-keputusan-var-warnai-serie-a-musim-depan"
     },
     {
         "title": "Presiden Prabowo Buka Konvensi Sains, Teknologi, Industri di Sabuga ITB",
         "category": "News",
-        "publish_time": "07-08-2025 03:24",
+        "publish_time": "07-08-2025 03:25",
         "news_link": "https://news.republika.co.id/berita/t0lt2d484/presiden-prabowo-buka-konvensi-sains-teknologi-industri-di-sabuga-itb"
-    },
-    {
-        "title": "Pro Kontra Aksi Artis Korea Lee Si-young: Hamil 7 Bulan Naik Moge, Tempuh Jarak 200 Km",
-        "category": "Ameera",
-        "publish_time": "07-08-2025 03:24",
-        "news_link": "https://ameera.republika.co.id/berita/t0lszu425/pro-kontra-aksi-artis-korea-lee-siyoung-hamil-7-bulan-naik-moge-tempuh-jarak-200-km"
-    },
-    {
-        "title": "Total 8,111 Km Jalan Diperbaiki, Gubernur Kalteng Dorong Penerapan Asta Cita",
-        "category": "Rekalimantan",
-        "publish_time": "07-08-2025 03:24",
-        "news_link": "https://republika.co.id/berita//t0lsw6456/total-8111-km-jalan-diperbaiki-gubernur-kalteng-dorong-penerapan-asta-cita"
-    },
-    {
-        "title": "PDIP Heran KPK Ramaikan Lagi Perburuan Harun Masiku Usai Gagal Penjarakan Hasto",
-        "category": "News",
-        "publish_time": "07-08-2025 03:24",
-        "news_link": "https://news.republika.co.id/berita/t0lsrv377/pdip-heran-kpk-ramaikan-lagi-perburuan-harun-masiku-usai-gagal-penjarakan-hasto"
-    },
-    {
-        "title": "Diperiksa Soal Kasus Kuota Haji, Eks Menag Yaqut Penuhi Panggilan KPK",
-        "category": "Khazanah",
-        "publish_time": "07-08-2025 03:24",
-        "news_link": "https://khazanah.republika.co.id/berita/t0lsqp458/diperiksa-soal-kasus-kuota-haji-eks-menag-yaqut-penuhi-panggilan-kpk"
-    },
-    {
-        "title": "Penerjunan Bantuan Lewat Udara di Gaza Dinilai Berbahaya, Otoritas Serukan Pembukaan Perbatasan",
-        "category": "News",
-        "publish_time": "07-08-2025 03:24",
-        "news_link": "https://news.republika.co.id/berita/t0lsjh370/penerjunan-bantuan-lewat-udara-di-gaza-dinilai-berbahaya-otoritas-serukan-pembukaan-perbatasan"
-    },
-    {
-        "title": "Datangi KPK Terkait Perkara Google Cloud, Nadiem Mengaku Sehat",
-        "category": "News",
-        "publish_time": "07-08-2025 03:24",
-        "news_link": "https://news.republika.co.id/berita/t0ls7k377/datangi-kpk-terkait-perkara-google-cloud-nadiem-mengaku-sehat"
-    },
-    {
-        "title": "IHSG Menguat Jelang Rilis Data Cadangan Devisa Juli 2025",
-        "category": "Ekonomi",
-        "publish_time": "07-08-2025 03:24",
-        "news_link": "https://ekonomi.republika.co.id/berita/t0ls5e370/ihsg-menguat-jelang-rilis-data-cadangan-devisa-juli-2025"
-    },
-    {
-        "title": "Suara Artis Scarlett Johansson Dipakai Buat Nakut-nakutin Serigala di Amerika",
-        "category": "Ameera",
-        "publish_time": "07-08-2025 03:24",
-        "news_link": "https://ameera.republika.co.id/berita/t0ls54425/suara-artis-scarlett-johansson-dipakai-buat-nakutnakutin-serigala-di-amerika"
-    },
-    {
-        "title": "Obsesi Pendiri Ottoman Mewujudkan Nubuat Nabi",
-        "category": "Khazanah",
-        "publish_time": "07-08-2025 02:24",
-        "news_link": "https://khazanah.republika.co.id/berita/t0ls2b458/obsesi-pendiri-ottoman-mewujudkan-nubuat-nabi"
-    },
-    {
-        "title": "Benarkah Muncul Bongkahan Emas di Sungai Eufrat?",
-        "category": "News",
-        "publish_time": "07-08-2025 02:24",
-        "news_link": "https://news.republika.co.id/berita/t0lrog393/benarkah-muncul-bongkahan-emas-di-sungai-eufrat"
-    },
-    {
-        "title": "Sistem Royalti Musik Indonesia Dikritik, Pencipta dan Pengguna Karya Hilang Kepercayaan?",
-        "category": "Ameera",
-        "publish_time": "07-08-2025 02:24",
-        "news_link": "https://ameera.republika.co.id/berita/t0lrmu425/sistem-royalti-musik-indonesia-dikritik-pencipta-dan-pengguna-karya-hilang-kepercayaan"
-    },
-    {
-        "title": "Targetkan 2 Juta Pencatatan Nikah, Dirjen Bimas Islam: Kalau Perlu 'Jemput Bola'",
-        "category": "Khazanah",
-        "publish_time": "07-08-2025 02:24",
-        "news_link": "https://khazanah.republika.co.id/berita/t0lq1l451/targetkan-2-juta-pencatatan-nikah-dirjen-bimas-islam-kalau-perlu-jemput-bola"
-    },
-    {
-        "title": "Mengapa Syahadat Harus Menyebut Nabi Muhammad?",
-        "category": "Iqra",
-        "publish_time": "07-08-2025 02:24",
-        "news_link": "https://iqra.republika.co.id/berita/t0lrcv451/mengapa-syahadat-harus-menyebut-nabi-muhammad"
-    },
-    {
-        "title": "Aktris 'The Walking Dead', Kelley Mack, Meninggal Akibat Tumor Otak Langka",
-        "category": "Ameera",
-        "publish_time": "07-08-2025 02:24",
-        "news_link": "https://ameera.republika.co.id/berita/t0lqta425/aktris-the-walking-dead-kelley-mack-meninggal-akibat-tumor-otak-langka"
-    },
-    {
-        "title": "Peringatan Rasulullah tentang Kemunculan Gunung Emas di Sungai Eufrat",
-        "category": "Khazanah",
-        "publish_time": "07-08-2025 02:24",
-        "news_link": "https://khazanah.republika.co.id/berita/t0lqqi458/peringatan-rasulullah-tentang-kemunculan-gunung-emas-di-sungai-eufrat"
-    },
-    {
-        "title": "Pukul 10.00 WIB, Istana Buka Lagi War Tiket Undangan Upacara HUT Ke-80 RI",
-        "category": "News",
-        "publish_time": "07-08-2025 02:24",
-        "news_link": "https://news.republika.co.id/berita/t0lql6484/pukul-1000-wib-istana-buka-lagi-war-tiket-undangan-upacara-hut-ke80-ri"
-    },
-    {
-        "title": "KPK Jelaskan Dugaan Korupsi Program Makanan Tambahan untuk Bayi dan Ibu Hamil, Nutrisi Dikurangi",
-        "category": "News",
-        "publish_time": "07-08-2025 02:24",
-        "news_link": "https://news.republika.co.id/berita/t0lqae487/kpk-jelaskan-dugaan-korupsi-program-makanan-tambahan-untuk-bayi-dan-ibu-hamil-nutrisi-dikurangi"
     }
 ]
