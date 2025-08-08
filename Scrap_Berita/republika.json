@@ -1,116 +1,296 @@
 [
     {
+        "title": "Cerita Pekerja Swasta di KBB tak Bisa Beli Rumah: Gaji Kecil, Harga Hunian Gila-gilaan",
+        "category": "Rejabar",
+        "publish_time": "08-08-2025 09:21",
+        "news_link": "https://rejabar.republika.co.id/berita/t0o4n1512/cerita-pekerja-swasta-di-kbb-tak-bisa-beli-rumah-gaji-kecil-harga-hunian-gilagilaan"
+    },
+    {
+        "title": "Indonesia Siap Tenaga Kesehatan Cadangan untuk Hadapi Krisis Kesehatan Berskala Internasional",
+        "category": "Network",
+        "publish_time": "08-08-2025 09:20",
+        "news_link": "https://diagnosa.id/posts/697540/indonesia-siap-tenaga-kesehatan-cadangan-untuk-hadapi-krisis-kesehatan-berskala-internasional"
+    },
+    {
+        "title": "Prabowo akan Resmikan Enam Kodam Baru, termasuk Imam Bonjol",
+        "category": "Network",
+        "publish_time": "08-08-2025 09:20",
+        "news_link": "https://seputarmiliter.id/posts/697551/prabowo-akan-resmikan-enam-kodam-baru-termasuk-imam-bonjol"
+    },
+    {
+        "title": "Momen Jenazah Terpaksa Dibawa Pakai Kain Sarung dan Bambu",
+        "category": "Video",
+        "publish_time": "08-08-2025 09:17",
+        "news_link": "https://tv.republika.co.id/berita/t0o4hm313/momen-jenazah-terpaksa-dibawa-pakai-kain-sarung-dan-bambu"
+    },
+    {
+        "title": "MUI: Ekonomi Umat Jadi Fondasi Ketahanan Pangan dan Energi Nasional",
+        "category": "Ekonomi Syariah",
+        "publish_time": "08-08-2025 09:17",
+        "news_link": "https://sharia.republika.co.id/berita/t0o4h5423/mui-ekonomi-umat-jadi-fondasi-ketahanan-pangan-dan-energi-nasional"
+    },
+    {
+        "title": "Perluas Jejaring Internasional Unisba Buat Program Global Student Motion",
+        "category": "Rejabar",
+        "publish_time": "08-08-2025 09:13",
+        "news_link": "https://rejabar.republika.co.id/berita/t0o49u512/perluas-jejaring-internasional-unisba-buat-program-global-student-motion"
+    },
+    {
+        "title": "Wasiat Singkat Rasulullah\u00a0Untuk Umat Manusia yang Sangat Penting",
+        "category": "Khazanah",
+        "publish_time": "08-08-2025 09:12",
+        "news_link": "https://khazanah.republika.co.id/berita/t0o48y430/wasiat-singkat-rasulullahuntuk-umat-manusia-yang-sangat-penting"
+    },
+    {
+        "title": "Cadangan Devisa Melorot Jadi Sentimen Negatif untuk Rupiah",
+        "category": "Ekonomi",
+        "publish_time": "08-08-2025 09:11",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0o47a490/cadangan-devisa-melorot-jadi-sentimen-negatif-untuk-rupiah"
+    },
+    {
+        "title": "Ekonom: Koperasi Desa Merah Putih Perluas Akses Sektor Informal",
+        "category": "Ekonomi",
+        "publish_time": "08-08-2025 09:11",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0o472423/ekonom-koperasi-desa-merah-putih-perluas-akses-sektor-informal"
+    },
+    {
+        "title": "Di Sinilah Kelak Umat Islam Berjumpa dengan Rasulullah",
+        "category": "Khazanah",
+        "publish_time": "08-08-2025 09:10",
+        "news_link": "https://khazanah.republika.co.id/berita/t0o45z458/di-sinilah-kelak-umat-islam-berjumpa-dengan-rasulullah"
+    },
+    {
+        "title": "RI\u2013Selandia Baru Targetkan Perdagangan Rp58,3 Triliun pada 2029",
+        "category": "Ekonomi",
+        "publish_time": "08-08-2025 09:06",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0o3z4370/riselandia-baru-targetkan-perdagangan-rp583-triliun-pada-2029"
+    },
+    {
+        "title": "Mengenal Ayat-Ayat Arkeologi dalam Surat At-Tin",
+        "category": "Khazanah",
+        "publish_time": "08-08-2025 09:02",
+        "news_link": "https://khazanah.republika.co.id/berita/t0o3su483/mengenal-ayatayat-arkeologi-dalam-surat-attin"
+    },
+    {
+        "title": "Bank Indonesia Ungkap Keyakinan Konsumen Naik pada Juli 2025",
+        "category": "Ekonomi",
+        "publish_time": "08-08-2025 09:02",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0o3sn490/bank-indonesia-ungkap-keyakinan-konsumen-naik-pada-juli-2025"
+    },
+    {
+        "title": "Tabungan Simpeda Seluruh BPD Capai Rp73 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "08-08-2025 08:59",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0o0mf416/tabungan-simpeda-seluruh-bpd-capai-rp73-triliun"
+    },
+    {
+        "title": "Pedagang Pasar Barito Menolak Direlokasi",
+        "category": "Visual",
+        "publish_time": "08-08-2025 08:59",
+        "news_link": "https://visual.republika.co.id/berita/t0o247375/pedagang-pasar-barito-menolak-direlokasi"
+    },
+    {
+        "title": "Perawat Visioner dan Solutif Jadi Kunci Mutu Layanan di Era Society 5.0",
+        "category": "Rejakarta",
+        "publish_time": "08-08-2025 08:58",
+        "news_link": "https://republika.co.id/berita//t0o3l6320/perawat-visioner-dan-solutif-jadi-kunci-mutu-layanan-di-era-society-5-0"
+    },
+    {
+        "title": "Eks Menteri Susi Walk Out di Rapat Pembahasan KJA di Pangandaran, Dedi Mulyadi: Selaras dengan Saya",
+        "category": "Rejabar",
+        "publish_time": "08-08-2025 08:55",
+        "news_link": "https://rejabar.republika.co.id/berita/t0o3gz512/eks-menteri-susi-walk-out-di-rapat-pembahasan-kja-di-pangandaran-dedi-mulyadi-selaras-dengan-saya"
+    },
+    {
+        "title": "Menteri Lingkungan Hidup: Pencegahan Karhutla Cara Terbaik Selamatkan Lahan Gambut",
+        "category": "Esgnow",
+        "publish_time": "08-08-2025 08:54",
+        "news_link": "https://esgnow.republika.co.id/berita/t0o3f4370/menteri-lingkungan-hidup-pencegahan-karhutla-cara-terbaik-selamatkan-lahan-gambut"
+    },
+    {
+        "title": "Penulis Buku Api Sejarah: Kapitan Pattimura adalah Muslim Pejuang",
+        "category": "Khazanah",
+        "publish_time": "08-08-2025 08:54",
+        "news_link": "https://khazanah.republika.co.id/berita/t0o3ey458/penulis-buku-api-sejarah-kapitan-pattimura-adalah-muslim-pejuang"
+    },
+    {
+        "title": "Kementerian ESDM Targetkan Merauke Produksi Bioetanol pada 2027",
+        "category": "Ekonomi",
+        "publish_time": "08-08-2025 08:52",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0o3ca490/kementerian-esdm-targetkan-merauke-produksi-bioetanol-pada-2027"
+    },
+    {
+        "title": "Daftar Enam Kodam Baru Plus Pangdam yang akan Diresmikan Prabowo di Batujajar",
+        "category": "News",
+        "publish_time": "08-08-2025 08:50",
+        "news_link": "https://news.republika.co.id/berita/t0o37s484/daftar-enam-kodam-baru-plus-pangdam-yang-akan-diresmikan-prabowo-di-batujajar"
+    },
+    {
+        "title": "Prabowo Tetapkan Komandan Marinir, Kopassus, dan Kopasgat Jadi Panglima Bintang Tiga",
+        "category": "News",
+        "publish_time": "08-08-2025 08:47",
+        "news_link": "https://news.republika.co.id/berita/t0o33v409/prabowo-tetapkan-komandan-marinir-kopassus-dan-kopasgat-jadi-panglima-bintang-tiga"
+    },
+    {
+        "title": "BUS Hasil Penggabungan BTN Syariah dan BVIS Siap Tantang Pemain Besar",
+        "category": "Ekonomi Syariah",
+        "publish_time": "08-08-2025 08:43",
+        "news_link": "https://sharia.republika.co.id/berita/t0o2w4370/bus-hasil-penggabungan-btn-syariah-dan-bvis-siap-tantang-pemain-besar"
+    },
+    {
+        "title": "Kisah Sulaiman Al-Obaid, Pele dari Palestina yang Kini Telah Tiada",
+        "category": "Network",
+        "publish_time": "08-08-2025 08:40",
+        "news_link": "https://skor.republika.co.id/posts/697559/kisah-sulaiman-al-obaid-pele-dari-palestina-yang-kini-telah-tiada"
+    },
+    {
+        "title": "Kadisnakertrans Jabar Teppy Wawan Meninggal Dunia, Ini Kenangan Dedi Mulyadi Soal Sosok Almarhum",
+        "category": "Rejabar",
+        "publish_time": "08-08-2025 08:40",
+        "news_link": "https://rejabar.republika.co.id/berita/t0o2qs512/kadisnakertrans-jabar-teppy-wawan-meninggal-dunia-ini-kenangan-dedi-mulyadi-soal-sosok-almarhum"
+    },
+    {
+        "title": "Rekam Jejak Fabio Grosso sebagai Pelatih sebelum Sassuolo",
+        "category": "Network",
+        "publish_time": "08-08-2025 08:40",
+        "news_link": "https://skor.republika.co.id/posts/697558/rekam-jejak-fabio-grosso-sebagai-pelatih-sebelum-sassuolo"
+    },
+    {
+        "title": "Konflik Pengelolaan, Kebun Binatang Bandung Ditutup Sementara",
+        "category": "Visual",
+        "publish_time": "08-08-2025 08:29",
+        "news_link": "https://visual.republika.co.id/berita/t0o1zr375/konflik-pengelolaan-kebun-binatang-bandung-ditutup-sementara"
+    },
+    {
+        "title": "RI Tunggu Lampu Hijau dari Palestina Sebelum Evakuasi Warga Gaza",
+        "category": "News",
+        "publish_time": "08-08-2025 08:28",
+        "news_link": "https://news.republika.co.id/berita/t0o27d370/ri-tunggu-lampu-hijau-dari-palestina-sebelum-evakuasi-warga-gaza"
+    },
+    {
+        "title": "Hadapi Gugatan Soal Rombel 50 Siswa Perkelas, Pemprov Jabar Siapkan Sejumlah Langkah Hukum",
+        "category": "Rejabar",
+        "publish_time": "08-08-2025 08:27",
+        "news_link": "https://rejabar.republika.co.id/berita/t0o26e512/hadapi-gugatan-soal-rombel-50-siswa-perkelas-pemprov-jabar-siapkan-sejumlah-langkah-hukum"
+    },
+    {
+        "title": "Caplok Kota Gaza, Israel Akan Tenggelam dalam Kekacauan",
+        "category": "News",
+        "publish_time": "08-08-2025 08:24",
+        "news_link": "https://news.republika.co.id/berita/t0o20l393/caplok-kota-gaza-israel-akan-tenggelam-dalam-kekacauan"
+    },
+    {
         "title": "Mengenal Nama-nama Alquran",
         "category": "Khazanah",
-        "publish_time": "08-08-2025 08:18",
+        "publish_time": "08-08-2025 08:21",
         "news_link": "https://khazanah.republika.co.id/berita/t0o1r1458/mengenal-namanama-alquran"
     },
     {
-        "title": "Denny Sumargo Tetap Dukung SM yang Pindah Markas, Berharap Jangan Seperti Aspac",
+        "title": "Denny Sumargo Tetap Dukung Satria Muda yang Pindah Markas, Berharap Jangan Seperti Aspac",
         "category": "News",
-        "publish_time": "08-08-2025 08:18",
-        "news_link": "https://news.republika.co.id/berita/t0o1qv348/denny-sumargo-tetap-dukung-sm-yang-pindah-markas-berharap-jangan-seperti-aspac"
+        "publish_time": "08-08-2025 08:21",
+        "news_link": "https://news.republika.co.id/berita/t0o1qv348/denny-sumargo-tetap-dukung-satria-muda-yang-pindah-markas-berharap-jangan-seperti-aspac"
     },
     {
         "title": "Wujud Peduli Polri, Sejumlah Warga Terima Sembako di Klinik Tunggal Panaluan Indramayu",
         "category": "Rejabar",
-        "publish_time": "08-08-2025 08:18",
+        "publish_time": "08-08-2025 08:21",
         "news_link": "https://rejabar.republika.co.id/berita/t0o1qi512/wujud-peduli-polri-sejumlah-warga-terima-sembako-di-klinik-tunggal-panaluan-indramayu"
     },
     {
         "title": "Gelombang Panas di Iran Ancam Cadangan Air dan Pasokan Listrik",
         "category": "Esgnow",
-        "publish_time": "08-08-2025 08:07",
+        "publish_time": "08-08-2025 08:21",
         "news_link": "https://esgnow.republika.co.id/berita/t0o186423/gelombang-panas-di-iran-ancam-cadangan-air-dan-pasokan-listrik"
     },
     {
         "title": "Pulau Galang Tampung Warga Gaza Korban Konflik, ini Penjelasan Menlu",
         "category": "Video",
-        "publish_time": "08-08-2025 08:06",
+        "publish_time": "08-08-2025 08:21",
         "news_link": "https://tv.republika.co.id/berita/t0o16y313/pulau-galang-tampung-warga-gaza-korban-konflik-ini-penjelasan-menlu"
     },
     {
         "title": "Pekerja Pariwisata akan Demo Lagi Soal Study Tour, Dedi Mulyadi: Dipersilahkan Saja",
         "category": "Rejabar",
-        "publish_time": "08-08-2025 08:04",
+        "publish_time": "08-08-2025 08:21",
         "news_link": "https://rejabar.republika.co.id/berita/t0o13j512/pekerja-pariwisata-akan-demo-lagi-soal-study-tour-dedi-mulyadi-dipersilahkan-saja"
     },
     {
         "title": "Ini Metode Termudah Masuk Surga",
         "category": "Khazanah",
-        "publish_time": "08-08-2025 08:04",
+        "publish_time": "08-08-2025 08:21",
         "news_link": "https://khazanah.republika.co.id/berita/t0o130458/ini-metode-termudah-masuk-surga"
     },
     {
         "title": "Kaltim Fokus Garap PLTS dan Biogas untuk Transisi Energi",
         "category": "Esgnow",
-        "publish_time": "08-08-2025 07:59",
+        "publish_time": "08-08-2025 08:21",
         "news_link": "https://esgnow.republika.co.id/berita/t0nz0v416/kaltim-fokus-garap-plts-dan-biogas-untuk-transisi-energi"
     },
     {
         "title": "Polemik PBB Naik 250 Persen, Bupati Pati: Saya tak Menantang Rakyat",
         "category": "Rejogja",
-        "publish_time": "08-08-2025 07:57",
+        "publish_time": "08-08-2025 08:21",
         "news_link": "https://rejogja.republika.co.id/berita/t0o0sc282/polemik-pbb-naik-250-persen-bupati-pati-saya-tak-menantang-rakyat"
     },
     {
         "title": "Buddha Tzu Chi-Rumah Zakat Kolaborasi Perkuat Filantropi Lintas Iman",
         "category": "Khazanah",
-        "publish_time": "08-08-2025 07:56",
+        "publish_time": "08-08-2025 08:21",
         "news_link": "https://khazanah.republika.co.id/berita/t0o0pu483/buddha-tzu-chirumah-zakat-kolaborasi-perkuat-filantropi-lintas-iman"
     },
     {
         "title": "Benarkah Harut dan Marut adalah Malaikat?",
         "category": "Khazanah",
-        "publish_time": "08-08-2025 07:54",
+        "publish_time": "08-08-2025 08:21",
         "news_link": "https://khazanah.republika.co.id/berita/t0o0mm458/benarkah-harut-dan-marut-adalah-malaikat"
     },
     {
         "title": "Tren Belanja Online Meningkat di Kuartal II 2025",
         "category": "Visual",
-        "publish_time": "08-08-2025 07:50",
+        "publish_time": "08-08-2025 07:21",
         "news_link": "https://visual.republika.co.id/berita/t0o0gg375/tren-belanja-online-meningkat-di-kuartal-ii-2025"
     },
     {
         "title": "Cegah Intoleransi, BNPT Ajak Masyarakat Perkuat Moderasi Beragama",
         "category": "Khazanah",
-        "publish_time": "08-08-2025 07:46",
+        "publish_time": "08-08-2025 07:21",
         "news_link": "https://khazanah.republika.co.id/berita/t0o09r483/cegah-intoleransi-bnpt-ajak-masyarakat-perkuat-moderasi-beragama"
     },
     {
         "title": "Kemacetan di Jalan TB Simatupang Makin Parah, Terungkap Proyek Galian Pipa Sampai Desember",
         "category": "News",
-        "publish_time": "08-08-2025 07:45",
+        "publish_time": "08-08-2025 07:21",
         "news_link": "https://news.republika.co.id/berita/t0o08i409/kemacetan-di-jalan-tb-simatupang-makin-parah-terungkap-proyek-galian-pipa-sampai-desember"
     },
     {
         "title": "Digitalisasi Keuangan Desa Dorong Transparansi dan Efisiensi",
         "category": "Ekonomi",
-        "publish_time": "08-08-2025 07:42",
+        "publish_time": "08-08-2025 07:21",
         "news_link": "https://ekonomi.republika.co.id/berita/t0o02g416/digitalisasi-keuangan-desa-dorong-transparansi-dan-efisiensi"
     },
     {
         "title": "Dorong Inklusi Keuangan Syariah, MPW Muhammadiyah dan Prudential Syariah Jalin Kolaborasi",
         "category": "Khazanah",
-        "publish_time": "08-08-2025 07:34",
+        "publish_time": "08-08-2025 07:21",
         "news_link": "https://khazanah.republika.co.id/berita/t0nzpu458/dorong-inklusi-keuangan-syariah-mpw-muhammadiyah-dan-prudential-syariah-jalin-kolaborasi"
     },
     {
         "title": "Paragon Corp & Sinergi Foundation Resmikan Jembatan Berkahf, Sambungkan Warga 2 Provinsi",
         "category": "Khazanah",
-        "publish_time": "08-08-2025 07:32",
+        "publish_time": "08-08-2025 07:21",
         "news_link": "https://khazanah.republika.co.id/berita/t0nzlw368/paragon-corp-sinergi-foundation-resmikan-jembatan-berkahf-sambungkan-warga-2-provinsi"
     },
     {
         "title": "Pembalakan Liar di Kawasan Konservasi Terungkap, 1.366 Batang Kayu Ilegal Disita",
         "category": "Esgnow",
-        "publish_time": "08-08-2025 07:29",
+        "publish_time": "08-08-2025 07:21",
         "news_link": "https://esgnow.republika.co.id/berita/t0ny7x416/pembalakan-liar-di-kawasan-konservasi-terungkap-1366-batang-kayu-ilegal-disita"
     },
     {
         "title": "Mengaku Sebagai Tuhan, Cara Iblis Menggoda Syekh Abdul Qadir Jailani",
         "category": "Khazanah",
-        "publish_time": "08-08-2025 07:24",
+        "publish_time": "08-08-2025 07:21",
         "news_link": "https://khazanah.republika.co.id/berita/t0nz8a483/mengaku-sebagai-tuhan-cara-iblis-menggoda-syekh-abdul-qadir-jailani"
     },
     {
@@ -118,185 +298,5 @@
         "category": "Rejogja",
         "publish_time": "08-08-2025 07:21",
         "news_link": "https://rejogja.republika.co.id/berita/t0nyzu282/aksi-kamisan-semarang-serukan-hakim-jatuhkan-vonis-maksimal-ke-aipda-robig"
-    },
-    {
-        "title": "Kabinet Israel Setujui Pencaplokan Kota Gaza",
-        "category": "News",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://news.republika.co.id/berita/t0nyz6393/kabinet-israel-setujui-pencaplokan-kota-gaza"
-    },
-    {
-        "title": "Modinity Warehouse Sale 2025 Siap Digelar, Promo Spesial BRI Bikin Belanja Makin Seru",
-        "category": "Ekonomi",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://ekonomi.republika.co.id/berita/t0nyyr368/modinity-warehouse-sale-2025-siap-digelar-promo-spesial-bri-bikin-belanja-makin-seru"
-    },
-    {
-        "title": "Mengenal Ibnu Haitham, Bapak Optik Muslim yang Menginspirasi Newton Hingga Galileo",
-        "category": "Khazanah",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://khazanah.republika.co.id/berita/t0nyvl483/mengenal-ibnu-haitham-bapak-optik-muslim-yang-menginspirasi-newton-hingga-galileo"
-    },
-    {
-        "title": "Usung Tema 'Threads of Tomorrow', Jogja Fashion Week 2025 Resmi Dibuka Paku Alam X",
-        "category": "Rejogja",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://rejogja.republika.co.id/berita/t0nytg291/usung-tema-threads-of-tomorrow-jogja-fashion-week-2025-resmi-dibuka-paku-alam-x"
-    },
-    {
-        "title": "Shai Gilgeous-Alexander Jadi Nama Jalan di Kanada",
-        "category": "News",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://news.republika.co.id/berita/t0nyqf348/shai-gilgeousalexander-jadi-nama-jalan-di-kanada"
-    },
-    {
-        "title": "PSSI Hidupkan Kembali Semangat Perserikatan: Liga 3 dan Liga 4 Digelar di Level Daerah",
-        "category": "News",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://news.republika.co.id/berita/t0nybt348/pssi-hidupkan-kembali-semangat-perserikatan-liga-3-dan-liga-4-digelar-di-level-daerah"
-    },
-    {
-        "title": "Suara Tapak Sepatu Bilal di Surga",
-        "category": "Khazanah",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://khazanah.republika.co.id/berita/t0nya7458/suara-tapak-sepatu-bilal-di-surga"
-    },
-    {
-        "title": "Ketua MUI Ini Dukung Langkah RI Siapkan Pulau Galang Jadi Lokasi Evakuasi Warga Gaza",
-        "category": "Khazanah",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://khazanah.republika.co.id/berita/t0ny6o483/ketua-mui-ini-dukung-langkah-ri-siapkan-pulau-galang-jadi-lokasi-evakuasi-warga-gaza"
-    },
-    {
-        "title": "Warga Cileunyi Olah Sampah Berbasis Ekonomi Syariah",
-        "category": "Esgnow",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://esgnow.republika.co.id/berita/t0nx0u416/warga-cileunyi-olah-sampah-berbasis-ekonomi-syariah"
-    },
-    {
-        "title": "Hasil Studi: Kurang Tidur Bisa Memicu Nyeri Kronis, Terutama Wanita",
-        "category": "Network",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://impresiupdate.id/posts/697496/hasil-studi-kurang-tidur-bisa-memicu-nyeri-kronis-terutama-wanita"
-    },
-    {
-        "title": "Wuidih... Selamat Tinggal Jarum Suntik, Teknologi Pil Baru Bakal Menggantikannya",
-        "category": "Network",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://impresiupdate.id/posts/697497/wuidih-selamat-tinggal-jarum-suntik-teknologi-pil-baru-bakal-menggantikannya"
-    },
-    {
-        "title": "Whoosh Telah Layani 10,7 Juta Penumpang",
-        "category": "Network",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://kreta.id/posts/697509/whoosh-telah-layani-10-7-juta-penumpang"
-    },
-    {
-        "title": "Ini Pengertian dan Jabatan yang Bisa Diisi Honorer untuk PPPK Paruh Waktu",
-        "category": "Network",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://ruzkaindonesia.id/posts/697520/ini-pengertian-dan-jabatan-yang-bisa-diisi-honorer-untuk-pppk-paruh-waktu"
-    },
-    {
-        "title": "TNI AD Terjunkan 10.817 Pasukan Ikut Upacara Militer di Batujajar",
-        "category": "News",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://news.republika.co.id/berita/t0ny2c484/tni-ad-terjunkan-10817-pasukan-ikut-upacara-militer-di-batujajar"
-    },
-    {
-        "title": "Ini Cara Daftar Face Recognition di Access by KAI",
-        "category": "Network",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://kreta.id/posts/697533/ini-cara-daftar-face-recognition-di-access-by-kai"
-    },
-    {
-        "title": "Prabowo akan Resmikan Struktur Baru Kopassus, Tambah Dua Grup",
-        "category": "Network",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://seputarmiliter.id/posts/697536/prabowo-akan-resmikan-struktur-baru-kopassus-tambah-dua-grup"
-    },
-    {
-        "title": "Arab Saudi Selenggarakan Lokakarya Tingkatkan Layanan Jamaah Haji Indonesia",
-        "category": "Khazanah",
-        "publish_time": "08-08-2025 07:21",
-        "news_link": "https://khazanah.republika.co.id/berita/t0nxyb366/arab-saudi-selenggarakan-lokakarya-tingkatkan-layanan-jamaah-haji-indonesia"
-    },
-    {
-        "title": "KAI Catat Rekor Wisman Tertinggi dalam Dua Tahun, Juli 2025 Tembus 85 Ribu Penumpang",
-        "category": "Ekonomi",
-        "publish_time": "08-08-2025 06:21",
-        "news_link": "https://ekonomi.republika.co.id/berita/t0nxnr370/kai-catat-rekor-wisman-tertinggi-dalam-dua-tahun-juli-2025-tembus-85-ribu-penumpang"
-    },
-    {
-        "title": "Soroti Diskriminasi\u00a0Kelompok\u00a0Rentan, PP \u2018Aisyiyah Ajak Jurnalis Kawal Narasi Inklusif Berbasis GEDSI",
-        "category": "Rejogja",
-        "publish_time": "08-08-2025 06:21",
-        "news_link": "https://rejogja.republika.co.id/berita/t0nxlo291/soroti-diskriminasikelompokrentan-pp-aisyiyah-ajak-jurnalis-kawal-narasi-inklusif-berbasis-gedsi"
-    },
-    {
-        "title": "Kendaraan Berat Pelanggar Uji Emisi di Jakarta Didenda Sampai Rp8 Juta",
-        "category": "News",
-        "publish_time": "08-08-2025 06:21",
-        "news_link": "https://news.republika.co.id/berita/t0nxi3348/kendaraan-berat-pelanggar-uji-emisi-di-jakarta-didenda-sampai-rp8-juta"
-    },
-    {
-        "title": "Azan Terakhir Bilal bin Rabah",
-        "category": "Khazanah",
-        "publish_time": "08-08-2025 06:21",
-        "news_link": "https://khazanah.republika.co.id/berita/t0nxax458/azan-terakhir-bilal-bin-rabah"
-    },
-    {
-        "title": "Alwi Farhan Gantikan Axelsen Berlaga di Kejuaraan Dunia 2025: Saya akan Maksimalkan Kesempatan Ini",
-        "category": "News",
-        "publish_time": "08-08-2025 06:21",
-        "news_link": "https://news.republika.co.id/berita/t0nx2o348/alwi-farhan-gantikan-axelsen-berlaga-di-kejuaraan-dunia-2025-saya-akan-maksimalkan-kesempatan-ini"
-    },
-    {
-        "title": "Kematian Prada Lucky Janggal, DPR: Usut Tuntas!",
-        "category": "News",
-        "publish_time": "08-08-2025 06:21",
-        "news_link": "https://news.republika.co.id/berita/t0nwye377/kematian-prada-lucky-janggal-dpr-usut-tuntas"
-    },
-    {
-        "title": "Bupati Kolaka Timur Ditangkap KPK Usai Rakernas Nasdem",
-        "category": "News",
-        "publish_time": "08-08-2025 06:21",
-        "news_link": "https://news.republika.co.id/berita/t0nwly377/bupati-kolaka-timur-ditangkap-kpk-usai-rakernas-nasdem"
-    },
-    {
-        "title": "KPK: OTT Bupati Kolaka Timur Bukan Drama",
-        "category": "News",
-        "publish_time": "08-08-2025 06:21",
-        "news_link": "https://news.republika.co.id/berita/t0nw5m377/kpk-ott-bupati-kolaka-timur-bukan-drama"
-    },
-    {
-        "title": "Resmi, 18 Agustus Jadi Libur Nasional Setelah SKB Tiga Menteri Diteken",
-        "category": "News",
-        "publish_time": "08-08-2025 06:21",
-        "news_link": "https://news.republika.co.id/berita/t0nvz6348/resmi-18-agustus-jadi-libur-nasional-setelah-skb-tiga-menteri-diteken"
-    },
-    {
-        "title": "Lebih dari 800 Atlet Terbunuh di Gaza di Tengah Genosida dan Kelaparan Akibat Blokade Israel",
-        "category": "News",
-        "publish_time": "08-08-2025 06:21",
-        "news_link": "https://news.republika.co.id/berita/t0nvxn377/lebih-dari-800-atlet-terbunuh-di-gaza-di-tengah-genosida-dan-kelaparan-akibat-blokade-israel"
-    },
-    {
-        "title": "Tembak Siswa SMKN 4 Semarang, Aipda Robig Divonis 15 Tahun Penjara",
-        "category": "News",
-        "publish_time": "08-08-2025 06:21",
-        "news_link": "https://news.republika.co.id/berita/t0nvff377/tembak-siswa-smkn-4-semarang-aipda-robig-divonis-15-tahun-penjara"
-    },
-    {
-        "title": "Prada Lucky Diduga Tewas Dianiaya Senior, Ini Penjelasan Kodam IX Udayana",
-        "category": "News",
-        "publish_time": "08-08-2025 06:21",
-        "news_link": "https://news.republika.co.id/berita/t0nv4e377/prada-lucky-diduga-tewas-dianiaya-senior-ini-penjelasan-kodam-ix-udayana"
-    },
-    {
-        "title": "Kuartal III 2025, Lonjakan Transaksi Emas BSI Capai 441 Persen",
-        "category": "Ekonomi Syariah",
-        "publish_time": "08-08-2025 05:21",
-        "news_link": "https://sharia.republika.co.id/berita/t0nuri502/kuartal-iii-2025-lonjakan-transaksi-emas-bsi-capai-441-persen"
     }
 ]
