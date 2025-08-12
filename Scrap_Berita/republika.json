@@ -1,302 +1,308 @@
 [
     {
+        "title": "Pengumuman Tender Terbuka Jasa Raharja",
+        "category": "Native",
+        "publish_time": "11-08-2025 22:13",
+        "news_link": "https://www.republika.co.id/berita/t0u05x325/pengumuman-tender-terbuka-jasa-raharja"
+    },
+    {
+        "title": "Dukung Pertumbuhan Ekosistem Kecantikan dan Fashion, BRI Hadirkan BBF 2025",
+        "category": "Ekonomi",
+        "publish_time": "12-08-2025 03:11",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0v27b472/dukung-pertumbuhan-ekosistem-kecantikan-dan-fashion-bri-hadirkan-bbf-2025"
+    },
+    {
+        "title": "Bagaimana Kafein Mengubah Otak Saat Tidur?",
+        "category": "Network",
+        "publish_time": "12-08-2025 03:10",
+        "news_link": "https://impresiupdate.id/posts/698151/bagaimana-kafein-mengubah-otak-saat-tidur-"
+    },
+    {
+        "title": "Ayo Coba Tes Kemampuan Akademik, Gratis",
+        "category": "Network",
+        "publish_time": "12-08-2025 03:10",
+        "news_link": "https://pemantiknews.id/posts/698160/ayo-coba-tes-kemampuan-akademik-gratis"
+    },
+    {
+        "title": "Mabesad Respons Putusan Kopda Bazarsah Divonis Mati dan Dipecat",
+        "category": "News",
+        "publish_time": "12-08-2025 03:06",
+        "news_link": "https://news.republika.co.id/berita/t0v1yb484/mabesad-respons-putusan-kopda-bazarsah-divonis-mati-dan-dipecat"
+    },
+    {
+        "title": "MAKI Serahkan SK Menag Yaqut yang Jadi Dasar Kuota Tambahan Haji Khusus, KPK: Bisa Jadi Petunjuk",
+        "category": "News",
+        "publish_time": "12-08-2025 03:05",
+        "news_link": "https://news.republika.co.id/berita/t0v1wp409/maki-serahkan-sk-menag-yaqut-yang-jadi-dasar-kuota-tambahan-haji-khusus-kpk-bisa-jadi-petunjuk"
+    },
+    {
+        "title": "Tumpukan Sampah di TPA Galuga Longsor, Satu Orang Meninggal Dunia",
+        "category": "Visual",
+        "publish_time": "12-08-2025 03:00",
+        "news_link": "https://visual.republika.co.id/berita/t0v00x375/tumpukan-sampah-di-tpa-galuga-longsor-satu-orang-meninggal-dunia"
+    },
+    {
+        "title": "Indonesia Public Relations Awards 2025 Apresiasi Kiprah PNM dalam Menjaga Reputasi Korporasi",
+        "category": "Ekonomi",
+        "publish_time": "12-08-2025 02:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0v1hl472/indonesia-public-relations-awards-2025-apresiasi-kiprah-pnm-dalam-menjaga-reputasi-korporasi"
+    },
+    {
+        "title": "Gencatan Perang Tarif China-AS Belum Usai, Trump Dikabarkan Perpanjang?",
+        "category": "Ekonomi",
+        "publish_time": "12-08-2025 02:43",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0v0wq502/gencatan-perang-tarif-chinaas-belum-usai-trump-dikabarkan-perpanjang"
+    },
+    {
+        "title": "OJK, Disdik Kota Bandung Bersama bank bjb Dorong Generasi Muda Mandiri Finansial Mulai dari Sekolah",
+        "category": "Ekonomi",
+        "publish_time": "12-08-2025 02:34",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0v0hv472/ojk-disdik-kota-bandung-bersama-bank-bjb-dorong-generasi-muda-mandiri-finansial-mulai-dari-sekolah"
+    },
+    {
+        "title": "Harga Emas Hari Ini di Pegadaian, Antam, dan UBS Kompak Merosot, Cek Daftar Lengkapnya",
+        "category": "Ekonomi",
+        "publish_time": "12-08-2025 02:33",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0v0fj502/harga-emas-hari-ini-di-pegadaian-antam-dan-ubs-kompak-merosot-cek-daftar-lengkapnya"
+    },
+    {
+        "title": "Perdagangan Selasa, IHSG Dibuka Menguat",
+        "category": "Ekonomi",
+        "publish_time": "12-08-2025 02:28",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0v083484/perdagangan-selasa-ihsg-dibuka-menguat"
+    },
+    {
+        "title": "Pawai Ratusan Domba Ternak Meriahkan HUT RI di Temanggung",
+        "category": "Visual",
+        "publish_time": "12-08-2025 02:22",
+        "news_link": "https://visual.republika.co.id/berita/t0uzxu375/pawai-ratusan-domba-ternak-meriahkan-hut-ri-di-temanggung"
+    },
+    {
+        "title": "Bournemouth Berpotensi Dapatkan Rp3,2 Triliun dari Penjualan 3 Bek",
+        "category": "Network",
+        "publish_time": "12-08-2025 02:20",
+        "news_link": "https://skor.republika.co.id/posts/698143/bournemouth-berpotensi-dapatkan-rp3-2-triliun-dari-penjualan-3-bek"
+    },
+    {
+        "title": "Bea Cukai Madura Musnahkan Rokok dan Miras Ilegal Senilai Puluhan Miliar Rupiah",
+        "category": "Beacukai",
+        "publish_time": "12-08-2025 02:14",
+        "news_link": "https://republika.co.id/berita//t0uzk0472/bea-cukai-madura-musnahkan-rokok-dan-miras-ilegal-senilai-puluhan-miliar-rupiah"
+    },
+    {
+        "title": "Bappisus Lapor Prabowo, Diminta Awasi Pembangunan Jangan Ada Korupsi",
+        "category": "News",
+        "publish_time": "12-08-2025 02:13",
+        "news_link": "https://news.republika.co.id/berita/t0uz8q484/bappisus-lapor-prabowo-diminta-awasi-pembangunan-jangan-ada-korupsi"
+    },
+    {
+        "title": "Ahmad Dhani Tegaskan Lagi, Lagunya Gratis Diputar Kafe dan Restoran",
+        "category": "Ameera",
+        "publish_time": "12-08-2025 02:13",
+        "news_link": "https://ameera.republika.co.id/berita/t0uz5e328/ahmad-dhani-tegaskan-lagi-lagunya-gratis-diputar-kafe-dan-restoran"
+    },
+    {
+        "title": "Kemnaker Siapkan 59 BLK untuk Program Sekolah Rakyat",
+        "category": "Ekonomi",
+        "publish_time": "12-08-2025 02:13",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0uy6k416/kemnaker-siapkan-59-blk-untuk-program-sekolah-rakyat"
+    },
+    {
+        "title": "Sulsel Punya Pesawat Amfibi, Begini Kecanggihannya",
+        "category": "Ekonomi",
+        "publish_time": "12-08-2025 01:13",
+        "news_link": "https://ekonomi.republika.co.id/berita/t0uxrc416/sulsel-punya-pesawat-amfibi-begini-kecanggihannya"
+    },
+    {
+        "title": "Suara Musisi Indie Soal Heboh Hak Royalti, Benarkah Pendapatan Mereka Bertambah?",
+        "category": "Ameera",
+        "publish_time": "12-08-2025 01:13",
+        "news_link": "https://ameera.republika.co.id/berita/t0uxqj483/suara-musisi-indie-soal-heboh-hak-royalti-benarkah-pendapatan-mereka-bertambah"
+    },
+    {
         "title": "Menteri ESDM Tegaskan Indonesia tak Pernah Impor Gas Bumi",
         "category": "Ekonomi",
-        "publish_time": "12-08-2025 01:09",
+        "publish_time": "12-08-2025 01:13",
         "news_link": "https://ekonomi.republika.co.id/berita/t0uw9i423/menteri-esdm-tegaskan-indonesia-tak-pernah-impor-gas-bumi"
     },
     {
         "title": "Menteri ESDM: Produksi Minyak Capai 608 Ribu Bph, Lampaui Target APBN",
         "category": "Ekonomi",
-        "publish_time": "12-08-2025 00:55",
+        "publish_time": "12-08-2025 01:13",
         "news_link": "https://ekonomi.republika.co.id/berita/t0uvpe423/menteri-esdm-produksi-minyak-capai-608-ribu-bph-lampaui-target-apbn"
     },
     {
         "title": "Daftar Menu yang Disajikan dalam Pertemuan Prabowo dan Presiden Peru di Istana",
         "category": "News",
-        "publish_time": "12-08-2025 00:50",
+        "publish_time": "12-08-2025 01:13",
         "news_link": "https://news.republika.co.id/berita/t0uvpa484/daftar-menu-yang-disajikan-dalam-pertemuan-prabowo-dan-presiden-peru-di-istana"
     },
     {
         "title": "Festival Musik Joyland Festival 2025 Batal Digelar",
         "category": "Ameera",
-        "publish_time": "12-08-2025 00:47",
+        "publish_time": "12-08-2025 01:13",
         "news_link": "https://ameera.republika.co.id/berita/t0uvju425/festival-musik-joyland-festival-2025-batal-digelar"
     },
     {
         "title": "RI\u2013Peru Sepakat Perkuat Pertanian Cerdas dan Akses Pasar Ekspor",
         "category": "Ekonomi",
-        "publish_time": "12-08-2025 00:46",
+        "publish_time": "12-08-2025 01:13",
         "news_link": "https://ekonomi.republika.co.id/berita/t0uvhj423/riperu-sepakat-perkuat-pertanian-cerdas-dan-akses-pasar-ekspor"
     },
     {
         "title": "Perjuangkan Lahan, Mereka Kini Berani Tolak Bansos",
         "category": "Network",
-        "publish_time": "12-08-2025 00:35",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://oohya.republika.co.id/posts/698119/perjuangkan-lahan-mereka-kini-berani-tolak-bansos"
     },
     {
         "title": "Tiket KA 15 Agustus ke Yogyakarta Lempuyangan dari Stasiun Pasar Senen",
         "category": "Network",
-        "publish_time": "12-08-2025 00:33",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://kreta.id/posts/698100/tiket-ka-15-agustus-ke-yogyakarta-lempuyangan-dari-stasiun-pasar-senen"
     },
     {
         "title": "Tahun Depan Beasiswa LPDP Diarahkan untuk Delapan Sektor",
         "category": "Network",
-        "publish_time": "12-08-2025 00:33",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://sekitarkaltim.id/posts/697937/tahun-depan-beasiswa-lpdp-diarahkan-untuk-delapan-sektor"
     },
     {
         "title": "Pemprov Kaltim: Waspadai Penipuan Aktivasi Identitas Kependudukan Digital",
         "category": "Network",
-        "publish_time": "12-08-2025 00:33",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://sekitarkaltim.id/posts/698110/pemprov-kaltim-waspadai-penipuan-aktivasi-identitas-kependudukan-digital"
     },
     {
         "title": "Penyintas Banjir Limpasan Sukabumi Butuh Bantuan, Mulai Beras Hingga Pakaian Dalam",
         "category": "Network",
-        "publish_time": "12-08-2025 00:33",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://sukabumikini.com/posts/698111/penyintas-banjir-limpasan-sukabumi-butuh-bantuan-mulai-beras-hingga-pakaian-dalam"
     },
     {
         "title": "Penjualan Mobil Juli 2025 Naik Tipis, Kijang Innova Tetap Jadi Raja Pasar",
         "category": "Network",
-        "publish_time": "12-08-2025 00:32",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://motoresto.id/posts/698082/penjualan-mobil-juli-2025-naik-tipis-kijang-innova-tetap-jadi-raja-pasar"
     },
     {
         "title": "Ke Cilacap dari Surabaya 16 Agustus 2025, Tiket KA Sancaka Utara Masih Tersedia",
         "category": "Network",
-        "publish_time": "12-08-2025 00:31",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://kreta.id/posts/698132/ke-cilacap-dari-surabaya-16-agustus-2025-tiket-ka-sancaka-utara-masih-tersedia"
     },
     {
         "title": "Pemprov DKI Resmi Buka Lowongan 1.000 Petugas Damkar, Ini Syarat dan Jadwal Lengkapnya",
         "category": "Ekonomi",
-        "publish_time": "12-08-2025 00:31",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://ekonomi.republika.co.id/berita/t0uut6423/pemprov-dki-resmi-buka-lowongan-1000-petugas-damkar-ini-syarat-dan-jadwal-lengkapnya"
     },
     {
         "title": "Timo Tjahjanto Ungkap Pengalaman Pertama Sutradarai Film Hollywood",
         "category": "Ameera",
-        "publish_time": "12-08-2025 00:24",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://ameera.republika.co.id/berita/t0uuha425/timo-tjahjanto-ungkap-pengalaman-pertama-sutradarai-film-hollywood"
     },
     {
         "title": "Peringatan dari Amnesty kepada Pemerintah Indonesia Soal Rencana Relokasi Warga Gaza",
         "category": "News",
-        "publish_time": "12-08-2025 00:22",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://news.republika.co.id/berita/t0uuev409/peringatan-dari-amnesty-kepada-pemerintah-indonesia-soal-rencana-relokasi-warga-gaza"
     },
     {
         "title": "OJK Optimistis Pengalihan Pengawasan Derivatif Perkuat Pasar Modal Indonesia",
         "category": "Ekonomi",
-        "publish_time": "12-08-2025 00:19",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://ekonomi.republika.co.id/berita/t0uu4x423/ojk-optimistis-pengalihan-pengawasan-derivatif-perkuat-pasar-modal-indonesia"
     },
     {
         "title": "Kasih Sayang Rasulullah SAW kepada Usamah bin Zaid",
         "category": "Khazanah",
-        "publish_time": "12-08-2025 00:19",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://khazanah.republika.co.id/berita/t0uu99430/kasih-sayang-rasulullah-saw-kepada-usamah-bin-zaid"
     },
     {
         "title": "Bahaya Tersembunyi di Balik Kata 'Harus': Bisa Picu Perasaan Bersalah",
         "category": "Ameera",
-        "publish_time": "12-08-2025 00:15",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://ameera.republika.co.id/berita/t0uu21425/bahaya-tersembunyi-di-balik-kata-harus-bisa-picu-perasaan-bersalah"
     },
     {
         "title": "Kementerian Kehutanan Mulai Operasi Modifikasi Cuaca Tahap Ketiga untuk Cegah Karhutla",
         "category": "Esgnow",
-        "publish_time": "12-08-2025 00:11",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://esgnow.republika.co.id/berita/t0utsw423/kementerian-kehutanan-mulai-operasi-modifikasi-cuaca-tahap-ketiga-untuk-cegah-karhutla"
     },
     {
         "title": "Terancam Kehilangan 3 Pemain Sekaligus, Manchester City Bidik Rodrygo dari Real Madrid",
         "category": "Network",
-        "publish_time": "12-08-2025 00:11",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://skor.republika.co.id/posts/698131/terancam-kehilangan-3-pemain-sekaligus-manchester-city-bidik-rodrygo-dari-real-madrid"
     },
     {
         "title": "Dua Titik Komando Israel Dibom Al Qassam, Dua Tentara Penjajah Ditembaki",
         "category": "Khazanah",
-        "publish_time": "12-08-2025 00:11",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://khazanah.republika.co.id/berita/t0utrc483/dua-titik-komando-israel-dibom-al-qassam-dua-tentara-penjajah-ditembaki"
     },
     {
         "title": "TNI AD Jelaskan Alasan di Balik Markas Kopassus Dibangun di Enam Pulau Besar",
         "category": "News",
-        "publish_time": "12-08-2025 00:11",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://news.republika.co.id/berita/t0utmn484/tni-ad-jelaskan-alasan-di-balik-markas-kopassus-dibangun-di-enam-pulau-besar"
     },
     {
         "title": "METI: Kolaborasi PGE\u2013PLN IP Strategis untuk Jawab Tantangan Pengembangan Panas Bumi",
         "category": "Ekonomi",
-        "publish_time": "12-08-2025 00:11",
+        "publish_time": "12-08-2025 00:13",
         "news_link": "https://ekonomi.republika.co.id/berita/t0uspy456/meti-kolaborasi-pgepln-ip-strategis-untuk-jawab-tantangan-pengembangan-panas-bumi"
     },
     {
         "title": "Buang Air Kecil Lebih dari 10 Kali Sehari? Mungkin Tubuh Mengalami 1 dari 7 Hal Ini",
         "category": "Ameera",
-        "publish_time": "11-08-2025 23:11",
+        "publish_time": "11-08-2025 23:13",
         "news_link": "https://ameera.republika.co.id/berita/t0ushi425/buang-air-kecil-lebih-dari-10-kali-sehari-mungkin-tubuh-mengalami-1-dari-7-hal-ini"
     },
     {
         "title": "Mabesad Jelaskan Urgensi Pembentukan Kodam di 38 Provinsi",
         "category": "News",
-        "publish_time": "11-08-2025 23:11",
+        "publish_time": "11-08-2025 23:13",
         "news_link": "https://news.republika.co.id/berita/t0usdc484/mabesad-jelaskan-urgensi-pembentukan-kodam-di-38-provinsi"
     },
     {
         "title": "KPK Telusuri Dugaan Suap ke Pejabat Kemenag dalam Kasus Kuota Haji",
         "category": "Khazanah",
-        "publish_time": "11-08-2025 23:11",
+        "publish_time": "11-08-2025 23:13",
         "news_link": "https://khazanah.republika.co.id/berita/t0us9g483/kpk-telusuri-dugaan-suap-ke-pejabat-kemenag-dalam-kasus-kuota-haji"
     },
     {
         "title": "Terungkap Waktu Kejadian Prada Lucky Dianiaya, Motif Penganiayaan Didalami",
         "category": "News",
-        "publish_time": "11-08-2025 23:11",
+        "publish_time": "11-08-2025 23:13",
         "news_link": "https://news.republika.co.id/berita/t0us1i409/terungkap-waktu-kejadian-prada-lucky-dianiaya-motif-penganiayaan-didalami"
     },
     {
         "title": "Trump 'Caplok' Kepolisian Washington Demi Usir Tunawisma",
         "category": "News",
-        "publish_time": "11-08-2025 23:11",
+        "publish_time": "11-08-2025 23:13",
         "news_link": "https://news.republika.co.id/berita/t0us0s393/trump-caplok-kepolisian-washington-demi-usir-tunawisma"
     },
     {
         "title": "Sering Curhat ke AI, Gen Z Berisiko Alami Psikosis AI, Apa Itu?",
         "category": "Ameera",
-        "publish_time": "11-08-2025 23:11",
+        "publish_time": "11-08-2025 23:13",
         "news_link": "https://ameera.republika.co.id/berita/t0urog425/sering-curhat-ke-ai-gen-z-berisiko-alami-psikosis-ai-apa-itu"
     },
     {
         "title": "Xabi Alonso Tak Mau Ambil Risiko untuk Federico Valverde, yang disebut Mirip Steven Gerrard",
         "category": "Network",
-        "publish_time": "11-08-2025 23:11",
+        "publish_time": "11-08-2025 23:13",
         "news_link": "https://skor.republika.co.id/posts/698127/xabi-alonso-tak-mau-ambil-risiko-untuk-federico-valverde-yang-disebut-mirip-steven-gerrard"
     },
     {
         "title": "Macron: Aksi Israel Caplok Kota Gaza Picu Perang Permanen",
         "category": "News",
-        "publish_time": "11-08-2025 23:11",
+        "publish_time": "11-08-2025 23:13",
         "news_link": "https://news.republika.co.id/berita/t0uqt4393/macron-aksi-israel-caplok-kota-gaza-picu-perang-permanen"
-    },
-    {
-        "title": "Bongkar Kasus Kuota, KPK Dalami Pengelolaan Dana Haji",
-        "category": "News",
-        "publish_time": "11-08-2025 23:11",
-        "news_link": "https://news.republika.co.id/berita/t0uqhx393/bongkar-kasus-kuota-kpk-dalami-pengelolaan-dana-haji"
-    },
-    {
-        "title": "Pekan Ini Kejagung Umumkan Riza Chalid Sebagai Buronan Internasional",
-        "category": "News",
-        "publish_time": "11-08-2025 23:11",
-        "news_link": "https://news.republika.co.id/berita/t0uq4v393/pekan-ini-kejagung-umumkan-riza-chalid-sebagai-buronan-internasional"
-    },
-    {
-        "title": "Berapa Banyak Emas yang akan Muncul dari Sungai Eufrat Sampai Rasulullah SAW Peringatkan Umatnya?",
-        "category": "Iqra",
-        "publish_time": "11-08-2025 23:11",
-        "news_link": "https://iqra.republika.co.id/berita/t0upxl320/berapa-banyak-emas-yang-akan-muncul-dari-sungai-eufrat-sampai-rasulullah-saw-peringatkan-umatnya"
-    },
-    {
-        "title": "Warga Pati akan Demo Besar-besaran Turunkan Bupati Sudewo, Ini Maklumat PCNU",
-        "category": "Khazanah",
-        "publish_time": "11-08-2025 22:11",
-        "news_link": "https://khazanah.republika.co.id/berita/t0upqf483/warga-pati-akan-demo-besarbesaran-turunkan-bupati-sudewo-ini-maklumat-pcnu"
-    },
-    {
-        "title": "Turunnya 16 Ayat Alquran yang Disebabkan Sikap Rasulullah ke Seorang Sahabat",
-        "category": "Iqra",
-        "publish_time": "11-08-2025 22:11",
-        "news_link": "https://iqra.republika.co.id/berita/t0upjc430/turunnya-16-ayat-alquran-yang-disebabkan-sikap-rasulullah-ke-seorang-sahabat"
-    },
-    {
-        "title": "Erick Thohir: Indonesia Harus Jadi Mercusuar Ekonomi Syariah Dunia",
-        "category": "Ekonomi Syariah",
-        "publish_time": "11-08-2025 22:11",
-        "news_link": "https://sharia.republika.co.id/berita/t0upbq483/erick-thohir-indonesia-harus-jadi-mercusuar-ekonomi-syariah-dunia"
-    },
-    {
-        "title": "Erick Thohir Yakin Kampung Haji Dapat Layani Jamaah Lansia Lebih Baik",
-        "category": "Khazanah",
-        "publish_time": "11-08-2025 22:11",
-        "news_link": "https://khazanah.republika.co.id/berita/t0up01483/erick-thohir-yakin-kampung-haji-dapat-layani-jamaah-lansia-lebih-baik"
-    },
-    {
-        "title": "Pengumuman Tender Terbuka Jasa Raharja",
-        "category": "Native",
-        "publish_time": "11-08-2025 22:11",
-        "news_link": "https://republika.co.id/berita//t0u05x325/pengumuman-tender-terbuka-jasa-raharja"
-    },
-    {
-        "title": "Sosok yang Pertama Kali Mengucapkan Salam kepada Rasulullah SAW",
-        "category": "Khazanah",
-        "publish_time": "11-08-2025 22:11",
-        "news_link": "https://khazanah.republika.co.id/berita/t0un31430/sosok-yang-pertama-kali-mengucapkan-salam-kepada-rasulullah-saw"
-    },
-    {
-        "title": "An-Nahl Ayat 68 dan Ikhtiar Jadikan Madu Indonesia Unggul di Pasar Global",
-        "category": "Iqra",
-        "publish_time": "11-08-2025 21:11",
-        "news_link": "https://iqra.republika.co.id/berita/t0tyc4451/annahl-ayat-68-dan-ikhtiar-jadikan-madu-indonesia-unggul-di-pasar-global"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini: Palembang, 12 Agustus 2025",
-        "category": "Khazanah",
-        "publish_time": "11-08-2025 20:11",
-        "news_link": "https://khazanah.republika.co.id/berita/t0uk2y1574819963/jadwal-sholat-hari-ini-palembang-12-agustus-2025"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini di Yogyakarta, 12 Agustus 2025: Jangan Lewatkan Waktu Utama!",
-        "category": "Khazanah",
-        "publish_time": "11-08-2025 20:11",
-        "news_link": "https://khazanah.republika.co.id/berita/t0uip6897516750/jadwal-sholat-hari-ini-di-yogyakarta-12-agustus-2025-jangan-lewatkan-waktu-utama"
-    },
-    {
-        "title": "Menyongsong Keberkahan dengan Sholat Lima Waktu: Jadwal Sholat Hari Ini 12 Agustus 2025 di Jakarta",
-        "category": "Khazanah",
-        "publish_time": "11-08-2025 19:11",
-        "news_link": "https://khazanah.republika.co.id/berita/t0uh6a427329307/menyongsong-keberkahan-dengan-sholat-lima-waktu-jadwal-sholat-hari-ini-12-agustus-2025-di-jakarta"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini, 12 Agustus 2025 di Medan: Menjaga Harmoni Kehidupan dengan Ibadah",
-        "category": "Khazanah",
-        "publish_time": "11-08-2025 19:11",
-        "news_link": "https://khazanah.republika.co.id/berita/t0ufqq2074556903/jadwal-sholat-hari-ini-12-agustus-2025-di-medan-menjaga-harmoni-kehidupan-dengan-ibadah"
-    },
-    {
-        "title": "Menemukan Kedamaian: Jadwal Sholat Hari Ini di Depok, 12 Agustus 2025",
-        "category": "Khazanah",
-        "publish_time": "11-08-2025 19:11",
-        "news_link": "https://khazanah.republika.co.id/berita/t0uerd1057538882/menemukan-kedamaian-jadwal-sholat-hari-ini-di-depok-12-agustus-2025"
-    },
-    {
-        "title": "MotoGP 2025 Balik Lagi, Red Bull Ring di Austria akan Panas Akhir Pekan Ini",
-        "category": "News",
-        "publish_time": "11-08-2025 18:11",
-        "news_link": "https://news.republika.co.id/berita/t0udml348/motogp-2025-balik-lagi-red-bull-ring-di-austria-akan-panas-akhir-pekan-ini"
-    },
-    {
-        "title": "Waktu Sholat Semarang Hari Ini: Jadwal Sholat Hari Ini di Semarang, 12 Agustus 2025",
-        "category": "Khazanah",
-        "publish_time": "11-08-2025 18:11",
-        "news_link": "https://khazanah.republika.co.id/berita/t0udlt1950655722/waktu-sholat-semarang-hari-ini-jadwal-sholat-hari-ini-di-semarang-12-agustus-2025"
-    },
-    {
-        "title": "Atletico Madrid Resmi Rekrut Giacomo Raspadori dari Napoli",
-        "category": "News",
-        "publish_time": "11-08-2025 18:11",
-        "news_link": "https://news.republika.co.id/berita/t0ucpl348/atletico-madrid-resmi-rekrut-giacomo-raspadori-dari-napoli"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini: Makassar, 12 Agustus 2025",
-        "category": "Khazanah",
-        "publish_time": "11-08-2025 17:11",
-        "news_link": "https://khazanah.republika.co.id/berita/t0u9zr1859600523/jadwal-sholat-hari-ini-makassar-12-agustus-2025"
     }
 ]
