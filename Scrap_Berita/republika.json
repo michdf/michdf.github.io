@@ -1,8 +1,104 @@
 [
     {
-        "title": "Polisi Ringkus Opang yang Paksa Penumpang Ojol Turun di Pondok Ranji",
+        "title": "Bung Karno Bicara tentang Tauhid",
+        "category": "News",
+        "publish_time": "18-08-2025 05:16",
+        "news_link": "https://news.republika.co.id/berita/t16bzu458/bung-karno-bicara-tentang-tauhid"
+    },
+    {
+        "title": "Mewah dan Pink! Paris Hilton Dihadiahi Jet Pribadi Senilai Rp970 Miliar oleh Suaminya",
+        "category": "Ameera",
+        "publish_time": "18-08-2025 05:13",
+        "news_link": "https://ameera.republika.co.id/berita/t16bv2425/mewah-dan-pink-paris-hilton-dihadiahi-jet-pribadi-senilai-rp970-miliar-oleh-suaminya"
+    },
+    {
+        "title": "Kala Hadratussyekh KH Hasyim Asy'ari Berurai Air Mata",
+        "category": "Khazanah",
+        "publish_time": "18-08-2025 05:05",
+        "news_link": "https://khazanah.republika.co.id/berita/t16bhr458/kala-hadratussyekh-kh-hasyim-asyari-berurai-air-mata"
+    },
+    {
+        "title": "BBTNKS Catat 133 Orang Pendaki Rayakan HUT RI di Puncak Gunung Kerinci",
+        "category": "News",
+        "publish_time": "18-08-2025 05:03",
+        "news_link": "https://news.republika.co.id/berita/t16bdq370/bbtnks-catat-133-orang-pendaki-rayakan-hut-ri-di-puncak-gunung-kerinci"
+    },
+    {
+        "title": "Banjir Bandang Tewaskan 10 Orang di Cina Utara",
+        "category": "Esgnow",
+        "publish_time": "18-08-2025 05:02",
+        "news_link": "https://esgnow.republika.co.id/berita/t16bcw416/banjir-bandang-tewaskan-10-orang-di-cina-utara"
+    },
+    {
+        "title": "Bank Mandiri Semarakkan HUT RI di Bundaran HI, 80 UMKM Meriahkan Acara",
+        "category": "Ekonomi",
+        "publish_time": "18-08-2025 05:01",
+        "news_link": "https://ekonomi.republika.co.id/berita/t16ba5368/bank-mandiri-semarakkan-hut-ri-di-bundaran-hi-80-umkm-meriahkan-acara"
+    },
+    {
+        "title": "Cara Badui Semarakkan HUT Kemerdekaan RI",
+        "category": "News",
+        "publish_time": "18-08-2025 05:00",
+        "news_link": "https://news.republika.co.id/berita/t162r3451/cara-badui-semarakkan-hut-kemerdekaan-ri"
+    },
+    {
+        "title": "Ini Sebab Turunnya Ayat Alquran Wajibkan Hijab",
+        "category": "Khazanah",
+        "publish_time": "18-08-2025 04:54",
+        "news_link": "https://khazanah.republika.co.id/berita/t16b01458/ini-sebab-turunnya-ayat-alquran-wajibkan-hijab"
+    },
+    {
+        "title": "Sumur Minyak Rakyat di Blora Terbakar, Tiga Warga Tewas",
+        "category": "News",
+        "publish_time": "18-08-2025 04:54",
+        "news_link": "https://news.republika.co.id/berita/t16as7416/sumur-minyak-rakyat-di-blora-terbakar-tiga-warga-tewas"
+    },
+    {
+        "title": "HUT RI, ASABRI Perkuat Tiga Pilar Layanan",
+        "category": "Ekonomi",
+        "publish_time": "18-08-2025 04:54",
+        "news_link": "https://ekonomi.republika.co.id/berita/t16aze416/hut-ri-asabri-perkuat-tiga-pilar-layanan"
+    },
+    {
+        "title": "PMI Apresiasi BRI Taipei Branch, Permudah Transaksi dari Taiwan ke Indonesia",
+        "category": "Ekonomi",
+        "publish_time": "18-08-2025 04:52",
+        "news_link": "https://ekonomi.republika.co.id/berita/t16awq368/pmi-apresiasi-bri-taipei-branch-permudah-transaksi-dari-taiwan-ke-indonesia"
+    },
+    {
+        "title": "Penghargaan Pengabdian dan Semangat Kebangsaan Warnai HUT RI di PTPN IV Regional I & II",
+        "category": "Ekonomi",
+        "publish_time": "18-08-2025 04:45",
+        "news_link": "https://ekonomi.republika.co.id/berita/t16akd368/penghargaan-pengabdian-dan-semangat-kebangsaan-warnai-hut-ri-di-ptpn-iv-regional-i-ii"
+    },
+    {
+        "title": "UEA-Indonesia Perkuat Persaudaraan Kemanusiaan lewat Jamuan Antarbudaya",
+        "category": "Khazanah",
+        "publish_time": "18-08-2025 04:45",
+        "news_link": "https://khazanah.republika.co.id/berita/t16ak7458/ueaindonesia-perkuat-persaudaraan-kemanusiaan-lewat-jamuan-antarbudaya"
+    },
+    {
+        "title": "Joy Red Velvet Ikut Tren 'Tabola Bale' Milik Musisi Indonesia",
+        "category": "Ameera",
+        "publish_time": "18-08-2025 04:42",
+        "news_link": "https://ameera.republika.co.id/berita/t16afv425/joy-red-velvet-ikut-tren-tabola-bale-milik-musisi-indonesia"
+    },
+    {
+        "title": "Rayakan HUT ke-80 RI, Warga Indramayu Gelar Perlombaan Tradisional yang Nyaris Punah",
+        "category": "Rejabar",
+        "publish_time": "18-08-2025 04:37",
+        "news_link": "https://rejabar.republika.co.id/berita/t16a6a512/rayakan-hut-ke80-ri-warga-indramayu-gelar-perlombaan-tradisional-yang-nyaris-punah"
+    },
+    {
+        "title": "HUT Kemerdekaan Buktikan Anak Indonesia Berprestasi",
         "category": "News",
         "publish_time": "18-08-2025 04:34",
+        "news_link": "https://news.republika.co.id/berita/t162ja451/hut-kemerdekaan-buktikan-anak-indonesia-berprestasi"
+    },
+    {
+        "title": "Polisi Ringkus Opang yang Paksa Penumpang Ojol Turun di Pondok Ranji",
+        "category": "News",
+        "publish_time": "18-08-2025 04:33",
         "news_link": "https://news.republika.co.id/berita/t16a12370/polisi-ringkus-opang-yang-paksa-penumpang-ojol-turun-di-pondok-ranji"
     },
     {
@@ -38,265 +134,169 @@
     {
         "title": "IGK Manila Meninggal Dunia, Ketum PSSI Erick Thohir: Saya Kehilangan Sahabat",
         "category": "News",
-        "publish_time": "18-08-2025 04:16",
+        "publish_time": "18-08-2025 04:19",
         "news_link": "https://news.republika.co.id/berita/t16989475/igk-manila-meninggal-dunia-ketum-pssi-erick-thohir-saya-kehilangan-sahabat"
     },
     {
         "title": "8.737 Napi di Jateng Dapat Remisi HUT RI, Termasuk Napi Terorisme dan Koruptor",
         "category": "News",
-        "publish_time": "18-08-2025 04:14",
+        "publish_time": "18-08-2025 04:19",
         "news_link": "https://news.republika.co.id/berita/t1693t487/8737-napi-di-jateng-dapat-remisi-hut-ri-termasuk-napi-terorisme-dan-koruptor"
     },
     {
         "title": "Kabar Duka, Mantan Manajer Persija dan Timnas era 90-an, IGK Manila Berpulang",
         "category": "News",
-        "publish_time": "18-08-2025 04:05",
+        "publish_time": "18-08-2025 04:19",
         "news_link": "https://news.republika.co.id/berita/t168os475/kabar-duka-mantan-manajer-persija-dan-timnas-era-90an-igk-manila-berpulang"
     },
     {
         "title": "Deregulasi Aturan Ditargetkan Rampung 2026, Zero ODOL Berlaku 2027?",
         "category": "Ekonomi",
-        "publish_time": "18-08-2025 03:55",
+        "publish_time": "18-08-2025 04:19",
         "news_link": "https://ekonomi.republika.co.id/berita/t16889370/deregulasi-aturan-ditargetkan-rampung-2026-zero-odol-berlaku-2027"
     },
     {
         "title": "Sejumlah PO Bus Setop Putar Lagu Selama Perjalanan, Khawatir Bayar Royalti?",
         "category": "Ameera",
-        "publish_time": "18-08-2025 03:55",
+        "publish_time": "18-08-2025 04:19",
         "news_link": "https://ameera.republika.co.id/berita/t1687r425/sejumlah-po-bus-setop-putar-lagu-selama-perjalanan-khawatir-bayar-royalti"
     },
     {
         "title": "Keseruan HUT Kemerdekaan di Timur Indonesia",
         "category": "News",
-        "publish_time": "18-08-2025 03:39",
+        "publish_time": "18-08-2025 03:19",
         "news_link": "https://news.republika.co.id/berita/t15w2v451/keseruan-hut-kemerdekaan-di-timur-indonesia"
     },
     {
         "title": "Makna HUT RI ke-80, Driver Ojol: Dapat Uang Cukup tanpa Harus Narik dari Pagi Sampai Sore",
         "category": "News",
-        "publish_time": "18-08-2025 03:36",
+        "publish_time": "18-08-2025 03:19",
         "news_link": "https://news.republika.co.id/berita/t167d1377/makna-hut-ri-ke80-driver-ojol-dapat-uang-cukup-tanpa-harus-narik-dari-pagi-sampai-sore"
     },
     {
         "title": "Panduan Liburan Seru di Singapura: 5 Destinasi Favorit Keluarga",
         "category": "Network",
-        "publish_time": "18-08-2025 03:34",
+        "publish_time": "18-08-2025 03:19",
         "news_link": "https://magentatoday.id/posts/699443/panduan-liburan-seru-di-singapura-5-destinasi-favorit-keluarga"
     },
     {
         "title": "Mendikdasmen Serukan Persatuan dan Gotong Royong",
         "category": "Network",
-        "publish_time": "18-08-2025 03:34",
+        "publish_time": "18-08-2025 03:19",
         "news_link": "https://pemantiknews.id/posts/699444/mendikdasmen-serukan-persatuan-dan-gotong-royong"
     },
     {
         "title": "Bendera Merah Putih 208 Meter Berkibar Sepanjang Kereta Cepat Whoosh",
         "category": "Network",
-        "publish_time": "18-08-2025 03:34",
+        "publish_time": "18-08-2025 03:19",
         "news_link": "https://kreta.id/posts/699454/bendera-merah-putih-208-meter-berkibar-sepanjang-kereta-cepat-whoosh"
     },
     {
         "title": "Gol Sundulan Calafiori Buat MU Telan Kekalahan Pertama di Kandang",
         "category": "Visual",
-        "publish_time": "18-08-2025 03:34",
+        "publish_time": "18-08-2025 03:19",
         "news_link": "https://visual.republika.co.id/berita/t166at375/gol-sundulan-calafiori-buat-mu-telan-kekalahan-pertama-di-kandang"
     },
     {
         "title": "Terhentinya Rekor Dreams di MPL Indonesia",
         "category": "Network",
-        "publish_time": "18-08-2025 03:34",
+        "publish_time": "18-08-2025 03:19",
         "news_link": "https://skor.republika.co.id/posts/699458/terhentinya-rekor-dreams-di-mpl-indonesia"
     },
     {
         "title": "Ancaman Karhutla Dekati IKN, Begini Kata Pemprov Kalimantan Timur",
         "category": "News",
-        "publish_time": "18-08-2025 02:34",
+        "publish_time": "18-08-2025 03:19",
         "news_link": "https://news.republika.co.id/berita/t161xh451/ancaman-karhutla-dekati-ikn-begini-kata-pemprov-kalimantan-timur"
     },
     {
         "title": "Harga Emas Melesu Hari Ini, Cek Daftar Lengkapnya",
         "category": "Ekonomi",
-        "publish_time": "18-08-2025 02:34",
+        "publish_time": "18-08-2025 03:19",
         "news_link": "https://ekonomi.republika.co.id/berita/t165iv490/harga-emas-melesu-hari-ini-cek-daftar-lengkapnya"
     },
     {
         "title": "3 Pemain Filipina di MPL Indonesia Season 16",
         "category": "Network",
-        "publish_time": "18-08-2025 02:34",
+        "publish_time": "18-08-2025 02:19",
         "news_link": "https://skor.republika.co.id/posts/699453/3-pemain-filipina-di-mpl-indonesia-season-16"
     },
     {
         "title": "Ada Peringatan HUT ke-80 RI, Pantau Harga BBM Terkini dari Pertamina dkk",
         "category": "Ekonomi",
-        "publish_time": "18-08-2025 02:34",
+        "publish_time": "18-08-2025 02:19",
         "news_link": "https://ekonomi.republika.co.id/berita/t1652a475/ada-peringatan-hut-ke80-ri-pantau-harga-bbm-terkini-dari-pertamina-dkk"
     },
     {
         "title": "Rayakan 64 Tahun, Bank Jatim Kompak Tampilkan Defile dan Gaungkan Semangat Kebersamaan",
         "category": "News",
-        "publish_time": "18-08-2025 02:34",
+        "publish_time": "18-08-2025 02:19",
         "news_link": "https://news.republika.co.id/berita/t164vp291/rayakan-64-tahun-bank-jatim-kompak-tampilkan-defile-dan-gaungkan-semangat-kebersamaan"
     },
     {
         "title": "SDM IDSurvey Siap Layani Masyarakat di Program Relawan Bakti BUMN Batch VIII 2025",
         "category": "Ekonomi",
-        "publish_time": "18-08-2025 02:34",
+        "publish_time": "18-08-2025 02:19",
         "news_link": "https://ekonomi.republika.co.id/berita/t164nc456/sdm-idsurvey-siap-layani-masyarakat-di-program-relawan-bakti-bumn-batch-viii-2025"
     },
     {
         "title": "Inovasi Mitra Keluarga, Teknologi Robotik Canggih untuk Tingkatkan Layanan Kesehatan di Indonesia",
         "category": "Rejakarta",
-        "publish_time": "18-08-2025 02:34",
+        "publish_time": "18-08-2025 02:19",
         "news_link": "https://republika.co.id/berita//t164in456/inovasi-mitra-keluarga-teknologi-robotik-canggih-untuk-tingkatkan-layanan-kesehatan-di-indonesia"
     },
     {
         "title": "80 Tahun Merdeka, Peningkatan SDM, Menko PMK: Banyak yang Kita Capai",
         "category": "News",
-        "publish_time": "18-08-2025 02:34",
+        "publish_time": "18-08-2025 02:19",
         "news_link": "https://news.republika.co.id/berita/t161dw451/80-tahun-merdeka-peningkatan-sdm-menko-pmk-banyak-yang-kita-capai"
     },
     {
         "title": "Ini Delapan Tema yang Tidak Masuk di Pidato Presiden Prabowo Kemarin",
         "category": "News",
-        "publish_time": "18-08-2025 02:34",
+        "publish_time": "18-08-2025 02:19",
         "news_link": "https://news.republika.co.id/berita/t164dk475/ini-delapan-tema-yang-tidak-masuk-di-pidato-presiden-prabowo-kemarin"
     },
     {
         "title": "MDL Indonesia Season 12: Hasil, Jadwal, Klasemen Lengkap",
         "category": "Network",
-        "publish_time": "18-08-2025 02:34",
+        "publish_time": "18-08-2025 02:19",
         "news_link": "https://skor.republika.co.id/posts/699449/mdl-indonesia-season-12-hasil-jadwal-klasemen-lengkap"
     },
     {
         "title": "Pertamina Patra Niaga Gelar Aktivasi Layanan dan Program Spesial di HUT ke-80 RI",
         "category": "Ekonomi",
-        "publish_time": "18-08-2025 02:34",
+        "publish_time": "18-08-2025 02:19",
         "news_link": "https://ekonomi.republika.co.id/berita/t163z0522/pertamina-patra-niaga-gelar-aktivasi-layanan-dan-program-spesial-di-hut-ke80-ri"
     },
     {
         "title": "AC Milan Menang di Coppa Italia, Atletico Terkapar di La Liga",
         "category": "News",
-        "publish_time": "18-08-2025 02:34",
+        "publish_time": "18-08-2025 02:19",
         "news_link": "https://news.republika.co.id/berita/t163nd348/ac-milan-menang-di-coppa-italia-atletico-terkapar-di-la-liga"
     },
     {
         "title": "Perkembangan Hukum Ekonomi Syariah di Era Digital",
         "category": "Retizen",
-        "publish_time": "18-08-2025 02:34",
+        "publish_time": "18-08-2025 02:19",
         "news_link": "https://retizen.republika.co.id/posts/699311/perkembangan-hukum-ekonomi-syariah-di-era-digital"
     },
     {
         "title": "Pendidikan di Indonesia: Tinggi Teori, Kosong Jiwa",
         "category": "Retizen",
-        "publish_time": "18-08-2025 02:34",
+        "publish_time": "18-08-2025 02:19",
         "news_link": "https://retizen.republika.co.id/posts/699288/pendidikan-di-indonesia-tinggi-teori-kosong-jiwa"
     },
     {
         "title": "Mewujudkan Janji Kemerdekaan: Bersatu, Berdaulat, Sejahtera",
         "category": "Retizen",
-        "publish_time": "18-08-2025 02:34",
+        "publish_time": "18-08-2025 02:19",
         "news_link": "https://retizen.republika.co.id/posts/699261/mewujudkan-janji-kemerdekaan-bersatu-berdaulat-sejahtera"
     },
     {
         "title": "Jika Tradisi Intelektual Runtuh, Kampus akan Menyerupai Korporasi",
         "category": "Retizen",
-        "publish_time": "18-08-2025 02:34",
+        "publish_time": "18-08-2025 02:19",
         "news_link": "https://retizen.republika.co.id/posts/699352/jika-tradisi-intelektual-runtuh-kampus-akan-menyerupai-korporasi"
-    },
-    {
-        "title": "Merayakan Kemerdekaan Indonesia, Ini Gaya Kita",
-        "category": "Retizen",
-        "publish_time": "18-08-2025 02:34",
-        "news_link": "https://retizen.republika.co.id/posts/699401/merayakan-kemerdekaan-indonesia-ini-gaya-kita"
-    },
-    {
-        "title": "Menanam Iman, Merawat Alam: Praktik Ekoteologi dari Pondok Pesantren",
-        "category": "Retizen",
-        "publish_time": "18-08-2025 02:34",
-        "news_link": "https://retizen.republika.co.id/posts/699422/menanam-iman-merawat-alam-praktik-ekoteologi-dari-pondok-pesantren"
-    },
-    {
-        "title": "80 Tahun Merdeka dan Kedaulatan Siber Indonesia",
-        "category": "Kolom",
-        "publish_time": "18-08-2025 01:34",
-        "news_link": "https://analisis.republika.co.id/berita/t16327393/80-tahun-merdeka-dan-kedaulatan-siber-indonesia"
-    },
-    {
-        "title": "Karhutla di Aceh Besar, Pemkab: Capai Satu Hektare",
-        "category": "News",
-        "publish_time": "18-08-2025 01:34",
-        "news_link": "https://news.republika.co.id/berita/t161m3451/karhutla-di-aceh-besar-pemkab-capai-satu-hektare"
-    },
-    {
-        "title": "Tesla Goyah Dihajar BYD di Inggris, Tawarkan Diskon Besar untuk Perusahaan Penyewaan Mobil",
-        "category": "Ekonomi",
-        "publish_time": "18-08-2025 01:34",
-        "news_link": "https://ekonomi.republika.co.id/berita/t162q1348/tesla-goyah-dihajar-byd-di-inggris-tawarkan-diskon-besar-untuk-perusahaan-penyewaan-mobil"
-    },
-    {
-        "title": "Gubernur Sulawesi Tenggara Tebar Bonus untuk Paskibraka dari Daerahnya",
-        "category": "News",
-        "publish_time": "18-08-2025 01:34",
-        "news_link": "https://news.republika.co.id/berita/t16293451/gubernur-sulawesi-tenggara-tebar-bonus-untuk-paskibraka-dari-daerahnya"
-    },
-    {
-        "title": "Stasiun Nagreg Kini Telah Berusia 135 tahun",
-        "category": "Network",
-        "publish_time": "18-08-2025 01:34",
-        "news_link": "https://kreta.id/posts/699282/stasiun-nagreg-kini-telah-berusia-135-tahun"
-    },
-    {
-        "title": "Lucky Hakim Lepas Ular, Biawak dan Burung Hantu untuk Atasi Tikus",
-        "category": "Rejabar",
-        "publish_time": "18-08-2025 01:34",
-        "news_link": "https://rejabar.republika.co.id/berita/t1622e512/lucky-hakim-lepas-ular-biawak-dan-burung-hantu-untuk-atasi-tikus"
-    },
-    {
-        "title": "Ruben Amorim Sebut Permainan Manchester United Tak Membosankan",
-        "category": "Network",
-        "publish_time": "18-08-2025 01:34",
-        "news_link": "https://skor.republika.co.id/posts/699441/ruben-amorim-sebut-permainan-manchester-united-tak-membosankan"
-    },
-    {
-        "title": "El Rayyi Mujahid Cetak Sejarah, Putra Kaltim Pertama Pembentang Merah Putih di Istana",
-        "category": "Network",
-        "publish_time": "18-08-2025 01:34",
-        "news_link": "https://sekitarkaltim.id/posts/699353/el-rayyi-mujahid-cetak-sejarah-putra-kaltim-pertama-pembentang-merah-putih-di-istana"
-    },
-    {
-        "title": "Wanita Kelaparan Dievakuasi dari Gaza, Meninggal Dunia di Italia",
-        "category": "Network",
-        "publish_time": "18-08-2025 01:34",
-        "news_link": "https://sekitarkaltim.id/posts/699365/wanita-kelaparan-dievakuasi-dari-gaza-meninggal-dunia-di-italia"
-    },
-    {
-        "title": "Dosen UIKA Rancang Program Pelatihan Pengolahan Limbah Kotoran Sapi Menjadi Pupuk",
-        "category": "Network",
-        "publish_time": "18-08-2025 01:34",
-        "news_link": "https://kampusiana.id/posts/699368/dosen-uika-rancang-program-pelatihan-pengolahan-limbah-kotoran-sapi-menjadi-pupuk"
-    },
-    {
-        "title": "Doa Penutup Asmaul Husna",
-        "category": "Network",
-        "publish_time": "18-08-2025 01:34",
-        "news_link": "https://sajada.id/posts/699380/doa-penutup-asmaul-husna"
-    },
-    {
-        "title": "Pangdam VI/Mulawarman Pimpin Renungan Suci Di TMP Kesuma Bangsa",
-        "category": "Network",
-        "publish_time": "18-08-2025 01:34",
-        "news_link": "https://sekitarkaltim.id/posts/699413/pangdam-vi-mulawarman-pimpin-renungan-suci-di-tmp-kesuma-bangsa"
-    },
-    {
-        "title": "Gereja Ortodoks di Gaza: Serangan Israel Bertujuan Genosida dan Pengungsian Paksa",
-        "category": "Network",
-        "publish_time": "18-08-2025 01:34",
-        "news_link": "https://sekitarkaltim.id/posts/699415/gereja-ortodoks-di-gaza-serangan-israel-bertujuan-genosida-dan-pengungsian-paksa"
-    },
-    {
-        "title": "Indonesia Sukses Kirim Bantuan ke Gaza pada Hari Kemerdekaan RI",
-        "category": "Network",
-        "publish_time": "18-08-2025 01:34",
-        "news_link": "https://seputarmiliter.id/posts/699437/indonesia-sukses-kirim-bantuan-ke-gaza-pada-hari-kemerdekaan-ri"
     }
 ]
