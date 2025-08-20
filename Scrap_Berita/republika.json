@@ -1,62 +1,188 @@
 [
     {
+        "title": "Tunjangan Rumah Anggota DPR Rp50 Juta Per Bulan, Fitra: Pemborosan di Tengah Efisiensi Anggaran",
+        "category": "News",
+        "publish_time": "20-08-2025 12:27",
+        "news_link": "https://news.republika.co.id/berita/t1al9l409/tunjangan-rumah-anggota-dpr-rp50-juta-per-bulan-fitra-pemborosan-di-tengah-efisiensi-anggaran"
+    },
+    {
+        "title": "Pemkot Semarang akan Usulkan 2.416 Pegawai Non-ASN Jadi PPPK",
+        "category": "Rejogja",
+        "publish_time": "20-08-2025 12:27",
+        "news_link": "https://rejogja.republika.co.id/berita/t1al9e282/pemkot-semarang-akan-usulkan-2416-pegawai-nonasn-jadi-pppk"
+    },
+    {
+        "title": "Kampus Muhammadiyah Luncurkan Hutan Wakaf: Jadi Inovasi Eduwisata",
+        "category": "Khazanah",
+        "publish_time": "20-08-2025 12:18",
+        "news_link": "https://khazanah.republika.co.id/berita/t1akvf483/kampus-muhammadiyah-luncurkan-hutan-wakaf-jadi-inovasi-eduwisata"
+    },
+    {
+        "title": "Banyak Daerah Naikkan PBB, Ahok: Karena Dana Transfer dari Pusat Banyak Dipotong",
+        "category": "News",
+        "publish_time": "20-08-2025 12:16",
+        "news_link": "https://news.republika.co.id/berita/t1akrd409/banyak-daerah-naikkan-pbb-ahok-karena-dana-transfer-dari-pusat-banyak-dipotong"
+    },
+    {
+        "title": "Dukun Penggada Uang di Tegal, Bunuh 2 Pasiennya dengan Cara Beri Kopi Beracun",
+        "category": "Rejogja",
+        "publish_time": "20-08-2025 12:11",
+        "news_link": "https://rejogja.republika.co.id/berita/t1akk7282/dukun-penggada-uang-di-tegal-bunuh-2-pasiennya-dengan-cara-beri-kopi-beracun"
+    },
+    {
+        "title": "Dubes Tolchenov Sebut Eks Prajurit Marinir Gabung Rusia atas Kehendak Sendiri",
+        "category": "News",
+        "publish_time": "20-08-2025 12:11",
+        "news_link": "https://news.republika.co.id/berita/t1akk3484/dubes-tolchenov-sebut-eks-prajurit-marinir-gabung-rusia-atas-kehendak-sendiri"
+    },
+    {
+        "title": "Warga Lansia di Gaza Tertimpa Paket Bantuan Udara, Tubuhnya Hancur Hingga Syahid",
+        "category": "Khazanah",
+        "publish_time": "20-08-2025 12:10",
+        "news_link": "https://khazanah.republika.co.id/berita/t1akil483/warga-lansia-di-gaza-tertimpa-paket-bantuan-udara-tubuhnya-hancur-hingga-syahid"
+    },
+    {
+        "title": "Kebersamaan yang Menguatkan, Porseni PNM 2025 Ditutup dengan Semangat Merdeka",
+        "category": "Ekonomi",
+        "publish_time": "20-08-2025 12:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/t1ak1m472/kebersamaan-yang-menguatkan-porseni-pnm-2025-ditutup-dengan-semangat-merdeka"
+    },
+    {
+        "title": "Meninggalnya Sang Penginjil Terkemuka dan Debat Sengitnya dengan Syekh Ahmed Deedat",
+        "category": "Khazanah",
+        "publish_time": "20-08-2025 11:56",
+        "news_link": "https://khazanah.republika.co.id/berita/t1aju3320/meninggalnya-sang-penginjil-terkemuka-dan-debat-sengitnya-dengan-syekh-ahmed-deedat"
+    },
+    {
+        "title": "Adies Kadir  Sampaikan Klarifikasi: Tidak Ada Kenaikan Tunjangan DPR",
+        "category": "News",
+        "publish_time": "20-08-2025 11:55",
+        "news_link": "https://news.republika.co.id/berita/t1ajtd484/adies-kadir-sampaikan-klarifikasi-tidak-ada-kenaikan-tunjangan-dpr"
+    },
+    {
+        "title": "PNM Ajak Karyawan Maknai Merdeka dengan Kontribusi Nyata",
+        "category": "Ekonomi",
+        "publish_time": "20-08-2025 11:52",
+        "news_link": "https://ekonomi.republika.co.id/berita/t1ajn5472/pnm-ajak-karyawan-maknai-merdeka-dengan-kontribusi-nyata"
+    },
+    {
+        "title": "Ketika Cerita Karnaval HUT Jabar \u2018Terputus\u2019 Oleh Rombongan Sekda Jabar",
+        "category": "Rejabar",
+        "publish_time": "20-08-2025 11:41",
+        "news_link": "https://rejabar.republika.co.id/berita/t1aj5s371/ketika-cerita-karnaval-hut-jabar-terputus-oleh-rombongan-sekda-jabar"
+    },
+    {
+        "title": "Iluni UI Didorong Jadi Medium Berbagi Pengalaman dan Pengetahuan",
+        "category": "Rejogja",
+        "publish_time": "20-08-2025 11:38",
+        "news_link": "https://rejogja.republika.co.id/berita/t1adph291/iluni-ui-didorong-jadi-medium-berbagi-pengalaman-dan-pengetahuan"
+    },
+    {
+        "title": "Tunjangan Gaji Anggota DPR Naik, Ahok: Asal Profesional",
+        "category": "Video",
+        "publish_time": "20-08-2025 11:32",
+        "news_link": "https://tv.republika.co.id/berita/t1aiqa313/tunjangan-gaji-anggota-dpr-naik-ahok-asal-profesional"
+    },
+    {
+        "title": "Tersangka Korupsi Riza Chalid dan Jurist Tan Belum Muncul dalam Daftar Buronan Interpol",
+        "category": "News",
+        "publish_time": "20-08-2025 11:31",
+        "news_link": "https://news.republika.co.id/berita/t1aioc348/tersangka-korupsi-riza-chalid-dan-jurist-tan-belum-muncul-dalam-daftar-buronan-interpol"
+    },
+    {
+        "title": "QRIS Ditargetkan Bisa Diimplementasikan di China pada Akhir 2025",
+        "category": "Ekonomi",
+        "publish_time": "20-08-2025 11:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/t1aim9502/qris-ditargetkan-bisa-diimplementasikan-di-china-pada-akhir-2025"
+    },
+    {
+        "title": "Rapper Melly Mike akan Meriahkan Penutupan Pacu Jalur 24 Agustus",
+        "category": "Ameera",
+        "publish_time": "20-08-2025 11:29",
+        "news_link": "https://ameera.republika.co.id/berita/t1aie7425/rapper-melly-mike-akan-meriahkan-penutupan-pacu-jalur-24-agustus"
+    },
+    {
+        "title": "Iran Ungkap Rudal Generasi Baru, Lebih Canggih, Siap untuk Perang Berikutnya Lawan Israel",
+        "category": "News",
+        "publish_time": "20-08-2025 11:29",
+        "news_link": "https://news.republika.co.id/berita/t1aidf409/iran-ungkap-rudal-generasi-baru-lebih-canggih-siap-untuk-perang-berikutnya-lawan-israel"
+    },
+    {
+        "title": "Awas! Parasit Cacing Bisa Rusak Jantung Hingga Sebabkan Pengapuran",
+        "category": "Ameera",
+        "publish_time": "20-08-2025 11:29",
+        "news_link": "https://ameera.republika.co.id/berita/t1ahy6425/awas-parasit-cacing-bisa-rusak-jantung-hingga-sebabkan-pengapuran"
+    },
+    {
+        "title": "Soal Pertemuan dengan Dasco, Gibran Sebut Bahas Soal ini",
+        "category": "News",
+        "publish_time": "20-08-2025 11:29",
+        "news_link": "https://news.republika.co.id/berita/t1ahxi487/soal-pertemuan-dengan-dasco-gibran-sebut-bahas-soal-ini"
+    },
+    {
+        "title": "Arkadas Luncurkan Platform Berbasis POS Bantu Pelaku UMKM",
+        "category": "Ekonomi",
+        "publish_time": "20-08-2025 11:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/t1ahvx484/arkadas-luncurkan-platform-berbasis-pos-bantu-pelaku-umkm"
+    },
+    {
         "title": "Fokus Benahi Perizinan, Dedi Mulyadi Optimistis Proyek Infrastruktur di Jabar Buka Lapangan Kerja",
         "category": "Rejabar",
-        "publish_time": "20-08-2025 11:10",
+        "publish_time": "20-08-2025 11:29",
         "news_link": "https://rejabar.republika.co.id/berita/t1ahoj512/fokus-benahi-perizinan-dedi-mulyadi-optimistis-proyek-infrastruktur-di-jabar-buka-lapangan-kerja"
     },
     {
         "title": "Begini Cerita Mobil Tiongkok Berhasil Memikat Konsumen di Asia Tenggara, Termasuk Indonesia?",
         "category": "Ekonomi",
-        "publish_time": "20-08-2025 10:53",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://ekonomi.republika.co.id/berita/t1agx4468/begini-cerita-mobil-tiongkok-berhasil-memikat-konsumen-di-asia-tenggara-termasuk-indonesia"
     },
     {
         "title": "Demo Jilid II Tuntut Pelengseran Bupati Pati Batal Digelar, Ini Alasannya",
         "category": "Rejogja",
-        "publish_time": "20-08-2025 10:52",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://rejogja.republika.co.id/berita/t1agve282/demo-jilid-ii-tuntut-pelengseran-bupati-pati-batal-digelar-ini-alasannya"
     },
     {
         "title": "Bagaimana Status Lisa Mariana Usai Hasil Tes DNA Ungkap RK Bukan Ayah Biologis CA? Ini Jawaban Polri",
         "category": "News",
-        "publish_time": "20-08-2025 10:46",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://news.republika.co.id/berita/t1agl3409/bagaimana-status-lisa-mariana-usai-hasil-tes-dna-ungkap-rk-bukan-ayah-biologis-ca-ini-jawaban-polri"
     },
     {
         "title": "MRT Jakarta Telah Angkut Lebih dari 25 juta Orang Januari-Juli 2025",
         "category": "Network",
-        "publish_time": "20-08-2025 10:42",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://kreta.id/posts/699997/mrt-jakarta-telah-angkut-lebih-dari-25-juta-orang-januari-juli-2025"
     },
     {
         "title": "Pasukan Elite Al-Qassam Muncul di Tengah Ancaman Pencaplokan Gaza, Begini Tanggapan Pakar Militer",
         "category": "Khazanah",
-        "publish_time": "20-08-2025 10:40",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://khazanah.republika.co.id/berita/t1agam320/pasukan-elite-alqassam-muncul-di-tengah-ancaman-pencaplokan-gaza-begini-tanggapan-pakar-militer"
     },
     {
         "title": "Demo Pati Jilid II Batal, Tapi Pansus Pemakzulan Sudewo Tetap Dikawal",
         "category": "Rejogja",
-        "publish_time": "20-08-2025 10:38",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://rejogja.republika.co.id/berita/t1ag7z282/demo-pati-jilid-ii-batal-tapi-pansus-pemakzulan-sudewo-tetap-dikawal"
     },
     {
         "title": "Tak Masalah Tunjangan Perumahan DPR Rp 50 Juta, Ahok: Asal Profesional",
         "category": "News",
-        "publish_time": "20-08-2025 10:36",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://news.republika.co.id/berita/t1ag4a484/tak-masalah-tunjangan-perumahan-dpr-rp-50-juta-ahok-asal-profesional"
     },
     {
         "title": "Rangkaian HUT ke-80 Jabar, Jadi Momentum Penegasan Nilai Sejarah dan Kebudayaan Jabar",
         "category": "Rejabar",
-        "publish_time": "20-08-2025 10:34",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://rejabar.republika.co.id/berita/t1ag1n512/rangkaian-hut-ke80-jabar-jadi-momentum-penegasan-nilai-sejarah-dan-kebudayaan-jabar"
     },
     {
         "title": "Deadline Pembayaran Masyair Haji 2025 Tanggal 23 Agustus, Ini yang Segera Dilakukan BP Haji",
         "category": "Khazanah",
-        "publish_time": "20-08-2025 10:32",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://khazanah.republika.co.id/berita/t1afxt483/deadline-pembayaran-masyair-haji-2025-tanggal-23-agustus-ini-yang-segera-dilakukan-bp-haji"
     },
     {
@@ -80,223 +206,97 @@
     {
         "title": "Pemerintah Singapura Larang Vape, Pengguna di Indonesia Disebut Justru Meningkat",
         "category": "News",
-        "publish_time": "20-08-2025 10:23",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://news.republika.co.id/berita/t1afjm487/pemerintah-singapura-larang-vape-pengguna-di-indonesia-disebut-justru-meningkat"
     },
     {
         "title": "Penyebab Balita Sukabumi yang Meninggal Dipenuhi Cacing Pita karena Infeksi Otak",
         "category": "Rejabar",
-        "publish_time": "20-08-2025 10:22",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://rejabar.republika.co.id/berita/t1afgq282/penyebab-balita-sukabumi-yang-meninggal-dipenuhi-cacing-pita-karena-infeksi-otak"
     },
     {
         "title": "Pakar Ekonomi Syariah Sebut Gagasan Asuransi untuk Alumni UI akan Bawa Manfaat Besar",
         "category": "Rejogja",
-        "publish_time": "20-08-2025 10:22",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://rejogja.republika.co.id/berita/t1acvf291/pakar-ekonomi-syariah-sebut-gagasan-asuransi-untuk-alumni-ui-akan-bawa-manfaat-besar"
     },
     {
         "title": "Usut Kasus Dugaan Korupsi Kuota Tambahan, KPK Dalami Sidang-Sidang Pansus Haji 2024",
         "category": "Khazanah",
-        "publish_time": "20-08-2025 10:20",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://khazanah.republika.co.id/berita/t1afdl483/usut-kasus-dugaan-korupsi-kuota-tambahan-kpk-dalami-sidangsidang-pansus-haji-2024"
     },
     {
         "title": "Wapres Gibran Pimpin Flag Off Festival Pacu Jalur di Kuansing",
         "category": "News",
-        "publish_time": "20-08-2025 10:16",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://news.republika.co.id/berita/t1af6j487/wapres-gibran-pimpin-flag-off-festival-pacu-jalur-di-kuansing"
     },
     {
         "title": "Rae Lil Black Aqiqah, Rayakan Milad yang Bertepatan dengan HUT RI",
         "category": "Khazanah",
-        "publish_time": "20-08-2025 10:12",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://khazanah.republika.co.id/berita/t1aets483/rae-lil-black-aqiqah-rayakan-milad-yang-bertepatan-dengan-hut-ri"
     },
     {
         "title": "Sukses Cetak Generasi Unggul, Ini Sistem Sekolah pada Masa Ottoman",
         "category": "Khazanah",
-        "publish_time": "20-08-2025 10:12",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://khazanah.republika.co.id/berita/t1aeie458/sukses-cetak-generasi-unggul-ini-sistem-sekolah-pada-masa-ottoman"
     },
     {
         "title": "Ada Balita Meninggal Dipenuhi Cacing Gelang, Dedi Mulyadi Kritik Pemkab Sukabumi",
         "category": "Video",
-        "publish_time": "20-08-2025 10:12",
+        "publish_time": "20-08-2025 10:29",
         "news_link": "https://tv.republika.co.id/berita/t1aeho313/ada-balita-meninggal-dipenuhi-cacing-gelang-dedi-mulyadi-kritik-pemkab-sukabumi"
     },
     {
         "title": "HNW Minta RUU Haji Bergulir Cepat: Kalau Lewat Agustus Kasihan Lembaga Penyelenggara Haji",
         "category": "Khazanah",
-        "publish_time": "20-08-2025 10:12",
+        "publish_time": "20-08-2025 09:29",
         "news_link": "https://khazanah.republika.co.id/berita/t1aeei483/hnw-minta-ruu-haji-bergulir-cepat-kalau-lewat-agustus-kasihan-lembaga-penyelenggara-haji"
     },
     {
         "title": "Demam Hari Pertama? Jangan Langsung Minum Obat, Ikuti Tips Dokter Ini",
         "category": "Ameera",
-        "publish_time": "20-08-2025 10:12",
+        "publish_time": "20-08-2025 09:29",
         "news_link": "https://ameera.republika.co.id/berita/t1aedi425/demam-hari-pertama-jangan-langsung-minum-obat-ikuti-tips-dokter-ini"
     },
     {
         "title": "BI Kurangi SRBI, Posisi Akhir Rp720 Triliun per Agustus 2025",
         "category": "Ekonomi",
-        "publish_time": "20-08-2025 10:12",
+        "publish_time": "20-08-2025 09:29",
         "news_link": "https://ekonomi.republika.co.id/berita/t1ae5n423/bi-kurangi-srbi-posisi-akhir-rp720-triliun-per-agustus-2025"
     },
     {
         "title": "Penghasilan Fantastis Anggota DPR Dinilai tak Sebanding dengan Kinerjanya",
         "category": "News",
-        "publish_time": "20-08-2025 10:12",
+        "publish_time": "20-08-2025 09:29",
         "news_link": "https://news.republika.co.id/berita/t1advj487/penghasilan-fantastis-anggota-dpr-dinilai-tak-sebanding-dengan-kinerjanya"
     },
     {
         "title": "Alonso Nilai Pemain Baru Madrid Tampil Baik pada Laga Pembuka La Liga",
         "category": "News",
-        "publish_time": "20-08-2025 10:12",
+        "publish_time": "20-08-2025 09:29",
         "news_link": "https://news.republika.co.id/berita/t1adoy348/alonso-nilai-pemain-baru-madrid-tampil-baik-pada-laga-pembuka-la-liga"
     },
     {
         "title": "Kemenlu akan Lepas Enam Kapal Kemanusiaan untuk Tembus Blokade Gaza",
         "category": "Khazanah",
-        "publish_time": "20-08-2025 09:12",
+        "publish_time": "20-08-2025 09:29",
         "news_link": "https://khazanah.republika.co.id/berita/t1adn8483/kemenlu-akan-lepas-enam-kapal-kemanusiaan-untuk-tembus-blokade-gaza"
     },
     {
         "title": "BI Rate Turun 100 Bps Sejak September 2024, Suku Bunga Pasar Uang Ikut Terkoreksi",
         "category": "Ekonomi",
-        "publish_time": "20-08-2025 09:12",
+        "publish_time": "20-08-2025 09:29",
         "news_link": "https://ekonomi.republika.co.id/berita/t1adkg423/bi-rate-turun-100-bps-sejak-september-2024-suku-bunga-pasar-uang-ikut-terkoreksi"
     },
     {
         "title": "Lompatan Teknologi dan Tantangan Kemandirian Bangsa",
         "category": "Rejogja",
-        "publish_time": "20-08-2025 09:12",
+        "publish_time": "20-08-2025 09:29",
         "news_link": "https://rejogja.republika.co.id/berita/t1adew291/lompatan-teknologi-dan-tantangan-kemandirian-bangsa"
-    },
-    {
-        "title": "Produser Parasite Teken Kerja Sama dengan Rumah Produksi Joko Anwar",
-        "category": "Ameera",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://ameera.republika.co.id/berita/t1ad8f425/produser-parasite-teken-kerja-sama-dengan-rumah-produksi-joko-anwar"
-    },
-    {
-        "title": "BI Naikkan Proyeksi Pertumbuhan Ekonomi 2025 Jadi 5,1 Persen",
-        "category": "Ekonomi",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1ad7a423/bi-naikkan-proyeksi-pertumbuhan-ekonomi-2025-jadi-51-persen"
-    },
-    {
-        "title": "Kepala BPJPH: MUI Tegaskan Produk Marshmallow ChompChomp Halal",
-        "category": "Khazanah",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://khazanah.republika.co.id/berita/t1ad1l430/kepala-bpjph-mui-tegaskan-produk-marshmallow-chompchomp-halal"
-    },
-    {
-        "title": "Mendagri Sebut Beras SPHP Jadi Solusi Terjangkau",
-        "category": "News",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://news.republika.co.id/berita/t1acu4430/mendagri-sebut-beras-sphp-jadi-solusi-terjangkau"
-    },
-    {
-        "title": "Dedi Mulyadi tak Cairkan Dana Desa untuk Pemkab Sukabumi Imbas Bayi Meninggal Penuh Cacing",
-        "category": "Rejabar",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://rejabar.republika.co.id/berita/t1acu4282/dedi-mulyadi-tak-cairkan-dana-desa-untuk-pemkab-sukabumi-imbas-bayi-meninggal-penuh-cacing"
-    },
-    {
-        "title": "KPK Geledah 3 Kantor Asosiasi dan 1 Rumah Agensi Haji",
-        "category": "Khazanah",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://khazanah.republika.co.id/berita/t1acn7458/kpk-geledah-3-kantor-asosiasi-dan-1-rumah-agensi-haji"
-    },
-    {
-        "title": "BI Prediksi FFR Turun Dua Kali Semester II 2025, Ekonomi Global Melambat",
-        "category": "Ekonomi",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1acm8423/bi-prediksi-ffr-turun-dua-kali-semester-ii-2025-ekonomi-global-melambat"
-    },
-    {
-        "title": "Malaysia Ancam Pria Muslim yang tak Sholat Jumat dengan Pidana Dua Tahun Penjara",
-        "category": "Khazanah",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://khazanah.republika.co.id/berita/t1aciw483/malaysia-ancam-pria-muslim-yang-tak-sholat-jumat-dengan-pidana-dua-tahun-penjara"
-    },
-    {
-        "title": "Film Horor Rest Area, tak Sekadar Andalkan Jumpscare",
-        "category": "Ameera",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://ameera.republika.co.id/berita/t1acip425/film-horor-rest-area-tak-sekadar-andalkan-jumpscare"
-    },
-    {
-        "title": "Mentan Dorong Hilirisasi Pertanian, Target Serap 1,6 Juta Tenaga Kerja",
-        "category": "Ekonomi",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1ac98423/mentan-dorong-hilirisasi-pertanian-target-serap-16-juta-tenaga-kerja"
-    },
-    {
-        "title": "Petani Lokal Jadi Pemasok MBG, Pemprov Kaltim: Untuk Memberdayakan Ekonomi Petani",
-        "category": "Ekonomi",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1ac4s451/petani-lokal-jadi-pemasok-mbg-pemprov-kaltim-untuk-memberdayakan-ekonomi-petani"
-    },
-    {
-        "title": "Dedi Mulyadi Intruksikan Tunggakan PBB Dihapuskan, Ini Nilainya di Kota Cimahi",
-        "category": "Rejabar",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://rejabar.republika.co.id/berita/t1abzu512/dedi-mulyadi-intruksikan-tunggakan-pbb-dihapuskan-ini-nilainya-di-kota-cimahi"
-    },
-    {
-        "title": "KDM Tunda Pencairan Dana Desa Kabupaten Sukabumi Imbas Kasus Bayi Meninggal Tubuhnya Penuh Cacing",
-        "category": "News",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://news.republika.co.id/berita/t1abyp409/kdm-tunda-pencairan-dana-desa-kabupaten-sukabumi-imbas-kasus-bayi-meninggal-tubuhnya-penuh-cacing"
-    },
-    {
-        "title": "Bahagia Bersama Rasulullah",
-        "category": "Khazanah",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://khazanah.republika.co.id/berita/t1abxb458/bahagia-bersama-rasulullah"
-    },
-    {
-        "title": "Tunjangan Perumahan Tetap Diberikan Meski Anggota DPR Punya Rumah di Jakarta",
-        "category": "News",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://news.republika.co.id/berita/t1abr4487/tunjangan-perumahan-tetap-diberikan-meski-anggota-dpr-punya-rumah-di-jakarta"
-    },
-    {
-        "title": "Persib Segera Umumkan Pemain Baru Lagi",
-        "category": "Network",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://skor.republika.co.id/posts/699984/persib-segera-umumkan-pemain-baru-lagi"
-    },
-    {
-        "title": "Akhlak Nabi di Kala Perang dan Menang",
-        "category": "Khazanah",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://khazanah.republika.co.id/berita/t1abmp458/akhlak-nabi-di-kala-perang-dan-menang"
-    },
-    {
-        "title": "Ahmad Dhani Komentari Kenaikan Tarif Royalti Karaoke",
-        "category": "Ameera",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://ameera.republika.co.id/berita/t1ablz425/ahmad-dhani-komentari-kenaikan-tarif-royalti-karaoke"
-    },
-    {
-        "title": "Israel Caplok Gaza, Profesor Yudaisme: Negara Gila, Dipimpin Orang Orang Fanatik Tanpa Logika",
-        "category": "News",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://news.republika.co.id/berita/t1abio451/israel-caplok-gaza-profesor-yudaisme-negara-gila-dipimpin-orang-orang-fanatik-tanpa-logika"
-    },
-    {
-        "title": "Pertamina, Elnusa, Pindad Luncurkan Alat Inspeksi Pipa Migas Pertama Buatan Indonesia",
-        "category": "Ekonomi",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1abfi423/pertamina-elnusa-pindad-luncurkan-alat-inspeksi-pipa-migas-pertama-buatan-indonesia"
-    },
-    {
-        "title": "Prabowo Panggil Mendadak Sejumlah Menteri Bahas Tambang Ilegal",
-        "category": "News",
-        "publish_time": "20-08-2025 09:12",
-        "news_link": "https://news.republika.co.id/berita/t1abf4484/prabowo-panggil-mendadak-sejumlah-menteri-bahas-tambang-ilegal"
     }
 ]
