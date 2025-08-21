@@ -1,104 +1,212 @@
 [
     {
+        "title": "Kasus Balita Meninggal Akibat Cacingan, Menteri PPPA: Ini Sangat Memilukan",
+        "category": "Ameera",
+        "publish_time": "21-08-2025 10:13",
+        "news_link": "https://ameera.republika.co.id/berita/t1c9pa425/kasus-balita-meninggal-akibat-cacingan-menteri-pppa-ini-sangat-memilukan"
+    },
+    {
+        "title": "Kejari Sumedang Tetapkan Dua Petinggi BUMD Jabar Tersangka, Rugikan Negara Rp 3 Miliar",
+        "category": "Rejabar",
+        "publish_time": "21-08-2025 10:08",
+        "news_link": "https://rejabar.republika.co.id/berita/t1c9ik512/kejari-sumedang-tetapkan-dua-petinggi-bumd-jabar-tersangka-rugikan-negara-rp-3-miliar"
+    },
+    {
+        "title": "Pemkot Palu Tangguhkan Kenaikan PBB yang Sempat Viral Disebut Warga Naik Hingga 1.000 Persen",
+        "category": "News",
+        "publish_time": "21-08-2025 10:08",
+        "news_link": "https://news.republika.co.id/berita/t1c9i6409/pemkot-palu-tangguhkan-kenaikan-pbb-yang-sempat-viral-disebut-warga-naik-hingga-1000-persen"
+    },
+    {
+        "title": "BP Haji Dievaluasi Usai Satu Tahun Terbentuk, Setneg: Tampaknya Butuh Setingkat Menteri",
+        "category": "Khazanah",
+        "publish_time": "21-08-2025 10:07",
+        "news_link": "https://khazanah.republika.co.id/berita/t1c9gs483/bp-haji-dievaluasi-usai-satu-tahun-terbentuk-setneg-tampaknya-butuh-setingkat-menteri"
+    },
+    {
+        "title": "Viral Pejuang Qassam Tetap Melawan Sebelum Tubuhnya Dilindas Tank Israel Hidup-Hidup",
+        "category": "Khazanah",
+        "publish_time": "21-08-2025 10:05",
+        "news_link": "https://khazanah.republika.co.id/berita/t1c9cc320/viral-pejuang-qassam-tetap-melawan-sebelum-tubuhnya-dilindas-tank-israel-hiduphidup"
+    },
+    {
+        "title": "Beras SPHP Kini Tersedia di Pasar Tradisional hingga Ritel Modern",
+        "category": "Ekonomi",
+        "publish_time": "21-08-2025 10:01",
+        "news_link": "https://ekonomi.republika.co.id/berita/t1c967370/beras-sphp-kini-tersedia-di-pasar-tradisional-hingga-ritel-modern"
+    },
+    {
+        "title": "Penyanyi dan Pencipta Lagu akan Dilibatkan dalam Perumusan Revisi UU Hak Cipta",
+        "category": "Ameera",
+        "publish_time": "21-08-2025 10:00",
+        "news_link": "https://ameera.republika.co.id/berita/t1c947425/penyanyi-dan-pencipta-lagu-akan-dilibatkan-dalam-perumusan-revisi-uu-hak-cipta"
+    },
+    {
+        "title": "Rencana Kenaikan Tarif Iuran BPJS Kesehatan",
+        "category": "Visual",
+        "publish_time": "21-08-2025 10:00",
+        "news_link": "https://visual.republika.co.id/berita/t1c946375/rencana-kenaikan-tarif-iuran-bpjs-kesehatan"
+    },
+    {
+        "title": "Persiapan Layanan Haji 2026, BP Haji Minta Persetujuan DPR",
+        "category": "Khazanah",
+        "publish_time": "21-08-2025 09:59",
+        "news_link": "https://khazanah.republika.co.id/berita/t1c92r458/persiapan-layanan-haji-2026-bp-haji-minta-persetujuan-dpr"
+    },
+    {
+        "title": "Ramai Pelarangan Vape di Singapura, Muhammadiyah Sudah Haramkan Sejak Dulu",
+        "category": "Khazanah",
+        "publish_time": "21-08-2025 09:56",
+        "news_link": "https://khazanah.republika.co.id/berita/t1c8yc483/ramai-pelarangan-vape-di-singapura-muhammadiyah-sudah-haramkan-sejak-dulu"
+    },
+    {
+        "title": "Soal Pelintasan Sebidang, Kemenhub Harapkan Peran Aktif Pemda",
+        "category": "Ekonomi",
+        "publish_time": "21-08-2025 09:46",
+        "news_link": "https://ekonomi.republika.co.id/berita/t1c8gy490/soal-pelintasan-sebidang-kemenhub-harapkan-peran-aktif-pemda"
+    },
+    {
+        "title": "BAZNAS Perkuat Kemitraan CSR untuk Pemberdayaan Masyarakat",
+        "category": "Khazanah",
+        "publish_time": "21-08-2025 09:46",
+        "news_link": "https://khazanah.republika.co.id/berita/t1c8gy472/baznas-perkuat-kemitraan-csr-untuk-pemberdayaan-masyarakat"
+    },
+    {
+        "title": "Menag Minta DPR Setujui Pembayaran DP Haji 2026 Senilai Rp 2,27 Triliun ke Saudi, Ini Alasannya",
+        "category": "Khazanah",
+        "publish_time": "21-08-2025 09:46",
+        "news_link": "https://khazanah.republika.co.id/berita/t1c8gt483/menag-minta-dpr-setujui-pembayaran-dp-haji-2026-senilai-rp-227-triliun-ke-saudi-ini-alasannya"
+    },
+    {
+        "title": "MedcoEnergi Perpanjang Masa Produksi Lapangan Bualuang hingga 2035",
+        "category": "Ekonomi",
+        "publish_time": "21-08-2025 09:37",
+        "news_link": "https://ekonomi.republika.co.id/berita/t1c822490/medcoenergi-perpanjang-masa-produksi-lapangan-bualuang-hingga-2035"
+    },
+    {
+        "title": "Tiga Makna Kesabaran",
+        "category": "Khazanah",
+        "publish_time": "21-08-2025 09:36",
+        "news_link": "https://khazanah.republika.co.id/berita/t1c7zw458/tiga-makna-kesabaran"
+    },
+    {
+        "title": "100 Tahun Eskalator di Jerman",
+        "category": "Video",
+        "publish_time": "21-08-2025 09:35",
+        "news_link": "https://tv.republika.co.id/berita/t1c7ze313/100-tahun-eskalator-di-jerman"
+    },
+    {
+        "title": "Anggota DPR Minta Gerbong Kereta Khusus Merokok, YLKI: Usulan Ngawur",
+        "category": "Ekonomi",
+        "publish_time": "21-08-2025 09:24",
+        "news_link": "https://ekonomi.republika.co.id/berita/t1c7ge490/anggota-dpr-minta-gerbong-kereta-khusus-merokok-ylki-usulan-ngawur"
+    },
+    {
+        "title": "Saksi: Korban Tewas Kebakaran di Kalideres Sempat Teriak Minta Tolong Empat Kali",
+        "category": "News",
+        "publish_time": "21-08-2025 09:24",
+        "news_link": "https://news.republika.co.id/berita/t1c7g4377/saksi-korban-tewas-kebakaran-di-kalideres-sempat-teriak-minta-tolong-empat-kali"
+    },
+    {
         "title": "Stok Beras Impor Masih Ada, Amran: akan Segera Kami Habiskan",
         "category": "Ekonomi",
-        "publish_time": "21-08-2025 09:08",
+        "publish_time": "21-08-2025 09:15",
         "news_link": "https://ekonomi.republika.co.id/berita/t1c6q2502/stok-beras-impor-masih-ada-amran-akan-segera-kami-habiskan"
     },
     {
         "title": "Lawan Krisis Iklim, Mosaic Dorong Kolaborasi Sedekah Energi",
         "category": "Esgnow",
-        "publish_time": "21-08-2025 08:59",
+        "publish_time": "21-08-2025 09:15",
         "news_link": "https://esgnow.republika.co.id/berita/t1c69k416/lawan-krisis-iklim-mosaic-dorong-kolaborasi-sedekah-energi"
     },
     {
         "title": "Mayoritas Warga AS Dukung Pengakuan Palestina, Tekanan ke Israel Meningkat",
         "category": "Khazanah",
-        "publish_time": "21-08-2025 08:54",
+        "publish_time": "21-08-2025 09:15",
         "news_link": "https://khazanah.republika.co.id/berita/t1c635430/mayoritas-warga-as-dukung-pengakuan-palestina-tekanan-ke-israel-meningkat"
     },
     {
         "title": "Pengendara Nyaris jadi Korban Begal di Tanjakan Emen Usai Warung Ditertibkan Dedi Mulyadi",
         "category": "Rejabar",
-        "publish_time": "21-08-2025 08:53",
+        "publish_time": "21-08-2025 09:15",
         "news_link": "https://rejabar.republika.co.id/berita/t1c60w512/pengendara-nyaris-jadi-korban-begal-di-tanjakan-emen-usai-warung-ditertibkan-dedi-mulyadi"
     },
     {
         "title": "Perkuat Kompetensi Guru Matematika, Kemendikdasmen Gelar Bimtek Pengajaran Numerasi",
         "category": "News",
-        "publish_time": "21-08-2025 08:52",
+        "publish_time": "21-08-2025 09:15",
         "news_link": "https://news.republika.co.id/berita/t1c5z6458/perkuat-kompetensi-guru-matematika-kemendikdasmen-gelar-bimtek-pengajaran-numerasi"
     },
     {
         "title": "Pertumbuhan Ekonomi 8 Persen, Kepala Bappenas: Harus Kolaborasi",
         "category": "News",
-        "publish_time": "21-08-2025 08:50",
+        "publish_time": "21-08-2025 09:15",
         "news_link": "https://news.republika.co.id/berita/t1c0h4451/pertumbuhan-ekonomi-8-persen-kepala-bappenas-harus-kolaborasi"
     },
     {
         "title": "Benarkah Wamenaker Noel Orang Geridra? Dasco: Saya Cek Dulu Ya",
         "category": "News",
-        "publish_time": "21-08-2025 08:44",
+        "publish_time": "21-08-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/t1c5l9377/benarkah-wamenaker-noel-orang-geridra-dasco-saya-cek-dulu-ya"
     },
     {
         "title": "Ariel Noah Minta Pemerintah Bertindak Atasi Kisruh Royalti",
         "category": "Ameera",
-        "publish_time": "21-08-2025 08:37",
+        "publish_time": "21-08-2025 08:15",
         "news_link": "https://ameera.republika.co.id/berita/t1c5av425/ariel-noah-minta-pemerintah-bertindak-atasi-kisruh-royalti"
     },
     {
         "title": "Pertamina Perluas Produksi Avtur Ramah Lingkungan dari Minyak Jelantah",
         "category": "Ekonomi",
-        "publish_time": "21-08-2025 08:34",
+        "publish_time": "21-08-2025 08:15",
         "news_link": "https://ekonomi.republika.co.id/berita/t1c55a370/pertamina-perluas-produksi-avtur-ramah-lingkungan-dari-minyak-jelantah"
     },
     {
         "title": "Apakah Gempa Bumi Pernah Terjadi pada Zaman Nabi?",
         "category": "Khazanah",
-        "publish_time": "21-08-2025 08:34",
+        "publish_time": "21-08-2025 08:15",
         "news_link": "https://khazanah.republika.co.id/berita/t1c54t458/apakah-gempa-bumi-pernah-terjadi-pada-zaman-nabi"
     },
     {
         "title": "Kinerja Transaksi Berjalan Indonesia Capai 3 Miliar Dolar AS pada Kuartal II 2025",
         "category": "Ekonomi",
-        "publish_time": "21-08-2025 08:30",
+        "publish_time": "21-08-2025 08:15",
         "news_link": "https://ekonomi.republika.co.id/berita/t1c462423/kinerja-transaksi-berjalan-indonesia-capai-3-miliar-dolar-as-pada-kuartal-ii-2025"
     },
     {
         "title": "Peneliti Belanda: Politik Uang Makin Dibiarkan dan Kian Masif di Indonesia",
         "category": "News",
-        "publish_time": "21-08-2025 08:29",
+        "publish_time": "21-08-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/t1c4wy393/peneliti-belanda-politik-uang-makin-dibiarkan-dan-kian-masif-di-indonesia"
     },
     {
         "title": "Ferdy Sambo tak Dapat Remisi HUT RI, Ini Penjelasan Dirjenpas",
         "category": "News",
-        "publish_time": "21-08-2025 08:23",
+        "publish_time": "21-08-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/t1c4mb409/ferdy-sambo-tak-dapat-remisi-hut-ri-ini-penjelasan-dirjenpas"
     },
     {
         "title": "Tanpa Maarten Paes, Ini  27 Pemain Timnas Indonesia untuk Hadapi Kuwait dan Lebanon",
         "category": "Network",
-        "publish_time": "21-08-2025 08:20",
+        "publish_time": "21-08-2025 08:15",
         "news_link": "https://skor.republika.co.id/posts/700180/27-pemain-timnas-indonesia-untuk-hadapi-kuwait-dan-lebanon"
     },
     {
         "title": "Banjir Terparah Sejak 1979, Kota Terbesar Pakistan Lumpuh Usai Hujan Monsun Tewaskan 10 Orang",
         "category": "Esgnow",
-        "publish_time": "21-08-2025 08:18",
+        "publish_time": "21-08-2025 08:15",
         "news_link": "https://esgnow.republika.co.id/berita/t1c4f8416/banjir-terparah-sejak-1979-kota-terbesar-pakistan-lumpuh-usai-hujan-monsun-tewaskan-10-orang"
     },
     {
         "title": "Mensesneg: OTT Wamenaker Bukti Korupsi di Indonesia Sudah Stadium 4",
         "category": "News",
-        "publish_time": "21-08-2025 08:17",
+        "publish_time": "21-08-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/t1c4cy370/mensesneg-ott-wamenaker-bukti-korupsi-di-indonesia-sudah-stadium-4"
     },
     {
         "title": "Garuda Calling, Timnas Indonesia tanpa Maarten Paes dan Ole Romeny pada FIFA Match Day Bulan Depan",
         "category": "News",
-        "publish_time": "21-08-2025 08:16",
+        "publish_time": "21-08-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/t1c4bw348/garuda-calling-timnas-indonesia-tanpa-maarten-paes-dan-ole-romeny-pada-fifa-match-day-bulan-depan"
     },
     {
@@ -190,113 +298,5 @@
         "category": "Khazanah",
         "publish_time": "21-08-2025 07:15",
         "news_link": "https://khazanah.republika.co.id/berita/t1c2fz430/isyarat-dekatnya-hari-kiamat"
-    },
-    {
-        "title": "Prabowo Sudah Dapat Laporan Wamenaker Ebenezer Ditangkap KPK, Begini Reaksinya",
-        "category": "News",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/t1c1z4409/prabowo-sudah-dapat-laporan-wamenaker-ebenezer-ditangkap-kpk-begini-reaksinya"
-    },
-    {
-        "title": "Akses Perhutanan Sosial Capai 8,3 Juta Hektare dengan 1,42 Juta Penerima Manfaat",
-        "category": "Esgnow",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://esgnow.republika.co.id/berita/t1c1y7370/akses-perhutanan-sosial-capai-83-juta-hektare-dengan-142-juta-penerima-manfaat"
-    },
-    {
-        "title": "Patung M Jasin, Mabes Polri: Penerus Harus Belajar Patriotisme, Nasionalisme, dan Keberanian Beliau",
-        "category": "News",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/t1c04u451/patung-m-jasin-mabes-polri-penerus-harus-belajar-patriotisme-nasionalisme-dan-keberanian-beliau"
-    },
-    {
-        "title": "Marc Klok Dipanggil Timnas Indonesia Lagi, Ini Respons Pelatih Persib",
-        "category": "Network",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://skor.republika.co.id/posts/700165/reaksi-bojan-hodak-4-pemain-persib-dipanggil-timnas-indonesia"
-    },
-    {
-        "title": "Eks Dokter Residen RSHS Pelaku Kekerasan Seksual ke Pasien Didakwa 12 Tahun Penjara",
-        "category": "Rejabar",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://rejabar.republika.co.id/berita/t1c1le512/eks-dokter-residen-rshs-pelaku-kekerasan-seksual-ke-pasien-didakwa-12-tahun-penjara"
-    },
-    {
-        "title": "Bea Cukai Belawan Sukseskan Event Internasional Aquabike dan F1 Powerboat di Danau Toba",
-        "category": "Beacukai",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://republika.co.id/berita//t1c144472/bea-cukai-belawan-sukseskan-event-internasional-aquabike-dan-f1-powerboat-di-danau-toba"
-    },
-    {
-        "title": "Peletakan Batu Pertama di Sidoarjo, Kapolri Sebut Sudah Bangun 458 SPPG",
-        "category": "News",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/t1c11c487/peletakan-batu-pertama-di-sidoarjo-kapolri-sebut-sudah-bangun-458-sppg"
-    },
-    {
-        "title": "UNM Dukung Kemandirian Desa Lewat Pelatihan Urban Farming dan Rumah Bibit",
-        "category": "News",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/t1c0j1368/unm-dukung-kemandirian-desa-lewat-pelatihan-urban-farming-dan-rumah-bibit"
-    },
-    {
-        "title": "Usulan DPR Soal Gerbong Khusus Merokok Harus Ditolak PT KAI karena Bisa Melanggar Undang-Undang",
-        "category": "News",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/t1c0wk409/usulan-dpr-soal-gerbong-khusus-merokok-harus-ditolak-pt-kai-karena-bisa-melanggar-undangundang"
-    },
-    {
-        "title": "Kopdes Merah Putih, Mendes PDT: Kami Siapkan Tenaga Pendamping Profesional",
-        "category": "News",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/t1bzwf451/kopdes-merah-putih-mendes-pdt-kami-siapkan-tenaga-pendamping-profesional"
-    },
-    {
-        "title": "BI Pangkas Suku Bunga, Perbanas: Rupiah Cenderung Stabil",
-        "category": "Ekonomi",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1bw6t416/bi-pangkas-suku-bunga-perbanas-rupiah-cenderung-stabil"
-    },
-    {
-        "title": "Wagub Jateng Minta Sudewo Jaga Pelayanan ke Masyarakat Pati Meski Ada Proses Pemakzulan",
-        "category": "Rejogja",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://rejogja.republika.co.id/berita/t1c0r7282/wagub-jateng-minta-sudewo-jaga-pelayanan-ke-masyarakat-pati-meski-ada-proses-pemakzulan"
-    },
-    {
-        "title": "KPK Turut Sita Motor Ducati dan Puluhan Mobil Hasil OTT Wamenaker Noel Ebenezer",
-        "category": "News",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/t1c0ng377/kpk-turut-sita-motor-ducati-dan-puluhan-mobil-hasil-ott-wamenaker-noel-ebenezer"
-    },
-    {
-        "title": "UNM Wujudkan Kemerdekaan Ekonomi Digital Lewat Prodi Manajemen dan Bisnis Digital",
-        "category": "News",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/t1c0km472/unm-wujudkan-kemerdekaan-ekonomi-digital-lewat-prodi-manajemen-dan-bisnis-digital"
-    },
-    {
-        "title": "Peneliti Belanda: Politik Uang Sumber Masalah Korupsi dan Dominasi Oligarki di RI",
-        "category": "News",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/t1c0gj487/peneliti-belanda-politik-uang-sumber-masalah-korupsi-dan-dominasi-oligarki-di-ri"
-    },
-    {
-        "title": "Demi Karier di Grobogan, Salah Tangkap Kecu Hal Biasa",
-        "category": "Network",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://oohya.republika.co.id/posts/700038/demi-karier-di-grobogan-salah-tangkap-kecu-hal-biasa"
-    },
-    {
-        "title": "Mengapa Lisa Mariana Harus Dipanggil KPK dalam Perkara Bank BJB?",
-        "category": "News",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/t1c0bw377/mengapa-lisa-mariana-harus-dipanggil-kpk-dalam-perkara-bank-bjb"
-    },
-    {
-        "title": "Timo Scheunemann: Beberapa Pemain Timnas Putri U-16 Indonesia Layak ke Eropa",
-        "category": "Network",
-        "publish_time": "21-08-2025 07:15",
-        "news_link": "https://skor.republika.co.id/posts/700153/timo-scheunemann-beberapa-pemain-timnas-putri-u-16-indonesia-layak-ke-eropa"
     }
 ]
