@@ -1,44 +1,152 @@
 [
     {
+        "title": "Jadwal Sholat Hari Ini di Medan, 26 Agustus 2025",
+        "category": "Khazanah",
+        "publish_time": "25-08-2025 19:06",
+        "news_link": "https://khazanah.republika.co.id/berita/t1kd282006227037/jadwal-sholat-hari-ini-di-medan-26-agustus-2025"
+    },
+    {
+        "title": "Kemenkum Jateng Awasi Pembentukan Posbankum di Kabupaten Semarang",
+        "category": "News",
+        "publish_time": "25-08-2025 19:00",
+        "news_link": "https://news.republika.co.id/berita/t1kcsf6730000/kemenkum-jateng-awasi-pembentukan-posbankum-di-kabupaten-semarang"
+    },
+    {
+        "title": "Bayern Muenchen Capai Kesepakatan Personal dengan Nicolas Jackson",
+        "category": "News",
+        "publish_time": "25-08-2025 18:45",
+        "news_link": "https://news.republika.co.id/berita/t1kc3a9430000/bayern-muenchen-capai-kesepakatan-personal-dengan-nicolas-jackson"
+    },
+    {
+        "title": "Memaknai 200 Tahun Perang Jawa dan Spirit Pangeran Diponegoro",
+        "category": "Kolom",
+        "publish_time": "25-08-2025 18:33",
+        "news_link": "https://analisis.republika.co.id/berita/t1jxv0451/memaknai-200-tahun-perang-jawa-dan-spirit-pangeran-diponegoro"
+    },
+    {
+        "title": "Cumi Nelayan Kurau Bangka Tengah Tembus Pasar Ekspor ke Tiongkok",
+        "category": "News",
+        "publish_time": "25-08-2025 18:30",
+        "news_link": "https://news.republika.co.id/berita/t1kbeb8230000/cumi-nelayan-kurau-bangka-tengah-tembus-pasar-ekspor-ke-tiongkok"
+    },
+    {
+        "title": "Pakar: Insentif Mobil Listrik Impor Malah Hambat Industri Otomotif Nasional",
+        "category": "Ekonomi",
+        "publish_time": "25-08-2025 18:21",
+        "news_link": "https://ekonomi.republika.co.id/berita/t1kaze349/pakar-insentif-mobil-listrik-impor-malah-hambat-industri-otomotif-nasional"
+    },
+    {
+        "title": "Jadwal Sholat Hari Ini: 26 Agustus 2025 di Semarang",
+        "category": "Khazanah",
+        "publish_time": "25-08-2025 18:20",
+        "news_link": "https://khazanah.republika.co.id/berita/t1kaxm692628634/jadwal-sholat-hari-ini-26-agustus-2025-di-semarang"
+    },
+    {
+        "title": "KPK Dalami Penjualan Mobil BJ Habibie Terkait Kasus Korupsi Bank BJB",
+        "category": "News",
+        "publish_time": "25-08-2025 18:15",
+        "news_link": "https://news.republika.co.id/berita/t1kap97130000/kpk-dalami-penjualan-mobil-bj-habibie-terkait-kasus-korupsi-bank-bjb"
+    },
+    {
+        "title": "KPK Ungkap Biaya Haji Khusus Rp300 Juta, Haji Furoda Rp1 Miliar",
+        "category": "News",
+        "publish_time": "25-08-2025 18:11",
+        "news_link": "https://news.republika.co.id/berita/t1ka081930000/kpk-ungkap-biaya-haji-khusus-rp300-juta-haji-furoda-rp1-miliar"
+    },
+    {
+        "title": "Keutamaan Sholat: Jadwal Sholat Hari Ini, 26 Agustus 2025, di Bandung",
+        "category": "Khazanah",
+        "publish_time": "25-08-2025 18:11",
+        "news_link": "https://khazanah.republika.co.id/berita/t1k9wy799307939/keutamaan-sholat-jadwal-sholat-hari-ini-26-agustus-2025-di-bandung"
+    },
+    {
+        "title": "Tugas Pertama Alexander Zwiers sebagai Dirtek, Ada Misi Terselubung PSSI",
+        "category": "Network",
+        "publish_time": "25-08-2025 18:11",
+        "news_link": "https://skor.republika.co.id/posts/701088/tugas-pertama-alexander-zwiers-sebagai-dirtek-ada-misi-terselubung-pssi"
+    },
+    {
+        "title": "MEFest 2025, Mari Kembali ke Titik Nol",
+        "category": "News",
+        "publish_time": "25-08-2025 18:11",
+        "news_link": "https://news.republika.co.id/berita/t1jydt451/mefest-2025-mari-kembali-ke-titik-nol"
+    },
+    {
+        "title": "Pemerintah Lanjutkan Pengakuan Hutan Adat di Sipora Meski Ada Sengketa",
+        "category": "News",
+        "publish_time": "25-08-2025 18:11",
+        "news_link": "https://news.republika.co.id/berita/t1k9bd330000/pemerintah-lanjutkan-pengakuan-hutan-adat-di-sipora-meski-ada-sengketa"
+    },
+    {
+        "title": "Gregoria ke Babak Kedua Kejuaraan Dunia Bulu Tangkis 2025, Masih Butuh Penyesuaian",
+        "category": "News",
+        "publish_time": "25-08-2025 17:11",
+        "news_link": "https://news.republika.co.id/berita/t1k8nn348/gregoria-ke-babak-kedua-kejuaraan-dunia-bulu-tangkis-2025-masih-butuh-penyesuaian"
+    },
+    {
+        "title": "Freeport ajak peneliti lakukan riset biodiversitas di Papua",
+        "category": "News",
+        "publish_time": "25-08-2025 17:11",
+        "news_link": "https://news.republika.co.id/berita/t1k8mv2530000/freeport-ajak-peneliti-lakukan-riset-biodiversitas-di-papua"
+    },
+    {
+        "title": "Jadwal Sholat Hari Ini, 26 Agustus 2025 di Surabaya: Pentingnya Menjaga Konsistensi Ibadah dalam Kehidupan Sehari-hari",
+        "category": "Khazanah",
+        "publish_time": "25-08-2025 17:11",
+        "news_link": "https://khazanah.republika.co.id/berita/t1k8m9391528779/jadwal-sholat-hari-ini-26-agustus-2025-di-surabaya-pentingnya-menjaga-konsistensi-ibadah-dalam-kehidupan-seharihari"
+    },
+    {
+        "title": "Erick Thohir Ungkap Durasi Kontrak dan Alasan Memilih Alexander Zwiers",
+        "category": "Network",
+        "publish_time": "25-08-2025 17:11",
+        "news_link": "https://skor.republika.co.id/posts/701086/erick-thohir-ungkap-durasi-kontrak-dan-alasan-memilih-alexander-zwiers"
+    },
+    {
+        "title": "Dukungan Jakarta untuk Layanan Kesehatan Bergerak di Kepulauan Seribu",
+        "category": "News",
+        "publish_time": "25-08-2025 17:11",
+        "news_link": "https://news.republika.co.id/berita/t1k7xd2230000/dukungan-jakarta-untuk-layanan-kesehatan-bergerak-di-kepulauan-seribu"
+    },
+    {
         "title": "Mau Tinggal di Indonesia, Salah Satu Alasan Alexander Zweirs Dipilih Jadi Dirtek PSSI",
         "category": "News",
-        "publish_time": "25-08-2025 17:03",
+        "publish_time": "25-08-2025 17:11",
         "news_link": "https://news.republika.co.id/berita/t1k4ov348/mau-tinggal-di-indonesia-salah-satu-alasan-alexander-zweirs-dipilih-jadi-dirtek-pssi"
     },
     {
         "title": "Keutamaan Sholat di Makassar: Jadwal Sholat Hari Ini, 26 Agustus 2025",
         "category": "Khazanah",
-        "publish_time": "25-08-2025 17:02",
+        "publish_time": "25-08-2025 17:11",
         "news_link": "https://khazanah.republika.co.id/berita/t1k7bn1624929990/keutamaan-sholat-di-makassar-jadwal-sholat-hari-ini-26-agustus-2025"
     },
     {
         "title": "Komisi II dan Kemendagri Dorong Pemda Tingkatkan PAD dari Sumber Alternatif",
         "category": "News",
-        "publish_time": "25-08-2025 17:00",
+        "publish_time": "25-08-2025 17:11",
         "news_link": "https://news.republika.co.id/berita/t1k7896130000/komisi-ii-dan-kemendagri-dorong-pemda-tingkatkan-pad-dari-sumber-alternatif"
     },
     {
         "title": "Pengaruh Timur Tengah di Dunia Keilmuwan Pesantren Nusantara",
         "category": "Khazanah",
-        "publish_time": "25-08-2025 16:59",
+        "publish_time": "25-08-2025 17:11",
         "news_link": "https://khazanah.republika.co.id/berita/t1jzun430/pengaruh-timur-tengah-di-dunia-keilmuwan-pesantren-nusantara"
     },
     {
         "title": "Fenomena Halo Matahari Muncul di Langit Batam",
         "category": "Visual",
-        "publish_time": "25-08-2025 16:59",
+        "publish_time": "25-08-2025 17:11",
         "news_link": "https://visual.republika.co.id/berita/t1k5uo375/fenomena-halo-matahari-muncul-di-langit-batam"
     },
     {
         "title": "Gelaran 13th Asian Cup Woodball Championship 2025 Banjir Pujian",
         "category": "Network",
-        "publish_time": "25-08-2025 16:30",
+        "publish_time": "25-08-2025 16:11",
         "news_link": "https://skor.republika.co.id/posts/701080/gelaran-13th-asian-cup-woodball-championship-2025-banjir-pujian"
     },
     {
         "title": "Alexander Zwiers Terima Tawaran Jadi Direktur Teknik Timnas Indonesia karena Ini",
         "category": "Network",
-        "publish_time": "25-08-2025 16:20",
+        "publish_time": "25-08-2025 16:11",
         "news_link": "https://skor.republika.co.id/posts/701079/alexander-zwiers-terima-tawaran-jadi-direktur-teknik-timnas-indonesia-karena-ini"
     },
     {
@@ -190,113 +298,5 @@
         "category": "Khazanah",
         "publish_time": "25-08-2025 14:11",
         "news_link": "https://khazanah.republika.co.id/berita/t1jyu2430/undang-akademisi-prozionis-ketua-pp-muhammadiyah-sebut-ui-aneh"
-    },
-    {
-        "title": "Gelar Aksi di Gedung Rektorat, Mahasiswa UI Pertanyakan Sikap Kampus Beri Panggung Tokoh Pro Zionis",
-        "category": "News",
-        "publish_time": "25-08-2025 14:11",
-        "news_link": "https://news.republika.co.id/berita/t1jybc348/gelar-aksi-di-gedung-rektorat-mahasiswa-ui-pertanyakan-sikap-kampus-beri-panggung-tokoh-pro-zionis"
-    },
-    {
-        "title": "Kemenko Infrastruktur Jadi Dewan Pengarah Badan Otorita Pantura, Ini Tugasnya",
-        "category": "Ekonomi",
-        "publish_time": "25-08-2025 14:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1jybc490/kemenko-infrastruktur-jadi-dewan-pengarah-badan-otorita-pantura-ini-tugasnya"
-    },
-    {
-        "title": "BCA Syariah Ungkap Alasan Belum Bisa Masuk Bisnis Bulion",
-        "category": "Ekonomi Syariah",
-        "publish_time": "25-08-2025 13:11",
-        "news_link": "https://sharia.republika.co.id/berita/t1jxvv490/bca-syariah-ungkap-alasan-belum-bisa-masuk-bisnis-bulion"
-    },
-    {
-        "title": "KPK akan Panggil Orang Dekat Gus Yaqut",
-        "category": "News",
-        "publish_time": "25-08-2025 13:11",
-        "news_link": "https://news.republika.co.id/berita/t1jxq2377/kpk-akan-panggil-orang-dekat-gus-yaqut"
-    },
-    {
-        "title": "Kejuaraan Dunia Bulu Tangkis 2025: Berpotensi Hadapi Takuro Hoki/Yugo Kobayashi, Fajar/Rian Waspada",
-        "category": "Network",
-        "publish_time": "25-08-2025 13:11",
-        "news_link": "https://skor.republika.co.id/posts/701039/kejuaraan-dunia-bulu-tangkis-2025-berpotensi-hadapi-takuro-hoki-yugo-kobayashi-fajar-rian-waspada"
-    },
-    {
-        "title": "Tak Hanya Soal Kemanangan, Pelajaran Penting untuk Wakil Indonesia di Asian School Basketball Championship 2025",
-        "category": "Network",
-        "publish_time": "25-08-2025 13:11",
-        "news_link": "https://skor.republika.co.id/posts/701038/tak-hanya-soal-kemanangan-pelajaran-penting-untuk-wakil-indonesia-di-asian-school-basketball-championship-2025"
-    },
-    {
-        "title": "Demonstran Kibarkan Bendera PAN Saat Demonstrasi Depan DPR, Ini Klarifikasi Bima Arya",
-        "category": "News",
-        "publish_time": "25-08-2025 13:11",
-        "news_link": "https://news.republika.co.id/berita/t1jxd9377/demonstran-kibarkan-bendera-pan-saat-demonstrasi-depan-dpr-ini-klarifikasi-bima-arya"
-    },
-    {
-        "title": "Eramet Teliti Potensi Litium di Jateng untuk Ekosistem Kendaraan Listrik",
-        "category": "Ekonomi",
-        "publish_time": "25-08-2025 13:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1jxc5490/eramet-teliti-potensi-litium-di-jateng-untuk-ekosistem-kendaraan-listrik"
-    },
-    {
-        "title": "Pemprov DKI Bakal Bangun RS Bertaraf Internasional di Cakung, Tergetnya Rampung 2027",
-        "category": "News",
-        "publish_time": "25-08-2025 13:11",
-        "news_link": "https://news.republika.co.id/berita/t1jrtx451/pemprov-dki-bakal-bangun-rs-bertaraf-internasional-di-cakung-tergetnya-rampung-2027"
-    },
-    {
-        "title": "Pengusaha Rudy Ong Jadi Tersangka, KPK: Kita Jemput Paksa",
-        "category": "News",
-        "publish_time": "25-08-2025 13:11",
-        "news_link": "https://news.republika.co.id/berita/t1jwwt377/pengusaha-rudy-ong-jadi-tersangka-kpk-kita-jemput-paksa"
-    },
-    {
-        "title": "Komisi I Kritik Komunikasi Pemerintahan di Kota Bandung",
-        "category": "Rejabar",
-        "publish_time": "25-08-2025 13:11",
-        "news_link": "https://rejabar.republika.co.id/berita/t1jwsg368/komisi-i-kritik-komunikasi-pemerintahan-di-kota-bandung"
-    },
-    {
-        "title": "KRL Sudah Berangkat dari Stasiun Palmerah, tapi Belum Bisa Capai Stasiun Tanah Abang",
-        "category": "News",
-        "publish_time": "25-08-2025 13:11",
-        "news_link": "https://news.republika.co.id/berita/t1jwm6348/krl-sudah-berangkat-dari-stasiun-palmerah-tapi-belum-bisa-capai-stasiun-tanah-abang"
-    },
-    {
-        "title": "FX Rudy Tegaskan Bambang Pacul Bukan Dicopot Megawati",
-        "category": "News",
-        "publish_time": "25-08-2025 13:11",
-        "news_link": "https://news.republika.co.id/berita/t1jwfu377/fx-rudy-tegaskan-bambang-pacul-bukan-dicopot-megawati"
-    },
-    {
-        "title": "Alex Marquez dan Fermin Aldeguer Bertekad Bangkit di GP Catalunya 2025",
-        "category": "News",
-        "publish_time": "25-08-2025 13:11",
-        "news_link": "https://news.republika.co.id/berita/t1jw7z348/alex-marquez-dan-fermin-aldeguer-bertekad-bangkit-di-gp-catalunya-2025"
-    },
-    {
-        "title": "BPKH Raih WTP Ketujuh, Dana Haji Tumbuh Hingga Rp171 Triliun",
-        "category": "Khazanah",
-        "publish_time": "25-08-2025 13:11",
-        "news_link": "https://khazanah.republika.co.id/berita/t1jrdr451/bpkh-raih-wtp-ketujuh-dana-haji-tumbuh-hingga-rp171-triliun"
-    },
-    {
-        "title": "Defisit Perdagangan Halal Capai 17,3 Miliar Dolar AS, Indonesia Belum Jadi Produsen Global",
-        "category": "Ekonomi Syariah",
-        "publish_time": "25-08-2025 13:11",
-        "news_link": "https://sharia.republika.co.id/berita/t1jw5d490/defisit-perdagangan-halal-capai-173-miliar-dolar-as-indonesia-belum-jadi-produsen-global"
-    },
-    {
-        "title": "Pengusaha Tambang Rudy Ong Chandra Resmi Ditahan KPK",
-        "category": "Visual",
-        "publish_time": "25-08-2025 13:11",
-        "news_link": "https://visual.republika.co.id/berita/t1jux9375/pengusaha-tambang-rudy-ong-chandra-resmi-ditahan-kpk"
-    },
-    {
-        "title": "Kemenperin Masih Bahas Perpanjangan Insentif Motor Listrik",
-        "category": "Ekonomi",
-        "publish_time": "25-08-2025 13:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1jvss490/kemenperin-masih-bahas-perpanjangan-insentif-motor-listrik"
     }
 ]
