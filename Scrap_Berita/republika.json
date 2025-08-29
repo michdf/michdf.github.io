@@ -1,5 +1,233 @@
 [
     {
+        "title": "Gula Menumpuk dan Harga Anjlok, Petani Tebu Terpuruk",
+        "category": "Rejabar",
+        "publish_time": "29-08-2025 09:14",
+        "news_link": "https://rejabar.republika.co.id/berita/t1r0b5512/gula-menumpuk-dan-harga-anjlok-petani-tebu-terpuruk"
+    },
+    {
+        "title": "Mahasiswa UI Demo di Polda Metro, Bawa Spanduk Protes dan Bendera Bajak Laut",
+        "category": "News",
+        "publish_time": "29-08-2025 09:10",
+        "news_link": "https://news.republika.co.id/berita/t1r062425/mahasiswa-ui-demo-di-polda-metro-bawa-spanduk-protes-dan-bendera-bajak-laut"
+    },
+    {
+        "title": "Inggris Larang Israel Ikuti Pameran Senjata di Negaranya",
+        "category": "News",
+        "publish_time": "29-08-2025 09:08",
+        "news_link": "https://news.republika.co.id/berita/t1r02f451/inggris-larang-israel-ikuti-pameran-senjata-di-negaranya"
+    },
+    {
+        "title": "Baznas Awards 2025 Apresiasi 906 Penggerak Zakat, dari Daerah hingga Mancanegara",
+        "category": "Khazanah",
+        "publish_time": "29-08-2025 09:07",
+        "news_link": "https://khazanah.republika.co.id/berita/t1r00o320/baznas-awards-2025-apresiasi-906-penggerak-zakat-dari-daerah-hingga-mancanegara"
+    },
+    {
+        "title": "Anak Muda Batam Rentan Diabetes, Dinkes Kasih Warning Serius",
+        "category": "Network",
+        "publish_time": "29-08-2025 09:07",
+        "news_link": "https://inforemaja.id/posts/701837/anak-muda-batam-rentan-diabetes-dinkes-kasih-warning-serius"
+    },
+    {
+        "title": "Kolaborasi Jadi Kunci Percepatan Dekarbonisasi Industri",
+        "category": "Network",
+        "publish_time": "29-08-2025 09:07",
+        "news_link": "https://sekitarsurabaya.com/posts/701840/kolaborasi-jadi-kunci-percepatan-dekarbonisasi-industri"
+    },
+    {
+        "title": "Demo Berujung Ojol Dilindas Polisi, Komnas HAM Ungkap Tiga Temuan Penting",
+        "category": "News",
+        "publish_time": "29-08-2025 09:06",
+        "news_link": "https://news.republika.co.id/berita/t1qzza487/demo-berujung-ojol-dilindas-polisi-komnas-ham-ungkap-tiga-temuan-penting"
+    },
+    {
+        "title": "PBNU Berduka atas Wafatnya Pengemudi Ojol, Gus Yahya: NU Dukung Aspirasi Rakyat",
+        "category": "Khazanah",
+        "publish_time": "29-08-2025 09:06",
+        "news_link": "https://khazanah.republika.co.id/berita/t1qzyu366/pbnu-berduka-atas-wafatnya-pengemudi-ojol-gus-yahya-nu-dukung-aspirasi-rakyat"
+    },
+    {
+        "title": "Temui Massa, Dansat Brimob PMJ Pastikan Tuntutan Pendemo Terpenuhi",
+        "category": "Video",
+        "publish_time": "29-08-2025 09:04",
+        "news_link": "https://tv.republika.co.id/berita/t1qzup313/temui-massa-dansat-brimob-pmj-pastikan-tuntutan-pendemo-terpenuhi"
+    },
+    {
+        "title": "Tentara 'Kocar-Kacir' Hindari Gas Air Mata Brimob yang Keluar Kandang Mako Kwitang",
+        "category": "News",
+        "publish_time": "29-08-2025 08:59",
+        "news_link": "https://news.republika.co.id/berita/t1qznm409/tentara-kocarkacir-hindari-gas-air-mata-brimob-yang-keluar-kandang-mako-kwitang"
+    },
+    {
+        "title": "Larangan Mencela Angin Kencang",
+        "category": "Khazanah",
+        "publish_time": "29-08-2025 08:57",
+        "news_link": "https://khazanah.republika.co.id/berita/t1qzk0430/larangan-mencela-angin-kencang"
+    },
+    {
+        "title": "Direktur Indopol Survei: Saat Ini Masyarakat Mengapreasi Kinerja Kejagung",
+        "category": "News",
+        "publish_time": "29-08-2025 08:55",
+        "news_link": "https://news.republika.co.id/berita/t1qzfg318/direktur-indopol-survei-saat-ini-masyarakat-mengapreasi-kinerja-kejagung"
+    },
+    {
+        "title": "Demo Sekelompok Orang Berpakaian Hitam-Hitam di Gedung DPRD Jabar Berucung Ricuh, Siapa Mereka?",
+        "category": "News",
+        "publish_time": "29-08-2025 08:53",
+        "news_link": "https://news.republika.co.id/berita/t1qzdh409/demo-sekelompok-orang-berpakaian-hitamhitam-di-gedung-dprd-jabar-berucung-ricuh-siapa-mereka"
+    },
+    {
+        "title": "Di Balik Aksi Massa di DPR Ada Ketimpangan Ekonomi yang Ekstrim",
+        "category": "Retizen",
+        "publish_time": "29-08-2025 08:47",
+        "news_link": "https://retizen.republika.co.id/posts/701805/di-balik-aksi-massa-di-dpr-ada-ketimpangan-ekonomi-yang-ekstrim"
+    },
+    {
+        "title": "Shalat, Terapi Alami untuk Tubuh dan Jiwa",
+        "category": "Retizen",
+        "publish_time": "29-08-2025 08:46",
+        "news_link": "https://retizen.republika.co.id/posts/701782/shalat-terapi-alami-untuk-tubuh-dan-jiwa"
+    },
+    {
+        "title": "Islam, Salam, dan Selamat",
+        "category": "Retizen",
+        "publish_time": "29-08-2025 08:46",
+        "news_link": "https://retizen.republika.co.id/posts/701783/islam-salam-dan-selamat"
+    },
+    {
+        "title": "Ironi Demo Rakyat Ketika HUT DPR RI",
+        "category": "Retizen",
+        "publish_time": "29-08-2025 08:46",
+        "news_link": "https://retizen.republika.co.id/posts/701792/ironi-demo-rakyat-ketika-hut-dpr-ri"
+    },
+    {
+        "title": "Kebersamaan dalam Iman: Sholat Jumat Warga Binaan dan Pegawai Lapas Mamasa",
+        "category": "Retizen",
+        "publish_time": "29-08-2025 08:46",
+        "news_link": "https://retizen.republika.co.id/posts/701816/kebersamaan-dalam-iman-sholat-jumat-warga-binaan-dan-pegawai-lapas-mamasa"
+    },
+    {
+        "title": "Khutbah Jumat: Berharap Ridho-Nya di Bulan Maulid",
+        "category": "Retizen",
+        "publish_time": "29-08-2025 08:46",
+        "news_link": "https://retizen.republika.co.id/posts/701824/khutbah-jumat-berharap-ridho-nya-di-bulan-maulid"
+    },
+    {
+        "title": "Ketangguhan Anak-anak Gaza Bukti Ketinggian Islam",
+        "category": "Retizen",
+        "publish_time": "29-08-2025 08:45",
+        "news_link": "https://retizen.republika.co.id/posts/701817/ketangguhan-anak-anak-gaza-bukti-ketinggian-islam"
+    },
+    {
+        "title": "Pejabat Arogan, Ulama Peneduh: Siapa yang Layak Jadi Teladan?",
+        "category": "Retizen",
+        "publish_time": "29-08-2025 08:45",
+        "news_link": "https://retizen.republika.co.id/posts/701830/pejabat-arogan-ulama-peneduh-siapa-yang-layak-jadi-teladan"
+    },
+    {
+        "title": "Legislator Heran dengan Kecepatan Rantis Saat Menghalau Demonstran, Disengaja?",
+        "category": "News",
+        "publish_time": "29-08-2025 08:30",
+        "news_link": "https://news.republika.co.id/berita/t1qyar487/legislator-heran-dengan-kecepatan-rantis-saat-menghalau-demonstran-disengaja"
+    },
+    {
+        "title": "Syarikat Islam Desak Polri Evaluasi Pengamanan, DPR Harus Introspeksi",
+        "category": "News",
+        "publish_time": "29-08-2025 08:26",
+        "news_link": "https://news.republika.co.id/berita/t1qy0l416/syarikat-islam-desak-polri-evaluasi-pengamanan-dpr-harus-introspeksi"
+    },
+    {
+        "title": "Bank Muamalat Catat Kenaikan Transaksi Digital",
+        "category": "Ekonomi Syariah",
+        "publish_time": "29-08-2025 08:26",
+        "news_link": "https://sharia.republika.co.id/berita/t1qwuo416/bank-muamalat-catat-kenaikan-transaksi-digital"
+    },
+    {
+        "title": "Ratusan Ojol Geruduk DPRD Jabar, Minta Pelaku Dihukum Mati",
+        "category": "Rejabar",
+        "publish_time": "29-08-2025 08:24",
+        "news_link": "https://rejabar.republika.co.id/berita/t1qy0y282/ratusan-ojol-geruduk-dprd-jabar-minta-pelaku-dihukum-mati"
+    },
+    {
+        "title": "Tiket KA Parahyangan Ke Bandung Sabtu 30 Agustus 2025 Masih Ada",
+        "category": "Network",
+        "publish_time": "29-08-2025 08:22",
+        "news_link": "https://kreta.id/posts/701786/tiket-ka-parahyangan-ke-bandung-sabtu-30-agustus-2025-masih-ada"
+    },
+    {
+        "title": "Udara Laut Membantu Anda Hidup Lebih Lama, Oh Ya?",
+        "category": "Network",
+        "publish_time": "29-08-2025 08:21",
+        "news_link": "https://impresiupdate.id/posts/701794/udara-laut-membantu-anda-hidup-lebih-lama-oh-ya-"
+    },
+    {
+        "title": "Tidur Tidak Teratur Bisa Menggandakan Risiko Gagal Jantung Lho...",
+        "category": "Network",
+        "publish_time": "29-08-2025 08:21",
+        "news_link": "https://impresiupdate.id/posts/701797/tidur-tidak-teratur-bisa-menggandakan-risiko-gagal-jantung-lho-"
+    },
+    {
+        "title": "Kemenag Dorong Madrasah di Asia Tenggara Jadi Pusat Inovasi Global",
+        "category": "Khazanah",
+        "publish_time": "29-08-2025 08:21",
+        "news_link": "https://khazanah.republika.co.id/berita/t1qs4z451/kemenag-dorong-madrasah-di-asia-tenggara-jadi-pusat-inovasi-global"
+    },
+    {
+        "title": "Catatan Cak: Bobot Islam",
+        "category": "Network",
+        "publish_time": "29-08-2025 08:21",
+        "news_link": "https://ruzkaindonesia.id/posts/701804/catatan-cak-bobot-islam"
+    },
+    {
+        "title": "Tips Memotret Aksi Demo Massa Secara Efektif",
+        "category": "Network",
+        "publish_time": "29-08-2025 08:20",
+        "news_link": "https://kangjepret.id/posts/701811/tips-memotret-aksi-demo-massa-secara-efektif"
+    },
+    {
+        "title": "Kendalikan Inflasi, Tujuh Kecamatan di Kota Sukabumi Serentak Gencarkan Gerakan Pangan Murah Besok",
+        "category": "Network",
+        "publish_time": "29-08-2025 08:20",
+        "news_link": "https://sukabumikini.com/posts/701812/kendalikan-inflasi-tujuh-kecamatan-di-kota-sukabumi-serentak-gencarkan-gerakan-pangan-murah-besok"
+    },
+    {
+        "title": "Polisi Pastikan Pelaku Penabrak Ojol Ditangani Mabes, Brimob: Ini Perintah Presiden",
+        "category": "News",
+        "publish_time": "29-08-2025 08:20",
+        "news_link": "https://news.republika.co.id/berita/t1qxtv377/polisi-pastikan-pelaku-penabrak-ojol-ditangani-mabes-brimob-ini-perintah-presiden"
+    },
+    {
+        "title": "Tetap Selamat Saat Memotret Demo Rusuh",
+        "category": "Network",
+        "publish_time": "29-08-2025 08:20",
+        "news_link": "https://kangjepret.id/posts/701820/tetap-selamat-saat-memotret-demo-rusuh"
+    },
+    {
+        "title": "Polisi Lindas Ojol, Mahasiswa Desak Rantis 'Dikandangkan' dan tak Digunakan dalam Pembubaran Massa",
+        "category": "News",
+        "publish_time": "29-08-2025 08:20",
+        "news_link": "https://news.republika.co.id/berita/t1qxtd487/polisi-lindas-ojol-mahasiswa-desak-rantis-dikandangkan-dan-tak-digunakan-dalam-pembubaran-massa"
+    },
+    {
+        "title": "TNI Lancarkan Aksi Humanis Redam Aksi Massa di Mako Brimob Kwitang",
+        "category": "Network",
+        "publish_time": "29-08-2025 08:20",
+        "news_link": "https://pemantiknews.id/posts/701825/tni-lancarkan-aksi-humanis-redam-aksi-massa-di-mako-brimob-kwitang"
+    },
+    {
+        "title": "Australia dan Indonesia Mendukung Perusahaan Rintisan Bidang Energi Bersih",
+        "category": "Network",
+        "publish_time": "29-08-2025 08:19",
+        "news_link": "https://pemantiknews.id/posts/701828/australia-dan-indonesia-mendukung-perusahaan-rintisan-bidang-energi-bersih"
+    },
+    {
+        "title": "Keluarga Affan Kurniawan di Pemakaman: Dia Nggak Ikut Demo, Lagi Antar Paket",
+        "category": "News",
+        "publish_time": "29-08-2025 08:19",
+        "news_link": "https://news.republika.co.id/berita/t1qxs7409/keluarga-affan-kurniawan-di-pemakaman-dia-nggak-ikut-demo-lagi-antar-paket"
+    },
+    {
         "title": "Komeng Terima BAZNAS Awards 2025, Ingatkan Pentingnya Zakat untuk Kesejahteraan Umat",
         "category": "Khazanah",
         "publish_time": "29-08-2025 08:15",
@@ -8,295 +236,67 @@
     {
         "title": "Ekonom: Anggaran Jumbo Polri Mestinya Dipangkas!",
         "category": "Ekonomi",
-        "publish_time": "29-08-2025 08:13",
+        "publish_time": "29-08-2025 08:15",
         "news_link": "https://ekonomi.republika.co.id/berita/t1qxhm370/ekonom-anggaran-jumbo-polri-mestinya-dipangkas"
     },
     {
         "title": "Massa Lempari Mako Brimob Kwitang dengan Molotov dan Petasan",
         "category": "News",
-        "publish_time": "29-08-2025 08:07",
+        "publish_time": "29-08-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/t1qx84484/massa-lempari-mako-brimob-kwitang-dengan-molotov-dan-petasan"
     },
     {
         "title": "Brimob Keluar Kandang, Tembaki Massa Aksi dengan Gas Air Mata",
         "category": "News",
-        "publish_time": "29-08-2025 08:05",
+        "publish_time": "29-08-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/t1qx4e393/brimob-keluar-kandang-tembaki-massa-aksi-dengan-gas-air-mata"
     },
     {
         "title": "5 Pernyataan Pilihan terkait Ojol Dilindas Aparat, dari Asosiasi Hingga Presiden",
         "category": "News",
-        "publish_time": "29-08-2025 08:02",
+        "publish_time": "29-08-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/t1qwzx451/5-pernyataan-pilihan-terkait-ojol-dilindas-aparat-dari-asosiasi-hingga-presiden"
     },
     {
         "title": "Unjuk Rasa di Kwitang, KAI Alihkan Pemberhentian KA ke Stasiun Jatinegara",
         "category": "Ekonomi",
-        "publish_time": "29-08-2025 08:01",
+        "publish_time": "29-08-2025 08:15",
         "news_link": "https://ekonomi.republika.co.id/berita/t1qwyc370/unjuk-rasa-di-kwitang-kai-alihkan-pemberhentian-ka-ke-stasiun-jatinegara"
     },
     {
         "title": "Senator Asal Jakarta Minta Kapolri Hadirkan Anggota Penabrak Affan untuk Minta Maaf Secara Terbuka",
         "category": "News",
-        "publish_time": "29-08-2025 07:59",
+        "publish_time": "29-08-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/t1qwur348/senator-asal-jakarta-minta-kapolri-hadirkan-anggota-penabrak-affan-untuk-minta-maaf-secara-terbuka"
     },
     {
         "title": "Tujuh Anggota Brimob yang Lindas Ojol Diperiksa Divisi Propam Polri",
         "category": "News",
-        "publish_time": "29-08-2025 07:55",
+        "publish_time": "29-08-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/t1qwo0484/tujuh-anggota-brimob-yang-lindas-ojol-diperiksa-divisi-propam-polri"
     },
     {
         "title": "Gunakan Diksi Affan 'Tertabrak', Akun X Mabes Polri Diserbu Warganet",
         "category": "News",
-        "publish_time": "29-08-2025 07:53",
+        "publish_time": "29-08-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/t1qwlu377/gunakan-diksi-affan-tertabrak-akun-x-mabes-polri-diserbu-warganet"
     },
     {
         "title": "Lolos ke Semifinal ASBC 2025 Kemenpora Apresiasi Timnas Basket Putri Indonesia",
         "category": "Network",
-        "publish_time": "29-08-2025 07:50",
+        "publish_time": "29-08-2025 08:15",
         "news_link": "https://skor.republika.co.id/posts/701831/lolos-ke-semifinal-asbc-2025-kemenpora-apresiasi-timnas-basket-putri-indonesia"
     },
     {
         "title": "Massa Ojol Tertahan Ketika Hendak Menuju Mako Brimob",
         "category": "Video",
-        "publish_time": "29-08-2025 07:47",
+        "publish_time": "29-08-2025 08:15",
         "news_link": "https://tv.republika.co.id/berita/t1qwaq527/massa-ojol-tertahan-ketika-hendak-menuju-mako-brimob"
     },
     {
         "title": "Pendemo Lempari Botol Dansat Brimob Polda Metro Jaya",
         "category": "News",
-        "publish_time": "29-08-2025 07:47",
+        "publish_time": "29-08-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/t1qwao484/pendemo-lempari-botol-dansat-brimob-polda-metro-jaya"
-    },
-    {
-        "title": "Massa Aksi Mako Brimob Lempar Molotov, Marinir Sempat Terbakar",
-        "category": "News",
-        "publish_time": "29-08-2025 07:44",
-        "news_link": "https://news.republika.co.id/berita/t1qw5b393/massa-aksi-mako-brimob-lempar-molotov-marinir-sempat-terbakar"
-    },
-    {
-        "title": "Pegadaian Championship Bersiap Sambut Musim 2025/2026 dengan VAR, Gelar Sosialisasi Aturan ke Klub",
-        "category": "News",
-        "publish_time": "29-08-2025 07:35",
-        "news_link": "https://news.republika.co.id/berita/t1qvrd348/pegadaian-championship-bersiap-sambut-musim-20252026-dengan-var-gelar-sosialisasi-aturan-ke-klub"
-    },
-    {
-        "title": "Duka dan Amarah Usai Demo: Lagu 'Ibu Pertiwi' Jadi Jeritan Hati Warganet",
-        "category": "Ameera",
-        "publish_time": "29-08-2025 07:34",
-        "news_link": "https://ameera.republika.co.id/berita/t1qvp7425/duka-dan-amarah-usai-demo-lagu-ibu-pertiwi-jadi-jeritan-hati-warganet"
-    },
-    {
-        "title": "Aparat Lindas Pengemudi Ojol, Presiden: Kami Tindak Sekeras-kerasnya Sesuai Hukum",
-        "category": "News",
-        "publish_time": "29-08-2025 07:30",
-        "news_link": "https://news.republika.co.id/berita/t1qviu451/aparat-lindas-pengemudi-ojol-presiden-kami-tindak-sekeraskerasnya-sesuai-hukum"
-    },
-    {
-        "title": "Aksi Demonstrasi, Ketum Persis Imbau Kedepankan Keselamatan",
-        "category": "Khazanah",
-        "publish_time": "29-08-2025 07:30",
-        "news_link": "https://khazanah.republika.co.id/berita/t1qvin430/aksi-demonstrasi-ketum-persis-imbau-kedepankan-keselamatan"
-    },
-    {
-        "title": "Manfaat Manajemen Talenta, Mendikdasmen:  untuk Pastikan Tugas Kenegaraan Terlaksana dengan Baik",
-        "category": "News",
-        "publish_time": "29-08-2025 07:28",
-        "news_link": "https://news.republika.co.id/berita/t1qr5l451/manfaat-manajemen-talenta-mendikdasmen-untuk-pastikan-tugas-kenegaraan-terlaksana-dengan-baik"
-    },
-    {
-        "title": "Massa Berbendera One Piece Lempar Petasan, Brimob Ngumpet",
-        "category": "News",
-        "publish_time": "29-08-2025 07:23",
-        "news_link": "https://news.republika.co.id/berita/t1qv7i393/massa-berbendera-one-piece-lempar-petasan-brimob-ngumpet"
-    },
-    {
-        "title": "Demo Jakarta Tekan IHSG, Anjlok 180 Poin pada Sesi I Perdagangan",
-        "category": "Ekonomi",
-        "publish_time": "29-08-2025 07:20",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1qv2s370/demo-jakarta-tekan-ihsg-anjlok-180-poin-pada-sesi-i-perdagangan"
-    },
-    {
-        "title": "Sempat Reda, Ratusan Massa Kembali Demo Mako Brimob Kwitang Teriakkan Kata 'Pembunuh!'",
-        "category": "News",
-        "publish_time": "29-08-2025 07:18",
-        "news_link": "https://news.republika.co.id/berita/t1quq6409/sempat-reda-ratusan-massa-kembali-demo-mako-brimob-kwitang-teriakkan-kata-pembunuh"
-    },
-    {
-        "title": "Ombudsman Janji Awasi Pemeriksaan Polisi Pelindas Ojol",
-        "category": "News",
-        "publish_time": "29-08-2025 07:18",
-        "news_link": "https://news.republika.co.id/berita/t1qupk416/ombudsman-janji-awasi-pemeriksaan-polisi-pelindas-ojol"
-    },
-    {
-        "title": "RS Polri Kramat Jati Cek Isu Ada Anggota Polisi Meninggal Usai Kawal Demo 28 Agustus",
-        "category": "News",
-        "publish_time": "29-08-2025 07:18",
-        "news_link": "https://news.republika.co.id/berita/t1qufi409/rs-polri-kramat-jati-cek-isu-ada-anggota-polisi-meninggal-usai-kawal-demo-28-agustus"
-    },
-    {
-        "title": "Pemakaman Affan Kurniawan Dibantu oleh Pemprov Jakarta",
-        "category": "Video",
-        "publish_time": "29-08-2025 07:18",
-        "news_link": "https://tv.republika.co.id/berita/t1qua9527/pemakaman-affan-kurniawan-dibantu-oleh-pemprov-jakarta"
-    },
-    {
-        "title": "Hadiri Pemakaman, Kapolda Metro Janji Usut Tuntas Kasus Kematian Affan Kurniawan",
-        "category": "News",
-        "publish_time": "29-08-2025 07:18",
-        "news_link": "https://news.republika.co.id/berita/t1qu6k370/hadiri-pemakaman-kapolda-metro-janji-usut-tuntas-kasus-kematian-affan-kurniawan"
-    },
-    {
-        "title": "Geruduk Polda Metro Hari Ini, Mahasiswa UI: Saya Dicekek dan Dipukul Intel Kemarin",
-        "category": "News",
-        "publish_time": "29-08-2025 07:18",
-        "news_link": "https://news.republika.co.id/berita/t1qu6e377/geruduk-polda-metro-hari-ini-mahasiswa-ui-saya-dicekek-dan-dipukul-intel-kemarin"
-    },
-    {
-        "title": "Koperasi Bangun Tani Makmur: Harapan Baru dari Kampung Cirumput untuk Petani Hortikultura",
-        "category": "Ekonomi",
-        "publish_time": "29-08-2025 07:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1qi3u451/koperasi-bangun-tani-makmur-harapan-baru-dari-kampung-cirumput-untuk-petani-hortikultura"
-    },
-    {
-        "title": "Pengemudi Ojol Dilindas Polisi, Komnas HAM: Bentuk Kekerasan Negara kepada Masyarakat Sipil!",
-        "category": "News",
-        "publish_time": "29-08-2025 07:18",
-        "news_link": "https://news.republika.co.id/berita/t1qu52487/pengemudi-ojol-dilindas-polisi-komnas-ham-bentuk-kekerasan-negara-kepada-masyarakat-sipil"
-    },
-    {
-        "title": "Asal Usul Kwitang: Dari Majelis Taklim Habib Ali Kini Jadi Kantor Mako Brimob Polri",
-        "category": "News",
-        "publish_time": "29-08-2025 07:18",
-        "news_link": "https://news.republika.co.id/berita/t1qu3o282/asal-usul-kwitang-dari-majelis-taklim-habib-ali-kini-jadi-kantor-mako-brimob-polri"
-    },
-    {
-        "title": "Raih BAZNAS Awards 2025, Menko PM Muhaimin Dorong Kolaborasi Perangi Kemiskinan di Indonesia",
-        "category": "Khazanah",
-        "publish_time": "29-08-2025 07:18",
-        "news_link": "https://khazanah.republika.co.id/berita/t1qtqa368/raih-baznas-awards-2025-menko-pm-muhaimin-dorong-kolaborasi-perangi-kemiskinan-di-indonesia"
-    },
-    {
-        "title": "Ratusan Demonstran Geruduk Mako Brimob Usai Sholat Jumat",
-        "category": "News",
-        "publish_time": "29-08-2025 07:18",
-        "news_link": "https://news.republika.co.id/berita/t1qtpz370/ratusan-demonstran-geruduk-mako-brimob-usai-sholat-jumat"
-    },
-    {
-        "title": "Ojol Dilindas Polisi, PKS: Hilangnya Nyawa Warga Negara Bukan Perkara Sepele",
-        "category": "News",
-        "publish_time": "29-08-2025 07:18",
-        "news_link": "https://news.republika.co.id/berita/t1qtpl451/ojol-dilindas-polisi-pks-hilangnya-nyawa-warga-negara-bukan-perkara-sepele"
-    },
-    {
-        "title": "Marinir Datang, Demo di Mako Brimob Kwitang Sempat Mereda",
-        "category": "News",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://news.republika.co.id/berita/t1qtkc393/marinir-datang-demo-di-mako-brimob-kwitang-sempat-mereda"
-    },
-    {
-        "title": "Usai Viral Larang Caci Maki Dewan Berlebihan, Sahroni Diganti dari Wakil Ketua Komisi III DPR RI",
-        "category": "News",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://news.republika.co.id/berita/t1qtjx377/usai-viral-larang-caci-maki-dewan-berlebihan-sahroni-diganti-dari-wakil-ketua-komisi-iii-dpr-ri"
-    },
-    {
-        "title": "Pemprov Jakarta tak akan Cabut KJP Pelajar yang Unjuk Rasa, tapi Imbau tak Ikut Serta",
-        "category": "News",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://news.republika.co.id/berita/t1qtjo348/pemprov-jakarta-tak-akan-cabut-kjp-pelajar-yang-unjuk-rasa-tapi-imbau-tak-ikut-serta"
-    },
-    {
-        "title": "Dana Transfer Daerah Dipangkas Rp269 Triliun, Ini Pesan Mendagri ke Pemda",
-        "category": "Ekonomi",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1qtc8416/dana-transfer-daerah-dipangkas-rp269-triliun-ini-pesan-mendagri-ke-pemda"
-    },
-    {
-        "title": "Harga Emas Dekati Rp2 Juta per Gram, Ini Pemicunya",
-        "category": "Ekonomi",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1qsze416/harga-emas-dekati-rp2-juta-per-gram-ini-pemicunya"
-    },
-    {
-        "title": "Rantis Tewaskan Pengemudi Ojol, Anggaran Kendaraan Polri Capai Rp 29,3 Triliun",
-        "category": "Ekonomi",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1qsxa393/rantis-tewaskan-pengemudi-ojol-anggaran-kendaraan-polri-capai-rp-293-triliun"
-    },
-    {
-        "title": "BSI FLASH dan BSI Digination 2026 Siap Cetak Talenta Muda Digital Kreatif di Sukabumi",
-        "category": "News",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://news.republika.co.id/berita/t1qss6472/bsi-flash-dan-bsi-digination-2026-siap-cetak-talenta-muda-digital-kreatif-di-sukabumi"
-    },
-    {
-        "title": "UNM dan IIUM Malaysia Jajaki Kerja Sama Riset Hingga Pengembangan Kurikulum",
-        "category": "News",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://news.republika.co.id/berita/t1qrx3368/unm-dan-iium-malaysia-jajaki-kerja-sama-riset-hingga-pengembangan-kurikulum"
-    },
-    {
-        "title": "IPW Endus Kesalahan Prosedur di Insiden Rantis Lindas Ojol",
-        "category": "News",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://news.republika.co.id/berita/t1qso6328/ipw-endus-kesalahan-prosedur-di-insiden-rantis-lindas-ojol"
-    },
-    {
-        "title": "Media Asing Soroti Kematian Driver Ojol Affan yang Tewas Dilindas Mobil Rantis Brimob",
-        "category": "News",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://news.republika.co.id/berita/t1qslb377/media-asing-soroti-kematian-driver-ojol-affan-yang-tewas-dilindas-mobil-rantis-brimob"
-    },
-    {
-        "title": "Buruh Jateng Soroti Korupsi Wamenaker: Kami Bayar Sertifikasi K3 Rp4 Juta, Harganya Cuma Rp275 Ribu",
-        "category": "Rejogja",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://rejogja.republika.co.id/berita/t1qsju282/buruh-jateng-soroti-korupsi-wamenaker-kami-bayar-sertifikasi-k3-rp4-juta-harganya-cuma-rp275-ribu"
-    },
-    {
-        "title": "Mahasiswa Prodi STI Cyber University Sabet First Runner Up Fintech Hackathon 2025",
-        "category": "News",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://news.republika.co.id/berita/t1qsdy472/mahasiswa-prodi-sti-cyber-university-sabet-first-runner-up-fintech-hackathon-2025"
-    },
-    {
-        "title": "Jelang Demo Jalan Raya Menuju Mako Brimob Senen Ditutup, Petugas Gabungan Berjaga-jaga",
-        "category": "News",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://news.republika.co.id/berita/t1qsb2282/jelang-demo-jalan-raya-menuju-mako-brimob-senen-ditutup-petugas-gabungan-berjagajaga"
-    },
-    {
-        "title": "CAIR Kecam Seruan Israel Mengusir Muslim dari Eropa",
-        "category": "Khazanah",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://khazanah.republika.co.id/berita/t1qqxd451/cair-kecam-seruan-israel-mengusir-muslim-dari-eropa"
-    },
-    {
-        "title": "Cyber University Cetak Talenta Global Lewat Student Exchange dan Fintech Immersion di UTP Malaysia",
-        "category": "News",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://news.republika.co.id/berita/t1qs1h472/cyber-university-cetak-talenta-global-lewat-student-exchange-dan-fintech-immersion-di-utp-malaysia"
-    },
-    {
-        "title": "Daop 2 Bandung Tutup Puluhan Perlintasan Kereta Api yang tidak Dijaga",
-        "category": "Rejabar",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://rejabar.republika.co.id/berita/t1qs15282/daop-2-bandung-tutup-puluhan-perlintasan-kereta-api-yang-tidak-dijaga"
-    },
-    {
-        "title": "Home Produksi Tembakau Sintetis Beromzet Ratusan Juta di Kota Cimahi Digerebek Polisi",
-        "category": "Rejabar",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://rejabar.republika.co.id/berita/t1qs0i512/home-produksi-tembakau-sintetis-beromzet-ratusan-juta-di-kota-cimahi-digerebek-polisi"
-    },
-    {
-        "title": "Mahasiswa Turun ke Jalan, Gelar Aksi di Polda Metro Jaya Siang Ini",
-        "category": "News",
-        "publish_time": "29-08-2025 06:18",
-        "news_link": "https://news.republika.co.id/berita/t1qrz7425/mahasiswa-turun-ke-jalan-gelar-aksi-di-polda-metro-jaya-siang-ini"
     }
 ]
