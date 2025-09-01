@@ -1,98 +1,254 @@
 [
     {
+        "title": "Bulog Pastikan HET Beras SPHP tak Ikut Naik",
+        "category": "Ekonomi",
+        "publish_time": "01-09-2025 12:24",
+        "news_link": "https://ekonomi.republika.co.id/berita/t1wt53416/bulog-pastikan-het-beras-sphp-tak-ikut-naik"
+    },
+    {
+        "title": "Bea Cukai Musnahkan Miras Hingga Rokok Ilegal Senilai Rp 7,8 Miliar",
+        "category": "Network",
+        "publish_time": "01-09-2025 12:21",
+        "news_link": "https://pemantiknews.id/posts/702324/bea-cukai-musnahkan-miras-hingga-rokok-ilegal-senilai-rp-7-8-miliar"
+    },
+    {
+        "title": "Tanpa Login dan Register, Verifikasi TASPEN untuk Penerima Manfaat Kini Lebih Mudah",
+        "category": "Network",
+        "publish_time": "01-09-2025 12:20",
+        "news_link": "https://pemantiknews.id/posts/702329/tanpa-login-dan-register-verifikasi-taspen-untuk-penerima-manfaat-kini-lebih-mudah"
+    },
+    {
+        "title": "Anarkisme Jadi Persoalan Bangsa yang Harus Dibenahi",
+        "category": "News",
+        "publish_time": "01-09-2025 12:20",
+        "news_link": "https://news.republika.co.id/berita/t1wsxh484/anarkisme-jadi-persoalan-bangsa-yang-harus-dibenahi"
+    },
+    {
+        "title": "PBSI Umumkan Jesita Putri Miantoro Mundur dari Pelatnas",
+        "category": "Network",
+        "publish_time": "01-09-2025 12:20",
+        "news_link": "https://skor.republika.co.id/posts/702334/pbsi-umumkan-jesita-putri-miantoro-mundur-dari-pelatnas"
+    },
+    {
+        "title": "Rumah Zakat Raih LAZ Nasional Kelembagaan Terbaik dalam BAZNAS Award",
+        "category": "Network",
+        "publish_time": "01-09-2025 12:20",
+        "news_link": "https://pemantiknews.id/posts/702333/rumah-zakat-raih-laz-nasional-kelembagaan-terbaik-dalam-baznas-award"
+    },
+    {
+        "title": "Cerita Ace Hasan Sadzily Eks Santri Cipasung yang Pimpin Lemhannas",
+        "category": "Rejabar",
+        "publish_time": "01-09-2025 12:16",
+        "news_link": "https://rejabar.republika.co.id/berita/t1wsrf282/cerita-ace-hasan-sadzily-eks-santri-cipasung-yang-pimpin-lemhannas"
+    },
+    {
+        "title": "Demonstran Tolak Kunjungan Netanyahu dan Kecam Genosida Gaza",
+        "category": "Khazanah",
+        "publish_time": "01-09-2025 12:15",
+        "news_link": "https://khazanah.republika.co.id/berita/t1wsqm430/demonstran-tolak-kunjungan-netanyahu-dan-kecam-genosida-gaza"
+    },
+    {
+        "title": "Respons Tuntutan Massa, Prabowo: Demi Allah, Saya tidak akan Mundur",
+        "category": "News",
+        "publish_time": "01-09-2025 12:09",
+        "news_link": "https://news.republika.co.id/berita/t1wsfl484/respons-tuntutan-massa-prabowo-demi-allah-saya-tidak-akan-mundur"
+    },
+    {
+        "title": "Polres Indramayu Gelar Patroli Gabungan, Antisipasi Gangguan Kamtibmas",
+        "category": "Rejabar",
+        "publish_time": "01-09-2025 12:08",
+        "news_link": "https://rejabar.republika.co.id/berita/t1wsea512/polres-indramayu-gelar-patroli-gabungan-antisipasi-gangguan-kamtibmas"
+    },
+    {
+        "title": "Bersama Rinaldy Yunardi, PNM Bawa 14 Perempuan Hebat ke Panggung Dunia Industri Kreatif",
+        "category": "Ekonomi",
+        "publish_time": "01-09-2025 11:54",
+        "news_link": "https://ekonomi.republika.co.id/berita/t1wrrh472/bersama-rinaldy-yunardi-pnm-bawa-14-perempuan-hebat-ke-panggung-dunia-industri-kreatif"
+    },
+    {
+        "title": "Waspadai Aktor Asing, Kiai Said Aqil Ajak Rakyat Bersatu Jaga NKRI",
+        "category": "Khazanah",
+        "publish_time": "01-09-2025 11:51",
+        "news_link": "https://khazanah.republika.co.id/berita/t1wrm3430/waspadai-aktor-asing-kiai-said-aqil-ajak-rakyat-bersatu-jaga-nkri"
+    },
+    {
+        "title": "Tak Ada Kericuhan, Massa Aksi di Depan Gedung DPR Bubar dengan Tenang",
+        "category": "News",
+        "publish_time": "01-09-2025 11:49",
+        "news_link": "https://news.republika.co.id/berita/t1wrhs484/tak-ada-kericuhan-massa-aksi-di-depan-gedung-dpr-bubar-dengan-tenang"
+    },
+    {
+        "title": "Pemerintah Rampungkan Perpres Pembangkit Listrik Tenaga Sampah",
+        "category": "Esgnow",
+        "publish_time": "01-09-2025 11:43",
+        "news_link": "https://esgnow.republika.co.id/berita/t1wr8l416/pemerintah-rampungkan-perpres-pembangkit-listrik-tenaga-sampah"
+    },
+    {
+        "title": "Ustadz Maulana: Masjid Bukan Hanya Digunakan Ibadah, Tapi Pembinaan Umat",
+        "category": "Khazanah",
+        "publish_time": "01-09-2025 11:42",
+        "news_link": "https://khazanah.republika.co.id/berita/t1wr6s430/ustadz-maulana-masjid-bukan-hanya-digunakan-ibadah-tapi-pembinaan-umat"
+    },
+    {
+        "title": "Bayer Leverkusen Umumkan Pecat Erik ten Hag",
+        "category": "Network",
+        "publish_time": "01-09-2025 11:40",
+        "news_link": "https://skor.republika.co.id/posts/702328/bayer-leverkusen-umumkan-pecat-erik-ten-hag"
+    },
+    {
+        "title": "Psikolog Jelaskan Cara Ampuh Redam Kecemasan di Tengah Banjir Berita",
+        "category": "Ameera",
+        "publish_time": "01-09-2025 11:35",
+        "news_link": "https://ameera.republika.co.id/berita/t1wqur425/psikolog-jelaskan-cara-ampuh-redam-kecemasan-di-tengah-banjir-berita"
+    },
+    {
+        "title": "Tertekan Aksi Demo, IHSG Ditutup Melemah 1,2 Persen",
+        "category": "Visual",
+        "publish_time": "01-09-2025 11:31",
+        "news_link": "https://visual.republika.co.id/berita/t1wqos375/tertekan-aksi-demo-ihsg-ditutup-melemah-12-persen"
+    },
+    {
+        "title": "Aksi Damai Warnai Bundaran UGM, Ribuan Orang Tuntut Keadilan untuk Affan dan Rheza",
+        "category": "Rejogja",
+        "publish_time": "01-09-2025 11:30",
+        "news_link": "https://rejogja.republika.co.id/berita/t1wqm7291/aksi-damai-warnai-bundaran-ugm-ribuan-orang-tuntut-keadilan-untuk-affan-dan-rheza"
+    },
+    {
+        "title": "Survei Terbaru Ungkap Gen Z Amerika Serikat Lebih Dukung Hamas Ketimbang Israel",
+        "category": "Khazanah",
+        "publish_time": "01-09-2025 11:29",
+        "news_link": "https://khazanah.republika.co.id/berita/t1wqkw320/survei-terbaru-ungkap-gen-z-amerika-serikat-lebih-dukung-hamas-ketimbang-israel"
+    },
+    {
+        "title": "Situasi Terkini Rumah Uya Kuya Usai Dijarah Massa, Warga: Nggak Dibakar Aja Untung",
+        "category": "News",
+        "publish_time": "01-09-2025 11:29",
+        "news_link": "https://news.republika.co.id/berita/t1wq8w423/situasi-terkini-rumah-uya-kuya-usai-dijarah-massa-warga-nggak-dibakar-aja-untung"
+    },
+    {
+        "title": "Gubernur Lemhannas Ingatkan Masyarakat Waspadai Provokasi di Medsos",
+        "category": "Rejabar",
+        "publish_time": "01-09-2025 11:29",
+        "news_link": "https://rejabar.republika.co.id/berita/t1wq5n282/gubernur-lemhannas-ingatkan-masyarakat-waspadai-provokasi-di-medsos"
+    },
+    {
+        "title": "Rekap Pekan Ketiga FFWS SEA Fall 2025, Tim Thailand Berkuasa",
+        "category": "Network",
+        "publish_time": "01-09-2025 11:29",
+        "news_link": "https://skor.republika.co.id/posts/702323/rekap-pekan-ketiga-ffws-sea-fall-2025-tim-thailand-berkuasa"
+    },
+    {
+        "title": "Nampan MBG Diduga Berbahan Babi, Pakar IPB: Kadang Lemak Hewani Digunakan untuk Industri Kecil",
+        "category": "Khazanah",
+        "publish_time": "01-09-2025 11:29",
+        "news_link": "https://khazanah.republika.co.id/berita/t1wq1c483/nampan-mbg-diduga-berbahan-babi-pakar-ipb-kadang-lemak-hewani-digunakan-untuk-industri-kecil"
+    },
+    {
+        "title": "Jalan Gatot Subroto Terpantau Padat Imbas Unjuk Rasa di DPR",
+        "category": "News",
+        "publish_time": "01-09-2025 11:29",
+        "news_link": "https://news.republika.co.id/berita/t1wpxu328/jalan-gatot-subroto-terpantau-padat-imbas-unjuk-rasa-di-dpr"
+    },
+    {
+        "title": "Gandeng Komunitas Madura, Sandiaga: Cetak Barista Wirausaha Muda",
+        "category": "News",
+        "publish_time": "01-09-2025 11:29",
+        "news_link": "https://news.republika.co.id/berita/t1wpuj484/gandeng-komunitas-madura-sandiaga-cetak-barista-wirausaha-muda"
+    },
+    {
         "title": "Lucky Hakim Keliling Sekolah, Cegah Pelajar Indramayu\u00a0Terhasut\u00a0Demo Anarkis",
         "category": "Rejabar",
-        "publish_time": "01-09-2025 11:11",
+        "publish_time": "01-09-2025 11:29",
         "news_link": "https://rejabar.republika.co.id/berita/t1wprq512/lucky-hakim-keliling-sekolah-cegah-pelajar-indramayuterhasutdemo-anarkis"
     },
     {
         "title": "BBM di SPBU Swasta Masih Langka, Wamen ESDM Minta Cek ke Dirjen Migas",
         "category": "Ekonomi",
-        "publish_time": "01-09-2025 11:09",
+        "publish_time": "01-09-2025 11:29",
         "news_link": "https://ekonomi.republika.co.id/berita/t1wpmk423/bbm-di-spbu-swasta-masih-langka-wamen-esdm-minta-cek-ke-dirjen-migas"
     },
     {
         "title": "Kunto Aji Sebut Artis yang Dicopot dari DPR adalah Konsekuensi",
         "category": "Ameera",
-        "publish_time": "01-09-2025 11:05",
+        "publish_time": "01-09-2025 11:29",
         "news_link": "https://ameera.republika.co.id/berita/t1wpfu328/kunto-aji-sebut-artis-yang-dicopot-dari-dpr-adalah-konsekuensi"
     },
     {
         "title": "Dedi Mulyadi: Perbaikan Gedung DPRD Jabar Akibat Dirusak Capai Rp 10 Miliar",
         "category": "Rejabar",
-        "publish_time": "01-09-2025 11:02",
+        "publish_time": "01-09-2025 11:29",
         "news_link": "https://rejabar.republika.co.id/berita/t1wpbj512/dedi-mulyadi-perbaikan-gedung-dprd-jabar-akibat-dirusak-capai-rp-10-miliar"
     },
     {
         "title": "Bursa Transfer Awal Musim Super League 2025-2026 Resmi Ditutup, 18 Klub Bergerak Aktif",
         "category": "Network",
-        "publish_time": "01-09-2025 11:00",
+        "publish_time": "01-09-2025 11:29",
         "news_link": "https://skor.republika.co.id/posts/702321/bursa-transfer-awal-musim-super-league-2025-2026-resmi-ditutup-18-klub-bergerak-aktif"
     },
     {
         "title": "Mahasiswa Geruduk DPRD Jabar, Tuntut Reformasi Polri dan Pengesahan  UU Perampasan Aset",
         "category": "Visual",
-        "publish_time": "01-09-2025 11:00",
+        "publish_time": "01-09-2025 11:29",
         "news_link": "https://visual.republika.co.id/berita/t1wly0375/mahasiswa-geruduk-dprd-jabar-tuntut-reformasi-polri-dan-pengesahan-uu-perampasan-aset"
     },
     {
         "title": "Gus Yaqut Ngaku Dapatkan 18 Pertanyaan Selama Pemeriksaan oleh KPK",
         "category": "News",
-        "publish_time": "01-09-2025 10:52",
+        "publish_time": "01-09-2025 10:29",
         "news_link": "https://news.republika.co.id/berita/t1wovc348/gus-yaqut-ngaku-dapatkan-18-pertanyaan-selama-pemeriksaan-oleh-kpk"
     },
     {
         "title": "KAI Telah Tutup 657 Perlintasan dalam 3 Tahun Terakhir",
         "category": "Network",
-        "publish_time": "01-09-2025 10:52",
+        "publish_time": "01-09-2025 10:29",
         "news_link": "https://kreta.id/posts/702275/kai-telah-tutup-657-perlintasan-dalam-3-tahun-terakhir"
     },
     {
         "title": "Kalbar Segera Operasikan Sekolah Rakyat",
         "category": "News",
-        "publish_time": "01-09-2025 10:51",
+        "publish_time": "01-09-2025 10:29",
         "news_link": "https://news.republika.co.id/berita/t1wosl416/kalbar-segera-operasikan-sekolah-rakyat"
     },
     {
         "title": "Masyarakat Bandung Antusias Ikuti Program Hapus Tato Gratis, Syaratnya Hafalan Al Quran",
         "category": "Network",
-        "publish_time": "01-09-2025 10:50",
+        "publish_time": "01-09-2025 10:29",
         "news_link": "https://bandung24jam.id/posts/702318/masyarakat-bandung-antusias-ikuti-program-hapus-tato-gratis-syaratnya-hafalan-al-quran"
     },
     {
         "title": "Ratusan Mahasiswa Aksi Di Gedung DPRD Jabar Kritik Prabowo Tingkatkan Eskalasi Pengamanan",
         "category": "Rejabar",
-        "publish_time": "01-09-2025 10:48",
+        "publish_time": "01-09-2025 10:29",
         "news_link": "https://rejabar.republika.co.id/berita/t1woox512/ratusan-mahasiswa-aksi-di-gedung-dprd-jabar-kritik-prabowo-tingkatkan-eskalasi-pengamanan"
     },
     {
         "title": "Massa Aksi di Senayan Makin Bertambah Banyak, Minta Anggota DPR Bermasalah Dipecat",
         "category": "News",
-        "publish_time": "01-09-2025 10:44",
+        "publish_time": "01-09-2025 10:29",
         "news_link": "https://news.republika.co.id/berita/t1woht348/massa-aksi-di-senayan-makin-bertambah-banyak-minta-anggota-dpr-bermasalah-dipecat"
     },
     {
         "title": "Ekonomi Domestik Solid, tapi IHSG Tetap Terkoreksi",
         "category": "Ekonomi",
-        "publish_time": "01-09-2025 10:40",
+        "publish_time": "01-09-2025 10:29",
         "news_link": "https://ekonomi.republika.co.id/berita/t1wobo416/ekonomi-domestik-solid-tapi-ihsg-tetap-terkoreksi"
     },
     {
         "title": "Tragedi East Coast Park: Kisah Pencarian Muhammad Hairil Effendi Berujung Pilu",
         "category": "Ameera",
-        "publish_time": "01-09-2025 10:40",
+        "publish_time": "01-09-2025 10:29",
         "news_link": "https://ameera.republika.co.id/berita/t1wobf425/tragedi-east-coast-park-kisah-pencarian-muhammad-hairil-effendi-berujung-pilu"
     },
     {
         "title": "Kemendag: Penghentian TikTok Live tak Pengaruhi e-Commerce di Indonesia",
         "category": "Ekonomi",
-        "publish_time": "01-09-2025 10:35",
+        "publish_time": "01-09-2025 10:29",
         "news_link": "https://ekonomi.republika.co.id/berita/t1wo2g423/kemendag-penghentian-tiktok-live-tak-pengaruhi-ecommerce-di-indonesia"
     },
     {
         "title": "Dukung Prabowo Jaga Demokrasi, GMPK Serukan Jaga Persatuan!",
         "category": "News",
-        "publish_time": "01-09-2025 10:32",
+        "publish_time": "01-09-2025 10:29",
         "news_link": "https://news.republika.co.id/berita/t1wnxj484/dukung-prabowo-jaga-demokrasi-gmpk-serukan-jaga-persatuan"
     },
     {
@@ -110,193 +266,37 @@
     {
         "title": "Pemerintah Pastikan Distribusi Bahan Pokok Tetap Terkendali di Tengah Aksi Massa",
         "category": "Ekonomi",
-        "publish_time": "01-09-2025 10:26",
+        "publish_time": "01-09-2025 10:29",
         "news_link": "https://ekonomi.republika.co.id/berita/t1wnn2416/pemerintah-pastikan-distribusi-bahan-pokok-tetap-terkendali-di-tengah-aksi-massa"
     },
     {
         "title": "Gal Gadot Batal Hadiri Festival Film Venesia Setelah Diprotes Kelompok Pro Palestina",
         "category": "Ameera",
-        "publish_time": "01-09-2025 10:23",
+        "publish_time": "01-09-2025 10:29",
         "news_link": "https://ameera.republika.co.id/berita/t1wnhz425/gal-gadot-batal-hadiri-festival-film-venesia-setelah-diprotes-kelompok-pro-palestina"
     },
     {
         "title": "Ferry Irwandi Minta Polisi tak Mudah Labeli Peserta Aksi Sebagai Anarkis",
         "category": "News",
-        "publish_time": "01-09-2025 10:19",
+        "publish_time": "01-09-2025 10:29",
         "news_link": "https://news.republika.co.id/berita/t1wnbw328/ferry-irwandi-minta-polisi-tak-mudah-labeli-peserta-aksi-sebagai-anarkis"
     },
     {
         "title": "Banjir Lahar Hujan Semeru Ganggu Akses Siswa Menuju ke Sekolah",
         "category": "Visual",
-        "publish_time": "01-09-2025 10:15",
+        "publish_time": "01-09-2025 10:29",
         "news_link": "https://visual.republika.co.id/berita/t1wlqp375/banjir-lahar-hujan-semeru-ganggu-akses-siswa-menuju-ke-sekolah"
     },
     {
         "title": "Prabowo Naikkan Pangkat Polri yang Terluka: Bayangkan Terbakar Alat Vitalnya",
         "category": "News",
-        "publish_time": "01-09-2025 10:12",
+        "publish_time": "01-09-2025 10:29",
         "news_link": "https://news.republika.co.id/berita/t1wmrn484/prabowo-naikkan-pangkat-polri-yang-terluka-bayangkan-terbakar-alat-vitalnya"
     },
     {
         "title": "2 Putri Sultan Melayat ke Rumah Duka Mahasiswa Amikom yang Tewas Penuh Luka Saat Demo di Polda DIY",
         "category": "Rejogja",
-        "publish_time": "01-09-2025 10:12",
+        "publish_time": "01-09-2025 10:29",
         "news_link": "https://rejogja.republika.co.id/berita/t1wmqf282/2-putri-sultan-melayat-ke-rumah-duka-mahasiswa-amikom-yang-tewas-penuh-luka-saat-demo-di-polda-diy"
-    },
-    {
-        "title": "Jadwal Baru Pengambilan Sumpah Miliano Jonathans sebagai WNI",
-        "category": "Network",
-        "publish_time": "01-09-2025 10:12",
-        "news_link": "https://skor.republika.co.id/posts/702311/jadwal-baru-pengambilan-sumpah-miliano-jonathans-sebagai-wni"
-    },
-    {
-        "title": "Presiden Prabowo: Ada Pihak yang Sediakan Petasan Berat dan Besar di Truk untuk Demo",
-        "category": "News",
-        "publish_time": "01-09-2025 10:12",
-        "news_link": "https://news.republika.co.id/berita/t1wmde475/presiden-prabowo-ada-pihak-yang-sediakan-petasan-berat-dan-besar-di-truk-untuk-demo"
-    },
-    {
-        "title": "TNI dan Polri Jaga Ketat Malioboro, Begini Suasananya",
-        "category": "Rejogja",
-        "publish_time": "01-09-2025 10:12",
-        "news_link": "https://rejogja.republika.co.id/berita/t1wm1c282/tni-dan-polri-jaga-ketat-malioboro-begini-suasananya"
-    },
-    {
-        "title": "Korban Jiwa Gempa Afghanistan Bertambah, Capai 800 Orang",
-        "category": "News",
-        "publish_time": "01-09-2025 10:12",
-        "news_link": "https://news.republika.co.id/berita/t1wm0s393/korban-jiwa-gempa-afghanistan-bertambah-capai-800-orang"
-    },
-    {
-        "title": "Isu Panic Buying di Jakarta, Ini Suara Warga yang Justru Santai Berbelanja Harian",
-        "category": "Ekonomi",
-        "publish_time": "01-09-2025 10:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1wlte483/isu-panic-buying-di-jakarta-ini-suara-warga-yang-justru-santai-berbelanja-harian"
-    },
-    {
-        "title": "Target Pertumbuhan Ekonomi 5,2 Persen, Ini Strategi Airlangga di Paruh Kedua 2025",
-        "category": "Ekonomi",
-        "publish_time": "01-09-2025 10:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1wlt3423/target-pertumbuhan-ekonomi-52-persen-ini-strategi-airlangga-di-paruh-kedua-2025"
-    },
-    {
-        "title": "Gubernur Khofifah Prihatin Gedung Negara Grahadi Dibakar Massa",
-        "category": "News",
-        "publish_time": "01-09-2025 10:12",
-        "news_link": "https://news.republika.co.id/berita/t1wlp3484/gubernur-khofifah-prihatin-gedung-negara-grahadi-dibakar-massa"
-    },
-    {
-        "title": "KDM Siapkan Anggaran Perbaikan Fasum dan Stimulus Pemulihan Ekonomi",
-        "category": "Video",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://tv.republika.co.id/berita/t1wli8313/kdm-siapkan-anggaran-perbaikan-fasum-dan-stimulus-pemulihan-ekonomi"
-    },
-    {
-        "title": "Aparat Gabungan Gelar Patroli Skala Besar di Kota Semarang",
-        "category": "Visual",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://visual.republika.co.id/berita/t1wlfm375/aparat-gabungan-gelar-patroli-skala-besar-di-kota-semarang"
-    },
-    {
-        "title": "Marak Aksi Massa, Bulog Pastikan Penyaluran Beras Tetap Normal",
-        "category": "Ekonomi",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1wlav416/marak-aksi-massa-bulog-pastikan-penyaluran-beras-tetap-normal"
-    },
-    {
-        "title": "Ribuan Sekolah di Jakarta Terapkan PJJ",
-        "category": "Network",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://inforemaja.id/posts/702271/ribuan-sekolah-di-jakarta-terapkan-pjj"
-    },
-    {
-        "title": "'Rel Perjuangan untuk Bumi yang Merdeka'",
-        "category": "Network",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://kreta.id/posts/702272/-rel-perjuangan-untuk-bumi-yang-merdeka-"
-    },
-    {
-        "title": "Kualifikasi Piala Asia U-23: Korea Selatan dan Laos Berlatih Sore Ini, Makau Tiba Malam Nanti",
-        "category": "News",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://news.republika.co.id/berita/t1wl2m348/kualifikasi-piala-asia-u23-korea-selatan-dan-laos-berlatih-sore-ini-makau-tiba-malam-nanti"
-    },
-    {
-        "title": "Cegah Amuk Massa, Lesbumi NU Ingatkan Tanggap Baca Ayat-ayat Kauniyah",
-        "category": "Network",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://sajada.id/posts/702305/cegah-amuk-massa-lesbumi-nu-ingatkan-tanggap-baca-ayat-ayat-kauniyah"
-    },
-    {
-        "title": "Demonstrasi Masih Terjadi di Depan Gedung DPR RI, Mahasiswa: Puncaknya Kamis atau Jumat",
-        "category": "News",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://news.republika.co.id/berita/t1wkuo487/demonstrasi-masih-terjadi-di-depan-gedung-dpr-ri-mahasiswa-puncaknya-kamis-atau-jumat"
-    },
-    {
-        "title": "Bawa Tiga Koper Besar, Calvin Verdonk Langsung Gabung Timnas Indonesia Usai Tes Medis di Lille",
-        "category": "Network",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://skor.republika.co.id/posts/702304/bawa-tiga-koper-besar-calvin-verdonk-langsung-gabung-timnas-indonesia-usai-tes-medis-di-lille"
-    },
-    {
-        "title": "Sampaikan Aspirasi dengan Damai",
-        "category": "News",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://news.republika.co.id/berita/t1wkcs430/sampaikan-aspirasi-dengan-damai"
-    },
-    {
-        "title": "Presiden Prabowo Datangi RS Polri Kramat Jati, Jenguk Masih Ada 43 Polisi Cedera",
-        "category": "News",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://news.republika.co.id/berita/t1wkf3484/presiden-prabowo-datangi-rs-polri-kramat-jati-jenguk-masih-ada-43-polisi-cedera"
-    },
-    {
-        "title": "Airlangga Yakin Dinamika Sosial dan Politik Berdampak Jangka Pendek untuk Ekonomi, Ini Alasannya",
-        "category": "Ekonomi",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1wjib490/airlangga-yakin-dinamika-sosial-dan-politik-berdampak-jangka-pendek-untuk-ekonomi-ini-alasannya"
-    },
-    {
-        "title": "Zulhas Singgung Perbaikan Menyeluruh Sektor Pangan",
-        "category": "Ekonomi",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1wkav423/zulhas-singgung-perbaikan-menyeluruh-sektor-pangan"
-    },
-    {
-        "title": "Ratusan Massa Berpakaian Hitam Padati DPRD DIY, Bawa 11 Tuntutan ke Pemerintah",
-        "category": "Rejogja",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://rejogja.republika.co.id/berita/t1wk23282/ratusan-massa-berpakaian-hitam-padati-dprd-diy-bawa-11-tuntutan-ke-pemerintah"
-    },
-    {
-        "title": "Dorong Energi Berkelanjutan di Kawasan Industri, CGAS Mulai Proyek LNG Station di Karawang",
-        "category": "Esgnow",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://esgnow.republika.co.id/berita/t1wk00490/dorong-energi-berkelanjutan-di-kawasan-industri-cgas-mulai-proyek-lng-station-di-karawang"
-    },
-    {
-        "title": "Kasus Campak Merebak, Epidemiolog Minta Pemerintah Perluas Cakupan Vaksinasi",
-        "category": "Ameera",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://ameera.republika.co.id/berita/t1wjrl425/kasus-campak-merebak-epidemiolog-minta-pemerintah-perluas-cakupan-vaksinasi"
-    },
-    {
-        "title": "BPS: Penumpang Udara Internasional Juli 2025 Naik, Didukung Jamaah Umroh",
-        "category": "Ekonomi",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/t1wjhv370/bps-penumpang-udara-internasional-juli-2025-naik-didukung-jamaah-umroh"
-    },
-    {
-        "title": "Rumah Zakat Jadi LAZ Nasional Kelembagaan Terbaik di BAZNAS Awards 2025",
-        "category": "Khazanah",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://khazanah.republika.co.id/berita/t1wjcz472/rumah-zakat-jadi-laz-nasional-kelembagaan-terbaik-di-baznas-awards-2025"
-    },
-    {
-        "title": "Sultan HB X Bertitah Pejabat DIY Lebih Peka, Jangan Hanya Gunakan Akal Tapi Juga Rasa",
-        "category": "Rejogja",
-        "publish_time": "01-09-2025 09:12",
-        "news_link": "https://rejogja.republika.co.id/berita/t1wjbc282/sultan-hb-x-bertitah-pejabat-diy-lebih-peka-jangan-hanya-gunakan-akal-tapi-juga-rasa"
     }
 ]
