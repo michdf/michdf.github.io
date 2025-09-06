@@ -1,5 +1,89 @@
 [
     {
+        "title": "UNM Serahkan Aplikasi Inventori Barang ke SMK Fatahillah, Dukung Transformasi Digital Pendidikan",
+        "category": "News",
+        "publish_time": "06 September 2025, 17:06",
+        "news_link": "https://news.republika.co.id/berita/t25w2v472/unm-serahkan-aplikasi-inventori-barang-ke-smk-fatahillah-dukung-transformasi-digital-pendidikan"
+    },
+    {
+        "title": "Bulog Maksimalkan Tujuh Saluran Ini untuk Perdistribusian Beras",
+        "category": "Ekonomi",
+        "publish_time": "06 September 2025, 17:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/t25v73370/bulog-maksimalkan-tujuh-saluran-ini-untuk-perdistribusian-beras"
+    },
+    {
+        "title": "Maulid Nabi Muhammad SAW Mengajarkan Kepedulian Sosial",
+        "category": "Khazanah",
+        "publish_time": "06 September 2025, 17:01",
+        "news_link": "https://khazanah.republika.co.id/berita/t25rkq451/maulid-nabi-muhammad-saw-mengajarkan-kepedulian-sosial"
+    },
+    {
+        "title": "10 Pencetak Gol Termuda Timnas Brasil, Estevao Willian Melewati Neymar",
+        "category": "Network",
+        "publish_time": "06 September 2025, 17:00",
+        "news_link": "https://skor.republika.co.id/posts/703185/10-pencetak-gol-termuda-timnas-brasil-estevao-willian-melewati-neymar"
+    },
+    {
+        "title": "Garebeg Maulud: Tradisi Sakral yang Dikagumi Wisatawan Mancanegara di Yogyakarta",
+        "category": "Rejogja",
+        "publish_time": "06 September 2025, 16:56",
+        "news_link": "https://rejogja.republika.co.id/berita/t25i55282/garebeg-maulud-tradisi-sakral-yang-dikagumi-wisatawan-mancanegara-di-yogyakarta"
+    },
+    {
+        "title": "Panjang Jimat, Tradisi Keraton di Cirebon Sambut Kelahiran Sang Nabi",
+        "category": "Rejabar",
+        "publish_time": "06 September 2025, 16:55",
+        "news_link": "https://rejabar.republika.co.id/berita/t25vl3512/panjang-jimat-tradisi-keraton-di-cirebon-sambut-kelahiran-sang-nabi"
+    },
+    {
+        "title": "UNM dan Pemkot Bekasi Berkolaborasi: Berikan Beasiswa Kuliah untuk Mahasiswa Berprestasi",
+        "category": "News",
+        "publish_time": "06 September 2025, 16:54",
+        "news_link": "https://news.republika.co.id/berita/t25vjb472/unm-dan-pemkot-bekasi-berkolaborasi-berikan-beasiswa-kuliah-untuk-mahasiswa-berprestasi"
+    },
+    {
+        "title": "Bus Transjakarta Tabrak Toko Manggarai, Manajemen Minta Maaf",
+        "category": "News",
+        "publish_time": "06 September 2025, 16:51",
+        "news_link": "https://news.republika.co.id/berita/t25vef484/bus-transjakarta-tabrak-toko-manggarai-manajemen-minta-maaf"
+    },
+    {
+        "title": "Presiden Buruh Respons Video Isak Tangis PHK Massal Pegawai Gudang Garam",
+        "category": "News",
+        "publish_time": "06 September 2025, 16:33",
+        "news_link": "https://news.republika.co.id/berita/t25uj7484/presiden-buruh-respons-video-isak-tangis-phk-massal-pegawai-gudang-garam"
+    },
+    {
+        "title": "Muhammadiyah Ajak Umat Teladani Sikap Nabi Muhammad",
+        "category": "Khazanah",
+        "publish_time": "06 September 2025, 16:31",
+        "news_link": "https://khazanah.republika.co.id/berita/t25pro451/muhammadiyah-ajak-umat-teladani-sikap-nabi-muhammad"
+    },
+    {
+        "title": "Kuah Beulangong, Tradisi Kuliner Khas Aceh dalam Perayaan Maulid Nabi",
+        "category": "Visual",
+        "publish_time": "06 September 2025, 16:30",
+        "news_link": "https://visual.republika.co.id/berita/t25te9375/kuah-beulangong-tradisi-kuliner-khas-aceh-dalam-perayaan-maulid-nabi"
+    },
+    {
+        "title": "Tunjangan DPRD Jakarta Lebih Besar dari DPR RI, Capai Rp 78 Juta per Bulan",
+        "category": "Ekonomi",
+        "publish_time": "06 September 2025, 16:26",
+        "news_link": "https://ekonomi.republika.co.id/berita/t25u80370/tunjangan-dprd-jakarta-lebih-besar-dari-dpr-ri-capai-rp-78-juta-per-bulan"
+    },
+    {
+        "title": "Tak Takut Ancaman Trump, Presiden Venezuela Siap Lawan Agresi AS",
+        "category": "News",
+        "publish_time": "06 September 2025, 16:24",
+        "news_link": "https://news.republika.co.id/berita/t25u4y484/tak-takut-ancaman-trump-presiden-venezuela-siap-lawan-agresi-as"
+    },
+    {
+        "title": "Dirut Bulog Beberkan Prosedur Pemeliharaan Beras di Gudang",
+        "category": "Ekonomi",
+        "publish_time": "06 September 2025, 16:15",
+        "news_link": "https://ekonomi.republika.co.id/berita/t25rzo370/dirut-bulog-beberkan-prosedur-pemeliharaan-beras-di-gudang"
+    },
+    {
         "title": "Gubernur NTB Ajak Warga Bawa Pesan Kedamaian Peringati Maulid Nabi",
         "category": "Khazanah",
         "publish_time": "06 September 2025, 16:01",
@@ -214,89 +298,5 @@
         "category": "Network",
         "publish_time": "06 September 2025, 12:02",
         "news_link": "https://kingdomsriwijaya.id/posts/703152/fenomena-digital-dulu-hitam-putih-sekarang-pink-dan-hijau-juga-viral"
-    },
-    {
-        "title": "Baterai Kendaraan Listrik Bisa Terisi Daya Dalam 12 Menit, Menempuh Jarak 800 Km",
-        "category": "Network",
-        "publish_time": "06 September 2025, 12:02",
-        "news_link": "https://impresiupdate.id/posts/703139/baterai-kendaraan-listrik-bisa-terisi-daya-dalam-12-menit-menempuh-jarak-800-km"
-    },
-    {
-        "title": "Hamas Perlihatkan Sandera Isarel Lewati Permukiman Bangunan Gaza yang Hancur",
-        "category": "News",
-        "publish_time": "06 September 2025, 11:45",
-        "news_link": "https://news.republika.co.id/berita/t25h71377/hamas-perlihatkan-sandera-isarel-lewati-permukiman-bangunan-gaza-yang-hancur"
-    },
-    {
-        "title": "10 Tim dengan Pengeluaran Terbesar di Bursa Transfer Musim Panas, Liverpool Tetap Teratas",
-        "category": "Network",
-        "publish_time": "06 September 2025, 11:40",
-        "news_link": "https://skor.republika.co.id/posts/703153/10-tim-dengan-pengeluaran-terbesar-di-bursa-transfer-musim-panas-liverpool-tetap-teratas"
-    },
-    {
-        "title": "Tina Wiryawati Sebut Peringatan Maulid Nabi Momentum Perkuat Persatuan",
-        "category": "Rejabar",
-        "publish_time": "06 September 2025, 11:37",
-        "news_link": "https://rejabar.republika.co.id/berita/t25gux472/tina-wiryawati-sebut-peringatan-maulid-nabi-momentum-perkuat-persatuan"
-    },
-    {
-        "title": "Distribusi Pupuk Subsidi Andalkan Koperasi Merah Putih, Ini Strategi Kemenkop",
-        "category": "Ekonomi",
-        "publish_time": "06 September 2025, 11:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/t25eum490/distribusi-pupuk-subsidi-andalkan-koperasi-merah-putih-ini-strategi-kemenkop"
-    },
-    {
-        "title": "Kawanan Ubur-ubur Sumbat Reaktor Nuklir Prancis",
-        "category": "Esgnow",
-        "publish_time": "06 September 2025, 11:06",
-        "news_link": "https://esgnow.republika.co.id/berita/t25ffb490/kawanan-uburubur-sumbat-reaktor-nuklir-prancis"
-    },
-    {
-        "title": "Tiga Tahun ke Depan, Dedi Mulyadi Targetkan tak Ada Lagi Perumahan Kumuh di Jabar",
-        "category": "Rejabar",
-        "publish_time": "06 September 2025, 10:57",
-        "news_link": "https://rejabar.republika.co.id/berita/t25ezl512/tiga-tahun-ke-depan-dedi-mulyadi-targetkan-tak-ada-lagi-perumahan-kumuh-di-jabar"
-    },
-    {
-        "title": "Ketua DPRD Bandung Barat Ogah Blak-blakan Soal Besaran Tunjangan",
-        "category": "Rejabar",
-        "publish_time": "06 September 2025, 10:51",
-        "news_link": "https://rejabar.republika.co.id/berita/t25epp512/ketua-dprd-bandung-barat-ogah-blakblakan-soal-besaran-tunjangan"
-    },
-    {
-        "title": "Harga Emas Kembali Cetak Rekor Tertinggi! Naik Rp18 Ribu Hari Ini",
-        "category": "Ekonomi",
-        "publish_time": "06 September 2025, 10:48",
-        "news_link": "https://ekonomi.republika.co.id/berita/t25elj490/harga-emas-kembali-cetak-rekor-tertinggi-naik-rp18-ribu-hari-ini"
-    },
-    {
-        "title": "Dzikir dan Shalawat, Dinilai Bisa Persatukan Bangsa Indonesia yang Berada dalam Kebhinekaan",
-        "category": "Rejabar",
-        "publish_time": "06 September 2025, 10:45",
-        "news_link": "https://rejabar.republika.co.id/berita/t25efg512/dzikir-dan-shalawat-dinilai-bisa-persatukan-bangsa-indonesia-yang-berada-dalam-kebhinekaan"
-    },
-    {
-        "title": "Telah Berpulang, Ini Sosok Arif Budimanta Menurut Ekonom Senior Didik J Rachbini",
-        "category": "News",
-        "publish_time": "06 September 2025, 10:42",
-        "news_link": "https://news.republika.co.id/berita/t25eah377/telah-berpulang-ini-sosok-arif-budimanta-menurut-ekonom-senior-didik-j-rachbini"
-    },
-    {
-        "title": "PMSL SEA Fall 2025: Hasil, Jadwal, dan Klasemen Lengkap",
-        "category": "Network",
-        "publish_time": "06 September 2025, 10:40",
-        "news_link": "https://skor.republika.co.id/posts/703144/pmsl-sea-fall-2025-hasil-jadwal-dan-klasemen-lengkap"
-    },
-    {
-        "title": "Terinspirasi Gurita, Tim Insinyur Kembangkan Teknologi Kendaraan Bawah Air",
-        "category": "Network",
-        "publish_time": "06 September 2025, 10:38",
-        "news_link": "https://impresiupdate.id/posts/703138/terinspirasi-gurita-tim-insinyur-kembangkan-teknologi-kendaraan-bawah-air"
-    },
-    {
-        "title": "Waspadalah... Camilan Manis Membahayakan Kesehatan Mental",
-        "category": "Network",
-        "publish_time": "06 September 2025, 10:38",
-        "news_link": "https://impresiupdate.id/posts/703140/waspadalah-camilan-manis-membahayakan-kesehatan-mental"
     }
 ]
