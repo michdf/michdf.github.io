@@ -1,26 +1,110 @@
 [
     {
+        "title": "Mukhtarudin Akui Tak Sangka Ditunjuk Prabowo Jadi Menteri P2MI",
+        "category": "News",
+        "publish_time": "09-09-2025 23:11",
+        "news_link": "https://news.republika.co.id/berita/t2cgfz484/mukhtarudin-akui-tak-sangka-ditunjuk-prabowo-jadi-menteri-p2mi"
+    },
+    {
+        "title": "Drama Lima Gol di Budapest, Portugal Menang Tipis atas Hungaria di Kualifikasi Piala Dunia 2026",
+        "category": "News",
+        "publish_time": "09-09-2025 23:05",
+        "news_link": "https://news.republika.co.id/berita/t2cg4e348/drama-lima-gol-di-budapest-portugal-menang-tipis-atas-hungaria-di-kualifikasi-piala-dunia-2026"
+    },
+    {
+        "title": "Karding Terisak saat Sertijab dan Sampaikan Terima Kasih kepada Prabowo",
+        "category": "News",
+        "publish_time": "09-09-2025 23:02",
+        "news_link": "https://news.republika.co.id/berita/t2cfzs484/karding-terisak-saat-sertijab-dan-sampaikan-terima-kasih-kepada-prabowo"
+    },
+    {
+        "title": "Kalah dari Korsel, Timnas Indonesia Gagal Lolos ke Piala Asia U23 2026",
+        "category": "Visual",
+        "publish_time": "09-09-2025 23:00",
+        "news_link": "https://visual.republika.co.id/berita/t2bwwt375/kalah-dari-korsel-timnas-indonesia-gagal-lolos-ke-piala-asia-u23-2026"
+    },
+    {
+        "title": "Keluarga Para Sandera Tentara Israel Geram: Netanyahu adalah Musuh Terburuk Yahudi",
+        "category": "Khazanah",
+        "publish_time": "09-09-2025 22:58",
+        "news_link": "https://khazanah.republika.co.id/berita/t2cftv320/keluarga-para-sandera-tentara-israel-geram-netanyahu-adalah-musuh-terburuk-yahudi"
+    },
+    {
+        "title": "Pengeboman Israel ke Doha 'Direstui' Trump, Qatar Bantah Diinfo AS Sebelum Serangan",
+        "category": "Khazanah",
+        "publish_time": "09-09-2025 22:58",
+        "news_link": "https://khazanah.republika.co.id/berita/t2cfst483/pengeboman-israel-ke-doha-direstui-trump-qatar-bantah-diinfo-as-sebelum-serangan"
+    },
+    {
+        "title": "Qatar dan Iran Serukan Tanggapan Terpadu atas Serangan Israel ke Doha",
+        "category": "News",
+        "publish_time": "09-09-2025 22:55",
+        "news_link": "https://news.republika.co.id/berita/t2cfny393/qatar-dan-iran-serukan-tanggapan-terpadu-atas-serangan-israel-ke-doha"
+    },
+    {
+        "title": "Kementerian Haji Dorong Katering Haji Lakukan Inovasi",
+        "category": "Khazanah",
+        "publish_time": "09-09-2025 22:48",
+        "news_link": "https://khazanah.republika.co.id/berita/t2cfd3430/kementerian-haji-dorong-katering-haji-lakukan-inovasi"
+    },
+    {
+        "title": "Pemerintah Dorong Pembiayaan Mikro Perumahan untuk Lawan Rentenir",
+        "category": "News",
+        "publish_time": "09-09-2025 22:45",
+        "news_link": "https://news.republika.co.id/berita/t2cf7b730000/pemerintah-dorong-pembiayaan-mikro-perumahan-untuk-lawan-rentenir"
+    },
+    {
+        "title": "Sebut Serangan Israel ke Doha Tindakan Kriminal, Ini Janji Pangeran MBS untuk Qatar",
+        "category": "Khazanah",
+        "publish_time": "09-09-2025 22:40",
+        "news_link": "https://khazanah.republika.co.id/berita/t2cezq483/sebut-serangan-israel-ke-doha-tindakan-kriminal-ini-janji-pangeran-mbs-untuk-qatar"
+    },
+    {
+        "title": "Israel Gagal Bunuh Pimpinan Hamas Lewat Serangan di Doha",
+        "category": "News",
+        "publish_time": "09-09-2025 22:35",
+        "news_link": "https://news.republika.co.id/berita/t2ceq0393/israel-gagal-bunuh-pimpinan-hamas-lewat-serangan-di-doha"
+    },
+    {
+        "title": "Indonesia Resmi Bergabung dengan BRICS, Perkuat Posisi di Kancah Global",
+        "category": "News",
+        "publish_time": "09-09-2025 22:30",
+        "news_link": "https://news.republika.co.id/berita/t2ceii7430000/indonesia-resmi-bergabung-dengan-brics-perkuat-posisi-di-kancah-global"
+    },
+    {
+        "title": "Di Bawah Guyuran Hujan, Demonstrasi Mahasiswa ke DPR tak Lekang",
+        "category": "News",
+        "publish_time": "09-09-2025 22:30",
+        "news_link": "https://news.republika.co.id/berita/t2cehq483/di-bawah-guyuran-hujan-demonstrasi-mahasiswa-ke-dpr-tak-lekang"
+    },
+    {
+        "title": "Jambore Pramuka Muslim Dunia 2025 Dibuka, 18 Ribu Pramuka Muslim Kumpul di Cibubur",
+        "category": "Khazanah",
+        "publish_time": "09-09-2025 22:25",
+        "news_link": "https://khazanah.republika.co.id/berita/t2cdvv430/jambore-pramuka-muslim-dunia-2025-dibuka-18-ribu-pramuka-muslim-kumpul-di-cibubur"
+    },
+    {
         "title": "Jambore Pramuka Muslim Dunia 2025, Dari Pesantren Gontor untuk Perdamaian Dunia",
         "category": "Khazanah",
-        "publish_time": "09-09-2025 22:11",
+        "publish_time": "09-09-2025 22:12",
         "news_link": "https://khazanah.republika.co.id/berita/t2cdlx430/jambore-pramuka-muslim-dunia-2025-dari-pesantren-gontor-untuk-perdamaian-dunia"
     },
     {
         "title": "DPRD Banten Setujui APBD-P 2025 dengan Pendapatan Rp10,5 Triliun",
         "category": "News",
-        "publish_time": "09-09-2025 21:45",
+        "publish_time": "09-09-2025 22:12",
         "news_link": "https://news.republika.co.id/berita/t2ccfv5330000/dprd-banten-setujui-apbdp-2025-dengan-pendapatan-rp105-triliun"
     },
     {
         "title": "BSMI Salurkan Bantuan Genset untuk Pengungsi Palestina di Suriah",
         "category": "Khazanah",
-        "publish_time": "09-09-2025 21:41",
+        "publish_time": "09-09-2025 21:12",
         "news_link": "https://khazanah.republika.co.id/berita/t2bnnu483/bsmi-salurkan-bantuan-genset-untuk-pengungsi-palestina-di-suriah"
     },
     {
         "title": "Kapolres Metro Jakarta Utara Pastikan Layanan Publik Berjalan Optimal",
         "category": "News",
-        "publish_time": "09-09-2025 21:15",
+        "publish_time": "09-09-2025 21:12",
         "news_link": "https://news.republika.co.id/berita/t2cb185530000/kapolres-metro-jakarta-utara-pastikan-layanan-publik-berjalan-optimal"
     },
     {
@@ -214,89 +298,5 @@
         "category": "Visual",
         "publish_time": "09-09-2025 16:12",
         "news_link": "https://visual.republika.co.id/berita/t2bwp5375/diguyur-hujan-deras-kawasan-pasar-lembang-bandung-terendam-banjir"
-    },
-    {
-        "title": "Negara Arab Serentak Kecam Serangan Israel ke Qatar",
-        "category": "News",
-        "publish_time": "09-09-2025 16:12",
-        "news_link": "https://news.republika.co.id/berita/t2bx0a393/negara-arab-serentak-kecam-serangan-israel-ke-qatar"
-    },
-    {
-        "title": "Jenazah Staf KBRI Peru Korban Penembakan OTK Tiba di Tanah Air",
-        "category": "Visual",
-        "publish_time": "09-09-2025 16:12",
-        "news_link": "https://visual.republika.co.id/berita/t2bwhg375/jenazah-staf-kbri-peru-korban-penembakan-otk-tiba-di-tanah-air"
-    },
-    {
-        "title": "Respons Tuntutan Rakyat, Said Ungkap PDIP Jatim Berbenah dan Siapkan 5 Barometer Anggota DPR",
-        "category": "News",
-        "publish_time": "09-09-2025 16:12",
-        "news_link": "https://news.republika.co.id/berita/t2bvp3320/respons-tuntutan-rakyat-said-ungkap-pdip-jatim-berbenah-dan-siapkan-5-barometer-anggota-dpr"
-    },
-    {
-        "title": "Polisi Tetapkan Tiga Tersangka Baru dalam Kasus Demo Rusuh di Mapolda Jateng",
-        "category": "News",
-        "publish_time": "09-09-2025 15:12",
-        "news_link": "https://news.republika.co.id/berita/t2bvf1348/polisi-tetapkan-tiga-tersangka-baru-dalam-kasus-demo-rusuh-di-mapolda-jateng"
-    },
-    {
-        "title": "Pertamina Patra Niaga dan Princeton Digital Group Kerja Sama Pemanfaatan HVO untuk Transisi Energi",
-        "category": "Ekonomi",
-        "publish_time": "09-09-2025 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/t2bvai522/pertamina-patra-niaga-dan-princeton-digital-group-kerja-sama-pemanfaatan-hvo-untuk-transisi-energi"
-    },
-    {
-        "title": "Maulid Nabi SAW, Wakil Ketua MPR Ajak Teladani 4 Sifat Mulia Rasulullah SAW",
-        "category": "Khazanah",
-        "publish_time": "09-09-2025 15:12",
-        "news_link": "https://khazanah.republika.co.id/berita/t2bv1l320/maulid-nabi-saw-wakil-ketua-mpr-ajak-teladani-4-sifat-mulia-rasulullah-saw"
-    },
-    {
-        "title": "Bejat! ASN di Bandung Barat Ajak Anak Tiri Nonton Film Dewasa",
-        "category": "Rejabar",
-        "publish_time": "09-09-2025 15:12",
-        "news_link": "https://rejabar.republika.co.id/berita/t2buyk512/bejat-asn-di-bandung-barat-ajak-anak-tiri-nonton-film-dewasa"
-    },
-    {
-        "title": "Cimanggis Jadi Magnet Baru Properti Depok, Hunian Premium Mulai Bermunculan",
-        "category": "Rejakarta",
-        "publish_time": "09-09-2025 15:12",
-        "news_link": "https://republika.co.id/berita//t2bh1r349/cimanggis-jadi-magnet-baru-properti-depok-hunian-premium-mulai-bermunculan"
-    },
-    {
-        "title": "Banjir dan Longsor Terjang Wilayah Lembang, Satu Rumah Warga Rusak",
-        "category": "Rejabar",
-        "publish_time": "09-09-2025 15:12",
-        "news_link": "https://rejabar.republika.co.id/berita/t2bumk512/banjir-dan-longsor-terjang-wilayah-lembang-satu-rumah-warga-rusak"
-    },
-    {
-        "title": "Dibakar Demonstran, Rehabilitasi Cagar Budaya dan Wisma MPR Diperkirakan Butuh Rp12,9 Miliar",
-        "category": "Rejabar",
-        "publish_time": "09-09-2025 15:12",
-        "news_link": "https://rejabar.republika.co.id/berita/t2bu5m512/dibakar-demonstran-rehabilitasi-cagar-budaya-dan-wisma-mpr-diperkirakan-butuh-rp129-miliar"
-    },
-    {
-        "title": "IKA-FH Unnes Desak Polisi Rilis Rekaman CCTV Kecelakaan Iko Juliant Junior",
-        "category": "Rejogja",
-        "publish_time": "09-09-2025 15:12",
-        "news_link": "https://rejogja.republika.co.id/berita/t2btv7282/ikafh-unnes-desak-polisi-rilis-rekaman-cctv-kecelakaan-iko-juliant-junior"
-    },
-    {
-        "title": "13 DPW PPP Silaturahim dengan Epyardi Asda, Sepakat Lakukan Perubahan",
-        "category": "News",
-        "publish_time": "09-09-2025 15:12",
-        "news_link": "https://news.republika.co.id/berita/t2btum320/13-dpw-ppp-silaturahim-dengan-epyardi-asda-sepakat-lakukan-perubahan"
-    },
-    {
-        "title": "Diduga Akibat Rokok, Pabrik Pengolahan Ban Bekas di Konawe Terbakar",
-        "category": "Visual",
-        "publish_time": "09-09-2025 15:12",
-        "news_link": "https://visual.republika.co.id/berita/t2bqzw375/diduga-akibat-rokok-pabrik-pengolahan-ban-bekas-di-konawe-terbakar"
-    },
-    {
-        "title": "Pesta Usai, Industri Otomotif Eropa Kini Hadapi Kenaikan Tarif di AS dan Perang Harga di China",
-        "category": "Ekonomi",
-        "publish_time": "09-09-2025 15:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/t2btmq348/pesta-usai-industri-otomotif-eropa-kini-hadapi-kenaikan-tarif-di-as-dan-perang-harga-di-china"
     }
 ]
