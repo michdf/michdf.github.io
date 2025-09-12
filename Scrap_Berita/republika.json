@@ -1,8 +1,80 @@
 [
     {
+        "title": "Presiden Prabowo Tiba di Doha, Gelar Pertemuan dengan Sheikh Tamim",
+        "category": "News",
+        "publish_time": "12-09-2025 13:12",
+        "news_link": "https://news.republika.co.id/berita/t2h8p2484/presiden-prabowo-tiba-di-doha-gelar-pertemuan-dengan-sheikh-tamim"
+    },
+    {
+        "title": "Kasus Penyakit Gigi di Indonesia Tinggi dari Hasil CKG, Ini Respon Menkes Budi Sadikin",
+        "category": "Rejabar",
+        "publish_time": "12-09-2025 13:12",
+        "news_link": "https://rejabar.republika.co.id/berita/t2h8o0512/kasus-penyakit-gigi-di-indonesia-tinggi-dari-hasil-ckg-ini-respon-menkes-budi-sadikin"
+    },
+    {
+        "title": "Menkeu Purbaya Siapkan Pergeseran Anggaran untuk Stimulus Ekonomi",
+        "category": "Ekonomi",
+        "publish_time": "12-09-2025 13:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/t2h3qm370/menkeu-purbaya-siapkan-pergeseran-anggaran-untuk-stimulus-ekonomi"
+    },
+    {
+        "title": "BPKH Komitmen Dukung Transformasi Perhajian di Era Presiden Prabowo",
+        "category": "Khazanah",
+        "publish_time": "12-09-2025 13:01",
+        "news_link": "https://khazanah.republika.co.id/berita/t2h870430/bpkh-komitmen-dukung-transformasi-perhajian-di-era-presiden-prabowo"
+    },
+    {
+        "title": "Neo Soho Berubah Nama Menjadi Central Park 2",
+        "category": "Ameera",
+        "publish_time": "12-09-2025 13:01",
+        "news_link": "https://ameera.republika.co.id/berita/t2h863425/neo-soho-berubah-nama-menjadi-central-park-2"
+    },
+    {
+        "title": "Ester Nurumi Cedera Tulang Kering, Bisa Absen hingga 6 Bulan",
+        "category": "Network",
+        "publish_time": "12-09-2025 13:00",
+        "news_link": "https://skor.republika.co.id/posts/704330/ester-nurumi-cedera-tulang-kering-bisa-absen-hingga-6-bulan"
+    },
+    {
+        "title": "Satu Prajurit TNI Jadi Tersangka Pembunuhan Kepala Cabang BRI di Jakarta",
+        "category": "News",
+        "publish_time": "12-09-2025 12:57",
+        "news_link": "https://news.republika.co.id/berita/t2h7zm409/satu-prajurit-tni-jadi-tersangka-pembunuhan-kepala-cabang-bri-di-jakarta"
+    },
+    {
+        "title": "Pertamina Gas Perkuat Program TJSL di Riau, Sentuh 496 Ribu Jiwa",
+        "category": "Esgnow",
+        "publish_time": "12-09-2025 12:51",
+        "news_link": "https://esgnow.republika.co.id/berita/t2h7q7522/pertamina-gas-perkuat-program-tjsl-di-riau-sentuh-496-ribu-jiwa"
+    },
+    {
+        "title": "Berapa Lama Waktu Tidur Ideal Menurut Islam?",
+        "category": "Khazanah",
+        "publish_time": "12-09-2025 12:43",
+        "news_link": "https://khazanah.republika.co.id/berita/t2h7bw458/berapa-lama-waktu-tidur-ideal-menurut-islam"
+    },
+    {
+        "title": "Enam Lembaga Negara Resmi Bentuk Tim Independen Ungkap Fakta Demo Agustus\u2013September",
+        "category": "News",
+        "publish_time": "12-09-2025 12:39",
+        "news_link": "https://news.republika.co.id/berita/t2h75x487/enam-lembaga-negara-resmi-bentuk-tim-independen-ungkap-fakta-demo-agustusseptember"
+    },
+    {
+        "title": "KontraS: Aktor Intelektual Kerusuhan Demo Harus Jadi Fokus TGPF",
+        "category": "News",
+        "publish_time": "12-09-2025 12:33",
+        "news_link": "https://news.republika.co.id/berita/t2h6vx409/kontras-aktor-intelektual-kerusuhan-demo-harus-jadi-fokus-tgpf"
+    },
+    {
+        "title": "Nirina Zubir Akui Punya Sifat People Pleaser",
+        "category": "Ameera",
+        "publish_time": "12-09-2025 12:31",
+        "news_link": "https://ameera.republika.co.id/berita/t2h6s3425/nirina-zubir-akui-punya-sifat-people-pleaser"
+    },
+    {
         "title": "Pemerintah Perketat Impor, Cegah Radioaktif Cesium-137 Udang Beku",
         "category": "Ekonomi",
-        "publish_time": "12-09-2025 12:23",
+        "publish_time": "12-09-2025 12:24",
         "news_link": "https://ekonomi.republika.co.id/berita/t2h6ft484/pemerintah-perketat-impor-cegah-radioaktif-cesium137-udang-beku"
     },
     {
@@ -14,289 +86,217 @@
     {
         "title": "Aset Tanah Mantan Dirut Sritex Iwan Lukminto Senilai Rp510 Miliar Disita Kejakgung",
         "category": "Rejogja",
-        "publish_time": "12-09-2025 12:19",
+        "publish_time": "12-09-2025 12:21",
         "news_link": "https://rejogja.republika.co.id/berita/t2h68j282/aset-tanah-mantan-dirut-sritex-iwan-lukminto-senilai-rp510-miliar-disita-kejakgung"
     },
     {
         "title": "Ketum Muhammadiyah: Ilmu tanpa Iman Hanya akan Lahirkan Kesombongan",
         "category": "Khazanah",
-        "publish_time": "12-09-2025 12:18",
+        "publish_time": "12-09-2025 12:21",
         "news_link": "https://khazanah.republika.co.id/berita/t2h67l320/ketum-muhammadiyah-ilmu-tanpa-iman-hanya-akan-lahirkan-kesombongan"
     },
     {
         "title": "Ciri Kuatnya Iman: Menangis karena Allah",
         "category": "Khazanah",
-        "publish_time": "12-09-2025 12:17",
+        "publish_time": "12-09-2025 12:21",
         "news_link": "https://khazanah.republika.co.id/berita/t2h64u458/ciri-kuatnya-iman-menangis-karena-allah"
     },
     {
         "title": "Perkuat Pengelolaan Organisasi KUPS dan PKK, UPR Gelar Pelatihan Manajerial",
         "category": "News",
-        "publish_time": "12-09-2025 12:14",
+        "publish_time": "12-09-2025 12:21",
         "news_link": "https://news.republika.co.id/berita/t2h60w368/perkuat-pengelolaan-organisasi-kups-dan-pkk-upr-gelar-pelatihan-manajerial"
     },
     {
         "title": "Amal Kebaikan Penggugur Dosa",
         "category": "Khazanah",
-        "publish_time": "12-09-2025 12:13",
+        "publish_time": "12-09-2025 12:21",
         "news_link": "https://khazanah.republika.co.id/berita/t2h5yp458/amal-kebaikan-penggugur-dosa"
     },
     {
         "title": "KontraS: Tiga Mahasiswa Hilang Usai Demo di Jakarta Belum Ditemukan, Ini Identitasnya",
         "category": "News",
-        "publish_time": "12-09-2025 12:11",
+        "publish_time": "12-09-2025 12:21",
         "news_link": "https://news.republika.co.id/berita/t2h5ux409/kontras-tiga-mahasiswa-hilang-usai-demo-di-jakarta-belum-ditemukan-ini-identitasnya"
     },
     {
         "title": "Keberadaan Tanggul Beton di Cilincing Dikeluhkan Nelayan, Begini Jawaban PT KCN",
         "category": "News",
-        "publish_time": "12-09-2025 12:08",
+        "publish_time": "12-09-2025 12:21",
         "news_link": "https://news.republika.co.id/berita/t2h5q7487/keberadaan-tanggul-beton-di-cilincing-dikeluhkan-nelayan-begini-jawaban-pt-kcn"
     },
     {
         "title": "Dari Baitul Maal Hingga Melarang Nikah Mut'ah, Ini Daftar Kebijakan Khalifah Umar",
         "category": "Khazanah",
-        "publish_time": "12-09-2025 12:05",
+        "publish_time": "12-09-2025 12:21",
         "news_link": "https://khazanah.republika.co.id/berita/t2h5kq458/dari-baitul-maal-hingga-melarang-nikah-mutah-ini-daftar-kebijakan-khalifah-umar"
     },
     {
         "title": "Kerugian Infrastruktur Nepal Capai Rp 2,3 Triliun Akibat Kerusuhan",
         "category": "Ekonomi",
-        "publish_time": "12-09-2025 12:04",
+        "publish_time": "12-09-2025 12:21",
         "news_link": "https://ekonomi.republika.co.id/berita/t2h2xd370/kerugian-infrastruktur-nepal-capai-rp-23-triliun-akibat-kerusuhan"
     },
     {
         "title": "Dokumen Rahasia Israel Bocor, Ada Upaya Mengganti Netanyahu dengan Pemerintahan Baru",
         "category": "Khazanah",
-        "publish_time": "12-09-2025 12:02",
+        "publish_time": "12-09-2025 12:21",
         "news_link": "https://khazanah.republika.co.id/berita/t2h5fu320/dokumen-rahasia-israel-bocor-ada-upaya-mengganti-netanyahu-dengan-pemerintahan-baru"
     },
     {
         "title": "Sisi Genius Ali bin Abi Thalib",
         "category": "Khazanah",
-        "publish_time": "12-09-2025 12:02",
+        "publish_time": "12-09-2025 12:21",
         "news_link": "https://khazanah.republika.co.id/berita/t2h5fq458/sisi-genius-ali-bin-abi-thalib"
     },
     {
         "title": "Soroti Laporan Asing, Pengamat Sebut Industri Kayu Indonesia Menurun",
         "category": "Ekonomi",
-        "publish_time": "12-09-2025 12:01",
+        "publish_time": "12-09-2025 12:21",
         "news_link": "https://ekonomi.republika.co.id/berita/t2h5f3522/soroti-laporan-asing-pengamat-sebut-industri-kayu-indonesia-menurun"
     },
     {
         "title": "DKI Jakarta Kerahkan Pompa Antisipasi Banjir di Cipulir",
         "category": "News",
-        "publish_time": "12-09-2025 12:00",
+        "publish_time": "12-09-2025 12:21",
         "news_link": "https://news.republika.co.id/berita/t2h5cr366/dki-jakarta-kerahkan-pompa-antisipasi-banjir-di-cipulir"
     },
     {
         "title": "KKP dan Kejagung Sebut Perizinan Tanggul Beton di Cilincing Sesuai Prosedur",
         "category": "News",
-        "publish_time": "12-09-2025 11:57",
+        "publish_time": "12-09-2025 12:21",
         "news_link": "https://news.republika.co.id/berita/t2h57w487/kkp-dan-kejagung-sebut-perizinan-tanggul-beton-di-cilincing-sesuai-prosedur"
     },
     {
         "title": "Maulid untuk Bumi, Kemenag Hadirkan Husein Jafar, Pak Faiz Hingga Gus Ramzi",
         "category": "Khazanah",
-        "publish_time": "12-09-2025 11:53",
+        "publish_time": "12-09-2025 12:21",
         "news_link": "https://khazanah.republika.co.id/berita/t2h51x483/maulid-untuk-bumi-kemenag-hadirkan-husein-jafar-pak-faiz-hingga-gus-ramzi"
     },
     {
         "title": "Pertamina Patra Niaga Gelar Pertamax Turbo Drag Fest 2025 Putaran III",
         "category": "Ekonomi",
-        "publish_time": "12-09-2025 11:52",
+        "publish_time": "12-09-2025 12:21",
         "news_link": "https://ekonomi.republika.co.id/berita/t2h503522/pertamina-patra-niaga-gelar-pertamax-turbo-drag-fest-2025-putaran-iii"
     },
     {
         "title": "Prioritaskan Kualitas Jadwal Clash of Legends Real Madrid vs Barcelona Berubah",
         "category": "Network",
-        "publish_time": "12-09-2025 11:49",
+        "publish_time": "12-09-2025 11:21",
         "news_link": "https://skor.republika.co.id/posts/704323/prioritaskan-kualitas-jadwal-clash-of-legends-real-madrid-vs-barcelona-berubah"
     },
     {
         "title": "Tingkatkan Standar HSSE, PIS Dorong Daya Saing Pelayaran RI Setara Pemain Global",
         "category": "Esgnow",
-        "publish_time": "12-09-2025 11:42",
+        "publish_time": "12-09-2025 11:21",
         "news_link": "https://esgnow.republika.co.id/berita/t2h4jk522/tingkatkan-standar-hsse-pis-dorong-daya-saing-pelayaran-ri-setara-pemain-global"
     },
     {
         "title": "Persib dan Persik Kompak Raih Poin Penuh",
         "category": "Network",
-        "publish_time": "12-09-2025 11:40",
+        "publish_time": "12-09-2025 11:21",
         "news_link": "https://skor.republika.co.id/posts/704322/persib-dan-persik-kompak-raih-poin-penuh"
     },
     {
         "title": "Andmesh Kamaleng Ciptakan Lagu Menyentuh untuk Film Air Mata di Ujung Sejarah 2",
         "category": "Ameera",
-        "publish_time": "12-09-2025 11:33",
+        "publish_time": "12-09-2025 11:21",
         "news_link": "https://ameera.republika.co.id/berita/t2h44o425/andmesh-kamaleng-ciptakan-lagu-menyentuh-untuk-film-air-mata-di-ujung-sejarah-2"
     },
     {
         "title": "Anggota DPR: Banyak Hal Lebih Penting Bagi TNI Dibanding Urusan Ferry Irwandi",
         "category": "News",
-        "publish_time": "12-09-2025 11:33",
+        "publish_time": "12-09-2025 11:21",
         "news_link": "https://news.republika.co.id/berita/t2h43f409/anggota-dpr-banyak-hal-lebih-penting-bagi-tni-dibanding-urusan-ferry-irwandi"
     },
     {
         "title": "RUPS Tetapkan Pergantian Direksi MPM Insurance, Fokus Penguatan Strategi",
         "category": "Ekonomi",
-        "publish_time": "12-09-2025 11:27",
+        "publish_time": "12-09-2025 11:21",
         "news_link": "https://ekonomi.republika.co.id/berita/t2h2px416/rups-tetapkan-pergantian-direksi-mpm-insurance-fokus-penguatan-strategi"
     },
     {
         "title": "Pengalihan Kas Negara Rp 200 triliun Diharapkan Tidak Hambat Transisi Energi",
         "category": "Esgnow",
-        "publish_time": "12-09-2025 11:27",
+        "publish_time": "12-09-2025 11:21",
         "news_link": "https://esgnow.republika.co.id/berita/t2h25f370/pengalihan-kas-negara-rp-200-triliun-diharapkan-tidak-hambat-transisi-energi"
     },
     {
         "title": "Tips Lawan Bau Badan dan Kulit Kering Bagi yang Tinggal di Iklim Tropis",
         "category": "Ameera",
-        "publish_time": "12-09-2025 11:27",
+        "publish_time": "12-09-2025 11:21",
         "news_link": "https://ameera.republika.co.id/berita/t2h2zm425/tips-lawan-bau-badan-dan-kulit-kering-bagi-yang-tinggal-di-iklim-tropis"
     },
     {
         "title": "Kinerja Pajak Lambat, Purbaya Jamin Uang Pemerintah Cukup untuk Pembangunan",
         "category": "Ekonomi",
-        "publish_time": "12-09-2025 11:27",
+        "publish_time": "12-09-2025 11:21",
         "news_link": "https://ekonomi.republika.co.id/berita/t2h2vs490/kinerja-pajak-lambat-purbaya-jamin-uang-pemerintah-cukup-untuk-pembangunan"
     },
     {
         "title": "Pemerintah Siapkan Stimulus Ekonomi 8+4, Apa Saja Isinya?",
         "category": "Ekonomi",
-        "publish_time": "12-09-2025 11:27",
+        "publish_time": "12-09-2025 11:21",
         "news_link": "https://ekonomi.republika.co.id/berita/t2h1v1416/pemerintah-siapkan-stimulus-ekonomi-84-apa-saja-isinya"
     },
     {
         "title": "Pemerintah Siapkan Rp13,9 Triliun untuk Bantuan Pangan Empat Bulan",
         "category": "Ekonomi",
-        "publish_time": "12-09-2025 11:27",
+        "publish_time": "12-09-2025 11:21",
         "news_link": "https://ekonomi.republika.co.id/berita/t2h2m8490/pemerintah-siapkan-rp139-triliun-untuk-bantuan-pangan-empat-bulan"
     },
     {
         "title": "Kematiannya Ditangisi Israel, Charlie Kirk Pernah Sudutkan Nabi Muhammad dan Dukung Zionis di Gaza",
         "category": "News",
-        "publish_time": "12-09-2025 11:27",
+        "publish_time": "12-09-2025 11:21",
         "news_link": "https://news.republika.co.id/berita/t2h2lc377/kematiannya-ditangisi-israel-charlie-kirk-pernah-sudutkan-nabi-muhammad-dan-dukung-zionis-di-gaza"
     },
     {
         "title": "Serial 'Ratu Ratu Queens' Kupas Tuntas Kehidupan Imigran Perempuan",
         "category": "Ameera",
-        "publish_time": "12-09-2025 10:27",
+        "publish_time": "12-09-2025 11:21",
         "news_link": "https://ameera.republika.co.id/berita/t2h2fy425/serial-ratu-ratu-queens-kupas-tuntas-kehidupan-imigran-perempuan"
     },
     {
         "title": "100 Tahun Gontor: Api yang tak Pernah Padam",
         "category": "Kolom",
-        "publish_time": "12-09-2025 10:27",
+        "publish_time": "12-09-2025 10:21",
         "news_link": "https://analisis.republika.co.id/berita/t2h1zy451/100-tahun-gontor-api-yang-tak-pernah-padam"
     },
     {
         "title": "IHSG Meroket Terdorong Sentimen Suntikan Dana ke Bank BUMN",
         "category": "Ekonomi",
-        "publish_time": "12-09-2025 10:27",
+        "publish_time": "12-09-2025 10:21",
         "news_link": "https://ekonomi.republika.co.id/berita/t2h1z7490/ihsg-meroket-terdorong-sentimen-suntikan-dana-ke-bank-bumn"
     },
     {
         "title": "Jokowi Tanggapi Prabowo Copot Empat Menteri: Itu Hak Prerogatif Presiden",
         "category": "News",
-        "publish_time": "12-09-2025 10:27",
+        "publish_time": "12-09-2025 10:21",
         "news_link": "https://news.republika.co.id/berita/t2h1qb484/jokowi-tanggapi-prabowo-copot-empat-menteri-itu-hak-prerogatif-presiden"
     },
     {
         "title": "Wisatawan yang Mau ke Bali Diimbau Rutin Cek Prakiraan Cuaca",
         "category": "News",
-        "publish_time": "12-09-2025 10:27",
+        "publish_time": "12-09-2025 10:21",
         "news_link": "https://news.republika.co.id/berita/t2h1ls425/wisatawan-yang-mau-ke-bali-diimbau-rutin-cek-prakiraan-cuaca"
     },
     {
         "title": "Polisi Prancis Tangkap 675 Pendemo yang Tolak Anggaran Negara",
         "category": "Network",
-        "publish_time": "12-09-2025 10:27",
+        "publish_time": "12-09-2025 10:21",
         "news_link": "https://ruzkaindonesia.id/posts/704316/polisi-prancis-tangkap-675-pendemo-yang-tolak-anggaran-negara"
     },
     {
         "title": "OJK Bali Beri Perlakuan Khusus Debitur Terdampak Banjir",
         "category": "Ekonomi",
-        "publish_time": "12-09-2025 10:27",
+        "publish_time": "12-09-2025 10:21",
         "news_link": "https://ekonomi.republika.co.id/berita/t2h1i2370/ojk-bali-beri-perlakuan-khusus-debitur-terdampak-banjir"
     },
     {
         "title": "Israel Bunuh 42 Warga Gaza Sepanjang Jumat",
         "category": "News",
-        "publish_time": "12-09-2025 10:27",
+        "publish_time": "12-09-2025 10:21",
         "news_link": "https://news.republika.co.id/berita/t2h1e8393/israel-bunuh-42-warga-gaza-sepanjang-jumat"
-    },
-    {
-        "title": "Real Sociedad vs Real Madrid: Reuni Xabi Alonso di Anoeta",
-        "category": "Network",
-        "publish_time": "12-09-2025 10:27",
-        "news_link": "https://skor.republika.co.id/posts/704315/real-sociedad-vs-real-madrid-reuni-xabi-alonso-di-anoeta"
-    },
-    {
-        "title": "Citroen Resmi Ikut Serta di Formula E Musim 2025/2026",
-        "category": "Network",
-        "publish_time": "12-09-2025 10:27",
-        "news_link": "https://motoresto.id/posts/704311/citroen-resmi-ikut-serta-di-formula-e-musim-2025-2026"
-    },
-    {
-        "title": "BSI Dapat Porsi Paling Kecil dari Dana Rp 200 Triliun, Purbaya Ungkap Alasannya",
-        "category": "Ekonomi Syariah",
-        "publish_time": "12-09-2025 10:27",
-        "news_link": "https://sharia.republika.co.id/berita/t2h0qh490/bsi-dapat-porsi-paling-kecil-dari-dana-rp-200-triliun-purbaya-ungkap-alasannya"
-    },
-    {
-        "title": "Daftar Pemain Timnas Futsal Indonesia untuk Aqua Four Nations Cup 2025 Alami Perubahan",
-        "category": "Network",
-        "publish_time": "12-09-2025 10:27",
-        "news_link": "https://skor.republika.co.id/posts/704313/daftar-pemain-timnas-futsal-indonesia-untuk-four-nations-cup-2025-alami-perubahan"
-    },
-    {
-        "title": "Pelatihan Guru PPPK, Menulis Buku Itu Indah",
-        "category": "Retizen",
-        "publish_time": "12-09-2025 10:27",
-        "news_link": "https://retizen.republika.co.id/posts/704205/pelatihan-guru-pppk-menulis-buku-itu-indah"
-    },
-    {
-        "title": "Makruhnya Mencela Penyakit atau Mencela Sakit",
-        "category": "Retizen",
-        "publish_time": "12-09-2025 10:27",
-        "news_link": "https://retizen.republika.co.id/posts/704291/makruhnya-mencela-penyakit-atau-mencela-sakit"
-    },
-    {
-        "title": "Khidmat Sang Ayah Sebagai Seorang Guru, Antarkan Selva Menjadi Awardee Beasiswa Rumah Zakat",
-        "category": "Retizen",
-        "publish_time": "12-09-2025 10:27",
-        "news_link": "https://retizen.republika.co.id/posts/704285/khidmat-sang-ayah-sebagai-seorang-guru-antarkan-selva-menjadi-awardee-beasiswa-rumah-zakat"
-    },
-    {
-        "title": "Israel Terkecoh Hamas, Qatar Menoleh ke Tiongkok-Turki",
-        "category": "Kolom",
-        "publish_time": "12-09-2025 10:27",
-        "news_link": "https://analisis.republika.co.id/berita/t2h0nu282/israel-terkecoh-hamas-qatar-menoleh-ke-tiongkokturki"
-    },
-    {
-        "title": "Forjukafi Ajak Masyarakat Ramaikan Zakat-Wakaf Funwalk, Semarakkan Syiar Filantropi Islam",
-        "category": "Khazanah",
-        "publish_time": "12-09-2025 10:27",
-        "news_link": "https://khazanah.republika.co.id/berita/t2h0kh320/forjukafi-ajak-masyarakat-ramaikan-zakatwakaf-funwalk-semarakkan-syiar-filantropi-islam"
-    },
-    {
-        "title": "Lolos Audisi Umum, 50 Atlet Muda Masuk Babak Karantina di Asrama PB Djarum",
-        "category": "News",
-        "publish_time": "12-09-2025 10:27",
-        "news_link": "https://news.republika.co.id/berita/t2h0gg456/lolos-audisi-umum-50-atlet-muda-masuk-babak-karantina-di-asrama-pb-djarum"
-    },
-    {
-        "title": "Kemendag Siap Proses Impor iPhone 17 jika Syarat Dipenuhi",
-        "category": "Ekonomi",
-        "publish_time": "12-09-2025 10:27",
-        "news_link": "https://ekonomi.republika.co.id/berita/t2h0al370/kemendag-siap-proses-impor-iphone-17-jika-syarat-dipenuhi"
-    },
-    {
-        "title": "Daftar Peraih Super Tiket Audisi Umum PB Djarum 2025",
-        "category": "Network",
-        "publish_time": "12-09-2025 10:27",
-        "news_link": "https://skor.republika.co.id/posts/704310/daftar-peraih-super-tiket-audisi-umum-pb-djarum-2025"
     }
 ]
