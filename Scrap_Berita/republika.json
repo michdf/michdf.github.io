@@ -1,27 +1,117 @@
 [
     {
-        "title": "5 Rentetan Kekacauan Chelsea saat Kalah dari Manchester United",
-        "category": "Network",
-        "publish_time": "21 September 2025, 06:10",
-        "news_link": "https://skor.republika.co.id/posts/705856/5-rentetan-kekacauan-chelsea-saat-kalah-dari-manchester-united"
+        "title": "Harga Ayam di Jateng 'Terbang' Hingga Rp40 Ribu per Kilogram",
+        "category": "Rejogja",
+        "publish_time": "21 September 2025, 07:58",
+        "news_link": "https://rejogja.republika.co.id/berita/t2wktq282/harga-ayam-di-jateng-terbang-hingga-rp40-ribu-per-kilogram"
+    },
+    {
+        "title": "Ada Anak PAUD Keracunan, KPAl Minta Evaluasi Menyeluruh Program MBG",
+        "category": "Ameera",
+        "publish_time": "21 September 2025, 07:55",
+        "news_link": "https://ameera.republika.co.id/berita/t2wylb425/ada-anak-paud-keracunan-kpal-minta-evaluasi-menyeluruh-program-mbg"
+    },
+    {
+        "title": "Tiba di New York, Prabowo Disambut Hangat Diaspora Indonesia di AS",
+        "category": "News",
+        "publish_time": "21 September 2025, 07:47",
+        "news_link": "https://news.republika.co.id/berita/t2wx8h377/tiba-di-new-york-prabowo-disambut-hangat-diaspora-indonesia-di-as"
+    },
+    {
+        "title": "Menteri PU: Groundbreaking Sekolah Rakyat Kupang Dimulai Oktober 2025",
+        "category": "News",
+        "publish_time": "21 September 2025, 07:42",
+        "news_link": "https://news.republika.co.id/berita/t2wxyw370/menteri-pu-groundbreaking-sekolah-rakyat-kupang-dimulai-oktober-2025"
+    },
+    {
+        "title": "Polisi Umumkan 5 Tersangka Kasus Pembakaran Pos Lantas Simpang Lima dan Kantor Gubernur Jateng",
+        "category": "Rejogja",
+        "publish_time": "21 September 2025, 07:31",
+        "news_link": "https://rejogja.republika.co.id/berita/t2wkg5282/polisi-umumkan-5-tersangka-kasus-pembakaran-pos-lantas-simpang-lima-dan-kantor-gubernur-jateng"
+    },
+    {
+        "title": "Mesir Bangun Kekuatan Militer di Sinai, Israel Mulai Cemas",
+        "category": "News",
+        "publish_time": "21 September 2025, 07:30",
+        "news_link": "https://news.republika.co.id/berita/t2wwjb377/mesir-bangun-kekuatan-militer-di-sinai-israel-mulai-cemas"
+    },
+    {
+        "title": "Benarkah Israel di Balik Pembunuhan Charlie Krik Tokoh Sayap Kanan Pendukung Trump?",
+        "category": "Khazanah",
+        "publish_time": "21 September 2025, 07:29",
+        "news_link": "https://khazanah.republika.co.id/berita/t2wxdo320/benarkah-israel-di-balik-pembunuhan-charlie-krik-tokoh-sayap-kanan-pendukung-trump"
+    },
+    {
+        "title": "Dua Negara di Palestina, Solusi atau Ilusi?",
+        "category": "News",
+        "publish_time": "21 September 2025, 07:20",
+        "news_link": "https://news.republika.co.id/berita/t2wwye393/dua-negara-di-palestina-solusi-atau-ilusi"
+    },
+    {
+        "title": "2.236 Orang Ditangkap dalam Demo Agustus, Wakapolda: Kami Amankan Perusuh, Bukan Pendemo",
+        "category": "Rejogja",
+        "publish_time": "21 September 2025, 07:16",
+        "news_link": "https://rejogja.republika.co.id/berita/t2wk5g282/2236-orang-ditangkap-dalam-demo-agustus-wakapolda-kami-amankan-perusuh-bukan-pendemo"
+    },
+    {
+        "title": "Waduk Muara Nusa Dua Terancam Banjir, Menteri PU Siapkan Anggaran Normalisasi",
+        "category": "Ekonomi",
+        "publish_time": "21 September 2025, 07:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/t2wvyp370/waduk-muara-nusa-dua-terancam-banjir-menteri-pu-siapkan-anggaran-normalisasi"
+    },
+    {
+        "title": "China dan Taliban Satu Suara, Tolak Rencana Donald Trump Rebut Pangkalan Bagram",
+        "category": "News",
+        "publish_time": "21 September 2025, 07:05",
+        "news_link": "https://news.republika.co.id/berita/t2wvsd377/china-dan-taliban-satu-suara-tolak-rencana-donald-trump-rebut-pangkalan-bagram"
+    },
+    {
+        "title": "Jateng Kekurangan 16 Ribu Dokter Umum",
+        "category": "Rejogja",
+        "publish_time": "21 September 2025, 06:51",
+        "news_link": "https://rejogja.republika.co.id/berita/t2wjvi282/jateng-kekurangan-16-ribu-dokter-umum"
+    },
+    {
+        "title": "Psikolog: Ketahanan Keluarga Jadi Fondasi Generasi Tangguh",
+        "category": "Ameera",
+        "publish_time": "21 September 2025, 06:50",
+        "news_link": "https://ameera.republika.co.id/berita/t2wvjz370/psikolog-ketahanan-keluarga-jadi-fondasi-generasi-tangguh"
+    },
+    {
+        "title": "Pakar Militer: Israel Bumihanguskan Gaza, tetapi Belum Alami Kemajuan Apapun dalam Perang Darat",
+        "category": "Khazanah",
+        "publish_time": "21 September 2025, 06:47",
+        "news_link": "https://khazanah.republika.co.id/berita/t2wvf5320/pakar-militer-israel-bumihanguskan-gaza-tetapi-belum-alami-kemajuan-apapun-dalam-perang-darat"
+    },
+    {
+        "title": "Presiden Prabowo Tiba di New York akan Pidato di Sidang Umum PBB",
+        "category": "News",
+        "publish_time": "21 September 2025, 06:39",
+        "news_link": "https://news.republika.co.id/berita/t2wv28377/presiden-prabowo-tiba-di-new-york-akan-pidato-di-sidang-umum-pbb"
+    },
+    {
+        "title": "Inggris Umumkan Pengakuan Palestina Ahad Ini",
+        "category": "News",
+        "publish_time": "21 September 2025, 06:31",
+        "news_link": "https://news.republika.co.id/berita/t2wuo3393/inggris-umumkan-pengakuan-palestina-ahad-ini"
+    },
+    {
+        "title": "Jika Negosiasi Gagal, Hamas Siap Lanjutkan Perlawanan terhadap Israel",
+        "category": "Rejogja",
+        "publish_time": "21 September 2025, 06:27",
+        "news_link": "https://rejogja.republika.co.id/berita/t2wjnq282/jika-negosiasi-gagal-hamas-siap-lanjutkan-perlawanan-terhadap-israel"
     },
     {
         "title": "5 Rentetan Kekacauan Chelsea saat Kalah dari Manchester United",
-        "category": "Network",
+        "category": "News",
         "publish_time": "21 September 2025, 06:10",
-        "news_link": "https://skor.republika.co.id/posts/705855/5-rentetan-kekacauan-chelsea-saat-kalah-dari-manchester-united"
+        "news_link": "https://news.republika.co.id/berita/t2wtos60536242326001/5-rentetan-kekacauan-chelsea-saat-kalah-dari-manchester-united"
     },
     {
         "title": "Tahanan Tewas Dianiaya di Dalam Sel, Kapolsek Genuk Semarang Diperiksa Propam",
         "category": "Rejogja",
         "publish_time": "21 September 2025, 06:10",
         "news_link": "https://rejogja.republika.co.id/berita/t2wjiq282/tahanan-tewas-dianiaya-di-dalam-sel-kapolsek-genuk-semarang-diperiksa-propam"
-    },
-    {
-        "title": "5 Fakta Kemenangan Manchester United Lawan Chelsea",
-        "category": "Network",
-        "publish_time": "21 September 2025, 06:00",
-        "news_link": "https://skor.republika.co.id/posts/705852/5-fakta-kemenangan-manchester-united-lawan-chelsea"
     },
     {
         "title": "5 Fakta Kemenangan Manchester United Lawan Chelsea",
@@ -208,95 +298,5 @@
         "category": "News",
         "publish_time": "21 September 2025, 01:45",
         "news_link": "https://news.republika.co.id/berita/t2whfz2330000/pemkot-kupang-luncurkan-program-ina-kasih-untuk-kesehatan-reproduksi"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini Kota Depok, 21 September 2025: Menyimak Warna Kehidupan dalam Waktu Ibadah",
-        "category": "Khazanah",
-        "publish_time": "21 September 2025, 01:45",
-        "news_link": "https://khazanah.republika.co.id/berita/t2whfc223596468/jadwal-sholat-hari-ini-kota-depok-21-september-2025-menyimak-warna-kehidupan-dalam-waktu-ibadah"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini di Depok, 21 September 2025: Menemui Keberkahan Hari dengan Tepat Waktu",
-        "category": "Khazanah",
-        "publish_time": "21 September 2025, 01:45",
-        "news_link": "https://khazanah.republika.co.id/berita/t2whfb2100506805/jadwal-sholat-hari-ini-di-depok-21-september-2025-menemui-keberkahan-hari-dengan-tepat-waktu"
-    },
-    {
-        "title": "KAI Sumut Rayakan HUT ke-80 dengan Berbagi dan Program Lingkungan",
-        "category": "News",
-        "publish_time": "21 September 2025, 01:30",
-        "news_link": "https://news.republika.co.id/berita/t2wgqu2730000/kai-sumut-rayakan-hut-ke80-dengan-berbagi-dan-program-lingkungan"
-    },
-    {
-        "title": "KAI Sumut Rayakan HUT ke-80 dengan Bantuan 8 Ton Beras ke Panti Asuhan",
-        "category": "News",
-        "publish_time": "21 September 2025, 01:30",
-        "news_link": "https://news.republika.co.id/berita/t2wgqs3530000/kai-sumut-rayakan-hut-ke80-dengan-bantuan-8-ton-beras-ke-panti-asuhan"
-    },
-    {
-        "title": "Tekankan Improvement, Majelis Masyayikh Gelar Asesmen Perdana Ma\u2019had Aly",
-        "category": "Khazanah",
-        "publish_time": "21 September 2025, 01:26",
-        "news_link": "https://khazanah.republika.co.id/berita/t2wgkg456/tekankan-improvement-majelis-masyayikh-gelar-asesmen-perdana-mahad-aly"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini di Semarang, 21 September 2025: Pastikan Tidak Terlewat",
-        "category": "Khazanah",
-        "publish_time": "21 September 2025, 01:20",
-        "news_link": "https://khazanah.republika.co.id/berita/t2wg9k124379023/jadwal-sholat-hari-ini-di-semarang-21-september-2025-pastikan-tidak-terlewat"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini di Semarang: 21 September 2025",
-        "category": "Khazanah",
-        "publish_time": "21 September 2025, 01:20",
-        "news_link": "https://khazanah.republika.co.id/berita/t2wg9j1607733093/jadwal-sholat-hari-ini-di-semarang-21-september-2025"
-    },
-    {
-        "title": "Kunjungan Wisatawan Mancanegara ke Indonesia Naik 10 Persen pada 2025",
-        "category": "Ekonomi",
-        "publish_time": "21 September 2025, 01:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t2wg1y6530000/kunjungan-wisatawan-mancanegara-ke-indonesia-naik-10-persen-pada-2025"
-    },
-    {
-        "title": "Cakupan Imunisasi Campak di Sumenep Capai 91,3 Persen",
-        "category": "News",
-        "publish_time": "21 September 2025, 01:15",
-        "news_link": "https://news.republika.co.id/berita/t2wg1g9130000/cakupan-imunisasi-campak-di-sumenep-capai-913-persen"
-    },
-    {
-        "title": "Menemukan Kedamaian dalam Ibadah: Jadwal Sholat Hari Ini di Bandung, 21 September 2025",
-        "category": "Khazanah",
-        "publish_time": "21 September 2025, 00:58",
-        "news_link": "https://khazanah.republika.co.id/berita/t2wf8z1695829576/menemukan-kedamaian-dalam-ibadah-jadwal-sholat-hari-ini-di-bandung-21-september-2025"
-    },
-    {
-        "title": "Sholat Tepat Waktu: Jadwal Sholat Hari Ini di Bandung, 21 September 2025",
-        "category": "Khazanah",
-        "publish_time": "21 September 2025, 00:58",
-        "news_link": "https://khazanah.republika.co.id/berita/t2wf8y1754906586/sholat-tepat-waktu-jadwal-sholat-hari-ini-di-bandung-21-september-2025"
-    },
-    {
-        "title": "Inilah Jadwal Sholat Hari Ini di Surabaya, 21 September 2025",
-        "category": "Khazanah",
-        "publish_time": "21 September 2025, 00:30",
-        "news_link": "https://khazanah.republika.co.id/berita/t2wdya533851886/inilah-jadwal-sholat-hari-ini-di-surabaya-21-september-2025"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini di Surabaya: 21 September 2025: Penuhi Panggilan Allah SWT",
-        "category": "Khazanah",
-        "publish_time": "21 September 2025, 00:30",
-        "news_link": "https://khazanah.republika.co.id/berita/t2wdy91262887657/jadwal-sholat-hari-ini-di-surabaya-21-september-2025-penuhi-panggilan-allah-swt"
-    },
-    {
-        "title": "Jadwal Sholat Hari Ini di Makassar: Berkah di Hari 21 September 2025",
-        "category": "Khazanah",
-        "publish_time": "21 September 2025, 00:02",
-        "news_link": "https://khazanah.republika.co.id/berita/t2wcnm169005947/jadwal-sholat-hari-ini-di-makassar-berkah-di-hari-21-september-2025"
-    },
-    {
-        "title": "DPRD Kalsel dan Kemendagri Bahas RAPBD 2026",
-        "category": "News",
-        "publish_time": "21 September 2025, 00:00",
-        "news_link": "https://news.republika.co.id/berita/t2wckc6630000/dprd-kalsel-dan-kemendagri-bahas-rapbd-2026"
     }
 ]
