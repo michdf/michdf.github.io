@@ -1,5 +1,77 @@
 [
     {
+        "title": "BGN Nonaktifkan 56 Dapur MBG, Tunggu Hasil Uji BPOM",
+        "category": "News",
+        "publish_time": "30-09-2025 03:24",
+        "news_link": "https://news.republika.co.id/berita/t3dtgn370/bgn-nonaktifkan-56-dapur-mbg-tunggu-hasil-uji-bpom"
+    },
+    {
+        "title": "Ini Dugaan Penyebab Kebakaran Ratusan Rumah di Tamansari Jakarta Barat",
+        "category": "News",
+        "publish_time": "30-09-2025 03:22",
+        "news_link": "https://news.republika.co.id/berita/t3dtcz487/ini-dugaan-penyebab-kebakaran-ratusan-rumah-di-tamansari-jakarta-barat"
+    },
+    {
+        "title": "Ketua DPD Golkar Kalsel Wajibkan Kadernya Dekat dengan Rakyat",
+        "category": "News",
+        "publish_time": "30-09-2025 03:16",
+        "news_link": "https://news.republika.co.id/berita/t3dt2t318/ketua-dpd-golkar-kalsel-wajibkan-kadernya-dekat-dengan-rakyat"
+    },
+    {
+        "title": "Rencana Trump Akhiri Perang di Gaza Tunggu Respons Hamas",
+        "category": "Video",
+        "publish_time": "30-09-2025 03:13",
+        "news_link": "https://tv.republika.co.id/berita/t3dsxc313/rencana-trump-akhiri-perang-di-gaza-tunggu-respons-hamas"
+    },
+    {
+        "title": "Leya Princy Bersyukur Film Rangga & Cinta Disambut Hangat di Festival Film Busan",
+        "category": "Ameera",
+        "publish_time": "30-09-2025 03:06",
+        "news_link": "https://ameera.republika.co.id/berita/t3dsmx425/leya-princy-bersyukur-film-rangga-cinta-disambut-hangat-di-festival-film-busan"
+    },
+    {
+        "title": "Ratusan Santri Jadi Korban Ambruknya Ponpes Al-Khoziny Sidoarjo, Satu Dilaporkan Meninggal",
+        "category": "Network",
+        "publish_time": "30-09-2025 03:05",
+        "news_link": "https://sekitarsurabaya.com/posts/707715/ratusan-santri-jadi-korban-ambruknya-ponpes-al-khoziny-sidoarjo-satu-dilaporkan-meninggal"
+    },
+    {
+        "title": "Penerbangan Langsung Surabaya-Haikou Resmi Dibuka 16 November, Wisata ke China Jadi Lebih Mudah",
+        "category": "Network",
+        "publish_time": "30-09-2025 03:05",
+        "news_link": "https://sekitarsurabaya.com/posts/707718/penerbangan-langsung-surabaya-haikou-resmi-dibuka-16-november-wisata-ke-china-jadi-lebih-mudah"
+    },
+    {
+        "title": "Remedi, Untuk Semua Orang Yang Merasa Sudah Telat Mengejar Mimpi",
+        "category": "Network",
+        "publish_time": "30-09-2025 03:05",
+        "news_link": "https://filmusiku.com/posts/707728/remedi-untuk-semua-orang-yang-merasa-sudah-telat-mengejar-mimpi"
+    },
+    {
+        "title": "Pemerintah Perkuat Tata Kelola Program MBG, Keselamatan Anak Jadi Prioritas",
+        "category": "Network",
+        "publish_time": "30-09-2025 03:05",
+        "news_link": "https://diagnosa.id/posts/707729/pemerintah-perkuat-tata-kelola-program-mbg-keselamatan-anak-jadi-prioritas"
+    },
+    {
+        "title": "33 Tahun Hanya Belajar 8 Hal, Guru Bilang Innalillahi: Kisah Hatim al Asham dan Syaqiq al Balkhi",
+        "category": "Iqra",
+        "publish_time": "30-09-2025 02:59",
+        "news_link": "https://iqra.republika.co.id/berita/t3dsb9451/33-tahun-hanya-belajar-8-hal-guru-bilang-innalillahi-kisah-hatim-al-asham-dan-syaqiq-al-balkhi"
+    },
+    {
+        "title": "Kemenag Pastikan Evakuasi dan Pemulihan Santri Ponpes Al-Khoziny Cepat Tertangani",
+        "category": "Khazanah",
+        "publish_time": "30-09-2025 02:56",
+        "news_link": "https://khazanah.republika.co.id/berita/t3ds53366/kemenag-pastikan-evakuasi-dan-pemulihan-santri-ponpes-alkhoziny-cepat-tertangani"
+    },
+    {
+        "title": "BSI Percepat KPR Subsidi Usai Akad Massal 26 Ribu Rumah",
+        "category": "Ekonomi Syariah",
+        "publish_time": "30-09-2025 02:55",
+        "news_link": "https://sharia.republika.co.id/berita/t3drfv370/bsi-percepat-kpr-subsidi-usai-akad-massal-26-ribu-rumah"
+    },
+    {
         "title": "PPI Kyoto Berhasil Gelar Malam Indonesia 2025 Spesial 30 Tahun",
         "category": "News",
         "publish_time": "30-09-2025 02:52",
@@ -32,271 +104,199 @@
     {
         "title": "Harga Emas Hari Ini, Antam Meroket ke Rp 2,32 Juta per Gram",
         "category": "Ekonomi",
-        "publish_time": "30-09-2025 02:24",
+        "publish_time": "30-09-2025 02:28",
         "news_link": "https://ekonomi.republika.co.id/berita/t3dqnx370/harga-emas-hari-ini-antam-meroket-ke-rp-232-juta-per-gram"
     },
     {
         "title": "BGN: Insentif Guru Penanggung Jawab MBG Rp 100 Ribu Cair 10 Hari Sekali",
         "category": "News",
-        "publish_time": "30-09-2025 02:21",
+        "publish_time": "30-09-2025 02:28",
         "news_link": "https://news.republika.co.id/berita/t3dqj3487/bgn-insentif-guru-penanggung-jawab-mbg-rp-100-ribu-cair-10-hari-sekali"
     },
     {
         "title": "Jaga Daya Beli, Pemerintah Jaga Tarif Listrik Tetap Terjangkau Selama 2025",
         "category": "Ekonomi",
-        "publish_time": "30-09-2025 02:13",
+        "publish_time": "30-09-2025 02:28",
         "news_link": "https://ekonomi.republika.co.id/berita/t3dq5p368/jaga-daya-beli-pemerintah-jaga-tarif-listrik-tetap-terjangkau-selama-2025"
     },
     {
         "title": "Mourinho Pulang ke Stamford Bridge, Jalani Duel Sarat Nostalgia Melawan Chelsea",
         "category": "News",
-        "publish_time": "30-09-2025 02:11",
+        "publish_time": "30-09-2025 02:28",
         "news_link": "https://news.republika.co.id/berita/t3dq2a348/mourinho-pulang-ke-stamford-bridge-jalani-duel-sarat-nostalgia-melawan-chelsea"
     },
     {
         "title": "Soal Dugaan Minyak Babi di Ompreng MBG, BGN Konsultasi ke Muhammadiyah",
         "category": "Khazanah",
-        "publish_time": "30-09-2025 01:56",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://khazanah.republika.co.id/berita/t3dpdo458/soal-dugaan-minyak-babi-di-ompreng-mbg-bgn-konsultasi-ke-muhammadiyah"
     },
     {
         "title": "AGP Turut Meriahkan Program Jaga Desa di Banten",
         "category": "News",
-        "publish_time": "30-09-2025 01:55",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://news.republika.co.id/berita/t3dpcd368/agp-turut-meriahkan-program-jaga-desa-di-banten"
     },
     {
         "title": "Makin Dekat ke Gaza, Kapal Global Sumud Flotilla Bertolak dari Yunani",
         "category": "Video",
-        "publish_time": "30-09-2025 01:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://tv.republika.co.id/berita/t3dp1c313/makin-dekat-ke-gaza-kapal-global-sumud-flotilla-bertolak-dari-yunani"
     },
     {
         "title": "Abdul Mu'ti Ungkap Rumus Memajukan Amal Usaha Muhammadiyah",
         "category": "Khazanah",
-        "publish_time": "30-09-2025 01:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://khazanah.republika.co.id/berita/t3dour458/abdul-muti-ungkap-rumus-memajukan-amal-usaha-muhammadiyah"
     },
     {
         "title": "Haruskah Membaca Alquran dengan Cara yang Sempurna?",
         "category": "Iqra",
-        "publish_time": "30-09-2025 01:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://iqra.republika.co.id/berita/t3douh430/haruskah-membaca-alquran-dengan-cara-yang-sempurna"
     },
     {
         "title": "Benjamin Netanyahu Minta Maaf ke Qatar, Akui Israel Langgar Kedaulatan Saat Serang Hamas di Doha",
         "category": "News",
-        "publish_time": "30-09-2025 01:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://news.republika.co.id/berita/t3dotr377/benjamin-netanyahu-minta-maaf-ke-qatar-akui-israel-langgar-kedaulatan-saat-serang-hamas-di-doha"
     },
     {
         "title": "Sniper Brigade Al Quds Tembak Tentara Israel, Quadcopter Penjajah Disita",
         "category": "Khazanah",
-        "publish_time": "30-09-2025 01:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://khazanah.republika.co.id/berita/t3dot8483/sniper-brigade-al-quds-tembak-tentara-israel-quadcopter-penjajah-disita"
     },
     {
         "title": "Siang Hari Ada Pengecoran, Begini Penjelasan Pengasuh Ponpes Al Khoziny Terkait Ambruknya Mushala",
         "category": "News",
-        "publish_time": "30-09-2025 01:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://news.republika.co.id/berita/t3dol9487/siang-hari-ada-pengecoran-begini-penjelasan-pengasuh-ponpes-al-khoziny-terkait-ambruknya-mushala"
     },
     {
         "title": "Penjelasan Waktu dalam Alquran",
         "category": "Iqra",
-        "publish_time": "30-09-2025 01:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://iqra.republika.co.id/berita/t3dogt430/penjelasan-waktu-dalam-alquran"
     },
     {
         "title": "Gubernur Bobby Nasution Ingin Semua Kendaraan Domisili di Sumut Pakai Pelat BK atau BB",
         "category": "News",
-        "publish_time": "30-09-2025 01:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://news.republika.co.id/berita/t3docd377/gubernur-bobby-nasution-ingin-semua-kendaraan-domisili-di-sumut-pakai-pelat-bk-atau-bb"
     },
     {
         "title": "Mengenal Ayat Sajadah",
         "category": "Iqra",
-        "publish_time": "30-09-2025 01:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://iqra.republika.co.id/berita/t3do64430/mengenal-ayat-sajadah"
     },
     {
         "title": "FIFA Denda El Salvador Rp1 Miliar Gara-Gara Rasisme pada Laga Kualifikasi Piala Dunia 2026",
         "category": "News",
-        "publish_time": "30-09-2025 01:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://news.republika.co.id/berita/t3do3l348/fifa-denda-el-salvador-rp1-miliar-garagara-rasisme-pada-laga-kualifikasi-piala-dunia-2026"
     },
     {
         "title": "Pemerintah Tanggung Biaya Kesehatan Korban Ponpes Runtuh di Sidoarjo, Proses Evakuasi Masih Berjalan",
         "category": "News",
-        "publish_time": "30-09-2025 01:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://news.republika.co.id/berita/t3do3e487/pemerintah-tanggung-biaya-kesehatan-korban-ponpes-runtuh-di-sidoarjo-proses-evakuasi-masih-berjalan"
     },
     {
         "title": "Palestina Ajukan Keanggotaan Penuh BRICS, Masih Tunggu Tanggapan",
         "category": "Ekonomi",
-        "publish_time": "30-09-2025 01:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://ekonomi.republika.co.id/berita/t3do2j370/palestina-ajukan-keanggotaan-penuh-brics-masih-tunggu-tanggapan"
     },
     {
         "title": "Kedermawanan Dua Sahabat Nabi yang Menjadi Sebab Turunnya Ayat Alquran",
         "category": "Iqra",
-        "publish_time": "30-09-2025 01:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://iqra.republika.co.id/berita/t3dnzy430/kedermawanan-dua-sahabat-nabi-yang-menjadi-sebab-turunnya-ayat-alquran"
     },
     {
         "title": "Senator Aceh Kirim Surat Protes ke Kemendagri, Bobby Nasution Membantah Razia Kendaraan BL",
         "category": "News",
-        "publish_time": "30-09-2025 00:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://news.republika.co.id/berita/t3dnx5377/senator-aceh-kirim-surat-protes-ke-kemendagri-bobby-nasution-membantah-razia-kendaraan-bl"
     },
     {
         "title": "Temui Jokowi di Solo, Abu Bakar Ba'asyir Berikan Nasihat",
         "category": "Video",
-        "publish_time": "30-09-2025 00:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://tv.republika.co.id/berita/t3dnwi313/temui-jokowi-di-solo-abu-bakar-baasyir-berikan-nasihat"
     },
     {
         "title": "Dari Bonus Demografi ke Tantangan Lansia",
         "category": "Kolom",
-        "publish_time": "30-09-2025 00:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://www.republika.id/posts/59137/dari-bonus-demografi-ke-tantangan-lansia"
     },
     {
         "title": "Prabowo: BUMN Harus Hasilkan Rp1.600 Triliun, Diberi Waktu 3 Tahun Berbenah",
         "category": "Ekonomi",
-        "publish_time": "30-09-2025 00:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://ekonomi.republika.co.id/berita/t3dnh4370/prabowo-bumn-harus-hasilkan-rp1600-triliun-diberi-waktu-3-tahun-berbenah"
     },
     {
         "title": "KPAI: 2.093 Anak Terlibat Aksi Kerusuhan pada Agustus, 13 Masih Ditahan",
         "category": "News",
-        "publish_time": "30-09-2025 00:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://news.republika.co.id/berita/t3dn8r487/kpai-2093-anak-terlibat-aksi-kerusuhan-pada-agustus-13-masih-ditahan"
     },
     {
         "title": "Hipertensi Ancam Anak Muda, Pakar Ungkap Pemicu Nomor Satu",
         "category": "Ameera",
-        "publish_time": "30-09-2025 00:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://ameera.republika.co.id/berita/t3dn46425/hipertensi-ancam-anak-muda-pakar-ungkap-pemicu-nomor-satu"
     },
     {
         "title": "Siapa Hawariyyun yang Dijelaskan dalam Alquran?",
         "category": "Iqra",
-        "publish_time": "30-09-2025 00:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://iqra.republika.co.id/berita/t3dn19430/siapa-hawariyyun-yang-dijelaskan-dalam-alquran"
     },
     {
         "title": "Kemenkes: Kanker Payudara Ancam Generasi Muda",
         "category": "Ameera",
-        "publish_time": "30-09-2025 00:54",
+        "publish_time": "30-09-2025 01:28",
         "news_link": "https://ameera.republika.co.id/berita/t3dmrv458/kemenkes-kanker-payudara-ancam-generasi-muda"
     },
     {
         "title": "Hindari Sifat Munafik",
         "category": "Khazanah",
-        "publish_time": "30-09-2025 00:54",
+        "publish_time": "30-09-2025 00:28",
         "news_link": "https://khazanah.republika.co.id/berita/t3dmpj458/hindari-sifat-munafik"
     },
     {
         "title": "Alonso Ingin Madrid Move On dari Hasil Buruk Laga Derbi, Fokus Tiga Poin di Kazakhstan",
         "category": "News",
-        "publish_time": "30-09-2025 00:54",
+        "publish_time": "30-09-2025 00:28",
         "news_link": "https://news.republika.co.id/berita/t3dm4z348/alonso-ingin-madrid-move-on-dari-hasil-buruk-laga-derbi-fokus-tiga-poin-di-kazakhstan"
     },
     {
         "title": "LRT Jabodebek Luncurkan Identitas Baru Transportasi Perkotaan",
         "category": "Network",
-        "publish_time": "30-09-2025 00:54",
+        "publish_time": "30-09-2025 00:28",
         "news_link": "https://kreta.id/posts/707699/lrt-jabodebek-luncurkan-identitas-baru-transportasi-perkotaan"
     },
     {
         "title": "Sudah Terjungkal dari 'Senayan', PPP Masih Saja Ribut Dualisme Kepemimpinan",
         "category": "News",
-        "publish_time": "30-09-2025 00:54",
+        "publish_time": "30-09-2025 00:28",
         "news_link": "https://news.republika.co.id/berita/t3dmhw377/sudah-terjungkal-dari-senayan-ppp-masih-saja-ribut-dualisme-kepemimpinan"
     },
     {
         "title": "Netanyahu Terima Proposal Akhiri Perang Gaza, Trump Menunggu Respons Hamas",
         "category": "News",
-        "publish_time": "30-09-2025 00:54",
+        "publish_time": "30-09-2025 00:28",
         "news_link": "https://news.republika.co.id/berita/t3dm6y409/netanyahu-terima-proposal-akhiri-perang-gaza-trump-menunggu-respons-hamas"
     },
     {
         "title": "Gempa Bumi Magnitudo 4,9 Guncang di Kota Garut hingga Terasa ke Sukabumi",
         "category": "Rejabar",
-        "publish_time": "30-09-2025 00:54",
+        "publish_time": "30-09-2025 00:28",
         "news_link": "https://rejabar.republika.co.id/berita/t3dm04512/gempa-bumi-magnitudo-49-guncang-di-kota-garut-hingga-terasa-ke-sukabumi"
-    },
-    {
-        "title": "Bunga FLPP Tetap 5 Persen, Penerima Rumah Subsidi Sambut Haru",
-        "category": "News",
-        "publish_time": "30-09-2025 00:54",
-        "news_link": "https://news.republika.co.id/berita/t3dlwq484/bunga-flpp-tetap-5-persen-penerima-rumah-subsidi-sambut-haru"
-    },
-    {
-        "title": "Presiden Federasi Sepak Bola Norwegia Serukan Israel Diskors dari Kompetisi Internasional",
-        "category": "News",
-        "publish_time": "30-09-2025 00:54",
-        "news_link": "https://news.republika.co.id/berita/t3dldl348/presiden-federasi-sepak-bola-norwegia-serukan-israel-diskors-dari-kompetisi-internasional"
-    },
-    {
-        "title": "Guru Penanggung Jawab MBG di Sekolah Bakal Dapat Insentif Rp 100 Ribu per Hari",
-        "category": "News",
-        "publish_time": "30-09-2025 00:54",
-        "news_link": "https://news.republika.co.id/berita/t3dlev484/guru-penanggung-jawab-mbg-di-sekolah-bakal-dapat-insentif-rp-100-ribu-per-hari"
-    },
-    {
-        "title": "Liga Europa Suguhkan 18 Laga Seru Pekan Ini, Calvin Verdonk Bakal Beraksi Lawan AS Roma",
-        "category": "News",
-        "publish_time": "30-09-2025 00:54",
-        "news_link": "https://news.republika.co.id/berita/t3dkz5348/liga-europa-suguhkan-18-laga-seru-pekan-ini-calvin-verdonk-bakal-beraksi-lawan-as-roma"
-    },
-    {
-        "title": "Menpora Erick Thohir Siapkan Promosi-Degradasi bagi Cabang Olahraga Unggulan",
-        "category": "News",
-        "publish_time": "29-09-2025 23:54",
-        "news_link": "https://news.republika.co.id/berita/t3dkdx348/menpora-erick-thohir-siapkan-promosidegradasi-bagi-cabang-olahraga-unggulan"
-    },
-    {
-        "title": "Menteri PKP Serahkan 26.000 Rumah Subsidi untuk MBR, Presiden Targetkan 3 Juta Rumah",
-        "category": "Ekonomi",
-        "publish_time": "29-09-2025 23:54",
-        "news_link": "https://ekonomi.republika.co.id/berita/t3dkkg370/menteri-pkp-serahkan-26000-rumah-subsidi-untuk-mbr-presiden-targetkan-3-juta-rumah"
-    },
-    {
-        "title": "Guru Pesantren Dilibatkan untuk Sukseskan Sekolah Rakyat",
-        "category": "Khazanah",
-        "publish_time": "29-09-2025 23:54",
-        "news_link": "https://khazanah.republika.co.id/berita/t3difj451/guru-pesantren-dilibatkan-untuk-sukseskan-sekolah-rakyat"
-    },
-    {
-        "title": "Pengamat Nilai Indra Sjafri Pilihan Tepat Tangani Timnas Sepak Bola di SEA Games 2025",
-        "category": "News",
-        "publish_time": "29-09-2025 23:54",
-        "news_link": "https://news.republika.co.id/berita/t3dk5k348/pengamat-nilai-indra-sjafri-pilihan-tepat-tangani-timnas-sepak-bola-di-sea-games-2025"
-    },
-    {
-        "title": "Anjuran Nabi Muhammad untuk Berobat bagi yang Sakit",
-        "category": "Khazanah",
-        "publish_time": "29-09-2025 23:54",
-        "news_link": "https://khazanah.republika.co.id/berita/t3dk3x430/anjuran-nabi-muhammad-untuk-berobat-bagi-yang-sakit"
-    },
-    {
-        "title": "Tiga Jenis Rasa Malu, Muslim Harus Memilikinya",
-        "category": "Khazanah",
-        "publish_time": "29-09-2025 23:54",
-        "news_link": "https://khazanah.republika.co.id/berita/t3djrt458/tiga-jenis-rasa-malu-muslim-harus-memilikinya"
-    },
-    {
-        "title": "Seru! Matchday 2 Liga Champions Suguhkan Duel Barcelona vs PSG",
-        "category": "News",
-        "publish_time": "29-09-2025 23:54",
-        "news_link": "https://news.republika.co.id/berita/t3djop348/seru-matchday-2-liga-champions-suguhkan-duel-barcelona-vs-psg"
-    },
-    {
-        "title": "Tawa Terbahak-Bahak Menghapus Berkah",
-        "category": "Khazanah",
-        "publish_time": "29-09-2025 23:54",
-        "news_link": "https://khazanah.republika.co.id/berita/t3djjb458/tawa-terbahakbahak-menghapus-berkah"
     }
 ]
