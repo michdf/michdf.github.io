@@ -1,5 +1,125 @@
 [
     {
+        "title": "Gempa 6,5 M Guncang Sumenep, Terasa Hingga Banyuwangi dan Denpasar",
+        "category": "Rejogja",
+        "publish_time": "01-10-2025 10:14",
+        "news_link": "https://rejogja.republika.co.id/berita/t3g73e282/gempa-65-m-guncang-sumenep-terasa-hingga-banyuwangi-dan-denpasar"
+    },
+    {
+        "title": "Qatar, Mesir, Turki, dan Hamas Bahas Proposal Trump untuk Akhiri Perang Gaza",
+        "category": "Khazanah",
+        "publish_time": "01-10-2025 10:10",
+        "news_link": "https://khazanah.republika.co.id/berita/t3g6xw483/qatar-mesir-turki-dan-hamas-bahas-proposal-trump-untuk-akhiri-perang-gaza"
+    },
+    {
+        "title": "Biznet Perkuat Daya Saing Indonesia lewat Peningkatan Bandwidth",
+        "category": "Ekonomi",
+        "publish_time": "01-10-2025 10:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/t3g6ww423/biznet-perkuat-daya-saing-indonesia-lewat-peningkatan-bandwidth"
+    },
+    {
+        "title": "Olah Sampah Daerah, Segini Investasi Danatara",
+        "category": "Video",
+        "publish_time": "01-10-2025 10:06",
+        "news_link": "https://tv.republika.co.id/berita/t3g6r6313/olah-sampah-daerah-segini-investasi-danatara"
+    },
+    {
+        "title": "Tiket Transportasi Nataru, Pemerintah Beri Potongan Hingga 30 Persen",
+        "category": "Ekonomi",
+        "publish_time": "01-10-2025 10:02",
+        "news_link": "https://ekonomi.republika.co.id/berita/t3g6km423/tiket-transportasi-nataru-pemerintah-beri-potongan-hingga-30-persen"
+    },
+    {
+        "title": "AS Terjerumus Dalam 'Shutdown' Pendanaan Federal",
+        "category": "News",
+        "publish_time": "01-10-2025 10:00",
+        "news_link": "https://news.republika.co.id/berita/t3g6fz393/as-terjerumus-dalam-shutdown-pendanaan-federal"
+    },
+    {
+        "title": "Diminta Ikut Tanggung Jawab MBG, P2G: Tugas Guru Mengajar, Bukan Pertaruhkan Kesehatan",
+        "category": "News",
+        "publish_time": "01-10-2025 09:59",
+        "news_link": "https://news.republika.co.id/berita/t3g6e4377/diminta-ikut-tanggung-jawab-mbg-p2g-tugas-guru-mengajar-bukan-pertaruhkan-kesehatan"
+    },
+    {
+        "title": "Biznet Bangun Kabel Bawah Laut, Perkuat Konektivitas Indonesia",
+        "category": "Ekonomi",
+        "publish_time": "01-10-2025 09:52",
+        "news_link": "https://ekonomi.republika.co.id/berita/t3g63n423/biznet-bangun-kabel-bawah-laut-perkuat-konektivitas-indonesia"
+    },
+    {
+        "title": "2 Cucu Mahfud MD Keracunan Makanan MBG di Yogyakarta",
+        "category": "Rejogja",
+        "publish_time": "01-10-2025 09:51",
+        "news_link": "https://rejogja.republika.co.id/berita/t3g61t282/2-cucu-mahfud-md-keracunan-makanan-mbg-di-yogyakarta"
+    },
+    {
+        "title": "Harusnya Berangkat 2027, Calon Jamaah Haji Ini Mesti Menunggu Hingga 2039 karena Aturan Antrean Baru",
+        "category": "Khazanah",
+        "publish_time": "01-10-2025 09:47",
+        "news_link": "https://khazanah.republika.co.id/berita/t3g5ul483/harusnya-berangkat-2027-calon-jamaah-haji-ini-mesti-menunggu-hingga-2039-karena-aturan-antrean-baru"
+    },
+    {
+        "title": "BRI Jadi Banking Partner, Halal Indo 2025 Sukses Digelar",
+        "category": "Ekonomi",
+        "publish_time": "01-10-2025 09:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/t3g5i5472/bri-jadi-banking-partner-halal-indo-2025-sukses-digelar"
+    },
+    {
+        "title": "Komplotan Pencopet Emak-Emak di Jambi Diamankan, Beraksi Berulang Kali di Pasar",
+        "category": "News",
+        "publish_time": "01-10-2025 09:39",
+        "news_link": "https://news.republika.co.id/berita/t3g5i2425/komplotan-pencopet-emakemak-di-jambi-diamankan-beraksi-berulang-kali-di-pasar"
+    },
+    {
+        "title": "Anggota DPR: Nama MBG Sebaiknya Diganti tanpa Kata 'Gratis'",
+        "category": "News",
+        "publish_time": "01-10-2025 09:35",
+        "news_link": "https://news.republika.co.id/berita/t3g5a4377/anggota-dpr-nama-mbg-sebaiknya-diganti-tanpa-kata-gratis"
+    },
+    {
+        "title": "Lima Minuman Ini Disebut Berisiko Mempercepat Penuaan Otak",
+        "category": "Ameera",
+        "publish_time": "01-10-2025 09:30",
+        "news_link": "https://ameera.republika.co.id/berita/t3g52s425/lima-minuman-ini-disebut-berisiko-mempercepat-penuaan-otak"
+    },
+    {
+        "title": "Peringatan Hari Kesaktian Pancasila di Sukabumi, Momen Perkuat Pengamalan Nilai-Nilai Pancasila",
+        "category": "Network",
+        "publish_time": "01-10-2025 09:28",
+        "news_link": "https://sukabumikini.com/posts/708047/peringatan-hari-kesaktian-pancasila-di-sukabumi-momen-perkuat-pengamalan-nilai-nilai-pancasila"
+    },
+    {
+        "title": "Ketika Doa Menggerakkan Takdir",
+        "category": "Network",
+        "publish_time": "01-10-2025 09:28",
+        "news_link": "https://ruzkaindonesia.id/posts/708048/ketika-doa-menggerakkan-takdir"
+    },
+    {
+        "title": "Koalisi Masyarakat Puisi Mengajak Siswa Mencari Sastra di Tengah Deru Budaya Asing",
+        "category": "Network",
+        "publish_time": "01-10-2025 09:28",
+        "news_link": "https://kingdomsriwijaya.id/posts/708051/koalisi-masyarakat-puisi-mengajak-siswa-mencari-sastra-di-tengah-deru-budaya-asing"
+    },
+    {
+        "title": "UNPAD dan Universitas Muhammadiyah Sukabumi Gelar Transformasi Digital Puskesmas",
+        "category": "Network",
+        "publish_time": "01-10-2025 09:28",
+        "news_link": "https://bisnistime.com/posts/708054/unpad-dan-universitas-muhammadiyah-sukabumi-gelar-transformasi-digital-puskesmas"
+    },
+    {
+        "title": "Pastikan Layanan Jamaah, Kementerian Haji Saudi Temui 75 Negara Peserta",
+        "category": "Khazanah",
+        "publish_time": "01-10-2025 09:23",
+        "news_link": "https://khazanah.republika.co.id/berita/t3g4qo483/pastikan-layanan-jamaah-kementerian-haji-saudi-temui-75-negara-peserta"
+    },
+    {
+        "title": "Pertagas Dorong Pengasuhan Positif untuk Tumbuh Kembang Anak di Balikpapan",
+        "category": "Esgnow",
+        "publish_time": "01-10-2025 09:19",
+        "news_link": "https://esgnow.republika.co.id/berita/t3g4jv522/pertagas-dorong-pengasuhan-positif-untuk-tumbuh-kembang-anak-di-balikpapan"
+    },
+    {
         "title": "Pertagas Dorong Kemandirian Desa Lewat Pertanian Berkelanjutan dan Inovasi Sosial",
         "category": "Esgnow",
         "publish_time": "01-10-2025 09:15",
@@ -8,73 +128,73 @@
     {
         "title": "Rokok dan Alkohol Bisa Jadi 'Pintu Masuk' Remaja Terjerat Narkoba",
         "category": "Ameera",
-        "publish_time": "01-10-2025 09:14",
+        "publish_time": "01-10-2025 09:15",
         "news_link": "https://ameera.republika.co.id/berita/t3g4cc425/rokok-dan-alkohol-bisa-jadi-pintu-masuk-remaja-terjerat-narkoba"
     },
     {
         "title": "Tina Wiryawati Suarakan Pemerataan Ekonomi, Tegaskan Keadilan untuk Warga Jabar",
         "category": "Rejabar",
-        "publish_time": "01-10-2025 09:11",
+        "publish_time": "01-10-2025 09:15",
         "news_link": "https://rejabar.republika.co.id/berita/t3g47d472/tina-wiryawati-suarakan-pemerataan-ekonomi-tegaskan-keadilan-untuk-warga-jabar"
     },
     {
         "title": "Dedi Mulyadi Minta Lokasi Dapur MBG Berada di Sekolah",
         "category": "Rejabar",
-        "publish_time": "01-10-2025 09:08",
+        "publish_time": "01-10-2025 09:15",
         "news_link": "https://rejabar.republika.co.id/berita/t3g43h512/dedi-mulyadi-minta-lokasi-dapur-mbg-berada-di-sekolah"
     },
     {
         "title": "Puluhan Pengikut NII Ucapkan Ikrar Setia NKRI",
         "category": "Visual",
-        "publish_time": "01-10-2025 09:06",
+        "publish_time": "01-10-2025 09:15",
         "news_link": "https://visual.republika.co.id/berita/t3g3z3375/puluhan-pengikut-nii-ucapkan-ikrar-setia-nkri"
     },
     {
         "title": "BMKG Sebut Jabar Sudah Memasuki Musim Hujan, Warga Diminta Waspada",
         "category": "Rejabar",
-        "publish_time": "01-10-2025 09:01",
+        "publish_time": "01-10-2025 09:15",
         "news_link": "https://rejabar.republika.co.id/berita/t3g3qz512/bmkg-sebut-jabar-sudah-memasuki-musim-hujan-warga-diminta-waspada"
     },
     {
         "title": "Dokter Anak Ungkap Tanda-Tanda Influenza yang Harus Diwaspadai",
         "category": "Ameera",
-        "publish_time": "01-10-2025 09:00",
+        "publish_time": "01-10-2025 09:15",
         "news_link": "https://ameera.republika.co.id/berita/t3g3pc425/dokter-anak-ungkap-tandatanda-influenza-yang-harus-diwaspadai"
     },
     {
         "title": "TASPEN GRC INSIGHT FORUM 2025: Perkuat Tata Kelola ESGRC untuk Integritas dan Keberlanjutan Bisnis",
         "category": "Ekonomi",
-        "publish_time": "01-10-2025 08:56",
+        "publish_time": "01-10-2025 09:15",
         "news_link": "https://ekonomi.republika.co.id/berita/t3g3ib472/taspen-grc-insight-forum-2025-perkuat-tata-kelola-esgrc-untuk-integritas-dan-keberlanjutan-bisnis"
     },
     {
         "title": "Gubernur Ahmad Luthfi Minta Organisasi Tani Ikut Atasi Kemiskinan",
         "category": "News",
-        "publish_time": "01-10-2025 08:40",
+        "publish_time": "01-10-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/t3g2sb291/gubernur-ahmad-luthfi-minta-organisasi-tani-ikut-atasi-kemiskinan"
     },
     {
         "title": "Temuan Ombudsman: Ada SPPG Pakai Beras Medium Buat MBG, Padahal Kontraknya Premium",
         "category": "News",
-        "publish_time": "01-10-2025 08:39",
+        "publish_time": "01-10-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/t3g2pl377/temuan-ombudsman-ada-sppg-pakai-beras-medium-buat-mbg-padahal-kontraknya-premium"
     },
     {
         "title": "72 Jam Jadi Golden Time Penyelamatan Santri yang Terjebak Reruntuhan Musholah Pesantren Sidoarjo",
         "category": "Rejogja",
-        "publish_time": "01-10-2025 08:33",
+        "publish_time": "01-10-2025 08:15",
         "news_link": "https://rejogja.republika.co.id/berita/t3g2h0282/72-jam-jadi-golden-time-penyelamatan-santri-yang-terjebak-reruntuhan-musholah-pesantren-sidoarjo"
     },
     {
         "title": "Menhaj: BPIH akan Ditetapkan November",
         "category": "Khazanah",
-        "publish_time": "01-10-2025 08:32",
+        "publish_time": "01-10-2025 08:15",
         "news_link": "https://khazanah.republika.co.id/berita/t3g2ey483/menhaj-bpih-akan-ditetapkan-november"
     },
     {
         "title": "Ketua DPW Jabar: Agus Suparmanto Jadi Ketum PPP Buntut Tindakan Amir Uskara",
         "category": "News",
-        "publish_time": "01-10-2025 08:21",
+        "publish_time": "01-10-2025 08:15",
         "news_link": "https://news.republika.co.id/berita/t3g1vt377/ketua-dpw-jabar-agus-suparmanto-jadi-ketum-ppp-buntut-tindakan-amir-uskara"
     },
     {
@@ -178,125 +298,5 @@
         "category": "Network",
         "publish_time": "01-10-2025 07:15",
         "news_link": "https://impresiupdate.id/posts/707990/suara-apa-yang-dihasilkan-ikan-alat-baru-mengungkap-jawabannya"
-    },
-    {
-        "title": "Susu A2 Tidak Selalu Jadi Solusi Untuk Perut Sensitif",
-        "category": "Network",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://impresiupdate.id/posts/707991/susu-a2-tidak-selalu-jadi-solusi-untuk-perut-sensitif"
-    },
-    {
-        "title": "Bagaimana Perilaku Terbentuk?",
-        "category": "Network",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://bisnistime.com/posts/708007/bagaimana-perilaku-terbentuk-"
-    },
-    {
-        "title": "Deretan Mobil Listrik dan Hybrid Terbaru Honda Siap Tampil di Japan Mobility Show 2025",
-        "category": "Network",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://motoresto.id/posts/707955/deretan-mobil-listrik-dan-hybrid-terbaru-honda-siap-tampil-di-japan-mobility-show-2025"
-    },
-    {
-        "title": "Catatan Cak AT: Katalog Impor MBG (3)",
-        "category": "Network",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://ruzkaindonesia.id/posts/708009/catatan-cak-at-katalog-impor-mbg-3-"
-    },
-    {
-        "title": "APBD Majalengka 2026 Turun Jadi Rp 3,05 T, Retribusi dan Pajak Naik",
-        "category": "Network",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://ruzkaindonesia.id/posts/708011/apbd-majalengka-2026-turun-jadi-rp-3-05-t-retribusi-dan-pajak-naik"
-    },
-    {
-        "title": "Bulan PRB, PMI Kota Sukabumi Ajarkan Siswa Disabilitas Tangguh dan Siap Selamat Saat Bencana",
-        "category": "Network",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://sukabumikini.com/posts/708019/bulan-prb-pmi-kota-sukabumi-ajarkan-siswa-disabilitas-tangguh-dan-siap-selamat-saat-bencana"
-    },
-    {
-        "title": "RS Kardiologi Emirat Hadir di Surakarta, Perkuat Layanan Kardiologi",
-        "category": "Network",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://diagnosa.id/posts/708020/rs-kardiologi-emirat-hadir-di-surakarta-perkuat-layanan-kardiologi"
-    },
-    {
-        "title": "Info Tiket KA ke Lempuyangan Yogya 3 Oktober dari Pasar Senen",
-        "category": "Network",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://kreta.id/posts/707944/info-tiket-ka-ke-lempuyangan-yogya-3-oktober-dari-pasar-senen"
-    },
-    {
-        "title": "Disdukcapil Depok Jemput Bola Rekam KTP ke Sekolah",
-        "category": "Network",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://ruzkaindonesia.id/posts/708024/disdukcapil-depok-jemput-bola-rekam-ktp-ke-sekolah"
-    },
-    {
-        "title": "Emas Perhiasan Alami Inflasi 25 Bulan Berturut-turut, Jadi Penyumbang Utama September 2025",
-        "category": "Ekonomi",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t3fy7u370/emas-perhiasan-alami-inflasi-25-bulan-berturutturut-jadi-penyumbang-utama-september-2025"
-    },
-    {
-        "title": "Hari Kesaktian Pancasila, Wali Kota Cilegon: Kebijakan Harus sesuai dengan Nilai-Nilai Pancasila",
-        "category": "Network",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://magentatoday.id/posts/708025/hari-kesaktian-pancasila-wali-kota-cilegon-kebijakan-harus-sesuai-dengan-nilai-nilai-pancasila"
-    },
-    {
-        "title": "Resmi Ditutup, IMOS 2025 Catat 103 Ribu Pengunjung dan Ribuan Test Ride",
-        "category": "Network",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://motoresto.id/posts/708035/resmi-ditutup-imos-2025-catat-103-ribu-pengunjung-dan-ribuan-test-ride"
-    },
-    {
-        "title": "Siapa Orang yang Berhak Memakmurkan Masjid?",
-        "category": "Khazanah",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://khazanah.republika.co.id/berita/t3fza9430/siapa-orang-yang-berhak-memakmurkan-masjid"
-    },
-    {
-        "title": "Shutdown Ketiga Era Trump, Layanan Publik AS Terhenti, Bagaimana Nasib Ekonomi?",
-        "category": "Ekonomi",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t3fz7v370/shutdown-ketiga-era-trump-layanan-publik-as-terhenti-bagaimana-nasib-ekonomi"
-    },
-    {
-        "title": "Perusahaan Kawasan Berikat Asal Pemalang Ekspor Ribuan Pasang Sepatu ke Amerika",
-        "category": "Beacukai",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://republika.co.id/berita//t3fxxl368/perusahaan-kawasan-berikat-asal-pemalang-ekspor-ribuan-pasang-sepatu-ke-amerika"
-    },
-    {
-        "title": "Ibu-Ibu Gelar Aksi Pukul Panci di Monas, Minta Program MBG Dievaluasi",
-        "category": "Visual",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://visual.republika.co.id/berita/t3fyou375/ibuibu-gelar-aksi-pukul-panci-di-monas-minta-program-mbg-dievaluasi"
-    },
-    {
-        "title": "Persiapan Asia Pacific Predator League 2026, Acer Indonesia Cari Tim DOTA 2 dan Valorant",
-        "category": "Rejogja",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://rejogja.republika.co.id/berita/t3fvxp291/persiapan-asia-pacific-predator-league-2026-acer-indonesia-cari-tim-dota-2-dan-valorant"
-    },
-    {
-        "title": "Dua Cucunya Keracunan MBG, Mahfud MD: Tata Kelolanya tak Jelas",
-        "category": "News",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/t3fyc5409/dua-cucunya-keracunan-mbg-mahfud-md-tata-kelolanya-tak-jelas"
-    },
-    {
-        "title": "Kapolri Terbitkan Perkap Pedoman Penindakan, Ini Kondisi Polisi Boleh Pakai Senjata Api",
-        "category": "News",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://news.republika.co.id/berita/t3fybq487/kapolri-terbitkan-perkap-pedoman-penindakan-ini-kondisi-polisi-boleh-pakai-senjata-api"
-    },
-    {
-        "title": "Sejarah Baru, Deflasi Beras September untuk Pertama Kali Sejak 2021",
-        "category": "Ekonomi",
-        "publish_time": "01-10-2025 07:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t3fy8v472/sejarah-baru-deflasi-beras-september-untuk-pertama-kali-sejak-2021"
     }
 ]
