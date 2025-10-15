@@ -1,8 +1,212 @@
 [
     {
+        "title": "Trans7 dan Raibnya Moral Media: Menghina Budaya, Mengusik Persatuan?",
+        "category": "Khazanah",
+        "publish_time": "15-10-2025 13:27",
+        "news_link": "https://khazanah.republika.co.id/berita/t46dd8320/trans7-dan-raibnya-moral-media-menghina-budaya-mengusik-persatuan"
+    },
+    {
+        "title": "Bupati Jeje Stop Sementara Operasional SPPG Pemasok Menu MBG yang Buat Ratusan Siswa Keracunan",
+        "category": "Rejabar",
+        "publish_time": "15-10-2025 13:27",
+        "news_link": "https://rejabar.republika.co.id/berita/t46dcz512/bupati-jeje-stop-sementara-operasional-sppg-pemasok-menu-mbg-yang-buat-ratusan-siswa-keracunan"
+    },
+    {
+        "title": "4 Keluarga Pelajar Magelang Terduga Korban Salah Tangkap & Penyiksaan Polisi Lapor ke Polda Jateng",
+        "category": "Rejogja",
+        "publish_time": "15-10-2025 13:22",
+        "news_link": "https://rejogja.republika.co.id/berita/t46d5z282/4-keluarga-pelajar-magelang-terduga-korban-salah-tangkap-penyiksaan-polisi-lapor-ke-polda-jateng"
+    },
+    {
+        "title": "Pria di Bandung Diduga Jadi Korban Penganiayaan Gegara Masalah Parkir, Alami Luka di Kepala",
+        "category": "Rejabar",
+        "publish_time": "15-10-2025 13:19",
+        "news_link": "https://rejabar.republika.co.id/berita/t46d13512/pria-di-bandung-diduga-jadi-korban-penganiayaan-gegara-masalah-parkir-alami-luka-di-kepala"
+    },
+    {
+        "title": "BSN dan Bullion Bank, Dua Langkah Baru Wujudkan Kemandirian Syariah",
+        "category": "Ekonomi Syariah",
+        "publish_time": "15-10-2025 13:17",
+        "news_link": "https://sharia.republika.co.id/berita/t46cxd423/bsn-dan-bullion-bank-dua-langkah-baru-wujudkan-kemandirian-syariah"
+    },
+    {
+        "title": "Bela Kiai dan Pesantren, Ketua DPD PDIP Jatim Dukung PBNU Tempuh Jalur Hukum Atas Trans7",
+        "category": "Khazanah",
+        "publish_time": "15-10-2025 13:12",
+        "news_link": "https://khazanah.republika.co.id/berita/t46cpw320/bela-kiai-dan-pesantren-ketua-dpd-pdip-jatim-dukung-pbnu-tempuh-jalur-hukum-atas-trans7"
+    },
+    {
+        "title": "Penyidik KPK Sita Puluhan Lahan Milik Tersangka Pemerasan di Kemenaker",
+        "category": "News",
+        "publish_time": "15-10-2025 13:11",
+        "news_link": "https://news.republika.co.id/berita/t46cop484/penyidik-kpk-sita-puluhan-lahan-milik-tersangka-pemerasan-di-kemenaker"
+    },
+    {
+        "title": "KNEKS tak Juga Menjadi Badan Ekonomi Syariah Nasional, Koordinasi Dinilai Tersendat",
+        "category": "Ekonomi Syariah",
+        "publish_time": "15-10-2025 13:11",
+        "news_link": "https://sharia.republika.co.id/berita/t46cnu483/kneks-tak-juga-menjadi-badan-ekonomi-syariah-nasional-koordinasi-dinilai-tersendat"
+    },
+    {
+        "title": "Gelar ESG Now Awards 2025, Republika Dorong Kolaborasi Korporasi dan Masyarakat",
+        "category": "Esgnow",
+        "publish_time": "15-10-2025 13:10",
+        "news_link": "https://esgnow.republika.co.id/berita/t46cmj423/gelar-esg-now-awards-2025-republika-dorong-kolaborasi-korporasi-dan-masyarakat"
+    },
+    {
+        "title": "64 Perusahaan Telah Terdaftar dalam Aplikasi Nyari Gawe",
+        "category": "Network",
+        "publish_time": "15-10-2025 13:10",
+        "news_link": "https://bandung24jam.id/posts/711008/64-perusahaan-telah-terdaftar-dalam-aplikasi-nyari-gawe"
+    },
+    {
+        "title": "Kolaborasi Lintas Budaya Lagu Tabola Bale Menang Youtube Music Academy 2025",
+        "category": "Network",
+        "publish_time": "15-10-2025 13:09",
+        "news_link": "https://filmusiku.com/posts/711014/kolaborasi-lintas-budaya-lagu-tabola-bale-menang-youtube-music-academy-2025"
+    },
+    {
+        "title": "75 Wakil Jabar Siap Persembahkan yang Terbaik di STQH Nasional ke-XXVIII",
+        "category": "Network",
+        "publish_time": "15-10-2025 13:09",
+        "news_link": "https://sajada.id/posts/711017/75-wakil-jabar-siap-persembahkan-yang-terbaik-di-stqh-nasional-ke-xxviii"
+    },
+    {
+        "title": "Tingkatkan Kompetensi Mahasiswa, Stikom Bandung Gulirkan Program Magang",
+        "category": "Rejabar",
+        "publish_time": "15-10-2025 13:09",
+        "news_link": "https://rejabar.republika.co.id/berita/t46ckm371/tingkatkan-kompetensi-mahasiswa-stikom-bandung-gulirkan-program-magang"
+    },
+    {
+        "title": "ASN Hingga Komunitas Bersatu dalam Gerakan Beberesih Bandung",
+        "category": "Network",
+        "publish_time": "15-10-2025 13:09",
+        "news_link": "https://bandung24jam.id/posts/711020/asn-hingga-komunitas-bersatu-dalam-gerakan-beberesih-bandung"
+    },
+    {
+        "title": "Indef Ungkap Kasus Keracunan Massal Tingkatkan Sentimen Negatif pada Program MBG",
+        "category": "Ekonomi",
+        "publish_time": "15-10-2025 13:09",
+        "news_link": "https://ekonomi.republika.co.id/berita/t46ckg490/indef-ungkap-kasus-keracunan-massal-tingkatkan-sentimen-negatif-pada-program-mbg"
+    },
+    {
+        "title": "Aksi Nyata Mengurangi Sampah: Membangun Keluarga Minim Sampah",
+        "category": "Network",
+        "publish_time": "15-10-2025 13:09",
+        "news_link": "https://bisnistime.com/posts/711033/aksi-nyata-mengurangi-sampah-membangun-keluarga-minim-sampah"
+    },
+    {
+        "title": "Seluruh Jenazah Korban Ambruknya Bangunan Ponpes Al-Khoziny Teridentifikasi",
+        "category": "Network",
+        "publish_time": "15-10-2025 13:08",
+        "news_link": "https://sekitarsurabaya.com/posts/711042/seluruh-jenazah-korban-ambruknya-bangunan-ponpes-al-khoziny-teridentifikasi"
+    },
+    {
+        "title": "Sejarah Pesantren: Sistem Pendidikan Pertama dan Tertua di Indonesia",
+        "category": "Network",
+        "publish_time": "15-10-2025 13:08",
+        "news_link": "https://sekitarkaltim.id/posts/711047/sejarah-pesantren-sistem-pendidikan-pertama-dan-tertua-di-indonesia"
+    },
+    {
+        "title": "Mandiri Bakti Kesehatan Sasar 600 Penerima Manfaat di Jawa Barat",
+        "category": "Network",
+        "publish_time": "15-10-2025 13:08",
+        "news_link": "https://bandung24jam.id/posts/711049/mandiri-bakti-kesehatan-sasar-600-penerima-manfaat-di-jawa-barat"
+    },
+    {
+        "title": "Rupiah Ditutup Menguat, Sentimen Turunnya Tarif PPN Dorong Optimisme Pasar",
+        "category": "Ekonomi",
+        "publish_time": "15-10-2025 13:01",
+        "news_link": "https://ekonomi.republika.co.id/berita/t46c7r490/rupiah-ditutup-menguat-sentimen-turunnya-tarif-ppn-dorong-optimisme-pasar"
+    },
+    {
+        "title": "Kemenag Minta Sekolah Buddha Kedepankan Kurikulum Cinta",
+        "category": "Khazanah",
+        "publish_time": "15-10-2025 13:00",
+        "news_link": "https://khazanah.republika.co.id/berita/t46c5f320/kemenag-minta-sekolah-buddha-kedepankan-kurikulum-cinta"
+    },
+    {
+        "title": "Melihat Persiapan Timnas Indonesia Jelang Piala Dunia U17",
+        "category": "Visual",
+        "publish_time": "15-10-2025 12:59",
+        "news_link": "https://visual.republika.co.id/berita/t468nj375/melihat-persiapan-timnas-indonesia-jelang-piala-dunia-u17"
+    },
+    {
+        "title": "Gencatan Senjata Kembali Dilanggar, Tank-Tank Israel Tembaki Warga Sipil di Khan Younis",
+        "category": "Khazanah",
+        "publish_time": "15-10-2025 12:59",
+        "news_link": "https://khazanah.republika.co.id/berita/t46c35483/gencatan-senjata-kembali-dilanggar-tanktank-israel-tembaki-warga-sipil-di-khan-younis"
+    },
+    {
+        "title": "Komisi I DPRD Jabar Dukung Proyek WTE Sarimukti",
+        "category": "Rejabar",
+        "publish_time": "15-10-2025 12:54",
+        "news_link": "https://rejabar.republika.co.id/berita/t46bv9472/komisi-i-dprd-jabar-dukung-proyek-wte-sarimukti"
+    },
+    {
+        "title": "CSED INDEF: Indonesia Butuh UU Ekonomi Syariah dan Menko Khusus",
+        "category": "Khazanah",
+        "publish_time": "15-10-2025 12:49",
+        "news_link": "https://khazanah.republika.co.id/berita/t46bnf430/csed-indef-indonesia-butuh-uu-ekonomi-syariah-dan-menko-khusus"
+    },
+    {
+        "title": "Prodi Manajemen FEB Unisba, Bantu UMKM Thailand Tingkatkan Digitalisasi",
+        "category": "Rejabar",
+        "publish_time": "15-10-2025 12:47",
+        "news_link": "https://rejabar.republika.co.id/berita/t46bka512/prodi-manajemen-feb-unisba-bantu-umkm-thailand-tingkatkan-digitalisasi"
+    },
+    {
+        "title": "ASN Hingga Komunitas Bersatu dalam Gerakan Beberesih Bandung",
+        "category": "Rejabar",
+        "publish_time": "15-10-2025 12:47",
+        "news_link": "https://rejabar.republika.co.id/berita/t46bju472/asn-hingga-komunitas-bersatu-dalam-gerakan-beberesih-bandung"
+    },
+    {
+        "title": "Gandeng Google, Kadin Bidik 50 Ribu UMKM Masuk Ekosistem Digital",
+        "category": "Ekonomi",
+        "publish_time": "15-10-2025 12:46",
+        "news_link": "https://ekonomi.republika.co.id/berita/t46bhy490/gandeng-google-kadin-bidik-50-ribu-umkm-masuk-ekosistem-digital"
+    },
+    {
+        "title": "CSED INDEF: Program Makanan Bergizi Gratis Harus Dipastikan Bersertifikat Halal",
+        "category": "Khazanah",
+        "publish_time": "15-10-2025 12:46",
+        "news_link": "https://khazanah.republika.co.id/berita/t46bhv430/csed-indef-program-makanan-bergizi-gratis-harus-dipastikan-bersertifikat-halal"
+    },
+    {
+        "title": "Kapan Indonesia akan Serahkan Second NDC? Ini Penjelasan Menteri LH",
+        "category": "Esgnow",
+        "publish_time": "15-10-2025 12:42",
+        "news_link": "https://esgnow.republika.co.id/berita/t46bc0490/kapan-indonesia-akan-serahkan-second-ndc-ini-penjelasan-menteri-lh"
+    },
+    {
+        "title": "STQHN 2025 Hadirkan Festival Qasidah, Seni Islam Jadi Media Dakwah Menyejukkan",
+        "category": "Khazanah",
+        "publish_time": "15-10-2025 12:42",
+        "news_link": "https://khazanah.republika.co.id/berita/t46bba430/stqhn-2025-hadirkan-festival-qasidah-seni-islam-jadi-media-dakwah-menyejukkan"
+    },
+    {
+        "title": "Kemenag DKI:  MAN Insan Cendikia akan Ada di Jakarta",
+        "category": "Khazanah",
+        "publish_time": "15-10-2025 12:41",
+        "news_link": "https://khazanah.republika.co.id/berita/t46b9g483/kemenag-dki-man-insan-cendikia-akan-ada-di-jakarta"
+    },
+    {
+        "title": "Pengamat Prediksi Harga Emas Bisa Tembus Rp 3 Juta per Gram di November 2025",
+        "category": "Ekonomi",
+        "publish_time": "15-10-2025 12:38",
+        "news_link": "https://ekonomi.republika.co.id/berita/t46b4h430/pengamat-prediksi-harga-emas-bisa-tembus-rp-3-juta-per-gram-di-november-2025"
+    },
+    {
+        "title": "Kemendiktisaintek Catat 898.792 Mahasiswa Tempuh Pendidikan Vokasi",
+        "category": "News",
+        "publish_time": "15-10-2025 12:30",
+        "news_link": "https://news.republika.co.id/berita/t46as9458/kemendiktisaintek-catat-898792-mahasiswa-tempuh-pendidikan-vokasi"
+    },
+    {
         "title": "Minerba Convex 2025 Tampilkan Industri Pertambangan Ramah Lingkungan",
         "category": "Visual",
-        "publish_time": "15-10-2025 12:30",
+        "publish_time": "15-10-2025 12:29",
         "news_link": "https://visual.republika.co.id/berita/t468ih375/minerba-convex-2025-tampilkan-industri-pertambangan-ramah-lingkungan"
     },
     {
@@ -14,289 +218,85 @@
     {
         "title": "Suara Andien Menantang Stereotipe 'Karier Redup Setelah Nikah'",
         "category": "Ameera",
-        "publish_time": "15-10-2025 12:20",
+        "publish_time": "15-10-2025 12:27",
         "news_link": "https://ameera.republika.co.id/berita/t46a9t425/suara-andien-menantang-stereotipe-karier-redup-setelah-nikah"
     },
     {
         "title": "Menteri LH: Jakarta dan Bandung Masuk Kondisi Darurat Sampah",
         "category": "Esgnow",
-        "publish_time": "15-10-2025 12:17",
+        "publish_time": "15-10-2025 12:27",
         "news_link": "https://esgnow.republika.co.id/berita/t46a67458/menteri-lh-jakarta-dan-bandung-masuk-kondisi-darurat-sampah"
     },
     {
         "title": "Ada 'Restu' Trump Kala Pasukan Hamas Eksekusi Kolaborator Israel di Gaza",
         "category": "Khazanah",
-        "publish_time": "15-10-2025 12:17",
+        "publish_time": "15-10-2025 12:27",
         "news_link": "https://khazanah.republika.co.id/berita/t46a66483/ada-restu-trump-kala-pasukan-hamas-eksekusi-kolaborator-israel-di-gaza"
     },
     {
         "title": "Cuaca Panas di Bandung Sempat Tembus 35 Derajat Celcius, BMKG Ungkap Penyebabnya",
         "category": "Rejabar",
-        "publish_time": "15-10-2025 12:12",
+        "publish_time": "15-10-2025 12:27",
         "news_link": "https://rejabar.republika.co.id/berita/t469xf512/cuaca-panas-di-bandung-sempat-tembus-35-derajat-celcius-bmkg-ungkap-penyebabnya"
     },
     {
         "title": "Keutamaan 2 Surah al-Mu\u2018awwidzatain",
         "category": "Iqra",
-        "publish_time": "15-10-2025 12:02",
+        "publish_time": "15-10-2025 12:27",
         "news_link": "https://iqra.republika.co.id/berita/t469fu458/keutamaan-2-surah-almuawwidzatain"
     },
     {
         "title": "Menelisik Perjalanan MTV, Saluran Musik yang Menemani Gen Milenial",
         "category": "Ameera",
-        "publish_time": "15-10-2025 11:53",
+        "publish_time": "15-10-2025 11:27",
         "news_link": "https://ameera.republika.co.id/berita/t4691o425/menelisik-perjalanan-mtv-saluran-musik-yang-menemani-gen-milenial"
     },
     {
         "title": "Alam Kubur adalah Lautan Penyesalan",
         "category": "Khazanah",
-        "publish_time": "15-10-2025 11:51",
+        "publish_time": "15-10-2025 11:27",
         "news_link": "https://khazanah.republika.co.id/berita/t468z3430/alam-kubur-adalah-lautan-penyesalan"
     },
     {
         "title": "Vidio Sports Festival Hadirkan Trofi Premier League, Serie A, dan La Liga ke Indonesia",
         "category": "Network",
-        "publish_time": "15-10-2025 11:49",
+        "publish_time": "15-10-2025 11:27",
         "news_link": "https://skor.republika.co.id/posts/711030/vidio-sports-festival-hadirkan-trofi-premier-league-serie-a-dan-la-liga-ke-indonesia"
     },
     {
         "title": "OSN 2025, Siswa SMA Cahaya Rancamaya Raih Medali Emas dan Predikat Best Economics",
         "category": "News",
-        "publish_time": "15-10-2025 11:48",
+        "publish_time": "15-10-2025 11:27",
         "news_link": "https://news.republika.co.id/berita/t468to291/osn-2025-siswa-sma-cahaya-rancamaya-raih-medali-emas-dan-predikat-best-economics"
     },
     {
         "title": "Kasus Guru Tampar Siswa Merokok di Banten Berakhir Saling Memaafkan",
         "category": "News",
-        "publish_time": "15-10-2025 11:45",
+        "publish_time": "15-10-2025 11:27",
         "news_link": "https://news.republika.co.id/berita/t468ny487/kasus-guru-tampar-siswa-merokok-di-banten-berakhir-saling-memaafkan"
     },
     {
         "title": "Keluarga Empat Pelajar Korban Dugaan Salah Tangkap dan Penyiksaan oleh Polisi Lapor ke Polda Jateng",
         "category": "News",
-        "publish_time": "15-10-2025 11:37",
+        "publish_time": "15-10-2025 11:27",
         "news_link": "https://news.republika.co.id/berita/t468am409/keluarga-empat-pelajar-korban-dugaan-salah-tangkap-dan-penyiksaan-oleh-polisi-lapor-ke-polda-jateng"
     },
     {
         "title": "KPK Mulai Kaji dan Soroti MBG",
         "category": "News",
-        "publish_time": "15-10-2025 11:36",
+        "publish_time": "15-10-2025 11:27",
         "news_link": "https://news.republika.co.id/berita/t4689k393/kpk-mulai-kaji-dan-soroti-mbg"
     },
     {
         "title": "Korban Keracunan MBG di Cisarua Bandung Capai 345 Orang",
         "category": "Visual",
-        "publish_time": "15-10-2025 11:35",
+        "publish_time": "15-10-2025 11:27",
         "news_link": "https://visual.republika.co.id/berita/t4686w375/korban-keracunan-mbg-di-cisarua-bandung-capai-345-orang"
     },
     {
         "title": "Hikmah Surah al-Asr, Ini 4 Kunci Hadapi Persoalan Hidup",
         "category": "Iqra",
-        "publish_time": "15-10-2025 11:32",
+        "publish_time": "15-10-2025 11:27",
         "news_link": "https://iqra.republika.co.id/berita/t46833458/hikmah-surah-alasr-ini-4-kunci-hadapi-persoalan-hidup"
-    },
-    {
-        "title": "Kiai Pesantren Kuningan: Dunia Pesantren Bukan Tontonan untuk Sensasi",
-        "category": "Khazanah",
-        "publish_time": "15-10-2025 11:31",
-        "news_link": "https://khazanah.republika.co.id/berita/t46813430/kiai-pesantren-kuningan-dunia-pesantren-bukan-tontonan-untuk-sensasi"
-    },
-    {
-        "title": "Di Leadership Forum, Bupati Bandung Sampaikan Tugas Pokok Utama Pemerintah",
-        "category": "Rejabar",
-        "publish_time": "15-10-2025 11:30",
-        "news_link": "https://rejabar.republika.co.id/berita/t467x6472/di-leadership-forum-bupati-bandung-sampaikan-tugas-pokok-utama-pemerintah"
-    },
-    {
-        "title": "Dikeluhkan Warga Bertahun-tahun, Perbaikan Jalan Rusak di Cirebon Timur Akhirnya Dimulai",
-        "category": "Rejabar",
-        "publish_time": "15-10-2025 11:30",
-        "news_link": "https://rejabar.republika.co.id/berita/t467w8512/dikeluhkan-warga-bertahuntahun-perbaikan-jalan-rusak-di-cirebon-timur-akhirnya-dimulai"
-    },
-    {
-        "title": "Gencatan Senjata di Gaza, Netanyahu Mulai Jalani Lagi Persidangan Kasus Korupsi",
-        "category": "News",
-        "publish_time": "15-10-2025 11:30",
-        "news_link": "https://news.republika.co.id/berita/t467o7409/gencatan-senjata-di-gaza-netanyahu-mulai-jalani-lagi-persidangan-kasus-korupsi"
-    },
-    {
-        "title": "Menjelajahi Gua Kafir di Tasikmalaya, Keindahan Alam y ang Tersembunyi di Dalam Perut Bumi",
-        "category": "Rejabar",
-        "publish_time": "15-10-2025 11:30",
-        "news_link": "https://rejabar.republika.co.id/berita/t467lt282/menjelajahi-gua-kafir-di-tasikmalaya-keindahan-alam-y-ang-tersembunyi-di-dalam-perut-bumi"
-    },
-    {
-        "title": "Timnas Futsal Indonesia Lawan Australia pada November 2025, Ada 18 Pemain yang Dipanggil",
-        "category": "Network",
-        "publish_time": "15-10-2025 11:30",
-        "news_link": "https://skor.republika.co.id/posts/711021/timnas-futsal-indonesia-lawan-australia-pada-november-2025-ada-18-pemain-yang-dipanggil"
-    },
-    {
-        "title": "Polisi Catat 31 Korban Kebakaran Kapal di Batam, 10 Orang di Antaranya Meninggal Dunia",
-        "category": "News",
-        "publish_time": "15-10-2025 11:30",
-        "news_link": "https://news.republika.co.id/berita/t467d0487/polisi-catat-31-korban-kebakaran-kapal-di-batam-10-orang-di-antaranya-meninggal-dunia"
-    },
-    {
-        "title": "Banyak Warga Indramayu Pilih Bekerja di Luar Negeri, Ini Penyebabnya",
-        "category": "Rejabar",
-        "publish_time": "15-10-2025 11:30",
-        "news_link": "https://rejabar.republika.co.id/berita/t46760512/banyak-warga-indramayu-pilih-bekerja-di-luar-negeri-ini-penyebabnya"
-    },
-    {
-        "title": "Pertamina Hadirkan Booth Energi Informasi di Pameran Keterbukaan Informasi Publik 2025",
-        "category": "Ekonomi",
-        "publish_time": "15-10-2025 11:30",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4674q472/pertamina-hadirkan-booth-energi-informasi-di-pameran-keterbukaan-informasi-publik-2025"
-    },
-    {
-        "title": "Dorong Milenial Hadirkan Ide Kreatif Literasi Keungan, JA SparktheDream Social Challenge Digelar",
-        "category": "Rejabar",
-        "publish_time": "15-10-2025 11:30",
-        "news_link": "https://rejabar.republika.co.id/berita/t466x6512/dorong-milenial-hadirkan-ide-kreatif-literasi-keungan-ja-sparkthedream-social-challenge-digelar"
-    },
-    {
-        "title": "Tunjuk Glenny Jadi Dirut Garuda, Ini Tujuan Danantara",
-        "category": "Ekonomi",
-        "publish_time": "15-10-2025 11:30",
-        "news_link": "https://ekonomi.republika.co.id/berita/t466tw423/tunjuk-glenny-jadi-dirut-garuda-ini-tujuan-danantara"
-    },
-    {
-        "title": "Satu Tahun Kabinet Merah Putih, Catat Lompatan Besar di Sektor Energi dan Hilirisasi Hijau",
-        "category": "Ekonomi",
-        "publish_time": "15-10-2025 11:30",
-        "news_link": "https://ekonomi.republika.co.id/berita/t466nc522/satu-tahun-kabinet-merah-putih-catat-lompatan-besar-di-sektor-energi-dan-hilirisasi-hijau"
-    },
-    {
-        "title": "TINS Fokus pada Penguatan Fundamental dan Diversifikasi Bisnis sebagai Strategi Utama ke Depan",
-        "category": "Ekonomi",
-        "publish_time": "15-10-2025 10:30",
-        "news_link": "https://ekonomi.republika.co.id/berita/t466gu522/tins-fokus-pada-penguatan-fundamental-dan-diversifikasi-bisnis-sebagai-strategi-utama-ke-depan"
-    },
-    {
-        "title": "Garuda Indonesia Rombak Direksi, Glenny H Kairupan Jadi Dirut Baru",
-        "category": "Ekonomi",
-        "publish_time": "15-10-2025 10:30",
-        "news_link": "https://ekonomi.republika.co.id/berita/t466b2423/garuda-indonesia-rombak-direksi-glenny-h-kairupan-jadi-dirut-baru"
-    },
-    {
-        "title": "Vivo Umumkan Stok BBM Jenis Revvo di Seluruh SPBU Habis",
-        "category": "Ekonomi",
-        "publish_time": "15-10-2025 10:30",
-        "news_link": "https://ekonomi.republika.co.id/berita/t466b1409/vivo-umumkan-stok-bbm-jenis-revvo-di-seluruh-spbu-habis"
-    },
-    {
-        "title": "Ekonomi Syariah di Persimpangan, Antara Visi dan Implementasi",
-        "category": "Ekonomi Syariah",
-        "publish_time": "15-10-2025 10:30",
-        "news_link": "https://sharia.republika.co.id/berita/t465v9423/ekonomi-syariah-di-persimpangan-antara-visi-dan-implementasi"
-    },
-    {
-        "title": "PWNU DKI Jakarta dan Alumni Pesantren Gelar Aksi untuk Boikot Trans7",
-        "category": "Video",
-        "publish_time": "15-10-2025 10:30",
-        "news_link": "https://tv.republika.co.id/berita/t465oq313/pwnu-dki-jakarta-dan-alumni-pesantren-gelar-aksi-untuk-boikot-trans7"
-    },
-    {
-        "title": "Khidmah Pesantren dan Martabat Kiai yang Dilecehkan Media",
-        "category": "Kolom",
-        "publish_time": "15-10-2025 10:30",
-        "news_link": "https://analisis.republika.co.id/berita/t465ne483/khidmah-pesantren-dan-martabat-kiai-yang-dilecehkan-media"
-    },
-    {
-        "title": "20 Thousand Graduates Join Six-Month National Internship Program",
-        "category": "En",
-        "publish_time": "2 hours ago",
-        "news_link": "https://en.republika.co.id/berita/t465lq415/20-thousand-graduates-join-sixmonth-national-internship-program"
-    },
-    {
-        "title": "Harga Telur dan Ayam Melonjak, Pedagang Sebut Akibat MBG",
-        "category": "Ekonomi",
-        "publish_time": "15-10-2025 10:30",
-        "news_link": "https://ekonomi.republika.co.id/berita/t465jb423/harga-telur-dan-ayam-melonjak-pedagang-sebut-akibat-mbg"
-    },
-    {
-        "title": "Sempat Mogok Belajar karena Teman Ditampar Kepsek, Ratusan Siswa SMAN 1 Lebak Kembali ke Sekolah",
-        "category": "Rejabar",
-        "publish_time": "15-10-2025 10:30",
-        "news_link": "https://rejabar.republika.co.id/berita/t464sk282/sempat-mogok-belajar-karena-teman-ditampar-kepsek-ratusan-siswa-sman-1-lebak-kembali-ke-sekolah"
-    },
-    {
-        "title": "Sederhananya Abu Bakar, Pemimpin Tertinggi Umat Islam yang Minta Pengurangan Gaji dari Baitul Mal",
-        "category": "Khazanah",
-        "publish_time": "15-10-2025 10:30",
-        "news_link": "https://khazanah.republika.co.id/berita/t464ix483/sederhananya-abu-bakar-pemimpin-tertinggi-umat-islam-yang-minta-pengurangan-gaji-dari-baitul-mal"
-    },
-    {
-        "title": "KPI Jateng Sebut Tayangan Trans7 Soal Ponpes Langgar Regulasi",
-        "category": "News",
-        "publish_time": "15-10-2025 10:30",
-        "news_link": "https://news.republika.co.id/berita/t464b1487/kpi-jateng-sebut-tayangan-trans7-soal-ponpes-langgar-regulasi"
-    },
-    {
-        "title": "Kemenkeu: Penerimaan Pajak Turun karena Peningkatan Restitusi per September 2025",
-        "category": "Ekonomi",
-        "publish_time": "15-10-2025 10:30",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4647z423/kemenkeu-penerimaan-pajak-turun-karena-peningkatan-restitusi-per-september-2025"
-    },
-    {
-        "title": "BMKG Kertajati Catat Suhu Tertinggi 37,6\u00b0C, Suhu Panas Bisa Sampai Akhir Oktober",
-        "category": "Rejabar",
-        "publish_time": "15-10-2025 10:30",
-        "news_link": "https://rejabar.republika.co.id/berita/t463wj512/bmkg-kertajati-catat-suhu-tertinggi-376c-suhu-panas-bisa-sampai-akhir-oktober"
-    },
-    {
-        "title": "Marak Kasus Keracunan, Puluhan Perempuan Tuntut Pemerintah Evaluasi Program MBG",
-        "category": "Visual",
-        "publish_time": "15-10-2025 09:30",
-        "news_link": "https://visual.republika.co.id/berita/t45xqi375/marak-kasus-keracunan-puluhan-perempuan-tuntut-pemerintah-evaluasi-program-mbg"
-    },
-    {
-        "title": "Istri Punya Hak untuk Dimuliakan Suami",
-        "category": "Khazanah",
-        "publish_time": "15-10-2025 09:30",
-        "news_link": "https://khazanah.republika.co.id/berita/t4613t430/istri-punya-hak-untuk-dimuliakan-suami"
-    },
-    {
-        "title": "Kemenkeu: Penerimaan Bea dan Cukai September Naik 7,1 Persen Jadi Rp221,3 Triliun",
-        "category": "Ekonomi",
-        "publish_time": "15-10-2025 09:30",
-        "news_link": "https://ekonomi.republika.co.id/berita/t463jg423/kemenkeu-penerimaan-bea-dan-cukai-september-naik-71-persen-jadi-rp2213-triliun"
-    },
-    {
-        "title": "Layanan Speling Hingga Bantuan Pangan Pemprov Jateng Disambut Antusias Warga Kendal",
-        "category": "News",
-        "publish_time": "15-10-2025 09:30",
-        "news_link": "https://news.republika.co.id/berita/t463by472/layanan-speling-hingga-bantuan-pangan-pemprov-jateng-disambut-antusias-warga-kendal"
-    },
-    {
-        "title": "Maxus Resmi Serahkan Batch Pertama MIFA 7 dan MIFA 9 Rakitan Lokal ke Konsumen Indonesia",
-        "category": "Ekonomi",
-        "publish_time": "15-10-2025 09:30",
-        "news_link": "https://ekonomi.republika.co.id/berita/t463bt348/maxus-resmi-serahkan-batch-pertama-mifa-7-dan-mifa-9-rakitan-lokal-ke-konsumen-indonesia"
-    },
-    {
-        "title": "Keluarga Arya Daru Kecewa Peninjauan TKP Batal, Ajukan Permohonan Gelar Perkara ke Bareskrim",
-        "category": "News",
-        "publish_time": "15-10-2025 09:30",
-        "news_link": "https://news.republika.co.id/berita/t463ba409/keluarga-arya-daru-kecewa-peninjauan-tkp-batal-ajukan-permohonan-gelar-perkara-ke-bareskrim"
-    },
-    {
-        "title": "Kebijakan Federasi Rusia Melestarikan Nilai-Nilai Spiritual dan Moralitas",
-        "category": "Kolom",
-        "publish_time": "15-10-2025 09:30",
-        "news_link": "https://analisis.republika.co.id/berita/t4637j393/kebijakan-federasi-rusia-melestarikan-nilainilai-spiritual-dan-moralitas"
-    },
-    {
-        "title": "Singgung Pentingnya Hilirisasi, Bahlil Bandingkan dengan Zaman VOC",
-        "category": "Ekonomi",
-        "publish_time": "15-10-2025 09:30",
-        "news_link": "https://ekonomi.republika.co.id/berita/t46302423/singgung-pentingnya-hilirisasi-bahlil-bandingkan-dengan-zaman-voc"
-    },
-    {
-        "title": "Ahmad Luthfi Pimpin Penanaman Jutaan Bibit Mangrove Secara Serentak, Catatkan Rekor Muri",
-        "category": "News",
-        "publish_time": "15-10-2025 09:30",
-        "news_link": "https://news.republika.co.id/berita/t462wf472/ahmad-luthfi-pimpin-penanaman-jutaan-bibit-mangrove-secara-serentak-catatkan-rekor-muri"
     }
 ]
