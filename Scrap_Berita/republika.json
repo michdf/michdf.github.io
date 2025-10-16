@@ -1,128 +1,212 @@
 [
     {
+        "title": "Dedi Mulyadi Pastikan Pembangunan Tol di Jabar akan Dipercepat, Ini Empat Proyek yang akan Dibangun",
+        "category": "Rejabar",
+        "publish_time": "16-10-2025 10:04",
+        "news_link": "https://rejabar.republika.co.id/berita/t47yn4512/dedi-mulyadi-pastikan-pembangunan-tol-di-jabar-akan-dipercepat-ini-empat-proyek-yang-akan-dibangun"
+    },
+    {
+        "title": "Republika Gelar ESG Now Awards 2025, Ini Daftar Pemenangnya",
+        "category": "Esgnow",
+        "publish_time": "16-10-2025 10:01",
+        "news_link": "https://esgnow.republika.co.id/berita/t47ogd423/republika-gelar-esg-now-awards-2025-ini-daftar-pemenangnya"
+    },
+    {
+        "title": "Menkomdigi Apresiasi ESG Now Awards 2025, Tingkatkan Isu Ekonomi Berkelanjutan",
+        "category": "Esgnow",
+        "publish_time": "16-10-2025 09:59",
+        "news_link": "https://esgnow.republika.co.id/berita/t47yew425/menkomdigi-apresiasi-esg-now-awards-2025-tingkatkan-isu-ekonomi-berkelanjutan"
+    },
+    {
+        "title": "Menko Zulhas: ESG Itu Budaya Kita",
+        "category": "Esgnow",
+        "publish_time": "16-10-2025 09:54",
+        "news_link": "https://esgnow.republika.co.id/berita/t47y7b484/menko-zulhas-esg-itu-budaya-kita"
+    },
+    {
+        "title": "Prudential Syariah Ajak UMKM Melek Asuransi di Hari Asuransi 2025",
+        "category": "Ekonomi Syariah",
+        "publish_time": "16-10-2025 09:50",
+        "news_link": "https://sharia.republika.co.id/berita/t47y0c370/prudential-syariah-ajak-umkm-melek-asuransi-di-hari-asuransi-2025"
+    },
+    {
+        "title": "Aspekpir Minta Presiden Prabowo Selesaikan Persoalan Denda Kehutanan",
+        "category": "News",
+        "publish_time": "16-10-2025 09:48",
+        "news_link": "https://news.republika.co.id/berita/t47xwf484/aspekpir-minta-presiden-prabowo-selesaikan-persoalan-denda-kehutanan"
+    },
+    {
+        "title": "Jabar akan Hadapi Babak Ketiga Turbulensi Fiskal di 2026",
+        "category": "Rejabar",
+        "publish_time": "16-10-2025 09:43",
+        "news_link": "https://rejabar.republika.co.id/berita/t47xo8472/jabar-akan-hadapi-babak-ketiga-turbulensi-fiskal-di-2026"
+    },
+    {
+        "title": "Undip Siap Sanksi Chiko, Terduga Pelaku Penyebaran Video Deepfake Sensual Siswi SMA",
+        "category": "Rejogja",
+        "publish_time": "16-10-2025 09:41",
+        "news_link": "https://rejogja.republika.co.id/berita/t47xkz425/undip-siap-sanksi-chiko-terduga-pelaku-penyebaran-video-deepfake-sensual-siswi-sma"
+    },
+    {
+        "title": "Hari Pertama TEI, UMKM Binaan Pertamina Catatkan Transaksi Puluhan Miliar Rupiah",
+        "category": "Esgnow",
+        "publish_time": "16-10-2025 09:38",
+        "news_link": "https://esgnow.republika.co.id/berita/t47xfv522/hari-pertama-tei-umkm-binaan-pertamina-catatkan-transaksi-puluhan-miliar-rupiah"
+    },
+    {
+        "title": "Tumpas 14 Anggota OPM, TNI Rebut Kembali Kampung di Intan Jaya",
+        "category": "News",
+        "publish_time": "16-10-2025 09:27",
+        "news_link": "https://news.republika.co.id/berita/t47wy2484/tumpas-14-anggota-opm-tni-rebut-kembali-kampung-di-intan-jaya"
+    },
+    {
+        "title": "Studi: Suara Ibu Bisa Tingkatkan Perkembangan Otak Bayi Prematur",
+        "category": "Ameera",
+        "publish_time": "16-10-2025 09:25",
+        "news_link": "https://ameera.republika.co.id/berita/t47wv4425/studi-suara-ibu-bisa-tingkatkan-perkembangan-otak-bayi-prematur"
+    },
+    {
+        "title": "Pertamina Patra Niaga SAF Forum, Dorong Kolaborasi Nasional Menuju Langit Rendah Emisi",
+        "category": "Ekonomi",
+        "publish_time": "16-10-2025 09:25",
+        "news_link": "https://ekonomi.republika.co.id/berita/t47wu8522/pertamina-patra-niaga-saf-forum-dorong-kolaborasi-nasional-menuju-langit-rendah-emisi"
+    },
+    {
+        "title": "Mimpi Warga Cimahi jadi CPNS Buyar, Uang Ratusan Juta Melayang",
+        "category": "Rejabar",
+        "publish_time": "16-10-2025 09:20",
+        "news_link": "https://rejabar.republika.co.id/berita/t47wmo512/mimpi-warga-cimahi-jadi-cpns-buyar-uang-ratusan-juta-melayang"
+    },
+    {
+        "title": "Puji ESG Awards Now Republika, Wamensos: Sejalan Perintah Prabowo",
+        "category": "Esgnow",
+        "publish_time": "16-10-2025 09:17",
+        "news_link": "https://esgnow.republika.co.id/berita/t47wgv484/puji-esg-awards-now-republika-wamensos-sejalan-perintah-prabowo"
+    },
+    {
         "title": "Republika Dorong Kolaborasi Nyata Hadapi Krisis Iklim Lewat ESG Now Awards 2025",
         "category": "Esgnow",
-        "publish_time": "16-10-2025 09:13",
+        "publish_time": "16-10-2025 09:16",
         "news_link": "https://esgnow.republika.co.id/berita/t47waq425/republika-dorong-kolaborasi-nyata-hadapi-krisis-iklim-lewat-esg-now-awards-2025"
     },
     {
         "title": "PUBG Mobile Umumkan Kolaborasi dengan Dying Light: The Beast",
         "category": "Network",
-        "publish_time": "16-10-2025 09:10",
+        "publish_time": "16-10-2025 09:16",
         "news_link": "https://skor.republika.co.id/posts/711246/pubg-mobile-umumkan-kolaborasi-dengan-dying-light-the-beast"
     },
     {
         "title": "Kasus Keracunan MBG Kembali Terjadi, 426 Siswa SMAN 1 Yogyakarta Jadi Korban",
         "category": "Rejogja",
-        "publish_time": "16-10-2025 09:04",
+        "publish_time": "16-10-2025 09:16",
         "news_link": "https://rejogja.republika.co.id/berita/t47vvo291/kasus-keracunan-mbg-kembali-terjadi-426-siswa-sman-1-yogyakarta-jadi-korban"
     },
     {
         "title": "BNN Peringatkan Etomidate dan Ketamin Disalahgunakan Jadi Narkoba",
         "category": "Ameera",
-        "publish_time": "16-10-2025 08:59",
+        "publish_time": "16-10-2025 09:16",
         "news_link": "https://ameera.republika.co.id/berita/t47vn5425/bnn-peringatkan-etomidate-dan-ketamin-disalahgunakan-jadi-narkoba"
     },
     {
         "title": "Nusantara Regas Terima Kargo LNG ke-30 Tahun 2025 untuk Jaga Pasokan Energi Jawa Barat",
         "category": "Ekonomi",
-        "publish_time": "16-10-2025 08:58",
+        "publish_time": "16-10-2025 09:16",
         "news_link": "https://ekonomi.republika.co.id/berita/t47vly472/nusantara-regas-terima-kargo-lng-ke30-tahun-2025-untuk-jaga-pasokan-energi-jawa-barat"
     },
     {
         "title": "Garena Kembali Hadirkan Program Edukatif Garena Good Game di Sekolah",
         "category": "Network",
-        "publish_time": "16-10-2025 08:50",
+        "publish_time": "16-10-2025 09:16",
         "news_link": "https://skor.republika.co.id/posts/711245/garena-kembali-hadirkan-program-edukatif-garena-good-game-di-sekolah"
     },
     {
         "title": "Livin\u2019 Fest 2025 Resmi Dibuka, Bank Mandiri Rayakan 27 Tahun Sinergi Majukan Negeri",
         "category": "Ekonomi",
-        "publish_time": "16-10-2025 08:44",
+        "publish_time": "16-10-2025 08:16",
         "news_link": "https://ekonomi.republika.co.id/berita/t47uxa472/livin-fest-2025-resmi-dibuka-bank-mandiri-rayakan-27-tahun-sinergi-majukan-negeri"
     },
     {
         "title": "Putra Gubernur Mahyeldi Jabat Plt Ketua DPW PSI Sumbar",
         "category": "News",
-        "publish_time": "16-10-2025 08:41",
+        "publish_time": "16-10-2025 08:16",
         "news_link": "https://news.republika.co.id/berita/t47ut6484/putra-gubernur-mahyeldi-jabat-plt-ketua-dpw-psi-sumbar"
     },
     {
         "title": "Drawing FFWS Global Finals 2026, Perang Saudara Tersaji",
         "category": "Network",
-        "publish_time": "16-10-2025 08:40",
+        "publish_time": "16-10-2025 08:16",
         "news_link": "https://skor.republika.co.id/posts/711242/drawing-ffws-global-finals-2026-perang-saudara-tersaji"
     },
     {
         "title": "Pengguna Tumbuh 55 Persen, BMoney Hadirkan Privilege Lounge Bidik Investor Bandung",
         "category": "Rejabar",
-        "publish_time": "16-10-2025 08:39",
+        "publish_time": "16-10-2025 08:16",
         "news_link": "https://rejabar.republika.co.id/berita/t47up5512/pengguna-tumbuh-55-persen-bmoney-hadirkan-privilege-lounge-bidik-investor-bandung"
     },
     {
         "title": "Pengusaha Tionghoa di Jawa Tengah Rasakan Jaminan Kemudahan dan Kondusivitas Investasi",
         "category": "News",
-        "publish_time": "16-10-2025 08:38",
+        "publish_time": "16-10-2025 08:16",
         "news_link": "https://news.republika.co.id/berita/t47unt291/pengusaha-tionghoa-di-jawa-tengah-rasakan-jaminan-kemudahan-dan-kondusivitas-investasi"
     },
     {
         "title": "PSSI dan Patrick Kluivert Berpisah, Erick Thohir: Terima Kasih atas Dedikasi untuk Merah Putih",
         "category": "News",
-        "publish_time": "16-10-2025 08:34",
+        "publish_time": "16-10-2025 08:16",
         "news_link": "https://news.republika.co.id/berita/t47ugj348/pssi-dan-patrick-kluivert-berpisah-erick-thohir-terima-kasih-atas-dedikasi-untuk-merah-putih"
     },
     {
         "title": "Korea Selatan Resmi Larang Warganya Bepergian ke Daerah Scam Kamboja",
         "category": "Network",
-        "publish_time": "16-10-2025 08:25",
+        "publish_time": "16-10-2025 08:16",
         "news_link": "https://chingudeul.republika.co.id/posts/711226/korea-selatan-resmi-larang-warganya-bepergian-ke-daerah-scam-kamboja"
     },
     {
         "title": "Episode 1  2 Drakor Baru Choi Woo-shik dan Jung Soo-min Catat Rating Tinggi",
         "category": "Network",
-        "publish_time": "16-10-2025 08:25",
+        "publish_time": "16-10-2025 08:16",
         "news_link": "https://chingudeul.republika.co.id/posts/711227/episode-1-2-drakor-baru-choi-woo-shik-dan-jung-soo-min-catat-rating-tinggi"
     },
     {
         "title": "Viral Pria Korea Jualan Cilok Bumbu Kacang Keliling Ansan",
         "category": "Network",
-        "publish_time": "16-10-2025 08:24",
+        "publish_time": "16-10-2025 08:16",
         "news_link": "https://chingudeul.republika.co.id/posts/711235/viral-pria-korea-jualan-cilok-bumbu-kacang-keliling-ansan"
     },
     {
         "title": "Mahasiswa Unair Ciptakan Beras Cepat Saji dari Limbah Tulang Ikan",
         "category": "Network",
-        "publish_time": "16-10-2025 08:23",
+        "publish_time": "16-10-2025 08:16",
         "news_link": "https://sekitarsurabaya.com/posts/711195/mahasiswa-unair-ciptakan-beras-cepat-saji-dari-limbah-tulang-ikan"
     },
     {
         "title": "Prabowo Pimpin Ratas di Kertanegara Bahas Pertanian Hingga Pendidikan",
         "category": "News",
-        "publish_time": "16-10-2025 08:22",
+        "publish_time": "16-10-2025 08:16",
         "news_link": "https://news.republika.co.id/berita/t47tx0484/prabowo-pimpin-ratas-di-kertanegara-bahas-pertanian-hingga-pendidikan"
     },
     {
         "title": "Gus Miek: Jangan Jadikan Dunia di Hati Kita",
         "category": "Network",
-        "publish_time": "16-10-2025 08:20",
+        "publish_time": "16-10-2025 08:16",
         "news_link": "https://sajada.id/posts/711206/gus-miek-jangan-jadikan-dunia-di-hati-kita"
     },
     {
         "title": "Kembali Kerjasama dengan Sutradara Poor Things, Emma Stone Digundul dalam Film Terbarunya",
         "category": "Network",
-        "publish_time": "16-10-2025 08:20",
+        "publish_time": "16-10-2025 08:16",
         "news_link": "https://filmusiku.com/posts/711214/kembali-kerjasama-dengan-sutradara-poor-things-emma-stone-digundul-dalam-film-terbarunya"
     },
     {
         "title": "Biochar Diyakini Bisa Menekan Penggunaan Pupuk Kimia pada Budidaya Sawit",
         "category": "Network",
-        "publish_time": "16-10-2025 08:20",
+        "publish_time": "16-10-2025 08:16",
         "news_link": "https://sajada.id/posts/711220/biochar-diyakini-bisa-menekan-penggunaan-pupuk-kimia-pada-budidaya-sawit"
     },
     {
         "title": "Sepekan Diterjang Angin dan Banjir, BNPB: Waspadai Potensi Bencana Hidrometeorologi!",
         "category": "Network",
-        "publish_time": "16-10-2025 08:19",
+        "publish_time": "16-10-2025 08:16",
         "news_link": "https://bisnistime.com/posts/711239/-sepekan-diterjang-angin-dan-banjir-bnpb-waspadai-potensi-bencana-hidrometeorologi-"
     },
     {
@@ -214,89 +298,5 @@
         "category": "Rejabar",
         "publish_time": "16-10-2025 07:16",
         "news_link": "https://rejabar.republika.co.id/berita/t47qqx512/polda-jabar-buka-garis-polisi-di-kebun-binatang-bandung-operasional-kewenangan-pemkot-bandung"
-    },
-    {
-        "title": "Kasus Tampar Murid karena Merokok di Sekolah Dinilai tak Bisa Dibenarkan",
-        "category": "Ameera",
-        "publish_time": "16-10-2025 07:16",
-        "news_link": "https://ameera.republika.co.id/berita/t47qpt425/kasus-tampar-murid-karena-merokok-di-sekolah-dinilai-tak-bisa-dibenarkan"
-    },
-    {
-        "title": "Kluivert Akhirnya Out, PSSI Segera Tetapkan Target Berikutnya untuk Timnas Indonesia",
-        "category": "News",
-        "publish_time": "16-10-2025 07:16",
-        "news_link": "https://news.republika.co.id/berita/t47qjf409/kluivert-akhirnya-out-pssi-segera-tetapkan-target-berikutnya-untuk-timnas-indonesia"
-    },
-    {
-        "title": "Keracunan MBG yang Tumbangkan Ratusan Siswa di Bandung Barat Mereda, Jeje: Tersisa 50 Siswa",
-        "category": "Rejabar",
-        "publish_time": "16-10-2025 07:16",
-        "news_link": "https://rejabar.republika.co.id/berita/t47qb7512/keracunan-mbg-yang-tumbangkan-ratusan-siswa-di-bandung-barat-mereda-jeje-tersisa-50-siswa"
-    },
-    {
-        "title": "Dua Petinggi Yayasan Kebun Binatang Bandung Divonis 7 Tahun Penjara",
-        "category": "Rejabar",
-        "publish_time": "16-10-2025 07:16",
-        "news_link": "https://rejabar.republika.co.id/berita/t47ply512/dua-petinggi-yayasan-kebun-binatang-bandung-divonis-7-tahun-penjara"
-    },
-    {
-        "title": "Indonesia Berencana Beli Jet Tempur Chengdu J-10, Bagaimana Hubungan dengan AS?",
-        "category": "News",
-        "publish_time": "16-10-2025 06:16",
-        "news_link": "https://news.republika.co.id/berita/t47oeu409/indonesia-berencana-beli-jet-tempur-chengdu-j10-bagaimana-hubungan-dengan-as"
-    },
-    {
-        "title": "PSSI Pecat Patrick Kluivert, Erick Thohir Singgung soal Target Timnas Indonesia Selanjutnya",
-        "category": "Network",
-        "publish_time": "16-10-2025 06:16",
-        "news_link": "https://skor.republika.co.id/posts/711207/pssi-pecat-patrick-kluivert-erick-thohir-singgung-soal-target-timnas-indonesia-selanjutnya"
-    },
-    {
-        "title": "Puluhan Warga Binaan Diduga Idap TBC, Lapas Indramayu Siapkan Ruang Isolasi",
-        "category": "Rejabar",
-        "publish_time": "16-10-2025 06:16",
-        "news_link": "https://rejabar.republika.co.id/berita/t47o8p512/puluhan-warga-binaan-diduga-idap-tbc-lapas-indramayu-siapkan-ruang-isolasi"
-    },
-    {
-        "title": "Pramono Anung Akan Bangun Rumah Sakit Tipe A di Jakarta",
-        "category": "News",
-        "publish_time": "16-10-2025 06:16",
-        "news_link": "https://news.republika.co.id/berita/t47o5l370/pramono-anung-akan-bangun-rumah-sakit-tipe-a-di-jakarta"
-    },
-    {
-        "title": "Dianggap Napi High Risk, Ammar Zoni Ditempatkan di Sel Lapas Nusakambangan",
-        "category": "News",
-        "publish_time": "16-10-2025 06:16",
-        "news_link": "https://news.republika.co.id/berita/t47njh409/dianggap-napi-high-risk-ammar-zoni-ditempatkan-di-sel-lapas-nusakambangan"
-    },
-    {
-        "title": "Bebani Petani Kecil, SPKS Minta Pemerintah Tinjau PP Nomor 45 Tahun 2025",
-        "category": "Ekonomi",
-        "publish_time": "16-10-2025 06:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/t47cqn451/bebani-petani-kecil-spks-minta-pemerintah-tinjau-pp-nomor-45-tahun-2025"
-    },
-    {
-        "title": "Unit Bayangan Bikin Geger Zionis, Media Israel: Hamas Masih Sepenuhnya Kuasai Gaza",
-        "category": "Khazanah",
-        "publish_time": "16-10-2025 06:16",
-        "news_link": "https://khazanah.republika.co.id/berita/t47nlp451/unit-bayangan-bikin-geger-zionis-media-israel-hamas-masih-sepenuhnya-kuasai-gaza"
-    },
-    {
-        "title": "Ammar Zoni Dipindah ke Nusakambangan: Digiring dengan Tangan Diborgol, Mata Ditutup",
-        "category": "News",
-        "publish_time": "16-10-2025 06:16",
-        "news_link": "https://news.republika.co.id/berita/t47n24409/ammar-zoni-dipindah-ke-nusakambangan-digiring-dengan-tangan-diborgol-mata-ditutup"
-    },
-    {
-        "title": "Sambut Delegasi Asia-Afrika, Farhan: Saatnya Menulis Sejarah Baru dari Kota Bandung",
-        "category": "Rejabar",
-        "publish_time": "16-10-2025 06:16",
-        "news_link": "https://rejabar.republika.co.id/berita/t47mzo368/sambut-delegasi-asiaafrika-farhan-saatnya-menulis-sejarah-baru-dari-kota-bandung"
-    },
-    {
-        "title": "Bahlil Pastikan Kekayaan Alam Dikelola untuk Rakyat dan Keberlanjutan",
-        "category": "Ekonomi",
-        "publish_time": "16-10-2025 06:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/t47my1370/bahlil-pastikan-kekayaan-alam-dikelola-untuk-rakyat-dan-keberlanjutan"
     }
 ]
