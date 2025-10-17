@@ -1,50 +1,158 @@
 [
     {
+        "title": "Warisan Akhlak Nabi Muhammad SAW, Kebaikan Tanpa Batas bagi Sesama",
+        "category": "Khazanah",
+        "publish_time": "17-10-2025 06:20",
+        "news_link": "https://khazanah.republika.co.id/berita/t49iy5430/warisan-akhlak-nabi-muhammad-saw-kebaikan-tanpa-batas-bagi-sesama"
+    },
+    {
+        "title": "Dirut Pertamina Apresiasi Kontribusi dan Semangat Perwira Saka Subholding Gas",
+        "category": "Ekonomi",
+        "publish_time": "17-10-2025 06:20",
+        "news_link": "https://ekonomi.republika.co.id/berita/t49ixb368/dirut-pertamina-apresiasi-kontribusi-dan-semangat-perwira-saka-subholding-gas"
+    },
+    {
+        "title": "Rumah Pangan Lestari di Yogyakarta: Gerakan Urban Farming Menuju Kemandirian Pangan",
+        "category": "Network",
+        "publish_time": "17-10-2025 06:19",
+        "news_link": "https://fifarm.id/posts/710908/rumah-pangan-lestari-di-yogyakarta-gerakan-urban-farming-menuju-kemandirian-pangan"
+    },
+    {
+        "title": "Nggak Cuma Cerdas, Duta Muda BPJS Kesehatan Juga Paham JKN dan MBG",
+        "category": "Network",
+        "publish_time": "17-10-2025 06:19",
+        "news_link": "https://pemantiknews.id/posts/711364/nggak-cuma-cerdas-duta-muda-bpjs-kesehatan-juga-paham-jkn-dan-mbg"
+    },
+    {
+        "title": "Catatan Cak AT: Visa Sakti Umrah Mandiri",
+        "category": "Network",
+        "publish_time": "17-10-2025 06:17",
+        "news_link": "https://ruzkaindonesia.id/posts/711388/catatan-cak-at-visa-sakti-umrah-mandiri"
+    },
+    {
+        "title": "Dampak Cuaca Ekstrem, Bencana Angin Kencang dan Longsor Landa Sukabumi",
+        "category": "Network",
+        "publish_time": "17-10-2025 06:17",
+        "news_link": "https://sukabumikini.com/posts/711409/dampak-cuaca-ekstrem-bencana-angin-kencang-dan-longsor-landa-sukabumi"
+    },
+    {
+        "title": "Kementerian Pertahanan Jepang Kunjungi PT Pindad, Diskusi Alutsista",
+        "category": "Network",
+        "publish_time": "17-10-2025 06:17",
+        "news_link": "https://magentatoday.id/posts/711248/kementerian-pertahanan-jepang-kunjungi-pt-pindad-diskusi-alutsista"
+    },
+    {
+        "title": "Jurus Jitu Disiplinkan Remaja 'Bandel' Ala Psikolog",
+        "category": "Ameera",
+        "publish_time": "17-10-2025 06:00",
+        "news_link": "https://ameera.republika.co.id/berita/t49i0h425/jurus-jitu-disiplinkan-remaja-bandel-ala-psikolog"
+    },
+    {
+        "title": "Kapolri Ingatkan Polri tak Antikritik, Komitmen Terus Perbaiki Diri",
+        "category": "News",
+        "publish_time": "17-10-2025 05:55",
+        "news_link": "https://news.republika.co.id/berita/t49hr6484/kapolri-ingatkan-polri-tak-antikritik-komitmen-terus-perbaiki-diri"
+    },
+    {
+        "title": "Israel Perpanjang Penahanan Dokter Hussam Abu Safiya Selama Enam Bulan",
+        "category": "News",
+        "publish_time": "17-10-2025 05:52",
+        "news_link": "https://news.republika.co.id/berita/t49hnd377/israel-perpanjang-penahanan-dokter-hussam-abu-safiya-selama-enam-bulan"
+    },
+    {
+        "title": "Siapkan Guru Profesional, Kemendikdasmen Buka Seleksi PPG bagi Calon Guru Tahun 2025",
+        "category": "News",
+        "publish_time": "17-10-2025 05:51",
+        "news_link": "https://news.republika.co.id/berita/t49hkn368/siapkan-guru-profesional-kemendikdasmen-buka-seleksi-ppg-bagi-calon-guru-tahun-2025"
+    },
+    {
+        "title": "PPI Perluas Ekspor ke Mesir dan India Lewat MoU di Trade Expo Indonesia 2025",
+        "category": "Ekonomi",
+        "publish_time": "17-10-2025 05:44",
+        "news_link": "https://ekonomi.republika.co.id/berita/t49h9t370/ppi-perluas-ekspor-ke-mesir-dan-india-lewat-mou-di-trade-expo-indonesia-2025"
+    },
+    {
+        "title": "Temui Menpan, Wamenag Optimistis Izin Prakarsa Ditjen Pesantren Bisa Jadi Kado Hari Santri",
+        "category": "Khazanah",
+        "publish_time": "17-10-2025 05:44",
+        "news_link": "https://khazanah.republika.co.id/berita/t49h9i368/temui-menpan-wamenag-optimistis-izin-prakarsa-ditjen-pesantren-bisa-jadi-kado-hari-santri"
+    },
+    {
+        "title": "Ekonom: Sikap Donald Trump Intervensi Venezuela, Mirip Skenario AS ke Irak Saat Jatuhkan Sadam",
+        "category": "News",
+        "publish_time": "17-10-2025 05:42",
+        "news_link": "https://news.republika.co.id/berita/t49h6o377/ekonom-sikap-donald-trump-intervensi-venezuela-mirip-skenario-as-ke-irak-saat-jatuhkan-sadam"
+    },
+    {
+        "title": "Menhan Sjafrie Sebut Presiden Prabowo tak Punya Tanggal Merah",
+        "category": "News",
+        "publish_time": "17-10-2025 05:38",
+        "news_link": "https://news.republika.co.id/berita/t49gzn484/menhan-sjafrie-sebut-presiden-prabowo-tak-punya-tanggal-merah"
+    },
+    {
+        "title": "Kawasan Gunung Rinjani Terbakar, Api Meluas Akibat Angin dan Medan Curam",
+        "category": "News",
+        "publish_time": "17-10-2025 05:36",
+        "news_link": "https://news.republika.co.id/berita/t49gw4370/kawasan-gunung-rinjani-terbakar-api-meluas-akibat-angin-dan-medan-curam"
+    },
+    {
+        "title": "Ayah dan Anak Dilaporkan Hilang di Jalur Track Lembah Tengkorak di Bandung, Ini Kronologinya",
+        "category": "Rejabar",
+        "publish_time": "17-10-2025 05:35",
+        "news_link": "https://rejabar.republika.co.id/berita/t49gul512/ayah-dan-anak-dilaporkan-hilang-di-jalur-track-lembah-tengkorak-di-bandung-ini-kronologinya"
+    },
+    {
+        "title": "Desak Kemenag Sahkan Ditjen Pesantren, Gus Jazil: Saatnya Negara Hadir Penuh Buat Kaum Santri",
+        "category": "Khazanah",
+        "publish_time": "17-10-2025 05:33",
+        "news_link": "https://khazanah.republika.co.id/berita/t49gqa451/desak-kemenag-sahkan-ditjen-pesantren-gus-jazil-saatnya-negara-hadir-penuh-buat-kaum-santri"
+    },
+    {
         "title": "Ayah dan Anak Dilaporkan Hilang di Jalur Pendakian Lembah Tengkorak di Bandung",
         "category": "News",
-        "publish_time": "17-10-2025 04:51",
+        "publish_time": "17-10-2025 05:21",
         "news_link": "https://news.republika.co.id/berita/t49ev2487/ayah-dan-anak-dilaporkan-hilang-di-jalur-pendakian-lembah-tengkorak-di-bandung"
     },
     {
         "title": "AFC Awards 2025: Pemain Terbaik Asia dari Arab Saudi, Federasi Malaysia Dapat Penghargaan",
         "category": "Network",
-        "publish_time": "17-10-2025 04:39",
+        "publish_time": "17-10-2025 04:21",
         "news_link": "https://skor.republika.co.id/posts/711397/afc-awards-2025-pemain-terbaik-asia-dari-arab-saudi-federasi-malaysia-dapat-penghargaan"
     },
     {
         "title": "Investor Pasar Modal Nyaris Tembus 19 Juta, BEI Catat Pertumbuhan Positif",
         "category": "Ekonomi",
-        "publish_time": "17-10-2025 04:39",
+        "publish_time": "17-10-2025 04:21",
         "news_link": "https://ekonomi.republika.co.id/berita/t49eab370/investor-pasar-modal-nyaris-tembus-19-juta-bei-catat-pertumbuhan-positif"
     },
     {
         "title": "Jadwal Liga Inggris: Duel di Anfield, Liverpool Siap Bikin Manchester United Menangis",
         "category": "News",
-        "publish_time": "17-10-2025 04:36",
+        "publish_time": "17-10-2025 04:21",
         "news_link": "https://news.republika.co.id/berita/t49e4w348/jadwal-liga-inggris-duel-di-anfield-liverpool-siap-bikin-manchester-united-menangis"
     },
     {
         "title": "KPK Dalami Penggunaan Uang Dana Operasional Papua untuk Pembelian Aset, Negara Rugi Rp 1,2 Triliun",
         "category": "News",
-        "publish_time": "17-10-2025 04:34",
+        "publish_time": "17-10-2025 04:21",
         "news_link": "https://news.republika.co.id/berita/t49e1g487/kpk-dalami-penggunaan-uang-dana-operasional-papua-untuk-pembelian-aset-negara-rugi-rp-12-triliun"
     },
     {
         "title": "Kapan Jet Tempur J-10 Chengdu Tiba di Indonesia? Ini Jawaban Kemenhan",
         "category": "News",
-        "publish_time": "17-10-2025 04:34",
+        "publish_time": "17-10-2025 04:21",
         "news_link": "https://news.republika.co.id/berita/t49e14484/kapan-jet-tempur-j10-chengdu-tiba-di-indonesia-ini-jawaban-kemenhan"
     },
     {
         "title": "Indonesia Tak Masuk Kalender Terbaru Formula E 2025-2026",
         "category": "Network",
-        "publish_time": "17-10-2025 04:29",
+        "publish_time": "17-10-2025 04:21",
         "news_link": "https://skor.republika.co.id/posts/711395/indonesia-tak-masuk-kalender-terbaru-formula-e-2025-2026"
     },
     {
         "title": "Perempuan Jelang Masa Menopause Wajib Terapkan Gaya Hidup Sehat",
         "category": "Ameera",
-        "publish_time": "17-10-2025 04:25",
+        "publish_time": "17-10-2025 04:21",
         "news_link": "https://ameera.republika.co.id/berita/t49dmz328/perempuan-jelang-masa-menopause-wajib-terapkan-gaya-hidup-sehat"
     },
     {
@@ -56,247 +164,139 @@
     {
         "title": "Diabetes Jadi Penyebab Perlemakan Hati Pemicu Kanker Hati",
         "category": "Ameera",
-        "publish_time": "17-10-2025 04:19",
+        "publish_time": "17-10-2025 04:21",
         "news_link": "https://ameera.republika.co.id/berita/t49ddb328/diabetes-jadi-penyebab-perlemakan-hati-pemicu-kanker-hati"
     },
     {
         "title": "Al Dawsari dan Takahashi Raih Penghargaan Pesepak Bola Terbaik Asia",
         "category": "News",
-        "publish_time": "17-10-2025 04:15",
+        "publish_time": "17-10-2025 04:21",
         "news_link": "https://news.republika.co.id/berita/t49d6g348/al-dawsari-dan-takahashi-raih-penghargaan-pesepak-bola-terbaik-asia"
     },
     {
         "title": "Gerindra Depok Sampaikan Doa dan Harapan untuk Presiden Prabowo di Hari Lahirnya",
         "category": "Rejabar",
-        "publish_time": "17-10-2025 04:14",
+        "publish_time": "17-10-2025 04:21",
         "news_link": "https://rejabar.republika.co.id/berita/t49d49368/gerindra-depok-sampaikan-doa-dan-harapan-untuk-presiden-prabowo-di-hari-lahirnya"
     },
     {
         "title": "Sukuk Daerah Sumbar Bisa Pecah Telur Pembiayaan Kreatif Pemda",
         "category": "Ekonomi Syariah",
-        "publish_time": "17-10-2025 04:13",
+        "publish_time": "17-10-2025 04:21",
         "news_link": "https://sharia.republika.co.id/berita/t49cy7490/sukuk-daerah-sumbar-bisa-pecah-telur-pembiayaan-kreatif-pemda"
     },
     {
         "title": "WHO Dorong Indonesia Kembangkan Obat Herbal Berbasis Bukti Ilmiah",
         "category": "Ameera",
-        "publish_time": "17-10-2025 04:13",
+        "publish_time": "17-10-2025 04:21",
         "news_link": "https://ameera.republika.co.id/berita/t49cy1328/who-dorong-indonesia-kembangkan-obat-herbal-berbasis-bukti-ilmiah"
     },
     {
         "title": "Cegah Anak Burnout, Ini Saran dari Psikolog Buat Ortu",
         "category": "Ameera",
-        "publish_time": "17-10-2025 04:13",
+        "publish_time": "17-10-2025 03:21",
         "news_link": "https://ameera.republika.co.id/berita/t49c0v425/cegah-anak-burnout-ini-saran-dari-psikolog-buat-ortu"
     },
     {
         "title": "Petinggi PKS Sambangi Menhan Sjafrie, Ini yang Dibahas",
         "category": "News",
-        "publish_time": "17-10-2025 03:13",
+        "publish_time": "17-10-2025 03:21",
         "news_link": "https://news.republika.co.id/berita/t49bdo377/petinggi-pks-sambangi-menhan-sjafrie-ini-yang-dibahas"
     },
     {
         "title": "Putin Tuduh Elite Barat Ganggu Sistem Energi Global",
         "category": "Ekonomi",
-        "publish_time": "17-10-2025 03:13",
+        "publish_time": "17-10-2025 03:21",
         "news_link": "https://ekonomi.republika.co.id/berita/t49b5y370/putin-tuduh-elite-barat-ganggu-sistem-energi-global"
     },
     {
         "title": "Ucap Selamat Ultah ke Prabowo, Gibran: Semoga Bapak Dikaruniai Kesehatan, Kekuatan, dan Keberkahan",
         "category": "News",
-        "publish_time": "17-10-2025 03:13",
+        "publish_time": "17-10-2025 03:21",
         "news_link": "https://news.republika.co.id/berita/t49azp377/ucap-selamat-ultah-ke-prabowo-gibran-semoga-bapak-dikaruniai-kesehatan-kekuatan-dan-keberkahan"
     },
     {
         "title": "Menjelajahi 8 Keajaiban Saudi, Tempat Peradaban dan Keindahan Alam Bertemu",
         "category": "Ameera",
-        "publish_time": "17-10-2025 03:13",
+        "publish_time": "17-10-2025 03:21",
         "news_link": "https://ameera.republika.co.id/berita/t49auk328/menjelajahi-8-keajaiban-saudi-tempat-peradaban-dan-keindahan-alam-bertemu"
     },
     {
         "title": "Ajaran Alquran Agar Manusia Berpikir",
         "category": "Iqra",
-        "publish_time": "17-10-2025 03:13",
+        "publish_time": "17-10-2025 03:21",
         "news_link": "https://iqra.republika.co.id/berita/t49amf430/ajaran-alquran-agar-manusia-berpikir"
     },
     {
         "title": "Gas Melon Meledak di Permukiman Padat di Bandung, 4 Orang Alami Luka Bakar Parah",
         "category": "News",
-        "publish_time": "17-10-2025 03:13",
+        "publish_time": "17-10-2025 03:21",
         "news_link": "https://news.republika.co.id/berita/t49ama487/gas-melon-meledak-di-permukiman-padat-di-bandung-4-orang-alami-luka-bakar-parah"
     },
     {
         "title": "Menhan Sjafrie dan Ketua Dewan Syura PKS Ucapkan HUT Presiden Prabowo",
         "category": "News",
-        "publish_time": "17-10-2025 03:13",
+        "publish_time": "17-10-2025 03:21",
         "news_link": "https://news.republika.co.id/berita/t49aks484/menhan-sjafrie-dan-ketua-dewan-syura-pks-ucapkan-hut-presiden-prabowo"
     },
     {
         "title": "Anies Ucapkan Selamat Ultah ke Prabowo, Doakan Agar Diberi Ketetapan Hati dalam Memilih yang Benar",
         "category": "News",
-        "publish_time": "17-10-2025 03:13",
+        "publish_time": "17-10-2025 03:21",
         "news_link": "https://news.republika.co.id/berita/t49ahp377/anies-ucapkan-selamat-ultah-ke-prabowo-doakan-agar-diberi-ketetapan-hati-dalam-memilih-yang-benar"
     },
     {
         "title": "Mengenal Asbabun Nuzul",
         "category": "Iqra",
-        "publish_time": "17-10-2025 03:13",
+        "publish_time": "17-10-2025 03:21",
         "news_link": "https://iqra.republika.co.id/berita/t49afi430/mengenal-asbabun-nuzul"
     },
     {
         "title": "Pertamina Raih Juara Pertama Badan Publik Terinovatif, Information Transparency Award 2025",
         "category": "Ekonomi",
-        "publish_time": "17-10-2025 03:13",
+        "publish_time": "17-10-2025 03:21",
         "news_link": "https://ekonomi.republika.co.id/berita/t49a92368/pertamina-raih-juara-pertama-badan-publik-terinovatif-information-transparency-award-2025"
     },
     {
         "title": "Haji Tinggal Enam Bulan, DPR Diminta Segera Bentuk Panja Haji",
         "category": "Khazanah",
-        "publish_time": "17-10-2025 03:13",
+        "publish_time": "17-10-2025 03:21",
         "news_link": "https://khazanah.republika.co.id/berita/t499ac483/haji-tinggal-enam-bulan-dpr-diminta-segera-bentuk-panja-haji"
     },
     {
         "title": "Pecah Rekor, Harga Emas Antam Melonjak Rp78 Ribu per Gram",
         "category": "Ekonomi",
-        "publish_time": "17-10-2025 03:13",
+        "publish_time": "17-10-2025 02:21",
         "news_link": "https://ekonomi.republika.co.id/berita/t49953370/pecah-rekor-harga-emas-antam-melonjak-rp78-ribu-per-gram"
     },
     {
         "title": "Pemkab Bogor Lakukan Pendataan Izin Bangunan Pondok Pesantren",
         "category": "Khazanah",
-        "publish_time": "17-10-2025 03:13",
+        "publish_time": "17-10-2025 02:21",
         "news_link": "https://khazanah.republika.co.id/berita/t498yd366/pemkab-bogor-lakukan-pendataan-izin-bangunan-pondok-pesantren"
     },
     {
         "title": "Presiden Prabowo Instruksikan Mentan Revitalisasi Pabrik Pupuk",
         "category": "Ekonomi",
-        "publish_time": "17-10-2025 02:13",
+        "publish_time": "17-10-2025 02:21",
         "news_link": "https://ekonomi.republika.co.id/berita/t498ee368/presiden-prabowo-instruksikan-mentan-revitalisasi-pabrik-pupuk"
     },
     {
         "title": "Bunda Kota Bandung, Aryatri Ajak Perempuan Bergerak untuk Bandung Cerdas dan Sejahtera",
         "category": "Rejabar",
-        "publish_time": "17-10-2025 02:13",
+        "publish_time": "17-10-2025 02:21",
         "news_link": "https://rejabar.republika.co.id/berita/t4987l368/bunda-kota-bandung-aryatri-ajak-perempuan-bergerak-untuk-bandung-cerdas-dan-sejahtera"
     },
     {
         "title": "Menhan Sjafrie Sambut Kunjungan Petinggi PKS di Kemenhan",
         "category": "News",
-        "publish_time": "17-10-2025 02:13",
+        "publish_time": "17-10-2025 02:21",
         "news_link": "https://news.republika.co.id/berita/t497z1484/menhan-sjafrie-sambut-kunjungan-petinggi-pks-di-kemenhan"
     },
     {
         "title": "Hari Pangan Sedunia, Pertamina dan Kemenko Pangan Kolaborasi Wujudkan Ketahanan Pangan",
         "category": "Ekonomi",
-        "publish_time": "17-10-2025 02:13",
+        "publish_time": "17-10-2025 02:21",
         "news_link": "https://ekonomi.republika.co.id/berita/t497vp368/hari-pangan-sedunia-pertamina-dan-kemenko-pangan-kolaborasi-wujudkan-ketahanan-pangan"
-    },
-    {
-        "title": "Prediksi dan Link Live Streaming Barcelona vs Girona di La Liga 2025-2026",
-        "category": "Network",
-        "publish_time": "17-10-2025 02:13",
-        "news_link": "https://skor.republika.co.id/posts/711357/prediksi-dan-link-live-streaming-barcelona-vs-girona-di-la-liga-2025-2026"
-    },
-    {
-        "title": "Ini Mobil Terlaris di Jepang Tahun Ini",
-        "category": "Network",
-        "publish_time": "17-10-2025 02:13",
-        "news_link": "https://mobillistriknews.com/posts/711351/ini-mobil-terlaris-di-jepang-tahun-ini"
-    },
-    {
-        "title": "Gencatan Senjata, Bantuan yang Masuk ke Gaza Masih Minim",
-        "category": "Khazanah",
-        "publish_time": "17-10-2025 02:13",
-        "news_link": "https://khazanah.republika.co.id/berita/t497jk483/gencatan-senjata-bantuan-yang-masuk-ke-gaza-masih-minim"
-    },
-    {
-        "title": "Harga Emas Pegadaian Hari Ini Naik Tiga Hari Beruntun, Ini Detailnya",
-        "category": "Ekonomi",
-        "publish_time": "17-10-2025 02:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/t49790370/harga-emas-pegadaian-hari-ini-naik-tiga-hari-beruntun-ini-detailnya"
-    },
-    {
-        "title": "27 Badan Publik di Kabupaten Bandung Raih Predikat Informatif Tahun 2025",
-        "category": "Rejabar",
-        "publish_time": "17-10-2025 02:13",
-        "news_link": "https://rejabar.republika.co.id/berita/t4976b368/27-badan-publik-di-kabupaten-bandung-raih-predikat-informatif-tahun-2025"
-    },
-    {
-        "title": "Usia Sudah 40, tapi Dompet Ronaldo Masih Juara Dunia",
-        "category": "News",
-        "publish_time": "17-10-2025 02:13",
-        "news_link": "https://news.republika.co.id/berita/t496ru348/usia-sudah-40-tapi-dompet-ronaldo-masih-juara-dunia"
-    },
-    {
-        "title": "Kebiadaban Penjara Israel Kembali Terungkap: Anjing Digunakan untuk Memperkosa Tahanan Palestina",
-        "category": "Khazanah",
-        "publish_time": "17-10-2025 02:13",
-        "news_link": "https://khazanah.republika.co.id/berita/t49678483/kebiadaban-penjara-israel-kembali-terungkap-anjing-digunakan-untuk-memperkosa-tahanan-palestina"
-    },
-    {
-        "title": "Danantara Evaluasi Penyelesaian Utang Proyek KCIC, Luhut: Tunggu Keppres Presiden Prabowo",
-        "category": "Ekonomi",
-        "publish_time": "17-10-2025 01:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4960v370/danantara-evaluasi-penyelesaian-utang-proyek-kcic-luhut-tunggu-keppres-presiden-prabowo"
-    },
-    {
-        "title": "Ultimatum Panas Pelatih Gennaro Gattuso: Italia tak Lolos Piala Dunia, Saya Mundur!",
-        "category": "News",
-        "publish_time": "17-10-2025 01:13",
-        "news_link": "https://news.republika.co.id/berita/t495s3348/ultimatum-panas-pelatih-gennaro-gattuso-italia-tak-lolos-piala-dunia-saya-mundur"
-    },
-    {
-        "title": "Makna Nabi Ibrahim Meminta Pendapat Anaknya",
-        "category": "Iqra",
-        "publish_time": "17-10-2025 01:13",
-        "news_link": "https://iqra.republika.co.id/berita/t492wn430/makna-nabi-ibrahim-meminta-pendapat-anaknya"
-    },
-    {
-        "title": "Promo Spesial Hari Listrik Nasional ke-80, Tambah Daya Listrik Diskon 50%",
-        "category": "Ekonomi",
-        "publish_time": "17-10-2025 01:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/t495h3368/promo-spesial-hari-listrik-nasional-ke80-tambah-daya-listrik-diskon-50"
-    },
-    {
-        "title": "Anggaran Ditambah, Perbaikan Jalan di Enam Titik di Cirebon Diprioritaskan",
-        "category": "Rejabar",
-        "publish_time": "17-10-2025 01:13",
-        "news_link": "https://rejabar.republika.co.id/berita/t49588512/anggaran-ditambah-perbaikan-jalan-di-enam-titik-di-cirebon-diprioritaskan"
-    },
-    {
-        "title": "Anggota DPR: Narasi Negatif tentang Pesantren Cederai Nilai Berbangsa Kita",
-        "category": "Khazanah",
-        "publish_time": "17-10-2025 01:13",
-        "news_link": "https://khazanah.republika.co.id/berita/t493re451/anggota-dpr-narasi-negatif-tentang-pesantren-cederai-nilai-berbangsa-kita"
-    },
-    {
-        "title": "BSI Raih Penghargaan ESG Now Awards Berkat Program Green Zakat untuk Nelayan",
-        "category": "Ekonomi Syariah",
-        "publish_time": "17-10-2025 01:13",
-        "news_link": "https://sharia.republika.co.id/berita/t494y8370/bsi-raih-penghargaan-esg-now-awards-berkat-program-green-zakat-untuk-nelayan"
-    },
-    {
-        "title": "Prediksi dan Link Live Streaming Manchester City vs Everton di Liga Inggris 2025-2026",
-        "category": "Network",
-        "publish_time": "17-10-2025 01:13",
-        "news_link": "https://skor.republika.co.id/posts/711350/prediksi-dan-link-live-streaming-manchester-city-vs-everton-di-liga-inggris-2025-2026"
-    },
-    {
-        "title": "Islam Dinilai Punya Model Teologis untuk Isu Lingkungan",
-        "category": "Khazanah",
-        "publish_time": "17-10-2025 01:13",
-        "news_link": "https://khazanah.republika.co.id/berita/t494ke483/islam-dinilai-punya-model-teologis-untuk-isu-lingkungan"
-    },
-    {
-        "title": "Sisi Gelap MBG: Dari Dapur Sekolah ke Ruang Darurat",
-        "category": "Retizen",
-        "publish_time": "17-10-2025 01:13",
-        "news_link": "https://retizen.republika.co.id/posts/711330/sisi-gelap-mbg-dari-dapur-sekolah-ke-ruang-darurat"
-    },
-    {
-        "title": "Kematian Sel dan Awal Peradangan di Kulit",
-        "category": "Retizen",
-        "publish_time": "17-10-2025 01:13",
-        "news_link": "https://retizen.republika.co.id/posts/711337/kematian-sel-dan-awal-peradangan-di-kulit"
     }
 ]
