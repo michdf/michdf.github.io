@@ -1,164 +1,266 @@
 [
     {
+        "title": "Jangan Sampai 'Lompat', Ini Tips Pakai Pedal Gas Mobil Listrik",
+        "category": "Ekonomi",
+        "publish_time": "23-10-2025 15:02",
+        "news_link": "https://ekonomi.republika.co.id/berita/t4lb3l425/jangan-sampai-lompat-ini-tips-pakai-pedal-gas-mobil-listrik"
+    },
+    {
+        "title": "Permintaan Maaf Rinz Usai RRQ Gagal Lolos Playoff",
+        "category": "Network",
+        "publish_time": "23-10-2025 15:00",
+        "news_link": "https://skor.republika.co.id/posts/713064/permintaan-maaf-rinz-usai-rrq-gagal-lolos-playoff"
+    },
+    {
+        "title": "Sampaikan Permohonan Maaf Atas Tayangan Trans7, Chairul Tanjung Sowan ke Ponpes Lirboyo",
+        "category": "Visual",
+        "publish_time": "23-10-2025 14:59",
+        "news_link": "https://visual.republika.co.id/berita/t4laz6375/sampaikan-permohonan-maaf-atas-tayangan-trans7-chairul-tanjung-sowan-ke-ponpes-lirboyo"
+    },
+    {
+        "title": "AICIS+ 2025 Hadirkan 12 Pemikir Dunia, Kupas Ekoteologi dan Teknologi Masa Depan",
+        "category": "Khazanah",
+        "publish_time": "23-10-2025 14:57",
+        "news_link": "https://khazanah.republika.co.id/berita/t4lauz320/aicis-2025-hadirkan-12-pemikir-dunia-kupas-ekoteologi-dan-teknologi-masa-depan"
+    },
+    {
+        "title": "Ditawarin Ngeroasting Fedi Nuril, Nirina Zubir Langsung Mau Ikut",
+        "category": "Ameera",
+        "publish_time": "23-10-2025 14:44",
+        "news_link": "https://ameera.republika.co.id/berita/t4laan425/ditawarin-ngeroasting-fedi-nuril-nirina-zubir-langsung-mau-ikut"
+    },
+    {
+        "title": "450 Tokoh Yahudi: Bela Palestina Wujud Nyata Ajaran Yudaisme",
+        "category": "Khazanah",
+        "publish_time": "23-10-2025 14:43",
+        "news_link": "https://khazanah.republika.co.id/berita/t4la7u451/450-tokoh-yahudi-bela-palestina-wujud-nyata-ajaran-yudaisme"
+    },
+    {
+        "title": "BPKH Kembali Raih ESG Awards 2025, Indra Gunawan: Tegaskan Peran ESG Investor",
+        "category": "Khazanah",
+        "publish_time": "23-10-2025 14:37",
+        "news_link": "https://khazanah.republika.co.id/berita/t4l9xu368/bpkh-kembali-raih-esg-awards-2025-indra-gunawan-tegaskan-peran-esg-investor"
+    },
+    {
+        "title": "6 Negara Arab Produsen Emas Terbesar, Nomor Pertama Tetap Miskin dan Dilanda Perang",
+        "category": "Khazanah",
+        "publish_time": "23-10-2025 14:36",
+        "news_link": "https://khazanah.republika.co.id/berita/t4l9x1320/6-negara-arab-produsen-emas-terbesar-nomor-pertama-tetap-miskin-dan-dilanda-perang"
+    },
+    {
+        "title": "Persib Tundukkan Selangor di GBLA",
+        "category": "Network",
+        "publish_time": "23-10-2025 14:30",
+        "news_link": "https://skor.republika.co.id/posts/713054/persib-tundukkan-selangor-di-gbla"
+    },
+    {
+        "title": "Seven October Coffee, Mengisahkan Air Mata Palestina",
+        "category": "Video",
+        "publish_time": "23-10-2025 14:28",
+        "news_link": "https://tv.republika.co.id/berita/t4l9jz313/seven-october-coffee-mengisahkan-air-mata-palestina"
+    },
+    {
+        "title": "Tamsil Linrung Dorong Pemuda Parlemen Indonesia Wujudkan Demokrasi Produktif dan Gotong Royong",
+        "category": "News",
+        "publish_time": "23-10-2025 14:27",
+        "news_link": "https://news.republika.co.id/berita/t4l9h9368/tamsil-linrung-dorong-pemuda-parlemen-indonesia-wujudkan-demokrasi-produktif-dan-gotong-royong"
+    },
+    {
+        "title": "BBW Jakarta 2025 Jadi Bazar Buku Terbesar di Seluruh Dunia",
+        "category": "News",
+        "publish_time": "23-10-2025 14:26",
+        "news_link": "https://news.republika.co.id/berita/t4l9gi484/bbw-jakarta-2025-jadi-bazar-buku-terbesar-di-seluruh-dunia"
+    },
+    {
+        "title": "Wapres Amerika Tegaskan Parlemen Israel Stupid karena Rencanakan Caplok Tepi Barat",
+        "category": "News",
+        "publish_time": "23-10-2025 14:25",
+        "news_link": "https://news.republika.co.id/berita/t4l9dq451/wapres-amerika-tegaskan-parlemen-israel-stupid-karena-rencanakan-caplok-tepi-barat"
+    },
+    {
+        "title": "Persib Puncaki Klasemen Grup G ACL Two Usai Taklukan Selangor FC 2-0",
+        "category": "News",
+        "publish_time": "23-10-2025 14:23",
+        "news_link": "https://news.republika.co.id/berita/t4l9af348/persib-puncaki-klasemen-grup-g-acl-two-usai-taklukan-selangor-fc-20"
+    },
+    {
+        "title": "Orasi Ketum Ansor di Hari Santri yang Dibersamai Hujan: Kita Satu Rasa, Satu Komando",
+        "category": "Khazanah",
+        "publish_time": "23-10-2025 14:20",
+        "news_link": "https://khazanah.republika.co.id/berita/t4l95o320/orasi-ketum-ansor-di-hari-santri-yang-dibersamai-hujan-kita-satu-rasa-satu-komando"
+    },
+    {
+        "title": "Dubes China: Whoosh Proyek Besar, Restrukturisasi Utang Hal yang Wajar",
+        "category": "News",
+        "publish_time": "23-10-2025 14:19",
+        "news_link": "https://news.republika.co.id/berita/t4l93x487/dubes-china-whoosh-proyek-besar-restrukturisasi-utang-hal-yang-wajar"
+    },
+    {
+        "title": "Menpora Erick Ungkap Lahirnya Keputusan Tolak Visa Atlet Israel: Pertimbangan Keamanan yang Utama",
+        "category": "News",
+        "publish_time": "23-10-2025 14:15",
+        "news_link": "https://news.republika.co.id/berita/t4l8xl348/menpora-erick-ungkap-lahirnya-keputusan-tolak-visa-atlet-israel-pertimbangan-keamanan-yang-utama"
+    },
+    {
         "title": "CT Sowan ke Ponpes Lirboyo, Minta Maaf Atas Tayangan Trans7, Sebut Pecat Orang Bertanggung Jawab",
         "category": "News",
-        "publish_time": "23-10-2025 14:07",
+        "publish_time": "23-10-2025 14:15",
         "news_link": "https://news.republika.co.id/berita/t4l8j8377/ct-sowan-ke-ponpes-lirboyo-minta-maaf-atas-tayangan-trans7-sebut-pecat-orang-bertanggung-jawab"
     },
     {
         "title": "7 Perkataan Netanyahu yang 'Menyerang' Kebijakan Turki Bela Palestina",
         "category": "News",
-        "publish_time": "23-10-2025 14:06",
+        "publish_time": "23-10-2025 14:15",
         "news_link": "https://news.republika.co.id/berita/t4l8i4451/7-perkataan-netanyahu-yang-menyerang-kebijakan-turki-bela-palestina"
     },
     {
         "title": "Menpora Erick Matangkan Roadmap Berkelanjutan Olahraga Nasional dalam Setahun Pemerintahan Prabowo",
         "category": "News",
-        "publish_time": "23-10-2025 14:03",
+        "publish_time": "23-10-2025 14:15",
         "news_link": "https://news.republika.co.id/berita/t4l8dv348/menpora-erick-matangkan-roadmap-berkelanjutan-olahraga-nasional-dalam-setahun-pemerintahan-prabowo"
     },
     {
         "title": "Prabowo Tunjuk Menteri HAM Pigai Antar Kepulangan Presiden Afsel",
         "category": "News",
-        "publish_time": "23-10-2025 13:57",
+        "publish_time": "23-10-2025 14:15",
         "news_link": "https://news.republika.co.id/berita/t4l841487/prabowo-tunjuk-menteri-ham-pigai-antar-kepulangan-presiden-afsel"
     },
     {
         "title": "Gara-Gara Spider-Man, Tom Holland Kubur Mimpi Jadi James Bond Baru?",
         "category": "Ameera",
-        "publish_time": "23-10-2025 13:57",
+        "publish_time": "23-10-2025 14:15",
         "news_link": "https://ameera.republika.co.id/berita/t4l83s425/garagara-spiderman-tom-holland-kubur-mimpi-jadi-james-bond-baru"
     },
     {
         "title": "Analisis Penyebab Mobil Listrik Tabrak Tjokro Hotel Klaten Menurut Pakar",
         "category": "News",
-        "publish_time": "23-10-2025 13:56",
+        "publish_time": "23-10-2025 14:15",
         "news_link": "https://news.republika.co.id/berita/t4l825377/analisis-penyebab-mobil-listrik-tabrak-tjokro-hotel-klaten-menurut-pakar"
     },
     {
         "title": "Rumah dan Motor Ludes Dilalap Si Jago Merah, Seorang Warga Meninggal Dunia",
         "category": "Rejabar",
-        "publish_time": "23-10-2025 13:53",
+        "publish_time": "23-10-2025 14:15",
         "news_link": "https://rejabar.republika.co.id/berita/t4l7w9512/rumah-dan-motor-ludes-dilalap-si-jago-merah-seorang-warga-meninggal-dunia"
     },
     {
         "title": "Cerita Penyintas Autoimun Berjuang Kembali Aktif Hingga Ajak Masyarakat Peduli Kesehatan",
         "category": "News",
-        "publish_time": "23-10-2025 13:50",
+        "publish_time": "23-10-2025 14:15",
         "news_link": "https://news.republika.co.id/berita/t4l7ry487/cerita-penyintas-autoimun-berjuang-kembali-aktif-hingga-ajak-masyarakat-peduli-kesehatan"
     },
     {
         "title": "Sekolah Rakyat Buka Jalan Generasi Muda Menuju Indonesia Emas 2045",
         "category": "News",
-        "publish_time": "23-10-2025 13:49",
+        "publish_time": "23-10-2025 14:15",
         "news_link": "https://news.republika.co.id/berita/t4l7pv522/sekolah-rakyat-buka-jalan-generasi-muda-menuju-indonesia-emas-2045"
     },
     {
         "title": "Tak Bisa Hadiri KTT COP di Brasil, Prabowo Utus Hashim Djojohadikusumo Pimpin Delegasi RI",
         "category": "News",
-        "publish_time": "23-10-2025 13:47",
+        "publish_time": "23-10-2025 14:15",
         "news_link": "https://news.republika.co.id/berita/t4l7n4377/tak-bisa-hadiri-ktt-cop-di-brasil-prabowo-utus-hashim-djojohadikusumo-pimpin-delegasi-ri"
     },
     {
         "title": "Lagi, Keracunan Terjadi Usai Konsumsi MBG di Bandung Barat Korban Puluhan Siswa",
         "category": "Rejabar",
-        "publish_time": "23-10-2025 13:43",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://rejabar.republika.co.id/berita/t4l7g2512/lagi-keracunan-terjadi-usai-konsumsi-mbg-di-bandung-barat-korban-puluhan-siswa"
     },
     {
         "title": "Cara Mudah Investasi Crypto: Dari Cek Harga Bitcoin Hingga Transaksi Pertama",
         "category": "Ekonomi",
-        "publish_time": "23-10-2025 13:41",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://ekonomi.republika.co.id/berita/t4l7c2368/cara-mudah-investasi-crypto-dari-cek-harga-bitcoin-hingga-transaksi-pertama"
     },
     {
         "title": "Ribuan Yahudi Ultra-Ortodoks Serukan Protes: Lebih Baik Mati Daripada Wajib Militer",
         "category": "Khazanah",
-        "publish_time": "23-10-2025 13:39",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://khazanah.republika.co.id/berita/t4l79z320/ribuan-yahudi-ultraortodoks-serukan-protes-lebih-baik-mati-daripada-wajib-militer"
     },
     {
         "title": "6 Perkataan Presiden Turki Erdogan yang Bikin Panas Kuping Netanyahu, Nomor 4 Paling Keras",
         "category": "News",
-        "publish_time": "23-10-2025 13:39",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://news.republika.co.id/berita/t4l79q451/6-perkataan-presiden-turki-erdogan-yang-bikin-panas-kuping-netanyahu-nomor-4-paling-keras"
     },
     {
         "title": "Kasus Konten Deepfake Vulgar Chiko Naik Status Menjadi Penyidikan",
         "category": "News",
-        "publish_time": "23-10-2025 13:39",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://news.republika.co.id/berita/t4l79g487/kasus-konten-deepfake-vulgar-chiko-naik-status-menjadi-penyidikan"
     },
     {
         "title": "Isyarat KPK Tersangka Kuota Haji, Punya Peran Pemberi Diskresi",
         "category": "News",
-        "publish_time": "23-10-2025 13:38",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://news.republika.co.id/berita/t4l77x377/isyarat-kpk-tersangka-kuota-haji-punya-peran-pemberi-diskresi"
     },
     {
         "title": "Tekan RI Bela Israel, Ini Rekam Jejak 'Standar Ganda' Komite Olimpiade Internasional",
         "category": "News",
-        "publish_time": "23-10-2025 13:33",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://news.republika.co.id/berita/t4l6yo483/tekan-ri-bela-israel-ini-rekam-jejak-standar-ganda-komite-olimpiade-internasional"
     },
     {
         "title": "Film Pangku Jujur Ceritakan Realitas Hidup Perjuangan Ibu tanpa Berlebihan",
         "category": "Ameera",
-        "publish_time": "23-10-2025 13:31",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://ameera.republika.co.id/berita/t4l6v5425/film-pangku-jujur-ceritakan-realitas-hidup-perjuangan-ibu-tanpa-berlebihan"
     },
     {
         "title": "Tengok, Ini Rencana Saudi Bangun Kereta Cepat 1.500 Kilometer Senilai Rp 116 Triliun",
         "category": "News",
-        "publish_time": "23-10-2025 13:30",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://news.republika.co.id/berita/t4l6u5377/tengok-ini-rencana-saudi-bangun-kereta-cepat-1500-kilometer-senilai-rp-116-triliun"
     },
     {
         "title": "Longsor Sawah di Bandung Barat Ancam Gerus Tol Cipularang KM 118",
         "category": "Rejabar",
-        "publish_time": "23-10-2025 13:30",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://rejabar.republika.co.id/berita/t4l6tg512/longsor-sawah-di-bandung-barat-ancam-gerus-tol-cipularang-km-118"
     },
     {
         "title": "Ingat, Pekan Ini Pemprov Jakarta Tiadakan CFD karena Gelaran Jakarta Running Festival",
         "category": "News",
-        "publish_time": "23-10-2025 13:29",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://news.republika.co.id/berita/t4l6sz487/ingat-pekan-ini-pemprov-jakarta-tiadakan-cfd-karena-gelaran-jakarta-running-festival"
     },
     {
         "title": "Ketika Siswa Belajar Menjadi Diplomat Dunia",
         "category": "News",
-        "publish_time": "23-10-2025 13:29",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://news.republika.co.id/berita/t4kqk0451/ketika-siswa-belajar-menjadi-diplomat-dunia"
     },
     {
         "title": "Atep dan Ismed Sofyan Beri Pendapat Sosok yang Tepat Tangani Timnas Indonesia",
         "category": "News",
-        "publish_time": "23-10-2025 13:23",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://news.republika.co.id/berita/t4l6ig348/atep-dan-ismed-sofyan-beri-pendapat-sosok-yang-tepat-tangani-timnas-indonesia"
     },
     {
         "title": "Perjuangkan Gaza, Erdogan Gandeng Sultan Oman",
         "category": "News",
-        "publish_time": "23-10-2025 13:22",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://news.republika.co.id/berita/t4l6he451/perjuangkan-gaza-erdogan-gandeng-sultan-oman"
     },
     {
         "title": "Ketua DPD: Konvensi DMDI ke-23 Bangkitkan Kembali Peradaban Melayu",
         "category": "News",
-        "publish_time": "23-10-2025 13:20",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://news.republika.co.id/berita/t4l6dq487/ketua-dpd-konvensi-dmdi-ke23-bangkitkan-kembali-peradaban-melayu"
     },
     {
         "title": "Chiko Terduga Penyebar Deepfake Vulgar Anak Polisi, Ibu Perwira dan Ayah Bintara",
         "category": "News",
-        "publish_time": "23-10-2025 13:19",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://news.republika.co.id/berita/t4l6ca377/chiko-terduga-penyebar-deepfake-vulgar-anak-polisi-ibu-perwira-dan-ayah-bintara"
     },
     {
         "title": "IDAI: Baru 4 Provinsi Punya Cakupan Imunisasi Lengkap Tahun Ini",
         "category": "Ameera",
-        "publish_time": "23-10-2025 13:17",
+        "publish_time": "23-10-2025 13:15",
         "news_link": "https://ameera.republika.co.id/berita/t4l68u458/idai-baru-4-provinsi-punya-cakupan-imunisasi-lengkap-tahun-ini"
     },
     {
@@ -196,107 +298,5 @@
         "category": "Khazanah",
         "publish_time": "23-10-2025 12:15",
         "news_link": "https://khazanah.republika.co.id/berita/t4l3qm458/sapuhi-usulkan-legalisasi-haji-tanpa-antre"
-    },
-    {
-        "title": "GJAW 2025 Jadi Panggung Toyota Hadirkan Mobil Listrik dan Hybrid Terbaru",
-        "category": "Ekonomi",
-        "publish_time": "23-10-2025 12:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4l3an348/gjaw-2025-jadi-panggung-toyota-hadirkan-mobil-listrik-dan-hybrid-terbaru"
-    },
-    {
-        "title": "Menlu AS Ingatkan Israel: Rencana Caplok Tepi Barat Bisa Ancam Gencatan Senjata Gaza",
-        "category": "News",
-        "publish_time": "23-10-2025 12:15",
-        "news_link": "https://news.republika.co.id/berita/t4l38j409/menlu-as-ingatkan-israel-rencana-caplok-tepi-barat-bisa-ancam-gencatan-senjata-gaza"
-    },
-    {
-        "title": "Kota Sukabumi Jadi Daerah Pertama di Indonesia Pakai Open River Cam Mitigasi Banjir!",
-        "category": "Network",
-        "publish_time": "23-10-2025 12:15",
-        "news_link": "https://sukabumikini.com/posts/712983/kota-sukabumi-jadi-daerah-pertama-di-indonesia-pakai-open-river-cam-mitigasi-banjir-"
-    },
-    {
-        "title": "Team Falcons Jadi yang Pertama Lolos ke M7 World Championship di Indonesia",
-        "category": "Network",
-        "publish_time": "23-10-2025 12:15",
-        "news_link": "https://skor.republika.co.id/posts/713003/team-falcons-jadi-yang-pertama-lolos-ke-m7-world-championship-di-indonesia"
-    },
-    {
-        "title": "Pelukan Hangat Presiden Prabowo untuk Presiden Brasil",
-        "category": "Visual",
-        "publish_time": "23-10-2025 12:15",
-        "news_link": "https://visual.republika.co.id/berita/t4l175375/pelukan-hangat-presiden-prabowo-untuk-presiden-brasil"
-    },
-    {
-        "title": "Banyak Laporan, BPKN Bakal Panggil Aqua Soal Sumur Bor",
-        "category": "News",
-        "publish_time": "23-10-2025 12:15",
-        "news_link": "https://news.republika.co.id/berita/t4l2dy393/banyak-laporan-bpkn-bakal-panggil-aqua-soal-sumur-bor"
-    },
-    {
-        "title": "Eddy Soeparno: ICCF 2025 Jadi Panggilan Aksi Iklim bagi Semua Pihak",
-        "category": "Esgnow",
-        "publish_time": "23-10-2025 12:15",
-        "news_link": "https://esgnow.republika.co.id/berita/t4l29j416/eddy-soeparno-iccf-2025-jadi-panggilan-aksi-iklim-bagi-semua-pihak"
-    },
-    {
-        "title": "MPP Pangkas Birokrasi Berbelit, Mendagri Dorong Pembentukan di 514 Kabupaten/Kota",
-        "category": "News",
-        "publish_time": "23-10-2025 12:15",
-        "news_link": "https://news.republika.co.id/berita/t4l29f484/mpp-pangkas-birokrasi-berbelit-mendagri-dorong-pembentukan-di-514-kabupatenkota"
-    },
-    {
-        "title": "Jakarta Running Festival 2025, Transjakarta Atur Ulang Sejumlah Rute Bus",
-        "category": "News",
-        "publish_time": "23-10-2025 12:15",
-        "news_link": "https://news.republika.co.id/berita/t4l23j370/jakarta-running-festival-2025-transjakarta-atur-ulang-sejumlah-rute-bus"
-    },
-    {
-        "title": "Mensos Usulkan Soeharto Jadi Pahlawan Nasional, Natalius Pigai Beri Respons Positif",
-        "category": "News",
-        "publish_time": "23-10-2025 11:15",
-        "news_link": "https://news.republika.co.id/berita/t4l1wm484/mensos-usulkan-soeharto-jadi-pahlawan-nasional-natalius-pigai-beri-respons-positif"
-    },
-    {
-        "title": "Lark dan MPPA Jalin Kemitraan Digital, Dukung Transformasi Operasional Toko Ritel",
-        "category": "Ekonomi",
-        "publish_time": "23-10-2025 11:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4l1sv370/lark-dan-mppa-jalin-kemitraan-digital-dukung-transformasi-operasional-toko-ritel"
-    },
-    {
-        "title": "Van Dijk tak Mau Liverpool Terbawa Euforia Kemenangan Besar di Markas Eintracht Frankfurt",
-        "category": "News",
-        "publish_time": "23-10-2025 11:15",
-        "news_link": "https://news.republika.co.id/berita/t4l1rj348/van-dijk-tak-mau-liverpool-terbawa-euforia-kemenangan-besar-di-markas-eintracht-frankfurt"
-    },
-    {
-        "title": "Revolusi Akses Olahraga, Jagasport Permudah Pemesanan Venue",
-        "category": "Network",
-        "publish_time": "23-10-2025 11:15",
-        "news_link": "https://skor.republika.co.id/posts/712998/revolusi-akses-olahraga-jagasport-permudah-pemesanan-venue"
-    },
-    {
-        "title": "40 Tim Mahasiswa dari 24 Kampus Siap Beradu Ide Bisnis di Pertamuda Seed & Scale 2025",
-        "category": "Ekonomi",
-        "publish_time": "23-10-2025 11:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4l1p1368/40-tim-mahasiswa-dari-24-kampus-siap-beradu-ide-bisnis-di-pertamuda-seed-scale-2025"
-    },
-    {
-        "title": "Sampoerna Beli Patriot Bond Rp500 Miliar, Dukung Proyek Energi Baru dan Terbarukan",
-        "category": "Esgnow",
-        "publish_time": "23-10-2025 11:15",
-        "news_link": "https://esgnow.republika.co.id/berita/t4l1h0370/sampoerna-beli-patriot-bond-rp500-miliar-dukung-proyek-energi-baru-dan-terbarukan"
-    },
-    {
-        "title": "Ditanya Soal Orasi Viral Komisaris Transjakarta Ainul Yaqin di Depan Trans7, Begini Respons Pramono",
-        "category": "News",
-        "publish_time": "23-10-2025 11:15",
-        "news_link": "https://news.republika.co.id/berita/t4l1av377/ditanya-soal-orasi-viral-komisaris-transjakarta-ainul-yaqin-di-depan-trans7-begini-respons-pramono"
-    },
-    {
-        "title": "Menanti Solusi Polemik Relokasi Pedagang Pasar Burung Barito",
-        "category": "Visual",
-        "publish_time": "23-10-2025 11:15",
-        "news_link": "https://visual.republika.co.id/berita/t4l0uz375/menanti-solusi-polemik-relokasi-pedagang-pasar-burung-barito"
     }
 ]
