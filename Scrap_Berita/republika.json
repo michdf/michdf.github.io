@@ -1,5 +1,47 @@
 [
     {
+        "title": "HUT Ke-61 Golkar, Bahlil Undang Gus Iqdam dan Bagikan Paket Umroh",
+        "category": "News",
+        "publish_time": "26 October 2025, 06:08",
+        "news_link": "https://news.republika.co.id/berita/t4pmyx484/hut-ke61-golkar-bahlil-undang-gus-iqdam-dan-bagikan-paket-umroh"
+    },
+    {
+        "title": "Kehidupan Dinasti Amalekit di Madinah Sebelum Kedatangan Islam",
+        "category": "Khazanah",
+        "publish_time": "26 October 2025, 06:00",
+        "news_link": "https://khazanah.republika.co.id/berita/t4pl96430/kehidupan-dinasti-amalekit-di-madinah-sebelum-kedatangan-islam"
+    },
+    {
+        "title": "Musik Jujur Boaz Roelevink yang Menyentuh Hati Pendengar",
+        "category": "Visual",
+        "publish_time": "26 October 2025, 06:00",
+        "news_link": "https://visual.republika.co.id/berita/t4p4wc375/musik-jujur-boaz-roelevink-yang-menyentuh-hati-pendengar"
+    },
+    {
+        "title": "Final French Open 2025: Head-to-Head Fajar/Fikri vs Kim/Seo",
+        "category": "Network",
+        "publish_time": "26 October 2025, 05:50",
+        "news_link": "https://skor.republika.co.id/posts/713582/final-french-open-2025-head-to-head-fajar-fikri-vs-kim-seo"
+    },
+    {
+        "title": "Harga Emas UBS dan Galeri24 Turun Tipis di Pegadaian",
+        "category": "News",
+        "publish_time": "26 October 2025, 05:45",
+        "news_link": "https://news.republika.co.id/berita/t4plv6130000/harga-emas-ubs-dan-galeri24-turun-tipis-di-pegadaian"
+    },
+    {
+        "title": "Al-Nassr Kalahkan Al-Hazm 2-0, Ronaldo Cetak Gol ke-950",
+        "category": "News",
+        "publish_time": "26 October 2025, 05:30",
+        "news_link": "https://news.republika.co.id/berita/t4pl662730000/alnassr-kalahkan-alhazm-20-ronaldo-cetak-gol-ke950"
+    },
+    {
+        "title": "Napoli Taklukkan Inter Milan 3-1, Kokoh di Puncak Serie A",
+        "category": "News",
+        "publish_time": "26 October 2025, 05:15",
+        "news_link": "https://news.republika.co.id/berita/t4pkhi4430000/napoli-taklukkan-inter-milan-31-kokoh-di-puncak-serie-a"
+    },
+    {
         "title": "Liverpool Derita Kekalahan Keempat Beruntun Usai Takluk dari Brentford 2-3",
         "category": "News",
         "publish_time": "26 October 2025, 05:00",
@@ -247,56 +289,14 @@
     },
     {
         "title": "Kena Comeback, Timnas U-17 Indonesia Kalah dari Paraguay di Dubai",
-        "category": "Network",
+        "category": "News",
         "publish_time": "26 October 2025, 00:00",
-        "news_link": "https://skor.republika.co.id/posts/713576/kena-comeback-timnas-u-17-indonesia-kalah-dari-paraguay-di-dubai"
+        "news_link": "https://news.republika.co.id/berita/t4p5w536544753526001/kena-comeback-timnas-u17-indonesia-kalah-dari-paraguay-di-dubai"
     },
     {
         "title": "Resistensi Antibiotik: Saat Bakteri Lebih Cerdas dari Obat",
         "category": "Retizen",
         "publish_time": "26 October 2025, 00:00",
         "news_link": "https://retizen.republika.co.id/posts/713557/resistensi-antibiotik-saat-bakteri-lebih-cerdas-dari-obat"
-    },
-    {
-        "title": "Alarm Otak: Mengapa Kita Loncat Kaget Saat Suara Keras Tiba-Tiba?",
-        "category": "Retizen",
-        "publish_time": "26 October 2025, 00:00",
-        "news_link": "https://retizen.republika.co.id/posts/713566/alarm-otak-mengapa-kita-loncat-kaget-saat-suara-keras-tiba-tiba"
-    },
-    {
-        "title": "Sungai Mahakam Menjelang Magrib (Puisi)",
-        "category": "Retizen",
-        "publish_time": "25 October 2025, 23:59",
-        "news_link": "https://retizen.republika.co.id/posts/713521/sungai-mahakam-menjelang-magrib-puisi"
-    },
-    {
-        "title": "Aksi Ribuan Penari Meriahkan Gelaran Semarak Nandak Ondel-ondel Betawi",
-        "category": "Visual",
-        "publish_time": "25 October 2025, 23:59",
-        "news_link": "https://visual.republika.co.id/berita/t4owj4375/aksi-ribuan-penari-meriahkan-gelaran-semarak-nandak-ondelondel-betawi"
-    },
-    {
-        "title": "Pertamina Siap Kolaborasi Wujudkan Target Ketahanan Energi Nasional",
-        "category": "Ekonomi",
-        "publish_time": "25 October 2025, 23:53",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4p5lx368/pertamina-siap-kolaborasi-wujudkan-target-ketahanan-energi-nasional"
-    },
-    {
-        "title": "3 Relawan MER-C Berhasil Masuk ke Gaza untuk Jalankan Misi Kemanusiaan",
-        "category": "Khazanah",
-        "publish_time": "25 October 2025, 23:32",
-        "news_link": "https://khazanah.republika.co.id/berita/t4p4ls320/3-relawan-merc-berhasil-masuk-ke-gaza-untuk-jalankan-misi-kemanusiaan"
-    },
-    {
-        "title": "Laga Bali United Lawan Persita Tangerang Berakhir Imbang Tanpa Gol",
-        "category": "Visual",
-        "publish_time": "25 October 2025, 23:20",
-        "news_link": "https://visual.republika.co.id/berita/t4p42y375/laga-bali-united-lawan-persita-tangerang-berakhir-imbang-tanpa-gol"
-    },
-    {
-        "title": "Jejak Ibu Suri Sirikit dan Raja Adulyadej di Indonesia",
-        "category": "News",
-        "publish_time": "25 October 2025, 22:18",
-        "news_link": "https://news.republika.co.id/berita/t4p162451/jejak-ibu-suri-sirikit-dan-raja-adulyadej-di-indonesia"
     }
 ]
