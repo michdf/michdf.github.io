@@ -1,50 +1,176 @@
 [
     {
+        "title": "Harapan yang Mengalir, Sumur Wakaf AMAL Hadirkan Air Bersih untuk 3 Kampung di NTT",
+        "category": "Khazanah",
+        "publish_time": "28-10-2025 04:16",
+        "news_link": "https://khazanah.republika.co.id/berita/t4tqje368/harapan-yang-mengalir-sumur-wakaf-amal-hadirkan-air-bersih-untuk-3-kampung-di-ntt"
+    },
+    {
+        "title": "Sumpah Pemuda: Arti, Makna dan Pesan Penting untuk Bangsa",
+        "category": "Kolom",
+        "publish_time": "28-10-2025 04:11",
+        "news_link": "https://analisis.republika.co.id/berita/t4tq9x458/sumpah-pemuda-arti-makna-dan-pesan-penting-untuk-bangsa"
+    },
+    {
+        "title": "Dirikan AgenBRILink di Pedalaman Papua, Guru Ini Dorong Inklusi Keuangan Bagi Warga",
+        "category": "Ekonomi",
+        "publish_time": "28-10-2025 04:11",
+        "news_link": "https://ekonomi.republika.co.id/berita/t4tq9r368/dirikan-agenbrilink-di-pedalaman-papua-guru-ini-dorong-inklusi-keuangan-bagi-warga"
+    },
+    {
+        "title": "KAI Evaluasi LRT Jabodebek, Jumlah Penumpang Tembus 48,6 Juta Orang",
+        "category": "Ekonomi",
+        "publish_time": "28-10-2025 04:08",
+        "news_link": "https://ekonomi.republika.co.id/berita/t4tq53370/kai-evaluasi-lrt-jabodebek-jumlah-penumpang-tembus-486-juta-orang"
+    },
+    {
+        "title": "Hyde Bakal Guncang Jakarta! Satu-satunya Konser di Asia dalam Tur Dunia 2025",
+        "category": "Ameera",
+        "publish_time": "28-10-2025 04:07",
+        "news_link": "https://ameera.republika.co.id/berita/t4tq43425/hyde-bakal-guncang-jakarta-satusatunya-konser-di-asia-dalam-tur-dunia-2025"
+    },
+    {
+        "title": "Satgas Damai Cartenz Tangkap KKB yang Terlibat Penembakan Anggota Polri",
+        "category": "News",
+        "publish_time": "28-10-2025 04:00",
+        "news_link": "https://news.republika.co.id/berita/t4tpso487/satgas-damai-cartenz-tangkap-kkb-yang-terlibat-penembakan-anggota-polri"
+    },
+    {
+        "title": "Sandra Dewi Cabut Gugatan Keberatan Penyitaan Aset Terkait Kasus Korupsi Timah",
+        "category": "News",
+        "publish_time": "28-10-2025 03:54",
+        "news_link": "https://news.republika.co.id/berita/t4tpik487/sandra-dewi-cabut-gugatan-keberatan-penyitaan-aset-terkait-kasus-korupsi-timah"
+    },
+    {
+        "title": "Menbud: Jangan Take It For Granted, Resapi Makna Sumpah Pemuda di Tengah Tantangan Baru",
+        "category": "News",
+        "publish_time": "28-10-2025 03:50",
+        "news_link": "https://news.republika.co.id/berita/t4tpbq425/menbud-jangan-take-it-for-granted-resapi-makna-sumpah-pemuda-di-tengah-tantangan-baru"
+    },
+    {
+        "title": "Belasan Kios di Sukahaji Bandung Ludes Terbakar",
+        "category": "Rejabar",
+        "publish_time": "28-10-2025 03:50",
+        "news_link": "https://rejabar.republika.co.id/berita/t4tpb9512/belasan-kios-di-sukahaji-bandung-ludes-terbakar"
+    },
+    {
+        "title": "66,7 Persen Kebakaran Akibat Korsleting Listik, Ini Kata BSN",
+        "category": "Network",
+        "publish_time": "28-10-2025 03:40",
+        "news_link": "https://oohya.republika.co.id/posts/714176/667-persen-kebakaran-akibat-korsleting-listik-ini-kata-bsn"
+    },
+    {
+        "title": "Tolak Legalisasi Umrah Mandiri, Amphuri Siapkan Upaya Hukum ke MK",
+        "category": "Khazanah",
+        "publish_time": "28-10-2025 03:35",
+        "news_link": "https://khazanah.republika.co.id/berita/t4tomf458/tolak-legalisasi-umrah-mandiri-amphuri-siapkan-upaya-hukum-ke-mk"
+    },
+    {
+        "title": "Film House of Hope Soroti Perjuangan Manar Wahhab Dirikan Sekolah di Bawah Ancaman Israel",
+        "category": "Ameera",
+        "publish_time": "28-10-2025 03:33",
+        "news_link": "https://ameera.republika.co.id/berita/t4toit425/film-house-of-hope-soroti-perjuangan-manar-wahhab-dirikan-sekolah-di-bawah-ancaman-israel"
+    },
+    {
+        "title": "KPK Bicara Peluang Luhut Binsar Pandjaitan Dimintai Keterangan dalam Penyelidikan Proyek Whoosh",
+        "category": "News",
+        "publish_time": "28-10-2025 03:28",
+        "news_link": "https://news.republika.co.id/berita/t4tob1487/kpk-bicara-peluang-luhut-binsar-pandjaitan-dimintai-keterangan-dalam-penyelidikan-proyek-whoosh"
+    },
+    {
+        "title": "Mencari Rumah yang Hilang di Gaza",
+        "category": "Visual",
+        "publish_time": "28-10-2025 03:26",
+        "news_link": "https://visual.republika.co.id/berita/t4to6p375/mencari-rumah-yang-hilang-di-gaza"
+    },
+    {
+        "title": "Menhan Sjafrie Gelar Pertemuan dengan Panglima Angkatan Bersenjata India",
+        "category": "News",
+        "publish_time": "28-10-2025 03:20",
+        "news_link": "https://news.republika.co.id/berita/t4tnxi484/menhan-sjafrie-gelar-pertemuan-dengan-panglima-angkatan-bersenjata-india"
+    },
+    {
+        "title": "Bea Cukai Beri Izin Fasilitas Kawasan Berikat untuk PT Kemi Optoelectronics Indonesia",
+        "category": "Beacukai",
+        "publish_time": "28-10-2025 03:20",
+        "news_link": "https://republika.co.id/berita//t4tnx1368/bea-cukai-beri-izin-fasilitas-kawasan-berikat-untuk-pt-kemi-optoelectronics-indonesia"
+    },
+    {
+        "title": "Logistik Hijau Jadi Tren Baru, OLIVE Group Siapkan Ekosistem NECV di Indonesia",
+        "category": "Ekonomi",
+        "publish_time": "28-10-2025 03:20",
+        "news_link": "https://ekonomi.republika.co.id/berita/t4tnws348/logistik-hijau-jadi-tren-baru-olive-group-siapkan-ekosistem-necv-di-indonesia"
+    },
+    {
+        "title": "Ini 7 Level Shalat Menurut Imam Ghazali \ufeff",
+        "category": "Khazanah",
+        "publish_time": "28-10-2025 03:19",
+        "news_link": "https://khazanah.republika.co.id/berita/t4tnvr458/ini-7-level-shalat-menurut-imam-ghazali"
+    },
+    {
+        "title": "Gelar Rakernas 2025 di Yogyakarta, KEIND Usung Tema Sinergitas Kemitraaan Entrepreneurship",
+        "category": "Rejogja",
+        "publish_time": "28-10-2025 03:17",
+        "news_link": "https://rejogja.republika.co.id/berita/t4tnqy291/gelar-rakernas-2025-di-yogyakarta-keind-usung-tema-sinergitas-kemitraaan-entrepreneurship"
+    },
+    {
+        "title": "Ini Kondisi Tambang Emas Dekat Mandalika Diduga Dikelola WN China, Ada 3 Lubang Menganga",
+        "category": "News",
+        "publish_time": "28-10-2025 03:17",
+        "news_link": "https://news.republika.co.id/berita/t4tnl3377/ini-kondisi-tambang-emas-dekat-mandalika-diduga-dikelola-wn-china-ada-3-lubang-menganga"
+    },
+    {
+        "title": "Gandeng Mubadala Energy, Kedutaan UEA Gelar Friendship Run di Aceh",
+        "category": "Ekonomi",
+        "publish_time": "28-10-2025 03:17",
+        "news_link": "https://ekonomi.republika.co.id/berita/t4tn7k458/gandeng-mubadala-energy-kedutaan-uea-gelar-friendship-run-di-aceh"
+    },
+    {
         "title": "Tanggung Jawab Etis Muhammadiyah di Era Digital",
         "category": "Kolom",
-        "publish_time": "28-10-2025 02:49",
+        "publish_time": "28-10-2025 03:17",
         "news_link": "https://analisis.republika.co.id/berita/t4tmir458/tanggung-jawab-etis-muhammadiyah-di-era-digital"
     },
     {
         "title": "AI Campus Telkom Hadir di Universitas Negeri Padang, Siap Cetak Talenta Digital Terbaik",
         "category": "Ekonomi",
-        "publish_time": "28-10-2025 02:42",
+        "publish_time": "28-10-2025 02:17",
         "news_link": "https://ekonomi.republika.co.id/berita/t4tm6j368/ai-campus-telkom-hadir-di-universitas-negeri-padang-siap-cetak-talenta-digital-terbaik"
     },
     {
         "title": "Etos Kreatif Indonesia Tegaskan Komitmen pada Kesehatan Mental Lewat Program USEFT",
         "category": "Ekonomi",
-        "publish_time": "28-10-2025 02:33",
+        "publish_time": "28-10-2025 02:17",
         "news_link": "https://ekonomi.republika.co.id/berita/t4tlrw368/etos-kreatif-indonesia-tegaskan-komitmen-pada-kesehatan-mental-lewat-program-useft"
     },
     {
         "title": "Prediksi dan Link Live Streaming Arsenal vs Brighton di Piala Liga Inggris 2025-2026",
         "category": "Network",
-        "publish_time": "28-10-2025 02:30",
+        "publish_time": "28-10-2025 02:17",
         "news_link": "https://skor.republika.co.id/posts/714153/prediksi-dan-link-live-streaming-arsenal-vs-brighton-di-piala-liga-inggris-2025-2026"
     },
     {
         "title": "Telkom Kembali Pimpin Daftar Perusahaan Indonesia di 500 World\u2019s Best Employers 2025 versi Forbes",
         "category": "Ekonomi",
-        "publish_time": "28-10-2025 02:24",
+        "publish_time": "28-10-2025 02:17",
         "news_link": "https://ekonomi.republika.co.id/berita/t4tlcm368/telkom-kembali-pimpin-daftar-perusahaan-indonesia-di-500-worlds-best-employers-2025-versi-forbes"
     },
     {
         "title": "Ini Rundown Lengkap AICIS+ 2025 di UIII",
         "category": "Khazanah",
-        "publish_time": "28-10-2025 02:22",
+        "publish_time": "28-10-2025 02:17",
         "news_link": "https://khazanah.republika.co.id/berita/t4tl8n458/ini-rundown-lengkap-aicis-2025-di-uiii"
     },
     {
         "title": "Jokowi: Proyek Kereta Cepat Whoosh Solusi Jangka Panjang Urai Kemacetan",
         "category": "Video",
-        "publish_time": "28-10-2025 02:20",
+        "publish_time": "28-10-2025 02:17",
         "news_link": "https://tv.republika.co.id/berita/t4tl6k313/jokowi-proyek-kereta-cepat-whoosh-solusi-jangka-panjang-urai-kemacetan"
     },
     {
         "title": "Tren Penurunan Masih Berlanjut, Harga Emas Antam Merosot Rp45 Ribu",
         "category": "Ekonomi",
-        "publish_time": "28-10-2025 02:19",
+        "publish_time": "28-10-2025 02:17",
         "news_link": "https://ekonomi.republika.co.id/berita/t4tl3p370/tren-penurunan-masih-berlanjut-harga-emas-antam-merosot-rp45-ribu"
     },
     {
@@ -56,247 +182,121 @@
     {
         "title": "Timnas U-17 Indonesia Imbang Lawan Pantai Gading Jelang Piala Dunia",
         "category": "Network",
-        "publish_time": "28-10-2025 02:10",
+        "publish_time": "28-10-2025 02:17",
         "news_link": "https://skor.republika.co.id/posts/714146/timnas-u-17-indonesia-imbang-lawan-pantai-gading-jelang-piala-dunia"
     },
     {
         "title": "Bea Cukai Amankan 1,4 Juta Batang Rokok Ilegal dari Truk Boks di Semarang",
         "category": "Beacukai",
-        "publish_time": "28-10-2025 02:08",
+        "publish_time": "28-10-2025 02:17",
         "news_link": "https://republika.co.id/berita//t4tklz368/bea-cukai-amankan-14-juta-batang-rokok-ilegal-dari-truk-boks-di-semarang"
     },
     {
         "title": "Dokter: Keringat Berlebih pada Bayi Bisa Jadi Tanda Gangguan Jantung",
         "category": "Ameera",
-        "publish_time": "28-10-2025 02:06",
+        "publish_time": "28-10-2025 02:17",
         "news_link": "https://ameera.republika.co.id/berita/t4tkir425/dokter-keringat-berlebih-pada-bayi-bisa-jadi-tanda-gangguan-jantung"
     },
     {
         "title": "KPK Klaim Sudah Selidiki Dugaan Mark Up Proyek Whoosh Sejak Awal 2025",
         "category": "News",
-        "publish_time": "28-10-2025 02:03",
+        "publish_time": "28-10-2025 02:17",
         "news_link": "https://news.republika.co.id/berita/t4tk42487/kpk-klaim-sudah-selidiki-dugaan-mark-up-proyek-whoosh-sejak-awal-2025"
     },
     {
         "title": "Usulan Soeharto Jadi Pahlawan Nasional, Pakar: Perlu Diuji Publik",
         "category": "News",
-        "publish_time": "28-10-2025 02:03",
+        "publish_time": "28-10-2025 02:17",
         "news_link": "https://news.republika.co.id/berita/t4tjwv377/usulan-soeharto-jadi-pahlawan-nasional-pakar-perlu-diuji-publik"
     },
     {
         "title": "Tim Woodball Kabupaten Bekasi Lolos Porprov Jabar 2026",
         "category": "Network",
-        "publish_time": "28-10-2025 02:03",
+        "publish_time": "28-10-2025 02:17",
         "news_link": "https://volleynews.id/posts/714139/tim-woodball-kabupaten-bekasi-lolos-porprov-jabar-2026"
     },
     {
         "title": "Tenda Hajatan Tutup Jalan di Surabaya, Bisa Didenda Rp50 Juta",
         "category": "Network",
-        "publish_time": "28-10-2025 02:03",
+        "publish_time": "28-10-2025 02:17",
         "news_link": "https://sekitarsurabaya.com/posts/714140/tenda-hajatan-tutup-jalan-di-surabaya-bisa-didenda-rp50-juta"
     },
     {
         "title": "Tim Mesir Masuk Gaza",
         "category": "Khazanah",
-        "publish_time": "28-10-2025 02:03",
+        "publish_time": "28-10-2025 02:17",
         "news_link": "https://khazanah.republika.co.id/berita/t4tjtd451/tim-mesir-masuk-gaza"
     },
     {
         "title": "Pemerintah Siapkan 10 Ribu Hektare untuk Hilirisasi Kelapa di Maluku Utara",
         "category": "Ekonomi",
-        "publish_time": "28-10-2025 02:03",
+        "publish_time": "28-10-2025 01:17",
         "news_link": "https://ekonomi.republika.co.id/berita/t4tjfv370/pemerintah-siapkan-10-ribu-hektare-untuk-hilirisasi-kelapa-di-maluku-utara"
     },
     {
         "title": "Membongkar Rahasia Pena Jane Austen",
         "category": "Retizen",
-        "publish_time": "28-10-2025 02:03",
+        "publish_time": "28-10-2025 01:17",
         "news_link": "https://retizen.republika.co.id/posts/714123/membongkar-rahasia-pena-jane-austen"
     },
     {
         "title": "Trenggono Bocorkan Percakapan dengan Prabowo: 14 Teknologi Inti KFX/IFX Dikunci",
         "category": "Network",
-        "publish_time": "28-10-2025 02:03",
+        "publish_time": "28-10-2025 01:17",
         "news_link": "https://seputarmiliter.id/posts/714096/trenggono-bocorkan-percakapan-dengan-prabowo-14-teknologi-inti-kfx-ifx-dikunci"
     },
     {
         "title": "Seal Lovers Game Festival 2025 Bangkitkan Nostalgia Gamer Era 2000-an",
         "category": "Rejogja",
-        "publish_time": "28-10-2025 02:03",
+        "publish_time": "28-10-2025 01:17",
         "news_link": "https://rejogja.republika.co.id/berita/t4tgkn291/seal-lovers-game-festival-2025-bangkitkan-nostalgia-gamer-era-2000an"
     },
     {
         "title": "Aksi Sepuluh Pemain Persib Bandung Kalahkan Persis Solo",
         "category": "Network",
-        "publish_time": "28-10-2025 02:03",
+        "publish_time": "28-10-2025 01:17",
         "news_link": "https://kangjepret.id/posts/714108/aksi-sepuluh-pemain-persib-bandung-kalahkan-persis-solo"
     },
     {
         "title": "Tim Garuda UNY Juara 1 Kontes Mobil Hemat Energi 2025 Kategori MPD Bensin",
         "category": "Network",
-        "publish_time": "28-10-2025 02:03",
+        "publish_time": "28-10-2025 01:17",
         "news_link": "https://magentatoday.id/posts/713981/tim-garuda-uny-juara-1-kontes-mobil-hemat-energi-2025-kategori-mpd-bensin"
     },
     {
         "title": "Menengok Inovasi Pabrik Daihatsu yang Pernah Memproduksi Bemo",
         "category": "Network",
-        "publish_time": "28-10-2025 02:03",
+        "publish_time": "28-10-2025 01:17",
         "news_link": "https://motoresto.id/posts/714051/menengok-inovasi-pabrik-daihatsu-yang-pernah-memproduksi-bemo"
     },
     {
         "title": "Drama From Hero to Zero Luciano Guaycochea",
         "category": "Network",
-        "publish_time": "28-10-2025 02:03",
+        "publish_time": "28-10-2025 01:17",
         "news_link": "https://kangjepret.id/posts/714109/drama-from-hero-to-zero-luciano-guaycochea"
     },
     {
         "title": "Menyekolahkan Orangutan Menyelamatkan Jiwanya",
         "category": "Network",
-        "publish_time": "28-10-2025 02:03",
+        "publish_time": "28-10-2025 01:17",
         "news_link": "https://sumatralink.id/posts/714124/menyekolahkan-orangutan-menyelamatkan-jiwanya"
     },
     {
         "title": "Guillermo del Toro Ogah Pakai AI, Mengaku Lebih Baik Mati",
         "category": "Network",
-        "publish_time": "28-10-2025 02:03",
+        "publish_time": "28-10-2025 01:17",
         "news_link": "https://filmusiku.com/posts/714127/guillermo-del-toro-ogah-pakai-ai-mengaku-lebih-baik-mati"
     },
     {
         "title": "Modal Rp 15 Ribu, Di GIIAS Makassar 2025 Pengunjung Bisa Test Drive 50 Unit Kendaraan",
         "category": "Network",
-        "publish_time": "28-10-2025 02:03",
+        "publish_time": "28-10-2025 01:17",
         "news_link": "https://motoresto.id/posts/714130/modal-rp-15-ribu-di-giias-makassar-2025-pengunjung-bisa-test-drive-50-unit-kendaraan"
     },
     {
         "title": "Menkop Tegaskan Kopdes Merah Putih Jadi Instrumen Baru Stabilisasi Inflasi",
         "category": "Ekonomi",
-        "publish_time": "28-10-2025 01:03",
+        "publish_time": "28-10-2025 01:17",
         "news_link": "https://ekonomi.republika.co.id/berita/t4tioi490/menkop-tegaskan-kopdes-merah-putih-jadi-instrumen-baru-stabilisasi-inflasi"
-    },
-    {
-        "title": "Pemerintah Pusat dan Pemprov Sumbar Kebut Pembangunan Flyover Sitinjau Lauik",
-        "category": "Ekonomi",
-        "publish_time": "28-10-2025 01:03",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4tiht490/pemerintah-pusat-dan-pemprov-sumbar-kebut-pembangunan-flyover-sitinjau-lauik"
-    },
-    {
-        "title": "Ombak PHK Massal Debur Perusahaan Amazon, Sasar 30 Ribu Karyawan",
-        "category": "News",
-        "publish_time": "28-10-2025 01:03",
-        "news_link": "https://news.republika.co.id/berita/t4thtt451/ombak-phk-massal-debur-perusahaan-amazon-sasar-30-ribu-karyawan"
-    },
-    {
-        "title": "Dokter Peringatkan Risiko Infeksi dari Thrifting Pakaian Bekas",
-        "category": "Ameera",
-        "publish_time": "28-10-2025 01:03",
-        "news_link": "https://ameera.republika.co.id/berita/t4tf9z370/dokter-peringatkan-risiko-infeksi-dari-thrifting-pakaian-bekas"
-    },
-    {
-        "title": "Pilkada Kota New York Dimulai, Kandidat Muslim Unggul di Survei",
-        "category": "News",
-        "publish_time": "28-10-2025 01:03",
-        "news_link": "https://news.republika.co.id/berita/t4th1h393/pilkada-kota-new-york-dimulai-kandidat-muslim-unggul-di-survei"
-    },
-    {
-        "title": "Gubernur Pramono Terganggu Parkiran Bus Transjakarta di Jalanan Blok M",
-        "category": "News",
-        "publish_time": "28-10-2025 01:03",
-        "news_link": "https://news.republika.co.id/berita/t4tgqn377/gubernur-pramono-terganggu-parkiran-bus-transjakarta-di-jalanan-blok-m"
-    },
-    {
-        "title": "Menuju\u00a0Pemilu 2029,\u00a0Bawaslu Dorong Transformasi Data Jadi Pusat Kecerdasan Pengawasan Pemilu",
-        "category": "Rejogja",
-        "publish_time": "28-10-2025 01:03",
-        "news_link": "https://rejogja.republika.co.id/berita/t4tgfm291/menujupemilu-2029bawaslu-dorong-transformasi-data-jadi-pusat-kecerdasan-pengawasan-pemilu"
-    },
-    {
-        "title": "Isu Kemanusiaan dan Lingkungan Jadi Fokus AICIS+ 2025",
-        "category": "Video",
-        "publish_time": "28-10-2025 01:03",
-        "news_link": "https://tv.republika.co.id/berita/t4tgfg313/isu-kemanusiaan-dan-lingkungan-jadi-fokus-aicis-2025"
-    },
-    {
-        "title": "KPK Sebut tak Ada Kendala dalam Penyelidikan Dugaan Mark Up Proyek Whoosh",
-        "category": "News",
-        "publish_time": "28-10-2025 01:03",
-        "news_link": "https://news.republika.co.id/berita/t4tgbz487/kpk-sebut-tak-ada-kendala-dalam-penyelidikan-dugaan-mark-up-proyek-whoosh"
-    },
-    {
-        "title": "Gubernur Dedi Mulyadi akan Umumkan Posisi Kas Daerah Jabar Setiap Hari di Media Sosial",
-        "category": "Ekonomi",
-        "publish_time": "28-10-2025 00:03",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4tf1y370/gubernur-dedi-mulyadi-akan-umumkan-posisi-kas-daerah-jabar-setiap-hari-di-media-sosial"
-    },
-    {
-        "title": "Israel Terus Langgar Gencatan Senjata di Palestina, Lebanon, dan Suriah",
-        "category": "News",
-        "publish_time": "28-10-2025 00:03",
-        "news_link": "https://news.republika.co.id/berita/t4tfov393/israel-terus-langgar-gencatan-senjata-di-palestina-lebanon-dan-suriah"
-    },
-    {
-        "title": "Simfoni Tahta: Kisah Adulyadej-Sirikit, Musik, dan Pembangunan Siam",
-        "category": "News",
-        "publish_time": "28-10-2025 00:03",
-        "news_link": "https://news.republika.co.id/berita/t4tff1451/simfoni-tahta-kisah-adulyadejsirikit-musik-dan-pembangunan-siam"
-    },
-    {
-        "title": "Marwan Barghouti Diyakini Sosok Tepat untuk Satukan Rakyat Palestina, Ini Alasannya",
-        "category": "News",
-        "publish_time": "28-10-2025 00:03",
-        "news_link": "https://news.republika.co.id/berita/t4ter5377/marwan-barghouti-diyakini-sosok-tepat-untuk-satukan-rakyat-palestina-ini-alasannya"
-    },
-    {
-        "title": "Maruarar Minta Pemutihan BI Checking bagi Peserta Program Perumahan Subsidi",
-        "category": "Ekonomi",
-        "publish_time": "28-10-2025 00:03",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4td1y370/maruarar-minta-pemutihan-bi-checking-bagi-peserta-program-perumahan-subsidi"
-    },
-    {
-        "title": "Warga Sekitar Aqua Curhat ke Dedi Mulyadi Sulit Dapat Air, Ini Pengakuan Ketua RW",
-        "category": "News",
-        "publish_time": "28-10-2025 00:03",
-        "news_link": "https://news.republika.co.id/berita/t4tedm377/warga-sekitar-aqua-curhat-ke-dedi-mulyadi-sulit-dapat-air-ini-pengakuan-ketua-rw"
-    },
-    {
-        "title": "Puncak Hari Santri di Bandung, Santri Dorong Kemerdekaan Palestina",
-        "category": "Khazanah",
-        "publish_time": "28-10-2025 00:03",
-        "news_link": "https://khazanah.republika.co.id/berita/t4teah451/puncak-hari-santri-di-bandung-santri-dorong-kemerdekaan-palestina"
-    },
-    {
-        "title": "Jadwal Lengkap BWF World Tour Bulan November 2025",
-        "category": "Network",
-        "publish_time": "28-10-2025 00:03",
-        "news_link": "https://skor.republika.co.id/posts/714122/jadwal-lengkap-bwf-world-tour-bulan-november-2025"
-    },
-    {
-        "title": "Sumpah Pemuda: Mari Pertahankan Nyala Api Persatuan Menuju Indonesia Emas 2045",
-        "category": "Kolom",
-        "publish_time": "27-10-2025 23:03",
-        "news_link": "https://analisis.republika.co.id/berita/t4td94320/sumpah-pemuda-mari-pertahankan-nyala-api-persatuan-menuju-indonesia-emas-2045"
-    },
-    {
-        "title": "PLN Hadirkan Listrik Gratis bagi 8.000 Warga Prasejahtera di HLN 2025",
-        "category": "Ekonomi",
-        "publish_time": "27-10-2025 23:03",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4tcsc370/pln-hadirkan-listrik-gratis-bagi-8000-warga-prasejahtera-di-hln-2025"
-    },
-    {
-        "title": "Cedera Lutut Kambuh, Carvajal Jalani Operasi Keempat",
-        "category": "Kolom",
-        "publish_time": "27-10-2025 23:03",
-        "news_link": "https://analisis.republika.co.id/berita/t4tci2348/cedera-lutut-kambuh-carvajal-jalani-operasi-keempat"
-    },
-    {
-        "title": "Warga Terjebak di Parkiran Blok M Hingga 6 Jam, Pramono: Pakai Transportasi Umum",
-        "category": "News",
-        "publish_time": "27-10-2025 23:03",
-        "news_link": "https://news.republika.co.id/berita/t4tc3z377/warga-terjebak-di-parkiran-blok-m-hingga-6-jam-pramono-pakai-transportasi-umum"
-    },
-    {
-        "title": "Tagih Suntikan Dana Rp 10 Triliun ke Menkeu, Pramono: Bisa untuk Bangun RS di Sumber Waras",
-        "category": "News",
-        "publish_time": "27-10-2025 23:03",
-        "news_link": "https://news.republika.co.id/berita/t4spag487/tagih-suntikan-dana-rp-10-triliun-ke-menkeu-pramono-bisa-untuk-bangun-rs-di-sumber-waras"
     }
 ]
