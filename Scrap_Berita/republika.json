@@ -1,5 +1,83 @@
 [
     {
+        "title": "Soal Warga Asing Pimpin Perusahaan Negara, BP BUMN Bilang Begini",
+        "category": "Ekonomi",
+        "publish_time": "30-10-2025 14:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/t4y74m502/soal-warga-asing-pimpin-perusahaan-negara-bp-bumn-bilang-begini"
+    },
+    {
+        "title": "Pemuda Ini Alirkan Air Laut ke Grobogan, Kisahnya Mirip Dracin",
+        "category": "Network",
+        "publish_time": "30-10-2025 14:03",
+        "news_link": "https://oohya.republika.co.id/posts/714900/pemuda-ini-alirkan-air-laut-ke-grobogan-kisahnya-mirip-dracin"
+    },
+    {
+        "title": "Dompet Dhuafa Yogyakarta Gelar Program Sekolah Sehat",
+        "category": "Network",
+        "publish_time": "30-10-2025 14:02",
+        "news_link": "https://kampus.republika.co.id/posts/714914/dompet-dhuafa-yogyakarta-gelar-program-sekolah-sehat"
+    },
+    {
+        "title": "Beras Hasil Budidaya Masyarakat Kaltara Diekspor ke Malaysia",
+        "category": "Network",
+        "publish_time": "30-10-2025 14:01",
+        "news_link": "https://sekitarkaltim.id/posts/714918/beras-hasil-budidaya-masyarakat-kaltara-diekspor-ke-malaysia"
+    },
+    {
+        "title": "Borneo FC Cetak 17 Gol, Kemasukan Empat Gol: Koleksi 24 Poin",
+        "category": "Network",
+        "publish_time": "30-10-2025 14:00",
+        "news_link": "https://sekitarkaltim.id/posts/714921/borneo-fc-cetak-17-gol-kemasukan-empat-gol-koleksi-24-poin"
+    },
+    {
+        "title": "BPBD : 141 Unit Rumah di Dua Kecamatan Sukabumi Rusak Akibat Banjir dan Longsor",
+        "category": "Network",
+        "publish_time": "30-10-2025 14:00",
+        "news_link": "https://sukabumikini.com/posts/714925/bpbd-141-unit-rumah-di-dua-kecamatan-sukabumi-rusak-akibat-banjir-dan-longsor"
+    },
+    {
+        "title": "BNN Ajak Semua Elemen Masyarakat Jaga Jakarta Tanpa Narkoba",
+        "category": "Visual",
+        "publish_time": "30-10-2025 13:59",
+        "news_link": "https://visual.republika.co.id/berita/t4y3ew375/bnn-ajak-semua-elemen-masyarakat-jaga-jakarta-tanpa-narkoba"
+    },
+    {
+        "title": "Bertolak ke Korsel, Prabowo Hadiri KTT APEC 2025",
+        "category": "News",
+        "publish_time": "30-10-2025 13:54",
+        "news_link": "https://news.republika.co.id/berita/t4y6nb484/bertolak-ke-korsel-prabowo-hadiri-ktt-apec-2025"
+    },
+    {
+        "title": "Bertolak ke Korsel, Prabowo Hadiri KTT APEC 2025",
+        "category": "News",
+        "publish_time": "30-10-2025 13:54",
+        "news_link": "https://news.republika.co.id/berita/t4y6n4484/bertolak-ke-korsel-prabowo-hadiri-ktt-apec-2025"
+    },
+    {
+        "title": "Viral Mobil SPPG untuk Angkut Babi, BGN: Pemilik Mobil Belum Jadi Mitra",
+        "category": "Rejogja",
+        "publish_time": "30-10-2025 13:34",
+        "news_link": "https://rejogja.republika.co.id/berita/t4y5ov282/viral-mobil-sppg-untuk-angkut-babi-bgn-pemilik-mobil-belum-jadi-mitra"
+    },
+    {
+        "title": "Mengungkap Kekejaman Abu Lulu, 'Tukang Jagal' RSF yang Targetkan Bunuh Dua Ribu Nyawa",
+        "category": "Khazanah",
+        "publish_time": "30-10-2025 13:32",
+        "news_link": "https://khazanah.republika.co.id/berita/t4y5mf483/mengungkap-kekejaman-abu-lulu-tukang-jagal-rsf-yang-targetkan-bunuh-dua-ribu-nyawa"
+    },
+    {
+        "title": "Heboh Wakil Wali Kota Bandung Kena OTT, Ini Penjelasan dari Kejari",
+        "category": "Rejabar",
+        "publish_time": "30-10-2025 13:32",
+        "news_link": "https://rejabar.republika.co.id/berita/t4y5ls512/heboh-wakil-wali-kota-bandung-kena-ott-ini-penjelasan-dari-kejari"
+    },
+    {
+        "title": "Penerima Beasiswa Dharma Bumiputra Diharapkan Jadi Ahli AI di Indonesia",
+        "category": "News",
+        "publish_time": "30-10-2025 13:29",
+        "news_link": "https://news.republika.co.id/berita/t4y5a2423/penerima-beasiswa-dharma-bumiputra-diharapkan-jadi-ahli-ai-di-indonesia"
+    },
+    {
         "title": "Bukan Kena OTT, Wakil Wali Kota Bandung Erwin Diperiksa Kejari Selama 7 Jam Sebagai Saksi Korupsi",
         "category": "Rejabar",
         "publish_time": "30-10-2025 13:19",
@@ -20,283 +98,205 @@
     {
         "title": "Hujan Deras Guyur Jakarta, Banjir Genangi 29 RT di Jaksel dan Jaktim",
         "category": "News",
-        "publish_time": "30-10-2025 13:08",
+        "publish_time": "30-10-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/t4y4iy409/hujan-deras-guyur-jakarta-banjir-genangi-29-rt-di-jaksel-dan-jaktim"
     },
     {
         "title": "Polisi Tangkap Pelaku Pengeroyokan Koordinator Aliansi Masyarakat Pati Bersatu",
         "category": "Rejogja",
-        "publish_time": "30-10-2025 13:08",
+        "publish_time": "30-10-2025 13:14",
         "news_link": "https://rejogja.republika.co.id/berita/t4y4ht282/polisi-tangkap-pelaku-pengeroyokan-koordinator-aliansi-masyarakat-pati-bersatu"
     },
     {
         "title": "Lulusan Sekolah Rakyat Berpeluang Dapat Beasiswa di Universitas Tianjin",
         "category": "News",
-        "publish_time": "30-10-2025 13:04",
+        "publish_time": "30-10-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/t4y43l423/lulusan-sekolah-rakyat-berpeluang-dapat-beasiswa-di-universitas-tianjin"
     },
     {
         "title": "Tim Voli Putri Indonesia Capai Target Raih Perak di AYG 2025, Ini Komentar Pelatih Marcos Sugiyama",
         "category": "News",
-        "publish_time": "30-10-2025 13:00",
+        "publish_time": "30-10-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/t4y45x409/tim-voli-putri-indonesia-capai-target-raih-perak-di-ayg-2025-ini-komentar-pelatih-marcos-sugiyama"
     },
     {
         "title": "Diguyur Hujan Deras, Tembok TPU Jeruk Purut Roboh",
         "category": "News",
-        "publish_time": "30-10-2025 12:59",
+        "publish_time": "30-10-2025 13:14",
         "news_link": "https://news.republika.co.id/berita/t4y44a484/diguyur-hujan-deras-tembok-tpu-jeruk-purut-roboh"
     },
     {
         "title": "Ribuan Buruh Gelar Konsolidasi Nasional, Tuntut Penghapusan Outsourcing dan Tolak Upah Murah",
         "category": "Visual",
-        "publish_time": "30-10-2025 12:59",
+        "publish_time": "30-10-2025 13:14",
         "news_link": "https://visual.republika.co.id/berita/t4y36l375/ribuan-buruh-gelar-konsolidasi-nasional-tuntut-penghapusan-outsourcing-dan-tolak-upah-murah"
     },
     {
         "title": "Dinilai tidak Syar'i, Komisi VIII Tolak Penempatan Jamaah Haji RI di Mina Jadid",
         "category": "Khazanah",
-        "publish_time": "30-10-2025 12:57",
+        "publish_time": "30-10-2025 13:14",
         "news_link": "https://khazanah.republika.co.id/berita/t4y40i483/dinilai-tidak-syari-komisi-viii-tolak-penempatan-jamaah-haji-ri-di-mina-jadid"
     },
     {
         "title": "Beda Puasa dalam Islam dengan Agama Lain",
         "category": "Khazanah",
-        "publish_time": "30-10-2025 12:56",
+        "publish_time": "30-10-2025 13:14",
         "news_link": "https://khazanah.republika.co.id/berita/t4y1bd430/beda-puasa-dalam-islam-dengan-agama-lain"
     },
     {
         "title": "Nilai Ekonomi Digital Indonesia Ditargetkan Tembus 360 Miliar Dolar AS di 2030",
         "category": "Ekonomi",
-        "publish_time": "30-10-2025 12:45",
+        "publish_time": "30-10-2025 13:14",
         "news_link": "https://ekonomi.republika.co.id/berita/t4y3h0423/nilai-ekonomi-digital-indonesia-ditargetkan-tembus-360-miliar-dolar-as-di-2030"
     },
     {
         "title": "Dukung Program Nasional, bank bjb Hadirkan Solusi Pembiayaan Perumahan Terjangkau",
         "category": "Ekonomi",
-        "publish_time": "30-10-2025 12:41",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://ekonomi.republika.co.id/berita/t4y3a9472/dukung-program-nasional-bank-bjb-hadirkan-solusi-pembiayaan-perumahan-terjangkau"
     },
     {
         "title": "Profil Wakil Wali Kota Bandung Erwin yang Diperiksa Kejari: Dari Pengusaha Jadi Pejabat",
         "category": "News",
-        "publish_time": "30-10-2025 12:40",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://news.republika.co.id/berita/t4y37v282/profil-wakil-wali-kota-bandung-erwin-yang-diperiksa-kejari-dari-pengusaha-jadi-pejabat"
     },
     {
         "title": "Kemenag Alokasikan Rp 50 Miliar untuk Insentif Guru Agama Kristen, Terbesar di Daerah 3T",
         "category": "Khazanah",
-        "publish_time": "30-10-2025 12:35",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://khazanah.republika.co.id/berita/t4y2zz483/kemenag-alokasikan-rp-50-miliar-untuk-insentif-guru-agama-kristen-terbesar-di-daerah-3t"
     },
     {
         "title": "BRI Tancap Gas Garap Bisnis Kendaraan dan Bank Emas Lewat Sinergi Anak Usaha",
         "category": "Ekonomi",
-        "publish_time": "30-10-2025 12:35",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://ekonomi.republika.co.id/berita/t4y2zi349/bri-tancap-gas-garap-bisnis-kendaraan-dan-bank-emas-lewat-sinergi-anak-usaha"
     },
     {
         "title": "Ceko Usir Tentara Israel yang Hendak Berlibur di Praha, Sempat Telantar di Bandara",
         "category": "Khazanah",
-        "publish_time": "30-10-2025 12:35",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://khazanah.republika.co.id/berita/t4y2zc320/ceko-usir-tentara-israel-yang-hendak-berlibur-di-praha-sempat-telantar-di-bandara"
     },
     {
         "title": "Boy Thohir: Kadin Indonesia\u2013Tiongkok Dukung Beasiswa 50 Mahasiswa Tiap Tahun ke Tianjin",
         "category": "Ekonomi",
-        "publish_time": "30-10-2025 12:32",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://ekonomi.republika.co.id/berita/t4y2ut423/boy-thohir-kadin-indonesiationgkok-dukung-beasiswa-50-mahasiswa-tiap-tahun-ke-tianjin"
     },
     {
         "title": "Ruginya Beribadah tanpa Ilmu",
         "category": "Khazanah",
-        "publish_time": "30-10-2025 12:32",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://khazanah.republika.co.id/berita/t4y2uj430/ruginya-beribadah-tanpa-ilmu"
     },
     {
         "title": "Melaksanakan Ibadah tanpa Adab dan Dampaknya",
         "category": "Khazanah",
-        "publish_time": "30-10-2025 12:30",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://khazanah.republika.co.id/berita/t4y2qw430/melaksanakan-ibadah-tanpa-adab-dan-dampaknya"
     },
     {
         "title": "Ayah Youtuber Jerome Polin Meninggal Dunia Setelah Alami Kritis di RS",
         "category": "Ameera",
-        "publish_time": "30-10-2025 12:28",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://ameera.republika.co.id/berita/t4y2os425/ayah-youtuber-jerome-polin-meninggal-dunia-setelah-alami-kritis-di-rs"
     },
     {
         "title": "Diguyur Hujan Lebat, Sebanyak 27 RT di Jakarta Selatan Kebanjiran",
         "category": "Rejakarta",
-        "publish_time": "30-10-2025 12:27",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://republika.co.id/berita//t4y2m8349/diguyur-hujan-lebat-sebanyak-27-rt-di-jakarta-selatan-kebanjiran"
     },
     {
         "title": "Masyarakat Berharap Besar pada Program Kecamatan Berdaya",
         "category": "News",
-        "publish_time": "30-10-2025 12:27",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://news.republika.co.id/berita/t4y2lv472/masyarakat-berharap-besar-pada-program-kecamatan-berdaya"
     },
     {
         "title": "Survei Cerah Ungkap Bank Masih Ragu Biayai Proyek Energi Terbarukan",
         "category": "Esgnow",
-        "publish_time": "30-10-2025 12:26",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://esgnow.republika.co.id/berita/t4y10f416/survei-cerah-ungkap-bank-masih-ragu-biayai-proyek-energi-terbarukan"
     },
     {
         "title": "Soal Wakil Wali Kota Bandung, Kejagung: Diperiksa di Kejari Terkait Korupsi",
         "category": "Rejabar",
-        "publish_time": "30-10-2025 12:26",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://rejabar.republika.co.id/berita/t4y2ff512/soal-wakil-wali-kota-bandung-kejagung-diperiksa-di-kejari-terkait-korupsi"
     },
     {
         "title": "Bara Semangat Sumarsih yang Tak Pernah Padam Menuntut Keadilan HAM",
         "category": "Visual",
-        "publish_time": "30-10-2025 12:26",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://visual.republika.co.id/berita/t4y2d0375/bara-semangat-sumarsih-yang-tak-pernah-padam-menuntut-keadilan-ham"
     },
     {
         "title": "Warga Pesisir Poso Manfaatkan Ban Bekas untuk Tahan Abrasi",
         "category": "Esgnow",
-        "publish_time": "30-10-2025 12:26",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://esgnow.republika.co.id/berita/t4y297416/warga-pesisir-poso-manfaatkan-ban-bekas-untuk-tahan-abrasi"
     },
     {
         "title": "Ruas Jalan di Depok Kerap Tergenang, Wali Kota: Jalan yang Beririsan Sungai Memang Rawan Banjir",
         "category": "News",
-        "publish_time": "30-10-2025 12:26",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://news.republika.co.id/berita/t4y269483/ruas-jalan-di-depok-kerap-tergenang-wali-kota-jalan-yang-beririsan-sungai-memang-rawan-banjir"
     },
     {
         "title": "Mayat Ditemukan di Puncak Ciremai, BTNGC Tutup Sementara Jalur Pendakian Linggajati Sepekan",
         "category": "Rejabar",
-        "publish_time": "30-10-2025 12:26",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://rejabar.republika.co.id/berita/t4y236512/mayat-ditemukan-di-puncak-ciremai-btngc-tutup-sementara-jalur-pendakian-linggajati-sepekan"
     },
     {
         "title": "PLN Dukung KESDM Salurkan BPBL Bagi Ratusan Keluarga Prasejahtera di Minahasa",
         "category": "Ekonomi",
-        "publish_time": "30-10-2025 12:26",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://ekonomi.republika.co.id/berita/t4y1qx472/pln-dukung-kesdm-salurkan-bpbl-bagi-ratusan-keluarga-prasejahtera-di-minahasa"
     },
     {
         "title": "Warganet Usulkan Pengenaan Tarif JakLingko, Ini Respons Pemprov Jakarta",
         "category": "News",
-        "publish_time": "30-10-2025 12:26",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://news.republika.co.id/berita/t4y1p6409/warganet-usulkan-pengenaan-tarif-jaklingko-ini-respons-pemprov-jakarta"
     },
     {
         "title": "Genosida Gaza Tetap Berlanjut di Bawah Kedok Gencatan Senjata, Siapa Bertanggung Jawab?",
         "category": "Khazanah",
-        "publish_time": "30-10-2025 12:26",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://khazanah.republika.co.id/berita/t4y1jk320/genosida-gaza-tetap-berlanjut-di-bawah-kedok-gencatan-senjata-siapa-bertanggung-jawab"
     },
     {
         "title": "Bolehkah Membakar Dupa dalam Islam?",
         "category": "Khazanah",
-        "publish_time": "30-10-2025 11:26",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://khazanah.republika.co.id/berita/t4y11u430/bolehkah-membakar-dupa-dalam-islam"
     },
     {
         "title": "Unit Perdana AION UT Rakitan Lokal Resmi Dikirim ke Konsumen",
         "category": "Ekonomi",
-        "publish_time": "30-10-2025 11:26",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://ekonomi.republika.co.id/berita/t4xya4348/unit-perdana-aion-ut-rakitan-lokal-resmi-dikirim-ke-konsumen"
     },
     {
         "title": "Beredar Kabar Wakil Wali Kota Bandung Kena OTT, Ini Faktanya Kata Kejagung",
         "category": "News",
-        "publish_time": "30-10-2025 11:26",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://news.republika.co.id/berita/t4y0t8377/beredar-kabar-wakil-wali-kota-bandung-kena-ott-ini-faktanya-kata-kejagung"
     },
     {
         "title": "Seorang Ibu Rumah Tangga Terpidana Zina Pingsan Usai Jalani 100 Kali Cambuk di Aceh Barat",
         "category": "News",
-        "publish_time": "30-10-2025 11:26",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://news.republika.co.id/berita/t4y0t3409/seorang-ibu-rumah-tangga-terpidana-zina-pingsan-usai-jalani-100-kali-cambuk-di-aceh-barat"
     },
     {
         "title": "Kejagung: Wakil Wali Kota Bandung Erwin Diperiksa di Kejari Terkait Korupsi Bukan Kena OTT",
         "category": "Rejabar",
-        "publish_time": "30-10-2025 11:26",
+        "publish_time": "30-10-2025 12:14",
         "news_link": "https://rejabar.republika.co.id/berita/t4y0n6282/kejagung-wakil-wali-kota-bandung-erwin-diperiksa-di-kejari-terkait-korupsi-bukan-kena-ott"
-    },
-    {
-        "title": "Dari Lembah Yordan, Kisah Zain dan Iman, Perempuan Palestina yang Bertahan di Pengungsian",
-        "category": "News",
-        "publish_time": "30-10-2025 11:26",
-        "news_link": "https://news.republika.co.id/berita/t4y0ha415/dari-lembah-yordan-kisah-zain-dan-iman-perempuan-palestina-yang-bertahan-di-pengungsian"
-    },
-    {
-        "title": "Sinergi Majukan Negeri Lewat Inovasi Digital, Bank Mandiri Raih 8 Penghargaan Internasional",
-        "category": "Ekonomi",
-        "publish_time": "30-10-2025 11:26",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4y0bz472/sinergi-majukan-negeri-lewat-inovasi-digital-bank-mandiri-raih-8-penghargaan-internasional"
-    },
-    {
-        "title": "Hampir 700 Anak Keracunan MBG, Pemkab Gunungkidul Siapkan Rp100 Juta untuk Biaya Perawatan",
-        "category": "Rejogja",
-        "publish_time": "30-10-2025 11:26",
-        "news_link": "https://rejogja.republika.co.id/berita/t4y0a7282/hampir-700-anak-keracunan-mbg-pemkab-gunungkidul-siapkan-rp100-juta-untuk-biaya-perawatan"
-    },
-    {
-        "title": "Guru Besar UIN Sunan Gunung Djati Nilai Semangat Santri Harus Dihidupkan sebagai Energi Moral",
-        "category": "Rejabar",
-        "publish_time": "30-10-2025 11:26",
-        "news_link": "https://rejabar.republika.co.id/berita/t4y098512/guru-besar-uin-sunan-gunung-djati-nilai-semangat-santri-harus-dihidupkan-sebagai-energi-moral"
-    },
-    {
-        "title": "Perempuan di Tengah Labirin Mal (Bagian 2)",
-        "category": "Network",
-        "publish_time": "30-10-2025 11:26",
-        "news_link": "https://kingdomsriwijaya.id/posts/714732/perempuan-di-tengah-labirin-mal-bagian-2-"
-    },
-    {
-        "title": "Viral Vtuber Sena, DPD Ingatkan Komitmen Perlindungan Anak dan Perempuan",
-        "category": "News",
-        "publish_time": "30-10-2025 11:26",
-        "news_link": "https://news.republika.co.id/berita/t4xzr8472/viral-vtuber-sena-dpd-ingatkan-komitmen-perlindungan-anak-dan-perempuan"
-    },
-    {
-        "title": "Nanik S Deyang Polisikan Pemilik Mobil Berlabel 'BGN' yang Angkut Babi",
-        "category": "News",
-        "publish_time": "30-10-2025 11:26",
-        "news_link": "https://news.republika.co.id/berita/t4xzog377/nanik-s-deyang-polisikan-pemilik-mobil-berlabel-bgn-yang-angkut-babi"
-    },
-    {
-        "title": "KPK Sita Mata Uang Asing dari Penyelenggara Haji di Yogya Buntut Perkara Kuota Haji",
-        "category": "Khazanah",
-        "publish_time": "30-10-2025 11:26",
-        "news_link": "https://khazanah.republika.co.id/berita/t4xzhy430/kpk-sita-mata-uang-asing-dari-penyelenggara-haji-di-yogya-buntut-perkara-kuota-haji"
-    },
-    {
-        "title": "Terjadi Lagi Pohon Tumbang di Jakarta Timpa Mobil, Satu Meninggal Dunia",
-        "category": "News",
-        "publish_time": "30-10-2025 11:26",
-        "news_link": "https://news.republika.co.id/berita/t4xzho409/terjadi-lagi-pohon-tumbang-di-jakarta-timpa-mobil-satu-meninggal-dunia"
-    },
-    {
-        "title": "Wakil Wali Kota Bandung Erwin Dikabarkan Ditangkap Kejari, Kejaksaan Gelar Jumpa Pers Malam Ini",
-        "category": "Rejabar",
-        "publish_time": "30-10-2025 11:26",
-        "news_link": "https://rejabar.republika.co.id/berita/t4xzb6282/wakil-wali-kota-bandung-erwin-dikabarkan-ditangkap-kejari-kejaksaan-gelar-jumpa-pers-malam-ini"
-    },
-    {
-        "title": "BFI Finance Cetak Pertumbuhan Pembiayaan 15,2 Persen pada Kuartal III 2025",
-        "category": "Ekonomi",
-        "publish_time": "30-10-2025 11:26",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4xz9p490/bfi-finance-cetak-pertumbuhan-pembiayaan-152-persen-pada-kuartal-iii-2025"
-    },
-    {
-        "title": "Titik Kritis Kehalalan Seafood, Muslim Wajib Tahu!",
-        "category": "Ameera",
-        "publish_time": "30-10-2025 11:26",
-        "news_link": "https://ameera.republika.co.id/berita/t4xz8c425/titik-kritis-kehalalan-seafood-muslim-wajib-tahu"
-    },
-    {
-        "title": "KH Ma'ruf Amin Dukung Berdirinya LPDU, Sebut Gagasan Luar Biasa Prabowo",
-        "category": "Khazanah",
-        "publish_time": "30-10-2025 11:26",
-        "news_link": "https://khazanah.republika.co.id/berita/t4xz5k430/kh-maruf-amin-dukung-berdirinya-lpdu-sebut-gagasan-luar-biasa-prabowo"
     }
 ]
