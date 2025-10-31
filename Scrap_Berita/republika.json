@@ -1,8 +1,134 @@
 [
     {
+        "title": "KH Ma\u2019ruf Amin Minta Jangan Stigma Buruk Pesantren karena Satu Bangunan Ambruk",
+        "category": "Khazanah",
+        "publish_time": "31-10-2025 07:13",
+        "news_link": "https://khazanah.republika.co.id/berita/t4zipy430/kh-maruf-amin-minta-jangan-stigma-buruk-pesantren-karena-satu-bangunan-ambruk"
+    },
+    {
+        "title": "Garuda Tambah Penerbangan dan Turunkan Tarif Saat Nataru",
+        "category": "Ekonomi",
+        "publish_time": "31-10-2025 07:08",
+        "news_link": "https://ekonomi.republika.co.id/berita/t4zii9416/garuda-tambah-penerbangan-dan-turunkan-tarif-saat-nataru"
+    },
+    {
+        "title": "MUI Gandeng Lembaga Filantropi Sukseskan Konferensi Asia Pasifik untuk Palestina",
+        "category": "Khazanah",
+        "publish_time": "31-10-2025 07:05",
+        "news_link": "https://khazanah.republika.co.id/berita/t4zidu430/mui-gandeng-lembaga-filantropi-sukseskan-konferensi-asia-pasifik-untuk-palestina"
+    },
+    {
+        "title": "Petugas SDA Tambal Tanggul Baswedan yang Jebol dengan Karung Pasir",
+        "category": "Visual",
+        "publish_time": "31-10-2025 07:04",
+        "news_link": "https://visual.republika.co.id/berita/t4zic3375/petugas-sda-tambal-tanggul-baswedan-yang-jebol-dengan-karung-pasir"
+    },
+    {
+        "title": "Terobosan Dermatologi: LABOR\u00c9 Hadirkan 'MCU Kulit' Pertama di Asia Tenggara",
+        "category": "Ameera",
+        "publish_time": "31-10-2025 07:03",
+        "news_link": "https://ameera.republika.co.id/berita/t4zias425/terobosan-dermatologi-labor-hadirkan-mcu-kulit-pertama-di-asia-tenggara"
+    },
+    {
+        "title": "Warga Alami Kekeringan, Sumur Air Bersih Dibangun di Kampung Pasir Peundeuy",
+        "category": "Network",
+        "publish_time": "31-10-2025 07:02",
+        "news_link": "https://bandung24jam.id/posts/715009/warga-alami-kekeringan-sumur-air-bersih-dibangun-di-kampung-pasir-peundeuy"
+    },
+    {
+        "title": "Laba IIF Naik 34 Persen, Pembiayaan Energi Terbarukan Jadi Penopang",
+        "category": "Ekonomi",
+        "publish_time": "31-10-2025 06:59",
+        "news_link": "https://ekonomi.republika.co.id/berita/t4zi3l416/laba-iif-naik-34-persen-pembiayaan-energi-terbarukan-jadi-penopang"
+    },
+    {
+        "title": "Ini Panduan Lengkap Mengajukan Visa Amerika Serikat: Syarat, Dokumen, dan Tips Wawancaranya",
+        "category": "Network",
+        "publish_time": "31-10-2025 06:57",
+        "news_link": "https://cari.republika.co.id/posts/715015/ini-panduan-lengkap-mengajukan-visa-amerika-serikat-syarat-dokumen-dan-tips-wawancaranya"
+    },
+    {
+        "title": "Ini Dia Bocoran Daftar Lagu untuk Album Studio Terbaru Megadeth",
+        "category": "Network",
+        "publish_time": "31-10-2025 06:54",
+        "news_link": "https://impresiupdate.id/posts/715025/ini-dia-bocoran-daftar-lagu-untuk-album-studio-terbaru-megadeth"
+    },
+    {
+        "title": "Billie Eilish Menyumbang Rp 190 Miliar dari Hasil Tur untuk Amal",
+        "category": "Network",
+        "publish_time": "31-10-2025 06:54",
+        "news_link": "https://impresiupdate.id/posts/715028/billie-eilish-menyumbang-rp-190-miliar-dari-hasil-tur-untuk-amal"
+    },
+    {
+        "title": "Hasil Studi: Sebagian Besar Bintang Raksasa di Alam Semesta Awal Lahir Berpasangan",
+        "category": "Network",
+        "publish_time": "31-10-2025 06:53",
+        "news_link": "https://impresiupdate.id/posts/715033/hasil-studi-sebagian-besar-bintang-raksasa-di-alam-semesta-awal-lahir-berpasangan"
+    },
+    {
+        "title": "KTT APEC 2025, Indonesia Bisa Adopsi Lebih Banyak Teknologi dari Korsel",
+        "category": "Network",
+        "publish_time": "31-10-2025 06:53",
+        "news_link": "https://seputarmiliter.id/posts/715041/ktt-apec-2025-indonesia-bisa-adopsi-lebih-banyak-teknologi-dari-korsel"
+    },
+    {
+        "title": "KDM Angkat dan Mutasi 641 Kepala Sekolah",
+        "category": "Network",
+        "publish_time": "31-10-2025 06:53",
+        "news_link": "https://bandung24jam.id/posts/715048/kdm-angkat-dan-mutasi-641-kepala-sekolah"
+    },
+    {
+        "title": "Kelas Ibu Hamil Rumah Zakat: Mewujudkan Kehamilan Sehat dan Aman",
+        "category": "Network",
+        "publish_time": "31-10-2025 06:52",
+        "news_link": "https://bisnistime.com/posts/715057/kelas-ibu-hamil-rumah-zakat-mewujudkan-kehamilan-sehat-dan-aman"
+    },
+    {
+        "title": "Di Sukabumi, Museum Pegadaian Jadi Wisata Edukasi Bersejarah",
+        "category": "Network",
+        "publish_time": "31-10-2025 06:52",
+        "news_link": "https://sukabumikini.com/posts/715064/di-sukabumi-museum-pegadaian-jadi-wisata-edukasi-bersejarah"
+    },
+    {
+        "title": "Lima Kiat Menjaga Kesehatan Lansia, Salah Satunya Latihan Keseimbangan",
+        "category": "Network",
+        "publish_time": "31-10-2025 06:50",
+        "news_link": "https://magentatoday.id/posts/714945/lima-kiat-menjaga-kesehatan-lansia-salah-satunya-latihan-keseimbangan"
+    },
+    {
+        "title": "Mentan Amran Serius Membahas Pangan untuk Rakyat Palestina",
+        "category": "Ekonomi",
+        "publish_time": "31-10-2025 06:49",
+        "news_link": "https://ekonomi.republika.co.id/berita/t4zhnb472/mentan-amran-serius-membahas-pangan-untuk-rakyat-palestina"
+    },
+    {
+        "title": "Wakil Wali Kota Bandung Dicecar 28 Pernyataan oleh Kejari",
+        "category": "News",
+        "publish_time": "31-10-2025 06:40",
+        "news_link": "https://news.republika.co.id/berita/t4zh8j377/wakil-wali-kota-bandung-dicecar-28-pernyataan-oleh-kejari"
+    },
+    {
+        "title": "Bea Cukai Tanjungpandan Musnahkan Barang Hasil Penindakan Senilai Rp 80 Juta",
+        "category": "Beacukai",
+        "publish_time": "31-10-2025 06:34",
+        "news_link": "https://republika.co.id/berita//t4zgxq368/bea-cukai-tanjungpandan-musnahkan-barang-hasil-penindakan-senilai-rp-80-juta"
+    },
+    {
+        "title": "Terkendala Faktor Cuaca, Produksi Pembuatan Kain Pel di Bandung Anjlok Hingga 50 Persen",
+        "category": "Visual",
+        "publish_time": "31-10-2025 06:29",
+        "news_link": "https://visual.republika.co.id/berita/t4zefz375/terkendala-faktor-cuaca-produksi-pembuatan-kain-pel-di-bandung-anjlok-hingga-50-persen"
+    },
+    {
+        "title": "10 Pohon di Jakarta Tumbang dalam Sehari, Pramono: Cuaca Ekstrem, Ada yang Tercerabut Akarnya",
+        "category": "News",
+        "publish_time": "31-10-2025 06:23",
+        "news_link": "https://news.republika.co.id/berita/t4zgfo377/10-pohon-di-jakarta-tumbang-dalam-sehari-pramono-cuaca-ekstrem-ada-yang-tercerabut-akarnya"
+    },
+    {
         "title": "Bea Cukai Musnahkan 1.034 Gram Narkotika Hasil Penindakan di Bandara Balikpapan",
         "category": "Beacukai",
-        "publish_time": "31-10-2025 06:21",
+        "publish_time": "31-10-2025 06:20",
         "news_link": "https://republika.co.id/berita//t4zgbi368/bea-cukai-musnahkan-1-034-gram-narkotika-hasil-penindakan-di-bandara-balikpapan"
     },
     {
@@ -14,289 +140,163 @@
     {
         "title": "Diperiksa Kejari Terkait Dugaan Korupsi, Ini Penjelasan Wakil Wali Kota Bandung",
         "category": "News",
-        "publish_time": "31-10-2025 06:05",
+        "publish_time": "31-10-2025 06:13",
         "news_link": "https://news.republika.co.id/berita/t4zfk4377/diperiksa-kejari-terkait-dugaan-korupsi-ini-penjelasan-wakil-wali-kota-bandung"
     },
     {
         "title": "Mentan Cabut Izin 190 Pengecer Pupuk, Tegaskan Tak Ada Ampun bagi Pelanggar Harga",
         "category": "Ekonomi",
-        "publish_time": "31-10-2025 06:04",
+        "publish_time": "31-10-2025 06:13",
         "news_link": "https://ekonomi.republika.co.id/berita/t4zfi6370/mentan-cabut-izin-190-pengecer-pupuk-tegaskan-tak-ada-ampun-bagi-pelanggar-harga"
     },
     {
         "title": "Korpasgat TNI AU dan Masa Depan Pertahanan Udara Indonesia",
         "category": "Kolom",
-        "publish_time": "31-10-2025 06:02",
+        "publish_time": "31-10-2025 06:13",
         "news_link": "https://analisis.republika.co.id/berita/t4zfex484/korpasgat-tni-au-dan-masa-depan-pertahanan-udara-indonesia"
     },
     {
         "title": "Jakarta Bakal Dilanda Cuaca Ekstrem hingga 25 Hari ke Depan",
         "category": "News",
-        "publish_time": "31-10-2025 05:57",
+        "publish_time": "31-10-2025 06:13",
         "news_link": "https://news.republika.co.id/berita/t4zf6j377/jakarta-bakal-dilanda-cuaca-ekstrem-hingga-25-hari-ke-depan"
     },
     {
         "title": "Zero Accident Keracunan MBG, Kota Cimahi Miliki Jurus Khusus",
         "category": "Rejabar",
-        "publish_time": "31-10-2025 05:56",
+        "publish_time": "31-10-2025 06:13",
         "news_link": "https://rejabar.republika.co.id/berita/t4zf5q512/zero-accident-keracunan-mbg-kota-cimahi-miliki-jurus-khusus"
     },
     {
         "title": "Di KTT APEC, Prabowo tak Ingin Ada Perpecahan di Asia Pasifik",
         "category": "News",
-        "publish_time": "31-10-2025 05:53",
+        "publish_time": "31-10-2025 06:13",
         "news_link": "https://news.republika.co.id/berita/t4zf0j484/di-ktt-apec-prabowo-tak-ingin-ada-perpecahan-di-asia-pasifik"
     },
     {
         "title": "Muka Masam Farhan Tanggapi Pemeriksaan ke Wakil Wali Kota Bandung: Kita akan Ikuti!",
         "category": "Rejabar",
-        "publish_time": "31-10-2025 05:48",
+        "publish_time": "31-10-2025 06:13",
         "news_link": "https://rejabar.republika.co.id/berita/t4zesm512/muka-masam-farhan-tanggapi-pemeriksaan-ke-wakil-wali-kota-bandung-kita-akan-ikuti"
     },
     {
         "title": "Raut Farhan Masam Merespons Pemeriksaan Kejari Terhadap Wakil Wali Kota Bandung",
         "category": "News",
-        "publish_time": "31-10-2025 05:44",
+        "publish_time": "31-10-2025 05:13",
         "news_link": "https://news.republika.co.id/berita/t4zelv377/raut-farhan-masam-merespons-pemeriksaan-kejari-terhadap-wakil-wali-kota-bandung"
     },
     {
         "title": "Kejari Segera Tetapkan Tersangka Kasus Dugaan Korupsi dan Penyalahgunaan Wewenang di Pemkot Bandung",
         "category": "Rejabar",
-        "publish_time": "31-10-2025 05:39",
+        "publish_time": "31-10-2025 05:13",
         "news_link": "https://rejabar.republika.co.id/berita/t4zed0512/kejari-segera-tetapkan-tersangka-kasus-dugaan-korupsi-dan-penyalahgunaan-wewenang-di-pemkot-bandung"
     },
     {
         "title": "Jejak 1 Tahun Pemerintahan Prabowo-Gibran di Pameran Jurnalistik Haluan Merah Putih",
         "category": "Visual",
-        "publish_time": "31-10-2025 05:36",
+        "publish_time": "31-10-2025 05:13",
         "news_link": "https://visual.republika.co.id/berita/t4ze8j375/jejak-1-tahun-pemerintahan-prabowogibran-di-pameran-jurnalistik-haluan-merah-putih"
     },
     {
         "title": "Industri Kosmetik di Indonesia Masih Sangat Potensial, Produk Lokal Optimistis Terus Berkembang",
         "category": "Rejabar",
-        "publish_time": "31-10-2025 05:22",
+        "publish_time": "31-10-2025 05:13",
         "news_link": "https://rejabar.republika.co.id/berita/t4zdj9512/industri-kosmetik-di-indonesia-masih-sangat-potensial-produk-lokal-optimistis-terus-berkembang"
     },
     {
         "title": "Dua Tahun Hidup tanpa Listrik, Ni Wayan Kini Menikmati Cahaya",
         "category": "Ekonomi",
-        "publish_time": "31-10-2025 05:22",
+        "publish_time": "31-10-2025 05:13",
         "news_link": "https://ekonomi.republika.co.id/berita/t4zdda368/dua-tahun-hidup-tanpa-listrik-ni-wayan-kini-menikmati-cahaya"
     },
     {
         "title": "Ingin Berkarier di Jerman? Goethe-Institut Gelar KarriereKompass",
         "category": "News",
-        "publish_time": "31-10-2025 05:22",
+        "publish_time": "31-10-2025 05:13",
         "news_link": "https://news.republika.co.id/berita/t4zd9m370/ingin-berkarier-di-jerman-goetheinstitut-gelar-karrierekompass"
     },
     {
         "title": "Koperasi Asal Jembrana Ekspor 14 Ton Biji Kakao Fermentasi ke Prancis dan Jepang",
         "category": "Beacukai",
-        "publish_time": "31-10-2025 05:22",
+        "publish_time": "31-10-2025 05:13",
         "news_link": "https://republika.co.id/berita//t4zd54368/koperasi-asal-jembrana-ekspor-14-ton-biji-kakao-fermentasi-ke-prancis-dan-jepang"
     },
     {
         "title": "Kunjungi Ponpes An-Nur II Malang, Kapolri Berpesan Jaga Persatuan",
         "category": "News",
-        "publish_time": "31-10-2025 05:22",
+        "publish_time": "31-10-2025 05:13",
         "news_link": "https://news.republika.co.id/berita/t4zahs484/kunjungi-ponpes-annur-ii-malang-kapolri-berpesan-jaga-persatuan"
     },
     {
         "title": "OJK Terbitkan Dua Aturan Baru untuk Bank Syariah Soal Permodalan dan Likuiditas",
         "category": "Ekonomi",
-        "publish_time": "31-10-2025 05:22",
+        "publish_time": "31-10-2025 05:13",
         "news_link": "https://ekonomi.republika.co.id/berita/t4zcb3370/ojk-terbitkan-dua-aturan-baru-untuk-bank-syariah-soal-permodalan-dan-likuiditas"
     },
     {
         "title": "Atasi Krisis Lahan Pemakaman di Jakarta, Solusi Disiapkan di Tigaraksa",
         "category": "Rejakarta",
-        "publish_time": "31-10-2025 04:22",
+        "publish_time": "31-10-2025 05:13",
         "news_link": "https://republika.co.id/berita//t4zbef456/atasi-krisis-lahan-pemakaman-di-jakarta-solusi-disiapkan-di-tigaraksa"
     },
     {
         "title": "Food Industry Asia Perkuat Komunikasi Ilmiah tentang Pemanis Non-Gula",
         "category": "Ameera",
-        "publish_time": "31-10-2025 04:22",
+        "publish_time": "31-10-2025 04:13",
         "news_link": "https://ameera.republika.co.id/berita/t4zb53456/food-industry-asia-perkuat-komunikasi-ilmiah-tentang-pemanis-nongula"
     },
     {
         "title": "Kemenag Kukuhkan Pengurus PMMBN: Mahasiswa PTU Didorong Jadi Motor Moderasi dan Bela Negara",
         "category": "Khazanah",
-        "publish_time": "31-10-2025 04:22",
+        "publish_time": "31-10-2025 04:13",
         "news_link": "https://khazanah.republika.co.id/berita/t4zaww456/kemenag-kukuhkan-pengurus-pmmbn-mahasiswa-ptu-didorong-jadi-motor-moderasi-dan-bela-negara"
     },
     {
         "title": "Ucapan Orang Shaleh Ketika Jenguk Orang Sakit Kata Kiai Azaim Situbondo",
         "category": "Iqra",
-        "publish_time": "31-10-2025 04:22",
+        "publish_time": "31-10-2025 04:13",
         "news_link": "https://iqra.republika.co.id/berita/t4zap4451/ucapan-orang-shaleh-ketika-jenguk-orang-sakit-kata-kiai-azaim-situbondo"
     },
     {
         "title": "Komdis PSSI Denda Persipura Rp100 Juta, Gara-gara Tamu VIP",
         "category": "Network",
-        "publish_time": "31-10-2025 04:22",
+        "publish_time": "31-10-2025 04:13",
         "news_link": "https://skor.republika.co.id/posts/715031/komdis-pssi-denda-persipura-rp100-juta-gara-gara-tamu-vip"
     },
     {
         "title": "Komisi IV DPR RI Dorong Sinergi Konservasi dan Kesejahteraan di Raja Ampat",
         "category": "Ekonomi",
-        "publish_time": "31-10-2025 03:22",
+        "publish_time": "31-10-2025 04:13",
         "news_link": "https://ekonomi.republika.co.id/berita/t4z99m368/komisi-iv-dpr-ri-dorong-sinergi-konservasi-dan-kesejahteraan-di-raja-ampat"
     },
     {
         "title": "Kecelakaan Bus DAMRI di Jembatan Suramadu, Manajemen Belasungkawa",
         "category": "News",
-        "publish_time": "31-10-2025 03:22",
+        "publish_time": "31-10-2025 04:13",
         "news_link": "https://news.republika.co.id/berita/t4z98a484/kecelakaan-bus-damri-di-jembatan-suramadu-manajemen-belasungkawa"
     },
     {
         "title": "Gelar Telkom AI Connect, Telkom Dorong Kolaborasi Kampus dan Industri Digital",
         "category": "Ekonomi",
-        "publish_time": "31-10-2025 03:22",
+        "publish_time": "31-10-2025 03:13",
         "news_link": "https://ekonomi.republika.co.id/berita/t4z8sy368/gelar-telkom-ai-connect-telkom-dorong-kolaborasi-kampus-dan-industri-digital"
     },
     {
         "title": "Timnas U-17 Indonesia Imbangi Panama U-17 di Laga Uji Coba",
         "category": "Network",
-        "publish_time": "31-10-2025 03:22",
+        "publish_time": "31-10-2025 03:13",
         "news_link": "https://skor.republika.co.id/posts/715023/timnas-u-17-indonesia-imbangi-panama-u-17-di-laga-uji-coba"
     },
     {
         "title": "Jenson Button Umumkan Pensiun dari Dunia Balap Setelah 25 Tahun Berkarier",
         "category": "News",
-        "publish_time": "31-10-2025 03:22",
+        "publish_time": "31-10-2025 03:13",
         "news_link": "https://news.republika.co.id/berita/t4z89o370/jenson-button-umumkan-pensiun-dari-dunia-balap-setelah-25-tahun-berkarier"
     },
     {
         "title": "Dihadang Cuaca Ekstrim, Evakuasi Jenazah di Puncak Ciremai Terus Berlanjut",
         "category": "Rejabar",
-        "publish_time": "31-10-2025 03:22",
+        "publish_time": "31-10-2025 03:13",
         "news_link": "https://rejabar.republika.co.id/berita/t4z89i512/dihadang-cuaca-ekstrim-evakuasi-jenazah-di-puncak-ciremai-terus-berlanjut"
-    },
-    {
-        "title": "Dukung Ekosistem AI, TelkomGroup Siap Operasikan Hyperscale Data Center NeutraDC Nxera Batam",
-        "category": "Ekonomi",
-        "publish_time": "31-10-2025 03:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4z892368/dukung-ekosistem-ai-telkomgroup-siap-operasikan-hyperscale-data-center-neutradc-nxera-batam"
-    },
-    {
-        "title": "Hadapi Cuaca Ekstrem, Dompet Dhuafa dan Kemenkes Ajak Masyarakat Terapkan PHBS",
-        "category": "Khazanah",
-        "publish_time": "31-10-2025 03:22",
-        "news_link": "https://khazanah.republika.co.id/berita/t4z7uc368/hadapi-cuaca-ekstrem-dompet-dhuafa-dan-kemenkes-ajak-masyarakat-terapkan-phbs"
-    },
-    {
-        "title": "PP Presisi Catat Laba Rp 194 Miliar hingga Kuartal III 2025",
-        "category": "Ekonomi",
-        "publish_time": "31-10-2025 03:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4z7sx370/pp-presisi-catat-laba-rp-194-miliar-hingga-kuartal-iii-2025"
-    },
-    {
-        "title": "Indonesia Kuasai wondr by BNI Indonesia Masters 2025, BNI Tegaskan Dukungan untuk Bulu Tangkis",
-        "category": "Ekonomi",
-        "publish_time": "31-10-2025 03:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4z7hj368/indonesia-kuasai-wondr-by-bni-indonesia-masters-2025-bni-tegaskan-dukungan-untuk-bulu-tangkis"
-    },
-    {
-        "title": "Ini Kekhawatiran Anggota Dewan Setelah Media Inggris Sebut IKN Terancam Jadi 'Kota Hantu'",
-        "category": "News",
-        "publish_time": "31-10-2025 03:22",
-        "news_link": "https://news.republika.co.id/berita/t4z7ff377/ini-kekhawatiran-anggota-dewan-setelah-media-inggris-sebut-ikn-terancam-jadi-kota-hantu"
-    },
-    {
-        "title": "Rumah Yatim, IM3 dan Tokopedia Hadirkan Sekolah Layak untuk Anak-anak Lombok Barat",
-        "category": "Khazanah",
-        "publish_time": "31-10-2025 03:22",
-        "news_link": "https://khazanah.republika.co.id/berita/t4z74l368/rumah-yatim-im3-dan-tokopedia-hadirkan-sekolah-layak-untuk-anakanak-lombok-barat"
-    },
-    {
-        "title": "CORE: Penurunan Tarif AS-China Bisa Pengaruhi Daya Saing Indonesia",
-        "category": "Ekonomi",
-        "publish_time": "31-10-2025 02:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4z6kf370/core-penurunan-tarif-aschina-bisa-pengaruhi-daya-saing-indonesia"
-    },
-    {
-        "title": "Hamas Segera Gelar Operasi Keamanan Besar-besaran Berantas 'Para Pengkhianat' di Dalam Gaza",
-        "category": "Khazanah",
-        "publish_time": "31-10-2025 02:22",
-        "news_link": "https://khazanah.republika.co.id/berita/t4z6jd483/hamas-segera-gelar-operasi-keamanan-besarbesaran-berantas-para-pengkhianat-di-dalam-gaza"
-    },
-    {
-        "title": "Akhiri Tren Penurunan, Harga Emas Antam Naik Rp42 Ribu",
-        "category": "Ekonomi",
-        "publish_time": "31-10-2025 02:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4z4q3370/akhiri-tren-penurunan-harga-emas-antam-naik-rp42-ribu"
-    },
-    {
-        "title": "Prediksi dan Link Live Streaming Nottingham Forest vs Manchester United di Liga Inggris 2025-2026",
-        "category": "Network",
-        "publish_time": "31-10-2025 02:22",
-        "news_link": "https://skor.republika.co.id/posts/715006/prediksi-dan-link-live-streaming-nottingham-forest-vs-manchester-united-di-liga-inggris-2025-2026"
-    },
-    {
-        "title": "Erdogan Sekak Kanselir Jerman yang Bela Zionis, 'Israel Punya Nuklir dan Bom, Hamas tidak'",
-        "category": "News",
-        "publish_time": "31-10-2025 02:22",
-        "news_link": "https://news.republika.co.id/berita/t4z4js377/erdogan-sekak-kanselir-jerman-yang-bela-zionis-israel-punya-nuklir-dan-bom-hamas-tidak"
-    },
-    {
-        "title": "Dealer Jaecoo Andalan Mampang Dibuka, Tawarkan Pengalaman Otomotif Premium di Jakarta Selatan",
-        "category": "Ekonomi",
-        "publish_time": "31-10-2025 02:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4z4ez368/dealer-jaecoo-andalan-mampang-dibuka-tawarkan-pengalaman-otomotif-premium-di-jakarta-selatan"
-    },
-    {
-        "title": "Indonesia Siap Beli Jet Tempur J-10 Chengdu, China Pilih Hati-Hati ke Semua Pembelinya",
-        "category": "News",
-        "publish_time": "31-10-2025 01:22",
-        "news_link": "https://news.republika.co.id/berita/t4z3la377/indonesia-siap-beli-jet-tempur-j10-chengdu-china-pilih-hatihati-ke-semua-pembelinya"
-    },
-    {
-        "title": "Pertamina Cek Berkala Potensi Kontaminasi Air di SPBU Semarang-Demak",
-        "category": "Ekonomi",
-        "publish_time": "31-10-2025 01:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/t4z3hp370/pertamina-cek-berkala-potensi-kontaminasi-air-di-spbu-semarangdemak"
-    },
-    {
-        "title": "Pesantren: Oase Kearifan di Tengah Padang Modernisme",
-        "category": "Kolom",
-        "publish_time": "31-10-2025 01:22",
-        "news_link": "https://analisis.republika.co.id/berita/t4z3a4451/pesantren-oase-kearifan-di-tengah-padang-modernisme"
-    },
-    {
-        "title": "MUI Inisiasi Dana Abadi Asia Pasifik untuk Rekonstruksi Gaza",
-        "category": "Khazanah",
-        "publish_time": "31-10-2025 01:22",
-        "news_link": "https://khazanah.republika.co.id/berita/t4z2za483/mui-inisiasi-dana-abadi-asia-pasifik-untuk-rekonstruksi-gaza"
-    },
-    {
-        "title": "Periksa Wakil Wali Kota Bandung, Penyidik Kejaksaan Akui Punya Barang Bukti Kuat",
-        "category": "News",
-        "publish_time": "31-10-2025 01:22",
-        "news_link": "https://news.republika.co.id/berita/t4z2pl377/periksa-wakil-wali-kota-bandung-penyidik-kejaksaan-akui-punya-barang-bukti-kuat"
-    },
-    {
-        "title": "Transformasi Kemenag Pasca-Pembentukan Kementerian Haji dan Umrah",
-        "category": "Kolom",
-        "publish_time": "31-10-2025 01:22",
-        "news_link": "https://analisis.republika.co.id/berita/t4z2ma451/transformasi-kemenag-pascapembentukan-kementerian-haji-dan-umrah"
-    },
-    {
-        "title": "Wujudkan Asta Cita, Kemenperin Luncurkan Strategi Baru Industrialisasi Nasional",
-        "category": "Network",
-        "publish_time": "31-10-2025 01:22",
-        "news_link": "https://bisnistime.com/posts/714986/wujudkan-asta-cita-kemenperin-luncurkan-strategi-baru-industrialisasi-nasional"
-    },
-    {
-        "title": "Personel Lanud Sulaiman Panen Ikan Lele 1,2 Ton, Hasil Budidaya 3 Bulan",
-        "category": "Network",
-        "publish_time": "31-10-2025 01:22",
-        "news_link": "https://magentatoday.id/posts/714889/personel-lanud-sulaiman-panen-ikan-lele-12-ton-hasil-budidaya-3-bulan"
-    },
-    {
-        "title": "Kemenag dan Kemenbud Gelar Santri Film Festival 2025, Ini Link Daftarnya",
-        "category": "Network",
-        "publish_time": "31-10-2025 01:22",
-        "news_link": "https://magentatoday.id/posts/714876/kemenag-dan-kemenbud-gelar-santri-film-festival-2025-ini-link-daftarnya"
     }
 ]
