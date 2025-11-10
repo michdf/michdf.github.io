@@ -1,92 +1,224 @@
 [
     {
+        "title": "Ramaikan Final Basket DBL, Lima Tim Dance Sekolah Terbaik Jakarta akan Tampil di Indonesia Arena",
+        "category": "News",
+        "publish_time": "10-11-2025 04:20",
+        "news_link": "https://news.republika.co.id/berita/t5hter348/ramaikan-final-basket-dbl-lima-tim-dance-sekolah-terbaik-jakarta-akan-tampil-di-indonesia-arena"
+    },
+    {
+        "title": "Taylor Swift Lagi Terobsesi Sama Sourdough, Roti yang Bisa Turunkan Kolesterol",
+        "category": "Ameera",
+        "publish_time": "10-11-2025 04:18",
+        "news_link": "https://ameera.republika.co.id/berita/t5htbm425/taylor-swift-lagi-terobsesi-sama-sourdough-roti-yang-bisa-turunkan-kolesterol"
+    },
+    {
+        "title": "Dukung Logistik Industri Migas, Bea Cukai Terbitkan Izin Fasilitas PLB kepada PT Eka Nuri",
+        "category": "Beacukai",
+        "publish_time": "10-11-2025 04:07",
+        "news_link": "https://republika.co.id/berita//t5hss6368/dukung-logistik-industri-migas-bea-cukai-terbitkan-izin-fasilitas-plb-kepada-pt-eka-nuri"
+    },
+    {
+        "title": "Tekan Angka Osteoporosis, Perosi Gaungkan Menabung Tulang",
+        "category": "Video",
+        "publish_time": "10-11-2025 03:59",
+        "news_link": "https://tv.republika.co.id/berita/t5hsfi418/tekan-angka-osteoporosis-perosi-gaungkan-menabung-tulang"
+    },
+    {
+        "title": "KIK EBA Syariah Pertama Indonesia Resmi Tercatat di Bursa",
+        "category": "Ekonomi Syariah",
+        "publish_time": "10-11-2025 03:59",
+        "news_link": "https://sharia.republika.co.id/berita/t5hsf1416/kik-eba-syariah-pertama-indonesia-resmi-tercatat-di-bursa"
+    },
+    {
+        "title": "Respons Wali Kota Bandung Soal Aksi Getok Parkir di Wisuda Unpad Ngaku Sudah Ditangani",
+        "category": "Rejabar",
+        "publish_time": "10-11-2025 03:58",
+        "news_link": "https://rejabar.republika.co.id/berita/t5hseg512/respons-wali-kota-bandung-soal-aksi-getok-parkir-di-wisuda-unpad-ngaku-sudah-ditangani"
+    },
+    {
+        "title": "Mentan Amran: Pejuang Pertanian adalah Pahlawan Masa Kini",
+        "category": "News",
+        "publish_time": "10-11-2025 03:57",
+        "news_link": "https://news.republika.co.id/berita/t5hsbx318/mentan-amran-pejuang-pertanian-adalah-pahlawan-masa-kini"
+    },
+    {
+        "title": "Titiek Soeharto dan Didit Prabowo Hadir saat Penganugerahan Pahlawan Nasional",
+        "category": "News",
+        "publish_time": "10-11-2025 03:52",
+        "news_link": "https://news.republika.co.id/berita/t5hs34484/titiek-soeharto-dan-didit-prabowo-hadir-saat-penganugerahan-pahlawan-nasional"
+    },
+    {
+        "title": "Titiek Soeharto dan Didit Prabowo Hadir saat Penganugerahan Pahlawan Nasional",
+        "category": "News",
+        "publish_time": "10-11-2025 03:52",
+        "news_link": "https://news.republika.co.id/berita/t5hs33484/titiek-soeharto-dan-didit-prabowo-hadir-saat-penganugerahan-pahlawan-nasional"
+    },
+    {
+        "title": "BI Buka Suara Soal Redenominasi Rupiah: Proses Direncanakan Matang",
+        "category": "Ekonomi",
+        "publish_time": "10-11-2025 03:51",
+        "news_link": "https://ekonomi.republika.co.id/berita/t5hs2k370/bi-buka-suara-soal-redenominasi-rupiah-proses-direncanakan-matang"
+    },
+    {
+        "title": "Jadi Pahlawan Nasional, ini Ayat Alquran yang Ditulis Syaikhona Kholil Dukung Perjuangan Ulama",
+        "category": "Iqra",
+        "publish_time": "10-11-2025 03:50",
+        "news_link": "https://iqra.republika.co.id/berita/t5hs0f451/jadi-pahlawan-nasional-ini-ayat-alquran-yang-ditulis-syaikhona-kholil-dukung-perjuangan-ulama"
+    },
+    {
+        "title": "West Java Festival 2025 yang Memukau Jeje dan Ngatiyana",
+        "category": "Rejabar",
+        "publish_time": "10-11-2025 03:49",
+        "news_link": "https://rejabar.republika.co.id/berita/t5hry4512/west-java-festival-2025-yang-memukau-jeje-dan-ngatiyana"
+    },
+    {
+        "title": "Kemenhaj Bentuk Satgas Haji 2026 di Jeddah untuk Perkuat Koordinasi",
+        "category": "Khazanah",
+        "publish_time": "10-11-2025 03:48",
+        "news_link": "https://khazanah.republika.co.id/berita/t5hrxs366/kemenhaj-bentuk-satgas-haji-2026-di-jeddah-untuk-perkuat-koordinasi"
+    },
+    {
+        "title": "Soeharto Resmi Pahlawan, Prabowo Serahkan Gelar ke Tutut",
+        "category": "News",
+        "publish_time": "10-11-2025 03:47",
+        "news_link": "https://news.republika.co.id/berita/t5hrvo487/soeharto-resmi-pahlawan-prabowo-serahkan-gelar-ke-tutut"
+    },
+    {
+        "title": "Ini 7 Golongan yang Dinaungi di Padang Mahsyar",
+        "category": "Khazanah",
+        "publish_time": "10-11-2025 03:46",
+        "news_link": "https://khazanah.republika.co.id/berita/t5hrnv458/ini-7-golongan-yang-dinaungi-di-padang-mahsyar"
+    },
+    {
+        "title": "Bung Kus Harapkan Pemain Timnas U-17 tak Terbebani Menang Besar Atas Honduras Agar Lolos",
+        "category": "News",
+        "publish_time": "10-11-2025 03:40",
+        "news_link": "https://news.republika.co.id/berita/t5hrjw348/bung-kus-harapkan-pemain-timnas-u17-tak-terbebani-menang-besar-atas-honduras-agar-lolos"
+    },
+    {
+        "title": "Lima Kategori Kaum Zindik",
+        "category": "Khazanah",
+        "publish_time": "10-11-2025 03:39",
+        "news_link": "https://khazanah.republika.co.id/berita/t5hr4s458/lima-kategori-kaum-zindik"
+    },
+    {
+        "title": "Siapakah Kaum Zindik?",
+        "category": "Khazanah",
+        "publish_time": "10-11-2025 03:29",
+        "news_link": "https://khazanah.republika.co.id/berita/t5hqnn458/siapakah-kaum-zindik"
+    },
+    {
+        "title": "Grup K-Pop Ateez Siap Guncang Indonesia dalam Tur Dunia 2026",
+        "category": "Ameera",
+        "publish_time": "10-11-2025 03:26",
+        "news_link": "https://ameera.republika.co.id/berita/t5hqvx425/grup-kpop-ateez-siap-guncang-indonesia-dalam-tur-dunia-2026"
+    },
+    {
+        "title": "AHY dan Keluarga Wakili Jenderal Sarwo Edhie Wibowo Terima Gelar Pahlawan Nasional",
+        "category": "News",
+        "publish_time": "10-11-2025 03:24",
+        "news_link": "https://news.republika.co.id/berita/t5hqtk451/ahy-dan-keluarga-wakili-jenderal-sarwo-edhie-wibowo-terima-gelar-pahlawan-nasional"
+    },
+    {
+        "title": "Lazismu Gelar Rakernas 2026, Kuatkan Inovasi Sosial Terintegrasi Demi Dampak Berkelanjutan",
+        "category": "Khazanah",
+        "publish_time": "10-11-2025 03:22",
+        "news_link": "https://khazanah.republika.co.id/berita/t5hqgl368/lazismu-gelar-rakernas-2026-kuatkan-inovasi-sosial-terintegrasi-demi-dampak-berkelanjutan"
+    },
+    {
+        "title": "Marsinah, Sang Martir Pergerakan Buruh Indonesia",
+        "category": "News",
+        "publish_time": "10-11-2025 03:22",
+        "news_link": "https://news.republika.co.id/berita/t5hqf3458/marsinah-sang-martir-pergerakan-buruh-indonesia"
+    },
+    {
         "title": "Mengapa Syaikhona Kholil Akhirnya Dinobatkan Jadi Pahlawan? Begini Penjelasannya",
         "category": "Khazanah",
-        "publish_time": "10-11-2025 03:11",
+        "publish_time": "10-11-2025 03:22",
         "news_link": "https://khazanah.republika.co.id/berita/t5hq74451/mengapa-syaikhona-kholil-akhirnya-dinobatkan-jadi-pahlawan-begini-penjelasannya"
     },
     {
-        "title": "Penyidik Panggil Roy Suryo dkk dalam Status Tersangka Perkara Ijazah Jokowi Pekan Ini",
+        "title": "Penyidik Panggil Roy Suryo Dkk dalam Status Tersangka Perkara Ijazah Jokowi Pekan Ini",
         "category": "News",
-        "publish_time": "10-11-2025 03:06",
+        "publish_time": "10-11-2025 03:22",
         "news_link": "https://news.republika.co.id/berita/t5hpzu377/penyidik-panggil-roy-suryo-dkk-dalam-status-tersangka-perkara-ijazah-jokowi-pekan-ini"
     },
     {
         "title": "Mbak Tutut dan Bambang Wakili Soeharto Terima Anugerah Pahlawan Nasional 2025",
         "category": "News",
-        "publish_time": "10-11-2025 03:04",
+        "publish_time": "10-11-2025 03:22",
         "news_link": "https://news.republika.co.id/berita/t5hpvw484/mbak-tutut-dan-bambang-wakili-soeharto-terima-anugerah-pahlawan-nasional-2025"
     },
     {
         "title": "Usai Blue Energy dan Nikuba, Muncul Lagi Bobibos, BBM Ajaib Buatan Anak Bangsa",
         "category": "Ekonomi",
-        "publish_time": "10-11-2025 03:01",
+        "publish_time": "10-11-2025 03:22",
         "news_link": "https://ekonomi.republika.co.id/berita/t5hpqj370/usai-blue-energy-dan-nikuba-muncul-lagi-bobibos-bbm-ajaib-buatan-anak-bangsa"
     },
     {
-        "title": "Psikolog: Gen Z Mungkin Jarang Minum Alkohol, Tapi Risiko Narkoba Mengintai",
+        "title": "Psikolog: Gen Z Mungkin Jarang Minum Alkohol, tapi Risiko Narkoba Mengintai",
         "category": "Ameera",
-        "publish_time": "10-11-2025 02:59",
+        "publish_time": "10-11-2025 03:22",
         "news_link": "https://ameera.republika.co.id/berita/t5hpog425/psikolog-gen-z-mungkin-jarang-minum-alkohol-tapi-risiko-narkoba-mengintai"
     },
     {
         "title": "Ubaya Sandingkan Dua Mahkota di LIMA Basketball Surabaya, UM Kembali dari Divisi 2",
         "category": "News",
-        "publish_time": "10-11-2025 02:57",
+        "publish_time": "10-11-2025 03:22",
         "news_link": "https://news.republika.co.id/berita/t5hpl7348/ubaya-sandingkan-dua-mahkota-di-lima-basketball-surabaya-um-kembali-dari-divisi-2"
     },
     {
         "title": "Berapa Lama Manusia Menunggu di Padang Mahsyar?",
         "category": "Khazanah",
-        "publish_time": "10-11-2025 02:56",
+        "publish_time": "10-11-2025 03:22",
         "news_link": "https://khazanah.republika.co.id/berita/t5hpjm458/berapa-lama-manusia-menunggu-di-padang-mahsyar"
     },
     {
         "title": "Dua Mahasiswa yang Terlempar dari Perahu Karet Saat Rafting di Indramayu Ditemukan Tewas",
         "category": "News",
-        "publish_time": "10-11-2025 02:56",
+        "publish_time": "10-11-2025 03:22",
         "news_link": "https://news.republika.co.id/berita/t5hpih377/dua-mahasiswa-yang-terlempar-dari-perahu-karet-saat-rafting-di-indramayu-ditemukan-tewas"
     },
     {
         "title": "Harga Emas Antam Bergerak Naik, Kini Rp2.307.000 per Gram",
         "category": "Ekonomi",
-        "publish_time": "10-11-2025 02:48",
+        "publish_time": "10-11-2025 02:22",
         "news_link": "https://ekonomi.republika.co.id/berita/t5hp60490/harga-emas-antam-bergerak-naik-kini-rp2307000-per-gram"
     },
     {
         "title": "Berikut Daftar 10 Pahlawan Nasional 2025: Dari Soeharto Hingga Sarwo Edhie Wibowo",
         "category": "News",
-        "publish_time": "10-11-2025 02:46",
+        "publish_time": "10-11-2025 02:22",
         "news_link": "https://news.republika.co.id/berita/t5hp2t484/berikut-daftar-10-pahlawan-nasional-2025-dari-soeharto-hingga-sarwo-edhie-wibowo"
     },
     {
         "title": "Indonesia Targetkan Transaksi Rp16 Triliun dari Perdagangan Karbon di COP30",
         "category": "Esgnow",
-        "publish_time": "10-11-2025 02:45",
+        "publish_time": "10-11-2025 02:22",
         "news_link": "https://esgnow.republika.co.id/berita/t5hozs370/indonesia-targetkan-transaksi-rp16-triliun-dari-perdagangan-karbon-di-cop30"
     },
     {
         "title": "Buya Anwar: Pendirian Peternakan Ayam untuk MBG Diharap Libatkan UMKM",
         "category": "Khazanah",
-        "publish_time": "10-11-2025 02:36",
+        "publish_time": "10-11-2025 02:22",
         "news_link": "https://khazanah.republika.co.id/berita/t5holg458/buya-anwar-pendirian-peternakan-ayam-untuk-mbg-diharap-libatkan-umkm"
     },
     {
         "title": "Soal Gelar Pahlawan untuk Soeharto dan Gus Dur, Begini Pandangan Muhammadiyah dan NU",
         "category": "Khazanah",
-        "publish_time": "10-11-2025 02:29",
+        "publish_time": "10-11-2025 02:22",
         "news_link": "https://khazanah.republika.co.id/berita/t5hnp7366/soal-gelar-pahlawan-untuk-soeharto-dan-gus-dur-begini-pandangan-muhammadiyah-dan-nu"
     },
     {
         "title": "Akhirnya Syaikhona Kholil Bangkalan Jadi Pahlawan Nasional, Ini Profilnya",
         "category": "Khazanah",
-        "publish_time": "10-11-2025 02:28",
+        "publish_time": "10-11-2025 02:22",
         "news_link": "https://khazanah.republika.co.id/berita/t5ho7k451/akhirnya-syaikhona-kholil-bangkalan-jadi-pahlawan-nasional-ini-profilnya"
     },
     {
         "title": "Arne Slot Minta Penggawa Liverpool Fokus pada Hasil, Bukan Perburuan Gelar Juara",
         "category": "News",
-        "publish_time": "10-11-2025 02:27",
+        "publish_time": "10-11-2025 02:22",
         "news_link": "https://news.republika.co.id/berita/t5ho61348/arne-slot-minta-penggawa-liverpool-fokus-pada-hasil-bukan-perburuan-gelar-juara"
     },
     {
@@ -104,199 +236,67 @@
     {
         "title": "Tim Psikologi Kepolisian Datangi SMAN 72 Jakarta",
         "category": "Video",
-        "publish_time": "10-11-2025 02:14",
+        "publish_time": "10-11-2025 02:22",
         "news_link": "https://tv.republika.co.id/berita/t5hnjw313/tim-psikologi-kepolisian-datangi-sman-72-jakarta"
     },
     {
         "title": "China Hentikan Pembebasan Pajak Pembelian EV, Ini yang Dilakukan Konsumen",
         "category": "Network",
-        "publish_time": "10-11-2025 02:14",
+        "publish_time": "10-11-2025 02:22",
         "news_link": "https://mobillistriknews.com/posts/717287/china-hentikan-pembebasan-pajak-pembelian-ev-ini-yang-dilakukan-konsumen"
     },
     {
         "title": "Turki Berdiplomasi Sejuk Damaikan Pakistan-Afghanistan Setelah Berhasil Pertemukan Ukraina-Rusia",
         "category": "News",
-        "publish_time": "10-11-2025 02:14",
+        "publish_time": "10-11-2025 02:22",
         "news_link": "https://news.republika.co.id/berita/t5hmye451/turki-berdiplomasi-sejuk-damaikan-pakistanafghanistan-setelah-berhasil-pertemukan-ukrainarusia"
     },
     {
         "title": "Presiden Xi Jinping Resmikan Fujian, Kapal Induk Ketiga China",
         "category": "Network",
-        "publish_time": "10-11-2025 02:14",
+        "publish_time": "10-11-2025 02:22",
         "news_link": "https://seputarmiliter.id/posts/717257/presiden-xi-jinping-resmikan-fujian-kapal-induk-ketiga-china"
     },
     {
         "title": "Pendidikan Berkelas di SD Maluku Tengah",
         "category": "Network",
-        "publish_time": "10-11-2025 02:14",
+        "publish_time": "10-11-2025 02:22",
         "news_link": "https://kampusiana.id/posts/717309/pendidikan-berkelas-di-sd-maluku-tengah"
     },
     {
         "title": "Catatan Cak AT: Dua Wajah Sherly",
         "category": "Network",
-        "publish_time": "10-11-2025 02:14",
+        "publish_time": "10-11-2025 02:22",
         "news_link": "https://ruzkaindonesia.id/posts/717317/catatan-cak-at-dua-wajah-sherly"
     },
     {
         "title": "Temu Ilmiah di Unisba Bahas Peran Psikologi Forensik dalam Sistem Hukum Nasional",
         "category": "Rejabar",
-        "publish_time": "10-11-2025 02:14",
+        "publish_time": "10-11-2025 01:22",
         "news_link": "https://rejabar.republika.co.id/berita/t5hmgw512/temu-ilmiah-di-unisba-bahas-peran-psikologi-forensik-dalam-sistem-hukum-nasional"
     },
     {
         "title": "Nova Arianto Bersyukur Didukung Suporter, Tak Ingin Pemain Terbebani",
         "category": "Network",
-        "publish_time": "10-11-2025 02:14",
+        "publish_time": "10-11-2025 01:22",
         "news_link": "https://skor.republika.co.id/posts/717336/nova-arianto-bersyukur-didukung-suporter-tak-ingin-pemain-terbebani"
     },
     {
         "title": "Aktor Timothee Chalamet Masuk Nominasi Grammy Awards",
         "category": "Ameera",
-        "publish_time": "10-11-2025 01:14",
+        "publish_time": "10-11-2025 01:22",
         "news_link": "https://ameera.republika.co.id/berita/t5hlzh425/aktor-timothee-chalamet-masuk-nominasi-grammy-awards"
     },
     {
         "title": "Polisi Kembali Tangkap Pelaku Penembakan Hansip Hingga Tewas di Cakung",
         "category": "News",
-        "publish_time": "10-11-2025 01:14",
+        "publish_time": "10-11-2025 01:22",
         "news_link": "https://news.republika.co.id/berita/t5hlpo487/polisi-kembali-tangkap-pelaku-penembakan-hansip-hingga-tewas-di-cakung"
     },
     {
         "title": "Setelah Lama Anomali, Harga Emas Pegadaian Kompak Stabil",
         "category": "Ekonomi",
-        "publish_time": "10-11-2025 01:14",
+        "publish_time": "10-11-2025 01:22",
         "news_link": "https://ekonomi.republika.co.id/berita/t5hlph370/setelah-lama-anomali-harga-emas-pegadaian-kompak-stabil"
-    },
-    {
-        "title": "Viral Penceramah Kaitkan Rokok dengan Tauhid, Ketua MUI: Ini yang Bikin Rusak",
-        "category": "Khazanah",
-        "publish_time": "10-11-2025 01:14",
-        "news_link": "https://khazanah.republika.co.id/berita/t5hlll366/viral-penceramah-kaitkan-rokok-dengan-tauhid-ketua-mui-ini-yang-bikin-rusak"
-    },
-    {
-        "title": "Ribuan Emak-emak Gelar Istigosah di Bandung Doakan Pembangunan di Jabar Lancar",
-        "category": "Rejabar",
-        "publish_time": "10-11-2025 01:14",
-        "news_link": "https://rejabar.republika.co.id/berita/t5hlkq512/ribuan-emakemak-gelar-istigosah-di-bandung-doakan-pembangunan-di-jabar-lancar"
-    },
-    {
-        "title": "Dua Mahasiswa Hilang Saat Rafting Ditemukan Meninggal Dunia",
-        "category": "Video",
-        "publish_time": "10-11-2025 01:14",
-        "news_link": "https://tv.republika.co.id/berita/t5hlba313/dua-mahasiswa-hilang-saat-rafting-ditemukan-meninggal-dunia"
-    },
-    {
-        "title": "Living ICH Forum 2025: Wayang Jadi Pilar Ketahanan Budaya Inklusif",
-        "category": "News",
-        "publish_time": "10-11-2025 01:14",
-        "news_link": "https://news.republika.co.id/berita/t5hl26484/living-ich-forum-2025-wayang-jadi-pilar-ketahanan-budaya-inklusif"
-    },
-    {
-        "title": "Pesan Penting Dedi Mulyadi Dibalik Meriahnya West Java Festival 2025",
-        "category": "Rejabar",
-        "publish_time": "10-11-2025 01:14",
-        "news_link": "https://rejabar.republika.co.id/berita/t5hl1c512/pesan-penting-dedi-mulyadi-dibalik-meriahnya-west-java-festival-2025"
-    },
-    {
-        "title": "Timnas Indonesia U-17 Bersiap Jalani Laga Terakhir Lawan Honduras",
-        "category": "Visual",
-        "publish_time": "10-11-2025 01:14",
-        "news_link": "https://visual.republika.co.id/berita/t5hhyc375/timnas-indonesia-u17-bersiap-jalani-laga-terakhir-lawan-honduras"
-    },
-    {
-        "title": "Jenazah Dua Mahasiswa Tenggelam di Sungai Cimanuk Berhasil Ditemukan",
-        "category": "Rejabar",
-        "publish_time": "10-11-2025 01:14",
-        "news_link": "https://rejabar.republika.co.id/berita/t5hk8k512/jenazah-dua-mahasiswa-tenggelam-di-sungai-cimanuk-berhasil-ditemukan"
-    },
-    {
-        "title": "Guardiola Rayakan 1.000 Laga Sebagai Pelatih dalam Kemenangan City, Tanda Era Kejayaan Belum Usai",
-        "category": "News",
-        "publish_time": "10-11-2025 01:14",
-        "news_link": "https://news.republika.co.id/berita/t5hk0h348/guardiola-rayakan-1000-laga-sebagai-pelatih-dalam-kemenangan-city-tanda-era-kejayaan-belum-usai"
-    },
-    {
-        "title": "Menpora Ingin Ada Konsolidasi Event Olahraga",
-        "category": "Video",
-        "publish_time": "10-11-2025 01:14",
-        "news_link": "https://tv.republika.co.id/berita/t5hjox313/menpora-ingin-ada-konsolidasi-event-olahraga"
-    },
-    {
-        "title": "Tak Remehkan Honduras, Nova Arianto Ingin Timnas U-17 Indonesia Tampil Maksimal",
-        "category": "Network",
-        "publish_time": "10-11-2025 00:14",
-        "news_link": "https://skor.republika.co.id/posts/717324/tak-remehkan-honduras-nova-arianto-ingin-timnas-u-17-indonesia-tampil-maksimal"
-    },
-    {
-        "title": "Bank Jatim Dorong Instrumen CWLD Perkuat Akses Keuangan Syariah",
-        "category": "Ekonomi Syariah",
-        "publish_time": "10-11-2025 00:14",
-        "news_link": "https://sharia.republika.co.id/berita/t5hget490/bank-jatim-dorong-instrumen-cwld-perkuat-akses-keuangan-syariah"
-    },
-    {
-        "title": "Vivo Hampir Sepakat Beli 100 Ribu Barel BBM dari Pertamina",
-        "category": "Ekonomi",
-        "publish_time": "10-11-2025 00:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/t5hia1370/vivo-hampir-sepakat-beli-100-ribu-barel-bbm-dari-pertamina"
-    },
-    {
-        "title": "Kemenhut dan ICVCM Sepakat Bentuk Pasar Karbon, Ini Tujuannya",
-        "category": "Esgnow",
-        "publish_time": "10-11-2025 00:14",
-        "news_link": "https://esgnow.republika.co.id/berita/t5hi6d490/kemenhut-dan-icvcm-sepakat-bentuk-pasar-karbon-ini-tujuannya"
-    },
-    {
-        "title": "Kapal Induk China Beroperasi, Amerika 'Iri', Rusia Mengapresiasi",
-        "category": "News",
-        "publish_time": "10-11-2025 00:14",
-        "news_link": "https://news.republika.co.id/berita/t5hi13451/kapal-induk-china-beroperasi-amerika-iri-rusia-mengapresiasi"
-    },
-    {
-        "title": "China Pernah Jamin Kereta Cepat Whoosh Bakal Cetak Untung Setelah 5 Tahun",
-        "category": "Ekonomi",
-        "publish_time": "10-11-2025 00:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/t5hhvm490/china-pernah-jamin-kereta-cepat-whoosh-bakal-cetak-untung-setelah-5-tahun"
-    },
-    {
-        "title": "Presiden Prabowo Pimpin Upacara Ziarah Nasional dan Renungan Suci Hari Pahlawan",
-        "category": "Visual",
-        "publish_time": "10-11-2025 00:14",
-        "news_link": "https://visual.republika.co.id/berita/t5hhu6375/presiden-prabowo-pimpin-upacara-ziarah-nasional-dan-renungan-suci-hari-pahlawan"
-    },
-    {
-        "title": "Patrice Evra Meriahkan Liga Kita Festival Usai Gelar Coaching Clinic di Jakarta",
-        "category": "Network",
-        "publish_time": "10-11-2025 00:14",
-        "news_link": "https://skor.republika.co.id/posts/717320/patrice-evra-meriahkan-liga-kita-festival-usai-gelar-coaching-clinic-di-jakarta"
-    },
-    {
-        "title": "Menpora Erick Tutup Popnas dan Peparpenas 2025, Puji Semangat Atlet Muda Indonesia",
-        "category": "News",
-        "publish_time": "10-11-2025 00:14",
-        "news_link": "https://news.republika.co.id/berita/t5hhd0348/menpora-erick-tutup-popnas-dan-peparpenas-2025-puji-semangat-atlet-muda-indonesia"
-    },
-    {
-        "title": "Hasil Pekan 11 La Liga 2025-2026, Barcelona Perpendek Jarak dengan Real Madrid",
-        "category": "Network",
-        "publish_time": "10-11-2025 00:14",
-        "news_link": "https://skor.republika.co.id/posts/717318/hasil-pekan-11-la-liga-2025-2026-barcelona-perpendek-jarak-dengan-real-madrid"
-    },
-    {
-        "title": "TNI AL, Geopolitik, dan Falsafah Cinta Damai Namun Lebih Mencintai Kemerdekaan",
-        "category": "Kolom",
-        "publish_time": "09-11-2025 23:14",
-        "news_link": "https://analisis.republika.co.id/berita/t5he5s484/tni-al-geopolitik-dan-falsafah-cinta-damai-namun-lebih-mencintai-kemerdekaan"
-    },
-    {
-        "title": "Hat-trick Lewandowski Bawa Barcelona Mendekat ke Puncak Klasemen Liga Spanyol",
-        "category": "News",
-        "publish_time": "09-11-2025 23:14",
-        "news_link": "https://news.republika.co.id/berita/t5hgd4348/hattrick-lewandowski-bawa-barcelona-mendekat-ke-puncak-klasemen-liga-spanyol"
-    },
-    {
-        "title": "Pemprov Evaluasi Standar Keamanan di Sekolah Usai Insiden SMAN 72",
-        "category": "News",
-        "publish_time": "09-11-2025 23:14",
-        "news_link": "https://news.republika.co.id/berita/t5hga2487/pemprov-evaluasi-standar-keamanan-di-sekolah-usai-insiden-sman-72"
     }
 ]
