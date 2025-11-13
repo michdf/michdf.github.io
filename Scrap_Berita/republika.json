@@ -1,86 +1,182 @@
 [
     {
+        "title": "Cara Mendekatkan Diri ke Allah",
+        "category": "Khazanah",
+        "publish_time": "13-11-2025 15:13",
+        "news_link": "https://khazanah.republika.co.id/berita/t5o7lr430/cara-mendekatkan-diri-ke-allah"
+    },
+    {
+        "title": "Effendi Gazali Sebut Timur Kapadze 'Dizalimi' Uzbekistan, Akan Jadi Pelatih Timnas Indonesia?",
+        "category": "News",
+        "publish_time": "13-11-2025 15:13",
+        "news_link": "https://news.republika.co.id/berita/t5o7lc409/effendi-gazali-sebut-timur-kapadze-dizalimi-uzbekistan-akan-jadi-pelatih-timnas-indonesia"
+    },
+    {
+        "title": "Persoalan Sampah Kian Mendesak",
+        "category": "Esgnow",
+        "publish_time": "13-11-2025 15:09",
+        "news_link": "https://esgnow.republika.co.id/berita/t5o7ft416/persoalan-sampah-kian-mendesak"
+    },
+    {
+        "title": "Saudi Selesaikan Kontrak Satu Juta Lebih Jamaah Haji",
+        "category": "Khazanah",
+        "publish_time": "13-11-2025 15:06",
+        "news_link": "https://khazanah.republika.co.id/berita/t5o7a0430/saudi-selesaikan-kontrak-satu-juta-lebih-jamaah-haji"
+    },
+    {
+        "title": "Dana Nasabah Hilang Viral, BRI Cepat Ganti Ratusan Juta yang Raib",
+        "category": "Ekonomi",
+        "publish_time": "13-11-2025 15:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/t5o5fr423/dana-nasabah-hilang-viral-bri-cepat-ganti-ratusan-juta-yang-raib"
+    },
+    {
+        "title": "4 WNA China Jadi Spesialis Pembobol Brankas di Semarang, Kerugian Miliaran Rupiah",
+        "category": "Rejogja",
+        "publish_time": "13-11-2025 15:03",
+        "news_link": "https://rejogja.republika.co.id/berita/t5o74n282/4-wna-china-jadi-spesialis-pembobol-brankas-di-semarang-kerugian-miliaran-rupiah"
+    },
+    {
+        "title": "Bendera Soeharto Bukan Pahlawan Berkibar di Depan Istana Merdeka",
+        "category": "Visual",
+        "publish_time": "13-11-2025 15:00",
+        "news_link": "https://visual.republika.co.id/berita/t5o439375/bendera-soeharto-bukan-pahlawan-berkibar-di-depan-istana-merdeka"
+    },
+    {
+        "title": "Biro Umroh Indonesia Mulai Lirik Wisata Domestik Saudi sebagai Daya Tarik Baru",
+        "category": "Ameera",
+        "publish_time": "13-11-2025 14:59",
+        "news_link": "https://ameera.republika.co.id/berita/t5o6zf328/biro-umroh-indonesia-mulai-lirik-wisata-domestik-saudi-sebagai-daya-tarik-baru"
+    },
+    {
+        "title": "Roy Suryo tak Banyak Bicara Usai Diperiksa di Polda Metro Jaya",
+        "category": "News",
+        "publish_time": "13-11-2025 14:55",
+        "news_link": "https://news.republika.co.id/berita/t5o6se409/roy-suryo-tak-banyak-bicara-usai-diperiksa-di-polda-metro-jaya"
+    },
+    {
+        "title": "Di Forum COP30, APP Group Dorong Kolaborasi untuk Restorasi Lanskap",
+        "category": "Esgnow",
+        "publish_time": "13-11-2025 14:40",
+        "news_link": "https://esgnow.republika.co.id/berita/t5o63s416/di-forum-cop30-app-group-dorong-kolaborasi-untuk-restorasi-lanskap"
+    },
+    {
+        "title": "Ekonom: Redenominasi Rupiah Perlu Dijalankan dengan Persiapan Matang",
+        "category": "Ekonomi",
+        "publish_time": "13-11-2025 14:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/t5o597423/ekonom-redenominasi-rupiah-perlu-dijalankan-dengan-persiapan-matang"
+    },
+    {
+        "title": "Ngonten Mesra Sama Anak SMP Termasuk Child Grooming? Ini Kata Psikolog",
+        "category": "Ameera",
+        "publish_time": "13-11-2025 14:35",
+        "news_link": "https://ameera.republika.co.id/berita/t5o5vk425/ngonten-mesra-sama-anak-smp-termasuk-child-grooming-ini-kata-psikolog"
+    },
+    {
+        "title": "Pengamat: MBG Bisa Jadi Penggerak Ekonomi Lokal Tapi Juga Berpotensi Timbulkan Beban Fiskal",
+        "category": "Rejogja",
+        "publish_time": "13-11-2025 14:27",
+        "news_link": "https://rejogja.republika.co.id/berita/t5o2xh291/pengamat-mbg-bisa-jadi-penggerak-ekonomi-lokal-tapi-juga-berpotensi-timbulkan-beban-fiskal"
+    },
+    {
+        "title": "Menperin Ungkap Mobil Nasional Mulai Diproduksi Tahun 2027 oleh PT Pindad",
+        "category": "Ekonomi",
+        "publish_time": "13-11-2025 14:26",
+        "news_link": "https://ekonomi.republika.co.id/berita/t5o5gj348/menperin-ungkap-mobil-nasional-mulai-diproduksi-tahun-2027-oleh-pt-pindad"
+    },
+    {
+        "title": "ESDM akan Kurangi Produksi Batu Bara pada 2026 untuk Naikkan Harga",
+        "category": "Ekonomi",
+        "publish_time": "13-11-2025 14:17",
+        "news_link": "https://ekonomi.republika.co.id/berita/t5o504423/esdm-akan-kurangi-produksi-batu-bara-pada-2026-untuk-naikkan-harga"
+    },
+    {
+        "title": "Arab Saudi Targetkan Turis Indonesia, dari Umroh Lanjut Wisata ke Al Ula",
+        "category": "Ameera",
+        "publish_time": "13-11-2025 14:17",
+        "news_link": "https://ameera.republika.co.id/berita/t5o4zr328/arab-saudi-targetkan-turis-indonesia-dari-umroh-lanjut-wisata-ke-al-ula"
+    },
+    {
         "title": "BI Targetkan Surplus Anggaran Rp20,4 Triliun pada 2026",
         "category": "Ekonomi",
-        "publish_time": "13-11-2025 14:12",
+        "publish_time": "13-11-2025 14:17",
         "news_link": "https://ekonomi.republika.co.id/berita/t5o4tu423/bi-targetkan-surplus-anggaran-rp204-triliun-pada-2026"
     },
     {
         "title": "Panpel Euro 2028 Tegaskan tak akan Gunakan Sistem Harga Tiket Dinamis Seperti Piala Dunia 2026",
         "category": "News",
-        "publish_time": "13-11-2025 14:07",
+        "publish_time": "13-11-2025 14:17",
         "news_link": "https://news.republika.co.id/berita/t5o4lg348/panpel-euro-2028-tegaskan-tak-akan-gunakan-sistem-harga-tiket-dinamis-seperti-piala-dunia-2026"
     },
     {
         "title": "Tiga Cara Menata Isi Kulkas Agar Rapi dan Teratur",
         "category": "Ekonomi",
-        "publish_time": "13-11-2025 14:02",
+        "publish_time": "13-11-2025 14:17",
         "news_link": "https://ekonomi.republika.co.id/berita/t5o4da472/tiga-cara-menata-isi-kulkas-agar-rapi-dan-teratur"
     },
     {
         "title": "Danantara Pastikan tak Ada PHK Massal di Indofarma",
         "category": "Ekonomi",
-        "publish_time": "13-11-2025 14:00",
+        "publish_time": "13-11-2025 14:17",
         "news_link": "https://ekonomi.republika.co.id/berita/t5o49g423/danantara-pastikan-tak-ada-phk-massal-di-indofarma"
     },
     {
         "title": "Mendikdasmen Abdul Muti Minta Sekolah Siapkan Aturan Antar Jemput Anak",
         "category": "News",
-        "publish_time": "13-11-2025 13:59",
+        "publish_time": "13-11-2025 14:17",
         "news_link": "https://news.republika.co.id/berita/t5o48c377/mendikdasmen-abdul-muti-minta-sekolah-siapkan-aturan-antar-jemput-anak"
     },
     {
         "title": "Hati-hati, Produk Obat Kuat Ilegal Menjamur di Pasaran",
         "category": "Visual",
-        "publish_time": "13-11-2025 13:59",
+        "publish_time": "13-11-2025 14:17",
         "news_link": "https://visual.republika.co.id/berita/t5o2fb375/hatihati-produk-obat-kuat-ilegal-menjamur-di-pasaran"
     },
     {
         "title": "Rupiah Melemah, Imbas Disahkannya RUU Setop Shutdown Pemerintah AS",
         "category": "Ekonomi",
-        "publish_time": "13-11-2025 13:54",
+        "publish_time": "13-11-2025 14:17",
         "news_link": "https://ekonomi.republika.co.id/berita/t5o3yt423/rupiah-melemah-imbas-disahkannya-ruu-setop-shutdown-pemerintah-as"
     },
     {
         "title": "Truk Dalmas Angkut 140 Kotak Amunisi TNI Terguling, Ini Kronologinya",
         "category": "News",
-        "publish_time": "13-11-2025 13:44",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://news.republika.co.id/berita/t5o3j2377/truk-dalmas-angkut-140-kotak-amunisi-tni-terguling-ini-kronologinya"
     },
     {
         "title": "PSMS Curi Poin dengan 10 Pemain, Sumsel United vs Persikad Dijeda karena Cuaca Ekstrem",
         "category": "Network",
-        "publish_time": "13-11-2025 13:39",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://skor.republika.co.id/posts/718592/psms-curi-poin-dengan-10-pemain-sumsel-united-vs-persikad-dijeda-karena-cuaca-ekstrem"
     },
     {
         "title": "Begini Cara Nikita Mirzani Bisa Melakukan Siaran Live dari Balik Jeruji",
         "category": "News",
-        "publish_time": "13-11-2025 13:31",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://news.republika.co.id/berita/t5o2wy377/begini-cara-nikita-mirzani-bisa-melakukan-siaran-live-dari-balik-jeruji"
     },
     {
         "title": "Peternak Ikan Waduk Saguling dan Cirata Diminta Hentikan Budidaya, Ini Alasannya",
         "category": "Rejabar",
-        "publish_time": "13-11-2025 13:28",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://rejabar.republika.co.id/berita/t5o2sh512/peternak-ikan-waduk-saguling-dan-cirata-diminta-hentikan-budidaya-ini-alasannya"
     },
     {
         "title": "Danantara Pangkas Nilai Suntikan Modal untuk Garuda Indonesia",
         "category": "Ekonomi",
-        "publish_time": "13-11-2025 13:28",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://ekonomi.republika.co.id/berita/t5o2rm423/danantara-pangkas-nilai-suntikan-modal-untuk-garuda-indonesia"
     },
     {
         "title": "Gelar Workshop Fotografi Jurnalistik di UGM, LKBN Antara Komitmen Tingkatkan Kapasitas Generasi Muda",
         "category": "Rejogja",
-        "publish_time": "13-11-2025 13:25",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://rejogja.republika.co.id/berita/t5o2mw291/gelar-workshop-fotografi-jurnalistik-di-ugm-lkbn-antara-komitmen-tingkatkan-kapasitas-generasi-muda"
     },
     {
         "title": "Maksimalkan Serapan Dana Transfer dari Pusat, Dedi Mulyadi: Tinggal Sisa Rp 10 Miliar",
         "category": "Rejabar",
-        "publish_time": "13-11-2025 13:21",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://rejabar.republika.co.id/berita/t5o2fi512/maksimalkan-serapan-dana-transfer-dari-pusat-dedi-mulyadi-tinggal-sisa-rp-10-miliar"
     },
     {
@@ -92,211 +188,115 @@
     {
         "title": "Rais Aam PBNU: Kalau Satu Kabinet Diisi Santri Insya Allah Aman",
         "category": "Khazanah",
-        "publish_time": "13-11-2025 13:16",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://khazanah.republika.co.id/berita/t5o27y483/rais-aam-pbnu-kalau-satu-kabinet-diisi-santri-insya-allah-aman"
     },
     {
         "title": "Aksi Power Rangers Antarkan Paket MBG untuk Siswa SD di Kediri",
         "category": "Visual",
-        "publish_time": "13-11-2025 13:14",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://visual.republika.co.id/berita/t5o20b375/aksi-power-rangers-antarkan-paket-mbg-untuk-siswa-sd-di-kediri"
     },
     {
         "title": "Roy Suryo Dkk tak Ditahan Usai Diperiksa 9 Jam, Ini Pertimbangan Polisi",
         "category": "News",
-        "publish_time": "13-11-2025 13:14",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://news.republika.co.id/berita/t5o1xp409/roy-suryo-dkk-tak-ditahan-usai-diperiksa-9-jam-ini-pertimbangan-polisi"
     },
     {
         "title": "Sekjen Kemenag Minta Guru Agama Belajar dari Inggris, Jepang, dan Finlandia Supaya Kreatif",
         "category": "Khazanah",
-        "publish_time": "13-11-2025 13:14",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://khazanah.republika.co.id/berita/t5o1v8483/sekjen-kemenag-minta-guru-agama-belajar-dari-inggris-jepang-dan-finlandia-supaya-kreatif"
     },
     {
         "title": "Aparat Todongkan Senpi di Tebet, Kapolsek: Belum Ada Laporan Resmi",
         "category": "News",
-        "publish_time": "13-11-2025 13:14",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://news.republika.co.id/berita/t5o1sb484/aparat-todongkan-senpi-di-tebet-kapolsek-belum-ada-laporan-resmi"
     },
     {
         "title": "EWINDO, PERIPI, dan IPB Gelar Indonesian Breeder Award 2025",
         "category": "Ekonomi",
-        "publish_time": "13-11-2025 13:14",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://ekonomi.republika.co.id/berita/t5n4et451/ewindo-peripi-dan-ipb-gelar-indonesian-breeder-award-2025"
     },
     {
         "title": "Resmi, Kemenag Siap Bangun Pesantren Al-Khoziny Pakai APBN",
         "category": "Khazanah",
-        "publish_time": "13-11-2025 13:14",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://khazanah.republika.co.id/berita/t5o1ex483/resmi-kemenag-siap-bangun-pesantren-alkhoziny-pakai-apbn"
     },
     {
         "title": "Nova Arianto Dipromosikan Latih Timnas U-20, Erick Thohir Ingin Regenerasi Berlanjut",
         "category": "News",
-        "publish_time": "13-11-2025 13:14",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://news.republika.co.id/berita/t5o1cd348/nova-arianto-dipromosikan-latih-timnas-u20-erick-thohir-ingin-regenerasi-berlanjut"
     },
     {
         "title": "Pandji Mengaku Telah Berdialog dengan AMAN Soal Solusi Lawakan Terkait Toraja",
         "category": "News",
-        "publish_time": "13-11-2025 13:14",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://news.republika.co.id/berita/t5o1bb409/pandji-mengaku-telah-berdialog-dengan-aman-soal-solusi-lawakan-terkait-toraja"
     },
     {
         "title": "Kemenhub Buka Peluang Swasta Garap Skytrain Stasiun Harjamukti ke Mekarsari",
         "category": "News",
-        "publish_time": "13-11-2025 13:14",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://news.republika.co.id/berita/t5o15s484/kemenhub-buka-peluang-swasta-garap-skytrain-stasiun-harjamukti-ke-mekarsari"
     },
     {
         "title": "Puluhan Tahun Kayuh Becak, Daryanto Sumringah Dapat Becak Listrik Gratis dari Presiden Prabowo",
         "category": "Rejabar",
-        "publish_time": "13-11-2025 13:14",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://rejabar.republika.co.id/berita/t5o13i512/puluhan-tahun-kayuh-becak-daryanto-sumringah-dapat-becak-listrik-gratis-dari-presiden-prabowo"
     },
     {
         "title": "Tumpukan Sampah Menggunung di Sejumlah TPS di Bandung",
         "category": "Video",
-        "publish_time": "13-11-2025 13:14",
+        "publish_time": "13-11-2025 13:17",
         "news_link": "https://tv.republika.co.id/berita/t5o12i313/tumpukan-sampah-menggunung-di-sejumlah-tps-di-bandung"
     },
     {
         "title": "Unima Kembangkan Aplikasi Diary Online untuk Cegah Bullying di Sekolah",
         "category": "News",
-        "publish_time": "13-11-2025 13:14",
+        "publish_time": "13-11-2025 12:17",
         "news_link": "https://news.republika.co.id/berita/t5o0t1349/unima-kembangkan-aplikasi-diary-online-untuk-cegah-bullying-di-sekolah"
     },
     {
         "title": "Jepang Perkenalkan Makanan Halal bagi Wisatawan Indonesia",
         "category": "Ameera",
-        "publish_time": "13-11-2025 13:14",
+        "publish_time": "13-11-2025 12:17",
         "news_link": "https://ameera.republika.co.id/berita/t5o0st484/jepang-perkenalkan-makanan-halal-bagi-wisatawan-indonesia"
     },
     {
         "title": "Rentan Terhadap Iritasi, Pakar Kesehatan Ungkap Cara Jaga Keseimbangan pH Saat Menstruasi",
         "category": "Rejabar",
-        "publish_time": "13-11-2025 12:14",
+        "publish_time": "13-11-2025 12:17",
         "news_link": "https://rejabar.republika.co.id/berita/t5o0mf512/rentan-terhadap-iritasi-pakar-kesehatan-ungkap-cara-jaga-keseimbangan-ph-saat-menstruasi"
     },
     {
         "title": "Pemerintah Siapkan Dua Kebijakan Dongkrak Daya Beli Kelas Menengah",
         "category": "Ekonomi",
-        "publish_time": "13-11-2025 12:14",
+        "publish_time": "13-11-2025 12:17",
         "news_link": "https://ekonomi.republika.co.id/berita/t5o0aa416/pemerintah-siapkan-dua-kebijakan-dongkrak-daya-beli-kelas-menengah"
     },
     {
         "title": "Dirut Garuda: Tambahan Modal Percepat Transformasi",
         "category": "Ekonomi",
-        "publish_time": "13-11-2025 12:14",
+        "publish_time": "13-11-2025 12:17",
         "news_link": "https://ekonomi.republika.co.id/berita/t5nzy7416/dirut-garuda-tambahan-modal-percepat-transformasi"
     },
     {
         "title": "Soal Penetapan Tersangka Kasus Dugaan Korupsi di Pemkot Bandung, Ini Kata Kejari Bandung",
         "category": "Rejabar",
-        "publish_time": "13-11-2025 12:14",
+        "publish_time": "13-11-2025 12:17",
         "news_link": "https://rejabar.republika.co.id/berita/t5nzpo512/soal-penetapan-tersangka-kasus-dugaan-korupsi-di-pemkot-bandung-ini-kata-kejari-bandung"
     },
     {
         "title": "Krakatau Steel Minta Suntikan Dana Rp8,3 Triliun, Ini Respons Danantara",
         "category": "Ekonomi",
-        "publish_time": "13-11-2025 12:14",
+        "publish_time": "13-11-2025 12:17",
         "news_link": "https://ekonomi.republika.co.id/berita/t5nzlq416/krakatau-steel-minta-suntikan-dana-rp83-triliun-ini-respons-danantara"
-    },
-    {
-        "title": "Polisi Dilarang Rangkap Jabatan Sipil, Amnesty: Selaras dengan Amanat Reformasi",
-        "category": "News",
-        "publish_time": "13-11-2025 12:14",
-        "news_link": "https://news.republika.co.id/berita/t5nzkm377/polisi-dilarang-rangkap-jabatan-sipil-amnesty-selaras-dengan-amanat-reformasi"
-    },
-    {
-        "title": "Unpad Ubah Perpustakaan di Cianjur Jadi Tempat Biblioterapi untuk Obati Luka Psikologis Perempuan",
-        "category": "Rejabar",
-        "publish_time": "13-11-2025 12:14",
-        "news_link": "https://rejabar.republika.co.id/berita/t5nzep512/unpad-ubah-perpustakaan-di-cianjur-jadi-tempat-biblioterapi-untuk-obati-luka-psikologis-perempuan"
-    },
-    {
-        "title": "Tumpukan Sampah Menggunung di Sejumlah TPS Kota Bandung",
-        "category": "Visual",
-        "publish_time": "13-11-2025 12:14",
-        "news_link": "https://visual.republika.co.id/berita/t5nzat375/tumpukan-sampah-menggunung-di-sejumlah-tps-kota-bandung"
-    },
-    {
-        "title": "Dasco: DPR Segera Kaji Putusan MK Wajibkan Polisi Pensiun Jika Duduki Jabatan Sipil",
-        "category": "News",
-        "publish_time": "13-11-2025 12:14",
-        "news_link": "https://news.republika.co.id/berita/t5nz6v409/dasco-dpr-segera-kaji-putusan-mk-wajibkan-polisi-pensiun-jika-duduki-jabatan-sipil"
-    },
-    {
-        "title": "Pertamina Dorong UMKM Naik Kelas Lewat Kolaborasi dan Strategi Digital \u201cAffiliate Marketing\"",
-        "category": "Esgnow",
-        "publish_time": "13-11-2025 12:14",
-        "news_link": "https://esgnow.republika.co.id/berita/t5nyz3522/pertamina-dorong-umkm-naik-kelas-lewat-kolaborasi-dan-strategi-digital-affiliate-marketing"
-    },
-    {
-        "title": "Keroyok Polisi Pakai Pisau-Golok, Geng Motor di Bandung Barat: Panik Mau Kabur",
-        "category": "Rejabar",
-        "publish_time": "13-11-2025 12:14",
-        "news_link": "https://rejabar.republika.co.id/berita/t5nywu512/keroyok-polisi-pakai-pisaugolok-geng-motor-di-bandung-barat-panik-mau-kabur"
-    },
-    {
-        "title": "Yusril Respons Putusan MK: Larangan Polisi Aktif Duduki Jabatan Sipil Masukan untuk Komisi Reformasi",
-        "category": "News",
-        "publish_time": "13-11-2025 12:14",
-        "news_link": "https://news.republika.co.id/berita/t5nyse409/yusril-respons-putusan-mk-larangan-polisi-aktif-duduki-jabatan-sipil-masukan-untuk-komisi-reformasi"
-    },
-    {
-        "title": "Bungkus Kondom dan Miras Berserakan di Taman Jalan Daan Mogot, Saksi Ungkap Protistusi Kaum Gay",
-        "category": "News",
-        "publish_time": "13-11-2025 12:14",
-        "news_link": "https://news.republika.co.id/berita/t5nyqf377/bungkus-kondom-dan-miras-berserakan-di-taman-jalan-daan-mogot-saksi-ungkap-protistusi-kaum-gay"
-    },
-    {
-        "title": "Timnas U-17 Cetak Sejarah, Erick Thohir Minta tak Berpuas Diri",
-        "category": "News",
-        "publish_time": "13-11-2025 12:14",
-        "news_link": "https://news.republika.co.id/berita/t5nykf348/timnas-u17-cetak-sejarah-erick-thohir-minta-tak-berpuas-diri"
-    },
-    {
-        "title": "Hadirkan Persija Glory, Persma 1960 Resmi Launching Tim",
-        "category": "Network",
-        "publish_time": "13-11-2025 12:14",
-        "news_link": "https://skor.republika.co.id/posts/718557/hadirkan-persija-glory-persma-1960-resmi-launching-tim"
-    },
-    {
-        "title": "Bupati Kuningan Terima Aturan Pemerataan Baru Meski Kuota Haji Tahun Ini Dikurangi 596 Orang",
-        "category": "Khazanah",
-        "publish_time": "13-11-2025 12:14",
-        "news_link": "https://khazanah.republika.co.id/berita/t5ny2h483/bupati-kuningan-terima-aturan-pemerataan-baru-meski-kuota-haji-tahun-ini-dikurangi-596-orang"
-    },
-    {
-        "title": "MK Putuskan Polisi Aktif Pensiun Jika Duduki Jabatan Sipil, Polri: Kami Baru Dengar, Kita Pelajari",
-        "category": "News",
-        "publish_time": "13-11-2025 11:14",
-        "news_link": "https://news.republika.co.id/berita/t5nxrp377/mk-putuskan-polisi-aktif-pensiun-jika-duduki-jabatan-sipil-polri-kami-baru-dengar-kita-pelajari"
-    },
-    {
-        "title": "Pelaku Peledakan SMAN 72 Jakarta Sudah Sadar, Begini Kondisinya",
-        "category": "News",
-        "publish_time": "13-11-2025 11:14",
-        "news_link": "https://news.republika.co.id/berita/t5nx4q377/pelaku-peledakan-sman-72-jakarta-sudah-sadar-begini-kondisinya"
-    },
-    {
-        "title": "Polda Jabar Tetapkan Dua Tersangka Kasus Dugaan Korupsi Jalan Lingkar Timur Kuningan",
-        "category": "Network",
-        "publish_time": "13-11-2025 11:14",
-        "news_link": "https://bandung24jam.id/posts/718542/polda-jabar-tetapkan-dua-tersangka-kasus-dugaan-korupsi-jalan-lingkar-timur-kuningan"
-    },
-    {
-        "title": "ABH Kasus Ledakan SMAN 72 Dikenal Tertutup dan Sering Menyendiri",
-        "category": "Network",
-        "publish_time": "13-11-2025 11:14",
-        "news_link": "https://inforemaja.id/posts/718544/abh-kasus-ledakan-sman-72-dikenal-tertutup-dan-sering-menyendiri"
-    },
-    {
-        "title": "Ratusan Tukang Becak Lansia di Indramayu Dapat Becak Listrik, Lucky Hakim akan Siapkan SPKLU",
-        "category": "Rejabar",
-        "publish_time": "13-11-2025 11:14",
-        "news_link": "https://rejabar.republika.co.id/berita/t5nwj8512/ratusan-tukang-becak-lansia-di-indramayu-dapat-becak-listrik-lucky-hakim-akan-siapkan-spklu"
     }
 ]
