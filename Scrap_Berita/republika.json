@@ -1,20 +1,86 @@
 [
     {
+        "title": "Empat Lab Indonesia Lulus Verifikasi FDA untuk Uji Cesium-137 pada Produk Udang",
+        "category": "Ekonomi",
+        "publish_time": "13-11-2025 23:13",
+        "news_link": "https://ekonomi.republika.co.id/berita/t5otv8370/empat-lab-indonesia-lulus-verifikasi-fda-untuk-uji-cesium137-pada-produk-udang"
+    },
+    {
+        "title": "Prancis Tahan Perayaan Setelah Pastikan Tiket Piala Dunia 2026",
+        "category": "News",
+        "publish_time": "13-11-2025 23:13",
+        "news_link": "https://news.republika.co.id/berita/t5otu1348/prancis-tahan-perayaan-setelah-pastikan-tiket-piala-dunia-2026"
+    },
+    {
+        "title": "Pemukim Yahudi Bakar Masjid dan Alquran di Tepi Barat",
+        "category": "News",
+        "publish_time": "13-11-2025 23:09",
+        "news_link": "https://news.republika.co.id/berita/t5otn6393/pemukim-yahudi-bakar-masjid-dan-alquran-di-tepi-barat"
+    },
+    {
+        "title": "Nigeria Melaju ke Putaran Kedua Playoff Piala Dunia 2026 Zona Afrika",
+        "category": "News",
+        "publish_time": "13-11-2025 22:58",
+        "news_link": "https://news.republika.co.id/berita/t5ot40348/nigeria-melaju-ke-putaran-kedua-playoff-piala-dunia-2026-zona-afrika"
+    },
+    {
+        "title": "Tentara Israel Bunuh Dua Anak di Tepi Barat",
+        "category": "News",
+        "publish_time": "13-11-2025 22:51",
+        "news_link": "https://news.republika.co.id/berita/t5ost6393/tentara-israel-bunuh-dua-anak-di-tepi-barat"
+    },
+    {
+        "title": "Pemkab Badung Tingkatkan Pengawasan untuk Cegah Korupsi",
+        "category": "News",
+        "publish_time": "13-11-2025 22:48",
+        "news_link": "https://news.republika.co.id/berita/t5osoi3730000/pemkab-badung-tingkatkan-pengawasan-untuk-cegah-korupsi"
+    },
+    {
+        "title": "Merosot Tajam, Cianjur Hanya Kebagian Kuota Haji 59 Orang Tahun Depan",
+        "category": "Khazanah",
+        "publish_time": "13-11-2025 22:42",
+        "news_link": "https://khazanah.republika.co.id/berita/t5osda483/merosot-tajam-cianjur-hanya-kebagian-kuota-haji-59-orang-tahun-depan"
+    },
+    {
+        "title": "Bikin Bangga, Gol Setengah Lapangan Rizky Ridho Masuk Nominasi FIFA Puskas Award 2025",
+        "category": "News",
+        "publish_time": "13-11-2025 22:35",
+        "news_link": "https://news.republika.co.id/berita/t5os37348/bikin-bangga-gol-setengah-lapangan-rizky-ridho-masuk-nominasi-fifa-puskas-award-2025"
+    },
+    {
+        "title": "Langkah Portugal ke Piala Dunia 2026 Tertunda, Italia Menanti Laga Penentuan",
+        "category": "Network",
+        "publish_time": "13-11-2025 22:30",
+        "news_link": "https://skor.republika.co.id/posts/718679/langkah-portugal-ke-piala-dunia-2026-tertunda-italia-menanti-laga-penentuan"
+    },
+    {
+        "title": "UEA Imbang Lawan Irak pada Leg Pertama Playoff Piala Dunia Zona Asia",
+        "category": "News",
+        "publish_time": "13-11-2025 22:26",
+        "news_link": "https://news.republika.co.id/berita/t5ornh348/uea-imbang-lawan-irak-pada-leg-pertama-playoff-piala-dunia-zona-asia"
+    },
+    {
+        "title": "Desa di Bogor Ini Bikin Takjub Bule Austria-Australia, Kerukunan Bukan Teori di Indonesia",
+        "category": "Khazanah",
+        "publish_time": "13-11-2025 22:24",
+        "news_link": "https://khazanah.republika.co.id/berita/t5orkf483/desa-di-bogor-ini-bikin-takjub-bule-austriaaustralia-kerukunan-bukan-teori-di-indonesia"
+    },
+    {
         "title": "Drawing FIFAe World Cup 2025, Indonesia Satu Grup dengan Jepang",
         "category": "Network",
-        "publish_time": "13-11-2025 21:59",
+        "publish_time": "13-11-2025 22:14",
         "news_link": "https://skor.republika.co.id/posts/718677/drawing-fif-ae-world-cup-2025-indonesia-satu-grup-dengan-jepang"
     },
     {
         "title": "Diskon Harga Tiket Pesawat Dorong Tren Liburan Singkat Menjelang Akhir Tahun",
         "category": "Ekonomi",
-        "publish_time": "13-11-2025 21:55",
+        "publish_time": "13-11-2025 22:14",
         "news_link": "https://ekonomi.republika.co.id/berita/t5o89v370/diskon-harga-tiket-pesawat-dorong-tren-liburan-singkat-menjelang-akhir-tahun"
     },
     {
         "title": "BRI Insurance Terbaik di Kelasnya, Segmen Mikro Tumbuh 10 Persen",
         "category": "Ekonomi",
-        "publish_time": "13-11-2025 21:19",
+        "publish_time": "13-11-2025 21:14",
         "news_link": "https://ekonomi.republika.co.id/berita/t5o0v3370/bri-insurance-terbaik-di-kelasnya-segmen-mikro-tumbuh-10-persen"
     },
     {
@@ -25,9 +91,9 @@
     },
     {
         "title": "Kembali Capai Perempat Final BWF World Tour, Kepercayaan Diri Gregoria Mariska Meningkat",
-        "category": "Network",
+        "category": "News",
         "publish_time": "13-11-2025 20:14",
-        "news_link": "https://skor.republika.co.id/posts/718675/kembali-capai-perempat-final-bwf-world-tour-kepercayaan-diri-gregoria-mariska-meningkat"
+        "news_link": "https://news.republika.co.id/berita/t5omqu108188892726001/kembali-capai-perempat-final-bwf-world-tour-kepercayaan-diri-gregoria-mariska-meningkat"
     },
     {
         "title": "Pengaturan Lalu Lintas di Jakarta Sambut Kunjungan Raja Yordania",
@@ -44,7 +110,7 @@
     {
         "title": "Pemkot Tangerang Raih Predikat Terbaik Anugerah KIP Banten 2025",
         "category": "News",
-        "publish_time": "13-11-2025 19:14",
+        "publish_time": "13-11-2025 20:14",
         "news_link": "https://news.republika.co.id/berita/t5ok7f3130000/pemkot-tangerang-raih-predikat-terbaik-anugerah-kip-banten-2025"
     },
     {
@@ -122,7 +188,7 @@
     {
         "title": "Menjaga Kesucian Waktu: Jadwal Sholat Hari Ini di Depok, 14 November 2025",
         "category": "Khazanah",
-        "publish_time": "13-11-2025 18:14",
+        "publish_time": "13-11-2025 19:14",
         "news_link": "https://khazanah.republika.co.id/berita/t5ohff415258999/menjaga-kesucian-waktu-jadwal-sholat-hari-ini-di-depok-14-november-2025"
     },
     {
@@ -133,9 +199,9 @@
     },
     {
         "title": "Wagub Jabar Tinjau Kajian Bobibos, Bahan Bakar Ramah Lingkungan dari Jerami",
-        "category": "News",
+        "category": "Rejabar",
         "publish_time": "13-11-2025 18:14",
-        "news_link": "https://news.republika.co.id/berita/t5ogtm7030000/wagub-jabar-tinjau-kajian-bobibos-bahan-bakar-ramah-lingkungan-dari-jerami"
+        "news_link": "https://rejabar.republika.co.id/berita/t5ogtm7030000/wagub-jabar-tinjau-kajian-bobibos-bahan-bakar-ramah-lingkungan-dari-jerami"
     },
     {
         "title": "Pemkab Mabar imbau warga waspadai cuaca ekstrem di musim hujan",
@@ -232,71 +298,5 @@
         "category": "Network",
         "publish_time": "13-11-2025 17:14",
         "news_link": "https://bisnistime.com/posts/718611/perjalanan-rombongan-whoosh-lebih-murah-kcic-tawarkan-diskon-20-persen-di-november"
-    },
-    {
-        "title": "Sebanyak 40 Persen Sampah Nasional Belum Dikelola Maksimal",
-        "category": "Network",
-        "publish_time": "13-11-2025 17:14",
-        "news_link": "https://sekitarkaltim.id/posts/718647/sebanyak-40-persen-sampah-nasional-belum-dikelola-maksimal"
-    },
-    {
-        "title": "Ketika Kasih Sayang Menyentuh Batas",
-        "category": "Retizen",
-        "publish_time": "13-11-2025 17:14",
-        "news_link": "https://retizen.republika.co.id/posts/718292/ketika-kasih-sayang-menyentuh-batas"
-    },
-    {
-        "title": "Relevansi Ilmu Sejarah di Era Digital: Masa Lalu yang Menyala untuk Menuju Masa Depan Gemilang",
-        "category": "Retizen",
-        "publish_time": "13-11-2025 17:14",
-        "news_link": "https://retizen.republika.co.id/posts/718336/relevansi-ilmu-sejarah-di-era-digital-masa-lalu-yang-menyala-untuk-menuju-masa-depan-gemilang"
-    },
-    {
-        "title": "Dedikasi Tanpa Batas: Potret Kerja Bidan di Garis Terdepan Pelayanan Kesehatan Ibu dan Anak",
-        "category": "Retizen",
-        "publish_time": "13-11-2025 17:14",
-        "news_link": "https://retizen.republika.co.id/posts/718447/dedikasi-tanpa-batas-potret-kerja-bidan-di-garis-terdepan-pelayanan-kesehatan-ibu-dan-anak"
-    },
-    {
-        "title": "Di Balik Senyum Sehat: Peran Penting Dokter Gigi dalam Hidup Kita",
-        "category": "Retizen",
-        "publish_time": "13-11-2025 17:14",
-        "news_link": "https://retizen.republika.co.id/posts/718439/di-balik-senyum-sehat-peran-penting-dokter-gigi-dalam-hidup-kita"
-    },
-    {
-        "title": "Republik Wajah: Saat Kekuasaan Berpose, Akal Sehat Menghilang",
-        "category": "Retizen",
-        "publish_time": "13-11-2025 17:14",
-        "news_link": "https://retizen.republika.co.id/posts/718299/republik-wajah-saat-kekuasaan-berpose-akal-sehat-menghilang"
-    },
-    {
-        "title": "Hidup Stagnan di Era Kemajuan",
-        "category": "Retizen",
-        "publish_time": "13-11-2025 17:14",
-        "news_link": "https://retizen.republika.co.id/posts/718434/hidup-stagnan-di-era-kemajuan"
-    },
-    {
-        "title": "Radiologi Tidak Seseram Kedengarannya",
-        "category": "Retizen",
-        "publish_time": "13-11-2025 17:14",
-        "news_link": "https://retizen.republika.co.id/posts/718451/radiologi-tidak-seseram-kedengarannya"
-    },
-    {
-        "title": "Humanisme di Era Digital: Ketika Teknologi Menggerus Nurani",
-        "category": "Retizen",
-        "publish_time": "13-11-2025 17:14",
-        "news_link": "https://retizen.republika.co.id/posts/718470/humanisme-di-era-digital-ketika-teknologi-menggerus-nurani"
-    },
-    {
-        "title": "Ledakan Semangat Juang Rakyat di Parade Surabaya Juang",
-        "category": "Retizen",
-        "publish_time": "13-11-2025 17:14",
-        "news_link": "https://retizen.republika.co.id/posts/718479/ledakan-semangat-juang-rakyat-di-parade-surabaya-juang"
-    },
-    {
-        "title": "Ketika Nyawa Jadi Taruhan: Mengenal Dunia di Balik Rompi Orange",
-        "category": "Retizen",
-        "publish_time": "13-11-2025 17:14",
-        "news_link": "https://retizen.republika.co.id/posts/718471/ketika-nyawa-jadi-taruhan-mengenal-dunia-di-balik-rompi-orange"
     }
 ]
