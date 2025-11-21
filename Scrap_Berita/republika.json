@@ -1,74 +1,176 @@
 [
     {
+        "title": "Dari 75.266 Desa, Baru 14,4 Persen yang Melaporkan Perbatasan ke Kemendagri",
+        "category": "News",
+        "publish_time": "21-11-2025 16:18",
+        "news_link": "https://news.republika.co.id/berita/t633y1483/dari-75266-desa-baru-144-persen-yang-melaporkan-perbatasan-ke-kemendagri"
+    },
+    {
+        "title": "Toyota New Veloz Hybrid Produksi Lokal Diluncurkan",
+        "category": "Ekonomi",
+        "publish_time": "21-11-2025 16:11",
+        "news_link": "https://ekonomi.republika.co.id/berita/t633nz348/toyota-new-veloz-hybrid-produksi-lokal-diluncurkan"
+    },
+    {
+        "title": "DPD PDIP Jatim Gelar Redtalk Serap Aspirasi Anak Muda, Said: Forum Kritik Otokritik",
+        "category": "News",
+        "publish_time": "21-11-2025 16:10",
+        "news_link": "https://news.republika.co.id/berita/t633lh320/dpd-pdip-jatim-gelar-redtalk-serap-aspirasi-anak-muda-said-forum-kritik-otokritik"
+    },
+    {
+        "title": "Dibanderol Rp299 Juta, Ini Penampakan Mobil Toyota New Veloz Hybrid EV",
+        "category": "Visual",
+        "publish_time": "21-11-2025 15:59",
+        "news_link": "https://visual.republika.co.id/berita/t62zc1375/dibanderol-rp299-juta-ini-penampakan-mobil-toyota-new-veloz-hybrid-ev"
+    },
+    {
+        "title": "Suara Pedagang Soal Rencana Larangan Thrift: Justru Barang China yang Merugikan Negara",
+        "category": "News",
+        "publish_time": "21-11-2025 15:56",
+        "news_link": "https://news.republika.co.id/berita/t632ze483/suara-pedagang-soal-rencana-larangan-thrift-justru-barang-china-yang-merugikan-negara"
+    },
+    {
+        "title": "The Fed Diproyeksikan tak Agresif Turunkan Suku Bunga, Rupiah Menguat",
+        "category": "Ekonomi",
+        "publish_time": "21-11-2025 15:41",
+        "news_link": "https://ekonomi.republika.co.id/berita/t63291490/the-fed-diproyeksikan-tak-agresif-turunkan-suku-bunga-rupiah-menguat"
+    },
+    {
+        "title": "Jadwal dan Link Live Streaming Pro Futsal League 2025-2026: Pekan Tujuh, 22-23 November",
+        "category": "Network",
+        "publish_time": "21-11-2025 15:39",
+        "news_link": "https://skor.republika.co.id/posts/721801/jadwal-dan-link-live-streaming-pro-futsal-league-2025-2026-pekan-tujuh-22-23-november"
+    },
+    {
+        "title": "Kengerian Setiap 43 Detik Ada Anak di Dunia Wafat Akibat Pneumonia",
+        "category": "Ameera",
+        "publish_time": "21-11-2025 15:37",
+        "news_link": "https://ameera.republika.co.id/berita/t63231451/kengerian-setiap-43-detik-ada-anak-di-dunia-wafat-akibat-pneumonia"
+    },
+    {
+        "title": "Gandeng IMI, BRI Insurance Bidik Pasar Asuransi Kendaraan Bernilai Tinggi",
+        "category": "Ekonomi",
+        "publish_time": "21-11-2025 15:34",
+        "news_link": "https://ekonomi.republika.co.id/berita/t62v3v370/gandeng-imi-bri-insurance-bidik-pasar-asuransi-kendaraan-bernilai-tinggi"
+    },
+    {
+        "title": "Teka-teki Kematian Dosen Untag Semarang, Kampus Temukan Sederet Kejanggalan",
+        "category": "Rejogja",
+        "publish_time": "21-11-2025 15:32",
+        "news_link": "https://rejogja.republika.co.id/berita/t62yav282/tekateki-kematian-dosen-untag-semarang-kampus-temukan-sederet-kejanggalan"
+    },
+    {
+        "title": "Kemendagri Targetkan Perbatasan Lima Ribu Desa Selesai Hingga 2029",
+        "category": "News",
+        "publish_time": "21-11-2025 15:31",
+        "news_link": "https://news.republika.co.id/berita/t631t5483/kemendagri-targetkan-perbatasan-lima-ribu-desa-selesai-hingga-2029"
+    },
+    {
+        "title": "Penarikan Utang Capai Rp570,1 Triliun, Pemerintah Pantau Risiko Global",
+        "category": "Ekonomi",
+        "publish_time": "21-11-2025 15:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/t631py490/penarikan-utang-capai-rp5701-triliun-pemerintah-pantau-risiko-global"
+    },
+    {
+        "title": "Kisah TNI dan Warga Natuna di Perbatasan Malaysia",
+        "category": "News",
+        "publish_time": "21-11-2025 15:26",
+        "news_link": "https://news.republika.co.id/berita/t631lc451/kisah-tni-dan-warga-natuna-di-perbatasan-malaysia"
+    },
+    {
+        "title": "Ijtimak Ulama Beri Delapan Rekomendasi Penyempurnaan Tafsir Alquran Kemenag, Ini Isinya",
+        "category": "Khazanah",
+        "publish_time": "21-11-2025 15:21",
+        "news_link": "https://khazanah.republika.co.id/berita/t631cw483/ijtimak-ulama-beri-delapan-rekomendasi-penyempurnaan-tafsir-alquran-kemenag-ini-isinya"
+    },
+    {
+        "title": "Pemda Diminta Pacu Belanja Daerah demi Dorong Ekonomi Jelang Akhir Tahun",
+        "category": "Ekonomi",
+        "publish_time": "21-11-2025 15:21",
+        "news_link": "https://ekonomi.republika.co.id/berita/t631co490/pemda-diminta-pacu-belanja-daerah-demi-dorong-ekonomi-jelang-akhir-tahun"
+    },
+    {
+        "title": "Ini Penilaian Timur Kapadze Terhadap Timnas Indonesia",
+        "category": "News",
+        "publish_time": "21-11-2025 15:20",
+        "news_link": "https://news.republika.co.id/berita/t631an409/ini-penilaian-timur-kapadze-terhadap-timnas-indonesia"
+    },
+    {
+        "title": "Baca Teks Lengkap 28 Poin Rencana Trump untuk Akhiri Perang Rusia-Ukraina",
+        "category": "News",
+        "publish_time": "21-11-2025 15:18",
+        "news_link": "https://news.republika.co.id/berita/t6315b409/baca-teks-lengkap-28-poin-rencana-trump-untuk-akhiri-perang-rusiaukraina"
+    },
+    {
         "title": "Gus Irfan: Tidak Boleh Ada Permainan dalam Penyelenggaraan Haji 2026",
         "category": "Khazanah",
-        "publish_time": "21-11-2025 15:13",
+        "publish_time": "21-11-2025 15:18",
         "news_link": "https://khazanah.republika.co.id/berita/t630xv366/gus-irfan-tidak-boleh-ada-permainan-dalam-penyelenggaraan-haji-2026"
     },
     {
         "title": "Perjuangan Jakarta Melawan Udara Kotor dan Perubahan Iklim",
         "category": "News",
-        "publish_time": "21-11-2025 15:09",
+        "publish_time": "21-11-2025 15:18",
         "news_link": "https://news.republika.co.id/berita/t630qp451/perjuangan-jakarta-melawan-udara-kotor-dan-perubahan-iklim"
     },
     {
         "title": "Menpar Pede Program Diskon Belanja Genjot Devisa dari Wisman",
         "category": "Ekonomi",
-        "publish_time": "21-11-2025 15:01",
+        "publish_time": "21-11-2025 15:18",
         "news_link": "https://ekonomi.republika.co.id/berita/t630dv490/menpar-pede-program-diskon-belanja-genjot-devisa-dari-wisman"
     },
     {
         "title": "Polisi Gagalkan Penyelundupan Pakaian Bekas Impor Ilegal Senilai Rp4 Miliar",
         "category": "Visual",
-        "publish_time": "21-11-2025 15:00",
+        "publish_time": "21-11-2025 15:18",
         "news_link": "https://visual.republika.co.id/berita/t62xlt375/polisi-gagalkan-penyelundupan-pakaian-bekas-impor-ilegal-senilai-rp4-miliar"
     },
     {
         "title": "Jambore Memperkuat Garda Terdepan Penjaga Budaya Bali",
         "category": "News",
-        "publish_time": "21-11-2025 14:55",
+        "publish_time": "21-11-2025 15:18",
         "news_link": "https://news.republika.co.id/berita/t6303q451/jambore-memperkuat-garda-terdepan-penjaga-budaya-bali"
     },
     {
         "title": "Mendag Pastikan Ekspor CPO Tetap Stabil Jelang Implementasi B50",
         "category": "Ekonomi",
-        "publish_time": "21-11-2025 14:46",
+        "publish_time": "21-11-2025 14:18",
         "news_link": "https://ekonomi.republika.co.id/berita/t62zpb490/mendag-pastikan-ekspor-cpo-tetap-stabil-jelang-implementasi-b50"
     },
     {
         "title": "Keutamaan Surah al-Mulk",
         "category": "Khazanah",
-        "publish_time": "21-11-2025 14:44",
+        "publish_time": "21-11-2025 14:18",
         "news_link": "https://khazanah.republika.co.id/berita/t62xw2458/keutamaan-surah-almulk"
     },
     {
         "title": "Biografi Mbah Dullah, Sosok yang Amat Dihormati Gus Dur",
         "category": "Khazanah",
-        "publish_time": "21-11-2025 14:37",
+        "publish_time": "21-11-2025 14:18",
         "news_link": "https://khazanah.republika.co.id/berita/t62xoh458/biografi-mbah-dullah-sosok-yang-amat-dihormati-gus-dur"
     },
     {
         "title": "12 Gol Andrew Jung Berbicara, Persib Taklukkan Dewa United",
         "category": "News",
-        "publish_time": "21-11-2025 14:31",
+        "publish_time": "21-11-2025 14:18",
         "news_link": "https://news.republika.co.id/berita/t62yzs451/12-gol-andrew-jung-berbicara-persib-taklukkan-dewa-united"
     },
     {
         "title": "Alhamdulillah, 69.902 Warga Tangerang Terima Bantuan Pangan",
         "category": "Visual",
-        "publish_time": "21-11-2025 14:30",
+        "publish_time": "21-11-2025 14:18",
         "news_link": "https://visual.republika.co.id/berita/t62xbb375/alhamdulillah-69902-warga-tangerang-terima-bantuan-pangan"
     },
     {
         "title": "Nasib Apes Dialami Warga Cimahi, Mobil yang Baru Saja Dibeli Malah Ludes Terbakar",
         "category": "Rejabar",
-        "publish_time": "21-11-2025 14:26",
+        "publish_time": "21-11-2025 14:18",
         "news_link": "https://rejabar.republika.co.id/berita/t62yrt512/nasib-apes-dialami-warga-cimahi-mobil-yang-baru-saja-dibeli-malah-ludes-terbakar"
     },
     {
         "title": "Genjot Belanja, BINA Indonesia Great Sale Jadi Jurus Pamungkas Pemerintah Tutup 2025",
         "category": "Ekonomi",
-        "publish_time": "21-11-2025 14:20",
+        "publish_time": "21-11-2025 14:18",
         "news_link": "https://ekonomi.republika.co.id/berita/t62yh4490/genjot-belanja-bina-indonesia-great-sale-jadi-jurus-pamungkas-pemerintah-tutup-2025"
     },
     {
@@ -86,217 +188,115 @@
     {
         "title": "Kisah Keteladanan 2 Ulama Besar NU",
         "category": "Khazanah",
-        "publish_time": "21-11-2025 14:15",
+        "publish_time": "21-11-2025 14:18",
         "news_link": "https://khazanah.republika.co.id/berita/t62xfh458/kisah-keteladanan-2-ulama-besar-nu"
     },
     {
         "title": "Pesawat Milik Skydive Indonesia Terjatuh di Karawang, Begini Kondisinya",
         "category": "Rejabar",
-        "publish_time": "21-11-2025 14:14",
+        "publish_time": "21-11-2025 14:18",
         "news_link": "https://rejabar.republika.co.id/berita/t62y67512/pesawat-milik-skydive-indonesia-terjatuh-di-karawang-begini-kondisinya"
     },
     {
         "title": "Timur Kapadze Akui Pernah Dikontak PSSI, Ini Pengakuannya Usai Shalat Jumat di Masjid Istiqlal",
         "category": "News",
-        "publish_time": "21-11-2025 14:14",
+        "publish_time": "21-11-2025 14:18",
         "news_link": "https://news.republika.co.id/berita/t62y10409/timur-kapadze-akui-pernah-dikontak-pssi-ini-pengakuannya-usai-shalat-jumat-di-masjid-istiqlal"
     },
     {
         "title": "10 Pemain Persib Kalahkan Dewa United, Bulan Madu Pelatih PSM Berlanjut dengan 5-0",
         "category": "Network",
-        "publish_time": "21-11-2025 14:14",
+        "publish_time": "21-11-2025 14:18",
         "news_link": "https://skor.republika.co.id/posts/721760/10-pemain-persib-kalahkan-dewa-united-bulan-madu-pelatih-psm-berlanjut-dengan-5-0"
     },
     {
         "title": "Dorong UMKM Bertransformasi ke Pemasaran Digital, Forum Konsultasi Publik Digelar di Jabar",
         "category": "Rejabar",
-        "publish_time": "21-11-2025 14:14",
+        "publish_time": "21-11-2025 14:18",
         "news_link": "https://rejabar.republika.co.id/berita/t62xwx512/dorong-umkm-bertransformasi-ke-pemasaran-digital-forum-konsultasi-publik-digelar-di-jabar"
     },
     {
         "title": "Kemenkes Ingatkan Angka Depresi di Jakarta di Atas Rata-Rata Nasional",
         "category": "News",
-        "publish_time": "21-11-2025 14:14",
+        "publish_time": "21-11-2025 14:18",
         "news_link": "https://news.republika.co.id/berita/t62xli487/kemenkes-ingatkan-angka-depresi-di-jakarta-di-atas-ratarata-nasional"
     },
     {
         "title": "Khamar dan Alkohol untuk Obat, Bolehkah? Ini Pendapat Ulama",
         "category": "Khazanah",
-        "publish_time": "21-11-2025 14:14",
+        "publish_time": "21-11-2025 14:18",
         "news_link": "https://khazanah.republika.co.id/berita/t62x7d458/khamar-dan-alkohol-untuk-obat-bolehkah-ini-pendapat-ulama"
     },
     {
         "title": "Pameran Otomotif GJAW 2025 Resmi Dibuka, Pasang Target Transaksi Rp5,1 Triliun",
         "category": "Visual",
-        "publish_time": "21-11-2025 14:14",
+        "publish_time": "21-11-2025 14:18",
         "news_link": "https://visual.republika.co.id/berita/t62x1k375/pameran-otomotif-gjaw-2025-resmi-dibuka-pasang-target-transaksi-rp51-triliun"
     },
     {
         "title": "Sejarah Qunut Nazilah",
         "category": "Khazanah",
-        "publish_time": "21-11-2025 14:14",
+        "publish_time": "21-11-2025 14:18",
         "news_link": "https://khazanah.republika.co.id/berita/t62wxw458/sejarah-qunut-nazilah"
     },
     {
         "title": "Jamin 660 Juta Rekening, Aset LPS Tercatat Rp 272 Triliun",
         "category": "Ekonomi",
-        "publish_time": "21-11-2025 14:14",
+        "publish_time": "21-11-2025 13:18",
         "news_link": "https://ekonomi.republika.co.id/berita/t62x25370/jamin-660-juta-rekening-aset-lps-tercatat-rp-272-triliun"
     },
     {
         "title": "Gus Ipul Anggap Kabar Pemakzulan Ketum PBNU Gus Yahya Sebagai Dinamika, Begini Penjelasannya",
         "category": "News",
-        "publish_time": "21-11-2025 13:14",
+        "publish_time": "21-11-2025 13:18",
         "news_link": "https://news.republika.co.id/berita/t62wtn487/gus-ipul-anggap-kabar-pemakzulan-ketum-pbnu-gus-yahya-sebagai-dinamika-begini-penjelasannya"
     },
     {
         "title": "Visi Komunitas ASEAN 2045, Pijar Foundation Dukung Penguatan Pilar Kesehatan Digital Regional",
         "category": "News",
-        "publish_time": "21-11-2025 13:14",
+        "publish_time": "21-11-2025 13:18",
         "news_link": "https://news.republika.co.id/berita/t62wr0456/visi-komunitas-asean-2045-pijar-foundation-dukung-penguatan-pilar-kesehatan-digital-regional"
     },
     {
         "title": "Indikator Ketakwaan",
         "category": "Khazanah",
-        "publish_time": "21-11-2025 13:14",
+        "publish_time": "21-11-2025 13:18",
         "news_link": "https://khazanah.republika.co.id/berita/t62wos458/indikator-ketakwaan"
     },
     {
         "title": "Dirut Pertamina Sebut Keterbukaan Informasi Jadi Penopang Kepercayaan Publik",
         "category": "Ekonomi",
-        "publish_time": "21-11-2025 13:14",
+        "publish_time": "21-11-2025 13:18",
         "news_link": "https://ekonomi.republika.co.id/berita/t62wjh368/dirut-pertamina-sebut-keterbukaan-informasi-jadi-penopang-kepercayaan-publik"
     },
     {
         "title": "bank bjb Hadirkan Layanan Digital Edupay untuk Kemudahan Mahasiswa Universitas Terbuka",
         "category": "Ekonomi",
-        "publish_time": "21-11-2025 13:14",
+        "publish_time": "21-11-2025 13:18",
         "news_link": "https://ekonomi.republika.co.id/berita/t62w6t368/bank-bjb-hadirkan-layanan-digital-edupay-untuk-kemudahan-mahasiswa-universitas-terbuka"
     },
     {
         "title": "Polisi Tangkap Empat Tersangka Pembakaran Rumah Hakim PN Medan",
         "category": "News",
-        "publish_time": "21-11-2025 13:14",
+        "publish_time": "21-11-2025 13:18",
         "news_link": "https://news.republika.co.id/berita/t62vnk487/polisi-tangkap-empat-tersangka-pembakaran-rumah-hakim-pn-medan"
     },
     {
         "title": "Makna Hadis Umat Islam Bagai Buih di Lautan",
         "category": "Khazanah",
-        "publish_time": "21-11-2025 13:14",
+        "publish_time": "21-11-2025 13:18",
         "news_link": "https://khazanah.republika.co.id/berita/t62uo1458/makna-hadis-umat-islam-bagai-buih-di-lautan"
     },
     {
         "title": "Polda Jatim Berangkatkan Bantuan Kemanusiaan untuk Warga Terdampak Erupsi Semeru",
         "category": "Rejogja",
-        "publish_time": "21-11-2025 13:14",
+        "publish_time": "21-11-2025 13:18",
         "news_link": "https://rejogja.republika.co.id/berita/t62vfl291/polda-jatim-berangkatkan-bantuan-kemanusiaan-untuk-warga-terdampak-erupsi-semeru"
     },
     {
         "title": "Polisi Sebut Pembunuh Wanita Bersimbah Darah Ternyata Tetangga Depan Rumah Korban",
         "category": "Rejabar",
-        "publish_time": "21-11-2025 13:14",
+        "publish_time": "21-11-2025 13:18",
         "news_link": "https://rejabar.republika.co.id/berita/t62vcv512/polisi-sebut-pembunuh-wanita-bersimbah-darah-ternyata-tetangga-depan-rumah-korban"
-    },
-    {
-        "title": "Catat Tanggalnya: Kemenhaj Buka Seleksi Petugas Haji",
-        "category": "Khazanah",
-        "publish_time": "21-11-2025 13:14",
-        "news_link": "https://khazanah.republika.co.id/berita/t62vbs430/catat-tanggalnya-kemenhaj-buka-seleksi-petugas-haji"
-    },
-    {
-        "title": "Ketua Mekaar Perkuat Peran Perempuan dalam Ketahanan Keluarga",
-        "category": "Ekonomi",
-        "publish_time": "21-11-2025 13:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/t62vbl368/ketua-mekaar-perkuat-peran-perempuan-dalam-ketahanan-keluarga"
-    },
-    {
-        "title": "Islam Tegaskan Persamaan Derajat Manusia",
-        "category": "Khazanah",
-        "publish_time": "21-11-2025 13:14",
-        "news_link": "https://khazanah.republika.co.id/berita/t62ub0458/islam-tegaskan-persamaan-derajat-manusia"
-    },
-    {
-        "title": "Pembayaran Dam Haji 2026 Lewat Nusuk, DPR RI Minta Diawasi Ketat",
-        "category": "Khazanah",
-        "publish_time": "21-11-2025 13:14",
-        "news_link": "https://khazanah.republika.co.id/berita/t62v7q430/pembayaran-dam-haji-2026-lewat-nusuk-dpr-ri-minta-diawasi-ketat"
-    },
-    {
-        "title": "Menteri HAM Pigai Persilakan Publik Gugat UU KUHAP ke MK",
-        "category": "News",
-        "publish_time": "21-11-2025 13:14",
-        "news_link": "https://news.republika.co.id/berita/t62v48409/menteri-ham-pigai-persilakan-publik-gugat-uu-kuhap-ke-mk"
-    },
-    {
-        "title": "Jeep Tampilkan Lini Lengkap Wrangler dan Gladiator di GJAW 2025",
-        "category": "Ekonomi",
-        "publish_time": "21-11-2025 13:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/t62uyo348/jeep-tampilkan-lini-lengkap-wrangler-dan-gladiator-di-gjaw-2025"
-    },
-    {
-        "title": "KAI Daop 1 Jakarta Beri Diskon 30 Persen untuk Tiket Nataru",
-        "category": "Ekonomi",
-        "publish_time": "21-11-2025 13:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/t62usq370/kai-daop-1-jakarta-beri-diskon-30-persen-untuk-tiket-nataru"
-    },
-    {
-        "title": "Timnas Indonesia Jadi Tuan Rumah FIFA Series, Erick Thohir Akui Ada Andil PSSI dan Suporter",
-        "category": "Network",
-        "publish_time": "21-11-2025 13:14",
-        "news_link": "https://skor.republika.co.id/posts/721731/timnas-indonesia-jadi-tuan-rumah-fifa-series-erick-thohir-akui-ada-andil-pssi-dan-suporter"
-    },
-    {
-        "title": "Sambut HUT PGRI, Ribuan Guru di Kediri Borong Dagangan Pasar",
-        "category": "Visual",
-        "publish_time": "21-11-2025 13:14",
-        "news_link": "https://visual.republika.co.id/berita/t62u9z375/sambut-hut-pgri-ribuan-guru-di-kediri-borong-dagangan-pasar"
-    },
-    {
-        "title": "Untag Semarang: Almarhumah Dosen Dwinanda Levi Berpotensi Raih Guru Besar",
-        "category": "News",
-        "publish_time": "21-11-2025 13:14",
-        "news_link": "https://news.republika.co.id/berita/t62ur7487/untag-semarang-almarhumah-dosen-dwinanda-levi-berpotensi-raih-guru-besar"
-    },
-    {
-        "title": "Pura-Pura Beriman, Padahal Memusuhi Islam",
-        "category": "Khazanah",
-        "publish_time": "21-11-2025 13:14",
-        "news_link": "https://khazanah.republika.co.id/berita/t62tzz458/purapura-beriman-padahal-memusuhi-islam"
-    },
-    {
-        "title": "DPRD Jabar Setujui Raperda APBD 2026, Iswara: Pendidikan hingga Infrastruktur Masih Jadi Prioritas",
-        "category": "Rejabar",
-        "publish_time": "21-11-2025 13:14",
-        "news_link": "https://rejabar.republika.co.id/berita/t62upl512/dprd-jabar-setujui-raperda-apbd-2026-iswara-pendidikan-hingga-infrastruktur-masih-jadi-prioritas"
-    },
-    {
-        "title": "UNM Perkuat Kolaborasi Riset Berbasis Data Lewat Kunjungan Akademik ke BRIN",
-        "category": "News",
-        "publish_time": "21-11-2025 13:14",
-        "news_link": "https://news.republika.co.id/berita/t62tis368/unm-perkuat-kolaborasi-riset-berbasis-data-lewat-kunjungan-akademik-ke-brin"
-    },
-    {
-        "title": "Jetour Luncurkan T2 di GJAW 2025: Harga 500 Jutaan, Bidik Penggemar Petualangan",
-        "category": "Ekonomi",
-        "publish_time": "21-11-2025 13:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/t62u9p348/jetour-luncurkan-t2-di-gjaw-2025-harga-500-jutaan-bidik-penggemar-petualangan"
-    },
-    {
-        "title": "Sin Po, Nasionalisme Cina, dan Bahasa Melayu",
-        "category": "Network",
-        "publish_time": "21-11-2025 13:14",
-        "news_link": "https://oohya.republika.co.id/posts/721645/sin-po-nasionalisme-cina-dan-bahasa-melayu"
-    },
-    {
-        "title": "Dosen UBSI Kampus Purwokerto Jadi Garda Depan Penilai GTK Hebat 2025!",
-        "category": "News",
-        "publish_time": "21-11-2025 13:14",
-        "news_link": "https://news.republika.co.id/berita/t62ta3368/dosen-ubsi-kampus-purwokerto-jadi-garda-depan-penilai-gtk-hebat-2025"
-    },
-    {
-        "title": "1.827 PPPK Paruh Waktu Pemkot Dilantik, Ketua DPRD Kota Sukabumi Minta Bekerja Profesional",
-        "category": "Network",
-        "publish_time": "21-11-2025 12:14",
-        "news_link": "https://sukabumikini.com/posts/721684/1-827-pppk-paruh-waktu-pemkot-dilantik-ketua-dprd-kota-sukabumi-minta-bekerja-profesional"
     }
 ]
