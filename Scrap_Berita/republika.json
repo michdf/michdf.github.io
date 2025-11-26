@@ -1,81 +1,213 @@
 [
     {
+        "title": "Layanan Perekaman e-KTP untuk Penyandang Disabilitas",
+        "category": "Visual",
+        "publish_time": "26-11-2025 12:31",
+        "news_link": "https://visual.republika.co.id/berita/t6c2t4375/layanan-perekaman-ektp-untuk-penyandang-disabilitas"
+    },
+    {
+        "title": "Bank Mantap Salurkan Bantuan Alat Bantu Dengar untuk Lansia",
+        "category": "Esgnow",
+        "publish_time": "26-11-2025 12:27",
+        "news_link": "https://esgnow.republika.co.id/berita/t6c2lw416/bank-mantap-salurkan-bantuan-alat-bantu-dengar-untuk-lansia"
+    },
+    {
+        "title": "Pelita Air Beri Diskon Tiket hingga 22 Persen Menuju Liburan Akhir Tahun",
+        "category": "Ekonomi",
+        "publish_time": "26-11-2025 12:16",
+        "news_link": "https://ekonomi.republika.co.id/berita/t6c243349/pelita-air-beri-diskon-tiket-hingga-22-persen-menuju-liburan-akhir-tahun"
+    },
+    {
+        "title": "Ratusan Siswa SMPN 1 Blora Keracunan, 955 Porsi Menu MBG Ditarik",
+        "category": "News",
+        "publish_time": "26-11-2025 12:16",
+        "news_link": "https://news.republika.co.id/berita/t6c22p484/ratusan-siswa-smpn-1-blora-keracunan-955-porsi-menu-mbg-ditarik"
+    },
+    {
+        "title": "TNI AL Tangkap Dua Kapal Pengangkut Nikel Ore Ilegal untuk PT IMIP Morowali",
+        "category": "News",
+        "publish_time": "26-11-2025 12:05",
+        "news_link": "https://news.republika.co.id/berita/t6c1kx484/tni-al-tangkap-dua-kapal-pengangkut-nikel-ore-ilegal-untuk-pt-imip-morowali"
+    },
+    {
+        "title": "Wali Kota Sabang dan Batam Sampaikan Terima Kasih kepada Mentan Amran",
+        "category": "Ekonomi",
+        "publish_time": "26-11-2025 11:59",
+        "news_link": "https://ekonomi.republika.co.id/berita/t6c1bf472/wali-kota-sabang-dan-batam-sampaikan-terima-kasih-kepada-mentan-amran"
+    },
+    {
+        "title": "Demo Pembebasan Tahanan Sekte Alawite Ricuh, Suriah Rentan Konflik Sekterian",
+        "category": "Khazanah",
+        "publish_time": "26-11-2025 11:58",
+        "news_link": "https://khazanah.republika.co.id/berita/t6c19w320/demo-pembebasan-tahanan-sekte-alawite-ricuh-suriah-rentan-konflik-sekterian"
+    },
+    {
+        "title": "Pedagang Thrifting Pusing Tujuh Keliling, tak Berdaya karena Larangan Impor Menteri Purbaya",
+        "category": "Rejogja",
+        "publish_time": "26-11-2025 11:49",
+        "news_link": "https://rejogja.republika.co.id/berita/t6c0ts282/pedagang-thrifting-pusing-tujuh-keliling-tak-berdaya-karena-larangan-impor-menteri-purbaya"
+    },
+    {
+        "title": "Studi Terbaru, Syuhada Gaza Capai 100 Ribu Jiwa",
+        "category": "News",
+        "publish_time": "26-11-2025 11:47",
+        "news_link": "https://news.republika.co.id/berita/t6c0rs393/studi-terbaru-syuhada-gaza-capai-100-ribu-jiwa"
+    },
+    {
+        "title": "Dukung Kesejahteraan Guru, Farabi El Fouz Dorong Kebijakan Konkret di Jawa Barat",
+        "category": "Rejabar",
+        "publish_time": "26-11-2025 11:43",
+        "news_link": "https://rejabar.republika.co.id/berita/t6c0kk472/dukung-kesejahteraan-guru-farabi-el-fouz-dorong-kebijakan-konkret-di-jawa-barat"
+    },
+    {
+        "title": "Menag: RI Siap Tampil Sebagai Produsen Pemikiran Islam Modern",
+        "category": "Khazanah",
+        "publish_time": "26-11-2025 11:40",
+        "news_link": "https://khazanah.republika.co.id/berita/t6c0f6483/menag-ri-siap-tampil-sebagai-produsen-pemikiran-islam-modern"
+    },
+    {
+        "title": "Konflik PBNU, Ini Sikap yang Diambil Rais Syuriah PWNU Jateng",
+        "category": "Khazanah",
+        "publish_time": "26-11-2025 11:38",
+        "news_link": "https://khazanah.republika.co.id/berita/t6c0ce430/konflik-pbnu-ini-sikap-yang-diambil-rais-syuriah-pwnu-jateng"
+    },
+    {
+        "title": "Mengapa Pelibatan Laki-Laki Jadi Kunci Akhiri Kekerasan Terhadap Perempuan di Kampus?",
+        "category": "News",
+        "publish_time": "26-11-2025 11:37",
+        "news_link": "https://news.republika.co.id/berita/t6c0al472/mengapa-pelibatan-lakilaki-jadi-kunci-akhiri-kekerasan-terhadap-perempuan-di-kampus"
+    },
+    {
+        "title": "Indra Sjafri Minta Publik tak Permasalahkan Target Emas atau Perak di SEA Games",
+        "category": "News",
+        "publish_time": "26-11-2025 11:37",
+        "news_link": "https://news.republika.co.id/berita/t6c09y348/indra-sjafri-minta-publik-tak-permasalahkan-target-emas-atau-perak-di-sea-games"
+    },
+    {
+        "title": "Pengacara Ira Puspadewi Ungkap Tanggal Kliennya Bebas Usai Dapat Rehabilitasi",
+        "category": "News",
+        "publish_time": "26-11-2025 11:34",
+        "news_link": "https://news.republika.co.id/berita/t6c059409/pengacara-ira-puspadewi-ungkap-tanggal-kliennya-bebas-usai-dapat-rehabilitasi"
+    },
+    {
+        "title": "Daftar Ketua Umum PBNU dan Rais Aam Sejak Awal Hingga Sekarang",
+        "category": "Khazanah",
+        "publish_time": "26-11-2025 11:33",
+        "news_link": "https://khazanah.republika.co.id/berita/t6c02v430/daftar-ketua-umum-pbnu-dan-rais-aam-sejak-awal-hingga-sekarang"
+    },
+    {
+        "title": "Hadapi Musim Liburan Nataru, Pelita Air Datangkan Dua Pesawat Baru",
+        "category": "Ekonomi",
+        "publish_time": "26-11-2025 11:32",
+        "news_link": "https://ekonomi.republika.co.id/berita/t6c00e416/hadapi-musim-liburan-nataru-pelita-air-datangkan-dua-pesawat-baru"
+    },
+    {
+        "title": "Banyak Konten Dipalsukan pada Era AI, MUI Minta Umat Lebih Ketat Bertabayun",
+        "category": "Khazanah",
+        "publish_time": "26-11-2025 11:32",
+        "news_link": "https://khazanah.republika.co.id/berita/t6bzwc483/banyak-konten-dipalsukan-pada-era-ai-mui-minta-umat-lebih-ketat-bertabayun"
+    },
+    {
+        "title": "Penjelasan Waketum PBNU soal Surat yang Beredar di Masyarakat",
+        "category": "Khazanah",
+        "publish_time": "26-11-2025 11:32",
+        "news_link": "https://khazanah.republika.co.id/berita/t6bzr2430/penjelasan-waketum-pbnu-soal-surat-yang-beredar-di-masyarakat"
+    },
+    {
+        "title": "Gozco Capital Tambah 72,45 Juta Saham Bank Neo Commerce",
+        "category": "Ekonomi",
+        "publish_time": "26-11-2025 11:32",
+        "news_link": "https://ekonomi.republika.co.id/berita/t6bzpz416/gozco-capital-tambah-7245-juta-saham-bank-neo-commerce"
+    },
+    {
+        "title": "Tamsil Linrung Dorong Sinergi MIND ID\u2013Unhas Agar Hilirisasi Berkontribusi untuk Daerah",
+        "category": "News",
+        "publish_time": "26-11-2025 11:32",
+        "news_link": "https://news.republika.co.id/berita/t6bzn5349/tamsil-linrung-dorong-sinergi-mind-idunhas-agar-hilirisasi-berkontribusi-untuk-daerah"
+    },
+    {
+        "title": "Pertamina Patra Niaga Pastikan Energi Aman Selama Libur Natal dan Tahun Baru",
+        "category": "Ekonomi",
+        "publish_time": "26-11-2025 11:32",
+        "news_link": "https://ekonomi.republika.co.id/berita/t6bzg6522/pertamina-patra-niaga-pastikan-energi-aman-selama-libur-natal-dan-tahun-baru"
+    },
+    {
         "title": "Gandeng Al Wasat Institute, MPR Gelar Sosialiasi 4 Pilar untuk Guru di Tangsel",
         "category": "Khazanah",
-        "publish_time": "26-11-2025 11:13",
+        "publish_time": "26-11-2025 11:32",
         "news_link": "https://khazanah.republika.co.id/berita/t6bz6j458/gandeng-al-wasat-institute-mpr-gelar-sosialiasi-4-pilar-untuk-guru-di-tangsel"
     },
     {
         "title": "Dandim Batam: Beras dan Minyak Goreng Ilegal Masuk Tanpa Dokumen",
         "category": "Ekonomi",
-        "publish_time": "26-11-2025 11:11",
+        "publish_time": "26-11-2025 11:32",
         "news_link": "https://ekonomi.republika.co.id/berita/t6bz4b472/dandim-batam-beras-dan-minyak-goreng-ilegal-masuk-tanpa-dokumen"
     },
     {
         "title": "Bolsonaro Mulai Jalani Hukuman 27 Tahun Penjara Usai Sempat Berupaya Melarikan Diri",
         "category": "News",
-        "publish_time": "26-11-2025 11:09",
+        "publish_time": "26-11-2025 11:32",
         "news_link": "https://news.republika.co.id/berita/t6bz01409/bolsonaro-mulai-jalani-hukuman-27-tahun-penjara-usai-sempat-berupaya-melarikan-diri"
     },
     {
         "title": "Terus Berinovasi dengan Bijaksana",
         "category": "Rejogja",
-        "publish_time": "26-11-2025 11:00",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://rejogja.republika.co.id/berita/t6bykn291/terus-berinovasi-dengan-bijaksana"
     },
     {
         "title": "Pertamina Patra Niaga Pastikan Pasokan Energi Aman, Pemerintah Kawal Perjalanan Nataru 2025",
         "category": "Ekonomi",
-        "publish_time": "26-11-2025 11:00",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://ekonomi.republika.co.id/berita/t6byke522/pertamina-patra-niaga-pastikan-pasokan-energi-aman-pemerintah-kawal-perjalanan-nataru-2025"
     },
     {
         "title": "Waketum PBNU Sebut Surat Pemberhentian Gus Yahya tidak Sah",
         "category": "Video",
-        "publish_time": "26-11-2025 10:55",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://tv.republika.co.id/berita/t6bycl313/waketum-pbnu-sebut-surat-pemberhentian-gus-yahya-tidak-sah"
     },
     {
         "title": "Zainudin Amali dan Sumardji Suntik Motivasi Timnas U-23 ke SEA Games, Optimistis Pertahankan Emas",
         "category": "News",
-        "publish_time": "26-11-2025 10:52",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://news.republika.co.id/berita/t6by7y348/zainudin-amali-dan-sumardji-suntik-motivasi-timnas-u23-ke-sea-games-optimistis-pertahankan-emas"
     },
     {
         "title": "Prabowo Beri Rehabilitasi Mantan Dirut ASDP Ira Puspadewi, Ini Respons MA",
         "category": "News",
-        "publish_time": "26-11-2025 10:49",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://news.republika.co.id/berita/t6by2n409/prabowo-beri-rehabilitasi-mantan-dirut-asdp-ira-puspadewi-ini-respons-ma"
     },
     {
         "title": "LRT Jakarta tak Terhubung Langsung ke Peron Stasiun KRL Manggarai",
         "category": "News",
-        "publish_time": "26-11-2025 10:46",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://news.republika.co.id/berita/t6bxyn484/lrt-jakarta-tak-terhubung-langsung-ke-peron-stasiun-krl-manggarai"
     },
     {
         "title": "Rumah Produksi Petasan di Indramayu Meledak, Warga Panik",
         "category": "Rejabar",
-        "publish_time": "26-11-2025 10:46",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://rejabar.republika.co.id/berita/t6bxxr512/rumah-produksi-petasan-di-indramayu-meledak-warga-panik"
     },
     {
         "title": "OJK: Tren Suku Bunga Rendah Bisa Dongkrak Pertumbuhan Kredit Jelang Akhir 2025",
         "category": "Ekonomi",
-        "publish_time": "26-11-2025 10:44",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://ekonomi.republika.co.id/berita/t6bxtw423/ojk-tren-suku-bunga-rendah-bisa-dongkrak-pertumbuhan-kredit-jelang-akhir-2025"
     },
     {
         "title": "Pemerintah Gencarkan Hilirisasi Kelapa untuk Serap Tenaga Kerja",
         "category": "Ekonomi",
-        "publish_time": "26-11-2025 10:42",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://ekonomi.republika.co.id/berita/t6brps416/pemerintah-gencarkan-hilirisasi-kelapa-untuk-serap-tenaga-kerja"
     },
     {
-        "title": "Sudah Pisah dengan Tersangka Sejak 2024, Istri Ungkap Sikap Tempramen Suami",
+        "title": "Sudah Pisah dengan Tersangka Sejak 2024, Istri Ungkap Sikap Tempramen Ayah Tiri Alvaro",
         "category": "News",
-        "publish_time": "26-11-2025 10:41",
-        "news_link": "https://news.republika.co.id/berita/t6bxpi409/sudah-pisah-dengan-tersangka-sejak-2024-istri-ungkap-sikap-tempramen-suami"
+        "publish_time": "26-11-2025 10:32",
+        "news_link": "https://news.republika.co.id/berita/t6bxpi409/sudah-pisah-dengan-tersangka-sejak-2024-istri-ungkap-sikap-tempramen-ayah-tiri-alvaro"
     },
     {
         "title": "IHSG Menguat 0,94 Persen Dipicu Ekspektasi Pemangkasan Suku Bunga The Fed",
@@ -86,217 +218,85 @@
     {
         "title": "Total Hukuman yang Harus Dijalani Mario Dandy 18 Tahun Penjara, Ini Penjelasan MA",
         "category": "News",
-        "publish_time": "26-11-2025 10:31",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://news.republika.co.id/berita/t6bx9l409/total-hukuman-yang-harus-dijalani-mario-dandy-18-tahun-penjara-ini-penjelasan-ma"
     },
     {
         "title": "Siklus Bencana 100 Tahun di Dunia",
         "category": "Kolom",
-        "publish_time": "26-11-2025 10:29",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://analisis.republika.co.id/berita/t6bx5q393/siklus-bencana-100-tahun-di-dunia"
     },
     {
         "title": "Katib PBNU Sebut Gus Yahya Sudah Dicopot dari Ketum, Sarankan Diam",
         "category": "Khazanah",
-        "publish_time": "26-11-2025 10:29",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://khazanah.republika.co.id/berita/t6bx4t484/katib-pbnu-sebut-gus-yahya-sudah-dicopot-dari-ketum-sarankan-diam"
     },
     {
         "title": "Airlangga Tegaskan tidak Ada Insentif Otomotif 2026, Menperin Bersikukuh Perlu",
         "category": "Ekonomi",
-        "publish_time": "26-11-2025 10:28",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://ekonomi.republika.co.id/berita/t6bx46349/airlangga-tegaskan-tidak-ada-insentif-otomotif-2026-menperin-bersikukuh-perlu"
     },
     {
         "title": "Pertamina Tegaskan Siap Pasok Kebutuhan BBM SPBU Swasta",
         "category": "Ekonomi",
-        "publish_time": "26-11-2025 10:26",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://ekonomi.republika.co.id/berita/t6bx09490/pertamina-tegaskan-siap-pasok-kebutuhan-bbm-spbu-swasta"
     },
     {
         "title": "Pemerintah Serap Rp10 Triliun dari Lelang Sukuk Pekan Ini",
         "category": "Ekonomi Syariah",
-        "publish_time": "26-11-2025 10:22",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://sharia.republika.co.id/berita/t6bwt8423/pemerintah-serap-rp10-triliun-dari-lelang-sukuk-pekan-ini"
     },
     {
         "title": "Sebanyak 198 Siswa SMPN 1 Blora Alami Keracunan Usai Menyantap Menu MBG",
         "category": "News",
-        "publish_time": "26-11-2025 10:20",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://news.republika.co.id/berita/t6bwr0409/sebanyak-198-siswa-smpn-1-blora-alami-keracunan-usai-menyantap-menu-mbg"
     },
     {
         "title": "Hujan Deras di Gaza, Israel Tingkatkan Serangan",
         "category": "News",
-        "publish_time": "26-11-2025 10:20",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://news.republika.co.id/berita/t6bwqa393/hujan-deras-di-gaza-israel-tingkatkan-serangan"
     },
     {
         "title": "Hadiah Bagi yang Sabar Ditimpa Musibah",
         "category": "Khazanah",
-        "publish_time": "26-11-2025 10:19",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://khazanah.republika.co.id/berita/t6bwbe430/hadiah-bagi-yang-sabar-ditimpa-musibah"
     },
     {
         "title": "Menhan dan Kepala Staf Angkatan Darat Israel Pecah Kongsi, Netanyahu Kelabakan",
         "category": "Khazanah",
-        "publish_time": "26-11-2025 10:17",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://khazanah.republika.co.id/berita/t6bwl8320/menhan-dan-kepala-staf-angkatan-darat-israel-pecah-kongsi-netanyahu-kelabakan"
     },
     {
         "title": "Polisi Temukan Sampel Diduga Tulang Alvaro di Jembatan Cilalay Bogor",
         "category": "News",
-        "publish_time": "26-11-2025 10:16",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://news.republika.co.id/berita/t6bwk7409/polisi-temukan-sampel-diduga-tulang-alvaro-di-jembatan-cilalay-bogor"
     },
     {
         "title": "Fatwa MUI Larang Pungut PBB Berulang, Bapenda Jateng Tunggu Petunjuk dari...",
         "category": "Khazanah",
-        "publish_time": "26-11-2025 10:16",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://khazanah.republika.co.id/berita/t6bwju430/fatwa-mui-larang-pungut-pbb-berulang-bapenda-jateng-tunggu-petunjuk-dari"
     },
     {
         "title": "Tingkatkan Daya Saing Ekonomi, BSN Perluas Akses Infrastruktur Mutu",
         "category": "Ekonomi",
-        "publish_time": "26-11-2025 10:13",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://ekonomi.republika.co.id/berita/t6bw9v416/tingkatkan-daya-saing-ekonomi-bsn-perluas-akses-infrastruktur-mutu"
     },
     {
         "title": "Waketum NU Sebut Surat Pemberhentian Gus Yahya dari Posisi Ketum PBNU tak Sah",
         "category": "Khazanah",
-        "publish_time": "26-11-2025 10:13",
+        "publish_time": "26-11-2025 10:32",
         "news_link": "https://khazanah.republika.co.id/berita/t6bw8h320/waketum-nu-sebut-surat-pemberhentian-gus-yahya-dari-posisi-ketum-pbnu-tak-sah"
-    },
-    {
-        "title": "Kelapangan Harta Bukan Berarti Disayang Allah, Kesempitan Harta Bukan Berarti Dibenci Allah",
-        "category": "Khazanah",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://khazanah.republika.co.id/berita/t6bw3h430/kelapangan-harta-bukan-berarti-disayang-allah-kesempitan-harta-bukan-berarti-dibenci-allah"
-    },
-    {
-        "title": "Sebanyak 40,6 Persen Sampah Belum Dikelola Baik, Grab Gandeng Sirsak Tangani Sampah Kemasan",
-        "category": "Esgnow",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://esgnow.republika.co.id/berita/t6btcp291/sebanyak-406-persen-sampah-belum-dikelola-baik-grab-gandeng-sirsak-tangani-sampah-kemasan"
-    },
-    {
-        "title": "Dokter Ungkap Banyak Remaja Mulai Cari Bantuan Mental: Ada Apa?",
-        "category": "Network",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://inforemaja.id/posts/723404/dokter-ungkap-banyak-remaja-mulai-cari-bantuan-mental-ada-apa-"
-    },
-    {
-        "title": "HGN 2025, Fahira Idris Sampaikan Empat Pilar Ekosistem Guru Hebat",
-        "category": "Network",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://pemantiknews.id/posts/723407/hgn-2025-fahira-idris-sampaikan-empat-pilar-ekosistem-guru-hebat"
-    },
-    {
-        "title": "Satpol PP Kota Bandung Sita 134 Botol Minuman Beralkohol dan 1.303 Obat Ilegal",
-        "category": "Network",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://bandung24jam.id/posts/723425/satpol-pp-kota-bandung-sita-134-botol-minuman-beralkohol-dan-1-303-obat-ilegal"
-    },
-    {
-        "title": "Catatan Cak AT: Jangan Cuma Merehab Ira",
-        "category": "Network",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://ruzkaindonesia.id/posts/723436/catatan-cak-at-jangan-cuma-merehab-ira"
-    },
-    {
-        "title": "BTN Bukukan Laba Bersih Rp 2,50 Triliun hingga Oktober 2025",
-        "category": "Khazanah",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://khazanah.republika.co.id/berita/t6bvcx423/btn-bukukan-laba-bersih-rp-250-triliun-hingga-oktober-2025"
-    },
-    {
-        "title": "Guns N' Roses Rilis Dua Singel Nothin', Atlas, dan Tur Dunia 2026",
-        "category": "Network",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://impresiupdate.id/posts/723455/guns-n-roses-rilis-dua-singel-nothin-atlas-dan-tur-dunia-2026"
-    },
-    {
-        "title": "Kurang Tidur Bisa Mempercepat Penuaan Otak dan Hilangnya Memori",
-        "category": "Network",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://impresiupdate.id/posts/723462/kurang-tidur-bisa-mempercepat-penuaan-otak-dan-hilangnya-memori"
-    },
-    {
-        "title": "Pemprov DKI Mau Batasi Akses Konten Berbahaya: Pelajar Harus Makin Aman di Medsos",
-        "category": "Network",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://inforemaja.id/posts/723409/pemprov-dki-mau-batasi-akses-konten-berbahaya-pelajar-harus-makin-aman-di-medsos"
-    },
-    {
-        "title": "Career Day Sukabumi 2025 Banjir Pencari Kerja, 1.616 Orang Berebut 1.000 Lowongan",
-        "category": "Network",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://sukabumikini.com/posts/723531/career-day-sukabumi-2025-banjir-pencari-kerja-1-616-orang-berebut-1-000-lowongan"
-    },
-    {
-        "title": "Realisasi Investasi Surabaya Tembus Rp31,3 Triliun per Triwulan III 2025",
-        "category": "Network",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://sekitarsurabaya.com/posts/723570/realisasi-investasi-surabaya-tembus-rp31-3-triliun-per-triwulan-iii-2025"
-    },
-    {
-        "title": "PP Muhammadiyah Sertifikasi Chef SPPG, Berlaku Tiga Tahun",
-        "category": "Network",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://magentatoday.id/posts/723599/pp-muhammadiyah-sertifikasi-chef-sppg-berlaku-tiga-tahun"
-    },
-    {
-        "title": "TV Girl dan L'Impratrice Bakal Tampil di Joyland Sessions 2025, Ada Bernadya Juga!",
-        "category": "Network",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://filmusiku.com/posts/723602/tv-girl-dan-l-imp-ratrice-bakal-tampil-di-joyland-sessions-2025-ada-bernadya-juga-"
-    },
-    {
-        "title": "Arteta Wanti-Wanti Arsenal tak Kendur Saat Jamu Bayern Munchen",
-        "category": "News",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://news.republika.co.id/berita/t6bv66348/arteta-wantiwanti-arsenal-tak-kendur-saat-jamu-bayern-munchen"
-    },
-    {
-        "title": "Dua Desa Migran Emas, Kisah Harapan Baru dari Musi Banyuasin",
-        "category": "Network",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://kingdomsriwijaya.id/posts/723638/dua-desa-migran-emas-kisah-harapan-baru-dari-musi-banyuasin"
-    },
-    {
-        "title": "Surat Edaran Putuskan Gus Yahya Bukan Lagi Ketum PBNU Terhitung 26 November",
-        "category": "Video",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://tv.republika.co.id/berita/t6bv3e313/surat-edaran-putuskan-gus-yahya-bukan-lagi-ketum-pbnu-terhitung-26-november"
-    },
-    {
-        "title": "Menkum Siapkan Tiga PP Krusial Jelang KUHAP Baru Berlaku",
-        "category": "News",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://news.republika.co.id/berita/t6bv2g487/menkum-siapkan-tiga-pp-krusial-jelang-kuhap-baru-berlaku"
-    },
-    {
-        "title": "Wamenhut: Pemerintah Akan Libatkan Masyarakat Adat dalam Skema Kredit Karbon",
-        "category": "Esgnow",
-        "publish_time": "26-11-2025 10:13",
-        "news_link": "https://esgnow.republika.co.id/berita/t6bv2a490/wamenhut-pemerintah-akan-libatkan-masyarakat-adat-dalam-skema-kredit-karbon"
-    },
-    {
-        "title": "Rafflesia Hasseltii dan Tesso Nilo dalam Algoritma Media Sosial",
-        "category": "Kolom",
-        "publish_time": "26-11-2025 09:13",
-        "news_link": "https://analisis.republika.co.id/berita/t6buxi282/rafflesia-hasseltii-dan-tesso-nilo-dalam-algoritma-media-sosial"
-    },
-    {
-        "title": "Asesmen Tahap II Dikdasmen Perkuat Budaya Mutu Internal Pesantren",
-        "category": "Khazanah",
-        "publish_time": "26-11-2025 09:13",
-        "news_link": "https://khazanah.republika.co.id/berita/t6bua0456/asesmen-tahap-ii-dikdasmen-perkuat-budaya-mutu-internal-pesantren"
-    },
-    {
-        "title": "Kuasa Hukum Keluarga Arya Daru Minta Polda Metro Jaya Gelar Perkara Terbuka",
-        "category": "News",
-        "publish_time": "26-11-2025 09:13",
-        "news_link": "https://news.republika.co.id/berita/t6buvq487/kuasa-hukum-keluarga-arya-daru-minta-polda-metro-jaya-gelar-perkara-terbuka"
     }
 ]
