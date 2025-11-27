@@ -1,110 +1,206 @@
 [
     {
+        "title": "UMAM Tonggak Peradaban Islam dan Kerja Sama RI-Malaysia",
+        "category": "Khazanah",
+        "publish_time": "27-11-2025 15:09",
+        "news_link": "https://khazanah.republika.co.id/berita/t6e23m430/umam-tonggak-peradaban-islam-dan-kerja-sama-rimalaysia"
+    },
+    {
+        "title": "Purbaya Pastikan Transfer Awal Tahun Lancar, Pemda tak Perlu Menahan Belanja",
+        "category": "Ekonomi",
+        "publish_time": "27-11-2025 15:06",
+        "news_link": "https://ekonomi.republika.co.id/berita/t6e4m7423/purbaya-pastikan-transfer-awal-tahun-lancar-pemda-tak-perlu-menahan-belanja"
+    },
+    {
+        "title": "Melihat Latihan Penanggulangan Keadaan Darurat di Bandara Halim",
+        "category": "Visual",
+        "publish_time": "27-11-2025 15:00",
+        "news_link": "https://visual.republika.co.id/berita/t6e09w375/melihat-latihan-penanggulangan-keadaan-darurat-di-bandara-halim"
+    },
+    {
+        "title": "Ada Dua Kategori Ulama di Hadapan Allah SWT Kelak di AKhirat",
+        "category": "Khazanah",
+        "publish_time": "27-11-2025 14:57",
+        "news_link": "https://khazanah.republika.co.id/berita/t6e48l320/ada-dua-kategori-ulama-di-hadapan-allah-swt-kelak-di-akhirat"
+    },
+    {
+        "title": "Produksi Toyota Melonjak, Penjualan Hybrid Capai 42 Persen",
+        "category": "Ekonomi",
+        "publish_time": "27-11-2025 14:51",
+        "news_link": "https://ekonomi.republika.co.id/berita/t6e3xi348/produksi-toyota-melonjak-penjualan-hybrid-capai-42-persen"
+    },
+    {
+        "title": "Legenda Triathlon Dunia Ramaikan Belitung Multisport Festival 2026",
+        "category": "Network",
+        "publish_time": "27-11-2025 14:50",
+        "news_link": "https://skor.republika.co.id/posts/724282/legenda-triathlon-dunia-ramaikan-belitung-multisport-festival-2026"
+    },
+    {
+        "title": "Puluhan Siswa di Sanggar Gentra Taruna Ikuti Pelatihaan Co- Creation Traditional Dance",
+        "category": "News",
+        "publish_time": "27-11-2025 14:48",
+        "news_link": "https://news.republika.co.id/berita/t6e3sd320/puluhan-siswa-di-sanggar-gentra-taruna-ikuti-pelatihaan-co-creation-traditional-dance"
+    },
+    {
+        "title": "Wisatawan Asal Belgia Jadi Korban Curanmor Saat Berlibur di Pangandaran, Polisi Tangkap Pelaku",
+        "category": "Rejabar",
+        "publish_time": "27-11-2025 14:46",
+        "news_link": "https://rejabar.republika.co.id/berita/t6e3q5512/wisatawan-asal-belgia-jadi-korban-curanmor-saat-berlibur-di-pangandaran-polisi-tangkap-pelaku"
+    },
+    {
+        "title": "Tumbuhkan Bibit Baru Teknologi Kreatif, STEI ITB Gelar Workshop Game-Dev untuk Siswa SMA/SMK",
+        "category": "Rejabar",
+        "publish_time": "27-11-2025 14:43",
+        "news_link": "https://rejabar.republika.co.id/berita/t6e3jr512/tumbuhkan-bibit-baru-teknologi-kreatif-stei-itb-gelar-workshop-gamedev-untuk-siswa-smasmk"
+    },
+    {
+        "title": "Garuda Kaji Ulang Proyeksi Bisnis Usai Terima Suntikan Modal Danantara",
+        "category": "Ekonomi",
+        "publish_time": "27-11-2025 14:37",
+        "news_link": "https://ekonomi.republika.co.id/berita/t6e39v416/garuda-kaji-ulang-proyeksi-bisnis-usai-terima-suntikan-modal-danantara"
+    },
+    {
+        "title": "Innalillahi, BPBD Umumkan 47 Orang Meninggal Dunia Akibat Banjir dan Longsor di Sumut",
+        "category": "News",
+        "publish_time": "27-11-2025 14:37",
+        "news_link": "https://news.republika.co.id/berita/t6e39p409/innalillahi-bpbd-umumkan-47-orang-meninggal-dunia-akibat-banjir-dan-longsor-di-sumut"
+    },
+    {
+        "title": "Liverpool Kalah Terus, Arne Slot tak Khawatir Dipecat",
+        "category": "News",
+        "publish_time": "27-11-2025 14:30",
+        "news_link": "https://news.republika.co.id/berita/t6e2yx409/liverpool-kalah-terus-arne-slot-tak-khawatir-dipecat"
+    },
+    {
+        "title": "Polda Lampung Siapkan 1.612 Personel Amankan Ijtima Ulama 2025",
+        "category": "Khazanah",
+        "publish_time": "27-11-2025 14:28",
+        "news_link": "https://khazanah.republika.co.id/berita/t6e2ve430/polda-lampung-siapkan-1612-personel-amankan-ijtima-ulama-2025"
+    },
+    {
+        "title": "PSSI Umumkan 23 Pemain untuk SEA Games 2025, Ada Ivar Jenner dan Marselino",
+        "category": "News",
+        "publish_time": "27-11-2025 14:27",
+        "news_link": "https://news.republika.co.id/berita/t6e2ud348/pssi-umumkan-23-pemain-untuk-sea-games-2025-ada-ivar-jenner-dan-marselino"
+    },
+    {
+        "title": "Pemkab Blora Tetapkan Status KLB Usai Seratusan Siswa Keracunan Usai Menyantap Menu MBG",
+        "category": "News",
+        "publish_time": "27-11-2025 14:19",
+        "news_link": "https://news.republika.co.id/berita/t6e2fs409/pemkab-blora-tetapkan-status-klb-usai-seratusan-siswa-keracunan-usai-menyantap-menu-mbg"
+    },
+    {
+        "title": "Panitia Sebut Ijtima Ulama Lampung Usung Semangat Persatuan Umat",
+        "category": "Khazanah",
+        "publish_time": "27-11-2025 14:16",
+        "news_link": "https://khazanah.republika.co.id/berita/t6e2au430/panitia-sebut-ijtima-ulama-lampung-usung-semangat-persatuan-umat"
+    },
+    {
         "title": "Pakar Transportasi Nilai LRT Jakarta Fase 1 tak Efektif, Ini Penyebab dan Solusinya",
         "category": "News",
-        "publish_time": "27-11-2025 14:13",
+        "publish_time": "27-11-2025 14:15",
         "news_link": "https://news.republika.co.id/berita/t6e25m409/pakar-transportasi-nilai-lrt-jakarta-fase-1-tak-efektif-ini-penyebab-dan-solusinya"
     },
     {
         "title": "Kata Purbaya soal Petugas Bea Cukai yang akan Ditugaskan di Bandara Morowali",
         "category": "News",
-        "publish_time": "27-11-2025 14:10",
+        "publish_time": "27-11-2025 14:15",
         "news_link": "https://news.republika.co.id/berita/t6e1wt430/kata-purbaya-soal-petugas-bea-cukai-yang-akan-ditugaskan-di-bandara-morowali"
     },
     {
         "title": "Jakarta Melesat ke Peringkat 1 Kota Terpadat Penduduk di Dunia, Sebelumnya Peringkat 33",
         "category": "News",
-        "publish_time": "27-11-2025 14:07",
+        "publish_time": "27-11-2025 14:15",
         "news_link": "https://news.republika.co.id/berita/t6e1x0502/jakarta-melesat-ke-peringkat-1-kota-terpadat-penduduk-di-dunia-sebelumnya-peringkat-33"
     },
     {
         "title": "Saat Ulama Lebih Cinta Dunia kepada Akhirat, Lantas Bagaimana Mengenalinya? Ini Kata Imam Ghazali",
         "category": "Khazanah",
-        "publish_time": "27-11-2025 14:06",
+        "publish_time": "27-11-2025 14:15",
         "news_link": "https://khazanah.republika.co.id/berita/t6e1u9320/saat-ulama-lebih-cinta-dunia-kepada-akhirat-lantas-bagaimana-mengenalinya-ini-kata-imam-ghazali"
     },
     {
         "title": "Kulon Progo Siap Dukung Operasional Embarkasi Haji Yogyakarta",
         "category": "Khazanah",
-        "publish_time": "27-11-2025 14:04",
+        "publish_time": "27-11-2025 14:15",
         "news_link": "https://khazanah.republika.co.id/berita/t6e1qs430/kulon-progo-siap-dukung-operasional-embarkasi-haji-yogyakarta"
     },
     {
         "title": "Pemerintah Genjot Penyerapan Pekerja Formal, Industri Soroti Sikap Kerja Lulusan Muda",
         "category": "Ekonomi",
-        "publish_time": "27-11-2025 14:02",
+        "publish_time": "27-11-2025 14:15",
         "news_link": "https://ekonomi.republika.co.id/berita/t6dza9416/pemerintah-genjot-penyerapan-pekerja-formal-industri-soroti-sikap-kerja-lulusan-muda"
     },
     {
         "title": "Satu Warga Ditemukan Meninggal, 50 Rumah Rusak Akibat Banjir Bandang di Koto Alam Agam",
         "category": "News",
-        "publish_time": "27-11-2025 14:02",
+        "publish_time": "27-11-2025 14:15",
         "news_link": "https://news.republika.co.id/berita/t6e1n6409/satu-warga-ditemukan-meninggal-50-rumah-rusak-akibat-banjir-bandang-di-koto-alam-agam"
     },
     {
         "title": "Garuda Indonesia Minta Kemenhub Tinjau Ulang Tarif Tiket Pesawat",
         "category": "Ekonomi",
-        "publish_time": "27-11-2025 14:00",
+        "publish_time": "27-11-2025 14:15",
         "news_link": "https://ekonomi.republika.co.id/berita/t6e13e423/garuda-indonesia-minta-kemenhub-tinjau-ulang-tarif-tiket-pesawat"
     },
     {
         "title": "Jalan Lintas Nasional Medan-Banda Aceh Terputus Akibat Banjir",
         "category": "Visual",
-        "publish_time": "27-11-2025 14:00",
+        "publish_time": "27-11-2025 14:15",
         "news_link": "https://visual.republika.co.id/berita/t6e03j375/jalan-lintas-nasional-medanbanda-aceh-terputus-akibat-banjir"
     },
     {
         "title": "Gempa 6,5 M Guncang Simeulue Aceh, 12 Orang Terluka, Gedung Roboh dan Gudang Minyak Tanah Terbakar",
         "category": "Resumatra",
-        "publish_time": "27-11-2025 13:55",
+        "publish_time": "27-11-2025 14:15",
         "news_link": "https://republika.co.id/berita//t6e1bl282/gempa-65-m-guncang-simeulue-aceh-12-orang-terluka-gedung-roboh-dan-gudang-minyak-tanah-terbakar"
     },
     {
         "title": "Paul Munster Minta Pemain Bhayangkara Lampung Jaga Fokus Sepanjang Laga Lawan Persebaya",
         "category": "News",
-        "publish_time": "27-11-2025 13:53",
+        "publish_time": "27-11-2025 14:15",
         "news_link": "https://news.republika.co.id/berita/t6e18m348/paul-munster-minta-pemain-bhayangkara-lampung-jaga-fokus-sepanjang-laga-lawan-persebaya"
     },
     {
         "title": "Dukung Pendidikan Inklusif, Oxygen.id Beri Akses Internet Cepat ke Panti Asuhan",
         "category": "Esgnow",
-        "publish_time": "27-11-2025 13:52",
+        "publish_time": "27-11-2025 14:15",
         "news_link": "https://esgnow.republika.co.id/berita/t6e176502/dukung-pendidikan-inklusif-oxygenid-beri-akses-internet-cepat-ke-panti-asuhan"
     },
     {
         "title": "Pangeran Abdullah: Hanya Ronaldo yang Layak Dapatkan Gaji Fantastis di Liga Saudi",
         "category": "News",
-        "publish_time": "27-11-2025 13:46",
+        "publish_time": "27-11-2025 14:15",
         "news_link": "https://news.republika.co.id/berita/t6e0xu348/pangeran-abdullah-hanya-ronaldo-yang-layak-dapatkan-gaji-fantastis-di-liga-saudi"
     },
     {
         "title": "Ratu Maxima Dorong Masyarakat Indonesia Lebih Melek Kesehatan Finansial",
         "category": "Ekonomi",
-        "publish_time": "27-11-2025 13:42",
+        "publish_time": "27-11-2025 13:15",
         "news_link": "https://ekonomi.republika.co.id/berita/t6e0qf423/ratu-maxima-dorong-masyarakat-indonesia-lebih-melek-kesehatan-finansial"
     },
     {
         "title": "Rumah Zakat Salurkan Bantuan untuk Korban Banjir di Kota Padang",
         "category": "Khazanah",
-        "publish_time": "27-11-2025 13:29",
+        "publish_time": "27-11-2025 13:15",
         "news_link": "https://khazanah.republika.co.id/berita/t6e05g472/rumah-zakat-salurkan-bantuan-untuk-korban-banjir-di-kota-padang"
     },
     {
         "title": "Di Forum OJK, Ratu Belanda Maxima Bahas Kesehatan Keuangan Nasional",
         "category": "Visual",
-        "publish_time": "27-11-2025 13:23",
+        "publish_time": "27-11-2025 13:15",
         "news_link": "https://visual.republika.co.id/berita/t6dzvh375/di-forum-ojk-ratu-belanda-maxima-bahas-kesehatan-keuangan-nasional"
     },
     {
         "title": "Arteta Puji Performa Mengagumkan Arsenal Usai Tumbangkan Bayern",
         "category": "News",
-        "publish_time": "27-11-2025 13:18",
+        "publish_time": "27-11-2025 13:15",
         "news_link": "https://news.republika.co.id/berita/t6dzmn348/arteta-puji-performa-mengagumkan-arsenal-usai-tumbangkan-bayern"
     },
     {
         "title": "GoTo, Grab Merger Discussions Show \u2018Positive Signals\u2019, Minister Rosan Says",
         "category": "En",
-        "publish_time": "1 hours ago",
+        "publish_time": "2 hours ago",
         "news_link": "https://en.republika.co.id/berita/t6dz7b502/goto-grab-merger-discussions-show-positive-signals-minister-rosan-says"
     },
     {
@@ -182,7 +278,7 @@
     {
         "title": "How To Detect 'Obscene Driver' In Taxi Online?This is what criminologists say",
         "category": "En",
-        "publish_time": "2 hours ago",
+        "publish_time": "3 hours ago",
         "news_link": "https://en.republika.co.id/berita/t6dxuq475/how-to-detect-obscene-driver-in-taxi-onlinethis-is-what-criminologists-say"
     },
     {
@@ -202,101 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "27-11-2025 12:15",
         "news_link": "https://ekonomi.republika.co.id/berita/t6dwvb423/dana-desa-tahap-ii-hanya-cair-bila-desa-bentuk-kopdes-merah-putih"
-    },
-    {
-        "title": "PLN Bangun Akses Air Bersih di Kampung Pemulung Pondok Labu, Jakarta Selatan",
-        "category": "Ekonomi",
-        "publish_time": "27-11-2025 12:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6dwyw472/pln-bangun-akses-air-bersih-di-kampung-pemulung-pondok-labu-jakarta-selatan"
-    },
-    {
-        "title": "Kamboja Tarik Diri dari Cabor Sepak Bola SEA Games 2025",
-        "category": "Network",
-        "publish_time": "27-11-2025 12:15",
-        "news_link": "https://skor.republika.co.id/posts/724232/kamboja-tarik-diri-dari-cabor-sepak-bola-sea-games-2025"
-    },
-    {
-        "title": "Pertamina Retail Persiapkan Pekerja SPBU Hadapi Situasi Darurat Melalui Simulasi PKD",
-        "category": "Esgnow",
-        "publish_time": "27-11-2025 12:15",
-        "news_link": "https://esgnow.republika.co.id/berita/t6dwjq522/pertamina-retail-persiapkan-pekerja-spbu-hadapi-situasi-darurat-melalui-simulasi-pkd"
-    },
-    {
-        "title": "Rupiah Ditutup Menguat, Didorong Kebijakan Stimulus Ekonomi untuk Kuartal IV 2025",
-        "category": "Ekonomi",
-        "publish_time": "27-11-2025 12:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6dwhy423/rupiah-ditutup-menguat-didorong-kebijakan-stimulus-ekonomi-untuk-kuartal-iv-2025"
-    },
-    {
-        "title": "Central Aceh Declares Flood and Landslide Emergency, Access Completely Disconnected",
-        "category": "En",
-        "publish_time": "2 hours ago",
-        "news_link": "https://en.republika.co.id/berita/t6dwco415/central-aceh-declares-flood-and-landslide-emergency-access-completely-disconnected"
-    },
-    {
-        "title": "Konferensi Iklim COP30 Usai, Jauh dari Harapan Besar",
-        "category": "News",
-        "publish_time": "27-11-2025 12:15",
-        "news_link": "https://news.republika.co.id/berita/t6dw8f2815000/konferensi-iklim-cop30-usai-jauh-dari-harapan-besar"
-    },
-    {
-        "title": "Delapan Bulan Alvaro Hilang Hingga Info Satu Warga Tenjo Tuntun Polisi Ungkap Terjadinya Pembunuhan",
-        "category": "News",
-        "publish_time": "27-11-2025 12:15",
-        "news_link": "https://news.republika.co.id/berita/t6dw8q409/delapan-bulan-alvaro-hilang-hingga-info-satu-warga-tenjo-tuntun-polisi-ungkap-terjadinya-pembunuhan"
-    },
-    {
-        "title": "Pertama Kalinya, Al-Burhan Buka-Bukaan di Media Barat tentang Konflik Sudan dan Penyelesaiannya",
-        "category": "Khazanah",
-        "publish_time": "27-11-2025 12:15",
-        "news_link": "https://khazanah.republika.co.id/berita/t6dw89320/pertama-kalinya-alburhan-bukabukaan-di-media-barat-tentang-konflik-sudan-dan-penyelesaiannya"
-    },
-    {
-        "title": "1.000 Kasus DBD Terdeteksi di Bandung Barat, Lakukan 3M Plus Ini di Rumah!",
-        "category": "Rejabar",
-        "publish_time": "27-11-2025 12:15",
-        "news_link": "https://rejabar.republika.co.id/berita/t6dw6h512/1000-kasus-dbd-terdeteksi-di-bandung-barat-lakukan-3m-plus-ini-di-rumah"
-    },
-    {
-        "title": "Majelis Tahkim Bisa Menyidang Ketum PBNU, Gus Yahya dan Kiai Miftachul Akhyar Jadi Anggota",
-        "category": "Khazanah",
-        "publish_time": "27-11-2025 12:15",
-        "news_link": "https://khazanah.republika.co.id/berita/t6dw1w483/majelis-tahkim-bisa-menyidang-ketum-pbnu-gus-yahya-dan-kiai-miftachul-akhyar-jadi-anggota"
-    },
-    {
-        "title": "BNI Salurkan Bantuan Tanggap Darurat untuk Korban Banjir Bandang di Padang dan Sibolga",
-        "category": "Ekonomi",
-        "publish_time": "27-11-2025 12:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6dvwg472/bni-salurkan-bantuan-tanggap-darurat-untuk-korban-banjir-bandang-di-padang-dan-sibolga"
-    },
-    {
-        "title": "Forum Ekonomi KB Bank Soroti Prospek Pertumbuhan Indonesia pada 2026",
-        "category": "Ekonomi",
-        "publish_time": "27-11-2025 12:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6dvr3370/forum-ekonomi-kb-bank-soroti-prospek-pertumbuhan-indonesia-pada-2026"
-    },
-    {
-        "title": "Tujuh Orang Meninggal Dunia Akibat Bencana Tanah Longsor di Agam Sumbar",
-        "category": "Visual",
-        "publish_time": "27-11-2025 12:15",
-        "news_link": "https://visual.republika.co.id/berita/t6dvet375/tujuh-orang-meninggal-dunia-akibat-bencana-tanah-longsor-di-agam-sumbar"
-    },
-    {
-        "title": "Sekolah di Sumbar PJJ Tiga Hari, Gubernur Tegaskan Keselamatan Nomor Satu",
-        "category": "News",
-        "publish_time": "27-11-2025 11:15",
-        "news_link": "https://news.republika.co.id/berita/t6dv8p425/sekolah-di-sumbar-pjj-tiga-hari-gubernur-tegaskan-keselamatan-nomor-satu"
-    },
-    {
-        "title": "Bagaimana Cara Deteksi 'Sopir Cabul' di Taksi Online? Ini Kata Kriminolog",
-        "category": "Ameera",
-        "publish_time": "27-11-2025 11:15",
-        "news_link": "https://ameera.republika.co.id/berita/t6dun2425/bagaimana-cara-deteksi-sopir-cabul-di-taksi-online-ini-kata-kriminolog"
-    },
-    {
-        "title": "Indonesia Masters 2026 Siap Kembali Digelar di Awal Tahun",
-        "category": "Network",
-        "publish_time": "27-11-2025 11:15",
-        "news_link": "https://skor.republika.co.id/posts/724215/indonesia-masters-2026-siap-kembali-digelar-di-awal-tahun"
     }
 ]
