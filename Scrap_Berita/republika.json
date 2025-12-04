@@ -1,74 +1,158 @@
 [
     {
+        "title": "Menhut Sebut 12 Perusahaan Jadi Subjek Hukum Atas Bencana Banjir dan Longsor di Sumatera",
+        "category": "News",
+        "publish_time": "04-12-2025 12:29",
+        "news_link": "https://news.republika.co.id/berita/t6qw16409/menhut-sebut-12-perusahaan-jadi-subjek-hukum-atas-bencana-banjir-dan-longsor-di-sumatera"
+    },
+    {
+        "title": "Memahami Hikmah di Balik Takdir",
+        "category": "Khazanah",
+        "publish_time": "04-12-2025 12:27",
+        "news_link": "https://khazanah.republika.co.id/berita/t6qvxp458/memahami-hikmah-di-balik-takdir"
+    },
+    {
+        "title": "Kapten Timnas Indonesia Jay Idzes Serius Dipantau AC Milan, Bisa Ditebus Januari 2026",
+        "category": "Network",
+        "publish_time": "04-12-2025 12:20",
+        "news_link": "https://skor.republika.co.id/posts/727306/kapten-timnas-indonesia-jay-idzes-serius-dipantau-ac-milan-bisa-ditebus-januari-2026"
+    },
+    {
+        "title": "Bea Cukai Salurkan Bantuan Kemanusiaan untuk Korban Banjir di Medan, Sibolga, dan Langsa",
+        "category": "Beacukai",
+        "publish_time": "04-12-2025 12:13",
+        "news_link": "https://republika.co.id/berita//t6qvaw368/bea-cukai-salurkan-bantuan-kemanusiaan-untuk-korban-banjir-di-medan-sibolga-dan-langsa"
+    },
+    {
+        "title": "MIND ID Perkuat Smart Mining, Digitalisasi untuk Tingkatkan Produktivitas dan Efisiensi",
+        "category": "Ekonomi",
+        "publish_time": "04-12-2025 12:09",
+        "news_link": "https://ekonomi.republika.co.id/berita/t6qv3b349/mind-id-perkuat-smart-mining-digitalisasi-untuk-tingkatkan-produktivitas-dan-efisiensi"
+    },
+    {
+        "title": "BGN Ultimatum SPPG Banyumas Harus Tuntaskan SLHS atau Kena Suspend",
+        "category": "News",
+        "publish_time": "04-12-2025 12:09",
+        "news_link": "https://news.republika.co.id/berita/t6qv2r368/bgn-ultimatum-sppg-banyumas-harus-tuntaskan-slhs-atau-kena-suspend"
+    },
+    {
+        "title": "Mengapa Kerangka Bocah Alvaro Ditemukan dalam Kondisi Berceceran?",
+        "category": "News",
+        "publish_time": "04-12-2025 12:01",
+        "news_link": "https://news.republika.co.id/berita/t6quqe409/mengapa-kerangka-bocah-alvaro-ditemukan-dalam-kondisi-berceceran"
+    },
+    {
+        "title": "Krisis Ekologi Terjadi Akibat Alam Terkuras dan Kelalaian Manusia Menjaga Amanah dari Allah",
+        "category": "Khazanah",
+        "publish_time": "04-12-2025 11:53",
+        "news_link": "https://khazanah.republika.co.id/berita/t6qudc430/krisis-ekologi-terjadi-akibat-alam-terkuras-dan-kelalaian-manusia-menjaga-amanah-dari-allah"
+    },
+    {
+        "title": "Terus Bertambah, Jumlah Korban Hilang Akibat Banjir Sumut Jadi 205 Orang",
+        "category": "News",
+        "publish_time": "04-12-2025 11:44",
+        "news_link": "https://news.republika.co.id/berita/t6qtxi409/terus-bertambah-jumlah-korban-hilang-akibat-banjir-sumut-jadi-205-orang"
+    },
+    {
+        "title": "Gandeng Kitabisa, Indonesia Sports Summit Inisiasi Dana untuk Korban Bencana Sumatera",
+        "category": "News",
+        "publish_time": "04-12-2025 11:41",
+        "news_link": "https://news.republika.co.id/berita/t6qtt6348/gandeng-kitabisa-indonesia-sports-summit-inisiasi-dana-untuk-korban-bencana-sumatera"
+    },
+    {
+        "title": "Bahaya Adiksi Gawai pada Anak dan Cara Penanganannya",
+        "category": "News",
+        "publish_time": "04-12-2025 11:34",
+        "news_link": "https://news.republika.co.id/berita/t6qtfr487/bahaya-adiksi-gawai-pada-anak-dan-cara-penanganannya"
+    },
+    {
+        "title": "3 Program Masterpiece Sinergi Foundation Diganjar Penghargaan Nasional",
+        "category": "Khazanah",
+        "publish_time": "04-12-2025 11:34",
+        "news_link": "https://khazanah.republika.co.id/berita/t6qtdf368/3-program-masterpiece-sinergi-foundation-diganjar-penghargaan-nasional"
+    },
+    {
+        "title": "Jangan Biarkan Anak 'Jalan Sendiri' di Dunia Maya",
+        "category": "Ameera",
+        "publish_time": "04-12-2025 11:34",
+        "news_link": "https://ameera.republika.co.id/berita/t6e2vd425/jangan-biarkan-anak-jalan-sendiri-di-dunia-maya"
+    },
+    {
+        "title": "Kemenperin Ungkap Tiga Potensi Bahan Baku Bioetanol, Ada Peluang untuk Bobibos?",
+        "category": "Ekonomi",
+        "publish_time": "04-12-2025 11:34",
+        "news_link": "https://ekonomi.republika.co.id/berita/t6qsyr490/kemenperin-ungkap-tiga-potensi-bahan-baku-bioetanol-ada-peluang-untuk-bobibos"
+    },
+    {
         "title": "Korban Bencana di Sumatera Dapat Relaksasi Pelunasan Biaya Haji 2026",
         "category": "Khazanah",
-        "publish_time": "04-12-2025 11:14",
+        "publish_time": "04-12-2025 11:34",
         "news_link": "https://khazanah.republika.co.id/berita/t6qskw366/korban-bencana-di-sumatera-dapat-relaksasi-pelunasan-biaya-haji-2026"
     },
     {
         "title": "Ini Daftar Pegolf yang Jadi Andalan Indonesia di SEA Games 2025 Thailand",
         "category": "News",
-        "publish_time": "04-12-2025 11:12",
+        "publish_time": "04-12-2025 11:34",
         "news_link": "https://news.republika.co.id/berita/t6qsge348/ini-daftar-pegolf-yang-jadi-andalan-indonesia-di-sea-games-2025-thailand"
     },
     {
         "title": "Ekspor Produk Halal RI Masih Bertumpu ke Amerika dan Cina",
         "category": "Ekonomi Syariah",
-        "publish_time": "04-12-2025 11:10",
+        "publish_time": "04-12-2025 11:34",
         "news_link": "https://sharia.republika.co.id/berita/t6qkjw416/ekspor-produk-halal-ri-masih-bertumpu-ke-amerika-dan-cina"
     },
     {
         "title": "DPRD Jabar Bahas Pandangan Umum Fraksi terhadap 2 Ranperda Strategis",
         "category": "Rejabar",
-        "publish_time": "04-12-2025 11:06",
+        "publish_time": "04-12-2025 11:34",
         "news_link": "https://rejabar.republika.co.id/berita/t6qs6a368/dprd-jabar-bahas-pandangan-umum-fraksi-terhadap-2-ranperda-strategis"
     },
     {
         "title": "Dipecat tak Hormat dalam Kasus Kematian Dosen Untag, AKBP Basuki Ajukan Banding",
         "category": "News",
-        "publish_time": "04-12-2025 11:01",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://news.republika.co.id/berita/t6qrxf377/dipecat-tak-hormat-dalam-kasus-kematian-dosen-untag-akbp-basuki-ajukan-banding"
     },
     {
         "title": "Rupiah Tertekan, ICDX Sebut Pasar Tunggu Sinyal The Fed",
         "category": "Ekonomi",
-        "publish_time": "04-12-2025 11:01",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://ekonomi.republika.co.id/berita/t6qrx7370/rupiah-tertekan-icdx-sebut-pasar-tunggu-sinyal-the-fed"
     },
     {
         "title": "BPBD: Sebanyak 18 RT di Kepulauan Seribu dan Jakarta Utara Terdampak Banjir Rob",
         "category": "News",
-        "publish_time": "04-12-2025 10:59",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://news.republika.co.id/berita/t6qrty487/bpbd-sebanyak-18-rt-di-kepulauan-seribu-dan-jakarta-utara-terdampak-banjir-rob"
     },
     {
         "title": "Menkeu Tegaskan Insentif Pajak untuk Danantara Hanya Sesuai Aturan",
         "category": "Ekonomi",
-        "publish_time": "04-12-2025 10:56",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://ekonomi.republika.co.id/berita/t6qrov370/menkeu-tegaskan-insentif-pajak-untuk-danantara-hanya-sesuai-aturan"
     },
     {
         "title": "Hasil Tes DNA Pastikan Kerangka Manusia yang Ditemukan di Tenjo adalah Jasad Alvaro",
         "category": "News",
-        "publish_time": "04-12-2025 10:52",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://news.republika.co.id/berita/t6qrim409/hasil-tes-dna-pastikan-kerangka-manusia-yang-ditemukan-di-tenjo-adalah-jasad-alvaro"
     },
     {
         "title": "Angka Dwelling Time Peti Kemas Belum Sesuai Target, Ini Penyebabnya",
         "category": "Ekonomi",
-        "publish_time": "04-12-2025 10:47",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://ekonomi.republika.co.id/berita/t6qrab490/angka-dwelling-time-peti-kemas-belum-sesuai-target-ini-penyebabnya"
     },
     {
         "title": "Refleksi Peringatan Hari Solidaritas Palestina 2025",
         "category": "Network",
-        "publish_time": "04-12-2025 10:42",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://kampusiana.id/posts/727233/refleksi-peringatan-hari-solidaritas-palestina-2025"
     },
     {
         "title": "Pemerintah Tetapkan Kuota Lansia 5 Persen untuk Haji 2026",
         "category": "Khazanah",
-        "publish_time": "04-12-2025 10:38",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://khazanah.republika.co.id/berita/t6qqvi370/pemerintah-tetapkan-kuota-lansia-5-persen-untuk-haji-2026"
     },
     {
@@ -86,217 +170,133 @@
     {
         "title": "Membaca Pesan Alam di Tengah Banjir Sumatera",
         "category": "Kolom",
-        "publish_time": "04-12-2025 10:30",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://analisis.republika.co.id/berita/t6ql5p393/membaca-pesan-alam-di-tengah-banjir-sumatera"
     },
     {
         "title": "Zakat Award 2025 Rayakan Praktik Baik OPZ",
         "category": "Khazanah",
-        "publish_time": "04-12-2025 10:25",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://khazanah.republika.co.id/berita/t6qq97483/zakat-award-2025-rayakan-praktik-baik-opz"
     },
     {
         "title": "Jamkrindo Perkuat Pemberdayaan Peserta Pidana Kerja Sosial di Kepri",
         "category": "Ekonomi",
-        "publish_time": "04-12-2025 10:24",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://ekonomi.republika.co.id/berita/t6qq84370/jamkrindo-perkuat-pemberdayaan-peserta-pidana-kerja-sosial-di-kepri"
     },
     {
         "title": "Polres Indramayu Amankan Puluhan Tersangka Penyalahgunaan Narkoba",
         "category": "Rejabar",
-        "publish_time": "04-12-2025 10:23",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://rejabar.republika.co.id/berita/t6qq5v282/polres-indramayu-amankan-puluhan-tersangka-penyalahgunaan-narkoba"
     },
     {
         "title": "Tanggul Laut di Muara Baru Bocor, Pramono: Tanggung Jawab Pelindo",
         "category": "News",
-        "publish_time": "04-12-2025 10:20",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://news.republika.co.id/berita/t6qq20377/tanggul-laut-di-muara-baru-bocor-pramono-tanggung-jawab-pelindo"
     },
     {
         "title": "Prediksi dan Link Live Streaming Persib vs Borneo FC di Super League 2025-2026",
         "category": "Network",
-        "publish_time": "04-12-2025 10:20",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://skor.republika.co.id/posts/727261/prediksi-dan-link-live-streaming-persib-vs-borneo-fc-di-super-league-2025-2026"
     },
     {
         "title": "Rilis Data Ekonomi AS Bikin Rupiah Tertekan ke Level Rp 16.653",
         "category": "Ekonomi",
-        "publish_time": "04-12-2025 10:18",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://ekonomi.republika.co.id/berita/t6qpy7490/rilis-data-ekonomi-as-bikin-rupiah-tertekan-ke-level-rp-16653"
     },
     {
         "title": "Asia Timur Memanas, China Penuhi Laut dengan Kapal Perang",
         "category": "News",
-        "publish_time": "04-12-2025 10:15",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://news.republika.co.id/berita/t6qpte393/asia-timur-memanas-china-penuhi-laut-dengan-kapal-perang"
     },
     {
         "title": "Banyak Polisi yang Terseret Kasus Sambo Aktif Lagi dan Naik Pangkat, IPW: Setop Silent Blue Code",
         "category": "News",
-        "publish_time": "04-12-2025 10:15",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://news.republika.co.id/berita/t6qpif409/banyak-polisi-yang-terseret-kasus-sambo-aktif-lagi-dan-naik-pangkat-ipw-setop-silent-blue-code"
     },
     {
         "title": "16 Tim Futsal Bersaing The Nationals Campus League Futsal 2025",
         "category": "News",
-        "publish_time": "04-12-2025 10:15",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://news.republika.co.id/berita/t6qpgr456/16-tim-futsal-bersaing-the-nationals-campus-league-futsal-2025"
     },
     {
         "title": "Pasar Anyar Bogor Terbakar, Pemadaman Sempat Terhambat karena Hydrant tak Berfungsi",
         "category": "Rejabar",
-        "publish_time": "04-12-2025 10:15",
+        "publish_time": "04-12-2025 10:34",
         "news_link": "https://rejabar.republika.co.id/berita/t6qpea483/pasar-anyar-bogor-terbakar-pemadaman-sempat-terhambat-karena-hydrant-tak-berfungsi"
     },
     {
         "title": "Koperasi Didorong Jadi Sokoguru Perekonomian Nasional yang Sehat dan Mandiri",
         "category": "Ekonomi",
-        "publish_time": "04-12-2025 10:15",
+        "publish_time": "04-12-2025 09:34",
         "news_link": "https://ekonomi.republika.co.id/berita/t6qpa5456/koperasi-didorong-jadi-sokoguru-perekonomian-nasional-yang-sehat-dan-mandiri"
     },
     {
         "title": "BPKH dan Finnet Perkuat Layanan Keuangan Digital Haji dan Umrah",
         "category": "Khazanah",
-        "publish_time": "04-12-2025 10:15",
+        "publish_time": "04-12-2025 09:34",
         "news_link": "https://khazanah.republika.co.id/berita/t6qp7j368/bpkh-dan-finnet-perkuat-layanan-keuangan-digital-haji-dan-umrah"
     },
     {
         "title": "Purbaya Ungkap Skema Subsidi Bakal Dirombak, Orang Kaya Bakal Sulit Akses",
         "category": "Ekonomi",
-        "publish_time": "04-12-2025 10:15",
+        "publish_time": "04-12-2025 09:34",
         "news_link": "https://ekonomi.republika.co.id/berita/t6qp5v490/purbaya-ungkap-skema-subsidi-bakal-dirombak-orang-kaya-bakal-sulit-akses"
     },
     {
         "title": "Super Cold Moon, Sejumlah Wilayah Pesisir Jateng Berpotensi Dilanda Rob Selama Sepekan",
         "category": "Rejogja",
-        "publish_time": "04-12-2025 10:15",
+        "publish_time": "04-12-2025 09:34",
         "news_link": "https://rejogja.republika.co.id/berita/t6qomj282/super-cold-moon-sejumlah-wilayah-pesisir-jateng-berpotensi-dilanda-rob-selama-sepekan"
     },
     {
         "title": "Mahfud Minta Polisi Bebaskan Laras Faizati yang Ditangkap Terkait Unggahan Demo Akhir Agustus",
         "category": "News",
-        "publish_time": "04-12-2025 10:15",
+        "publish_time": "04-12-2025 09:34",
         "news_link": "https://news.republika.co.id/berita/t6qozg409/mahfud-minta-polisi-bebaskan-laras-faizati-yang-ditangkap-terkait-unggahan-demo-akhir-agustus"
     },
     {
         "title": "Pemprov Jakarta Resmikan QRIS Tap di LRT untuk Permudah Pembayaran",
         "category": "Ekonomi",
-        "publish_time": "04-12-2025 10:15",
+        "publish_time": "04-12-2025 09:34",
         "news_link": "https://ekonomi.republika.co.id/berita/t6qoyz370/pemprov-jakarta-resmikan-qris-tap-di-lrt-untuk-permudah-pembayaran"
     },
     {
         "title": "Israel Terus Hancurkan Gaza dari Udara, Darat, dan Lautan",
         "category": "News",
-        "publish_time": "04-12-2025 10:15",
+        "publish_time": "04-12-2025 09:34",
         "news_link": "https://news.republika.co.id/berita/t6qoyb393/israel-terus-hancurkan-gaza-dari-udara-darat-dan-lautan"
     },
     {
         "title": "Makin Pedas, Harga Cabai di Semarang Tembus Rp80 Ribu per Kilogram",
         "category": "Ekonomi",
-        "publish_time": "04-12-2025 10:15",
+        "publish_time": "04-12-2025 09:34",
         "news_link": "https://ekonomi.republika.co.id/berita/t6qonr490/makin-pedas-harga-cabai-di-semarang-tembus-rp80-ribu-per-kilogram"
     },
     {
         "title": "Epy Kusnandar Meninggal, Ini Daftar Fakta Kang Mus Preman Pensiun: Kronologi, Penyakit, dan Wasiat",
         "category": "Rejabar",
-        "publish_time": "04-12-2025 09:15",
+        "publish_time": "04-12-2025 09:34",
         "news_link": "https://rejabar.republika.co.id/berita/t6qoes282/epy-kusnandar-meninggal-ini-daftar-fakta-kang-mus-preman-pensiun-kronologi-penyakit-dan-wasiat"
     },
     {
         "title": "Breeze MU Dirilis, Muhammadiyah Kini Punya Produk AC Sendiri",
         "category": "Khazanah",
-        "publish_time": "04-12-2025 09:15",
+        "publish_time": "04-12-2025 09:34",
         "news_link": "https://khazanah.republika.co.id/berita/t6qo7j483/breeze-mu-dirilis-muhammadiyah-kini-punya-produk-ac-sendiri"
     },
     {
         "title": "Komisi V DPRD Jabar Sebut Fasilitas Pendidikan Harus Ramah Disabilitas",
         "category": "Rejabar",
-        "publish_time": "04-12-2025 09:15",
+        "publish_time": "04-12-2025 09:34",
         "news_link": "https://rejabar.republika.co.id/berita/t6qnvv368/komisi-v-dprd-jabar-sebut-fasilitas-pendidikan-harus-ramah-disabilitas"
-    },
-    {
-        "title": "Amran: Pemulihan Lahan Sawah Terdampak Banjir Sumatera Tanggung Jawab Kementan",
-        "category": "Ekonomi",
-        "publish_time": "04-12-2025 09:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6qnty423/amran-pemulihan-lahan-sawah-terdampak-banjir-sumatera-tanggung-jawab-kementan"
-    },
-    {
-        "title": "POK XV UIN Sunan Kalijaga Yogyakarta 2025 Resmi Ditutup, Jadi Ajang Unjuk Sportivitas Mahasiswa",
-        "category": "Rejogja",
-        "publish_time": "04-12-2025 09:15",
-        "news_link": "https://rejogja.republika.co.id/berita/t6qnsq291/pok-xv-uin-sunan-kalijaga-yogyakarta-2025-resmi-ditutup-jadi-ajang-unjuk-sportivitas-mahasiswa"
-    },
-    {
-        "title": "Begini Kondisi Pengungsian di Masijd Tuha, Pidie Jaya",
-        "category": "Video",
-        "publish_time": "04-12-2025 09:15",
-        "news_link": "https://tv.republika.co.id/berita/t6qnsc418/begini-kondisi-pengungsian-di-masijd-tuha-pidie-jaya"
-    },
-    {
-        "title": "Purbaya Yudhi Sadewa Pastikan Banjir Sumatera Tak Ganggu Target Pertumbuhan 2025",
-        "category": "Ekonomi",
-        "publish_time": "04-12-2025 09:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6qnm0370/purbaya-yudhi-sadewa-pastikan-banjir-sumatera-tak-ganggu-target-pertumbuhan-2025"
-    },
-    {
-        "title": "Spotify Wrapped 2025 Dirilis! Pengguna Enggak Cuma Bisa Tahu Lagu yang Sering Didengar",
-        "category": "Ameera",
-        "publish_time": "04-12-2025 09:15",
-        "news_link": "https://ameera.republika.co.id/berita/t6qnkp425/spotify-wrapped-2025-dirilis-pengguna-enggak-cuma-bisa-tahu-lagu-yang-sering-didengar"
-    },
-    {
-        "title": "Ekonom Proyeksi Pertumbuhan Ekonomi RI Capai 5,3 Persen pada 2026",
-        "category": "Ekonomi",
-        "publish_time": "04-12-2025 09:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6qnjj423/ekonom-proyeksi-pertumbuhan-ekonomi-ri-capai-53-persen-pada-2026"
-    },
-    {
-        "title": "Danantara dan Kemenkeu Bahas Efisiensi Penyaluran Subsidi, Ini Bocorannya",
-        "category": "Ekonomi",
-        "publish_time": "04-12-2025 09:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6qng9490/danantara-dan-kemenkeu-bahas-efisiensi-penyaluran-subsidi-ini-bocorannya"
-    },
-    {
-        "title": "Pemda DIY Genjot Penggunaan Produk Lokal di OPD Lewat Business Matching GBBJ",
-        "category": "Rejogja",
-        "publish_time": "04-12-2025 09:15",
-        "news_link": "https://rejogja.republika.co.id/berita/t6qndn291/pemda-diy-genjot-penggunaan-produk-lokal-di-opd-lewat-business-matching-gbbj"
-    },
-    {
-        "title": "Purbaya Pilih-Pilih Tebar Insentif untuk Danantara, Ini Kriterianya",
-        "category": "Ekonomi",
-        "publish_time": "04-12-2025 09:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6qn37490/purbaya-pilihpilih-tebar-insentif-untuk-danantara-ini-kriterianya"
-    },
-    {
-        "title": "Harbolnas 2025 Jadi Momentum Strategis Dongkrak Daya Beli",
-        "category": "Ekonomi",
-        "publish_time": "04-12-2025 09:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6qn2g370/harbolnas-2025-jadi-momentum-strategis-dongkrak-daya-beli"
-    },
-    {
-        "title": "Netflix Siapkan Tiga Adaptasi Serial dari Novel Dee Lestari",
-        "category": "Rejogja",
-        "publish_time": "04-12-2025 09:15",
-        "news_link": "https://rejogja.republika.co.id/berita/t6qn01291/netflix-siapkan-tiga-adaptasi-serial-dari-novel-dee-lestari"
-    },
-    {
-        "title": "Semakin Takwa, Semakin Kaya",
-        "category": "Khazanah",
-        "publish_time": "04-12-2025 09:15",
-        "news_link": "https://khazanah.republika.co.id/berita/t6qgsy458/semakin-takwa-semakin-kaya"
-    },
-    {
-        "title": "Ditanya Alasan tak Kunjung Tetapkan Tersangka Kasus Kuota Haji, Begini Dalih Ketua KPK",
-        "category": "News",
-        "publish_time": "04-12-2025 09:15",
-        "news_link": "https://news.republika.co.id/berita/t6qm8r487/ditanya-alasan-tak-kunjung-tetapkan-tersangka-kasus-kuota-haji-begini-dalih-ketua-kpk"
-    },
-    {
-        "title": "Menlu AS Ketar-Ketir, Iran dan Hizbullah Disebut Bangun Basis di Venezuela",
-        "category": "News",
-        "publish_time": "04-12-2025 09:15",
-        "news_link": "https://news.republika.co.id/berita/t6qm70377/menlu-as-ketarketir-iran-dan-hizbullah-disebut-bangun-basis-di-venezuela"
     }
 ]
