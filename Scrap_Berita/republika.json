@@ -1,80 +1,224 @@
 [
     {
+        "title": "Debut Grup Musik ORI Meriahkan Wisuda ke-62 UBSI",
+        "category": "News",
+        "publish_time": "05-12-2025 10:15",
+        "news_link": "https://news.republika.co.id/berita/t6skhs368/debut-grup-musik-ori-meriahkan-wisuda-ke62-ubsi"
+    },
+    {
+        "title": "Sri Sultan dan Pemkot Yogya Rapat Tertutup, Bahas Jembatan Kewek Hingga Malioboro",
+        "category": "Rejogja",
+        "publish_time": "05-12-2025 10:14",
+        "news_link": "https://rejogja.republika.co.id/berita/t6skh5282/sri-sultan-dan-pemkot-yogya-rapat-tertutup-bahas-jembatan-kewek-hingga-malioboro"
+    },
+    {
+        "title": "Ini Daftar Izin Tambang yang Diterbitkan Pemerintah di Wilayah Banjir Sumatera",
+        "category": "Ekonomi",
+        "publish_time": "05-12-2025 10:13",
+        "news_link": "https://ekonomi.republika.co.id/berita/t6skeh490/ini-daftar-izin-tambang-yang-diterbitkan-pemerintah-di-wilayah-banjir-sumatera"
+    },
+    {
+        "title": "Polri Terbitkan Buku Rasa Bhayangkara Nusantara, Rujukan Diversifikasi Menu untuk Program MBG",
+        "category": "News",
+        "publish_time": "05-12-2025 10:09",
+        "news_link": "https://news.republika.co.id/berita/t6sk7o368/polri-terbitkan-buku-rasa-bhayangkara-nusantara-rujukan-diversifikasi-menu-untuk-program-mbg"
+    },
+    {
+        "title": "Tegaskan Bantuan Alat Olahraga untuk Pascabencana, Erick: Ada yang Edit-Edit, Jadi Hoaks",
+        "category": "News",
+        "publish_time": "05-12-2025 10:08",
+        "news_link": "https://news.republika.co.id/berita/t6sk75409/tegaskan-bantuan-alat-olahraga-untuk-pascabencana-erick-ada-yang-editedit-jadi-hoaks"
+    },
+    {
+        "title": "Proyek Kampung Haji Dapat Dukungan Liga Muslim Dunia, Danantara Masuk Tahap Bidding",
+        "category": "Khazanah",
+        "publish_time": "05-12-2025 10:08",
+        "news_link": "https://khazanah.republika.co.id/berita/t6sgyp366/proyek-kampung-haji-dapat-dukungan-liga-muslim-dunia-danantara-masuk-tahap-bidding"
+    },
+    {
+        "title": "Prabowo Janjikan Atlet Peraih Emas SEA Games Thailand Dapat Rp 1 Miliar",
+        "category": "News",
+        "publish_time": "05-12-2025 10:04",
+        "news_link": "https://news.republika.co.id/berita/t6sk0g484/prabowo-janjikan-atlet-peraih-emas-sea-games-thailand-dapat-rp-1-miliar"
+    },
+    {
+        "title": "Dukung Pemulihan Listrik Pascabencana, Perbaikan Komunikasi di Tapanuli Selatan Dipercepat",
+        "category": "Ekonomi",
+        "publish_time": "05-12-2025 09:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/t6sjn7483/dukung-pemulihan-listrik-pascabencana-perbaikan-komunikasi-di-tapanuli-selatan-dipercepat"
+    },
+    {
+        "title": "UNM Siapkan \u2018Engineer Web3\u2019 Lewat Workshop Blockchain Paling Aktual 2025",
+        "category": "News",
+        "publish_time": "05-12-2025 09:56",
+        "news_link": "https://news.republika.co.id/berita/t6sjmu368/unm-siapkan-engineer-web3-lewat-workshop-blockchain-paling-aktual-2025"
+    },
+    {
+        "title": "Jumlah Korban Meninggal Akibat Banjir Sumut Bertambah, Jadi 312 Orang",
+        "category": "News",
+        "publish_time": "05-12-2025 09:56",
+        "news_link": "https://news.republika.co.id/berita/t6sjm8409/jumlah-korban-meninggal-akibat-banjir-sumut-bertambah-jadi-312-orang"
+    },
+    {
+        "title": "Jalur Kereta Api Medan-Binjai Telah Beroperasi Kembali",
+        "category": "Network",
+        "publish_time": "05-12-2025 09:56",
+        "news_link": "https://kreta.id/posts/727662/jalur-kereta-api-medan-binjai-telah-beroperasi-kembali"
+    },
+    {
+        "title": "Prabowo Lepas Kontingen Indonesia SEA Games 2025 Ke-33 Thailand",
+        "category": "News",
+        "publish_time": "05-12-2025 09:53",
+        "news_link": "https://news.republika.co.id/berita/t6sjhp484/prabowo-lepas-kontingen-indonesia-sea-games-2025-ke33-thailand"
+    },
+    {
+        "title": "Pertamina Patra Niaga Berikan Layanan Tanggap Darurat Melalui Darat, Laut dan Udara",
+        "category": "Ekonomi",
+        "publish_time": "05-12-2025 09:52",
+        "news_link": "https://ekonomi.republika.co.id/berita/t6sjgj522/pertamina-patra-niaga-berikan-layanan-tanggap-darurat-melalui-darat-laut-dan-udara"
+    },
+    {
+        "title": "Setelah BP-AKR dan Vivo, Kini Giliran Shell Disuplai BBM oleh Pertamina Patra Niaga",
+        "category": "Ekonomi",
+        "publish_time": "05-12-2025 09:49",
+        "news_link": "https://ekonomi.republika.co.id/berita/t6sjbi522/setelah-bpakr-dan-vivo-kini-giliran-shell-disuplai-bbm-oleh-pertamina-patra-niaga"
+    },
+    {
+        "title": "Tim Ekspedisi Patriot UI Libatkan Akademisi Lokal Bahas Infrastuktur di Muting Merauke",
+        "category": "News",
+        "publish_time": "05-12-2025 09:42",
+        "news_link": "https://news.republika.co.id/berita/t6sizr416/tim-ekspedisi-patriot-ui-libatkan-akademisi-lokal-bahas-infrastuktur-di-muting-merauke"
+    },
+    {
+        "title": "Perluas Layanan Pajak Digital, bank bjb Teken Kerja Sama dengan Pemprov Kepri",
+        "category": "Ekonomi",
+        "publish_time": "05-12-2025 09:38",
+        "news_link": "https://ekonomi.republika.co.id/berita/t6sitg368/perluas-layanan-pajak-digital-bank-bjb-teken-kerja-sama-dengan-pemprov-kepri"
+    },
+    {
+        "title": "Mobil Travel Terguling di Denpasar Bali, 13 WN China Terluka",
+        "category": "News",
+        "publish_time": "05-12-2025 09:35",
+        "news_link": "https://news.republika.co.id/berita/t6simz377/mobil-travel-terguling-di-denpasar-bali-13-wn-china-terluka"
+    },
+    {
+        "title": "Warga Muara Angke Tetap Beraktivitas meski Dilanda Banjir Rob",
+        "category": "Video",
+        "publish_time": "05-12-2025 09:29",
+        "news_link": "https://tv.republika.co.id/berita/t6sids418/warga-muara-angke-tetap-beraktivitas-meski-dilanda-banjir-rob"
+    },
+    {
+        "title": "Ajang MHQ Internasional Disabilitas Netra 2025: Persembahan Mahkota dari Raihan untuk Almarhum Ayah",
+        "category": "Khazanah",
+        "publish_time": "05-12-2025 09:29",
+        "news_link": "https://khazanah.republika.co.id/berita/t6sidl483/ajang-mhq-internasional-disabilitas-netra-2025-persembahan-mahkota-dari-raihan-untuk-almarhum-ayah"
+    },
+    {
+        "title": "Evaluasi Kinerja 2025, Kanwil Kemenkum DK Jakarta Susun Roadmap Program 2026",
+        "category": "News",
+        "publish_time": "05-12-2025 09:28",
+        "news_link": "https://news.republika.co.id/berita/t6sicc368/evaluasi-kinerja-2025-kanwil-kemenkum-dk-jakarta-susun-roadmap-program-2026"
+    },
+    {
+        "title": "Menagih Janji Transisi Energi",
+        "category": "Esgnow",
+        "publish_time": "05-12-2025 09:25",
+        "news_link": "https://esgnow.republika.co.id/berita/t6seoy416/menagih-janji-transisi-energi"
+    },
+    {
+        "title": "Influencer Fuji Bagikan Cara Raup Cuan Fantastis dari Affiliate Shopee",
+        "category": "Ameera",
+        "publish_time": "05-12-2025 09:25",
+        "news_link": "https://ameera.republika.co.id/berita/t6si6e425/influencer-fuji-bagikan-cara-raup-cuan-fantastis-dari-affiliate-shopee"
+    },
+    {
+        "title": "Laporan Penyelidik Inggris: Putin Perintahkan Pembunuhan Eks Spionase Rusia Sergei Skripal",
+        "category": "News",
+        "publish_time": "05-12-2025 09:17",
+        "news_link": "https://news.republika.co.id/berita/t6shsz377/laporan-penyelidik-inggris-putin-perintahkan-pembunuhan-eks-spionase-rusia-sergei-skripal"
+    },
+    {
+        "title": "Rayakan Satu Dekade, Shopee Luncurkan Dokumenter Angkat Kisah UMKM Lokal",
+        "category": "Ameera",
+        "publish_time": "05-12-2025 09:16",
+        "news_link": "https://ameera.republika.co.id/berita/t6shs1425/rayakan-satu-dekade-shopee-luncurkan-dokumenter-angkat-kisah-umkm-lokal"
+    },
+    {
         "title": "Bahlil Tegaskan Evaluasi Total Tambang di Aceh, Sumut, dan Sumbar",
         "category": "Ekonomi",
-        "publish_time": "05-12-2025 09:13",
+        "publish_time": "05-12-2025 09:16",
         "news_link": "https://ekonomi.republika.co.id/berita/t6shnt490/bahlil-tegaskan-evaluasi-total-tambang-di-aceh-sumut-dan-sumbar"
     },
     {
         "title": "Komnas Haji Yakin Danantara Unggul dalam Tender Kampung Haji di Makkah",
         "category": "Khazanah",
-        "publish_time": "05-12-2025 09:06",
+        "publish_time": "05-12-2025 09:16",
         "news_link": "https://khazanah.republika.co.id/berita/t6sg64366/komnas-haji-yakin-danantara-unggul-dalam-tender-kampung-haji-di-makkah"
     },
     {
         "title": "ASDEPSI Siap Jalankan Rekomendasi ADPSI",
         "category": "Rejabar",
-        "publish_time": "05-12-2025 09:02",
+        "publish_time": "05-12-2025 09:16",
         "news_link": "https://rejabar.republika.co.id/berita/t6sh4i368/asdepsi-siap-jalankan-rekomendasi-adpsi"
     },
     {
         "title": "Kejagung Bergerak Selidiki Kerusakan Hutan di 3 Provinsi Terdampak Banjir Bandang di Sumatera",
         "category": "News",
-        "publish_time": "05-12-2025 09:00",
+        "publish_time": "05-12-2025 09:16",
         "news_link": "https://news.republika.co.id/berita/t6sh1t487/kejagung-bergerak-selidiki-kerusakan-hutan-di-3-provinsi-terdampak-banjir-bandang-di-sumatera"
     },
     {
         "title": "Pasokan LPG untuk Dua Wilayah Terisolir di Aceh dan Sumut Mulai Pulih",
         "category": "Ekonomi",
-        "publish_time": "05-12-2025 08:57",
+        "publish_time": "05-12-2025 09:16",
         "news_link": "https://ekonomi.republika.co.id/berita/t6sgw3490/pasokan-lpg-untuk-dua-wilayah-terisolir-di-aceh-dan-sumut-mulai-pulih"
     },
     {
         "title": "Mahindra Siapkan Mobil Penumpang untuk Pasar Indonesia, Rencana Masuk Tahun Depan",
         "category": "Ekonomi",
-        "publish_time": "05-12-2025 08:56",
+        "publish_time": "05-12-2025 09:16",
         "news_link": "https://ekonomi.republika.co.id/berita/t6sgv3348/mahindra-siapkan-mobil-penumpang-untuk-pasar-indonesia-rencana-masuk-tahun-depan"
     },
     {
         "title": "Erick Thohir Sebut Statemennya Diedit Soal Bantu Warga Pascabencana",
         "category": "News",
-        "publish_time": "05-12-2025 08:43",
+        "publish_time": "05-12-2025 08:16",
         "news_link": "https://news.republika.co.id/berita/t6sg9f484/erick-thohir-sebut-statemennya-diedit-soal-bantu-warga-pascabencana"
     },
     {
         "title": "Gibran: Pemerintah Berupaya Percepat Pemulihan Pascabencana",
         "category": "Video",
-        "publish_time": "05-12-2025 08:37",
+        "publish_time": "05-12-2025 08:16",
         "news_link": "https://tv.republika.co.id/berita/t6sfz0313/gibran-pemerintah-berupaya-percepat-pemulihan-pascabencana"
     },
     {
         "title": "Dorong Pemenuhan Kebutuhan Akses Pembiayaan, OJK Bikin Aturan Baru tentang Pergadaian",
         "category": "Ekonomi",
-        "publish_time": "05-12-2025 08:36",
+        "publish_time": "05-12-2025 08:16",
         "news_link": "https://ekonomi.republika.co.id/berita/t6sfxl490/dorong-pemenuhan-kebutuhan-akses-pembiayaan-ojk-bikin-aturan-baru-tentang-pergadaian"
     },
     {
         "title": "Genosida di Palestina dan Ketidakberdayaan Dunia",
         "category": "Khazanah",
-        "publish_time": "05-12-2025 08:31",
+        "publish_time": "05-12-2025 08:16",
         "news_link": "https://khazanah.republika.co.id/berita/t6sfp7320/genosida-di-palestina-dan-ketidakberdayaan-dunia"
     },
     {
         "title": "Kontingen Indonesia di SEA Games Jadi 1.021 Atlet, Dikukuhkan Menpora dan Dilepas Presiden di Istana",
         "category": "News",
-        "publish_time": "05-12-2025 08:27",
+        "publish_time": "05-12-2025 08:16",
         "news_link": "https://news.republika.co.id/berita/t6sfii348/kontingen-indonesia-di-sea-games-jadi-1021-atlet-dikukuhkan-menpora-dan-dilepas-presiden-di-istana"
     },
     {
         "title": "Banyak Kendala Teknis, Calon Jamaah Haji Khusus Dilaporkan Sulit Lakukan Pelunasan",
         "category": "Khazanah",
-        "publish_time": "05-12-2025 08:24",
+        "publish_time": "05-12-2025 08:16",
         "news_link": "https://khazanah.republika.co.id/berita/t6sfd8483/banyak-kendala-teknis-calon-jamaah-haji-khusus-dilaporkan-sulit-lakukan-pelunasan"
     },
     {
         "title": "BPBD Sebut 34 Ribu Jiwa Terdampak Banjir di Kabupaten Bandung",
         "category": "News",
-        "publish_time": "05-12-2025 08:17",
+        "publish_time": "05-12-2025 08:16",
         "news_link": "https://news.republika.co.id/berita/t6sf29487/bpbd-sebut-34-ribu-jiwa-terdampak-banjir-di-kabupaten-bandung"
     },
     {
@@ -154,149 +298,5 @@
         "category": "Rejabar",
         "publish_time": "05-12-2025 07:16",
         "news_link": "https://rejabar.republika.co.id/berita/t6sckr282/kdm-sebut-banjir-bandang-kabupaten-bandung-karena-kebun-teh-dan-hutan-diubah-jadi-perkebunan-sayur"
-    },
-    {
-        "title": "Wamenkes: Warga Terdampak Bencana di Sumatera Mulai Terserang Penyakit",
-        "category": "News",
-        "publish_time": "05-12-2025 07:16",
-        "news_link": "https://news.republika.co.id/berita/t6scdn487/wamenkes-warga-terdampak-bencana-di-sumatera-mulai-terserang-penyakit"
-    },
-    {
-        "title": "PT Delta Merlin Dunia Textile Resmi Berstatus Kawasan Berikat, Serap Tenaga Kerja di Boyolali",
-        "category": "Beacukai",
-        "publish_time": "05-12-2025 07:16",
-        "news_link": "https://republika.co.id/berita//t6sc71368/pt-delta-merlin-dunia-textile-resmi-berstatus-kawasan-berikat-serap-tenaga-kerja-di-boyolali"
-    },
-    {
-        "title": "Mentan Amran Kirim Logistik Bantuan Bencana Satu Kapal Penuh ke Sumatra",
-        "category": "Visual",
-        "publish_time": "05-12-2025 07:16",
-        "news_link": "https://visual.republika.co.id/berita/t6sbmi472/mentan-amran-kirim-logistik-bantuan-bencana-satu-kapal-penuh-ke-sumatra"
-    },
-    {
-        "title": "Ribuan Barang Tertinggal di Layanan Whoosh",
-        "category": "Network",
-        "publish_time": "05-12-2025 07:16",
-        "news_link": "https://kreta.id/posts/727478/ribuan-barang-tertinggal-di-layanan-whoosh"
-    },
-    {
-        "title": "Wow... AI Dapat Mendeteksi Penyakit dari Keringatmu!",
-        "category": "Network",
-        "publish_time": "05-12-2025 07:16",
-        "news_link": "https://impresiupdate.id/posts/727543/wow-ai-dapat-mendeteksi-penyakit-dari-keringatmu-"
-    },
-    {
-        "title": "Mengonsumsi Kurma Bisa Membantu Menginduksi Persalinan",
-        "category": "Network",
-        "publish_time": "05-12-2025 07:16",
-        "news_link": "https://impresiupdate.id/posts/727544/mengonsumsi-kurma-bisa-membantu-menginduksi-persalinan"
-    },
-    {
-        "title": "2000-an Petugas LP3H ICMI Siap Kawal Sertifikasi Halal UMKM Indonesia",
-        "category": "Network",
-        "publish_time": "05-12-2025 07:16",
-        "news_link": "https://pemantiknews.id/posts/727584/2000-an-petugas-lp3h-icmi-siap-kawal-sertifikasi-halal-umkm-indonesia"
-    },
-    {
-        "title": "Pemprov Jakarta Tunggu Regulasi dari Pusat untuk Tetapkan UMP 2026",
-        "category": "Ekonomi",
-        "publish_time": "05-12-2025 07:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6satw423/pemprov-jakarta-tunggu-regulasi-dari-pusat-untuk-tetapkan-ump-2026"
-    },
-    {
-        "title": "Banjir Bandang Sapu Sawah hingga Wisata Kuliner di Bandung Barat",
-        "category": "Rejabar",
-        "publish_time": "05-12-2025 07:16",
-        "news_link": "https://rejabar.republika.co.id/berita/t6sbgw512/banjir-bandang-sapu-sawah-hingga-wisata-kuliner-di-bandung-barat"
-    },
-    {
-        "title": "Filosofi Pelatih Anyar Persik Kediri Marcos Reina Torres",
-        "category": "Network",
-        "publish_time": "05-12-2025 07:16",
-        "news_link": "https://skor.republika.co.id/posts/727634/filosofi-pelatih-anyar-persik-kediri-marcos-reina-torres"
-    },
-    {
-        "title": "Kemenhan Terima 4 Mobil Double Cabin dari PT Agrinas Pangan Nusantara",
-        "category": "News",
-        "publish_time": "05-12-2025 07:16",
-        "news_link": "https://news.republika.co.id/berita/t6sb1l484/kemenhan-terima-4-mobil-double-cabin-dari-pt-agrinas-pangan-nusantara"
-    },
-    {
-        "title": "Bank Mandiri Sabet 5 Penghargaan BI, Tegaskan Peran Strategis dalam Stabilitas Ekonomi Nasional",
-        "category": "Ekonomi",
-        "publish_time": "05-12-2025 07:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6sazz472/bank-mandiri-sabet-5-penghargaan-bi-tegaskan-peran-strategis-dalam-stabilitas-ekonomi-nasional"
-    },
-    {
-        "title": "Amran: Saat Ini Masyarakat Terdampak Bencana Paling Butuh Makanan Siap Saji",
-        "category": "Ekonomi",
-        "publish_time": "05-12-2025 07:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6sagp423/amran-saat-ini-masyarakat-terdampak-bencana-paling-butuh-makanan-siap-saji"
-    },
-    {
-        "title": "Raihan, Hafiz Tunanetra Indonesia Tampil di MHQ Internasional Disabilitas Netra",
-        "category": "Video",
-        "publish_time": "05-12-2025 07:16",
-        "news_link": "https://tv.republika.co.id/berita/t6savp313/raihan-hafiz-tunanetra-indonesia-tampil-di-mhq-internasional-disabilitas-netra"
-    },
-    {
-        "title": "Putin Mengancam, Rusia akan Ambil Alih Donbas dengan Militer atau Tentara Ukraina Pilih Mundur",
-        "category": "News",
-        "publish_time": "05-12-2025 06:16",
-        "news_link": "https://news.republika.co.id/berita/t6saot377/putin-mengancam-rusia-akan-ambil-alih-donbas-dengan-militer-atau-tentara-ukraina-pilih-mundur"
-    },
-    {
-        "title": "Cadangan Devisa Indonesia Naik Jadi 150,1 Miliar Dolar AS pada November 2025",
-        "category": "Ekonomi",
-        "publish_time": "05-12-2025 06:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6sa64423/cadangan-devisa-indonesia-naik-jadi-1501-miliar-dolar-as-pada-november-2025"
-    },
-    {
-        "title": "Bahlil Perketat Audit Tambang Usai Banjir dan Longsor di Sumatera",
-        "category": "Ekonomi",
-        "publish_time": "05-12-2025 06:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6s9jf423/bahlil-perketat-audit-tambang-usai-banjir-dan-longsor-di-sumatera"
-    },
-    {
-        "title": "International Day 2025 UII Hadirkan Panggung Keberagaman Budaya Dunia",
-        "category": "Rejogja",
-        "publish_time": "05-12-2025 06:16",
-        "news_link": "https://rejogja.republika.co.id/berita/t6s98a291/international-day-2025-uii-hadirkan-panggung-keberagaman-budaya-dunia"
-    },
-    {
-        "title": "Inara Rusli Dilaporkan, Polisi Sita Barang Bukti Diska CCTV",
-        "category": "News",
-        "publish_time": "05-12-2025 06:16",
-        "news_link": "https://news.republika.co.id/berita/t6s976377/inara-rusli-dilaporkan-polisi-sita-barang-bukti-diska-cctv"
-    },
-    {
-        "title": "Terungkap Ammar Zoni Ajukan Permohonan Sebagai Justice Collaborator",
-        "category": "News",
-        "publish_time": "05-12-2025 06:16",
-        "news_link": "https://news.republika.co.id/berita/t6s963409/terungkap-ammar-zoni-ajukan-permohonan-sebagai-justice-collaborator"
-    },
-    {
-        "title": "Mentan Amran Kirim Logistik Bantuan Bencana Satu Kapal Penuh ke Sumatra",
-        "category": "Ekonomi",
-        "publish_time": "05-12-2025 06:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6s962472/mentan-amran-kirim-logistik-bantuan-bencana-satu-kapal-penuh-ke-sumatra"
-    },
-    {
-        "title": "Gibran Temui Korban Banjir di Agam",
-        "category": "Video",
-        "publish_time": "05-12-2025 06:16",
-        "news_link": "https://tv.republika.co.id/berita/t6s90t313/gibran-temui-korban-banjir-di-agam"
-    },
-    {
-        "title": "Dampak Meluas, Program MBG Dorong Ekonomi dan Perbaikan Tata Kelola",
-        "category": "Ekonomi",
-        "publish_time": "05-12-2025 06:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/t6s8k2370/dampak-meluas-program-mbg-dorong-ekonomi-dan-perbaikan-tata-kelola"
-    },
-    {
-        "title": "Prabowo Setuju, Izin Pemanfaatan Hutan 20 Perusahaan di Area Terdampak Banjir akan Dicabut",
-        "category": "News",
-        "publish_time": "05-12-2025 06:16",
-        "news_link": "https://news.republika.co.id/berita/t6s8sc409/prabowo-setuju-izin-pemanfaatan-hutan-20-perusahaan-di-area-terdampak-banjir-akan-dicabut"
     }
 ]
