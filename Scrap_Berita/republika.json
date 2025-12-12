@@ -1,15 +1,105 @@
 [
     {
+        "title": "UNM Hadirkan Pakar Dunia, Bedah Masa Depan Machine Learning dan IoT",
+        "category": "News",
+        "publish_time": "12-12-2025 05:12",
+        "news_link": "https://news.republika.co.id/berita/t754qy368/unm-hadirkan-pakar-dunia-bedah-masa-depan-machine-learning-dan-iot"
+    },
+    {
+        "title": "Chef Devina Dukung UMKM Lewat Program Live Show",
+        "category": "Rejabar",
+        "publish_time": "12-12-2025 05:12",
+        "news_link": "https://rejabar.republika.co.id/berita/t75557512/chef-devina-dukung-umkm-lewat-program-live-show"
+    },
+    {
+        "title": "Maraknya Korupsi Kecil-kecilan di Layanan Publik Jateng tak Bisa Dianggap Sepele",
+        "category": "Rejogja",
+        "publish_time": "12-12-2025 05:03",
+        "news_link": "https://rejogja.republika.co.id/berita/t754q9282/maraknya-korupsi-kecilkecilan-di-layanan-publik-jateng-tak-bisa-dianggap-sepele"
+    },
+    {
+        "title": "Ad-Ins Buka Pintu Magang IT untuk Mahasiswa Cyber University Tembus Industri Fintech",
+        "category": "News",
+        "publish_time": "12-12-2025 05:02",
+        "news_link": "https://news.republika.co.id/berita/t754oa368/adins-buka-pintu-magang-it-untuk-mahasiswa-cyber-university-tembus-industri-fintech"
+    },
+    {
+        "title": "Wisuda UNM ke-39 Lahirkan Angkatan Perdana Prodi Bisnis Digital yang Siap Guncang Industri",
+        "category": "News",
+        "publish_time": "12-12-2025 04:52",
+        "news_link": "https://news.republika.co.id/berita/t75485368/wisuda-unm-ke39-lahirkan-angkatan-perdana-prodi-bisnis-digital-yang-siap-guncang-industri"
+    },
+    {
+        "title": "Bea Cukai Resmikan Alat Pemindai Peti Kemas, Bisa Deteksi Radioaktif",
+        "category": "Beacukai",
+        "publish_time": "12-12-2025 04:51",
+        "news_link": "https://republika.co.id/berita//t7545a368/bea-cukai-resmikan-alat-pemindai-peti-kemas-bisa-deteksi-radioaktif"
+    },
+    {
+        "title": "Kemenhut Perketat Pengawasan Kayu di Sumatera Saat Masa Darurat Banjir",
+        "category": "Esgnow",
+        "publish_time": "12-12-2025 04:47",
+        "news_link": "https://esgnow.republika.co.id/berita/t753zf370/kemenhut-perketat-pengawasan-kayu-di-sumatera-saat-masa-darurat-banjir"
+    },
+    {
+        "title": "Sambut Nataru, Pertamina akan Operasikan SPBU Modular di Rest Area Tol Trans Jawa",
+        "category": "Rejogja",
+        "publish_time": "12-12-2025 04:45",
+        "news_link": "https://rejogja.republika.co.id/berita/t753ls282/sambut-nataru-pertamina-akan-operasikan-spbu-modular-di-rest-area-tol-trans-jawa"
+    },
+    {
+        "title": "Ini Status Pemulihan Listrik Pascabanjir Sumatra, Aceh Masih 36 Persen Tersambung",
+        "category": "Ekonomi",
+        "publish_time": "12-12-2025 04:41",
+        "news_link": "https://ekonomi.republika.co.id/berita/t753ot490/ini-status-pemulihan-listrik-pascabanjir-sumatra-aceh-masih-36-persen-tersambung"
+    },
+    {
+        "title": "Kesaksian Warga Kala Matel Dikeroyok Hingga Tewas dan Balas Dendam yang Berujung Pembakaran",
+        "category": "News",
+        "publish_time": "12-12-2025 04:40",
+        "news_link": "https://news.republika.co.id/berita/t753o2483/kesaksian-warga-kala-matel-dikeroyok-hingga-tewas-dan-balas-dendam-yang-berujung-pembakaran"
+    },
+    {
+        "title": "UNM Tingkatkan Kompetensi Kehumasan Lewat Lokakarya Mutu Siaran Pers LLDIKTI 3",
+        "category": "News",
+        "publish_time": "12-12-2025 04:39",
+        "news_link": "https://news.republika.co.id/berita/t753ml368/unm-tingkatkan-kompetensi-kehumasan-lewat-lokakarya-mutu-siaran-pers-lldikti-3"
+    },
+    {
+        "title": "Dua Peserta Lari Siksorogo Lawu Ultra Meninggal, Diduga karena Serangan Jantung dan Asma",
+        "category": "Rejogja",
+        "publish_time": "12-12-2025 04:35",
+        "news_link": "https://rejogja.republika.co.id/berita/t753fa282/dua-peserta-lari-siksorogo-lawu-ultra-meninggal-diduga-karena-serangan-jantung-dan-asma"
+    },
+    {
+        "title": "Timnas Indonesia Dituntut Menang Besar Lawan Myanmar, Bung Kus Soroti Variasi Serangan dan Transisi",
+        "category": "News",
+        "publish_time": "12-12-2025 04:35",
+        "news_link": "https://news.republika.co.id/berita/t753ey348/timnas-indonesia-dituntut-menang-besar-lawan-myanmar-bung-kus-soroti-variasi-serangan-dan-transisi"
+    },
+    {
+        "title": "Perbaikan Tower Brandan\u2013Langsa Dikebut, Banda Aceh Segera Tersambung ke Backbone Sumatera",
+        "category": "Ekonomi",
+        "publish_time": "12-12-2025 04:34",
+        "news_link": "https://ekonomi.republika.co.id/berita/t753dk370/perbaikan-tower-brandanlangsa-dikebut-banda-aceh-segera-tersambung-ke-backbone-sumatera"
+    },
+    {
+        "title": "Diskominfo Kalbar Apresiasi Kinerja 45 Mahasiswa Magang Terintergasi UBSI",
+        "category": "News",
+        "publish_time": "12-12-2025 04:31",
+        "news_link": "https://news.republika.co.id/berita/t7538u368/diskominfo-kalbar-apresiasi-kinerja-45-mahasiswa-magang-terintergasi-ubsi"
+    },
+    {
         "title": "Asrorun Ni'am MUI Beri Penguatan Amil Rumah Yatim dan Serukan Tunaikan Zakat Jelang Ramadhan",
         "category": "Khazanah",
         "publish_time": "12-12-2025 04:26",
         "news_link": "https://khazanah.republika.co.id/berita/t752zq368/asrorun-niam-mui-beri-penguatan-amil-rumah-yatim-dan-serukan-tunaikan-zakat-jelang-ramadhan"
     },
     {
-        "title": "Kapolri Terbitkan Aturan Izinkan Polisi Duduk di 17 Kementerian Lembaga, Termasuk ESDM",
+        "title": "Aturan Baru Kapolri Izinkan Polisi Duduk di 17 Kementerian Lembaga, Termasuk ESDM, Lawan Putusan MK?",
         "category": "News",
         "publish_time": "12-12-2025 04:25",
-        "news_link": "https://news.republika.co.id/berita/t752yt377/kapolri-terbitkan-aturan-izinkan-polisi-duduk-di-17-kementerian-lembaga-termasuk-esdm"
+        "news_link": "https://news.republika.co.id/berita/t752yt377/aturan-baru-kapolri-izinkan-polisi-duduk-di-17-kementerian-lembaga-termasuk-esdm-lawan-putusan-mk"
     },
     {
         "title": "Xabi Alonso dalam Tekanan Saat Real Madrid Bersiap Jalani Laga Tandang Penting ke Markas Alaves",
@@ -32,133 +122,133 @@
     {
         "title": "Calon Lawan Persib di Babak 16 Besar AFC Champions League 2 2025-2026",
         "category": "Network",
-        "publish_time": "12-12-2025 04:10",
+        "publish_time": "12-12-2025 04:16",
         "news_link": "https://skor.republika.co.id/posts/730587/calon-lawan-persib-di-babak-16-besar-afc-champions-league-2-2025-2026"
     },
     {
         "title": "Pencarian Tiga Korban Tertimbun Longsor di Arjasari Bandung Dihentikan",
         "category": "Rejabar",
-        "publish_time": "12-12-2025 04:08",
+        "publish_time": "12-12-2025 04:16",
         "news_link": "https://rejabar.republika.co.id/berita/t75272512/pencarian-tiga-korban-tertimbun-longsor-di-arjasari-bandung-dihentikan"
     },
     {
         "title": "Pencegahan Stunting Diupayakan Melalui Penguatan Edukasi Gizi",
         "category": "Rejakarta",
-        "publish_time": "12-12-2025 04:04",
+        "publish_time": "12-12-2025 04:16",
         "news_link": "https://republika.co.id/berita//t751x4430/pencegahan-stunting-diupayakan-melalui-penguatan-edukasi-gizi"
     },
     {
         "title": "Kejagung Sita Hotel di Jakarta Terkait Korupsi PT Sritex",
         "category": "News",
-        "publish_time": "12-12-2025 04:01",
+        "publish_time": "12-12-2025 04:16",
         "news_link": "https://news.republika.co.id/berita/t751uh377/kejagung-sita-hotel-di-jakarta-terkait-korupsi-pt-sritex"
     },
     {
         "title": "Prabowo Minta Maaf: Mungkin Listrik yang Belum Ya?",
         "category": "News",
-        "publish_time": "12-12-2025 03:56",
+        "publish_time": "12-12-2025 04:16",
         "news_link": "https://news.republika.co.id/berita/t751n4484/prabowo-minta-maaf-mungkin-listrik-yang-belum-ya"
     },
     {
         "title": "Kisah Bibi Nabi Membunuh Mata-Mata Yahudi",
         "category": "Khazanah",
-        "publish_time": "12-12-2025 03:55",
+        "publish_time": "12-12-2025 04:16",
         "news_link": "https://khazanah.republika.co.id/berita/t751jy430/kisah-bibi-nabi-membunuh-matamata-yahudi"
     },
     {
         "title": "Allah Mencela Perilaku Boros",
         "category": "Khazanah",
-        "publish_time": "12-12-2025 03:43",
+        "publish_time": "12-12-2025 03:16",
         "news_link": "https://khazanah.republika.co.id/berita/t7510m430/allah-mencela-perilaku-boros"
     },
     {
         "title": "Bea Cukai Lhokseumawe Serahkan Tersangka dan Barang Bukti Rokok Ilegal ke K\u200bejaksaan",
         "category": "Beacukai",
-        "publish_time": "12-12-2025 03:36",
+        "publish_time": "12-12-2025 03:16",
         "news_link": "https://republika.co.id/berita//t750o7368/bea-cukai-lhokseumawe-serahkan-tersangka-dan-barang-bukti-rokok-ilegal-ke-k%e2%80%8bejaksaan"
     },
     {
         "title": "Jason Donovan Yusuf: Dari Dua Emas di Debut SEA Games, Kini Bidik Asian Games 2026",
         "category": "News",
-        "publish_time": "12-12-2025 03:29",
+        "publish_time": "12-12-2025 03:16",
         "news_link": "https://news.republika.co.id/berita/t74zyf348/jason-donovan-yusuf-dari-dua-emas-di-debut-sea-games-kini-bidik-asian-games-2026"
     },
     {
         "title": "Kemenhub Inspeksi 257 Bandara Jelang Angkutan Udara Nataru 2025\u20132026",
         "category": "Ekonomi",
-        "publish_time": "12-12-2025 03:29",
+        "publish_time": "12-12-2025 03:16",
         "news_link": "https://ekonomi.republika.co.id/berita/t74zuo370/kemenhub-inspeksi-257-bandara-jelang-angkutan-udara-nataru-20252026"
     },
     {
         "title": "Akhir Penantian 22 Tahun, Diva Renatta Ukir Dua Rekor dalam Satu Lompatan di SEA Games 2025",
         "category": "News",
-        "publish_time": "12-12-2025 03:29",
+        "publish_time": "12-12-2025 03:16",
         "news_link": "https://news.republika.co.id/berita/t74zjl348/akhir-penantian-22-tahun-diva-renatta-ukir-dua-rekor-dalam-satu-lompatan-di-sea-games-2025"
     },
     {
         "title": "Hari Pertama Jadi Pj Ketum PBNU, Kiai Zulfa Mustofa Langsung Tancap Gas",
         "category": "Khazanah",
-        "publish_time": "12-12-2025 03:29",
+        "publish_time": "12-12-2025 03:16",
         "news_link": "https://khazanah.republika.co.id/berita/t74z9p483/hari-pertama-jadi-pj-ketum-pbnu-kiai-zulfa-mustofa-langsung-tancap-gas"
     },
     {
         "title": "Polisi Selidiki Kasus Ujaran Kebencian Terhadap Etnis Sunda oleh Youtuber",
         "category": "News",
-        "publish_time": "12-12-2025 03:29",
+        "publish_time": "12-12-2025 03:16",
         "news_link": "https://news.republika.co.id/berita/t74z83377/polisi-selidiki-kasus-ujaran-kebencian-terhadap-etnis-sunda-oleh-youtuber"
     },
     {
         "title": "Jadwal Tim Indonesia SEA Games 2024 Hari Ini: Sepak Bola Laga Penentuan ke Semifinal Lawan Myanmar",
         "category": "News",
-        "publish_time": "12-12-2025 03:29",
+        "publish_time": "12-12-2025 03:16",
         "news_link": "https://news.republika.co.id/berita/t74z52348/jadwal-tim-indonesia-sea-games-2024-hari-ini-sepak-bola-laga-penentuan-ke-semifinal-lawan-myanmar"
     },
     {
         "title": "Kementerian PU: 13 Jembatan Putus di Aceh Jadi Prioritas Pemulihan Konektivitas",
         "category": "Ekonomi",
-        "publish_time": "12-12-2025 03:29",
+        "publish_time": "12-12-2025 03:16",
         "news_link": "https://ekonomi.republika.co.id/berita/t74z2x490/kementerian-pu-13-jembatan-putus-di-aceh-jadi-prioritas-pemulihan-konektivitas"
     },
     {
         "title": "Penampakan Kericuhan di Kalibata Semalam, Kios dan Kendaraan Hangus Dibakar Massa",
         "category": "Visual",
-        "publish_time": "12-12-2025 02:29",
+        "publish_time": "12-12-2025 03:16",
         "news_link": "https://visual.republika.co.id/berita/t74yy0375/penampakan-kericuhan-di-kalibata-semalam-kios-dan-kendaraan-hangus-dibakar-massa"
     },
     {
         "title": "Dilarang MK, Kapolri Bolehkan Anak Buahnya Berdinas di 17 Kementerian/Lembaga",
         "category": "News",
-        "publish_time": "12-12-2025 02:29",
+        "publish_time": "12-12-2025 03:16",
         "news_link": "https://news.republika.co.id/berita/t74ywe484/dilarang-mk-kapolri-bolehkan-anak-buahnya-berdinas-di-17-kementerianlembaga"
     },
     {
         "title": "Analisis World Inequality Report: Oligarki dan Ekonomi Lemah Bikin Ketimpangan Indonesia Terus Awet",
         "category": "Ekonomi",
-        "publish_time": "12-12-2025 02:29",
+        "publish_time": "12-12-2025 03:16",
         "news_link": "https://ekonomi.republika.co.id/berita/t74yv2490/analisis-world-inequality-report-oligarki-dan-ekonomi-lemah-bikin-ketimpangan-indonesia-terus-awet"
     },
     {
         "title": "Sekjen Liga Muslim Dunia Puji Indonesia sebagai Teladan Harmoni Global",
         "category": "Khazanah",
-        "publish_time": "12-12-2025 02:29",
+        "publish_time": "12-12-2025 02:16",
         "news_link": "https://khazanah.republika.co.id/berita/t74xu5366/sekjen-liga-muslim-dunia-puji-indonesia-sebagai-teladan-harmoni-global"
     },
     {
         "title": "Harga Emas Antam Naik Tiga Hari Beruntun, Kini Tembus Rp 2,45 Juta per Gram",
         "category": "Ekonomi",
-        "publish_time": "12-12-2025 02:29",
+        "publish_time": "12-12-2025 02:16",
         "news_link": "https://ekonomi.republika.co.id/berita/t74xpt370/harga-emas-antam-naik-tiga-hari-beruntun-kini-tembus-rp-245-juta-per-gram"
     },
     {
         "title": "Kemenhut Segel 11 Entitas Usaha Terkait Kerusakan Hutan di Tapanuli Selatan",
         "category": "Esgnow",
-        "publish_time": "12-12-2025 02:29",
+        "publish_time": "12-12-2025 02:16",
         "news_link": "https://esgnow.republika.co.id/berita/t74wjz416/kemenhut-segel-11-entitas-usaha-terkait-kerusakan-hutan-di-tapanuli-selatan"
     },
     {
         "title": "MUI Minta Negara Wajibkan Zakat untuk Warga dan Perusahaan, Revisi UU Dinilai Mendesak",
         "category": "Khazanah",
-        "publish_time": "12-12-2025 01:29",
+        "publish_time": "12-12-2025 02:16",
         "news_link": "https://khazanah.republika.co.id/berita/t74vyd483/mui-minta-negara-wajibkan-zakat-untuk-warga-dan-perusahaan-revisi-uu-dinilai-mendesak"
     },
     {
@@ -170,133 +260,43 @@
     {
         "title": "Brasil Jadi Lawan Indonesia di Perempat Final FIFAe World Cup 2025",
         "category": "Network",
-        "publish_time": "12-12-2025 01:29",
+        "publish_time": "12-12-2025 02:16",
         "news_link": "https://skor.republika.co.id/posts/730513/brasil-jadi-lawan-indonesia-di-perempat-final-fif-ae-world-cup-2025"
     },
     {
         "title": "Ketua Umum DePA-RI : Tindak Tegas Pelaku Kejahatan Penyebab Banjir di Sumatera",
         "category": "Network",
-        "publish_time": "12-12-2025 01:29",
+        "publish_time": "12-12-2025 01:16",
         "news_link": "https://kampusiana.id/posts/730363/ketua-umum-depa-ri-tindak-tegas-pelaku-kejahatan-penyebab-banjir-di-sumatera"
     },
     {
         "title": "Vaksin Herpes Zoster Membantu Melindungi dari Demensia, Oh Ya?",
         "category": "Network",
-        "publish_time": "12-12-2025 01:29",
+        "publish_time": "12-12-2025 01:16",
         "news_link": "https://impresiupdate.id/posts/730389/vaksin-herpes-zoster-membantu-melindungi-dari-demensia-oh-ya-"
     },
     {
         "title": "Hadits Arbain Nawawi No. 33: Berlaku Adil",
         "category": "Network",
-        "publish_time": "12-12-2025 01:29",
+        "publish_time": "12-12-2025 01:16",
         "news_link": "https://sajada.id/posts/730410/hadits-arbain-nawawi-no-33-berlaku-adil"
     },
     {
         "title": "Wuih... Seni Bunga Kuno Ungkap Pemikiran Matematika 8.000 Tahun yang Lalu",
         "category": "Network",
-        "publish_time": "12-12-2025 01:29",
+        "publish_time": "12-12-2025 01:16",
         "news_link": "https://impresiupdate.id/posts/730397/wuih-seni-bunga-kuno-ungkap-pemikiran-matematika-8-000-tahun-yang-lalu"
     },
     {
         "title": "Waspadalah... Lidah Anda Mungkin Menunjukkan Tanda-Tanda Tersembunyi Gagal Jantung",
         "category": "Network",
-        "publish_time": "12-12-2025 01:29",
+        "publish_time": "12-12-2025 01:16",
         "news_link": "https://impresiupdate.id/posts/730400/waspadalah-lidah-anda-mungkin-menunjukkan-tanda-tanda-tersembunyi-gagal-jantung"
     },
     {
         "title": "Mentan: Bencana Sumatera Harus Dibantu, Negara Memanggil!",
         "category": "Ekonomi",
-        "publish_time": "12-12-2025 01:29",
+        "publish_time": "12-12-2025 01:16",
         "news_link": "https://ekonomi.republika.co.id/berita/t74v5p368/mentan-bencana-sumatera-harus-dibantu-negara-memanggil"
-    },
-    {
-        "title": "MyJCDC Luncurkan Special Career Day 2025",
-        "category": "Rejakarta",
-        "publish_time": "12-12-2025 01:29",
-        "news_link": "https://republika.co.id/berita//t74v56456/myjcdc-luncurkan-special-career-day-2025"
-    },
-    {
-        "title": "Didemo tak Mampu Berantas Korupsi, PM Bulgaria Mundur",
-        "category": "News",
-        "publish_time": "12-12-2025 01:29",
-        "news_link": "https://news.republika.co.id/berita/t74v2l393/didemo-tak-mampu-berantas-korupsi-pm-bulgaria-mundur"
-    },
-    {
-        "title": "Hashim Djojohadikusumo Kirim 43,5 Ton Bantuan Logistik ke Aceh dan Sumatera",
-        "category": "News",
-        "publish_time": "12-12-2025 01:29",
-        "news_link": "https://news.republika.co.id/berita/t74uxz416/hashim-djojohadikusumo-kirim-435-ton-bantuan-logistik-ke-aceh-dan-sumatera"
-    },
-    {
-        "title": "Hutan Wakaf: Jawaban Lokal atas Paradoks Bel\u00e9m",
-        "category": "Kolom",
-        "publish_time": "12-12-2025 01:29",
-        "news_link": "https://analisis.republika.co.id/berita/t74uma483/hutan-wakaf-jawaban-lokal-atas-paradoks-belm"
-    },
-    {
-        "title": "Tiga Laga Penentu Nasib Xabi Alonso di Real Madrid",
-        "category": "Network",
-        "publish_time": "12-12-2025 01:29",
-        "news_link": "https://skor.republika.co.id/posts/730507/tiga-laga-penentu-nasib-xabi-alonso-di-real-madrid"
-    },
-    {
-        "title": "KLH Segel Kebun dan Pabrik Sawit PT TBS di Tapanuli Tengah",
-        "category": "Esgnow",
-        "publish_time": "12-12-2025 01:29",
-        "news_link": "https://esgnow.republika.co.id/berita/t74udc370/klh-segel-kebun-dan-pabrik-sawit-pt-tbs-di-tapanuli-tengah"
-    },
-    {
-        "title": "Utang Motor di Balik Tewasnya Mata Elang Berujung Kerusuhan di Pancoran",
-        "category": "News",
-        "publish_time": "12-12-2025 01:29",
-        "news_link": "https://news.republika.co.id/berita/t74ub3377/utang-motor-di-balik-tewasnya-mata-elang-berujung-kerusuhan-di-pancoran"
-    },
-    {
-        "title": "Tinjau Aceh Tamiang, AHY Petakan Kerusakan Infrastruktur dan Salurkan Bantuan",
-        "category": "Ekonomi",
-        "publish_time": "12-12-2025 01:29",
-        "news_link": "https://ekonomi.republika.co.id/berita/t74u4q490/tinjau-aceh-tamiang-ahy-petakan-kerusakan-infrastruktur-dan-salurkan-bantuan"
-    },
-    {
-        "title": "Jelang Pengumuman Tender Kampung Haji, Prabowo-MBS Teleponan, Ini Hasilnya",
-        "category": "Khazanah",
-        "publish_time": "12-12-2025 01:29",
-        "news_link": "https://khazanah.republika.co.id/berita/t74u3s483/jelang-pengumuman-tender-kampung-haji-prabowombs-teleponan-ini-hasilnya"
-    },
-    {
-        "title": "Renungan Kebijakan Purbaya dan Hukum Isaac Newton",
-        "category": "Kolom",
-        "publish_time": "12-12-2025 01:29",
-        "news_link": "https://analisis.republika.co.id/berita/t74tul318/renungan-kebijakan-purbaya-dan-hukum-isaac-newton"
-    },
-    {
-        "title": "Bea Cukai Amankan Rokok Ilegal Impor Asal Kamboja di Pelabuhan Dwikora Pontianak",
-        "category": "Beacukai",
-        "publish_time": "12-12-2025 01:29",
-        "news_link": "https://republika.co.id/berita//t74tql368/bea-cukai-amankan-rokok-ilegal-impor-asal-kamboja-di-pelabuhan-dwikora-pontianak"
-    },
-    {
-        "title": "Naskah Khutbah Jumat: Ikhtiar, Tawakal, dan Sabar",
-        "category": "Iqra",
-        "publish_time": "12-12-2025 00:29",
-        "news_link": "https://iqra.republika.co.id/berita/t74tex366/naskah-khutbah-jumat-ikhtiar-tawakal-dan-sabar"
-    },
-    {
-        "title": "ICMI akan Gelar ICMW 2025, Soroti Peran Perempuan untuk Ketahanan Pangan Global",
-        "category": "News",
-        "publish_time": "12-12-2025 00:29",
-        "news_link": "https://news.republika.co.id/berita/t74td8368/icmi-akan-gelar-icmw-2025-soroti-peran-perempuan-untuk-ketahanan-pangan-global"
-    },
-    {
-        "title": "Pelita Air dan JNE Gratiskan Pengiriman Bantuan ke Sumatera",
-        "category": "Ekonomi",
-        "publish_time": "12-12-2025 00:29",
-        "news_link": "https://ekonomi.republika.co.id/berita/t74t70490/pelita-air-dan-jne-gratiskan-pengiriman-bantuan-ke-sumatera"
-    },
-    {
-        "title": "Limbah Sawit Kini Bisa Jadi Avtur Hijau, Ini Keunggulannya",
-        "category": "Esgnow",
-        "publish_time": "12-12-2025 00:29",
-        "news_link": "https://esgnow.republika.co.id/berita/t74sv5490/limbah-sawit-kini-bisa-jadi-avtur-hijau-ini-keunggulannya"
     }
 ]
