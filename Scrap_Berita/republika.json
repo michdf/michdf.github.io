@@ -1,104 +1,242 @@
 [
     {
+        "title": "MUI: Legal atau Ilegal, Pembalakan Tetap Berpotensi Merusak Hutan",
+        "category": "Khazanah",
+        "publish_time": "16-12-2025 13:34",
+        "news_link": "https://khazanah.republika.co.id/berita/t7d70l458/mui-legal-atau-ilegal-pembalakan-tetap-berpotensi-merusak-hutan"
+    },
+    {
+        "title": "Berhenti Beroperasi Saat Libur Nataru 2026, Dedi Mulyadi Beri Kompensasi ke Sopir Angkot Puncak",
+        "category": "Rejabar",
+        "publish_time": "16-12-2025 13:26",
+        "news_link": "https://rejabar.republika.co.id/berita/t7d6o9512/berhenti-beroperasi-saat-libur-nataru-2026-dedi-mulyadi-beri-kompensasi-ke-sopir-angkot-puncak"
+    },
+    {
+        "title": "Berbeda Pandangan, 2 Sahabat Nabi Tetap Utamakan Akhlak",
+        "category": "Khazanah",
+        "publish_time": "16-12-2025 13:24",
+        "news_link": "https://khazanah.republika.co.id/berita/t7d4n3458/berbeda-pandangan-2-sahabat-nabi-tetap-utamakan-akhlak"
+    },
+    {
+        "title": "Basuki Hadimuljono: PNS yang tak Mau Pindah ke IKN Bodoh",
+        "category": "News",
+        "publish_time": "16-12-2025 13:23",
+        "news_link": "https://news.republika.co.id/berita/t7d6k8377/basuki-hadimuljono-pns-yang-tak-mau-pindah-ke-ikn-bodoh"
+    },
+    {
+        "title": "Viral! Psikolog Ungkap Ada Klien yang Konsultasi karena Stres Jadi WNI",
+        "category": "Ameera",
+        "publish_time": "16-12-2025 13:23",
+        "news_link": "https://ameera.republika.co.id/berita/t7d6k0425/viral-psikolog-ungkap-ada-klien-yang-konsultasi-karena-stres-jadi-wni"
+    },
+    {
+        "title": "Indonesia Borong Tiga Emas pada Hari Pertama Triathlon SEA Games 2025",
+        "category": "News",
+        "publish_time": "16-12-2025 13:20",
+        "news_link": "https://news.republika.co.id/berita/t7d6e5348/indonesia-borong-tiga-emas-pada-hari-pertama-triathlon-sea-games-2025"
+    },
+    {
+        "title": "Bupati Cianjur Kabur Saat Dituntut Warganya Tolak Geothermal di Gunung Gede-Pangrango",
+        "category": "Rejabar",
+        "publish_time": "16-12-2025 13:19",
+        "news_link": "https://rejabar.republika.co.id/berita/t7d67e282/bupati-cianjur-kabur-saat-dituntut-warganya-tolak-geothermal-di-gunung-gedepangrango"
+    },
+    {
+        "title": "PBNU Salurkan Bantuan untuk Korban Bencana Banjir di Sumatra",
+        "category": "Khazanah",
+        "publish_time": "16-12-2025 13:14",
+        "news_link": "https://khazanah.republika.co.id/berita/t7d659458/pbnu-salurkan-bantuan-untuk-korban-bencana-banjir-di-sumatra"
+    },
+    {
+        "title": "BRI Respons Kebijakan Relaksasi KUR bagi Debitur Terdampak Bencana",
+        "category": "Ekonomi",
+        "publish_time": "16-12-2025 13:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7d4jd370/bri-respons-kebijakan-relaksasi-kur-bagi-debitur-terdampak-bencana"
+    },
+    {
+        "title": "Tanpa Kompromi, Khalifah Umar Menghukum Anaknya Sendiri",
+        "category": "Khazanah",
+        "publish_time": "16-12-2025 13:14",
+        "news_link": "https://khazanah.republika.co.id/berita/t7d4g5458/tanpa-kompromi-khalifah-umar-menghukum-anaknya-sendiri"
+    },
+    {
+        "title": "Hati yang Gelap-Pekat Condong pada Maksiat, Ini Cara Mencegahnya",
+        "category": "Khazanah",
+        "publish_time": "16-12-2025 13:10",
+        "news_link": "https://khazanah.republika.co.id/berita/t7d46j458/hati-yang-gelappekat-condong-pada-maksiat-ini-cara-mencegahnya"
+    },
+    {
+        "title": "Ahmed Sang Pahlawan Australia Akhirnya Buka Suara: Karena Allah, Saya Melewati Masa Sulit",
+        "category": "News",
+        "publish_time": "16-12-2025 13:09",
+        "news_link": "https://news.republika.co.id/berita/t7d5w0409/ahmed-sang-pahlawan-australia-akhirnya-buka-suara-karena-allah-saya-melewati-masa-sulit"
+    },
+    {
+        "title": "Tasawuf tanpa Nama",
+        "category": "Kolom",
+        "publish_time": "16-12-2025 13:07",
+        "news_link": "https://analisis.republika.co.id/berita/t7d5sd451/tasawuf-tanpa-nama"
+    },
+    {
+        "title": "Musisi Dunia Promosikan Lagu Amal Palestina 'Lullaby'",
+        "category": "Ameera",
+        "publish_time": "16-12-2025 13:02",
+        "news_link": "https://ameera.republika.co.id/berita/t7d5la425/musisi-dunia-promosikan-lagu-amal-palestina-lullaby"
+    },
+    {
+        "title": "Diskominfo Jabar Gandeng Media Perangi Rokok Ilegal",
+        "category": "Rejabar",
+        "publish_time": "16-12-2025 13:02",
+        "news_link": "https://rejabar.republika.co.id/berita/t7d5kf368/diskominfo-jabar-gandeng-media-perangi-rokok-ilegal"
+    },
+    {
+        "title": "Alasan Aparat TNI Memilih Mundur Saat Diserang WN China Bersenjata Tajam di Ketapang",
+        "category": "News",
+        "publish_time": "16-12-2025 12:59",
+        "news_link": "https://news.republika.co.id/berita/t7d5f4377/alasan-aparat-tni-memilih-mundur-saat-diserang-wn-china-bersenjata-tajam-di-ketapang"
+    },
+    {
+        "title": "Bagaimana Cara Rasulullah Perbaiki Akhlak Masyarakat?",
+        "category": "Khazanah",
+        "publish_time": "16-12-2025 12:57",
+        "news_link": "https://khazanah.republika.co.id/berita/t7d3v9458/bagaimana-cara-rasulullah-perbaiki-akhlak-masyarakat"
+    },
+    {
+        "title": "Menteri LH Dorong Pencabutan IUP di Gunung Slamet Jika tak Patuhi Kajian Tata Lingkungan",
+        "category": "Rejogja",
+        "publish_time": "16-12-2025 12:55",
+        "news_link": "https://rejogja.republika.co.id/berita/t7d58a282/menteri-lh-dorong-pencabutan-iup-di-gunung-slamet-jika-tak-patuhi-kajian-tata-lingkungan"
+    },
+    {
+        "title": "Dituduh Menghasut pada Demo Akhir Agustus, Polisi Tangkap 3 Aktivis Magelang",
+        "category": "News",
+        "publish_time": "16-12-2025 12:54",
+        "news_link": "https://news.republika.co.id/berita/t7d57t487/dituduh-menghasut-pada-demo-akhir-agustus-polisi-tangkap-3-aktivis-magelang"
+    },
+    {
+        "title": "Program MBG Bisa Jadi Instrumen Pengendali Harga",
+        "category": "News",
+        "publish_time": "16-12-2025 12:53",
+        "news_link": "https://news.republika.co.id/berita/t7d55u368/program-mbg-bisa-jadi-instrumen-pengendali-harga"
+    },
+    {
+        "title": "Prabowo Ingin Percepat Pembangunan dan Swasembada Pangan di Papua",
+        "category": "News",
+        "publish_time": "16-12-2025 12:48",
+        "news_link": "https://news.republika.co.id/berita/t7d4wn484/prabowo-ingin-percepat-pembangunan-dan-swasembada-pangan-di-papua"
+    },
+    {
+        "title": "Bahagia Bersama Rasulullah",
+        "category": "Khazanah",
+        "publish_time": "16-12-2025 12:43",
+        "news_link": "https://khazanah.republika.co.id/berita/t7d3kv458/bahagia-bersama-rasulullah"
+    },
+    {
+        "title": "Terapkan Konsep Zero Waste, SPPG Ini Olah Limbah Sisa MBG Jadi Pupuk dan Pakan Ternak",
+        "category": "Visual",
+        "publish_time": "16-12-2025 12:36",
+        "news_link": "https://visual.republika.co.id/berita/t7d4da375/terapkan-konsep-zero-waste-sppg-ini-olah-limbah-sisa-mbg-jadi-pupuk-dan-pakan-ternak"
+    },
+    {
         "title": "Luncurkan Logo Baru, Danantara Sebut Sinyal Kuat Transformasi BRI",
         "category": "Ekonomi",
-        "publish_time": "16-12-2025 12:32",
+        "publish_time": "16-12-2025 12:34",
         "news_link": "https://ekonomi.republika.co.id/berita/t7d459370/luncurkan-logo-baru-danantara-sebut-sinyal-kuat-transformasi-bri"
     },
     {
         "title": "PSSI Akhiri Kerja Sama dengan Indra Sjafri, Sumardji Mundur dari Posisi Manajer Timnas",
         "category": "News",
-        "publish_time": "16-12-2025 12:31",
+        "publish_time": "16-12-2025 12:34",
         "news_link": "https://news.republika.co.id/berita/t7d44c348/pssi-akhiri-kerja-sama-dengan-indra-sjafri-sumardji-mundur-dari-posisi-manajer-timnas"
     },
     {
         "title": "Agak Laen: Menyala Pantiku! Lebih Cepat Pecahkan Rekor Dibandingkan Film Pertama",
         "category": "Ameera",
-        "publish_time": "16-12-2025 12:28",
+        "publish_time": "16-12-2025 12:34",
         "news_link": "https://ameera.republika.co.id/berita/t7d3z3425/agak-laen-menyala-pantiku-lebih-cepat-pecahkan-rekor-dibandingkan-film-pertama"
     },
     {
         "title": "Rasulullah Memuji Kelompok-Kelompok Ini",
         "category": "Khazanah",
-        "publish_time": "16-12-2025 12:26",
+        "publish_time": "16-12-2025 12:34",
         "news_link": "https://khazanah.republika.co.id/berita/t7d3gh458/rasulullah-memuji-kelompokkelompok-ini"
     },
     {
         "title": "Pemda DIY Salurkan 2,4 Ton Beras untuk Mahasiswa Perantau Terdampak Bencana Sumatera",
         "category": "Rejogja",
-        "publish_time": "16-12-2025 12:19",
+        "publish_time": "16-12-2025 12:34",
         "news_link": "https://rejogja.republika.co.id/berita/t7d2rt282/pemda-diy-salurkan-24-ton-beras-untuk-mahasiswa-perantau-terdampak-bencana-sumatera"
     },
     {
         "title": "Komnas HAM Aceh: Banjir Sumatera Penuhi Indikator Berstatus Bencana Nasional",
         "category": "News",
-        "publish_time": "16-12-2025 12:14",
+        "publish_time": "16-12-2025 12:34",
         "news_link": "https://news.republika.co.id/berita/t7d3bo409/komnas-ham-aceh-banjir-sumatera-penuhi-indikator-berstatus-bencana-nasional"
     },
     {
         "title": "Pemimpin adalah Cerminan dari Perilaku Rakyatnya, Benarkah?",
         "category": "Khazanah",
-        "publish_time": "16-12-2025 12:13",
+        "publish_time": "16-12-2025 12:34",
         "news_link": "https://khazanah.republika.co.id/berita/t7d39w458/pemimpin-adalah-cerminan-dari-perilaku-rakyatnya-benarkah"
     },
     {
         "title": "LAZ-Sekolah Al Azhar Bantu Korban Bencana Sumatera",
         "category": "Khazanah",
-        "publish_time": "16-12-2025 12:10",
+        "publish_time": "16-12-2025 12:34",
         "news_link": "https://khazanah.republika.co.id/berita/t7d34l451/lazsekolah-al-azhar-bantu-korban-bencana-sumatera"
     },
     {
         "title": "Menteri LH Akui Deforestasi Perparah Bencana Sumatera, Penebangan Hutan Sudah Jadi Budaya",
         "category": "Rejogja",
-        "publish_time": "16-12-2025 12:07",
+        "publish_time": "16-12-2025 12:34",
         "news_link": "https://rejogja.republika.co.id/berita/t7d2ze282/menteri-lh-akui-deforestasi-perparah-bencana-sumatera-penebangan-hutan-sudah-jadi-budaya"
     },
     {
         "title": "Atasi Masalah Sampah, Pemprov Jakarta Bakal Segera Bangun PLTSa Bantargebang",
         "category": "Esgnow",
-        "publish_time": "16-12-2025 12:05",
+        "publish_time": "16-12-2025 12:34",
         "news_link": "https://esgnow.republika.co.id/berita/t7d2ww490/atasi-masalah-sampah-pemprov-jakarta-bakal-segera-bangun-pltsa-bantargebang"
     },
     {
         "title": "Soal Surat Permohonan ke PBB, Gubernur Aceh: Saya tak Tahu Apa-Apa, Sebenarnya Keliru",
         "category": "News",
-        "publish_time": "16-12-2025 12:02",
+        "publish_time": "16-12-2025 11:34",
         "news_link": "https://news.republika.co.id/berita/t7d2r0377/soal-surat-permohonan-ke-pbb-gubernur-aceh-saya-tak-tahu-apaapa-sebenarnya-keliru"
     },
     {
         "title": "Jaksa Ungkap Korupsi Chromebook Memperkaya Banyak Pihak, Nadiem Terima Paling Besar, Ini Daftarnya",
         "category": "News",
-        "publish_time": "16-12-2025 11:56",
+        "publish_time": "16-12-2025 11:34",
         "news_link": "https://news.republika.co.id/berita/t7d2gv409/jaksa-ungkap-korupsi-chromebook-memperkaya-banyak-pihak-nadiem-terima-paling-besar-ini-daftarnya"
     },
     {
         "title": "OJK Akan Tertibkan Penagihan Utang Usai Kasus Maut di Kalibata",
         "category": "Ekonomi",
-        "publish_time": "16-12-2025 11:55",
+        "publish_time": "16-12-2025 11:34",
         "news_link": "https://ekonomi.republika.co.id/berita/t7d1c8370/ojk-akan-tertibkan-penagihan-utang-usai-kasus-maut-di-kalibata"
     },
     {
         "title": "Mulai 2026, Sampah Organik di Kota Yogya Wajib Selesai di Tingkat Kelurahan",
         "category": "Rejogja",
-        "publish_time": "16-12-2025 11:54",
+        "publish_time": "16-12-2025 11:34",
         "news_link": "https://rejogja.republika.co.id/berita/t7d2el282/mulai-2026-sampah-organik-di-kota-yogya-wajib-selesai-di-tingkat-kelurahan"
     },
     {
         "title": "Mentan Amran: Kolaborasi Kementan\u2013TNI AL Percepat Distribusi Bantuan Bencana Sumatera",
         "category": "Ekonomi",
-        "publish_time": "16-12-2025 11:45",
+        "publish_time": "16-12-2025 11:34",
         "news_link": "https://ekonomi.republika.co.id/berita/t7d1zg522/mentan-amran-kolaborasi-kementantni-al-percepat-distribusi-bantuan-bencana-sumatera"
     },
     {
         "title": "BRI Luncurkan Logo Baru, Ini Penampakannya",
         "category": "Ekonomi",
-        "publish_time": "16-12-2025 11:44",
+        "publish_time": "16-12-2025 11:34",
         "news_link": "https://ekonomi.republika.co.id/berita/t7d1xk490/bri-luncurkan-logo-baru-ini-penampakannya"
     },
     {
         "title": "Berat Beban Seorang Pemimpin",
         "category": "Khazanah",
-        "publish_time": "16-12-2025 11:35",
+        "publish_time": "16-12-2025 11:34",
         "news_link": "https://khazanah.republika.co.id/berita/t7d1i9458/berat-beban-seorang-pemimpin"
     },
     {
@@ -160,143 +298,5 @@
         "category": "Khazanah",
         "publish_time": "16-12-2025 10:34",
         "news_link": "https://khazanah.republika.co.id/berita/t7cyzm483/gus-yahya-kerahkan-satgas-nu-peduli-untuk-bantu-korban-bencana-sumatera"
-    },
-    {
-        "title": "IHSG Ditutup Menguat 0,43 Persen, Investor Masih Bersikap Wait and See",
-        "category": "Ekonomi",
-        "publish_time": "16-12-2025 10:34",
-        "news_link": "https://ekonomi.republika.co.id/berita/t7cymg370/ihsg-ditutup-menguat-043-persen-investor-masih-bersikap-wait-and-see"
-    },
-    {
-        "title": "Data yang Buat Menteri LH Yakin Deforestasi Perparah Dampak Bencana Sumatera",
-        "category": "News",
-        "publish_time": "16-12-2025 10:34",
-        "news_link": "https://news.republika.co.id/berita/t7cy4m409/data-yang-buat-menteri-lh-yakin-deforestasi-perparah-dampak-bencana-sumatera"
-    },
-    {
-        "title": "Ribuan Unit Permukiman Yahudi isolasi Yerussalem",
-        "category": "Khazanah",
-        "publish_time": "16-12-2025 10:34",
-        "news_link": "https://khazanah.republika.co.id/berita/t7cy0n483/ribuan-unit-permukiman-yahudi-isolasi-yerussalem"
-    },
-    {
-        "title": "Dompet Dhuafa Hadirkan Pulihkan Mental Penyintas Khususnya Anak-anak di Aceh",
-        "category": "Khazanah",
-        "publish_time": "16-12-2025 10:34",
-        "news_link": "https://khazanah.republika.co.id/berita/t7cxzw368/dompet-dhuafa-hadirkan-pulihkan-mental-penyintas-khususnya-anakanak-di-aceh"
-    },
-    {
-        "title": "Rupiah Tertekan Sentimen Global, Hari Ini Ditutup Melemah",
-        "category": "Ekonomi",
-        "publish_time": "16-12-2025 10:34",
-        "news_link": "https://ekonomi.republika.co.id/berita/t7cxt2490/rupiah-tertekan-sentimen-global-hari-ini-ditutup-melemah"
-    },
-    {
-        "title": "Eropa Siap Terjunkan Pasukan ke Ukraina untuk Cegat Rusia",
-        "category": "News",
-        "publish_time": "16-12-2025 10:34",
-        "news_link": "https://news.republika.co.id/berita/t7cxmq393/eropa-siap-terjunkan-pasukan-ke-ukraina-untuk-cegat-rusia"
-    },
-    {
-        "title": "Resmi Balik ke Persis Solo, Milomir Seslija Akui Dapat Tantangan Besar",
-        "category": "Network",
-        "publish_time": "16-12-2025 10:34",
-        "news_link": "https://skor.republika.co.id/posts/732441/resmi-balik-ke-persis-solo-milomir-seslija-akui-dapat-tantangan-besar"
-    },
-    {
-        "title": "Sempat Tolak Bongkar Teras Cihampelas, Farhan Kini Berubah Pikiran",
-        "category": "Rejabar",
-        "publish_time": "16-12-2025 10:34",
-        "news_link": "https://rejabar.republika.co.id/berita/t7cxiq512/sempat-tolak-bongkar-teras-cihampelas-farhan-kini-berubah-pikiran"
-    },
-    {
-        "title": "ICC Tolak Banding Israel, Netanyahu dan Yoav Gallant Harus Ditangkap",
-        "category": "Khazanah",
-        "publish_time": "16-12-2025 09:34",
-        "news_link": "https://khazanah.republika.co.id/berita/t7cxad483/icc-tolak-banding-israel-netanyahu-dan-yoav-gallant-harus-ditangkap"
-    },
-    {
-        "title": "Banjir Landa Sembilan Kabupaten/Kota di Bali Dampak Siklon 93S, Satu WNA Meninggal Dunia",
-        "category": "News",
-        "publish_time": "16-12-2025 09:34",
-        "news_link": "https://news.republika.co.id/berita/t7cx9z409/banjir-landa-sembilan-kabupatenkota-di-bali-dampak-siklon-93s-satu-wna-meninggal-dunia"
-    },
-    {
-        "title": "QRIS dan Syariah Card Dorong Fee Based Income Bank Mega Syariah",
-        "category": "Ekonomi Syariah",
-        "publish_time": "16-12-2025 09:34",
-        "news_link": "https://sharia.republika.co.id/berita/t7cx6u416/qris-dan-syariah-card-dorong-fee-based-income-bank-mega-syariah"
-    },
-    {
-        "title": "Kemenkeu Longgarkan Syarat TKD bagi Daerah Terdampak Banjir Sumatera",
-        "category": "Ekonomi",
-        "publish_time": "16-12-2025 09:34",
-        "news_link": "https://ekonomi.republika.co.id/berita/t7cx4c490/kemenkeu-longgarkan-syarat-tkd-bagi-daerah-terdampak-banjir-sumatera"
-    },
-    {
-        "title": "Astra Agro Raih Penghargaan Indeks INSTAR 2025",
-        "category": "News",
-        "publish_time": "16-12-2025 09:34",
-        "news_link": "https://news.republika.co.id/berita/t7czp6318/astra-agro-raih-penghargaan-indeks-instar-2025"
-    },
-    {
-        "title": "Hujan Deras di Gaza, RS Al-Shifa Terendam",
-        "category": "News",
-        "publish_time": "16-12-2025 09:34",
-        "news_link": "https://news.republika.co.id/berita/t7cwyi393/hujan-deras-di-gaza-rs-alshifa-terendam"
-    },
-    {
-        "title": "Menguji Hafalan Alquran Anak-Anak Penyintas Bencana Aceh Tamiang",
-        "category": "Khazanah",
-        "publish_time": "16-12-2025 09:34",
-        "news_link": "https://khazanah.republika.co.id/berita/t7cwud483/menguji-hafalan-alquran-anakanak-penyintas-bencana-aceh-tamiang"
-    },
-    {
-        "title": "Atlet Putri Indonesia yang Raih Emas di Sea Games 2025, Ada yang Lagi Hamil",
-        "category": "Ameera",
-        "publish_time": "16-12-2025 09:34",
-        "news_link": "https://ameera.republika.co.id/berita/t7cwn6425/atlet-putri-indonesia-yang-raih-emas-di-sea-games-2025-ada-yang-lagi-hamil"
-    },
-    {
-        "title": "Nadiem Disebut Terima Rp 809,56 Miliar dalam Kasus Chromebook, Jaksa Beberkan Aliran Dananya",
-        "category": "News",
-        "publish_time": "16-12-2025 09:34",
-        "news_link": "https://news.republika.co.id/berita/t7cwhu377/nadiem-disebut-terima-rp-80956-miliar-dalam-kasus-chromebook-jaksa-beberkan-aliran-dananya"
-    },
-    {
-        "title": "226 Pesantren Rusak Akibat Bencana Sumatera",
-        "category": "Khazanah",
-        "publish_time": "16-12-2025 09:34",
-        "news_link": "https://khazanah.republika.co.id/berita/t7cwdx483/226-pesantren-rusak-akibat-bencana-sumatera"
-    },
-    {
-        "title": "Pemerintah Longgarkan KUR hingga Tiga Tahun bagi Debitur Terdampak Bencana",
-        "category": "Ekonomi",
-        "publish_time": "16-12-2025 09:34",
-        "news_link": "https://ekonomi.republika.co.id/berita/t7cw83370/pemerintah-longgarkan-kur-hingga-tiga-tahun-bagi-debitur-terdampak-bencana"
-    },
-    {
-        "title": "Imigrasi Ciduk 220 WNA Diduga Langgar Izin Tinggal, Didominasi Warga China",
-        "category": "News",
-        "publish_time": "16-12-2025 09:34",
-        "news_link": "https://news.republika.co.id/berita/t7cw7c487/imigrasi-ciduk-220-wna-diduga-langgar-izin-tinggal-didominasi-warga-china"
-    },
-    {
-        "title": "Futsal Putra SEA Games 2025: Jadwal, Hasil dan Klasemen Lengkap",
-        "category": "Network",
-        "publish_time": "16-12-2025 09:34",
-        "news_link": "https://skor.republika.co.id/posts/732427/futsal-putra-sea-games-2025-jadwal-hasil-dan-klasemen-lengkap"
-    },
-    {
-        "title": "KDM Resmikan Rekonstruksi Situs Megalitikum Gunung Padang",
-        "category": "Network",
-        "publish_time": "16-12-2025 09:34",
-        "news_link": "https://bandung24jam.id/posts/732348/kdm-resmikan-rekonstruksi-situs-megalitikum-gunung-padang"
-    },
-    {
-        "title": "Gula Darah Tinggi Diam-diam Memicu Kerusakan Gigi dan Penyakit Gusi",
-        "category": "Network",
-        "publish_time": "16-12-2025 09:34",
-        "news_link": "https://impresiupdate.id/posts/732366/gula-darah-tinggi-diam-diam-memicu-kerusakan-gigi-dan-penyakit-gusi"
     }
 ]
