@@ -1,62 +1,134 @@
 [
     {
+        "title": "KPK Segel Ruang Kerja Bupati Bekasi",
+        "category": "News",
+        "publish_time": "18-12-2025 15:15",
+        "news_link": "https://news.republika.co.id/berita/t7h12f377/kpk-segel-ruang-kerja-bupati-bekasi"
+    },
+    {
+        "title": "Tambahkan 'Sayyidina' pada Nama Nabi saat Doa Tasyahud dalam Shalat, Bolehkah?",
+        "category": "Khazanah",
+        "publish_time": "18-12-2025 15:14",
+        "news_link": "https://khazanah.republika.co.id/berita/t7h112458/tambahkan-sayyidina-pada-nama-nabi-saat-doa-tasyahud-dalam-shalat-bolehkah"
+    },
+    {
+        "title": "Presiden Prabowo Didorong Pecat TNI-Polri Terlibat Penyelundupan dan Tambang Ilegal",
+        "category": "Rejogja",
+        "publish_time": "18-12-2025 15:08",
+        "news_link": "https://rejogja.republika.co.id/berita/t7h0qj282/presiden-prabowo-didorong-pecat-tnipolri-terlibat-penyelundupan-dan-tambang-ilegal"
+    },
+    {
+        "title": "Disebut Terima Rp 10 Juta untuk Edarkan 100 Gram Narkotika, Ammar Zoni Ngaku dalam Tekanan",
+        "category": "News",
+        "publish_time": "18-12-2025 15:07",
+        "news_link": "https://news.republika.co.id/berita/t7h0pn377/disebut-terima-rp-10-juta-untuk-edarkan-100-gram-narkotika-ammar-zoni-ngaku-dalam-tekanan"
+    },
+    {
+        "title": "Tembus 80 Emas, Indonesia Penuhi Target di SEA Games 2025",
+        "category": "News",
+        "publish_time": "18-12-2025 15:03",
+        "news_link": "https://news.republika.co.id/berita/t7h0i3348/tembus-80-emas-indonesia-penuhi-target-di-sea-games-2025"
+    },
+    {
+        "title": "Kapolri Beri Bantuan kepada Anggota Polri Korban Bencana di Sumbar",
+        "category": "News",
+        "publish_time": "18-12-2025 15:00",
+        "news_link": "https://news.republika.co.id/berita/t7h0d5522/kapolri-beri-bantuan-kepada-anggota-polri-korban-bencana-di-sumbar"
+    },
+    {
+        "title": "Stok Melimpah, Warning Harga Pangan Tak Boleh Naik",
+        "category": "Ekonomi",
+        "publish_time": "18-12-2025 14:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7h05x522/stok-melimpah-warning-harga-pangan-tak-boleh-naik"
+    },
+    {
+        "title": "Tergelincir Masuk Gorong-gorong Saat Ambil Bola, Bocah Ditemukan Meninggal",
+        "category": "Rejabar",
+        "publish_time": "18-12-2025 14:54",
+        "news_link": "https://rejabar.republika.co.id/berita/t7h03v512/tergelincir-masuk-goronggorong-saat-ambil-bola-bocah-ditemukan-meninggal"
+    },
+    {
+        "title": "Timnas Voli Putra Indonesia ke Final SEA Games 2025, Siap Ulang Rekor 32 Tahun Lalu",
+        "category": "Network",
+        "publish_time": "18-12-2025 14:49",
+        "news_link": "https://skor.republika.co.id/posts/733403/timnas-voli-putra-indonesia-ke-final-sea-games-2025-siap-ulang-rekor-32-tahun-lalu"
+    },
+    {
+        "title": "Izin PT BPR Bumi Pendawa Raharja Dicabut, LPS Siapkan Pembayaran Simpanan Nasabah",
+        "category": "Rejabar",
+        "publish_time": "18-12-2025 14:37",
+        "news_link": "https://rejabar.republika.co.id/berita/t7gzag512/izin-pt-bpr-bumi-pendawa-raharja-dicabut-lps-siapkan-pembayaran-simpanan-nasabah"
+    },
+    {
+        "title": "'Bencana Sumatera Bukan Hanya Soal Korban, Melainkan Kegagapan Komunikasi Pemerintah'",
+        "category": "Khazanah",
+        "publish_time": "18-12-2025 14:21",
+        "news_link": "https://khazanah.republika.co.id/berita/t7gykf320/bencana-sumatera-bukan-hanya-soal-korban-melainkan-kegagapan-komunikasi-pemerintah"
+    },
+    {
+        "title": "Gubernur Aceh Apresiasi Bantuan Kementan\u2013Bapanas, Salah Satu Terbesar yang Diterima",
+        "category": "Ekonomi",
+        "publish_time": "18-12-2025 14:17",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7gyec368/gubernur-aceh-apresiasi-bantuan-kementanbapanas-salah-satu-terbesar-yang-diterima"
+    },
+    {
         "title": "INA Jelaskan Layanan Direct Call Buat Rantai Logistik Lebih Efisien",
         "category": "Ekonomi",
-        "publish_time": "18-12-2025 14:10",
+        "publish_time": "18-12-2025 14:17",
         "news_link": "https://ekonomi.republika.co.id/berita/t7gy0p484/ina-jelaskan-layanan-direct-call-buat-rantai-logistik-lebih-efisien"
     },
     {
         "title": "27.971 Personel Gabungan TNI-Polri Dikerahkan Amankan Nataru di Jateng",
         "category": "Rejogja",
-        "publish_time": "18-12-2025 14:03",
+        "publish_time": "18-12-2025 14:17",
         "news_link": "https://rejogja.republika.co.id/berita/t7gxpn282/27971-personel-gabungan-tnipolri-dikerahkan-amankan-nataru-di-jateng"
     },
     {
         "title": "Danantara Akuisisi Hotel di Makkah, Fahira Idris: Ini Sejarah Baru Layanan Haji",
         "category": "Khazanah",
-        "publish_time": "18-12-2025 14:02",
+        "publish_time": "18-12-2025 14:17",
         "news_link": "https://khazanah.republika.co.id/berita/t7gxny366/danantara-akuisisi-hotel-di-makkah-fahira-idris-ini-sejarah-baru-layanan-haji"
     },
     {
         "title": "Program Bantuan Stimulan Perumahan Swadaya dan Rumah Layak Huni Berdampak Nyata di Magetan",
         "category": "News",
-        "publish_time": "18-12-2025 14:02",
+        "publish_time": "18-12-2025 14:17",
         "news_link": "https://news.republika.co.id/berita/t7gxnj320/program-bantuan-stimulan-perumahan-swadaya-dan-rumah-layak-huni-berdampak-nyata-di-magetan"
     },
     {
         "title": "Memakai Software Bajakan Hukumnya Haram? Simak Penjelasan UAH",
         "category": "Khazanah",
-        "publish_time": "18-12-2025 13:35",
+        "publish_time": "18-12-2025 13:17",
         "news_link": "https://khazanah.republika.co.id/berita/t7gwfn458/memakai-software-bajakan-hukumnya-haram-simak-penjelasan-uah"
     },
     {
         "title": "Ammar Zoni Mengaku Disetrum dan Dipukuli, Minta Hakim Buka CCTV di Persidangan",
         "category": "News",
-        "publish_time": "18-12-2025 13:29",
+        "publish_time": "18-12-2025 13:17",
         "news_link": "https://news.republika.co.id/berita/t7gw52409/ammar-zoni-mengaku-disetrum-dan-dipukuli-minta-hakim-buka-cctv-di-persidangan"
     },
     {
         "title": "Mau Tanam Pisang, Warga di Bandung Barat Malah Temukan Benda Mirip Mortir",
         "category": "Rejabar",
-        "publish_time": "18-12-2025 13:27",
+        "publish_time": "18-12-2025 13:17",
         "news_link": "https://rejabar.republika.co.id/berita/t7gw13512/mau-tanam-pisang-warga-di-bandung-barat-malah-temukan-benda-mirip-mortir"
     },
     {
         "title": "Shaf Shalat Wanita di Belakang Laki-Laki, Mengapa?",
         "category": "Khazanah",
-        "publish_time": "18-12-2025 13:25",
+        "publish_time": "18-12-2025 13:17",
         "news_link": "https://khazanah.republika.co.id/berita/t7gvy3458/shaf-shalat-wanita-di-belakang-lakilaki-mengapa"
     },
     {
         "title": "10 Kelompok Calon Penghuni Neraka",
         "category": "Khazanah",
-        "publish_time": "18-12-2025 13:24",
+        "publish_time": "18-12-2025 13:17",
         "news_link": "https://khazanah.republika.co.id/berita/t7guza458/10-kelompok-calon-penghuni-neraka"
     },
     {
         "title": "Jalani Mediasi Perceraian Besok, Atalia Praratya dan Ridwan Kamil Belum Bisa Dipastikan Hadir",
         "category": "Rejabar",
-        "publish_time": "18-12-2025 13:20",
+        "publish_time": "18-12-2025 13:17",
         "news_link": "https://rejabar.republika.co.id/berita/t7gvqc512/jalani-mediasi-perceraian-besok-atalia-praratya-dan-ridwan-kamil-belum-bisa-dipastikan-hadir"
     },
     {
@@ -226,77 +298,5 @@
         "category": "News",
         "publish_time": "18-12-2025 12:17",
         "news_link": "https://news.republika.co.id/berita/t7grhp487/pramono-klaim-pemprov-jakarta-terus-bantu-penanganan-bencana-di-sumatera-tanpa-publikasi"
-    },
-    {
-        "title": "Mendag Klaim Pasokan Bahan Pokok Stabil Jelang Nataru",
-        "category": "Ekonomi",
-        "publish_time": "18-12-2025 11:17",
-        "news_link": "https://ekonomi.republika.co.id/berita/t7gr8e370/mendag-klaim-pasokan-bahan-pokok-stabil-jelang-nataru"
-    },
-    {
-        "title": "BRIN: Perubahan Iklim Tingkatkan Intensitas Badai di Indonesia",
-        "category": "Esgnow",
-        "publish_time": "18-12-2025 11:17",
-        "news_link": "https://esgnow.republika.co.id/berita/t7gnc8416/brin-perubahan-iklim-tingkatkan-intensitas-badai-di-indonesia"
-    },
-    {
-        "title": "Sambut Ramadhan, Baznas Perkuat Aksi Kemanusiaan dan Pemulihan Pascabencana di Sumatera",
-        "category": "Khazanah",
-        "publish_time": "18-12-2025 11:17",
-        "news_link": "https://khazanah.republika.co.id/berita/t7gr5m320/sambut-ramadhan-baznas-perkuat-aksi-kemanusiaan-dan-pemulihan-pascabencana-di-sumatera"
-    },
-    {
-        "title": "Dokter Bedah Muslim Seribu Tahun Lalu jadi Pelopor Teknik Bedah Modern",
-        "category": "Khazanah",
-        "publish_time": "18-12-2025 11:17",
-        "news_link": "https://khazanah.republika.co.id/berita/t7gr2q430/dokter-bedah-muslim-seribu-tahun-lalu-jadi-pelopor-teknik-bedah-modern"
-    },
-    {
-        "title": "Komisi I DPRD Jabar Puji Langkah Cepat Polda Jabar Amankan Resbob",
-        "category": "Rejabar",
-        "publish_time": "18-12-2025 11:17",
-        "news_link": "https://rejabar.republika.co.id/berita/t7gr06368/komisi-i-dprd-jabar-puji-langkah-cepat-polda-jabar-amankan-resbob"
-    },
-    {
-        "title": "Satu Kata untuk Ekonomi Indonesia 2025, Purbaya: Rebound!",
-        "category": "Ekonomi",
-        "publish_time": "18-12-2025 11:17",
-        "news_link": "https://ekonomi.republika.co.id/berita/t7gqz8490/satu-kata-untuk-ekonomi-indonesia-2025-purbaya-rebound"
-    },
-    {
-        "title": "Perkuat Tata Kelola, BPIP Terima Penghargaan dari Kemenkum",
-        "category": "Esgnow",
-        "publish_time": "18-12-2025 11:17",
-        "news_link": "https://esgnow.republika.co.id/berita/t7gquu416/perkuat-tata-kelola-bpip-terima-penghargaan-dari-kemenkum"
-    },
-    {
-        "title": "Adaro, Alamtri dan YABN Salurkan Bantuan untuk Korban Bencana Sumatera",
-        "category": "Visual",
-        "publish_time": "18-12-2025 11:17",
-        "news_link": "https://visual.republika.co.id/berita/t7gq9z375/adaro-alamtri-dan-yabn-salurkan-bantuan-untuk-korban-bencana-sumatera"
-    },
-    {
-        "title": "Prabowo Tinjau Pembangunan Jembatan Bailey Padang Mantuang dan Lembah Anai",
-        "category": "News",
-        "publish_time": "18-12-2025 11:17",
-        "news_link": "https://news.republika.co.id/berita/t7gqdg484/prabowo-tinjau-pembangunan-jembatan-bailey-padang-mantuang-dan-lembah-anai"
-    },
-    {
-        "title": "Lalui Laga Ketat Lima Set, Timnas Voli Putra Melaju ke Final SEA Games Usai Kalahkan Vietnam",
-        "category": "News",
-        "publish_time": "18-12-2025 11:17",
-        "news_link": "https://news.republika.co.id/berita/t7gq94409/lalui-laga-ketat-lima-set-timnas-voli-putra-melaju-ke-final-sea-games-usai-kalahkan-vietnam"
-    },
-    {
-        "title": "Dihajar Vietnam, Timnas Futsal Putri Indonesia Harus Puas Raih Medali Perak SEA Games 2025",
-        "category": "Network",
-        "publish_time": "18-12-2025 11:17",
-        "news_link": "https://skor.republika.co.id/posts/733348/dihajar-vietnam-timnas-futsal-putri-indonesia-harus-puas-raih-medali-perak-sea-games-2025"
-    },
-    {
-        "title": "Antisipasi Libur Nataru di Tengah Potensi Cuaca Ekstrem",
-        "category": "Video",
-        "publish_time": "18-12-2025 11:17",
-        "news_link": "https://tv.republika.co.id/berita/t7gq2u418/antisipasi-libur-nataru-di-tengah-potensi-cuaca-ekstrem"
     }
 ]
