@@ -1,44 +1,200 @@
 [
     {
+        "title": "IKN Gelar Lomba Robot: Nusantara TechnoFest Bangun Ekosistem Talenta Digital Sejak Dini",
+        "category": "News",
+        "publish_time": "19-12-2025 03:16",
+        "news_link": "https://news.republika.co.id/berita/t7hyga475/ikn-gelar-lomba-robot-nusantara-technofest-bangun-ekosistem-talenta-digital-sejak-dini"
+    },
+    {
+        "title": "Bank Mandiri Tebar Dividen Interim Rp 9,3 Triliun, Pemegang Saham Dapat Rp 100 per Lembar",
+        "category": "Ekonomi",
+        "publish_time": "19-12-2025 03:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7hybx423/bank-mandiri-tebar-dividen-interim-rp-93-triliun-pemegang-saham-dapat-rp-100-per-lembar"
+    },
+    {
+        "title": "Kolaborasi Dendi Santoso dan Dalmiansyah Matutu untuk Dreams Football Pitch",
+        "category": "Network",
+        "publish_time": "19-12-2025 03:10",
+        "news_link": "https://skor.republika.co.id/posts/733491/kolaborasi-dendi-santoso-dan-dalmiansyah-matutu-untuk-dreams-football-pitch"
+    },
+    {
+        "title": "Liriknya \u2018Dalem Banget\u2019! Nabila Taqiyyah dan KIM Bahas Susahnya Move On di Lagu Terbaru",
+        "category": "Ameera",
+        "publish_time": "19-12-2025 03:09",
+        "news_link": "https://ameera.republika.co.id/berita/t7hy3h425/liriknya-dalem-banget-nabila-taqiyyah-dan-kim-bahas-susahnya-move-on-di-lagu-terbaru"
+    },
+    {
+        "title": "Kuasa Hukum Pastikan Atalia Praratya Hadir untuk Jalani Mediasi Sidang Gugatan Perceraian",
+        "category": "Rejabar",
+        "publish_time": "19-12-2025 03:03",
+        "news_link": "https://rejabar.republika.co.id/berita/t7hxum512/kuasa-hukum-pastikan-atalia-praratya-hadir-untuk-jalani-mediasi-sidang-gugatan-perceraian"
+    },
+    {
+        "title": "Ndarboy Genk Gandeng Dompet Dhuafa Sebagai Mitra Penyaluran Donasi Event Ngamen Untuk Sumatra",
+        "category": "Khazanah",
+        "publish_time": "19-12-2025 03:01",
+        "news_link": "https://khazanah.republika.co.id/berita/t7hxr0472/ndarboy-genk-gandeng-dompet-dhuafa-sebagai-mitra-penyaluran-donasi-event-ngamen-untuk-sumatra"
+    },
+    {
+        "title": "Defisit APBN 2026 Diproyeksi Rp 700 Triliun, Berpotensi Tekan Penurunan Yield SBN",
+        "category": "Ekonomi",
+        "publish_time": "19-12-2025 03:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7hxem423/defisit-apbn-2026-diproyeksi-rp-700-triliun-berpotensi-tekan-penurunan-yield-sbn"
+    },
+    {
+        "title": "BMKG Ingatkan Potensi Cuaca Ekstrem dan Gelombang Tinggi di Jabar",
+        "category": "Rejabar",
+        "publish_time": "19-12-2025 02:54",
+        "news_link": "https://rejabar.republika.co.id/berita/t7hxfg512/bmkg-ingatkan-potensi-cuaca-ekstrem-dan-gelombang-tinggi-di-jabar"
+    },
+    {
+        "title": "Stok Pangan Aman Harga Tetap Naik, Mentan: Berarti Tata Niaga Bermasalah",
+        "category": "Ekonomi",
+        "publish_time": "19-12-2025 02:41",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7hwtd423/stok-pangan-aman-harga-tetap-naik-mentan-berarti-tata-niaga-bermasalah"
+    },
+    {
+        "title": "Tantang Inter Milan, Jadi Laga Perdana Bologna di Piala Super Italia",
+        "category": "Network",
+        "publish_time": "19-12-2025 02:40",
+        "news_link": "https://skor.republika.co.id/posts/733482/tantang-inter-milan-jadi-laga-perdana-bologna-di-piala-super-italia"
+    },
+    {
+        "title": "Peneliti Italia Sebut Eropa Danai RSF Sudan Lebih dari Rp 6 Triliun",
+        "category": "Khazanah",
+        "publish_time": "19-12-2025 02:39",
+        "news_link": "https://khazanah.republika.co.id/berita/t7hwqa320/peneliti-italia-sebut-eropa-danai-rsf-sudan-lebih-dari-rp-6-triliun"
+    },
+    {
+        "title": "Harga Dua Produk Emas di Pegadaian Kompak Naik Hari Ini",
+        "category": "Ekonomi",
+        "publish_time": "19-12-2025 02:34",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7hwez423/harga-dua-produk-emas-di-pegadaian-kompak-naik-hari-ini"
+    },
+    {
+        "title": "Hadapi Lonjakan Pergerakan Nataru, Menhub Aktifkan Posko Pusat",
+        "category": "Ekonomi",
+        "publish_time": "19-12-2025 02:27",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7hw6a423/hadapi-lonjakan-pergerakan-nataru-menhub-aktifkan-posko-pusat"
+    },
+    {
+        "title": "Sekjen MUI Nilai Kampung Haji Perkuat Ekosistem Keuangan dan Dampak Sosial",
+        "category": "Khazanah",
+        "publish_time": "19-12-2025 02:19",
+        "news_link": "https://khazanah.republika.co.id/berita/t7hvct366/sekjen-mui-nilai-kampung-haji-perkuat-ekosistem-keuangan-dan-dampak-sosial"
+    },
+    {
+        "title": "Buruh Pertanyakan Peran DEN dalam Penetapan Upah Minimum",
+        "category": "Ekonomi",
+        "publish_time": "19-12-2025 02:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7hv1h423/buruh-pertanyakan-peran-den-dalam-penetapan-upah-minimum"
+    },
+    {
+        "title": "Masa Depan Indonesia: Ekoteologi, Kurikulum Cinta, dan AI | Special Interview",
+        "category": "Video",
+        "publish_time": "19-12-2025 02:19",
+        "news_link": "https://tv.republika.co.id/berita/t7huxn313/masa-depan-indonesia-ekoteologi-kurikulum-cinta-dan-ai-special-interview"
+    },
+    {
+        "title": "Pakar: Obat Herbal Bisa Jadi Racun Kalau Enggak Digunakan dengan Tepat",
+        "category": "Ameera",
+        "publish_time": "19-12-2025 02:19",
+        "news_link": "https://ameera.republika.co.id/berita/t7huvb425/pakar-obat-herbal-bisa-jadi-racun-kalau-enggak-digunakan-dengan-tepat"
+    },
+    {
+        "title": "Uji Coba Diklaim Berhasil, Coretax Siap Sasar 13 Juta WP",
+        "category": "Ekonomi",
+        "publish_time": "19-12-2025 02:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7hup4423/uji-coba-diklaim-berhasil-coretax-siap-sasar-13-juta-wp"
+    },
+    {
+        "title": "MUI Sebut Kampung Haji Sebagai Inovasi Pelayanan Haji untuk Lebih Baik",
+        "category": "Khazanah",
+        "publish_time": "19-12-2025 01:19",
+        "news_link": "https://khazanah.republika.co.id/berita/t7hu7u430/mui-sebut-kampung-haji-sebagai-inovasi-pelayanan-haji-untuk-lebih-baik"
+    },
+    {
+        "title": "Pramono Anung Beri SP 1 Gedung tak Penuhi Standar Kelaikan",
+        "category": "Video",
+        "publish_time": "19-12-2025 01:19",
+        "news_link": "https://tv.republika.co.id/berita/t7hu5f313/pramono-anung-beri-sp-1-gedung-tak-penuhi-standar-kelaikan"
+    },
+    {
+        "title": "Puluhan Pemukim Ilegal Israel Duduki Wilayah Gaza, Serukan Militer Tuntaskan Agresi",
+        "category": "Khazanah",
+        "publish_time": "19-12-2025 01:19",
+        "news_link": "https://khazanah.republika.co.id/berita/t7hu4h320/puluhan-pemukim-ilegal-israel-duduki-wilayah-gaza-serukan-militer-tuntaskan-agresi"
+    },
+    {
+        "title": "ITB Buka Jalur Baru Seleksi Siswa Unggul Tahun 2026, Ini Persyaratannya",
+        "category": "Rejabar",
+        "publish_time": "19-12-2025 01:19",
+        "news_link": "https://rejabar.republika.co.id/berita/t7htec512/itb-buka-jalur-baru-seleksi-siswa-unggul-tahun-2026-ini-persyaratannya"
+    },
+    {
+        "title": "Riset Nagara Institute: Mekanisme Transparansi yang Kuat Diperlukan untuk Kelola Danantara",
+        "category": "Rejogja",
+        "publish_time": "19-12-2025 01:19",
+        "news_link": "https://rejogja.republika.co.id/berita/t7hqzg291/riset-nagara-institute-mekanisme-transparansi-yang-kuat-diperlukan-untuk-kelola-danantara"
+    },
+    {
+        "title": "Waste to Energy Danantara Jadi Harapan Baru Pengelolaan Sampah",
+        "category": "Esgnow",
+        "publish_time": "19-12-2025 01:19",
+        "news_link": "https://esgnow.republika.co.id/berita/t7ht84423/waste-to-energy-danantara-jadi-harapan-baru-pengelolaan-sampah"
+    },
+    {
+        "title": "Khutbah Jumat: Bencana Alam yang Menimpa Manusia Itu Ujian, Musibah, atau Azab?",
+        "category": "Iqra",
+        "publish_time": "19-12-2025 01:19",
+        "news_link": "https://iqra.republika.co.id/berita/t7ht2l320/khutbah-jumat-bencana-alam-yang-menimpa-manusia-itu-ujian-musibah-atau-azab"
+    },
+    {
+        "title": "Klub Nathan Tjoe-A-On dan Mauro Zijlstra Beda Nasib di Piala Belanda",
+        "category": "Network",
+        "publish_time": "19-12-2025 01:19",
+        "news_link": "https://skor.republika.co.id/posts/733462/klub-nathan-tjoe-a-on-dan-mauro-zijlstra-beda-nasib-di-piala-belanda"
+    },
+    {
         "title": "Kemenkeu: Rp268 Miliar Bantuan Sudah Disalurkan ke Wilayah Terdampak Bencana Sumatera",
         "category": "Ekonomi",
-        "publish_time": "19-12-2025 00:53",
+        "publish_time": "19-12-2025 01:19",
         "news_link": "https://ekonomi.republika.co.id/berita/t7hru8502/kemenkeu-rp268-miliar-bantuan-sudah-disalurkan-ke-wilayah-terdampak-bencana-sumatera"
     },
     {
         "title": "Kepung dan Blokade Venezuela, Makin Terbuka Alasan AS Adalah Minyak",
         "category": "Video",
-        "publish_time": "19-12-2025 00:53",
+        "publish_time": "19-12-2025 01:19",
         "news_link": "https://tv.republika.co.id/berita/t7hrtu313/kepung-dan-blokade-venezuela-makin-terbuka-alasan-as-adalah-minyak"
     },
     {
         "title": "Mengapa Semakin Banyak Orang Memilih Pindah ke Arab Saudi?",
         "category": "Khazanah",
-        "publish_time": "19-12-2025 00:44",
+        "publish_time": "19-12-2025 00:19",
         "news_link": "https://khazanah.republika.co.id/berita/t7hr1n430/mengapa-semakin-banyak-orang-memilih-pindah-ke-arab-saudi"
     },
     {
         "title": "Bea Keluar Batu Bara Berlaku Januari 2026, Sumbang Penerimaan Rp 25 Triliun",
         "category": "Ekonomi",
-        "publish_time": "19-12-2025 00:41",
+        "publish_time": "19-12-2025 00:19",
         "news_link": "https://ekonomi.republika.co.id/berita/t7hrap484/bea-keluar-batu-bara-berlaku-januari-2026-sumbang-penerimaan-rp-25-triliun"
     },
     {
         "title": "Warisan Maksiat dari Kaum Terdahulu yang Dibinasakan Allah",
         "category": "Khazanah",
-        "publish_time": "19-12-2025 00:31",
+        "publish_time": "19-12-2025 00:19",
         "news_link": "https://khazanah.republika.co.id/berita/t7hqta430/warisan-maksiat-dari-kaum-terdahulu-yang-dibinasakan-allah"
     },
     {
         "title": "PBB: Hampir 55 Ribu Keluarga di Gaza Terjebak Badai Musim Dingin, Israel Blokir Bantuan",
         "category": "News",
-        "publish_time": "19-12-2025 00:29",
+        "publish_time": "19-12-2025 00:19",
         "news_link": "https://news.republika.co.id/berita/t7hqqh502/pbb-hampir-55-ribu-keluarga-di-gaza-terjebak-badai-musim-dingin-israel-blokir-bantuan"
     },
     {
         "title": "Tekce Perluas Jangkauan Global Lewat Program Partner dan Affiliate",
         "category": "Ekonomi",
-        "publish_time": "19-12-2025 00:23",
+        "publish_time": "19-12-2025 00:19",
         "news_link": "https://ekonomi.republika.co.id/berita/t7hqfw291/tekce-perluas-jangkauan-global-lewat-program-partner-dan-affiliate"
     },
     {
@@ -50,253 +206,97 @@
     {
         "title": "Penataan Kawasan Hutan Jadi Kunci Tata Kelola Sawit ke Depan",
         "category": "News",
-        "publish_time": "19-12-2025 00:17",
+        "publish_time": "19-12-2025 00:19",
         "news_link": "https://news.republika.co.id/berita/t7hq6p484/penataan-kawasan-hutan-jadi-kunci-tata-kelola-sawit-ke-depan"
     },
     {
         "title": "AMAL Bersama BMM Resmikan Wakaf Sumur di Bandung Barat, 200 Warga Nikmati Air Bersih Berkelanjutan",
         "category": "Khazanah",
-        "publish_time": "19-12-2025 00:15",
+        "publish_time": "19-12-2025 00:19",
         "news_link": "https://khazanah.republika.co.id/berita/t7hq3b472/amal-bersama-bmm-resmikan-wakaf-sumur-di-bandung-barat-200-warga-nikmati-air-bersih-berkelanjutan"
     },
     {
         "title": "Kekhawatiran dan Harapan Orang Shaleh",
         "category": "Khazanah",
-        "publish_time": "19-12-2025 00:14",
+        "publish_time": "19-12-2025 00:19",
         "news_link": "https://khazanah.republika.co.id/berita/t7hpsx430/kekhawatiran-dan-harapan-orang-shaleh"
     },
     {
         "title": "Daftar 11 OTT KPK Sepanjang 2025, Termasuk Ciduk Bupati Bekasi",
         "category": "News",
-        "publish_time": "19-12-2025 00:14",
+        "publish_time": "19-12-2025 00:19",
         "news_link": "https://news.republika.co.id/berita/t7hpbk484/daftar-11-ott-kpk-sepanjang-2025-termasuk-ciduk-bupati-bekasi"
     },
     {
         "title": "David Neres Cetak Gol Langka usai Bobol Gawang AC Milan",
         "category": "Network",
-        "publish_time": "18-12-2025 23:14",
+        "publish_time": "18-12-2025 23:19",
         "news_link": "https://skor.republika.co.id/posts/733453/david-neres-cetak-gol-langka-usai-bobol-gawang-ac-milan"
     },
     {
         "title": "KRI Balaputradewa-322 Diluncurkan, Kapal Tempur Multiperan Produksi PT PAL",
         "category": "News",
-        "publish_time": "18-12-2025 23:14",
+        "publish_time": "18-12-2025 23:19",
         "news_link": "https://news.republika.co.id/berita/t7hmw3484/kri-balaputradewa322-diluncurkan-kapal-tempur-multiperan-produksi-pt-pal"
     },
     {
         "title": "Bentuk Toleransi Beragama, Gereja di Semarang Bagikan Makanan Gratis untuk Dhuafa",
         "category": "Visual",
-        "publish_time": "18-12-2025 23:14",
+        "publish_time": "18-12-2025 23:19",
         "news_link": "https://visual.republika.co.id/berita/t7h5ud375/bentuk-toleransi-beragama-gereja-di-semarang-bagikan-makanan-gratis-untuk-dhuafa"
     },
     {
         "title": "BRI Situbondo Digugat Debitur Terkait Proses Lelang",
         "category": "News",
-        "publish_time": "18-12-2025 22:14",
+        "publish_time": "18-12-2025 22:19",
         "news_link": "https://news.republika.co.id/berita/t7hlvn9330000/bri-situbondo-digugat-debitur-terkait-proses-lelang"
     },
     {
         "title": "Tumbang di UEFA Conference League, Fiorentina Hanya Menang Sekali dalam 10 Laga Terahir",
         "category": "Network",
-        "publish_time": "18-12-2025 22:14",
+        "publish_time": "18-12-2025 22:19",
         "news_link": "https://skor.republika.co.id/posts/733451/tumbang-di-uefa-conference-league-fiorentina-hanya-menang-sekali-dalam-10-laga-terahir"
     },
     {
         "title": "KPK Gelar OTT Tiga Kali Sehari, Jaksa Hingga Bupati Ikut Diciduk",
         "category": "News",
-        "publish_time": "18-12-2025 22:14",
+        "publish_time": "18-12-2025 22:19",
         "news_link": "https://news.republika.co.id/berita/t7hlag484/kpk-gelar-ott-tiga-kali-sehari-jaksa-hingga-bupati-ikut-diciduk"
     },
     {
         "title": "Denpasar Festival 2025 Jadi Role Model Festival Zero Waste",
         "category": "News",
-        "publish_time": "18-12-2025 22:14",
+        "publish_time": "18-12-2025 22:19",
         "news_link": "https://news.republika.co.id/berita/t7hl6o8930000/denpasar-festival-2025-jadi-role-model-festival-zero-waste"
     },
     {
         "title": "Pemkab Ponorogo Tunggu Revisi Dokumen untuk Pemekaran Empat Desa",
         "category": "News",
-        "publish_time": "18-12-2025 22:14",
+        "publish_time": "18-12-2025 22:19",
         "news_link": "https://news.republika.co.id/berita/t7hkhk2630000/pemkab-ponorogo-tunggu-revisi-dokumen-untuk-pemekaran-empat-desa"
     },
     {
         "title": "Indonesia Capai Target 80 Emas Berkat Tambahan 8 Medali Emas pada Hari Kesembilan",
         "category": "News",
-        "publish_time": "18-12-2025 22:14",
+        "publish_time": "18-12-2025 22:19",
         "news_link": "https://news.republika.co.id/berita/t7hk2j348/indonesia-capai-target-80-emas-berkat-tambahan-8-medali-emas-pada-hari-kesembilan"
     },
     {
         "title": "Pelatih Norwegia Age Hareide Tutup Usia karena Kanker",
         "category": "News",
-        "publish_time": "18-12-2025 22:14",
+        "publish_time": "18-12-2025 22:19",
         "news_link": "https://news.republika.co.id/berita/t7hjpu348/pelatih-norwegia-age-hareide-tutup-usia-karena-kanker"
     },
     {
         "title": "Napoli Melaju ke Final Piala Super Italia Usai Bekuk AC Milan",
         "category": "News",
-        "publish_time": "18-12-2025 22:14",
+        "publish_time": "18-12-2025 21:19",
         "news_link": "https://news.republika.co.id/berita/t7hj6z348/napoli-melaju-ke-final-piala-super-italia-usai-bekuk-ac-milan"
     },
     {
         "title": "BPOLBF Ajak Kolaborasi Gelar Wisata Bersih dan Gerakan Hijau 2026",
         "category": "News",
-        "publish_time": "18-12-2025 22:14",
+        "publish_time": "18-12-2025 21:19",
         "news_link": "https://news.republika.co.id/berita/t7hj6r7930000/bpolbf-ajak-kolaborasi-gelar-wisata-bersih-dan-gerakan-hijau-2026"
-    },
-    {
-        "title": "Pj. Ketum PBNU Konsolidasi di Pesantren Jawa Timur",
-        "category": "Khazanah",
-        "publish_time": "18-12-2025 21:14",
-        "news_link": "https://khazanah.republika.co.id/berita/t7hiee9630000/pj-ketum-pbnu-konsolidasi-di-pesantren-jawa-timur"
-    },
-    {
-        "title": "Kementan Pastikan Harga Daging Sapi Stabil Jelang Natal dan Tahun Baru",
-        "category": "News",
-        "publish_time": "18-12-2025 21:14",
-        "news_link": "https://news.republika.co.id/berita/t7hgkh2730000/kementan-pastikan-harga-daging-sapi-stabil-jelang-natal-dan-tahun-baru"
-    },
-    {
-        "title": "KPK Serahkan Berkas OTT Banten ke Kejaksaan Agung",
-        "category": "News",
-        "publish_time": "18-12-2025 21:14",
-        "news_link": "https://news.republika.co.id/berita/t7hgij3130000/kpk-serahkan-berkas-ott-banten-ke-kejaksaan-agung"
-    },
-    {
-        "title": "John Herdman Dianggap Opsi Terbaik untuk Latih Timnas Indonesia",
-        "category": "News",
-        "publish_time": "18-12-2025 21:14",
-        "news_link": "https://news.republika.co.id/berita/t7hgi41930000/john-herdman-dianggap-opsi-terbaik-untuk-latih-timnas-indonesia"
-    },
-    {
-        "title": "BBPOM Kupang Temukan 329 Jenis Pangan Kedaluwarsa di NTT",
-        "category": "News",
-        "publish_time": "18-12-2025 21:14",
-        "news_link": "https://news.republika.co.id/berita/t7hggc4430000/bbpom-kupang-temukan-329-jenis-pangan-kedaluwarsa-di-ntt"
-    },
-    {
-        "title": "Menhub Buka Posko Angkutan Natal 2025 di Kemenhub",
-        "category": "News",
-        "publish_time": "18-12-2025 21:14",
-        "news_link": "https://news.republika.co.id/berita/t7hgfy7830000/menhub-buka-posko-angkutan-natal-2025-di-kemenhub"
-    },
-    {
-        "title": "Kejagung Terima Berkas Jaksa dari OTT KPK di Banten",
-        "category": "News",
-        "publish_time": "18-12-2025 21:14",
-        "news_link": "https://news.republika.co.id/berita/t7hgfj3930000/kejagung-terima-berkas-jaksa-dari-ott-kpk-di-banten"
-    },
-    {
-        "title": "Posko Natal dan Tahun Baru Hadir di Bandara Juwata untuk Kenyamanan Penumpang",
-        "category": "News",
-        "publish_time": "18-12-2025 21:14",
-        "news_link": "https://news.republika.co.id/berita/t7hgdq330000/posko-natal-dan-tahun-baru-hadir-di-bandara-juwata-untuk-kenyamanan-penumpang"
-    },
-    {
-        "title": "Disdikbud Biak Numfor Perkuat Pengawasan Dana BOSP 2026",
-        "category": "News",
-        "publish_time": "18-12-2025 20:14",
-        "news_link": "https://news.republika.co.id/berita/t7hfnj5330000/disdikbud-biak-numfor-perkuat-pengawasan-dana-bosp-2026"
-    },
-    {
-        "title": "Greg Nwokolo: Timnas Indonesia Alami Kemunduran di SEA Games 2025",
-        "category": "News",
-        "publish_time": "18-12-2025 20:14",
-        "news_link": "https://news.republika.co.id/berita/t7hexl3930000/greg-nwokolo-timnas-indonesia-alami-kemunduran-di-sea-games-2025"
-    },
-    {
-        "title": "30 Petarung Siap Berlaga di Prime Kumite Championship 3 di Jakarta",
-        "category": "News",
-        "publish_time": "18-12-2025 20:14",
-        "news_link": "https://news.republika.co.id/berita/t7he8p2230000/30-petarung-siap-berlaga-di-prime-kumite-championship-3-di-jakarta"
-    },
-    {
-        "title": "Kejagung Pastikan Transparansi Penanganan Kasus OTT KPK di Banten",
-        "category": "News",
-        "publish_time": "18-12-2025 19:14",
-        "news_link": "https://news.republika.co.id/berita/t7hdjo3530000/kejagung-pastikan-transparansi-penanganan-kasus-ott-kpk-di-banten"
-    },
-    {
-        "title": "KPK Tangkap Bupati Bekasi Ade Kuswara Kunang dalam OTT",
-        "category": "News",
-        "publish_time": "18-12-2025 19:14",
-        "news_link": "https://news.republika.co.id/berita/t7hcui4830000/kpk-tangkap-bupati-bekasi-ade-kuswara-kunang-dalam-ott"
-    },
-    {
-        "title": "Pemkab Biak Numfor Validasi Kepesertaan Jamsostek OAP",
-        "category": "News",
-        "publish_time": "18-12-2025 19:14",
-        "news_link": "https://news.republika.co.id/berita/t7hc5f8130000/pemkab-biak-numfor-validasi-kepesertaan-jamsostek-oap"
-    },
-    {
-        "title": "Apindo Ingin Kenaikan UMP Jateng 2026 tak Lebih dari 5 Persen",
-        "category": "Rejogja",
-        "publish_time": "18-12-2025 19:14",
-        "news_link": "https://rejogja.republika.co.id/berita/t7h957282/apindo-ingin-kenaikan-ump-jateng-2026-tak-lebih-dari-5-persen"
-    },
-    {
-        "title": "PalmCo Dukung Pemulihan Pascabanjir di Mandailing Natal dan Aceh Tamiang",
-        "category": "News",
-        "publish_time": "18-12-2025 19:14",
-        "news_link": "https://news.republika.co.id/berita/t7hbgh7530000/palmco-dukung-pemulihan-pascabanjir-di-mandailing-natal-dan-aceh-tamiang"
-    },
-    {
-        "title": "KAI Salurkan Becak Listrik untuk Dukung Transportasi Hijau di Yogyakarta",
-        "category": "News",
-        "publish_time": "18-12-2025 18:14",
-        "news_link": "https://news.republika.co.id/berita/t7hard7330000/kai-salurkan-becak-listrik-untuk-dukung-transportasi-hijau-di-yogyakarta"
-    },
-    {
-        "title": "Bawaslu Sosialisasi Pemutakhiran Data Pemilih di Kampus",
-        "category": "News",
-        "publish_time": "18-12-2025 18:14",
-        "news_link": "https://news.republika.co.id/berita/t7ha295630000/bawaslu-sosialisasi-pemutakhiran-data-pemilih-di-kampus"
-    },
-    {
-        "title": "Pasutri di Jombang Jadikan Rumah Kontrakan Kebun Ganja",
-        "category": "Rejogja",
-        "publish_time": "18-12-2025 18:14",
-        "news_link": "https://rejogja.republika.co.id/berita/t7h9rj282/pasutri-di-jombang-jadikan-rumah-kontrakan-kebun-ganja"
-    },
-    {
-        "title": "Indonesia Makin Dekat Kunci Peringkat Kedua di SEA Games 2025",
-        "category": "News",
-        "publish_time": "18-12-2025 18:14",
-        "news_link": "https://news.republika.co.id/berita/t7h9dz1130000/indonesia-makin-dekat-kunci-peringkat-kedua-di-sea-games-2025"
-    },
-    {
-        "title": "Demi Konten YouTube, Rey Mbayang Minta Istrinya Dinda Hauw Lepas Jilbab di Depan Umum",
-        "category": "Rejogja",
-        "publish_time": "18-12-2025 18:14",
-        "news_link": "https://rejogja.republika.co.id/berita/t7h8ul282/demi-konten-youtube-rey-mbayang-minta-istrinya-dinda-hauw-lepas-jilbab-di-depan-umum"
-    },
-    {
-        "title": "BNPT: Kelompok Teroris Adaptasi Strategi di Era Digital",
-        "category": "News",
-        "publish_time": "18-12-2025 18:14",
-        "news_link": "https://news.republika.co.id/berita/t7h8oj1830000/bnpt-kelompok-teroris-adaptasi-strategi-di-era-digital"
-    },
-    {
-        "title": "Perangi Kanker, Kolaborasi Ini Hasilkan Donasi Rp 50 Juta",
-        "category": "Ameera",
-        "publish_time": "18-12-2025 18:14",
-        "news_link": "https://ameera.republika.co.id/berita/t7h84u483/perangi-kanker-kolaborasi-ini-hasilkan-donasi-rp-50-juta"
-    },
-    {
-        "title": "Menkeu Tolak Insentif Pajak untuk Aksi Korporasi BUMN",
-        "category": "News",
-        "publish_time": "18-12-2025 17:14",
-        "news_link": "https://news.republika.co.id/berita/t7h7ze2630000/menkeu-tolak-insentif-pajak-untuk-aksi-korporasi-bumn"
-    },
-    {
-        "title": "Kisah Horor Relawan pada Hari Kedua Bencana di Aceh Tamiang: Desa Hilang Tersapu Banjir",
-        "category": "Khazanah",
-        "publish_time": "18-12-2025 17:14",
-        "news_link": "https://khazanah.republika.co.id/berita/t7h7i5483/kisah-horor-relawan-pada-hari-kedua-bencana-di-aceh-tamiang-desa-hilang-tersapu-banjir"
-    },
-    {
-        "title": "Mendikdasmen Tegaskan Rp2 Juta untuk Guru Korban Bencana Bukan Tunjangan",
-        "category": "News",
-        "publish_time": "18-12-2025 17:14",
-        "news_link": "https://news.republika.co.id/berita/t7h7ab3630000/mendikdasmen-tegaskan-rp2-juta-untuk-guru-korban-bencana-bukan-tunjangan"
     }
 ]
