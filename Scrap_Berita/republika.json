@@ -1,68 +1,146 @@
 [
     {
+        "title": "Lelang Jersey Timnas Futsal untuk Korban Bencana Sumatera Tembus Rp 100 Juta",
+        "category": "Network",
+        "publish_time": "22-12-2025 15:09",
+        "news_link": "https://skor.republika.co.id/posts/734434/lelang-jersey-timnas-futsal-untuk-korban-bencana-sumatera-tembus-rp-100-juta"
+    },
+    {
+        "title": "Semangat Ibu Bangsa Menuju Indonesia Emas 2045",
+        "category": "News",
+        "publish_time": "22-12-2025 15:07",
+        "news_link": "https://news.republika.co.id/berita/t7ofdn451/semangat-ibu-bangsa-menuju-indonesia-emas-2045"
+    },
+    {
+        "title": "Menata Kembali Kehidupan Pascabencana di Tiga Provinsi Sumatera",
+        "category": "News",
+        "publish_time": "22-12-2025 15:02",
+        "news_link": "https://news.republika.co.id/berita/t7of5c451/menata-kembali-kehidupan-pascabencana-di-tiga-provinsi-sumatera"
+    },
+    {
+        "title": "Bus PO Cahaya Trans Terguling di Exit Tol Krapyak, 15 Orang Meninggal",
+        "category": "Rejogja",
+        "publish_time": "22-12-2025 14:58",
+        "news_link": "https://rejogja.republika.co.id/berita/t7oeym282/bus-po-cahaya-trans-terguling-di-exit-tol-krapyak-15-orang-meninggal"
+    },
+    {
+        "title": "SANFFEST 2025, Ruang Baru Kreativitas Santri",
+        "category": "Khazanah",
+        "publish_time": "22-12-2025 14:53",
+        "news_link": "https://khazanah.republika.co.id/berita/t7oeq8451/sanffest-2025-ruang-baru-kreativitas-santri"
+    },
+    {
+        "title": "Momen Petugas Damkar Berseragam Lengkap Antre jadi Orang Tua Dadakan Ambil Rapor Siswa di Cimahi",
+        "category": "Rejabar",
+        "publish_time": "22-12-2025 14:45",
+        "news_link": "https://rejabar.republika.co.id/berita/t7oecl512/momen-petugas-damkar-berseragam-lengkap-antre-jadi-orang-tua-dadakan-ambil-rapor-siswa-di-cimahi"
+    },
+    {
+        "title": "Waspada, Rabi Yahudi Utusan Trump Ungkap Rencana Susupi Kurikulum Indonesia",
+        "category": "News",
+        "publish_time": "22-12-2025 14:45",
+        "news_link": "https://news.republika.co.id/berita/t7oec5393/waspada-rabi-yahudi-utusan-trump-ungkap-rencana-susupi-kurikulum-indonesia"
+    },
+    {
+        "title": "Uji Infrastruktur Kendaraan Listrik Lintas Sumatra-Jawa Sambil Salurkan Bantuan Kemanusiaan",
+        "category": "News",
+        "publish_time": "22-12-2025 14:43",
+        "news_link": "https://news.republika.co.id/berita/t7oe8a451/uji-infrastruktur-kendaraan-listrik-lintas-sumatrajawa-sambil-salurkan-bantuan-kemanusiaan"
+    },
+    {
+        "title": "ESDM Pastikan Keamanan Pasokan Listrik Nataru",
+        "category": "Ekonomi",
+        "publish_time": "22-12-2025 14:37",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7nrwd451/esdm-pastikan-keamanan-pasokan-listrik-nataru"
+    },
+    {
+        "title": "Lembang Punya Riwayat Kasus Getok Parkir, Jeje Tegaskan Soal Sanksi",
+        "category": "Rejabar",
+        "publish_time": "22-12-2025 14:28",
+        "news_link": "https://rejabar.republika.co.id/berita/t7odkk512/lembang-punya-riwayat-kasus-getok-parkir-jeje-tegaskan-soal-sanksi"
+    },
+    {
+        "title": "Kebutuhan Uang Tunai Bakal Lebih Rendah, BTN Perkuat Layanan Cashless",
+        "category": "Ekonomi",
+        "publish_time": "22-12-2025 14:22",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7od9l490/kebutuhan-uang-tunai-bakal-lebih-rendah-btn-perkuat-layanan-cashless"
+    },
+    {
+        "title": "Dua Kartu Merah Warnai Kekalahan Persija di Padang, Bali United Putus Rekor Buruk",
+        "category": "Network",
+        "publish_time": "22-12-2025 14:19",
+        "news_link": "https://skor.republika.co.id/posts/734413/dua-kartu-merah-warnai-kekalahan-persija-di-padang-bali-united-putus-rekor-buruk-1"
+    },
+    {
+        "title": "Lagi, Kecelakaan Tabrak Belakang di Tol Cipali",
+        "category": "Rejabar",
+        "publish_time": "22-12-2025 14:16",
+        "news_link": "https://rejabar.republika.co.id/berita/t7oczs512/lagi-kecelakaan-tabrak-belakang-di-tol-cipali"
+    },
+    {
         "title": "Di Atas Lapak Sementara, Pedagang Aceh Tamiang Berusaha Bangkit dari Bencana",
         "category": "Visual",
-        "publish_time": "22-12-2025 14:00",
+        "publish_time": "22-12-2025 14:16",
         "news_link": "https://visual.republika.co.id/berita/t7ob2v375/di-atas-lapak-sementara-pedagang-aceh-tamiang-berusaha-bangkit-dari-bencana"
     },
     {
         "title": "Di Balik Peran yang Dijalani Setiap Hari, Ibu-Ibu Mekaar Menguatkan Keluarga",
         "category": "Ekonomi",
-        "publish_time": "22-12-2025 13:54",
+        "publish_time": "22-12-2025 14:16",
         "news_link": "https://ekonomi.republika.co.id/berita/t7oby9472/di-balik-peran-yang-dijalani-setiap-hari-ibuibu-mekaar-menguatkan-keluarga"
     },
     {
         "title": "Kemenhut Cegah Kematian Gajah Sumatra Akibat EEHV",
         "category": "Resumatra",
-        "publish_time": "22-12-2025 13:48",
+        "publish_time": "22-12-2025 14:16",
         "news_link": "https://republika.co.id/berita//t7obln430/kemenhut-cegah-kematian-gajah-sumatra-akibat-eehv"
     },
     {
         "title": "Buka Muktamar V PARMUSI, Menag: PARMUSI Ada Sahabat di Kemenag",
         "category": "Khazanah",
-        "publish_time": "22-12-2025 13:44",
+        "publish_time": "22-12-2025 13:16",
         "news_link": "https://khazanah.republika.co.id/berita/t7obhf472/buka-muktamar-v-parmusi-menag-parmusi-ada-sahabat-di-kemenag"
     },
     {
         "title": "Takut tak Jadi Ibu Ideal, Tekanan yang Dihadapi Banyak Perempuan",
         "category": "Ameera",
-        "publish_time": "22-12-2025 13:41",
+        "publish_time": "22-12-2025 13:16",
         "news_link": "https://ameera.republika.co.id/berita/t7obd0328/takut-tak-jadi-ibu-ideal-tekanan-yang-dihadapi-banyak-perempuan"
     },
     {
         "title": "Indonesia Re Salurkan Bantuan Kemanusiaan untuk Korban Banjir Bandang di Sumatera",
         "category": "Resumatra",
-        "publish_time": "22-12-2025 13:38",
+        "publish_time": "22-12-2025 13:16",
         "news_link": "https://republika.co.id/berita//t7ob8b456/indonesia-re-salurkan-bantuan-kemanusiaan-untuk-korban-banjir-bandang-di-sumatera"
     },
     {
         "title": "Gubernur Aceh Mualem Temui Mentan Amran di Kediamannya",
         "category": "Ekonomi",
-        "publish_time": "22-12-2025 13:35",
+        "publish_time": "22-12-2025 13:16",
         "news_link": "https://ekonomi.republika.co.id/berita/t7ob2w472/gubernur-aceh-mualem-temui-mentan-amran-di-kediamannya"
     },
     {
         "title": "Kemenpora\u2013Kemenpar Perkuat Sinergi, Sport Tourism Digenjot pada 2026: Pantai dan Gunung Jadi Andalan",
         "category": "News",
-        "publish_time": "22-12-2025 13:29",
+        "publish_time": "22-12-2025 13:16",
         "news_link": "https://news.republika.co.id/berita/t7oat7348/kemenporakemenpar-perkuat-sinergi-sport-tourism-digenjot-pada-2026-pantai-dan-gunung-jadi-andalan"
     },
     {
         "title": "Muhammad Husni Bangga Jadi Pemasok Tempe untuk Dapur MBG",
         "category": "News",
-        "publish_time": "22-12-2025 13:27",
+        "publish_time": "22-12-2025 13:16",
         "news_link": "https://news.republika.co.id/berita/t7oapi472/muhammad-husni-bangga-jadi-pemasok-tempe-untuk-dapur-mbg"
     },
     {
         "title": "Wasit Asal Jepang Yudai Yamamoto Jadi Wasit Asing Pertama yang Dikontrak Penuh di Indonesia",
         "category": "News",
-        "publish_time": "22-12-2025 13:23",
+        "publish_time": "22-12-2025 13:16",
         "news_link": "https://news.republika.co.id/berita/t7oaiu348/wasit-asal-jepang-yudai-yamamoto-jadi-wasit-asing-pertama-yang-dikontrak-penuh-di-indonesia"
     },
     {
         "title": "Petani Milenial Bersyukur Jadi Pemasok Sayur MBG",
         "category": "News",
-        "publish_time": "22-12-2025 13:20",
+        "publish_time": "22-12-2025 13:16",
         "news_link": "https://news.republika.co.id/berita/t7oad4472/petani-milenial-bersyukur-jadi-pemasok-sayur-mbg"
     },
     {
@@ -220,83 +298,5 @@
         "category": "News",
         "publish_time": "22-12-2025 12:16",
         "news_link": "https://news.republika.co.id/berita/t7o6kw409/kejagung-serahkan-jaksa-tri-taruna-ke-kpk-sempat-kabur-ketakutan-saat-ott-berlangsung"
-    },
-    {
-        "title": "BTN Siapkan Rp 19,67 Triliun Uang Tunai Hadapi Lonjakan Transaksi Nataru",
-        "category": "Ekonomi",
-        "publish_time": "22-12-2025 12:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/t7o6h6490/btn-siapkan-rp-1967-triliun-uang-tunai-hadapi-lonjakan-transaksi-nataru"
-    },
-    {
-        "title": "Mobile Legends Hadirkan Kampanye Terima Kasih untuk Pemain Indonesia Jelang M7",
-        "category": "Network",
-        "publish_time": "22-12-2025 12:16",
-        "news_link": "https://skor.republika.co.id/posts/734385/mobile-legends-hadirkan-kampanye-terima-kasih-untuk-pemain-indonesia-jelang-m7"
-    },
-    {
-        "title": "PT TIMAH Tbk Dorong Kesetaraan Gender dan Inklusivitas Lewat Women In TINS Series",
-        "category": "Esgnow",
-        "publish_time": "22-12-2025 12:16",
-        "news_link": "https://esgnow.republika.co.id/berita/t7o66o522/pt-timah-tbk-dorong-kesetaraan-gender-dan-inklusivitas-lewat-women-in-tins-series"
-    },
-    {
-        "title": "Mahfud Sebut Naik Pangkat Bayar, Komisi Reformasi Bedah Masalah Rekrutmen dan Promosi Polisi",
-        "category": "News",
-        "publish_time": "22-12-2025 12:16",
-        "news_link": "https://news.republika.co.id/berita/t7o65m487/mahfud-sebut-naik-pangkat-bayar-komisi-reformasi-bedah-masalah-rekrutmen-dan-promosi-polisi"
-    },
-    {
-        "title": "Farabi El Fouz Sebut Hari Ibu Momentum Perkuat Peran Perempuan dalam Pembangunan",
-        "category": "Rejabar",
-        "publish_time": "22-12-2025 11:16",
-        "news_link": "https://rejabar.republika.co.id/berita/t7o5zu472/farabi-el-fouz-sebut-hari-ibu-momentum-perkuat-peran-perempuan-dalam-pembangunan"
-    },
-    {
-        "title": "Kapolri Ungkap Pesan Presiden saat Tinjau Merak: Beri Pelayanan Terbaik hingga Waspadai Bencana",
-        "category": "News",
-        "publish_time": "22-12-2025 11:16",
-        "news_link": "https://news.republika.co.id/berita/t7o5y9522/kapolri-ungkap-pesan-presiden-saat-tinjau-merak-beri-pelayanan-terbaik-hingga-waspadai-bencana"
-    },
-    {
-        "title": "Kapolri Tinjau Pos Command Center, Pastikan Arus Mudik Berjalan Aman dan Nyaman",
-        "category": "News",
-        "publish_time": "22-12-2025 11:16",
-        "news_link": "https://news.republika.co.id/berita/t7o5vj522/kapolri-tinjau-pos-command-center-pastikan-arus-mudik-berjalan-aman-dan-nyaman"
-    },
-    {
-        "title": "Tidak Gelar Uji Coba, Timnas Indonesia Stagnan di Ranking FIFA",
-        "category": "Network",
-        "publish_time": "22-12-2025 11:16",
-        "news_link": "https://skor.republika.co.id/posts/734382/tidak-gelar-uji-coba-timnas-indonesia-stagnan-di-ranking-fifa"
-    },
-    {
-        "title": "Akses Jalan dan Jembatan Putus, 8 Daerah di Pedalaman Gayo Lues Masih Terisolir",
-        "category": "Visual",
-        "publish_time": "22-12-2025 11:16",
-        "news_link": "https://visual.republika.co.id/berita/t7o53g375/akses-jalan-dan-jembatan-putus-8-daerah-di-pedalaman-gayo-lues-masih-terisolir"
-    },
-    {
-        "title": "Cara Baru Ibu Menjaga Kesehatan Mental",
-        "category": "Video",
-        "publish_time": "22-12-2025 11:16",
-        "news_link": "https://tv.republika.co.id/berita/t7o537418/cara-baru-ibu-menjaga-kesehatan-mental"
-    },
-    {
-        "title": "Pasokan BBM Aceh Berangsur Normal, Pertamina Tempuh Jalur Udara dan Darat",
-        "category": "Ekonomi",
-        "publish_time": "22-12-2025 11:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/t7o51o416/pasokan-bbm-aceh-berangsur-normal-pertamina-tempuh-jalur-udara-dan-darat"
-    },
-    {
-        "title": "KPK Tetapkan 118 Tersangka Sepanjang 2025, Berapa Uang Negara yang Dipulihkan?",
-        "category": "News",
-        "publish_time": "22-12-2025 11:16",
-        "news_link": "https://news.republika.co.id/berita/t7o51k487/kpk-tetapkan-118-tersangka-sepanjang-2025-berapa-uang-negara-yang-dipulihkan"
-    },
-    {
-        "title": "Proliga 2026 Digelar 8 Januari - 26 April, Diikuti 12 Klub",
-        "category": "News",
-        "publish_time": "22-12-2025 11:16",
-        "news_link": "https://news.republika.co.id/berita/t7o505409/proliga-2026-digelar-8-januari-26-april-diikuti-12-klub"
     }
 ]
