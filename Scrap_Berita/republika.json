@@ -1,80 +1,212 @@
 [
     {
+        "title": "Wings Air Resmi Layani Penerbangan Semarang\u2013Bandung",
+        "category": "Ekonomi",
+        "publish_time": "23-12-2025 01:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7p7ae370/wings-air-resmi-layani-penerbangan-semarangbandung"
+    },
+    {
+        "title": "Bye-Bye Perut Kembung! Lima Rempah Tradisional Ini Ampuh Atasi Gangguan Pencernaan",
+        "category": "Ameera",
+        "publish_time": "23-12-2025 01:09",
+        "news_link": "https://ameera.republika.co.id/berita/t7p77e425/byebye-perut-kembung-lima-rempah-tradisional-ini-ampuh-atasi-gangguan-pencernaan"
+    },
+    {
+        "title": "Kala Ombak Ahli Dzikir Mendebur di Haul Guru Sekumpul",
+        "category": "Khazanah",
+        "publish_time": "23-12-2025 01:03",
+        "news_link": "https://khazanah.republika.co.id/berita/t7p6xv451/kala-ombak-ahli-dzikir-mendebur-di-haul-guru-sekumpul"
+    },
+    {
+        "title": "Gelar RUPSLB, Indofarma Lanjutkan Restrukturisasi Kinerja pada 2026",
+        "category": "Ekonomi",
+        "publish_time": "23-12-2025 01:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7p6tn490/gelar-rupslb-indofarma-lanjutkan-restrukturisasi-kinerja-pada-2026"
+    },
+    {
+        "title": "BI: Pertumbuhan Kredit 2025 Tertahan karena Permintaan Lemah",
+        "category": "Ekonomi",
+        "publish_time": "23-12-2025 00:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7p6m5490/bi-pertumbuhan-kredit-2025-tertahan-karena-permintaan-lemah"
+    },
+    {
+        "title": "Cita-Cita Ustaz Jazir yang Belum Tercapai",
+        "category": "Video",
+        "publish_time": "23-12-2025 00:54",
+        "news_link": "https://tv.republika.co.id/berita/t7p6iu313/citacita-ustaz-jazir-yang-belum-tercapai"
+    },
+    {
+        "title": "Pertamina Patra Niaga Kenalkan Biosolar B40 Beraditif untuk Sektor Industri",
+        "category": "Ekonomi",
+        "publish_time": "23-12-2025 00:52",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7p6fj490/pertamina-patra-niaga-kenalkan-biosolar-b40-beraditif-untuk-sektor-industri"
+    },
+    {
+        "title": "KPK akan OTT Lagi Sebelum 2025 Berakhir?",
+        "category": "News",
+        "publish_time": "23-12-2025 00:50",
+        "news_link": "https://news.republika.co.id/berita/t7p6bu430/kpk-akan-ott-lagi-sebelum-2025-berakhir"
+    },
+    {
+        "title": "Kejati Tetapkan Dua Tersangka Baru Klaim Fiktif BPJS Naker",
+        "category": "Video",
+        "publish_time": "23-12-2025 00:45",
+        "news_link": "https://tv.republika.co.id/berita/t7p64x313/kejati-tetapkan-dua-tersangka-baru-klaim-fiktif-bpjs-naker"
+    },
+    {
+        "title": "DPRD DIY Wanti-wanti Lonjakan Harga Jelang Nataru",
+        "category": "Rejogja",
+        "publish_time": "23-12-2025 00:32",
+        "news_link": "https://rejogja.republika.co.id/berita/t7p5i7291/dprd-diy-wantiwanti-lonjakan-harga-jelang-nataru"
+    },
+    {
+        "title": "Gubernur Dedi Minta Pelaku Pungli Parkir Liar di Bandung Dibarakmiliterkan",
+        "category": "News",
+        "publish_time": "23-12-2025 00:24",
+        "news_link": "https://news.republika.co.id/berita/t7p55i377/gubernur-dedi-minta-pelaku-pungli-parkir-liar-di-bandung-dibarakmiliterkan"
+    },
+    {
+        "title": "Ibu-Ibu Tegal Dilatih Bikin Usaha demi Kemandirian Ekonomi",
+        "category": "News",
+        "publish_time": "23-12-2025 00:20",
+        "news_link": "https://news.republika.co.id/berita/t7p4xp484/ibuibu-tegal-dilatih-bikin-usaha-demi-kemandirian-ekonomi"
+    },
+    {
+        "title": "BI Optimistis Pertumbuhan Kredit Capai 8 Persen pada Akhir 2025",
+        "category": "Ekonomi",
+        "publish_time": "23-12-2025 00:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7p4mi370/bi-optimistis-pertumbuhan-kredit-capai-8-persen-pada-akhir-2025"
+    },
+    {
+        "title": "Perkebunan Sawit Pemegang HGU Diminta Sediakan Lahan untuk Relokasi Pengungsi Aceh Tamiang",
+        "category": "News",
+        "publish_time": "23-12-2025 00:14",
+        "news_link": "https://news.republika.co.id/berita/t7p4ce483/perkebunan-sawit-pemegang-hgu-diminta-sediakan-lahan-untuk-relokasi-pengungsi-aceh-tamiang"
+    },
+    {
+        "title": "Sambut Nataru, Tol Gending-Paiton Difungsionalkan 16 Hari",
+        "category": "News",
+        "publish_time": "23-12-2025 00:14",
+        "news_link": "https://news.republika.co.id/berita/t7p3tr484/sambut-nataru-tol-gendingpaiton-difungsionalkan-16-hari"
+    },
+    {
+        "title": "Kakak Cak Imin Ikut Uji Kelayakan Calon Ketua DPW PKB",
+        "category": "News",
+        "publish_time": "23-12-2025 00:14",
+        "news_link": "https://news.republika.co.id/berita/t7p3bm484/kakak-cak-imin-ikut-uji-kelayakan-calon-ketua-dpw-pkb"
+    },
+    {
+        "title": "Gol Telat Salah Antar Mesir Tekuk Zimbabwe di Piala Afrika",
+        "category": "News",
+        "publish_time": "22-12-2025 23:14",
+        "news_link": "https://news.republika.co.id/berita/t7p37y348/gol-telat-salah-antar-mesir-tekuk-zimbabwe-di-piala-afrika"
+    },
+    {
+        "title": "Kembali ke Utrecht, Ivar Jenner Langsung Main tapi Kalah",
+        "category": "Network",
+        "publish_time": "22-12-2025 23:14",
+        "news_link": "https://skor.republika.co.id/posts/734496/kembali-ke-utrecht-ivar-jenner-langsung-main-tapi-kalah"
+    },
+    {
+        "title": "Menlu Gideon Saar Minta Umat Yahudi Dunia Pindah ke Israel",
+        "category": "News",
+        "publish_time": "22-12-2025 23:14",
+        "news_link": "https://news.republika.co.id/berita/t7p2wz377/menlu-gideon-saar-minta-umat-yahudi-dunia-pindah-ke-israel"
+    },
+    {
+        "title": "John Herdman dan Jejak Pelatih Inggris di Timnas Indonesia",
+        "category": "Network",
+        "publish_time": "22-12-2025 23:14",
+        "news_link": "https://skor.republika.co.id/posts/734495/john-herdman-dan-jejak-pelatih-inggris-di-timnas-indonesia"
+    },
+    {
+        "title": "Kejagung Sebut Nadiem Sudah Pulih dan Bisa Disidangkan, Pengacara Bilang Belum Sehat",
+        "category": "News",
+        "publish_time": "22-12-2025 23:14",
+        "news_link": "https://news.republika.co.id/berita/t7p2ax377/kejagung-sebut-nadiem-sudah-pulih-dan-bisa-disidangkan-pengacara-bilang-belum-sehat"
+    },
+    {
+        "title": "Kisah Siti Hajar: Perjuangan Sunyi Seorang Ibu",
+        "category": "Khazanah",
+        "publish_time": "22-12-2025 23:14",
+        "news_link": "https://khazanah.republika.co.id/berita/t7p2aj430/kisah-siti-hajar-perjuangan-sunyi-seorang-ibu"
+    },
+    {
         "title": "Final Games of the Future 2025: Head-to-Head ONIC vs Aurora",
         "category": "Network",
-        "publish_time": "22-12-2025 23:09",
+        "publish_time": "22-12-2025 23:14",
         "news_link": "https://skor.republika.co.id/posts/734493/final-games-of-the-future-2025-head-to-head-onic-vs-aurora"
     },
     {
         "title": "Sopir Bus Cahaya Trans yang Terguling di Tol Krapyak Negatif Narkoba",
         "category": "News",
-        "publish_time": "22-12-2025 23:09",
+        "publish_time": "22-12-2025 23:14",
         "news_link": "https://news.republika.co.id/berita/t7p17p348/sopir-bus-cahaya-trans-yang-terguling-di-tol-krapyak-negatif-narkoba"
     },
     {
         "title": "Resmikan Kantor Pusat Asia Tenggara, Omoway Siap Bawa Era Smart Motorcycle 3.0",
         "category": "Ekonomi",
-        "publish_time": "22-12-2025 23:09",
+        "publish_time": "22-12-2025 23:14",
         "news_link": "https://ekonomi.republika.co.id/berita/t7ofw1291/resmikan-kantor-pusat-asia-tenggara-omoway-siap-bawa-era-smart-motorcycle-30"
     },
     {
         "title": "5 Catatan usai Napoli Juara Piala Super Italia 2025",
         "category": "Network",
-        "publish_time": "22-12-2025 22:59",
+        "publish_time": "22-12-2025 23:14",
         "news_link": "https://skor.republika.co.id/posts/734490/5-catatan-usai-napoli-juara-piala-super-italia-2025"
     },
     {
         "title": "Kisah Penyintas Banjir Aceh Tamiang, Berjalan 40 Kilometer Mencari Keluarga yang Hilang Kontak",
         "category": "Visual",
-        "publish_time": "22-12-2025 22:59",
+        "publish_time": "22-12-2025 23:14",
         "news_link": "https://visual.republika.co.id/berita/t7oeqk375/kisah-penyintas-banjir-aceh-tamiang-berjalan-40-kilometer-mencari-keluarga-yang-hilang-kontak"
     },
     {
         "title": "Holding UMKM Expo 2025 Dibuka",
         "category": "Rejakarta",
-        "publish_time": "22-12-2025 22:56",
+        "publish_time": "22-12-2025 23:14",
         "news_link": "https://republika.co.id/berita//t7p12e483/holding-umkm-expo-2025-dibuka"
     },
     {
         "title": "Perjalanan Libur Panjang Akhir Tahun, Lebih Baik Jamak Sholat atau Sholat di Kendaraan?",
         "category": "Khazanah",
-        "publish_time": "22-12-2025 22:54",
+        "publish_time": "22-12-2025 23:14",
         "news_link": "https://khazanah.republika.co.id/berita/t7p107430/perjalanan-libur-panjang-akhir-tahun-lebih-baik-jamak-sholat-atau-sholat-di-kendaraan"
     },
     {
         "title": "Panduan Sholat Jamak Dzuhur\u2013Ashar dan Maghrib\u2013Isya Saat Perjalanan",
         "category": "Khazanah",
-        "publish_time": "22-12-2025 22:50",
+        "publish_time": "22-12-2025 23:14",
         "news_link": "https://khazanah.republika.co.id/berita/t7p0sp430/panduan-sholat-jamak-dzuhurashar-dan-maghribisya-saat-perjalanan"
     },
     {
         "title": "Liverpool Kehilangan Isak karena Cedera, Opsi Serangan Kian Menipis",
         "category": "News",
-        "publish_time": "22-12-2025 22:45",
+        "publish_time": "22-12-2025 23:14",
         "news_link": "https://news.republika.co.id/berita/t7p0ky348/liverpool-kehilangan-isak-karena-cedera-opsi-serangan-kian-menipis"
     },
     {
         "title": "ASTRA Infra Ajak Pemudik EV Siapkan Rute dan Daya Saat Libur Panjang",
-        "category": "News",
-        "publish_time": "22-12-2025 22:44",
-        "news_link": "https://news.republika.co.id/berita/t7p0jm5130000/astra-infra-ajak-pemudik-ev-siapkan-rute-dan-daya-saat-libur-panjang"
+        "category": "Ekonomi",
+        "publish_time": "22-12-2025 23:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7p0jm5130000/astra-infra-ajak-pemudik-ev-siapkan-rute-dan-daya-saat-libur-panjang"
     },
     {
         "title": "Dwigol David Neres Antar Napoli Juarai Piala Super Italia",
         "category": "News",
-        "publish_time": "22-12-2025 22:32",
+        "publish_time": "22-12-2025 22:14",
         "news_link": "https://news.republika.co.id/berita/t7ozyh348/dwigol-david-neres-antar-napoli-juarai-piala-super-italia"
     },
     {
         "title": "BI Maluku Siapkan Rp1,59 Triliun untuk Natal 2025",
         "category": "News",
-        "publish_time": "22-12-2025 22:29",
+        "publish_time": "22-12-2025 22:14",
         "news_link": "https://news.republika.co.id/berita/t7ozue1430000/bi-maluku-siapkan-rp159-triliun-untuk-natal-2025"
     },
     {
         "title": "Ibadah yang Disandingkan dengan Tauhid di Alquran dan Disebutkan 3 Kali dalam 1 Hadits",
         "category": "Iqra",
-        "publish_time": "22-12-2025 22:22",
+        "publish_time": "22-12-2025 22:14",
         "news_link": "https://iqra.republika.co.id/berita/t7ozhk320/ibadah-yang-disandingkan-dengan-tauhid-di-alquran-dan-disebutkan-3-kali-dalam-1-hadits"
     },
     {
@@ -110,7 +242,7 @@
     {
         "title": "Puncak Arus Mudik Natal 2025 di Bandara Gorontalo Diprediksi Tanggal 24 Desember",
         "category": "News",
-        "publish_time": "22-12-2025 21:14",
+        "publish_time": "22-12-2025 22:14",
         "news_link": "https://news.republika.co.id/berita/t7oxre2630000/puncak-arus-mudik-natal-2025-di-bandara-gorontalo-diprediksi-tanggal-24-desember"
     },
     {
@@ -166,137 +298,5 @@
         "category": "News",
         "publish_time": "22-12-2025 20:14",
         "news_link": "https://news.republika.co.id/berita/t7otle7730000/bulog-siap-salurkan-35-minyakita-langsung-ke-pedagang-kecil-pada-2026"
-    },
-    {
-        "title": "First Fight II: Pertarungan MMA Berkonsep Sportainment di Jakarta",
-        "category": "News",
-        "publish_time": "22-12-2025 20:14",
-        "news_link": "https://news.republika.co.id/berita/t7osx84030000/first-fight-ii-pertarungan-mma-berkonsep-sportainment-di-jakarta"
-    },
-    {
-        "title": "PNBP Kantor Imigrasi Banten Lampaui Target, Tangerang Tertinggi",
-        "category": "News",
-        "publish_time": "22-12-2025 19:14",
-        "news_link": "https://news.republika.co.id/berita/t7os7h8230000/pnbp-kantor-imigrasi-banten-lampaui-target-tangerang-tertinggi"
-    },
-    {
-        "title": "Kemenpora Evaluasi Cabang Olahraga yang Gagal di SEA Games Thailand 2025",
-        "category": "News",
-        "publish_time": "22-12-2025 19:14",
-        "news_link": "https://news.republika.co.id/berita/t7oric1130000/kemenpora-evaluasi-cabang-olahraga-yang-gagal-di-sea-games-thailand-2025"
-    },
-    {
-        "title": "Indonesia Bertahan di Peringkat 122 FIFA Terbaru",
-        "category": "News",
-        "publish_time": "22-12-2025 19:14",
-        "news_link": "https://news.republika.co.id/berita/t7oqti1430000/indonesia-bertahan-di-peringkat-122-fifa-terbaru"
-    },
-    {
-        "title": "Mentan Dukung Investasi Peternakan di Aceh untuk Pemulihan Ekonomi",
-        "category": "News",
-        "publish_time": "22-12-2025 19:14",
-        "news_link": "https://news.republika.co.id/berita/t7oq512830000/mentan-dukung-investasi-peternakan-di-aceh-untuk-pemulihan-ekonomi"
-    },
-    {
-        "title": "Menteri ATR Tunda Penandatanganan HGU untuk Reforma Agraria",
-        "category": "News",
-        "publish_time": "22-12-2025 18:14",
-        "news_link": "https://news.republika.co.id/berita/t7opfj6730000/menteri-atr-tunda-penandatanganan-hgu-untuk-reforma-agraria"
-    },
-    {
-        "title": "Bulog Siapkan Perpres untuk Proyek 100 Gudang Baru",
-        "category": "News",
-        "publish_time": "22-12-2025 18:14",
-        "news_link": "https://news.republika.co.id/berita/t7ooqm3130000/bulog-siapkan-perpres-untuk-proyek-100-gudang-baru"
-    },
-    {
-        "title": "Mendag Pastikan Indonesia\u2013EAEU FTA Berpihak pada UMKM",
-        "category": "News",
-        "publish_time": "22-12-2025 18:14",
-        "news_link": "https://news.republika.co.id/berita/t7oo1e6230000/mendag-pastikan-indonesiaeaeu-fta-berpihak-pada-umkm"
-    },
-    {
-        "title": "Kemenpora Pastikan Bonus SEA Games 2025 Sesuai Janji Presiden",
-        "category": "News",
-        "publish_time": "22-12-2025 18:14",
-        "news_link": "https://news.republika.co.id/berita/t7oncf330000/kemenpora-pastikan-bonus-sea-games-2025-sesuai-janji-presiden"
-    },
-    {
-        "title": "ONIC ke Final Games of The Future",
-        "category": "Network",
-        "publish_time": "22-12-2025 18:14",
-        "news_link": "https://skor.republika.co.id/posts/734477/onic-ke-final-games-of-the-future"
-    },
-    {
-        "title": "Polres OKU Periksa Kesehatan Personel Pos Pengamanan Natal dan Tahun Baru",
-        "category": "News",
-        "publish_time": "22-12-2025 17:14",
-        "news_link": "https://news.republika.co.id/berita/t7omni5030000/polres-oku-periksa-kesehatan-personel-pos-pengamanan-natal-dan-tahun-baru"
-    },
-    {
-        "title": "Ucapkan Terima Kasih, Timnas Futsal Putra Langsung Alihkan Fokus ke Piala Asia",
-        "category": "Network",
-        "publish_time": "22-12-2025 17:14",
-        "news_link": "https://skor.republika.co.id/posts/734476/ucapkan-terima-kasih-timnas-futsal-putra-langsung-alihkan-fokus-ke-piala-asia"
-    },
-    {
-        "title": "Menpora dan Menpar Perkuat Sinergi Kepemudaan, Olahraga, dan Pariwisata",
-        "category": "Network",
-        "publish_time": "22-12-2025 17:14",
-        "news_link": "https://skor.republika.co.id/posts/734475/menpora-dan-menpar-perkuat-sinergi-kepemudaan-olahraga-dan-pariwisata"
-    },
-    {
-        "title": "Cirebon Optimalkan Program Lindungi Sawah Produktif untuk Ketahanan Pangan",
-        "category": "News",
-        "publish_time": "22-12-2025 17:14",
-        "news_link": "https://news.republika.co.id/berita/t7olye830000/cirebon-optimalkan-program-lindungi-sawah-produktif-untuk-ketahanan-pangan"
-    },
-    {
-        "title": "PMI Cianjur Salurkan Donasi Rp15 Juta untuk Bencana Sumatra",
-        "category": "News",
-        "publish_time": "22-12-2025 17:14",
-        "news_link": "https://news.republika.co.id/berita/t7ol9b2130000/pmi-cianjur-salurkan-donasi-rp15-juta-untuk-bencana-sumatra"
-    },
-    {
-        "title": "KEK Industropolis Batang Raih Investasi Rp4,87 Triliun pada 2025",
-        "category": "News",
-        "publish_time": "22-12-2025 17:14",
-        "news_link": "https://news.republika.co.id/berita/t7okkx3830000/kek-industropolis-batang-raih-investasi-rp487-triliun-pada-2025"
-    },
-    {
-        "title": "Proses Identifikasi Korban Kecelakaan Bus PO Cahaya Trans Diwarnai Isak Tangis Keluarga",
-        "category": "Visual",
-        "publish_time": "22-12-2025 17:14",
-        "news_link": "https://visual.republika.co.id/berita/t7oiky375/proses-identifikasi-korban-kecelakaan-bus-po-cahaya-trans-diwarnai-isak-tangis-keluarga"
-    },
-    {
-        "title": "Gisella Anastasia Cerita Pengalaman Akting Pakai Hijab di Film Modual Nekad",
-        "category": "Ameera",
-        "publish_time": "22-12-2025 17:14",
-        "news_link": "https://ameera.republika.co.id/berita/t7okgn425/gisella-anastasia-cerita-pengalaman-akting-pakai-hijab-di-film-modual-nekad"
-    },
-    {
-        "title": "Film Modual Nekad Siap Bikin Ngakak Bareng di Bioskop Mulai 31 Desember 2025",
-        "category": "Ameera",
-        "publish_time": "22-12-2025 17:14",
-        "news_link": "https://ameera.republika.co.id/berita/t7ok7m425/film-modual-nekad-siap-bikin-ngakak-bareng-di-bioskop-mulai-31-desember-2025"
-    },
-    {
-        "title": "Diwarnai Dua Kartu Merah, Semen Padang Taklukkan Persija Jakarta 1-0",
-        "category": "Visual",
-        "publish_time": "22-12-2025 16:14",
-        "news_link": "https://visual.republika.co.id/berita/t7oif4375/diwarnai-dua-kartu-merah-semen-padang-taklukkan-persija-jakarta-10"
-    },
-    {
-        "title": "Tangan Kreatif Warga Binaan Lapas Semarang Hasilkan Kreasi Busana Batik",
-        "category": "Visual",
-        "publish_time": "22-12-2025 16:14",
-        "news_link": "https://visual.republika.co.id/berita/t7oi7l375/tangan-kreatif-warga-binaan-lapas-semarang-hasilkan-kreasi-busana-batik"
-    },
-    {
-        "title": "Wapres Tinjau PLTMG Nias, Pastikan Pasokan Listrik PLN Andal Jelang Natal 2025 dan Tahun Baru 2026",
-        "category": "Ekonomi",
-        "publish_time": "22-12-2025 15:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/t7oegs451/wapres-tinjau-pltmg-nias-pastikan-pasokan-listrik-pln-andal-jelang-natal-2025-dan-tahun-baru-2026"
     }
 ]
