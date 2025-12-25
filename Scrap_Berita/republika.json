@@ -1,26 +1,104 @@
 [
     {
+        "title": "Polisi: 524.060 Kendaraan Masuk ke Bandung di Momen Nataru",
+        "category": "News",
+        "publish_time": "25-12-2025 01:02",
+        "news_link": "https://news.republika.co.id/berita/t7st9k377/polisi-524060-kendaraan-masuk-ke-bandung-di-momen-nataru"
+    },
+    {
+        "title": "Prabowo: Satgas PKH Jangan Mau Dilobi Pengusaha",
+        "category": "News",
+        "publish_time": "25-12-2025 01:02",
+        "news_link": "https://news.republika.co.id/berita/t7sw7f393/prabowo-satgas-pkh-jangan-mau-dilobi-pengusaha"
+    },
+    {
+        "title": "Pemerintah Salurkan BLT Minimal Rp8 Juta untuk Pengungsi di Tiga Provinsi Sumatera",
+        "category": "Ekonomi",
+        "publish_time": "25-12-2025 01:01",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7sw6n370/pemerintah-salurkan-blt-minimal-rp8-juta-untuk-pengungsi-di-tiga-provinsi-sumatera"
+    },
+    {
+        "title": "13 Pemain dengan Nilai Pasar Tertinggi di Akhir Tahun 2025",
+        "category": "Network",
+        "publish_time": "25-12-2025 00:50",
+        "news_link": "https://skor.republika.co.id/posts/735104/13-pemain-dengan-nilai-pasar-tertinggi-di-akhir-tahun-2025"
+    },
+    {
+        "title": "KAI Beri Diskon 25 Persen Tiket Kereta Jarak Jauh Selama Nataru",
+        "category": "Ekonomi",
+        "publish_time": "25-12-2025 00:48",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7svkc370/kai-beri-diskon-25-persen-tiket-kereta-jarak-jauh-selama-nataru"
+    },
+    {
+        "title": "Rezim Baru Suriah Kunjungi Moskow, Putin Perlahan Realistis Tinggalkan Bashar al-Assad",
+        "category": "News",
+        "publish_time": "25-12-2025 00:40",
+        "news_link": "https://news.republika.co.id/berita/t7ssve377/rezim-baru-suriah-kunjungi-moskow-putin-perlahan-realistis-tinggalkan-bashar-alassad"
+    },
+    {
+        "title": "Mutasi TNI, Letjen Widi Prasetijono Eks Ajudan Jokowi Diproses Hukum",
+        "category": "News",
+        "publish_time": "25-12-2025 00:37",
+        "news_link": "https://news.republika.co.id/berita/t7sv2y484/mutasi-tni-letjen-widi-prasetijono-eks-ajudan-jokowi-diproses-hukum"
+    },
+    {
+        "title": "Densus 88 Antiteror Geledah Sebuah Rumah di Garut, Ini Kata Dedi Mulyadi",
+        "category": "News",
+        "publish_time": "25-12-2025 00:14",
+        "news_link": "https://news.republika.co.id/berita/t7srkl377/densus-88-antiteror-geledah-sebuah-rumah-di-garut-ini-kata-dedi-mulyadi"
+    },
+    {
+        "title": "Program Makan Bergizi Gratis Dinilai Perkuat Ekonomi Kerakyatan",
+        "category": "Ekonomi",
+        "publish_time": "25-12-2025 00:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/t7stgy370/program-makan-bergizi-gratis-dinilai-perkuat-ekonomi-kerakyatan"
+    },
+    {
+        "title": "Polisi: Setengah Juta Kendaraan Masuk ke Bandung di Momen Nataru",
+        "category": "Rejabar",
+        "publish_time": "25-12-2025 00:14",
+        "news_link": "https://rejabar.republika.co.id/berita/t7st7q393/polisi-setengah-juta-kendaraan-masuk-ke-bandung-di-momen-nataru"
+    },
+    {
+        "title": "Selama Libur dan Cuti Bersama Natal, MRT Jakarta Beroperasi Hingga Pukul 24.00 WIB",
+        "category": "News",
+        "publish_time": "24-12-2025 23:14",
+        "news_link": "https://news.republika.co.id/berita/t7sr7y377/selama-libur-dan-cuti-bersama-natal-mrt-jakarta-beroperasi-hingga-pukul-2400-wib"
+    },
+    {
+        "title": "Wali Kota New York: Saya akan Melawan Islamofobia dan Rasisme anti-Palestina",
+        "category": "News",
+        "publish_time": "24-12-2025 23:14",
+        "news_link": "https://news.republika.co.id/berita/t7sqd7377/wali-kota-new-york-saya-akan-melawan-islamofobia-dan-rasisme-antipalestina"
+    },
+    {
+        "title": "Tim Medis UNG Layani Ribuan Korban Banjir di Pidie Jaya",
+        "category": "Khazanah",
+        "publish_time": "24-12-2025 23:14",
+        "news_link": "https://khazanah.republika.co.id/berita/t7srjw483/tim-medis-ung-layani-ribuan-korban-banjir-di-pidie-jaya"
+    },
+    {
         "title": "Bruno Fernandes Tak Tergantikan di Skuad Manchester United",
         "category": "Network",
-        "publish_time": "24-12-2025 23:09",
+        "publish_time": "24-12-2025 23:14",
         "news_link": "https://skor.republika.co.id/posts/735094/bruno-fernandes-tak-tergantikan-di-skuad-manchester-united"
     },
     {
         "title": "Kemenpar Pantau Destinasi Wisata Sari Ater Jelang Libur Nataru",
         "category": "News",
-        "publish_time": "24-12-2025 22:44",
+        "publish_time": "24-12-2025 23:14",
         "news_link": "https://news.republika.co.id/berita/t7spva4130000/kemenpar-pantau-destinasi-wisata-sari-ater-jelang-libur-nataru"
     },
     {
         "title": "Pentagon Cemas, China Saingi Kemampuan Militer AS dari Kekuatan Nuklir Hingga Luar Angkasa",
         "category": "News",
-        "publish_time": "24-12-2025 22:37",
+        "publish_time": "24-12-2025 22:14",
         "news_link": "https://news.republika.co.id/berita/t7spjg377/pentagon-cemas-china-saingi-kemampuan-militer-as-dari-kekuatan-nuklir-hingga-luar-angkasa"
     },
     {
         "title": "Pemerintah Targetkan 17,6 Juta Wisatawan Mancanegara pada 2026",
         "category": "Ekonomi",
-        "publish_time": "24-12-2025 22:30",
+        "publish_time": "24-12-2025 22:14",
         "news_link": "https://ekonomi.republika.co.id/berita/t7sp6e630000/pemerintah-targetkan-176-juta-wisatawan-mancanegara-pada-2026"
     },
     {
@@ -62,7 +140,7 @@
     {
         "title": "GSM: Pendidikan Indonesia Harus Utamakan Fondasi Kemanusiaan",
         "category": "News",
-        "publish_time": "24-12-2025 19:14",
+        "publish_time": "24-12-2025 20:14",
         "news_link": "https://news.republika.co.id/berita/t7shja5430000/gsm-pendidikan-indonesia-harus-utamakan-fondasi-kemanusiaan"
     },
     {
@@ -220,83 +298,5 @@
         "category": "Visual",
         "publish_time": "24-12-2025 14:14",
         "news_link": "https://visual.republika.co.id/berita/t7s11f375/libur-sekolah-siswa-sdn-pabuaran-tumpeng-2-tangerang-tetap-terima-mbg"
-    },
-    {
-        "title": "Hujan tak Juga Reda, Belasan Desa di Pidie Jaya Kembali Terendam Banjir",
-        "category": "News",
-        "publish_time": "24-12-2025 14:14",
-        "news_link": "https://news.republika.co.id/berita/t7s2l0483/hujan-tak-juga-reda-belasan-desa-di-pidie-jaya-kembali-terendam-banjir"
-    },
-    {
-        "title": "Waspadai Ucapan Natal Palsu, BNI Imbau Nasabah tak Sembarangan Klik Tautan",
-        "category": "Ekonomi",
-        "publish_time": "24-12-2025 14:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/t7s2hs472/waspadai-ucapan-natal-palsu-bni-imbau-nasabah-tak-sembarangan-klik-tautan"
-    },
-    {
-        "title": "Jaksa Agung: Saya Bersyukur Dibantu KPK Bersih-Bersih Kejaksaan",
-        "category": "News",
-        "publish_time": "24-12-2025 14:14",
-        "news_link": "https://news.republika.co.id/berita/t7s2c1377/jaksa-agung-saya-bersyukur-dibantu-kpk-bersihbersih-kejaksaan"
-    },
-    {
-        "title": "Tak Perlu Resign, Karyawan Bisa jadi Sarjana Lewat Kuliah Kelas Karyawan UNM",
-        "category": "News",
-        "publish_time": "24-12-2025 14:14",
-        "news_link": "https://news.republika.co.id/berita/t7s21k472/tak-perlu-resign-karyawan-bisa-jadi-sarjana-lewat-kuliah-kelas-karyawan-unm"
-    },
-    {
-        "title": "Alumni Sukses UBSI, Risye Rahmawati Pimpin Ekonomi Kreatif Sukabumi",
-        "category": "News",
-        "publish_time": "24-12-2025 14:14",
-        "news_link": "https://news.republika.co.id/berita/t7s1oz472/alumni-sukses-ubsi-risye-rahmawati-pimpin-ekonomi-kreatif-sukabumi"
-    },
-    {
-        "title": "Perempuan dan Anak-Anak Jadi Kelompok Paling Rentan Saat Bencana",
-        "category": "News",
-        "publish_time": "24-12-2025 14:14",
-        "news_link": "https://news.republika.co.id/berita/t7s18c416/perempuan-dan-anakanak-jadi-kelompok-paling-rentan-saat-bencana"
-    },
-    {
-        "title": "Tips Lolos Beasiswa Kuliah untuk Lulusan SMA/SMK, Biar Nggak Pusing Mikirin UKT yang Makin Mahal",
-        "category": "News",
-        "publish_time": "24-12-2025 14:14",
-        "news_link": "https://news.republika.co.id/berita/t7s18a472/tips-lolos-beasiswa-kuliah-untuk-lulusan-smasmk-biar-nggak-pusing-mikirin-ukt-yang-makin-mahal"
-    },
-    {
-        "title": "Sudirman Said Beberkan Isi Pemeriksaannya oleh Kejagung dalam Perkara Petral",
-        "category": "News",
-        "publish_time": "24-12-2025 14:14",
-        "news_link": "https://news.republika.co.id/berita/t7s115377/sudirman-said-beberkan-isi-pemeriksaannya-oleh-kejagung-dalam-perkara-petral"
-    },
-    {
-        "title": "Benarkah Air Lemon Bisa Nurunin Tekanan Darah? Ini Jawaban Dokter",
-        "category": "Ameera",
-        "publish_time": "24-12-2025 14:14",
-        "news_link": "https://ameera.republika.co.id/berita/t7s0yb425/benarkah-air-lemon-bisa-nurunin-tekanan-darah-ini-jawaban-dokter"
-    },
-    {
-        "title": "Lingkungan Kotor Bukan Hanya Soal Tampilan, Ada Efek Domino Kesehatan yang Jarang Disadari",
-        "category": "News",
-        "publish_time": "24-12-2025 13:14",
-        "news_link": "https://news.republika.co.id/berita/t7rp0v472/lingkungan-kotor-bukan-hanya-soal-tampilan-ada-efek-domino-kesehatan-yang-jarang-disadari"
-    },
-    {
-        "title": "10 Jurusan Kuliah Paling Menjanjikan di Abad 21, Biar Nggak Menyesal Jadi Beban Keluarga",
-        "category": "News",
-        "publish_time": "24-12-2025 13:14",
-        "news_link": "https://news.republika.co.id/berita/t7s0l6472/10-jurusan-kuliah-paling-menjanjikan-di-abad-21-biar-nggak-menyesal-jadi-beban-keluarga"
-    },
-    {
-        "title": "Akhir Tahun Rawan Burnout, Psikolog Bagikan Tips Mengelola Stres",
-        "category": "Ameera",
-        "publish_time": "24-12-2025 13:14",
-        "news_link": "https://ameera.republika.co.id/berita/t7s0fk425/akhir-tahun-rawan-burnout-psikolog-bagikan-tips-mengelola-stres"
-    },
-    {
-        "title": "Kejagung Serahkan Uang Rp6,62 Triliun Hasil Denda Sawit dan Tambang Ilegal ke Negara",
-        "category": "Visual",
-        "publish_time": "24-12-2025 13:14",
-        "news_link": "https://visual.republika.co.id/berita/t7s0dd375/kejagung-serahkan-uang-rp662-triliun-hasil-denda-sawit-dan-tambang-ilegal-ke-negara"
     }
 ]
