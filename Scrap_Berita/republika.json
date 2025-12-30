@@ -1,56 +1,170 @@
 [
     {
+        "title": "Beyonce Resmi Jadi Miliarder Versi Forbes",
+        "category": "Ekonomi",
+        "publish_time": "30-12-2025 01:13",
+        "news_link": "https://ekonomi.republika.co.id/berita/t82628423/beyonce-resmi-jadi-miliarder-versi-forbes"
+    },
+    {
+        "title": "Jalan Santai Batfest Diikuti 30 Ribu Peserta, Jadi Ajang Silaturahmi Warga Kalsel",
+        "category": "Rekalimantan",
+        "publish_time": "30-12-2025 00:47",
+        "news_link": "https://republika.co.id/berita//t824u7456/jalan-santai-batfest-diikuti-30-ribu-peserta-jadi-ajang-silaturahmi-warga-kalsel"
+    },
+    {
+        "title": "Kinerja Bank Banten, Ini Laba yang Berhasil Diraih",
+        "category": "Rejakarta",
+        "publish_time": "30-12-2025 00:43",
+        "news_link": "https://republika.co.id/berita//t824nj456/kinerja-bank-banten-ini-laba-yang-berhasil-diraih"
+    },
+    {
+        "title": "5 Pesan di Balik Pengumuman Syahidnya Abu Ubaidah dan Ikrar Penggantinya Menurut Pengamat Militer",
+        "category": "Khazanah",
+        "publish_time": "30-12-2025 00:38",
+        "news_link": "https://khazanah.republika.co.id/berita/t824gd320/5-pesan-di-balik-pengumuman-syahidnya-abu-ubaidah-dan-ikrar-penggantinya-menurut-pengamat-militer"
+    },
+    {
+        "title": "Usai Gus Miftah, Masjid Raya Pakansari akan Undang UAS",
+        "category": "News",
+        "publish_time": "30-12-2025 00:25",
+        "news_link": "https://news.republika.co.id/berita/t823uk484/usai-gus-miftah-masjid-raya-pakansari-akan-undang-uas"
+    },
+    {
+        "title": "Teladan Nabi Muhammad yang Sebabkan Sahabat Sangat Setia",
+        "category": "Khazanah",
+        "publish_time": "30-12-2025 00:22",
+        "news_link": "https://khazanah.republika.co.id/berita/t823fk430/teladan-nabi-muhammad-yang-sebabkan-sahabat-sangat-setia"
+    },
+    {
+        "title": "Pemerintah Klaim Infrastruktur Penyediaan Air Bersih di Aceh Tamiang Kembali Beroperasi",
+        "category": "Ekonomi",
+        "publish_time": "30-12-2025 00:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/t823ka423/pemerintah-klaim-infrastruktur-penyediaan-air-bersih-di-aceh-tamiang-kembali-beroperasi"
+    },
+    {
+        "title": "Astra Perkuat Kontribusi Berbasis Komunitas Desa Mandiri",
+        "category": "Ekonomi",
+        "publish_time": "30-12-2025 00:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8233w430/astra-perkuat-kontribusi-berbasis-komunitas-desa-mandiri"
+    },
+    {
+        "title": "Tanah Longsor Dominasi 510 Bencana Alam di Jateng Selama 2025",
+        "category": "Esgnow",
+        "publish_time": "30-12-2025 00:15",
+        "news_link": "https://esgnow.republika.co.id/berita/t8233h423/tanah-longsor-dominasi-510-bencana-alam-di-jateng-selama-2025"
+    },
+    {
+        "title": "Pramono Bagi-Bagi 14 Mobil Damkar ke Berbagai Daerah, Ini Daftarnya",
+        "category": "News",
+        "publish_time": "30-12-2025 00:15",
+        "news_link": "https://news.republika.co.id/berita/t822ol484/pramono-bagibagi-14-mobil-damkar-ke-berbagai-daerah-ini-daftarnya"
+    },
+    {
+        "title": "Imipas Siapkan Lapas Baru di Nusakambangan Berkapasitas 1.500 orang",
+        "category": "News",
+        "publish_time": "30-12-2025 00:15",
+        "news_link": "https://news.republika.co.id/berita/t822ho430/imipas-siapkan-lapas-baru-di-nusakambangan-berkapasitas-1500-orang"
+    },
+    {
+        "title": "Tren Wisata Akhir Tahun 2025 Bergeser, Hidden Gems dan Budaya Lokal Makin Diminati",
+        "category": "Ekonomi",
+        "publish_time": "30-12-2025 00:15",
+        "news_link": "https://ekonomi.republika.co.id/berita/t822e7423/tren-wisata-akhir-tahun-2025-bergeser-hidden-gems-dan-budaya-lokal-makin-diminati"
+    },
+    {
+        "title": "Menag Tegaskan Perayaan Nataru Jadi Momentum Solidaritas untuk Sumatra-Aceh",
+        "category": "Khazanah",
+        "publish_time": "30-12-2025 00:15",
+        "news_link": "https://khazanah.republika.co.id/berita/t82269430/menag-tegaskan-perayaan-nataru-jadi-momentum-solidaritas-untuk-sumatraaceh"
+    },
+    {
+        "title": "Miley Cyrus Datang ke Oscar 2025 Buat Nawarin Diri Bikin OST Film",
+        "category": "Ameera",
+        "publish_time": "30-12-2025 00:15",
+        "news_link": "https://ameera.republika.co.id/berita/t8220j425/miley-cyrus-datang-ke-oscar-2025-buat-nawarin-diri-bikin-ost-film"
+    },
+    {
+        "title": "Tanpa Kembang Api, DLH Jakarta Optimistis Sampah Malam Tahun Baru Berkurang",
+        "category": "Esgnow",
+        "publish_time": "29-12-2025 23:15",
+        "news_link": "https://esgnow.republika.co.id/berita/t821sd423/tanpa-kembang-api-dlh-jakarta-optimistis-sampah-malam-tahun-baru-berkurang"
+    },
+    {
+        "title": "Jenderal Maruli Ungkap Kemenhan Pesan 100 Jembatan Bailey dari Luar Negeri",
+        "category": "News",
+        "publish_time": "29-12-2025 23:15",
+        "news_link": "https://news.republika.co.id/berita/t821sa484/jenderal-maruli-ungkap-kemenhan-pesan-100-jembatan-bailey-dari-luar-negeri"
+    },
+    {
+        "title": "Diskon Pupuk Subsidi Dipastikan Berlanjut Tahun Depan",
+        "category": "Ekonomi",
+        "publish_time": "29-12-2025 23:15",
+        "news_link": "https://ekonomi.republika.co.id/berita/t819bs416/diskon-pupuk-subsidi-dipastikan-berlanjut-tahun-depan"
+    },
+    {
+        "title": "Informasi Tim Analis Bantu Persija Taklukkan Bhayangkara FC Saat Pelatih Mauricio Souza Absen",
+        "category": "News",
+        "publish_time": "29-12-2025 23:15",
+        "news_link": "https://news.republika.co.id/berita/t82106348/informasi-tim-analis-bantu-persija-taklukkan-bhayangkara-fc-saat-pelatih-mauricio-souza-absen"
+    },
+    {
+        "title": "Seskab Teddy Klaim Pemerintah Super Cepat Tangani Pascabencana di Sumatera",
+        "category": "News",
+        "publish_time": "29-12-2025 23:15",
+        "news_link": "https://news.republika.co.id/berita/t820mq484/seskab-teddy-klaim-pemerintah-super-cepat-tangani-pascabencana-di-sumatera"
+    },
+    {
         "title": "Mesir Akui Pernah Ditawari Imbalan Miliaran Dolar AS Jika Terima Pengusiran Warga Gaza",
         "category": "News",
-        "publish_time": "29-12-2025 23:10",
+        "publish_time": "29-12-2025 23:15",
         "news_link": "https://news.republika.co.id/berita/t81z9c409/mesir-akui-pernah-ditawari-imbalan-miliaran-dolar-as-jika-terima-pengusiran-warga-gaza"
     },
     {
         "title": "Meriahkan Pengujung 2025, Artotel Suites Bianti Hadirkan Program Semarak Akhir Tahun",
         "category": "Rejogja",
-        "publish_time": "29-12-2025 23:09",
+        "publish_time": "29-12-2025 23:15",
         "news_link": "https://rejogja.republika.co.id/berita/t81y91291/meriahkan-pengujung-2025-artotel-suites-bianti-hadirkan-program-semarak-akhir-tahun"
     },
     {
         "title": "BI Sudah Agresif Turunkan Suku Bunga, Purbaya Tebar Likuiditas, Kenapa Ekonomi Masih Stagnan?",
         "category": "Ekonomi",
-        "publish_time": "29-12-2025 23:04",
+        "publish_time": "29-12-2025 23:15",
         "news_link": "https://ekonomi.republika.co.id/berita/t81chc490/bi-sudah-agresif-turunkan-suku-bunga-purbaya-tebar-likuiditas-kenapa-ekonomi-masih-stagnan"
     },
     {
         "title": "Pemerintah Bentuk Klinik UMKM Bangkit\u00a0di Daerah Bencana Aceh dan Sumatera",
         "category": "Ekonomi",
-        "publish_time": "29-12-2025 22:59",
+        "publish_time": "29-12-2025 23:15",
         "news_link": "https://ekonomi.republika.co.id/berita/t818ni416/pemerintah-bentuk-klinik-umkm-bangkitdi-daerah-bencana-aceh-dan-sumatera"
     },
     {
         "title": "Di Atas Seutas Tali Baja, Warga Aceh Tengah Menjaga Asa",
         "category": "Visual",
-        "publish_time": "29-12-2025 22:59",
+        "publish_time": "29-12-2025 23:15",
         "news_link": "https://visual.republika.co.id/berita/t81j26375/di-atas-seutas-tali-baja-warga-aceh-tengah-menjaga-asa"
     },
     {
         "title": "Babak Pertama Sempurna, Roma Tundukkan Genoa untuk Panaskan Persaingan Papan Atas Serie A",
         "category": "News",
-        "publish_time": "29-12-2025 22:59",
+        "publish_time": "29-12-2025 23:15",
         "news_link": "https://news.republika.co.id/berita/t81zvi348/babak-pertama-sempurna-roma-tundukkan-genoa-untuk-panaskan-persaingan-papan-atas-serie-a"
     },
     {
         "title": "Gol Salto El Kaabi Warnai Perjalanan Maroko ke Babak Gugur Piala Afrika",
         "category": "News",
-        "publish_time": "29-12-2025 22:45",
+        "publish_time": "29-12-2025 23:15",
         "news_link": "https://news.republika.co.id/berita/t81z91348/gol-salto-el-kaabi-warnai-perjalanan-maroko-ke-babak-gugur-piala-afrika"
     },
     {
         "title": "KPK Ungkap BPK tak Bisa Hitung Kerugian Negara Sehingga Kasus Aswad Sulaiman Dihentikan",
         "category": "News",
-        "publish_time": "29-12-2025 22:37",
+        "publish_time": "29-12-2025 22:15",
         "news_link": "https://news.republika.co.id/berita/t81yui409/kpk-ungkap-bpk-tak-bisa-hitung-kerugian-negara-sehingga-kasus-aswad-sulaiman-dihentikan"
     },
     {
         "title": "Menteri Zulkifli Hasan Usulkan Kenaikan Margin Fee Bulog untuk Beras Satu Harga",
         "category": "News",
-        "publish_time": "29-12-2025 22:29",
+        "publish_time": "29-12-2025 22:15",
         "news_link": "https://news.republika.co.id/berita/t81yij7730000/menteri-zulkifli-hasan-usulkan-kenaikan-margin-fee-bulog-untuk-beras-satu-harga"
     },
     {
@@ -62,241 +176,127 @@
     {
         "title": "Pemprov NTB Ganti Kendaraan Dinas ICE ke Mobil Listrik Sistem Sewa, Dorong Ekosistem EV di Daerah",
         "category": "Ekonomi",
-        "publish_time": "29-12-2025 22:14",
+        "publish_time": "29-12-2025 22:15",
         "news_link": "https://ekonomi.republika.co.id/berita/t81b99348/pemprov-ntb-ganti-kendaraan-dinas-ice-ke-mobil-listrik-sistem-sewa-dorong-ekosistem-ev-di-daerah"
     },
     {
         "title": "Pemerintah Targetkan Cadangan Beras 4 Juta Ton pada 2026",
         "category": "News",
-        "publish_time": "29-12-2025 21:14",
+        "publish_time": "29-12-2025 21:15",
         "news_link": "https://news.republika.co.id/berita/t81wfd7830000/pemerintah-targetkan-cadangan-beras-4-juta-ton-pada-2026"
     },
     {
         "title": "Kesaksian Santri Soal Polisi Salah Tangkap Anak Kiai di Bogor",
         "category": "News",
-        "publish_time": "29-12-2025 21:14",
+        "publish_time": "29-12-2025 21:15",
         "news_link": "https://news.republika.co.id/berita/t81w7k485/kesaksian-santri-soal-polisi-salah-tangkap-anak-kiai-di-bogor"
     },
     {
         "title": "Pemkot Serang Akan Kelola Mandiri Pasar Induk Rau untuk Optimalkan Aset",
         "category": "News",
-        "publish_time": "29-12-2025 21:14",
+        "publish_time": "29-12-2025 21:15",
         "news_link": "https://news.republika.co.id/berita/t81vqf9230000/pemkot-serang-akan-kelola-mandiri-pasar-induk-rau-untuk-optimalkan-aset"
     },
     {
         "title": "TNI AL Kerahkan Alutsista Bantu Pencarian Korban Kapal Tenggelam di Labuan Bajo",
         "category": "News",
-        "publish_time": "29-12-2025 21:14",
+        "publish_time": "29-12-2025 21:15",
         "news_link": "https://news.republika.co.id/berita/t81uct9930000/tni-al-kerahkan-alutsista-bantu-pencarian-korban-kapal-tenggelam-di-labuan-bajo"
     },
     {
         "title": "Bulog Gandakan Stok Beras di Sumatera untuk Jamin Distribusi Merata",
         "category": "News",
-        "publish_time": "29-12-2025 20:14",
+        "publish_time": "29-12-2025 20:15",
         "news_link": "https://news.republika.co.id/berita/t81tnc1530000/bulog-gandakan-stok-beras-di-sumatera-untuk-jamin-distribusi-merata"
     },
     {
         "title": "BNNP Kaltim Amankan 42,4 Kilogram Sabu Sepanjang 2025",
         "category": "News",
-        "publish_time": "29-12-2025 19:14",
+        "publish_time": "29-12-2025 19:15",
         "news_link": "https://news.republika.co.id/berita/t81o701930000/bnnp-kaltim-amankan-424-kilogram-sabu-sepanjang-2025"
     },
     {
         "title": "Tim SAR Intensifkan Pencarian Turis Asing Korban Kapal Tenggelam di Labuan Bajo",
         "category": "News",
-        "publish_time": "29-12-2025 18:14",
+        "publish_time": "29-12-2025 18:15",
         "news_link": "https://news.republika.co.id/berita/t81noc3730000/tim-sar-intensifkan-pencarian-turis-asing-korban-kapal-tenggelam-di-labuan-bajo"
     },
     {
         "title": "Penerbangan Natal-Tahun Baru di Bali 2025/2026 Berjalan Lancar",
         "category": "News",
-        "publish_time": "29-12-2025 18:14",
+        "publish_time": "29-12-2025 18:15",
         "news_link": "https://news.republika.co.id/berita/t81nmt2030000/penerbangan-nataltahun-baru-di-bali-20252026-berjalan-lancar"
     },
     {
         "title": "Klinik UMKM Bangkit Diluncurkan untuk Bantu Pemulihan Pasca Banjir di Aceh dan Sumatra",
         "category": "News",
-        "publish_time": "29-12-2025 18:14",
+        "publish_time": "29-12-2025 18:15",
         "news_link": "https://news.republika.co.id/berita/t81nmg9930000/klinik-umkm-bangkit-diluncurkan-untuk-bantu-pemulihan-pasca-banjir-di-aceh-dan-sumatra"
     },
     {
         "title": "Pertemuan Empat Ketua Parpol Bahas Kebaikan Bangsa",
         "category": "News",
-        "publish_time": "29-12-2025 18:14",
+        "publish_time": "29-12-2025 18:15",
         "news_link": "https://news.republika.co.id/berita/t81nkn9030000/pertemuan-empat-ketua-parpol-bahas-kebaikan-bangsa"
     },
     {
         "title": "Empat Ketua Partai Bertemu Bahas Kebaikan Bangsa",
         "category": "News",
-        "publish_time": "29-12-2025 18:14",
+        "publish_time": "29-12-2025 18:15",
         "news_link": "https://news.republika.co.id/berita/t81nkn1330000/empat-ketua-partai-bertemu-bahas-kebaikan-bangsa"
     },
     {
         "title": "Volume Lalu Lintas Arah Jakarta Meningkat di Tiga Gerbang Tol Jabodetabek",
         "category": "News",
-        "publish_time": "29-12-2025 18:14",
+        "publish_time": "29-12-2025 18:15",
         "news_link": "https://news.republika.co.id/berita/t81nk98430000/volume-lalu-lintas-arah-jakarta-meningkat-di-tiga-gerbang-tol-jabodetabek"
     },
     {
         "title": "Menteri Agama: Natal Momentum Perkuat Solidaritas Nasional",
         "category": "News",
-        "publish_time": "29-12-2025 18:14",
+        "publish_time": "29-12-2025 18:15",
         "news_link": "https://news.republika.co.id/berita/t81ni95130000/menteri-agama-natal-momentum-perkuat-solidaritas-nasional"
     },
     {
         "title": "Kementerian ESDM Pantau Ketat Pengelolaan WKP Baturaden",
         "category": "News",
-        "publish_time": "29-12-2025 18:14",
+        "publish_time": "29-12-2025 18:15",
         "news_link": "https://news.republika.co.id/berita/t81nhy3530000/kementerian-esdm-pantau-ketat-pengelolaan-wkp-baturaden"
     },
     {
         "title": "Polres Banjar Evakuasi Warga dari Banjir di Martapura Timur",
         "category": "News",
-        "publish_time": "29-12-2025 18:14",
+        "publish_time": "29-12-2025 18:15",
         "news_link": "https://news.republika.co.id/berita/t81ng77130000/polres-banjar-evakuasi-warga-dari-banjir-di-martapura-timur"
     },
     {
         "title": "Polres Blitar Musnahkan Ribuan Botol Miras dan Puluhan Knalpot Brong",
         "category": "News",
-        "publish_time": "29-12-2025 18:14",
+        "publish_time": "29-12-2025 18:15",
         "news_link": "https://news.republika.co.id/berita/t81mq91130000/polres-blitar-musnahkan-ribuan-botol-miras-dan-puluhan-knalpot-brong"
     },
     {
         "title": "Barang Bukti Narkoba di Madiun Meningkat Signifikan pada 2025",
         "category": "News",
-        "publish_time": "29-12-2025 18:14",
+        "publish_time": "29-12-2025 18:15",
         "news_link": "https://news.republika.co.id/berita/t81m0v4530000/barang-bukti-narkoba-di-madiun-meningkat-signifikan-pada-2025"
     },
     {
         "title": "Persija Tak Libur Tahun Baru, Fokus Hadapi Persijap",
         "category": "News",
-        "publish_time": "29-12-2025 17:14",
+        "publish_time": "29-12-2025 17:15",
         "news_link": "https://news.republika.co.id/berita/t81lbg1430000/persija-tak-libur-tahun-baru-fokus-hadapi-persijap"
     },
     {
         "title": "Pemerintah Papua Selatan Perluas Cakupan Jaminan Sosial Ketenagakerjaan",
         "category": "News",
-        "publish_time": "29-12-2025 17:14",
+        "publish_time": "29-12-2025 17:15",
         "news_link": "https://news.republika.co.id/berita/t81kme930000/pemerintah-papua-selatan-perluas-cakupan-jaminan-sosial-ketenagakerjaan"
     },
     {
         "title": "Pemkot Makassar Edukasi Mitigasi Bencana Lewat Pengelolaan Sampah",
         "category": "News",
-        "publish_time": "29-12-2025 17:14",
+        "publish_time": "29-12-2025 17:15",
         "news_link": "https://news.republika.co.id/berita/t81jxc6130000/pemkot-makassar-edukasi-mitigasi-bencana-lewat-pengelolaan-sampah"
-    },
-    {
-        "title": "JIS Siapkan Fasilitas Pembibitan Rumput Agar Siap Jadi Kandang Persija",
-        "category": "News",
-        "publish_time": "29-12-2025 17:14",
-        "news_link": "https://news.republika.co.id/berita/t81bnt348/jis-siapkan-fasilitas-pembibitan-rumput-agar-siap-jadi-kandang-persija"
-    },
-    {
-        "title": "Bekuk Thailand, Timnas Futsal Indonesia Juara ASEAN U-16 Boys Championship 2025",
-        "category": "Visual",
-        "publish_time": "29-12-2025 17:14",
-        "news_link": "https://visual.republika.co.id/berita/t81g91375/bekuk-thailand-timnas-futsal-indonesia-juara-asean-u16-boys-championship-2025"
-    },
-    {
-        "title": "DPR Nilai Penunjukan Dua Syarikah Bikin Pengawasan Haji Lebih Terukur",
-        "category": "Khazanah",
-        "publish_time": "29-12-2025 16:14",
-        "news_link": "https://khazanah.republika.co.id/berita/t80xw1366/dpr-nilai-penunjukan-dua-syarikah-bikin-pengawasan-haji-lebih-terukur"
-    },
-    {
-        "title": "Begini Riwayat Abu Ubaidah, Pembebas Syam yang Jadi Sandi Juru Bicara Al-Qassam.",
-        "category": "News",
-        "publish_time": "29-12-2025 16:14",
-        "news_link": "https://news.republika.co.id/berita/t81h9t393/begini-riwayat-abu-ubaidah-pembebas-syam-yang-jadi-sandi-juru-bicara-alqassam"
-    },
-    {
-        "title": "Alat SAR dan Penyelam Profesional Dikerahkan untuk Pencarian Korban Kapal Tenggelam di Labuan Bajo",
-        "category": "Visual",
-        "publish_time": "29-12-2025 16:14",
-        "news_link": "https://visual.republika.co.id/berita/t81fc5375/alat-sar-dan-penyelam-profesional-dikerahkan-untuk-pencarian-korban-kapal-tenggelam-di-labuan-bajo"
-    },
-    {
-        "title": "Resolusi Tahun Baru tak Harus Sempurna, Ini Kata Psikolog",
-        "category": "Ameera",
-        "publish_time": "29-12-2025 15:14",
-        "news_link": "https://ameera.republika.co.id/berita/t810xy366/resolusi-tahun-baru-tak-harus-sempurna-ini-kata-psikolog"
-    },
-    {
-        "title": "Musim Hujan Tingkatkan Risiko Influenza A pada Anak dengan Penyakit Penyerta",
-        "category": "Ameera",
-        "publish_time": "29-12-2025 15:14",
-        "news_link": "https://ameera.republika.co.id/berita/t8199q370/musim-hujan-tingkatkan-risiko-influenza-a-pada-anak-dengan-penyakit-penyerta"
-    },
-    {
-        "title": "Brigade al-Qassam Ungkap Sosok Dibalik Topeng Merah Abu Ubaidah",
-        "category": "News",
-        "publish_time": "29-12-2025 15:14",
-        "news_link": "https://news.republika.co.id/berita/t81eg7393/brigade-alqassam-ungkap-sosok-dibalik-topeng-merah-abu-ubaidah"
-    },
-    {
-        "title": "Kasus Korupsi Nikel Konawe Utara Dihentikan, KPK Berdalih BPK tak Bisa Hitung Kerugian Negara",
-        "category": "News",
-        "publish_time": "29-12-2025 15:14",
-        "news_link": "https://news.republika.co.id/berita/t81e9h377/kasus-korupsi-nikel-konawe-utara-dihentikan-kpk-berdalih-bpk-tak-bisa-hitung-kerugian-negara"
-    },
-    {
-        "title": "PTPP Percepat Pemulihan Akses Jalan Bireuen\u2013Takengon",
-        "category": "Ekonomi",
-        "publish_time": "29-12-2025 15:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/t81c1f490/ptpp-percepat-pemulihan-akses-jalan-bireuentakengon"
-    },
-    {
-        "title": "Pemkot dan Polresta Gorontalo Musnahkan 19.754 Botol Miras Ilegal",
-        "category": "Visual",
-        "publish_time": "29-12-2025 15:14",
-        "news_link": "https://visual.republika.co.id/berita/t81750375/pemkot-dan-polresta-gorontalo-musnahkan-19754-botol-miras-ilegal"
-    },
-    {
-        "title": "Relawan PNM Kembali Turun Langsung Salurkan Bantuan dan Kuatkan Korban Bencana",
-        "category": "Ekonomi",
-        "publish_time": "29-12-2025 15:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/t81d7m368/relawan-pnm-kembali-turun-langsung-salurkan-bantuan-dan-kuatkan-korban-bencana"
-    },
-    {
-        "title": "Bripda MS, Tersangka Pembunuh Mahasiwi ULM Dipecat dari Kepolisian",
-        "category": "News",
-        "publish_time": "29-12-2025 14:14",
-        "news_link": "https://news.republika.co.id/berita/t81cof377/bripda-ms-tersangka-pembunuh-mahasiwi-ulm-dipecat-dari-kepolisian"
-    },
-    {
-        "title": "BREAKING NEWS: Hamas Konfirmasi Syahidnya Abu Ubaidah dan Muhammad Sinwar",
-        "category": "News",
-        "publish_time": "29-12-2025 14:14",
-        "news_link": "https://news.republika.co.id/berita/t81ch1393/breaking-news-hamas-konfirmasi-syahidnya-abu-ubaidah-dan-muhammad-sinwar"
-    },
-    {
-        "title": "Intip Menu MBG saat Masa Libur Sekolah, Ada Susu, Roti Hingga Buah",
-        "category": "Visual",
-        "publish_time": "29-12-2025 14:14",
-        "news_link": "https://visual.republika.co.id/berita/t81706375/intip-menu-mbg-saat-masa-libur-sekolah-ada-susu-roti-hingga-buah"
-    },
-    {
-        "title": "Polisi Bunuh Mahasiswi UMM, Polda tak Temukan Isu Perselingkuhan, Cuma Sakit Hati dan Harta",
-        "category": "News",
-        "publish_time": "29-12-2025 14:14",
-        "news_link": "https://news.republika.co.id/berita/t81byh377/polisi-bunuh-mahasiswi-umm-polda-tak-temukan-isu-perselingkuhan-cuma-sakit-hati-dan-harta"
-    },
-    {
-        "title": "KCIC Sediakan Layanan Porter di Stasiun Whoosh Halim, Tarifnya Rp50 Ribu",
-        "category": "Ekonomi",
-        "publish_time": "29-12-2025 14:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/t81brw490/kcic-sediakan-layanan-porter-di-stasiun-whoosh-halim-tarifnya-rp50-ribu"
-    },
-    {
-        "title": "KSAD: 100 Jembatan Bailey Telah Dipesan dari Luar Negeri,",
-        "category": "News",
-        "publish_time": "29-12-2025 14:14",
-        "news_link": "https://news.republika.co.id/berita/t81bdr377/ksad-100-jembatan-bailey-telah-dipesan-dari-luar-negeri"
-    },
-    {
-        "title": "Target Serapan Beras Naik Jadi 4 Juta Ton, Bulog Siapkan Gudang Tambahan",
-        "category": "Ekonomi",
-        "publish_time": "29-12-2025 14:14",
-        "news_link": "https://ekonomi.republika.co.id/berita/t81az7490/target-serapan-beras-naik-jadi-4-juta-ton-bulog-siapkan-gudang-tambahan"
     }
 ]
