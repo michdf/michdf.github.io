@@ -1,8 +1,44 @@
 [
     {
+        "title": "Pemerintah Jakarta Himpun Donasi Rp3,1 miliar untuk Korban Bencana Sumatera",
+        "category": "News",
+        "publish_time": "31-12-2025 23:14",
+        "news_link": "https://news.republika.co.id/berita/t85p9t348/pemerintah-jakarta-himpun-donasi-rp31-miliar-untuk-korban-bencana-sumatera"
+    },
+    {
+        "title": "Prabowo Pastikan tak Ada Desa Terisolasi di Tapanuli Selatan",
+        "category": "News",
+        "publish_time": "31-12-2025 23:03",
+        "news_link": "https://news.republika.co.id/berita/t85pdg484/prabowo-pastikan-tak-ada-desa-terisolasi-di-tapanuli-selatan"
+    },
+    {
+        "title": "Walau Dilarang, Nyala Kembang Api Tetap Terlihat di Bundaran HI",
+        "category": "News",
+        "publish_time": "31-12-2025 22:56",
+        "news_link": "https://news.republika.co.id/berita/t85p0z348/walau-dilarang-nyala-kembang-api-tetap-terlihat-di-bundaran-hi"
+    },
+    {
+        "title": "Sambut Pergantian Tahun, Prabowo Ajak Warga Korban Bencana Berdoa Bersama",
+        "category": "News",
+        "publish_time": "31-12-2025 22:55",
+        "news_link": "https://news.republika.co.id/berita/t85p0a484/sambut-pergantian-tahun-prabowo-ajak-warga-korban-bencana-berdoa-bersama"
+    },
+    {
+        "title": "Ratusan Warga Bandarlampung Padati Bundaran Lungsir Rayakan Tahun Baru",
+        "category": "News",
+        "publish_time": "31-12-2025 22:45",
+        "news_link": "https://news.republika.co.id/berita/t85ojc8030000/ratusan-warga-bandarlampung-padati-bundaran-lungsir-rayakan-tahun-baru"
+    },
+    {
+        "title": "PNM Perkuat Program Pemberdayaan Usaha Ultra Mikro Sepanjang 2025",
+        "category": "News",
+        "publish_time": "31-12-2025 22:30",
+        "news_link": "https://news.republika.co.id/berita/t85nue7730000/pnm-perkuat-program-pemberdayaan-usaha-ultra-mikro-sepanjang-2025"
+    },
+    {
         "title": "Menhub Minta Stakeholder Bersiap Hadapi Arus Balik Nataru",
         "category": "Ekonomi",
-        "publish_time": "31-12-2025 22:10",
+        "publish_time": "31-12-2025 22:15",
         "news_link": "https://ekonomi.republika.co.id/berita/t856hi490/menhub-minta-stakeholder-bersiap-hadapi-arus-balik-nataru"
     },
     {
@@ -14,7 +50,7 @@
     {
         "title": "Bupati Karawang Lakukan Mutasi dan Rotasi ASN Besar-besaran di Malam Tahun Baru",
         "category": "News",
-        "publish_time": "31-12-2025 20:15",
+        "publish_time": "31-12-2025 21:15",
         "news_link": "https://news.republika.co.id/berita/t85j0m4630000/bupati-karawang-lakukan-mutasi-dan-rotasi-asn-besarbesaran-di-malam-tahun-baru"
     },
     {
@@ -262,41 +298,5 @@
         "category": "News",
         "publish_time": "31-12-2025 13:15",
         "news_link": "https://news.republika.co.id/berita/t84xmt348/emery-nilai-cedera-amadou-onana-jadi-salah-satu-penyebab-kekalahan-villa-dari-arsenal"
-    },
-    {
-        "title": "Iran Tetapkan Angkatan Laut Kanada Sebagai Organisasi Teroris, Ini Alasannya",
-        "category": "News",
-        "publish_time": "31-12-2025 13:15",
-        "news_link": "https://news.republika.co.id/berita/t84kld377/iran-tetapkan-angkatan-laut-kanada-sebagai-organisasi-teroris-ini-alasannya"
-    },
-    {
-        "title": "Pencuri Bobol Bank Jerman, Rp 588 Miliar Simpanan Nasabah Lenyap",
-        "category": "Ekonomi",
-        "publish_time": "31-12-2025 13:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/t84xcu423/pencuri-bobol-bank-jerman-rp-588-miliar-simpanan-nasabah-lenyap"
-    },
-    {
-        "title": "Angka Pernikahan Naik Selama 2025",
-        "category": "Khazanah",
-        "publish_time": "31-12-2025 13:15",
-        "news_link": "https://khazanah.republika.co.id/berita/t84xb8483/angka-pernikahan-naik-selama-2025"
-    },
-    {
-        "title": "Relawan PNM Kembali Salurkan Bantuan dan Kuatkan Korban Bencana",
-        "category": "Resumatra",
-        "publish_time": "31-12-2025 13:15",
-        "news_link": "https://republika.co.id/berita//t84x4p456/relawan-pnm-kembali-salurkan-bantuan-dan-kuatkan-korban-bencana"
-    },
-    {
-        "title": "Komandan Kompi Terdakwa Penganiayaan Hingga Menewaskan Prada Lucky Divonis 8 Tahun Penjara",
-        "category": "News",
-        "publish_time": "31-12-2025 13:15",
-        "news_link": "https://news.republika.co.id/berita/t84x2u409/komandan-kompi-terdakwa-penganiayaan-hingga-menewaskan-prada-lucky-divonis-8-tahun-penjara"
-    },
-    {
-        "title": "Influencer yang Kerap Kritik Pemerintah, DJ Donny Lapor Polisi Terkait Teror Orang tak Dikenal",
-        "category": "News",
-        "publish_time": "31-12-2025 13:15",
-        "news_link": "https://news.republika.co.id/berita/t84wz5348/influencer-yang-kerap-kritik-pemerintah-dj-donny-lapor-polisi-terkait-teror-orang-tak-dikenal"
     }
 ]
