@@ -1,5 +1,83 @@
 [
     {
+        "title": "Pemerintah Tegaskan APBN Tetap Jadi Penyangga Ekonomi di Awal 2026",
+        "category": "Ekonomi",
+        "publish_time": "03 January 2026, 17:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8a7r0370/pemerintah-tegaskan-apbn-tetap-jadi-penyangga-ekonomi-di-awal-2026"
+    },
+    {
+        "title": "Trump Umumkan Militer AS Tangkap Nicolas Maduro dan Terbangkan Keluar Venezuela",
+        "category": "News",
+        "publish_time": "03 January 2026, 17:08",
+        "news_link": "https://news.republika.co.id/berita/t8a9i6409/trump-umumkan-militer-as-tangkap-nicolas-maduro-dan-terbangkan-keluar-venezuela"
+    },
+    {
+        "title": "Tak Pernah Sepi Peminat, Prodi Manajemen UNM Masih Jadi Favorit di Era Digital",
+        "category": "News",
+        "publish_time": "03 January 2026, 17:06",
+        "news_link": "https://news.republika.co.id/berita/t8a906368/tak-pernah-sepi-peminat-prodi-manajemen-unm-masih-jadi-favorit-di-era-digital"
+    },
+    {
+        "title": "Dampak Penerapan KUHP BARU, Kementerian Siapkan 968 Tempat Kerja Sosial",
+        "category": "News",
+        "publish_time": "03 January 2026, 16:58",
+        "news_link": "https://news.republika.co.id/berita/t8a90z458/dampak-penerapan-kuhp-baru-kementerian-siapkan-968-tempat-kerja-sosial"
+    },
+    {
+        "title": "Menag: Harus Ada Bimbingan Spiritual dalam Pengembangan AI",
+        "category": "Video",
+        "publish_time": "03 January 2026, 16:56",
+        "news_link": "https://tv.republika.co.id/berita/t8a8yl418/menag-harus-ada-bimbingan-spiritual-dalam-pengembangan-ai"
+    },
+    {
+        "title": "Kuliah Desain Komunikasi Visual di UBSI, Belajar Visual sebagai Bahasa Komunikasi",
+        "category": "News",
+        "publish_time": "03 January 2026, 16:53",
+        "news_link": "https://news.republika.co.id/berita/t8a8sh368/kuliah-desain-komunikasi-visual-di-ubsi-belajar-visual-sebagai-bahasa-komunikasi"
+    },
+    {
+        "title": "Prof KH Amal Fathullah Zarkasyi Wafat, Muhammadiyah Sampaikan Duka Mendalam",
+        "category": "Khazanah",
+        "publish_time": "03 January 2026, 16:45",
+        "news_link": "https://khazanah.republika.co.id/berita/t8a8fp458/prof-kh-amal-fathullah-zarkasyi-wafat-muhammadiyah-sampaikan-duka-mendalam"
+    },
+    {
+        "title": "Penumpang Kereta Api Membludak Saat Arus Balik, Okupansi Tembus 120 Persen",
+        "category": "Ekonomi",
+        "publish_time": "03 January 2026, 16:45",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8a7ew370/penumpang-kereta-api-membludak-saat-arus-balik-okupansi-tembus-120-persen"
+    },
+    {
+        "title": "Trump  Klaim Pasukan AS Berhasil Tangkap Presiden Venezuela",
+        "category": "News",
+        "publish_time": "03 January 2026, 16:39",
+        "news_link": "https://news.republika.co.id/berita/t8a85o393/trump-klaim-pasukan-as-berhasil-tangkap-presiden-venezuela"
+    },
+    {
+        "title": "Venezuela Kecam Agresi AS, Maduro Perintahkan Aktivasi Penuh Pertahanan Nasional",
+        "category": "News",
+        "publish_time": "03 January 2026, 16:35",
+        "news_link": "https://news.republika.co.id/berita/t8a7zf409/venezuela-kecam-agresi-as-maduro-perintahkan-aktivasi-penuh-pertahanan-nasional"
+    },
+    {
+        "title": "Negara Mana Saja yang Sudah Diserang Trump?",
+        "category": "News",
+        "publish_time": "03 January 2026, 16:32",
+        "news_link": "https://news.republika.co.id/berita/t8a7tr393/negara-mana-saja-yang-sudah-diserang-trump"
+    },
+    {
+        "title": "Kepanikan Warga Terjadi saat Ledakan Beruntun Guncang Ibu Kota Venezuela",
+        "category": "Visual",
+        "publish_time": "03 January 2026, 16:30",
+        "news_link": "https://visual.republika.co.id/berita/t8a77x375/kepanikan-warga-terjadi-saat-ledakan-beruntun-guncang-ibu-kota-venezuela"
+    },
+    {
+        "title": "BMKG: Hujan Masih Berpotensi Guyur Sumatera Utara pada Ahad",
+        "category": "News",
+        "publish_time": "03 January 2026, 16:19",
+        "news_link": "https://news.republika.co.id/berita/t8a5r2370/bmkg-hujan-masih-berpotensi-guyur-sumatera-utara-pada-ahad"
+    },
+    {
         "title": "Alasan di Balik Pemecatan Khalid bin Walid",
         "category": "Khazanah",
         "publish_time": "03 January 2026, 16:06",
@@ -220,83 +298,5 @@
         "category": "News",
         "publish_time": "03 January 2026, 11:35",
         "news_link": "https://news.republika.co.id/berita/t89u2m425/empat-pekerja-bangunan-di-sumedang-yang-tertimbun-longsor-ditemukan-meninggal-dunia"
-    },
-    {
-        "title": "NTB Jajaki Layanan Pembayaran Pajak Kendaraan Bermotor Lewat Koperasi Merah Putih",
-        "category": "Ekonomi",
-        "publish_time": "03 January 2026, 11:30",
-        "news_link": "https://ekonomi.republika.co.id/berita/t89sbm490/ntb-jajaki-layanan-pembayaran-pajak-kendaraan-bermotor-lewat-koperasi-merah-putih"
-    },
-    {
-        "title": "2025 Tercatat Jadi Tahun Terpanas, Picu Cuaca Ekstrem",
-        "category": "Esgnow",
-        "publish_time": "03 January 2026, 11:10",
-        "news_link": "https://esgnow.republika.co.id/berita/t89s4i490/2025-tercatat-jadi-tahun-terpanas-picu-cuaca-ekstrem"
-    },
-    {
-        "title": "Sedotan Kaca, Estetik tapi Berisiko Bikin Pengguna Menelan Beling?",
-        "category": "Ameera",
-        "publish_time": "03 January 2026, 11:07",
-        "news_link": "https://ameera.republika.co.id/berita/t89ssz425/sedotan-kaca-estetik-tapi-berisiko-bikin-pengguna-menelan-beling"
-    },
-    {
-        "title": "Catat, Ini Puasa Sunnah yang Bisa Diamalkan Selama Januari 2026",
-        "category": "Khazanah",
-        "publish_time": "03 January 2026, 11:05",
-        "news_link": "https://khazanah.republika.co.id/berita/t89s1b366/catat-ini-puasa-sunnah-yang-bisa-diamalkan-selama-januari-2026"
-    },
-    {
-        "title": "Ingin Kembali ke Kejayaan Orde Baru, Bos Bulog Ungkap Proses Perubahan Jadi Badan Otonom",
-        "category": "Ekonomi",
-        "publish_time": "03 January 2026, 11:00",
-        "news_link": "https://ekonomi.republika.co.id/berita/t89rls490/ingin-kembali-ke-kejayaan-orde-baru-bos-bulog-ungkap-proses-perubahan-jadi-badan-otonom"
-    },
-    {
-        "title": "Penyerapan Gabah tanpa Syarat Kualitas Bakal Berlanjut pada 2026",
-        "category": "Ekonomi",
-        "publish_time": "03 January 2026, 10:45",
-        "news_link": "https://ekonomi.republika.co.id/berita/t89rg1490/penyerapan-gabah-tanpa-syarat-kualitas-bakal-berlanjut-pada-2026"
-    },
-    {
-        "title": "Pemerintah Anggarkan Rp6 Triliun untuk Pembangunan IKN 2026",
-        "category": "Ekonomi",
-        "publish_time": "03 January 2026, 10:33",
-        "news_link": "https://ekonomi.republika.co.id/berita/t89r80490/pemerintah-anggarkan-rp6-triliun-untuk-pembangunan-ikn-2026"
-    },
-    {
-        "title": "Menteri Jelaskan Alasan Keluarnya Calling Visa Bagi 51 Warga Israel",
-        "category": "News",
-        "publish_time": "03 January 2026, 10:29",
-        "news_link": "https://news.republika.co.id/berita/t89r1m484/menteri-jelaskan-alasan-keluarnya-calling-visa-bagi-51-warga-israel"
-    },
-    {
-        "title": "MTV Tutup Saluran Musik Terakhir dengan 'Video Killed The Radio Star\u2019",
-        "category": "Ameera",
-        "publish_time": "03 January 2026, 10:25",
-        "news_link": "https://ameera.republika.co.id/berita/t89qv1425/mtv-tutup-saluran-musik-terakhir-dengan-video-killed-the-radio-star"
-    },
-    {
-        "title": "Panglima TNI dan Menhan Beri Kenaikan Pangkat 155 Prajurit di Timika",
-        "category": "News",
-        "publish_time": "03 January 2026, 10:19",
-        "news_link": "https://news.republika.co.id/berita/t89qk8484/panglima-tni-dan-menhan-beri-kenaikan-pangkat-155-prajurit-di-timika"
-    },
-    {
-        "title": "Hati-Hati, Kelapangan Hidup Mudah Diintervensi Nafsu",
-        "category": "Khazanah",
-        "publish_time": "03 January 2026, 10:05",
-        "news_link": "https://khazanah.republika.co.id/berita/t89p1r366/hatihati-kelapangan-hidup-mudah-diintervensi-nafsu"
-    },
-    {
-        "title": "Trump Ancam AS Serang Iran Jika Bunuh Para Demonstran",
-        "category": "News",
-        "publish_time": "03 January 2026, 09:46",
-        "news_link": "https://news.republika.co.id/berita/t89p0y484/trump-ancam-as-serang-iran-jika-bunuh-para-demonstran"
-    },
-    {
-        "title": "Dompet Dhuafa Yogyakarta Kirim Bantuan untuk Penyintas Bencana Sumatera",
-        "category": "Khazanah",
-        "publish_time": "03 January 2026, 09:45",
-        "news_link": "https://khazanah.republika.co.id/berita/t89p0i368/dompet-dhuafa-yogyakarta-kirim-bantuan-untuk-penyintas-bencana-sumatera"
     }
 ]
