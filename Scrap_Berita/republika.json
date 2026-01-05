@@ -1,116 +1,236 @@
 [
     {
+        "title": "Pembatasan Ekspresi Bisa Tekan Kepercayaan Investor",
+        "category": "Ekonomi",
+        "publish_time": "05-01-2026 09:17",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8dwgy423/pembatasan-ekspresi-bisa-tekan-kepercayaan-investor"
+    },
+    {
+        "title": "KUHP dan KUHAP Baru Gantikan Warisan Belanda 63 Tahun Lalu",
+        "category": "News",
+        "publish_time": "05-01-2026 09:07",
+        "news_link": "https://news.republika.co.id/berita/t8dw0k484/kuhp-dan-kuhap-baru-gantikan-warisan-belanda-63-tahun-lalu"
+    },
+    {
+        "title": "Matcha Jepang Terancam, Produk Tiruan Cina Bermunculan",
+        "category": "Ameera",
+        "publish_time": "05-01-2026 09:02",
+        "news_link": "https://ameera.republika.co.id/berita/t8dvsi328/matcha-jepang-terancam-produk-tiruan-cina-bermunculan"
+    },
+    {
+        "title": "Aturan Baru, Dompet Digital Masuk Pendataan Keuangan",
+        "category": "Ekonomi",
+        "publish_time": "05-01-2026 08:59",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8dsge416/aturan-baru-dompet-digital-masuk-pendataan-keuangan"
+    },
+    {
+        "title": "BPS: Nilai Tukar Petani Meningkat pada Desember 2025",
+        "category": "Ekonomi",
+        "publish_time": "05-01-2026 08:59",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8dt8v416/bps-nilai-tukar-petani-meningkat-pada-desember-2025"
+    },
+    {
+        "title": "Tingkah Polah Pelajar di Hari Pertama Sekolah Usai Libur Panjang Akhir Tahun",
+        "category": "Visual",
+        "publish_time": "05-01-2026 08:59",
+        "news_link": "https://visual.republika.co.id/berita/t8drfd375/tingkah-polah-pelajar-di-hari-pertama-sekolah-usai-libur-panjang-akhir-tahun"
+    },
+    {
+        "title": "Buruh Tolak Revisi UMSK 2026 yang Ditetapkan Dedi Mulyadi, Ancam Aksi hingga Mogok Kerja",
+        "category": "News",
+        "publish_time": "05-01-2026 08:57",
+        "news_link": "https://news.republika.co.id/berita/t8dvkz487/buruh-tolak-revisi-umsk-2026-yang-ditetapkan-dedi-mulyadi-ancam-aksi-hingga-mogok-kerja"
+    },
+    {
+        "title": "Transparansi Berbuah Apresiasi, bank bjb Raih Anugerah Keterbukaan Informasi Publik 2025",
+        "category": "Ekonomi",
+        "publish_time": "05-01-2026 08:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8dvi4472/transparansi-berbuah-apresiasi-bank-bjb-raih-anugerah-keterbukaan-informasi-publik-2025"
+    },
+    {
+        "title": "Gelombang Dingin Landa Utara Saudi, Embun Beku Selimuti Wilayah Tabuk",
+        "category": "Khazanah",
+        "publish_time": "05-01-2026 08:49",
+        "news_link": "https://khazanah.republika.co.id/berita/t8dv6i430/gelombang-dingin-landa-utara-saudi-embun-beku-selimuti-wilayah-tabuk"
+    },
+    {
+        "title": "Bank Syariah Diproyeksikan Bakal Beroperasi di Rusia pada 2026",
+        "category": "Ekonomi Syariah",
+        "publish_time": "05-01-2026 08:49",
+        "news_link": "https://sharia.republika.co.id/berita/t8dv6a490/bank-syariah-diproyeksikan-bakal-beroperasi-di-rusia-pada-2026"
+    },
+    {
+        "title": "Bank bjb dan TNI AL Lanjutkan Kolaborasi Penguatan Layanan Keuangan",
+        "category": "Ekonomi",
+        "publish_time": "05-01-2026 08:47",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8dv32472/bank-bjb-dan-tni-al-lanjutkan-kolaborasi-penguatan-layanan-keuangan"
+    },
+    {
+        "title": "Masyarakat Diminta Waspada Penularan Super Flu",
+        "category": "Ameera",
+        "publish_time": "05-01-2026 08:46",
+        "news_link": "https://ameera.republika.co.id/berita/t8dv1h328/masyarakat-diminta-waspada-penularan-super-flu"
+    },
+    {
+        "title": "Jumlah Kunjungan Wisman Hampir Capai 14 Juta hingga November 2025",
+        "category": "News",
+        "publish_time": "05-01-2026 08:44",
+        "news_link": "https://news.republika.co.id/berita/t8duzc484/jumlah-kunjungan-wisman-hampir-capai-14-juta-hingga-november-2025"
+    },
+    {
+        "title": "1,2 Juta Agen BRILink Putar Ekonomi Desa, Transaksi Tembus Rp 1.592 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "05-01-2026 08:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8duri423/12-juta-agen-brilink-putar-ekonomi-desa-transaksi-tembus-rp-1592-triliun"
+    },
+    {
+        "title": "Jaksa Sebut Nadiem Sudah Tahu Laptop Chromebook Bermasalah",
+        "category": "News",
+        "publish_time": "05-01-2026 08:34",
+        "news_link": "https://news.republika.co.id/berita/t8duho487/jaksa-sebut-nadiem-sudah-tahu-laptop-chromebook-bermasalah"
+    },
+    {
+        "title": "Michael B Jordan Ternyata Jalani Terapi Usai Black Panther",
+        "category": "Ameera",
+        "publish_time": "05-01-2026 08:32",
+        "news_link": "https://ameera.republika.co.id/berita/t8duef328/michael-b-jordan-ternyata-jalani-terapi-usai-black-panther"
+    },
+    {
+        "title": "Prajurit TNI AD Jalan Tiga Hari Angkut Genset PLN di Aceh Barat",
+        "category": "News",
+        "publish_time": "05-01-2026 08:29",
+        "news_link": "https://news.republika.co.id/berita/t8duaa484/prajurit-tni-ad-jalan-tiga-hari-angkut-genset-pln-di-aceh-barat"
+    },
+    {
+        "title": "Inflasi Aceh, Sumut, dan Sumbar Melonjak Imbas Bencana",
+        "category": "Ekonomi",
+        "publish_time": "05-01-2026 08:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8dsa8416/inflasi-aceh-sumut-dan-sumbar-melonjak-imbas-bencana"
+    },
+    {
+        "title": "Banjir Bandang Terjang Kepulauan Sitaro Sulut, Enam Orang Meninggal Dunia",
+        "category": "Visual",
+        "publish_time": "05-01-2026 08:29",
+        "news_link": "https://visual.republika.co.id/berita/t8drlu375/banjir-bandang-terjang-kepulauan-sitaro-sulut-enam-orang-meninggal-dunia"
+    },
+    {
+        "title": "IHSG Menguat di Awal Pekan, Modal Asing Rp 1,3 Triliun Buka Peluang Rekor Baru",
+        "category": "Ekonomi",
+        "publish_time": "05-01-2026 08:27",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8du6f423/ihsg-menguat-di-awal-pekan-modal-asing-rp-13-triliun-buka-peluang-rekor-baru"
+    },
+    {
         "title": "Senator Bernie Sanders: AS tak Berhak Mengatur Venezuela, Trump Ingin Bangkitkan Doktrin Monroe",
         "category": "News",
-        "publish_time": "05-01-2026 08:21",
+        "publish_time": "05-01-2026 08:26",
         "news_link": "https://news.republika.co.id/berita/t8dtx2377/senator-bernie-sanders-as-tak-berhak-mengatur-venezuela-trump-ingin-bangkitkan-doktrin-monroe"
     },
     {
         "title": "Mantan Polisi Pembunuh Kekasihnya Didakwa Pasal Pembunuhan Berencana",
         "category": "News",
-        "publish_time": "05-01-2026 08:16",
+        "publish_time": "05-01-2026 08:26",
         "news_link": "https://news.republika.co.id/berita/t8dto5487/mantan-polisi-pembunuh-kekasihnya-didakwa-pasal-pembunuhan-berencana"
     },
     {
         "title": "Tangan Diborgol dan Memakai Rompi Tahanan, Nadiem Makarim Jalani Sidang Perdana",
         "category": "Video",
-        "publish_time": "05-01-2026 08:16",
+        "publish_time": "05-01-2026 08:26",
         "news_link": "https://tv.republika.co.id/berita/t8dtny313/tangan-diborgol-dan-memakai-rompi-tahanan-nadiem-makarim-jalani-sidang-perdana"
     },
     {
         "title": "Respons Serangan Amerika, Kim Jong Un Luncurkan Dua Rudal Balistik Sekaligus",
         "category": "News",
-        "publish_time": "05-01-2026 08:14",
+        "publish_time": "05-01-2026 08:26",
         "news_link": "https://news.republika.co.id/berita/t8dtkv451/respons-serangan-amerika-kim-jong-un-luncurkan-dua-rudal-balistik-sekaligus"
     },
     {
         "title": "Pengaduan Melonjak, Pigai: Kepercayaan ke Kementerian HAM Meningkat",
         "category": "News",
-        "publish_time": "05-01-2026 08:13",
+        "publish_time": "05-01-2026 08:26",
         "news_link": "https://news.republika.co.id/berita/t8dtjj484/pengaduan-melonjak-pigai-kepercayaan-ke-kementerian-ham-meningkat"
     },
     {
         "title": "Rekening Bank di Atas Rp 15 Miliar Masuk Pengawasan Pajak",
         "category": "Ekonomi",
-        "publish_time": "05-01-2026 08:09",
+        "publish_time": "05-01-2026 08:26",
         "news_link": "https://ekonomi.republika.co.id/berita/t8dtbo423/rekening-bank-di-atas-rp-15-miliar-masuk-pengawasan-pajak"
     },
     {
         "title": "Wali Kota Bandung Umumkan Risiko Darurat Sampah Mulai 12 Januari",
         "category": "Rejabar",
-        "publish_time": "05-01-2026 08:09",
+        "publish_time": "05-01-2026 08:26",
         "news_link": "https://rejabar.republika.co.id/berita/t8dtbl487/wali-kota-bandung-umumkan-risiko-darurat-sampah-mulai-12-januari"
     },
     {
         "title": "Didakwa Lakukan Korupsi Pengadaan Chromebook, Nadiem Langsung Ajukan Keberatan",
         "category": "News",
-        "publish_time": "05-01-2026 08:06",
+        "publish_time": "05-01-2026 08:26",
         "news_link": "https://news.republika.co.id/berita/t8dt85377/didakwa-lakukan-korupsi-pengadaan-chromebook-nadiem-langsung-ajukan-keberatan"
     },
     {
         "title": "Emas Jadi Penyumbang Inflasi Tahunan Terbesar pada 2025",
         "category": "Ekonomi",
-        "publish_time": "05-01-2026 07:59",
+        "publish_time": "05-01-2026 08:26",
         "news_link": "https://ekonomi.republika.co.id/berita/t8drzd416/emas-jadi-penyumbang-inflasi-tahunan-terbesar-pada-2025"
     },
     {
         "title": "Libur Nataru Usai, Lalu Lintas Jakarta Kembali Macet di Sejumlah Titik Jalan",
         "category": "Visual",
-        "publish_time": "05-01-2026 07:59",
+        "publish_time": "05-01-2026 08:26",
         "news_link": "https://visual.republika.co.id/berita/t8dqz4375/libur-nataru-usai-lalu-lintas-jakarta-kembali-macet-di-sejumlah-titik-jalan"
     },
     {
         "title": "Inflasi di Sumut, Sumbar, dan Aceh Meroket, Dipicu Kenaikan Harga Pangan",
         "category": "Ekonomi",
-        "publish_time": "05-01-2026 07:58",
+        "publish_time": "05-01-2026 08:26",
         "news_link": "https://ekonomi.republika.co.id/berita/t8dsu0490/inflasi-di-sumut-sumbar-dan-aceh-meroket-dipicu-kenaikan-harga-pangan"
     },
     {
         "title": "Rektor UPI Ingatkan Masih Maraknya Bullying di Dunia Pendidikan",
         "category": "News",
-        "publish_time": "05-01-2026 07:56",
+        "publish_time": "05-01-2026 07:26",
         "news_link": "https://news.republika.co.id/berita/t8dsr9371/rektor-upi-ingatkan-masih-maraknya-bullying-di-dunia-pendidikan"
     },
     {
         "title": "Warisan Ternyata tak Langsung Bebas dari Pajak Selama Belum Dibagi, Ini Aturannya",
         "category": "Ekonomi",
-        "publish_time": "05-01-2026 07:53",
+        "publish_time": "05-01-2026 07:26",
         "news_link": "https://ekonomi.republika.co.id/berita/t8dslj349/warisan-ternyata-tak-langsung-bebas-dari-pajak-selama-belum-dibagi-ini-aturannya"
     },
     {
         "title": "Praktisi Migas Sebut Ketegangan AS-Venezuela tak Guncang Harga Minyak Dunia, Ini Alasannya",
         "category": "Ekonomi",
-        "publish_time": "05-01-2026 07:44",
+        "publish_time": "05-01-2026 07:26",
         "news_link": "https://ekonomi.republika.co.id/berita/t8ds75490/praktisi-migas-sebut-ketegangan-asvenezuela-tak-guncang-harga-minyak-dunia-ini-alasannya"
     },
     {
         "title": "Polis Asuransi di Atas Rp 4 Miliar Masuk Laporan Pajak",
         "category": "Ekonomi",
-        "publish_time": "05-01-2026 07:41",
+        "publish_time": "05-01-2026 07:26",
         "news_link": "https://ekonomi.republika.co.id/berita/t8ds1f423/polis-asuransi-di-atas-rp-4-miliar-masuk-laporan-pajak"
     },
     {
         "title": "Kemenhaj Diusulkan Bentuk Tim Khusus Atasi Persoalan Haji Khusus",
         "category": "Khazanah",
-        "publish_time": "05-01-2026 07:39",
+        "publish_time": "05-01-2026 07:26",
         "news_link": "https://khazanah.republika.co.id/berita/t8dryl430/kemenhaj-diusulkan-bentuk-tim-khusus-atasi-persoalan-haji-khusus"
     },
     {
         "title": "Jejak Tapak Diduga Harimau di Gunungkidul, BKSDA Minta Warga Waspada",
         "category": "Rejogja",
-        "publish_time": "05-01-2026 07:39",
+        "publish_time": "05-01-2026 07:26",
         "news_link": "https://rejogja.republika.co.id/berita/t8dryi282/jejak-tapak-diduga-harimau-di-gunungkidul-bksda-minta-warga-waspada"
     },
     {
         "title": "Baznas Ingin Pastikan Siswa di Lokasi Bencana Nyaman Belajar",
         "category": "News",
-        "publish_time": "05-01-2026 07:38",
+        "publish_time": "05-01-2026 07:26",
         "news_link": "https://news.republika.co.id/berita/t8drx8484/baznas-ingin-pastikan-siswa-di-lokasi-bencana-nyaman-belajar"
     },
     {
         "title": "Produk Lokal Berjaya di Harbolnas 2025, Penjualan Capai Rp16,6 Triliun",
         "category": "Ekonomi",
-        "publish_time": "05-01-2026 07:29",
+        "publish_time": "05-01-2026 07:26",
         "news_link": "https://ekonomi.republika.co.id/berita/t8dlso416/produk-lokal-berjaya-di-harbolnas-2025-penjualan-capai-rp166-triliun"
     },
     {
@@ -128,175 +248,55 @@
     {
         "title": "Ibu 19 Tahun di Jember Mutilasi Bayi, Kementerian PPPA Soroti Dampak Perkawinan Anak",
         "category": "Ameera",
-        "publish_time": "05-01-2026 07:25",
+        "publish_time": "05-01-2026 07:26",
         "news_link": "https://ameera.republika.co.id/berita/t8drak425/ibu-19-tahun-di-jember-mutilasi-bayi-kementerian-pppa-soroti-dampak-perkawinan-anak"
     },
     {
         "title": "Bangkitkan Optimisme Siswa Belajar Jadi Kunci Pulihkan Sumatera",
         "category": "News",
-        "publish_time": "05-01-2026 07:25",
+        "publish_time": "05-01-2026 07:26",
         "news_link": "https://news.republika.co.id/berita/t8dr1n451/bangkitkan-optimisme-siswa-belajar-jadi-kunci-pulihkan-sumatera"
     },
     {
         "title": "Nadiem Makarim Jalani Sidang Perdana, Didakwa Rugikan Negara Rp2,18 T",
         "category": "Visual",
-        "publish_time": "05-01-2026 07:25",
+        "publish_time": "05-01-2026 07:26",
         "news_link": "https://visual.republika.co.id/berita/t8dqr1375/nadiem-makarim-jalani-sidang-perdana-didakwa-rugikan-negara-rp218-t"
     },
     {
         "title": "Daftar Tujuh Isi KUHP dan KUHAP yang Dianggap Kontroversi di Masyarakat",
         "category": "News",
-        "publish_time": "05-01-2026 07:25",
+        "publish_time": "05-01-2026 07:26",
         "news_link": "https://news.republika.co.id/berita/t8dqma484/daftar-tujuh-isi-kuhp-dan-kuhap-yang-dianggap-kontroversi-di-masyarakat"
     },
     {
         "title": "Menenun Literasi Reproduksi di Jantung Pesantren",
         "category": "Khazanah",
-        "publish_time": "05-01-2026 07:25",
+        "publish_time": "05-01-2026 07:26",
         "news_link": "https://khazanah.republika.co.id/berita/t8dqkc451/menenun-literasi-reproduksi-di-jantung-pesantren"
     },
     {
         "title": "Pemprov Papua Barat Tegaskan Perluasan Kebun Sawit Wajib Izin Masyarakat Adat",
         "category": "Esgnow",
-        "publish_time": "05-01-2026 07:25",
+        "publish_time": "05-01-2026 07:26",
         "news_link": "https://esgnow.republika.co.id/berita/t8dkm7416/pemprov-papua-barat-tegaskan-perluasan-kebun-sawit-wajib-izin-masyarakat-adat"
     },
     {
         "title": "Pemkot Semarang Sahkan Raperda Fasilitasi Pengembangan Pesantren",
         "category": "Khazanah",
-        "publish_time": "05-01-2026 07:25",
+        "publish_time": "05-01-2026 07:26",
         "news_link": "https://khazanah.republika.co.id/berita/t8dq0f451/pemkot-semarang-sahkan-raperda-fasilitasi-pengembangan-pesantren"
     },
     {
         "title": "Dul Jaelani Ubah Rasa Tertindas Jadi Energi Musik Rock",
         "category": "Ameera",
-        "publish_time": "05-01-2026 07:25",
+        "publish_time": "05-01-2026 07:26",
         "news_link": "https://ameera.republika.co.id/berita/t8dpzw425/dul-jaelani-ubah-rasa-tertindas-jadi-energi-musik-rock"
     },
     {
         "title": "Majelis Tetapkan Sidang Nadiem Pakai KUHAP Baru karena Untungkan Terdakwa",
         "category": "News",
-        "publish_time": "05-01-2026 06:25",
+        "publish_time": "05-01-2026 06:26",
         "news_link": "https://news.republika.co.id/berita/t8dpxe487/majelis-tetapkan-sidang-nadiem-pakai-kuhap-baru-karena-untungkan-terdakwa"
-    },
-    {
-        "title": "Motif Pembunuhan Anak Politikus PKS Terungkap, Pelaku Ingin Mencuri Usai Rugi Besar Main Kripto,",
-        "category": "News",
-        "publish_time": "05-01-2026 06:25",
-        "news_link": "https://news.republika.co.id/berita/t8dptr377/motif-pembunuhan-anak-politikus-pks-terungkap-pelaku-ingin-mencuri-usai-rugi-besar-main-kripto"
-    },
-    {
-        "title": "32 Tentara Kuba Gugur Saat Jaga Maduro dari Penculikan oleh AS",
-        "category": "News",
-        "publish_time": "05-01-2026 06:25",
-        "news_link": "https://news.republika.co.id/berita/t8dpnm393/32-tentara-kuba-gugur-saat-jaga-maduro-dari-penculikan-oleh-as"
-    },
-    {
-        "title": "Prudential dan Mercy Corps Latih Ribuan UMKM Kelola Keuangan",
-        "category": "Ekonomi",
-        "publish_time": "05-01-2026 06:25",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8dl67416/prudential-dan-mercy-corps-latih-ribuan-umkm-kelola-keuangan"
-    },
-    {
-        "title": "Timothee Chalamet Menang Aktor Terbaik di Critics Choice Awards 2026",
-        "category": "Ameera",
-        "publish_time": "05-01-2026 06:25",
-        "news_link": "https://ameera.republika.co.id/berita/t8dpd9425/timothee-chalamet-menang-aktor-terbaik-di-critics-choice-awards-2026"
-    },
-    {
-        "title": "Tetesan Darah ASN Kemenag untuk Korban Bencana Sumatera",
-        "category": "Khazanah",
-        "publish_time": "05-01-2026 06:25",
-        "news_link": "https://khazanah.republika.co.id/berita/t8dpcu451/tetesan-darah-asn-kemenag-untuk-korban-bencana-sumatera"
-    },
-    {
-        "title": "Benarkah Aktivitas Memasak Bisa Bantu Menyembuhkan Batin?",
-        "category": "Ameera",
-        "publish_time": "05-01-2026 06:25",
-        "news_link": "https://ameera.republika.co.id/berita/t8donm425/benarkah-aktivitas-memasak-bisa-bantu-menyembuhkan-batin"
-    },
-    {
-        "title": "Belanja Pakai Kripto di Atas Rp800 Juta Kini Masuk Pantauan Pajak",
-        "category": "Ekonomi",
-        "publish_time": "05-01-2026 06:25",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8dobo490/belanja-pakai-kripto-di-atas-rp800-juta-kini-masuk-pantauan-pajak"
-    },
-    {
-        "title": "Bernardo Tavares tak Janjikan Juara Bersama Persebaya, tapi Bekerja Keras di Lapangan",
-        "category": "News",
-        "publish_time": "05-01-2026 06:25",
-        "news_link": "https://news.republika.co.id/berita/t8dnp5348/bernardo-tavares-tak-janjikan-juara-bersama-persebaya-tapi-bekerja-keras-di-lapangan"
-    },
-    {
-        "title": "Desember 2025, Israel 27 Kali Menyerbu Masjid Al-Aqsa dan 92 Kali Larang Azan",
-        "category": "Khazanah",
-        "publish_time": "05-01-2026 06:25",
-        "news_link": "https://khazanah.republika.co.id/berita/t8dn8t430/desember-2025-israel-27-kali-menyerbu-masjid-alaqsa-dan-92-kali-larang-azan"
-    },
-    {
-        "title": "Cedera Menghantui Man City Usai Ditahan Imbang Chelsea, Guardiola Terancam Andalkan Akademi",
-        "category": "News",
-        "publish_time": "05-01-2026 05:25",
-        "news_link": "https://news.republika.co.id/berita/t8dn5t348/cedera-menghantui-man-city-usai-ditahan-imbang-chelsea-guardiola-terancam-andalkan-akademi"
-    },
-    {
-        "title": "Tanggal Ramadhan dan Idul Fitri 2026 untuk Pakistan Diumumkan",
-        "category": "Khazanah",
-        "publish_time": "05-01-2026 05:25",
-        "news_link": "https://khazanah.republika.co.id/berita/t8dn2q430/tanggal-ramadhan-dan-idul-fitri-2026-untuk-pakistan-diumumkan"
-    },
-    {
-        "title": "UIN Datokarama Palu: Memahat Keikhlasan di Balik Capaian Akreditasi Unggul",
-        "category": "Khazanah",
-        "publish_time": "05-01-2026 05:25",
-        "news_link": "https://khazanah.republika.co.id/berita/t8dn0w451/uin-datokarama-palu-memahat-keikhlasan-di-balik-capaian-akreditasi-unggul"
-    },
-    {
-        "title": "Daftar Film Bercerita tentang Kudeta dan Intervensi AS, Ada Argo Hingga Angel Has Fallen",
-        "category": "Ameera",
-        "publish_time": "05-01-2026 05:25",
-        "news_link": "https://ameera.republika.co.id/berita/t8dmun425/daftar-film-bercerita-tentang-kudeta-dan-intervensi-as-ada-argo-hingga-angel-has-fallen"
-    },
-    {
-        "title": "Keutamaan Bulan Rajab Dimuliakan Allah dan Waktu Pertama Kali Perintah Sholat",
-        "category": "Khazanah",
-        "publish_time": "05-01-2026 05:25",
-        "news_link": "https://khazanah.republika.co.id/berita/t8dmmz430/keutamaan-bulan-rajab-dimuliakan-allah-dan-waktu-pertama-kali-perintah-sholat"
-    },
-    {
-        "title": "Inflasi Indonesia Sepanjang 2025 Tembus 2,97 Persen",
-        "category": "Ekonomi",
-        "publish_time": "05-01-2026 05:25",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8dmch490/inflasi-indonesia-sepanjang-2025-tembus-297-persen"
-    },
-    {
-        "title": "Kala ASN Kemenag Aceh Besar Berjibaku Melawan Lumpur di MIN 4 Pidie Jaya",
-        "category": "Khazanah",
-        "publish_time": "05-01-2026 05:25",
-        "news_link": "https://khazanah.republika.co.id/berita/t8dmc1451/kala-asn-kemenag-aceh-besar-berjibaku-melawan-lumpur-di-min-4-pidie-jaya"
-    },
-    {
-        "title": "Bos Bulog Beberkan Strategi untuk Serap 4 Juta Ton Beras Tahun Ini",
-        "category": "Ekonomi",
-        "publish_time": "05-01-2026 05:25",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8dm5n490/bos-bulog-beberkan-strategi-untuk-serap-4-juta-ton-beras-tahun-ini"
-    },
-    {
-        "title": "Setelah Venezuela, Trump Ancam Kolombia-Kuba-Meksiko",
-        "category": "News",
-        "publish_time": "05-01-2026 05:25",
-        "news_link": "https://news.republika.co.id/berita/t8dm21393/setelah-venezuela-trump-ancam-kolombiakubameksiko"
-    },
-    {
-        "title": "Indonesia Surplus Neraca Dagang 67 Bulan Berturut-turut",
-        "category": "Ekonomi",
-        "publish_time": "05-01-2026 05:25",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8dlw4490/indonesia-surplus-neraca-dagang-67-bulan-berturutturut"
-    },
-    {
-        "title": "Korea Utara Sebut Serangan AS ke Venezuela Tindakan Biadab",
-        "category": "News",
-        "publish_time": "05-01-2026 05:25",
-        "news_link": "https://news.republika.co.id/berita/t8dl1y366/korea-utara-sebut-serangan-as-ke-venezuela-tindakan-biadab"
     }
 ]
