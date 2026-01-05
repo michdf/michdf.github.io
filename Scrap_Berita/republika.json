@@ -1,86 +1,164 @@
 [
     {
+        "title": "Alasan Ilmiah Memasak Itu 'Menyembuhkan' Batin",
+        "category": "Ameera",
+        "publish_time": "05-01-2026 06:28",
+        "news_link": "https://ameera.republika.co.id/berita/t8donm425/alasan-ilmiah-memasak-itu-menyembuhkan-batin"
+    },
+    {
+        "title": "Belanja Pakai Kripto di Atas Rp800 Juta Kini Masuk Pantauan Pajak",
+        "category": "Ekonomi",
+        "publish_time": "05-01-2026 06:21",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8dobo490/belanja-pakai-kripto-di-atas-rp800-juta-kini-masuk-pantauan-pajak"
+    },
+    {
+        "title": "Bernardo Tavares tak Janjikan Juara Bersama Persebaya, tapi Bekerja Keras di Lapangan",
+        "category": "News",
+        "publish_time": "05-01-2026 06:08",
+        "news_link": "https://news.republika.co.id/berita/t8dnp5348/bernardo-tavares-tak-janjikan-juara-bersama-persebaya-tapi-bekerja-keras-di-lapangan"
+    },
+    {
+        "title": "Desember 2025, Israel 27 Kali Menyerbu Masjid Al-Aqsa dan 92 Kali Larang Azan",
+        "category": "Khazanah",
+        "publish_time": "05-01-2026 05:58",
+        "news_link": "https://khazanah.republika.co.id/berita/t8dn8t430/desember-2025-israel-27-kali-menyerbu-masjid-alaqsa-dan-92-kali-larang-azan"
+    },
+    {
+        "title": "Cedera Menghantui Man City Usai Ditahan Imbang Chelsea, Guardiola Terancam Andalkan Akademi",
+        "category": "News",
+        "publish_time": "05-01-2026 05:56",
+        "news_link": "https://news.republika.co.id/berita/t8dn5t348/cedera-menghantui-man-city-usai-ditahan-imbang-chelsea-guardiola-terancam-andalkan-akademi"
+    },
+    {
+        "title": "Tanggal Ramadhan dan Idul Fitri 2026 untuk Pakistan Diumumkan",
+        "category": "Khazanah",
+        "publish_time": "05-01-2026 05:54",
+        "news_link": "https://khazanah.republika.co.id/berita/t8dn2q430/tanggal-ramadhan-dan-idul-fitri-2026-untuk-pakistan-diumumkan"
+    },
+    {
+        "title": "UIN Datokarama Palu: Memahat Keikhlasan di Balik Capaian Akreditasi Unggul",
+        "category": "Khazanah",
+        "publish_time": "05-01-2026 05:53",
+        "news_link": "https://khazanah.republika.co.id/berita/t8dn0w451/uin-datokarama-palu-memahat-keikhlasan-di-balik-capaian-akreditasi-unggul"
+    },
+    {
+        "title": "Daftar Film Bercerita tentang Kudeta dan Intervensi AS, Ada Argo Hingga Angel Has Fallen",
+        "category": "Ameera",
+        "publish_time": "05-01-2026 05:49",
+        "news_link": "https://ameera.republika.co.id/berita/t8dmun425/daftar-film-bercerita-tentang-kudeta-dan-intervensi-as-ada-argo-hingga-angel-has-fallen"
+    },
+    {
+        "title": "Keutamaan Bulan Rajab Dimuliakan Allah dan Waktu Pertama Kali Perintah Sholat",
+        "category": "Khazanah",
+        "publish_time": "05-01-2026 05:45",
+        "news_link": "https://khazanah.republika.co.id/berita/t8dmmz430/keutamaan-bulan-rajab-dimuliakan-allah-dan-waktu-pertama-kali-perintah-sholat"
+    },
+    {
+        "title": "Inflasi Indonesia Sepanjang 2025 Tembus 2,97 Persen",
+        "category": "Ekonomi",
+        "publish_time": "05-01-2026 05:38",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8dmch490/inflasi-indonesia-sepanjang-2025-tembus-297-persen"
+    },
+    {
+        "title": "Kala ASN Kemenag Aceh Besar Berjibaku Melawan Lumpur di MIN 4 Pidie Jaya",
+        "category": "Khazanah",
+        "publish_time": "05-01-2026 05:38",
+        "news_link": "https://khazanah.republika.co.id/berita/t8dmc1451/kala-asn-kemenag-aceh-besar-berjibaku-melawan-lumpur-di-min-4-pidie-jaya"
+    },
+    {
+        "title": "Bos Bulog Beberkan Strategi untuk Serap 4 Juta Ton Beras Tahun Ini",
+        "category": "Ekonomi",
+        "publish_time": "05-01-2026 05:34",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8dm5n490/bos-bulog-beberkan-strategi-untuk-serap-4-juta-ton-beras-tahun-ini"
+    },
+    {
+        "title": "Setelah Venezuela, Trump Ancam Kolombia-Kuba-Meksiko",
+        "category": "News",
+        "publish_time": "05-01-2026 05:32",
+        "news_link": "https://news.republika.co.id/berita/t8dm21393/setelah-venezuela-trump-ancam-kolombiakubameksiko"
+    },
+    {
         "title": "Indonesia Surplus Neraca Dagang 67 Bulan Berturut-turut",
         "category": "Ekonomi",
-        "publish_time": "05-01-2026 05:28",
+        "publish_time": "05-01-2026 05:31",
         "news_link": "https://ekonomi.republika.co.id/berita/t8dlw4490/indonesia-surplus-neraca-dagang-67-bulan-berturutturut"
     },
     {
         "title": "Korea Utara Sebut Serangan AS ke Venezuela Tindakan Biadab",
         "category": "News",
-        "publish_time": "05-01-2026 05:10",
+        "publish_time": "05-01-2026 05:31",
         "news_link": "https://news.republika.co.id/berita/t8dl1y366/korea-utara-sebut-serangan-as-ke-venezuela-tindakan-biadab"
     },
     {
         "title": "Nadiem Didakwa Terima Suap Rp 809,59 Miliar, Jaksa Singgung Kenaikan Harta Nadiem",
         "category": "News",
-        "publish_time": "05-01-2026 05:07",
+        "publish_time": "05-01-2026 05:31",
         "news_link": "https://news.republika.co.id/berita/t8dkwq377/nadiem-didakwa-terima-suap-rp-80959-miliar-jaksa-singgung-kenaikan-harta-nadiem"
     },
     {
         "title": "Viral Penemuan Mayat di Bangku Voli SC Indramayu, Korban Sempat Mengeluh tak Makan Dua Hari",
         "category": "News",
-        "publish_time": "05-01-2026 04:58",
+        "publish_time": "05-01-2026 04:31",
         "news_link": "https://news.republika.co.id/berita/t8dkhp377/viral-penemuan-mayat-di-bangku-voli-sc-indramayu-korban-sempat-mengeluh-tak-makan-dua-hari"
     },
     {
         "title": "Viral Penemuan Mayat di SC Indramayu, Korban Sempat Mengeluh tak Makan Dua Hari",
         "category": "Rejabar",
-        "publish_time": "05-01-2026 04:55",
+        "publish_time": "05-01-2026 04:31",
         "news_link": "https://rejabar.republika.co.id/berita/t8dkcb487/viral-penemuan-mayat-di-sc-indramayu-korban-sempat-mengeluh-tak-makan-dua-hari"
     },
     {
         "title": "Rupiah dalam Tekanan Imbas Penangkapan Maduro oleh AS",
         "category": "Ekonomi",
-        "publish_time": "05-01-2026 04:48",
+        "publish_time": "05-01-2026 04:31",
         "news_link": "https://ekonomi.republika.co.id/berita/t8dk04490/rupiah-dalam-tekanan-imbas-penangkapan-maduro-oleh-as"
     },
     {
         "title": "Jelang Comeback, BTS Hadirkan Instalasi di Tangga Sejong Center Korea Selatan",
         "category": "Ameera",
-        "publish_time": "05-01-2026 04:45",
+        "publish_time": "05-01-2026 04:31",
         "news_link": "https://ameera.republika.co.id/berita/t8djvs425/jelang-comeback-bts-hadirkan-instalasi-di-tangga-sejong-center-korea-selatan"
     },
     {
         "title": "Ketika Elektronika Bertemu Inovasi, Teknik Elektro UBSI Siapkan Generasi Unggul",
         "category": "News",
-        "publish_time": "05-01-2026 04:44",
+        "publish_time": "05-01-2026 04:31",
         "news_link": "https://news.republika.co.id/berita/t8diej368/ketika-elektronika-bertemu-inovasi-teknik-elektro-ubsi-siapkan-generasi-unggul"
     },
     {
         "title": "Momen Pelajar di Aceh Tamiang Kembali ke Sekolah",
         "category": "Video",
-        "publish_time": "05-01-2026 04:44",
+        "publish_time": "05-01-2026 04:31",
         "news_link": "https://tv.republika.co.id/berita/t8dju8313/momen-pelajar-di-aceh-tamiang-kembali-ke-sekolah"
     },
     {
         "title": "Pertamina Internasional EP Perketat Pemantauan Situasi di Venezuela",
         "category": "Ekonomi",
-        "publish_time": "05-01-2026 04:43",
+        "publish_time": "05-01-2026 04:31",
         "news_link": "https://ekonomi.republika.co.id/berita/t8djsc490/pertamina-internasional-ep-perketat-pemantauan-situasi-di-venezuela"
     },
     {
         "title": "Akuntansi Bukan Cuma Hitung-hitungan, tapi Soal Kejujuran yang Dilatih Sejak Bangku Kuliah",
         "category": "News",
-        "publish_time": "05-01-2026 04:33",
+        "publish_time": "05-01-2026 04:31",
         "news_link": "https://news.republika.co.id/berita/t8di8u368/akuntansi-bukan-cuma-hitunghitungan-tapi-soal-kejujuran-yang-dilatih-sejak-bangku-kuliah"
     },
     {
         "title": "Reli Dakar, Ajang Balap Ekstrem yang Menguji Ketangguhan Manusia dan Mesin",
         "category": "Visual",
-        "publish_time": "05-01-2026 04:33",
+        "publish_time": "05-01-2026 04:31",
         "news_link": "https://visual.republika.co.id/berita/t8djc9375/reli-dakar-ajang-balap-ekstrem-yang-menguji-ketangguhan-manusia-dan-mesin"
     },
     {
         "title": "Kim Jong Un Pimpin Langsung Uji Rudal Hipersonik, Singgung Serangan AS di Venezuela",
         "category": "News",
-        "publish_time": "05-01-2026 04:33",
+        "publish_time": "05-01-2026 04:31",
         "news_link": "https://news.republika.co.id/berita/t8djc3487/kim-jong-un-pimpin-langsung-uji-rudal-hipersonik-singgung-serangan-as-di-venezuela"
     },
     {
         "title": "Menhan Venezuela Tuding Delta Force Bunuh Pasukan Penjaga Maduro",
         "category": "News",
-        "publish_time": "05-01-2026 04:33",
+        "publish_time": "05-01-2026 04:31",
         "news_link": "https://news.republika.co.id/berita/t8djbz484/menhan-venezuela-tuding-delta-force-bunuh-pasukan-penjaga-maduro"
     },
     {
@@ -176,13 +254,13 @@
     {
         "title": "BPJPH Siapkan 1,35 Juta Sertifikat Halal Gratis untuk UMK",
         "category": "Khazanah",
-        "publish_time": "05-01-2026 02:31",
+        "publish_time": "05-01-2026 03:31",
         "news_link": "https://khazanah.republika.co.id/berita/t8df3c366/bpjph-siapkan-135-juta-sertifikat-halal-gratis-untuk-umk"
     },
     {
         "title": "Indonesia Concerned US Move in Venezuela, Saying It Could Set a Dangerous Precedents",
         "category": "En",
-        "publish_time": "3 hours ago",
+        "publish_time": "4 hours ago",
         "news_link": "https://en.republika.co.id/berita/t8df2f415/indonesia-concerned-us-move-in-venezuela-saying-it-could-set-a-dangerous-precedents"
     },
     {
@@ -220,83 +298,5 @@
         "category": "Khazanah",
         "publish_time": "05-01-2026 02:31",
         "news_link": "https://khazanah.republika.co.id/berita/t8ddom451/saat-kemenag-tolitoli-hadirkan-mimpi-rumah-layak-huni"
-    },
-    {
-        "title": "Percepatan Penyaluran Beras SPHP 2026",
-        "category": "Kolom",
-        "publish_time": "05-01-2026 02:31",
-        "news_link": "https://analisis.republika.co.id/berita/t8ddkq368/percepatan-penyaluran-beras-sphp-2026"
-    },
-    {
-        "title": "Anwar Ibrahim: AS Langgar Hukum Internasional, Maduro Harus Dibebaskan",
-        "category": "Video",
-        "publish_time": "05-01-2026 02:31",
-        "news_link": "https://tv.republika.co.id/berita/t8ddcw313/anwar-ibrahim-as-langgar-hukum-internasional-maduro-harus-dibebaskan"
-    },
-    {
-        "title": "Gigitan Besar Serabi Kalibeluk Penuh Sejarah dan Nostalgia",
-        "category": "Khazanah",
-        "publish_time": "05-01-2026 02:31",
-        "news_link": "https://khazanah.republika.co.id/berita/t8dd9b451/gigitan-besar-serabi-kalibeluk-penuh-sejarah-dan-nostalgia"
-    },
-    {
-        "title": "Agresi Militer AS ke Venezuela Langgar Hukum Internasional?",
-        "category": "Kolom",
-        "publish_time": "05-01-2026 02:31",
-        "news_link": "https://analisis.republika.co.id/berita/t8dd47393/agresi-militer-as-ke-venezuela-langgar-hukum-internasional"
-    },
-    {
-        "title": "Kim Seon-ho Kembali! Netflix Rilis Trailer 'Can This Love Be Translated?' yang Bikin Baper",
-        "category": "Ameera",
-        "publish_time": "05-01-2026 02:31",
-        "news_link": "https://ameera.republika.co.id/berita/t8dd16425/kim-seonho-kembali-netflix-rilis-trailer-can-this-love-be-translated-yang-bikin-baper"
-    },
-    {
-        "title": "Brahim Diaz Lega Golnya Antarkan Maroko Bertemu Kamerun di Perempat Final Piala Afrika 2025",
-        "category": "News",
-        "publish_time": "05-01-2026 02:31",
-        "news_link": "https://news.republika.co.id/berita/t8dcwi348/brahim-diaz-lega-golnya-antarkan-maroko-bertemu-kamerun-di-perempat-final-piala-afrika-2025"
-    },
-    {
-        "title": "Kementan Pacu Rehabilitasi Irigasi Nasional",
-        "category": "Ekonomi",
-        "publish_time": "05-01-2026 02:31",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8dcsj451/kementan-pacu-rehabilitasi-irigasi-nasional"
-    },
-    {
-        "title": "Oase di Tengah Lumpur, Kala LPBI PBNU 'Menyulap' Air Sungai Jadi Harapan",
-        "category": "Khazanah",
-        "publish_time": "05-01-2026 02:31",
-        "news_link": "https://khazanah.republika.co.id/berita/t8dcm4451/oase-di-tengah-lumpur-kala-lpbi-pbnu-menyulap-air-sungai-jadi-harapan"
-    },
-    {
-        "title": "Dunia Terbelah Menanggapi Aksi AS di Venezuela",
-        "category": "News",
-        "publish_time": "05-01-2026 02:31",
-        "news_link": "https://news.republika.co.id/berita/t8dc12393/dunia-terbelah-menanggapi-aksi-as-di-venezuela"
-    },
-    {
-        "title": "Indonesia Mendongeng Hadir di Joufah, Kawasan Padat Keturunan Palestina di Amman",
-        "category": "Khazanah",
-        "publish_time": "05-01-2026 02:31",
-        "news_link": "https://khazanah.republika.co.id/berita/t8dbz0525/indonesia-mendongeng-hadir-di-joufah-kawasan-padat-keturunan-palestina-di-amman"
-    },
-    {
-        "title": "BTS Siapkan Album Baru dan Tur Dunia 2026: Ada 14 Lagu, Jadwal Konser Diumumkan 14 Januari",
-        "category": "Ameera",
-        "publish_time": "05-01-2026 01:31",
-        "news_link": "https://ameera.republika.co.id/berita/t8dc94425/bts-siapkan-album-baru-dan-tur-dunia-2026-ada-14-lagu-jadwal-konser-diumumkan-14-januari"
-    },
-    {
-        "title": "Gandeng Haji Isam, Sjafrie Pastikan Satgas Kuala Beroperasi Februari 2026",
-        "category": "News",
-        "publish_time": "05-01-2026 01:31",
-        "news_link": "https://news.republika.co.id/berita/t8dc1q484/gandeng-haji-isam-sjafrie-pastikan-satgas-kuala-beroperasi-februari-2026"
-    },
-    {
-        "title": "Kala Kacamata Yahudi Menyorot Kebenaran Alquran, Perjalanan Salaudeen Bersyahadat",
-        "category": "Khazanah",
-        "publish_time": "05-01-2026 01:31",
-        "news_link": "https://khazanah.republika.co.id/berita/t8dbtd451/kala-kacamata-yahudi-menyorot-kebenaran-alquran-perjalanan-salaudeen-bersyahadat"
     }
 ]
