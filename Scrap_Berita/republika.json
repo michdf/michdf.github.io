@@ -1,5 +1,107 @@
 [
     {
+        "title": "Kampung Haji Jadi Tanggung Jawab RI, Layanan Jamaah Dinilai akan Lebih Baik",
+        "category": "Khazanah",
+        "publish_time": "08-01-2026 10:15",
+        "news_link": "https://khazanah.republika.co.id/berita/t8jj64483/kampung-haji-jadi-tanggung-jawab-ri-layanan-jamaah-dinilai-akan-lebih-baik"
+    },
+    {
+        "title": "Bahlil Targetkan Mandatori Biodiesel B50 Berlaku Penuh Semester II 2026",
+        "category": "Ekonomi",
+        "publish_time": "08-01-2026 10:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8jiyn370/bahlil-targetkan-mandatori-biodiesel-b50-berlaku-penuh-semester-ii-2026"
+    },
+    {
+        "title": "Pendaki Hilang di Gunung Slamet tak Ditemukan Setelah Sembilan Hari Operasi SAR",
+        "category": "Rejogja",
+        "publish_time": "08-01-2026 10:08",
+        "news_link": "https://rejogja.republika.co.id/berita/t8jius430/pendaki-hilang-di-gunung-slamet-tak-ditemukan-setelah-sembilan-hari-operasi-sar"
+    },
+    {
+        "title": "Panglima TNI akan Bentuk Batalyon Olahraga",
+        "category": "News",
+        "publish_time": "08-01-2026 10:06",
+        "news_link": "https://news.republika.co.id/berita/t8jisd484/panglima-tni-akan-bentuk-batalyon-olahraga"
+    },
+    {
+        "title": "Uni Eropa Serukan Persiapan Konfrontasi Langsung dengan Trump Terkait Krisis Greenland",
+        "category": "News",
+        "publish_time": "08-01-2026 10:06",
+        "news_link": "https://news.republika.co.id/berita/t8jis3409/uni-eropa-serukan-persiapan-konfrontasi-langsung-dengan-trump-terkait-krisis-greenland"
+    },
+    {
+        "title": "KAI Group Tegaskan Jaga Keamanan Data Penumpang",
+        "category": "Ekonomi",
+        "publish_time": "08-01-2026 10:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8jimy416/kai-group-tegaskan-jaga-keamanan-data-penumpang"
+    },
+    {
+        "title": "Menteri Haji dan Umrah Cicipi Makanan Siap Saji untuk Jamaah Haji Indonesia",
+        "category": "Visual",
+        "publish_time": "08-01-2026 09:59",
+        "news_link": "https://visual.republika.co.id/berita/t8jhf3375/menteri-haji-dan-umrah-cicipi-makanan-siap-saji-untuk-jamaah-haji-indonesia"
+    },
+    {
+        "title": "Sambut Rakorwil Jateng, PSI Kota Magelang Siap Terjemahkan Arahan Nasional",
+        "category": "Rejogja",
+        "publish_time": "08-01-2026 09:57",
+        "news_link": "https://rejogja.republika.co.id/berita/t8jicc291/sambut-rakorwil-jateng-psi-kota-magelang-siap-terjemahkan-arahan-nasional"
+    },
+    {
+        "title": "Pakar Politik UMJ Tanggapi Konflik AS dan Venezuela Serta Dampaknya untuk Indonesia",
+        "category": "News",
+        "publish_time": "08-01-2026 09:56",
+        "news_link": "https://news.republika.co.id/berita/t8jib0472/pakar-politik-umj-tanggapi-konflik-as-dan-venezuela-serta-dampaknya-untuk-indonesia"
+    },
+    {
+        "title": "Mendes Lepas Bus Esports Desa, Dorong Kreativitas Digital Anak Muda Perdesaan",
+        "category": "News",
+        "publish_time": "08-01-2026 09:52",
+        "news_link": "https://news.republika.co.id/berita/t8ji4j349/mendes-lepas-bus-esports-desa-dorong-kreativitas-digital-anak-muda-perdesaan"
+    },
+    {
+        "title": "Sebanyak 4,7 Juta Kendaraan di Jateng Menunggak PKB pada 2025",
+        "category": "Rejogja",
+        "publish_time": "08-01-2026 09:51",
+        "news_link": "https://rejogja.republika.co.id/berita/t8ji2q430/sebanyak-47-juta-kendaraan-di-jateng-menunggak-pkb-pada-2025"
+    },
+    {
+        "title": "Roadmap Disusun, Bahlil Targetkan Mandatori Bioetanol Paling Lambat 2028",
+        "category": "Ekonomi",
+        "publish_time": "08-01-2026 09:45",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8jht0416/roadmap-disusun-bahlil-targetkan-mandatori-bioetanol-paling-lambat-2028"
+    },
+    {
+        "title": "Listrik Desa Dikebut, Bahlil Targetkan Indonesia Berlistrik Penuh 2030",
+        "category": "Ekonomi",
+        "publish_time": "08-01-2026 09:44",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8jhg5423/listrik-desa-dikebut-bahlil-targetkan-indonesia-berlistrik-penuh-2030"
+    },
+    {
+        "title": "Kisah Pasukan Salib Menyerbu Gereja",
+        "category": "News",
+        "publish_time": "08-01-2026 09:35",
+        "news_link": "https://news.republika.co.id/berita/t8jhb6458/kisah-pasukan-salib-menyerbu-gereja"
+    },
+    {
+        "title": "Mungkinkah Jadi Atlet Aktif Sambil Kuliah? Mahasiswi UNM Membuktikannya",
+        "category": "News",
+        "publish_time": "08-01-2026 09:33",
+        "news_link": "https://news.republika.co.id/berita/t8jh7y472/mungkinkah-jadi-atlet-aktif-sambil-kuliah-mahasiswi-unm-membuktikannya"
+    },
+    {
+        "title": "Rupiah Melemah ke Rp 16.798, Tertekan Data Ekonomi AS",
+        "category": "Ekonomi",
+        "publish_time": "08-01-2026 09:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8jh1q423/rupiah-melemah-ke-rp-16798-tertekan-data-ekonomi-as"
+    },
+    {
+        "title": "Wamenhaj: Jadi Petugas Haji untuk Layani Jamaah, bukan Nebeng ke Tanah Suci",
+        "category": "Khazanah",
+        "publish_time": "08-01-2026 09:26",
+        "news_link": "https://khazanah.republika.co.id/berita/t8jgx5458/wamenhaj-jadi-petugas-haji-untuk-layani-jamaah-bukan-nebeng-ke-tanah-suci"
+    },
+    {
         "title": "UNM Tegaskan Peran Sebagai Kampus Digital Bisnis Pertama di Indonesia",
         "category": "News",
         "publish_time": "08-01-2026 09:22",
@@ -14,289 +116,187 @@
     {
         "title": "Bank Aladin Syariah Nilai Digitalisasi Kunci Tingkatkan Inklusi",
         "category": "Ekonomi Syariah",
-        "publish_time": "08-01-2026 09:17",
+        "publish_time": "08-01-2026 09:18",
         "news_link": "https://sharia.republika.co.id/berita/t8jghm416/bank-aladin-syariah-nilai-digitalisasi-kunci-tingkatkan-inklusi"
     },
     {
         "title": "Menkeu Pastikan Aturan Baru DHE SDA Berlaku pada 2026",
         "category": "Ekonomi",
-        "publish_time": "08-01-2026 09:16",
+        "publish_time": "08-01-2026 09:18",
         "news_link": "https://ekonomi.republika.co.id/berita/t8jgf9370/menkeu-pastikan-aturan-baru-dhe-sda-berlaku-pada-2026"
     },
     {
         "title": "Ingin Jadi Profesional IT dan Bisnis Sebelum Lulus? UNM Hadir di Indonesia Favorite Campus Expo 2026",
         "category": "News",
-        "publish_time": "08-01-2026 09:12",
+        "publish_time": "08-01-2026 09:18",
         "news_link": "https://news.republika.co.id/berita/t8jg9j472/ingin-jadi-profesional-it-dan-bisnis-sebelum-lulus-unm-hadir-di-indonesia-favorite-campus-expo-2026"
     },
     {
         "title": "Buruh Kembali Demo di Patung Kuda, Minta UMP DKI Jakarta Direvisi Jadi Rp5,89 Juta",
         "category": "Visual",
-        "publish_time": "08-01-2026 09:08",
+        "publish_time": "08-01-2026 09:18",
         "news_link": "https://visual.republika.co.id/berita/t8jg1n375/buruh-kembali-demo-di-patung-kuda-minta-ump-dki-jakarta-direvisi-jadi-rp589-juta"
     },
     {
         "title": "Swasembada Ragam Pangan",
         "category": "Kolom",
-        "publish_time": "08-01-2026 09:06",
+        "publish_time": "08-01-2026 09:18",
         "news_link": "https://analisis.republika.co.id/berita/t8jfzr415/swasembada-ragam-pangan"
     },
     {
         "title": "Perdana, Darren Flecther akan Pimpin Manchester United Vs Brighton & Hove Albion",
         "category": "News",
-        "publish_time": "08-01-2026 09:05",
+        "publish_time": "08-01-2026 09:18",
         "news_link": "https://news.republika.co.id/berita/t8jfxk409/perdana-darren-flecther-akan-pimpin-manchester-united-vs-brighton-hove-albion"
     },
     {
         "title": "Bukan Sekadar Liburan, Mahasiswa UNM \u201cGo Global\u201d Sejak Kuliah",
         "category": "News",
-        "publish_time": "08-01-2026 09:04",
+        "publish_time": "08-01-2026 09:18",
         "news_link": "https://news.republika.co.id/berita/t8jfvx472/bukan-sekadar-liburan-mahasiswa-unm-go-global-sejak-kuliah"
     },
     {
         "title": "Pecahkan Rekor Dunia, Rizki Juniansyah Naik Pangkat dari Letda ke Kapten",
         "category": "News",
-        "publish_time": "08-01-2026 08:58",
+        "publish_time": "08-01-2026 09:18",
         "news_link": "https://news.republika.co.id/berita/t8jfl9484/pecahkan-rekor-dunia-rizki-juniansyah-naik-pangkat-dari-letda-ke-kapten"
     },
     {
         "title": "Bukan Sekadar Buka Booth, UBSI Anggap Pameran Pendidikan Ruang Mendengar Masa Depan Siswa",
         "category": "News",
-        "publish_time": "08-01-2026 08:57",
+        "publish_time": "08-01-2026 09:18",
         "news_link": "https://news.republika.co.id/berita/t8jfk9472/bukan-sekadar-buka-booth-ubsi-anggap-pameran-pendidikan-ruang-mendengar-masa-depan-siswa"
     },
     {
         "title": "Indonesia Jadi Presiden Dewan HAM PBB, Begini Catatan di Tanah Air",
         "category": "News",
-        "publish_time": "08-01-2026 08:57",
+        "publish_time": "08-01-2026 09:18",
         "news_link": "https://news.republika.co.id/berita/t8jfjp393/indonesia-jadi-presiden-dewan-ham-pbb-begini-catatan-di-tanah-air"
     },
     {
         "title": "Harga Emas Naik hingga Maraknya PHK Tekan Penghimpunan Zakat 2025",
         "category": "Khazanah",
-        "publish_time": "08-01-2026 08:49",
+        "publish_time": "08-01-2026 09:18",
         "news_link": "https://khazanah.republika.co.id/berita/t8jf7g423/harga-emas-naik-hingga-maraknya-phk-tekan-penghimpunan-zakat-2025"
     },
     {
         "title": "Bupati Balangan Lapor ke Wapres Gibran, Banjir Bukan Akibat Tambang dan Sawit",
         "category": "News",
-        "publish_time": "08-01-2026 08:48",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://news.republika.co.id/berita/t8jf4q487/bupati-balangan-lapor-ke-wapres-gibran-banjir-bukan-akibat-tambang-dan-sawit"
     },
     {
         "title": "Kepala BGN tak Ingin Ada Susu Impor dalam MBG",
         "category": "News",
-        "publish_time": "08-01-2026 08:46",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://news.republika.co.id/berita/t8jf1q377/kepala-bgn-tak-ingin-ada-susu-impor-dalam-mbg"
     },
     {
         "title": "Kenapa Prodi Bisnis Digital UNM Semakin Diminati?",
         "category": "News",
-        "publish_time": "08-01-2026 08:45",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://news.republika.co.id/berita/t8jf03472/kenapa-prodi-bisnis-digital-unm-semakin-diminati"
     },
     {
         "title": "Serahkan Bonus Atlet, Prabowo: Saudara Berhasil Jaga Kehormatan Indonesia",
         "category": "News",
-        "publish_time": "08-01-2026 08:43",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://news.republika.co.id/berita/t8jewu484/serahkan-bonus-atlet-prabowo-saudara-berhasil-jaga-kehormatan-indonesia"
     },
     {
         "title": "Daftar 66 Lembaga Asing yang Ditinggalkan AS dan Disetop Pembiayaannya oleh Trump",
         "category": "News",
-        "publish_time": "08-01-2026 08:40",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://news.republika.co.id/berita/t8jes9409/daftar-66-lembaga-asing-yang-ditinggalkan-as-dan-disetop-pembiayaannya-oleh-trump"
     },
     {
         "title": "Harapan Melalui Tetesan Darah untuk Penyintas Bencana dan Ramadhan",
         "category": "Video",
-        "publish_time": "08-01-2026 08:39",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://tv.republika.co.id/berita/t8jeqj418/harapan-melalui-tetesan-darah-untuk-penyintas-bencana-dan-ramadhan"
     },
     {
         "title": "Kemenhaj Pastikan Persiapan Haji di Arab Saudi Capai Progres Signifikan",
         "category": "Khazanah",
-        "publish_time": "08-01-2026 08:39",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://khazanah.republika.co.id/berita/t8jeps366/kemenhaj-pastikan-persiapan-haji-di-arab-saudi-capai-progres-signifikan"
     },
     {
         "title": "IHSG Tembus Rp 9.000, Purbaya: Itu Baru Awal",
         "category": "Ekonomi",
-        "publish_time": "08-01-2026 08:31",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://ekonomi.republika.co.id/berita/t8jec5423/ihsg-tembus-rp-9000-purbaya-itu-baru-awal"
     },
     {
         "title": "Kemenkes Pastikan Mutu MBG bagi 55,1 Juta Penerima Manfaat per Hari",
         "category": "News",
-        "publish_time": "08-01-2026 08:24",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://news.republika.co.id/berita/t8je0x393/kemenkes-pastikan-mutu-mbg-bagi-551-juta-penerima-manfaat-per-hari"
     },
     {
         "title": "Kepada Prabowo, Erick Thohir Lapor Bonus SEA Games Capai Rp 465 Miliar",
         "category": "News",
-        "publish_time": "08-01-2026 08:24",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://news.republika.co.id/berita/t8je0m484/kepada-prabowo-erick-thohir-lapor-bonus-sea-games-capai-rp-465-miliar"
     },
     {
         "title": "Israel Bunuh Anak Gaza di Luar Garis Kuning",
         "category": "News",
-        "publish_time": "08-01-2026 08:23",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://news.republika.co.id/berita/t8jdw6393/israel-bunuh-anak-gaza-di-luar-garis-kuning"
     },
     {
         "title": "Habiskan Rp100 M, Bandara Kertajati Sepi, Warga Datang untuk Live TikTok Sambil Gelar Tikar",
         "category": "Rejogja",
-        "publish_time": "08-01-2026 08:23",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://rejogja.republika.co.id/berita/t8jdqw282/habiskan-rp100-m-bandara-kertajati-sepi-warga-datang-untuk-live-tiktok-sambil-gelar-tikar"
     },
     {
         "title": "Konsumsi Listrik Per Kapita Sepanjang 2025 Alami Kenaikan Dibanding 2024",
         "category": "Ekonomi",
-        "publish_time": "08-01-2026 08:23",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://ekonomi.republika.co.id/berita/t8jdoq522/konsumsi-listrik-per-kapita-sepanjang-2025-alami-kenaikan-dibanding-2024"
     },
     {
         "title": "Bahlil: Dua Pabrik Baterai Kendaraan Listrik Siap Produksi 2026",
         "category": "Ekonomi",
-        "publish_time": "08-01-2026 08:23",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://ekonomi.republika.co.id/berita/t8jdb0423/bahlil-dua-pabrik-baterai-kendaraan-listrik-siap-produksi-2026"
     },
     {
         "title": "GulaVit Dukung Pasar Murah Artha Graha Peduli untuk Warga Medan",
         "category": "News",
-        "publish_time": "08-01-2026 08:23",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://news.republika.co.id/berita/t8jdjr472/gulavit-dukung-pasar-murah-artha-graha-peduli-untuk-warga-medan"
     },
     {
         "title": "Gedung Putih Ungkap Rencana Akuisisi Greenland Terkait Pengaruh China dan Rusia",
         "category": "News",
-        "publish_time": "08-01-2026 08:23",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://news.republika.co.id/berita/t8jd8z409/gedung-putih-ungkap-rencana-akuisisi-greenland-terkait-pengaruh-china-dan-rusia"
     },
     {
         "title": "Grok AI, Ketika Teknologi Canggih yang Jadi Ancaman Privasi Bagi Perempuan",
         "category": "Ameera",
-        "publish_time": "08-01-2026 08:23",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://ameera.republika.co.id/berita/t8jd28425/grok-ai-ketika-teknologi-canggih-yang-jadi-ancaman-privasi-bagi-perempuan"
     },
     {
         "title": "Pelaporan SPT 2025 Lewat Coretax Capai 47.395",
         "category": "Ekonomi",
-        "publish_time": "08-01-2026 08:23",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://ekonomi.republika.co.id/berita/t8jcmc370/pelaporan-spt-2025-lewat-coretax-capai-47395"
     },
     {
         "title": "Kepala BGN Syukuri Kelancaran MBG Sepanjang 2025",
         "category": "News",
-        "publish_time": "08-01-2026 07:23",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://news.republika.co.id/berita/t8jckd393/kepala-bgn-syukuri-kelancaran-mbg-sepanjang-2025"
     },
     {
         "title": "Di Hadapan Prabowo, Mentan Tegaskan Indonesia tak Impor Gula Putih 2026",
         "category": "Ekonomi",
-        "publish_time": "08-01-2026 07:23",
+        "publish_time": "08-01-2026 08:18",
         "news_link": "https://ekonomi.republika.co.id/berita/t8jck3423/di-hadapan-prabowo-mentan-tegaskan-indonesia-tak-impor-gula-putih-2026"
-    },
-    {
-        "title": "Pasokan Indonesia Tekan Harga Batubara Global",
-        "category": "Ekonomi",
-        "publish_time": "08-01-2026 07:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8jch0370/pasokan-indonesia-tekan-harga-batubara-global"
-    },
-    {
-        "title": "BGN: Presiden Berpesan Jangan Ngoyo Capai Target MBG, Utamakan Kualitas",
-        "category": "News",
-        "publish_time": "08-01-2026 07:23",
-        "news_link": "https://news.republika.co.id/berita/t8jcg5377/bgn-presiden-berpesan-jangan-ngoyo-capai-target-mbg-utamakan-kualitas"
-    },
-    {
-        "title": "BRIN: Fase Transisi Tentukan Ketangguhan Hadapi Bencana di Masa Depan",
-        "category": "Esgnow",
-        "publish_time": "08-01-2026 07:23",
-        "news_link": "https://esgnow.republika.co.id/berita/t8jbg5416/brin-fase-transisi-tentukan-ketangguhan-hadapi-bencana-di-masa-depan"
-    },
-    {
-        "title": "Reformasi Skema Pendanaan Jadi Kunci Percepat Target Bauran Energi",
-        "category": "Esgnow",
-        "publish_time": "08-01-2026 07:23",
-        "news_link": "https://esgnow.republika.co.id/berita/t8jcab522/reformasi-skema-pendanaan-jadi-kunci-percepat-target-bauran-energi"
-    },
-    {
-        "title": "Defisit APBN 2025 Bengkak ke Rp 695,1 Triliun, Pemerintah Pilih Tambah Stimulus",
-        "category": "Ekonomi",
-        "publish_time": "08-01-2026 07:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8jbxz423/defisit-apbn-2025-bengkak-ke-rp-6951-triliun-pemerintah-pilih-tambah-stimulus"
-    },
-    {
-        "title": "Runtuhnya Doktrin Monroe\u00a0dan Visi Hegemoni Xi Jinping di Asia Tenggara",
-        "category": "Kolom",
-        "publish_time": "08-01-2026 07:23",
-        "news_link": "https://analisis.republika.co.id/berita/t8jbwo393/runtuhnya-doktrin-monroedan-visi-hegemoni-xi-jinping-di-asia-tenggara"
-    },
-    {
-        "title": "Pemerintah Bidik Bauran Energi Listrik Nasional 17 Persen pada 2026",
-        "category": "Esgnow",
-        "publish_time": "08-01-2026 07:23",
-        "news_link": "https://esgnow.republika.co.id/berita/t8jb3z522/pemerintah-bidik-bauran-energi-listrik-nasional-17-persen-pada-2026"
-    },
-    {
-        "title": "BRIN Sebut 58 Ribu Bangunan Rusak Akibat Banjir di Aceh Tamiang",
-        "category": "News",
-        "publish_time": "08-01-2026 07:23",
-        "news_link": "https://news.republika.co.id/berita/t8jayh483/brin-sebut-58-ribu-bangunan-rusak-akibat-banjir-di-aceh-tamiang"
-    },
-    {
-        "title": "Panglima TNI Terima Penghargaan DSO dari Presiden Singapura",
-        "category": "News",
-        "publish_time": "08-01-2026 07:23",
-        "news_link": "https://news.republika.co.id/berita/t8jawb484/panglima-tni-terima-penghargaan-dso-dari-presiden-singapura"
-    },
-    {
-        "title": "Indef Tekankan Pentingnya Pemilahan Sampah untuk Proyek PSEL",
-        "category": "Esgnow",
-        "publish_time": "08-01-2026 07:23",
-        "news_link": "https://esgnow.republika.co.id/berita/t8jarz423/indef-tekankan-pentingnya-pemilahan-sampah-untuk-proyek-psel"
-    },
-    {
-        "title": "Kisah Ayah Rabiah al-Adawiyah Mimpi Bertemu Rasulullah yang Menagih Shalawat ke Gubernur",
-        "category": "Khazanah",
-        "publish_time": "08-01-2026 07:23",
-        "news_link": "https://khazanah.republika.co.id/berita/t8jamd483/kisah-ayah-rabiah-aladawiyah-mimpi-bertemu-rasulullah-yang-menagih-shalawat-ke-gubernur"
-    },
-    {
-        "title": "Program B40 Hemat Devisa Rp 130,21 Triliun Sepanjang 2025",
-        "category": "Ekonomi",
-        "publish_time": "08-01-2026 07:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8j9pb370/program-b40-hemat-devisa-rp-13021-triliun-sepanjang-2025"
-    },
-    {
-        "title": "Mengapa Jurist Tan Begitu Kuat di Kemendikbudristek? Ini Penjelasan Pakar Hukum",
-        "category": "News",
-        "publish_time": "08-01-2026 07:23",
-        "news_link": "https://news.republika.co.id/berita/t8jaf7377/mengapa-jurist-tan-begitu-kuat-di-kemendikbudristek-ini-penjelasan-pakar-hukum"
-    },
-    {
-        "title": "Tinggal Dua Hari, Pelunasan Jamaah Haji Reguler dan Khusus Mendekati 100 Persen",
-        "category": "Khazanah",
-        "publish_time": "08-01-2026 07:23",
-        "news_link": "https://khazanah.republika.co.id/berita/t8jab0483/tinggal-dua-hari-pelunasan-jamaah-haji-reguler-dan-khusus-mendekati-100-persen"
-    },
-    {
-        "title": "Bruno Mars Rilis Album Baru The Romantic 27 Februari 2026",
-        "category": "Ameera",
-        "publish_time": "08-01-2026 06:23",
-        "news_link": "https://ameera.republika.co.id/berita/t8j9kc425/bruno-mars-rilis-album-baru-the-romantic-27-februari-2026"
-    },
-    {
-        "title": "Bahlil Umumkan Lifting Migas Tercapai Pertama Kali dalam 10 Tahun",
-        "category": "Ekonomi",
-        "publish_time": "08-01-2026 06:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8j9gs423/bahlil-umumkan-lifting-migas-tercapai-pertama-kali-dalam-10-tahun"
-    },
-    {
-        "title": "Warner Bros Tolak Tawaran Paramount, Pilih Kesepakatan dengan Netflix",
-        "category": "Ekonomi",
-        "publish_time": "08-01-2026 06:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8j95b423/warner-bros-tolak-tawaran-paramount-pilih-kesepakatan-dengan-netflix"
     }
 ]
