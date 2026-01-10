@@ -1,5 +1,35 @@
 [
     {
+        "title": "Presiden Kolombia akan Temui Donald Trump di Washington",
+        "category": "News",
+        "publish_time": "10 January 2026, 18:07",
+        "news_link": "https://news.republika.co.id/berita/t8navs409/presiden-kolombia-akan-temui-donald-trump-di-washington"
+    },
+    {
+        "title": "Menkeu Purbaya Ungkap Presiden Prabowo Setuju TKD Aceh tak Dipotong",
+        "category": "News",
+        "publish_time": "10 January 2026, 18:02",
+        "news_link": "https://news.republika.co.id/berita/t8nann484/menkeu-purbaya-ungkap-presiden-prabowo-setuju-tkd-aceh-tak-dipotong"
+    },
+    {
+        "title": "ITDC Raih Dua Penghargaan Bergengsi pada Malam Anugerah Tri Hita Karana (THK) Tourism Awards 2026",
+        "category": "Ekonomi",
+        "publish_time": "10 January 2026, 17:38",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8n9kp472/itdc-raih-dua-penghargaan-bergengsi-pada-malam-anugerah-tri-hita-karana-thk-tourism-awards-2026"
+    },
+    {
+        "title": "Nusantara Standard Test 2026 Perkuat Seleksi Nasional Angkatan Kedua SMA Kemala Taruna Bhayangkara",
+        "category": "News",
+        "publish_time": "10 January 2026, 17:25",
+        "news_link": "https://news.republika.co.id/berita/t8n8y3472/nusantara-standard-test-2026-perkuat-seleksi-nasional-angkatan-kedua-sma-kemala-taruna-bhayangkara"
+    },
+    {
+        "title": "Korut Tuding Korsel Terbangkan Drone Pengintai ke Wilayahnya",
+        "category": "News",
+        "publish_time": "10 January 2026, 17:19",
+        "news_link": "https://news.republika.co.id/berita/t8n8p0484/korut-tuding-korsel-terbangkan-drone-pengintai-ke-wilayahnya"
+    },
+    {
         "title": "Delapan Orang dan Ratusan Juta Diamankan KPK Terkait OTT Hari Ini",
         "category": "News",
         "publish_time": "10 January 2026, 17:12",
@@ -162,10 +192,10 @@
         "news_link": "https://news.republika.co.id/berita/t8mqa3430/ratusan-ribu-warga-masih-mengungsi-pascabanjir-dan-longsor-di-sumatra"
     },
     {
-        "title": "OTT Perdana 2026, KPK Tangkap Pegawai Pajak",
+        "title": "OTT Perdana 2026, KPK Tangkap Sejumlah Pegawai Pajak",
         "category": "News",
         "publish_time": "10 January 2026, 10:46",
-        "news_link": "https://news.republika.co.id/berita/t8mqht409/ott-perdana-2026-kpk-tangkap-pegawai-pajak"
+        "news_link": "https://news.republika.co.id/berita/t8mqht409/ott-perdana-2026-kpk-tangkap-sejumlah-pegawai-pajak"
     },
     {
         "title": "Harga Emas Antam Hari Ini Tembus Rp 2,6 Juta per Gram",
@@ -268,35 +298,5 @@
         "category": "Khazanah",
         "publish_time": "10 January 2026, 07:57",
         "news_link": "https://khazanah.republika.co.id/berita/t8min3451/pengusaha-paparkan-peran-strategis-pemuda-menuju-indonesia-masa-depan"
-    },
-    {
-        "title": "OJK Setujui Konsorsium Asuransi Kredit untuk Fintech Pinjol",
-        "category": "Ekonomi",
-        "publish_time": "10 January 2026, 07:35",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8mgwe370/ojk-setujui-konsorsium-asuransi-kredit-untuk-fintech-pinjol"
-    },
-    {
-        "title": "Tangsel Buang Sampah ke Cileungsi, Bayar Rp90 Juta Per Hari",
-        "category": "News",
-        "publish_time": "10 January 2026, 07:35",
-        "news_link": "https://news.republika.co.id/berita/t8mem2409/tangsel-buang-sampah-ke-cileungsi-bayar-rp90-juta-per-hari"
-    },
-    {
-        "title": "Jadwal Pekan Ke-20 Serie A Liga Italia",
-        "category": "News",
-        "publish_time": "10 January 2026, 07:19",
-        "news_link": "https://news.republika.co.id/berita/t8me9y409/jadwal-pekan-ke20-serie-a-liga-italia"
-    },
-    {
-        "title": "Alasan KPK Tetapkan Gus Yaqut dan Gus Alex Jadi Tersangka Kasus Kuota Haji",
-        "category": "Khazanah",
-        "publish_time": "10 January 2026, 07:00",
-        "news_link": "https://khazanah.republika.co.id/berita/t8md0n430/alasan-kpk-tetapkan-gus-yaqut-dan-gus-alex-jadi-tersangka-kasus-kuota-haji"
-    },
-    {
-        "title": "KPK Periksa Tiga Jaksa untuk Kasus Bupati Bekasi Nonaktif Ade Kuswara Kunang",
-        "category": "News",
-        "publish_time": "10 January 2026, 06:44",
-        "news_link": "https://news.republika.co.id/berita/t8me0d409/kpk-periksa-tiga-jaksa-untuk-kasus-bupati-bekasi-nonaktif-ade-kuswara-kunang"
     }
 ]
