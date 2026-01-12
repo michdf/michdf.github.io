@@ -1,92 +1,164 @@
 [
     {
+        "title": "Rumah Terendam, Ratusan Warga dari 63 RT di Jakarta Mengungsi",
+        "category": "News",
+        "publish_time": "12-01-2026 15:05",
+        "news_link": "https://news.republika.co.id/berita/t8rb80483/rumah-terendam-ratusan-warga-dari-63-rt-di-jakarta-mengungsi"
+    },
+    {
+        "title": "Kadek Arel Jadi Anggota Exco APPI",
+        "category": "News",
+        "publish_time": "12-01-2026 15:03",
+        "news_link": "https://news.republika.co.id/berita/t8r8g6348/kadek-arel-jadi-anggota-exco-appi"
+    },
+    {
+        "title": "Pesan Haru Danielle Setelah Dikeluarkan dari NewJeans: Ini Bukan Akhir",
+        "category": "Ameera",
+        "publish_time": "12-01-2026 15:02",
+        "news_link": "https://ameera.republika.co.id/berita/t8rb3t425/pesan-haru-danielle-setelah-dikeluarkan-dari-newjeans-ini-bukan-akhir"
+    },
+    {
+        "title": "ICEx Resmi Hadir, Indonesia Perkuat Pengawasan dan Tata Kelola Pasar Kripto",
+        "category": "Ekonomi",
+        "publish_time": "12-01-2026 14:53",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8rant349/icex-resmi-hadir-indonesia-perkuat-pengawasan-dan-tata-kelola-pasar-kripto"
+    },
+    {
+        "title": "BNI Perkuat Dukungan Program Sekolah Rakyat, Dorong Pemerataan Pendidikan",
+        "category": "Ekonomi",
+        "publish_time": "12-01-2026 14:49",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8rahz368/bni-perkuat-dukungan-program-sekolah-rakyat-dorong-pemerataan-pendidikan"
+    },
+    {
+        "title": "Usai Malaysia Open, Pebulu Tangkis Indonesia Berlaga di India Open",
+        "category": "News",
+        "publish_time": "12-01-2026 14:47",
+        "news_link": "https://news.republika.co.id/berita/t8raer348/usai-malaysia-open-pebulu-tangkis-indonesia-berlaga-di-india-open"
+    },
+    {
+        "title": "Nadya Arina Harap Film Penerbangan Terakhir Bikin Perempuan Waspadai Love Bombing",
+        "category": "Ameera",
+        "publish_time": "12-01-2026 14:46",
+        "news_link": "https://ameera.republika.co.id/berita/t8radd425/nadya-arina-harap-film-penerbangan-terakhir-bikin-perempuan-waspadai-love-bombing"
+    },
+    {
+        "title": "Menhan Sjafrie Ungkap Isi Pembicaraan Saat Bertemu Erdogan, Ini yang Dibahas",
+        "category": "News",
+        "publish_time": "12-01-2026 14:45",
+        "news_link": "https://news.republika.co.id/berita/t8rac1416/menhan-sjafrie-ungkap-isi-pembicaraan-saat-bertemu-erdogan-ini-yang-dibahas"
+    },
+    {
+        "title": "PNM Hadirkan Potret Perempuan Lentera Kehidupan di Stasiun MRT Bundaran HI",
+        "category": "Ekonomi",
+        "publish_time": "12-01-2026 14:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8ra2f368/pnm-hadirkan-potret-perempuan-lentera-kehidupan-di-stasiun-mrt-bundaran-hi"
+    },
+    {
+        "title": "Jangan Cuma Jalan Kaki, Ini Alasan Tubuh Tetap Butuh Latihan Beban",
+        "category": "Ameera",
+        "publish_time": "12-01-2026 14:34",
+        "news_link": "https://ameera.republika.co.id/berita/t8r9th425/jangan-cuma-jalan-kaki-ini-alasan-tubuh-tetap-butuh-latihan-beban"
+    },
+    {
+        "title": "Periksa Katib Syuriyah PWNU DKI, KPK Dalami Inisiatif dari Travel Terkait Pembagian Kuota Tambahan",
+        "category": "Khazanah",
+        "publish_time": "12-01-2026 14:29",
+        "news_link": "https://khazanah.republika.co.id/berita/t8r9kd483/periksa-katib-syuriyah-pwnu-dki-kpk-dalami-inisiatif-dari-travel-terkait-pembagian-kuota-tambahan"
+    },
+    {
+        "title": "KPK Dalami Dugaan Aliran Uang di Kemenag terkait Kasus Kuota Haji",
+        "category": "News",
+        "publish_time": "12-01-2026 14:23",
+        "news_link": "https://news.republika.co.id/berita/t8r9a5487/kpk-dalami-dugaan-aliran-uang-di-kemenag-terkait-kasus-kuota-haji"
+    },
+    {
         "title": "Menanti Ketegasan Regulasi Limbah Plastik di Indonesia",
         "category": "News",
-        "publish_time": "12-01-2026 14:13",
+        "publish_time": "12-01-2026 14:20",
         "news_link": "https://news.republika.co.id/berita/t8r8to1315000/menanti-ketegasan-regulasi-limbah-plastik-di-indonesia"
     },
     {
         "title": "Kuota Naik 12 Persen, Jateng akan Berangkatkan 34.122 Jamaah Haji Tahun Ini",
         "category": "Rejogja",
-        "publish_time": "12-01-2026 14:13",
+        "publish_time": "12-01-2026 14:20",
         "news_link": "https://rejogja.republika.co.id/berita/t8r8u9282/kuota-naik-12-persen-jateng-akan-berangkatkan-34122-jamaah-haji-tahun-ini"
     },
     {
         "title": "President Prabowo: Government to Start $6 Billion Downstream Project Soon",
         "category": "En",
-        "publish_time": "12 minutes ago",
+        "publish_time": "1 hours ago",
         "news_link": "https://en.republika.co.id/berita/t8r8me415/president-prabowo-government-to-start-6-billion-downstream-project-soon"
     },
     {
         "title": "Pemadaman Internet di Teheran Dilanjutkan",
         "category": "Khazanah",
-        "publish_time": "12-01-2026 14:05",
+        "publish_time": "12-01-2026 14:20",
         "news_link": "https://khazanah.republika.co.id/berita/t8r5t5430/pemadaman-internet-di-teheran-dilanjutkan"
     },
     {
         "title": "Prabowo: Pemerintah Segera Mulai Proyek Hilirisasi 6 Miliar Dolar AS",
         "category": "Ekonomi",
-        "publish_time": "12-01-2026 14:05",
+        "publish_time": "12-01-2026 14:20",
         "news_link": "https://ekonomi.republika.co.id/berita/t8r8h8370/prabowo-pemerintah-segera-mulai-proyek-hilirisasi-6-miliar-dolar-as"
     },
     {
         "title": "KPK Sita Dokumen dari Tersangka Kasus Pengolahan Karet Kementan",
         "category": "News",
-        "publish_time": "12-01-2026 13:59",
+        "publish_time": "12-01-2026 14:20",
         "news_link": "https://news.republika.co.id/berita/t8r877487/kpk-sita-dokumen-dari-tersangka-kasus-pengolahan-karet-kementan"
     },
     {
         "title": "Xabi Alonso Ambil Pelajaran Kekalahan Real Madrid dari Barcelona di Piala Super Spanyol",
         "category": "News",
-        "publish_time": "12-01-2026 13:57",
+        "publish_time": "12-01-2026 14:20",
         "news_link": "https://news.republika.co.id/berita/t8r83s348/xabi-alonso-ambil-pelajaran-kekalahan-real-madrid-dari-barcelona-di-piala-super-spanyol"
     },
     {
         "title": "Sulit Dipulangkan, Jenazah PMI Asal Bandung Barat yang Jatuh dari Gedung Dikebumikan di Arab Saudi",
         "category": "Rejabar",
-        "publish_time": "12-01-2026 13:54",
+        "publish_time": "12-01-2026 14:20",
         "news_link": "https://rejabar.republika.co.id/berita/t8r7zr282/sulit-dipulangkan-jenazah-pmi-asal-bandung-barat-yang-jatuh-dari-gedung-dikebumikan-di-arab-saudi"
     },
     {
         "title": "Film Penerbangan Terakhir Ajak Perempuan Sadar Bahaya Love Bombing",
         "category": "Ameera",
-        "publish_time": "12-01-2026 13:53",
+        "publish_time": "12-01-2026 14:20",
         "news_link": "https://ameera.republika.co.id/berita/t8r7x0425/film-penerbangan-terakhir-ajak-perempuan-sadar-bahaya-love-bombing"
     },
     {
         "title": "Kericuhan Berdarah Dinilai Ditungangi Agar AS Menyerang, Menlu Iran: Kami Siap Perang",
         "category": "News",
-        "publish_time": "12-01-2026 13:53",
+        "publish_time": "12-01-2026 14:20",
         "news_link": "https://news.republika.co.id/berita/t8r7wk377/kericuhan-berdarah-dinilai-ditungangi-agar-as-menyerang-menlu-iran-kami-siap-perang"
     },
     {
         "title": "Indonesia Monitors Demonstrations in Iran and Prepares Contingency Plans for Indonesian Citizens",
         "category": "En",
-        "publish_time": "36 minutes ago",
+        "publish_time": "2 hours ago",
         "news_link": "https://en.republika.co.id/berita/t8r7ht415/indonesia-monitors-demonstrations-in-iran-and-prepares-contingency-plans-for-indonesian-citizens"
     },
     {
         "title": "Kondisi Cuaca di Bandung Begitu Dingin, Ini Penjelasan BMKG",
         "category": "News",
-        "publish_time": "12-01-2026 13:34",
+        "publish_time": "12-01-2026 13:20",
         "news_link": "https://news.republika.co.id/berita/t8r714377/kondisi-cuaca-di-bandung-begitu-dingin-ini-penjelasan-bmkg"
     },
     {
         "title": "TDN dan Gojek Luncurkan Program Arisan Daging Rendang Jelang Ramadhan",
         "category": "Ekonomi",
-        "publish_time": "12-01-2026 13:31",
+        "publish_time": "12-01-2026 13:20",
         "news_link": "https://ekonomi.republika.co.id/berita/t8r6x1370/tdn-dan-gojek-luncurkan-program-arisan-daging-rendang-jelang-ramadhan"
     },
     {
         "title": "SMPN 1 Sindangkerta Nyaris Dibongkar demi Koperasi Merah Putih, Pemda Tegaskan tak Digusur",
         "category": "Rejabar",
-        "publish_time": "12-01-2026 13:26",
+        "publish_time": "12-01-2026 13:20",
         "news_link": "https://rejabar.republika.co.id/berita/t8r6ox282/smpn-1-sindangkerta-nyaris-dibongkar-demi-koperasi-merah-putih-pemda-tegaskan-tak-digusur"
     },
     {
         "title": "Soroti Mark Up Anggaran, Prabowo: Malu Kita dengan Bangsa Lain",
         "category": "News",
-        "publish_time": "12-01-2026 13:25",
+        "publish_time": "12-01-2026 13:20",
         "news_link": "https://news.republika.co.id/berita/t8r6n5377/soroti-mark-up-anggaran-prabowo-malu-kita-dengan-bangsa-lain"
     },
     {
@@ -226,77 +298,5 @@
         "category": "News",
         "publish_time": "12-01-2026 12:20",
         "news_link": "https://news.republika.co.id/berita/t8r2bu409/unggah-foto-trump-di-peti-mati-firaun-ayatollah-khamenei-tiran-akan-jatuh"
-    },
-    {
-        "title": "Resmikan Waduk Batu Licin, Pramono: Untuk Atasi Banjir di Cilangkap Jakarta Timur",
-        "category": "Rejakarta",
-        "publish_time": "12-01-2026 12:20",
-        "news_link": "https://republika.co.id/berita//t8r2az430/resmikan-waduk-batu-licin-pramono-untuk-atasi-banjir-di-cilangkap-jakarta-timur"
-    },
-    {
-        "title": "Indonesia Women\u2019s Open 2026 Hadir dengan Hadiah Fantastis dan Dukungan Internasional",
-        "category": "News",
-        "publish_time": "12-01-2026 12:20",
-        "news_link": "https://news.republika.co.id/berita/t8r2af456/indonesia-womens-open-2026-hadir-dengan-hadiah-fantastis-dan-dukungan-internasional"
-    },
-    {
-        "title": "Miskin\u00a0atau\u00a0Kaya yang\u00a0Lebih\u00a0Utama?\u00a0Ini\u00a0Jawaban\u00a0Al-Habib Abdullah bin Alawi Al-Haddad",
-        "category": "Khazanah",
-        "publish_time": "12-01-2026 11:20",
-        "news_link": "https://khazanah.republika.co.id/berita/t8r22n430/miskinataukaya-yanglebihutamainijawabanalhabib-abdullah-bin-alawi-alhaddad"
-    },
-    {
-        "title": "Dokter: Bermain Ponsel di Toilet Berisiko Terkena Wasir",
-        "category": "Ameera",
-        "publish_time": "12-01-2026 11:20",
-        "news_link": "https://ameera.republika.co.id/berita/t8r1zl348/dokter-bermain-ponsel-di-toilet-berisiko-terkena-wasir"
-    },
-    {
-        "title": "Kisah Orang Terakhir yang Masuk Surga",
-        "category": "Khazanah",
-        "publish_time": "12-01-2026 11:20",
-        "news_link": "https://khazanah.republika.co.id/berita/t8qy4m458/kisah-orang-terakhir-yang-masuk-surga"
-    },
-    {
-        "title": "Seberapa Lama Manusia Berada di Alam Kubur? Ini Penjelasan Alquran",
-        "category": "Khazanah",
-        "publish_time": "12-01-2026 11:20",
-        "news_link": "https://khazanah.republika.co.id/berita/t8r1j6430/seberapa-lama-manusia-berada-di-alam-kubur-ini-penjelasan-alquran"
-    },
-    {
-        "title": "Penjualan Tiket AFC Futsal Asian Cup 2026 Resmi Dibuka, Harga Mulai Rp 75 Ribu",
-        "category": "News",
-        "publish_time": "12-01-2026 11:20",
-        "news_link": "https://news.republika.co.id/berita/t8r100348/penjualan-tiket-afc-futsal-asian-cup-2026-resmi-dibuka-harga-mulai-rp-75-ribu"
-    },
-    {
-        "title": "Hunian Baru Warga TPU Kebon Nanas",
-        "category": "Visual",
-        "publish_time": "12-01-2026 11:20",
-        "news_link": "https://visual.republika.co.id/berita/t8qz6j375/hunian-baru-warga-tpu-kebon-nanas"
-    },
-    {
-        "title": "Kuota Naik 12 Persen, Jateng akan Berangkatkan 34.122 Jamaah Haji Tahun Ini",
-        "category": "Khazanah",
-        "publish_time": "12-01-2026 11:20",
-        "news_link": "https://khazanah.republika.co.id/berita/t8r19b430/kuota-naik-12-persen-jateng-akan-berangkatkan-34122-jamaah-haji-tahun-ini"
-    },
-    {
-        "title": "2 Jenis Orang Munafik Jadi Sorotan dalam Alquran",
-        "category": "Khazanah",
-        "publish_time": "12-01-2026 11:20",
-        "news_link": "https://khazanah.republika.co.id/berita/t8qxt9458/2-jenis-orang-munafik-jadi-sorotan-dalam-alquran"
-    },
-    {
-        "title": "CdM Bayu Apresiasi Dukungan Seluruh Pihak di Balik Prestasi Indonesia pada SEA Games 2025",
-        "category": "News",
-        "publish_time": "12-01-2026 11:20",
-        "news_link": "https://news.republika.co.id/berita/t8r0ez348/cdm-bayu-apresiasi-dukungan-seluruh-pihak-di-balik-prestasi-indonesia-pada-sea-games-2025"
-    },
-    {
-        "title": "Sosok Kontroversial Erich von Daniken Wafat, Percaya Bahwa Alien Membangun Piramida Mesir, Inca dll",
-        "category": "News",
-        "publish_time": "12-01-2026 11:20",
-        "news_link": "https://news.republika.co.id/berita/t8r0q4475/sosok-kontroversial-erich-von-daniken-wafat-percaya-bahwa-alien-membangun-piramida-mesir-inca-dll"
     }
 ]
