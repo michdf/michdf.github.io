@@ -1,86 +1,176 @@
 [
     {
+        "title": "Memaknai Haji sebagai Peluang",
+        "category": "Khazanah",
+        "publish_time": "12-01-2026 09:25",
+        "news_link": "https://khazanah.republika.co.id/berita/t8qvhq458/memaknai-haji-sebagai-peluang"
+    },
+    {
+        "title": "Cara Imam Ghazali Melukiskan Siksa Kubur yang Mengerikan",
+        "category": "Khazanah",
+        "publish_time": "12-01-2026 09:23",
+        "news_link": "https://khazanah.republika.co.id/berita/t8qvdw483/cara-imam-ghazali-melukiskan-siksa-kubur-yang-mengerikan"
+    },
+    {
+        "title": "Bahlil: Impor Solar untuk SPBU Swasta Dihentikan Mulai 2026",
+        "category": "Ekonomi",
+        "publish_time": "12-01-2026 09:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8qv7o370/bahlil-impor-solar-untuk-spbu-swasta-dihentikan-mulai-2026"
+    },
+    {
+        "title": "Prabowo Targetkan Kemiskinan Ekstrem Nol pada 2029",
+        "category": "Ekonomi",
+        "publish_time": "12-01-2026 09:15",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8qv0u370/prabowo-targetkan-kemiskinan-ekstrem-nol-pada-2029"
+    },
+    {
+        "title": "Di Bawah Guyuran Hujan, Ribuan Petugas Haji Dilatih Baris Berbaris",
+        "category": "Khazanah",
+        "publish_time": "12-01-2026 09:01",
+        "news_link": "https://khazanah.republika.co.id/berita/t8quej483/di-bawah-guyuran-hujan-ribuan-petugas-haji-dilatih-baris-berbaris"
+    },
+    {
+        "title": "Rusaknya Wilayah Hulu Dituding Jadi Biang Kerok Banjir Cirebon, Ini Penjelasan Pemkab Kuningan",
+        "category": "Rejabar",
+        "publish_time": "12-01-2026 08:56",
+        "news_link": "https://rejabar.republika.co.id/berita/t8qu52487/rusaknya-wilayah-hulu-dituding-jadi-biang-kerok-banjir-cirebon-ini-penjelasan-pemkab-kuningan"
+    },
+    {
+        "title": "Nadiem: Saya tak Terima  Rp 809 Miliar, Itu Kekeliruan Investigasi",
+        "category": "News",
+        "publish_time": "12-01-2026 08:51",
+        "news_link": "https://news.republika.co.id/berita/t8qtwm377/nadiem-saya-tak-terima-rp-809-miliar-itu-kekeliruan-investigasi"
+    },
+    {
+        "title": "Gelondongan Kayu Jadi Barang Bukti Illegal Logging, Patroli di Gunung Ciremai Ditingkatkan",
+        "category": "Rejabar",
+        "publish_time": "12-01-2026 08:43",
+        "news_link": "https://rejabar.republika.co.id/berita/t8qtjq487/gelondongan-kayu-jadi-barang-bukti-illegal-logging-patroli-di-gunung-ciremai-ditingkatkan"
+    },
+    {
+        "title": "Wagner Moura, Aktor Pertama Brasil yang Raih Piala Golden Globes",
+        "category": "Ameera",
+        "publish_time": "12-01-2026 08:40",
+        "news_link": "https://ameera.republika.co.id/berita/t8qten425/wagner-moura-aktor-pertama-brasil-yang-raih-piala-golden-globes"
+    },
+    {
+        "title": "RI Setop Impor Solar, RDMP Balikpapan Jadi Andalan",
+        "category": "Ekonomi",
+        "publish_time": "12-01-2026 08:38",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8qtc8416/ri-setop-impor-solar-rdmp-balikpapan-jadi-andalan"
+    },
+    {
+        "title": "Lima Kebiasaan Harian yang Diam-Diam Memicu Hipertensi",
+        "category": "Ameera",
+        "publish_time": "12-01-2026 08:29",
+        "news_link": "https://ameera.republika.co.id/berita/t8qsws425/lima-kebiasaan-harian-yang-diamdiam-memicu-hipertensi"
+    },
+    {
+        "title": "Manajemen Persib Sayangkan Adanya Pesan Kematian untuk Tom Haye",
+        "category": "News",
+        "publish_time": "12-01-2026 08:28",
+        "news_link": "https://news.republika.co.id/berita/t8qsue348/manajemen-persib-sayangkan-adanya-pesan-kematian-untuk-tom-haye"
+    },
+    {
+        "title": "Mengenal Reza Pahlavi, Putera Mahkota Shah Terakhir yang Memprovokasi Kerusuhan di Iran",
+        "category": "Khazanah",
+        "publish_time": "12-01-2026 08:27",
+        "news_link": "https://khazanah.republika.co.id/berita/t8qsth483/mengenal-reza-pahlavi-putera-mahkota-shah-terakhir-yang-memprovokasi-kerusuhan-di-iran"
+    },
+    {
+        "title": "Investasi dan Lapangan Kerja Jadi Kunci Dongkrak Pertumbuhan Ekonomi",
+        "category": "Ekonomi",
+        "publish_time": "12-01-2026 08:27",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8qst8416/investasi-dan-lapangan-kerja-jadi-kunci-dongkrak-pertumbuhan-ekonomi"
+    },
+    {
+        "title": "Terungkap: Israel Rencanakan Kembali Serang Gaza pada Maret",
+        "category": "News",
+        "publish_time": "12-01-2026 08:27",
+        "news_link": "https://news.republika.co.id/berita/t8qsrn393/terungkap-israel-rencanakan-kembali-serang-gaza-pada-maret"
+    },
+    {
         "title": "Ular King Kobra Melingkar di Kolong Meja, Warga Lapor Damkar",
         "category": "Rejabar",
-        "publish_time": "12-01-2026 08:24",
+        "publish_time": "12-01-2026 08:27",
         "news_link": "https://rejabar.republika.co.id/berita/t8qsp2487/ular-king-kobra-melingkar-di-kolong-meja-warga-lapor-damkar"
     },
     {
         "title": "Perkuat UMKM, BSI Ekspansi Lapak Syariah ke Pasar Tradisional",
         "category": "Ekonomi Syariah",
-        "publish_time": "12-01-2026 08:21",
+        "publish_time": "12-01-2026 08:27",
         "news_link": "https://sharia.republika.co.id/berita/t8qsks370/perkuat-umkm-bsi-ekspansi-lapak-syariah-ke-pasar-tradisional"
     },
     {
         "title": "Harga Emas Melonjak 67 Persen Sepanjang 2025",
         "category": "Ekonomi",
-        "publish_time": "12-01-2026 08:12",
+        "publish_time": "12-01-2026 08:27",
         "news_link": "https://ekonomi.republika.co.id/berita/t8qs4v370/harga-emas-melonjak-67-persen-sepanjang-2025"
     },
     {
         "title": "Nadiem Kecewa dengan Putusan Hakim, Sampaikan Pesan dari Google",
         "category": "News",
-        "publish_time": "12-01-2026 08:09",
+        "publish_time": "12-01-2026 08:27",
         "news_link": "https://news.republika.co.id/berita/t8qs15377/nadiem-kecewa-dengan-putusan-hakim-sampaikan-pesan-dari-google"
     },
     {
         "title": "Tips Menjaga Daya Tahan Tubuh Saat Pancaroba Agar Terhindar dari Super Flu",
         "category": "Ameera",
-        "publish_time": "12-01-2026 08:08",
+        "publish_time": "12-01-2026 08:27",
         "news_link": "https://ameera.republika.co.id/berita/t8qrza425/tips-menjaga-daya-tahan-tubuh-saat-pancaroba-agar-terhindar-dari-super-flu"
     },
     {
         "title": "Wilayah Terdampak di Jakarta Terus Bertambah, 28 RT dan 46 Ruas Jalan Kebanjiran",
         "category": "News",
-        "publish_time": "12-01-2026 08:08",
+        "publish_time": "12-01-2026 08:27",
         "news_link": "https://news.republika.co.id/berita/t8qryu487/wilayah-terdampak-di-jakarta-terus-bertambah-28-rt-dan-46-ruas-jalan-kebanjiran"
     },
     {
         "title": "Hampir Setahun tak Cair, Eks Buruh Sritex Tagih Pesangon dan THR",
         "category": "Ekonomi",
-        "publish_time": "12-01-2026 08:08",
+        "publish_time": "12-01-2026 08:27",
         "news_link": "https://ekonomi.republika.co.id/berita/t8qrxv416/hampir-setahun-tak-cair-eks-buruh-sritex-tagih-pesangon-dan-thr"
     },
     {
         "title": "Laga Kedua Jadi Pelajaran Berharga, Bandung bjb Tandamata Siapkan Perbaikan",
         "category": "News",
-        "publish_time": "12-01-2026 08:01",
+        "publish_time": "12-01-2026 08:27",
         "news_link": "https://news.republika.co.id/berita/t8qrnc368/laga-kedua-jadi-pelajaran-berharga-bandung-bjb-tandamata-siapkan-perbaikan"
     },
     {
         "title": "Perbanyak Jumlah Dokter, Prabowo: Negara akan Biayai Kampus Kedokteran",
         "category": "News",
-        "publish_time": "12-01-2026 07:57",
+        "publish_time": "12-01-2026 08:27",
         "news_link": "https://news.republika.co.id/berita/t8qrgp377/perbanyak-jumlah-dokter-prabowo-negara-akan-biayai-kampus-kedokteran"
     },
     {
         "title": "Pembongkaran Tiang Monorel Diklaim Kurangi 18 Persen Kemacetan di Jakarta",
         "category": "News",
-        "publish_time": "12-01-2026 07:52",
+        "publish_time": "12-01-2026 07:27",
         "news_link": "https://news.republika.co.id/berita/t8qr8i487/pembongkaran-tiang-monorel-diklaim-kurangi-18-persen-kemacetan-di-jakarta"
     },
     {
         "title": "Iklim Menghangat, Resor Ski di Jepang Berguguran",
         "category": "Esgnow",
-        "publish_time": "12-01-2026 07:51",
+        "publish_time": "12-01-2026 07:27",
         "news_link": "https://esgnow.republika.co.id/berita/t8qr6y416/iklim-menghangat-resor-ski-di-jepang-berguguran"
     },
     {
         "title": "Hujan Seharian di Jakarta, Enam RT dan Empat Ruas Jalan Terendam Banjir, Berikut Rinciannya",
         "category": "News",
-        "publish_time": "12-01-2026 07:37",
+        "publish_time": "12-01-2026 07:27",
         "news_link": "https://news.republika.co.id/berita/t8qqj6483/hujan-seharian-di-jakarta-enam-rt-dan-empat-ruas-jalan-terendam-banjir-berikut-rinciannya"
     },
     {
         "title": "4 Tahun Cyber University Jadi Pelopor Fintech dalam Mencetak Generasi Pemimpin Perubahan Digital",
         "category": "News",
-        "publish_time": "12-01-2026 07:34",
+        "publish_time": "12-01-2026 07:27",
         "news_link": "https://news.republika.co.id/berita/t8qqdo472/4-tahun-cyber-university-jadi-pelopor-fintech-dalam-mencetak-generasi-pemimpin-perubahan-digital"
     },
     {
         "title": "Pelajar Aceh Tamiang Belajar di Tenda Darurat Pascabencana Banjir",
         "category": "Visual",
-        "publish_time": "12-01-2026 07:29",
+        "publish_time": "12-01-2026 07:27",
         "news_link": "https://visual.republika.co.id/berita/t8qnfg375/pelajar-aceh-tamiang-belajar-di-tenda-darurat-pascabencana-banjir"
     },
     {
@@ -92,211 +182,121 @@
     {
         "title": "Di Antara Mesin Pabrik dan Mimpi Mahasiswa, UBSI Kampus Cikarang Pilih Menempa tak Sekadar Mengajar",
         "category": "News",
-        "publish_time": "12-01-2026 07:25",
+        "publish_time": "12-01-2026 07:27",
         "news_link": "https://news.republika.co.id/berita/t8qpzm472/di-antara-mesin-pabrik-dan-mimpi-mahasiswa-ubsi-kampus-cikarang-pilih-menempa-tak-sekadar-mengajar"
     },
     {
         "title": "Lulus tak Hanya Raih Gelar Sarjana, UBSI Tempa Mahasiswa Siap Tempur di Arena Karier",
         "category": "News",
-        "publish_time": "12-01-2026 07:24",
+        "publish_time": "12-01-2026 07:27",
         "news_link": "https://news.republika.co.id/berita/t8qpit472/lulus-tak-hanya-raih-gelar-sarjana-ubsi-tempa-mahasiswa-siap-tempur-di-arena-karier"
     },
     {
         "title": "Dika, Pembunuh Kakek di Bandung Ditangkap",
         "category": "Video",
-        "publish_time": "12-01-2026 07:24",
+        "publish_time": "12-01-2026 07:27",
         "news_link": "https://tv.republika.co.id/berita/t8qp6n418/dika-pembunuh-kakek-di-bandung-ditangkap"
     },
     {
         "title": "Universitas Nusa Mandiri Jajaki Kerja Sama Karier Global dengan TP Indonesia",
         "category": "News",
-        "publish_time": "12-01-2026 07:24",
+        "publish_time": "12-01-2026 07:27",
         "news_link": "https://news.republika.co.id/berita/t8qp24472/universitas-nusa-mandiri-jajaki-kerja-sama-karier-global-dengan-tp-indonesia"
     },
     {
         "title": "Film One Battle After Another Berjaya di Golden Globes 2026",
         "category": "Ameera",
-        "publish_time": "12-01-2026 07:24",
+        "publish_time": "12-01-2026 07:27",
         "news_link": "https://ameera.republika.co.id/berita/t8qp1o425/film-one-battle-after-another-berjaya-di-golden-globes-2026"
     },
     {
         "title": "Hujan Sejak Pagi, 22 RT dan 33 Ruas Jalan di Jakarta Terendam Banjir",
         "category": "News",
-        "publish_time": "12-01-2026 07:24",
+        "publish_time": "12-01-2026 07:27",
         "news_link": "https://news.republika.co.id/berita/t8qot7502/hujan-sejak-pagi-22-rt-dan-33-ruas-jalan-di-jakarta-terendam-banjir"
     },
     {
         "title": "Trump Pertimbangkan Opsi Soal Intervensi Situasi Iran",
         "category": "News",
-        "publish_time": "12-01-2026 07:24",
+        "publish_time": "12-01-2026 07:27",
         "news_link": "https://news.republika.co.id/berita/t8qos9393/trump-pertimbangkan-opsi-soal-intervensi-situasi-iran"
     },
     {
         "title": "Kanada Luncurkan Program Pendanaan untuk Pengusaha Perempuan RI",
         "category": "Ekonomi",
-        "publish_time": "12-01-2026 07:24",
+        "publish_time": "12-01-2026 07:27",
         "news_link": "https://ekonomi.republika.co.id/berita/t8qnge423/kanada-luncurkan-program-pendanaan-untuk-pengusaha-perempuan-ri"
     },
     {
         "title": "UNM Cetak Talenta IT Siap Kerja Lewat Program IEP 3+1",
         "category": "News",
-        "publish_time": "12-01-2026 07:24",
+        "publish_time": "12-01-2026 07:27",
         "news_link": "https://news.republika.co.id/berita/t8qopc472/unm-cetak-talenta-it-siap-kerja-lewat-program-iep-31"
     },
     {
         "title": "KPK Periksa Wakil Katib Syuriah PWNU Jakarta dalam Kasus Korupsi Kuota Haji",
         "category": "Khazanah",
-        "publish_time": "12-01-2026 06:24",
+        "publish_time": "12-01-2026 06:27",
         "news_link": "https://khazanah.republika.co.id/berita/t8qoha430/kpk-periksa-wakil-katib-syuriah-pwnu-jakarta-dalam-kasus-korupsi-kuota-haji"
     },
     {
         "title": "Kelas Karyawan UNM Jadi Solusi Buat Mahasiswa yang Sambil Kerja",
         "category": "News",
-        "publish_time": "12-01-2026 06:24",
+        "publish_time": "12-01-2026 06:27",
         "news_link": "https://news.republika.co.id/berita/t8qo9p472/kelas-karyawan-unm-jadi-solusi-buat-mahasiswa-yang-sambil-kerja"
     },
     {
         "title": "Rakernas Perdana, Asosiasi Ma'had Aly Perkuat Kolaborasi Antarpesantren",
         "category": "Khazanah",
-        "publish_time": "12-01-2026 06:24",
+        "publish_time": "12-01-2026 06:27",
         "news_link": "https://khazanah.republika.co.id/berita/t8qo1b483/rakernas-perdana-asosiasi-mahad-aly-perkuat-kolaborasi-antarpesantren"
     },
     {
         "title": "Puluhan Ruas Jalan di Jakarta Kebanjiran, Pramono: Satu Jam Pasti Surut",
         "category": "News",
-        "publish_time": "12-01-2026 06:24",
+        "publish_time": "12-01-2026 06:27",
         "news_link": "https://news.republika.co.id/berita/t8qntt377/puluhan-ruas-jalan-di-jakarta-kebanjiran-pramono-satu-jam-pasti-surut"
     },
     {
         "title": "BNI Dukung Danantara Serahkan 600 Hunian Layak Pascabencana di Aceh Tamiang",
         "category": "Ekonomi",
-        "publish_time": "12-01-2026 06:24",
+        "publish_time": "12-01-2026 06:27",
         "news_link": "https://ekonomi.republika.co.id/berita/t8qntc472/bni-dukung-danantara-serahkan-600-hunian-layak-pascabencana-di-aceh-tamiang"
     },
     {
         "title": "Pasukan Basij Redakan Kerusuhan di Teheran",
         "category": "Khazanah",
-        "publish_time": "12-01-2026 06:24",
+        "publish_time": "12-01-2026 06:27",
         "news_link": "https://khazanah.republika.co.id/berita/t8qnmd483/pasukan-basij-redakan-kerusuhan-di-teheran"
     },
     {
         "title": "HSBC Proyeksikan IHSG Tembus 9.700 pada 2026",
         "category": "Ekonomi",
-        "publish_time": "12-01-2026 06:24",
+        "publish_time": "12-01-2026 06:27",
         "news_link": "https://ekonomi.republika.co.id/berita/t8qn1q423/hsbc-proyeksikan-ihsg-tembus-9700-pada-2026"
     },
     {
         "title": "Menlu Araghchi Beberkan Bukti Keterliban Agen Mossad dalam Kekerasan Mematikan di Iran",
         "category": "News",
-        "publish_time": "12-01-2026 06:24",
+        "publish_time": "12-01-2026 06:27",
         "news_link": "https://news.republika.co.id/berita/t8qnl8377/menlu-araghchi-beberkan-bukti-keterliban-agen-mossad-dalam-kekerasan-mematikan-di-iran"
     },
     {
         "title": "Keutamaan\u00a0Dzikir\u00a0Menurut\u00a0Al-Habib Abdullah bin Alawi Al-Haddad",
         "category": "Khazanah",
-        "publish_time": "12-01-2026 06:24",
+        "publish_time": "12-01-2026 06:27",
         "news_link": "https://khazanah.republika.co.id/berita/t8qngy430/keutamaandzikirmenurutalhabib-abdullah-bin-alawi-alhaddad"
     },
     {
         "title": "Sukses Buat Kejutan, Bandung bjb Tandamata Kuras Livin 3-0",
         "category": "News",
-        "publish_time": "12-01-2026 06:24",
+        "publish_time": "12-01-2026 06:27",
         "news_link": "https://news.republika.co.id/berita/t8qncp472/sukses-buat-kejutan-bandung-bjb-tandamata-kuras-livin-30"
     },
     {
         "title": "Diguyur Hujan Deras, Sejumlah Wilayah di Jakarta Terendam Banjir",
         "category": "Visual",
-        "publish_time": "12-01-2026 06:24",
+        "publish_time": "12-01-2026 06:27",
         "news_link": "https://visual.republika.co.id/berita/t8qn1k375/diguyur-hujan-deras-sejumlah-wilayah-di-jakarta-terendam-banjir"
-    },
-    {
-        "title": "Investasi Tembus 2,4 Triliun Dolar AS, Bukti Transisi Energi tak Lagi Bisa Dihentikan",
-        "category": "Esgnow",
-        "publish_time": "12-01-2026 06:24",
-        "news_link": "https://esgnow.republika.co.id/berita/t8qmke423/investasi-tembus-24-triliun-dolar-as-bukti-transisi-energi-tak-lagi-bisa-dihentikan"
-    },
-    {
-        "title": "Bandung bjb Tandamata Siapkan Kejutan di Pertandingan Perdana Proliga 2026",
-        "category": "News",
-        "publish_time": "12-01-2026 06:24",
-        "news_link": "https://news.republika.co.id/berita/t8qmu8472/bandung-bjb-tandamata-siapkan-kejutan-di-pertandingan-perdana-proliga-2026"
-    },
-    {
-        "title": "Pakar Soroti Denda Satgas PKH ke Korporasi Bisa Triliunan",
-        "category": "News",
-        "publish_time": "12-01-2026 06:24",
-        "news_link": "https://news.republika.co.id/berita/t8qmyn484/pakar-soroti-denda-satgas-pkh-ke-korporasi-bisa-triliunan"
-    },
-    {
-        "title": "Daftar Lengkap Pemenang Golden Globes 2026",
-        "category": "Ameera",
-        "publish_time": "12-01-2026 06:24",
-        "news_link": "https://ameera.republika.co.id/berita/t8qmkw425/daftar-lengkap-pemenang-golden-globes-2026"
-    },
-    {
-        "title": "Distribusikan Bantuan Lewat PMI, Istiqlal Pulihkan Masjid Terdampak Bencana di Aceh Tamiang",
-        "category": "Khazanah",
-        "publish_time": "12-01-2026 06:24",
-        "news_link": "https://khazanah.republika.co.id/berita/t8qmf5483/distribusikan-bantuan-lewat-pmi-istiqlal-pulihkan-masjid-terdampak-bencana-di-aceh-tamiang"
-    },
-    {
-        "title": "Gagal Nonton Persib Vs Persija di GBLA, 10 Bobotoh Malah Dapat Doorprize Umroh dari Kapolres Cimahi",
-        "category": "Rejabar",
-        "publish_time": "12-01-2026 06:24",
-        "news_link": "https://rejabar.republika.co.id/berita/t8qmdx282/gagal-nonton-persib-vs-persija-di-gbla-10-bobotoh-malah-dapat-doorprize-umroh-dari-kapolres-cimahi"
-    },
-    {
-        "title": "Defisit Fiskal 2,9 Persen Masih dalam Batas Wajar",
-        "category": "Ekonomi",
-        "publish_time": "12-01-2026 06:24",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8qmdj423/defisit-fiskal-29-persen-masih-dalam-batas-wajar"
-    },
-    {
-        "title": "Senyum, Makanan Bergizi, dan Impian di Sekolah Rakyat Banjarbaru",
-        "category": "News",
-        "publish_time": "12-01-2026 06:24",
-        "news_link": "https://news.republika.co.id/berita/t8qjh5451/senyum-makanan-bergizi-dan-impian-di-sekolah-rakyat-banjarbaru"
-    },
-    {
-        "title": "Pezeshkian: AS dan Israel Bawa Teroris dari Luar Negeri untuk Membakar Masjid dan Pasar di Iran",
-        "category": "Khazanah",
-        "publish_time": "12-01-2026 06:24",
-        "news_link": "https://khazanah.republika.co.id/berita/t8qm18483/pezeshkian-as-dan-israel-bawa-teroris-dari-luar-negeri-untuk-membakar-masjid-dan-pasar-di-iran"
-    },
-    {
-        "title": "Usai 'Menculik' Maduro, Kini Donald Trump Mengeklaim Jadi Presiden Sementara Venezuela",
-        "category": "News",
-        "publish_time": "12-01-2026 06:24",
-        "news_link": "https://news.republika.co.id/berita/t8qm17377/usai-menculik-maduro-kini-donald-trump-mengeklaim-jadi-presiden-sementara-venezuela"
-    },
-    {
-        "title": "Broken Strings, Kisah Kelam Aurelie Moeremans Jadi Korban Grooming di Usia 15 Tahun",
-        "category": "Ameera",
-        "publish_time": "12-01-2026 06:24",
-        "news_link": "https://ameera.republika.co.id/berita/t8qlsn425/broken-strings-kisah-kelam-aurelie-moeremans-jadi-korban-grooming-di-usia-15-tahun"
-    },
-    {
-        "title": "Israel Bunuh Pelan-Pelan Anak-Anak Gaza",
-        "category": "News",
-        "publish_time": "12-01-2026 05:24",
-        "news_link": "https://news.republika.co.id/berita/t8qlpb393/israel-bunuh-pelanpelan-anakanak-gaza"
-    },
-    {
-        "title": "Memahami Tiga Tingkatan Zuhud, Jalan Spiritual Bertahap Menurut Imam Al Ghazali",
-        "category": "Khazanah",
-        "publish_time": "12-01-2026 05:24",
-        "news_link": "https://khazanah.republika.co.id/berita/t8qlkr430/memahami-tiga-tingkatan-zuhud-jalan-spiritual-bertahap-menurut-imam-al-ghazali"
-    },
-    {
-        "title": "LPEI Soroti Pergeseran Tren Pembayaran Perdagangan Internasional",
-        "category": "Ekonomi",
-        "publish_time": "12-01-2026 05:24",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8qkz4423/lpei-soroti-pergeseran-tren-pembayaran-perdagangan-internasional"
-    },
-    {
-        "title": "Bella Hadid dan Pedro Pascal Pimpin Acara Amal Solidaritas Palestina",
-        "category": "Ameera",
-        "publish_time": "12-01-2026 05:24",
-        "news_link": "https://ameera.republika.co.id/berita/t8qksx425/bella-hadid-dan-pedro-pascal-pimpin-acara-amal-solidaritas-palestina"
     }
 ]
