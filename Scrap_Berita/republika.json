@@ -1,146 +1,248 @@
 [
     {
+        "title": "FEB UNM Siapkan Strategist dan Digitalpreneur Muda",
+        "category": "News",
+        "publish_time": "13-01-2026 09:22",
+        "news_link": "https://news.republika.co.id/berita/t8sq1i368/feb-unm-siapkan-strategist-dan-digitalpreneur-muda"
+    },
+    {
+        "title": "Jangan Cuma Modal Viral, Ini Rahasia Naik Kelas di Industri Kreatif Bareng Prodi Ilmu Komunikasi",
+        "category": "News",
+        "publish_time": "13-01-2026 09:15",
+        "news_link": "https://news.republika.co.id/berita/t8spqn368/jangan-cuma-modal-viral-ini-rahasia-naik-kelas-di-industri-kreatif-bareng-prodi-ilmu-komunikasi"
+    },
+    {
+        "title": "Pemerintah dan Kadin Sepakat Perkuat Ketahanan Pangan",
+        "category": "Ekonomi",
+        "publish_time": "13-01-2026 09:11",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8spj3416/pemerintah-dan-kadin-sepakat-perkuat-ketahanan-pangan"
+    },
+    {
+        "title": "Cuaca Ekstrem di Cirebon, Warga Diminta Waspada",
+        "category": "Rejabar",
+        "publish_time": "13-01-2026 09:07",
+        "news_link": "https://rejabar.republika.co.id/berita/t8spd7282/cuaca-ekstrem-di-cirebon-warga-diminta-waspada"
+    },
+    {
+        "title": "Ingin Kuliah Jurusan Manajemen yang Siap Kerja? Kampus Ini Pilihannya",
+        "category": "News",
+        "publish_time": "13-01-2026 09:05",
+        "news_link": "https://news.republika.co.id/berita/t8sp95368/ingin-kuliah-jurusan-manajemen-yang-siap-kerja-kampus-ini-pilihannya"
+    },
+    {
+        "title": "Zakat Kini Menjadi Pilar Perlindungan Sosial Pascabencana",
+        "category": "Khazanah",
+        "publish_time": "13-01-2026 09:00",
+        "news_link": "https://khazanah.republika.co.id/berita/t8shoc451/zakat-kini-menjadi-pilar-perlindungan-sosial-pascabencana"
+    },
+    {
+        "title": "\u2018Tempah Dedoro\u2019 Jadi Strategi Mataram Kelola Sampah Organik",
+        "category": "Esgnow",
+        "publish_time": "13-01-2026 08:59",
+        "news_link": "https://esgnow.republika.co.id/berita/t8smec416/tempah-dedoro-jadi-strategi-mataram-kelola-sampah-organik"
+    },
+    {
+        "title": "Adhi Karya Respons Langkah Pramono Bongkar Tiang Monerel",
+        "category": "Ekonomi",
+        "publish_time": "13-01-2026 08:59",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8sozf370/adhi-karya-respons-langkah-pramono-bongkar-tiang-monerel"
+    },
+    {
+        "title": "Perkuat Link and Match, UNM Gandeng Mahaka Visual Perkuat Program IEP 3+1",
+        "category": "News",
+        "publish_time": "13-01-2026 08:56",
+        "news_link": "https://news.republika.co.id/berita/t8sou3368/perkuat-link-and-match-unm-gandeng-mahaka-visual-perkuat-program-iep-31"
+    },
+    {
+        "title": "Lulus tak\u00a0Cuma Dapat Gelar, UBSI Kampus Pontianak Tempa Mahasiswa Siap Tempur di Arena Karier",
+        "category": "News",
+        "publish_time": "13-01-2026 08:45",
+        "news_link": "https://news.republika.co.id/berita/t8sobl368/lulus-takcuma-dapat-gelar-ubsi-kampus-pontianak-tempa-mahasiswa-siap-tempur-di-arena-karier"
+    },
+    {
+        "title": "Gelar Aktivasi Publik, Adrink Bagikan 5.000 Botol Air Minum di CFD",
+        "category": "News",
+        "publish_time": "13-01-2026 08:42",
+        "news_link": "https://news.republika.co.id/berita/t8so72484/gelar-aktivasi-publik-adrink-bagikan-5000-botol-air-minum-di-cfd"
+    },
+    {
+        "title": "Kelas Karyawan UBSI Kampus Cikarang, Jawaban Profesional Muda yang Ingin Terus Berkembang",
+        "category": "News",
+        "publish_time": "13-01-2026 08:34",
+        "news_link": "https://news.republika.co.id/berita/t8snta368/kelas-karyawan-ubsi-kampus-cikarang-jawaban-profesional-muda-yang-ingin-terus-berkembang"
+    },
+    {
+        "title": "Ini Rahasia di Balik Mengapa Rasulullah Melakukan Isra Miraj pada Malam Hari",
+        "category": "Khazanah",
+        "publish_time": "13-01-2026 08:33",
+        "news_link": "https://khazanah.republika.co.id/berita/t8snrs483/ini-rahasia-di-balik-mengapa-rasulullah-melakukan-isra-miraj-pada-malam-hari"
+    },
+    {
+        "title": "Pemerintah Bangun Kembali 3.265 Rumah Tenaga Medis Terdampak Bencana Sumatera",
+        "category": "News",
+        "publish_time": "13-01-2026 08:31",
+        "news_link": "https://news.republika.co.id/berita/t8skk1451/pemerintah-bangun-kembali-3265-rumah-tenaga-medis-terdampak-bencana-sumatera"
+    },
+    {
+        "title": "NTB Fokus Kurangi Timbunan Sampah di Hulu",
+        "category": "Esgnow",
+        "publish_time": "13-01-2026 08:29",
+        "news_link": "https://esgnow.republika.co.id/berita/t8slwd416/ntb-fokus-kurangi-timbunan-sampah-di-hulu"
+    },
+    {
+        "title": "Airlangga Tanggapi Ancaman Tarif Trump terhadap Mitra Dagang Iran",
+        "category": "Ekonomi",
+        "publish_time": "13-01-2026 08:27",
+        "news_link": "https://ekonomi.republika.co.id/berita/t8sni5370/airlangga-tanggapi-ancaman-tarif-trump-terhadap-mitra-dagang-iran"
+    },
+    {
+        "title": "Optimalkan Dana Kemaslahatan,\u00a0BPKH Perkuat Kemandirian Umat Lewat Program UMKM Berdaya",
+        "category": "Khazanah",
+        "publish_time": "13-01-2026 08:26",
+        "news_link": "https://khazanah.republika.co.id/berita/t8sng0368/optimalkan-dana-kemaslahatanbpkh-perkuat-kemandirian-umat-lewat-program-umkm-berdaya"
+    },
+    {
         "title": "Benarkah Nabi Muhammad Melihat Allah SWT Saat Isra' Miraj? Ini Jawaban Aisyah",
         "category": "Khazanah",
-        "publish_time": "13-01-2026 08:19",
+        "publish_time": "13-01-2026 08:23",
         "news_link": "https://khazanah.republika.co.id/berita/t8sn5n483/benarkah-nabi-muhammad-melihat-allah-swt-saat-isra-miraj-ini-jawaban-aisyah"
     },
     {
         "title": "Wakapolri Tinjau Pembangunan SMA Kemala Taruna Bhayangkara, Progres Capai 43 Persen",
         "category": "News",
-        "publish_time": "13-01-2026 08:18",
+        "publish_time": "13-01-2026 08:23",
         "news_link": "https://news.republika.co.id/berita/t8sn47368/wakapolri-tinjau-pembangunan-sma-kemala-taruna-bhayangkara-progres-capai-43-persen"
     },
     {
         "title": "BPBD: 26.318 Warga Jabar Terdampak Bencana di Awal Tahun 2026",
         "category": "Rejabar",
-        "publish_time": "13-01-2026 08:10",
+        "publish_time": "13-01-2026 08:23",
         "news_link": "https://rejabar.republika.co.id/berita/t8smpo487/bpbd-26318-warga-jabar-terdampak-bencana-di-awal-tahun-2026"
     },
     {
         "title": "Relawan Indonesia di Perbatasan Palestina",
         "category": "Video",
-        "publish_time": "13-01-2026 08:09",
+        "publish_time": "13-01-2026 08:23",
         "news_link": "https://tv.republika.co.id/berita/t8smnv313/relawan-indonesia-di-perbatasan-palestina"
     },
     {
         "title": "Korupsi Tanpa Mencuri",
         "category": "Kolom",
-        "publish_time": "13-01-2026 08:07",
+        "publish_time": "13-01-2026 08:23",
         "news_link": "https://analisis.republika.co.id/berita/t8smkf415/korupsi-tanpa-mencuri"
     },
     {
         "title": "Langkah Pertama Herdman, Gali Perjalanan Garuda yang Gagal Lolos Piala Dunia dari Perspektif Pemain",
         "category": "News",
-        "publish_time": "13-01-2026 08:05",
+        "publish_time": "13-01-2026 08:23",
         "news_link": "https://news.republika.co.id/berita/t8smhi487/langkah-pertama-herdman-gali-perjalanan-garuda-yang-gagal-lolos-piala-dunia-dari-perspektif-pemain"
     },
     {
         "title": "Tawaran Indeks Pangan Muslim",
         "category": "Kolom",
-        "publish_time": "13-01-2026 08:01",
+        "publish_time": "13-01-2026 08:23",
         "news_link": "https://analisis.republika.co.id/berita/t8s72c451/tawaran-indeks-pangan-muslim"
     },
     {
         "title": "Viral, Aksi Karyawan Kafe Buang Kucing Terbungkus Karung ke Tempat Sampah di Bandung",
         "category": "Rejabar",
-        "publish_time": "13-01-2026 08:00",
+        "publish_time": "13-01-2026 08:23",
         "news_link": "https://rejabar.republika.co.id/berita/t8sma9487/viral-aksi-karyawan-kafe-buang-kucing-terbungkus-karung-ke-tempat-sampah-di-bandung"
     },
     {
         "title": "SPPG Penyalur MBG yang Diduga Picu Keracunan 803 Siswa di Grobogan Dibekukan",
         "category": "News",
-        "publish_time": "13-01-2026 07:53",
+        "publish_time": "13-01-2026 08:23",
         "news_link": "https://news.republika.co.id/berita/t8slyd487/sppg-penyalur-mbg-yang-diduga-picu-keracunan-803-siswa-di-grobogan-dibekukan"
     },
     {
         "title": "Polri Siap Melayani Jamaah Haji",
         "category": "Khazanah",
-        "publish_time": "13-01-2026 07:53",
+        "publish_time": "13-01-2026 08:23",
         "news_link": "https://khazanah.republika.co.id/berita/t8sly4430/polri-siap-melayani-jamaah-haji"
     },
     {
         "title": "Resmikan 166 Sekolah Rakyat, Prabowo Tinjau Fasilitas Perpustakan",
         "category": "News",
-        "publish_time": "13-01-2026 07:53",
+        "publish_time": "13-01-2026 07:23",
         "news_link": "https://news.republika.co.id/berita/t8slx6484/resmikan-166-sekolah-rakyat-prabowo-tinjau-fasilitas-perpustakan"
     },
     {
         "title": "John Herdman: Memahami Budaya dan Fans Kunci Membangun Timnas Indonesia",
         "category": "Video",
-        "publish_time": "13-01-2026 07:52",
+        "publish_time": "13-01-2026 07:23",
         "news_link": "https://tv.republika.co.id/berita/t8slvg418/john-herdman-memahami-budaya-dan-fans-kunci-membangun-timnas-indonesia"
     },
     {
         "title": "Racikannya Bakal Diuji di Piala AFF, John Herdman akan Manfaat Pemain di Liga Indonesia",
         "category": "News",
-        "publish_time": "13-01-2026 07:46",
+        "publish_time": "13-01-2026 07:23",
         "news_link": "https://news.republika.co.id/berita/t8slmo487/racikannya-bakal-diuji-di-piala-aff-john-herdman-akan-manfaat-pemain-di-liga-indonesia"
     },
     {
         "title": "Pemerintah Beri Diskon 50 Persen Iuran JKK-JKM Pekerja Transportasi",
         "category": "Ekonomi",
-        "publish_time": "13-01-2026 07:46",
+        "publish_time": "13-01-2026 07:23",
         "news_link": "https://ekonomi.republika.co.id/berita/t8slm0370/pemerintah-beri-diskon-50-persen-iuran-jkkjkm-pekerja-transportasi"
     },
     {
         "title": "Pemerintah Siapkan KUR Pertanian Rp300 Triliun",
         "category": "Ekonomi",
-        "publish_time": "13-01-2026 07:43",
+        "publish_time": "13-01-2026 07:23",
         "news_link": "https://ekonomi.republika.co.id/berita/t8slhr416/pemerintah-siapkan-kur-pertanian-rp300-triliun"
     },
     {
         "title": "Datang dengan Misi Besar, John Herdman Anggap Tekanan dari Suporter Timnas adalah Anugerah",
         "category": "News",
-        "publish_time": "13-01-2026 07:40",
+        "publish_time": "13-01-2026 07:23",
         "news_link": "https://news.republika.co.id/berita/t8slbe487/datang-dengan-misi-besar-john-herdman-anggap-tekanan-dari-suporter-timnas-adalah-anugerah"
     },
     {
         "title": "Sebanyak 803 Siswa di Grobogan Diduga Alami Keracunan MBG",
         "category": "News",
-        "publish_time": "13-01-2026 07:38",
+        "publish_time": "13-01-2026 07:23",
         "news_link": "https://news.republika.co.id/berita/t8sl8d430/sebanyak-803-siswa-di-grobogan-diduga-alami-keracunan-mbg"
     },
     {
         "title": "Mitos Cacar Air: Antara Air Kelapa, Larangan Mandi, dan Kekebalan Seumur Hidup",
         "category": "Ameera",
-        "publish_time": "13-01-2026 07:36",
+        "publish_time": "13-01-2026 07:23",
         "news_link": "https://ameera.republika.co.id/berita/t8sl4r425/mitos-cacar-air-antara-air-kelapa-larangan-mandi-dan-kekebalan-seumur-hidup"
     },
     {
         "title": "Komisi V DPRD Jabar Temukan Ketidaksesuaian Bantuan di SMKN 2 Banjar",
         "category": "Rejabar",
-        "publish_time": "13-01-2026 07:34",
+        "publish_time": "13-01-2026 07:23",
         "news_link": "https://rejabar.republika.co.id/berita/t8sl2e368/komisi-v-dprd-jabar-temukan-ketidaksesuaian-bantuan-di-smkn-2-banjar"
     },
     {
         "title": "Presiden Prabowo Resmikan SMA Taruna Nusantara Kampus Malang",
         "category": "News",
-        "publish_time": "13-01-2026 07:31",
+        "publish_time": "13-01-2026 07:23",
         "news_link": "https://news.republika.co.id/berita/t8skxa484/presiden-prabowo-resmikan-sma-taruna-nusantara-kampus-malang"
     },
     {
         "title": "Sehari Penuh Edukasi, BEM UNAIR Hadirkan 3 Program GARDA X AGIP 2026 di Dau Malang",
         "category": "News",
-        "publish_time": "13-01-2026 07:30",
+        "publish_time": "13-01-2026 07:23",
         "news_link": "https://news.republika.co.id/berita/t8skvh368/sehari-penuh-edukasi-bem-unair-hadirkan-3-program-garda-x-agip-2026-di-dau-malang"
     },
     {
         "title": "Resmi Diperkenalkan Sebagai Pelatih Timnas, John Herdman Optimistis Bawa Garuda ke Level Dunia",
         "category": "News",
-        "publish_time": "13-01-2026 07:28",
+        "publish_time": "13-01-2026 07:23",
         "news_link": "https://news.republika.co.id/berita/t8skrz487/resmi-diperkenalkan-sebagai-pelatih-timnas-john-herdman-optimistis-bawa-garuda-ke-level-dunia"
     },
     {
         "title": "Bupati Ponorogo Diduga Sembunyikan Uang Suap di Rekening Ajudan",
         "category": "News",
-        "publish_time": "13-01-2026 07:26",
+        "publish_time": "13-01-2026 07:23",
         "news_link": "https://news.republika.co.id/berita/t8skoj377/bupati-ponorogo-diduga-sembunyikan-uang-suap-di-rekening-ajudan"
     },
     {
         "title": "Rahasia Profesionalisme Gontor di Era Disrupsi",
         "category": "Khazanah",
-        "publish_time": "13-01-2026 07:25",
+        "publish_time": "13-01-2026 07:23",
         "news_link": "https://khazanah.republika.co.id/berita/t8s6nc451/rahasia-profesionalisme-gontor-di-era-disrupsi"
     },
     {
@@ -196,107 +298,5 @@
         "category": "News",
         "publish_time": "13-01-2026 07:23",
         "news_link": "https://news.republika.co.id/berita/t8sjte377/kpk-sita-8000-dolar-singapura-dari-penggeledahan-di-kantor-pajak-jakarta-utara"
-    },
-    {
-        "title": "KPK Periksa Petinggi PBNU Jadi Saksi Kasus Eks Menag Yaqut",
-        "category": "News",
-        "publish_time": "13-01-2026 07:23",
-        "news_link": "https://news.republika.co.id/berita/t8sjrc409/kpk-periksa-petinggi-pbnu-jadi-saksi-kasus-eks-menag-yaqut"
-    },
-    {
-        "title": "Donasi untuk Pembangunan Ulang Masjid Al Huda Gunungkidul Tembus Rp 1 Miliar Lebih",
-        "category": "Rejogja",
-        "publish_time": "13-01-2026 07:23",
-        "news_link": "https://rejogja.republika.co.id/berita/t8siyi282/donasi-untuk-pembangunan-ulang-masjid-al-huda-gunungkidul-tembus-rp-1-miliar-lebih"
-    },
-    {
-        "title": "Ikuti Latihan Baris Berbaris di Tengah Hujan, Petugas Haji: Alhamdulillah Tambah Sehat",
-        "category": "Khazanah",
-        "publish_time": "13-01-2026 07:23",
-        "news_link": "https://khazanah.republika.co.id/berita/t8sjnt483/ikuti-latihan-baris-berbaris-di-tengah-hujan-petugas-haji-alhamdulillah-tambah-sehat"
-    },
-    {
-        "title": "Panas Laut Dunia Pecah Rekor, Bukti Pemanasan Global Kian Parah",
-        "category": "Esgnow",
-        "publish_time": "13-01-2026 07:23",
-        "news_link": "https://esgnow.republika.co.id/berita/t8shni416/panas-laut-dunia-pecah-rekor-bukti-pemanasan-global-kian-parah"
-    },
-    {
-        "title": "Pemerintah Siapkan Diskon Tiket Pesawat Lebaran 2026",
-        "category": "Ekonomi",
-        "publish_time": "13-01-2026 06:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8sj34423/pemerintah-siapkan-diskon-tiket-pesawat-lebaran-2026"
-    },
-    {
-        "title": "Alasan John Herman Pilih Timnas Indonesia",
-        "category": "Video",
-        "publish_time": "13-01-2026 06:23",
-        "news_link": "https://tv.republika.co.id/berita/t8siwo313/alasan-john-herman-pilih-timnas-indonesia"
-    },
-    {
-        "title": "Bencana di Sumatera, Mendagri Sebut RSUD Kembali Beroperasi Meski Puskesmas Masih Terkendala",
-        "category": "News",
-        "publish_time": "13-01-2026 06:23",
-        "news_link": "https://news.republika.co.id/berita/t8siu5451/bencana-di-sumatera-mendagri-sebut-rsud-kembali-beroperasi-meski-puskesmas-masih-terkendala"
-    },
-    {
-        "title": "Inisiatif Warga Bolongi Turap Malah Bikin Banjir di Jakbar Tambah Parah",
-        "category": "News",
-        "publish_time": "13-01-2026 06:23",
-        "news_link": "https://news.republika.co.id/berita/t8siaj409/inisiatif-warga-bolongi-turap-malah-bikin-banjir-di-jakbar-tambah-parah"
-    },
-    {
-        "title": "Pertamina Patra Niaga: Fuel Terminal Tanjung Batu Perkuat Infrastruktur Terintegrasi Pertamina",
-        "category": "Ekonomi",
-        "publish_time": "13-01-2026 06:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8si85522/pertamina-patra-niaga-fuel-terminal-tanjung-batu-perkuat-infrastruktur-terintegrasi-pertamina"
-    },
-    {
-        "title": "Pilkada Tidak Langsung, Pengamat Sebut Berpotensi Hidupkan Pola Orde Baru",
-        "category": "News",
-        "publish_time": "13-01-2026 06:23",
-        "news_link": "https://news.republika.co.id/berita/t8s1k8451/pilkada-tidak-langsung-pengamat-sebut-berpotensi-hidupkan-pola-orde-baru"
-    },
-    {
-        "title": "Harga Emas Diprediksi Tembus Rp 3 Juta per Gram Pekan Ini",
-        "category": "Ekonomi",
-        "publish_time": "13-01-2026 06:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8shym423/harga-emas-diprediksi-tembus-rp-3-juta-per-gram-pekan-ini"
-    },
-    {
-        "title": "KPK Geledah Kantor Direktorat Jenderal Pajak Kemenkeu",
-        "category": "News",
-        "publish_time": "13-01-2026 06:23",
-        "news_link": "https://news.republika.co.id/berita/t8shuw409/kpk-geledah-kantor-direktorat-jenderal-pajak-kemenkeu"
-    },
-    {
-        "title": "Pembunuh Konsultan Proyek di Subang Ditangkap, Pelaku Sakit Hati Hingga Bacok Korban Berkali-kali",
-        "category": "Rejabar",
-        "publish_time": "13-01-2026 06:23",
-        "news_link": "https://rejabar.republika.co.id/berita/t8shff282/pembunuh-konsultan-proyek-di-subang-ditangkap-pelaku-sakit-hati-hingga-bacok-korban-berkalikali"
-    },
-    {
-        "title": "Jaga Serapan Tenaga Kerja, Pemerintah Alokasikan Rp 6 Miliar untuk Industri Padat Karya",
-        "category": "Ekonomi",
-        "publish_time": "13-01-2026 06:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8sh9u423/jaga-serapan-tenaga-kerja-pemerintah-alokasikan-rp-6-miliar-untuk-industri-padat-karya"
-    },
-    {
-        "title": "Pertamina NRE Gandeng Perusahaan China Garap Proyek Transisi Energi",
-        "category": "Esgnow",
-        "publish_time": "13-01-2026 06:23",
-        "news_link": "https://esgnow.republika.co.id/berita/t8sh6t416/pertamina-nre-gandeng-perusahaan-china-garap-proyek-transisi-energi"
-    },
-    {
-        "title": "Puan Maharani: APBN 2026 Harus Jadi Motor Pertumbuhan Ekonomi Berkualitas",
-        "category": "News",
-        "publish_time": "13-01-2026 06:23",
-        "news_link": "https://news.republika.co.id/berita/t8sgun451/puan-maharani-apbn-2026-harus-jadi-motor-pertumbuhan-ekonomi-berkualitas"
-    },
-    {
-        "title": "Geopolitik Global Memanas, Indonesia Diminta Jaga Stabilitas Keuangan",
-        "category": "Ekonomi",
-        "publish_time": "13-01-2026 06:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t8sgeq423/geopolitik-global-memanas-indonesia-diminta-jaga-stabilitas-keuangan"
     }
 ]
