@@ -1,5 +1,53 @@
 [
     {
+        "title": "Presiden Prabowo dan Presiden ke-7 Jokowi Bertemu di TMII",
+        "category": "News",
+        "publish_time": "18 January 2026, 13:18",
+        "news_link": "https://news.republika.co.id/berita/t91qul475/presiden-prabowo-dan-presiden-ke7-jokowi-bertemu-di-tmii"
+    },
+    {
+        "title": "Transparansi Bursa Kripto Jadi Sorotan, Proof of Reserve Dinilai Krusial",
+        "category": "Ekonomi",
+        "publish_time": "18 January 2026, 13:02",
+        "news_link": "https://ekonomi.republika.co.id/berita/t91q4j370/transparansi-bursa-kripto-jadi-sorotan-proof-of-reserve-dinilai-krusial"
+    },
+    {
+        "title": "Terungkap Fakta di Balik Rencana AS Serang Iran yang Tertunda, Trump Takut?",
+        "category": "Khazanah",
+        "publish_time": "18 January 2026, 12:59",
+        "news_link": "https://khazanah.republika.co.id/berita/t91pzf320/terungkap-fakta-di-balik-rencana-as-serang-iran-yang-tertunda-trump-takut"
+    },
+    {
+        "title": "Polisi Izinkan Motor Masuk Tol Wiyoto Wiyono Imbas Banjir",
+        "category": "News",
+        "publish_time": "18 January 2026, 12:56",
+        "news_link": "https://news.republika.co.id/berita/t91pto366/polisi-izinkan-motor-masuk-tol-wiyoto-wiyono-imbas-banjir"
+    },
+    {
+        "title": "Draf Dewan Perdamaian Trump Bocor, Ingin Saingi PBB?",
+        "category": "News",
+        "publish_time": "18 January 2026, 12:48",
+        "news_link": "https://news.republika.co.id/berita/t91pgn393/draf-dewan-perdamaian-trump-bocor-ingin-saingi-pbb"
+    },
+    {
+        "title": "Libur Isra Miraj, Lalu Lintas Trans Jawa Meningkat hingga 74 Ribu Kendaraan",
+        "category": "Ekonomi",
+        "publish_time": "18 January 2026, 12:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/t91n2y366/libur-isra-miraj-lalu-lintas-trans-jawa-meningkat-hingga-74-ribu-kendaraan"
+    },
+    {
+        "title": "Cuaca Jadi Tantangan Utama Pencarian Pesawat ATR 42-500",
+        "category": "News",
+        "publish_time": "18 January 2026, 12:32",
+        "news_link": "https://news.republika.co.id/berita/t91oqq487/cuaca-jadi-tantangan-utama-pencarian-pesawat-atr-42500"
+    },
+    {
+        "title": "Basarnas Tetapkan Radius Pencarian 1 Km dari Serpihan Pesawat",
+        "category": "News",
+        "publish_time": "18 January 2026, 12:25",
+        "news_link": "https://news.republika.co.id/berita/t91oe6487/basarnas-tetapkan-radius-pencarian-1-km-dari-serpihan-pesawat"
+    },
+    {
         "title": "Pasar Haji dan Umrah di Bandung Potensial, Uhud Tour Buka Cabang",
         "category": "Khazanah",
         "publish_time": "18 January 2026, 12:16",
@@ -250,53 +298,5 @@
         "category": "Khazanah",
         "publish_time": "18 January 2026, 06:42",
         "news_link": "https://khazanah.republika.co.id/berita/t918ik320/dewan-perdamaian-gaza-resmi-diumumkan-apa-itu-9-tanya-jawab-ini-menjawabnya"
-    },
-    {
-        "title": "Film Dokumenter With Hasan in Gaza Masuk Nominasi Bergengsi di Eropa",
-        "category": "Ameera",
-        "publish_time": "18 January 2026, 06:24",
-        "news_link": "https://ameera.republika.co.id/berita/t917pm425/film-dokumenter-with-hasan-in-gaza-masuk-nominasi-bergengsi-di-eropa"
-    },
-    {
-        "title": "Netanyahu Kebakaran Jenggot, Turki dan Qatar Masuk Dewan Perdamaian Gaza",
-        "category": "News",
-        "publish_time": "18 January 2026, 06:15",
-        "news_link": "https://news.republika.co.id/berita/t917am393/netanyahu-kebakaran-jenggot-turki-dan-qatar-masuk-dewan-perdamaian-gaza"
-    },
-    {
-        "title": "Trigol Vedat Muriqi Antar Mallorca Menang 3-2 atas Athletic Club",
-        "category": "News",
-        "publish_time": "18 January 2026, 05:45",
-        "news_link": "https://news.republika.co.id/berita/t915vh8030000/trigol-vedat-muriqi-antar-mallorca-menang-32-atas-athletic-club"
-    },
-    {
-        "title": "Arne Slot Pahami Kekecewaan Fans Liverpool Usai Gagal Menang",
-        "category": "News",
-        "publish_time": "18 January 2026, 05:30",
-        "news_link": "https://news.republika.co.id/berita/t9156e330000/arne-slot-pahami-kekecewaan-fans-liverpool-usai-gagal-menang"
-    },
-    {
-        "title": "Michael Carrick Tegaskan Konsistensi Usai Manchester United Kalahkan Man City",
-        "category": "News",
-        "publish_time": "18 January 2026, 05:15",
-        "news_link": "https://news.republika.co.id/berita/t914h74130000/michael-carrick-tegaskan-konsistensi-usai-manchester-united-kalahkan-man-city"
-    },
-    {
-        "title": "Dortmund Lanjutkan Tren Kemenangan Usai Tundukkan St Pauli 3-2",
-        "category": "News",
-        "publish_time": "18 January 2026, 04:45",
-        "news_link": "https://news.republika.co.id/berita/t9133j3830000/dortmund-lanjutkan-tren-kemenangan-usai-tundukkan-st-pauli-32"
-    },
-    {
-        "title": "Arsenal Gagal Raih Kemenangan Usai Ditahan Imbang Nottingham 0-0",
-        "category": "News",
-        "publish_time": "18 January 2026, 04:30",
-        "news_link": "https://news.republika.co.id/berita/t912ed1330000/arsenal-gagal-raih-kemenangan-usai-ditahan-imbang-nottingham-00"
-    },
-    {
-        "title": "Nova Titans Tantang Grim Reaper di Final X-Series 2",
-        "category": "News",
-        "publish_time": "18 January 2026, 04:15",
-        "news_link": "https://news.republika.co.id/berita/t911pa7330000/nova-titans-tantang-grim-reaper-di-final-xseries-2"
     }
 ]
