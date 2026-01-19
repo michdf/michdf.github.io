@@ -1,56 +1,164 @@
 [
     {
+        "title": "Perhutanan Sosial Didorong Topang Produksi Pangan",
+        "category": "Ekonomi",
+        "publish_time": "19-01-2026 12:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/t942p3416/perhutanan-sosial-didorong-topang-produksi-pangan"
+    },
+    {
+        "title": "Polda Sulsel Ambil Sampel DNA Keluarga Korban Pesawat ATR 42-500",
+        "category": "Visual",
+        "publish_time": "19-01-2026 12:14",
+        "news_link": "https://visual.republika.co.id/berita/t940pv375/polda-sulsel-ambil-sampel-dna-keluarga-korban-pesawat-atr-42500"
+    },
+    {
+        "title": "Empat Tahun Berdiri, InJourney Integrasikan Ekosistem Aviasi\u2013Pariwisata",
+        "category": "Ekonomi",
+        "publish_time": "19-01-2026 12:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/t941sd416/empat-tahun-berdiri-injourney-integrasikan-ekosistem-aviasipariwisata"
+    },
+    {
+        "title": "SITUBA, Teman Digital Baru Bagi Pasien TBC di Surakarta",
+        "category": "News",
+        "publish_time": "19-01-2026 12:07",
+        "news_link": "https://news.republika.co.id/berita/t941oe472/situba-teman-digital-baru-bagi-pasien-tbc-di-surakarta"
+    },
+    {
+        "title": "The President Nominates Thomas Djiwandono as One of the Candidates for Deputy Governor of BI",
+        "category": "En",
+        "publish_time": "37 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/t941du415/the-president-nominates-thomas-djiwandono-as-one-of-the-candidates-for-deputy-governor-of-bi"
+    },
+    {
+        "title": "Kuliah Cuma Cari Gelar? Di UBSI Kampus Pontianak, Kamu Disiapkan Buat Siap Kerja dan Jadi Pengusaha",
+        "category": "News",
+        "publish_time": "19-01-2026 12:00",
+        "news_link": "https://news.republika.co.id/berita/t941cu472/kuliah-cuma-cari-gelar-di-ubsi-kampus-pontianak-kamu-disiapkan-buat-siap-kerja-dan-jadi-pengusaha"
+    },
+    {
+        "title": "Perpres Ojol Masih Dibahas, Belum Ada Titik Temu Antara Hak Mitra dan Kepentingan Aplikator",
+        "category": "Ekonomi",
+        "publish_time": "19-01-2026 11:58",
+        "news_link": "https://ekonomi.republika.co.id/berita/t9419w416/perpres-ojol-masih-dibahas-belum-ada-titik-temu-antara-hak-mitra-dan-kepentingan-aplikator"
+    },
+    {
+        "title": "UBSI Kampus Kalimalang Bikin Mahasiswa Betah Lewat Konsultasi dan E-Learning",
+        "category": "News",
+        "publish_time": "19-01-2026 11:49",
+        "news_link": "https://news.republika.co.id/berita/t940vo472/ubsi-kampus-kalimalang-bikin-mahasiswa-betah-lewat-konsultasi-dan-elearning"
+    },
+    {
+        "title": "Prabowo Dijadwalkan Bertemu Raja Charles, Bahas Konservasi Gajah Aceh",
+        "category": "Esgnow",
+        "publish_time": "19-01-2026 11:44",
+        "news_link": "https://esgnow.republika.co.id/berita/t93zod423/prabowo-dijadwalkan-bertemu-raja-charles-bahas-konservasi-gajah-aceh"
+    },
+    {
+        "title": "PBSI Bidik Minimal Satu Gelar di Indonesia Masters 2026, Pemain Muda Sudah tak Sabar Main di Istora",
+        "category": "News",
+        "publish_time": "19-01-2026 11:38",
+        "news_link": "https://news.republika.co.id/berita/t940cp348/pbsi-bidik-minimal-satu-gelar-di-indonesia-masters-2026-pemain-muda-sudah-tak-sabar-main-di-istora"
+    },
+    {
+        "title": "KPK Tangkap Bupati Pati Sudewo yang Pernah Viral Didemo Warganya Sendiri",
+        "category": "News",
+        "publish_time": "19-01-2026 11:37",
+        "news_link": "https://news.republika.co.id/berita/t940au409/kpk-tangkap-bupati-pati-sudewo-yang-pernah-viral-didemo-warganya-sendiri"
+    },
+    {
+        "title": "Jalani Sidang Dakwaan, Eks Wamenaker Noel Ebenezer Akui Terima Gratifikasi",
+        "category": "Visual",
+        "publish_time": "19-01-2026 11:37",
+        "news_link": "https://visual.republika.co.id/berita/t9408r375/jalani-sidang-dakwaan-eks-wamenaker-noel-ebenezer-akui-terima-gratifikasi"
+    },
+    {
+        "title": "Agar Siap Kerja, Prodi Sistem Informasi UNM Bekali Mahasiswa ArchiMate dan Enterprise Architecture",
+        "category": "News",
+        "publish_time": "19-01-2026 11:37",
+        "news_link": "https://news.republika.co.id/berita/t9403d472/agar-siap-kerja-prodi-sistem-informasi-unm-bekali-mahasiswa-archimate-dan-enterprise-architecture"
+    },
+    {
+        "title": "IHSG Cetak Rekor Tertinggi, Pasar Optimistis BI Tahan Suku Bunga",
+        "category": "Ekonomi",
+        "publish_time": "19-01-2026 11:37",
+        "news_link": "https://ekonomi.republika.co.id/berita/t93zja423/ihsg-cetak-rekor-tertinggi-pasar-optimistis-bi-tahan-suku-bunga"
+    },
+    {
+        "title": "Terobosan Baru Kemenpora: Buka Seleksi Deputi Industri Olahraga, Libatkan ASN dan Profesional",
+        "category": "News",
+        "publish_time": "19-01-2026 11:37",
+        "news_link": "https://news.republika.co.id/berita/t93zog348/terobosan-baru-kemenpora-buka-seleksi-deputi-industri-olahraga-libatkan-asn-dan-profesional"
+    },
+    {
+        "title": "Cyber University-Pijar Foundation Siap Bersinergi Bangun Ekosistem Talenta Digital",
+        "category": "News",
+        "publish_time": "19-01-2026 11:37",
+        "news_link": "https://news.republika.co.id/berita/t93zhb472/cyber-universitypijar-foundation-siap-bersinergi-bangun-ekosistem-talenta-digital"
+    },
+    {
+        "title": "ETLE Memakan Banyak Korban di Bandung Barat, Puluhan Pengendara Kena Tilang via Jepretan HP Polisi",
+        "category": "Rejabar",
+        "publish_time": "19-01-2026 11:37",
+        "news_link": "https://rejabar.republika.co.id/berita/t93zdz282/etle-memakan-banyak-korban-di-bandung-barat-puluhan-pengendara-kena-tilang-via-jepretan-hp-polisi"
+    },
+    {
+        "title": "Pengamat Penerbangan Pertanyakan Mengapa Pesawat ATR 42-500 Bisa Keluar Jalur",
+        "category": "News",
+        "publish_time": "19-01-2026 11:37",
+        "news_link": "https://news.republika.co.id/berita/t93zdv409/pengamat-penerbangan-pertanyakan-mengapa-pesawat-atr-42500-bisa-keluar-jalur"
+    },
+    {
         "title": "Mendag: Indonesia Berpeluang Jadi Pusat Kopi Dunia",
         "category": "Ekonomi",
-        "publish_time": "19-01-2026 11:14",
+        "publish_time": "19-01-2026 11:37",
         "news_link": "https://ekonomi.republika.co.id/berita/t93z06423/mendag-indonesia-berpeluang-jadi-pusat-kopi-dunia"
     },
     {
         "title": "Sudirman Said Ungkap Adanya Hambatan Saat Benahi Mafia Migas",
         "category": "Video",
-        "publish_time": "19-01-2026 11:13",
+        "publish_time": "19-01-2026 11:37",
         "news_link": "https://tv.republika.co.id/berita/t93z6o313/sudirman-said-ungkap-adanya-hambatan-saat-benahi-mafia-migas"
     },
     {
         "title": "Sertifikasi Kompetensi: Jembatan Vital Menuju Profesionalisme Unggul dan Mutu Pendidikan Tinggi",
         "category": "News",
-        "publish_time": "19-01-2026 11:02",
+        "publish_time": "19-01-2026 10:37",
         "news_link": "https://news.republika.co.id/berita/t93yof472/sertifikasi-kompetensi-jembatan-vital-menuju-profesionalisme-unggul-dan-mutu-pendidikan-tinggi"
     },
     {
         "title": "Purbaya Dukung Thomas Djiwandono Jadi Gubernur Bank Indonesia",
         "category": "Ekonomi",
-        "publish_time": "19-01-2026 10:59",
+        "publish_time": "19-01-2026 10:37",
         "news_link": "https://ekonomi.republika.co.id/berita/t93ycm423/purbaya-dukung-thomas-djiwandono-jadi-gubernur-bank-indonesia"
     },
     {
         "title": "Investasi 251 Juta Dolar AS, Sailun Bangun Pabrik dan Jadikan Indonesia Hub Manufaktur Ban",
         "category": "Ekonomi",
-        "publish_time": "19-01-2026 10:59",
+        "publish_time": "19-01-2026 10:37",
         "news_link": "https://ekonomi.republika.co.id/berita/t93yjc349/investasi-251-juta-dolar-as-sailun-bangun-pabrik-dan-jadikan-indonesia-hub-manufaktur-ban"
     },
     {
         "title": "Tas Dijambret Saat Naik Motor, Gadis di Cimahi Kejar dan Tabrak Pelaku Hingga Terjatuh",
         "category": "Rejabar",
-        "publish_time": "19-01-2026 10:51",
+        "publish_time": "19-01-2026 10:37",
         "news_link": "https://rejabar.republika.co.id/berita/t93y67282/tas-dijambret-saat-naik-motor-gadis-di-cimahi-kejar-dan-tabrak-pelaku-hingga-terjatuh"
     },
     {
         "title": "Jeje Siapkan Rp 25 Miliar Rehab Sekolah Rusak di Bandung Barat, Begini Konsepnya",
         "category": "Rejabar",
-        "publish_time": "19-01-2026 10:48",
+        "publish_time": "19-01-2026 10:37",
         "news_link": "https://rejabar.republika.co.id/berita/t93y1e472/jeje-siapkan-rp-25-miliar-rehab-sekolah-rusak-di-bandung-barat-begini-konsepnya"
     },
     {
         "title": "Thomas Djiwandono Masuk Bursa Deputi Gubernur BI, Istana Ajukan Tiga Nama ke DPR",
         "category": "Ekonomi",
-        "publish_time": "19-01-2026 10:45",
+        "publish_time": "19-01-2026 10:37",
         "news_link": "https://ekonomi.republika.co.id/berita/t93xw2423/thomas-djiwandono-masuk-bursa-deputi-gubernur-bi-istana-ajukan-tiga-nama-ke-dpr"
     },
     {
         "title": "Pemerintah Apresiasi Kontribusi Rumah Zakat Dalam Pembangunan Nasional",
         "category": "Khazanah",
-        "publish_time": "19-01-2026 10:40",
+        "publish_time": "19-01-2026 10:37",
         "news_link": "https://khazanah.republika.co.id/berita/t93xoh371/pemerintah-apresiasi-kontribusi-rumah-zakat-dalam-pembangunan-nasional"
     },
     {
@@ -62,241 +170,133 @@
     {
         "title": "137 Ton Sampah Diangkut dari Tanggul Laut Muara Baru, Begini Penampakannya",
         "category": "Esgnow",
-        "publish_time": "19-01-2026 10:17",
+        "publish_time": "19-01-2026 10:37",
         "news_link": "https://esgnow.republika.co.id/berita/t93wkl416/137-ton-sampah-diangkut-dari-tanggul-laut-muara-baru-begini-penampakannya"
     },
     {
         "title": "Imbas Banjir Pekalongan dan Jakarta, 78 KA Batal Berangkat",
         "category": "Ekonomi",
-        "publish_time": "19-01-2026 10:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://ekonomi.republika.co.id/berita/t93vou416/imbas-banjir-pekalongan-dan-jakarta-78-ka-batal-berangkat"
     },
     {
         "title": "Sertifikat ini Jadi Kunci Keberhasilan Ekspor Udang RI ke Amerika",
         "category": "News",
-        "publish_time": "19-01-2026 10:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://news.republika.co.id/berita/t93txa451/sertifikat-ini-jadi-kunci-keberhasilan-ekspor-udang-ri-ke-amerika"
     },
     {
         "title": "Vale Targetkan Proyek HPAL Sorowako Beroperasi 2027",
         "category": "Ekonomi",
-        "publish_time": "19-01-2026 10:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://ekonomi.republika.co.id/berita/t93veu522/vale-targetkan-proyek-hpal-sorowako-beroperasi-2027"
     },
     {
         "title": "Menteri Amran Bongkar 1.000 Ton Beras Ilegal di Kepri",
         "category": "Video",
-        "publish_time": "19-01-2026 10:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://tv.republika.co.id/berita/yt-t93q8h1507529081/menteri-amran-bongkar-1000-ton-beras-ilegal-di-kepri"
     },
     {
         "title": "Ministry of Transportation: ATR 42-500 Aircraft was Airworthy Before It Crashed",
         "category": "En",
-        "publish_time": "1 hours ago",
+        "publish_time": "3 hours ago",
         "news_link": "https://en.republika.co.id/berita/t93v9f415/ministry-of-transportation-atr-42500-aircraft-was-airworthy-before-it-crashed"
     },
     {
         "title": "9 Motor Hangus Terbakar di Tempat Penitipan Depan Stasiun Bogor",
         "category": "News",
-        "publish_time": "19-01-2026 09:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://news.republika.co.id/berita/t93v8c485/9-motor-hangus-terbakar-di-tempat-penitipan-depan-stasiun-bogor"
     },
     {
         "title": "Pilkada Langsung Tetap Relevan Jaga Kedaulatan Rakyat",
         "category": "News",
-        "publish_time": "19-01-2026 09:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://news.republika.co.id/berita/t93v3b522/pilkada-langsung-tetap-relevan-jaga-kedaulatan-rakyat"
     },
     {
         "title": "Serasa Bertemu Ayah Sendiri, Momen Haru Mahasiswa Indonesia Sambut Presiden Prabowo di London",
         "category": "News",
-        "publish_time": "19-01-2026 09:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://news.republika.co.id/berita/t93uw3451/serasa-bertemu-ayah-sendiri-momen-haru-mahasiswa-indonesia-sambut-presiden-prabowo-di-london"
     },
     {
         "title": "Keluarga Berharap Mukjizat, Pilot ATR Kapten Andy dapat Selamat dari Insiden Jatuhnya Pesawat",
         "category": "News",
-        "publish_time": "19-01-2026 09:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://news.republika.co.id/berita/t93uti377/keluarga-berharap-mukjizat-pilot-atr-kapten-andy-dapat-selamat-dari-insiden-jatuhnya-pesawat"
     },
     {
         "title": "Survei BI: Dunia Usaha Tetap Kuat di Akhir 2025, SBT Capai 10,61 Persen",
         "category": "Ekonomi",
-        "publish_time": "19-01-2026 09:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://ekonomi.republika.co.id/berita/t93utg423/survei-bi-dunia-usaha-tetap-kuat-di-akhir-2025-sbt-capai-1061-persen"
     },
     {
         "title": "Otorita IKN Siapkan Kawasan Mitra Penunjang Fungsi Ibu Kota Nusantara",
         "category": "Ekonomi",
-        "publish_time": "19-01-2026 09:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://ekonomi.republika.co.id/berita/t93ug6490/otorita-ikn-siapkan-kawasan-mitra-penunjang-fungsi-ibu-kota-nusantara"
     },
     {
         "title": "Banjir Meluas di Cirebon, KAI Batalkan Sejumlah Perjalanan Kereta",
         "category": "Ekonomi",
-        "publish_time": "19-01-2026 09:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://ekonomi.republika.co.id/berita/t93u9w423/banjir-meluas-di-cirebon-kai-batalkan-sejumlah-perjalanan-kereta"
     },
     {
         "title": "New Balance Resmi Rilis Koleksi Australian Open 2026 di Indonesia",
         "category": "Ameera",
-        "publish_time": "19-01-2026 09:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://ameera.republika.co.id/berita/t93u9x490/new-balance-resmi-rilis-koleksi-australian-open-2026-di-indonesia"
     },
     {
         "title": "Jelang Ramadhan, Iwan Koswara Desak Pemprov Jabar Jaga Stabilitas Harga Pangan",
         "category": "Rejabar",
-        "publish_time": "19-01-2026 09:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://rejabar.republika.co.id/berita/t93u9s472/jelang-ramadhan-iwan-koswara-desak-pemprov-jabar-jaga-stabilitas-harga-pangan"
     },
     {
         "title": "Mendorong Hilirisasi untuk Menggenjot Kesejahteraan Petani Lokal",
         "category": "Ekonomi",
-        "publish_time": "19-01-2026 09:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://ekonomi.republika.co.id/berita/t93tkf451/mendorong-hilirisasi-untuk-menggenjot-kesejahteraan-petani-lokal"
     },
     {
         "title": "Proyek HPAL Pomalaa Dikebut, Vale Gandeng Huayou dan Ford",
         "category": "Ekonomi",
-        "publish_time": "19-01-2026 09:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://ekonomi.republika.co.id/berita/t93u0l522/proyek-hpal-pomalaa-dikebut-vale-gandeng-huayou-dan-ford"
     },
     {
         "title": "Tangkap Wali Kota Madiun, Ini Penjelasan KPK",
         "category": "News",
-        "publish_time": "19-01-2026 09:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://news.republika.co.id/berita/t93u0i377/tangkap-wali-kota-madiun-ini-penjelasan-kpk"
     },
     {
         "title": "Immanuel Ebenezer Didakwa Terima Rp 3,36 Miliar dan Ducati Selama Jabat Wamenaker 2024-2025",
         "category": "News",
-        "publish_time": "19-01-2026 09:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://news.republika.co.id/berita/t93tnj377/immanuel-ebenezer-didakwa-terima-rp-336-miliar-dan-ducati-selama-jabat-wamenaker-20242025"
     },
     {
         "title": "OTT di Madiun, KPK Tangkap Wali Kota Maidi",
         "category": "News",
-        "publish_time": "19-01-2026 09:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://news.republika.co.id/berita/t93tjk409/ott-di-madiun-kpk-tangkap-wali-kota-maidi"
     },
     {
         "title": "Perdana Tampil di Davos, Ini Misi Danantara",
         "category": "Ekonomi",
-        "publish_time": "19-01-2026 09:17",
+        "publish_time": "19-01-2026 09:37",
         "news_link": "https://ekonomi.republika.co.id/berita/t93tio490/perdana-tampil-di-davos-ini-misi-danantara"
     },
     {
         "title": "Memutus Rantai Rentenir, Memperkuat Likuiditas BMT",
         "category": "Kolom",
-        "publish_time": "19-01-2026 09:17",
+        "publish_time": "19-01-2026 08:37",
         "news_link": "https://analisis.republika.co.id/berita/t93tdc393/memutus-rantai-rentenir-memperkuat-likuiditas-bmt"
-    },
-    {
-        "title": "Seleksi Petugas Haji Sumbar 1447 H Mengedepankan Transparansi demi Layanan Prima",
-        "category": "Khazanah",
-        "publish_time": "19-01-2026 09:17",
-        "news_link": "https://khazanah.republika.co.id/berita/t93tar451/seleksi-petugas-haji-sumbar-1447-h-mengedepankan-transparansi-demi-layanan-prima"
-    },
-    {
-        "title": "Raja Malaysia Kecewa Berat Kasus Korupsi di Militer, Ancam Lantik Sersan Jadi Panglima",
-        "category": "News",
-        "publish_time": "19-01-2026 09:17",
-        "news_link": "https://news.republika.co.id/berita/t93syu377/raja-malaysia-kecewa-berat-kasus-korupsi-di-militer-ancam-lantik-sersan-jadi-panglima"
-    },
-    {
-        "title": "Harga Nikel Tertekan, Produksi dan Efisiensi PT Vale Lampaui Target 2025",
-        "category": "Ekonomi",
-        "publish_time": "19-01-2026 09:17",
-        "news_link": "https://ekonomi.republika.co.id/berita/t93sve522/harga-nikel-tertekan-produksi-dan-efisiensi-pt-vale-lampaui-target-2025"
-    },
-    {
-        "title": "Slank Donasikan Rp500 Juta Hasil Konser Bali untuk Korban Bencana di Sumatera",
-        "category": "Ameera",
-        "publish_time": "19-01-2026 09:17",
-        "news_link": "https://ameera.republika.co.id/berita/t93smg425/slank-donasikan-rp500-juta-hasil-konser-bali-untuk-korban-bencana-di-sumatera"
-    },
-    {
-        "title": "PGN Salurkan Gas 881 BBTUD Selama Nataru",
-        "category": "Ekonomi",
-        "publish_time": "19-01-2026 09:17",
-        "news_link": "https://ekonomi.republika.co.id/berita/t93sh3522/pgn-salurkan-gas-881-bbtud-selama-nataru"
-    },
-    {
-        "title": "Revisi KUHP Berpotensi Tumpang Tindih dengan Undang-Undang Lain",
-        "category": "News",
-        "publish_time": "19-01-2026 08:17",
-        "news_link": "https://news.republika.co.id/berita/t93sbp522/revisi-kuhp-berpotensi-tumpang-tindih-dengan-undangundang-lain"
-    },
-    {
-        "title": "Laporan JATAM Ungkap Jejak Oligarki di Balik Bencana Banjir Sumatera",
-        "category": "Esgnow",
-        "publish_time": "19-01-2026 08:17",
-        "news_link": "https://esgnow.republika.co.id/berita/t93s14423/laporan-jatam-ungkap-jejak-oligarki-di-balik-bencana-banjir-sumatera"
-    },
-    {
-        "title": "Iran Siap Perang Habis-habisan Jika Ayatollah Ali Khamenei Sampai Terbunuh",
-        "category": "News",
-        "publish_time": "19-01-2026 08:17",
-        "news_link": "https://news.republika.co.id/berita/t93s9q409/iran-siap-perang-habishabisan-jika-ayatollah-ali-khamenei-sampai-terbunuh"
-    },
-    {
-        "title": "Jadi Korban Kecelakaan Pesawat  ATR yang Jauh, Ini Pesan Terakhir Deden ke Sang Ayah",
-        "category": "News",
-        "publish_time": "19-01-2026 08:17",
-        "news_link": "https://news.republika.co.id/berita/t93s5x377/jadi-korban-kecelakaan-pesawat-atr-yang-jauh-ini-pesan-terakhir-deden-ke-sang-ayah"
-    },
-    {
-        "title": "Pergerakan Tanah di Kabupaten Serang Rusak 54 Rumah Warga",
-        "category": "Esgnow",
-        "publish_time": "19-01-2026 08:17",
-        "news_link": "https://esgnow.republika.co.id/berita/t93rqj416/pergerakan-tanah-di-kabupaten-serang-rusak-54-rumah-warga"
-    },
-    {
-        "title": "Rekonstruksi Pascabencana di Sumbar, Brantas Abipraya Perkuat Sinergi dengan Kementerian PU",
-        "category": "Ekonomi",
-        "publish_time": "19-01-2026 08:17",
-        "news_link": "https://ekonomi.republika.co.id/berita/t93rkn370/rekonstruksi-pascabencana-di-sumbar-brantas-abipraya-perkuat-sinergi-dengan-kementerian-pu"
-    },
-    {
-        "title": "Ajak Mandiri Finansial Sejak Dini, CIMB Niaga Gelar Literasi Keuangan untuk Puluhan Ribu Pelajar",
-        "category": "Rejogja",
-        "publish_time": "19-01-2026 08:17",
-        "news_link": "https://rejogja.republika.co.id/berita/t93x7o282/ajak-mandiri-finansial-sejak-dini-cimb-niaga-gelar-literasi-keuangan-untuk-puluhan-ribu-pelajar"
-    },
-    {
-        "title": "Menhub Tinjau Langsung Evakuasi Pesawat ATR 42-500, Apresiasi Kerja Tim SAR",
-        "category": "Ekonomi",
-        "publish_time": "19-01-2026 08:17",
-        "news_link": "https://ekonomi.republika.co.id/berita/t93re2423/menhub-tinjau-langsung-evakuasi-pesawat-atr-42500-apresiasi-kerja-tim-sar"
-    },
-    {
-        "title": "Tim SAR Temukan Satu Korban Kecelakaan ATR 42-500 pada Hari Ketiga Pencarian",
-        "category": "News",
-        "publish_time": "19-01-2026 08:17",
-        "news_link": "https://news.republika.co.id/berita/t93rc6409/tim-sar-temukan-satu-korban-kecelakaan-atr-42500-pada-hari-ketiga-pencarian"
-    },
-    {
-        "title": "IHSG Bertahan di Atas 9.000, Ini Rekomendasi Saham Berdasarkan Risiko",
-        "category": "Ekonomi",
-        "publish_time": "19-01-2026 08:17",
-        "news_link": "https://ekonomi.republika.co.id/berita/t93qyl423/ihsg-bertahan-di-atas-9000-ini-rekomendasi-saham-berdasarkan-risiko"
-    },
-    {
-        "title": "Benarkah BTS Bakal Gelar Konser Gratis di Korea? Ini Jawaban BigHit",
-        "category": "Ameera",
-        "publish_time": "19-01-2026 08:17",
-        "news_link": "https://ameera.republika.co.id/berita/t93qr2425/benarkah-bts-bakal-gelar-konser-gratis-di-korea-ini-jawaban-bighit"
-    },
-    {
-        "title": "ANTAM Evakuasi Korban Penambang Tanpa Izin di Pongkor, Dirut Tegaskan Pengetatan Pengawasan dan K3",
-        "category": "Ekonomi",
-        "publish_time": "19-01-2026 08:17",
-        "news_link": "https://ekonomi.republika.co.id/berita/t93qjv522/antam-evakuasi-korban-penambang-tanpa-izin-di-pongkor-dirut-tegaskan-pengetatan-pengawasan-dan-k3"
-    },
-    {
-        "title": "WN China Pelaku Love Scamming Punya KTP dan Ijazah, Kok Bisa? Ini Penjelasan Imigrasi",
-        "category": "News",
-        "publish_time": "19-01-2026 08:17",
-        "news_link": "https://news.republika.co.id/berita/t93qjf377/wn-china-pelaku-love-scamming-punya-ktp-dan-ijazah-kok-bisa-ini-penjelasan-imigrasi"
     }
 ]
