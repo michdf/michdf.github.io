@@ -1,56 +1,236 @@
 [
     {
+        "title": "Jonatan Christie dan Sejumlah Unggulan Absen dari Indonesia Masters 2026",
+        "category": "News",
+        "publish_time": "20-01-2026 01:16",
+        "news_link": "https://news.republika.co.id/berita/t9527g348/jonatan-christie-dan-sejumlah-unggulan-absen-dari-indonesia-masters-2026"
+    },
+    {
+        "title": "Telusur Awal Hubungan Inggris dan Dunia Islam",
+        "category": "Khazanah",
+        "publish_time": "20-01-2026 01:14",
+        "news_link": "https://khazanah.republika.co.id/berita/t9520g458/telusur-awal-hubungan-inggris-dan-dunia-islam"
+    },
+    {
+        "title": "Geopolitik AS Dinilai Ancam Keadilan Iklim Negara Berkembang",
+        "category": "Esgnow",
+        "publish_time": "20-01-2026 01:11",
+        "news_link": "https://esgnow.republika.co.id/berita/t951z8522/geopolitik-as-dinilai-ancam-keadilan-iklim-negara-berkembang"
+    },
+    {
+        "title": "Fatayat NU Resmi Jadi 'Rumah Aman' bagi Anak dan Wanita Korban Kekerasan",
+        "category": "Khazanah",
+        "publish_time": "20-01-2026 01:10",
+        "news_link": "https://khazanah.republika.co.id/berita/t951xj451/fatayat-nu-resmi-jadi-rumah-aman-bagi-anak-dan-wanita-korban-kekerasan"
+    },
+    {
+        "title": "FPCI: Diplomasi Indonesia Perlu Lebih Aktif di ASEAN",
+        "category": "News",
+        "publish_time": "20-01-2026 01:07",
+        "news_link": "https://news.republika.co.id/berita/t951s6458/fpci-diplomasi-indonesia-perlu-lebih-aktif-di-asean"
+    },
+    {
+        "title": "PM Hongaria: Pemimpin Eropa Siapkan Skenario Perang Dunia Ketiga",
+        "category": "News",
+        "publish_time": "20-01-2026 00:52",
+        "news_link": "https://news.republika.co.id/berita/t9514m393/pm-hongaria-pemimpin-eropa-siapkan-skenario-perang-dunia-ketiga"
+    },
+    {
+        "title": "Puluhan Satwa Langka Diselamatkan dari Pelaku Perdagangan di Magelang",
+        "category": "News",
+        "publish_time": "20-01-2026 00:46",
+        "news_link": "https://news.republika.co.id/berita/t950tg451/puluhan-satwa-langka-diselamatkan-dari-pelaku-perdagangan-di-magelang"
+    },
+    {
+        "title": "Sejarah Penulisan Hadis: Pernah Dilarang Hingga Dibolehkan Rasulullah",
+        "category": "Khazanah",
+        "publish_time": "20-01-2026 00:39",
+        "news_link": "https://khazanah.republika.co.id/berita/t94ywl458/sejarah-penulisan-hadis-pernah-dilarang-hingga-dibolehkan-rasulullah"
+    },
+    {
+        "title": "Maroko Catat Rekor Peringkat FIFA, Senegal Melonjak ke Posisi 12 Dunia",
+        "category": "News",
+        "publish_time": "20-01-2026 00:39",
+        "news_link": "https://news.republika.co.id/berita/t950if348/maroko-catat-rekor-peringkat-fifa-senegal-melonjak-ke-posisi-12-dunia"
+    },
+    {
+        "title": "Guardiola Lupakan Kekalahan di Derbi Manchester, Fokus Man City Kini di Liga Champions",
+        "category": "News",
+        "publish_time": "20-01-2026 00:31",
+        "news_link": "https://news.republika.co.id/berita/t9504h348/guardiola-lupakan-kekalahan-di-derbi-manchester-fokus-man-city-kini-di-liga-champions"
+    },
+    {
+        "title": "Sejak Kapan Hadis Palsu Marak Beredar?",
+        "category": "Khazanah",
+        "publish_time": "20-01-2026 00:24",
+        "news_link": "https://khazanah.republika.co.id/berita/t94ycz458/sejak-kapan-hadis-palsu-marak-beredar"
+    },
+    {
+        "title": "Ramadhan 2026, Ingat Hadits Soal Puasa Ini",
+        "category": "Khazanah",
+        "publish_time": "20-01-2026 00:22",
+        "news_link": "https://khazanah.republika.co.id/berita/t94x16430/ramadhan-2026-ingat-hadits-soal-puasa-ini"
+    },
+    {
+        "title": "Maroko Gagal Juara Piala Afrika karena Penaltinya Dimentahkan, Brahim Diaz Minta Maaf",
+        "category": "News",
+        "publish_time": "20-01-2026 00:18",
+        "news_link": "https://news.republika.co.id/berita/t94zj5348/maroko-gagal-juara-piala-afrika-karena-penaltinya-dimentahkan-brahim-diaz-minta-maaf"
+    },
+    {
+        "title": "Bupati Pati Sudewo Diperiksa KPK di Polres Kudus dari Sebelum Subuh Sampai Malam",
+        "category": "News",
+        "publish_time": "20-01-2026 00:18",
+        "news_link": "https://news.republika.co.id/berita/t94ziq377/bupati-pati-sudewo-diperiksa-kpk-di-polres-kudus-dari-sebelum-subuh-sampai-malam"
+    },
+    {
+        "title": "Menolak Didoakan Sahabat Nabi",
+        "category": "Khazanah",
+        "publish_time": "20-01-2026 00:16",
+        "news_link": "https://khazanah.republika.co.id/berita/t94y8b458/menolak-didoakan-sahabat-nabi"
+    },
+    {
+        "title": "Meroket, Harga Emas Pegadaian Sentuh Rp2,7 Juta",
+        "category": "Ekonomi",
+        "publish_time": "20-01-2026 00:16",
+        "news_link": "https://ekonomi.republika.co.id/berita/t94z53370/meroket-harga-emas-pegadaian-sentuh-rp27-juta"
+    },
+    {
+        "title": "InJourney Targetkan Kelola 106 Hotel pada 2026",
+        "category": "Ekonomi",
+        "publish_time": "20-01-2026 00:16",
+        "news_link": "https://ekonomi.republika.co.id/berita/t94yza370/injourney-targetkan-kelola-106-hotel-pada-2026"
+    },
+    {
+        "title": "Viral Menu MBG Hanya Ubi dan Pisang di Bekasi, Begini Klarifikasi BGN",
+        "category": "News",
+        "publish_time": "20-01-2026 00:16",
+        "news_link": "https://news.republika.co.id/berita/t94yor377/viral-menu-mbg-hanya-ubi-dan-pisang-di-bekasi-begini-klarifikasi-bgn"
+    },
+    {
+        "title": "Dari Bima untuk Indonesia dan Dunia",
+        "category": "News",
+        "publish_time": "20-01-2026 00:16",
+        "news_link": "https://news.republika.co.id/berita/t94y2o458/dari-bima-untuk-indonesia-dan-dunia"
+    },
+    {
+        "title": "Jadwal Liga Champions: Pemuncak Klasemen Italia dan Inggris Beradu, Inter Milan Hadapi Arsenal",
+        "category": "News",
+        "publish_time": "20-01-2026 00:16",
+        "news_link": "https://news.republika.co.id/berita/t94ybk348/jadwal-liga-champions-pemuncak-klasemen-italia-dan-inggris-beradu-inter-milan-hadapi-arsenal"
+    },
+    {
+        "title": "Kisah Negeri yang Diazab dengan Hujan",
+        "category": "Khazanah",
+        "publish_time": "20-01-2026 00:16",
+        "news_link": "https://khazanah.republika.co.id/berita/t94xr1458/kisah-negeri-yang-diazab-dengan-hujan"
+    },
+    {
+        "title": "Doa Ketika Turun Hujan dan Mendengar Petir",
+        "category": "Iqra",
+        "publish_time": "19-01-2026 23:16",
+        "news_link": "https://iqra.republika.co.id/berita/t94xf0458/doa-ketika-turun-hujan-dan-mendengar-petir"
+    },
+    {
+        "title": "Petugas Haji Diminta Buang Mental Dilayani",
+        "category": "Khazanah",
+        "publish_time": "19-01-2026 23:16",
+        "news_link": "https://khazanah.republika.co.id/berita/t94v2g483/petugas-haji-diminta-buang-mental-dilayani"
+    },
+    {
+        "title": "Crystalin Lanjutkan Kemitraan dengan IBL pada Tahun Kelima",
+        "category": "News",
+        "publish_time": "19-01-2026 23:16",
+        "news_link": "https://news.republika.co.id/berita/t94xfs348/crystalin-lanjutkan-kemitraan-dengan-ibl-pada-tahun-kelima"
+    },
+    {
+        "title": "Hikmah Hujan Menurut Alquran",
+        "category": "Khazanah",
+        "publish_time": "19-01-2026 23:16",
+        "news_link": "https://khazanah.republika.co.id/berita/t94xa6458/hikmah-hujan-menurut-alquran"
+    },
+    {
+        "title": "PKS Jakarta Minta Izin Usaha Hiburan yang Jadi Tempat Peredaran Narkoba Dicabut Permanen",
+        "category": "News",
+        "publish_time": "19-01-2026 23:16",
+        "news_link": "https://news.republika.co.id/berita/t94x99483/pks-jakarta-minta-izin-usaha-hiburan-yang-jadi-tempat-peredaran-narkoba-dicabut-permanen"
+    },
+    {
+        "title": "1 Ramadhan 1447 H Bertepatan dengan 19 Februari 2026, tak Sampai Sebulan Lagi",
+        "category": "Khazanah",
+        "publish_time": "19-01-2026 23:16",
+        "news_link": "https://khazanah.republika.co.id/berita/t94wy4430/1-ramadhan-1447-h-bertepatan-dengan-19-februari-2026-tak-sampai-sebulan-lagi"
+    },
+    {
+        "title": "Dubes Inggris: Prabowo Bertemu PM Starmer Bahas Pertahanan, Iklim, Hingga Energi",
+        "category": "News",
+        "publish_time": "19-01-2026 23:16",
+        "news_link": "https://news.republika.co.id/berita/t94x3l484/dubes-inggris-prabowo-bertemu-pm-starmer-bahas-pertahanan-iklim-hingga-energi"
+    },
+    {
+        "title": "Indonesia Dipercaya Jadi Tuan Rumah FIFA Series 2026, Erick Thohir: Bukti Timnas Masuk Peta Global",
+        "category": "News",
+        "publish_time": "19-01-2026 23:16",
+        "news_link": "https://news.republika.co.id/berita/t94wto348/indonesia-dipercaya-jadi-tuan-rumah-fifa-series-2026-erick-thohir-bukti-timnas-masuk-peta-global"
+    },
+    {
+        "title": "Gambaran Alam Kubur dan Cara Selamat dari Siksaan di dalamnya",
+        "category": "Khazanah",
+        "publish_time": "19-01-2026 23:16",
+        "news_link": "https://khazanah.republika.co.id/berita/t94woj430/gambaran-alam-kubur-dan-cara-selamat-dari-siksaan-di-dalamnya"
+    },
+    {
         "title": "Bupati Pati Sudewo Kena OTT KPK, Ini Tanggapan Ketua Gerindra Jateng",
         "category": "News",
-        "publish_time": "19-01-2026 23:11",
+        "publish_time": "19-01-2026 23:16",
         "news_link": "https://news.republika.co.id/berita/t94wds348/bupati-pati-sudewo-kena-ott-kpk-ini-tanggapan-ketua-gerindra-jateng"
     },
     {
         "title": "Guru Besar UIN Ungkap Penyebab Mengapa Jamaah Haji Rentan Alami Stres di Tanah Suci",
         "category": "Khazanah",
-        "publish_time": "19-01-2026 23:00",
+        "publish_time": "19-01-2026 23:16",
         "news_link": "https://khazanah.republika.co.id/berita/t94una483/guru-besar-uin-ungkap-penyebab-mengapa-jamaah-haji-rentan-alami-stres-di-tanah-suci"
     },
     {
         "title": "Tolak Wacana Pilkada Tidak Langsung, Mahasiswa Geruduk Gedung DPRD Jatim",
         "category": "Visual",
-        "publish_time": "19-01-2026 23:00",
+        "publish_time": "19-01-2026 23:16",
         "news_link": "https://visual.republika.co.id/berita/t94d32375/tolak-wacana-pilkada-tidak-langsung-mahasiswa-geruduk-gedung-dprd-jatim"
     },
     {
         "title": "BMKG: Hujan Masih Dominasi Cuaca Indonesia Hari Ini",
         "category": "News",
-        "publish_time": "19-01-2026 22:45",
+        "publish_time": "19-01-2026 22:16",
         "news_link": "https://news.republika.co.id/berita/t94v7m5830000/bmkg-hujan-masih-dominasi-cuaca-indonesia-hari-ini"
     },
     {
         "title": "Nabi Muhammad SAW Khawatir Umatnya Sering Berbuat Syirik Kecil",
         "category": "Khazanah",
-        "publish_time": "19-01-2026 22:43",
+        "publish_time": "19-01-2026 22:16",
         "news_link": "https://khazanah.republika.co.id/berita/t94v3j430/nabi-muhammad-saw-khawatir-umatnya-sering-berbuat-syirik-kecil"
     },
     {
         "title": "Tak Diganjar Nobel Perdamaian, Alasan Trump Ngotot Caplok Greenland",
         "category": "News",
-        "publish_time": "19-01-2026 22:41",
+        "publish_time": "19-01-2026 22:16",
         "news_link": "https://news.republika.co.id/berita/t94v07393/tak-diganjar-nobel-perdamaian-alasan-trump-ngotot-caplok-greenland"
     },
     {
         "title": "IPC TPK Tetapkan Arah Strategis 2026, Fokus Perkuat Operasional dan Layanan",
         "category": "Ekonomi",
-        "publish_time": "19-01-2026 22:40",
+        "publish_time": "19-01-2026 22:16",
         "news_link": "https://ekonomi.republika.co.id/berita/t94uy1370/ipc-tpk-tetapkan-arah-strategis-2026-fokus-perkuat-operasional-dan-layanan"
     },
     {
         "title": "Zakat, Negara, dan Kesejahteraan Sosial: Refleksi 25 Tahun BAZNAS",
         "category": "Kolom",
-        "publish_time": "19-01-2026 22:34",
+        "publish_time": "19-01-2026 22:16",
         "news_link": "https://analisis.republika.co.id/berita/t948qp483/zakat-negara-dan-kesejahteraan-sosial-refleksi-25-tahun-baznas"
     },
     {
         "title": "Kemenkum Sulbar Perkuat Daya Saing UMKM dengan Sertifikasi Geografis",
         "category": "News",
-        "publish_time": "19-01-2026 22:30",
+        "publish_time": "19-01-2026 22:16",
         "news_link": "https://news.republika.co.id/berita/t94uic6130000/kemenkum-sulbar-perkuat-daya-saing-umkm-dengan-sertifikasi-geografis"
     },
     {
@@ -118,185 +298,5 @@
         "category": "News",
         "publish_time": "19-01-2026 19:16",
         "news_link": "https://news.republika.co.id/berita/t94kd92830000/polsek-nanggung-buka-posko-orang-hilang-terkait-insiden-tambang-pongkor"
-    },
-    {
-        "title": "Rendahnya Literasi dan Stigma Hambat Pengobatan TBC",
-        "category": "News",
-        "publish_time": "19-01-2026 19:16",
-        "news_link": "https://news.republika.co.id/berita/t94kc02230000/rendahnya-literasi-dan-stigma-hambat-pengobatan-tbc"
-    },
-    {
-        "title": "IPC Terminal Petikemas Rilis Roadmap 2026-2030 untuk Tingkatkan Layanan",
-        "category": "News",
-        "publish_time": "19-01-2026 19:16",
-        "news_link": "https://news.republika.co.id/berita/t94ka32030000/ipc-terminal-petikemas-rilis-roadmap-20262030-untuk-tingkatkan-layanan"
-    },
-    {
-        "title": "Kemenkum Babel Harmonisasi Ranperkada Penghasilan Pemdes Bangka",
-        "category": "News",
-        "publish_time": "19-01-2026 19:16",
-        "news_link": "https://news.republika.co.id/berita/t94k9g7430000/kemenkum-babel-harmonisasi-ranperkada-penghasilan-pemdes-bangka"
-    },
-    {
-        "title": "DPRD Bali Dukung Penyelesaian Polemik Lahan SMAN 1 Sidemen",
-        "category": "News",
-        "publish_time": "19-01-2026 19:16",
-        "news_link": "https://news.republika.co.id/berita/t94k818630000/dprd-bali-dukung-penyelesaian-polemik-lahan-sman-1-sidemen"
-    },
-    {
-        "title": "Gubernur Sulsel Usulkan Modifikasi Cuaca untuk Evakuasi Pesawat ATR di Pangkep",
-        "category": "News",
-        "publish_time": "19-01-2026 19:16",
-        "news_link": "https://news.republika.co.id/berita/t94k7c2130000/gubernur-sulsel-usulkan-modifikasi-cuaca-untuk-evakuasi-pesawat-atr-di-pangkep"
-    },
-    {
-        "title": "John Herdman Targetkan Indonesia Lolos Piala Dunia 2030",
-        "category": "News",
-        "publish_time": "19-01-2026 18:16",
-        "news_link": "https://news.republika.co.id/berita/t94k4x4830000/john-herdman-targetkan-indonesia-lolos-piala-dunia-2030"
-    },
-    {
-        "title": "John Herdman: Bobby Robson Jadi Inspirasi Utama Saya",
-        "category": "News",
-        "publish_time": "19-01-2026 18:16",
-        "news_link": "https://news.republika.co.id/berita/t94jfe4430000/john-herdman-bobby-robson-jadi-inspirasi-utama-saya"
-    },
-    {
-        "title": "John Herdman, Pelatih Baru Timnas Indonesia dengan Rekam Jejak Gemilang",
-        "category": "News",
-        "publish_time": "19-01-2026 18:16",
-        "news_link": "https://news.republika.co.id/berita/t94ipo530000/john-herdman-pelatih-baru-timnas-indonesia-dengan-rekam-jejak-gemilang"
-    },
-    {
-        "title": "Alasan Menbud Fadli Zon Yakin KGPH Tedjowulan Mampu Merevitalisasi Keraton Solo",
-        "category": "News",
-        "publish_time": "19-01-2026 18:16",
-        "news_link": "https://news.republika.co.id/berita/t94850409/alasan-menbud-fadli-zon-yakin-kgph-tedjowulan-mampu-merevitalisasi-keraton-solo"
-    },
-    {
-        "title": "BMKG: DKI Jakarta Diperkirakan Diguyur Hujan Sepanjang Hari",
-        "category": "News",
-        "publish_time": "19-01-2026 18:16",
-        "news_link": "https://news.republika.co.id/berita/t94i0b6730000/bmkg-dki-jakarta-diperkirakan-diguyur-hujan-sepanjang-hari"
-    },
-    {
-        "title": "Seleksi Petugas Haji Sumbar 1447 H Mengedepankan Transparansi demi Layanan Prima",
-        "category": "Khazanah",
-        "publish_time": "19-01-2026 18:16",
-        "news_link": "https://khazanah.republika.co.id/berita/t93tar451/seleksi-petugas-haji-sumbar-1447-h-mengedepankan-transparansi-demi-layanan-prima"
-    },
-    {
-        "title": "Pengacara Nadiem Laporkan Tiga Saksi Korupsi Chromebook ke KPK",
-        "category": "News",
-        "publish_time": "19-01-2026 17:16",
-        "news_link": "https://news.republika.co.id/berita/t94hbe8530000/pengacara-nadiem-laporkan-tiga-saksi-korupsi-chromebook-ke-kpk"
-    },
-    {
-        "title": "Indonesia Siap Ikuti Parade Pembukaan ASEAN Para Games 2025 di Thailand",
-        "category": "News",
-        "publish_time": "19-01-2026 17:16",
-        "news_link": "https://news.republika.co.id/berita/t94gmd4530000/indonesia-siap-ikuti-parade-pembukaan-asean-para-games-2025-di-thailand"
-    },
-    {
-        "title": "Mendorong Hilirisasi untuk Menggenjot Kesejahteraan Petani Lokal",
-        "category": "Ekonomi",
-        "publish_time": "19-01-2026 17:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/t93tkf451/mendorong-hilirisasi-untuk-menggenjot-kesejahteraan-petani-lokal"
-    },
-    {
-        "title": "Penyelundupan 1.000 Ton Beras di Karimun, Kabapanas: Pengkhianatan Bangsa",
-        "category": "News",
-        "publish_time": "19-01-2026 17:16",
-        "news_link": "https://news.republika.co.id/berita/t94fxf1030000/penyelundupan-1000-ton-beras-di-karimun-kabapanas-pengkhianatan-bangsa"
-    },
-    {
-        "title": "KPU Bangka Tengah Perkuat Pendidikan Pemilih dan Akurasi Data",
-        "category": "News",
-        "publish_time": "19-01-2026 17:16",
-        "news_link": "https://news.republika.co.id/berita/t94f87730000/kpu-bangka-tengah-perkuat-pendidikan-pemilih-dan-akurasi-data"
-    },
-    {
-        "title": "Jalur Rel Stasiun Pekalongan-Sragi Sudah Bisa Dilalui Kereta Api",
-        "category": "Visual",
-        "publish_time": "19-01-2026 17:16",
-        "news_link": "https://visual.republika.co.id/berita/t94co5375/jalur-rel-stasiun-pekalongansragi-sudah-bisa-dilalui-kereta-api"
-    },
-    {
-        "title": "Wali Kota Madiun Tiba di KPK, Usai Terjaring OTT",
-        "category": "Video",
-        "publish_time": "19-01-2026 17:16",
-        "news_link": "https://tv.republika.co.id/berita/t94es0313/wali-kota-madiun-tiba-di-kpk-usai-terjaring-ott"
-    },
-    {
-        "title": "MA didesak Menangkan Gugatan Petani Sawit untuk Batalkan PP Nomor 45/2025",
-        "category": "Ekonomi",
-        "publish_time": "19-01-2026 16:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/t946ca451/ma-didesak-menangkan-gugatan-petani-sawit-untuk-batalkan-pp-nomor-452025"
-    },
-    {
-        "title": "Wali Kota Madiun Maidi Tiba di Gedung Merah Putih Usai Terjaring OTT KPK",
-        "category": "Visual",
-        "publish_time": "19-01-2026 16:16",
-        "news_link": "https://visual.republika.co.id/berita/t94dok375/wali-kota-madiun-maidi-tiba-di-gedung-merah-putih-usai-terjaring-ott-kpk"
-    },
-    {
-        "title": "Khutbah Kematian yang Disampaikan Ali Bin Abi Thalib, Pesan yang Menguras Air Mata",
-        "category": "Khazanah",
-        "publish_time": "19-01-2026 16:16",
-        "news_link": "https://khazanah.republika.co.id/berita/t94dkh320/khutbah-kematian-yang-disampaikan-ali-bin-abi-thalib-pesan-yang-menguras-air-mata"
-    },
-    {
-        "title": "6 Perkara Ini Sekilas Baik Tapi Samar-Samar Bahkan Berbahaya Bagian Tipu Daya Setan",
-        "category": "Khazanah",
-        "publish_time": "19-01-2026 16:16",
-        "news_link": "https://khazanah.republika.co.id/berita/t94d4p320/6-perkara-ini-sekilas-baik-tapi-samarsamar-bahkan-berbahaya-bagian-tipu-daya-setan"
-    },
-    {
-        "title": "Menutup Konflik Agraria, Memastikan Kehadiran Negara",
-        "category": "Kolom",
-        "publish_time": "19-01-2026 16:16",
-        "news_link": "https://analisis.republika.co.id/berita/t94a23320/menutup-konflik-agraria-memastikan-kehadiran-negara"
-    },
-    {
-        "title": "1.970 Hektar Lahan Sawah di Kudus Terendam Banjir, Petani Terancam Gagal Panen",
-        "category": "Visual",
-        "publish_time": "19-01-2026 16:16",
-        "news_link": "https://visual.republika.co.id/berita/t941n5375/1970-hektar-lahan-sawah-di-kudus-terendam-banjir-petani-terancam-gagal-panen"
-    },
-    {
-        "title": "Bantah Tuduhan Genosida Rohingya, Myanmar Sebut Gambia Gagal Hadirkan Bukti",
-        "category": "Khazanah",
-        "publish_time": "19-01-2026 16:16",
-        "news_link": "https://khazanah.republika.co.id/berita/t94c85320/bantah-tuduhan-genosida-rohingya-myanmar-sebut-gambia-gagal-hadirkan-bukti"
-    },
-    {
-        "title": "Bank Indonesia Buka Suara Soal Pengunduran Diri Juda Agung, Gubernur BI Sudah Ajukan Pengganti",
-        "category": "Ekonomi",
-        "publish_time": "19-01-2026 16:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/t94c7s502/bank-indonesia-buka-suara-soal-pengunduran-diri-juda-agung-gubernur-bi-sudah-ajukan-pengganti"
-    },
-    {
-        "title": "Pintu Futures Catat Lonjakan Perdagangan Derivatif Crypto Sepanjang 2025",
-        "category": "Ekonomi",
-        "publish_time": "19-01-2026 16:16",
-        "news_link": "https://ekonomi.republika.co.id/berita/t93sk8370/pintu-futures-catat-lonjakan-perdagangan-derivatif-crypto-sepanjang-2025"
-    },
-    {
-        "title": "ARF: Kinerja Menteri Bahlil Moncer dalam Menyelamatkan Uang Negara",
-        "category": "News",
-        "publish_time": "19-01-2026 15:16",
-        "news_link": "https://news.republika.co.id/berita/t9466b451/arf-kinerja-menteri-bahlil-moncer-dalam-menyelamatkan-uang-negara"
-    },
-    {
-        "title": "Film 5 Centimeters Per Second Live Action Tayang di Bioskop Indonesia Mulai 30 Januari",
-        "category": "Ameera",
-        "publish_time": "19-01-2026 15:16",
-        "news_link": "https://ameera.republika.co.id/berita/t94bl5425/film-5-centimeters-per-second-live-action-tayang-di-bioskop-indonesia-mulai-30-januari"
-    },
-    {
-        "title": "Penderita Diabetes Mau Olahraga Saat Puasa? Ini Waktu Paling Aman Menurut Dokter",
-        "category": "Ameera",
-        "publish_time": "19-01-2026 15:16",
-        "news_link": "https://ameera.republika.co.id/berita/t94aj7425/penderita-diabetes-mau-olahraga-saat-puasa-ini-waktu-paling-aman-menurut-dokter"
     }
 ]
