@@ -1,104 +1,296 @@
 [
     {
+        "title": "Penyidik KPK Geledah Rumah Dinas Bupati Pati Sudewo",
+        "category": "News",
+        "publish_time": "22-01-2026 08:24",
+        "news_link": "https://news.republika.co.id/berita/t99bc7377/penyidik-kpk-geledah-rumah-dinas-bupati-pati-sudewo"
+    },
+    {
+        "title": "Ilmu dan Ekosistem Kebangkitan Peradaban",
+        "category": "Kolom",
+        "publish_time": "22-01-2026 08:23",
+        "news_link": "https://analisis.republika.co.id/berita/t99bag451/ilmu-dan-ekosistem-kebangkitan-peradaban"
+    },
+    {
+        "title": "Bandung Barat Mencekam, Dua Ormas Bentrok Tewaskan 1 Orang, Polisi Bergerak",
+        "category": "Rejabar",
+        "publish_time": "22-01-2026 08:20",
+        "news_link": "https://rejabar.republika.co.id/berita/t99b5k282/bandung-barat-mencekam-dua-ormas-bentrok-tewaskan-1-orang-polisi-bergerak"
+    },
+    {
+        "title": "Skripsi Cuma Arsip atau Aset Mahasiswa?",
+        "category": "News",
+        "publish_time": "22-01-2026 08:18",
+        "news_link": "https://news.republika.co.id/berita/t99b3d472/skripsi-cuma-arsip-atau-aset-mahasiswa"
+    },
+    {
+        "title": "Purbaya: Pergantian Deputi BI Bukan Penyebab Rupiah Melemah",
+        "category": "Ekonomi",
+        "publish_time": "22-01-2026 08:18",
+        "news_link": "https://ekonomi.republika.co.id/berita/t99b33423/purbaya-pergantian-deputi-bi-bukan-penyebab-rupiah-melemah"
+    },
+    {
+        "title": "Abu Zaid Al-Balkhi, Strategi, dan Pendekatan Mengatasi Depresi",
+        "category": "Kolom",
+        "publish_time": "22-01-2026 08:17",
+        "news_link": "https://analisis.republika.co.id/berita/t99b1u451/abu-zaid-albalkhi-strategi-dan-pendekatan-mengatasi-depresi"
+    },
+    {
+        "title": "Saat Situasi Mulai Tenang, Aksi Teror Guncang Yaman Selatan Targetkan Elite Militer Pemerintah",
+        "category": "Khazanah",
+        "publish_time": "22-01-2026 08:14",
+        "news_link": "https://khazanah.republika.co.id/berita/t99awp320/saat-situasi-mulai-tenang-aksi-teror-guncang-yaman-selatan-targetkan-elite-militer-pemerintah"
+    },
+    {
+        "title": "Viral Warga NTT Tembak Mati Burung Hantu Pakai Senapan Angin, Polisi Amankan Pelaku",
+        "category": "Rejogja",
+        "publish_time": "22-01-2026 08:11",
+        "news_link": "https://rejogja.republika.co.id/berita/t99art282/viral-warga-ntt-tembak-mati-burung-hantu-pakai-senapan-angin-polisi-amankan-pelaku"
+    },
+    {
+        "title": "Booking Berkah Ramadan IZI Targetkan Kemandirian Ibadah Dhuafa di Pelosok dan Wilayah Bencana",
+        "category": "Khazanah",
+        "publish_time": "22-01-2026 08:11",
+        "news_link": "https://khazanah.republika.co.id/berita/t99arh451/booking-berkah-ramadan-izi-targetkan-kemandirian-ibadah-dhuafa-di-pelosok-dan-wilayah-bencana"
+    },
+    {
+        "title": "BI Catat Transaksi QRIS Tap Capai Rp 28 Miliar hingga Akhir 2025",
+        "category": "Ekonomi",
+        "publish_time": "22-01-2026 08:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/t99apd490/bi-catat-transaksi-qris-tap-capai-rp-28-miliar-hingga-akhir-2025"
+    },
+    {
+        "title": "Stok Pangan Nasional Dipastikan Aman Jelang Ramadhan dan Lebaran",
+        "category": "Ekonomi",
+        "publish_time": "22-01-2026 08:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/t99aom423/stok-pangan-nasional-dipastikan-aman-jelang-ramadhan-dan-lebaran"
+    },
+    {
+        "title": "Dedi Mulyadi Buka Suara Soal Investasi di Jabar Tertinggi, tapi PHK Marak",
+        "category": "Ekonomi",
+        "publish_time": "22-01-2026 08:07",
+        "news_link": "https://ekonomi.republika.co.id/berita/t99ako416/dedi-mulyadi-buka-suara-soal-investasi-di-jabar-tertinggi-tapi-phk-marak"
+    },
+    {
+        "title": "Ikut Dewan Perdamaian Gaza Bentukan Trump, Indonesia Harus Bayar Rp 16,8 T Jika Mau Anggota Tetap",
+        "category": "News",
+        "publish_time": "22-01-2026 08:05",
+        "news_link": "https://news.republika.co.id/berita/t99age377/ikut-dewan-perdamaian-gaza-bentukan-trump-indonesia-harus-bayar-rp-168-t-jika-mau-anggota-tetap"
+    },
+    {
+        "title": "Kemendikdasmen Buka Pendaftaran TKA SD dan SMP Tahun 2026",
+        "category": "News",
+        "publish_time": "22-01-2026 08:03",
+        "news_link": "https://news.republika.co.id/berita/t99adk472/kemendikdasmen-buka-pendaftaran-tka-sd-dan-smp-tahun-2026"
+    },
+    {
+        "title": "Suasana Haru Selimuti Kedatangan Jenazah Pegawai KKP Korban Pesawat ATR 42-500 di Bandara Soetta",
+        "category": "Visual",
+        "publish_time": "22-01-2026 08:00",
+        "news_link": "https://visual.republika.co.id/berita/t9981j375/suasana-haru-selimuti-kedatangan-jenazah-pegawai-kkp-korban-pesawat-atr-42500-di-bandara-soetta"
+    },
+    {
+        "title": "RI Masuk Board of Peace Bentukan Trump, Pakar: Diplomasi Aktif Saat Perdamaian Palestina Mandek",
+        "category": "News",
+        "publish_time": "22-01-2026 07:58",
+        "news_link": "https://news.republika.co.id/berita/t99a66451/ri-masuk-board-of-peace-bentukan-trump-pakar-diplomasi-aktif-saat-perdamaian-palestina-mandek"
+    },
+    {
+        "title": "Ledakan Pipa Gas di Rokan Hilangkan Produksi Minyak 2 Juta Barel",
+        "category": "Ekonomi",
+        "publish_time": "22-01-2026 07:57",
+        "news_link": "https://ekonomi.republika.co.id/berita/t99a3u370/ledakan-pipa-gas-di-rokan-hilangkan-produksi-minyak-2-juta-barel"
+    },
+    {
+        "title": "Mendorong Industri Halal: Indonesia Siap Pimpin D-8 Menuju Ekonomi Berkelanjutan",
+        "category": "Ekonomi Syariah",
+        "publish_time": "22-01-2026 07:56",
+        "news_link": "https://sharia.republika.co.id/berita/t99a2i502/mendorong-industri-halal-indonesia-siap-pimpin-d8-menuju-ekonomi-berkelanjutan"
+    },
+    {
+        "title": "Menhut Bentuk Satgas Pembiayaan untuk Perkuat Taman Nasional",
+        "category": "Esgnow",
+        "publish_time": "22-01-2026 07:55",
+        "news_link": "https://esgnow.republika.co.id/berita/t99a0p490/menhut-bentuk-satgas-pembiayaan-untuk-perkuat-taman-nasional"
+    },
+    {
+        "title": "Kepemimpinan Militer dan Seni Menahan Diri di Era Konsolidasi Demokratik",
+        "category": "Kolom",
+        "publish_time": "22-01-2026 07:54",
+        "news_link": "https://analisis.republika.co.id/berita/t999z7393/kepemimpinan-militer-dan-seni-menahan-diri-di-era-konsolidasi-demokratik"
+    },
+    {
+        "title": "Amran Klaim Aksi Mogok Pedagang Daging Sapi Telah Tertangani",
+        "category": "Ekonomi",
+        "publish_time": "22-01-2026 07:47",
+        "news_link": "https://ekonomi.republika.co.id/berita/t999ms490/amran-klaim-aksi-mogok-pedagang-daging-sapi-telah-tertangani"
+    },
+    {
+        "title": "Banjir Rusak Puluhan Ribu Hektare Tambak Aceh, Produksi Perikanan Tertekan",
+        "category": "Ekonomi",
+        "publish_time": "22-01-2026 07:46",
+        "news_link": "https://ekonomi.republika.co.id/berita/t999kr416/banjir-rusak-puluhan-ribu-hektare-tambak-aceh-produksi-perikanan-tertekan"
+    },
+    {
+        "title": "PNM Perluas Pemberdayaan Perempuan di Maluku Utara",
+        "category": "Ekonomi",
+        "publish_time": "22-01-2026 07:42",
+        "news_link": "https://ekonomi.republika.co.id/berita/t999eh472/pnm-perluas-pemberdayaan-perempuan-di-maluku-utara"
+    },
+    {
+        "title": "KDM Usulkan Warga Terdampak Banjir Direlokasi dan Cekungan di Karangligar Karawang Dibuat Danau",
+        "category": "Rejabar",
+        "publish_time": "22-01-2026 07:41",
+        "news_link": "https://rejabar.republika.co.id/berita/t999dj282/kdm-usulkan-warga-terdampak-banjir-direlokasi-dan-cekungan-di-karangligar-karawang-dibuat-danau"
+    },
+    {
+        "title": "Pemerintah Trump Percepat Izin Penambangan Laut Dalam di Perairan Internasional",
+        "category": "Esgnow",
+        "publish_time": "22-01-2026 07:40",
+        "news_link": "https://esgnow.republika.co.id/berita/t999bk423/pemerintah-trump-percepat-izin-penambangan-laut-dalam-di-perairan-internasional"
+    },
+    {
+        "title": "Pemprov Riau Beri Tenggat Tiga Bulan Bongkar Sawit di TN Tesso Nilo",
+        "category": "Esgnow",
+        "publish_time": "22-01-2026 07:39",
+        "news_link": "https://esgnow.republika.co.id/berita/t999a8490/pemprov-riau-beri-tenggat-tiga-bulan-bongkar-sawit-di-tn-tesso-nilo"
+    },
+    {
+        "title": "Disdik Tangsel Pecat Guru SD yang Diduga Cabuli Sejumlah Murid",
+        "category": "News",
+        "publish_time": "22-01-2026 07:33",
+        "news_link": "https://news.republika.co.id/berita/t998zn409/disdik-tangsel-pecat-guru-sd-yang-diduga-cabuli-sejumlah-murid"
+    },
+    {
+        "title": "Nagara Institute Bersama AFU Bedah Tantangan Investasi Danantara dan Ekonomi Daerah",
+        "category": "Rejabar",
+        "publish_time": "22-01-2026 07:32",
+        "news_link": "https://rejabar.republika.co.id/berita/t998y1472/nagara-institute-bersama-afu-bedah-tantangan-investasi-danantara-dan-ekonomi-daerah"
+    },
+    {
+        "title": "Danantara Pastikan Huntara Layak Huni bagi Penyintas Banjir di Sumatera",
+        "category": "Ekonomi",
+        "publish_time": "22-01-2026 07:31",
+        "news_link": "https://ekonomi.republika.co.id/berita/t998x8423/danantara-pastikan-huntara-layak-huni-bagi-penyintas-banjir-di-sumatera"
+    },
+    {
+        "title": "BGN Siapkan Anggaran Rp 7,1 Triliun untuk Kebutuhan Gaji Pegawai, Termasuk PPPK",
+        "category": "News",
+        "publish_time": "22-01-2026 07:25",
+        "news_link": "https://news.republika.co.id/berita/t998mk487/bgn-siapkan-anggaran-rp-71-triliun-untuk-kebutuhan-gaji-pegawai-termasuk-pppk"
+    },
+    {
+        "title": "Perubahan Logo Perusahaan Otomotif dalam Dinamika Reputasi di Era Keberlanjutan",
+        "category": "Kolom",
+        "publish_time": "22-01-2026 07:24",
+        "news_link": "https://analisis.republika.co.id/berita/t998ki472/perubahan-logo-perusahaan-otomotif-dalam-dinamika-reputasi-di-era-keberlanjutan"
+    },
+    {
+        "title": "BI Sambut Positif Asesmen IMF soal Ketahanan Ekonomi Indonesia",
+        "category": "Ekonomi",
+        "publish_time": "22-01-2026 07:24",
+        "news_link": "https://ekonomi.republika.co.id/berita/t998kd490/bi-sambut-positif-asesmen-imf-soal-ketahanan-ekonomi-indonesia"
+    },
+    {
         "title": "Tanggal Perkiraan 1 Ramadhan 2026 di Pakistan Diumumkan",
         "category": "Khazanah",
-        "publish_time": "22-01-2026 07:16",
+        "publish_time": "22-01-2026 07:24",
         "news_link": "https://khazanah.republika.co.id/berita/t9986q430/tanggal-perkiraan-1-ramadhan-2026-di-pakistan-diumumkan"
     },
     {
         "title": "Perlu Sinergi Muzaki, Mustahik dan Amil dalam Mengelola Zakat",
         "category": "Khazanah",
-        "publish_time": "22-01-2026 07:13",
+        "publish_time": "22-01-2026 07:24",
         "news_link": "https://khazanah.republika.co.id/berita/t9982q483/perlu-sinergi-muzaki-mustahik-dan-amil-dalam-mengelola-zakat"
     },
     {
         "title": "Cha Eunwoo Terjerat Kasus Dugaan Penggelapan Pajak Hingga Miliaran",
         "category": "Ameera",
-        "publish_time": "22-01-2026 07:11",
+        "publish_time": "22-01-2026 07:24",
         "news_link": "https://ameera.republika.co.id/berita/t997y2425/cha-eunwoo-terjerat-kasus-dugaan-penggelapan-pajak-hingga-miliaran"
     },
     {
         "title": "Kasus Guru Cukur Rambut Murid di Jambi Dihentikan Polisi, Mendikdasmen: Alhamdulillah",
         "category": "News",
-        "publish_time": "22-01-2026 07:09",
+        "publish_time": "22-01-2026 07:24",
         "news_link": "https://news.republika.co.id/berita/t997uw409/kasus-guru-cukur-rambut-murid-di-jambi-dihentikan-polisi-mendikdasmen-alhamdulillah"
     },
     {
         "title": "Enam Peristiwa Jelang Kiamat: Perjanjian Damai dengan Bani Ashfar Hingga Wabah Mematikan",
         "category": "Khazanah",
-        "publish_time": "22-01-2026 07:08",
+        "publish_time": "22-01-2026 07:24",
         "news_link": "https://khazanah.republika.co.id/berita/t997ug483/enam-peristiwa-jelang-kiamat-perjanjian-damai-dengan-bani-ashfar-hingga-wabah-mematikan"
     },
     {
         "title": "Prabowo Dijadwalkan Berpidato di WEF 2026, Angkat Konsep Prabowonomics",
         "category": "Ekonomi",
-        "publish_time": "22-01-2026 07:07",
+        "publish_time": "22-01-2026 07:24",
         "news_link": "https://ekonomi.republika.co.id/berita/t997sg370/prabowo-dijadwalkan-berpidato-di-wef-2026-angkat-konsep-prabowonomics"
     },
     {
         "title": "Serangan ISIS Luluhlantakkan Restoran Muslim Tionghoa di Afghanistan",
         "category": "Khazanah",
-        "publish_time": "22-01-2026 07:06",
+        "publish_time": "22-01-2026 07:24",
         "news_link": "https://khazanah.republika.co.id/berita/t997qj430/serangan-isis-luluhlantakkan-restoran-muslim-tionghoa-di-afghanistan"
     },
     {
         "title": "Saudi Larang Pengeras Suara Luar Ruangan di Masjid Selama Ramadhan",
         "category": "Khazanah",
-        "publish_time": "22-01-2026 07:01",
+        "publish_time": "22-01-2026 07:24",
         "news_link": "https://khazanah.republika.co.id/berita/t997i1483/saudi-larang-pengeras-suara-luar-ruangan-di-masjid-selama-ramadhan"
     },
     {
         "title": "Harga Sapi Mahal, Pedagang Daging di Pasar Minggu Jakarta Mogok Jualan",
         "category": "Visual",
-        "publish_time": "22-01-2026 06:57",
+        "publish_time": "22-01-2026 07:24",
         "news_link": "https://visual.republika.co.id/berita/t997bm375/harga-sapi-mahal-pedagang-daging-di-pasar-minggu-jakarta-mogok-jualan"
     },
     {
         "title": "Banjir Karawang, Dedi Mulyadi Minta Warga Karangligar Direlokasi, Lalu Kawasan Itu Dibuat Danau",
         "category": "News",
-        "publish_time": "22-01-2026 06:52",
+        "publish_time": "22-01-2026 06:24",
         "news_link": "https://news.republika.co.id/berita/t9973a377/banjir-karawang-dedi-mulyadi-minta-warga-karangligar-direlokasi-lalu-kawasan-itu-dibuat-danau"
     },
     {
         "title": "Indonesia dan Inggris Kembangkan Model Pembiayaan Alam Berkelanjutan",
         "category": "Esgnow",
-        "publish_time": "22-01-2026 06:48",
+        "publish_time": "22-01-2026 06:24",
         "news_link": "https://esgnow.republika.co.id/berita/t996cd416/indonesia-dan-inggris-kembangkan-model-pembiayaan-alam-berkelanjutan"
     },
     {
         "title": "Danantara Bangun 1.275 Huntara di Tiga Provinsi Terdampak Bencana",
         "category": "Ekonomi",
-        "publish_time": "22-01-2026 06:46",
+        "publish_time": "22-01-2026 06:24",
         "news_link": "https://ekonomi.republika.co.id/berita/t996so370/danantara-bangun-1275-huntara-di-tiga-provinsi-terdampak-bencana"
     },
     {
         "title": "Simpan Roti di Freezer Ternyata Lebih Sehat?",
         "category": "Ameera",
-        "publish_time": "22-01-2026 06:43",
+        "publish_time": "22-01-2026 06:24",
         "news_link": "https://ameera.republika.co.id/berita/t996np425/simpan-roti-di-freezer-ternyata-lebih-sehat"
     },
     {
         "title": "Amar Bank Masuk Ekosistem Digital MRT Jakarta",
         "category": "Ekonomi",
-        "publish_time": "22-01-2026 06:42",
+        "publish_time": "22-01-2026 06:24",
         "news_link": "https://ekonomi.republika.co.id/berita/t996mx416/amar-bank-masuk-ekosistem-digital-mrt-jakarta"
     },
     {
         "title": "Warga Heboh Temukan Montir Motor Tewas Gantung Diri",
         "category": "Rejabar",
-        "publish_time": "22-01-2026 06:39",
+        "publish_time": "22-01-2026 06:24",
         "news_link": "https://rejabar.republika.co.id/berita/t996hp487/warga-heboh-temukan-montir-motor-tewas-gantung-diri"
     },
     {
         "title": "Dedi Mulyadi Jelaskan Alasan Gaji PPPK di Pemprov Jabar Belum Dibayarkan",
         "category": "News",
-        "publish_time": "22-01-2026 06:33",
+        "publish_time": "22-01-2026 06:24",
         "news_link": "https://news.republika.co.id/berita/t99677487/dedi-mulyadi-jelaskan-alasan-gaji-pppk-di-pemprov-jabar-belum-dibayarkan"
     },
     {
         "title": "Penyanyi Meghan Trainor Gunakan Ibu Pengganti untuk Melahirkan Anak Ketiganya",
         "category": "Ameera",
-        "publish_time": "22-01-2026 06:26",
+        "publish_time": "22-01-2026 06:24",
         "news_link": "https://ameera.republika.co.id/berita/t995wh425/penyanyi-meghan-trainor-gunakan-ibu-pengganti-untuk-melahirkan-anak-ketiganya"
     },
     {
@@ -106,197 +298,5 @@
         "category": "Rejabar",
         "publish_time": "22-01-2026 06:24",
         "news_link": "https://rejabar.republika.co.id/berita/t995sl487/angin-kencang-diprakirakan-hingga-akhir-januari-ini-imbauan-bmkg"
-    },
-    {
-        "title": "KKP Beri Beasiswa Pendidikan Anak Almarhum Deden Maulana hingga Perguruan Tinggi",
-        "category": "News",
-        "publish_time": "22-01-2026 06:23",
-        "news_link": "https://news.republika.co.id/berita/t995gg487/kkp-beri-beasiswa-pendidikan-anak-almarhum-deden-maulana-hingga-perguruan-tinggi"
-    },
-    {
-        "title": "Jakarta Hujan Deras Sejak Pagi, Ini Daftar Daerah dan Jalanan yang Tergenang Banjir",
-        "category": "News",
-        "publish_time": "22-01-2026 06:23",
-        "news_link": "https://news.republika.co.id/berita/t995an377/jakarta-hujan-deras-sejak-pagi-ini-daftar-daerah-dan-jalanan-yang-tergenang-banjir"
-    },
-    {
-        "title": "Jadi Ketua Umum Partai Gerakan Rakyat, Sahrin Hamid Mundur Sebagai Komisaris Jakpro",
-        "category": "News",
-        "publish_time": "22-01-2026 06:23",
-        "news_link": "https://news.republika.co.id/berita/t9956r487/jadi-ketua-umum-partai-gerakan-rakyat-sahrin-hamid-mundur-sebagai-komisaris-jakpro"
-    },
-    {
-        "title": "Seniman Brian Eno Hingga Antony Gormley Ikut Lelang Seni Dukung Tenaga Medis Gaza",
-        "category": "Ameera",
-        "publish_time": "22-01-2026 06:23",
-        "news_link": "https://ameera.republika.co.id/berita/t994x9425/seniman-brian-eno-hingga-antony-gormley-ikut-lelang-seni-dukung-tenaga-medis-gaza"
-    },
-    {
-        "title": "Cerita Keluarga Ikut dalam Pencarian Jenazah Deden Maulana, Korban Pesawat ATR yang Jatuh",
-        "category": "News",
-        "publish_time": "22-01-2026 06:23",
-        "news_link": "https://news.republika.co.id/berita/t994na377/cerita-keluarga-ikut-dalam-pencarian-jenazah-deden-maulana-korban-pesawat-atr-yang-jatuh"
-    },
-    {
-        "title": "Jangan Ditunda, Berikut Tiga Keutamaan Puasa Sunah Sya'ban",
-        "category": "Khazanah",
-        "publish_time": "22-01-2026 06:23",
-        "news_link": "https://khazanah.republika.co.id/berita/t994e5483/jangan-ditunda-berikut-tiga-keutamaan-puasa-sunah-syaban"
-    },
-    {
-        "title": "Mulai 2026, Insentif Dokter Spesialis Daerah 3T Disalurkan Langsung oleh Pusat",
-        "category": "Ekonomi",
-        "publish_time": "22-01-2026 05:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t993fk370/mulai-2026-insentif-dokter-spesialis-daerah-3t-disalurkan-langsung-oleh-pusat"
-    },
-    {
-        "title": "Tanggul Muara Baru Diawasi CCTV, Pembuang Sampah Sembarangan Bakal Disanksi",
-        "category": "Esgnow",
-        "publish_time": "22-01-2026 05:23",
-        "news_link": "https://esgnow.republika.co.id/berita/t992ik416/tanggul-muara-baru-diawasi-cctv-pembuang-sampah-sembarangan-bakal-disanksi"
-    },
-    {
-        "title": "Perempuan Tewas Setelah Tertemper Kereta di Stasiun Gondangdia, Ini Kata KAI",
-        "category": "Ekonomi",
-        "publish_time": "22-01-2026 05:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t992xy370/perempuan-tewas-setelah-tertemper-kereta-di-stasiun-gondangdia-ini-kata-kai"
-    },
-    {
-        "title": "Menanti Solusi Nyata untuk Krisis Sampah Kota",
-        "category": "Esgnow",
-        "publish_time": "22-01-2026 05:23",
-        "news_link": "https://esgnow.republika.co.id/berita/t992wg490/menanti-solusi-nyata-untuk-krisis-sampah-kota"
-    },
-    {
-        "title": "AllianzGI dan Bank DBS Buka Akses Investasi Syariah Global Berbasis Dolar AS",
-        "category": "Ekonomi Syariah",
-        "publish_time": "22-01-2026 05:23",
-        "news_link": "https://sharia.republika.co.id/berita/t992sw416/allianzgi-dan-bank-dbs-buka-akses-investasi-syariah-global-berbasis-dolar-as"
-    },
-    {
-        "title": "Petugas yang Sudah Berhaji Langsung Diarahkan ke Mina",
-        "category": "Khazanah",
-        "publish_time": "22-01-2026 05:23",
-        "news_link": "https://khazanah.republika.co.id/berita/t991x8430/petugas-yang-sudah-berhaji-langsung-diarahkan-ke-mina"
-    },
-    {
-        "title": "Beredar Video Warga Pati Serahkan Uang Dalam Karung di Kasus Sudewo, KPK: Dibawa Kayak Beras",
-        "category": "News",
-        "publish_time": "22-01-2026 05:23",
-        "news_link": "https://news.republika.co.id/berita/t991tb377/beredar-video-warga-pati-serahkan-uang-dalam-karung-di-kasus-sudewo-kpk-dibawa-kayak-beras"
-    },
-    {
-        "title": "QRIS Cross Border dengan China dan Korea Selatan Ditargetkan Berlaku Sebelum April 2026",
-        "category": "Ekonomi",
-        "publish_time": "22-01-2026 04:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t99196490/qris-cross-border-dengan-china-dan-korea-selatan-ditargetkan-berlaku-sebelum-april-2026"
-    },
-    {
-        "title": "Antisipasi Dampak Cuaca Buruk, Dinkes DKI Perkuat Layanan Influenza",
-        "category": "Ameera",
-        "publish_time": "22-01-2026 04:23",
-        "news_link": "https://ameera.republika.co.id/berita/t9916u425/antisipasi-dampak-cuaca-buruk-dinkes-dki-perkuat-layanan-influenza"
-    },
-    {
-        "title": "Jenazah Deden Maulana, Korban Jatuhnya Pesawat ATR Disemayamkan",
-        "category": "News",
-        "publish_time": "22-01-2026 04:23",
-        "news_link": "https://news.republika.co.id/berita/t9912j377/jenazah-deden-maulana-korban-jatuhnya-pesawat-atr-disemayamkan"
-    },
-    {
-        "title": "Kepala Daerah Dilarang Jadi Petugas Haji",
-        "category": "Khazanah",
-        "publish_time": "22-01-2026 04:23",
-        "news_link": "https://khazanah.republika.co.id/berita/t990uz430/kepala-daerah-dilarang-jadi-petugas-haji"
-    },
-    {
-        "title": "KPK Geledah Rumah Walkot Madiun, Ini Hasilnya",
-        "category": "News",
-        "publish_time": "22-01-2026 04:23",
-        "news_link": "https://news.republika.co.id/berita/t990ml487/kpk-geledah-rumah-walkot-madiun-ini-hasilnya"
-    },
-    {
-        "title": "KPK Geledah Rumah Wali Kota Madiun, Sita Dokumen Hingga Uang Tunai",
-        "category": "News",
-        "publish_time": "22-01-2026 04:23",
-        "news_link": "https://news.republika.co.id/berita/t990ge377/kpk-geledah-rumah-wali-kota-madiun-sita-dokumen-hingga-uang-tunai"
-    },
-    {
-        "title": "Euforia BI Tahan Bunga, Rupiah Dibuka Menguat di Level Rp16.900-an",
-        "category": "Ekonomi",
-        "publish_time": "22-01-2026 04:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t9906q370/euforia-bi-tahan-bunga-rupiah-dibuka-menguat-di-level-rp16900an"
-    },
-    {
-        "title": "Kemenhub Uji Coba Gakkum ODOL Menuju Target Zero ODOL 2027",
-        "category": "Ekonomi",
-        "publish_time": "22-01-2026 04:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t98zx2370/kemenhub-uji-coba-gakkum-odol-menuju-target-zero-odol-2027"
-    },
-    {
-        "title": "Menkop Ingin Koperasi Pesantren Jadi Kakak Asuh Koperasi Desa Merah Putih",
-        "category": "Ekonomi",
-        "publish_time": "22-01-2026 04:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t98zv9490/menkop-ingin-koperasi-pesantren-jadi-kakak-asuh-koperasi-desa-merah-putih"
-    },
-    {
-        "title": "Sudah Tiga Wakil Indonesia Lolos ke Perempat Final Indonesia Masters 2026",
-        "category": "News",
-        "publish_time": "22-01-2026 04:23",
-        "news_link": "https://news.republika.co.id/berita/t98zpy348/sudah-tiga-wakil-indonesia-lolos-ke-perempat-final-indonesia-masters-2026"
-    },
-    {
-        "title": "Tedy Rusmawan: Pemerintah Pusat tak Cukup Hanya Larang Insinerator",
-        "category": "Rejabar",
-        "publish_time": "22-01-2026 03:23",
-        "news_link": "https://rejabar.republika.co.id/berita/t98y7u368/tedy-rusmawan-pemerintah-pusat-tak-cukup-hanya-larang-insinerator"
-    },
-    {
-        "title": "Trump Ingin Caplok Greenland dari Denmark, Ajak Eropa Berunding",
-        "category": "News",
-        "publish_time": "22-01-2026 03:23",
-        "news_link": "https://news.republika.co.id/berita/t98xxo484/trump-ingin-caplok-greenland-dari-denmark-ajak-eropa-berunding"
-    },
-    {
-        "title": "Alter Ego Tumbang di Tangan Aurora PH, Harapan All Indonesia Final di M7 Pupus",
-        "category": "News",
-        "publish_time": "22-01-2026 03:23",
-        "news_link": "https://news.republika.co.id/berita/t98xu1393/alter-ego-tumbang-di-tangan-aurora-ph-harapan-all-indonesia-final-di-m7-pupus"
-    },
-    {
-        "title": "Briptu Bagus Pertaruhkan Nyawa, Terjang Ombak Selamatkan Dua Wisatawan yang Tenggelam",
-        "category": "News",
-        "publish_time": "22-01-2026 03:23",
-        "news_link": "https://news.republika.co.id/berita/t98xqe377/briptu-bagus-pertaruhkan-nyawa-terjang-ombak-selamatkan-dua-wisatawan-yang-tenggelam"
-    },
-    {
-        "title": "Danantara Siap Genjot Investasi Lewat Rencana Patriot Bond Jilid II",
-        "category": "Ekonomi",
-        "publish_time": "22-01-2026 03:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/t98xex370/danantara-siap-genjot-investasi-lewat-rencana-patriot-bond-jilid-ii"
-    },
-    {
-        "title": "Cerita Hangat Pemuda Indonesia-Singapura: Menenun Persahabatan di Luar Meja Diplomasi",
-        "category": "Ameera",
-        "publish_time": "22-01-2026 03:23",
-        "news_link": "https://ameera.republika.co.id/berita/t98waj425/cerita-hangat-pemuda-indonesiasingapura-menenun-persahabatan-di-luar-meja-diplomasi"
-    },
-    {
-        "title": "Cuaca Ekstrem Landa Negara Arab, Diterpa Angin Kencang Hingga Salju-Salju Menutupi Gurun Pasir",
-        "category": "Khazanah",
-        "publish_time": "22-01-2026 03:23",
-        "news_link": "https://khazanah.republika.co.id/berita/t98wa4320/cuaca-ekstrem-landa-negara-arab-diterpa-angin-kencang-hingga-saljusalju-menutupi-gurun-pasir"
-    },
-    {
-        "title": "Indonesia Siap Gabung Dewan Perdamaian, Pakar: Jangan Jual Palestina",
-        "category": "News",
-        "publish_time": "22-01-2026 02:23",
-        "news_link": "https://news.republika.co.id/berita/t98w0w393/indonesia-siap-gabung-dewan-perdamaian-pakar-jangan-jual-palestina"
-    },
-    {
-        "title": "Ini Obat Kanker Buatan Rusia yang Disebut Ampuh Obati Pasien",
-        "category": "News",
-        "publish_time": "22-01-2026 02:23",
-        "news_link": "https://news.republika.co.id/berita/t98ve8377/ini-obat-kanker-buatan-rusia-yang-disebut-ampuh-obati-pasien"
     }
 ]
