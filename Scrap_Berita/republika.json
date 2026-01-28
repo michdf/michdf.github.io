@@ -1,38 +1,80 @@
 [
     {
+        "title": "Perebutan Payroll Seperi 'Perang', Bank Syariah Sering Kalah?",
+        "category": "Ekonomi Syariah",
+        "publish_time": "28-01-2026 23:03",
+        "news_link": "https://sharia.republika.co.id/berita/t9lk1q502/perebutan-payroll-seperi-perang-bank-syariah-sering-kalah"
+    },
+    {
+        "title": "Jangan Bangga dengan Amal Ibadah Kita",
+        "category": "Khazanah",
+        "publish_time": "28-01-2026 23:00",
+        "news_link": "https://khazanah.republika.co.id/berita/t9ljwf430/jangan-bangga-dengan-amal-ibadah-kita"
+    },
+    {
+        "title": "Ternate Jadi Kota dengan Kualitas Udara Terbersih se-Indonesia",
+        "category": "Visual",
+        "publish_time": "28-01-2026 23:00",
+        "news_link": "https://visual.republika.co.id/berita/t9l1bv375/ternate-jadi-kota-dengan-kualitas-udara-terbersih-seindonesia"
+    },
+    {
+        "title": "Syukur Pemanjang Nikmat",
+        "category": "Khazanah",
+        "publish_time": "28-01-2026 22:46",
+        "news_link": "https://khazanah.republika.co.id/berita/t9lj8x430/syukur-pemanjang-nikmat"
+    },
+    {
+        "title": "Barcelona Pastikan Tempat di 16 Besar Liga Champions Usai Kalahkan Copenhagen 4-1",
+        "category": "News",
+        "publish_time": "28-01-2026 22:45",
+        "news_link": "https://news.republika.co.id/berita/t9lj7b3830000/barcelona-pastikan-tempat-di-16-besar-liga-champions-usai-kalahkan-copenhagen-41"
+    },
+    {
+        "title": "Petugas Haji Perempuan Capai 33 Persen, Menteri PPPA: Terbesar Sepanjang Sejarah",
+        "category": "Khazanah",
+        "publish_time": "28-01-2026 22:35",
+        "news_link": "https://khazanah.republika.co.id/berita/t9li7r430/petugas-haji-perempuan-capai-33-persen-menteri-pppa-terbesar-sepanjang-sejarah"
+    },
+    {
+        "title": "Arsenal Sempurna di Liga Champions Usai Kalahkan Kairat Almaty 3-2",
+        "category": "News",
+        "publish_time": "28-01-2026 22:30",
+        "news_link": "https://news.republika.co.id/berita/t9liic6330000/arsenal-sempurna-di-liga-champions-usai-kalahkan-kairat-almaty-32"
+    },
+    {
         "title": "Dari Raja OTT ke Dirjen Haji, Harun Al Rasyid Ungkap Alasan Terima Amanah Berantas Mafia Perhajian",
         "category": "Khazanah",
-        "publish_time": "28-01-2026 22:18",
+        "publish_time": "28-01-2026 22:21",
         "news_link": "https://khazanah.republika.co.id/berita/t9lhz8430/dari-raja-ott-ke-dirjen-haji-harun-al-rasyid-ungkap-alasan-terima-amanah-berantas-mafia-perhajian"
     },
     {
         "title": "Polda Sulut Ungkap Peredaran Narkoba Cair di Manado",
         "category": "News",
-        "publish_time": "28-01-2026 22:15",
+        "publish_time": "28-01-2026 22:21",
         "news_link": "https://news.republika.co.id/berita/t9lht94330000/polda-sulut-ungkap-peredaran-narkoba-cair-di-manado"
     },
     {
         "title": "Trump Kembali Ancam Segera Serang Iran",
         "category": "News",
-        "publish_time": "28-01-2026 22:15",
+        "publish_time": "28-01-2026 22:21",
         "news_link": "https://news.republika.co.id/berita/t9lhsy393/trump-kembali-ancam-segera-serang-iran"
     },
     {
         "title": "Trump Usulkan Rekening Investasi untuk Setiap Bayi di AS",
         "category": "News",
-        "publish_time": "28-01-2026 22:00",
+        "publish_time": "28-01-2026 22:21",
         "news_link": "https://news.republika.co.id/berita/t9lh4e8230000/trump-usulkan-rekening-investasi-untuk-setiap-bayi-di-as"
     },
     {
         "title": "Aston Villa Pulangkan Douglas Luiz dengan Status Pinjaman",
         "category": "News",
-        "publish_time": "28-01-2026 21:45",
+        "publish_time": "28-01-2026 21:21",
         "news_link": "https://news.republika.co.id/berita/t9lgfx2330000/aston-villa-pulangkan-douglas-luiz-dengan-status-pinjaman"
     },
     {
         "title": "Prabowo Minta Kendalikan Alih Fungsi Sawah Demi Ketahanan Pangan",
         "category": "News",
-        "publish_time": "28-01-2026 21:30",
+        "publish_time": "28-01-2026 21:21",
         "news_link": "https://news.republika.co.id/berita/t9lfqn2730000/prabowo-minta-kendalikan-alih-fungsi-sawah-demi-ketahanan-pangan"
     },
     {
@@ -256,47 +298,5 @@
         "category": "News",
         "publish_time": "28-01-2026 15:21",
         "news_link": "https://news.republika.co.id/berita/t9kx5j348/chelsea-imbau-suporter-waspada-jelang-laga-kontra-napoli-di-liga-champions"
-    },
-    {
-        "title": "Kementerian PU Serap 40 Ribu Tenaga Kerja Lokal untuk Pemulihan Bencana Sumatera",
-        "category": "Ekonomi",
-        "publish_time": "28-01-2026 14:21",
-        "news_link": "https://ekonomi.republika.co.id/berita/t9kx1v370/kementerian-pu-serap-40-ribu-tenaga-kerja-lokal-untuk-pemulihan-bencana-sumatera"
-    },
-    {
-        "title": "Iran Dipaksa Berunding di Bawah Todongan Senjata Amerika",
-        "category": "News",
-        "publish_time": "28-01-2026 14:21",
-        "news_link": "https://news.republika.co.id/berita/t9kwyq377/iran-dipaksa-berunding-di-bawah-todongan-senjata-amerika"
-    },
-    {
-        "title": "Klaim Asuransi Banjir dan Longsor di Sumatera Mendekati Rp 1 Triliun",
-        "category": "Ekonomi",
-        "publish_time": "28-01-2026 14:21",
-        "news_link": "https://ekonomi.republika.co.id/berita/t9kwwc370/klaim-asuransi-banjir-dan-longsor-di-sumatera-mendekati-rp-1-triliun"
-    },
-    {
-        "title": "Pertama dalam Sejarah, Penjualan Mobil Listrik Lampaui Mobil Bensin di Uni Eropa",
-        "category": "Ekonomi",
-        "publish_time": "28-01-2026 14:21",
-        "news_link": "https://ekonomi.republika.co.id/berita/t9kwuu348/pertama-dalam-sejarah-penjualan-mobil-listrik-lampaui-mobil-bensin-di-uni-eropa"
-    },
-    {
-        "title": "Bahaya Menghirup Whip Pink, dari Halusinasi Hingga Gangguan Kesadaran",
-        "category": "Ameera",
-        "publish_time": "28-01-2026 14:21",
-        "news_link": "https://ameera.republika.co.id/berita/t9kwnm370/bahaya-menghirup-whip-pink-dari-halusinasi-hingga-gangguan-kesadaran"
-    },
-    {
-        "title": "Gomez dan Konate Dipastikan Absen Saat Liverpool Jamu Qarabag",
-        "category": "News",
-        "publish_time": "28-01-2026 14:21",
-        "news_link": "https://news.republika.co.id/berita/t9kvyi348/gomez-dan-konate-dipastikan-absen-saat-liverpool-jamu-qarabag"
-    },
-    {
-        "title": "Ammar Zoni Bersaksi Soal Adanya Aksi Pemalakan di Lapas, Yusril: Kami Cross-Check",
-        "category": "News",
-        "publish_time": "28-01-2026 14:21",
-        "news_link": "https://news.republika.co.id/berita/t9kvs5409/ammar-zoni-bersaksi-soal-adanya-aksi-pemalakan-di-lapas-yusril-kami-crosscheck"
     }
 ]
