@@ -1,32 +1,68 @@
 [
     {
+        "title": "Mensesneg Imbau Pemerintah Daerah Pantau Kelompok Rentan",
+        "category": "News",
+        "publish_time": "04-02-2026 18:32",
+        "news_link": "https://news.republika.co.id/berita/t9y662330000/mensesneg-imbau-pemerintah-daerah-pantau-kelompok-rentan"
+    },
+    {
+        "title": "Megawati Ucapkan Selamat kepada Pemenang Zayed Award 2026 di Abu Dhabi",
+        "category": "News",
+        "publish_time": "04-02-2026 18:31",
+        "news_link": "https://news.republika.co.id/berita/t9y6405730000/megawati-ucapkan-selamat-kepada-pemenang-zayed-award-2026-di-abu-dhabi"
+    },
+    {
+        "title": "Polisi Selidiki Peluru Nyasar Lukai Pelajar di Lumajang",
+        "category": "News",
+        "publish_time": "04-02-2026 18:31",
+        "news_link": "https://news.republika.co.id/berita/t9y63x10030000/polisi-selidiki-peluru-nyasar-lukai-pelajar-di-lumajang"
+    },
+    {
+        "title": "Pemkot Makassar dan Kejagung RI Perkuat Upaya Pencegahan Korupsi",
+        "category": "News",
+        "publish_time": "04-02-2026 18:15",
+        "news_link": "https://news.republika.co.id/berita/t9y5df5330000/pemkot-makassar-dan-kejagung-ri-perkuat-upaya-pencegahan-korupsi"
+    },
+    {
+        "title": "Pemkab Bangkalan Dampingi Korban Kekerasan Seksual di Ponpes",
+        "category": "News",
+        "publish_time": "04-02-2026 18:00",
+        "news_link": "https://news.republika.co.id/berita/t9y4ow3530000/pemkab-bangkalan-dampingi-korban-kekerasan-seksual-di-ponpes"
+    },
+    {
+        "title": "BMKG: Jakarta Berpotensi Hujan Ringan Siang dan Sore Hari",
+        "category": "News",
+        "publish_time": "04-02-2026 17:45",
+        "news_link": "https://news.republika.co.id/berita/t9y3zc8830000/bmkg-jakarta-berpotensi-hujan-ringan-siang-dan-sore-hari"
+    },
+    {
         "title": "Film '12 Mile' Angkat Perjuangan Mochtar Kusumaatmadja Bagi Indonesia",
         "category": "News",
-        "publish_time": "04-02-2026 17:29",
+        "publish_time": "04-02-2026 17:40",
         "news_link": "https://news.republika.co.id/berita/t9y3ad6030000/film-12-mile-angkat-perjuangan-mochtar-kusumaatmadja-bagi-indonesia"
     },
     {
         "title": "Tragedi Siswa SD di NTT Jadi Atensi Presiden Prabowo",
         "category": "News",
-        "publish_time": "04-02-2026 17:14",
+        "publish_time": "04-02-2026 17:40",
         "news_link": "https://news.republika.co.id/berita/t9y2ld730000/tragedi-siswa-sd-di-ntt-jadi-atensi-presiden-prabowo"
     },
     {
         "title": "Pemkot Cirebon Percepat Perlindungan Merek untuk 2.312 IKM",
         "category": "News",
-        "publish_time": "04-02-2026 16:59",
+        "publish_time": "04-02-2026 16:40",
         "news_link": "https://news.republika.co.id/berita/t9y1wi7130000/pemkot-cirebon-percepat-perlindungan-merek-untuk-2312-ikm"
     },
     {
         "title": "Lahan Sawah di Bali Terus Menyusut Setiap Tahun",
         "category": "Visual",
-        "publish_time": "04-02-2026 16:58",
+        "publish_time": "04-02-2026 16:40",
         "news_link": "https://visual.republika.co.id/berita/t9xxmf375/lahan-sawah-di-bali-terus-menyusut-setiap-tahun"
     },
     {
         "title": "Pemerintah Kota Seoul All-Out Bantu Persiapan Comeback BTS",
         "category": "Ameera",
-        "publish_time": "04-02-2026 16:54",
+        "publish_time": "04-02-2026 16:40",
         "news_link": "https://ameera.republika.co.id/berita/t9y1n0425/pemerintah-kota-seoul-allout-bantu-persiapan-comeback-bts"
     },
     {
@@ -262,41 +298,5 @@
         "category": "News",
         "publish_time": "04-02-2026 12:40",
         "news_link": "https://news.republika.co.id/berita/t9xqqe409/kemendikdasemen-ungkap-bocah-sd-di-ntt-yang-bunuh-diri-peserta-pip-seharusnya-dapat-bantuan-dana"
-    },
-    {
-        "title": "Temuan Korban Longsor di Bandung Barat Terus Bertambah",
-        "category": "Rejabar",
-        "publish_time": "04-02-2026 12:40",
-        "news_link": "https://rejabar.republika.co.id/berita/t9xqlu282/temuan-korban-longsor-di-bandung-barat-terus-bertambah"
-    },
-    {
-        "title": "Purbaya Ingin PNM Jadi Lembaga di Bawah Naungan Kemenkeu",
-        "category": "Ekonomi",
-        "publish_time": "04-02-2026 12:40",
-        "news_link": "https://ekonomi.republika.co.id/berita/t9xqjb423/purbaya-ingin-pnm-jadi-lembaga-di-bawah-naungan-kemenkeu"
-    },
-    {
-        "title": "Anak NTT Bunuh Diri karena tak Mampu Beli Buku, Komisi VIII: Jangan Dianggap Remeh",
-        "category": "News",
-        "publish_time": "04-02-2026 12:40",
-        "news_link": "https://news.republika.co.id/berita/t9xp5n430/anak-ntt-bunuh-diri-karena-tak-mampu-beli-buku-komisi-viii-jangan-dianggap-remeh"
-    },
-    {
-        "title": "Rosan Ungkap Arahan Penting Presiden Prabowo untuk Bursa Efek Indonesia",
-        "category": "Ekonomi",
-        "publish_time": "04-02-2026 12:40",
-        "news_link": "https://ekonomi.republika.co.id/berita/t9xq6n423/rosan-ungkap-arahan-penting-presiden-prabowo-untuk-bursa-efek-indonesia"
-    },
-    {
-        "title": "Seorang WNA AS Ditemukan Tewas di Kamar Apartemen Asia Afrika Bandung",
-        "category": "Rejabar",
-        "publish_time": "04-02-2026 12:40",
-        "news_link": "https://rejabar.republika.co.id/berita/t9xq2f282/seorang-wna-as-ditemukan-tewas-di-kamar-apartemen-asia-afrika-bandung"
-    },
-    {
-        "title": "KB Bank Syariah Gandeng BTM Perluas Inklusi Keuangan UMKM",
-        "category": "Ekonomi Syariah",
-        "publish_time": "04-02-2026 12:40",
-        "news_link": "https://sharia.republika.co.id/berita/t9xpwv416/kb-bank-syariah-gandeng-btm-perluas-inklusi-keuangan-umkm"
     }
 ]
