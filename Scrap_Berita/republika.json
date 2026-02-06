@@ -1,56 +1,272 @@
 [
     {
+        "title": "Risiko Serap Gabah Any Quality",
+        "category": "Kolom",
+        "publish_time": "06-02-2026 04:06",
+        "news_link": "https://analisis.republika.co.id/berita/ta0rff472/risiko-serap-gabah-any-quality"
+    },
+    {
+        "title": "Siswa SD Bunuh Diri di Ngada, Menteri PPPA: Anak Laki-Laki pun Butuh Didengarkan",
+        "category": "News",
+        "publish_time": "06-02-2026 04:01",
+        "news_link": "https://news.republika.co.id/berita/ta0r74458/siswa-sd-bunuh-diri-di-ngada-menteri-pppa-anak-lakilaki-pun-butuh-didengarkan"
+    },
+    {
+        "title": "Siaga Tempur, Iran Tempatkan Rudal Khorramshahr-4 Berdaya Jelajah 2.000 KM di Pangkalan Militer",
+        "category": "News",
+        "publish_time": "06-02-2026 03:52",
+        "news_link": "https://news.republika.co.id/berita/ta0qs3377/siaga-tempur-iran-tempatkan-rudal-khorramshahr4-berdaya-jelajah-2000-km-di-pangkalan-militer"
+    },
+    {
+        "title": "Festival Fotografi Pemuda Internasional IIYPF Resmi Dibuka di ISI Yogyakarta",
+        "category": "Rejogja",
+        "publish_time": "06-02-2026 03:47",
+        "news_link": "https://rejogja.republika.co.id/berita/ta0qk3291/festival-fotografi-pemuda-internasional-iiypf-resmi-dibuka-di-isi-yogyakarta"
+    },
+    {
+        "title": "Wamen Veronica Tan: Perlindungan Anak di Ruang Digital Harus Jadi Prioritas",
+        "category": "News",
+        "publish_time": "06-02-2026 03:46",
+        "news_link": "https://news.republika.co.id/berita/ta0qib458/wamen-veronica-tan-perlindungan-anak-di-ruang-digital-harus-jadi-prioritas"
+    },
+    {
+        "title": "Layanan Bus Shuttle akan Beroperasi di Madinah Selama Ramadhan, Berikut Rutenya",
+        "category": "Khazanah",
+        "publish_time": "06-02-2026 03:42",
+        "news_link": "https://khazanah.republika.co.id/berita/ta0qal483/layanan-bus-shuttle-akan-beroperasi-di-madinah-selama-ramadhan-berikut-rutenya"
+    },
+    {
+        "title": "MBG Tetap Disalurkan Saat Ramadhan, Ini Skema Pembagiannya",
+        "category": "Ekonomi",
+        "publish_time": "06-02-2026 03:38",
+        "news_link": "https://ekonomi.republika.co.id/berita/ta0q4c370/mbg-tetap-disalurkan-saat-ramadhan-ini-skema-pembagiannya"
+    },
+    {
+        "title": "Wamenlu: RI Dorong Solidaritas Dunia Islam Hadapi Geopolitik Global",
+        "category": "Khazanah",
+        "publish_time": "06-02-2026 03:34",
+        "news_link": "https://khazanah.republika.co.id/berita/ta0pyd483/wamenlu-ri-dorong-solidaritas-dunia-islam-hadapi-geopolitik-global"
+    },
+    {
+        "title": "Hakim yang Ditangkap KPK adalah Wakil Ketua PN Depok, Diduga Terjerat Suap Sengketa Lahan",
+        "category": "News",
+        "publish_time": "06-02-2026 03:32",
+        "news_link": "https://news.republika.co.id/berita/ta0pu3377/hakim-yang-ditangkap-kpk-adalah-wakil-ketua-pn-depok-diduga-terjerat-suap-sengketa-lahan"
+    },
+    {
+        "title": "Menlu Rusia Sebut Timur Tengah Ladang Ranjau: Apa yang AS Sembunyikan di Balik Perundingan?",
+        "category": "News",
+        "publish_time": "06-02-2026 03:30",
+        "news_link": "https://news.republika.co.id/berita/ta0pqv451/menlu-rusia-sebut-timur-tengah-ladang-ranjau-apa-yang-as-sembunyikan-di-balik-perundingan"
+    },
+    {
+        "title": "Ekonomi Jakarta 2025 Tumbuh 5,21 Persen, Pramono: Insentif dan Kolaborasi Jaga Daya Beli Warga",
+        "category": "News",
+        "publish_time": "06-02-2026 03:27",
+        "news_link": "https://news.republika.co.id/berita/ta0pmw368/ekonomi-jakarta-2025-tumbuh-521-persen-pramono-insentif-dan-kolaborasi-jaga-daya-beli-warga"
+    },
+    {
+        "title": "Museum Makkah Pamerkan Alquran Terbesar di Dunia",
+        "category": "Khazanah",
+        "publish_time": "06-02-2026 03:27",
+        "news_link": "https://khazanah.republika.co.id/berita/ta0plp483/museum-makkah-pamerkan-alquran-terbesar-di-dunia"
+    },
+    {
+        "title": "Saudi akan Terbitkan Visa untuk Jamaah Empat Bulan Sebelum Musim Haji",
+        "category": "Khazanah",
+        "publish_time": "06-02-2026 03:16",
+        "news_link": "https://khazanah.republika.co.id/berita/ta0p42483/saudi-akan-terbitkan-visa-untuk-jamaah-empat-bulan-sebelum-musim-haji"
+    },
+    {
+        "title": "OJK: Rating Kredit Indonesia Baa2 Tegaskan Fundamental Ekonomi Tetap Solid",
+        "category": "Ekonomi",
+        "publish_time": "06-02-2026 03:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/ta0ozl370/ojk-rating-kredit-indonesia-baa2-tegaskan-fundamental-ekonomi-tetap-solid"
+    },
+    {
+        "title": "MCG Ungkap Cara Bank Menekan Risiko Kredit Macet",
+        "category": "Ekonomi",
+        "publish_time": "06-02-2026 03:12",
+        "news_link": "https://ekonomi.republika.co.id/berita/ta0ox4522/mcg-ungkap-cara-bank-menekan-risiko-kredit-macet"
+    },
+    {
+        "title": "Desa Tebara Jadi Mesin Ekonomi, Wisata Raup Rp1,4 Miliar",
+        "category": "Esgnow",
+        "publish_time": "06-02-2026 03:09",
+        "news_link": "https://esgnow.republika.co.id/berita/ta0ol6522/desa-tebara-jadi-mesin-ekonomi-wisata-raup-rp14-miliar"
+    },
+    {
+        "title": "Pasien Gagal Ginjal  tak Cuci Darah, IDI: Risiko Kematiannya Tinggi",
+        "category": "Ameera",
+        "publish_time": "06-02-2026 03:09",
+        "news_link": "https://ameera.republika.co.id/berita/ta0okh425/pasien-gagal-ginjal-tak-cuci-darah-idi-risiko-kematiannya-tinggi"
+    },
+    {
+        "title": "IHSG Melemah ke Level 7.915, Pasar Cermati Sentimen Global",
+        "category": "Ekonomi",
+        "publish_time": "06-02-2026 03:09",
+        "news_link": "https://ekonomi.republika.co.id/berita/ta0o44370/ihsg-melemah-ke-level-7915-pasar-cermati-sentimen-global"
+    },
+    {
+        "title": "Gempa Pacitan Rusak Beberapa Rumah, BMKG Ingatkan Warga Gempa Susulan",
+        "category": "Rejogja",
+        "publish_time": "06-02-2026 03:09",
+        "news_link": "https://rejogja.republika.co.id/berita/ta0mru282/gempa-pacitan-rusak-beberapa-rumah-bmkg-ingatkan-warga-gempa-susulan"
+    },
+    {
+        "title": "1.295 Calon Haji Pati Berangkat ke Tanah Suci Mei 2026",
+        "category": "Khazanah",
+        "publish_time": "06-02-2026 03:09",
+        "news_link": "https://khazanah.republika.co.id/berita/ta0o3h366/1295-calon-haji-pati-berangkat-ke-tanah-suci-mei-2026"
+    },
+    {
+        "title": "Pemindahan Kiblat dan Orientasi Peradaban Islam",
+        "category": "Kolom",
+        "publish_time": "06-02-2026 03:09",
+        "news_link": "https://analisis.republika.co.id/berita/ta0nyg451/pemindahan-kiblat-dan-orientasi-peradaban-islam"
+    },
+    {
+        "title": "Perundingan Amerika dan Iran di Oman, Siapa yang akan Mengalah?",
+        "category": "News",
+        "publish_time": "06-02-2026 03:09",
+        "news_link": "https://news.republika.co.id/berita/ta0nlu451/perundingan-amerika-dan-iran-di-oman-siapa-yang-akan-mengalah"
+    },
+    {
+        "title": "KPK OTT Hakim di Depok Diduga Suap Pengurusan Perkara",
+        "category": "Rejabar",
+        "publish_time": "06-02-2026 03:09",
+        "news_link": "https://rejabar.republika.co.id/berita/ta0nf9282/kpk-ott-hakim-di-depok-diduga-suap-pengurusan-perkara"
+    },
+    {
+        "title": "Geely Group Resmi Bawa Zeekr ke IIMS 2026, Tawarkan Dua Model Premium",
+        "category": "Ekonomi",
+        "publish_time": "06-02-2026 02:09",
+        "news_link": "https://ekonomi.republika.co.id/berita/ta0nc5348/geely-group-resmi-bawa-zeekr-ke-iims-2026-tawarkan-dua-model-premium"
+    },
+    {
+        "title": "Jelang Pertemuan dengan AS, Iran Siapkan Rudal Paling Canggih dengan Hulu Ledak 1.500 Kilogram",
+        "category": "Khazanah",
+        "publish_time": "06-02-2026 02:09",
+        "news_link": "https://khazanah.republika.co.id/berita/ta0n92483/jelang-pertemuan-dengan-as-iran-siapkan-rudal-paling-canggih-dengan-hulu-ledak-1500-kilogram"
+    },
+    {
+        "title": "Menuju Era Baru: Prabowo Segera Sahkan Ditjen Pesantren",
+        "category": "Khazanah",
+        "publish_time": "06-02-2026 02:09",
+        "news_link": "https://khazanah.republika.co.id/berita/ta0n5s366/menuju-era-baru-prabowo-segera-sahkan-ditjen-pesantren"
+    },
+    {
+        "title": "Sambut Ramadhan, Sahid Raya Yogyakarta Hadirkan Iftar Nusantara dan Majelis Hikmah 2026",
+        "category": "Rejogja",
+        "publish_time": "06-02-2026 02:09",
+        "news_link": "https://rejogja.republika.co.id/berita/ta0mu4291/sambut-ramadhan-sahid-raya-yogyakarta-hadirkan-iftar-nusantara-dan-majelis-hikmah-2026"
+    },
+    {
+        "title": "Changan Resmi Masuk IIMS 2026, Bidik Pasar Indonesia dengan Level 3 Autonomous Driving",
+        "category": "Ekonomi",
+        "publish_time": "06-02-2026 02:09",
+        "news_link": "https://ekonomi.republika.co.id/berita/ta0mrj349/changan-resmi-masuk-iims-2026-bidik-pasar-indonesia-dengan-level-3-autonomous-driving"
+    },
+    {
+        "title": "UNISA Yogyakarta Benarkan Dugaan Kekerasan Mahasiswa,\u00a0Prioritaskan Pemulihan Kondisi Korban",
+        "category": "Rejogja",
+        "publish_time": "06-02-2026 02:09",
+        "news_link": "https://rejogja.republika.co.id/berita/ta0mmf291/unisa-yogyakarta-benarkan-dugaan-kekerasan-mahasiswaprioritaskan-pemulihan-kondisi-korban"
+    },
+    {
+        "title": "Dua Warga Bandung Tewas Tertimbun Galian di Antapani, Polisi Sebut Sedang Cari Harta Karun",
+        "category": "Rejabar",
+        "publish_time": "06-02-2026 02:09",
+        "news_link": "https://rejabar.republika.co.id/berita/ta0mcx282/dua-warga-bandung-tewas-tertimbun-galian-di-antapani-polisi-sebut-sedang-cari-harta-karun"
+    },
+    {
+        "title": "Xpeng Pamerkan Sedan Listrik The Next P7 dan Teknologi AI Masa Depan di IIMS 2026",
+        "category": "Ekonomi",
+        "publish_time": "06-02-2026 02:09",
+        "news_link": "https://ekonomi.republika.co.id/berita/ta0mb1348/xpeng-pamerkan-sedan-listrik-the-next-p7-dan-teknologi-ai-masa-depan-di-iims-2026"
+    },
+    {
+        "title": "Gentengisasi: Antara Standarisasi Fisik dan Keadilan Ekonomi Islam",
+        "category": "Kolom",
+        "publish_time": "06-02-2026 02:09",
+        "news_link": "https://www.republika.id/posts/59831/gentengisasi-antara-standarisasi-fisik-dan-keadilan-ekonomi-islam"
+    },
+    {
+        "title": "Dirjen Kemenhaj Ungkap Bagaimana Upaya Presiden Turunkan Ongkos Haji",
+        "category": "Khazanah",
+        "publish_time": "06-02-2026 02:09",
+        "news_link": "https://khazanah.republika.co.id/berita/ta0lg0483/dirjen-kemenhaj-ungkap-bagaimana-upaya-presiden-turunkan-ongkos-haji"
+    },
+    {
+        "title": "Doa dan Zikir Pagi Habib Umar bin Hafidz",
+        "category": "Iqra",
+        "publish_time": "06-02-2026 02:09",
+        "news_link": "https://iqra.republika.co.id/berita/ta0kmo458/doa-dan-zikir-pagi-habib-umar-bin-hafidz"
+    },
+    {
+        "title": "Dilarang Israel Masuk Gaza Sejak Maret 2025, UNRWA: Bantuan Masih Ada di Mesir dan Yordania",
+        "category": "Khazanah",
+        "publish_time": "06-02-2026 02:09",
+        "news_link": "https://khazanah.republika.co.id/berita/ta0l1g483/dilarang-israel-masuk-gaza-sejak-maret-2025-unrwa-bantuan-masih-ada-di-mesir-dan-yordania"
+    },
+    {
+        "title": "Benarkah Kopi Instan Bisa Picu Kanker? Ini Kata Dokter",
+        "category": "Ameera",
+        "publish_time": "06-02-2026 02:09",
+        "news_link": "https://ameera.republika.co.id/berita/ta0kvp425/benarkah-kopi-instan-bisa-picu-kanker-ini-kata-dokter"
+    },
+    {
         "title": "Keadaan di Madinah saat Dajjal Dikabarkan Muncul: Orang Munafik Berhamburan Keluar",
         "category": "Khazanah",
-        "publish_time": "06-02-2026 01:40",
+        "publish_time": "06-02-2026 01:09",
         "news_link": "https://khazanah.republika.co.id/berita/ta0jll458/keadaan-di-madinah-saat-dajjal-dikabarkan-muncul-orang-munafik-berhamburan-keluar"
     },
     {
-        "title": "KPK Sita Ratusan Juta terkait OTT Hakim di Depok Jawa Barat",
+        "title": "KPK Sita Ratusan Juta terkait OTT Hakim di Depok",
         "category": "News",
-        "publish_time": "06-02-2026 01:37",
-        "news_link": "https://news.republika.co.id/berita/ta0kj9487/kpk-sita-ratusan-juta-terkait-ott-hakim-di-depok-jawa-barat"
+        "publish_time": "06-02-2026 01:09",
+        "news_link": "https://news.republika.co.id/berita/ta0kj9487/kpk-sita-ratusan-juta-terkait-ott-hakim-di-depok"
     },
     {
         "title": "7 Rekomendasi dari Webinar Nasional Rumah Zakat Agar Sumatera Kembali Bangkit",
         "category": "Khazanah",
-        "publish_time": "06-02-2026 01:36",
+        "publish_time": "06-02-2026 01:09",
         "news_link": "https://khazanah.republika.co.id/berita/ta0khg368/7-rekomendasi-dari-webinar-nasional-rumah-zakat-agar-sumatera-kembali-bangkit"
     },
     {
         "title": "Ayat Ilahi di Langit: Penelitian Saintifik Ungkap Kekuatan Kosmik yang Menggetarkan Akal",
         "category": "Iqra",
-        "publish_time": "06-02-2026 01:30",
+        "publish_time": "06-02-2026 01:09",
         "news_link": "https://iqra.republika.co.id/berita/ta0k7b451/ayat-ilahi-di-langit-penelitian-saintifik-ungkap-kekuatan-kosmik-yang-menggetarkan-akal"
     },
     {
         "title": "Kejar Kualitas SDM, Malaysia Berlakukan Prasekolah Wajib bagi Anak Usia Lima",
         "category": "Ameera",
-        "publish_time": "06-02-2026 01:30",
+        "publish_time": "06-02-2026 01:09",
         "news_link": "https://ameera.republika.co.id/berita/ta0k6p328/kejar-kualitas-sdm-malaysia-berlakukan-prasekolah-wajib-bagi-anak-usia-lima"
     },
     {
         "title": "Kapan Hari Kiamat Terjadi? Ini Sabda Rasulullah saat Ditanya Demikian",
         "category": "Khazanah",
-        "publish_time": "06-02-2026 01:24",
+        "publish_time": "06-02-2026 01:09",
         "news_link": "https://khazanah.republika.co.id/berita/ta0jd8458/kapan-hari-kiamat-terjadi-ini-sabda-rasulullah-saat-ditanya-demikian"
     },
     {
         "title": "Rumah Rusak Diguncang Gempa 66 M di Pacitan",
         "category": "Video",
-        "publish_time": "06-02-2026 01:14",
+        "publish_time": "06-02-2026 01:09",
         "news_link": "https://tv.republika.co.id/berita/yt-ta0jh1235884332/rumah-rusak-diguncang-gempa-66-m-di-pacitan"
     },
     {
         "title": "Pemerintah Siapkan Demutualisasi Bursa, Airlangga Buka Opsi IPO atau Private Placement",
         "category": "Ekonomi",
-        "publish_time": "06-02-2026 01:13",
+        "publish_time": "06-02-2026 01:09",
         "news_link": "https://ekonomi.republika.co.id/berita/ta0jfg370/pemerintah-siapkan-demutualisasi-bursa-airlangga-buka-opsi-ipo-atau-private-placement"
     },
     {
         "title": "Naskah Khutbah Jumat: Brain Rot karena Scroll tanpa Henti Ancaman Serius Pendidikan Anak",
         "category": "Iqra",
-        "publish_time": "06-02-2026 01:11",
+        "publish_time": "06-02-2026 01:09",
         "news_link": "https://iqra.republika.co.id/berita/ta0jav366/naskah-khutbah-jumat-brain-rot-karena-scroll-tanpa-henti-ancaman-serius-pendidikan-anak"
     },
     {
@@ -62,241 +278,25 @@
     {
         "title": "Siapa Pendiri Kota Madinah Sebelum Rasulullah Hijrah?",
         "category": "Khazanah",
-        "publish_time": "06-02-2026 00:57",
+        "publish_time": "06-02-2026 01:09",
         "news_link": "https://khazanah.republika.co.id/berita/ta0ioz458/siapa-pendiri-kota-madinah-sebelum-rasulullah-hijrah"
     },
     {
         "title": "Serangan Keras Teheran ke Berlin: Araghchi Sebut Kanselir Jerman Merz 'Menjijikkan'",
         "category": "News",
-        "publish_time": "06-02-2026 00:56",
+        "publish_time": "06-02-2026 01:09",
         "news_link": "https://news.republika.co.id/berita/ta0in9451/serangan-keras-teheran-ke-berlin-araghchi-sebut-kanselir-jerman-merz-menjijikkan"
     },
     {
         "title": "Warga Bandung Diteror Macan Tutul, Tahun Lalu Masuk Hotel Kini Turun Gunung ke Pemukiman Warga Pacet",
         "category": "Rejabar",
-        "publish_time": "06-02-2026 00:43",
+        "publish_time": "06-02-2026 01:09",
         "news_link": "https://rejabar.republika.co.id/berita/ta06l2282/warga-bandung-diteror-macan-tutul-tahun-lalu-masuk-hotel-kini-turun-gunung-ke-pemukiman-warga-pacet"
     },
     {
         "title": "Toyota Veloz Hybrid Resmi Turun Harga Jadi Rp303 Juta, Tapi Hanya untuk Tipe Ini",
         "category": "Ekonomi",
-        "publish_time": "06-02-2026 00:40",
+        "publish_time": "06-02-2026 00:09",
         "news_link": "https://ekonomi.republika.co.id/berita/ta0hiu349/toyota-veloz-hybrid-resmi-turun-harga-jadi-rp303-juta-tapi-hanya-untuk-tipe-ini"
-    },
-    {
-        "title": "Japan Coach: Indonesia Has a Chance to Win the 2026 Futsal Asia Cup",
-        "category": "En",
-        "publish_time": "1 hours ago",
-        "news_link": "https://en.republika.co.id/berita/ta0buk415/japan-coach-indonesia-has-a-chance-to-win-the-2026-futsal-asia-cup"
-    },
-    {
-        "title": "Kebun Binatang Bandung Disegel Usai Izin Dicabut, Walkot Farhan Jamin Keselamatan Ratusan Satwa",
-        "category": "Rejabar",
-        "publish_time": "06-02-2026 00:40",
-        "news_link": "https://rejabar.republika.co.id/berita/ta065z282/kebun-binatang-bandung-disegel-usai-izin-dicabut-walkot-farhan-jamin-keselamatan-ratusan-satwa"
-    },
-    {
-        "title": "BYD Hadirkan Atto 3 Advanced Plus di IIMS 2026, Harga Rp415 juta.",
-        "category": "Ekonomi",
-        "publish_time": "05-02-2026 23:40",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta0gbt348/byd-hadirkan-atto-3-advanced-plus-di-iims-2026-harga-rp415-juta"
-    },
-    {
-        "title": "Netanyahu Mulai Ketakutan akan Pesatnya Peningkatan Kekuatan Militer Mesir",
-        "category": "Khazanah",
-        "publish_time": "05-02-2026 23:40",
-        "news_link": "https://khazanah.republika.co.id/berita/ta0g3k483/netanyahu-mulai-ketakutan-akan-pesatnya-peningkatan-kekuatan-militer-mesir"
-    },
-    {
-        "title": "BI Tegaskan Outlook Negatif Moody\u2019s tak Cerminkan Pelemahan Ekonomi RI",
-        "category": "Ekonomi",
-        "publish_time": "05-02-2026 23:40",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta0g0i370/bi-tegaskan-outlook-negatif-moodys-tak-cerminkan-pelemahan-ekonomi-ri"
-    },
-    {
-        "title": "Di Balik Tragedi Anak Bunuh Diri di Ngada",
-        "category": "Kolom",
-        "publish_time": "05-02-2026 23:40",
-        "news_link": "https://analisis.republika.co.id/berita/ta0fzq393/di-balik-tragedi-anak-bunuh-diri-di-ngada"
-    },
-    {
-        "title": "Kejagung Buka SP3 KPK, GP Anshor: Korupsi Tambang Berdampak Langsung ke Masyarakat",
-        "category": "News",
-        "publish_time": "05-02-2026 23:40",
-        "news_link": "https://news.republika.co.id/berita/ta0f3y318/kejagung-buka-sp3-kpk-gp-anshor-korupsi-tambang-berdampak-langsung-ke-masyarakat"
-    },
-    {
-        "title": "Longsor Cisarua Bandung Barat Diduga karena Tindak Pidana Alih Fungsi Lahan, Ini Kata Polisi",
-        "category": "Rejabar",
-        "publish_time": "05-02-2026 23:40",
-        "news_link": "https://rejabar.republika.co.id/berita/ta05p7282/longsor-cisarua-bandung-barat-diduga-karena-tindak-pidana-alih-fungsi-lahan-ini-kata-polisi"
-    },
-    {
-        "title": "MG Umumkan Harga Tiga Varian MGS5, Dibanderol Mulai Rp354,9 juta",
-        "category": "Ekonomi",
-        "publish_time": "05-02-2026 23:40",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta0etn348/mg-umumkan-harga-tiga-varian-mgs5-dibanderol-mulai-rp3549-juta"
-    },
-    {
-        "title": "Mantan Ketua PPP Jateng Dituding Gelapkan Dana Saksi Pemilu 2024 Miliaran Rupiah",
-        "category": "Rejogja",
-        "publish_time": "05-02-2026 23:40",
-        "news_link": "https://rejogja.republika.co.id/berita/ta03h2282/mantan-ketua-ppp-jateng-dituding-gelapkan-dana-saksi-pemilu-2024-miliaran-rupiah"
-    },
-    {
-        "title": "Moody\u2019s Tahan Rating Indonesia Baa2, tapi Outlook Berubah Jadi Negatif",
-        "category": "Ekonomi",
-        "publish_time": "05-02-2026 23:40",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta0dw0370/moodys-tahan-rating-indonesia-baa2-tapi-outlook-berubah-jadi-negatif"
-    },
-    {
-        "title": "Hector Souto Bangga Pasukannya Singkirkan Jepang di Semifinal Piala Asia Futsal 2026",
-        "category": "News",
-        "publish_time": "05-02-2026 22:40",
-        "news_link": "https://news.republika.co.id/berita/ta0dmk348/hector-souto-bangga-pasukannya-singkirkan-jepang-di-semifinal-piala-asia-futsal-2026"
-    },
-    {
-        "title": "Jeep Rayakan 85 Tahun di IIMS 2026, Tampilkan Lini Wrangler dan Gladiator",
-        "category": "Ekonomi",
-        "publish_time": "05-02-2026 22:40",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta0d1n348/jeep-rayakan-85-tahun-di-iims-2026-tampilkan-lini-wrangler-dan-gladiator"
-    },
-    {
-        "title": "Kasus Siswa SD Bunuh Diri di NTT, Pigai Salahkan Pemerintah Daerah, Presiden Sudah Kasih Uang",
-        "category": "News",
-        "publish_time": "05-02-2026 22:40",
-        "news_link": "https://news.republika.co.id/berita/ta0cvw377/kasus-siswa-sd-bunuh-diri-di-ntt-pigai-salahkan-pemerintah-daerah-presiden-sudah-kasih-uang"
-    },
-    {
-        "title": "Mazda Tampilkan The New CX-60 Sport di IIMS 2026, Harga Rp718,8 Juta OTR Jakarta",
-        "category": "Ekonomi",
-        "publish_time": "05-02-2026 22:40",
-        "news_link": "https://ekonomi.republika.co.id/berita/t9zw5r348/mazda-tampilkan-the-new-cx60-sport-di-iims-2026-harga-rp7188-juta-otr-jakarta"
-    },
-    {
-        "title": "Transjabodetabek Blok M\u2013Bandara Soekarno Hatta Urung Beroperasi Pekan Depan, Fokus Benahi Halte",
-        "category": "News",
-        "publish_time": "05-02-2026 22:40",
-        "news_link": "https://news.republika.co.id/berita/ta0cly348/transjabodetabek-blok-mbandara-soekarno-hatta-urung-beroperasi-pekan-depan-fokus-benahi-halte"
-    },
-    {
-        "title": "KPK Desak Ditjen Pajak dan Bea Cukai Benahi Sistem Usai OTT",
-        "category": "News",
-        "publish_time": "05-02-2026 22:40",
-        "news_link": "https://news.republika.co.id/berita/ta0cjg4730000/kpk-desak-ditjen-pajak-dan-bea-cukai-benahi-sistem-usai-ott"
-    },
-    {
-        "title": "Serahkan Bantuan ke Vihara, Menag Kisahkan Teladan Nabi",
-        "category": "Khazanah",
-        "publish_time": "05-02-2026 22:40",
-        "news_link": "https://khazanah.republika.co.id/berita/ta0chv483/serahkan-bantuan-ke-vihara-menag-kisahkan-teladan-nabi"
-    },
-    {
-        "title": "Hakim di Depok Kena OTT KPK, Uang Ratusan Juta Rupiah Disita",
-        "category": "News",
-        "publish_time": "05-02-2026 22:40",
-        "news_link": "https://news.republika.co.id/berita/ta0cfk377/hakim-di-depok-kena-ott-kpk-uang-ratusan-juta-rupiah-disita"
-    },
-    {
-        "title": "IIMS 2026 Jadi Ajang GAC Indonesia Perluas Akses Kepemilikan Aion UT",
-        "category": "Ekonomi",
-        "publish_time": "05-02-2026 22:40",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta0c4q348/iims-2026-jadi-ajang-gac-indonesia-perluas-akses-kepemilikan-aion-ut"
-    },
-    {
-        "title": "Wuling Perkenalkan Eksion di IIMS 2026, SUV Keluarga 7 Penumpang dengan Dua Teknologi Elektrifikasi",
-        "category": "Ekonomi",
-        "publish_time": "05-02-2026 22:40",
-        "news_link": "https://ekonomi.republika.co.id/berita/t9zxag348/wuling-perkenalkan-eksion-di-iims-2026-suv-keluarga-7-penumpang-dengan-dua-teknologi-elektrifikasi"
-    },
-    {
-        "title": "Lantai Kamar Mandi Jebol, IRT di Bandung Jatuh ke Sungai dan Hanyut Terbawa Arus",
-        "category": "Rejabar",
-        "publish_time": "05-02-2026 22:40",
-        "news_link": "https://rejabar.republika.co.id/berita/ta052p282/lantai-kamar-mandi-jebol-irt-di-bandung-jatuh-ke-sungai-dan-hanyut-terbawa-arus"
-    },
-    {
-        "title": "Atalanta Hancurkan Juventus 3-0 dan Melaju ke Semifinal Piala Italia",
-        "category": "News",
-        "publish_time": "05-02-2026 22:40",
-        "news_link": "https://news.republika.co.id/berita/ta0bu74730000/atalanta-hancurkan-juventus-30-dan-melaju-ke-semifinal-piala-italia"
-    },
-    {
-        "title": "History Continues, Indonesian Futsal Team Reaches Asian Cup Final After Defeating Japan",
-        "category": "En",
-        "publish_time": "3 hours ago",
-        "news_link": "https://en.republika.co.id/berita/ta0bpf415/history-continues-indonesian-futsal-team-reaches-asian-cup-final-after-defeating-japan"
-    },
-    {
-        "title": "Jaecoo Gelar Program Co-Creation J5 EV, Ajak Konsumen Kembangkan Desain dan Fitur Mobil",
-        "category": "Ekonomi",
-        "publish_time": "05-02-2026 22:40",
-        "news_link": "https://ekonomi.republika.co.id/berita/t9zvme348/jaecoo-gelar-program-cocreation-j5-ev-ajak-konsumen-kembangkan-desain-dan-fitur-mobil"
-    },
-    {
-        "title": "Mengapa Islam Larang Minum Alkohol? Ini Alasannya",
-        "category": "Khazanah",
-        "publish_time": "05-02-2026 22:40",
-        "news_link": "https://khazanah.republika.co.id/berita/ta0bft430/mengapa-islam-larang-minum-alkohol-ini-alasannya"
-    },
-    {
-        "title": "KPK Ungkap Korupsi Bea Cukai Terkait Barang Impor Ilegal",
-        "category": "News",
-        "publish_time": "05-02-2026 22:40",
-        "news_link": "https://news.republika.co.id/berita/ta0b5d4030000/kpk-ungkap-korupsi-bea-cukai-terkait-barang-impor-ilegal"
-    },
-    {
-        "title": "The All New Carens Jadi Andalan Baru KIA di Segmen MPV",
-        "category": "Ekonomi",
-        "publish_time": "05-02-2026 21:40",
-        "news_link": "https://ekonomi.republika.co.id/berita/t9zzvw348/the-all-new-carens-jadi-andalan-baru-kia-di-segmen-mpv"
-    },
-    {
-        "title": "Pemkot Bandung Segel dan Kosongkan Kebun Binatang Bandung, Bagaimana Nasib Ratusan Satwanya?",
-        "category": "Rejabar",
-        "publish_time": "05-02-2026 21:40",
-        "news_link": "https://rejabar.republika.co.id/berita/ta05x2282/pemkot-bandung-segel-dan-kosongkan-kebun-binatang-bandung-bagaimana-nasib-ratusan-satwanya"
-    },
-    {
-        "title": "Pemprov Kaltara Pastikan Stok Beras Aman untuk Enam Bulan ke Depan",
-        "category": "News",
-        "publish_time": "05-02-2026 21:40",
-        "news_link": "https://news.republika.co.id/berita/ta0agc230000/pemprov-kaltara-pastikan-stok-beras-aman-untuk-enam-bulan-ke-depan"
-    },
-    {
-        "title": "Dean James Bermain Saat Go Ahead Eagles Kalah dari Telstar di Piala Belanda",
-        "category": "News",
-        "publish_time": "05-02-2026 21:40",
-        "news_link": "https://news.republika.co.id/berita/ta09rd9830000/dean-james-bermain-saat-go-ahead-eagles-kalah-dari-telstar-di-piala-belanda"
-    },
-    {
-        "title": "Menang Sengketa Sejak 1992, Empat Warga Bandung Belum Dapat Lahan di Jalan Asia Afrika",
-        "category": "Rejabar",
-        "publish_time": "05-02-2026 21:40",
-        "news_link": "https://rejabar.republika.co.id/berita/ta04sl282/menang-sengketa-sejak-1992-empat-warga-bandung-belum-dapat-lahan-di-jalan-asia-afrika"
-    },
-    {
-        "title": "Pelatih Jepang: Indonesia Berpeluang Juara Piala Asia Futsal 2026",
-        "category": "News",
-        "publish_time": "05-02-2026 21:40",
-        "news_link": "https://news.republika.co.id/berita/ta092q2730000/pelatih-jepang-indonesia-berpeluang-juara-piala-asia-futsal-2026"
-    },
-    {
-        "title": "KPK Sita Emas dan Uang Asing Senilai Rp40,5 Miliar dalam Kasus Barang KW",
-        "category": "News",
-        "publish_time": "05-02-2026 21:40",
-        "news_link": "https://news.republika.co.id/berita/ta08dc2430000/kpk-sita-emas-dan-uang-asing-senilai-rp405-miliar-dalam-kasus-barang-kw"
-    },
-    {
-        "title": "Pemda di Jateng Didorong Bantu Pelayanan Medis Warga Terdampak Penonaktifan BPJS PBI JK",
-        "category": "Rejogja",
-        "publish_time": "05-02-2026 20:40",
-        "news_link": "https://rejogja.republika.co.id/berita/ta02y8282/pemda-di-jateng-didorong-bantu-pelayanan-medis-warga-terdampak-penonaktifan-bpjs-pbi-jk"
-    },
-    {
-        "title": "Pelatih Kensuke Takahashi Akui Kekalahan Jepang dari Indonesia di Semifinal Piala Asia Futsal",
-        "category": "News",
-        "publish_time": "05-02-2026 20:40",
-        "news_link": "https://news.republika.co.id/berita/ta07of3130000/pelatih-kensuke-takahashi-akui-kekalahan-jepang-dari-indonesia-di-semifinal-piala-asia-futsal"
     }
 ]
