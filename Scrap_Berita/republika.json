@@ -1,44 +1,176 @@
 [
     {
+        "title": "Duduk Perkara OTT KPK di Depok: Ketua Pengadilan Negeri Ditangkap, Terkait Kemenkeu",
+        "category": "News",
+        "publish_time": "06-02-2026 12:34",
+        "news_link": "https://news.republika.co.id/berita/ta1exg409/duduk-perkara-ott-kpk-di-depok-ketua-pengadilan-negeri-ditangkap-terkait-kemenkeu"
+    },
+    {
+        "title": "Pemkab Bandung Tambah Deretan Prestasi Zona Integritas, Tiga Unit Kerja Raih WBK",
+        "category": "Rejabar",
+        "publish_time": "06-02-2026 12:33",
+        "news_link": "https://rejabar.republika.co.id/berita/ta1ewl472/pemkab-bandung-tambah-deretan-prestasi-zona-integritas-tiga-unit-kerja-raih-wbk"
+    },
+    {
+        "title": "Gandeng PLN, Pemprov Jakarta Tingkatkan\u00a0Cakupan Daya Listrik di Kepulauan Seribu",
+        "category": "Ekonomi",
+        "publish_time": "06-02-2026 12:31",
+        "news_link": "https://ekonomi.republika.co.id/berita/ta1erw416/gandeng-pln-pemprov-jakarta-tingkatkancakupan-daya-listrik-di-kepulauan-seribu"
+    },
+    {
+        "title": "Berburu Pernak-Pernik Imlek di Kawasan Glodok Jakbar",
+        "category": "Visual",
+        "publish_time": "06-02-2026 12:29",
+        "news_link": "https://visual.republika.co.id/berita/ta1bsu375/berburu-pernakpernik-imlek-di-kawasan-glodok-jakbar"
+    },
+    {
+        "title": "IIMS 2026 Panggung Rexco Dekatkan Diri ke Pecinta Otomotif Tanah Air",
+        "category": "Ekonomi",
+        "publish_time": "06-02-2026 12:21",
+        "news_link": "https://ekonomi.republika.co.id/berita/ta1ece472/iims-2026-panggung-rexco-dekatkan-diri-ke-pecinta-otomotif-tanah-air"
+    },
+    {
+        "title": "Lapangan Kerja Ada, tapi Layak atau tidak? Ini Kata Ekonom",
+        "category": "Ekonomi",
+        "publish_time": "06-02-2026 12:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/ta1e4d423/lapangan-kerja-ada-tapi-layak-atau-tidak-ini-kata-ekonom"
+    },
+    {
+        "title": "Komika Pandji Diperiksa di Wilayah Resktriktif Area di Polda Metro Jaya",
+        "category": "News",
+        "publish_time": "06-02-2026 12:17",
+        "news_link": "https://news.republika.co.id/berita/ta1e53377/komika-pandji-diperiksa-di-wilayah-resktriktif-area-di-polda-metro-jaya"
+    },
+    {
+        "title": "Mukjizat Rasulullah, Sembuhkan Orang Sakit dan Buta",
+        "category": "Khazanah",
+        "publish_time": "06-02-2026 12:14",
+        "news_link": "https://khazanah.republika.co.id/berita/ta1dhh458/mukjizat-rasulullah-sembuhkan-orang-sakit-dan-buta"
+    },
+    {
+        "title": "Pramono Minta Empat Hingga Lima Tiang Monorel Dibongkar Setiap Harinya",
+        "category": "News",
+        "publish_time": "06-02-2026 12:14",
+        "news_link": "https://news.republika.co.id/berita/ta1dzj409/pramono-minta-empat-hingga-lima-tiang-monorel-dibongkar-setiap-harinya"
+    },
+    {
+        "title": "Danantara Gaspol Bangun Peternakan Ayam demi Sukseskan MBG",
+        "category": "Ekonomi",
+        "publish_time": "06-02-2026 12:09",
+        "news_link": "https://ekonomi.republika.co.id/berita/ta1ds6423/danantara-gaspol-bangun-peternakan-ayam-demi-sukseskan-mbg"
+    },
+    {
+        "title": "Perampokan Sadis di Boyolali, Pelaku Bunuh Anak Juragan Sate di Boyolali karena Terlilit Utang Judol",
+        "category": "Rejogja",
+        "publish_time": "06-02-2026 12:08",
+        "news_link": "https://rejogja.republika.co.id/berita/ta1dq3282/perampokan-sadis-di-boyolali-pelaku-bunuh-anak-juragan-sate-di-boyolali-karena-terlilit-utang-judol"
+    },
+    {
+        "title": "Cerita Pasien PBI yang Dinonaktifkan Kemensos, Harus Cuci Darah Lewat Uang Donasi",
+        "category": "News",
+        "publish_time": "06-02-2026 12:07",
+        "news_link": "https://news.republika.co.id/berita/ta1dox409/cerita-pasien-pbi-yang-dinonaktifkan-kemensos-harus-cuci-darah-lewat-uang-donasi"
+    },
+    {
+        "title": "Sidkon Djampi: Pelayanan Publik di Jabar Harus Berorientasi pada Kepentingan Rakyat",
+        "category": "Rejabar",
+        "publish_time": "06-02-2026 12:07",
+        "news_link": "https://rejabar.republika.co.id/berita/ta1doa472/sidkon-djampi-pelayanan-publik-di-jabar-harus-berorientasi-pada-kepentingan-rakyat"
+    },
+    {
+        "title": "Ketua dan Wakil Ketua PN Depok Kompak Ikut Diciduk KPK",
+        "category": "News",
+        "publish_time": "06-02-2026 12:05",
+        "news_link": "https://news.republika.co.id/berita/ta1dkg377/ketua-dan-wakil-ketua-pn-depok-kompak-ikut-diciduk-kpk"
+    },
+    {
+        "title": "Danantara Mulai Pembangunan Enam Proyek Hilirisasi Rp118 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "06-02-2026 12:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/ta1dfz416/danantara-mulai-pembangunan-enam-proyek-hilirisasi-rp118-triliun"
+    },
+    {
+        "title": "Tekiro Kembali di IIMS 2026 : Hadirkan Inovasi Perkakas \"Future-Ready\" dan Promo Menarik",
+        "category": "Ekonomi",
+        "publish_time": "06-02-2026 12:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/ta1dcf472/tekiro-kembali-di-iims-2026-hadirkan-inovasi-perkakas-futureready-dan-promo-menarik"
+    },
+    {
+        "title": "Peringati HUT ke-18, Partai Gerindra Gelar Syukuran dan Doa Lintas Agama",
+        "category": "Visual",
+        "publish_time": "06-02-2026 11:59",
+        "news_link": "https://visual.republika.co.id/berita/ta1blg375/peringati-hut-ke18-partai-gerindra-gelar-syukuran-dan-doa-lintas-agama"
+    },
+    {
+        "title": "OTT KPK di Pengadilan Negeri Depok Libatkan Badan Usaha Kemenkeu, Begini Kronologinya",
+        "category": "News",
+        "publish_time": "06-02-2026 11:56",
+        "news_link": "https://news.republika.co.id/berita/ta1d63377/ott-kpk-di-pengadilan-negeri-depok-libatkan-badan-usaha-kemenkeu-begini-kronologinya"
+    },
+    {
+        "title": "Doa agar Terhindar dari Keburukan",
+        "category": "Iqra",
+        "publish_time": "06-02-2026 11:49",
+        "news_link": "https://iqra.republika.co.id/berita/ta1bnw458/doa-agar-terhindar-dari-keburukan"
+    },
+    {
+        "title": "Pemerintah Resmi Larang Atraksi Gajah Tunggang",
+        "category": "Esgnow",
+        "publish_time": "06-02-2026 11:46",
+        "news_link": "https://esgnow.republika.co.id/berita/ta1b23416/pemerintah-resmi-larang-atraksi-gajah-tunggang"
+    },
+    {
+        "title": "Pabrik di Cibolerang Kota Bandung Terbakar",
+        "category": "Video",
+        "publish_time": "06-02-2026 11:46",
+        "news_link": "https://tv.republika.co.id/berita/yt-ta1by11541291784/pabrik-di-cibolerang-kota-bandung-terbakar"
+    },
+    {
+        "title": "Lupa Ucapkan 'Insya Allah', Rasulullah pun Ditegur",
+        "category": "Khazanah",
+        "publish_time": "06-02-2026 11:46",
+        "news_link": "https://khazanah.republika.co.id/berita/ta1bhd458/lupa-ucapkan-insya-allah-rasulullah-pun-ditegur"
+    },
+    {
         "title": "Flyover Pesing Berlubang, Dinas Minta Marga Diminta Segera Lakukan Perbaikan",
         "category": "News",
-        "publish_time": "06-02-2026 11:27",
+        "publish_time": "06-02-2026 11:46",
         "news_link": "https://news.republika.co.id/berita/ta1bq1416/flyover-pesing-berlubang-dinas-minta-marga-diminta-segera-lakukan-perbaikan"
     },
     {
         "title": "Ribuan Peserta Bahu Membahu Bersihkan Sampah Laut di Pantai Kedonganan Bali",
         "category": "Visual",
-        "publish_time": "06-02-2026 11:20",
+        "publish_time": "06-02-2026 11:46",
         "news_link": "https://visual.republika.co.id/berita/ta1bis375/ribuan-peserta-bahu-membahu-bersihkan-sampah-laut-di-pantai-kedonganan-bali"
     },
     {
         "title": "MAXUS Hadirkan MPV Listrik Berbasis Produksi Lokal di IIMS 2026",
         "category": "Ekonomi",
-        "publish_time": "06-02-2026 11:17",
+        "publish_time": "06-02-2026 11:46",
         "news_link": "https://ekonomi.republika.co.id/berita/ta1bd8349/maxus-hadirkan-mpv-listrik-berbasis-produksi-lokal-di-iims-2026"
     },
     {
         "title": "4 Golongan ini tidak Akan Tersentuh Api Neraka",
         "category": "Khazanah",
-        "publish_time": "06-02-2026 11:16",
+        "publish_time": "06-02-2026 10:46",
         "news_link": "https://khazanah.republika.co.id/berita/ta1bc4458/4-golongan-ini-tidak-akan-tersentuh-api-neraka"
     },
     {
         "title": "Pabrik Plastik di Cibolerang Bandung Terbakar, Api Diduga Muncul dari Gudang Biji Plastik",
         "category": "Rejabar",
-        "publish_time": "06-02-2026 11:14",
+        "publish_time": "06-02-2026 10:46",
         "news_link": "https://rejabar.republika.co.id/berita/ta1b8h282/pabrik-plastik-di-cibolerang-bandung-terbakar-api-diduga-muncul-dari-gudang-biji-plastik"
     },
     {
         "title": "Ekspor Indonesia ke AS Melonjak 16,66 Persen",
         "category": "News",
-        "publish_time": "06-02-2026 11:08",
+        "publish_time": "06-02-2026 10:46",
         "news_link": "https://news.republika.co.id/berita/ta18cc451/ekspor-indonesia-ke-as-melonjak-1666-persen"
     },
     {
         "title": "Buka Silatnas Prima DMI, JK: Masjid Jangan Hanya Jadi Tempat Ibadah Ritual",
         "category": "Khazanah",
-        "publish_time": "06-02-2026 11:01",
+        "publish_time": "06-02-2026 10:46",
         "news_link": "https://khazanah.republika.co.id/berita/ta1anb291/buka-silatnas-prima-dmi-jk-masjid-jangan-hanya-jadi-tempat-ibadah-ritual"
     },
     {
@@ -50,253 +182,121 @@
     {
         "title": "Cerita Warga Bandung Kaget PBI Nonaktif, Sempat Diberi Pilihan RS Bayar Rp 30 Juta untuk Persalinan",
         "category": "News",
-        "publish_time": "06-02-2026 10:41",
+        "publish_time": "06-02-2026 10:46",
         "news_link": "https://news.republika.co.id/berita/ta19po487/cerita-warga-bandung-kaget-pbi-nonaktif-sempat-diberi-pilihan-rs-bayar-rp-30-juta-untuk-persalinan"
     },
     {
         "title": "Pasar Respons Penurunan Outlook Moody\u2019s, IHSG Ditutup Melemah",
         "category": "Ekonomi",
-        "publish_time": "06-02-2026 10:39",
+        "publish_time": "06-02-2026 10:46",
         "news_link": "https://ekonomi.republika.co.id/berita/ta19dd423/pasar-respons-penurunan-outlook-moodys-ihsg-ditutup-melemah"
     },
     {
         "title": "Racun Tikus Ditemukan di Tiga Jasad Korban Keracunan di Warakas Tanjung Priok",
         "category": "News",
-        "publish_time": "06-02-2026 10:36",
+        "publish_time": "06-02-2026 10:46",
         "news_link": "https://news.republika.co.id/berita/ta19hs409/racun-tikus-ditemukan-di-tiga-jasad-korban-keracunan-di-warakas-tanjung-priok"
     },
     {
         "title": "Semula Cuma Bantu Tetangga, Kini Mukmainah Dapat Tambahan Pendapatan dengan Menjadi Agen BRILink",
         "category": "Ekonomi",
-        "publish_time": "06-02-2026 10:35",
+        "publish_time": "06-02-2026 10:46",
         "news_link": "https://ekonomi.republika.co.id/berita/ta19ft472/semula-cuma-bantu-tetangga-kini-mukmainah-dapat-tambahan-pendapatan-dengan-menjadi-agen-brilink"
     },
     {
         "title": "Minyak Goreng Murah Bakal Makin Banyak Pilihan, Begini Penjelasannya",
         "category": "News",
-        "publish_time": "06-02-2026 10:28",
+        "publish_time": "06-02-2026 10:46",
         "news_link": "https://news.republika.co.id/berita/ta184e451/minyak-goreng-murah-bakal-makin-banyak-pilihan-begini-penjelasannya"
     },
     {
         "title": "Polusi Udara, Pembunuh Senyap yang Menggerogoti Kesehatan",
         "category": "Esgnow",
-        "publish_time": "06-02-2026 10:28",
+        "publish_time": "06-02-2026 10:46",
         "news_link": "https://esgnow.republika.co.id/berita/ta192i423/polusi-udara-pembunuh-senyap-yang-menggerogoti-kesehatan"
     },
     {
         "title": "MA Benarkan OTT Wakil Ketua PN Depok dan Tunggu Pengumuman dari KPK",
         "category": "News",
-        "publish_time": "06-02-2026 10:28",
+        "publish_time": "06-02-2026 10:46",
         "news_link": "https://news.republika.co.id/berita/ta190u487/ma-benarkan-ott-wakil-ketua-pn-depok-dan-tunggu-pengumuman-dari-kpk"
     },
     {
         "title": "Penggemar BTS Kritik Hybe Soal Army Bomb, Dianggap 'Gila Uang'",
         "category": "Ameera",
-        "publish_time": "06-02-2026 10:28",
+        "publish_time": "06-02-2026 10:46",
         "news_link": "https://ameera.republika.co.id/berita/ta18vi425/penggemar-bts-kritik-hybe-soal-army-bomb-dianggap-gila-uang"
     },
     {
         "title": "Presiden Prabowo Terima Kunjungan PM Australia Anthony Albanese di Istana Merdeka",
         "category": "Visual",
-        "publish_time": "06-02-2026 10:28",
+        "publish_time": "06-02-2026 10:46",
         "news_link": "https://visual.republika.co.id/berita/ta18tq375/presiden-prabowo-terima-kunjungan-pm-australia-anthony-albanese-di-istana-merdeka"
     },
     {
         "title": "Menkeu Percepat Revisi Aturan Pembebasan Cukai Bioetanol",
         "category": "Ekonomi",
-        "publish_time": "06-02-2026 10:28",
+        "publish_time": "06-02-2026 10:46",
         "news_link": "https://ekonomi.republika.co.id/berita/ta18sf370/menkeu-percepat-revisi-aturan-pembebasan-cukai-bioetanol"
     },
     {
         "title": "Manajemen Strategis di Tengah Ketidakpastian Global, Prodi Magister Manajemen Jadi Kepastiannya",
         "category": "News",
-        "publish_time": "06-02-2026 10:28",
+        "publish_time": "06-02-2026 09:46",
         "news_link": "https://news.republika.co.id/berita/ta18dz472/manajemen-strategis-di-tengah-ketidakpastian-global-prodi-magister-manajemen-jadi-kepastiannya"
     },
     {
         "title": "Karhutla Mengancam Lagi? Ini Peringatan Tegas Gubernur Kalbar untuk Pengusaha Hutan",
         "category": "News",
-        "publish_time": "06-02-2026 10:28",
+        "publish_time": "06-02-2026 09:46",
         "news_link": "https://news.republika.co.id/berita/ta17m2451/karhutla-mengancam-lagi-ini-peringatan-tegas-gubernur-kalbar-untuk-pengusaha-hutan"
     },
     {
         "title": "Ekonom Kritik Pertumbuhan Ekonomi 2025, Penerimaan Pajak Dinilai Kontradiktif",
         "category": "Ekonomi",
-        "publish_time": "06-02-2026 10:28",
+        "publish_time": "06-02-2026 09:46",
         "news_link": "https://ekonomi.republika.co.id/berita/ta17wr423/ekonom-kritik-pertumbuhan-ekonomi-2025-penerimaan-pajak-dinilai-kontradiktif"
     },
     {
         "title": "Setiap Hari Pakai Image Processing, Sudahkah Kita Memahaminya?",
         "category": "News",
-        "publish_time": "06-02-2026 10:28",
+        "publish_time": "06-02-2026 09:46",
         "news_link": "https://news.republika.co.id/berita/ta1825472/setiap-hari-pakai-image-processing-sudahkah-kita-memahaminya"
     },
     {
         "title": "Sudah Dibeli Indonesia, Jet Tempur Kaan Generasi Baru akan Dikembangkan Turki dan Saudi",
         "category": "News",
-        "publish_time": "06-02-2026 10:28",
+        "publish_time": "06-02-2026 09:46",
         "news_link": "https://news.republika.co.id/berita/ta17y7377/sudah-dibeli-indonesia-jet-tempur-kaan-generasi-baru-akan-dikembangkan-turki-dan-saudi"
     },
     {
         "title": "Perundingan Iran-AS Dimulai di Oman",
         "category": "News",
-        "publish_time": "06-02-2026 10:28",
+        "publish_time": "06-02-2026 09:46",
         "news_link": "https://news.republika.co.id/berita/ta17xa393/perundingan-iranas-dimulai-di-oman"
     },
     {
         "title": "Saat Kreativitas Jadi Kompetensi Masa Depan, Prodi DKV UBSI Kampus Cikarang Jawab Tantangan Zaman",
         "category": "News",
-        "publish_time": "06-02-2026 10:28",
+        "publish_time": "06-02-2026 09:46",
         "news_link": "https://news.republika.co.id/berita/ta17qq472/saat-kreativitas-jadi-kompetensi-masa-depan-prodi-dkv-ubsi-kampus-cikarang-jawab-tantangan-zaman"
     },
     {
         "title": "BSI Siap Naikkan Free Float Saham Jadi 15 Persen",
         "category": "Ekonomi",
-        "publish_time": "06-02-2026 09:28",
+        "publish_time": "06-02-2026 09:46",
         "news_link": "https://ekonomi.republika.co.id/berita/ta17b1416/bsi-siap-naikkan-free-float-saham-jadi-15-persen"
     },
     {
         "title": "BPS: Program Makan Bergizi Gratis (MBG) Sukses Tekan Angka Pengangguran di Kalimantan Barat",
         "category": "News",
-        "publish_time": "06-02-2026 09:28",
+        "publish_time": "06-02-2026 09:46",
         "news_link": "https://news.republika.co.id/berita/ta17c8451/bps-program-makan-bergizi-gratis-mbg-sukses-tekan-angka-pengangguran-di-kalimantan-barat"
     },
     {
         "title": "S2 Masih Menganggur? Ini Alasan dan Solusi dari UNM!",
         "category": "News",
-        "publish_time": "06-02-2026 09:28",
+        "publish_time": "06-02-2026 09:46",
         "news_link": "https://news.republika.co.id/berita/ta17bp472/s2-masih-menganggur-ini-alasan-dan-solusi-dari-unm"
-    },
-    {
-        "title": "Kejar Cuan Saja tak Cukup, Anak Muda Perlu Kelola Risiko Sejak Dini",
-        "category": "Ekonomi",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta1765423/kejar-cuan-saja-tak-cukup-anak-muda-perlu-kelola-risiko-sejak-dini"
-    },
-    {
-        "title": "Wamensos Kepesertaan BPJS Pasien Cuci Darah Segera Direaktivasi",
-        "category": "Video",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://tv.republika.co.id/berita/yt-ta1732219052967/wamensos-kepesertaan-bpjs-pasien-cuci-darah-segera-direaktivasi"
-    },
-    {
-        "title": "Ngoding Buat Apa? Bikin Riset yang Berdampak!",
-        "category": "News",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://news.republika.co.id/berita/ta170w472/ngoding-buat-apa-bikin-riset-yang-berdampak"
-    },
-    {
-        "title": "TikTok Bantah Kabar Bakal Tutup Tokopedia, Ini Rencana Pengembangannya",
-        "category": "Ekonomi",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta16vh490/tiktok-bantah-kabar-bakal-tutup-tokopedia-ini-rencana-pengembangannya"
-    },
-    {
-        "title": "Dosen UNM Turun ke Masyarakat! Inovasi BESTARI Saintek 2026 Siap Berdampak Nyata",
-        "category": "News",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://news.republika.co.id/berita/ta16pl472/dosen-unm-turun-ke-masyarakat-inovasi-bestari-saintek-2026-siap-berdampak-nyata"
-    },
-    {
-        "title": "SPBU Swasta Mulai Gunakan Solar Dalam Negeri dari Pertamina April 2026",
-        "category": "Ekonomi",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta16n0370/spbu-swasta-mulai-gunakan-solar-dalam-negeri-dari-pertamina-april-2026"
-    },
-    {
-        "title": "Tiga Orang Diamankan dalam OTT KPK PN Depok, Ini Penjelasan Ketua PT Bandung",
-        "category": "News",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://news.republika.co.id/berita/ta16jl487/tiga-orang-diamankan-dalam-ott-kpk-pn-depok-ini-penjelasan-ketua-pt-bandung"
-    },
-    {
-        "title": "BI Catat Cadangan Devisa Indonesia Turun Jadi 154,6 Miliar di Januari 2026",
-        "category": "Ekonomi",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta16h3370/bi-catat-cadangan-devisa-indonesia-turun-jadi-1546-miliar-di-januari-2026"
-    },
-    {
-        "title": "BSI Putuskan tak Bagikan Dividen 2025, Fokus Perkuat Modal",
-        "category": "Ekonomi Syariah",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://sharia.republika.co.id/berita/ta163c423/bsi-putuskan-tak-bagikan-dividen-2025-fokus-perkuat-modal"
-    },
-    {
-        "title": "Tak Mau Kasus YBR Terulang, Polri Bakal Data Warga Miskin",
-        "category": "News",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://news.republika.co.id/berita/ta16aq393/tak-mau-kasus-ybr-terulang-polri-bakal-data-warga-miskin"
-    },
-    {
-        "title": "Lisa Blackpink Dikabarkan Bakal Bintangi Film Komedi Romantis Netflix",
-        "category": "Ameera",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://ameera.republika.co.id/berita/ta1682425/lisa-blackpink-dikabarkan-bakal-bintangi-film-komedi-romantis-netflix"
-    },
-    {
-        "title": "ESDM Targetkan Fasilitas Pengolahan Sampah Jadi Listrik Mulai Beroperasi 2027",
-        "category": "Esgnow",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://esgnow.republika.co.id/berita/ta150w416/esdm-targetkan-fasilitas-pengolahan-sampah-jadi-listrik-mulai-beroperasi-2027"
-    },
-    {
-        "title": "Kerugian Penipuan Digital Nasional Tembus Rp 9 Triliun, Ini Tips Mencegahnya",
-        "category": "Ekonomi",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta15wz423/kerugian-penipuan-digital-nasional-tembus-rp-9-triliun-ini-tips-mencegahnya"
-    },
-    {
-        "title": "Dorong Ekonomi Kerakyatan, Bank Mandiri Region VI/ Jawa Barat Bukukan Kinerja Solid Sepanjang 2025",
-        "category": "Ekonomi",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta15yh472/dorong-ekonomi-kerakyatan-bank-mandiri-region-vi-jawa-barat-bukukan-kinerja-solid-sepanjang-2025"
-    },
-    {
-        "title": "Macan Tutul yang Masuk ke Permukiman Warga di Bandung Dibawa ke Garut",
-        "category": "Rejabar",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://rejabar.republika.co.id/berita/ta15xi487/macan-tutul-yang-masuk-ke-permukiman-warga-di-bandung-dibawa-ke-garut"
-    },
-    {
-        "title": "Inggris Pangkas Pendanaan Iklim untuk Negara Berkembang",
-        "category": "Esgnow",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://esgnow.republika.co.id/berita/ta13dq416/inggris-pangkas-pendanaan-iklim-untuk-negara-berkembang"
-    },
-    {
-        "title": "Kawasan Industri Terus Tumbuh, Pengembang Perluas Portofolio Aset Produktif",
-        "category": "Ekonomi",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta15mz416/kawasan-industri-terus-tumbuh-pengembang-perluas-portofolio-aset-produktif"
-    },
-    {
-        "title": "Wamenkes: RS tidak Boleh Tolak Pasien Cuci Darah BPJS PBI Nonaktif",
-        "category": "News",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://news.republika.co.id/berita/ta15pd328/wamenkes-rs-tidak-boleh-tolak-pasien-cuci-darah-bpjs-pbi-nonaktif"
-    },
-    {
-        "title": "Saat Drone Isral Patroli di Pemakaman di Lebanon",
-        "category": "Video",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://tv.republika.co.id/berita/yt-ta15p21898884645/saat-drone-isral-patroli-di-pemakaman-di-lebanon"
-    },
-    {
-        "title": "Kemenhaj Ingatkan Petugas Haji Tingkatkan Disiplin Layani Jamaah",
-        "category": "Khazanah",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://khazanah.republika.co.id/berita/ta15ou366/kemenhaj-ingatkan-petugas-haji-tingkatkan-disiplin-layani-jamaah"
-    },
-    {
-        "title": "Pembunuhan Satu Keluarga di Warakas, Polisi: Pelaku Beli Racun di Warung, Lalu Dicampur Rebusan Teh",
-        "category": "News",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://news.republika.co.id/berita/ta15mq377/pembunuhan-satu-keluarga-di-warakas-polisi-pelaku-beli-racun-di-warung-lalu-dicampur-rebusan-teh"
-    },
-    {
-        "title": "Laba Bersih BSI Tumbuh 8 Persen, Bisnis Emas Jadi Penopang Utama",
-        "category": "Ekonomi Syariah",
-        "publish_time": "06-02-2026 09:28",
-        "news_link": "https://sharia.republika.co.id/berita/ta151f423/laba-bersih-bsi-tumbuh-8-persen-bisnis-emas-jadi-penopang-utama"
     }
 ]
