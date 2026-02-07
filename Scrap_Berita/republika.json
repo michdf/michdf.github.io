@@ -1,5 +1,47 @@
 [
     {
+        "title": "Bupati Karawang Pimpin Kerja Bakti di Pantai Tangkolak",
+        "category": "News",
+        "publish_time": "08 February 2026, 00:15",
+        "news_link": "https://news.republika.co.id/berita/ta3ml71330000/bupati-karawang-pimpin-kerja-bakti-di-pantai-tangkolak"
+    },
+    {
+        "title": "Ranjau Canggih: Senjata Tersembunyi Iran untuk Mengimbangi Kekuatan Militer AS",
+        "category": "News",
+        "publish_time": "08 February 2026, 00:08",
+        "news_link": "https://news.republika.co.id/berita/ta3j35451/ranjau-canggih-senjata-tersembunyi-iran-untuk-mengimbangi-kekuatan-militer-as"
+    },
+    {
+        "title": "Hadapi Amerika di Perundingan, Iran Tegaskan Uranium dan Rudal tidak untuk Kompromi",
+        "category": "News",
+        "publish_time": "08 February 2026, 00:05",
+        "news_link": "https://news.republika.co.id/berita/ta3idy451/hadapi-amerika-di-perundingan-iran-tegaskan-uranium-dan-rudal-tidak-untuk-kompromi"
+    },
+    {
+        "title": "70 Wisudawan STAI Sadra Diwisuda: Menuju Insan Intelektual Berkarakter",
+        "category": "Khazanah",
+        "publish_time": "08 February 2026, 00:05",
+        "news_link": "https://khazanah.republika.co.id/berita/ta3eis320/70-wisudawan-stai-sadra-diwisuda-menuju-insan-intelektual-berkarakter"
+    },
+    {
+        "title": "BEEK di Kuningan Perkuat Ekosistem Budaya Berbasis Cagar Budaya",
+        "category": "News",
+        "publish_time": "08 February 2026, 00:00",
+        "news_link": "https://news.republika.co.id/berita/ta3lwa7630000/beek-di-kuningan-perkuat-ekosistem-budaya-berbasis-cagar-budaya"
+    },
+    {
+        "title": "Jerman Siaga, Mata-mata Iran Incar Jantung Militer Bundeswehr",
+        "category": "News",
+        "publish_time": "08 February 2026, 00:00",
+        "news_link": "https://news.republika.co.id/berita/ta3hhf451/jerman-siaga-matamata-iran-incar-jantung-militer-bundeswehr"
+    },
+    {
+        "title": "Drama Adu Penalti Gagalkan Timnas Indonesia Raih Piala Futsal Asia 2026",
+        "category": "Visual",
+        "publish_time": "07 February 2026, 23:59",
+        "news_link": "https://visual.republika.co.id/berita/ta3lb0375/drama-adu-penalti-gagalkan-timnas-indonesia-raih-piala-futsal-asia-2026"
+    },
+    {
         "title": "Mengunjungi Wisata Edukasi Kopi di Pangalengan",
         "category": "Visual",
         "publish_time": "07 February 2026, 23:20",
@@ -256,47 +298,5 @@
         "category": "Esgnow",
         "publish_time": "07 February 2026, 18:12",
         "news_link": "https://esgnow.republika.co.id/berita/ta35sx522/periksa-lokasi-pembunuhan-gajah-kapolda-riau-tegaskan-pendekatan-ilmiah-demi-keadilan-ekologis"
-    },
-    {
-        "title": "Jimly: Polri di Bawah Kementerian Jadi Rekomendasi Komisi Percepatan Reformasi",
-        "category": "News",
-        "publish_time": "07 February 2026, 18:12",
-        "news_link": "https://news.republika.co.id/berita/ta35sk458/jimly-polri-di-bawah-kementerian-jadi-rekomendasi-komisi-percepatan-reformasi"
-    },
-    {
-        "title": "Nabi Musa Memohon Nyawanya Dicabut di Palestina",
-        "category": "Khazanah",
-        "publish_time": "07 February 2026, 18:05",
-        "news_link": "https://khazanah.republika.co.id/berita/ta34mu458/nabi-musa-memohon-nyawanya-dicabut-di-palestina"
-    },
-    {
-        "title": "Prabowo: Kelompok Garong Serang Balik Pemberantasan Korupsi",
-        "category": "News",
-        "publish_time": "07 February 2026, 18:00",
-        "news_link": "https://news.republika.co.id/berita/ta33cu377/prabowo-kelompok-garong-serang-balik-pemberantasan-korupsi"
-    },
-    {
-        "title": "AS Akan Gelar Pertemuan Board of Peace Gaza pada 19 Februari 2026",
-        "category": "News",
-        "publish_time": "07 February 2026, 17:50",
-        "news_link": "https://news.republika.co.id/berita/ta34i4423/as-akan-gelar-pertemuan-board-of-peace-gaza-pada-19-februari-2026"
-    },
-    {
-        "title": "Nabi Idris, Sosok Manusia Pertama Mampu Baca-Tulis",
-        "category": "Khazanah",
-        "publish_time": "07 February 2026, 17:47",
-        "news_link": "https://khazanah.republika.co.id/berita/ta34in458/nabi-idris-sosok-manusia-pertama-mampu-bacatulis"
-    },
-    {
-        "title": "Sikapi Fatwa MUI, Pemkab Demak Pilih tak Naikkan Pajak",
-        "category": "Rejogja",
-        "publish_time": "07 February 2026, 17:35",
-        "news_link": "https://rejogja.republika.co.id/berita/ta3434458/sikapi-fatwa-mui-pemkab-demak-pilih-tak-naikkan-pajak"
-    },
-    {
-        "title": "Unggah Video Obama Seperti Kera, Donald Trump Ogah Minta Maaf, Ini Alasannya",
-        "category": "News",
-        "publish_time": "07 February 2026, 17:35",
-        "news_link": "https://news.republika.co.id/berita/ta335k377/unggah-video-obama-seperti-kera-donald-trump-ogah-minta-maaf-ini-alasannya"
     }
 ]
