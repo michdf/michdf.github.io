@@ -1,20 +1,182 @@
 [
     {
+        "title": "Saudi Dorong Filantropi Jadi Pilar Utama Sistem Ekonomi Islam",
+        "category": "Khazanah",
+        "publish_time": "11-02-2026 07:51",
+        "news_link": "https://khazanah.republika.co.id/berita/taab5g483/saudi-dorong-filantropi-jadi-pilar-utama-sistem-ekonomi-islam"
+    },
+    {
+        "title": "Bahlil Pastikan Stok BBM Aman Meski SPBU Shell Sempat Kosong",
+        "category": "Ekonomi",
+        "publish_time": "11-02-2026 07:48",
+        "news_link": "https://ekonomi.republika.co.id/berita/taab0j370/bahlil-pastikan-stok-bbm-aman-meski-spbu-shell-sempat-kosong"
+    },
+    {
+        "title": "KSAD Maruli Tegaskan TNI Siap Fasilitasi Pendidikan Komcad 4.000 ASN",
+        "category": "News",
+        "publish_time": "11-02-2026 07:43",
+        "news_link": "https://news.republika.co.id/berita/taaath409/ksad-maruli-tegaskan-tni-siap-fasilitasi-pendidikan-komcad-4000-asn"
+    },
+    {
+        "title": "KKB Tembaki Pesawat Smart Air di Papua, Pilot dan Kopilot Tewas",
+        "category": "News",
+        "publish_time": "11-02-2026 07:39",
+        "news_link": "https://news.republika.co.id/berita/taaamg377/kkb-tembaki-pesawat-smart-air-di-papua-pilot-dan-kopilot-tewas"
+    },
+    {
+        "title": "Produk Impor Banjiri E-Commerce, CORE Minta Prabowo Turun Tangan",
+        "category": "Ekonomi",
+        "publish_time": "11-02-2026 07:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/taaaln423/produk-impor-banjiri-ecommerce-core-minta-prabowo-turun-tangan"
+    },
+    {
+        "title": "Manasik Haji Nasional Tekankan Haji Ramah Lansia",
+        "category": "Khazanah",
+        "publish_time": "11-02-2026 07:37",
+        "news_link": "https://khazanah.republika.co.id/berita/taaair483/manasik-haji-nasional-tekankan-haji-ramah-lansia"
+    },
+    {
+        "title": "Purbaya Jadi Ketua Panitia Seleksi Pengganti Bos OJK, Ini Kriteria Pendaftarannya",
+        "category": "Ekonomi",
+        "publish_time": "11-02-2026 07:31",
+        "news_link": "https://ekonomi.republika.co.id/berita/taaa86490/purbaya-jadi-ketua-panitia-seleksi-pengganti-bos-ojk-ini-kriteria-pendaftarannya"
+    },
+    {
+        "title": "MBG: 72,8 % Warga Puas, Capaian 59,86 Juta Penerima",
+        "category": "News",
+        "publish_time": "11-02-2026 07:29",
+        "news_link": "https://news.republika.co.id/berita/taaa5v451/mbg-728-warga-puas-capaian-5986-juta-penerima"
+    },
+    {
+        "title": "120 Ribu Pasien Katastropik PBI Direaktivasi, Menkes Pastikan Layanan Tak Terhenti",
+        "category": "News",
+        "publish_time": "11-02-2026 07:25",
+        "news_link": "https://news.republika.co.id/berita/taa9yb370/120-ribu-pasien-katastropik-pbi-direaktivasi-menkes-pastikan-layanan-tak-terhenti"
+    },
+    {
+        "title": "Penambakan Massal di Kanada Tewaskan 10 Orang",
+        "category": "News",
+        "publish_time": "11-02-2026 07:23",
+        "news_link": "https://news.republika.co.id/berita/taa9w3393/penambakan-massal-di-kanada-tewaskan-10-orang"
+    },
+    {
+        "title": "Kolaborasi Pemerintah Kutai Kartanegara dan UIII Dorong Indonesia Menuju Emisi Nol Bersih",
+        "category": "News",
+        "publish_time": "11-02-2026 07:15",
+        "news_link": "https://news.republika.co.id/berita/taa9j2451/kolaborasi-pemerintah-kutai-kartanegara-dan-uiii-dorong-indonesia-menuju-emisi-nol-bersih"
+    },
+    {
+        "title": "Kasus Ekspor CPO dan POME, Ini Respons Kemenperin",
+        "category": "Ekonomi",
+        "publish_time": "11-02-2026 07:15",
+        "news_link": "https://ekonomi.republika.co.id/berita/taa9hg490/kasus-ekspor-cpo-dan-pome-ini-respons-kemenperin"
+    },
+    {
+        "title": "Tuntut Peningkatan Kesejahteraan, Ratusan Guru Madrasah Swasta Gelar Aksi di Depan Gedung DPR",
+        "category": "Visual",
+        "publish_time": "11-02-2026 07:14",
+        "news_link": "https://visual.republika.co.id/berita/taa829375/tuntut-peningkatan-kesejahteraan-ratusan-guru-madrasah-swasta-gelar-aksi-di-depan-gedung-dpr"
+    },
+    {
+        "title": "Sepuluh Keutamaan Sholat yang Diungkap Nabi: Menjadi Tiang Agama Hingga Sebagai Kunci Surga",
+        "category": "Khazanah",
+        "publish_time": "11-02-2026 07:12",
+        "news_link": "https://khazanah.republika.co.id/berita/taa9dg483/sepuluh-keutamaan-sholat-yang-diungkap-nabi-menjadi-tiang-agama-hingga-sebagai-kunci-surga"
+    },
+    {
+        "title": "Kemenkes Targetkan 130 Juta Peserta Cek Kesehatan Gratis pada 2026",
+        "category": "News",
+        "publish_time": "11-02-2026 07:09",
+        "news_link": "https://news.republika.co.id/berita/taa991370/kemenkes-targetkan-130-juta-peserta-cek-kesehatan-gratis-pada-2026"
+    },
+    {
+        "title": "Guru Madrasah Swasta: 25 Tahun Mengajar, Upahnya Tak Cukup Buat Hidup",
+        "category": "Khazanah",
+        "publish_time": "11-02-2026 07:09",
+        "news_link": "https://khazanah.republika.co.id/berita/taa983451/guru-madrasah-swasta-25-tahun-mengajar-upahnya-tak-cukup-buat-hidup"
+    },
+    {
+        "title": "Bos LPS Nilai Kebijakan WFA Bisa Bantu Dongkrak Pertumbuhan Kredit",
+        "category": "Ekonomi",
+        "publish_time": "11-02-2026 07:08",
+        "news_link": "https://ekonomi.republika.co.id/berita/taa96p490/bos-lps-nilai-kebijakan-wfa-bisa-bantu-dongkrak-pertumbuhan-kredit"
+    },
+    {
+        "title": "Britney Spears Jual Hak Katalog Musiknya Termasuk 'Baby One More Time'",
+        "category": "Ameera",
+        "publish_time": "11-02-2026 07:05",
+        "news_link": "https://ameera.republika.co.id/berita/taa922425/britney-spears-jual-hak-katalog-musiknya-termasuk-baby-one-more-time"
+    },
+    {
+        "title": "Di Balik Alasan Mengapa Manusia Membenci Kematian",
+        "category": "Khazanah",
+        "publish_time": "11-02-2026 06:58",
+        "news_link": "https://khazanah.republika.co.id/berita/taa8qb483/di-balik-alasan-mengapa-manusia-membenci-kematian"
+    },
+    {
+        "title": "Jubir KPK Siap Hadapi Gugatan Praperadilan Yaqut Cholil Qoumas",
+        "category": "News",
+        "publish_time": "11-02-2026 06:56",
+        "news_link": "https://news.republika.co.id/berita/taa8mg484/jubir-kpk-siap-hadapi-gugatan-praperadilan-yaqut-cholil-qoumas"
+    },
+    {
+        "title": "Kantor Kemenag Sumba Timur Percepat Implementasi Kebijakan Wajib Halal",
+        "category": "Khazanah",
+        "publish_time": "11-02-2026 06:55",
+        "news_link": "https://khazanah.republika.co.id/berita/taa8ku451/kantor-kemenag-sumba-timur-percepat-implementasi-kebijakan-wajib-halal"
+    },
+    {
+        "title": "Hidrogen Disiapkan sebagai Pengungkit Industrialisasi Energi Bersih",
+        "category": "Esgnow",
+        "publish_time": "11-02-2026 06:51",
+        "news_link": "https://esgnow.republika.co.id/berita/taa6j3416/hidrogen-disiapkan-sebagai-pengungkit-industrialisasi-energi-bersih"
+    },
+    {
+        "title": "Sungai Cisadane Tercemar Pestisida, Warga Dilarang Ambil Ikan dan Air",
+        "category": "Rejakarta",
+        "publish_time": "11-02-2026 06:51",
+        "news_link": "https://republika.co.id/berita//taa7pe282/sungai-cisadane-tercemar-pestisida-warga-dilarang-ambil-ikan-dan-air"
+    },
+    {
+        "title": "Ketua LPS Ungkap Tiga Tantangan Pengembangan Ekonomi Syariah",
+        "category": "Ekonomi Syariah",
+        "publish_time": "11-02-2026 06:51",
+        "news_link": "https://sharia.republika.co.id/berita/taa62x416/ketua-lps-ungkap-tiga-tantangan-pengembangan-ekonomi-syariah"
+    },
+    {
+        "title": "Pemkot Bandung Gelar Nikah Massal bagi Pasangan Disabilitas",
+        "category": "Visual",
+        "publish_time": "11-02-2026 06:51",
+        "news_link": "https://visual.republika.co.id/berita/taa74c375/pemkot-bandung-gelar-nikah-massal-bagi-pasangan-disabilitas"
+    },
+    {
+        "title": "Luncurkan Kemasan Baru, Dua Kelinci Bidik Pertumbuhan Dua Digit",
+        "category": "Ekonomi",
+        "publish_time": "11-02-2026 06:51",
+        "news_link": "https://ekonomi.republika.co.id/berita/taa72k416/luncurkan-kemasan-baru-dua-kelinci-bidik-pertumbuhan-dua-digit"
+    },
+    {
+        "title": "Berupaya Batalkan Status Tersangkanya, Eks Menag Yaqut Gugat KPK ke Praperadilan",
+        "category": "News",
+        "publish_time": "11-02-2026 05:51",
+        "news_link": "https://news.republika.co.id/berita/taa6d2409/berupaya-batalkan-status-tersangkanya-eks-menag-yaqut-gugat-kpk-ke-praperadilan"
+    },
+    {
         "title": "BNI Respons Laporan Moody\u2019s, Permodalan dan Likuiditas Tetap Sehat",
         "category": "Ekonomi",
-        "publish_time": "11-02-2026 06:05",
+        "publish_time": "11-02-2026 05:51",
         "news_link": "https://ekonomi.republika.co.id/berita/taa68b423/bni-respons-laporan-moodys-permodalan-dan-likuiditas-tetap-sehat"
     },
     {
         "title": "Pemerintah Beri Diskon Tarif Mudik Lebaran",
         "category": "Video",
-        "publish_time": "11-02-2026 06:00",
+        "publish_time": "11-02-2026 05:51",
         "news_link": "https://tv.republika.co.id/berita/yt-taa6021631390542/pemerintah-beri-diskon-tarif-mudik-lebaran"
     },
     {
         "title": "Transaksi E-commerce Naik 76 Persen saat Ramadan, UMKM Dongkrak Pertumbuhan Ekonomi Digital",
         "category": "Ekonomi",
-        "publish_time": "11-02-2026 05:54",
+        "publish_time": "11-02-2026 05:51",
         "news_link": "https://ekonomi.republika.co.id/berita/taa5ql370/transaksi-ecommerce-naik-76-persen-saat-ramadan-umkm-dongkrak-pertumbuhan-ekonomi-digital"
     },
     {
@@ -26,277 +188,115 @@
     {
         "title": "Pejabat Korsel Dipecat Setelah Usulkan Impor Perempuan untuk Dongkrak Kelahiran",
         "category": "Ameera",
-        "publish_time": "11-02-2026 05:45",
+        "publish_time": "11-02-2026 05:51",
         "news_link": "https://ameera.republika.co.id/berita/taa5c8425/pejabat-korsel-dipecat-setelah-usulkan-impor-perempuan-untuk-dongkrak-kelahiran"
     },
     {
         "title": "KLH Turunkan Tim Penegakan Hukum Selidiki Pencemaran Sungai Cisadane",
         "category": "News",
-        "publish_time": "11-02-2026 05:45",
+        "publish_time": "11-02-2026 05:51",
         "news_link": "https://news.republika.co.id/berita/taa5b6409/klh-turunkan-tim-penegakan-hukum-selidiki-pencemaran-sungai-cisadane"
     },
     {
         "title": "Bapanas Intensifkan Satgas Saber di 38 Provinsi Jelang Ramadan",
         "category": "Ekonomi",
-        "publish_time": "11-02-2026 05:44",
+        "publish_time": "11-02-2026 05:51",
         "news_link": "https://ekonomi.republika.co.id/berita/taa59o416/bapanas-intensifkan-satgas-saber-di-38-provinsi-jelang-ramadan"
     },
     {
         "title": "Dari Kopi Aceh hingga Rumput Laut Makassar, Koperasi Daerah Indonesia Tembus Pasar Dunia",
         "category": "Ekonomi",
-        "publish_time": "11-02-2026 05:43",
+        "publish_time": "11-02-2026 05:51",
         "news_link": "https://ekonomi.republika.co.id/berita/taa58t349/dari-kopi-aceh-hingga-rumput-laut-makassar-koperasi-daerah-indonesia-tembus-pasar-dunia"
     },
     {
         "title": "MDI Ventures Perkuat Sinergi Portofolio dengan Telkom Group",
         "category": "Ekonomi",
-        "publish_time": "11-02-2026 05:39",
+        "publish_time": "11-02-2026 05:51",
         "news_link": "https://ekonomi.republika.co.id/berita/taa4yy416/mdi-ventures-perkuat-sinergi-portofolio-dengan-telkom-group"
     },
     {
         "title": "Polisi Usut Tindak Pidana Gedung Pestisida Terbakar Akibatkan Sungai Cisadane Tercemar",
         "category": "News",
-        "publish_time": "11-02-2026 05:34",
+        "publish_time": "11-02-2026 05:51",
         "news_link": "https://news.republika.co.id/berita/taa4ts409/polisi-usut-tindak-pidana-gedung-pestisida-terbakar-akibatkan-sungai-cisadane-tercemar"
     },
     {
         "title": "Akses Jalan Jadi Kendala, Pembangunan SMKN 4 Depok Disorot DPRD Jabar",
         "category": "Rejabar",
-        "publish_time": "11-02-2026 05:32",
+        "publish_time": "11-02-2026 05:51",
         "news_link": "https://rejabar.republika.co.id/berita/taa4qe472/akses-jalan-jadi-kendala-pembangunan-smkn-4-depok-disorot-dprd-jabar"
     },
     {
         "title": "Data OCBC: Generasi Muda Hidup dari Gaji ke Gaji, Dana Darurat Belum Jadi Prioritas",
         "category": "Ekonomi",
-        "publish_time": "11-02-2026 05:27",
+        "publish_time": "11-02-2026 05:51",
         "news_link": "https://ekonomi.republika.co.id/berita/taa4ij349/data-ocbc-generasi-muda-hidup-dari-gaji-ke-gaji-dana-darurat-belum-jadi-prioritas"
     },
     {
         "title": "Merangkai Nilai dari Limbah, Bank Mandiri Perkuat UMKM Kriya Berbasis Ekosistem Berkelanjutan",
         "category": "Esgnow",
-        "publish_time": "11-02-2026 05:25",
+        "publish_time": "11-02-2026 05:51",
         "news_link": "https://esgnow.republika.co.id/berita/taa4ds472/merangkai-nilai-dari-limbah-bank-mandiri-perkuat-umkm-kriya-berbasis-ekosistem-berkelanjutan"
     },
     {
         "title": "Persib Tantang Ratchaburi pada Leg Pertama 16 Besar ACL 2, Bojan Hodak Bidik Hasil Maksimal",
         "category": "News",
-        "publish_time": "11-02-2026 05:16",
+        "publish_time": "11-02-2026 04:51",
         "news_link": "https://news.republika.co.id/berita/taa3zb348/persib-tantang-ratchaburi-pada-leg-pertama-16-besar-acl-2-bojan-hodak-bidik-hasil-maksimal"
     },
     {
         "title": "OTT PN Depok Buat KPK Temukan Persoalan Serius di Sistem Peradilan",
         "category": "News",
-        "publish_time": "11-02-2026 05:09",
+        "publish_time": "11-02-2026 04:51",
         "news_link": "https://news.republika.co.id/berita/taa3nq409/ott-pn-depok-buat-kpk-temukan-persoalan-serius-di-sistem-peradilan"
     },
     {
         "title": "BSI: Metodologi Rating Syariah Belum Spesifik, Prospek Emas Tetap Positif",
         "category": "Ekonomi Syariah",
-        "publish_time": "11-02-2026 05:05",
+        "publish_time": "11-02-2026 04:51",
         "news_link": "https://sharia.republika.co.id/berita/taa3fg423/bsi-metodologi-rating-syariah-belum-spesifik-prospek-emas-tetap-positif"
     },
     {
         "title": "Joe Gomez Diragukan, Liverpool Krisis Bek Kanan Saat Hadapi Sunderland",
         "category": "News",
-        "publish_time": "11-02-2026 05:05",
+        "publish_time": "11-02-2026 04:51",
         "news_link": "https://news.republika.co.id/berita/taa35u348/joe-gomez-diragukan-liverpool-krisis-bek-kanan-saat-hadapi-sunderland"
     },
     {
         "title": "Perkuat Sinergi Pelaku Usaha, IFA 2026 Hadirkan Konsep Kebaruan yang Lebih Spektakuler",
         "category": "Ekonomi",
-        "publish_time": "11-02-2026 05:05",
+        "publish_time": "11-02-2026 04:51",
         "news_link": "https://ekonomi.republika.co.id/berita/taa2zj472/perkuat-sinergi-pelaku-usaha-ifa-2026-hadirkan-konsep-kebaruan-yang-lebih-spektakuler"
     },
     {
         "title": "Menhaj Minta Calhaj Siapkan Dua Hal Ini Menjelang Berangkat Haji",
         "category": "Khazanah",
-        "publish_time": "11-02-2026 05:05",
+        "publish_time": "11-02-2026 04:51",
         "news_link": "https://khazanah.republika.co.id/berita/taa276483/menhaj-minta-calhaj-siapkan-dua-hal-ini-menjelang-berangkat-haji"
     },
     {
         "title": "Transaksi Emas Digital Melejit, Pengawasan Harus Ketat",
         "category": "Ekonomi",
-        "publish_time": "11-02-2026 04:05",
+        "publish_time": "11-02-2026 04:51",
         "news_link": "https://ekonomi.republika.co.id/berita/taa1wp416/transaksi-emas-digital-melejit-pengawasan-harus-ketat"
     },
     {
         "title": "PGEO Siapkan Pasokan Green Hydrogen Ulubelu untuk Dukung Green Terminal Tanjung Sekong",
         "category": "Esgnow",
-        "publish_time": "11-02-2026 04:05",
+        "publish_time": "11-02-2026 03:51",
         "news_link": "https://esgnow.republika.co.id/berita/taa17s522/pgeo-siapkan-pasokan-green-hydrogen-ulubelu-untuk-dukung-green-terminal-tanjung-sekong"
     },
     {
         "title": "Terminal LPG Tanjung Sekong Pertamina Akan Jadi Green Terminal",
         "category": "Ekonomi",
-        "publish_time": "11-02-2026 04:05",
+        "publish_time": "11-02-2026 03:51",
         "news_link": "https://ekonomi.republika.co.id/berita/taa0q6522/terminal-lpg-tanjung-sekong-pertamina-akan-jadi-green-terminal"
     },
     {
         "title": "Ketua Komisi III DPR Tolak Hukuman Mati Ayah Bunuh Pelaku Pelecehan Anaknya, Ini Alasannya",
         "category": "News",
-        "publish_time": "11-02-2026 04:05",
+        "publish_time": "11-02-2026 03:51",
         "news_link": "https://news.republika.co.id/berita/ta9zov487/ketua-komisi-iii-dpr-tolak-hukuman-mati-ayah-bunuh-pelaku-pelecehan-anaknya-ini-alasannya"
-    },
-    {
-        "title": "BMU Resmikan Beasiswa Sumber Daya Unggul dan Luncurkan Program Wakaf Serta Ramadhan 2026",
-        "category": "News",
-        "publish_time": "11-02-2026 04:05",
-        "news_link": "https://news.republika.co.id/berita/ta9zic472/bmu-resmikan-beasiswa-sumber-daya-unggul-dan-luncurkan-program-wakaf-serta-ramadhan-2026"
-    },
-    {
-        "title": "Strategi Perbaikan Kualitas Layanan BPJS Ketenagakerjaan Berbasis SDM dan Sistem",
-        "category": "News",
-        "publish_time": "11-02-2026 04:05",
-        "news_link": "https://news.republika.co.id/berita/ta9z7v430/strategi-perbaikan-kualitas-layanan-bpjs-ketenagakerjaan-berbasis-sdm-dan-sistem"
-    },
-    {
-        "title": "Suka Edit Video Anak Ngedance Pakai Al? Ini Risiko yang Perlu Diketahui Orang Tua",
-        "category": "Ameera",
-        "publish_time": "11-02-2026 04:05",
-        "news_link": "https://ameera.republika.co.id/berita/ta9xmz425/suka-edit-video-anak-ngedance-pakai-al-ini-risiko-yang-perlu-diketahui-orang-tua"
-    },
-    {
-        "title": "Kanwil Kementerian Hukum Gorontalo Sosialisasikan Layanan Administrasi Hukum Umum",
-        "category": "News",
-        "publish_time": "11-02-2026 03:05",
-        "news_link": "https://news.republika.co.id/berita/ta9yzx472/kanwil-kementerian-hukum-gorontalo-sosialisasikan-layanan-administrasi-hukum-umum"
-    },
-    {
-        "title": "Pendapat Pakar Syariah soal Hukum Membeli Emas Online",
-        "category": "Khazanah",
-        "publish_time": "11-02-2026 03:05",
-        "news_link": "https://khazanah.republika.co.id/berita/ta9yxy430/pendapat-pakar-syariah-soal-hukum-membeli-emas-online"
-    },
-    {
-        "title": "Sambut Ramadhan, GoPay Luncurkan Fitur \u2018QRIS buat Jualan\u2019",
-        "category": "Ekonomi",
-        "publish_time": "11-02-2026 03:05",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta9yp7416/sambut-ramadhan-gopay-luncurkan-fitur-qris-buat-jualan"
-    },
-    {
-        "title": "Mengenal Hidden Hunger: Anak Kurang Zat Gizi Mikro Penting",
-        "category": "Ameera",
-        "publish_time": "11-02-2026 03:05",
-        "news_link": "https://ameera.republika.co.id/berita/ta9xzk484/mengenal-hidden-hunger-anak-kurang-zat-gizi-mikro-penting"
-    },
-    {
-        "title": "19 Ribu Warganya Terdepak dari JKN PBI Pusat, Begini Langkah Wali Kota Cimahi",
-        "category": "Rejabar",
-        "publish_time": "11-02-2026 03:05",
-        "news_link": "https://rejabar.republika.co.id/berita/ta9xyc487/19-ribu-warganya-terdepak-dari-jkn-pbi-pusat-begini-langkah-wali-kota-cimahi"
-    },
-    {
-        "title": "Studi: Minum 2 Cangkir Kopi Bisa Lindungi Otak dari Demensia",
-        "category": "Ameera",
-        "publish_time": "11-02-2026 03:05",
-        "news_link": "https://ameera.republika.co.id/berita/ta9xf6425/studi-minum-2-cangkir-kopi-bisa-lindungi-otak-dari-demensia"
-    },
-    {
-        "title": "Datang, Lihat, dan Pulang dengan Mobil Mitsubishi: Ini Alasan Booth MMKSI Wajib Dikunjungi di IIMS",
-        "category": "Ekonomi",
-        "publish_time": "11-02-2026 03:05",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta1c7b348/datang-lihat-dan-pulang-dengan-mobil-mitsubishi-ini-alasan-booth-mmksi-wajib-dikunjungi-di-iims"
-    },
-    {
-        "title": "Rabu Pagi, Harga Emas Antam Turun Rp 7.000",
-        "category": "Ekonomi",
-        "publish_time": "11-02-2026 03:05",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta9x3u423/rabu-pagi-harga-emas-antam-turun-rp-7000"
-    },
-    {
-        "title": "84 Ribu Peserta PBI JK di Indramayu Dinonaktifkan",
-        "category": "Rejabar",
-        "publish_time": "11-02-2026 03:05",
-        "news_link": "https://rejabar.republika.co.id/berita/ta9x0p487/84-ribu-peserta-pbi-jk-di-indramayu-dinonaktifkan"
-    },
-    {
-        "title": "Air Kali Perumahan BSD Berubah Putih dan Berbau",
-        "category": "Video",
-        "publish_time": "11-02-2026 03:05",
-        "news_link": "https://tv.republika.co.id/berita/yt-ta9wz11276536698/air-kali-perumahan-bsd-berubah-putih-dan-berbau"
-    },
-    {
-        "title": "Wall Street Melemah, Data Ritel AS dan Isu AI Tekan Bursa Global",
-        "category": "Ekonomi",
-        "publish_time": "11-02-2026 03:05",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta9wyk423/wall-street-melemah-data-ritel-as-dan-isu-ai-tekan-bursa-global"
-    },
-    {
-        "title": "Dukung Pemulihan Pascabencana, Mirae Asset Sekuritas Bantu Pengungsi di Aceh Tamiang",
-        "category": "Ekonomi",
-        "publish_time": "11-02-2026 03:05",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta8qn4472/dukung-pemulihan-pascabencana-mirae-asset-sekuritas-bantu-pengungsi-di-aceh-tamiang"
-    },
-    {
-        "title": "IHSG dan Rupiah Kompak Menguat pada Perdagangan Rabu",
-        "category": "Ekonomi",
-        "publish_time": "11-02-2026 02:05",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta9wf6484/ihsg-dan-rupiah-kompak-menguat-pada-perdagangan-rabu"
-    },
-    {
-        "title": "Temuan Baru Ungkap Epstein Bukan Tewas Bunuh Diri, Tetapi Dieksekusi Dalam Sel Isolasinya",
-        "category": "Khazanah",
-        "publish_time": "11-02-2026 02:05",
-        "news_link": "https://khazanah.republika.co.id/berita/ta9w9c320/temuan-baru-ungkap-epstein-bukan-tewas-bunuh-diri-tetapi-dieksekusi-dalam-sel-isolasinya"
-    },
-    {
-        "title": "Pemda Didorong Realisasikan Program Majukan Koperasi Merah Putih",
-        "category": "News",
-        "publish_time": "11-02-2026 02:05",
-        "news_link": "https://news.republika.co.id/berita/ta9uv1484/pemda-didorong-realisasikan-program-majukan-koperasi-merah-putih"
-    },
-    {
-        "title": "Moody\u2019s Turunkan Outlook Lima Bank, OJK Sebut tak Ada Dampak Signifikan",
-        "category": "Ekonomi",
-        "publish_time": "11-02-2026 02:05",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta9udi423/moodys-turunkan-outlook-lima-bank-ojk-sebut-tak-ada-dampak-signifikan"
-    },
-    {
-        "title": "PBSI Dukung Format Baru Indonesia Open Berdurasi 11 Hari",
-        "category": "News",
-        "publish_time": "11-02-2026 02:05",
-        "news_link": "https://news.republika.co.id/berita/ta9u8l348/pbsi-dukung-format-baru-indonesia-open-berdurasi-11-hari"
-    },
-    {
-        "title": "BCA Syariah Catat Kinerja Moncer 2025, Giro dan Emas Melambung",
-        "category": "Ekonomi Syariah",
-        "publish_time": "11-02-2026 02:05",
-        "news_link": "https://sharia.republika.co.id/berita/ta9tn0423/bca-syariah-catat-kinerja-moncer-2025-giro-dan-emas-melambung"
-    },
-    {
-        "title": "Ini Yang Spesial dari Xforce dan Destinator Edisi Khusus Perayaan 55 Tahun Mitsubishi di Indonesia",
-        "category": "Ekonomi",
-        "publish_time": "11-02-2026 02:05",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta1k1p348/ini-yang-spesial-dari-xforce-dan-destinator-edisi-khusus-perayaan-55-tahun-mitsubishi-di-indonesia"
-    },
-    {
-        "title": "Carrick Apresiasi Semangat Pemain MU Walau Gagal Menang di Markas West Ham",
-        "category": "News",
-        "publish_time": "11-02-2026 01:05",
-        "news_link": "https://news.republika.co.id/berita/ta9trl348/carrick-apresiasi-semangat-pemain-mu-walau-gagal-menang-di-markas-west-ham"
-    },
-    {
-        "title": "Teddy Jelaskan Isi Percakapan Prabowo dan 5 Pengusaha Besar Sampai Larut Malam",
-        "category": "News",
-        "publish_time": "11-02-2026 01:05",
-        "news_link": "https://news.republika.co.id/berita/ta9tom484/teddy-jelaskan-isi-percakapan-prabowo-dan-5-pengusaha-besar-sampai-larut-malam"
-    },
-    {
-        "title": "Gajah Sumatera Mati Ditembak di Riau, Pemerintah Cari Jaringan Pemburu Liar",
-        "category": "Video",
-        "publish_time": "11-02-2026 01:05",
-        "news_link": "https://tv.republika.co.id/berita/yt-ta9ti11143787823/gajah-sumatera-mati-ditembak-di-riau-pemerintah-cari-jaringan-pemburu-liar"
-    },
-    {
-        "title": "Respons Pernyataan Purbaya, Trenggono Tegaskan Dana Kapal dari Inggris Bukan APBN",
-        "category": "Ekonomi",
-        "publish_time": "11-02-2026 01:05",
-        "news_link": "https://ekonomi.republika.co.id/berita/ta9teh423/respons-pernyataan-purbaya-trenggono-tegaskan-dana-kapal-dari-inggris-bukan-apbn"
-    },
-    {
-        "title": "Aksi Digital Berbuah 60 Ribu Pohon, Lereng Muria Kian Hijau",
-        "category": "Esgnow",
-        "publish_time": "11-02-2026 01:05",
-        "news_link": "https://esgnow.republika.co.id/berita/ta9sud423/aksi-digital-berbuah-60-ribu-pohon-lereng-muria-kian-hijau"
     }
 ]
