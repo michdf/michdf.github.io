@@ -1,86 +1,296 @@
 [
     {
+        "title": "Board of Peace dan Problematika Tata Kelola Global: Analisis Piagam BoP",
+        "category": "Kolom",
+        "publish_time": "12-02-2026 12:54",
+        "news_link": "https://analisis.republika.co.id/berita/tacjui483/board-of-peace-dan-problematika-tata-kelola-global-analisis-piagam-bop"
+    },
+    {
+        "title": "Pertamina Patra Niaga Gelar Sosialisasi Penggunaan LPG Aman Bagi Rumah Tangga dan UMKM",
+        "category": "Ekonomi",
+        "publish_time": "12-02-2026 12:54",
+        "news_link": "https://ekonomi.republika.co.id/berita/tacjub522/pertamina-patra-niaga-gelar-sosialisasi-penggunaan-lpg-aman-bagi-rumah-tangga-dan-umkm"
+    },
+    {
+        "title": "UMKM Binaan Pertamina Tembus Pasar Premium di INACRAFT 2026",
+        "category": "Esgnow",
+        "publish_time": "12-02-2026 12:51",
+        "news_link": "https://esgnow.republika.co.id/berita/tacjq6522/umkm-binaan-pertamina-tembus-pasar-premium-di-inacraft-2026"
+    },
+    {
+        "title": "Mimpi Finansial 2026, Side Hustle Mahasiswa yang Bisa Tumbuh Jadi Bisnis Nyata Bersama UBSI",
+        "category": "News",
+        "publish_time": "12-02-2026 12:51",
+        "news_link": "https://news.republika.co.id/berita/tacio4368/mimpi-finansial-2026-side-hustle-mahasiswa-yang-bisa-tumbuh-jadi-bisnis-nyata-bersama-ubsi"
+    },
+    {
+        "title": "Ratusan Pelajar Ikuti Ajang AYIMUN, Asah Kepemimpinan dan Diplomasi Global",
+        "category": "News",
+        "publish_time": "12-02-2026 12:50",
+        "news_link": "https://news.republika.co.id/berita/taciup416/ratusan-pelajar-ikuti-ajang-ayimun-asah-kepemimpinan-dan-diplomasi-global"
+    },
+    {
+        "title": "SMF Dalami Skema Gentengisasi, Tekankan Hunian Layak bagi Warga Kecil",
+        "category": "Ekonomi",
+        "publish_time": "12-02-2026 12:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/tacipg423/smf-dalami-skema-gentengisasi-tekankan-hunian-layak-bagi-warga-kecil"
+    },
+    {
+        "title": "BPS Targetkan Verifikasi 106 Ribu Peserta PBI-JKN Tuntas sebelum Lebaran 2026",
+        "category": "Ekonomi",
+        "publish_time": "12-02-2026 12:46",
+        "news_link": "https://ekonomi.republika.co.id/berita/tacjhj370/bps-targetkan-verifikasi-106-ribu-peserta-pbijkn-tuntas-sebelum-lebaran-2026"
+    },
+    {
+        "title": "Kapal Induk Pertama RI Garibaldi Dtarget Datang ke Indonesia Sebelum HUT TNI",
+        "category": "News",
+        "publish_time": "12-02-2026 12:43",
+        "news_link": "https://news.republika.co.id/berita/tacjbs377/kapal-induk-pertama-ri-garibaldi-dtarget-datang-ke-indonesia-sebelum-hut-tni"
+    },
+    {
+        "title": "Kepemimpinan Teknologi dan Inovasi Digital: Arah Magister Teknologi Informasi UBSI Kampus Cikarang",
+        "category": "News",
+        "publish_time": "12-02-2026 12:42",
+        "news_link": "https://news.republika.co.id/berita/taciez368/kepemimpinan-teknologi-dan-inovasi-digital-arah-magister-teknologi-informasi-ubsi-kampus-cikarang"
+    },
+    {
+        "title": "Ouikana Padukan Fashion Modern dan Budaya Indonesia dalam \u201cSenandung Raya Nusantara\u201d",
+        "category": "Ameera",
+        "publish_time": "12-02-2026 12:39",
+        "news_link": "https://ameera.republika.co.id/berita/tacj4x348/ouikana-padukan-fashion-modern-dan-budaya-indonesia-dalam-senandung-raya-nusantara"
+    },
+    {
+        "title": "BPKH Fasilitasi Balik Kerja Gratis untuk Para Pekerja dan Pelaku UMKM",
+        "category": "Video",
+        "publish_time": "12-02-2026 12:30",
+        "news_link": "https://tv.republika.co.id/berita/yt-taciq21203197689/bpkh-fasilitasi-balik-kerja-gratis-untuk-para-pekerja-dan-pelaku-umkm"
+    },
+    {
+        "title": "Profesi Paling Dicari 5 Tahun Kedepan, Jangan Salah Pilih Jurusan Kuliah",
+        "category": "News",
+        "publish_time": "12-02-2026 12:30",
+        "news_link": "https://news.republika.co.id/berita/tacieg368/profesi-paling-dicari-5-tahun-kedepan-jangan-salah-pilih-jurusan-kuliah"
+    },
+    {
+        "title": "Setiap Rp 1 Triliun Investasi Perumahan Dongkrak PDB Rp 1,9 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "12-02-2026 12:30",
+        "news_link": "https://ekonomi.republika.co.id/berita/tacihg423/setiap-rp-1-triliun-investasi-perumahan-dongkrak-pdb-rp-19-triliun"
+    },
+    {
+        "title": "Ribuan Peserta Ramaikan Pawai Tarhib Ramadhan 1447 H",
+        "category": "Visual",
+        "publish_time": "12-02-2026 12:30",
+        "news_link": "https://visual.republika.co.id/berita/tacgtz375/ribuan-peserta-ramaikan-pawai-tarhib-ramadhan-1447-h"
+    },
+    {
+        "title": "Peradaban Islam Merintis Industri Kertas",
+        "category": "Khazanah",
+        "publish_time": "12-02-2026 12:30",
+        "news_link": "https://khazanah.republika.co.id/berita/tacbe4458/peradaban-islam-merintis-industri-kertas"
+    },
+    {
+        "title": "Dokter: Skincare Bantu Jaga Hidrasi Kulit Selama Puasa",
+        "category": "Ameera",
+        "publish_time": "12-02-2026 12:25",
+        "news_link": "https://ameera.republika.co.id/berita/taceeu366/dokter-skincare-bantu-jaga-hidrasi-kulit-selama-puasa"
+    },
+    {
+        "title": "Apakah Benar Ada Siksa Kubur di Alam Barzakh Sebelum Kiamat?",
+        "category": "Khazanah",
+        "publish_time": "12-02-2026 12:21",
+        "news_link": "https://khazanah.republika.co.id/berita/taciau430/apakah-benar-ada-siksa-kubur-di-alam-barzakh-sebelum-kiamat"
+    },
+    {
+        "title": "Gen Z Kini Rebutan Jadi Data Scientist",
+        "category": "News",
+        "publish_time": "12-02-2026 12:19",
+        "news_link": "https://news.republika.co.id/berita/taci88368/gen-z-kini-rebutan-jadi-data-scientist"
+    },
+    {
+        "title": "Penyebab Banjir Bandang di Babakan Madang Sentul Terungkap, Benarkah Dipicu Penggundulan Hutan?",
+        "category": "Rejabar",
+        "publish_time": "12-02-2026 12:17",
+        "news_link": "https://rejabar.republika.co.id/berita/taci4w282/penyebab-banjir-bandang-di-babakan-madang-sentul-terungkap-benarkah-dipicu-penggundulan-hutan"
+    },
+    {
+        "title": "Jadwal Pengamatan Hilal Bosscha Beda Sehari dengan Kemenag, Ini Penyebabnya",
+        "category": "Khazanah",
+        "publish_time": "12-02-2026 12:16",
+        "news_link": "https://khazanah.republika.co.id/berita/taci37483/jadwal-pengamatan-hilal-bosscha-beda-sehari-dengan-kemenag-ini-penyebabnya"
+    },
+    {
+        "title": "Amran Jamin 12 Bahan Pokok Surplus hingga Idul Fitri",
+        "category": "Ekonomi",
+        "publish_time": "12-02-2026 12:16",
+        "news_link": "https://ekonomi.republika.co.id/berita/taci2w423/amran-jamin-12-bahan-pokok-surplus-hingga-idul-fitri"
+    },
+    {
+        "title": "Jaecoo J7 SHS-P: Hybrid Buat yang Belum Siap Full EV",
+        "category": "Ekonomi",
+        "publish_time": "12-02-2026 12:15",
+        "news_link": "https://ekonomi.republika.co.id/berita/taci16348/jaecoo-j7-shsp-hybrid-buat-yang-belum-siap-full-ev"
+    },
+    {
+        "title": "UNM Kian Kuat di Riset, Jurnal INTI Resmi Berperingkat SINTA 3",
+        "category": "News",
+        "publish_time": "12-02-2026 12:11",
+        "news_link": "https://news.republika.co.id/berita/tachu5368/unm-kian-kuat-di-riset-jurnal-inti-resmi-berperingkat-sinta-3"
+    },
+    {
+        "title": "FinDev Canada Masuk Indonesia, Danai Proyek Rendah Karbon Lewat IIF",
+        "category": "Esgnow",
+        "publish_time": "12-02-2026 12:09",
+        "news_link": "https://esgnow.republika.co.id/berita/tachsd416/findev-canada-masuk-indonesia-danai-proyek-rendah-karbon-lewat-iif"
+    },
+    {
+        "title": "BPJS Ketenagakerjaan Hadirkan Labschool di Jakarta Barat",
+        "category": "News",
+        "publish_time": "12-02-2026 12:08",
+        "news_link": "https://news.republika.co.id/berita/tachjv430/bpjs-ketenagakerjaan-hadirkan-labschool-di-jakarta-barat"
+    },
+    {
+        "title": "Percepat Bangun Kampung Nelayan, Prabowo Ingin Hidupkan Industri Galangan Kapal",
+        "category": "News",
+        "publish_time": "12-02-2026 12:03",
+        "news_link": "https://news.republika.co.id/berita/tachh5484/percepat-bangun-kampung-nelayan-prabowo-ingin-hidupkan-industri-galangan-kapal"
+    },
+    {
+        "title": "Kala Ketahanan Pangan Menopang Kehidupan Santri di Jombang",
+        "category": "Khazanah",
+        "publish_time": "12-02-2026 12:03",
+        "news_link": "https://khazanah.republika.co.id/berita/tachgr483/kala-ketahanan-pangan-menopang-kehidupan-santri-di-jombang"
+    },
+    {
+        "title": "Perkuat Mutu Akademik, 3 Dosen UBSI Raih JFA Lektor Kepala",
+        "category": "News",
+        "publish_time": "12-02-2026 12:00",
+        "news_link": "https://news.republika.co.id/berita/tachc6368/perkuat-mutu-akademik-3-dosen-ubsi-raih-jfa-lektor-kepala"
+    },
+    {
+        "title": "Duka Mahmoud Cari Keluarganya di Reruntuhan",
+        "category": "Video",
+        "publish_time": "12-02-2026 12:00",
+        "news_link": "https://tv.republika.co.id/berita/yt-tachc21693520673/duka-mahmoud-cari-keluarganya-di-reruntuhan"
+    },
+    {
+        "title": "Langkah Pemberdayaan Perempuan PNM Lewat Orange Bonds Raih Pengakuan Dunia",
+        "category": "Ekonomi",
+        "publish_time": "12-02-2026 11:55",
+        "news_link": "https://ekonomi.republika.co.id/berita/tach3b368/langkah-pemberdayaan-perempuan-pnm-lewat-orange-bonds-raih-pengakuan-dunia"
+    },
+    {
+        "title": "Bisnis Emas BSI Melesat 100 Persen, Nasabah Bertambah 2 Juta pada 2025",
+        "category": "Ekonomi Syariah",
+        "publish_time": "12-02-2026 11:55",
+        "news_link": "https://sharia.republika.co.id/berita/tacgya370/bisnis-emas-bsi-melesat-100-persen-nasabah-bertambah-2-juta-pada-2025"
+    },
+    {
+        "title": "Lebaran Makin Seru! Visinema Siapkan Film Na Willa untuk Semua Umur",
+        "category": "Ameera",
+        "publish_time": "12-02-2026 11:55",
+        "news_link": "https://ameera.republika.co.id/berita/tacgp7425/lebaran-makin-seru-visinema-siapkan-film-na-willa-untuk-semua-umur"
+    },
+    {
+        "title": "BI Musnahkan 19.834 Lembar Uang Palsu di Wilayah Pekalongan",
+        "category": "Visual",
+        "publish_time": "12-02-2026 11:55",
+        "news_link": "https://visual.republika.co.id/berita/tacgow375/bi-musnahkan-19834-lembar-uang-palsu-di-wilayah-pekalongan"
+    },
+    {
+        "title": "Bank Jakarta Siap Dukung Pelita Jaya Arungi Musim Basket 2026",
+        "category": "News",
+        "publish_time": "12-02-2026 11:55",
+        "news_link": "https://news.republika.co.id/berita/tacglc368/bank-jakarta-siap-dukung-pelita-jaya-arungi-musim-basket-2026"
+    },
+    {
+        "title": "Tadabbur Malam (030) Pulang dengan Hati yang Tenang",
+        "category": "Retizen",
+        "publish_time": "12-02-2026 11:55",
+        "news_link": "https://retizen.republika.co.id/posts/742734/tadabbur-malam-030-pulang-dengan-hati-yang-tenang"
+    },
+    {
         "title": "Pengangguran Terbuka Jabar Turun, Legislator PSI Nilai Kepemimpinan KDM Berdampak Positif",
         "category": "Rejabar",
-        "publish_time": "12-02-2026 11:35",
+        "publish_time": "12-02-2026 11:55",
         "news_link": "https://rejabar.republika.co.id/berita/tacg7h368/pengangguran-terbuka-jabar-turun-legislator-psi-nilai-kepemimpinan-kdm-berdampak-positif"
     },
     {
         "title": "Ingatkan TNI tak Masuk Gaza, Hamas: Pasukan Harus Ditempatkan di Perbatasan",
         "category": "News",
-        "publish_time": "12-02-2026 11:35",
+        "publish_time": "12-02-2026 11:55",
         "news_link": "https://news.republika.co.id/berita/tacg7b409/ingatkan-tni-tak-masuk-gaza-hamas-pasukan-harus-ditempatkan-di-perbatasan"
     },
     {
         "title": "Di Ujung Negeri, TNI AL Mendirikan Dapur Harapan",
         "category": "News",
-        "publish_time": "12-02-2026 11:33",
+        "publish_time": "12-02-2026 11:55",
         "news_link": "https://news.republika.co.id/berita/tacehk451/di-ujung-negeri-tni-al-mendirikan-dapur-harapan"
     },
     {
         "title": "Bank Jakarta Resmi Jadi Sponsor Pelita Jaya untuk Musim Kompetisi IBL 2026",
         "category": "News",
-        "publish_time": "12-02-2026 11:33",
+        "publish_time": "12-02-2026 11:55",
         "news_link": "https://news.republika.co.id/berita/tacg4h487/bank-jakarta-resmi-jadi-sponsor-pelita-jaya-untuk-musim-kompetisi-ibl-2026"
     },
     {
         "title": "Polda Metro Jaya Ungkap Kronologi Bus Transjakarta Lindas Pejalan Kaki di Jaksel",
         "category": "News",
-        "publish_time": "12-02-2026 11:33",
+        "publish_time": "12-02-2026 11:55",
         "news_link": "https://news.republika.co.id/berita/tacg46370/polda-metro-jaya-ungkap-kronologi-bus-transjakarta-lindas-pejalan-kaki-di-jaksel"
     },
     {
         "title": "Banjir 2 Meter Rendam Cijayanti 160 KK Terdampak",
         "category": "Video",
-        "publish_time": "12-02-2026 11:29",
+        "publish_time": "12-02-2026 11:55",
         "news_link": "https://tv.republika.co.id/berita/yt-tacfy1366508003/banjir-2-meter-rendam-cijayanti-160-kk-terdampak"
     },
     {
         "title": "Hampir Sebulan Hilang, Pendaki di Bukit Mongkrang Ditemukan Meninggal Dunia",
         "category": "Rejogja",
-        "publish_time": "12-02-2026 11:26",
+        "publish_time": "12-02-2026 11:55",
         "news_link": "https://rejogja.republika.co.id/berita/tacezr282/hampir-sebulan-hilang-pendaki-di-bukit-mongkrang-ditemukan-meninggal-dunia"
     },
     {
         "title": "Menolong Pelaku Kezaliman",
         "category": "Khazanah",
-        "publish_time": "12-02-2026 11:14",
+        "publish_time": "12-02-2026 10:55",
         "news_link": "https://khazanah.republika.co.id/berita/tacb4r458/menolong-pelaku-kezaliman"
     },
     {
         "title": "Kolaborasi Kemendes dan Masjid Nusantara: Memperkuat Desa Lewat Spiritualitas dan Edukasi",
         "category": "Khazanah",
-        "publish_time": "12-02-2026 11:07",
+        "publish_time": "12-02-2026 10:55",
         "news_link": "https://khazanah.republika.co.id/berita/tacdsh451/kolaborasi-kemendes-dan-masjid-nusantara-memperkuat-desa-lewat-spiritualitas-dan-edukasi"
     },
     {
         "title": "Ada Pungutan Opsen, Warga Jateng Keluhkan Naiknya Pajak Kendaraan",
         "category": "News",
-        "publish_time": "12-02-2026 11:06",
+        "publish_time": "12-02-2026 10:55",
         "news_link": "https://news.republika.co.id/berita/tacevr487/ada-pungutan-opsen-warga-jateng-keluhkan-naiknya-pajak-kendaraan"
     },
     {
         "title": "Baru 114 Hari Bertugas, Dyche Sudah Dipecat Nottingham Forest",
         "category": "News",
-        "publish_time": "12-02-2026 11:01",
+        "publish_time": "12-02-2026 10:55",
         "news_link": "https://news.republika.co.id/berita/tacemu348/baru-114-hari-bertugas-dyche-sudah-dipecat-nottingham-forest"
     },
     {
         "title": "Di Balik Antusiasme Kembalinya BTS: Mengapa Sosok Produser Diplo Menuai Kontroversi?",
         "category": "Ameera",
-        "publish_time": "12-02-2026 10:58",
+        "publish_time": "12-02-2026 10:55",
         "news_link": "https://ameera.republika.co.id/berita/taceiz425/di-balik-antusiasme-kembalinya-bts-mengapa-sosok-produser-diplo-menuai-kontroversi"
     },
     {
         "title": "Tanah Bergerak Tegal Rusak 863 Rumah, 2.461 Pengungsi Tunggu Relokasi",
         "category": "Rejogja",
-        "publish_time": "12-02-2026 10:57",
+        "publish_time": "12-02-2026 10:55",
         "news_link": "https://rejogja.republika.co.id/berita/tacegn282/tanah-bergerak-tegal-rusak-863-rumah-2461-pengungsi-tunggu-relokasi"
     },
     {
         "title": "Bus Transjakarta Lindas Pejalan Kali di Pondok Labu, Korban Meninggal di Tempat",
         "category": "News",
-        "publish_time": "12-02-2026 10:56",
+        "publish_time": "12-02-2026 10:55",
         "news_link": "https://news.republika.co.id/berita/taceea487/bus-transjakarta-lindas-pejalan-kali-di-pondok-labu-korban-meninggal-di-tempat"
     },
     {
@@ -88,215 +298,5 @@
         "category": "Khazanah",
         "publish_time": "12-02-2026 10:55",
         "news_link": "https://khazanah.republika.co.id/berita/tacazf458/berapa-lama-imam-bukhari-kumpulkan-hadis-sahih"
-    },
-    {
-        "title": "Pemerintah Perkuat UMKM Hadapi Pasar Kanada Lewat ICA-CEPA dan Pemulihan Pascabencana",
-        "category": "News",
-        "publish_time": "12-02-2026 10:54",
-        "news_link": "https://news.republika.co.id/berita/tacd6b451/pemerintah-perkuat-umkm-hadapi-pasar-kanada-lewat-icacepa-dan-pemulihan-pascabencana"
-    },
-    {
-        "title": "Tingkat Inklusi Keuangan Syariah Rendah, Bagaimana Cara Membangun Trust kepada Masyarakat?",
-        "category": "Ekonomi Syariah",
-        "publish_time": "12-02-2026 10:45",
-        "news_link": "https://sharia.republika.co.id/berita/tacdx8490/tingkat-inklusi-keuangan-syariah-rendah-bagaimana-cara-membangun-trust-kepada-masyarakat"
-    },
-    {
-        "title": "Teken Kontrak Baru, Tuchel Lanjut Tangani Timnas Inggris Sampai Euro 2028",
-        "category": "News",
-        "publish_time": "12-02-2026 10:45",
-        "news_link": "https://news.republika.co.id/berita/tacdwp348/teken-kontrak-baru-tuchel-lanjut-tangani-timnas-inggris-sampai-euro-2028"
-    },
-    {
-        "title": "Penuhi Berkas, Penyidik Polda Metro Jaya Minta Keterangan Jokowi di Solo",
-        "category": "News",
-        "publish_time": "12-02-2026 10:39",
-        "news_link": "https://news.republika.co.id/berita/tacdmd377/penuhi-berkas-penyidik-polda-metro-jaya-minta-keterangan-jokowi-di-solo"
-    },
-    {
-        "title": "10 Nilai Kebaikan yang Bisa Dipetik dari Watak Anjing",
-        "category": "Khazanah",
-        "publish_time": "12-02-2026 10:37",
-        "news_link": "https://khazanah.republika.co.id/berita/tacat1458/10-nilai-kebaikan-yang-bisa-dipetik-dari-watak-anjing"
-    },
-    {
-        "title": "API Soroti Peran Pemerintah dan Masyarakat di Balik Banjirnya Produk Impor Ilegal",
-        "category": "Ekonomi",
-        "publish_time": "12-02-2026 10:35",
-        "news_link": "https://ekonomi.republika.co.id/berita/tacdd7490/api-soroti-peran-pemerintah-dan-masyarakat-di-balik-banjirnya-produk-impor-ilegal"
-    },
-    {
-        "title": "\u2018Tubuh dan Tulang Mereka Meleleh\u2019, Kisah Pencarian Korban Pemboman Israel di Gaza",
-        "category": "News",
-        "publish_time": "12-02-2026 10:35",
-        "news_link": "https://news.republika.co.id/berita/tacdby393/tubuh-dan-tulang-mereka-meleleh-kisah-pencarian-korban-pemboman-israel-di-gaza"
-    },
-    {
-        "title": "Dokter Gizi Ingatkan Bahaya Makanan Manis Berlebihan saat Berbuka Puasa",
-        "category": "Ameera",
-        "publish_time": "12-02-2026 10:35",
-        "news_link": "https://ameera.republika.co.id/berita/tacd84370/dokter-gizi-ingatkan-bahaya-makanan-manis-berlebihan-saat-berbuka-puasa"
-    },
-    {
-        "title": "Intip Xpeng G6 Pro di IIMS 2026: Jarak Tempuh Sampai 600 Km dan Berlimpah Fitur AI",
-        "category": "Ekonomi",
-        "publish_time": "12-02-2026 10:35",
-        "news_link": "https://ekonomi.republika.co.id/berita/tacd17348/intip-xpeng-g6-pro-di-iims-2026-jarak-tempuh-sampai-600-km-dan-berlimpah-fitur-ai"
-    },
-    {
-        "title": "Perjalanan Ruh Orang Beriman Versus Pendosa Sesaat Setelah Kematian",
-        "category": "Khazanah",
-        "publish_time": "12-02-2026 10:35",
-        "news_link": "https://khazanah.republika.co.id/berita/tacczy483/perjalanan-ruh-orang-beriman-versus-pendosa-sesaat-setelah-kematian"
-    },
-    {
-        "title": "Dari Masjid Pantai Bali ke Pura Jagatnatha: Jembrana Bangun Destinasi Wisata Religi Multikultural",
-        "category": "Khazanah",
-        "publish_time": "12-02-2026 10:35",
-        "news_link": "https://khazanah.republika.co.id/berita/taccxv451/dari-masjid-pantai-bali-ke-pura-jagatnatha-jembrana-bangun-destinasi-wisata-religi-multikultural"
-    },
-    {
-        "title": "BUMN di Bawah Purbaya Buka Peluang Dukung Koperasi Merah Putih, Ini Syaratnya",
-        "category": "Ekonomi",
-        "publish_time": "12-02-2026 10:35",
-        "news_link": "https://ekonomi.republika.co.id/berita/taccmw490/bumn-di-bawah-purbaya-buka-peluang-dukung-koperasi-merah-putih-ini-syaratnya"
-    },
-    {
-        "title": "Media Israel Bongkar Detik Badai Al-Aqsa dan Lemahnya Elite Israel yang Berselisih Hingga Detik Ini",
-        "category": "Khazanah",
-        "publish_time": "12-02-2026 10:35",
-        "news_link": "https://khazanah.republika.co.id/berita/taccl4320/media-israel-bongkar-detik-badai-alaqsa-dan-lemahnya-elite-israel-yang-berselisih-hingga-detik-ini"
-    },
-    {
-        "title": "Pilpres 2029 Masih Lama, Gibran Fokus Bekerja Bantu Prabowo",
-        "category": "News",
-        "publish_time": "12-02-2026 10:35",
-        "news_link": "https://news.republika.co.id/berita/tacc7q484/pilpres-2029-masih-lama-gibran-fokus-bekerja-bantu-prabowo"
-    },
-    {
-        "title": "Maukah Menukar Iman demi Dolar?",
-        "category": "Kolom",
-        "publish_time": "12-02-2026 10:35",
-        "news_link": "https://analisis.republika.co.id/berita/tacc3h451/maukah-menukar-iman-demi-dolar"
-    },
-    {
-        "title": "Israel Semakin Brutal di Tepi Barat, Mahmoud Abbas Minta Donald Trump Bertindak",
-        "category": "Khazanah",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://khazanah.republika.co.id/berita/tacbzs483/israel-semakin-brutal-di-tepi-barat-mahmoud-abbas-minta-donald-trump-bertindak"
-    },
-    {
-        "title": "Hukum Aborsi Janin Menurut Islam",
-        "category": "Khazanah",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://khazanah.republika.co.id/berita/tacamc458/hukum-aborsi-janin-menurut-islam"
-    },
-    {
-        "title": "Diskon Transportasi Lebaran Diprediksi Dongkrak Ekonomi Kuartal I 2026 ke 5,6 Persen",
-        "category": "Ekonomi",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://ekonomi.republika.co.id/berita/tacbob370/diskon-transportasi-lebaran-diprediksi-dongkrak-ekonomi-kuartal-i-2026-ke-56-persen"
-    },
-    {
-        "title": "MUI Ingatkan Trump: Jangan Samakan Khamenei dengan Maduro",
-        "category": "Khazanah",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://khazanah.republika.co.id/berita/tacbju483/mui-ingatkan-trump-jangan-samakan-khamenei-dengan-maduro"
-    },
-    {
-        "title": "BPKH Pastikan Dana Haji Terlindungi, Luncurkan Balik Kerja Gratis 60 Bus Eksekutif untuk Arus Balik",
-        "category": "Khazanah",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://khazanah.republika.co.id/berita/tacbb0451/bpkh-pastikan-dana-haji-terlindungi-luncurkan-balik-kerja-gratis-60-bus-eksekutif-untuk-arus-balik"
-    },
-    {
-        "title": "DPRD Jabar Evaluasi Aturan Rutilahu Agar Lebih Tepat Sasaran",
-        "category": "Rejabar",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://rejabar.republika.co.id/berita/tacb38368/dprd-jabar-evaluasi-aturan-rutilahu-agar-lebih-tepat-sasaran"
-    },
-    {
-        "title": "Pejabat Korsel Dipecat Usai Sebut Wanita Vietnam  Srilanka  jadi Solusi Tingkatkan Angka Kelahiran",
-        "category": "Video",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://tv.republika.co.id/berita/yt-tacb321219377500/pejabat-korsel-dipecat-usai-sebut-wanita-vietnam-srilanka-jadi-solusi-tingkatkan-angka-kelahiran"
-    },
-    {
-        "title": "Sunah Nabi: Menjaga Kebersihan Gigi",
-        "category": "Khazanah",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://khazanah.republika.co.id/berita/tacaev458/sunah-nabi-menjaga-kebersihan-gigi"
-    },
-    {
-        "title": "Rasulullah Melarang Puasa Saat Sya'ban Sampai di Pertengahan, Bagaimana yang Terbiasa Puasa Sunah?",
-        "category": "Khazanah",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://khazanah.republika.co.id/berita/tacb1q483/rasulullah-melarang-puasa-saat-syaban-sampai-di-pertengahan-bagaimana-yang-terbiasa-puasa-sunah"
-    },
-    {
-        "title": "Pengalaman 12 Jam Jakarta-Malang Naik Bus ala Jet Cititrans",
-        "category": "Ameera",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://ameera.republika.co.id/berita/tacazv425/pengalaman-12-jam-jakartamalang-naik-bus-ala-jet-cititrans"
-    },
-    {
-        "title": "Bahlil Tegaskan Pangkas Produksi Batu Bara, Ini Alasannya",
-        "category": "Ekonomi",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://ekonomi.republika.co.id/berita/tacapw490/bahlil-tegaskan-pangkas-produksi-batu-bara-ini-alasannya"
-    },
-    {
-        "title": "Dibakarnya Patung Ba'al Raksasa di Iran dan Misteri Ritual Satanisme Epstein",
-        "category": "Khazanah",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://khazanah.republika.co.id/berita/tacaix483/dibakarnya-patung-baal-raksasa-di-iran-dan-misteri-ritual-satanisme-epstein"
-    },
-    {
-        "title": "Komisi I DPR Ingatkan, TNI ke Gaza Misi Kemanusiaan, Bukan Operasi Tempur",
-        "category": "News",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://news.republika.co.id/berita/tacagv484/komisi-i-dpr-ingatkan-tni-ke-gaza-misi-kemanusiaan-bukan-operasi-tempur"
-    },
-    {
-        "title": "Brand Ambassador Thanksinsomnia Mundur, Imbas Kasus Pelecehan Seksual",
-        "category": "Ameera",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://ameera.republika.co.id/berita/tacagk425/brand-ambassador-thanksinsomnia-mundur-imbas-kasus-pelecehan-seksual"
-    },
-    {
-        "title": "Netanyahu Ngotot Hapus \u2018Negara Palestina\u2019 Diganti \u2018Board of Peace\u2019 di Paspor Gaza",
-        "category": "News",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://news.republika.co.id/berita/tacag6393/netanyahu-ngotot-hapus-negara-palestina-diganti-board-of-peace-di-paspor-gaza"
-    },
-    {
-        "title": "Sejarah dan Perkembangan Islam di Panama",
-        "category": "Khazanah",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://khazanah.republika.co.id/berita/taca4n458/sejarah-dan-perkembangan-islam-di-panama"
-    },
-    {
-        "title": "Jaksa Agung Ungkap Banyak Aset Sitaan Ditilap Jaksa",
-        "category": "Video",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://tv.republika.co.id/berita/yt-tacae1656334617/jaksa-agung-ungkap-banyak-aset-sitaan-ditilap-jaksa"
-    },
-    {
-        "title": "Kasatpol PP Jakarta Perintahkan Anggotanya Tertibkan Seluruh Atribut Partai di Jalan Layang",
-        "category": "News",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://news.republika.co.id/berita/taca31487/kasatpol-pp-jakarta-perintahkan-anggotanya-tertibkan-seluruh-atribut-partai-di-jalan-layang"
-    },
-    {
-        "title": "Pendekatan Budaya Ala Mataram Islam",
-        "category": "Khazanah",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://khazanah.republika.co.id/berita/taca06458/pendekatan-budaya-ala-mataram-islam"
-    },
-    {
-        "title": "Platform Emas Digital di China Gagal Penuhi Penarikan Dana, Ini Respons Bappebti",
-        "category": "Ekonomi",
-        "publish_time": "12-02-2026 09:35",
-        "news_link": "https://ekonomi.republika.co.id/berita/tac9yj490/platform-emas-digital-di-china-gagal-penuhi-penarikan-dana-ini-respons-bappebti"
     }
 ]
