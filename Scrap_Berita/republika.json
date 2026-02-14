@@ -1,15 +1,27 @@
 [
     {
+        "title": "Satria Muda Taklukkan Kesatria Bengawan Solo 96-64",
+        "category": "Visual",
+        "publish_time": "14 February 2026, 23:15",
+        "news_link": "https://visual.republika.co.id/berita/tagihk375/satria-muda-taklukkan-kesatria-bengawan-solo-9664"
+    },
+    {
+        "title": "Survei: Kinerja Gubernur NTT Dinilai Penuhi Kepuasan Publik",
+        "category": "News",
+        "publish_time": "14 February 2026, 22:33",
+        "news_link": "https://news.republika.co.id/berita/tag8a5451/survei-kinerja-gubernur-ntt-dinilai-penuhi-kepuasan-publik"
+    },
+    {
         "title": "Hankook Tire Donasikan 144 Unit Ban untuk Armada Layanan Publik Kabupaten Bekasi",
         "category": "Ekonomi",
         "publish_time": "14 February 2026, 22:17",
         "news_link": "https://ekonomi.republika.co.id/berita/tagfsq349/hankook-tire-donasikan-144-unit-ban-untuk-armada-layanan-publik-kabupaten-bekasi"
     },
     {
-        "title": "Kemlu RI: Pasukan Stabilitasi di Gaza tidak Akan Terlibat dalam Operasi Tempur",
+        "title": "Kemlu RI: Pasukan Stabilisasi di Gaza tidak Akan Terlibat dalam Operasi Tempur",
         "category": "News",
         "publish_time": "14 February 2026, 22:04",
-        "news_link": "https://news.republika.co.id/berita/tagf7n409/kemlu-ri-pasukan-stabilitasi-di-gaza-tidak-akan-terlibat-dalam-operasi-tempur"
+        "news_link": "https://news.republika.co.id/berita/tagf7n409/kemlu-ri-pasukan-stabilisasi-di-gaza-tidak-akan-terlibat-dalam-operasi-tempur"
     },
     {
         "title": "Hizbullah: Eksistensi Republik Islam Iran Halangi Perwujudan 'Israel Raya'",
@@ -286,17 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "14 February 2026, 15:15",
         "news_link": "https://ekonomi.republika.co.id/berita/tafw9i487/pt-pal-respons-rencana-konsolidasi-bumn-galangan-kapal"
-    },
-    {
-        "title": "Ramai Sejak Pagi! Festival Bandeng Rawa Belong Diserbu Warga",
-        "category": "Visual",
-        "publish_time": "14 February 2026, 15:08",
-        "news_link": "https://visual.republika.co.id/berita/tafvy8375/ramai-sejak-pagi-festival-bandeng-rawa-belong-diserbu-warga"
-    },
-    {
-        "title": "Stikom Bandung Gelar Wisuda Gelombang X",
-        "category": "Rejabar",
-        "publish_time": "14 February 2026, 15:07",
-        "news_link": "https://rejabar.republika.co.id/berita/tafvwy371/stikom-bandung-gelar-wisuda-gelombang-x"
     }
 ]
