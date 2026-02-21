@@ -1,5 +1,83 @@
 [
     {
+        "title": "Dari Aceh Hingga Riau: Perang Tanpa Akhir Manusia vs Gajah",
+        "category": "News",
+        "publish_time": "21 February 2026, 17:10",
+        "news_link": "https://news.republika.co.id/berita/tasxhv451/dari-aceh-hingga-riau-perang-tanpa-akhir-manusia-vs-gajah"
+    },
+    {
+        "title": "Ilustrator Hello Kitty Mundur Setelah 46 Tahun Berkarya, Siapa Penggantinya?",
+        "category": "Ameera",
+        "publish_time": "21 February 2026, 17:08",
+        "news_link": "https://ameera.republika.co.id/berita/tat06m328/ilustrator-hello-kitty-mundur-setelah-46-tahun-berkarya-siapa-penggantinya"
+    },
+    {
+        "title": "Usai Mahkamah Agung Batalkan Tarif Trump, Indonesia Harus Bisa Lepas dari Jebakan AS Termasuk di BoP",
+        "category": "Ekonomi",
+        "publish_time": "21 February 2026, 17:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/tat017409/usai-mahkamah-agung-batalkan-tarif-trump-indonesia-harus-bisa-lepas-dari-jebakan-as-termasuk-di-bop"
+    },
+    {
+        "title": "Dukung Pemenuhan Kebutuhan Alquran, Sinar Mas Wakafkan 2.000 Mushaf Melalui ICMI",
+        "category": "Khazanah",
+        "publish_time": "21 February 2026, 16:58",
+        "news_link": "https://khazanah.republika.co.id/berita/taszp5472/dukung-pemenuhan-kebutuhan-alquran-sinar-mas-wakafkan-2000-mushaf-melalui-icmi"
+    },
+    {
+        "title": "Bulog Siapkan 146 Kios di Pasar Jaya untuk Stabilkan Harga Selama Ramadan",
+        "category": "Ekonomi",
+        "publish_time": "21 February 2026, 16:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/taszml522/bulog-siapkan-146-kios-di-pasar-jaya-untuk-stabilkan-harga-selama-ramadan"
+    },
+    {
+        "title": "Anggota Brimob Bunuh Siswa SMP di Maluku, DPR: Keji dan Biadab, Kok Bisa Aparat Hukum Lawan Pelajar?",
+        "category": "Rejogja",
+        "publish_time": "21 February 2026, 16:51",
+        "news_link": "https://rejogja.republika.co.id/berita/taszdq282/anggota-brimob-bunuh-siswa-smp-di-maluku-dpr-keji-dan-biadab-kok-bisa-aparat-hukum-lawan-pelajar"
+    },
+    {
+        "title": "Peran Teknologi Informasi dalam Era Internet of Things",
+        "category": "News",
+        "publish_time": "21 February 2026, 16:45",
+        "news_link": "https://news.republika.co.id/berita/tasz47472/peran-teknologi-informasi-dalam-era-internet-of-things"
+    },
+    {
+        "title": "IIMS 2026 Bukukan Transaksi Rp 8,7 Triliun, Dyandra Optimistis 2026 Positif",
+        "category": "Ekonomi",
+        "publish_time": "21 February 2026, 16:45",
+        "news_link": "https://ekonomi.republika.co.id/berita/tasxl2370/iims-2026-bukukan-transaksi-rp-87-triliun-dyandra-optimistis-2026-positif"
+    },
+    {
+        "title": "IHSG Anjlok dan Trading Halt, Krisis Kepercayaan Guncang Pasar Modal Indonesia",
+        "category": "News",
+        "publish_time": "21 February 2026, 16:37",
+        "news_link": "https://news.republika.co.id/berita/tasyqq472/ihsg-anjlok-dan-trading-halt-krisis-kepercayaan-guncang-pasar-modal-indonesia"
+    },
+    {
+        "title": "Trump Hentikan Pungutan Tarif Tambahan Usai Putusan Mahkamah Agung AS",
+        "category": "News",
+        "publish_time": "21 February 2026, 16:34",
+        "news_link": "https://news.republika.co.id/berita/tasykt328/trump-hentikan-pungutan-tarif-tambahan-usai-putusan-mahkamah-agung-as"
+    },
+    {
+        "title": "Menlu Tegaskan Board of Peace Tak Wajibkan Iuran",
+        "category": "Video",
+        "publish_time": "21 February 2026, 16:30",
+        "news_link": "https://tv.republika.co.id/berita/yt-tasye1321178350/menlu-tegaskan-board-of-peace-tak-wajibkan-iuran"
+    },
+    {
+        "title": "Kejagung Pamer Triliuan Uang Sitaan, Lima: Itu Pendidikan Antikorupsi dan Transparansi",
+        "category": "News",
+        "publish_time": "21 February 2026, 16:29",
+        "news_link": "https://news.republika.co.id/berita/tasydy318/kejagung-pamer-triliuan-uang-sitaan-lima-itu-pendidikan-antikorupsi-dan-transparansi"
+    },
+    {
+        "title": "Panglima TNI dan UAH Gelar Kajian Ramadan di Masjid Baret Hijau",
+        "category": "News",
+        "publish_time": "21 February 2026, 16:29",
+        "news_link": "https://news.republika.co.id/berita/tasycq484/panglima-tni-dan-uah-gelar-kajian-ramadan-di-masjid-baret-hijau"
+    },
+    {
         "title": "Anggota Brimob Pukul Siswa SMP di Tual Maluku Pakai Helm Hingga Tewas",
         "category": "Rejogja",
         "publish_time": "21 February 2026, 16:22",
@@ -220,83 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "21 February 2026, 11:24",
         "news_link": "https://ekonomi.republika.co.id/berita/tasjks451/benteng-siber-kokoh-di-balik-melesatnya-kinerja-grup-bca"
-    },
-    {
-        "title": "Menlu: Indonesia Sudah Jadi Anggota BoP, Nggak Bayar Iuran Juga Nggak Apa-Apa",
-        "category": "News",
-        "publish_time": "21 February 2026, 11:20",
-        "news_link": "https://news.republika.co.id/berita/task27409/menlu-indonesia-sudah-jadi-anggota-bop-nggak-bayar-iuran-juga-nggak-apaapa"
-    },
-    {
-        "title": "Tanda Naik Level",
-        "category": "Video",
-        "publish_time": "21 February 2026, 11:15",
-        "news_link": "https://tv.republika.co.id/berita/yt-tasjt11853479802/tanda-naik-level"
-    },
-    {
-        "title": "Bakal Impor Migas dari AS, Pertamina Jamin Skema Transparan",
-        "category": "Ekonomi",
-        "publish_time": "21 February 2026, 11:09",
-        "news_link": "https://ekonomi.republika.co.id/berita/tasjjh490/bakal-impor-migas-dari-as-pertamina-jamin-skema-transparan"
-    },
-    {
-        "title": "Kodim Bekasi Perkuat Stabilitas dan Sinergi Pembangunan Daerah",
-        "category": "News",
-        "publish_time": "21 February 2026, 11:03",
-        "news_link": "https://news.republika.co.id/berita/tasjac522/kodim-bekasi-perkuat-stabilitas-dan-sinergi-pembangunan-daerah"
-    },
-    {
-        "title": "Alumnus LPDP 'Kapok' Jadi WNI, Segini Duit Rakyat untuk Program Itu",
-        "category": "News",
-        "publish_time": "21 February 2026, 11:03",
-        "news_link": "https://news.republika.co.id/berita/tasj9i393/alumnus-lpdp-kapok-jadi-wni-segini-duit-rakyat-untuk-program-itu"
-    },
-    {
-        "title": "Andhika Surya Gumilar Tekankan Pentingnya Kecerdasan Emosional dan Spiritual Remaja Jabar",
-        "category": "Rejabar",
-        "publish_time": "21 February 2026, 11:02",
-        "news_link": "https://rejabar.republika.co.id/berita/tasj8a472/andhika-surya-gumilar-tekankan-pentingnya-kecerdasan-emosional-dan-spiritual-remaja-jabar"
-    },
-    {
-        "title": "Wajah Pendidikan 2026: Menakar Sejahtera, Melindungi Guru, dan Merawat Bahasa Ibu",
-        "category": "News",
-        "publish_time": "21 February 2026, 11:02",
-        "news_link": "https://news.republika.co.id/berita/tasj7x451/wajah-pendidikan-2026-menakar-sejahtera-melindungi-guru-dan-merawat-bahasa-ibu"
-    },
-    {
-        "title": "Ini Daftar Perjanjian Indonesia dan AS di Bidang Energi, Mulai Izin Freeport Sampai Impor BBM",
-        "category": "Ekonomi",
-        "publish_time": "21 February 2026, 10:59",
-        "news_link": "https://ekonomi.republika.co.id/berita/tasj33490/ini-daftar-perjanjian-indonesia-dan-as-di-bidang-energi-mulai-izin-freeport-sampai-impor-bbm"
-    },
-    {
-        "title": "Amerika Tinggalkan Pangkalan Terbesarnya di Qatar",
-        "category": "News",
-        "publish_time": "21 February 2026, 10:51",
-        "news_link": "https://news.republika.co.id/berita/tasiq0451/amerika-tinggalkan-pangkalan-terbesarnya-di-qatar"
-    },
-    {
-        "title": "Hari Peduli Sampah Nasional, BRI Tegaskan Komitmen Peduli Sampah Lewat \u201dBRI Peduli Yok Kita Gas\u201d",
-        "category": "Ekonomi",
-        "publish_time": "21 February 2026, 10:50",
-        "news_link": "https://ekonomi.republika.co.id/berita/tasinz472/hari-peduli-sampah-nasional-bri-tegaskan-komitmen-peduli-sampah-lewat-bri-peduli-yok-kita-gas"
-    },
-    {
-        "title": "Badan Pangan Panggil Importir Bawang Putih, Minta Stabilkan Harga",
-        "category": "Ekonomi",
-        "publish_time": "21 February 2026, 10:41",
-        "news_link": "https://ekonomi.republika.co.id/berita/tasi8i490/badan-pangan-panggil-importir-bawang-putih-minta-stabilkan-harga"
-    },
-    {
-        "title": "11.351 Calon Haji dari 4 Provinsi Siap Berangkat April 2026! Siapa yang Pertama ke Tanah Suci?",
-        "category": "Khazanah",
-        "publish_time": "21 February 2026, 10:36",
-        "news_link": "https://khazanah.republika.co.id/berita/tasi12451/11351-calon-haji-dari-4-provinsi-siap-berangkat-april-2026-siapa-yang-pertama-ke-tanah-suci"
-    },
-    {
-        "title": "Bea Cukai Jakarta Kembali Segel Toko Perhiasan, Kali Ini di Pluit",
-        "category": "Ekonomi",
-        "publish_time": "21 February 2026, 10:34",
-        "news_link": "https://ekonomi.republika.co.id/berita/tashy4416/bea-cukai-jakarta-kembali-segel-toko-perhiasan-kali-ini-di-pluit"
     }
 ]
