@@ -1,5 +1,83 @@
 [
     {
+        "title": "Rumah Wakaf Indonesia Gelar Iftar 1.000 Anak Yatim, Soliditas Bersama Gaza di 6 Negara",
+        "category": "Khazanah",
+        "publish_time": "28 February 2026, 19:29",
+        "news_link": "https://khazanah.republika.co.id/berita/tb65dp368/rumah-wakaf-indonesia-gelar-iftar-1000-anak-yatim-soliditas-bersama-gaza-di-6-negara"
+    },
+    {
+        "title": "Serangan Israel ke Iran Hantam Sekolah Putri, 40 Orang Dilaporkan Tewas",
+        "category": "News",
+        "publish_time": "28 February 2026, 19:28",
+        "news_link": "https://news.republika.co.id/berita/tb65bm377/serangan-israel-ke-iran-hantam-sekolah-putri-40-orang-dilaporkan-tewas"
+    },
+    {
+        "title": "Serangan Israel ke Iran Hantam Sekolah Perempuan, 24 Murid Meninggal",
+        "category": "News",
+        "publish_time": "28 February 2026, 19:12",
+        "news_link": "https://news.republika.co.id/berita/tb64kk393/serangan-israel-ke-iran-hantam-sekolah-perempuan-24-murid-meninggal"
+    },
+    {
+        "title": "Modus Intel Gadungan dan Balap Liar Berhasil Dibongkar Polisi",
+        "category": "News",
+        "publish_time": "28 February 2026, 19:09",
+        "news_link": "https://news.republika.co.id/berita/tb64fs451/modus-intel-gadungan-dan-balap-liar-berhasil-dibongkar-polisi"
+    },
+    {
+        "title": "Serangan ke Iran, Maskapai Batalkan Penerbangan ke Timur Tengah",
+        "category": "News",
+        "publish_time": "28 February 2026, 19:07",
+        "news_link": "https://news.republika.co.id/berita/tb64ck522/serangan-ke-iran-maskapai-batalkan-penerbangan-ke-timur-tengah"
+    },
+    {
+        "title": "Ulama Akademisi Prof Nabilah Lubis Tutup Usia di Kairo",
+        "category": "Khazanah",
+        "publish_time": "28 February 2026, 18:55",
+        "news_link": "https://khazanah.republika.co.id/berita/tb63sr451/ulama-akademisi-prof-nabilah-lubis-tutup-usia-di-kairo"
+    },
+    {
+        "title": "Dampak Serangan AS ke Iran, Qatar Airways Hentikan Semua Penerbangan",
+        "category": "News",
+        "publish_time": "28 February 2026, 18:49",
+        "news_link": "https://news.republika.co.id/berita/tb63jb522/dampak-serangan-as-ke-iran-qatar-airways-hentikan-semua-penerbangan"
+    },
+    {
+        "title": "Dubes Indonesia Sebut Iran Diserang \u2018Negara Lain\u2019, Kondisi 329 WNI Masih Aman",
+        "category": "News",
+        "publish_time": "28 February 2026, 18:47",
+        "news_link": "https://news.republika.co.id/berita/tb63fr393/dubes-indonesia-sebut-iran-diserang-negara-lain-kondisi-329-wni-masih-aman"
+    },
+    {
+        "title": "PB IKA PMII\u2013LAZ Gerakin Berbagi Sahur untuk 900 Manusia Gerobak dan Ojol",
+        "category": "Khazanah",
+        "publish_time": "28 February 2026, 18:44",
+        "news_link": "https://khazanah.republika.co.id/berita/tb60nq291/pb-ika-pmiilaz-gerakin-berbagi-sahur-untuk-900-manusia-gerobak-dan-ojol"
+    },
+    {
+        "title": "Ini Profil Pangkalan-Pangkalan AS yang Diserang Iran",
+        "category": "News",
+        "publish_time": "28 February 2026, 18:21",
+        "news_link": "https://news.republika.co.id/berita/tb627o393/ini-profil-pangkalanpangkalan-as-yang-diserang-iran"
+    },
+    {
+        "title": "Iran dan Israel Adu Kirim Rudal, Kurs Rupiah Berpotensi Tembus Rp17 Ribu per Dolar AS",
+        "category": "Ekonomi",
+        "publish_time": "28 February 2026, 18:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/tb623t490/iran-dan-israel-adu-kirim-rudal-kurs-rupiah-berpotensi-tembus-rp17-ribu-per-dolar-as"
+    },
+    {
+        "title": "Anak Kena Campak? Ini Tanda Bahaya yang Harus Diwaspadai",
+        "category": "Ameera",
+        "publish_time": "28 February 2026, 18:19",
+        "news_link": "https://ameera.republika.co.id/berita/tb623t425/anak-kena-campak-ini-tanda-bahaya-yang-harus-diwaspadai"
+    },
+    {
+        "title": "Seskab Pemerintah Tak Potong Anggaran Pendidikan untuk MBG",
+        "category": "Video",
+        "publish_time": "28 February 2026, 18:15",
+        "news_link": "https://tv.republika.co.id/berita/yt-tb61x2380019634/seskab-pemerintah-tak-potong-anggaran-pendidikan-untuk-mbg"
+    },
+    {
         "title": "Anwar Ibrahim: Serangan Israel ke Iran Bawa Timur Tengah ke Ambang Bencana",
         "category": "Khazanah",
         "publish_time": "28 February 2026, 18:09",
@@ -220,83 +298,5 @@
         "category": "News",
         "publish_time": "28 February 2026, 16:05",
         "news_link": "https://news.republika.co.id/berita/tb5vxn377/trump-ke-garda-revolusi-iran-letakan-senjata-kalian-atau-hadapi-kematian"
-    },
-    {
-        "title": "Ini Alasan Imunisasi Campak Anak tak Cukup Sekali",
-        "category": "Ameera",
-        "publish_time": "28 February 2026, 16:01",
-        "news_link": "https://ameera.republika.co.id/berita/tb5vqw425/ini-alasan-imunisasi-campak-anak-tak-cukup-sekali"
-    },
-    {
-        "title": "Rumah Zakat dan Gekrafs Teken MoU, Optimalkan Dana ZIS dari Pelaku Ekonomi Kreatif",
-        "category": "Khazanah",
-        "publish_time": "28 February 2026, 15:55",
-        "news_link": "https://khazanah.republika.co.id/berita/tb5vgu368/rumah-zakat-dan-gekrafs-teken-mou-optimalkan-dana-zis-dari-pelaku-ekonomi-kreatif"
-    },
-    {
-        "title": "Ramadhan Penuh Berkah, Relawan Mandiri Bergerak Menyapa Warga Jabar",
-        "category": "Khazanah",
-        "publish_time": "28 February 2026, 15:49",
-        "news_link": "https://khazanah.republika.co.id/berita/tb5v6o368/ramadhan-penuh-berkah-relawan-mandiri-bergerak-menyapa-warga-jabar"
-    },
-    {
-        "title": "AS dan Israel Serang Iran, Harga Minyak Terancam Melonjak",
-        "category": "Ekonomi",
-        "publish_time": "28 February 2026, 15:49",
-        "news_link": "https://ekonomi.republika.co.id/berita/tb5v5x490/as-dan-israel-serang-iran-harga-minyak-terancam-melonjak"
-    },
-    {
-        "title": "Rudal Balasan Iran Mulai Meluncur ke Tel Aviv",
-        "category": "News",
-        "publish_time": "28 February 2026, 15:38",
-        "news_link": "https://news.republika.co.id/berita/tb5unp393/rudal-balasan-iran-mulai-meluncur-ke-tel-aviv"
-    },
-    {
-        "title": "AS Siapkan Operas Militer Dalam Beberapa Hari ke Depan Melawan Iran",
-        "category": "News",
-        "publish_time": "28 February 2026, 15:37",
-        "news_link": "https://news.republika.co.id/berita/tb5ulp377/as-siapkan-operas-militer-dalam-beberapa-hari-ke-depan-melawan-iran"
-    },
-    {
-        "title": "Iran Mulai Luncurkan Rudal-Rudal Balistik, Ledakan Guncang Utara Israel",
-        "category": "News",
-        "publish_time": "28 February 2026, 15:35",
-        "news_link": "https://news.republika.co.id/berita/tb5ujt409/iran-mulai-luncurkan-rudalrudal-balistik-ledakan-guncang-utara-israel"
-    },
-    {
-        "title": "Khamenei Dipindahkan, Pezeshkian Selamat, Pembalasan Iran akan Menghancurkan",
-        "category": "Khazanah",
-        "publish_time": "28 February 2026, 15:23",
-        "news_link": "https://khazanah.republika.co.id/berita/tb5tym483/khamenei-dipindahkan-pezeshkian-selamat-pembalasan-iran-akan-menghancurkan"
-    },
-    {
-        "title": "Israel dan Iran Saling Serang, Harga Emas Antam Melonjak",
-        "category": "Ekonomi",
-        "publish_time": "28 February 2026, 15:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/tb5ty8490/israel-dan-iran-saling-serang-harga-emas-antam-melonjak"
-    },
-    {
-        "title": "Andhika Surya Gumilar Apresiasi Langkah Pemprov Jabar tak Naikkan Pajak Kendaraan Bermotor",
-        "category": "Rejabar",
-        "publish_time": "28 February 2026, 15:19",
-        "news_link": "https://rejabar.republika.co.id/berita/tb5tsp368/andhika-surya-gumilar-apresiasi-langkah-pemprov-jabar-tak-naikkan-pajak-kendaraan-bermotor"
-    },
-    {
-        "title": "BREAKING NEWS, Iran Balas Serang Israel dengan Rudal, Pertahanan Zionis 'Bobol'",
-        "category": "News",
-        "publish_time": "28 February 2026, 15:18",
-        "news_link": "https://news.republika.co.id/berita/tb5tre377/breaking-news-iran-balas-serang-israel-dengan-rudal-pertahanan-zionis-bobol"
-    },
-    {
-        "title": "Tahu Monyet PunchIni Pesan Anak di Gaza",
-        "category": "Video",
-        "publish_time": "28 February 2026, 15:15",
-        "news_link": "https://tv.republika.co.id/berita/yt-tb5tl2887500503/tahu-monyet-punchini-pesan-anak-di-gaza"
-    },
-    {
-        "title": "Kepala BGN Evaluasi Menu MBG Ramadhan, Janjikan Kualitas Terjaga",
-        "category": "News",
-        "publish_time": "28 February 2026, 15:09",
-        "news_link": "https://news.republika.co.id/berita/tb5tcm393/kepala-bgn-evaluasi-menu-mbg-ramadhan-janjikan-kualitas-terjaga"
     }
 ]
