@@ -1,15 +1,63 @@
 [
     {
+        "title": "Sudah 35 Rudal Iran Tembus Iron Dome Israel",
+        "category": "News",
+        "publish_time": "28 February 2026, 20:30",
+        "news_link": "https://news.republika.co.id/berita/tb686k393/sudah-35-rudal-iran-tembus-iron-dome-israel"
+    },
+    {
+        "title": "Alquran Berukuran Raksasa Dipamerkan di Masjid Raya Sheikh Zayed Solo",
+        "category": "Visual",
+        "publish_time": "28 February 2026, 20:30",
+        "news_link": "https://visual.republika.co.id/berita/tb665h375/alquran-berukuran-raksasa-dipamerkan-di-masjid-raya-sheikh-zayed-solo"
+    },
+    {
+        "title": "BKSDA Tindak Tegas Perdagangan Tapir dan Lepasliarkan Elang ke Alam",
+        "category": "News",
+        "publish_time": "28 February 2026, 20:09",
+        "news_link": "https://news.republika.co.id/berita/tb64t8451/bksda-tindak-tegas-perdagangan-tapir-dan-lepasliarkan-elang-ke-alam"
+    },
+    {
+        "title": "Liciknya Trump, Dua Kali Serang Iran di Tengah Perundingan",
+        "category": "News",
+        "publish_time": "28 February 2026, 20:04",
+        "news_link": "https://news.republika.co.id/berita/tb66zw393/liciknya-trump-dua-kali-serang-iran-di-tengah-perundingan"
+    },
+    {
+        "title": "Penerbangan Timur Tengah Ditutup, Jamaah Umroh Indonesia di Madinah Tunggu Kepastian Kepulangan",
+        "category": "Khazanah",
+        "publish_time": "28 February 2026, 19:53",
+        "news_link": "https://khazanah.republika.co.id/berita/tb66hu522/penerbangan-timur-tengah-ditutup-jamaah-umroh-indonesia-di-madinah-tunggu-kepastian-kepulangan"
+    },
+    {
+        "title": "MMKSI Optimistis Tembus Pangsa Pasar 2 Digit, Siapkan 4 Strategi",
+        "category": "Ekonomi",
+        "publish_time": "28 February 2026, 19:50",
+        "news_link": "https://ekonomi.republika.co.id/berita/tb66be368/mmksi-optimistis-tembus-pangsa-pasar-2-digit-siapkan-4-strategi"
+    },
+    {
+        "title": "Tanah Longsor Ancam Permukiman Warga di Semarang",
+        "category": "Visual",
+        "publish_time": "28 February 2026, 19:42",
+        "news_link": "https://visual.republika.co.id/berita/tb65za375/tanah-longsor-ancam-permukiman-warga-di-semarang"
+    },
+    {
         "title": "Rumah Wakaf Indonesia Gelar Iftar 1.000 Anak Yatim, Soliditas Bersama Gaza di 6 Negara",
         "category": "Khazanah",
         "publish_time": "28 February 2026, 19:29",
         "news_link": "https://khazanah.republika.co.id/berita/tb65dp368/rumah-wakaf-indonesia-gelar-iftar-1000-anak-yatim-soliditas-bersama-gaza-di-6-negara"
     },
     {
-        "title": "Serangan Israel ke Iran Hantam Sekolah Putri, 40 Orang Dilaporkan Tewas",
+        "title": "Serangan Israel ke Iran Hantam Sekolah Putri, 40 Orang Dilaporkan Terbunuh",
         "category": "News",
         "publish_time": "28 February 2026, 19:28",
-        "news_link": "https://news.republika.co.id/berita/tb65bm377/serangan-israel-ke-iran-hantam-sekolah-putri-40-orang-dilaporkan-tewas"
+        "news_link": "https://news.republika.co.id/berita/tb65bm377/serangan-israel-ke-iran-hantam-sekolah-putri-40-orang-dilaporkan-terbunuh"
+    },
+    {
+        "title": "Perang Terbuka di Timur Tengah, Prabowo Siap Bertolak ke Teheran Jika Disetujui Pihak yang Bertikai",
+        "category": "News",
+        "publish_time": "28 February 2026, 19:23",
+        "news_link": "https://news.republika.co.id/berita/tb652k483/perang-terbuka-di-timur-tengah-prabowo-siap-bertolak-ke-teheran-jika-disetujui-pihak-yang-bertikai"
     },
     {
         "title": "Serangan Israel ke Iran Hantam Sekolah Perempuan, 24 Murid Meninggal",
@@ -250,53 +298,5 @@
         "category": "Rejabar",
         "publish_time": "28 February 2026, 16:25",
         "news_link": "https://rejabar.republika.co.id/berita/tb5wtt282/serangan-as-ke-iran-pembuktian-ancaman-trump-soal-negosiasi-nuklir-yang-selalu-buntu"
-    },
-    {
-        "title": "Iran: Khamenei dan Pezeshkian dalam Kondisi Aman dan Terlindungi",
-        "category": "Khazanah",
-        "publish_time": "28 February 2026, 16:21",
-        "news_link": "https://khazanah.republika.co.id/berita/tb5wo6320/iran-khamenei-dan-pezeshkian-dalam-kondisi-aman-dan-terlindungi"
-    },
-    {
-        "title": "Warga Jakarta yang Mudik Diimbau Lapor RT RW",
-        "category": "Video",
-        "publish_time": "28 February 2026, 16:15",
-        "news_link": "https://tv.republika.co.id/berita/yt-tb5wd2654838526/warga-jakarta-yang-mudik-diimbau-lapor-rt-rw"
-    },
-    {
-        "title": "BREAKING NEWS: Ledakan Terdengar di Bahrain, Qatar Tutup Ruang Udaranya",
-        "category": "News",
-        "publish_time": "28 February 2026, 16:14",
-        "news_link": "https://news.republika.co.id/berita/tb5wc7409/breaking-news-ledakan-terdengar-di-bahrain-qatar-tutup-ruang-udaranya"
-    },
-    {
-        "title": "Sebelum Diserang Israel, Iran Sudah Genjot Ekspor Minyaknya ke Luar Negeri",
-        "category": "Ekonomi",
-        "publish_time": "28 February 2026, 16:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/tb5w99490/sebelum-diserang-israel-iran-sudah-genjot-ekspor-minyaknya-ke-luar-negeri"
-    },
-    {
-        "title": "Teka Teki Suara Tembakan dan Gas Air Mata Saat Demo Mahasiswa di Mapolda DIY: Polisi Membantah",
-        "category": "Rejogja",
-        "publish_time": "28 February 2026, 16:10",
-        "news_link": "https://rejogja.republika.co.id/berita/tb5w5m282/teka-teki-suara-tembakan-dan-gas-air-mata-saat-demo-mahasiswa-di-mapolda-diy-polisi-membantah"
-    },
-    {
-        "title": "Teheran Diserang, Kedubes Iran di Jakarta Minta DK PBB Turun Tangan",
-        "category": "Khazanah",
-        "publish_time": "28 February 2026, 16:09",
-        "news_link": "https://khazanah.republika.co.id/berita/tb5w3q483/teheran-diserang-kedubes-iran-di-jakarta-minta-dk-pbb-turun-tangan"
-    },
-    {
-        "title": "Baznas Jelaskan Alasan Pakai Emas 14 Karat untuk Nisab Zakat Penghasilan 2026",
-        "category": "Khazanah",
-        "publish_time": "28 February 2026, 16:07",
-        "news_link": "https://khazanah.republika.co.id/berita/tb5vhe366/baznas-jelaskan-alasan-pakai-emas-14-karat-untuk-nisab-zakat-penghasilan-2026"
-    },
-    {
-        "title": "Trump ke Garda Revolusi Iran: Letakan Senjata Kalian atau Hadapi Kematian!",
-        "category": "News",
-        "publish_time": "28 February 2026, 16:05",
-        "news_link": "https://news.republika.co.id/berita/tb5vxn377/trump-ke-garda-revolusi-iran-letakan-senjata-kalian-atau-hadapi-kematian"
     }
 ]
