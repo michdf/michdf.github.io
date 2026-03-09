@@ -1,56 +1,164 @@
 [
     {
+        "title": "Senator AS Ancam Saudi Jika tak Mau Ikut Menyerang Iran",
+        "category": "News",
+        "publish_time": "09-03-2026 23:22",
+        "news_link": "https://news.republika.co.id/berita/tbnnkr377/senator-as-ancam-saudi-jika-tak-mau-ikut-menyerang-iran"
+    },
+    {
+        "title": "Indef Nilai Harga Tiket Pesawat Masih Mahal Jelang Mudik",
+        "category": "Ekonomi",
+        "publish_time": "09-03-2026 23:20",
+        "news_link": "https://ekonomi.republika.co.id/berita/tbnnhq484/indef-nilai-harga-tiket-pesawat-masih-mahal-jelang-mudik"
+    },
+    {
+        "title": "Persija Sumbang Pemain Terbanyak dalam Daftar Skuad Sementara Timnas Indonesia",
+        "category": "News",
+        "publish_time": "09-03-2026 23:16",
+        "news_link": "https://news.republika.co.id/berita/tbnnat348/persija-sumbang-pemain-terbanyak-dalam-daftar-skuad-sementara-timnas-indonesia"
+    },
+    {
+        "title": "Eco Bhinneka Muhammadiyah Ajak Disabilitas Lintas Iman Jaga Lingkungan",
+        "category": "Esgnow",
+        "publish_time": "09-03-2026 23:10",
+        "news_link": "https://esgnow.republika.co.id/berita/tbniva423/eco-bhinneka-muhammadiyah-ajak-disabilitas-lintas-iman-jaga-lingkungan"
+    },
+    {
+        "title": "DFSK Indonesia Bakal Datangkan Mobil Baru ke Tanah Air pada Semester Kedua 2026",
+        "category": "Ekonomi",
+        "publish_time": "09-03-2026 23:06",
+        "news_link": "https://ekonomi.republika.co.id/berita/tbnmum348/dfsk-indonesia-bakal-datangkan-mobil-baru-ke-tanah-air-pada-semester-kedua-2026"
+    },
+    {
+        "title": "Bupati Rejang Lebong Bengkulu Kena OTT, KPK Sita Uang Tunai",
+        "category": "News",
+        "publish_time": "09-03-2026 23:04",
+        "news_link": "https://news.republika.co.id/berita/tbnlkz409/bupati-rejang-lebong-bengkulu-kena-ott-kpk-sita-uang-tunai"
+    },
+    {
+        "title": "Hatta, Sumitronomics dan Jalan Koperasi",
+        "category": "Kolom",
+        "publish_time": "09-03-2026 23:00",
+        "news_link": "https://analisis.republika.co.id/berita/tbnmlc377/hatta-sumitronomics-dan-jalan-koperasi"
+    },
+    {
+        "title": "TNI Siaga 1, Pengamat: Instruksi Internal untuk Respons Ancaman",
+        "category": "News",
+        "publish_time": "09-03-2026 23:00",
+        "news_link": "https://news.republika.co.id/berita/tbnmfc458/tni-siaga-1-pengamat-instruksi-internal-untuk-respons-ancaman"
+    },
+    {
+        "title": "Jelang Idul Fitri, BPOM Perketat Pengawasan Pangan Olahan dan Kemasan",
+        "category": "Visual",
+        "publish_time": "09-03-2026 23:00",
+        "news_link": "https://visual.republika.co.id/berita/tbnjcm375/jelang-idul-fitri-bpom-perketat-pengawasan-pangan-olahan-dan-kemasan"
+    },
+    {
+        "title": "Kedubes UEA Donasikan Rp 1,59 Miliar untuk Takjil Jamaah Masjid Istiqlal",
+        "category": "Khazanah",
+        "publish_time": "09-03-2026 22:55",
+        "news_link": "https://khazanah.republika.co.id/berita/tbnmc0366/kedubes-uea-donasikan-rp-159-miliar-untuk-takjil-jamaah-masjid-istiqlal"
+    },
+    {
+        "title": "Macron Sebut Serangan AS-Israel Bakal Gagal Gulingkan Rezim Iran",
+        "category": "News",
+        "publish_time": "09-03-2026 22:53",
+        "news_link": "https://news.republika.co.id/berita/tbnm95377/macron-sebut-serangan-asisrael-bakal-gagal-gulingkan-rezim-iran"
+    },
+    {
+        "title": "Liga Utama Qatar akan Bergulir Lagi Setelah Terhenti Akibat Serangan Iran",
+        "category": "News",
+        "publish_time": "09-03-2026 22:50",
+        "news_link": "https://news.republika.co.id/berita/tbnm4k348/liga-utama-qatar-akan-bergulir-lagi-setelah-terhenti-akibat-serangan-iran"
+    },
+    {
+        "title": "Gubernur Sumut Ingatkan Pejabat Pemprov Baru Hindari Pungli",
+        "category": "News",
+        "publish_time": "09-03-2026 22:45",
+        "news_link": "https://news.republika.co.id/berita/tbnlvf6930000/gubernur-sumut-ingatkan-pejabat-pemprov-baru-hindari-pungli"
+    },
+    {
+        "title": "Harga Minyak Mentah Terjun, Trump Mundur dari Perang?",
+        "category": "Ekonomi",
+        "publish_time": "09-03-2026 22:43",
+        "news_link": "https://ekonomi.republika.co.id/berita/tbnljp502/harga-minyak-mentah-terjun-trump-mundur-dari-perang"
+    },
+    {
+        "title": "Maskapai yang Mudahkan Mobilitas dan Dukung Pariwisata Singapura-Jakarta",
+        "category": "News",
+        "publish_time": "09-03-2026 22:41",
+        "news_link": "https://news.republika.co.id/berita/tbmzp1484/maskapai-yang-mudahkan-mobilitas-dan-dukung-pariwisata-singapurajakarta"
+    },
+    {
+        "title": "Liverpool tanpa Alisson Lawan Galatasaray pada Leg Pertama 16 Besar Liga Champions",
+        "category": "News",
+        "publish_time": "09-03-2026 22:33",
+        "news_link": "https://news.republika.co.id/berita/tbnlb3348/liverpool-tanpa-alisson-lawan-galatasaray-pada-leg-pertama-16-besar-liga-champions"
+    },
+    {
+        "title": "Kemenkum Babel Pastikan Layanan Posbankum di Desa Jeruk dan Batu Belubang Optimal",
+        "category": "News",
+        "publish_time": "09-03-2026 22:30",
+        "news_link": "https://news.republika.co.id/berita/tbnl6g030000/kemenkum-babel-pastikan-layanan-posbankum-di-desa-jeruk-dan-batu-belubang-optimal"
+    },
+    {
+        "title": "Marcus Gideon Soroti Hasil All England 2026: Puji Raymond/Joaquin, Nilai Kim/Seo Sulit Dikalahkan",
+        "category": "News",
+        "publish_time": "09-03-2026 22:28",
+        "news_link": "https://news.republika.co.id/berita/tbnl3e348/marcus-gideon-soroti-hasil-all-england-2026-puji-raymondjoaquin-nilai-kimseo-sulit-dikalahkan"
+    },
+    {
         "title": "Menpora Erick Dukung MS Glow For Men Malang Half Marathon 2026",
         "category": "News",
-        "publish_time": "09-03-2026 22:20",
+        "publish_time": "09-03-2026 22:22",
         "news_link": "https://news.republika.co.id/berita/tbnkq9348/menpora-erick-dukung-ms-glow-for-men-malang-half-marathon-2026"
     },
     {
         "title": "Kemenangan Persib Atas Persik Jadi Modal Hadapi Borneo FC",
         "category": "News",
-        "publish_time": "09-03-2026 22:14",
+        "publish_time": "09-03-2026 22:22",
         "news_link": "https://news.republika.co.id/berita/tbnkh9130000/kemenangan-persib-atas-persik-jadi-modal-hadapi-borneo-fc"
     },
     {
         "title": "Kemenkum Sulut Dorong Legalitas UMKM melalui Sosialisasi",
         "category": "News",
-        "publish_time": "09-03-2026 22:00",
+        "publish_time": "09-03-2026 22:22",
         "news_link": "https://news.republika.co.id/berita/tbnjsa6530000/kemenkum-sulut-dorong-legalitas-umkm-melalui-sosialisasi"
     },
     {
         "title": "Bubur India Masjid Djami Pekojan, Menu Buka Puasa Legendaris yang Selalu Diburu Warga",
         "category": "Visual",
-        "publish_time": "09-03-2026 21:59",
+        "publish_time": "09-03-2026 22:22",
         "news_link": "https://visual.republika.co.id/berita/tbnise375/bubur-india-masjid-djami-pekojan-menu-buka-puasa-legendaris-yang-selalu-diburu-warga"
     },
     {
         "title": "Mengenal Lailatul Qadar, Malam Mulia yang Dikhususkan untuk Umat Nabi Muhammad SAW",
         "category": "Khazanah",
-        "publish_time": "09-03-2026 21:58",
+        "publish_time": "09-03-2026 22:22",
         "news_link": "https://khazanah.republika.co.id/berita/tbnjq2366/mengenal-lailatul-qadar-malam-mulia-yang-dikhususkan-untuk-umat-nabi-muhammad-saw"
     },
     {
         "title": "KSOP Situbondo Hadirkan Kapal Cepat untuk Atasi Lonjakan Pemudik",
         "category": "News",
-        "publish_time": "09-03-2026 21:44",
+        "publish_time": "09-03-2026 21:22",
         "news_link": "https://news.republika.co.id/berita/tbnj389630000/ksop-situbondo-hadirkan-kapal-cepat-untuk-atasi-lonjakan-pemudik"
     },
     {
         "title": "Pasien Campak Wajib Isolasi Mandiri Meski Gejala Ringan",
         "category": "Ameera",
-        "publish_time": "09-03-2026 21:40",
+        "publish_time": "09-03-2026 21:22",
         "news_link": "https://ameera.republika.co.id/berita/tbniwb425/pasien-campak-wajib-isolasi-mandiri-meski-gejala-ringan"
     },
     {
         "title": "PT SMI dan Danantara Buka Peluang Kerja Sama Proyek Waste to Energy",
         "category": "News",
-        "publish_time": "09-03-2026 21:29",
+        "publish_time": "09-03-2026 21:22",
         "news_link": "https://news.republika.co.id/berita/tbnie98930000/pt-smi-dan-danantara-buka-peluang-kerja-sama-proyek-waste-to-energy"
     },
     {
         "title": "Ribuan Pelajar di Kediri Ikuti Gerakan Literasi Mushaf Alquran",
         "category": "Visual",
-        "publish_time": "09-03-2026 21:24",
+        "publish_time": "09-03-2026 21:22",
         "news_link": "https://visual.republika.co.id/berita/tbni4g375/ribuan-pelajar-di-kediri-ikuti-gerakan-literasi-mushaf-alquran"
     },
     {
@@ -190,113 +298,5 @@
         "category": "Rejabar",
         "publish_time": "09-03-2026 18:22",
         "news_link": "https://rejabar.republika.co.id/berita/tbn9qy282/korban-tewas-kecelakaan-beruntun-di-tol-cipularang-jadi-3-orang-penyebab-rem-blong"
-    },
-    {
-        "title": "Indonesia Strengthens Coastal Defence, MoD Confirms Brahmos Missile Procurement",
-        "category": "En",
-        "publish_time": "4 hours ago",
-        "news_link": "https://en.republika.co.id/berita/tbmyta484/indonesia-strengthens-coastal-defence-mod-confirms-brahmos-missile-procurement"
-    },
-    {
-        "title": "Pemkab Bekasi Siapkan 18 Pos Mudik untuk Lebaran 2026",
-        "category": "News",
-        "publish_time": "09-03-2026 18:22",
-        "news_link": "https://news.republika.co.id/berita/tbn9da930000/pemkab-bekasi-siapkan-18-pos-mudik-untuk-lebaran-2026"
-    },
-    {
-        "title": "Jasa Penukaran Uang Mendulang Cuan Jelang Lebaran, Untung Bisa Sampai Ratusan Juta Rupiah",
-        "category": "Rejabar",
-        "publish_time": "09-03-2026 18:22",
-        "news_link": "https://rejabar.republika.co.id/berita/tbn8un282/jasa-penukaran-uang-mendulang-cuan-jelang-lebaran-untung-bisa-sampai-ratusan-juta-rupiah"
-    },
-    {
-        "title": "TNI Bangun Jembatan Garuda di Baros untuk Tingkatkan Akses dan Ekonomi",
-        "category": "News",
-        "publish_time": "09-03-2026 17:22",
-        "news_link": "https://news.republika.co.id/berita/tbn7za5630000/tni-bangun-jembatan-garuda-di-baros-untuk-tingkatkan-akses-dan-ekonomi"
-    },
-    {
-        "title": "TBS Energi Percepat Transformasi Bisnis Hijau pada 2025",
-        "category": "Esgnow",
-        "publish_time": "09-03-2026 17:22",
-        "news_link": "https://esgnow.republika.co.id/berita/tbmzfi370/tbs-energi-percepat-transformasi-bisnis-hijau-pada-2025"
-    },
-    {
-        "title": "Persib Pesta Gol atas Persik, Maung Bandung Pastikan di Puncak Klasemen Super League Saat Lebaran",
-        "category": "News",
-        "publish_time": "09-03-2026 17:22",
-        "news_link": "https://news.republika.co.id/berita/tbn7dn348/persib-pesta-gol-atas-persik-maung-bandung-pastikan-di-puncak-klasemen-super-league-saat-lebaran"
-    },
-    {
-        "title": "KPPU DIY Awasi Potensi Praktik Bundling Minyak Goreng Jelang Lebaran",
-        "category": "News",
-        "publish_time": "09-03-2026 17:22",
-        "news_link": "https://news.republika.co.id/berita/tbn7a88630000/kppu-diy-awasi-potensi-praktik-bundling-minyak-goreng-jelang-lebaran"
-    },
-    {
-        "title": "Masjid Djami\u2019 Pekojan Semarang, Cagar Budaya dengan Jejak Komunitas Koja Gujarat",
-        "category": "Khazanah",
-        "publish_time": "09-03-2026 17:22",
-        "news_link": "https://khazanah.republika.co.id/berita/tbn77f366/masjid-djami-pekojan-semarang-cagar-budaya-dengan-jejak-komunitas-koja-gujarat"
-    },
-    {
-        "title": "Bupati Garut Kerahkan ASN Siaga Pelayanan Publik saat Lebaran",
-        "category": "News",
-        "publish_time": "09-03-2026 17:22",
-        "news_link": "https://news.republika.co.id/berita/tbn6l94830000/bupati-garut-kerahkan-asn-siaga-pelayanan-publik-saat-lebaran"
-    },
-    {
-        "title": "BYD Indonesia Paparkan Teknologi Baterai Blade Generasi Kedua, Tembus Seribu Km Lebih Sekali Cas",
-        "category": "Ekonomi",
-        "publish_time": "09-03-2026 17:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/tbn692348/byd-indonesia-paparkan-teknologi-baterai-blade-generasi-kedua-tembus-seribu-km-lebih-sekali-cas"
-    },
-    {
-        "title": "Erlazet Ramadhan Festival Jadi Ajang Yatim Asah Ketrampilan",
-        "category": "Khazanah",
-        "publish_time": "09-03-2026 17:22",
-        "news_link": "https://khazanah.republika.co.id/berita/tbn645483/erlazet-ramadhan-festival-jadi-ajang-yatim-asah-ketrampilan"
-    },
-    {
-        "title": "Lonjakan Harga Minyak Dunia Jadi Momentum Transisi Energi",
-        "category": "News",
-        "publish_time": "09-03-2026 17:22",
-        "news_link": "https://news.republika.co.id/berita/tbn5wj2530000/lonjakan-harga-minyak-dunia-jadi-momentum-transisi-energi"
-    },
-    {
-        "title": "Tim SAR Evakuasi Korban Longsor di TPST Bantargebang, Enam Jenazah Berhasil Ditemukan",
-        "category": "Visual",
-        "publish_time": "09-03-2026 17:22",
-        "news_link": "https://visual.republika.co.id/berita/tbn348375/tim-sar-evakuasi-korban-longsor-di-tpst-bantargebang-enam-jenazah-berhasil-ditemukan"
-    },
-    {
-        "title": "Trump Dilaporkan Bergerilya Lewat Mediator Agar Iran Mau Akhiri Perang",
-        "category": "Khazanah",
-        "publish_time": "09-03-2026 17:22",
-        "news_link": "https://khazanah.republika.co.id/berita/tbn5q6483/trump-dilaporkan-bergerilya-lewat-mediator-agar-iran-mau-akhiri-perang"
-    },
-    {
-        "title": "Vidi Aldiano Jadi Kameo di Film Tunggu Aku Sukses Nanti",
-        "category": "Ameera",
-        "publish_time": "09-03-2026 16:22",
-        "news_link": "https://ameera.republika.co.id/berita/tbn58x425/vidi-aldiano-jadi-kameo-di-film-tunggu-aku-sukses-nanti"
-    },
-    {
-        "title": "Bukber PLN Icon Plus: Teladani Rasulullah dalam Melayani Umat",
-        "category": "Khazanah",
-        "publish_time": "09-03-2026 16:22",
-        "news_link": "https://khazanah.republika.co.id/berita/tbn4sl483/bukber-pln-icon-plus-teladani-rasulullah-dalam-melayani-umat"
-    },
-    {
-        "title": "Kenali Batas Kemampuan Tubuh Saat Mudik, Jangan Paksa Berkendara",
-        "category": "Ameera",
-        "publish_time": "09-03-2026 16:22",
-        "news_link": "https://ameera.republika.co.id/berita/tbn4pp425/kenali-batas-kemampuan-tubuh-saat-mudik-jangan-paksa-berkendara"
-    },
-    {
-        "title": "Ulasan Film Tunggu Aku Sukses Nanti: Potret Suara Hati Korban 'Kapan Kerja?'",
-        "category": "Ameera",
-        "publish_time": "09-03-2026 16:22",
-        "news_link": "https://ameera.republika.co.id/berita/tbn3x7425/ulasan-film-tunggu-aku-sukses-nanti-potret-suara-hati-korban-kapan-kerja"
     }
 ]
