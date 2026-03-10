@@ -1,5 +1,83 @@
 [
     {
+        "title": "Iran Hancurkan 11 Drone Reaper Canggih AS, Kerugian Tembus 330 Juta Dolar AS",
+        "category": "News",
+        "publish_time": "10-03-2026 08:32",
+        "news_link": "https://news.republika.co.id/berita/tbod1w377/iran-hancurkan-11-drone-reaper-canggih-as-kerugian-tembus-330-juta-dolar-as"
+    },
+    {
+        "title": "Trump Disebut Ancam Habisi Mojtaba Khamenei, China Merespons Lantang",
+        "category": "News",
+        "publish_time": "10-03-2026 08:32",
+        "news_link": "https://news.republika.co.id/berita/tbod1q487/trump-disebut-ancam-habisi-mojtaba-khamenei-china-merespons-lantang"
+    },
+    {
+        "title": "Bos Saudi Aramco Ingatkan Perang Bakal Berdampak Kehancuran, Ancam Pasar Minyak Dunia",
+        "category": "Ekonomi",
+        "publish_time": "10-03-2026 08:32",
+        "news_link": "https://ekonomi.republika.co.id/berita/tbod1k490/bos-saudi-aramco-ingatkan-perang-bakal-berdampak-kehancuran-ancam-pasar-minyak-dunia"
+    },
+    {
+        "title": "Dorong Infrastruktur Digital, Dana Bergulir Rp47 Miliar Biayai Proyek Fiber Optik Koperasi Indosat",
+        "category": "Ekonomi",
+        "publish_time": "10-03-2026 08:22",
+        "news_link": "https://ekonomi.republika.co.id/berita/tboclz368/dorong-infrastruktur-digital-dana-bergulir-rp47-miliar-biayai-proyek-fiber-optik-koperasi-indosat"
+    },
+    {
+        "title": "Atur Keuangan Agar tak Boncos saat Mudik Lebaran",
+        "category": "Visual",
+        "publish_time": "10-03-2026 08:15",
+        "news_link": "https://visual.republika.co.id/berita/tbob0y423/atur-keuangan-agar-tak-boncos-saat-mudik-lebaran"
+    },
+    {
+        "title": "Pakar Ingatkan Pemudik tak Asal Pakai Roofbox",
+        "category": "Ekonomi",
+        "publish_time": "10-03-2026 08:14",
+        "news_link": "https://ekonomi.republika.co.id/berita/tboc7q370/pakar-ingatkan-pemudik-tak-asal-pakai-roofbox"
+    },
+    {
+        "title": "Proyek Peternakan Ayam Terintegrasi Rp1,2 Triliun Dibangun di Sumbawa",
+        "category": "Ekonomi",
+        "publish_time": "10-03-2026 08:09",
+        "news_link": "https://ekonomi.republika.co.id/berita/tbobzf490/proyek-peternakan-ayam-terintegrasi-rp12-triliun-dibangun-di-sumbawa"
+    },
+    {
+        "title": "Anggota Komisi III DPR Soroti 32 PMI Asal NTT Meninggal pada 2026",
+        "category": "News",
+        "publish_time": "10-03-2026 07:58",
+        "news_link": "https://news.republika.co.id/berita/tbobgk484/anggota-komisi-iii-dpr-soroti-32-pmi-asal-ntt-meninggal-pada-2026"
+    },
+    {
+        "title": "JAPFA Turunkan Harga Pakan Jelang Idul Fitri",
+        "category": "Ekonomi",
+        "publish_time": "10-03-2026 07:53",
+        "news_link": "https://ekonomi.republika.co.id/berita/tbob8f416/japfa-turunkan-harga-pakan-jelang-idul-fitri"
+    },
+    {
+        "title": "Tak Hanya Bupati Rejang Lebong, Wakilnya Juga Ikut Diangkut KPK",
+        "category": "News",
+        "publish_time": "10-03-2026 07:52",
+        "news_link": "https://news.republika.co.id/berita/tbob6t377/tak-hanya-bupati-rejang-lebong-wakilnya-juga-ikut-diangkut-kpk"
+    },
+    {
+        "title": "Bapanas Tegaskan Kenaikan IPH Bukan Lonjakan Harga Pangan",
+        "category": "Ekonomi",
+        "publish_time": "10-03-2026 07:41",
+        "news_link": "https://ekonomi.republika.co.id/berita/tboap1416/bapanas-tegaskan-kenaikan-iph-bukan-lonjakan-harga-pangan"
+    },
+    {
+        "title": "Bijak Mengelola Dana THR Agar Tidak Cepat Habis",
+        "category": "Visual",
+        "publish_time": "10-03-2026 07:41",
+        "news_link": "https://visual.republika.co.id/berita/tboaoq370/bijak-mengelola-dana-thr-agar-tidak-cepat-habis"
+    },
+    {
+        "title": "Tol Astra Infra Diprediksi Dilalui 6,8 Juta Kendaraan saat Mudik Lebaran 2026",
+        "category": "Ekonomi",
+        "publish_time": "10-03-2026 07:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/tboan4423/tol-astra-infra-diprediksi-dilalui-68-juta-kendaraan-saat-mudik-lebaran-2026"
+    },
+    {
         "title": "Tidak Hanya Industri Kreatif, Skill Drone Kini Dibutuhkan Banyak Sektor",
         "category": "Rejogja",
         "publish_time": "10-03-2026 07:34",
@@ -8,295 +86,217 @@
     {
         "title": "Ketum Pemuda Pancasila Diperiksa KPK Soal Perkara Korporasi Batu Bara",
         "category": "News",
-        "publish_time": "10-03-2026 07:27",
+        "publish_time": "10-03-2026 07:34",
         "news_link": "https://news.republika.co.id/berita/tboa2u377/ketum-pemuda-pancasila-diperiksa-kpk-soal-perkara-korporasi-batu-bara"
     },
     {
         "title": "BPJPH: Amerika Serikat Komit Patuhi Aturan Produk Halal di Indonesia",
         "category": "Ekonomi Syariah",
-        "publish_time": "10-03-2026 07:25",
+        "publish_time": "10-03-2026 07:34",
         "news_link": "https://sharia.republika.co.id/berita/tbo9yu370/bpjph-amerika-serikat-komit-patuhi-aturan-produk-halal-di-indonesia"
     },
     {
         "title": "UMKM Asal Magelang Kirim 20 Ton Wood Pellet ke Kuwait",
         "category": "Beacukai",
-        "publish_time": "10-03-2026 07:24",
+        "publish_time": "10-03-2026 07:34",
         "news_link": "https://republika.co.id/berita//tbo9wd368/umkm-asal-magelang-kirim-20-ton-wood-pellet-ke-kuwait"
     },
     {
         "title": "Anggota Baznas 2026-2031 Ditetapkan, Ada Politisi Senior Gerindra Hingga Eks Wamenag",
         "category": "Khazanah",
-        "publish_time": "10-03-2026 07:19",
+        "publish_time": "10-03-2026 07:34",
         "news_link": "https://khazanah.republika.co.id/berita/tbo9pe483/anggota-baznas-20262031-ditetapkan-ada-politisi-senior-gerindra-hingga-eks-wamenag"
     },
     {
         "title": "BNI Siap Tebar Dividen Tunai Rp13 Triliun",
         "category": "Ekonomi",
-        "publish_time": "10-03-2026 07:12",
+        "publish_time": "10-03-2026 07:34",
         "news_link": "https://ekonomi.republika.co.id/berita/tbo9dq490/bni-siap-tebar-dividen-tunai-rp13-triliun"
     },
     {
         "title": "Trump Sebut AS akan Longgarkan Sanksi Minyak untuk Tekan Harga",
         "category": "Ekonomi",
-        "publish_time": "10-03-2026 07:07",
+        "publish_time": "10-03-2026 07:34",
         "news_link": "https://ekonomi.republika.co.id/berita/tbo95i370/trump-sebut-as-akan-longgarkan-sanksi-minyak-untuk-tekan-harga"
     },
     {
         "title": "Bluebird Perkuat Fundamental di Tengah Dinamika Pasar Modal",
         "category": "Ekonomi",
-        "publish_time": "10-03-2026 07:05",
+        "publish_time": "10-03-2026 07:34",
         "news_link": "https://ekonomi.republika.co.id/berita/tbo921423/bluebird-perkuat-fundamental-di-tengah-dinamika-pasar-modal"
     },
     {
         "title": "Donasi Barang, Gerakan Sosial Ala Masjid Nurul Ashri Yogyakarta",
         "category": "Rejogja",
-        "publish_time": "10-03-2026 07:03",
+        "publish_time": "10-03-2026 06:34",
         "news_link": "https://rejogja.republika.co.id/berita/tbo8xe291/donasi-barang-gerakan-sosial-ala-masjid-nurul-ashri-yogyakarta"
     },
     {
         "title": "Harga Minyak Tembus 100 Dolar AS, Golkar Sentil Menkeu Asyik Sendiri",
         "category": "News",
-        "publish_time": "10-03-2026 07:02",
+        "publish_time": "10-03-2026 06:34",
         "news_link": "https://news.republika.co.id/berita/tbo8w1484/harga-minyak-tembus-100-dolar-as-golkar-sentil-menkeu-asyik-sendiri"
     },
     {
         "title": "Pesantren Ramadhan, Ratusan Warga Binaan Lapas Cikarang Belajar Iqra Hingga Kelas Nisa",
         "category": "Khazanah",
-        "publish_time": "10-03-2026 06:47",
+        "publish_time": "10-03-2026 06:34",
         "news_link": "https://khazanah.republika.co.id/berita/tbo86t483/pesantren-ramadhan-ratusan-warga-binaan-lapas-cikarang-belajar-iqra-hingga-kelas-nisa"
     },
     {
         "title": "Indonesia Dorong Ketahanan Pangan Jadi Agenda Utama Reformasi WTO",
         "category": "Ekonomi",
-        "publish_time": "10-03-2026 06:43",
+        "publish_time": "10-03-2026 06:34",
         "news_link": "https://ekonomi.republika.co.id/berita/tbo80w416/indonesia-dorong-ketahanan-pangan-jadi-agenda-utama-reformasi-wto"
     },
     {
         "title": "Cuaca Buruk, ASDP Tutup Sejumlah Rute Pelayaran",
         "category": "Ekonomi",
-        "publish_time": "10-03-2026 06:41",
+        "publish_time": "10-03-2026 06:34",
         "news_link": "https://ekonomi.republika.co.id/berita/tbo7xd490/cuaca-buruk-asdp-tutup-sejumlah-rute-pelayaran"
     },
     {
         "title": "Kisah 'Tarzan' dalam Islam, Saat Seorang Bayi Manusia Dibesarkan Seekor Kijang",
         "category": "Khazanah",
-        "publish_time": "10-03-2026 06:36",
+        "publish_time": "10-03-2026 06:34",
         "news_link": "https://khazanah.republika.co.id/berita/tbo7ox483/kisah-tarzan-dalam-islam-saat-seorang-bayi-manusia-dibesarkan-seekor-kijang"
     },
     {
         "title": "KAI Gandeng Kejagung Perkuat Sinergi Pengelolaan Aset dan Pengembangan Layanan Kereta",
         "category": "Ekonomi",
-        "publish_time": "10-03-2026 06:36",
+        "publish_time": "10-03-2026 06:34",
         "news_link": "https://ekonomi.republika.co.id/berita/tbnzus349/kai-gandeng-kejagung-perkuat-sinergi-pengelolaan-aset-dan-pengembangan-layanan-kereta"
     },
     {
         "title": "RUPST BNI Setujui Dividen Rp 13 Triliun dan Buyback Saham Rp 905 Miliar",
         "category": "Ekonomi",
-        "publish_time": "10-03-2026 06:36",
+        "publish_time": "10-03-2026 06:34",
         "news_link": "https://ekonomi.republika.co.id/berita/tbo7ig472/rupst-bni-setujui-dividen-rp-13-triliun-dan-buyback-saham-rp-905-miliar"
     },
     {
         "title": "Basarnas: Seluruh Korban Longsor Sampah Bantargebang Telah Ditemukan",
         "category": "News",
-        "publish_time": "10-03-2026 06:36",
+        "publish_time": "10-03-2026 06:34",
         "news_link": "https://news.republika.co.id/berita/tbo7c4370/basarnas-seluruh-korban-longsor-sampah-bantargebang-telah-ditemukan"
     },
     {
         "title": "Ini Daftar Produk Pertamina yang Paling Diincar Saat Mudik",
         "category": "Ekonomi",
-        "publish_time": "10-03-2026 06:36",
+        "publish_time": "10-03-2026 06:34",
         "news_link": "https://ekonomi.republika.co.id/berita/tbo6r8490/ini-daftar-produk-pertamina-yang-paling-diincar-saat-mudik"
     },
     {
         "title": "Mencekam! Rumah Rihanna Dihujani 10 Tembakan",
         "category": "Ameera",
-        "publish_time": "10-03-2026 06:36",
+        "publish_time": "10-03-2026 06:34",
         "news_link": "https://ameera.republika.co.id/berita/tbo6no425/mencekam-rumah-rihanna-dihujani-10-tembakan"
     },
     {
         "title": "Utang atau Zakat Fitrah Dulu? Ini Jawaban Kemenag yang Perlu Kamu Tahu",
         "category": "Ameera",
-        "publish_time": "10-03-2026 06:36",
+        "publish_time": "10-03-2026 06:34",
         "news_link": "https://ameera.republika.co.id/berita/tbo6l8328/utang-atau-zakat-fitrah-dulu-ini-jawaban-kemenag-yang-perlu-kamu-tahu"
     },
     {
         "title": "Validasi Organisasi, Pangdam Jaya Dipimpin Bintang Tiga",
         "category": "News",
-        "publish_time": "10-03-2026 06:36",
+        "publish_time": "10-03-2026 06:34",
         "news_link": "https://news.republika.co.id/berita/tbo6g5484/validasi-organisasi-pangdam-jaya-dipimpin-bintang-tiga"
     },
     {
         "title": "Geliat UMK Daerah Tambang, Optimalkan Momentum Lebaran",
         "category": "Ekonomi",
-        "publish_time": "10-03-2026 05:36",
+        "publish_time": "10-03-2026 06:34",
         "news_link": "https://ekonomi.republika.co.id/berita/tbo6b5472/geliat-umk-daerah-tambang-optimalkan-momentum-lebaran"
     },
     {
         "title": "Ratusan Ribu Anak Indonesia Menunjukkan Gejala Depresi dan Cemas",
         "category": "Ameera",
-        "publish_time": "10-03-2026 05:36",
+        "publish_time": "10-03-2026 05:34",
         "news_link": "https://ameera.republika.co.id/berita/tbo5xj425/ratusan-ribu-anak-indonesia-menunjukkan-gejala-depresi-dan-cemas"
     },
     {
         "title": "Pembatasan Kendaraan Besar di Tol Cipali Berlaku 13-29 Maret 2026",
         "category": "Ekonomi",
-        "publish_time": "10-03-2026 05:36",
+        "publish_time": "10-03-2026 05:34",
         "news_link": "https://ekonomi.republika.co.id/berita/tbo5m7370/pembatasan-kendaraan-besar-di-tol-cipali-berlaku-1329-maret-2026"
     },
     {
         "title": "Praktik Tukar Uang Pecahan Kecil Jelang Idul Fitri, Halal atau Tidak?",
         "category": "Khazanah",
-        "publish_time": "10-03-2026 05:36",
+        "publish_time": "10-03-2026 05:34",
         "news_link": "https://khazanah.republika.co.id/berita/tbo5gp430/praktik-tukar-uang-pecahan-kecil-jelang-idul-fitri-halal-atau-tidak"
     },
     {
         "title": "Ratusan Kilogram Hasil Laut Kepri Tembus Pasar Sydney dan Honolulu",
         "category": "Beacukai",
-        "publish_time": "10-03-2026 05:36",
+        "publish_time": "10-03-2026 05:34",
         "news_link": "https://republika.co.id/berita//tbo58p472/ratusan-kilogram-hasil-laut-kepri-tembus-pasar-sydney-dan-honolulu"
     },
     {
         "title": "Di Lampung, Bea Cukai Terbitkan Izin Fasilitas Kawasan Berikat untuk PT LDC Indonesia",
         "category": "Beacukai",
-        "publish_time": "10-03-2026 05:36",
+        "publish_time": "10-03-2026 05:34",
         "news_link": "https://republika.co.id/berita//tbo4ux472/di-lampung-bea-cukai-terbitkan-izin-fasilitas-kawasan-berikat-untuk-pt-ldc-indonesia"
     },
     {
         "title": "Puan Pastikan DPR Bakal Tanya Alasan Penetapan Siaga 1 TNI",
         "category": "News",
-        "publish_time": "10-03-2026 05:36",
+        "publish_time": "10-03-2026 05:34",
         "news_link": "https://news.republika.co.id/berita/tbo3xo484/puan-pastikan-dpr-bakal-tanya-alasan-penetapan-siaga-1-tni"
     },
     {
         "title": "Kisah Delapan Perempuan Mesir Menginspirasi Busana Muslim Sambut Idul Fitri",
         "category": "Ameera",
-        "publish_time": "10-03-2026 05:36",
+        "publish_time": "10-03-2026 05:34",
         "news_link": "https://ameera.republika.co.id/berita/tbo3la328/kisah-delapan-perempuan-mesir-menginspirasi-busana-muslim-sambut-idul-fitri"
     },
     {
         "title": "Pakar UI: Perang AS-Israel dan Iran akan Sulit Mereda di Era Mojtaba",
         "category": "News",
-        "publish_time": "10-03-2026 04:36",
+        "publish_time": "10-03-2026 04:34",
         "news_link": "https://news.republika.co.id/berita/tbo3br458/pakar-ui-perang-asisrael-dan-iran-akan-sulit-mereda-di-era-mojtaba"
     },
     {
         "title": "UI GreenMetric dan KLH Kaji Pengembangan Peringkat Keberlanjutan Korporasi",
         "category": "Esgnow",
-        "publish_time": "10-03-2026 04:36",
+        "publish_time": "10-03-2026 04:34",
         "news_link": "https://esgnow.republika.co.id/berita/tbo397416/ui-greenmetric-dan-klh-kaji-pengembangan-peringkat-keberlanjutan-korporasi"
     },
     {
         "title": "Kejagung Geledah Rumah Anggota Ombudsman di Cibubur",
         "category": "News",
-        "publish_time": "10-03-2026 04:36",
+        "publish_time": "10-03-2026 04:34",
         "news_link": "https://news.republika.co.id/berita/tbo1pl484/kejagung-geledah-rumah-anggota-ombudsman-di-cibubur"
     },
     {
         "title": "Bijak Mengelola THR agar Keuangan Tetap Stabil Setelah Lebaran",
         "category": "Ekonomi Syariah",
-        "publish_time": "10-03-2026 04:36",
+        "publish_time": "10-03-2026 04:34",
         "news_link": "https://sharia.republika.co.id/berita/tbo1o3370/bijak-mengelola-thr-agar-keuangan-tetap-stabil-setelah-lebaran"
     },
     {
         "title": "Apresiasi Kemendikdasmen, Kadisdik Aceh: Pendidikan Paling Cepat Kemajuannya Pascabencana",
         "category": "News",
-        "publish_time": "10-03-2026 04:36",
+        "publish_time": "10-03-2026 04:34",
         "news_link": "https://news.republika.co.id/berita/tbo1ju458/apresiasi-kemendikdasmen-kadisdik-aceh-pendidikan-paling-cepat-kemajuannya-pascabencana"
     },
     {
         "title": "Belajar Algoritma Pemrograman dari Dapur: Resep Masakan Ibu 'Formula' Kode Paling Sempurna",
         "category": "News",
-        "publish_time": "10-03-2026 04:36",
+        "publish_time": "10-03-2026 04:34",
         "news_link": "https://news.republika.co.id/berita/tbo1gl472/belajar-algoritma-pemrograman-dari-dapur-resep-masakan-ibu-formula-kode-paling-sempurna"
     },
     {
         "title": "Lupa Kata Sandi Terus? Konsep Passwordless Diprediksi Jadi Standar Login di 2026",
         "category": "News",
-        "publish_time": "10-03-2026 04:36",
+        "publish_time": "10-03-2026 04:34",
         "news_link": "https://news.republika.co.id/berita/tbo13s472/lupa-kata-sandi-terus-konsep-passwordless-diprediksi-jadi-standar-login-di-2026"
     },
     {
         "title": "Siloam Hospitals Yogyakarta Ajak Media Tetap Bugar dan Nyaman Berolahraga Selama Ramadhan",
         "category": "Rejogja",
-        "publish_time": "10-03-2026 03:36",
+        "publish_time": "10-03-2026 04:34",
         "news_link": "https://rejogja.republika.co.id/berita/tbo0rg291/siloam-hospitals-yogyakarta-ajak-media-tetap-bugar-dan-nyaman-berolahraga-selama-ramadhan"
-    },
-    {
-        "title": "Artificial Intelligence Dukung Kualitas Penelitian di Indonesia",
-        "category": "News",
-        "publish_time": "10-03-2026 03:36",
-        "news_link": "https://news.republika.co.id/berita/tbo0p3472/artificial-intelligence-dukung-kualitas-penelitian-di-indonesia"
-    },
-    {
-        "title": "Computer Vision dalam Smart Agriculture: Membantu Petani Jaga Kualitas Hasil Panen",
-        "category": "News",
-        "publish_time": "10-03-2026 03:36",
-        "news_link": "https://news.republika.co.id/berita/tbo0a1472/computer-vision-dalam-smart-agriculture-membantu-petani-jaga-kualitas-hasil-panen"
-    },
-    {
-        "title": "Minum Air Saja Nggak Cukup, Batasi Garam dan Gula Saat Buka Puasa demi Kesehatan Ginjal",
-        "category": "Ameera",
-        "publish_time": "10-03-2026 03:36",
-        "news_link": "https://ameera.republika.co.id/berita/tbnzpo425/minum-air-saja-nggak-cukup-batasi-garam-dan-gula-saat-buka-puasa-demi-kesehatan-ginjal"
-    },
-    {
-        "title": "Hangatkan Ramadhan, UBSI Kampus Salemba Tebar Kebaikan dengan Berbagi Nasi Box",
-        "category": "News",
-        "publish_time": "10-03-2026 03:36",
-        "news_link": "https://news.republika.co.id/berita/tbnzpg472/hangatkan-ramadhan-ubsi-kampus-salemba-tebar-kebaikan-dengan-berbagi-nasi-box"
-    },
-    {
-        "title": "Ketika Ramadhan Mengajarkan Berbagi, UBSI Kampus Salemba Hadir untuk Masyarakat",
-        "category": "News",
-        "publish_time": "10-03-2026 03:36",
-        "news_link": "https://news.republika.co.id/berita/tbnz92472/ketika-ramadhan-mengajarkan-berbagi-ubsi-kampus-salemba-hadir-untuk-masyarakat"
-    },
-    {
-        "title": "Hindari Macet Saat Mudik, Catat! Ini 17 Jalur Alternatif di Jabar",
-        "category": "Ekonomi",
-        "publish_time": "10-03-2026 03:36",
-        "news_link": "https://ekonomi.republika.co.id/berita/tbnz4b423/hindari-macet-saat-mudik-catat-ini-17-jalur-alternatif-di-jabar"
-    },
-    {
-        "title": "KAI: 2,1 Juta Tiket Lebaran Masih Tersedia",
-        "category": "Ekonomi",
-        "publish_time": "10-03-2026 03:36",
-        "news_link": "https://ekonomi.republika.co.id/berita/tbnyzz349/kai-21-juta-tiket-lebaran-masih-tersedia"
-    },
-    {
-        "title": "Pemimpin Baru, Konflik Lama: Mengapa Indonesia Harus Memimpin Diplomasi Perdamaian Iran",
-        "category": "Kolom",
-        "publish_time": "10-03-2026 03:36",
-        "news_link": "https://analisis.republika.co.id/berita/tbnyu2472/pemimpin-baru-konflik-lama-mengapa-indonesia-harus-memimpin-diplomasi-perdamaian-iran"
-    },
-    {
-        "title": "Jamin Stok Pangan Aman Jelang Idulfitri, Pemkot Cimahi Siapkan Langkah Antisipasi Gejolak Harga",
-        "category": "Rejabar",
-        "publish_time": "10-03-2026 03:36",
-        "news_link": "https://rejabar.republika.co.id/berita/tbnxqe282/jamin-stok-pangan-aman-jelang-idulfitri-pemkot-cimahi-siapkan-langkah-antisipasi-gejolak-harga"
-    },
-    {
-        "title": "Jelang Lebaran, Harga Cabai Rawit Makin Pedas Tembus Rp 85 Ribu- Rp 120 Ribu per Kg",
-        "category": "Ekonomi",
-        "publish_time": "10-03-2026 03:36",
-        "news_link": "https://ekonomi.republika.co.id/berita/tbny50423/jelang-lebaran-harga-cabai-rawit-makin-pedas-tembus-rp-85-ribu-rp-120-ribu-per-kg"
-    },
-    {
-        "title": "Dorong Ekonomi Hijau dan Inklusif, Sustainable Loans BRI Tembus Rp 811,9 Triliun per Desember 2025",
-        "category": "Ekonomi",
-        "publish_time": "10-03-2026 02:36",
-        "news_link": "https://ekonomi.republika.co.id/berita/tbnxwg472/dorong-ekonomi-hijau-dan-inklusif-sustainable-loans-bri-tembus-rp-8119-triliun-per-desember-2025"
-    },
-    {
-        "title": "Perang Israel-Amerika vs Iran dan Tantangan Persatuan Umat Islam",
-        "category": "Kolom",
-        "publish_time": "10-03-2026 02:36",
-        "news_link": "https://analisis.republika.co.id/berita/tbnv8z393/perang-israelamerika-vs-iran-dan-tantangan-persatuan-umat-islam"
-    },
-    {
-        "title": "Masyarakat Jateng Diimbau tak Panic Buying BBM, Ahmad Luthfi: Enggak Usah Latah",
-        "category": "Rejogja",
-        "publish_time": "10-03-2026 02:36",
-        "news_link": "https://rejogja.republika.co.id/berita/tbnxgq282/masyarakat-jateng-diimbau-tak-panic-buying-bbm-ahmad-luthfi-enggak-usah-latah"
     }
 ]
