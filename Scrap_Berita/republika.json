@@ -1,44 +1,140 @@
 [
     {
+        "title": "Di Perayaan HUT ke-74 KOI, Menpora Ajak Stakeholder Olahraga Bersatu Demi Prestasi Indonesia",
+        "category": "News",
+        "publish_time": "12-03-2026 06:46",
+        "news_link": "https://news.republika.co.id/berita/tbrxh3348/di-perayaan-hut-ke74-koi-menpora-ajak-stakeholder-olahraga-bersatu-demi-prestasi-indonesia"
+    },
+    {
+        "title": "Serambi MyPertamina di Rest Area KM 57, Ada Tes Kelelahan untuk Pengemudi",
+        "category": "Ekonomi",
+        "publish_time": "12-03-2026 06:45",
+        "news_link": "https://ekonomi.republika.co.id/berita/tbrwq7423/serambi-mypertamina-di-rest-area-km-57-ada-tes-kelelahan-untuk-pengemudi"
+    },
+    {
+        "title": "Board of Peace Bentukan Trump Terancam Bubar Jalan, Akibat Perangi Iran?",
+        "category": "Khazanah",
+        "publish_time": "12-03-2026 06:40",
+        "news_link": "https://khazanah.republika.co.id/berita/tbrx7s320/board-of-peace-bentukan-trump-terancam-bubar-jalan-akibat-perangi-iran"
+    },
+    {
+        "title": "LUMINA Resmi Debut: Kolaborasi Indonesia-Korea, Personelnya Ada yang Berhijab",
+        "category": "Ameera",
+        "publish_time": "12-03-2026 06:36",
+        "news_link": "https://ameera.republika.co.id/berita/tbrx0n425/lumina-resmi-debut-kolaborasi-indonesiakorea-personelnya-ada-yang-berhijab"
+    },
+    {
+        "title": "Terpaksa Sholat di Kereta Saat Menempuh Perjalanan Mudik, Ini Panduannya",
+        "category": "Khazanah",
+        "publish_time": "12-03-2026 06:25",
+        "news_link": "https://khazanah.republika.co.id/berita/tbrwia483/terpaksa-sholat-di-kereta-saat-menempuh-perjalanan-mudik-ini-panduannya"
+    },
+    {
+        "title": "Eks Menag Yaqut Minta Pemeriksaannya di KPK Dijadwal Ulang",
+        "category": "News",
+        "publish_time": "12-03-2026 06:24",
+        "news_link": "https://news.republika.co.id/berita/tbrwgp377/eks-menag-yaqut-minta-pemeriksaannya-di-kpk-dijadwal-ulang"
+    },
+    {
+        "title": "ASN Dilarang Pakai Mobil Dinas untuk Mudik Lebaran",
+        "category": "Rejabar",
+        "publish_time": "12-03-2026 06:23",
+        "news_link": "https://rejabar.republika.co.id/berita/tbrwfq282/asn-dilarang-pakai-mobil-dinas-untuk-mudik-lebaran"
+    },
+    {
+        "title": "Menhan Jelaskan Maksud Siaga Satu",
+        "category": "News",
+        "publish_time": "12-03-2026 06:13",
+        "news_link": "https://news.republika.co.id/berita/tbrvy6377/menhan-jelaskan-maksud-siaga-satu"
+    },
+    {
+        "title": "Pengamat: Dolar AS Jadi Safe Haven di Tengah Perang Amerika-Iran",
+        "category": "Ekonomi",
+        "publish_time": "12-03-2026 06:13",
+        "news_link": "https://ekonomi.republika.co.id/berita/tbrvxy423/pengamat-dolar-as-jadi-safe-haven-di-tengah-perang-amerikairan"
+    },
+    {
+        "title": "Bus Transjabodetabek Blok M-Soetta Dilengkapi Tempat Koper",
+        "category": "News",
+        "publish_time": "12-03-2026 06:12",
+        "news_link": "https://news.republika.co.id/berita/tbrvwh484/bus-transjabodetabek-blok-msoetta-dilengkapi-tempat-koper"
+    },
+    {
+        "title": "Duet Maut Hizbullah-Iran Bombardir Israel Jenius, Pakar Militer Sepakat Langkah Ubah Arah Perang",
+        "category": "Khazanah",
+        "publish_time": "12-03-2026 06:10",
+        "news_link": "https://khazanah.republika.co.id/berita/tbrvtt320/duet-maut-hizbullahiran-bombardir-israel-jenius-pakar-militer-sepakat-langkah-ubah-arah-perang"
+    },
+    {
+        "title": "Dilema THR: Bayar Utang atau Beli Baju Baru?",
+        "category": "Ameera",
+        "publish_time": "12-03-2026 06:09",
+        "news_link": "https://ameera.republika.co.id/berita/tbrvrr425/dilema-thr-bayar-utang-atau-beli-baju-baru"
+    },
+    {
+        "title": "Leg 1 Babak 16 Besar Liga Champions: Tim Inggris Kepayahan, Bodo/Glimt Lanjutkan Cerita Dongeng",
+        "category": "News",
+        "publish_time": "12-03-2026 06:01",
+        "news_link": "https://news.republika.co.id/berita/tbrveg348/leg-1-babak-16-besar-liga-champions-tim-inggris-kepayahan-bodoglimt-lanjutkan-cerita-dongeng"
+    },
+    {
+        "title": "Pemprov Jateng Siapkan 346 Bus dan 17 Kereta untuk Mudik Gratis, Berangkat dari Jakarta dan Bandung",
+        "category": "Rejogja",
+        "publish_time": "12-03-2026 05:55",
+        "news_link": "https://rejogja.republika.co.id/berita/tbrv3x282/pemprov-jateng-siapkan-346-bus-dan-17-kereta-untuk-mudik-gratis-berangkat-dari-jakarta-dan-bandung"
+    },
+    {
+        "title": "Armada Transjabodetabek Blok M-Bandara Soekarno-Hatta Dilengkapi Tempat Koper",
+        "category": "News",
+        "publish_time": "12-03-2026 05:51",
+        "news_link": "https://news.republika.co.id/berita/tbruxv348/armada-transjabodetabek-blok-mbandara-soekarnohatta-dilengkapi-tempat-koper"
+    },
+    {
+        "title": "Hari Ginjal Sedunia, Ini 6 Cara Jaga Ginjal Tetap Sehat dan Berfungsi Optimal",
+        "category": "Ameera",
+        "publish_time": "12-03-2026 05:49",
+        "news_link": "https://ameera.republika.co.id/berita/tbrutq425/hari-ginjal-sedunia-ini-6-cara-jaga-ginjal-tetap-sehat-dan-berfungsi-optimal"
+    },
+    {
         "title": "ASDP Salurkan 2.000 Paket Sekolah di Lampung dalam Program Satu Tahun Danantara",
         "category": "Esgnow",
-        "publish_time": "12-03-2026 05:45",
+        "publish_time": "12-03-2026 05:46",
         "news_link": "https://esgnow.republika.co.id/berita/tbrun3349/asdp-salurkan-2000-paket-sekolah-di-lampung-dalam-program-satu-tahun-danantara"
     },
     {
         "title": "Ini Pulau di Iran yang tak Disentuh Serangan AS-Israel, Jika Diserang Ekonomi Dunia Terhantam",
         "category": "News",
-        "publish_time": "12-03-2026 05:39",
+        "publish_time": "12-03-2026 05:46",
         "news_link": "https://news.republika.co.id/berita/tbrud1377/ini-pulau-di-iran-yang-tak-disentuh-serangan-asisrael-jika-diserang-ekonomi-dunia-terhantam"
     },
     {
         "title": "Catatan Tahun Pertama Pramono Anung Dibukukan, Bahas Arah Pembangunan Jakarta",
         "category": "News",
-        "publish_time": "12-03-2026 05:25",
+        "publish_time": "12-03-2026 05:46",
         "news_link": "https://news.republika.co.id/berita/tbrtq6416/catatan-tahun-pertama-pramono-anung-dibukukan-bahas-arah-pembangunan-jakarta"
     },
     {
         "title": "Transjabodetabek Blok M-Bandara Soekarno-Hatta Resmi Beroperasi, Tarif Rp3.500 untuk 3 Bulan Pertama",
         "category": "News",
-        "publish_time": "12-03-2026 05:20",
+        "publish_time": "12-03-2026 05:46",
         "news_link": "https://news.republika.co.id/berita/tbrti5348/transjabodetabek-blok-mbandara-soekarnohatta-resmi-beroperasi-tarif-rp3500-untuk-3-bulan-pertama"
     },
     {
         "title": "Volatilitas Minyak Tekan IHSG, Rupiah Menguat Tipis",
         "category": "Ekonomi",
-        "publish_time": "12-03-2026 05:14",
+        "publish_time": "12-03-2026 04:46",
         "news_link": "https://ekonomi.republika.co.id/berita/tbrt6o423/volatilitas-minyak-tekan-ihsg-rupiah-menguat-tipis"
     },
     {
         "title": "Satu Tahun Danantara Indonesia: Memperkuat Fondasi untuk Masa Depan Generasi Indonesia",
         "category": "Ekonomi",
-        "publish_time": "12-03-2026 05:11",
+        "publish_time": "12-03-2026 04:46",
         "news_link": "https://ekonomi.republika.co.id/berita/tbrt2h472/satu-tahun-danantara-indonesia-memperkuat-fondasi-untuk-masa-depan-generasi-indonesia"
     },
     {
         "title": "Soal Kapan Penahanan Gus Yaqut, KPK: Banyak Syaratnya",
         "category": "News",
-        "publish_time": "12-03-2026 05:07",
+        "publish_time": "12-03-2026 04:46",
         "news_link": "https://news.republika.co.id/berita/tbrsvr377/soal-kapan-penahanan-gus-yaqut-kpk-banyak-syaratnya"
     },
     {
@@ -202,101 +298,5 @@
         "category": "Khazanah",
         "publish_time": "12-03-2026 02:46",
         "news_link": "https://khazanah.republika.co.id/berita/tbrm5m366/libur-idul-fitri-di-kuwait-dimulai-19-maret-2026-ini-skenarionya-jika-ramadhan-29-atau-30-hari"
-    },
-    {
-        "title": "UBSI Bagikan Nasi Box Ramadhan, Warga Sampaikan Doa",
-        "category": "News",
-        "publish_time": "12-03-2026 02:46",
-        "news_link": "https://news.republika.co.id/berita/tbrluc472/ubsi-bagikan-nasi-box-ramadhan-warga-sampaikan-doa"
-    },
-    {
-        "title": "KPK Periksa Gus Yaqut Setelah Praperadilan Ditolak",
-        "category": "News",
-        "publish_time": "12-03-2026 02:46",
-        "news_link": "https://news.republika.co.id/berita/tbrlp2484/kpk-periksa-gus-yaqut-setelah-praperadilan-ditolak"
-    },
-    {
-        "title": "Runtuhnya Keangkuhan, Sebuah Pertanda Era AS-Israel akan Berakhir",
-        "category": "Kolom",
-        "publish_time": "12-03-2026 02:46",
-        "news_link": "https://analisis.republika.co.id/berita/tbrlf6458/runtuhnya-keangkuhan-sebuah-pertanda-era-asisrael-akan-berakhir"
-    },
-    {
-        "title": "Selama Libur Lebaran 2026, BRI Tetap Berikan Layanan Terbaik untuk Nasabah",
-        "category": "Ekonomi",
-        "publish_time": "12-03-2026 02:46",
-        "news_link": "https://ekonomi.republika.co.id/berita/tbrleq472/selama-libur-lebaran-2026-bri-tetap-berikan-layanan-terbaik-untuk-nasabah"
-    },
-    {
-        "title": "Ini Profil 5 Anggota DK OJK Baru dan Alasan DPR Pilih Friderica Jadi Ketua",
-        "category": "Ekonomi",
-        "publish_time": "12-03-2026 01:46",
-        "news_link": "https://ekonomi.republika.co.id/berita/tbrjke423/ini-profil-5-anggota-dk-ojk-baru-dan-alasan-dpr-pilih-friderica-jadi-ketua"
-    },
-    {
-        "title": "Meningkatkan Kualitas Gabah Petani",
-        "category": "Kolom",
-        "publish_time": "12-03-2026 01:46",
-        "news_link": "https://analisis.republika.co.id/berita/tbrkuh472/meningkatkan-kualitas-gabah-petani"
-    },
-    {
-        "title": "Belajar dari Fathu Makkah: Strategi Damai Jaga Stabilitas Ekonomi",
-        "category": "Kolom",
-        "publish_time": "12-03-2026 01:46",
-        "news_link": "https://analisis.republika.co.id/berita/tbrk2x458/belajar-dari-fathu-makkah-strategi-damai-jaga-stabilitas-ekonomi"
-    },
-    {
-        "title": "BRI Siapkan Rp 25 Triliun untuk Antisipasi Kebutuhan Uang Tunai Lebaran",
-        "category": "Ekonomi",
-        "publish_time": "12-03-2026 01:46",
-        "news_link": "https://ekonomi.republika.co.id/berita/tbriw0423/bri-siapkan-rp-25-triliun-untuk-antisipasi-kebutuhan-uang-tunai-lebaran"
-    },
-    {
-        "title": "Buntut Perang Iran\u2013AS, Sembilan Rute Penerbangan Terdampak",
-        "category": "Ekonomi",
-        "publish_time": "12-03-2026 01:46",
-        "news_link": "https://ekonomi.republika.co.id/berita/tbri23423/buntut-perang-iranas-sembilan-rute-penerbangan-terdampak"
-    },
-    {
-        "title": "Menhub Ungkap Strategi Transportasi Hadapi Lonjakan Mudik Lebaran 2026",
-        "category": "Ekonomi",
-        "publish_time": "12-03-2026 00:46",
-        "news_link": "https://ekonomi.republika.co.id/berita/tbr8uj423/menhub-ungkap-strategi-transportasi-hadapi-lonjakan-mudik-lebaran-2026"
-    },
-    {
-        "title": "Operasi 100 Roket Hizbullah ke Israel Merujuk Surat Al-Fil, Ini Kata Pakar Militer",
-        "category": "Khazanah",
-        "publish_time": "12-03-2026 00:46",
-        "news_link": "https://khazanah.republika.co.id/berita/tbrhdv320/operasi-100-roket-hizbullah-ke-israel-merujuk-surat-alfil-ini-kata-pakar-militer"
-    },
-    {
-        "title": "Ditanya Kapan Tahan Eks Menag Yaqut Usai Menang Praperadilan? Ini Jawaban KPK",
-        "category": "News",
-        "publish_time": "12-03-2026 00:46",
-        "news_link": "https://news.republika.co.id/berita/tbr8tb409/ditanya-kapan-tahan-eks-menag-yaqut-usai-menang-praperadilan-ini-jawaban-kpk"
-    },
-    {
-        "title": "Bank Aladin Syariah Catat Lonjakan Nasabah dan Aset pada 2025",
-        "category": "Ekonomi Syariah",
-        "publish_time": "11-03-2026 23:46",
-        "news_link": "https://sharia.republika.co.id/berita/tbr835423/bank-aladin-syariah-catat-lonjakan-nasabah-dan-aset-pada-2025"
-    },
-    {
-        "title": "Setelah Ancaman Boikot ChatGPT, Giliran Google Gemini Masuk ke Pentagon",
-        "category": "Ameera",
-        "publish_time": "11-03-2026 23:46",
-        "news_link": "https://ameera.republika.co.id/berita/tbrez1425/setelah-ancaman-boikot-chatgpt-giliran-google-gemini-masuk-ke-pentagon"
-    },
-    {
-        "title": "Mudik Lebaran 2026, Badan Pengatur Jalan Tol Berlakukan Diskon Tarif Tol hingga 30 Persen",
-        "category": "Visual",
-        "publish_time": "11-03-2026 23:46",
-        "news_link": "https://visual.republika.co.id/berita/tbr4ff375/mudik-lebaran-2026-badan-pengatur-jalan-tol-berlakukan-diskon-tarif-tol-hingga-30-persen"
-    },
-    {
-        "title": "BGN Hentikan Operasional 1.512 SPPG di Pulau Jawa",
-        "category": "News",
-        "publish_time": "11-03-2026 23:46",
-        "news_link": "https://news.republika.co.id/berita/tbre3m484/bgn-hentikan-operasional-1512-sppg-di-pulau-jawa"
     }
 ]
