@@ -1,5 +1,83 @@
 [
     {
+        "title": "Kemarin Bilang Perang di Iran Segera Berakhir, Kini Trump Berubah Lagi",
+        "category": "News",
+        "publish_time": "15 March 2026, 08:45",
+        "news_link": "https://news.republika.co.id/berita/tbx373487/kemarin-bilang-perang-di-iran-segera-berakhir-kini-trump-berubah-lagi"
+    },
+    {
+        "title": "Wacana Pelebaran Defisit APBN, Indef Ingatkan Risiko Utang Baru",
+        "category": "Ekonomi",
+        "publish_time": "15 March 2026, 08:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/tbx396490/wacana-pelebaran-defisit-apbn-indef-ingatkan-risiko-utang-baru"
+    },
+    {
+        "title": "Pengemudi Becak Senang Dapat 'Uang Cuti' Rp 1,4 Juta: Baru Ini Dapat Kompensasi dari Pak Gubernur",
+        "category": "Rejabar",
+        "publish_time": "15 March 2026, 08:14",
+        "news_link": "https://rejabar.republika.co.id/berita/tbx23c487/pengemudi-becak-senang-dapat-uang-cuti-rp-14-juta-baru-ini-dapat-kompensasi-dari-pak-gubernur"
+    },
+    {
+        "title": "Benarkah Netanyahu Tewas? Ini Penelusuran Kantor Berita Turki dan Misteri yang Belum Terjawab",
+        "category": "Khazanah",
+        "publish_time": "15 March 2026, 08:03",
+        "news_link": "https://khazanah.republika.co.id/berita/tbx1mj320/benarkah-netanyahu-tewas-ini-penelusuran-kantor-berita-turki-dan-misteri-yang-belum-terjawab"
+    },
+    {
+        "title": "Mau ke Oscar, Aktor Ini Dilarang Masuk AS Gara-Gara Paspornya Palestina",
+        "category": "Ameera",
+        "publish_time": "15 March 2026, 08:02",
+        "news_link": "https://ameera.republika.co.id/berita/tbx1kh425/mau-ke-oscar-aktor-ini-dilarang-masuk-as-garagara-paspornya-palestina"
+    },
+    {
+        "title": "Turki Marah Besar Zionis Israel Tutup Masjid Al Aqsa, Serukan Negara-Negara Muslim Bertindak",
+        "category": "News",
+        "publish_time": "15 March 2026, 07:52",
+        "news_link": "https://news.republika.co.id/berita/tbx12v487/turki-marah-besar-zionis-israel-tutup-masjid-al-aqsa-serukan-negaranegara-muslim-bertindak"
+    },
+    {
+        "title": "Kapan Penerapan One Way di Jalur Mudik Diberlakukan? Ini Kriterianya",
+        "category": "Ekonomi",
+        "publish_time": "15 March 2026, 07:48",
+        "news_link": "https://ekonomi.republika.co.id/berita/tbx0w7490/kapan-penerapan-one-way-di-jalur-mudik-diberlakukan-ini-kriterianya"
+    },
+    {
+        "title": "Hari Kedua Operasi Ketupat 2026, Korlantas Catat Kecelakaan Mudik Naik",
+        "category": "Ekonomi",
+        "publish_time": "15 March 2026, 07:43",
+        "news_link": "https://ekonomi.republika.co.id/berita/tbx0op490/hari-kedua-operasi-ketupat-2026-korlantas-catat-kecelakaan-mudik-naik"
+    },
+    {
+        "title": "Jika Perang Iran Semakin Meluas, Siapa Penjaga Dua Kota Suci Al Haramain?",
+        "category": "Khazanah",
+        "publish_time": "15 March 2026, 07:25",
+        "news_link": "https://khazanah.republika.co.id/berita/tbwzue320/jika-perang-iran-semakin-meluas-siapa-penjaga-dua-kota-suci-al-haramain"
+    },
+    {
+        "title": "Perang Semakin Lepas Kendali, Mengapa AS Gagal Kalahkan Iran?",
+        "category": "Khazanah",
+        "publish_time": "15 March 2026, 07:08",
+        "news_link": "https://khazanah.republika.co.id/berita/tbwz29320/perang-semakin-lepas-kendali-mengapa-as-gagal-kalahkan-iran"
+    },
+    {
+        "title": "Arus Mudik di Gerbang Tol Cikampek Utama Ramai Lancar",
+        "category": "Visual",
+        "publish_time": "15 March 2026, 07:00",
+        "news_link": "https://visual.republika.co.id/berita/tbws0p375/arus-mudik-di-gerbang-tol-cikampek-utama-ramai-lancar"
+    },
+    {
+        "title": "Sampai Titik Darah Penghabisan, Hizbullah Nyatakan Siap Perang 'Karbala' Hadapi Zionis Israel",
+        "category": "Khazanah",
+        "publish_time": "15 March 2026, 06:53",
+        "news_link": "https://khazanah.republika.co.id/berita/tbwydq320/sampai-titik-darah-penghabisan-hizbullah-nyatakan-siap-perang-karbala-hadapi-zionis-israel"
+    },
+    {
+        "title": "KDM Salurkan Kompensasi bagi Pengemudi Angkot, Becak, dan Delman, Setiap Orang Dapat Rp 1,4 Juta",
+        "category": "Rejabar",
+        "publish_time": "15 March 2026, 06:25",
+        "news_link": "https://rejabar.republika.co.id/berita/tbwrqy487/kdm-salurkan-kompensasi-bagi-pengemudi-angkot-becak-dan-delman-setiap-orang-dapat-rp-14-juta"
+    },
+    {
         "title": "Pemprov Sulteng Terima Rp2,13 Triliun Dana Transfer Daerah 2026",
         "category": "News",
         "publish_time": "15 March 2026, 05:45",
@@ -220,83 +298,5 @@
         "category": "News",
         "publish_time": "15 March 2026, 01:30",
         "news_link": "https://news.republika.co.id/berita/tbwje81530000/layanan-kesehatan-kotawaringin-timur-siaga-selama-lebaran"
-    },
-    {
-        "title": "Jasa Marga Prediksi Lonjakan 126 Ribu Kendaraan di GT Cikampek Utama Saat Mudik",
-        "category": "News",
-        "publish_time": "15 March 2026, 01:15",
-        "news_link": "https://news.republika.co.id/berita/tbwip81330000/jasa-marga-prediksi-lonjakan-126-ribu-kendaraan-di-gt-cikampek-utama-saat-mudik"
-    },
-    {
-        "title": "Menyusuri Jejak Dakwah Syekh Datuk Kahfi, Ulama Perintis Dakwah di Cirebon",
-        "category": "Khazanah",
-        "publish_time": "15 March 2026, 01:05",
-        "news_link": "https://khazanah.republika.co.id/berita/tbufph366/menyusuri-jejak-dakwah-syekh-datuk-kahfi-ulama-perintis-dakwah-di-cirebon"
-    },
-    {
-        "title": "Jasa Marga Buka 19 Gardu di Gerbang Tol Cikampek Utama Antisipasi Lonjakan Mudik",
-        "category": "News",
-        "publish_time": "15 March 2026, 01:00",
-        "news_link": "https://news.republika.co.id/berita/tbwi078230000/jasa-marga-buka-19-gardu-di-gerbang-tol-cikampek-utama-antisipasi-lonjakan-mudik"
-    },
-    {
-        "title": "Kementerian ESDM Buka Ruang Diskusi Penerapan Teknologi VRS di SPBU",
-        "category": "Ekonomi",
-        "publish_time": "15 March 2026, 00:47",
-        "news_link": "https://ekonomi.republika.co.id/berita/tbwhcx416/kementerian-esdm-buka-ruang-diskusi-penerapan-teknologi-vrs-di-spbu"
-    },
-    {
-        "title": "Gubernur Sultra Larang ASN Gunakan Kendaraan Dinas untuk Mudik",
-        "category": "News",
-        "publish_time": "15 March 2026, 00:45",
-        "news_link": "https://news.republika.co.id/berita/tbwhb86830000/gubernur-sultra-larang-asn-gunakan-kendaraan-dinas-untuk-mudik"
-    },
-    {
-        "title": "Enam Sopir Travel di Kotim Positif Narkoba Berdasarkan Tes Urine",
-        "category": "News",
-        "publish_time": "15 March 2026, 00:30",
-        "news_link": "https://news.republika.co.id/berita/tbwgm75930000/enam-sopir-travel-di-kotim-positif-narkoba-berdasarkan-tes-urine"
-    },
-    {
-        "title": "Reza Rahadian Kembali ke Film Horor dalam 'Suzzanna: Santet Dosa di Atas Dosa'",
-        "category": "News",
-        "publish_time": "15 March 2026, 00:15",
-        "news_link": "https://news.republika.co.id/berita/tbwfx94930000/reza-rahadian-kembali-ke-film-horor-dalam-suzzanna-santet-dosa-di-atas-dosa"
-    },
-    {
-        "title": "Rudal-Rudal Iran Kian Menakutkan, Sistem Radar Patriot Hingga Pesawat Tangker Jadi Korban",
-        "category": "Khazanah",
-        "publish_time": "15 March 2026, 00:13",
-        "news_link": "https://khazanah.republika.co.id/berita/tbwfuf483/rudalrudal-iran-kian-menakutkan-sistem-radar-patriot-hingga-pesawat-tangker-jadi-korban"
-    },
-    {
-        "title": "KAI Madiun Prediksi Puncak Arus Mudik Lebaran 2026 pada 18 Maret",
-        "category": "Ekonomi",
-        "publish_time": "15 March 2026, 00:00",
-        "news_link": "https://ekonomi.republika.co.id/berita/tbwf897530000/kai-madiun-prediksi-puncak-arus-mudik-lebaran-2026-pada-18-maret"
-    },
-    {
-        "title": "Tradisi Ramadhan di Kwitang, Ribuan Jamaah Ikuti Buka Puasa Bersama di Masjid Al-Awwabin",
-        "category": "Visual",
-        "publish_time": "14 March 2026, 23:59",
-        "news_link": "https://visual.republika.co.id/berita/tbwcus375/tradisi-ramadhan-di-kwitang-ribuan-jamaah-ikuti-buka-puasa-bersama-di-masjid-alawwabin"
-    },
-    {
-        "title": "Momen Nuzulul Qur'an, PUI: Alquran Sebagai Pedoman Hidup",
-        "category": "Rejabar",
-        "publish_time": "14 March 2026, 23:53",
-        "news_link": "https://rejabar.republika.co.id/berita/tbwexu282/momen-nuzulul-quran-pui-alquran-sebagai-pedoman-hidup"
-    },
-    {
-        "title": "Lima Pesawat Tangker Militer AS yang Terparkir di Saudi Dihantam Rudal Iran",
-        "category": "Khazanah",
-        "publish_time": "14 March 2026, 23:50",
-        "news_link": "https://khazanah.republika.co.id/berita/tbwesb483/lima-pesawat-tangker-militer-as-yang-terparkir-di-saudi-dihantam-rudal-iran"
-    },
-    {
-        "title": "Pendidikan Tinggi Islam Hadapi Tantangan di era AI",
-        "category": "Rejabar",
-        "publish_time": "14 March 2026, 23:49",
-        "news_link": "https://rejabar.republika.co.id/berita/tbweqk282/pendidikan-tinggi-islam-hadapi-tantangan-di-era-ai"
     }
 ]
