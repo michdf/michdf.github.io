@@ -1,5 +1,89 @@
 [
     {
+        "title": "Hadapi Peak Season Libur Lebaran, InJourney Kedepankan Customer Experience",
+        "category": "News",
+        "publish_time": "19-03-2026 07:39",
+        "news_link": "https://news.republika.co.id/berita/tc40eb318/hadapi-peak-season-libur-lebaran-injourney-kedepankan-customer-experience"
+    },
+    {
+        "title": "Stadion GBK dan Madya Siap Sambut FIFA Series 2026, Indonesia Pastikan Jadi Tuan Rumah yang Baik",
+        "category": "News",
+        "publish_time": "19-03-2026 07:36",
+        "news_link": "https://news.republika.co.id/berita/tc4yh1348/stadion-gbk-dan-madya-siap-sambut-fifa-series-2026-indonesia-pastikan-jadi-tuan-rumah-yang-baik"
+    },
+    {
+        "title": "Pengamanan Mudik Lebaran Diperkuat hingga Sholat Id, Ini Strategi Polri",
+        "category": "Khazanah",
+        "publish_time": "19-03-2026 07:30",
+        "news_link": "https://khazanah.republika.co.id/berita/tc4y6g423/pengamanan-mudik-lebaran-diperkuat-hingga-sholat-id-ini-strategi-polri"
+    },
+    {
+        "title": "Azerbaijan Kirim 82 Ton Bantuan Kemanusiaan ke Iran",
+        "category": "News",
+        "publish_time": "19-03-2026 07:23",
+        "news_link": "https://news.republika.co.id/berita/tc4xvw348/azerbaijan-kirim-82-ton-bantuan-kemanusiaan-ke-iran"
+    },
+    {
+        "title": "Thai Tourism Jajaki Promosi  di Jersey West Ham United",
+        "category": "News",
+        "publish_time": "19-03-2026 07:22",
+        "news_link": "https://news.republika.co.id/berita/tc4xu5475/thai-tourism-jajaki-promosi-di-jersey-west-ham-united"
+    },
+    {
+        "title": "Kamis, Warga Jember dan Situbondo di Jatim Sudah Sholat Id",
+        "category": "Khazanah",
+        "publish_time": "19-03-2026 07:18",
+        "news_link": "https://khazanah.republika.co.id/berita/tc4xmu484/kamis-warga-jember-dan-situbondo-di-jatim-sudah-sholat-id"
+    },
+    {
+        "title": "Jalur Nagreg Padat pada Kamis Siang, Sempat Diurai dengan One Way",
+        "category": "Rejabar",
+        "publish_time": "19-03-2026 07:05",
+        "news_link": "https://rejabar.republika.co.id/berita/tc4x15348/jalur-nagreg-padat-pada-kamis-siang-sempat-diurai-dengan-one-way"
+    },
+    {
+        "title": "PUI: Idul Fitri Momentum Penting Rekonsiliasi Bangsa",
+        "category": "Rejabar",
+        "publish_time": "19-03-2026 07:03",
+        "news_link": "https://rejabar.republika.co.id/berita/tc4wez282/pui-idul-fitri-momentum-penting-rekonsiliasi-bangsa"
+    },
+    {
+        "title": "Rahasia Mudik Lancar Tanpa Penumpukan di Pelabuhan",
+        "category": "Video",
+        "publish_time": "19-03-2026 06:59",
+        "news_link": "https://republika.co.id/page/shorts/yt-tc4ws81133764304/rahasia-mudik-lancar-tanpa-penumpukan-di-pelabuhan"
+    },
+    {
+        "title": "Siapa Firaun yang Mengejar Nabi Musa",
+        "category": "Video",
+        "publish_time": "19-03-2026 06:59",
+        "news_link": "https://republika.co.id/page/shorts/yt-tc4ws6495000360/siapa-firaun-yang-mengejar-nabi-musa"
+    },
+    {
+        "title": "Pemerintah Beri Bonus Atlet ASEAN Para Games 2026",
+        "category": "Video",
+        "publish_time": "19-03-2026 06:59",
+        "news_link": "https://republika.co.id/page/shorts/yt-tc4ws51612777834/pemerintah-beri-bonus-atlet-asean-para-games-2026"
+    },
+    {
+        "title": "Global Sumud Flotilla akan Berlayar Lagi Menembus Gaza",
+        "category": "Video",
+        "publish_time": "19-03-2026 06:59",
+        "news_link": "https://republika.co.id/page/shorts/yt-tc4ws21967514582/global-sumud-flotilla-akan-berlayar-lagi-menembus-gaza"
+    },
+    {
+        "title": "Strategi Mitigasi Iklim yang Keliru Bisa Ancam Jutaan Nyawa di Negara Berkembang",
+        "category": "Esgnow",
+        "publish_time": "19-03-2026 06:59",
+        "news_link": "https://esgnow.republika.co.id/berita/tc4ur4416/strategi-mitigasi-iklim-yang-keliru-bisa-ancam-jutaan-nyawa-di-negara-berkembang"
+    },
+    {
+        "title": "Selang Air Maswar dan Cara Sederhana Menjemput Idul Fitri",
+        "category": "News",
+        "publish_time": "19-03-2026 06:53",
+        "news_link": "https://news.republika.co.id/berita/tc4twz451/selang-air-maswar-dan-cara-sederhana-menjemput-idul-fitri"
+    },
+    {
         "title": "Menkeu Purbaya Blusukan ke Teras Malioboro & Pasar Beringharjo, Borong Batik Rp10 Juta tak Ditawar",
         "category": "Rejogja",
         "publish_time": "19-03-2026 06:49",
@@ -8,295 +92,211 @@
     {
         "title": "53 Ruas Jalan Sleman Telah Ditangani, Siap Digunakan untuk Jalur Mudik",
         "category": "Rejogja",
-        "publish_time": "19-03-2026 06:41",
+        "publish_time": "19-03-2026 06:42",
         "news_link": "https://rejogja.republika.co.id/berita/tc4vwn282/53-ruas-jalan-sleman-telah-ditangani-siap-digunakan-untuk-jalur-mudik"
     },
     {
         "title": "Prediksi Menegangkan Sidang Isbat Tahun Ini",
         "category": "Khazanah",
-        "publish_time": "19-03-2026 06:29",
+        "publish_time": "19-03-2026 06:42",
         "news_link": "https://khazanah.republika.co.id/berita/tc4vdz451/prediksi-menegangkan-sidang-isbat-tahun-ini"
     },
     {
         "title": "Penyeberangan Ketapang\u2013Gilimanuk Ditutup Sementara Saat Nyepi",
         "category": "News",
-        "publish_time": "19-03-2026 06:11",
+        "publish_time": "19-03-2026 05:42",
         "news_link": "https://news.republika.co.id/berita/tc4u33348/penyeberangan-ketapanggilimanuk-ditutup-sementara-saat-nyepi"
     },
     {
         "title": "Ribuan Muslim di Nagan Raya Aceh Rayakan Idul Fitri Kamis Ini",
         "category": "Khazanah",
-        "publish_time": "19-03-2026 06:00",
+        "publish_time": "19-03-2026 05:42",
         "news_link": "https://khazanah.republika.co.id/berita/tc4u1o483/ribuan-muslim-di-nagan-raya-aceh-rayakan-idul-fitri-kamis-ini"
     },
     {
         "title": "Meski Gugur di Liga Champions, Kemenangan Atas Atletico Jadi Modal Tottenham Bangkit di Liga Inggris",
         "category": "News",
-        "publish_time": "19-03-2026 05:58",
+        "publish_time": "19-03-2026 05:42",
         "news_link": "https://news.republika.co.id/berita/tc4tx3348/meski-gugur-di-liga-champions-kemenangan-atas-atletico-jadi-modal-tottenham-bangkit-di-liga-inggris"
     },
     {
         "title": "KAI Daop 1 Jakarta Catat 480 Ribu Tiket Mudik Terjual, Tanggal Favorit Hampir Habis",
         "category": "Ekonomi",
-        "publish_time": "19-03-2026 05:51",
+        "publish_time": "19-03-2026 05:42",
         "news_link": "https://ekonomi.republika.co.id/berita/tc4tjq451/kai-daop-1-jakarta-catat-480-ribu-tiket-mudik-terjual-tanggal-favorit-hampir-habis"
     },
     {
         "title": "Lebih dari 100 Ribu Pemudik Ikuti Program Mudik Gratis BUMN 2026",
         "category": "Ekonomi",
-        "publish_time": "19-03-2026 05:51",
+        "publish_time": "19-03-2026 05:42",
         "news_link": "https://ekonomi.republika.co.id/berita/tc4t8r370/lebih-dari-100-ribu-pemudik-ikuti-program-mudik-gratis-bumn-2026"
     },
     {
         "title": "Lebaran dan Permintaan Fleet Dorong Penjualan Suzuki Naik 64 Persen pada Februari 2026",
         "category": "Ekonomi",
-        "publish_time": "19-03-2026 05:51",
+        "publish_time": "19-03-2026 05:42",
         "news_link": "https://ekonomi.republika.co.id/berita/tc4t23348/lebaran-dan-permintaan-fleet-dorong-penjualan-suzuki-naik-64-persen-pada-februari-2026"
     },
     {
         "title": "Bulog Salurkan Bantuan Pangan ke 1,26 Juta Warga Lampung Jelang Lebaran 2026",
         "category": "News",
-        "publish_time": "19-03-2026 05:51",
+        "publish_time": "19-03-2026 05:42",
         "news_link": "https://news.republika.co.id/berita/tc4spb451/bulog-salurkan-bantuan-pangan-ke-126-juta-warga-lampung-jelang-lebaran-2026"
     },
     {
         "title": "Hilal tak Tampak, Qatar Tetapkan Idul Fitri 20 Maret 2026",
         "category": "Khazanah",
-        "publish_time": "19-03-2026 04:51",
+        "publish_time": "19-03-2026 04:42",
         "news_link": "https://khazanah.republika.co.id/berita/tc4rsf366/hilal-tak-tampak-qatar-tetapkan-idul-fitri-20-maret-2026"
     },
     {
         "title": "Ketika Amanah Kekuasaan Dikhianati",
         "category": "Kolom",
-        "publish_time": "19-03-2026 04:51",
+        "publish_time": "19-03-2026 04:42",
         "news_link": "https://analisis.republika.co.id/berita/tc4m7v393/ketika-amanah-kekuasaan-dikhianati"
     },
     {
         "title": "Harry Kane: Bayern tak Takut Siapa Pun, Siap Hadapi Real Madrid di Perempat Final Liga Champions",
         "category": "News",
-        "publish_time": "19-03-2026 04:51",
+        "publish_time": "19-03-2026 04:42",
         "news_link": "https://news.republika.co.id/berita/tc4rh6348/harry-kane-bayern-tak-takut-siapa-pun-siap-hadapi-real-madrid-di-perempat-final-liga-champions"
     },
     {
         "title": "Donasi Energi Bersih IWIP Dorong Ekonomi Pulau Terpencil",
         "category": "Esgnow",
-        "publish_time": "19-03-2026 04:51",
+        "publish_time": "19-03-2026 04:42",
         "news_link": "https://esgnow.republika.co.id/berita/tc4r4t370/donasi-energi-bersih-iwip-dorong-ekonomi-pulau-terpencil"
     },
     {
         "title": "Mungkinkah Negara Teluk Gabung Israel Menyerang Iran?",
         "category": "News",
-        "publish_time": "19-03-2026 04:51",
+        "publish_time": "19-03-2026 04:42",
         "news_link": "https://news.republika.co.id/berita/tc4pvh393/mungkinkah-negara-teluk-gabung-israel-menyerang-iran"
     },
     {
         "title": "Bukan Livestream Biasa, Intip Inovasi Mobile Ramadhan dari Coocaa",
         "category": "Ameera",
-        "publish_time": "19-03-2026 03:51",
+        "publish_time": "19-03-2026 04:42",
         "news_link": "https://ameera.republika.co.id/berita/tc4p4s425/bukan-livestream-biasa-intip-inovasi-mobile-ramadhan-dari-coocaa"
     },
     {
         "title": "Takbir Menggema, Rindu Menjadi Doa, Menuju Kemenangan Sesungguhnya",
         "category": "Kolom",
-        "publish_time": "19-03-2026 03:51",
+        "publish_time": "19-03-2026 03:42",
         "news_link": "https://analisis.republika.co.id/berita/tc4m0l393/takbir-menggema-rindu-menjadi-doa-menuju-kemenangan-sesungguhnya"
     },
     {
         "title": "Lanjutkan Tren Penurunan, Harga Emas Antam Turun Rp53 Ribu per Gram",
         "category": "Ekonomi",
-        "publish_time": "19-03-2026 03:51",
+        "publish_time": "19-03-2026 03:42",
         "news_link": "https://ekonomi.republika.co.id/berita/tc4o06370/lanjutkan-tren-penurunan-harga-emas-antam-turun-rp53-ribu-per-gram"
     },
     {
         "title": "Destinasi Taman Wisata Candi Diprediksi Melonjak, InJourney Siapkan Strategi Khusus",
         "category": "News",
-        "publish_time": "19-03-2026 03:51",
+        "publish_time": "19-03-2026 03:42",
         "news_link": "https://news.republika.co.id/berita/tc41wf318/destinasi-taman-wisata-candi-diprediksi-melonjak-injourney-siapkan-strategi-khusus"
     },
     {
         "title": "Pasien Aritmia Mau Mudik? Simak Tips Aman dari Pakar Jantung",
         "category": "Ameera",
-        "publish_time": "19-03-2026 03:51",
+        "publish_time": "19-03-2026 03:42",
         "news_link": "https://ameera.republika.co.id/berita/tc4n6j425/pasien-aritmia-mau-mudik-simak-tips-aman-dari-pakar-jantung"
     },
     {
         "title": "Khutbah Idul Fitri: Ramadhan, Keunggulan Manusia Muslim, dan Masa Depan Peradaban Islam",
         "category": "Iqra",
-        "publish_time": "19-03-2026 02:51",
+        "publish_time": "19-03-2026 03:42",
         "news_link": "https://iqra.republika.co.id/berita/tc4lkf366/khutbah-idul-fitri-ramadhan-keunggulan-manusia-muslim-dan-masa-depan-peradaban-islam"
     },
     {
         "title": "Menahan Diri di Tengah Eskalasi Konflik Global: Saatnya Merayakan Lebaran",
         "category": "News",
-        "publish_time": "19-03-2026 02:51",
+        "publish_time": "19-03-2026 03:42",
         "news_link": "https://news.republika.co.id/berita/tc4me8415/menahan-diri-di-tengah-eskalasi-konflik-global-saatnya-merayakan-lebaran"
     },
     {
         "title": "Selamatkan Mental Anak, Siswa di Polandia Dilarang Gunakan Ponsel di Sekolah",
         "category": "Ameera",
-        "publish_time": "19-03-2026 02:51",
+        "publish_time": "19-03-2026 02:42",
         "news_link": "https://ameera.republika.co.id/berita/tc4m7s370/selamatkan-mental-anak-siswa-di-polandia-dilarang-gunakan-ponsel-di-sekolah"
     },
     {
         "title": "Muhammadiyah Jabar Gelar Sholat Idul Fitri 20 Maret 2026",
         "category": "Khazanah",
-        "publish_time": "19-03-2026 02:51",
+        "publish_time": "19-03-2026 02:42",
         "news_link": "https://khazanah.republika.co.id/berita/tc4m0m483/muhammadiyah-jabar-gelar-sholat-idul-fitri-20-maret-2026"
     },
     {
         "title": "Ali Khameini dan Revolusi Islam",
         "category": "Kolom",
-        "publish_time": "19-03-2026 02:51",
+        "publish_time": "19-03-2026 02:42",
         "news_link": "https://analisis.republika.co.id/berita/tc4ltg393/ali-khameini-dan-revolusi-islam"
     },
     {
         "title": "Air Keras dari Orang Dalam",
         "category": "Kolom",
-        "publish_time": "19-03-2026 02:51",
+        "publish_time": "19-03-2026 02:42",
         "news_link": "https://analisis.republika.co.id/berita/tc4lnk415/air-keras-dari-orang-dalam"
     },
     {
         "title": "BOS Kembali Cair Jelang Lebaran, Kemenag Gelontorkan Rp 111,9 Miliar untuk Pesantren",
         "category": "Khazanah",
-        "publish_time": "19-03-2026 02:51",
+        "publish_time": "19-03-2026 02:42",
         "news_link": "https://khazanah.republika.co.id/berita/tc4lkt483/bos-kembali-cair-jelang-lebaran-kemenag-gelontorkan-rp-1119-miliar-untuk-pesantren"
     },
     {
         "title": "Menjelang Idul Fitri, Ini Tujuh Hal Penting soal Zakat yang Wajib Dipahami",
         "category": "Khazanah",
-        "publish_time": "19-03-2026 02:51",
+        "publish_time": "19-03-2026 02:42",
         "news_link": "https://khazanah.republika.co.id/berita/tc4l87483/menjelang-idul-fitri-ini-tujuh-hal-penting-soal-zakat-yang-wajib-dipahami"
     },
     {
         "title": "Sholat Idul Fitri di Kota Bandung akan Digelar di 2.124 Titik",
         "category": "Khazanah",
-        "publish_time": "19-03-2026 02:51",
+        "publish_time": "19-03-2026 02:42",
         "news_link": "https://khazanah.republika.co.id/berita/tc4krb483/sholat-idul-fitri-di-kota-bandung-akan-digelar-di-2124-titik"
     },
     {
         "title": "PLTU Batang Salurkan Bantuan Alat Kesehatan dan 500 Paket PMT untuk Posyandu Roban Timur",
         "category": "Rejogja",
-        "publish_time": "19-03-2026 02:51",
+        "publish_time": "19-03-2026 02:42",
         "news_link": "https://rejogja.republika.co.id/berita/tc4khx291/pltu-batang-salurkan-bantuan-alat-kesehatan-dan-500-paket-pmt-untuk-posyandu-roban-timur"
     },
     {
         "title": "Wakil Ketua Komisi I DPR: Kekerasan terhadap Aktivis Ancaman Serius Demokrasi",
         "category": "Rejogja",
-        "publish_time": "19-03-2026 02:51",
+        "publish_time": "19-03-2026 02:42",
         "news_link": "https://rejogja.republika.co.id/berita/tc4k70291/wakil-ketua-komisi-i-dpr-kekerasan-terhadap-aktivis-ancaman-serius-demokrasi"
     },
     {
         "title": "Empat Jenis Menu Lebaran yang Harus Dihindari Penderita Strok dan Diabetes",
         "category": "Ameera",
-        "publish_time": "19-03-2026 02:51",
+        "publish_time": "19-03-2026 02:42",
         "news_link": "https://ameera.republika.co.id/berita/tc4k6p483/empat-jenis-menu-lebaran-yang-harus-dihindari-penderita-strok-dan-diabetes"
     },
     {
         "title": "One Way Nasional Berpeluang Diperpanjang, Korlantas Tunggu Evaluasi",
         "category": "News",
-        "publish_time": "19-03-2026 02:51",
+        "publish_time": "19-03-2026 02:42",
         "news_link": "https://news.republika.co.id/berita/tc4jyo370/one-way-nasional-berpeluang-diperpanjang-korlantas-tunggu-evaluasi"
     },
     {
         "title": "Hilal di Aceh Hari Ini Masih di Bawah Kriteria MABIMS, Benarkah Lebaran Lusa?",
         "category": "Khazanah",
-        "publish_time": "19-03-2026 01:51",
+        "publish_time": "19-03-2026 02:42",
         "news_link": "https://khazanah.republika.co.id/berita/tc4jr0483/hilal-di-aceh-hari-ini-masih-di-bawah-kriteria-mabims-benarkah-lebaran-lusa"
     },
     {
         "title": "Pertamina Patra Niaga Hadirkan SPBU Modular, Solusi Urai Kemacetan di Jalur Mudik",
         "category": "Ekonomi",
-        "publish_time": "19-03-2026 01:51",
+        "publish_time": "19-03-2026 01:42",
         "news_link": "https://ekonomi.republika.co.id/berita/tc4ihe522/pertamina-patra-niaga-hadirkan-spbu-modular-solusi-urai-kemacetan-di-jalur-mudik"
     },
     {
         "title": "Tim Urai Kemacetan Disiagakan di Jalur Palembang-Betung",
         "category": "News",
-        "publish_time": "19-03-2026 01:51",
+        "publish_time": "19-03-2026 01:42",
         "news_link": "https://news.republika.co.id/berita/tc4i7c5530000/tim-urai-kemacetan-disiagakan-di-jalur-palembangbetung"
-    },
-    {
-        "title": "Pemotongan Sapi di Mataram Meningkat Menjelang Lebaran 2026",
-        "category": "News",
-        "publish_time": "19-03-2026 01:51",
-        "news_link": "https://news.republika.co.id/berita/tc4hi89130000/pemotongan-sapi-di-mataram-meningkat-menjelang-lebaran-2026"
-    },
-    {
-        "title": "Wagub Gorontalo Dorong UMKM Kelola Bantuan dengan Bijak",
-        "category": "News",
-        "publish_time": "19-03-2026 00:51",
-        "news_link": "https://news.republika.co.id/berita/tc4gta9430000/wagub-gorontalo-dorong-umkm-kelola-bantuan-dengan-bijak"
-    },
-    {
-        "title": "Selat Hormuz Memanas, Asia Tenggara Hadapi Pilihan Sulit: Hemat Energi atau Tambah Subsidi",
-        "category": "Ekonomi",
-        "publish_time": "19-03-2026 00:51",
-        "news_link": "https://ekonomi.republika.co.id/berita/tc4ghl370/selat-hormuz-memanas-asia-tenggara-hadapi-pilihan-sulit-hemat-energi-atau-tambah-subsidi"
-    },
-    {
-        "title": "Akhiri Ramadhan dengan Istighfar",
-        "category": "Kolom",
-        "publish_time": "19-03-2026 00:51",
-        "news_link": "https://analisis.republika.co.id/berita/tc4auq483/akhiri-ramadhan-dengan-istighfar"
-    },
-    {
-        "title": "Polda Bali Kerahkan 965 Personel Amankan Pawai Ogoh-Ogoh di Denpasar",
-        "category": "News",
-        "publish_time": "19-03-2026 00:51",
-        "news_link": "https://news.republika.co.id/berita/tc4g489930000/polda-bali-kerahkan-965-personel-amankan-pawai-ogohogoh-di-denpasar"
-    },
-    {
-        "title": "Pemudik Meninggal Dunia dalam Bus di Gilimanuk",
-        "category": "News",
-        "publish_time": "19-03-2026 00:51",
-        "news_link": "https://news.republika.co.id/berita/tc4ff96130000/pemudik-meninggal-dunia-dalam-bus-di-gilimanuk"
-    },
-    {
-        "title": "Ini Cara Kirim Paket Aman ke Luar Negeri Jelang Lebaran",
-        "category": "Ekonomi",
-        "publish_time": "19-03-2026 00:51",
-        "news_link": "https://ekonomi.republika.co.id/berita/tc4fec349/ini-cara-kirim-paket-aman-ke-luar-negeri-jelang-lebaran"
-    },
-    {
-        "title": "Antisipasi Macet, Jasa Marga Tambah Mobile Reader dan Gardu Tol",
-        "category": "News",
-        "publish_time": "19-03-2026 00:51",
-        "news_link": "https://news.republika.co.id/berita/tc4t3z451/antisipasi-macet-jasa-marga-tambah-mobile-reader-dan-gardu-tol"
-    },
-    {
-        "title": "Penjualan Ikan Asin di Teluk Penyu Cilacap Belum Meningkat Menjelang Lebaran",
-        "category": "News",
-        "publish_time": "19-03-2026 00:51",
-        "news_link": "https://news.republika.co.id/berita/tc4eqt9530000/penjualan-ikan-asin-di-teluk-penyu-cilacap-belum-meningkat-menjelang-lebaran"
-    },
-    {
-        "title": "Pengaliran Gas Bumi Cisem 2 Resmi Dijalankan, Tingkatkan Kepastian Bisnis",
-        "category": "News",
-        "publish_time": "18-03-2026 23:51",
-        "news_link": "https://news.republika.co.id/berita/tc4e1c8430000/pengaliran-gas-bumi-cisem-2-resmi-dijalankan-tingkatkan-kepastian-bisnis"
-    },
-    {
-        "title": "Muhammadiyah Kabupaten Bekasi Siapkan 12 Titik Sholat Idul Fitri 2026",
-        "category": "Khazanah",
-        "publish_time": "18-03-2026 23:51",
-        "news_link": "https://khazanah.republika.co.id/berita/tc4d50366/muhammadiyah-kabupaten-bekasi-siapkan-12-titik-sholat-idul-fitri-2026"
-    },
-    {
-        "title": "Masyarakat Diimbau Jauhi Radius Bahaya Gunung Awu",
-        "category": "News",
-        "publish_time": "18-03-2026 23:51",
-        "news_link": "https://news.republika.co.id/berita/tc4dce7830000/masyarakat-diimbau-jauhi-radius-bahaya-gunung-awu"
-    },
-    {
-        "title": "Hasil Leg Kedua 16 Besar Liga Champions: Semua Wakil Spanyol Lolos Perempat Final, Inggris Sisa Dua",
-        "category": "News",
-        "publish_time": "18-03-2026 23:51",
-        "news_link": "https://news.republika.co.id/berita/tc4dcd348/hasil-leg-kedua-16-besar-liga-champions-semua-wakil-spanyol-lolos-perempat-final-inggris-sisa-dua"
-    },
-    {
-        "title": "Akhir Ramadhan: Muhasabah Perubahan Diri",
-        "category": "Kolom",
-        "publish_time": "18-03-2026 23:51",
-        "news_link": "https://www.republika.id/posts/59965/akhir-ramadhan-muhasabah-perubahan-diri"
     }
 ]
