@@ -1,5 +1,89 @@
 [
     {
+        "title": "Gunung Semeru Semakin Aktif, Hari Ini Kembali Erupsi Disertai Awan Panas Sejauh 3,5 Km",
+        "category": "News",
+        "publish_time": "05 April 2026, 11:28",
+        "news_link": "https://news.republika.co.id/berita/td072w502/gunung-semeru-semakin-aktif-hari-ini-kembali-erupsi-disertai-awan-panas-sejauh-35-km"
+    },
+    {
+        "title": "Revolusi Bonsai AI",
+        "category": "Kolom",
+        "publish_time": "05 April 2026, 11:22",
+        "news_link": "https://analisis.republika.co.id/berita/td06u3415/revolusi-bonsai-ai"
+    },
+    {
+        "title": "Panglima TNI: Mayor Zulmi Salah Satu Prajurit Terbaik di Kopassus",
+        "category": "News",
+        "publish_time": "05 April 2026, 11:22",
+        "news_link": "https://news.republika.co.id/berita/td06so409/panglima-tni-mayor-zulmi-salah-satu-prajurit-terbaik-di-kopassus"
+    },
+    {
+        "title": "Mantan Presiden ke 7 RI Joko Widodo Telepon MBS Tanyakan Kapan Perang ASIsrael  Iran Selesai",
+        "category": "Video",
+        "publish_time": "05 April 2026, 11:15",
+        "news_link": "https://republika.co.id/page/shorts/yt-td06h22097076965/mantan-presiden-ke-7-ri-joko-widodo-telepon-mbs-tanyakan-kapan-perang-asisrael-iran-selesai"
+    },
+    {
+        "title": "Bea Cukai Fasilitasi Pemulangan Jenazah Prajurit TNI UNIFIL dengan Layanan Rush Handling",
+        "category": "Beacukai",
+        "publish_time": "05 April 2026, 11:14",
+        "news_link": "https://republika.co.id/berita//td06gh368/bea-cukai-fasilitasi-pemulangan-jenazah-prajurit-tni-unifil-dengan-layanan-rush-handling"
+    },
+    {
+        "title": "Tiga Prajurit Gugur, RI Minta PBB Evaluasi Keamanan Pasukan Perdamaian",
+        "category": "News",
+        "publish_time": "05 April 2026, 11:02",
+        "news_link": "https://news.republika.co.id/berita/td05vh416/tiga-prajurit-gugur-ri-minta-pbb-evaluasi-keamanan-pasukan-perdamaian"
+    },
+    {
+        "title": "Karena Semua Burger Milik Allah",
+        "category": "Kolom",
+        "publish_time": "05 April 2026, 10:33",
+        "news_link": "https://analisis.republika.co.id/berita/td04kb368/karena-semua-burger-milik-allah"
+    },
+    {
+        "title": "Panglima TNI Pimpin Pemakaman Mayor Zulmi di TMP Cikutra Bandung",
+        "category": "Rejabar",
+        "publish_time": "05 April 2026, 10:31",
+        "news_link": "https://rejabar.republika.co.id/berita/td04gv370/panglima-tni-pimpin-pemakaman-mayor-zulmi-di-tmp-cikutra-bandung"
+    },
+    {
+        "title": "Kejagung Periksa Jajaran Kejaksaan Negeri Karo Imbas Kasus Amsal Sitepu",
+        "category": "News",
+        "publish_time": "05 April 2026, 10:20",
+        "news_link": "https://news.republika.co.id/berita/td03xo409/kejagung-periksa-jajaran-kejaksaan-negeri-karo-imbas-kasus-amsal-sitepu"
+    },
+    {
+        "title": "Momen Presiden Prabowo Subianto Mencium Anak Prajurit yang Gugur di Lebanon",
+        "category": "Video",
+        "publish_time": "05 April 2026, 10:00",
+        "news_link": "https://republika.co.id/page/shorts/yt-td0301762986239/momen-presiden-prabowo-subianto-mencium-anak-prajurit-yang-gugur-di-lebanon"
+    },
+    {
+        "title": "Tiga Personel TNI Terluka, Israel Hancurkan CCTV Markas UNIFIL",
+        "category": "News",
+        "publish_time": "05 April 2026, 09:52",
+        "news_link": "https://news.republika.co.id/berita/td02lh416/tiga-personel-tni-terluka-israel-hancurkan-cctv-markas-unifil"
+    },
+    {
+        "title": "Trump Ultimatum Iran, Minta Selat Hormuz Dibuka Dalam 48 Jam",
+        "category": "Ekonomi",
+        "publish_time": "05 April 2026, 09:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/tczzql370/trump-ultimatum-iran-minta-selat-hormuz-dibuka-dalam-48-jam"
+    },
+    {
+        "title": "MedcoEnergi Bukukan Laba Bersih 101 Juta Dolar AS pada 2025",
+        "category": "Ekonomi",
+        "publish_time": "05 April 2026, 09:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/td00d9502/medcoenergi-bukukan-laba-bersih-101-juta-dolar-as-pada-2025"
+    },
+    {
+        "title": "Para Konten Kreator China di Balik Sukses Iran Tembak Jatuh Jet-Jet Canggih AS?",
+        "category": "News",
+        "publish_time": "05 April 2026, 09:00",
+        "news_link": "https://news.republika.co.id/berita/td0098409/para-konten-kreator-china-di-balik-sukses-iran-tembak-jatuh-jetjet-canggih-as"
+    },
+    {
         "title": "Recovery Jadi Kunci Jaga Performa, Bukan Sekadar Istirahat",
         "category": "Ameera",
         "publish_time": "05 April 2026, 08:56",
@@ -214,89 +298,5 @@
         "category": "News",
         "publish_time": "05 April 2026, 00:15",
         "news_link": "https://news.republika.co.id/berita/tczbx74330000/makassar-olah-sampah-jadi-energi-listrik-melalui-psel"
-    },
-    {
-        "title": "Peran Orang Tua Penting dalam Pembatasan Media Sosial Anak",
-        "category": "News",
-        "publish_time": "05 April 2026, 00:00",
-        "news_link": "https://news.republika.co.id/berita/tczb8b8030000/peran-orang-tua-penting-dalam-pembatasan-media-sosial-anak"
-    },
-    {
-        "title": "Jenazah Tiga Prajurit TNI yang Gugur di Lebanon Tiba di Tanah Air, Disambut Upacara Militer",
-        "category": "Visual",
-        "publish_time": "04 April 2026, 23:44",
-        "news_link": "https://visual.republika.co.id/berita/tczahg375/jenazah-tiga-prajurit-tni-yang-gugur-di-lebanon-tiba-di-tanah-air-disambut-upacara-militer"
-    },
-    {
-        "title": "Fluktuasi Harga Emas Jadi Peluang, Simak Penjelasannya",
-        "category": "Ekonomi",
-        "publish_time": "04 April 2026, 23:40",
-        "news_link": "https://ekonomi.republika.co.id/berita/tcz904423/fluktuasi-harga-emas-jadi-peluang-simak-penjelasannya"
-    },
-    {
-        "title": "Harga Plastik Naik, Pedagang Kaki Lima Menjerit",
-        "category": "Ekonomi",
-        "publish_time": "04 April 2026, 23:25",
-        "news_link": "https://ekonomi.republika.co.id/berita/tcz8jd423/harga-plastik-naik-pedagang-kaki-lima-menjerit"
-    },
-    {
-        "title": "Upacara Pelepasan Jenazah Personel Penjaga Perdamaian",
-        "category": "Video",
-        "publish_time": "04 April 2026, 23:00",
-        "news_link": "https://republika.co.id/page/shorts/yt-tcz8g21021501993/upacara-pelepasan-jenazah-personel-penjaga-perdamaian"
-    },
-    {
-        "title": "Komisi XII DPR Dorong Percepatan Kendaraan Listrik untuk Tekan Subsidi BBM",
-        "category": "Ekonomi",
-        "publish_time": "04 April 2026, 23:00",
-        "news_link": "https://ekonomi.republika.co.id/berita/tcyofe320/komisi-xii-dpr-dorong-percepatan-kendaraan-listrik-untuk-tekan-subsidi-bbm"
-    },
-    {
-        "title": "Doa dan Tangis Iringi Kedatangan Jenazah Mayor Zulmi di Cimahi",
-        "category": "News",
-        "publish_time": "04 April 2026, 22:50",
-        "news_link": "https://news.republika.co.id/berita/tcz80u423/doa-dan-tangis-iringi-kedatangan-jenazah-mayor-zulmi-di-cimahi"
-    },
-    {
-        "title": "Bangun Sejumlah Sarpras, Peradi Peduli Bencana Sumbar",
-        "category": "News",
-        "publish_time": "04 April 2026, 22:38",
-        "news_link": "https://news.republika.co.id/berita/tcz7fh484/bangun-sejumlah-sarpras-peradi-peduli-bencana-sumbar"
-    },
-    {
-        "title": "Munas Hipmi 2026: Perkuat Peran Pengusaha Muda Penggerak Ekonomi",
-        "category": "Ekonomi",
-        "publish_time": "04 April 2026, 22:12",
-        "news_link": "https://ekonomi.republika.co.id/berita/tcz69l484/munas-hipmi-2026-perkuat-peran-pengusaha-muda-penggerak-ekonomi"
-    },
-    {
-        "title": "KAI: Mobilitas Angkutan Lebaran 2026 Capai Level Tertinggi dalam Lima Tahun",
-        "category": "Ekonomi",
-        "publish_time": "04 April 2026, 19:49",
-        "news_link": "https://ekonomi.republika.co.id/berita/tcyzmk423/kai-mobilitas-angkutan-lebaran-2026-capai-level-tertinggi-dalam-lima-tahun"
-    },
-    {
-        "title": "Edukasi Gizi dan Pemeriksaan Anak Digelar di Bekasi untuk Cegah Stunting",
-        "category": "Esgnow",
-        "publish_time": "04 April 2026, 19:06",
-        "news_link": "https://esgnow.republika.co.id/berita/tcyxml349/edukasi-gizi-dan-pemeriksaan-anak-digelar-di-bekasi-untuk-cegah-stunting"
-    },
-    {
-        "title": "DPR Dorong Pemerintah Pertimbangkan Penyesuaian Harga BBM",
-        "category": "Ekonomi",
-        "publish_time": "04 April 2026, 18:41",
-        "news_link": "https://ekonomi.republika.co.id/berita/tcywhi423/dpr-dorong-pemerintah-pertimbangkan-penyesuaian-harga-bbm"
-    },
-    {
-        "title": "Mobilitas Kota Kembali Padat, Changan Tawarkan EV Kompak Lumin untuk Penggunaan Harian",
-        "category": "Ekonomi",
-        "publish_time": "04 April 2026, 18:40",
-        "news_link": "https://ekonomi.republika.co.id/berita/tcywg3349/mobilitas-kota-kembali-padat-changan-tawarkan-ev-kompak-lumin-untuk-penggunaan-harian"
-    },
-    {
-        "title": "Sebanyak 220 Kapal Lintasi Selat Hormuz pada Maret",
-        "category": "Ekonomi",
-        "publish_time": "04 April 2026, 18:23",
-        "news_link": "https://ekonomi.republika.co.id/berita/tcyvnn423/sebanyak-220-kapal-lintasi-selat-hormuz-pada-maret"
     }
 ]
