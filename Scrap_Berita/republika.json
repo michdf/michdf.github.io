@@ -1,9 +1,39 @@
 [
     {
-        "title": "Hanya 89 Jamaah Berangkat, 6 Calon Haji Bandung Barat Tunda Berangkat",
+        "title": "Suasana Haru Selimuti Pemakaman Tiga Prajurit TNI yang Gugur di Lebanon",
+        "category": "Visual",
+        "publish_time": "05 April 2026, 20:30",
+        "news_link": "https://visual.republika.co.id/berita/td0uoj375/suasana-haru-selimuti-pemakaman-tiga-prajurit-tni-yang-gugur-di-lebanon"
+    },
+    {
+        "title": "BUMN Siapkan Aset KAI untuk Rusun di Kawasan Padat",
+        "category": "Ekonomi",
+        "publish_time": "05 April 2026, 20:25",
+        "news_link": "https://ekonomi.republika.co.id/berita/td0sy1416/bumn-siapkan-aset-kai-untuk-rusun-di-kawasan-padat"
+    },
+    {
+        "title": "Sistem Seleksi PTKIN Diubah, Syarat Lebih Ketat",
+        "category": "News",
+        "publish_time": "05 April 2026, 20:17",
+        "news_link": "https://news.republika.co.id/berita/td0vkd416/sistem-seleksi-ptkin-diubah-syarat-lebih-ketat"
+    },
+    {
+        "title": "Tentara Israel Hancurkan CCTV Markas UNIFIL Usai Serangan yang Menyasar Tiga Prajurit TNI",
+        "category": "News",
+        "publish_time": "05 April 2026, 20:13",
+        "news_link": "https://news.republika.co.id/berita/td0vdy483/tentara-israel-hancurkan-cctv-markas-unifil-usai-serangan-yang-menyasar-tiga-prajurit-tni"
+    },
+    {
+        "title": "Bhayangkara Taklukkan 10 Pemain Persija Lewat Gol Injury Time, Sidebe Jadi Penentu",
+        "category": "News",
+        "publish_time": "05 April 2026, 19:52",
+        "news_link": "https://news.republika.co.id/berita/td0uf7348/bhayangkara-taklukkan-10-pemain-persija-lewat-gol-injury-time-sidebe-jadi-penentu"
+    },
+    {
+        "title": "Hanya 89 Jamaah Berangkat, 6 Calon Haji Bandung Barat Tunda Tahun Ini",
         "category": "Khazanah",
         "publish_time": "05 April 2026, 19:42",
-        "news_link": "https://khazanah.republika.co.id/berita/td0tym366/hanya-89-jamaah-berangkat-6-calon-haji-bandung-barat-tunda-berangkat"
+        "news_link": "https://khazanah.republika.co.id/berita/td0tym366/hanya-89-jamaah-berangkat-6-calon-haji-bandung-barat-tunda-tahun-ini"
     },
     {
         "title": "Masalah Jantung Berlanjut, Oscar Putuskan Gantung Sepatu pada Usia 34 Tahun",
@@ -268,35 +298,5 @@
         "category": "News",
         "publish_time": "05 April 2026, 11:28",
         "news_link": "https://news.republika.co.id/berita/td072w502/gunung-semeru-semakin-aktif-hari-ini-kembali-erupsi-disertai-awan-panas-sejauh-35-km"
-    },
-    {
-        "title": "Revolusi Bonsai AI",
-        "category": "Kolom",
-        "publish_time": "05 April 2026, 11:22",
-        "news_link": "https://analisis.republika.co.id/berita/td06u3415/revolusi-bonsai-ai"
-    },
-    {
-        "title": "Panglima TNI: Mayor Zulmi Salah Satu Prajurit Terbaik di Kopassus",
-        "category": "News",
-        "publish_time": "05 April 2026, 11:22",
-        "news_link": "https://news.republika.co.id/berita/td06so409/panglima-tni-mayor-zulmi-salah-satu-prajurit-terbaik-di-kopassus"
-    },
-    {
-        "title": "Mantan Presiden ke 7 RI Joko Widodo Telepon MBS Tanyakan Kapan Perang ASIsrael  Iran Selesai",
-        "category": "Video",
-        "publish_time": "05 April 2026, 11:15",
-        "news_link": "https://republika.co.id/page/shorts/yt-td06h22097076965/mantan-presiden-ke-7-ri-joko-widodo-telepon-mbs-tanyakan-kapan-perang-asisrael-iran-selesai"
-    },
-    {
-        "title": "Bea Cukai Fasilitasi Pemulangan Jenazah Prajurit TNI UNIFIL dengan Layanan Rush Handling",
-        "category": "Beacukai",
-        "publish_time": "05 April 2026, 11:14",
-        "news_link": "https://republika.co.id/berita//td06gh368/bea-cukai-fasilitasi-pemulangan-jenazah-prajurit-tni-unifil-dengan-layanan-rush-handling"
-    },
-    {
-        "title": "Tiga Prajurit Gugur, RI Minta PBB Evaluasi Keamanan Pasukan Perdamaian",
-        "category": "News",
-        "publish_time": "05 April 2026, 11:02",
-        "news_link": "https://news.republika.co.id/berita/td05vh416/tiga-prajurit-gugur-ri-minta-pbb-evaluasi-keamanan-pasukan-perdamaian"
     }
 ]
