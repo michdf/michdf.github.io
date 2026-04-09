@@ -1,44 +1,224 @@
 [
     {
+        "title": "RSCM Beri Update Kondisi Andrie Yunus: Luka Bakar Ditangani dengan Cangkok Kulit",
+        "category": "News",
+        "publish_time": "09-04-2026 04:29",
+        "news_link": "https://news.republika.co.id/berita/td7lso409/rscm-beri-update-kondisi-andrie-yunus-luka-bakar-ditangani-dengan-cangkok-kulit"
+    },
+    {
+        "title": "3 Analisis: Perang Iran-AS-Israel Memanas, Mengapa Tak Ada yang Benar-Benar Menang?",
+        "category": "News",
+        "publish_time": "09-04-2026 04:26",
+        "news_link": "https://news.republika.co.id/berita/td7lnp451/3-analisis-perang-iranasisrael-memanas-mengapa-tak-ada-yang-benarbenar-menang"
+    },
+    {
+        "title": "Berisiko Gagal Berangkat, Pemerintah Ingatkan Bahaya Tawaran Haji Dakhili dan Furoda",
+        "category": "Khazanah",
+        "publish_time": "09-04-2026 04:10",
+        "news_link": "https://khazanah.republika.co.id/berita/td7kxc483/berisiko-gagal-berangkat-pemerintah-ingatkan-bahaya-tawaran-haji-dakhili-dan-furoda"
+    },
+    {
+        "title": "Sekolah Rakyat Diperkuat, Akses Pendidikan dan Kualitas SDM Jadi Fokus",
+        "category": "News",
+        "publish_time": "09-04-2026 04:05",
+        "news_link": "https://news.republika.co.id/berita/td7gmx451/sekolah-rakyat-diperkuat-akses-pendidikan-dan-kualitas-sdm-jadi-fokus"
+    },
+    {
+        "title": "WFH ASN dan Momentum Kedua Reformasi Budaya Birokrasi",
+        "category": "Kolom",
+        "publish_time": "09-04-2026 03:59",
+        "news_link": "https://www.republika.id/posts/60020/wfh-asn-dan-momentum-kedua-reformasi-budaya-birokrasi"
+    },
+    {
+        "title": "PMI Terbuka dan Siap Salurkan Bantuan Masyarakat Indonesia untuk Iran",
+        "category": "News",
+        "publish_time": "09-04-2026 03:56",
+        "news_link": "https://news.republika.co.id/berita/td7ka0472/pmi-terbuka-dan-siap-salurkan-bantuan-masyarakat-indonesia-untuk-iran"
+    },
+    {
+        "title": "Iran Lawan AS-Israel dan Fakta di Balik Penutupan Al-Aqsa yang Tak Banyak Dibahas Dunia",
+        "category": "Kolom",
+        "publish_time": "09-04-2026 03:45",
+        "news_link": "https://analisis.republika.co.id/berita/td7jrk451/iran-lawan-asisrael-dan-fakta-di-balik-penutupan-alaqsa-yang-tak-banyak-dibahas-dunia"
+    },
+    {
+        "title": "Harga Plastik Melonjak 4 Kali Lipat, Farhan Ajak Warga Ubah Kebiasaan Belanja",
+        "category": "Rejabar",
+        "publish_time": "09-04-2026 03:39",
+        "news_link": "https://rejabar.republika.co.id/berita/td7jin472/harga-plastik-melonjak-4-kali-lipat-farhan-ajak-warga-ubah-kebiasaan-belanja"
+    },
+    {
+        "title": "Longsor di Cadas Pangeran, Jalur Bandung-Cirebon Lumpuh Total",
+        "category": "Visual",
+        "publish_time": "09-04-2026 03:35",
+        "news_link": "https://visual.republika.co.id/berita/td7jbg375/longsor-di-cadas-pangeran-jalur-bandungcirebon-lumpuh-total"
+    },
+    {
+        "title": "LinkUMKM BRI Dorong Perempuan Pengusaha Fesyen Naik Kelas",
+        "category": "Ekonomi",
+        "publish_time": "09-04-2026 03:30",
+        "news_link": "https://ekonomi.republika.co.id/berita/td7j3n472/linkumkm-bri-dorong-perempuan-pengusaha-fesyen-naik-kelas"
+    },
+    {
+        "title": "Daerah Perkuat Kesiapsiagaan Hadapi Karhutla",
+        "category": "News",
+        "publish_time": "09-04-2026 03:29",
+        "news_link": "https://news.republika.co.id/berita/td7gms451/daerah-perkuat-kesiapsiagaan-hadapi-karhutla"
+    },
+    {
+        "title": "Dubes UEA: Konflik Iran Versus Amerika-Israel Bukan Perang Agama",
+        "category": "News",
+        "publish_time": "09-04-2026 03:29",
+        "news_link": "https://news.republika.co.id/berita/td7isn377/dubes-uea-konflik-iran-versus-amerikaisrael-bukan-perang-agama"
+    },
+    {
+        "title": "PAPDI: Vaksin Campak Dewasa Bio Farma Bisa Jadi Alternatif Terjangkau",
+        "category": "Ameera",
+        "publish_time": "09-04-2026 03:29",
+        "news_link": "https://ameera.republika.co.id/berita/td7ism328/papdi-vaksin-campak-dewasa-bio-farma-bisa-jadi-alternatif-terjangkau"
+    },
+    {
+        "title": "IHSG Dibuka Melemah, Ini Penyebabnya",
+        "category": "Ekonomi",
+        "publish_time": "09-04-2026 03:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/td7ib8416/ihsg-dibuka-melemah-ini-penyebabnya"
+    },
+    {
+        "title": "14 Tanya Jawab Ini Jelaskan UU Hukuman Mati Tahanan Palestina yang Kontroversial",
+        "category": "Khazanah",
+        "publish_time": "09-04-2026 03:29",
+        "news_link": "https://khazanah.republika.co.id/berita/td7i7d320/14-tanya-jawab-ini-jelaskan-uu-hukuman-mati-tahanan-palestina-yang-kontroversial"
+    },
+    {
+        "title": "TASPEN Raih Penghargaan Sebagai Investor Strategis Surat Utang Negara Tahun 2025",
+        "category": "Ekonomi",
+        "publish_time": "09-04-2026 03:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/td7i4p472/taspen-raih-penghargaan-sebagai-investor-strategis-surat-utang-negara-tahun-2025"
+    },
+    {
+        "title": "Izin Terbit, Kemenkes Prioritaskan Vaksinasi Campak Ratusan Ribu Nakes",
+        "category": "News",
+        "publish_time": "09-04-2026 03:29",
+        "news_link": "https://news.republika.co.id/berita/td7i0m484/izin-terbit-kemenkes-prioritaskan-vaksinasi-campak-ratusan-ribu-nakes"
+    },
+    {
+        "title": "Kopi Tempur Jepara Didorong Jadi Indikasi Geografis, Kopi Kerinci Tembus Pasar Malaysia",
+        "category": "Kolom",
+        "publish_time": "09-04-2026 03:29",
+        "news_link": "https://analisis.republika.co.id/berita/td7fu1451/kopi-tempur-jepara-didorong-jadi-indikasi-geografis-kopi-kerinci-tembus-pasar-malaysia"
+    },
+    {
+        "title": "TASPEN Dukung Pemanfaatan Relaksasi Pelaporan SPT 2025, Akses Bukti Potong Lewat TOOS",
+        "category": "Ekonomi",
+        "publish_time": "09-04-2026 02:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/td7hmi472/taspen-dukung-pemanfaatan-relaksasi-pelaporan-spt-2025-akses-bukti-potong-lewat-toos"
+    },
+    {
+        "title": "Harga Emas Antam Hari Ini Turun, Buyback Ikut Terkoreksi",
+        "category": "Ekonomi",
+        "publish_time": "09-04-2026 02:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/td7hdm416/harga-emas-antam-hari-ini-turun-buyback-ikut-terkoreksi"
+    },
+    {
+        "title": "Bergantung pada Selat Hormuz, Krisis Energi di Uni Eropa Belum Berakhir",
+        "category": "Ekonomi",
+        "publish_time": "09-04-2026 02:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/td7h6o409/bergantung-pada-selat-hormuz-krisis-energi-di-uni-eropa-belum-berakhir"
+    },
+    {
+        "title": "Relawan GPCI Berangkat ke Barcelona",
+        "category": "Video",
+        "publish_time": "09-04-2026 02:29",
+        "news_link": "https://republika.co.id/page/shorts/yt-td7gz2635656909/relawan-gpci-berangkat-ke-barcelona"
+    },
+    {
+        "title": "Harga Avtur Melonjak, Pemerintah Siapkan Insentif Jaga Harga Tiket Pesawat",
+        "category": "Ekonomi",
+        "publish_time": "09-04-2026 02:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/td7gtt502/harga-avtur-melonjak-pemerintah-siapkan-insentif-jaga-harga-tiket-pesawat"
+    },
+    {
+        "title": "Dari Mana Anggaran Motor Listrik MBG? Menkeu Purbaya Ungkap Asal Usulnya",
+        "category": "Rejabar",
+        "publish_time": "09-04-2026 02:29",
+        "news_link": "https://rejabar.republika.co.id/berita/td7eqd282/dari-mana-anggaran-motor-listrik-mbg-menkeu-purbaya-ungkap-asal-usulnya"
+    },
+    {
+        "title": "Curah Hujan Tinggi Tekan Produksi, PTPN IV PalmCo Jaga Kinerja Kopi Tetap Positif",
+        "category": "Ekonomi",
+        "publish_time": "09-04-2026 02:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/td7fic451/curah-hujan-tinggi-tekan-produksi-ptpn-iv-palmco-jaga-kinerja-kopi-tetap-positif"
+    },
+    {
+        "title": "Polda Riau Bangun Kolaborasi Strategis dengan Polisi Malaysia Tangani Narkotika hingga Terorisme",
+        "category": "News",
+        "publish_time": "09-04-2026 02:29",
+        "news_link": "https://news.republika.co.id/berita/td7fh1522/polda-riau-bangun-kolaborasi-strategis-dengan-polisi-malaysia-tangani-narkotika-hingga-terorisme"
+    },
+    {
+        "title": "Komisi III Apresiasi Kinerja Positif Bank BJB Padalarang",
+        "category": "Rejabar",
+        "publish_time": "09-04-2026 02:29",
+        "news_link": "https://rejabar.republika.co.id/berita/td7f57472/komisi-iii-apresiasi-kinerja-positif-bank-bjb-padalarang"
+    },
+    {
+        "title": "Penggunaan Obat Tetes Mata Bersteroid Bisa Memicu Katarak",
+        "category": "Ameera",
+        "publish_time": "09-04-2026 02:29",
+        "news_link": "https://ameera.republika.co.id/berita/td7ez7328/penggunaan-obat-tetes-mata-bersteroid-bisa-memicu-katarak"
+    },
+    {
+        "title": "MyRepublic Indonesia, FTTH dan FWA Dukung Percepatan Akses Digital",
+        "category": "Ameera",
+        "publish_time": "09-04-2026 01:29",
+        "news_link": "https://ameera.republika.co.id/berita/td7eo3456/myrepublic-indonesia-ftth-dan-fwa-dukung-percepatan-akses-digital"
+    },
+    {
+        "title": "Presiden Prabowo: Biaya Haji 2026 Turun Rp2 Juta Meski Harga Avtur Pesawat Naik",
+        "category": "Rejogja",
+        "publish_time": "09-04-2026 01:29",
+        "news_link": "https://rejogja.republika.co.id/berita/td7e8d282/presiden-prabowo-biaya-haji-2026-turun-rp2-juta-meski-harga-avtur-pesawat-naik"
+    },
+    {
         "title": "FLEI Business Show 2026 Buka Peluang Usaha di Tengah Dinamika Ekonomi",
         "category": "Ekonomi",
-        "publish_time": "09-04-2026 01:43",
+        "publish_time": "09-04-2026 01:29",
         "news_link": "https://ekonomi.republika.co.id/berita/td68t4456/flei-business-show-2026-buka-peluang-usaha-di-tengah-dinamika-ekonomi"
     },
     {
         "title": "Katarak Kerap Dialami Penderitanya Tanpa Sadar",
         "category": "Ameera",
-        "publish_time": "09-04-2026 01:39",
+        "publish_time": "09-04-2026 01:29",
         "news_link": "https://ameera.republika.co.id/berita/td7dxq328/katarak-kerap-dialami-penderitanya-tanpa-sadar"
     },
     {
         "title": "World Bank: Tekanan Energi Picu Kenaikan Harga Plastik, UMKM Terdampak",
         "category": "Ekonomi",
-        "publish_time": "09-04-2026 01:37",
+        "publish_time": "09-04-2026 01:29",
         "news_link": "https://ekonomi.republika.co.id/berita/td7dvn416/world-bank-tekanan-energi-picu-kenaikan-harga-plastik-umkm-terdampak"
     },
     {
         "title": "Indonesia Buka Turnamen ASEAN U-17 Championship 2026 Lawan Timor Leste, Ini Jadwal Lengkapnya",
         "category": "News",
-        "publish_time": "09-04-2026 01:37",
+        "publish_time": "09-04-2026 01:29",
         "news_link": "https://news.republika.co.id/berita/td7duu348/indonesia-buka-turnamen-asean-u17-championship-2026-lawan-timor-leste-ini-jadwal-lengkapnya"
     },
     {
         "title": "Purbaya: Tambahan Rp 1,77 Triliun untuk Tutup Biaya Pesawat Haji dari APBN",
         "category": "Khazanah",
-        "publish_time": "09-04-2026 01:34",
+        "publish_time": "09-04-2026 01:29",
         "news_link": "https://khazanah.republika.co.id/berita/td7dpp366/purbaya-tambahan-rp-177-triliun-untuk-tutup-biaya-pesawat-haji-dari-apbn"
     },
     {
         "title": "Longsor Tutup Akses Jalan Cadas Pangeran Sumedang",
         "category": "Rejabar",
-        "publish_time": "09-04-2026 01:32",
+        "publish_time": "09-04-2026 01:29",
         "news_link": "https://rejabar.republika.co.id/berita/td7dmq282/longsor-tutup-akses-jalan-cadas-pangeran-sumedang"
     },
     {
         "title": "5.000 Warga Dapat Layanan Kesehatan Gratis di Lapas Cibinong",
         "category": "Esgnow",
-        "publish_time": "09-04-2026 01:30",
+        "publish_time": "09-04-2026 01:29",
         "news_link": "https://esgnow.republika.co.id/berita/td7dj4416/5000-warga-dapat-layanan-kesehatan-gratis-di-lapas-cibinong"
     },
     {
@@ -50,253 +230,73 @@
     {
         "title": "Liverpool Kalah 0-2 dari PSG, Van Dijk: Kami Harus Tampil Spesial di Anfield",
         "category": "News",
-        "publish_time": "09-04-2026 01:23",
+        "publish_time": "09-04-2026 01:29",
         "news_link": "https://news.republika.co.id/berita/td7d8b348/liverpool-kalah-02-dari-psg-van-dijk-kami-harus-tampil-spesial-di-anfield"
     },
     {
         "title": "PJU Ganda dan Pemeliharaan Jalan Jadi Catatan Komisi IV DPRD Jabar",
         "category": "Rejabar",
-        "publish_time": "09-04-2026 01:14",
+        "publish_time": "09-04-2026 01:29",
         "news_link": "https://rejabar.republika.co.id/berita/td7csm472/pju-ganda-dan-pemeliharaan-jalan-jadi-catatan-komisi-iv-dprd-jabar"
     },
     {
         "title": "Menggertakkan Gigi Saat Tidur Terkait Stres dan Sistem Saraf, Ini Kata Dokter",
         "category": "Ameera",
-        "publish_time": "09-04-2026 01:11",
+        "publish_time": "09-04-2026 01:29",
         "news_link": "https://ameera.republika.co.id/berita/td7cny328/menggertakkan-gigi-saat-tidur-terkait-stres-dan-sistem-saraf-ini-kata-dokter"
     },
     {
         "title": "Corporate Rebranding Antar BRI Jadi Merek Paling Bernilai dalam \u2018\u2019Global 500 2026\u2019\u2019",
         "category": "Ekonomi",
-        "publish_time": "09-04-2026 01:05",
+        "publish_time": "09-04-2026 01:29",
         "news_link": "https://ekonomi.republika.co.id/berita/td7cef472/corporate-rebranding-antar-bri-jadi-merek-paling-bernilai-dalam-global-500-2026"
     },
     {
         "title": "Meryl Streep Sebut Jadi Nenek Sebagai Momen Indah",
         "category": "Ameera",
-        "publish_time": "09-04-2026 01:00",
+        "publish_time": "09-04-2026 01:29",
         "news_link": "https://ameera.republika.co.id/berita/td7c58328/meryl-streep-sebut-jadi-nenek-sebagai-momen-indah"
     },
     {
         "title": "Arab Saudi Sambut Gencatan Senjata AS-Iran",
         "category": "Khazanah",
-        "publish_time": "09-04-2026 00:54",
+        "publish_time": "09-04-2026 00:29",
         "news_link": "https://khazanah.republika.co.id/berita/td7bvb430/arab-saudi-sambut-gencatan-senjata-asiran"
     },
     {
         "title": "Memilih Susu Formula Bukan Sekadar Merek: Fokus pada Komposisi dan Mutu",
         "category": "Ameera",
-        "publish_time": "09-04-2026 00:53",
+        "publish_time": "09-04-2026 00:29",
         "news_link": "https://ameera.republika.co.id/berita/td7bu0328/memilih-susu-formula-bukan-sekadar-merek-fokus-pada-komposisi-dan-mutu"
     },
     {
         "title": "Mandiri Institute: Penguatan Lapangan Kerja Berkualitas Kunci Dorong Resiliensi Kelas Menengah",
         "category": "Ekonomi",
-        "publish_time": "09-04-2026 00:49",
+        "publish_time": "09-04-2026 00:29",
         "news_link": "https://ekonomi.republika.co.id/berita/td7bnj472/mandiri-institute-penguatan-lapangan-kerja-berkualitas-kunci-dorong-resiliensi-kelas-menengah"
     },
     {
         "title": "Arab Saudi akan Bangun Bandara di Makkah",
         "category": "Khazanah",
-        "publish_time": "09-04-2026 00:48",
+        "publish_time": "09-04-2026 00:29",
         "news_link": "https://khazanah.republika.co.id/berita/td7blq430/arab-saudi-akan-bangun-bandara-di-makkah"
     },
     {
         "title": "Prabowo Minta Terminal Khusus Haji Indonesia di Arab Saudi",
         "category": "Khazanah",
-        "publish_time": "09-04-2026 00:48",
+        "publish_time": "09-04-2026 00:29",
         "news_link": "https://khazanah.republika.co.id/berita/td7bf2366/prabowo-minta-terminal-khusus-haji-indonesia-di-arab-saudi"
     },
     {
         "title": "Korsel Serahkan Satu Prototipe Jet Tempur Boramae ke RI Jika Bayar Rp 6,8 Triliun",
         "category": "News",
-        "publish_time": "09-04-2026 00:48",
+        "publish_time": "09-04-2026 00:29",
         "news_link": "https://news.republika.co.id/berita/td7af9484/korsel-serahkan-satu-prototipe-jet-tempur-boramae-ke-ri-jika-bayar-rp-68-triliun"
     },
     {
         "title": "Kemitraan Jadi Kunci Usaha Kecil Perluas Pasar",
         "category": "Ekonomi",
-        "publish_time": "08-04-2026 23:48",
+        "publish_time": "09-04-2026 00:29",
         "news_link": "https://ekonomi.republika.co.id/berita/td79x9416/kemitraan-jadi-kunci-usaha-kecil-perluas-pasar"
-    },
-    {
-        "title": "63 Pejabat dan ASN Pemkab Pekalongan Diperiksa KPK Buntut OTT Fadia Arafiq",
-        "category": "News",
-        "publish_time": "08-04-2026 23:48",
-        "news_link": "https://news.republika.co.id/berita/td6jmu487/63-pejabat-dan-asn-pemkab-pekalongan-diperiksa-kpk-buntut-ott-fadia-arafiq"
-    },
-    {
-        "title": "Masjid Al Aqsa dan Gereja Makam Suci Dibuka Kembali Setelah Ditutup Israel",
-        "category": "Khazanah",
-        "publish_time": "08-04-2026 23:48",
-        "news_link": "https://khazanah.republika.co.id/berita/td79ir320/masjid-al-aqsa-dan-gereja-makam-suci-dibuka-kembali-setelah-ditutup-israel"
-    },
-    {
-        "title": "Petugas Dishub Jakarta Juga Ketahuan Pakai Foto Editan untuk Respons Laporan Warga di JAKI",
-        "category": "News",
-        "publish_time": "08-04-2026 23:48",
-        "news_link": "https://news.republika.co.id/berita/td79a5348/petugas-dishub-jakarta-juga-ketahuan-pakai-foto-editan-untuk-respons-laporan-warga-di-jaki"
-    },
-    {
-        "title": "Kemarau Datang Lebih Cepat, Waspada Potensi Cuaca Labil Pancaroba",
-        "category": "Esgnow",
-        "publish_time": "08-04-2026 23:48",
-        "news_link": "https://esgnow.republika.co.id/berita/td78y3416/kemarau-datang-lebih-cepat-waspada-potensi-cuaca-labil-pancaroba"
-    },
-    {
-        "title": "Pemerintah Janji Rasio Utang di Bawah 40 Persen dan Defisit APBN Kurang 3 Persen",
-        "category": "Ekonomi",
-        "publish_time": "08-04-2026 23:48",
-        "news_link": "https://ekonomi.republika.co.id/berita/td78x2484/pemerintah-janji-rasio-utang-di-bawah-40-persen-dan-defisit-apbn-kurang-3-persen"
-    },
-    {
-        "title": "Hasil Leg 1 Perempat Final Liga Champions: Real Madrid dan Barcelona Kompak Kalah di Kandang Sendiri",
-        "category": "News",
-        "publish_time": "08-04-2026 23:48",
-        "news_link": "https://news.republika.co.id/berita/td78wb348/hasil-leg-1-perempat-final-liga-champions-real-madrid-dan-barcelona-kompak-kalah-di-kandang-sendiri"
-    },
-    {
-        "title": "Pertamina Patra Niaga Lakukan Make Over 1.802 SPBU, Tingkatkan Kenyamanan dan Layanan",
-        "category": "Ekonomi",
-        "publish_time": "08-04-2026 23:48",
-        "news_link": "https://ekonomi.republika.co.id/berita/td78rz522/pertamina-patra-niaga-lakukan-make-over-1802-spbu-tingkatkan-kenyamanan-dan-layanan"
-    },
-    {
-        "title": "Israel Kembali Bunuh Jurnalis Aljazeera di Gaza",
-        "category": "News",
-        "publish_time": "08-04-2026 23:48",
-        "news_link": "https://news.republika.co.id/berita/td78k6393/israel-kembali-bunuh-jurnalis-aljazeera-di-gaza"
-    },
-    {
-        "title": "BNI Akan Tutup Internet Banking pada 4 Mei, Nasabah Harus Lakukan Ini",
-        "category": "Ekonomi",
-        "publish_time": "08-04-2026 23:48",
-        "news_link": "https://ekonomi.republika.co.id/berita/td785g502/bni-akan-tutup-internet-banking-pada-4-mei-nasabah-harus-lakukan-ini"
-    },
-    {
-        "title": "Angkatan Bersenjata Iran Deklarasikan Kemenangan atas AS-Israel",
-        "category": "Khazanah",
-        "publish_time": "08-04-2026 23:48",
-        "news_link": "https://khazanah.republika.co.id/berita/td784x430/angkatan-bersenjata-iran-deklarasikan-kemenangan-atas-asisrael"
-    },
-    {
-        "title": "Tiga Tantangan Besar Haji 2026, Dari Lonjakan Jamaah Lansia hingga Geopolitik Global",
-        "category": "Khazanah",
-        "publish_time": "08-04-2026 23:48",
-        "news_link": "https://khazanah.republika.co.id/berita/td775r430/tiga-tantangan-besar-haji-2026-dari-lonjakan-jamaah-lansia-hingga-geopolitik-global"
-    },
-    {
-        "title": "Kepala BGN Jelaskan Pengadaan 21 Ribu Motor Listrik Asal Citeureup",
-        "category": "News",
-        "publish_time": "08-04-2026 23:48",
-        "news_link": "https://news.republika.co.id/berita/td77p0484/kepala-bgn-jelaskan-pengadaan-21-ribu-motor-listrik-asal-citeureup"
-    },
-    {
-        "title": "Permintaan LPG Terus Naik, Tekanan Pasokan Meningkat",
-        "category": "Ekonomi",
-        "publish_time": "08-04-2026 23:48",
-        "news_link": "https://ekonomi.republika.co.id/berita/td77l6502/permintaan-lpg-terus-naik-tekanan-pasokan-meningkat"
-    },
-    {
-        "title": "Unpad Segera Berlakukan WFH Pegawai dan Mahasiswa",
-        "category": "News",
-        "publish_time": "08-04-2026 23:48",
-        "news_link": "https://news.republika.co.id/berita/td6ixl487/unpad-segera-berlakukan-wfh-pegawai-dan-mahasiswa"
-    },
-    {
-        "title": "PSG Buang Peluang Habisi Liverpool Lebih Cepat, The Reds Masih Punya Harapan Comeback di Anfield",
-        "category": "News",
-        "publish_time": "08-04-2026 22:48",
-        "news_link": "https://news.republika.co.id/berita/td77dc348/psg-buang-peluang-habisi-liverpool-lebih-cepat-the-reds-masih-punya-harapan-comeback-di-anfield"
-    },
-    {
-        "title": "AS dan Iran Sepakat Gencatan Senjata, Netanyahu Tegaskan akan Lanjutkan Perang",
-        "category": "News",
-        "publish_time": "08-04-2026 22:48",
-        "news_link": "https://news.republika.co.id/berita/td77aq409/as-dan-iran-sepakat-gencatan-senjata-netanyahu-tegaskan-akan-lanjutkan-perang"
-    },
-    {
-        "title": "Avtur Pesawat Naik, Penyesuaian Biaya Haji akan Ditutup dengan APBN dan BPKH",
-        "category": "Khazanah",
-        "publish_time": "08-04-2026 22:48",
-        "news_link": "https://khazanah.republika.co.id/berita/td76xi430/avtur-pesawat-naik-penyesuaian-biaya-haji-akan-ditutup-dengan-apbn-dan-bpkh"
-    },
-    {
-        "title": "Israel Terus Bantai Warga Lebanon, Iran Tutup Lagi Selat Hormuz",
-        "category": "News",
-        "publish_time": "08-04-2026 22:48",
-        "news_link": "https://news.republika.co.id/berita/td76uv393/israel-terus-bantai-warga-lebanon-iran-tutup-lagi-selat-hormuz"
-    },
-    {
-        "title": "Kedisiplinan dan Efektivitas Serangan Atletico Buat 10 Pemain Barcelona Bertekuk Lutut di Camp Nou",
-        "category": "News",
-        "publish_time": "08-04-2026 22:48",
-        "news_link": "https://news.republika.co.id/berita/td76fp348/kedisiplinan-dan-efektivitas-serangan-atletico-buat-10-pemain-barcelona-bertekuk-lutut-di-camp-nou"
-    },
-    {
-        "title": "KPK Periksa 63 Pejabat dan ASN Pemkab Pekalongan Buntut OTT Eks Bupati Pekalongan Fadia Arafiq",
-        "category": "Rejogja",
-        "publish_time": "08-04-2026 22:48",
-        "news_link": "https://rejogja.republika.co.id/berita/td6x26282/kpk-periksa-63-pejabat-dan-asn-pemkab-pekalongan-buntut-ott-eks-bupati-pekalongan-fadia-arafiq"
-    },
-    {
-        "title": "Sekda Jateng Sebut Insentif Pajak EV hingga Pemangkasan Angka Perokok Kikis PAD",
-        "category": "Rejogja",
-        "publish_time": "08-04-2026 22:48",
-        "news_link": "https://rejogja.republika.co.id/berita/td6wy6282/sekda-jateng-sebut-insentif-pajak-ev-hingga-pemangkasan-angka-perokok-kikis-pad"
-    },
-    {
-        "title": "Nilai Ekspor di Jateng Turun 300 Juta Dolar AS Akibat Konflik di Timur Tengah",
-        "category": "Rejogja",
-        "publish_time": "08-04-2026 21:48",
-        "news_link": "https://rejogja.republika.co.id/berita/td6wsx282/nilai-ekspor-di-jateng-turun-300-juta-dolar-as-akibat-konflik-di-timur-tengah"
-    },
-    {
-        "title": "Patrick Kluivert Akan Tampil di Pertandingan Legenda Barcelona di Jakarta",
-        "category": "News",
-        "publish_time": "08-04-2026 21:48",
-        "news_link": "https://news.republika.co.id/berita/td73377830000/patrick-kluivert-akan-tampil-di-pertandingan-legenda-barcelona-di-jakarta"
-    },
-    {
-        "title": "Anggota SPN Polda Jateng Diduga Videokan Senior Polwan di Kamar Mandi, Kini Dilaporkan ke Provos",
-        "category": "Rejogja",
-        "publish_time": "08-04-2026 20:48",
-        "news_link": "https://rejogja.republika.co.id/berita/td6wm2282/anggota-spn-polda-jateng-diduga-videokan-senior-polwan-di-kamar-mandi-kini-dilaporkan-ke-provos"
-    },
-    {
-        "title": "Polres Tangerang Kota Tangkap Tiga Pencuri Aluminium di Kosambi",
-        "category": "News",
-        "publish_time": "08-04-2026 20:48",
-        "news_link": "https://news.republika.co.id/berita/td71p75730000/polres-tangerang-kota-tangkap-tiga-pencuri-aluminium-di-kosambi"
-    },
-    {
-        "title": "Ekspor Industri Tekstil dan Alas Kaki di Jateng Terpukul Konflik Timteng",
-        "category": "Rejogja",
-        "publish_time": "08-04-2026 20:48",
-        "news_link": "https://rejogja.republika.co.id/berita/td6wgd282/ekspor-industri-tekstil-dan-alas-kaki-di-jateng-terpukul-konflik-timteng"
-    },
-    {
-        "title": "1.216 Personel Gabungan Amankan Paskah Nasional di Manado",
-        "category": "News",
-        "publish_time": "08-04-2026 20:48",
-        "news_link": "https://news.republika.co.id/berita/td70ba9530000/1216-personel-gabungan-amankan-paskah-nasional-di-manado"
-    },
-    {
-        "title": "Pemkot Ambon Siapkan Penataan Kawasan Pesisir dengan Pasar Batu Merah",
-        "category": "News",
-        "publish_time": "08-04-2026 20:48",
-        "news_link": "https://news.republika.co.id/berita/td6zm91930000/pemkot-ambon-siapkan-penataan-kawasan-pesisir-dengan-pasar-batu-merah"
-    },
-    {
-        "title": "Marak OTT KPK di Jateng Dipicu Rendahnya Integritas Penyelenggara Negara",
-        "category": "Rejogja",
-        "publish_time": "08-04-2026 20:48",
-        "news_link": "https://rejogja.republika.co.id/berita/td6wbe282/marak-ott-kpk-di-jateng-dipicu-rendahnya-integritas-penyelenggara-negara"
-    },
-    {
-        "title": "Kanwil Kemenkum Babel dan PLN UIW Babel Dukung Pendaftaran Merek UMK",
-        "category": "News",
-        "publish_time": "08-04-2026 19:48",
-        "news_link": "https://news.republika.co.id/berita/td6ye63030000/kanwil-kemenkum-babel-dan-pln-uiw-babel-dukung-pendaftaran-merek-umk"
     }
 ]
