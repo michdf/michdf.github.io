@@ -1,9 +1,165 @@
 [
     {
-        "title": "IndonesiaAS Perkuat Kerja Sama Pertahanan",
+        "title": "Ekonomi RI Diproyeksi Tumbuh 5,2 Persen, Daya Beli Warga Tetap Terjaga",
+        "category": "Ekonomi",
+        "publish_time": "14-04-2026 09:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/tdh7wr423/ekonomi-ri-diproyeksi-tumbuh-52-persen-daya-beli-warga-tetap-terjaga"
+    },
+    {
+        "title": "Genjot Transformasi, Bank Jakarta Raih TOP BUMD",
+        "category": "Ekonomi",
+        "publish_time": "14-04-2026 09:05",
+        "news_link": "https://ekonomi.republika.co.id/berita/tdh7w8416/genjot-transformasi-bank-jakarta-raih-top-bumd"
+    },
+    {
+        "title": "Beredar Informasi Gus Ipul Jadi Ketua Panitia Muktamar NU, Ini Respons Gus Yahya",
+        "category": "Khazanah",
+        "publish_time": "14-04-2026 09:01",
+        "news_link": "https://khazanah.republika.co.id/berita/tdh7qj483/beredar-informasi-gus-ipul-jadi-ketua-panitia-muktamar-nu-ini-respons-gus-yahya"
+    },
+    {
+        "title": "KDM Ajak Gen Z Prioritaskan Cicil Rumah Ketimbang Pesta Nikahan Mewah",
+        "category": "Ekonomi",
+        "publish_time": "14-04-2026 08:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/tdh7hm472/kdm-ajak-gen-z-prioritaskan-cicil-rumah-ketimbang-pesta-nikahan-mewah"
+    },
+    {
+        "title": "Pramono Sebut Pembangunan Trem Perlu Kajian Mendalam",
+        "category": "News",
+        "publish_time": "14-04-2026 08:49",
+        "news_link": "https://news.republika.co.id/berita/tdh764484/pramono-sebut-pembangunan-trem-perlu-kajian-mendalam"
+    },
+    {
+        "title": "Tetap Bekerja Profesional Meski WFH",
+        "category": "Kolom",
+        "publish_time": "14-04-2026 08:47",
+        "news_link": "https://analisis.republika.co.id/berita/tdh72u483/tetap-bekerja-profesional-meski-wfh"
+    },
+    {
+        "title": "Menkeu Purbaya Yakinkan Investor Global soal Kuatnya Fiskal Indonesia",
+        "category": "Ekonomi",
+        "publish_time": "14-04-2026 08:44",
+        "news_link": "https://ekonomi.republika.co.id/berita/tdh6q0423/menkeu-purbaya-yakinkan-investor-global-soal-kuatnya-fiskal-indonesia"
+    },
+    {
+        "title": "AS Gelontorkan 2 Triliun Dolar untuk AI, China Justru Ikut Diuntungkan",
+        "category": "Ameera",
+        "publish_time": "14-04-2026 08:43",
+        "news_link": "https://ameera.republika.co.id/berita/tdh6w3451/as-gelontorkan-2-triliun-dolar-untuk-ai-china-justru-ikut-diuntungkan"
+    },
+    {
+        "title": "Menteri Ara: Sinergi Pemerintah-Perbankan Ciptakan Ekosistem Pemberdayaan Ekonomi",
+        "category": "Ekonomi",
+        "publish_time": "14-04-2026 08:37",
+        "news_link": "https://ekonomi.republika.co.id/berita/tdh6ng472/menteri-ara-sinergi-pemerintahperbankan-ciptakan-ekosistem-pemberdayaan-ekonomi"
+    },
+    {
+        "title": "Laporan Media: Tim Negosiasi AS dan Iran akan Kembali ke Islamabad Akhir Pekan Ini",
+        "category": "News",
+        "publish_time": "14-04-2026 08:37",
+        "news_link": "https://news.republika.co.id/berita/tdh6m9409/laporan-media-tim-negosiasi-as-dan-iran-akan-kembali-ke-islamabad-akhir-pekan-ini"
+    },
+    {
+        "title": "Gus Ipul Tegaskan Sekolah Rakyat tak Buka Pendaftaran Siswa",
+        "category": "News",
+        "publish_time": "14-04-2026 08:32",
+        "news_link": "https://news.republika.co.id/berita/tdh6e9484/gus-ipul-tegaskan-sekolah-rakyat-tak-buka-pendaftaran-siswa"
+    },
+    {
+        "title": "Takut Diserang Milisi Pro-Iran, Kapal Induk AS Kelilingi Afrika untuk Sampai ke Timur Tengah",
+        "category": "News",
+        "publish_time": "14-04-2026 08:26",
+        "news_link": "https://news.republika.co.id/berita/tdh64c377/takut-diserang-milisi-proiran-kapal-induk-as-kelilingi-afrika-untuk-sampai-ke-timur-tengah"
+    },
+    {
+        "title": "Bank BJB Dukung Pembiayaan Perumahan UMKM di Jabar",
+        "category": "Ekonomi",
+        "publish_time": "14-04-2026 08:21",
+        "news_link": "https://ekonomi.republika.co.id/berita/tdh5vo472/bank-bjb-dukung-pembiayaan-perumahan-umkm-di-jabar"
+    },
+    {
+        "title": "Harga Daging Sapi Mulai Naik Jelang Idul Adha, Intervensi Digencarkan",
+        "category": "Ekonomi",
+        "publish_time": "14-04-2026 08:20",
+        "news_link": "https://ekonomi.republika.co.id/berita/tdh5uk416/harga-daging-sapi-mulai-naik-jelang-idul-adha-intervensi-digencarkan"
+    },
+    {
+        "title": "BMKG: 66 Persen Wilayah Jabar Dikepung Kemarau Lebih Awal dan Kering",
+        "category": "Esgnow",
+        "publish_time": "14-04-2026 08:15",
+        "news_link": "https://esgnow.republika.co.id/berita/tdh5m0370/bmkg-66-persen-wilayah-jabar-dikepung-kemarau-lebih-awal-dan-kering"
+    },
+    {
+        "title": "Panja DPR Dorong RUU Perlindungan Saksi dan Korban Segera Disahkan",
+        "category": "News",
+        "publish_time": "14-04-2026 08:14",
+        "news_link": "https://news.republika.co.id/berita/tdh5kf416/panja-dpr-dorong-ruu-perlindungan-saksi-dan-korban-segera-disahkan"
+    },
+    {
+        "title": "Tak Sepakat dengan AS, Saudi Lawan Upaya Trump Blokade Pelabuhan Iran",
+        "category": "News",
+        "publish_time": "14-04-2026 08:14",
+        "news_link": "https://news.republika.co.id/berita/tdh5ju377/tak-sepakat-dengan-as-saudi-lawan-upaya-trump-blokade-pelabuhan-iran"
+    },
+    {
+        "title": "Pertamina: Informasi Pendaftaran Pangkalan LPG Berbayar adalah Hoaks",
+        "category": "Ekonomi",
+        "publish_time": "14-04-2026 08:13",
+        "news_link": "https://ekonomi.republika.co.id/berita/tdh5hz423/pertamina-informasi-pendaftaran-pangkalan-lpg-berbayar-adalah-hoaks"
+    },
+    {
+        "title": "AMPHURI: Saudi Masih Keluarkan Visa Haji Mujamalah, yang Disetop Furoda",
+        "category": "Khazanah",
+        "publish_time": "14-04-2026 08:11",
+        "news_link": "https://khazanah.republika.co.id/berita/tdh55a483/amphuri-saudi-masih-keluarkan-visa-haji-mujamalah-yang-disetop-furoda"
+    },
+    {
+        "title": "Pakar: Indonesia Berpeluang Beli Minyak Rusia Rp 59 Dolar AS per Barel",
+        "category": "Ekonomi",
+        "publish_time": "14-04-2026 08:11",
+        "news_link": "https://ekonomi.republika.co.id/berita/tdh51e423/pakar-indonesia-berpeluang-beli-minyak-rusia-rp-59-dolar-as-per-barel"
+    },
+    {
+        "title": "Alasan Prabowo Kunjungi Rusia Konsultasi Geopolitik dan Kerja Sama Energi",
         "category": "Video",
-        "publish_time": "14-04-2026 07:14",
-        "news_link": "https://republika.co.id/page/shorts/yt-tdh2t12090677485/indonesiaas-perkuat-kerja-sama-pertahanan"
+        "publish_time": "14-04-2026 08:11",
+        "news_link": "https://republika.co.id/page/shorts/yt-tdh4w2466601342/alasan-prabowo-kunjungi-rusia-konsultasi-geopolitik-dan-kerja-sama-energi"
+    },
+    {
+        "title": "Parpol Bisa Sponsori Nama Halte dan Stasiun di Jakarta, Pramono Siapkan Aturan",
+        "category": "News",
+        "publish_time": "14-04-2026 08:11",
+        "news_link": "https://news.republika.co.id/berita/tdh4u0409/parpol-bisa-sponsori-nama-halte-dan-stasiun-di-jakarta-pramono-siapkan-aturan"
+    },
+    {
+        "title": "Trump Kritik Paus, Begini Respons Perdana Menteri Italia Meloni",
+        "category": "News",
+        "publish_time": "14-04-2026 08:11",
+        "news_link": "https://news.republika.co.id/berita/tdh4qn451/trump-kritik-paus-begini-respons-perdana-menteri-italia-meloni"
+    },
+    {
+        "title": "Iran Tuntut Lima Negara Arab Bayar Reparasi Kerusakan Akibat Agresi AS",
+        "category": "News",
+        "publish_time": "14-04-2026 08:11",
+        "news_link": "https://news.republika.co.id/berita/tdh464409/iran-tuntut-lima-negara-arab-bayar-reparasi-kerusakan-akibat-agresi-as"
+    },
+    {
+        "title": "Iran Kecam Penodaan Masjid Al Aqsa oleh Menteri Israel",
+        "category": "Khazanah",
+        "publish_time": "14-04-2026 07:11",
+        "news_link": "https://khazanah.republika.co.id/berita/tdh418430/iran-kecam-penodaan-masjid-al-aqsa-oleh-menteri-israel"
+    },
+    {
+        "title": "Peran BUMN Energi di Tengah Krisis Global Dinilai Perlu Diperkuat",
+        "category": "Ekonomi",
+        "publish_time": "14-04-2026 07:11",
+        "news_link": "https://ekonomi.republika.co.id/berita/tdh35q430/peran-bumn-energi-di-tengah-krisis-global-dinilai-perlu-diperkuat"
+    },
+    {
+        "title": "Indonesia-AS Perkuat Kerja Sama Pertahanan",
+        "category": "Video",
+        "publish_time": "14-04-2026 07:11",
+        "news_link": "https://republika.co.id/page/shorts/yt-tdh2t12090677485/indonesia-as-perkuat-kerja-sama-pertahanan"
     },
     {
         "title": "Konsumsi Minyakita Melejit Gara-Gara Harga Plastik Naik, Kok Bisa?",
@@ -14,289 +170,133 @@
     {
         "title": "Polsek Pasar Minggu Diduga Abaikan Orang Hilang yang Sudah Lansia, Kapolsek Beri Klarifikasi",
         "category": "Rejakarta",
-        "publish_time": "14-04-2026 07:06",
+        "publish_time": "14-04-2026 07:11",
         "news_link": "https://republika.co.id/berita//tdh2cr282/polsek-pasar-minggu-diduga-abaikan-orang-hilang-yang-sudah-lansia-kapolsek-beri-klarifikasi"
     },
     {
         "title": "Sunat Perempuan, Bolehkah? Ini Penjelasan Muhammadiyah",
         "category": "Khazanah",
-        "publish_time": "14-04-2026 06:59",
+        "publish_time": "14-04-2026 07:11",
         "news_link": "https://khazanah.republika.co.id/berita/tdgzal458/sunat-perempuan-bolehkah-ini-penjelasan-muhammadiyah"
     },
     {
         "title": "Luthfi Minta Koperasi di Jateng Bantu Masyarakat Lepas dari Jerat Pinjol dan Rentenir",
         "category": "Rejogja",
-        "publish_time": "14-04-2026 06:57",
+        "publish_time": "14-04-2026 07:11",
         "news_link": "https://rejogja.republika.co.id/berita/tdh1m8282/luthfi-minta-koperasi-di-jateng-bantu-masyarakat-lepas-dari-jerat-pinjol-dan-rentenir"
     },
     {
         "title": "Dari Bantul, PT Samku Glove Indonesia Ekspor 147 Karton Sarung Tangan ke Amerika",
         "category": "Beacukai",
-        "publish_time": "14-04-2026 06:53",
+        "publish_time": "14-04-2026 07:11",
         "news_link": "https://republika.co.id/berita//tdh1th368/dari-bantul-pt-samku-glove-indonesia-ekspor-147-karton-sarung-tangan-ke-amerika"
     },
     {
         "title": "Harga Minyak Terkoreksi Usai Sentuh 100 Dolar AS, Pasar Nantikan Negosiasi AS-Iran",
         "category": "Ekonomi",
-        "publish_time": "14-04-2026 06:53",
+        "publish_time": "14-04-2026 07:11",
         "news_link": "https://ekonomi.republika.co.id/berita/tdh1so423/harga-minyak-terkoreksi-usai-sentuh-100-dolar-as-pasar-nantikan-negosiasi-asiran"
     },
     {
         "title": "Bea Cukai Batam Gagalkan Peyelundupan 337 Unit HP dalam Bak Truk Pikap",
         "category": "Beacukai",
-        "publish_time": "14-04-2026 06:43",
+        "publish_time": "14-04-2026 07:11",
         "news_link": "https://republika.co.id/berita//tdh1c5368/bea-cukai-batam-gagalkan-peyelundupan-337-unit-hp-dalam-bak-truk-pikap"
     },
     {
         "title": "Dulu Beli Mobil Dinas Rp8 Miliar, Kini Gubernur Kaltim Viral karena Renovasi Rumah Rp25 Miliar",
         "category": "Rejogja",
-        "publish_time": "14-04-2026 06:41",
+        "publish_time": "14-04-2026 06:11",
         "news_link": "https://rejogja.republika.co.id/berita/tdh1a1282/dulu-beli-mobil-dinas-rp8-miliar-kini-gubernur-kaltim-viral-karena-renovasi-rumah-rp25-miliar"
     },
     {
         "title": "Garap Proyek Pengolahan Sampah, Danantara Prioritaskan Teknologi yang Sudah Terbukti",
         "category": "Esgnow",
-        "publish_time": "14-04-2026 06:41",
+        "publish_time": "14-04-2026 06:11",
         "news_link": "https://esgnow.republika.co.id/berita/tdh18p490/garap-proyek-pengolahan-sampah-danantara-prioritaskan-teknologi-yang-sudah-terbukti"
     },
     {
         "title": "Adhi Karya Lakukan Fundamental Business Review untuk Perkuat Kinerja",
         "category": "Ekonomi",
-        "publish_time": "14-04-2026 06:40",
+        "publish_time": "14-04-2026 06:11",
         "news_link": "https://ekonomi.republika.co.id/berita/tdh15x416/adhi-karya-lakukan-fundamental-business-review-untuk-perkuat-kinerja"
     },
     {
         "title": "Indonesia Tingkatkan Kerja Sama Militer dengan AS, Izin Lintas Udara Jet Amerika tak Masuk LoI",
         "category": "News",
-        "publish_time": "14-04-2026 06:33",
+        "publish_time": "14-04-2026 06:11",
         "news_link": "https://news.republika.co.id/berita/tdh0wi377/indonesia-tingkatkan-kerja-sama-militer-dengan-as-izin-lintas-udara-jet-amerika-tak-masuk-loi"
     },
     {
         "title": "Ditanya Soal War Ticket, BPKH Ungkap Haji Harus Non-Diskriminasi",
         "category": "Khazanah",
-        "publish_time": "14-04-2026 06:33",
+        "publish_time": "14-04-2026 06:11",
         "news_link": "https://khazanah.republika.co.id/berita/tdh0vk483/ditanya-soal-war-ticket-bpkh-ungkap-haji-harus-nondiskriminasi"
     },
     {
         "title": "Kisah Ahli Neraka yang Dikira Syahid di Dunia",
         "category": "Khazanah",
-        "publish_time": "14-04-2026 06:29",
+        "publish_time": "14-04-2026 06:11",
         "news_link": "https://khazanah.republika.co.id/berita/tdgytr458/kisah-ahli-neraka-yang-dikira-syahid-di-dunia"
     },
     {
         "title": "Pasar Mobil RI Masih Dikuasai Jepang, Merek China Mulai Menggoyang",
         "category": "Ekonomi",
-        "publish_time": "14-04-2026 06:28",
+        "publish_time": "14-04-2026 06:11",
         "news_link": "https://ekonomi.republika.co.id/berita/tdh0o7370/pasar-mobil-ri-masih-dikuasai-jepang-merek-china-mulai-menggoyang"
     },
     {
         "title": "BMKG Wanti-Wanti, Musim Kemarau di Jabar akan Berlangsung Lebih Cepat, Panjang, dan Kering",
         "category": "Rejabar",
-        "publish_time": "14-04-2026 06:22",
+        "publish_time": "14-04-2026 06:11",
         "news_link": "https://rejabar.republika.co.id/berita/tdh0dq487/bmkg-wantiwanti-musim-kemarau-di-jabar-akan-berlangsung-lebih-cepat-panjang-dan-kering"
     },
     {
         "title": "Tiga Agenda Strategis Wakaf Nasional Digelar di Istiqlal",
         "category": "Khazanah",
-        "publish_time": "14-04-2026 06:22",
+        "publish_time": "14-04-2026 06:11",
         "news_link": "https://khazanah.republika.co.id/berita/tdh0dg451/tiga-agenda-strategis-wakaf-nasional-digelar-di-istiqlal"
     },
     {
         "title": "Sidak Pasar, Harga Daging Sapi Ditemukan Tembus Rp150 Ribu per Kilogram",
         "category": "Ekonomi",
-        "publish_time": "14-04-2026 06:22",
+        "publish_time": "14-04-2026 06:11",
         "news_link": "https://ekonomi.republika.co.id/berita/tdh03h490/sidak-pasar-harga-daging-sapi-ditemukan-tembus-rp150-ribu-per-kilogram"
     },
     {
         "title": "Kawasan Rendah Emisi di Jakarta Efektif Tekan Polusi Udara hingga 30 Persen",
         "category": "Esgnow",
-        "publish_time": "14-04-2026 06:22",
+        "publish_time": "14-04-2026 06:11",
         "news_link": "https://esgnow.republika.co.id/berita/tdh02y423/kawasan-rendah-emisi-di-jakarta-efektif-tekan-polusi-udara-hingga-30-persen"
     },
     {
         "title": "Biznet Perkuat Infrastruktur, Rayakan Gaya Hidup Digital Lewat Biznet Festival Surabaya 2026",
         "category": "Ekonomi",
-        "publish_time": "14-04-2026 06:22",
+        "publish_time": "14-04-2026 06:11",
         "news_link": "https://ekonomi.republika.co.id/berita/tdgzxu368/biznet-perkuat-infrastruktur-rayakan-gaya-hidup-digital-lewat-biznet-festival-surabaya-2026"
     },
     {
         "title": "Kapal China 'Bobol' Blokade AS di Selat Hormuz",
         "category": "News",
-        "publish_time": "14-04-2026 06:22",
+        "publish_time": "14-04-2026 06:11",
         "news_link": "https://news.republika.co.id/berita/tdgzqy377/kapal-china-bobol-blokade-as-di-selat-hormuz"
     },
     {
         "title": "Polisi Periksa SOP Perawatan Imbas Kasus Bayi Hampir Tertukar di RSHS Bandung",
         "category": "Rejabar",
-        "publish_time": "14-04-2026 06:22",
+        "publish_time": "14-04-2026 06:11",
         "news_link": "https://rejabar.republika.co.id/berita/tdgzqm487/polisi-periksa-sop-perawatan-imbas-kasus-bayi-hampir-tertukar-di-rshs-bandung"
     },
     {
         "title": "20 Aglomerasi Jadi Prioritas PSEL, Pemerintah Genjot Pengolahan Sampah",
         "category": "Esgnow",
-        "publish_time": "14-04-2026 06:22",
+        "publish_time": "14-04-2026 06:11",
         "news_link": "https://esgnow.republika.co.id/berita/tdgxd0370/20-aglomerasi-jadi-prioritas-psel-pemerintah-genjot-pengolahan-sampah"
     },
     {
         "title": "Pertamina Patra Niaga Tegaskan Informasi Pendaftaran Pangkalan LPG Berbayar adalah Hoax",
         "category": "Ekonomi",
-        "publish_time": "14-04-2026 06:22",
+        "publish_time": "14-04-2026 06:11",
         "news_link": "https://ekonomi.republika.co.id/berita/tdgze3522/pertamina-patra-niaga-tegaskan-informasi-pendaftaran-pangkalan-lpg-berbayar-adalah-hoax"
-    },
-    {
-        "title": "Sentimen Domestik Lemah, Rupiah Turun Tipis ke Level Rp 17.130, IHSG Menguat ke 7.598",
-        "category": "Ekonomi",
-        "publish_time": "14-04-2026 06:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/tdgzb8423/sentimen-domestik-lemah-rupiah-turun-tipis-ke-level-rp-17130-ihsg-menguat-ke-7598"
-    },
-    {
-        "title": "IWIP Kelola FABA Secara Terukur guna Menjaga Kualitas Lingkungan",
-        "category": "Esgnow",
-        "publish_time": "14-04-2026 06:22",
-        "news_link": "https://esgnow.republika.co.id/berita/tdgzb5522/iwip-kelola-faba-secara-terukur-guna-menjaga-kualitas-lingkungan"
-    },
-    {
-        "title": "Pelecehan Seksual Mahasiswa, Bagaimana Menyikapinya?",
-        "category": "Kolom",
-        "publish_time": "14-04-2026 06:22",
-        "news_link": "https://analisis.republika.co.id/berita/tdgz1r393/pelecehan-seksual-mahasiswa-bagaimana-menyikapinya"
-    },
-    {
-        "title": "Indeks Keyakinan Konsumen Melorot, Ini Penjelasan Bank Indonesia",
-        "category": "Ekonomi",
-        "publish_time": "14-04-2026 05:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/tdgyxo490/indeks-keyakinan-konsumen-melorot-ini-penjelasan-bank-indonesia"
-    },
-    {
-        "title": "Syahidnya Abu Ubaidah",
-        "category": "Khazanah",
-        "publish_time": "14-04-2026 05:22",
-        "news_link": "https://khazanah.republika.co.id/berita/tdgyd4458/syahidnya-abu-ubaidah"
-    },
-    {
-        "title": "Polisi Aktif Terima Rp 16 Miliar dari Proyek di Bekasi, KPK: Sudah Tertuang di BAP",
-        "category": "News",
-        "publish_time": "14-04-2026 05:22",
-        "news_link": "https://news.republika.co.id/berita/tdgy2g377/polisi-aktif-terima-rp-16-miliar-dari-proyek-di-bekasi-kpk-sudah-tertuang-di-bap"
-    },
-    {
-        "title": "Kredit di Bawah Rp 1 Juta tak Lagi Tercatat dalam SLIK, Ini Penjelasan OJK",
-        "category": "Ekonomi",
-        "publish_time": "14-04-2026 05:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/tdgxux490/kredit-di-bawah-rp-1-juta-tak-lagi-tercatat-dalam-slik-ini-penjelasan-ojk"
-    },
-    {
-        "title": "Investor Ritel Butuh Data Real Time di Tengah Volatilitas",
-        "category": "Ekonomi",
-        "publish_time": "14-04-2026 05:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/tdgxrm416/investor-ritel-butuh-data-real-time-di-tengah-volatilitas"
-    },
-    {
-        "title": "Biaya Kuliah Jadi Momok? Ini Cara Cerdas Kuliah Terjangkau di Kampus Digital Bisnis 2026",
-        "category": "News",
-        "publish_time": "14-04-2026 05:22",
-        "news_link": "https://news.republika.co.id/berita/tdgx0a368/biaya-kuliah-jadi-momok-ini-cara-cerdas-kuliah-terjangkau-di-kampus-digital-bisnis-2026"
-    },
-    {
-        "title": "SPSL Catatkan Kenaikan Kinerja 2025, Layanan Pelabuhan dan Logistik Meningkat",
-        "category": "Ekonomi",
-        "publish_time": "14-04-2026 05:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/tdgxip416/spsl-catatkan-kenaikan-kinerja-2025-layanan-pelabuhan-dan-logistik-meningkat"
-    },
-    {
-        "title": "Ketika Rasulullah Jadi Makmum Masbuk",
-        "category": "Khazanah",
-        "publish_time": "14-04-2026 05:22",
-        "news_link": "https://khazanah.republika.co.id/berita/tdgx6n458/ketika-rasulullah-jadi-makmum-masbuk"
-    },
-    {
-        "title": "Bukan Sekedar Game, Ternyata Roblox Bisa Jadi Peluang Riset Bagi Mahasiswa Informatika",
-        "category": "News",
-        "publish_time": "14-04-2026 05:22",
-        "news_link": "https://news.republika.co.id/berita/tdgwzl368/bukan-sekedar-game-ternyata-roblox-bisa-jadi-peluang-riset-bagi-mahasiswa-informatika"
-    },
-    {
-        "title": "Jurusan Sains Data Meledak di 2026, Peluang Kariernya Bikin Gen Z Geleng-Geleng",
-        "category": "News",
-        "publish_time": "14-04-2026 05:22",
-        "news_link": "https://news.republika.co.id/berita/tdgwqb368/jurusan-sains-data-meledak-di-2026-peluang-kariernya-bikin-gen-z-gelenggeleng"
-    },
-    {
-        "title": "Menhan China Ingatkan AS yang Juga Blokade Selat Hormuz: Jangan Ikut Campur",
-        "category": "News",
-        "publish_time": "14-04-2026 05:22",
-        "news_link": "https://news.republika.co.id/berita/tdgwky409/menhan-china-ingatkan-as-yang-juga-blokade-selat-hormuz-jangan-ikut-campur"
-    },
-    {
-        "title": "El Nino 2026 Picu Ancaman Kekeringan, Pemerintah Siapkan Mitigasi Air dan Pangan",
-        "category": "Ekonomi",
-        "publish_time": "14-04-2026 05:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/tdgu87370/el-nino-2026-picu-ancaman-kekeringan-pemerintah-siapkan-mitigasi-air-dan-pangan"
-    },
-    {
-        "title": "Mau Kerja di Industri Fintech? Ini Jurusan Favorit dan Gaji yang Ditawarkan",
-        "category": "News",
-        "publish_time": "14-04-2026 05:22",
-        "news_link": "https://news.republika.co.id/berita/tdgway368/mau-kerja-di-industri-fintech-ini-jurusan-favorit-dan-gaji-yang-ditawarkan"
-    },
-    {
-        "title": "Ekonomi Digital RI Tembus 100 Miliar Dolar AS, UNM Cetak Talenta Siap Kerja Lewat Program IEP 3+1",
-        "category": "News",
-        "publish_time": "14-04-2026 04:22",
-        "news_link": "https://news.republika.co.id/berita/tdgvv4368/ekonomi-digital-ri-tembus-100-miliar-dolar-as-unm-cetak-talenta-siap-kerja-lewat-program-iep-31"
-    },
-    {
-        "title": "Curhat Siswa SDN Bunisari, Belajar Siang Hari Usai Ruang Kelas Dipagar Ahli Waris",
-        "category": "Rejabar",
-        "publish_time": "14-04-2026 04:22",
-        "news_link": "https://rejabar.republika.co.id/berita/tdgvdg368/curhat-siswa-sdn-bunisari-belajar-siang-hari-usai-ruang-kelas-dipagar-ahli-waris"
-    },
-    {
-        "title": "Bocah SMP Asal KBB yang Diduga Diculik Telah Ditemukan, Pelakunya Berusia 15 Tahun",
-        "category": "Rejabar",
-        "publish_time": "14-04-2026 04:22",
-        "news_link": "https://rejabar.republika.co.id/berita/tdgvbi487/bocah-smp-asal-kbb-yang-diduga-diculik-telah-ditemukan-pelakunya-berusia-15-tahun"
-    },
-    {
-        "title": "Saham Gorengan dan Ancaman Ilusi Cuan di Tengah Ledakan Investor Ritel",
-        "category": "News",
-        "publish_time": "14-04-2026 04:22",
-        "news_link": "https://news.republika.co.id/berita/tdgv22368/saham-gorengan-dan-ancaman-ilusi-cuan-di-tengah-ledakan-investor-ritel"
-    },
-    {
-        "title": "Telkom dan Media Pacu Talenta Digital Lewat Penguatan Ekosistem AI di Kampus",
-        "category": "Ekonomi",
-        "publish_time": "14-04-2026 04:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/tdguoi368/telkom-dan-media-pacu-talenta-digital-lewat-penguatan-ekosistem-ai-di-kampus"
-    },
-    {
-        "title": "KPK Sebut Perantara Aliran Uang dari Yaqut ke Pansus Haji Berinisial ZA",
-        "category": "News",
-        "publish_time": "14-04-2026 04:22",
-        "news_link": "https://news.republika.co.id/berita/tdgu75487/kpk-sebut-perantara-aliran-uang-dari-yaqut-ke-pansus-haji-berinisial-za"
-    },
-    {
-        "title": "Telkom\u2013PGN Dorong Ekosistem Green Digital Infrastructure Terintegrasi Bersama Mitra Global",
-        "category": "Ekonomi",
-        "publish_time": "14-04-2026 04:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/tdgu57368/telkompgn-dorong-ekosistem-green-digital-infrastructure-terintegrasi-bersama-mitra-global"
-    },
-    {
-        "title": "Bea Cukai Sidoarjo Musnahkan 3,9 Juta Batang Rokok Ilegal Senilai Miliaran Rupiah",
-        "category": "Beacukai",
-        "publish_time": "14-04-2026 03:22",
-        "news_link": "https://republika.co.id/berita//tdgt0t368/bea-cukai-sidoarjo-musnahkan-39-juta-batang-rokok-ilegal-senilai-miliaran-rupiah"
-    },
-    {
-        "title": "60 Remaja Muslimah Terpilih Ikuti Tiebymin Gang Batch 2",
-        "category": "Ameera",
-        "publish_time": "14-04-2026 03:22",
-        "news_link": "https://ameera.republika.co.id/berita/tdgsjk483/60-remaja-muslimah-terpilih-ikuti-tiebymin-gang-batch-2"
-    },
-    {
-        "title": "Kemenkop dan Kemensos Bakal Angkat Penerima PKH Jadi Karyawan Kopdes Merah Putih",
-        "category": "Ekonomi",
-        "publish_time": "14-04-2026 03:22",
-        "news_link": "https://ekonomi.republika.co.id/berita/tdgs58490/kemenkop-dan-kemensos-bakal-angkat-penerima-pkh-jadi-karyawan-kopdes-merah-putih"
     }
 ]
