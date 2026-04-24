@@ -1,80 +1,260 @@
 [
     {
+        "title": "DPRD DIY akan Panggil DPKP dan Dinsos Menyusul Dua Temuan dalam LHP BPK",
+        "category": "Rejogja",
+        "publish_time": "24-04-2026 13:00",
+        "news_link": "https://rejogja.republika.co.id/berita/te01go282/dprd-diy-akan-panggil-dpkp-dan-dinsos-menyusul-dua-temuan-dalam-lhp-bpk"
+    },
+    {
+        "title": "Purnawirawan TNI Kumpul Bareng di Kemenhan, Bahas Isu Strategis Pertahanan Nasional",
+        "category": "Visual",
+        "publish_time": "24-04-2026 12:59",
+        "news_link": "https://visual.republika.co.id/berita/tdzvm8375/purnawirawan-tni-kumpul-bareng-di-kemenhan-bahas-isu-strategis-pertahanan-nasional"
+    },
+    {
+        "title": "Majelis Muballighin Indonesia Gelar Aksi Sosial, Respons Kenaikan Harga Pangan",
+        "category": "Khazanah",
+        "publish_time": "24-04-2026 12:59",
+        "news_link": "https://khazanah.republika.co.id/berita/te01ek416/majelis-muballighin-indonesia-gelar-aksi-sosial-respons-kenaikan-harga-pangan"
+    },
+    {
+        "title": "Direktur PLN Suroso Isnandar Terpilih Jadi Anggota MWA UGM Periode 2026\u20132031",
+        "category": "Ekonomi",
+        "publish_time": "24-04-2026 12:53",
+        "news_link": "https://ekonomi.republika.co.id/berita/te0161368/direktur-pln-suroso-isnandar-terpilih-jadi-anggota-mwa-ugm-periode-20262031"
+    },
+    {
+        "title": "Robig Zaenudin, Mantan Polisi Pembunuh Gamma Positif Pakai Narkoba dalam Lapas",
+        "category": "Rejogja",
+        "publish_time": "24-04-2026 12:49",
+        "news_link": "https://rejogja.republika.co.id/berita/te00z9282/robig-zaenudin-mantan-polisi-pembunuh-gamma-positif-pakai-narkoba-dalam-lapas"
+    },
+    {
+        "title": "Soal Tren Pelemahan Rupiah, Purbaya: Ada Noise Seolah Kita Terpuruk",
+        "category": "Ekonomi",
+        "publish_time": "24-04-2026 12:47",
+        "news_link": "https://ekonomi.republika.co.id/berita/te00w8377/soal-tren-pelemahan-rupiah-purbaya-ada-noise-seolah-kita-terpuruk"
+    },
+    {
+        "title": "Prabowo Panggil Kapolri dan Bicara Empat Mata Selama 1 Jam di Hambalang",
+        "category": "News",
+        "publish_time": "24-04-2026 12:42",
+        "news_link": "https://news.republika.co.id/berita/te00ms487/prabowo-panggil-kapolri-dan-bicara-empat-mata-selama-1-jam-di-hambalang"
+    },
+    {
+        "title": "Korban Terbaru Kopka Rico Pramudia, Total 4 Personel TNI Gugur di Lebanon",
+        "category": "News",
+        "publish_time": "24-04-2026 12:41",
+        "news_link": "https://news.republika.co.id/berita/te00ld484/korban-terbaru-kopka-rico-pramudia-total-4-personel-tni-gugur-di-lebanon"
+    },
+    {
+        "title": "Benarkah AS Hadapi Krisis Amunisi Akibat Perangi Iran? Ini Kata Media",
+        "category": "Khazanah",
+        "publish_time": "24-04-2026 12:38",
+        "news_link": "https://khazanah.republika.co.id/berita/te00gc320/benarkah-as-hadapi-krisis-amunisi-akibat-perangi-iran-ini-kata-media"
+    },
+    {
+        "title": "Nantikan Pesangon, Eks Buruh Sritex Bertahan Hidup dengan Jual Aset Hingga Bekerja di SPPG",
+        "category": "Rejogja",
+        "publish_time": "24-04-2026 12:37",
+        "news_link": "https://rejogja.republika.co.id/berita/te00e6282/nantikan-pesangon-eks-buruh-sritex-bertahan-hidup-dengan-jual-aset-hingga-bekerja-di-sppg"
+    },
+    {
+        "title": "Dana Institusi Dorong Pergerakan Harga Bitcoin",
+        "category": "Ekonomi",
+        "publish_time": "24-04-2026 12:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/tdzzkq416/dana-institusi-dorong-pergerakan-harga-bitcoin"
+    },
+    {
+        "title": "KPK Pastikan Tersangka Baru Kasus Kuota Haji Sudah Dicegah ke Luar Negeri",
+        "category": "News",
+        "publish_time": "24-04-2026 12:14",
+        "news_link": "https://news.republika.co.id/berita/tdzzcw487/kpk-pastikan-tersangka-baru-kasus-kuota-haji-sudah-dicegah-ke-luar-negeri"
+    },
+    {
+        "title": "Pulau Falkland Jadi Sengketa Terbaru AS-Inggris",
+        "category": "News",
+        "publish_time": "24-04-2026 12:14",
+        "news_link": "https://news.republika.co.id/berita/tdzzcl393/pulau-falkland-jadi-sengketa-terbaru-asinggris"
+    },
+    {
+        "title": "Menkeu Pastikan PPN Jalan Tol Belum Berlaku, Tunggu Ekonomi Membaik",
+        "category": "Ekonomi",
+        "publish_time": "24-04-2026 12:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/tdzyrw370/menkeu-pastikan-ppn-jalan-tol-belum-berlaku-tunggu-ekonomi-membaik"
+    },
+    {
+        "title": "GSF Lepas Kapal Flotila Menuju Gaza",
+        "category": "Video",
+        "publish_time": "24-04-2026 12:10",
+        "news_link": "https://republika.co.id/page/shorts/yt-tdzyo21207583031/gsf-lepas-kapal-flotila-menuju-gaza"
+    },
+    {
+        "title": "Setelah Lebih dari 1 Tahun, Robig Zaenudin Pembunuh Gamma Resmi Dipecat Polri",
+        "category": "News",
+        "publish_time": "24-04-2026 12:10",
+        "news_link": "https://news.republika.co.id/berita/tdzynf487/setelah-lebih-dari-1-tahun-robig-zaenudin-pembunuh-gamma-resmi-dipecat-polri"
+    },
+    {
+        "title": "Buntut Kritik Paus Leo kepada Trump, Intelijen AS Dilaporkan Bidik Vatikan",
+        "category": "Khazanah",
+        "publish_time": "24-04-2026 12:10",
+        "news_link": "https://khazanah.republika.co.id/berita/tdzyfs483/buntut-kritik-paus-leo-kepada-trump-intelijen-as-dilaporkan-bidik-vatikan"
+    },
+    {
+        "title": "Analis: Ini yang Menjadikan Kekalahan AS Hadapi Iran Mirip dengan Perang Melawan Vietnam",
+        "category": "Khazanah",
+        "publish_time": "24-04-2026 12:10",
+        "news_link": "https://khazanah.republika.co.id/berita/tdzy31320/analis-ini-yang-menjadikan-kekalahan-as-hadapi-iran-mirip-dengan-perang-melawan-vietnam"
+    },
+    {
+        "title": "Pajak Kendaraan Listrik Bakal Dibebaskan Lagi, Pemerintah Plin-plan?",
+        "category": "Esgnow",
+        "publish_time": "24-04-2026 11:10",
+        "news_link": "https://esgnow.republika.co.id/berita/tdzxsi490/pajak-kendaraan-listrik-bakal-dibebaskan-lagi-pemerintah-plinplan"
+    },
+    {
+        "title": "Dari Pembiayaan Hingga Aksi Nyata, Bank Mandiri Perkuat Komitmen Hijau di Hari Bumi",
+        "category": "Esgnow",
+        "publish_time": "24-04-2026 11:10",
+        "news_link": "https://esgnow.republika.co.id/berita/tdzxrq368/dari-pembiayaan-hingga-aksi-nyata-bank-mandiri-perkuat-komitmen-hijau-di-hari-bumi"
+    },
+    {
+        "title": "Kolaborasi Kuatkan Ekosistem dan Industri Grooming Pria",
+        "category": "Rejakarta",
+        "publish_time": "24-04-2026 11:10",
+        "news_link": "https://republika.co.id/berita//tdzxnk483/kolaborasi-kuatkan-ekosistem-dan-industri-grooming-pria"
+    },
+    {
+        "title": "Kurniawan Optimistis Peluang Indonesia U-17 Terbuka Walau Berada di Grup Berat Piala Asia U-17",
+        "category": "News",
+        "publish_time": "24-04-2026 11:10",
+        "news_link": "https://news.republika.co.id/berita/tdzxiw348/kurniawan-optimistis-peluang-indonesia-u17-terbuka-walau-berada-di-grup-berat-piala-asia-u17"
+    },
+    {
+        "title": "Waspadai Kanada, Putri KW Serukan Tim Uber Indonesia Tampil All Out Demi Awal Sempurna",
+        "category": "News",
+        "publish_time": "24-04-2026 11:10",
+        "news_link": "https://news.republika.co.id/berita/tdzx8q348/waspadai-kanada-putri-kw-serukan-tim-uber-indonesia-tampil-all-out-demi-awal-sempurna"
+    },
+    {
+        "title": "Transaksi BSI Agen Tumbuh 14,54 Persen, Jadi Motor Inklusi Keuangan Syariah",
+        "category": "Ekonomi Syariah",
+        "publish_time": "24-04-2026 11:10",
+        "news_link": "https://sharia.republika.co.id/berita/tdzxhh490/transaksi-bsi-agen-tumbuh-1454-persen-jadi-motor-inklusi-keuangan-syariah"
+    },
+    {
+        "title": "Ratusan Motor Parkir Liar di Depo MRT Lebak Bulus Ditertibkan Petugas",
+        "category": "Visual",
+        "publish_time": "24-04-2026 11:10",
+        "news_link": "https://visual.republika.co.id/berita/tdzvjd375/ratusan-motor-parkir-liar-di-depo-mrt-lebak-bulus-ditertibkan-petugas"
+    },
+    {
+        "title": "Jelang Penutupan, Rekrutmen Pegawai Kampung Nelayan Merah Putih Makin Diburu",
+        "category": "Ekonomi",
+        "publish_time": "24-04-2026 11:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/tdzx8a490/jelang-penutupan-rekrutmen-pegawai-kampung-nelayan-merah-putih-makin-diburu"
+    },
+    {
+        "title": "Purbaya Pede Ekonomi Tumbuh 5,7 Persen di Kuartal II 2026",
+        "category": "Ekonomi",
+        "publish_time": "24-04-2026 11:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/tdzx2s370/purbaya-pede-ekonomi-tumbuh-57-persen-di-kuartal-ii-2026"
+    },
+    {
+        "title": "Bonus dari Pemerintah, Ni Nengah Widiasih Bangun Masa Depan Lewat Usaha Kuliner di Bali",
+        "category": "News",
+        "publish_time": "24-04-2026 11:10",
+        "news_link": "https://news.republika.co.id/berita/tdzwzg348/bonus-dari-pemerintah-ni-nengah-widiasih-bangun-masa-depan-lewat-usaha-kuliner-di-bali"
+    },
+    {
+        "title": "Komnas HAM: 21 Orang Meninggal Akibat Pelanggaran HAM di Papua",
+        "category": "News",
+        "publish_time": "24-04-2026 11:10",
+        "news_link": "https://news.republika.co.id/berita/tdzwpi393/komnas-ham-21-orang-meninggal-akibat-pelanggaran-ham-di-papua"
+    },
+    {
+        "title": "Kasus Bullying Berujung Maut di Sragen, KPAI Minta Proses Hukum Sesuai UU Anak",
+        "category": "Ameera",
+        "publish_time": "24-04-2026 11:10",
+        "news_link": "https://ameera.republika.co.id/berita/tdzw9y328/kasus-bullying-berujung-maut-di-sragen-kpai-minta-proses-hukum-sesuai-uu-anak"
+    },
+    {
         "title": "Tak Seperti Biasanya, Israel Akui Kerugian Perang Melawan Hizbullah: Lebih dari 700 Tentara Terluka",
         "category": "Khazanah",
-        "publish_time": "24-04-2026 11:00",
+        "publish_time": "24-04-2026 11:10",
         "news_link": "https://khazanah.republika.co.id/berita/tdzvxc320/tak-seperti-biasanya-israel-akui-kerugian-perang-melawan-hizbullah-lebih-dari-700-tentara-terluka"
     },
     {
         "title": "Pameran Bandung Milestone Hidupkan Arsip Sejarah Lewat Teknologi AI",
         "category": "Visual",
-        "publish_time": "24-04-2026 10:59",
+        "publish_time": "24-04-2026 11:10",
         "news_link": "https://visual.republika.co.id/berita/tdzuos375/pameran-bandung-milestone-hidupkan-arsip-sejarah-lewat-teknologi-ai"
     },
     {
         "title": "Monyet Serang Kru Kapal Militer Amerika yang Menuju Selat Hormuz",
         "category": "News",
-        "publish_time": "24-04-2026 10:57",
+        "publish_time": "24-04-2026 11:10",
         "news_link": "https://news.republika.co.id/berita/tdzvst377/monyet-serang-kru-kapal-militer-amerika-yang-menuju-selat-hormuz"
     },
     {
         "title": "Mengenang Jasa dan Kebaikan Almarhum Try Sutrisno",
         "category": "News",
-        "publish_time": "24-04-2026 10:49",
+        "publish_time": "24-04-2026 11:10",
         "news_link": "https://news.republika.co.id/berita/tdzvfl484/mengenang-jasa-dan-kebaikan-almarhum-try-sutrisno"
     },
     {
         "title": "Spotify Hadirkan Pengalaman Imersif Swimside BTS di Jakarta",
         "category": "Ameera",
-        "publish_time": "24-04-2026 10:46",
+        "publish_time": "24-04-2026 11:10",
         "news_link": "https://ameera.republika.co.id/berita/tdzval328/spotify-hadirkan-pengalaman-imersif-swimside-bts-di-jakarta"
     },
     {
         "title": "Robig Zaenudin, Pecatan Polisi Pembunuh Gamma Terbukti Konsumsi Narkoba dalam Lapas",
         "category": "News",
-        "publish_time": "24-04-2026 10:37",
+        "publish_time": "24-04-2026 10:10",
         "news_link": "https://news.republika.co.id/berita/tdzuvd377/robig-zaenudin-pecatan-polisi-pembunuh-gamma-terbukti-konsumsi-narkoba-dalam-lapas"
     },
     {
         "title": "Spanduk 'Rising Lion' di RS Indonesia Gaza Dinilai Bentuk Propaganda Israel yang Jahat",
         "category": "Khazanah",
-        "publish_time": "24-04-2026 10:37",
+        "publish_time": "24-04-2026 10:10",
         "news_link": "https://khazanah.republika.co.id/berita/tdzuuz483/spanduk-rising-lion-di-rs-indonesia-gaza-dinilai-bentuk-propaganda-israel-yang-jahat"
     },
     {
         "title": "Hari Kartini, Cyber University Ajak Perempuan Jadi Inovator Bisnis Digital",
         "category": "News",
-        "publish_time": "24-04-2026 10:36",
+        "publish_time": "24-04-2026 10:10",
         "news_link": "https://news.republika.co.id/berita/tdzt5e368/hari-kartini-cyber-university-ajak-perempuan-jadi-inovator-bisnis-digital"
     },
     {
         "title": "Hibur Wisudawan UBSI, Oncho Flash Kagum dengan Konsep Wisuda yang Modern dan Fun",
         "category": "News",
-        "publish_time": "24-04-2026 10:26",
+        "publish_time": "24-04-2026 10:10",
         "news_link": "https://news.republika.co.id/berita/tdzt0c368/hibur-wisudawan-ubsi-oncho-flash-kagum-dengan-konsep-wisuda-yang-modern-dan-fun"
     },
     {
         "title": "B50 Butuh Pasokan Besar, Peremajaan Sawit Rakyat Perlu Dipercepat",
         "category": "Ekonomi",
-        "publish_time": "24-04-2026 10:26",
+        "publish_time": "24-04-2026 10:10",
         "news_link": "https://ekonomi.republika.co.id/berita/tdzuck416/b50-butuh-pasokan-besar-peremajaan-sawit-rakyat-perlu-dipercepat"
     },
     {
         "title": "Ekonom: Instruksi Pembebasan Pajak EV Semakin Bebani Daerah",
         "category": "Ekonomi",
-        "publish_time": "24-04-2026 10:22",
+        "publish_time": "24-04-2026 10:10",
         "news_link": "https://ekonomi.republika.co.id/berita/tdzu5y370/ekonom-instruksi-pembebasan-pajak-ev-semakin-bebani-daerah"
     },
     {
         "title": "Tarif Rp1, Warga Nikmati Transportasi Umum di Jakarta",
         "category": "Visual",
-        "publish_time": "24-04-2026 10:18",
+        "publish_time": "24-04-2026 10:10",
         "news_link": "https://visual.republika.co.id/berita/tdztyp375/tarif-rp1-warga-nikmati-transportasi-umum-di-jakarta"
     },
     {
         "title": "UBSI Resmi Lepas Lulusan, Siap Jadi Penggerak Perubahan di Era Teknologi",
         "category": "News",
-        "publish_time": "24-04-2026 10:14",
+        "publish_time": "24-04-2026 10:10",
         "news_link": "https://news.republika.co.id/berita/tdzstf368/ubsi-resmi-lepas-lulusan-siap-jadi-penggerak-perubahan-di-era-teknologi"
     },
     {
@@ -86,217 +266,37 @@
     {
         "title": "Tantangan Etika AI di Kampus, Antara Inovasi dan Tanggung Jawab Akademik",
         "category": "News",
-        "publish_time": "24-04-2026 10:02",
+        "publish_time": "24-04-2026 10:10",
         "news_link": "https://news.republika.co.id/berita/tdzsa3368/tantangan-etika-ai-di-kampus-antara-inovasi-dan-tanggung-jawab-akademik"
     },
     {
         "title": "Dunia Menuju Multipolar, Local Currency Transaction Bisa Tahan Pelemahan Rupiah?",
         "category": "Ekonomi",
-        "publish_time": "24-04-2026 10:01",
+        "publish_time": "24-04-2026 10:10",
         "news_link": "https://ekonomi.republika.co.id/berita/tdzt1n490/dunia-menuju-multipolar-local-currency-transaction-bisa-tahan-pelemahan-rupiah"
     },
     {
         "title": "LLDIKTI Ingatkan Wisudawan UBSI: Dunia Kerja Butuh Karakter, Bukan Sekadar Pintar",
         "category": "News",
-        "publish_time": "24-04-2026 10:01",
+        "publish_time": "24-04-2026 10:10",
         "news_link": "https://news.republika.co.id/berita/tdzsmb368/lldikti-ingatkan-wisudawan-ubsi-dunia-kerja-butuh-karakter-bukan-sekadar-pintar"
     },
     {
         "title": "Tantangan Resiliensi Mental Generasi Z di Tengah Dinamika Dunia Kerja",
         "category": "News",
-        "publish_time": "24-04-2026 10:01",
+        "publish_time": "24-04-2026 09:10",
         "news_link": "https://news.republika.co.id/berita/tdzs84368/tantangan-resiliensi-mental-generasi-z-di-tengah-dinamika-dunia-kerja"
     },
     {
         "title": "Trump Tegaskan tak Gunakan Bom Nuklir untuk Hancurkan Iran, Ini Alasannya",
         "category": "News",
-        "publish_time": "24-04-2026 10:01",
+        "publish_time": "24-04-2026 09:10",
         "news_link": "https://news.republika.co.id/berita/tdzrye377/trump-tegaskan-tak-gunakan-bom-nuklir-untuk-hancurkan-iran-ini-alasannya"
     },
     {
         "title": "Saudia Airlines Mulai Layanan Haji 2026, Pastikan Seluruh Lini Operasional Telah Dimatangkan",
         "category": "Ekonomi",
-        "publish_time": "24-04-2026 10:01",
+        "publish_time": "24-04-2026 09:10",
         "news_link": "https://ekonomi.republika.co.id/berita/tdzruz368/saudia-airlines-mulai-layanan-haji-2026-pastikan-seluruh-lini-operasional-telah-dimatangkan"
-    },
-    {
-        "title": "Buru Harta Zarof Ricar, Pakar: Cara Modern Kejagung Tangani Korupsi",
-        "category": "News",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://news.republika.co.id/berita/tdzrt9318/buru-harta-zarof-ricar-pakar-cara-modern-kejagung-tangani-korupsi"
-    },
-    {
-        "title": "Menhan Kumpulkan Jenderal TNI di Kantor Kemenhan",
-        "category": "Video",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://republika.co.id/page/shorts/yt-tdzrq2827279738/menhan-kumpulkan-jenderal-tni-di-kantor-kemenhan"
-    },
-    {
-        "title": "Menabung Rp 10 Ribu per Hari, Pedagang Boboko Keliling Asal Majalengka Naik Haji",
-        "category": "Rejabar",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://rejabar.republika.co.id/berita/tdzrjv487/menabung-rp-10-ribu-per-hari-pedagang-boboko-keliling-asal-majalengka-naik-haji"
-    },
-    {
-        "title": "Sampai ke Tanah Suci Lewat Mata Hati, Perjuangan Petani Penderita Disabilitas Netra untuk Berhaji",
-        "category": "Khazanah",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://khazanah.republika.co.id/berita/tdzrje483/sampai-ke-tanah-suci-lewat-mata-hati-perjuangan-petani-penderita-disabilitas-netra-untuk-berhaji"
-    },
-    {
-        "title": "Setelah 22 Tahun Menanti, PRT Akhirnya Diakui Negara",
-        "category": "Kolom",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://analisis.republika.co.id/berita/tdziej451/setelah-22-tahun-menanti-prt-akhirnya-diakui-negara"
-    },
-    {
-        "title": "Momen Jamaah Haji Indonesia Bersiap Jumatan di Masjid Nabawi",
-        "category": "Video",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://republika.co.id/page/shorts/yt-tdzr112097914831/momen-jamaah-haji-indonesia-bersiap-jumatan-di-masjid-nabawi"
-    },
-    {
-        "title": "Investasi Hilirisasi Tembus Rp 147,5 Triliun, Kontribusi Capai 29,6 Persen",
-        "category": "Ekonomi",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://ekonomi.republika.co.id/berita/tdzqxq370/investasi-hilirisasi-tembus-rp-1475-triliun-kontribusi-capai-296-persen"
-    },
-    {
-        "title": "Michael Carrick tak Buru-Buru Ingin Jadi Pelatih Permanen, Fokus Bawa MU Kembali ke Liga Champions",
-        "category": "News",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://news.republika.co.id/berita/tdzqk0348/michael-carrick-tak-buruburu-ingin-jadi-pelatih-permanen-fokus-bawa-mu-kembali-ke-liga-champions"
-    },
-    {
-        "title": "KPK Gali Kesaksian Lima Bos Travel Haji Setelah Khalid Basalamah",
-        "category": "News",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://news.republika.co.id/berita/tdzqu5377/kpk-gali-kesaksian-lima-bos-travel-haji-setelah-khalid-basalamah"
-    },
-    {
-        "title": "Dari Kelahiran Hingga Kematian, Kota Bandung Satukan Layanan Administrasi Kependudukan",
-        "category": "Rejabar",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://rejabar.republika.co.id/berita/tdzqpz368/dari-kelahiran-hingga-kematian-kota-bandung-satukan-layanan-administrasi-kependudukan"
-    },
-    {
-        "title": "Muncul Wacana akan Digantikan Italia pada Piala Dunia 2026 di AS, Iran Merespons",
-        "category": "News",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://news.republika.co.id/berita/tdzqhd487/muncul-wacana-akan-digantikan-italia-pada-piala-dunia-2026-di-as-iran-merespons"
-    },
-    {
-        "title": "PLTS 100 GW Dinilai Perkuat Ketahanan Energi RI di Tengah Gejolak Geopolitik",
-        "category": "Ekonomi",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://ekonomi.republika.co.id/berita/tdzqe1451/plts-100-gw-dinilai-perkuat-ketahanan-energi-ri-di-tengah-gejolak-geopolitik"
-    },
-    {
-        "title": "Mobil Listrik Jadi Mesin Baru Penggerak Industri Otomotif Nasional",
-        "category": "Ekonomi",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://ekonomi.republika.co.id/berita/tdzqc9368/mobil-listrik-jadi-mesin-baru-penggerak-industri-otomotif-nasional"
-    },
-    {
-        "title": "Pertamina Cari Pasokan Minyak dan LPG ke AS, Impor Rusia Disiapkan",
-        "category": "Ekonomi",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://ekonomi.republika.co.id/berita/tdzqag490/pertamina-cari-pasokan-minyak-dan-lpg-ke-as-impor-rusia-disiapkan"
-    },
-    {
-        "title": "Partisipasi Belum 100 Persen, Tiket Tiga Laga Iran di Piala Dunia 2026 Dibanderol Murah",
-        "category": "News",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://news.republika.co.id/berita/tdzq87348/partisipasi-belum-100-persen-tiket-tiga-laga-iran-di-piala-dunia-2026-dibanderol-murah"
-    },
-    {
-        "title": "Bocoran Dokumen Pentagon: Amerika Berencana Sanksi Anggota NATO Spanyol",
-        "category": "News",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://news.republika.co.id/berita/tdzq2c451/bocoran-dokumen-pentagon-amerika-berencana-sanksi-anggota-nato-spanyol"
-    },
-    {
-        "title": "Kerja Sama Overflight Clearance dengan Amerika Dinilai Anomali",
-        "category": "News",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://news.republika.co.id/berita/tdzpov393/kerja-sama-overflight-clearance-dengan-amerika-dinilai-anomali"
-    },
-    {
-        "title": "Pakar Ingatkan Bahaya Potongan Video Tanpa Konteks di Media Sosial",
-        "category": "News",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://news.republika.co.id/berita/tdzpoj522/pakar-ingatkan-bahaya-potongan-video-tanpa-konteks-di-media-sosial"
-    },
-    {
-        "title": "Momen Earthset yang Diabadikan Astrounaut Artemis",
-        "category": "Video",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://republika.co.id/page/shorts/yt-tdzpn2811770299/momen-earthset-yang-diabadikan-astrounaut-artemis"
-    },
-    {
-        "title": "Gibran Sebut Jusuf Kalla Mentor, Pakar UI Nilai Cerminkan Kedewasaan Berpolitik",
-        "category": "News",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://news.republika.co.id/berita/tdzpkp522/gibran-sebut-jusuf-kalla-mentor-pakar-ui-nilai-cerminkan-kedewasaan-berpolitik"
-    },
-    {
-        "title": "Arsip Sejarah Diolah dengan AI, 'Bandung Milestone' Tawarkan Cara Baru Membaca Masa Lalu",
-        "category": "Rejabar",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://rejabar.republika.co.id/berita/tdzpip368/arsip-sejarah-diolah-dengan-ai-bandung-milestone-tawarkan-cara-baru-membaca-masa-lalu"
-    },
-    {
-        "title": "Jakarta Dua Kali Mati Listrik, Pemerintah Telusuri Penyebab Gangguan PLN",
-        "category": "Ekonomi",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://ekonomi.republika.co.id/berita/tdzpap370/jakarta-dua-kali-mati-listrik-pemerintah-telusuri-penyebab-gangguan-pln"
-    },
-    {
-        "title": "AS Tunda Pengadaan Rudal Antiradar, Jadi Celah Baru Bagi Rusia dan China, Kemampuan F-35 Tertekan",
-        "category": "News",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://news.republika.co.id/berita/tdzp63451/as-tunda-pengadaan-rudal-antiradar-jadi-celah-baru-bagi-rusia-dan-china-kemampuan-f35-tertekan"
-    },
-    {
-        "title": "Rupiah Undervalued tapi Terus Tertekan, Ini Analisis Ekonom",
-        "category": "Ekonomi",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://ekonomi.republika.co.id/berita/tdzp2q416/rupiah-undervalued-tapi-terus-tertekan-ini-analisis-ekonom"
-    },
-    {
-        "title": "Menhan Bertemu Sesepuh TNI Bahas Pembangunan 150 Batalyon per Tahun",
-        "category": "News",
-        "publish_time": "24-04-2026 09:01",
-        "news_link": "https://news.republika.co.id/berita/tdzp3o484/menhan-bertemu-sesepuh-tni-bahas-pembangunan-150-batalyon-per-tahun"
-    },
-    {
-        "title": "Hadapi Kemarau, Kementan Pacu Tanam Serentak di 38 Daerah se-Jawa Timur",
-        "category": "Ekonomi",
-        "publish_time": "24-04-2026 08:01",
-        "news_link": "https://ekonomi.republika.co.id/berita/tdzoz2368/hadapi-kemarau-kementan-pacu-tanam-serentak-di-38-daerah-sejawa-timur"
-    },
-    {
-        "title": "Sholat Jumat Perdana di Masjid Nabawi, Jamaah RI Diminta Perhatikan Sandal Hingga Wudhu di Hotel",
-        "category": "Khazanah",
-        "publish_time": "24-04-2026 08:01",
-        "news_link": "https://khazanah.republika.co.id/berita/tdzov9483/sholat-jumat-perdana-di-masjid-nabawi-jamaah-ri-diminta-perhatikan-sandal-hingga-wudhu-di-hotel"
-    },
-    {
-        "title": "Bagaimana Nasib Pelatihan Kerja di Cimahi Usai Diusut Kejari Gegara Diduga Korupsi? Ini Kata Kadis",
-        "category": "Rejabar",
-        "publish_time": "24-04-2026 08:01",
-        "news_link": "https://rejabar.republika.co.id/berita/tdzo8x487/bagaimana-nasib-pelatihan-kerja-di-cimahi-usai-diusut-kejari-gegara-diduga-korupsi-ini-kata-kadis"
-    },
-    {
-        "title": "KDS Dorong Ekowisata Citarik Jadi Model Edukasi Pengelolaan Sampah Berbasis Desa",
-        "category": "Rejabar",
-        "publish_time": "24-04-2026 08:01",
-        "news_link": "https://rejabar.republika.co.id/berita/tdznwn368/kds-dorong-ekowisata-citarik-jadi-model-edukasi-pengelolaan-sampah-berbasis-desa"
-    },
-    {
-        "title": "Dua Guru Ekstrakurikuler di Indramayu Diduga Lecehkan Puluhan Muridnya",
-        "category": "Rejabar",
-        "publish_time": "24-04-2026 08:01",
-        "news_link": "https://rejabar.republika.co.id/berita/tdznpu487/dua-guru-ekstrakurikuler-di-indramayu-diduga-lecehkan-puluhan-muridnya"
     }
 ]
