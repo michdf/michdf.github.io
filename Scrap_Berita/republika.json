@@ -1,68 +1,212 @@
 [
     {
+        "title": "7 Tersangka Kasus Pengeroyokan Pelajar di Bantul Ditangkap, Dijerat Pasal Berlapis dan Pidana Mati",
+        "category": "Rejogja",
+        "publish_time": "29-04-2026 12:09",
+        "news_link": "https://rejogja.republika.co.id/berita/te98fq282/7-tersangka-kasus-pengeroyokan-pelajar-di-bantul-ditangkap-dijerat-pasal-berlapis-dan-pidana-mati"
+    },
+    {
+        "title": "Menhub: Pengelolaan Prasarana Diserahkan dari Kemenhub ke PT KAI",
+        "category": "News",
+        "publish_time": "29-04-2026 12:09",
+        "news_link": "https://news.republika.co.id/berita/te98ev484/menhub-pengelolaan-prasarana-diserahkan-dari-kemenhub-ke-pt-kai"
+    },
+    {
+        "title": "Mengapa AGROFITRAH Menjadi Keniscayaan",
+        "category": "Kolom",
+        "publish_time": "29-04-2026 12:07",
+        "news_link": "https://analisis.republika.co.id/berita/te92zd393/mengapa-agrofitrah-menjadi-keniscayaan"
+    },
+    {
+        "title": "Menkeu Pastikan tak Ada Pajak Baru, Daya Beli Warga Dijaga",
+        "category": "Ekonomi",
+        "publish_time": "29-04-2026 12:01",
+        "news_link": "https://ekonomi.republika.co.id/berita/te97md423/menkeu-pastikan-tak-ada-pajak-baru-daya-beli-warga-dijaga"
+    },
+    {
+        "title": "Tingkatkan Literasi, Kediri Hadirkan Perpustakaan Keliling Energi Hijau",
+        "category": "Visual",
+        "publish_time": "29-04-2026 12:00",
+        "news_link": "https://visual.republika.co.id/berita/te95hu375/tingkatkan-literasi-kediri-hadirkan-perpustakaan-keliling-energi-hijau"
+    },
+    {
+        "title": "Hakim Diduga Jadi Pemilik Daycare Little Aresha di DIY, Ini Hasil Konfirmasi Mahkamah Agung",
+        "category": "News",
+        "publish_time": "29-04-2026 11:47",
+        "news_link": "https://news.republika.co.id/berita/te97ej409/hakim-diduga-jadi-pemilik-daycare-little-aresha-di-diy-ini-hasil-konfirmasi-mahkamah-agung"
+    },
+    {
+        "title": "Jelang Haji, Penukaran Riyal di BSI Melonjak 76 Persen",
+        "category": "Khazanah",
+        "publish_time": "29-04-2026 11:44",
+        "news_link": "https://khazanah.republika.co.id/berita/te979p423/jelang-haji-penukaran-riyal-di-bsi-melonjak-76-persen"
+    },
+    {
+        "title": "Bank Mandiri Bagikan Dividen Rp 44,47 Triliun, Setara 79 Persen Laba",
+        "category": "Ekonomi",
+        "publish_time": "29-04-2026 11:43",
+        "news_link": "https://ekonomi.republika.co.id/berita/te9787370/bank-mandiri-bagikan-dividen-rp-4447-triliun-setara-79-persen-laba"
+    },
+    {
+        "title": "Iran Siapkan Senjata Canggih Baru untuk Bakar Kapal-Kapal AS",
+        "category": "News",
+        "publish_time": "29-04-2026 11:30",
+        "news_link": "https://news.republika.co.id/berita/te96ll393/iran-siapkan-senjata-canggih-baru-untuk-bakar-kapalkapal-as"
+    },
+    {
+        "title": "Program MBG Meluas, Ahli Gizi Kini Jadi Profesi Paling Dicari",
+        "category": "Ekonomi",
+        "publish_time": "29-04-2026 11:22",
+        "news_link": "https://ekonomi.republika.co.id/berita/te9699423/program-mbg-meluas-ahli-gizi-kini-jadi-profesi-paling-dicari"
+    },
+    {
+        "title": "Terpisah Dua Hari di Madinah, Roisa Akhirnya Temui Suaminya Jauhari yang Demensia",
+        "category": "Khazanah",
+        "publish_time": "29-04-2026 11:20",
+        "news_link": "https://khazanah.republika.co.id/berita/te954o483/terpisah-dua-hari-di-madinah-roisa-akhirnya-temui-suaminya-jauhari-yang-demensia"
+    },
+    {
+        "title": "AHY Ingin Pembenahan Menyeluruh pada Kereta Api Indonesia",
+        "category": "Video",
+        "publish_time": "29-04-2026 11:15",
+        "news_link": "https://republika.co.id/page/shorts/yt-te95x1458650130/ahy-ingin-pembenahan-menyeluruh-pada-kereta-api-indonesia"
+    },
+    {
+        "title": "Kasus Penghinaan Suku Sunda, YouTuber Resbob Divonis 2,5 Tahun Penjara",
+        "category": "Visual",
+        "publish_time": "29-04-2026 11:15",
+        "news_link": "https://visual.republika.co.id/berita/te95d3375/kasus-penghinaan-suku-sunda-youtuber-resbob-divonis-25-tahun-penjara"
+    },
+    {
+        "title": "Polisi Beberkan Identitas 13 Tersangka, Kasus Daycare Yogya Masih Dikembangkan",
+        "category": "Rejogja",
+        "publish_time": "29-04-2026 11:13",
+        "news_link": "https://rejogja.republika.co.id/berita/te95nb282/polisi-beberkan-identitas-13-tersangka-kasus-daycare-yogya-masih-dikembangkan"
+    },
+    {
+        "title": "Komnas Perempuan Nilai Pemindahan Gerbong Wanita Bukan Solusi",
+        "category": "Ameera",
+        "publish_time": "29-04-2026 11:13",
+        "news_link": "https://ameera.republika.co.id/berita/te95bt425/komnas-perempuan-nilai-pemindahan-gerbong-wanita-bukan-solusi"
+    },
+    {
+        "title": "Jumhur: Krisis Sampah Harus Tuntas 2-3 Tahun, Etika Lingkungan Jadi Kunci",
+        "category": "Esgnow",
+        "publish_time": "29-04-2026 11:13",
+        "news_link": "https://esgnow.republika.co.id/berita/te95a6423/jumhur-krisis-sampah-harus-tuntas-23-tahun-etika-lingkungan-jadi-kunci"
+    },
+    {
+        "title": "Presiden: Jangan Kepandaian Kau Pakai Perkaya Bangsa Lain",
+        "category": "News",
+        "publish_time": "29-04-2026 11:13",
+        "news_link": "https://news.republika.co.id/berita/te959q484/presiden-jangan-kepandaian-kau-pakai-perkaya-bangsa-lain"
+    },
+    {
+        "title": "Hilirisasi Tembaga dan Emas Terintegrasi Upaya Menuju Kemandirian Industri",
+        "category": "Ekonomi",
+        "publish_time": "29-04-2026 11:13",
+        "news_link": "https://ekonomi.republika.co.id/berita/te959i522/hilirisasi-tembaga-dan-emas-terintegrasi-upaya-menuju-kemandirian-industri"
+    },
+    {
+        "title": "Safa Selamat usai Berbuka Puasa",
+        "category": "Video",
+        "publish_time": "29-04-2026 11:13",
+        "news_link": "https://republika.co.id/page/shorts/yt-te95872025107673/safa-selamat-usai-berbuka-puasa"
+    },
+    {
+        "title": "Ibadah Makin Mudah di Kawasan Wisata Pulau Komodo",
+        "category": "Video",
+        "publish_time": "29-04-2026 11:13",
+        "news_link": "https://republika.co.id/page/shorts/yt-te958240861042/ibadah-makin-mudah-di-kawasan-wisata-pulau-komodo"
+    },
+    {
+        "title": "Ini Perbedaan yang Sangat Mencolok Sistem Ekonomi Islam dengan Kapitalisme dan Komunisme",
+        "category": "Khazanah",
+        "publish_time": "29-04-2026 11:13",
+        "news_link": "https://khazanah.republika.co.id/berita/te8i8c320/ini-perbedaan-yang-sangat-mencolok-sistem-ekonomi-islam-dengan-kapitalisme-dan-komunisme"
+    },
+    {
+        "title": "KDM akan Buat Bendungan Cegah Banjir di Kabupaten Bandung",
+        "category": "Rejabar",
+        "publish_time": "29-04-2026 11:13",
+        "news_link": "https://rejabar.republika.co.id/berita/te94yb282/kdm-akan-buat-bendungan-cegah-banjir-di-kabupaten-bandung"
+    },
+    {
+        "title": "Menteri UMKM Bersama PNM Dorong Kemandirian Ekonomi Masyarakat Pulau Rinca",
+        "category": "Esgnow",
+        "publish_time": "29-04-2026 11:13",
+        "news_link": "https://esgnow.republika.co.id/berita/te956a522/menteri-umkm-bersama-pnm-dorong-kemandirian-ekonomi-masyarakat-pulau-rinca"
+    },
+    {
+        "title": "Garap Segmen Urban, Bank BSN Relokasi Kantor Layanan di Tangerang",
+        "category": "Ekonomi Syariah",
+        "publish_time": "29-04-2026 11:13",
+        "news_link": "https://sharia.republika.co.id/berita/te94zw416/garap-segmen-urban-bank-bsn-relokasi-kantor-layanan-di-tangerang"
+    },
+    {
         "title": "KAI: Ada 423 Perlintasan Sebidang di Wilayah Daop 1 Jakarta, 130 Titik tak Terjaga",
         "category": "News",
-        "publish_time": "29-04-2026 10:49",
+        "publish_time": "29-04-2026 11:13",
         "news_link": "https://news.republika.co.id/berita/te94qm409/kai-ada-423-perlintasan-sebidang-di-wilayah-daop-1-jakarta-130-titik-tak-terjaga"
     },
     {
         "title": "Trump 'Serang' Kanselir Jerman yang Sebut AS Telah Dipermalukan Iran",
         "category": "News",
-        "publish_time": "29-04-2026 10:44",
+        "publish_time": "29-04-2026 11:13",
         "news_link": "https://news.republika.co.id/berita/te94hv409/trump-serang-kanselir-jerman-yang-sebut-as-telah-dipermalukan-iran"
     },
     {
         "title": "Konflik Iran dan Geopolitik Global, UIA Dorong Mahasiswa Berpikir Kritis",
         "category": "Khazanah",
-        "publish_time": "29-04-2026 10:43",
+        "publish_time": "29-04-2026 11:13",
         "news_link": "https://khazanah.republika.co.id/berita/te94gp320/konflik-iran-dan-geopolitik-global-uia-dorong-mahasiswa-berpikir-kritis"
     },
     {
         "title": "Objek Wisata The Little Niagara Tutup Sementara karena Longsor",
         "category": "Rejabar",
-        "publish_time": "29-04-2026 10:42",
+        "publish_time": "29-04-2026 10:13",
         "news_link": "https://rejabar.republika.co.id/berita/te94fz282/objek-wisata-the-little-niagara-tutup-sementara-karena-longsor"
     },
     {
         "title": "18 Siswa SMP Labschool Ciracas Sabet Penghargaan Internasional Ajang AWMUN 2026 Seoul",
         "category": "News",
-        "publish_time": "29-04-2026 10:35",
+        "publish_time": "29-04-2026 10:13",
         "news_link": "https://news.republika.co.id/berita/te943h320/18-siswa-smp-labschool-ciracas-sabet-penghargaan-internasional-ajang-awmun-2026-seoul"
     },
     {
         "title": "IDAI Dorong Daycare Patuhi Regulasi Penyelenggaraan PAUD",
         "category": "Ameera",
-        "publish_time": "29-04-2026 10:29",
+        "publish_time": "29-04-2026 10:13",
         "news_link": "https://ameera.republika.co.id/berita/te93t2328/idai-dorong-daycare-patuhi-regulasi-penyelenggaraan-paud"
     },
     {
         "title": "Komisi I Apresiasi Capaian IPKD Jabar, Ingatkan Dampak Harus Dirasakan Rakyat",
         "category": "Rejabar",
-        "publish_time": "29-04-2026 10:28",
+        "publish_time": "29-04-2026 10:13",
         "news_link": "https://rejabar.republika.co.id/berita/te93sf472/komisi-i-apresiasi-capaian-ipkd-jabar-ingatkan-dampak-harus-dirasakan-rakyat"
     },
     {
         "title": "Pinjol Ilegal Dibabat Habis, 951 Entitas Ditutup dalam 3 Bulan",
         "category": "Ekonomi",
-        "publish_time": "29-04-2026 10:23",
+        "publish_time": "29-04-2026 10:13",
         "news_link": "https://ekonomi.republika.co.id/berita/te93jt423/pinjol-ilegal-dibabat-habis-951-entitas-ditutup-dalam-3-bulan"
     },
     {
         "title": "BGN Sebut Kepala SPPG Langgar Prosedur MBG Bisa Dipidana",
         "category": "Rejogja",
-        "publish_time": "29-04-2026 10:20",
+        "publish_time": "29-04-2026 10:13",
         "news_link": "https://rejogja.republika.co.id/berita/te93du282/bgn-sebut-kepala-sppg-langgar-prosedur-mbg-bisa-dipidana"
     },
     {
         "title": "Kepuasan Tinggi di Tengah Tekanan Ekonomi",
         "category": "Kolom",
-        "publish_time": "29-04-2026 10:18",
+        "publish_time": "29-04-2026 10:13",
         "news_link": "https://analisis.republika.co.id/berita/te93be393/kepuasan-tinggi-di-tengah-tekanan-ekonomi"
     },
     {
         "title": "KRL Bekasi-Cikarang Kembali Beroperasi",
         "category": "Ekonomi",
-        "publish_time": "29-04-2026 10:15",
+        "publish_time": "29-04-2026 10:13",
         "news_link": "https://ekonomi.republika.co.id/berita/te935j416/krl-bekasicikarang-kembali-beroperasi"
     },
     {
@@ -74,229 +218,85 @@
     {
         "title": "Usulan Gerbong Wanita ke Area Tengah KRL Tuai Kritik dan Perdebatan",
         "category": "Ameera",
-        "publish_time": "29-04-2026 10:10",
+        "publish_time": "29-04-2026 10:13",
         "news_link": "https://ameera.republika.co.id/berita/te92xl425/usulan-gerbong-wanita-ke-area-tengah-krl-tuai-kritik-dan-perdebatan"
     },
     {
         "title": "Menikmati Durian Black Thorn di Desa Terpencil",
         "category": "Retizen",
-        "publish_time": "29-04-2026 10:10",
+        "publish_time": "29-04-2026 10:13",
         "news_link": "https://retizen.republika.co.id/posts/754135/menikmati-durian-black-thorn-di-desa-terpencil"
     },
     {
         "title": "Rupiah Tembus Rp 17.326 Usai UEA Tinggalkan OPEC",
         "category": "Ekonomi",
-        "publish_time": "29-04-2026 10:09",
+        "publish_time": "29-04-2026 10:13",
         "news_link": "https://ekonomi.republika.co.id/berita/te92w5423/rupiah-tembus-rp-17326-usai-uea-tinggalkan-opec"
     },
     {
         "title": "Jepang Buka Pintu Ekspor Senjata: Antara Sejarah dan Realitas Keamanan",
         "category": "Kolom",
-        "publish_time": "29-04-2026 10:05",
+        "publish_time": "29-04-2026 10:13",
         "news_link": "https://analisis.republika.co.id/berita/te92os393/jepang-buka-pintu-ekspor-senjata-antara-sejarah-dan-realitas-keamanan"
     },
     {
         "title": "Soal Usulan Perubahan Posisi Gerbong Khusus Wanita Ini Respons Menhub",
         "category": "Video",
-        "publish_time": "29-04-2026 09:59",
+        "publish_time": "29-04-2026 10:13",
         "news_link": "https://republika.co.id/page/shorts/yt-te92g2733301249/soal-usulan-perubahan-posisi-gerbong-khusus-wanita-ini-respons-menhub"
     },
     {
         "title": "Aturan Baru Terbit, Masyarakat Adat Bisa Ikut Perdagangan Karbon",
         "category": "Esgnow",
-        "publish_time": "29-04-2026 09:51",
+        "publish_time": "29-04-2026 10:13",
         "news_link": "https://esgnow.republika.co.id/berita/te9220416/aturan-baru-terbit-masyarakat-adat-bisa-ikut-perdagangan-karbon"
     },
     {
         "title": "Risiko Bencana Meningkat, Literasi Asuransi Properti Perlu Digencarkan",
         "category": "Ekonomi",
-        "publish_time": "29-04-2026 09:50",
+        "publish_time": "29-04-2026 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/te919p416/risiko-bencana-meningkat-literasi-asuransi-properti-perlu-digencarkan"
     },
     {
         "title": "Presiden Prabowo Sebut MBG Bukti Kehadiran Negara bagi Rakyat",
         "category": "Ekonomi",
-        "publish_time": "29-04-2026 09:50",
+        "publish_time": "29-04-2026 09:13",
         "news_link": "https://ekonomi.republika.co.id/berita/te91ek423/presiden-prabowo-sebut-mbg-bukti-kehadiran-negara-bagi-rakyat"
     },
     {
         "title": "Penggambaran Hati Manusia dalam Alquran",
         "category": "Khazanah",
-        "publish_time": "29-04-2026 09:50",
+        "publish_time": "29-04-2026 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/te916c458/penggambaran-hati-manusia-dalam-alquran"
     },
     {
         "title": "Perkuat Kerja Sama Internasional, UIN Jakarta Jajaki Turki dengan Tradisi Keilmuan Islam Kuat",
         "category": "Khazanah",
-        "publish_time": "29-04-2026 09:50",
+        "publish_time": "29-04-2026 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/te915a320/perkuat-kerja-sama-internasional-uin-jakarta-jajaki-turki-dengan-tradisi-keilmuan-islam-kuat"
     },
     {
         "title": "Global Sumud Flotilla 2.0: Momentum Bangkitkan Kepedulian Dunia untuk Palestina",
         "category": "Retizen",
-        "publish_time": "29-04-2026 09:50",
+        "publish_time": "29-04-2026 09:13",
         "news_link": "https://retizen.republika.co.id/posts/754129/global-sumud-flotilla-2-0-momentum-bangkitkan-kepedulian-dunia-untuk-palestina"
     },
     {
         "title": "Tiga Teori Masuknya Islam ke Nusantara",
         "category": "Khazanah",
-        "publish_time": "29-04-2026 09:50",
+        "publish_time": "29-04-2026 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/te90pw458/tiga-teori-masuknya-islam-ke-nusantara"
     },
     {
         "title": "Penegasan Batas akan Dilakukan di 457 Desa di Sulawesi",
         "category": "Resulawesi",
-        "publish_time": "29-04-2026 08:50",
+        "publish_time": "29-04-2026 09:13",
         "news_link": "https://republika.co.id/berita//te90lj483/penegasan-batas-akan-dilakukan-di-457-desa-di-sulawesi"
     },
     {
         "title": "Seleksi Berlapis Menuju Al-Azhar Mesir, Apakah Masih Relevan?",
         "category": "Khazanah",
-        "publish_time": "29-04-2026 08:50",
+        "publish_time": "29-04-2026 09:13",
         "news_link": "https://khazanah.republika.co.id/berita/te8gtv320/seleksi-berlapis-menuju-alazhar-mesir-apakah-masih-relevan"
-    },
-    {
-        "title": "Bisakah Mobil Listrik Mendadak Mati Jika Lintasi Rel KA?",
-        "category": "Ameera",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://ameera.republika.co.id/berita/te8zvp328/bisakah-mobil-listrik-mendadak-mati-jika-lintasi-rel-ka"
-    },
-    {
-        "title": "Hubungan Mulai tak Harmonis, Benarkah AS Hentikan Bantuan Militer Langsung ke Israel?",
-        "category": "Khazanah",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://khazanah.republika.co.id/berita/te8zo3320/hubungan-mulai-tak-harmonis-benarkah-as-hentikan-bantuan-militer-langsung-ke-israel"
-    },
-    {
-        "title": "Forum Ketua PWNU Desak PBNU Gelar Muktamar Paling Lambat Awal Agustus 2026",
-        "category": "Khazanah",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://khazanah.republika.co.id/berita/te8wzd430/forum-ketua-pwnu-desak-pbnu-gelar-muktamar-paling-lambat-awal-agustus-2026"
-    },
-    {
-        "title": "Empat Tentara Penyiraman Andrie Yunus Ketahuan Setelah Absen Apel",
-        "category": "News",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://news.republika.co.id/berita/te8zns484/empat-tentara-penyiraman-andrie-yunus-ketahuan-setelah-absen-apel"
-    },
-    {
-        "title": "Praktik Kecantikan Ilegal Disorot, Polda Riau Ingatkan Pentingnya Kompetensi Tenaga Medis",
-        "category": "News",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://news.republika.co.id/berita/te8zmy522/praktik-kecantikan-ilegal-disorot-polda-riau-ingatkan-pentingnya-kompetensi-tenaga-medis"
-    },
-    {
-        "title": "Kelola Anggaran Negara, Polda Riau Tekankan Transparansi dan Layanan Publik",
-        "category": "News",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://news.republika.co.id/berita/te8zhx522/kelola-anggaran-negara-polda-riau-tekankan-transparansi-dan-layanan-publik"
-    },
-    {
-        "title": "400 Tahun Syekh Yusuf Masuk Agenda UNESCO, AMSY Usulkan Film Layar Lebar",
-        "category": "News",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://news.republika.co.id/berita/te8zgq472/400-tahun-syekh-yusuf-masuk-agenda-unesco-amsy-usulkan-film-layar-lebar"
-    },
-    {
-        "title": "Pertamina Patra Niaga dan Pemerintah Resmikan SPBUN di Aceh Selatan, Perkuat Akses Energi Nelayan",
-        "category": "Ekonomi",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://ekonomi.republika.co.id/berita/te8zcb522/pertamina-patra-niaga-dan-pemerintah-resmikan-spbun-di-aceh-selatan-perkuat-akses-energi-nelayan"
-    },
-    {
-        "title": "Kolaborasi Kampus Berdampak, Astra Dorong Komoditas Unggulan di Daerah",
-        "category": "News",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://news.republika.co.id/berita/te8wtx430/kolaborasi-kampus-berdampak-astra-dorong-komoditas-unggulan-di-daerah"
-    },
-    {
-        "title": "Mantan Eks Bos Mossad Merasa Malu Jadi Yahudi",
-        "category": "News",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://news.republika.co.id/berita/te8z1a377/mantan-eks-bos-mossad-merasa-malu-jadi-yahudi"
-    },
-    {
-        "title": "Sjafruddin Prawiranegara dan Motif Ekonomi Nir-manusiawi",
-        "category": "Kolom",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://analisis.republika.co.id/berita/te8z01458/sjafruddin-prawiranegara-dan-motif-ekonomi-nirmanusiawi"
-    },
-    {
-        "title": "Update Kecelakaan KA di Bekasi Timur 106 Korban KRL Segera Dibuka Kembali",
-        "category": "Video",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://republika.co.id/page/shorts/yt-te8yz21695076672/update-kecelakaan-ka-di-bekasi-timur-106-korban-krl-segera-dibuka-kembali"
-    },
-    {
-        "title": "Demokrasi Minus Meritokrasi",
-        "category": "Rejogja",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://rejogja.republika.co.id/berita/te8yyc282/demokrasi-minus-meritokrasi"
-    },
-    {
-        "title": "BNI Cetak Laba Jumbo Rp 5,68 Triliun Awal 2026, Ekonomi Domestik Tertopang",
-        "category": "Ekonomi",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://ekonomi.republika.co.id/berita/te8yxw423/bni-cetak-laba-jumbo-rp-568-triliun-awal-2026-ekonomi-domestik-tertopang"
-    },
-    {
-        "title": "Pemprov DKI Siap Bangun Flyover atau Underpass Atasi Perlintasan Sebidang",
-        "category": "News",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://news.republika.co.id/berita/te8ysw484/pemprov-dki-siap-bangun-flyover-atau-underpass-atasi-perlintasan-sebidang"
-    },
-    {
-        "title": "GP Ansor Peringati Harlah ke-92 dengan Gowes Sambil Ziarah Akbar",
-        "category": "Khazanah",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://khazanah.republika.co.id/berita/te8yjy483/gp-ansor-peringati-harlah-ke92-dengan-gowes-sambil-ziarah-akbar"
-    },
-    {
-        "title": "Hakim Perintahkan Andrie Yunus Dihadirkan di Persidangan",
-        "category": "News",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://news.republika.co.id/berita/te8yiw409/hakim-perintahkan-andrie-yunus-dihadirkan-di-persidangan"
-    },
-    {
-        "title": "Jelang Deadline Pelaporan, Ingat! Wajib Pajak Jangan Asal Hapus Bukti Potong di SPT",
-        "category": "Ekonomi",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://ekonomi.republika.co.id/berita/te8yff490/jelang-deadline-pelaporan-ingat-wajib-pajak-jangan-asal-hapus-bukti-potong-di-spt"
-    },
-    {
-        "title": "Susi Pudjiastuti Jadi Komisaris Utama, bjb Siap Tebar Dividen Rp 900 Miliar",
-        "category": "Ekonomi",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://ekonomi.republika.co.id/berita/te8yan423/susi-pudjiastuti-jadi-komisaris-utama-bjb-siap-tebar-dividen-rp-900-miliar"
-    },
-    {
-        "title": "BCA Mulai Buyback Saham",
-        "category": "Ekonomi",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://ekonomi.republika.co.id/berita/te8y32416/bca-mulai-buyback-saham"
-    },
-    {
-        "title": "Uni Emirat Arab Resmi Keluar dari OPEC, Ini Alasan dan Dampaknya bagi Pasar Minyak",
-        "category": "Ekonomi",
-        "publish_time": "29-04-2026 08:50",
-        "news_link": "https://ekonomi.republika.co.id/berita/te8y2g370/uni-emirat-arab-resmi-keluar-dari-opec-ini-alasan-dan-dampaknya-bagi-pasar-minyak"
-    },
-    {
-        "title": "Jelang Pergeseran ke Makkah, Jamaah Haji di Madinah Mulai Ramai Kirim Oleh-oleh Via Kargo",
-        "category": "Khazanah",
-        "publish_time": "29-04-2026 07:50",
-        "news_link": "https://khazanah.republika.co.id/berita/te8xhi430/jelang-pergeseran-ke-makkah-jamaah-haji-di-madinah-mulai-ramai-kirim-oleholeh-via-kargo"
-    },
-    {
-        "title": "Arab Saudi Izinkan Warga Lokal dan Teluk Umrah Hingga 3 Mei 2026",
-        "category": "Khazanah",
-        "publish_time": "29-04-2026 07:50",
-        "news_link": "https://khazanah.republika.co.id/berita/te8xbx366/arab-saudi-izinkan-warga-lokal-dan-teluk-umrah-hingga-3-mei-2026"
-    },
-    {
-        "title": "Sekjen Propindo Sebut Organisasi Advokat Zaman Modern Bersifat Multi-Bar",
-        "category": "News",
-        "publish_time": "29-04-2026 07:50",
-        "news_link": "https://news.republika.co.id/berita/te8x6u484/sekjen-propindo-sebut-organisasi-advokat-zaman-modern-bersifat-multibar"
     }
 ]
