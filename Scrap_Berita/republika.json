@@ -1,20 +1,134 @@
 [
     {
+        "title": "Geopolitik Memanas, Bitcoin Justru Menguat",
+        "category": "Ekonomi",
+        "publish_time": "05-05-2026 11:48",
+        "news_link": "https://ekonomi.republika.co.id/berita/tekbhf416/geopolitik-memanas-bitcoin-justru-menguat"
+    },
+    {
+        "title": "Syiarkan Layanan Syariah BPJS Kesehatan, Ratusan Dai Kota Balikpapan Digembleng",
+        "category": "Khazanah",
+        "publish_time": "05-05-2026 11:48",
+        "news_link": "https://khazanah.republika.co.id/berita/tekbge320/syiarkan-layanan-syariah-bpjs-kesehatan-ratusan-dai-kota-balikpapan-digembleng"
+    },
+    {
+        "title": "UMJ Perkuat Reputasi Global Lewat Riset Keberlanjutan di Kepulauan Seribu",
+        "category": "News",
+        "publish_time": "05-05-2026 11:47",
+        "news_link": "https://news.republika.co.id/berita/tekbg6368/umj-perkuat-reputasi-global-lewat-riset-keberlanjutan-di-kepulauan-seribu"
+    },
+    {
+        "title": "BGN Goes to Campus di Unhas, Dorong Kampus Jadi Episentrum MBG Indonesia Timur",
+        "category": "News",
+        "publish_time": "05-05-2026 11:38",
+        "news_link": "https://news.republika.co.id/berita/tekb16368/bgn-goes-to-campus-di-unhas-dorong-kampus-jadi-episentrum-mbg-indonesia-timur"
+    },
+    {
+        "title": "Tanggapi Pelecehan Seksual di Ponpes, Majelis Masyayikh Nyatakan tak Berwenang Awasi Pesantren",
+        "category": "Khazanah",
+        "publish_time": "05-05-2026 11:38",
+        "news_link": "https://khazanah.republika.co.id/berita/tekb01483/tanggapi-pelecehan-seksual-di-ponpes-majelis-masyayikh-nyatakan-tak-berwenang-awasi-pesantren"
+    },
+    {
+        "title": "PBSI Apresiasi Tim Uber Indonesia yang Raih Perunggu",
+        "category": "News",
+        "publish_time": "05-05-2026 11:23",
+        "news_link": "https://news.republika.co.id/berita/tekabw348/pbsi-apresiasi-tim-uber-indonesia-yang-raih-perunggu"
+    },
+    {
+        "title": "Tuduhan ke Sekretaris Kabinet Hanya Fitnah Personal",
+        "category": "News",
+        "publish_time": "05-05-2026 11:22",
+        "news_link": "https://news.republika.co.id/berita/tekaac484/tuduhan-ke-sekretaris-kabinet-hanya-fitnah-personal"
+    },
+    {
+        "title": "Bangun PLTSa, Pramono Optimistis Bisa Tangani Masalah Sampah di Jakarta",
+        "category": "News",
+        "publish_time": "05-05-2026 11:16",
+        "news_link": "https://news.republika.co.id/berita/teka0b484/bangun-pltsa-pramono-optimistis-bisa-tangani-masalah-sampah-di-jakarta"
+    },
+    {
+        "title": "Kapal Korsel Meledak di Selat Hormuz, Seol Selidiki Penyebab Kebakaran",
+        "category": "Khazanah",
+        "publish_time": "05-05-2026 11:01",
+        "news_link": "https://khazanah.republika.co.id/berita/tek9ae483/kapal-korsel-meledak-di-selat-hormuz-seol-selidiki-penyebab-kebakaran"
+    },
+    {
+        "title": "Korban Kekerasan Seksual Pengasuh Ponpes di Pati adalah Anak Yatim Piatu hingga Anak Tidak Mampu",
+        "category": "Video",
+        "publish_time": "05-05-2026 10:59",
+        "news_link": "https://republika.co.id/page/shorts/yt-tek98271505561/korban-kekerasan-seksual-pengasuh-ponpes-di-pati-adalah-anak-yatim-piatu-hingga-anak-tidak-mampu"
+    },
+    {
+        "title": "Banjir Rendam 18 RT di Wilayah Jakarta, Ketinggian Air Capai 95 Cm",
+        "category": "Visual",
+        "publish_time": "05-05-2026 10:55",
+        "news_link": "https://visual.republika.co.id/berita/tek90v375/banjir-rendam-18-rt-di-wilayah-jakarta-ketinggian-air-capai-95-cm"
+    },
+    {
+        "title": "Pemerintah Uji Publik RUU Hak Cipta, AI dan Royalti Jadi Fokus",
+        "category": "Ekonomi",
+        "publish_time": "05-05-2026 10:55",
+        "news_link": "https://ekonomi.republika.co.id/berita/tek903416/pemerintah-uji-publik-ruu-hak-cipta-ai-dan-royalti-jadi-fokus"
+    },
+    {
+        "title": "Menkeu: Belanja Program Makan Bergizi Gratis Dipastikan Lebih Efisien",
+        "category": "Ekonomi",
+        "publish_time": "05-05-2026 10:55",
+        "news_link": "https://ekonomi.republika.co.id/berita/tek8os370/menkeu-belanja-program-makan-bergizi-gratis-dipastikan-lebih-efisien"
+    },
+    {
+        "title": "Hari Buruh, BPJS Ketenagakerjaan Komitmen Berikan Perlindungan untuk Pekerja",
+        "category": "Rejakarta",
+        "publish_time": "05-05-2026 10:55",
+        "news_link": "https://republika.co.id/berita//tek88u430/hari-buruh-bpjs-ketenagakerjaan-komitmen-berikan-perlindungan-untuk-pekerja"
+    },
+    {
+        "title": "Brantas Abipraya Kebut Pembangunan Sekolah Rakyat di Kalsel dan Sulut",
+        "category": "Ekonomi",
+        "publish_time": "05-05-2026 10:55",
+        "news_link": "https://ekonomi.republika.co.id/berita/tek7nn416/brantas-abipraya-kebut-pembangunan-sekolah-rakyat-di-kalsel-dan-sulut"
+    },
+    {
+        "title": "IHSG Terkoreksi Hampir 20 Persen, Jumlah Investor Saham Justru Naik 30 Persen",
+        "category": "Ekonomi",
+        "publish_time": "05-05-2026 09:55",
+        "news_link": "https://ekonomi.republika.co.id/berita/tek74i370/ihsg-terkoreksi-hampir-20-persen-jumlah-investor-saham-justru-naik-30-persen"
+    },
+    {
+        "title": "Ratusan Orang Diduga Jadi Korban Penipuan Pembangunan Perumahan Mewah di Bandung Barat",
+        "category": "Rejabar",
+        "publish_time": "05-05-2026 09:55",
+        "news_link": "https://rejabar.republika.co.id/berita/tek6ko282/ratusan-orang-diduga-jadi-korban-penipuan-pembangunan-perumahan-mewah-di-bandung-barat"
+    },
+    {
+        "title": "Perkuat Youth Diplomacy, Indonesia dan Singapura Tandatangani MoU Kerjasama di SEAMMYS 2026",
+        "category": "News",
+        "publish_time": "05-05-2026 09:55",
+        "news_link": "https://news.republika.co.id/berita/tek6ya348/perkuat-youth-diplomacy-indonesia-dan-singapura-tandatangani-mou-kerjasama-di-seammys-2026"
+    },
+    {
         "title": "BGN Dorong Kolaborasi ASEAN Perkuat Sistem Pangan dan Gizi",
         "category": "Ekonomi",
-        "publish_time": "05-05-2026 10:06",
+        "publish_time": "05-05-2026 09:55",
         "news_link": "https://ekonomi.republika.co.id/berita/tek6qr416/bgn-dorong-kolaborasi-asean-perkuat-sistem-pangan-dan-gizi"
     },
     {
         "title": "Bikin Geleng Kepala, Pengunjung Selundupkan Sabu Lewat Dubur ke Lapas Banceuy",
         "category": "Rejabar",
-        "publish_time": "05-05-2026 10:06",
+        "publish_time": "05-05-2026 09:55",
         "news_link": "https://rejabar.republika.co.id/berita/tek5yx282/bikin-geleng-kepala-pengunjung-selundupkan-sabu-lewat-dubur-ke-lapas-banceuy"
+    },
+    {
+        "title": "Analis: Jepang Beri Senjata Mematikan ke RI dan Filipina Buat Tangkal Ambisi China",
+        "category": "News",
+        "publish_time": "05-05-2026 09:55",
+        "news_link": "https://news.republika.co.id/berita/tek6kv377/analis-jepang-beri-senjata-mematikan-ke-ri-dan-filipina-buat-tangkal-ambisi-china"
     },
     {
         "title": "Penumpang Kereta Argo Bromo Anggrek Gugat PT KAI Rp 100 Miliar ke PN Bandung",
         "category": "Rejabar",
-        "publish_time": "05-05-2026 10:00",
+        "publish_time": "05-05-2026 09:55",
         "news_link": "https://rejabar.republika.co.id/berita/tek69l282/penumpang-kereta-argo-bromo-anggrek-gugat-pt-kai-rp-100-miliar-ke-pn-bandung"
     },
     {
@@ -32,271 +146,157 @@
     {
         "title": "Ombudsman RI Buka Posko Pengaduan Daring untuk Jamaah Haji",
         "category": "Khazanah",
-        "publish_time": "05-05-2026 09:53",
+        "publish_time": "05-05-2026 09:55",
         "news_link": "https://khazanah.republika.co.id/berita/tek656483/ombudsman-ri-buka-posko-pengaduan-daring-untuk-jamaah-haji"
     },
     {
         "title": "ITDC Gairahkan Kawasan Lewat Mandalika Wellness & Cultural Festival 2026",
         "category": "Ekonomi",
-        "publish_time": "05-05-2026 09:49",
+        "publish_time": "05-05-2026 09:55",
         "news_link": "https://ekonomi.republika.co.id/berita/tek5yx368/itdc-gairahkan-kawasan-lewat-mandalika-wellness-cultural-festival-2026"
     },
     {
         "title": "Film \u201cMusikal Mengeong!\u201d Kisahkan Hewan Peliharaan Jadi Sumber Dukungan Emosional",
         "category": "Ameera",
-        "publish_time": "05-05-2026 09:48",
+        "publish_time": "05-05-2026 09:55",
         "news_link": "https://ameera.republika.co.id/berita/tek5wh472/film-musikal-mengeong-kisahkan-hewan-peliharaan-jadi-sumber-dukungan-emosional"
     },
     {
         "title": "Pelatih Irak Ungkap Sisi Gelap Keputusan AFC di Playoff Piala Dunia yang Rugikan Timnas Indonesia",
         "category": "News",
-        "publish_time": "05-05-2026 09:46",
+        "publish_time": "05-05-2026 09:55",
         "news_link": "https://news.republika.co.id/berita/tek5tn348/pelatih-irak-ungkap-sisi-gelap-keputusan-afc-di-playoff-piala-dunia-yang-rugikan-timnas-indonesia"
     },
     {
         "title": "Terdakwa Pembunuh Satu Keluarga Disidang, Keluarga Korban Berharap Hukuman  Mati",
         "category": "Rejabar",
-        "publish_time": "05-05-2026 09:42",
+        "publish_time": "05-05-2026 09:55",
         "news_link": "https://rejabar.republika.co.id/berita/tek5mr282/terdakwa-pembunuh-satu-keluarga-disidang-keluarga-korban-berharap-hukuman-mati"
     },
     {
         "title": "Bogor Dikepung Banjir Tanah Longsor",
         "category": "Rejakarta",
-        "publish_time": "05-05-2026 09:33",
+        "publish_time": "05-05-2026 09:55",
         "news_link": "https://republika.co.id/berita//tek581282/bogor-dikepung-banjir-tanah-longsor"
     },
     {
         "title": "Detik-Detik Waketum PSI Bro Ron Alami Kekerasan",
         "category": "Video",
-        "publish_time": "05-05-2026 09:30",
+        "publish_time": "05-05-2026 09:55",
         "news_link": "https://republika.co.id/page/shorts/yt-tek523753328815/detik-detik-waketum-psi-bro-ron-alami-kekerasan"
     },
     {
         "title": "Mulai Besok, Halte Transjakarta Manggarai Ditutup Sementara",
         "category": "News",
-        "publish_time": "05-05-2026 09:29",
+        "publish_time": "05-05-2026 09:55",
         "news_link": "https://news.republika.co.id/berita/tek50n487/mulai-besok-halte-transjakarta-manggarai-ditutup-sementara"
     },
     {
         "title": "AS Kawal Kapal Komersial Keluar dari Hormuz Operasi tak Mungkin, Ini Analisis Eks Petinggi Inggris",
         "category": "News",
-        "publish_time": "05-05-2026 09:22",
+        "publish_time": "05-05-2026 08:55",
         "news_link": "https://news.republika.co.id/berita/tek4ow377/as-kawal-kapal-komersial-keluar-dari-hormuz-operasi-tak-mungkin-ini-analisis-eks-petinggi-inggris"
     },
     {
         "title": "Banjir Bandang Terjang Cipanas Puncak dan Ciomas Bogor, Jalanan Berubah Seperti Lautan",
         "category": "Rejabar",
-        "publish_time": "05-05-2026 09:13",
+        "publish_time": "05-05-2026 08:55",
         "news_link": "https://rejabar.republika.co.id/berita/tek4b5282/banjir-bandang-terjang-cipanas-puncak-dan-ciomas-bogor-jalanan-berubah-seperti-lautan"
     },
     {
         "title": "Garudayaksa dan PSS Sleman Promosi ke Super League, Persipura Tantang Adhyaksa Rebut Jatah Terakhir",
         "category": "News",
-        "publish_time": "05-05-2026 09:11",
+        "publish_time": "05-05-2026 08:55",
         "news_link": "https://news.republika.co.id/berita/tek466348/garudayaksa-dan-pss-sleman-promosi-ke-super-league-persipura-tantang-adhyaksa-rebut-jatah-terakhir"
     },
     {
         "title": "Penilaian Pengamanan Mudik, Pospam Terpadu Polresta Bandung Raih Juara Umum",
         "category": "Rejabar",
-        "publish_time": "05-05-2026 09:10",
+        "publish_time": "05-05-2026 08:55",
         "news_link": "https://rejabar.republika.co.id/berita/tek45d416/penilaian-pengamanan-mudik-pospam-terpadu-polresta-bandung-raih-juara-umum"
     },
     {
         "title": "Jelang Tahun Ajaran Baru, Ini Strategi Keuangan Pendidikan Anak yang Perlu Disiapkan",
         "category": "Ekonomi",
-        "publish_time": "05-05-2026 09:10",
+        "publish_time": "05-05-2026 08:55",
         "news_link": "https://ekonomi.republika.co.id/berita/tek452370/jelang-tahun-ajaran-baru-ini-strategi-keuangan-pendidikan-anak-yang-perlu-disiapkan"
     },
     {
         "title": "77.269 Jamaah Haji Indonesia Tiba di Arab Saudi, 20 Ribu Sudah di Makkah",
         "category": "Khazanah",
-        "publish_time": "05-05-2026 09:10",
+        "publish_time": "05-05-2026 08:55",
         "news_link": "https://khazanah.republika.co.id/berita/tek44j366/77269-jamaah-haji-indonesia-tiba-di-arab-saudi-20-ribu-sudah-di-makkah"
     },
     {
         "title": "Guru Sejahtera, Sekolah Sehat: Fondasi Pendidikan Berkualitas",
         "category": "Kolom",
-        "publish_time": "05-05-2026 09:09",
+        "publish_time": "05-05-2026 08:55",
         "news_link": "https://analisis.republika.co.id/berita/tek3za458/guru-sejahtera-sekolah-sehat-fondasi-pendidikan-berkualitas"
     },
     {
         "title": "Sudah tak Ada Aktivitas, Ponpes Ndholo Kusumo akan Ditutup Permanen",
         "category": "Khazanah",
-        "publish_time": "05-05-2026 09:09",
+        "publish_time": "05-05-2026 08:55",
         "news_link": "https://khazanah.republika.co.id/berita/tek3pb483/sudah-tak-ada-aktivitas-ponpes-ndholo-kusumo-akan-ditutup-permanen"
     },
     {
-        "title": "Ekonomi RI Tumbuh 5,61 Persen, Program MBG Beri Andil",
+        "title": "Program MBG Beri Andil Terhadap Pertumbuhan Ekonomi RI 5,61 Persen",
         "category": "Ekonomi",
-        "publish_time": "05-05-2026 09:09",
-        "news_link": "https://ekonomi.republika.co.id/berita/tek3d4370/ekonomi-ri-tumbuh-561-persen-program-mbg-beri-andil"
+        "publish_time": "05-05-2026 08:55",
+        "news_link": "https://ekonomi.republika.co.id/berita/tek3d4370/program-mbg-beri-andil-terhadap-pertumbuhan-ekonomi-ri-561-persen"
     },
     {
         "title": "Aktivis Perempuan Soroti Pernyataan Kritik Amien Rais yang tidak Lazim",
         "category": "News",
-        "publish_time": "05-05-2026 09:09",
+        "publish_time": "05-05-2026 08:55",
         "news_link": "https://news.republika.co.id/berita/tek329484/aktivis-perempuan-soroti-pernyataan-kritik-amien-rais-yang-tidak-lazim"
     },
     {
         "title": "Sikap Kufur Nikmat dan Tumbangnya Israel Raya",
         "category": "Kolom",
-        "publish_time": "05-05-2026 09:09",
+        "publish_time": "05-05-2026 08:55",
         "news_link": "https://www.republika.id/posts/60111/sikap-kufur-nikmat-dan-tumbangnya-israel-raya"
     },
     {
         "title": "Pilu Korban Bayar Miliaran Rupiah Beli Rumah yang tak Kunjung Dibangun Pengembang",
         "category": "Rejabar",
-        "publish_time": "05-05-2026 08:09",
+        "publish_time": "05-05-2026 08:55",
         "news_link": "https://rejabar.republika.co.id/berita/tek2nm487/pilu-korban-bayar-miliaran-rupiah-beli-rumah-yang-tak-kunjung-dibangun-pengembang"
     },
     {
         "title": "Lega Ekonomi Tumbuh 5,61 Persen, Purbaya: Kutukan 5 Persen Terlewati",
         "category": "Ekonomi",
-        "publish_time": "05-05-2026 08:09",
+        "publish_time": "05-05-2026 08:55",
         "news_link": "https://ekonomi.republika.co.id/berita/tek2jk490/lega-ekonomi-tumbuh-561-persen-purbaya-kutukan-5-persen-terlewati"
     },
     {
         "title": "Korea Selatan Perketat Aturan Rokok Elektrik, Penjualan Online Dilarang",
         "category": "Ameera",
-        "publish_time": "05-05-2026 08:09",
+        "publish_time": "05-05-2026 08:55",
         "news_link": "https://ameera.republika.co.id/berita/tek2jd328/korea-selatan-perketat-aturan-rokok-elektrik-penjualan-online-dilarang"
     },
     {
         "title": "Kapal Nelayan Indramayu Ramai-Ramai tak Melaut karena Harga Solar Meroket, Haji Tisa: Berat!",
         "category": "News",
-        "publish_time": "05-05-2026 08:09",
+        "publish_time": "05-05-2026 08:55",
         "news_link": "https://news.republika.co.id/berita/tek24z377/kapal-nelayan-indramayu-ramairamai-tak-melaut-karena-harga-solar-meroket-haji-tisa-berat"
     },
     {
         "title": "Jakarta Dikepung Banjir, Gubernur Pramono Bilang karena Curah Hujannya Tinggi",
         "category": "News",
-        "publish_time": "05-05-2026 08:09",
+        "publish_time": "05-05-2026 07:55",
         "news_link": "https://news.republika.co.id/berita/tek209487/jakarta-dikepung-banjir-gubernur-pramono-bilang-karena-curah-hujannya-tinggi"
     },
     {
         "title": "Menkeu: Insentif Kendaraan Listrik Disiapkan, Kuota Awal 100 Ribu Unit",
         "category": "Ekonomi",
-        "publish_time": "05-05-2026 08:09",
+        "publish_time": "05-05-2026 07:55",
         "news_link": "https://ekonomi.republika.co.id/berita/tek1xb370/menkeu-insentif-kendaraan-listrik-disiapkan-kuota-awal-100-ribu-unit"
     },
     {
         "title": "Harga Minyak Mahal, Pemerintah Didorong Percepat Transisi Energi",
         "category": "Esgnow",
-        "publish_time": "05-05-2026 08:09",
+        "publish_time": "05-05-2026 07:55",
         "news_link": "https://esgnow.republika.co.id/berita/tek1m5416/harga-minyak-mahal-pemerintah-didorong-percepat-transisi-energi"
-    },
-    {
-        "title": "Menteri UMKM: Rp 70 Triliun KUR Disalurkan ke Sektor Mikro",
-        "category": "Ekonomi",
-        "publish_time": "05-05-2026 08:09",
-        "news_link": "https://ekonomi.republika.co.id/berita/tek1l5370/menteri-umkm-rp-70-triliun-kur-disalurkan-ke-sektor-mikro"
-    },
-    {
-        "title": "Cerita Pemilik 11 Kapal yang tak Bisa Melaut karena Solar Mahal, ABK Mulai Kasbon Juragan",
-        "category": "Rejabar",
-        "publish_time": "05-05-2026 08:09",
-        "news_link": "https://rejabar.republika.co.id/berita/tek1ib487/cerita-pemilik-11-kapal-yang-tak-bisa-melaut-karena-solar-mahal-abk-mulai-kasbon-juragan"
-    },
-    {
-        "title": "Pasar Keuangan Berfluktuasi di Tengah Eskalasi Perang Timur Tengah, OJK Lakukan Stress Test",
-        "category": "Ekonomi",
-        "publish_time": "05-05-2026 08:09",
-        "news_link": "https://ekonomi.republika.co.id/berita/tek15a490/pasar-keuangan-berfluktuasi-di-tengah-eskalasi-perang-timur-tengah-ojk-lakukan-stress-test"
-    },
-    {
-        "title": "Meski Jumlah Penduduk Tetap Naik, BPS Sebut Laju Pertumbuhan Penduduk Indonesia Melambat",
-        "category": "Ekonomi",
-        "publish_time": "05-05-2026 08:09",
-        "news_link": "https://ekonomi.republika.co.id/berita/tek154370/meski-jumlah-penduduk-tetap-naik-bps-sebut-laju-pertumbuhan-penduduk-indonesia-melambat"
-    },
-    {
-        "title": "Bantah Amerika, Iran: AS Serang Kapal Sipil, Lima Warga Terbunuh",
-        "category": "News",
-        "publish_time": "05-05-2026 08:09",
-        "news_link": "https://news.republika.co.id/berita/tek0wb377/bantah-amerika-iran-as-serang-kapal-sipil-lima-warga-terbunuh"
-    },
-    {
-        "title": "Perempuan Kulit Hitam Cenderung Alami Perimenopause Lebih Awal",
-        "category": "Ameera",
-        "publish_time": "05-05-2026 08:09",
-        "news_link": "https://ameera.republika.co.id/berita/tek0vp328/perempuan-kulit-hitam-cenderung-alami-perimenopause-lebih-awal"
-    },
-    {
-        "title": "KA Argo Bromo Anggrek Ganti Nama Jadi KA Anggrek",
-        "category": "Ekonomi",
-        "publish_time": "05-05-2026 08:09",
-        "news_link": "https://ekonomi.republika.co.id/berita/tek0vg502/ka-argo-bromo-anggrek-ganti-nama-jadi-ka-anggrek"
-    },
-    {
-        "title": "Ini Alasan Pemprov Jakarta Tetap Bebaskan Pajak Kendaraan Listrik, Bagaimana dengan Ganjil-Genap?",
-        "category": "News",
-        "publish_time": "05-05-2026 08:09",
-        "news_link": "https://news.republika.co.id/berita/tek0tl487/ini-alasan-pemprov-jakarta-tetap-bebaskan-pajak-kendaraan-listrik-bagaimana-dengan-ganjilgenap"
-    },
-    {
-        "title": "Soal Beli Saham Aplikator Ojol, Bos Danantara: Kita Sudah Masuk",
-        "category": "Ekonomi",
-        "publish_time": "05-05-2026 08:09",
-        "news_link": "https://ekonomi.republika.co.id/berita/tek004490/soal-beli-saham-aplikator-ojol-bos-danantara-kita-sudah-masuk"
-    },
-    {
-        "title": "Dahnil: Lansia Jangan Paksakan Diri Saat Berada di Tanah Suci, KBIHU Setop Jadikan Jamaah Komoditas",
-        "category": "Khazanah",
-        "publish_time": "05-05-2026 07:09",
-        "news_link": "https://khazanah.republika.co.id/berita/tejzvp483/dahnil-lansia-jangan-paksakan-diri-saat-berada-di-tanah-suci-kbihu-setop-jadikan-jamaah-komoditas"
-    },
-    {
-        "title": "Disebut HRS Jadi 'Jenderal Baliho' Bisiki Presiden Soal Kabur ke Yaman, Begini Respons Dudung",
-        "category": "News",
-        "publish_time": "05-05-2026 07:09",
-        "news_link": "https://news.republika.co.id/berita/tejzuh377/disebut-hrs-jadi-jenderal-baliho-bisiki-presiden-soal-kabur-ke-yaman-begini-respons-dudung"
-    },
-    {
-        "title": "Solar Meroket, Begini Tips Hemat BBM untuk Mobil Diesel",
-        "category": "Ameera",
-        "publish_time": "05-05-2026 07:09",
-        "news_link": "https://ameera.republika.co.id/berita/tejzl1328/solar-meroket-begini-tips-hemat-bbm-untuk-mobil-diesel"
-    },
-    {
-        "title": "Berhaji di Usia 14 Tahun, Vania Emban Amanah Besar dari Almarhum Ayah",
-        "category": "Khazanah",
-        "publish_time": "05-05-2026 07:09",
-        "news_link": "https://khazanah.republika.co.id/berita/tejzfa483/berhaji-di-usia-14-tahun-vania-emban-amanah-besar-dari-almarhum-ayah"
-    },
-    {
-        "title": "Ekonomi RI Tumbuh 5,61 Persen, BPS Sebut MBG Berperan",
-        "category": "Ekonomi",
-        "publish_time": "05-05-2026 07:09",
-        "news_link": "https://ekonomi.republika.co.id/berita/tejzez423/ekonomi-ri-tumbuh-561-persen-bps-sebut-mbg-berperan"
-    },
-    {
-        "title": "Sejarah Hantavirus, dari Perang Korea Kini Mewabah di Kapal Pesiar",
-        "category": "Ameera",
-        "publish_time": "05-05-2026 07:09",
-        "news_link": "https://ameera.republika.co.id/berita/tejz5x425/sejarah-hantavirus-dari-perang-korea-kini-mewabah-di-kapal-pesiar"
-    },
-    {
-        "title": "Ekonomi Kuartal I 2026 Minus Secara Kuartalan, Ini Faktor Utamanya",
-        "category": "Ekonomi",
-        "publish_time": "05-05-2026 07:09",
-        "news_link": "https://ekonomi.republika.co.id/berita/tejz5f416/ekonomi-kuartal-i-2026-minus-secara-kuartalan-ini-faktor-utamanya"
-    },
-    {
-        "title": "Tak Kenal Lelah Layani Jamaah",
-        "category": "Khazanah",
-        "publish_time": "05-05-2026 07:09",
-        "news_link": "https://khazanah.republika.co.id/berita/tejz1m483/tak-kenal-lelah-layani-jamaah"
-    },
-    {
-        "title": "Insentif EV Bisa Jadi Opsi Baru Tekan Beban BBM dan Subsidi",
-        "category": "Ekonomi",
-        "publish_time": "05-05-2026 07:09",
-        "news_link": "https://ekonomi.republika.co.id/berita/tejxzx423/insentif-ev-bisa-jadi-opsi-baru-tekan-beban-bbm-dan-subsidi"
-    },
-    {
-        "title": "Met Gala 2026 Pecahkan Rekor Dana 42 Juta Dolar AS, Anna Wintour Puji Peran Lauren S\u00e1nchez Bezos",
-        "category": "Ameera",
-        "publish_time": "05-05-2026 07:09",
-        "news_link": "https://ameera.republika.co.id/berita/tejynn328/met-gala-2026-pecahkan-rekor-dana-42-juta-dolar-as-anna-wintour-puji-peran-lauren-snchez-bezos"
     }
 ]
