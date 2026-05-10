@@ -1,5 +1,101 @@
 [
     {
+        "title": "Karhutla dan Ancaman Krisis Iklim Jadi Sorotan Jelang Musim Kemarau di Riau",
+        "category": "Esgnow",
+        "publish_time": "10 May 2026, 12:05",
+        "news_link": "https://esgnow.republika.co.id/berita/tet24l522/karhutla-dan-ancaman-krisis-iklim-jadi-sorotan-jelang-musim-kemarau-di-riau"
+    },
+    {
+        "title": "Sa,i Resiliensi, dan Mentalitas Indonesia",
+        "category": "Kolom",
+        "publish_time": "10 May 2026, 12:00",
+        "news_link": "https://analisis.republika.co.id/berita/tet1wx472/sai-resiliensi-dan-mentalitas-indonesia"
+    },
+    {
+        "title": "Gubernur Pramono Jadikan Rasuna Said Jadi Ikon Baru Jakarta Setelah Tiang Monorel Dibongkar",
+        "category": "News",
+        "publish_time": "10 May 2026, 11:53",
+        "news_link": "https://news.republika.co.id/berita/tet1lv348/gubernur-pramono-jadikan-rasuna-said-jadi-ikon-baru-jakarta-setelah-tiang-monorel-dibongkar"
+    },
+    {
+        "title": "Kapitalisasi Pasar Tembus Rp12.406 Triliun, Sinyal IHSG Bangkit?",
+        "category": "Ekonomi",
+        "publish_time": "10 May 2026, 11:31",
+        "news_link": "https://ekonomi.republika.co.id/berita/tet0k5416/kapitalisasi-pasar-tembus-rp12406-triliun-sinyal-ihsg-bangkit"
+    },
+    {
+        "title": "Indonesia Butuh Lebih Banyak Pengusaha untuk Genjot Ekonomi",
+        "category": "Ekonomi",
+        "publish_time": "10 May 2026, 11:18",
+        "news_link": "https://ekonomi.republika.co.id/berita/teszy7522/indonesia-butuh-lebih-banyak-pengusaha-untuk-genjot-ekonomi"
+    },
+    {
+        "title": "Pelatih Persija Sayangkan tak Bisa Ladeni Persib di Jakarta",
+        "category": "News",
+        "publish_time": "10 May 2026, 11:15",
+        "news_link": "https://news.republika.co.id/berita/tesztc348/pelatih-persija-sayangkan-tak-bisa-ladeni-persib-di-jakarta"
+    },
+    {
+        "title": "CFD Rasuna Said akan Rutin Digelar Mulai Juni",
+        "category": "News",
+        "publish_time": "10 May 2026, 11:15",
+        "news_link": "https://news.republika.co.id/berita/tesx5j416/cfd-rasuna-said-akan-rutin-digelar-mulai-juni"
+    },
+    {
+        "title": "Digitalisasi Jadi Strategi Klinik Gigi Dorong Pertumbuhan Bisnis",
+        "category": "Ekonomi",
+        "publish_time": "10 May 2026, 11:02",
+        "news_link": "https://ekonomi.republika.co.id/berita/tesz49416/digitalisasi-jadi-strategi-klinik-gigi-dorong-pertumbuhan-bisnis"
+    },
+    {
+        "title": "Petugas Gabungan Siap Amankan Laga Persija Vs Persib di Samarinda",
+        "category": "News",
+        "publish_time": "10 May 2026, 10:49",
+        "news_link": "https://news.republika.co.id/berita/tesymb348/petugas-gabungan-siap-amankan-laga-persija-vs-persib-di-samarinda"
+    },
+    {
+        "title": "Audisi Umum PB Djarum Dibuka, Tahun Ini Rambah Penjaringan dari Sumatra Hingga Sulawesi",
+        "category": "News",
+        "publish_time": "10 May 2026, 10:49",
+        "news_link": "https://news.republika.co.id/berita/tesylx456/audisi-umum-pb-djarum-dibuka-tahun-ini-rambah-penjaringan-dari-sumatra-hingga-sulawesi"
+    },
+    {
+        "title": "Jamaah Haji Diimbau Jaga Stamina Jangan Terlalu Euforia di Tanah Suci",
+        "category": "Video",
+        "publish_time": "10 May 2026, 10:30",
+        "news_link": "https://republika.co.id/page/shorts/yt-tesxq1847101111/jamaah-haji-diimbau-jaga-stamina-jangan-terlalu-euforia-di-tanah-suci"
+    },
+    {
+        "title": "Indonesia Segrup dengan Jepang dan Qatar di Piala Asia 2027, Herdman: Peluang Besar untuk Naik Level",
+        "category": "News",
+        "publish_time": "10 May 2026, 10:29",
+        "news_link": "https://news.republika.co.id/berita/tesxom348/indonesia-segrup-dengan-jepang-dan-qatar-di-piala-asia-2027-herdman-peluang-besar-untuk-naik-level"
+    },
+    {
+        "title": "KPK Telaah Keterlibatan Dirjen Bea Cukai dalam Kasus Suap Rp 61 Miliar",
+        "category": "News",
+        "publish_time": "10 May 2026, 09:59",
+        "news_link": "https://news.republika.co.id/berita/tesway484/kpk-telaah-keterlibatan-dirjen-bea-cukai-dalam-kasus-suap-rp-61-miliar"
+    },
+    {
+        "title": "Indonesia Juara Umum SEA Esports Nations Cup 2026",
+        "category": "News",
+        "publish_time": "10 May 2026, 09:46",
+        "news_link": "https://news.republika.co.id/berita/tesvq1348/indonesia-juara-umum-sea-esports-nations-cup-2026"
+    },
+    {
+        "title": "UMKM Keluhkan Biaya Admin, Mendag Siap Revisi Aturan e-Commerce",
+        "category": "Ekonomi",
+        "publish_time": "10 May 2026, 09:40",
+        "news_link": "https://ekonomi.republika.co.id/berita/tesvad416/umkm-keluhkan-biaya-admin-mendag-siap-revisi-aturan-ecommerce"
+    },
+    {
+        "title": "Masjidil Haram Padat Jamaah Diminta Berangkat Lebih Awal",
+        "category": "Video",
+        "publish_time": "10 May 2026, 09:30",
+        "news_link": "https://republika.co.id/page/shorts/yt-tesuy11667400090/masjidil-haram-padat-jamaah-diminta-berangkat-lebih-awal"
+    },
+    {
         "title": "FPIPS UPI-Telkom Perkuat Kolaborasi Dukung Program SDGs Melalui Bantuan Mobil Operasional",
         "category": "News",
         "publish_time": "10 May 2026, 09:20",
@@ -12,7 +108,7 @@
         "news_link": "https://ekonomi.republika.co.id/berita/testnu472/kementan-dan-pemda-perkuat-antisipasi-kemarau-2026-ribuan-hektare-padi-gunungkidul-aman-panen"
     },
     {
-        "title": "Serangan Nyamuk Teror Warga Saguling, Bandung Barat",
+        "title": "Serangan Nyamuk Teror Warga Saguling Bandung Barat",
         "category": "Rejabar",
         "publish_time": "10 May 2026, 08:48",
         "news_link": "https://rejabar.republika.co.id/berita/tessjl484/serangan-nyamuk-teror-warga-saguling-bandung-barat"
@@ -202,101 +298,5 @@
         "category": "News",
         "publish_time": "10 May 2026, 04:15",
         "news_link": "https://news.republika.co.id/berita/tesgdy6430000/garudayaksa-juara-pegadaian-championship-widodo-cahyono-putro-ungkap-kunci-sukses"
-    },
-    {
-        "title": "Polresta Cirebon Larang Konvoi Suporter dan Nobar Persija Vs Persib",
-        "category": "Rejabar",
-        "publish_time": "10 May 2026, 04:04",
-        "news_link": "https://rejabar.republika.co.id/berita/tesc2t282/polresta-cirebon-larang-konvoi-suporter-dan-nobar-persija-vs-persib"
-    },
-    {
-        "title": "PSSI Tegaskan Sepak Bola Indonesia Masih Dalam Pengawasan FIFA",
-        "category": "News",
-        "publish_time": "10 May 2026, 04:00",
-        "news_link": "https://news.republika.co.id/berita/tesfoz6230000/pssi-tegaskan-sepak-bola-indonesia-masih-dalam-pengawasan-fifa"
-    },
-    {
-        "title": "DPR Dorong Evaluasi Jalan Lintas Sumatera Usai Kecelakaan Maut",
-        "category": "News",
-        "publish_time": "10 May 2026, 03:45",
-        "news_link": "https://news.republika.co.id/berita/tesez92230000/dpr-dorong-evaluasi-jalan-lintas-sumatera-usai-kecelakaan-maut"
-    },
-    {
-        "title": "Inter Milan Menang 3-0 Atas Lazio, Kokoh di Puncak Klasemen",
-        "category": "News",
-        "publish_time": "10 May 2026, 03:30",
-        "news_link": "https://news.republika.co.id/berita/tesea94930000/inter-milan-menang-30-atas-lazio-kokoh-di-puncak-klasemen"
-    },
-    {
-        "title": "Lupa Matikan Tungku, Dapur Rumah Warga Cirebon Ludes Terbakar",
-        "category": "Rejabar",
-        "publish_time": "10 May 2026, 03:28",
-        "news_link": "https://rejabar.republika.co.id/berita/tesbw9282/lupa-matikan-tungku-dapur-rumah-warga-cirebon-ludes-terbakar"
-    },
-    {
-        "title": "Manchester City Kalahkan Brentford 3-0, Terus Tempel Arsenal",
-        "category": "News",
-        "publish_time": "10 May 2026, 03:15",
-        "news_link": "https://news.republika.co.id/berita/tesdla7930000/manchester-city-kalahkan-brentford-30-terus-tempel-arsenal"
-    },
-    {
-        "title": "Revitalisasi Tambak Pantura Ditentang, Lucky Hakim Dapat Oleh-Oleh Biawak dari Petambak Indramayu",
-        "category": "Rejabar",
-        "publish_time": "10 May 2026, 03:05",
-        "news_link": "https://rejabar.republika.co.id/berita/tes90g282/revitalisasi-tambak-pantura-ditentang-lucky-hakim-dapat-oleholeh-biawak-dari-petambak-indramayu"
-    },
-    {
-        "title": "Garudayaksa FC Juara Pegadaian Championship 2025/2026 Usai Kalahkan PSS Sleman",
-        "category": "News",
-        "publish_time": "10 May 2026, 03:00",
-        "news_link": "https://news.republika.co.id/berita/tescwf3230000/garudayaksa-fc-juara-pegadaian-championship-20252026-usai-kalahkan-pss-sleman"
-    },
-    {
-        "title": "Kepri Pastikan Kebutuhan 7.000 Sapi Kurban Aman untuk Idul Adha 2026",
-        "category": "News",
-        "publish_time": "10 May 2026, 02:45",
-        "news_link": "https://news.republika.co.id/berita/tesc772230000/kepri-pastikan-kebutuhan-7000-sapi-kurban-aman-untuk-idul-adha-2026"
-    },
-    {
-        "title": "Polisi Larang Nobar Persib vs Persija di Kota Cirebon",
-        "category": "Rejabar",
-        "publish_time": "10 May 2026, 02:38",
-        "news_link": "https://rejabar.republika.co.id/berita/tes9le282/polisi-larang-nobar-persib-vs-persija-di-kota-cirebon"
-    },
-    {
-        "title": "Bupati Magetan Apresiasi Penyaluran Jagung SPHP untuk Peternak Ayam",
-        "category": "News",
-        "publish_time": "10 May 2026, 02:30",
-        "news_link": "https://news.republika.co.id/berita/tesbj22930000/bupati-magetan-apresiasi-penyaluran-jagung-sphp-untuk-peternak-ayam"
-    },
-    {
-        "title": "Kodim Situbondo Kawal Pembentukan 74 Koperasi Desa Merah Putih",
-        "category": "News",
-        "publish_time": "10 May 2026, 02:15",
-        "news_link": "https://news.republika.co.id/berita/tesati4130000/kodim-situbondo-kawal-pembentukan-74-koperasi-desa-merah-putih"
-    },
-    {
-        "title": "Banjarmasin Siapkan 2.500 Sapi Kurban untuk Idul Adha 2026",
-        "category": "News",
-        "publish_time": "10 May 2026, 02:00",
-        "news_link": "https://news.republika.co.id/berita/tesa4a5430000/banjarmasin-siapkan-2500-sapi-kurban-untuk-idul-adha-2026"
-    },
-    {
-        "title": "Jete Run 2026 Bidik 10 Ribu Peserta, Angkat Konsep City Run di Surabaya",
-        "category": "Ameera",
-        "publish_time": "10 May 2026, 01:47",
-        "news_link": "https://ameera.republika.co.id/berita/tes9ji349/jete-run-2026-bidik-10-ribu-peserta-angkat-konsep-city-run-di-surabaya"
-    },
-    {
-        "title": "Buleleng Siapkan Kecamatan Gerokgak Sebagai Kawasan Strategis Ketahanan Pangan",
-        "category": "News",
-        "publish_time": "10 May 2026, 01:45",
-        "news_link": "https://news.republika.co.id/berita/tes9f89030000/buleleng-siapkan-kecamatan-gerokgak-sebagai-kawasan-strategis-ketahanan-pangan"
-    },
-    {
-        "title": "Mahkota Binokasih Jadi Simbol Kasih Pemimpin dan Masyarakat",
-        "category": "News",
-        "publish_time": "10 May 2026, 01:30",
-        "news_link": "https://news.republika.co.id/berita/tes8q75130000/mahkota-binokasih-jadi-simbol-kasih-pemimpin-dan-masyarakat"
     }
 ]
