@@ -1,5 +1,89 @@
 [
     {
+        "title": "Peringatkan Mereka yang Nyinyir, Prabowo: Lu Gak Mau Kerja, Duduk Saja, Lihat Baik-Baik!",
+        "category": "News",
+        "publish_time": "12 July 2026, 18:47",
+        "news_link": "https://news.republika.co.id/berita/ti28qd377/peringatkan-mereka-yang-nyinyir-prabowo-lu-gak-mau-kerja-duduk-saja-lihat-baikbaik"
+    },
+    {
+        "title": "Mengapa Warga Taiwan Memilih Menjauh Saat Terjadi Kecelakaan?",
+        "category": "Retizen",
+        "publish_time": "12 July 2026, 18:34",
+        "news_link": "https://retizen.republika.co.id/posts/770497/mengapa-warga-taiwan-memilih-menjauh-saat-terjadi-kecelakaan"
+    },
+    {
+        "title": "Optimalkan Bisnis dan Kesehatan: Istirahat Adalah Investasi Strategis",
+        "category": "Retizen",
+        "publish_time": "12 July 2026, 18:33",
+        "news_link": "https://retizen.republika.co.id/posts/770498/optimalkan-bisnis-dan-kesehatan-istirahat-adalah-investasi-strategis"
+    },
+    {
+        "title": "Pelestarian Kesehatan Berbasis Keanekaragaman Hayati",
+        "category": "Retizen",
+        "publish_time": "12 July 2026, 18:30",
+        "news_link": "https://retizen.republika.co.id/posts/770500/pelestarian-kesehatan-berbasis-keanekaragaman-hayati"
+    },
+    {
+        "title": "Mahfud MD Ungkap Kapolri dan Jaksa Agung Kerap Enggan Duduk di Satu Forum",
+        "category": "News",
+        "publish_time": "12 July 2026, 18:21",
+        "news_link": "https://news.republika.co.id/berita/ti27kd377/mahfud-md-ungkap-kapolri-dan-jaksa-agung-kerap-enggan-duduk-di-satu-forum"
+    },
+    {
+        "title": "Jude Bellingham, Sang Penentu yang Mengantar Inggris ke Semifinal Piala Dunia",
+        "category": "Visual",
+        "publish_time": "12 July 2026, 18:00",
+        "news_link": "https://visual.republika.co.id/berita/ti23vf375/jude-bellingham-sang-penentu-yang-mengantar-inggris-ke-semifinal-piala-dunia"
+    },
+    {
+        "title": "Pengkhianatan Elite Penegak Hukum, Jauh dari Pancasila dan Asta Cita?",
+        "category": "Kolom",
+        "publish_time": "12 July 2026, 18:00",
+        "news_link": "https://analisis.republika.co.id/berita/ti24tz320/pengkhianatan-elite-penegak-hukum-jauh-dari-pancasila-dan-asta-cita"
+    },
+    {
+        "title": "Ekonom Nilai Kopdes Merah Putih Selaras dengan Amanat Pasal 33 UUD 1945",
+        "category": "Ekonomi",
+        "publish_time": "12 July 2026, 17:52",
+        "news_link": "https://ekonomi.republika.co.id/berita/ti2673522/ekonom-nilai-kopdes-merah-putih-selaras-dengan-amanat-pasal-33-uud-1945"
+    },
+    {
+        "title": "Robert Pattinson Ungkap Alasan Lebih Suka Main Peran Antagonis",
+        "category": "Ameera",
+        "publish_time": "12 July 2026, 17:48",
+        "news_link": "https://ameera.republika.co.id/berita/ti261f425/robert-pattinson-ungkap-alasan-lebih-suka-main-peran-antagonis"
+    },
+    {
+        "title": "Presiden Ungkap Alasan Bentuk Koperasi Merah Putih: Saya Pernah Lihat Ada Rakyat Mati Kelaparan",
+        "category": "Ekonomi",
+        "publish_time": "12 July 2026, 17:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/ti25m6370/presiden-ungkap-alasan-bentuk-koperasi-merah-putih-saya-pernah-lihat-ada-rakyat-mati-kelaparan"
+    },
+    {
+        "title": "Blok Masela, MIP, dan Ilusi Kemandirian Fiskal Maluku",
+        "category": "Retizen",
+        "publish_time": "12 July 2026, 17:31",
+        "news_link": "https://retizen.republika.co.id/posts/770482/blok-masela-mip-dan-ilusi-kemandirian-fiskal-maluku"
+    },
+    {
+        "title": "Ketika Kota Menjadi Tubuh Puisi Jawa Timur",
+        "category": "Retizen",
+        "publish_time": "12 July 2026, 17:30",
+        "news_link": "https://retizen.republika.co.id/posts/770484/ketika-kota-menjadi-tubuh-puisi-jawa-timur"
+    },
+    {
+        "title": "Seru! Prancis, Spanyol, Inggris, Argentina Berebut Tiket Final Piala Dunia 2026",
+        "category": "Retizen",
+        "publish_time": "12 July 2026, 17:29",
+        "news_link": "https://retizen.republika.co.id/posts/770486/seru-prancis-spanyol-inggris-argentina-berebut-tiket-final-piala-dunia-2026"
+    },
+    {
+        "title": "Kesehatan Usus Adalah Kunci Kesejahteraan Anda",
+        "category": "Retizen",
+        "publish_time": "12 July 2026, 17:27",
+        "news_link": "https://retizen.republika.co.id/posts/770474/kesehatan-usus-adalah-kunci-kesejahteraan-anda"
+    },
+    {
         "title": "Mengunjungi Kediaman Sang Rahbar",
         "category": "Video",
         "publish_time": "12 July 2026, 17:15",
@@ -214,89 +298,5 @@
         "category": "News",
         "publish_time": "12 July 2026, 14:04",
         "news_link": "https://news.republika.co.id/berita/ti1vnt377/lindsey-graham-senator-as-yang-pernah-ancam-saudi-dan-sudutkan-iran-meninggal-dunia"
-    },
-    {
-        "title": "Demi Pejuang Kanker Keluarga dan Tukang Cukur Ikut Botak",
-        "category": "Video",
-        "publish_time": "12 July 2026, 14:00",
-        "news_link": "https://republika.co.id/page/shorts/yt-ti1vg2821930791/demi-pejuang-kanker-keluarga-dan-tukang-cukur-ikut-botak"
-    },
-    {
-        "title": "Saat Euforia Piala Dunia Hangatkan Car Free Day Jakarta",
-        "category": "Visual",
-        "publish_time": "12 July 2026, 13:50",
-        "news_link": "https://visual.republika.co.id/berita/ti1uzi375/saat-euforia-piala-dunia-hangatkan-car-free-day-jakarta"
-    },
-    {
-        "title": "Menteri UMKM: Pendapatan Ojol tak Turun Usai Komisi Aplikator Dipangkas Jadi 8 Persen",
-        "category": "Ekonomi",
-        "publish_time": "12 July 2026, 13:35",
-        "news_link": "https://ekonomi.republika.co.id/berita/ti1ubd370/menteri-umkm-pendapatan-ojol-tak-turun-usai-komisi-aplikator-dipangkas-jadi-8-persen"
-    },
-    {
-        "title": "New Accommodation in Mandalika Boosts Sports Tourism",
-        "category": "En",
-        "publish_time": "Sunday, 12 July 2026, 13:35",
-        "news_link": "https://en.republika.co.id/berita/ti1uad415/new-accommodation-in-mandalika-boosts-sports-tourism"
-    },
-    {
-        "title": "Soekarno-Hatta Bersiap Tembus 10 Bandara Terbaik Dunia",
-        "category": "Ekonomi",
-        "publish_time": "12 July 2026, 13:31",
-        "news_link": "https://ekonomi.republika.co.id/berita/ti1otr451/soekarnohatta-bersiap-tembus-10-bandara-terbaik-dunia"
-    },
-    {
-        "title": "Pertamina Patra Niaga Dukung Program Pertamina Berbagi Seragam Sekolah, Sembako, dan UMKM",
-        "category": "Esgnow",
-        "publish_time": "12 July 2026, 13:04",
-        "news_link": "https://esgnow.republika.co.id/berita/ti1svc522/pertamina-patra-niaga-dukung-program-pertamina-berbagi-seragam-sekolah-sembako-dan-umkm"
-    },
-    {
-        "title": "Unej Jadi Arena Perebutan Tiket Kontes Robot Asia 2026",
-        "category": "News",
-        "publish_time": "12 July 2026, 13:04",
-        "news_link": "https://news.republika.co.id/berita/ti1p09451/unej-jadi-arena-perebutan-tiket-kontes-robot-asia-2026"
-    },
-    {
-        "title": "POV Meliput Shalat Jenazah Khamenei di Grand Indonesia Mossala",
-        "category": "Video",
-        "publish_time": "12 July 2026, 13:00",
-        "news_link": "https://republika.co.id/page/shorts/yt-ti1so21936626290/pov-meliput-shalat-jenazah-khamenei-di-grand-indonesia-mossala"
-    },
-    {
-        "title": "Perkara Febrie Diserahkan ke Kejaksaan, Ini Kekhawatiran Pegiat Antikorupsi",
-        "category": "News",
-        "publish_time": "12 July 2026, 12:52",
-        "news_link": "https://news.republika.co.id/berita/ti1saq377/perkara-febrie-diserahkan-ke-kejaksaan-ini-kekhawatiran-pegiat-antikorupsi"
-    },
-    {
-        "title": "Komedian Temon Meninggal Dunia pada Usia 60 Tahun",
-        "category": "Ameera",
-        "publish_time": "12 July 2026, 12:44",
-        "news_link": "https://ameera.republika.co.id/berita/ti1ryd425/komedian-temon-meninggal-dunia-pada-usia-60-tahun"
-    },
-    {
-        "title": "Umrah Sebagai Diplomasi Peradaban",
-        "category": "Kolom",
-        "publish_time": "12 July 2026, 12:35",
-        "news_link": "https://analisis.republika.co.id/berita/ti1rij393/umrah-sebagai-diplomasi-peradaban"
-    },
-    {
-        "title": "Pekan Depan, Harga Emas Diprediksi Rp 2,57\u2014Rp 2,8 Juta per Gram",
-        "category": "Ekonomi",
-        "publish_time": "12 July 2026, 12:33",
-        "news_link": "https://ekonomi.republika.co.id/berita/ti1rgc370/pekan-depan-harga-emas-diprediksi-rp-257rp-28-juta-per-gram"
-    },
-    {
-        "title": "Mandalika Punya Akomodasi Baru, Sport Tourism Kian Digenjot",
-        "category": "Ekonomi",
-        "publish_time": "12 July 2026, 12:30",
-        "news_link": "https://ekonomi.republika.co.id/berita/ti1p6n451/mandalika-punya-akomodasi-baru-sport-tourism-kian-digenjot"
-    },
-    {
-        "title": "Drone Siluman Baru Jerman Bisa Menjangkau 950 Kilometer",
-        "category": "News",
-        "publish_time": "12 July 2026, 12:03",
-        "news_link": "https://news.republika.co.id/berita/ti1oit451/drone-siluman-baru-jerman-bisa-menjangkau-950-kilometer"
     }
 ]
