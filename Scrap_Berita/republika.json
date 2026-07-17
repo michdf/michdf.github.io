@@ -1,62 +1,230 @@
 [
     {
-        "title": "Komisi Aplikasi Jadi 8 Persen, Pendapatan Pengemudi Stabil Stabil",
+        "title": "Sahabat yang Membantu Tumbuh Kembang Anak",
+        "category": "Retizen",
+        "publish_time": "17-07-2026 10:02",
+        "news_link": "https://retizen.republika.co.id/posts/771897/sahabat-yang-membantu-tumbuh-kembang-anak"
+    },
+    {
+        "title": "Era Digital, Mengapa Kita Makin Malas Berpikir?",
+        "category": "Retizen",
+        "publish_time": "17-07-2026 09:58",
+        "news_link": "https://retizen.republika.co.id/posts/771937/era-digital-mengapa-kita-makin-malas-berpikir"
+    },
+    {
+        "title": "Pamit Kondangan ke Garut, Mahasiswa Unisba Asal Cicalengka Dilaporkan Hilang",
+        "category": "Rejabar",
+        "publish_time": "17-07-2026 09:57",
+        "news_link": "https://rejabar.republika.co.id/berita/tibd04282/pamit-kondangan-ke-garut-mahasiswa-unisba-asal-cicalengka-dilaporkan-hilang"
+    },
+    {
+        "title": "Cara Publikasi Jurnal Scopus: Tahapan, Tips, dan Strategi Lolos Review",
+        "category": "Retizen",
+        "publish_time": "17-07-2026 09:56",
+        "news_link": "https://retizen.republika.co.id/posts/771938/cara-publikasi-jurnal-scopus-tahapan-tips-dan-strategi-lolos-review"
+    },
+    {
+        "title": "Revisi UU Pemilu: Ketika Peserta Membuat Aturannya Sendiri",
+        "category": "Retizen",
+        "publish_time": "17-07-2026 09:54",
+        "news_link": "https://retizen.republika.co.id/posts/771952/revisi-uu-pemilu-ketika-peserta-membuat-aturannya-sendiri"
+    },
+    {
+        "title": "AI untuk UMKM: Cara Meningkatkan Penjualan Tanpa Menambah Biaya Besar",
+        "category": "Retizen",
+        "publish_time": "17-07-2026 09:53",
+        "news_link": "https://retizen.republika.co.id/posts/771959/ai-untuk-umkm-cara-meningkatkan-penjualan-tanpa-menambah-biaya-besar"
+    },
+    {
+        "title": "BI: Data Kinerja Dunia Usaha pada Kuartal II 2026 Meningkat",
         "category": "Ekonomi",
-        "publish_time": "17-07-2026 07:55",
-        "news_link": "https://ekonomi.republika.co.id/berita/tib7c5484/komisi-aplikasi-jadi-8-persen-pendapatan-pengemudi-stabil-stabil"
+        "publish_time": "17-07-2026 09:41",
+        "news_link": "https://ekonomi.republika.co.id/berita/tibc87490/bi-data-kinerja-dunia-usaha-pada-kuartal-ii-2026-meningkat"
+    },
+    {
+        "title": "Program Listrik Desa Diperluas, PLN Targetkan Jangkau 137 Ribu Pelanggan Baru",
+        "category": "Ekonomi",
+        "publish_time": "17-07-2026 09:38",
+        "news_link": "https://ekonomi.republika.co.id/berita/tibc38370/program-listrik-desa-diperluas-pln-targetkan-jangkau-137-ribu-pelanggan-baru"
+    },
+    {
+        "title": "DPRD Jabar Tegaskan Tolak Wacana SPP di Sekolah Negeri",
+        "category": "Rejabar",
+        "publish_time": "17-07-2026 09:35",
+        "news_link": "https://rejabar.republika.co.id/berita/tibbyj368/dprd-jabar-tegaskan-tolak-wacana-spp-di-sekolah-negeri"
+    },
+    {
+        "title": "Enam Syahid Dibunuh Israel di Gaza",
+        "category": "News",
+        "publish_time": "17-07-2026 09:33",
+        "news_link": "https://news.republika.co.id/berita/tibbvk393/enam-syahid-dibunuh-israel-di-gaza"
+    },
+    {
+        "title": "BSI Salurkan Bantuan Fasilitas Rumah Singgah RS Kanker Dharmais",
+        "category": "Esgnow",
+        "publish_time": "17-07-2026 09:16",
+        "news_link": "https://esgnow.republika.co.id/berita/tibb3n416/bsi-salurkan-bantuan-fasilitas-rumah-singgah-rs-kanker-dharmais"
+    },
+    {
+        "title": "Selamatkan British Steel, Kini Perusahaan China Malah Kehilangan Kendali karena Dinasionalisasi",
+        "category": "Ekonomi",
+        "publish_time": "17-07-2026 09:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/tibatl451/selamatkan-british-steel-kini-perusahaan-china-malah-kehilangan-kendali-karena-dinasionalisasi"
+    },
+    {
+        "title": "BNPB: Karhutla dan Kekeringan Dominasi Bencana Sepanjang Pekan Ini",
+        "category": "News",
+        "publish_time": "17-07-2026 09:08",
+        "news_link": "https://news.republika.co.id/berita/tibaq8393/bnpb-karhutla-dan-kekeringan-dominasi-bencana-sepanjang-pekan-ini"
+    },
+    {
+        "title": "Perdana, Kejagung Periksa Febrie Adriansyah Sebagai Tersangka",
+        "category": "News",
+        "publish_time": "17-07-2026 09:08",
+        "news_link": "https://news.republika.co.id/berita/tibapa409/perdana-kejagung-periksa-febrie-adriansyah-sebagai-tersangka"
+    },
+    {
+        "title": "Isuzu Tampilkan Lima Kendaraan Niaga untuk Berbagai Kebutuhan di GIIAS 2026",
+        "category": "Ekonomi",
+        "publish_time": "17-07-2026 09:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/tiba9c348/isuzu-tampilkan-lima-kendaraan-niaga-untuk-berbagai-kebutuhan-di-giias-2026"
+    },
+    {
+        "title": "Menguji Khitah HIjau Muhammadiyah di Ladang Tambang",
+        "category": "Retizen",
+        "publish_time": "17-07-2026 09:03",
+        "news_link": "https://retizen.republika.co.id/posts/771868/menguji-khitah-hijau-muhammadiyah-di-ladang-tambang"
+    },
+    {
+        "title": "FOMO VS Fiqh: Ketika Gengsi Sosial Mengalahkan Logika Muamalah",
+        "category": "Retizen",
+        "publish_time": "17-07-2026 09:03",
+        "news_link": "https://retizen.republika.co.id/posts/771882/fomo-vs-fiqh-ketika-gengsi-sosial-mengalahkan-logika-muamalah"
+    },
+    {
+        "title": "Nyai Ahmad Dahlan: Kesetaraan Gender, Pahlawan Kemerdekaan, dan Peran Wanita",
+        "category": "Retizen",
+        "publish_time": "17-07-2026 09:03",
+        "news_link": "https://retizen.republika.co.id/posts/771878/nyai-ahmad-dahlan-kesetaraan-gender-pahlawan-kemerdekaan-dan-peran-wanita"
+    },
+    {
+        "title": "KAI Angkut 10.050 Ton Pupuk pada Semester I 2026",
+        "category": "Ekonomi",
+        "publish_time": "17-07-2026 09:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/tiba28370/kai-angkut-10050-ton-pupuk-pada-semester-i-2026"
+    },
+    {
+        "title": "Bangsa Besar tidak Pernah Menghemat Ilmu",
+        "category": "Retizen",
+        "publish_time": "17-07-2026 09:03",
+        "news_link": "https://retizen.republika.co.id/posts/771886/bangsa-besar-tidak-pernah-menghemat-ilmu"
+    },
+    {
+        "title": "Koperasi Desa dan Solusi Semu",
+        "category": "Retizen",
+        "publish_time": "17-07-2026 09:03",
+        "news_link": "https://retizen.republika.co.id/posts/771887/koperasi-desa-dan-solusi-semu"
+    },
+    {
+        "title": "Pemberontakan Pajak di Negeri Matrilineal",
+        "category": "Retizen",
+        "publish_time": "17-07-2026 09:03",
+        "news_link": "https://retizen.republika.co.id/posts/771889/pemberontakan-pajak-di-negeri-matrilineal"
+    },
+    {
+        "title": "Polandia Bongkar Dugaan Operasi Intelijen Rusia, Remaja Ukraina Ditangkap",
+        "category": "News",
+        "publish_time": "17-07-2026 09:03",
+        "news_link": "https://news.republika.co.id/berita/tib9tt451/polandia-bongkar-dugaan-operasi-intelijen-rusia-remaja-ukraina-ditangkap"
+    },
+    {
+        "title": "Penjualan Mitsubishi New Xforce Ditargetkan Tembus 1.000 Unit Hingga Akhir GIIAS 2026",
+        "category": "Ekonomi",
+        "publish_time": "17-07-2026 09:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/tib9lw348/penjualan-mitsubishi-new-xforce-ditargetkan-tembus-1000-unit-hingga-akhir-giias-2026"
+    },
+    {
+        "title": "Pintu Gandeng Himapen Perkuat Literasi Investasi Generasi Muda",
+        "category": "Ekonomi",
+        "publish_time": "17-07-2026 08:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/tib907370/pintu-gandeng-himapen-perkuat-literasi-investasi-generasi-muda"
+    },
+    {
+        "title": "Putri KW Lega Akhirnya Tumbangkan Wang Zhiyi untuk Kali Pertama dan Lolos ke Semifinal Japan Open",
+        "category": "News",
+        "publish_time": "17-07-2026 08:03",
+        "news_link": "https://news.republika.co.id/berita/tib8rk348/putri-kw-lega-akhirnya-tumbangkan-wang-zhiyi-untuk-kali-pertama-dan-lolos-ke-semifinal-japan-open"
+    },
+    {
+        "title": "Korsel Tuntaskan Pengiriman Enam Jet Latih T-50I ke TNI AU",
+        "category": "News",
+        "publish_time": "17-07-2026 08:03",
+        "news_link": "https://news.republika.co.id/berita/tib7s4484/korsel-tuntaskan-pengiriman-enam-jet-latih-t50i-ke-tni-au"
+    },
+    {
+        "title": "Polda Riau Perketat Penindakan Illegal Logging demi Jaga Kelestarian Hutan",
+        "category": "Esgnow",
+        "publish_time": "17-07-2026 08:03",
+        "news_link": "https://esgnow.republika.co.id/berita/tib7ew522/polda-riau-perketat-penindakan-illegal-logging-demi-jaga-kelestarian-hutan"
+    },
+    {
+        "title": "Komisi Aplikasi Jadi 8 Persen, Pendapatan Pengemudi Stabil",
+        "category": "Ekonomi",
+        "publish_time": "17-07-2026 08:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/tib7c5484/komisi-aplikasi-jadi-8-persen-pendapatan-pengemudi-stabil"
     },
     {
         "title": "Bank Indonesia Ungkap Industri Manufaktur Masuk Level Ekspansif, Ini Penjelasannya",
         "category": "Ekonomi",
-        "publish_time": "17-07-2026 07:54",
+        "publish_time": "17-07-2026 08:03",
         "news_link": "https://ekonomi.republika.co.id/berita/tib7ax490/bank-indonesia-ungkap-industri-manufaktur-masuk-level-ekspansif-ini-penjelasannya"
     },
     {
         "title": "Prancis dan Inggris Jaga Gengsi pada Laga Pelipur Lara Perebutan Tempat Ketiga Piala Dunia 2026",
         "category": "News",
-        "publish_time": "17-07-2026 07:50",
+        "publish_time": "17-07-2026 08:03",
         "news_link": "https://news.republika.co.id/berita/tib749348/prancis-dan-inggris-jaga-gengsi-pada-laga-pelipur-lara-perebutan-tempat-ketiga-piala-dunia-2026"
     },
     {
         "title": "Menkeu Purbaya Kunjungi Gubernur DIY di Kompleks Kepatihan, Disuguhi Makanan Enak",
         "category": "Rejogja",
-        "publish_time": "17-07-2026 07:50",
+        "publish_time": "17-07-2026 08:03",
         "news_link": "https://rejogja.republika.co.id/berita/tib73u282/menkeu-purbaya-kunjungi-gubernur-diy-di-kompleks-kepatihan-disuguhi-makanan-enak"
     },
     {
         "title": "Ancaman Karhutla Meningkat, DPR Minta Mitigasi Diperkuat",
         "category": "Esgnow",
-        "publish_time": "17-07-2026 07:43",
+        "publish_time": "17-07-2026 08:03",
         "news_link": "https://esgnow.republika.co.id/berita/tib6t3416/ancaman-karhutla-meningkat-dpr-minta-mitigasi-diperkuat"
     },
     {
         "title": "Bapanas Tingkatkan Kesiapsiagaan Hadapi El Nino",
         "category": "Ekonomi",
-        "publish_time": "17-07-2026 07:37",
+        "publish_time": "17-07-2026 08:03",
         "news_link": "https://ekonomi.republika.co.id/berita/tib6ig370/bapanas-tingkatkan-kesiapsiagaan-hadapi-el-nino"
     },
     {
         "title": "PLN Perbarui Sistem Kendali Listrik Jawa, Madura, dan Bali",
         "category": "Ekonomi",
-        "publish_time": "17-07-2026 07:35",
+        "publish_time": "17-07-2026 08:03",
         "news_link": "https://ekonomi.republika.co.id/berita/tib5l5416/pln-perbarui-sistem-kendali-listrik-jawa-madura-dan-bali"
     },
     {
         "title": "MBG Jalan Lagi, Harga Daging Ayam di Cirebon Langsung Melonjak",
         "category": "Rejabar",
-        "publish_time": "17-07-2026 07:32",
+        "publish_time": "17-07-2026 07:03",
         "news_link": "https://rejabar.republika.co.id/berita/tib6af484/mbg-jalan-lagi-harga-daging-ayam-di-cirebon-langsung-melonjak"
     },
     {
         "title": "Hampir 30 Ribu Calon Manajer Kopdes Merah Putih Digembleng di Cimahi",
         "category": "Rejabar",
-        "publish_time": "17-07-2026 07:16",
+        "publish_time": "17-07-2026 07:03",
         "news_link": "https://rejabar.republika.co.id/berita/tib5jr484/hampir-30-ribu-calon-manajer-kopdes-merah-putih-digembleng-di-cimahi"
     },
     {
         "title": "Jaga Pertumbuhan KPR, BTN Lirik Pasar Rumah Bekas",
         "category": "Ekonomi",
-        "publish_time": "17-07-2026 07:12",
+        "publish_time": "17-07-2026 07:03",
         "news_link": "https://ekonomi.republika.co.id/berita/tib5bz490/jaga-pertumbuhan-kpr-btn-lirik-pasar-rumah-bekas"
     },
     {
@@ -68,235 +236,67 @@
     {
         "title": "Musim Kemarau Hantui Ketahanan Pangan, Ini Jawaban Amran",
         "category": "Ekonomi",
-        "publish_time": "17-07-2026 07:01",
+        "publish_time": "17-07-2026 07:03",
         "news_link": "https://ekonomi.republika.co.id/berita/tib4ty490/musim-kemarau-hantui-ketahanan-pangan-ini-jawaban-amran"
     },
     {
         "title": "Bantah Isu Transporter Enggan Salurkan BBM, Pertamina Patra Niaga Tegaskan Distribusi Tetap Berjalan",
         "category": "Ekonomi",
-        "publish_time": "17-07-2026 06:59",
+        "publish_time": "17-07-2026 07:03",
         "news_link": "https://ekonomi.republika.co.id/berita/tib4oc472/bantah-isu-transporter-enggan-salurkan-bbm-pertamina-patra-niaga-tegaskan-distribusi-tetap-berjalan"
     },
     {
         "title": "Eks Jampidsus Febrie Tunjuk Hotman Paris Jadi Pengacaranya",
         "category": "News",
-        "publish_time": "17-07-2026 06:59",
+        "publish_time": "17-07-2026 07:03",
         "news_link": "https://news.republika.co.id/berita/tib4he484/eks-jampidsus-febrie-tunjuk-hotman-paris-jadi-pengacaranya"
     },
     {
         "title": "BTS Rilis Video Musik \u2018NORMAL\u2019 di Spotify",
         "category": "Ameera",
-        "publish_time": "17-07-2026 06:59",
+        "publish_time": "17-07-2026 07:03",
         "news_link": "https://ameera.republika.co.id/berita/tib460425/bts-rilis-video-musik-normal-di-spotify"
     },
     {
         "title": "Intensifkan Operasi Pengawasan, Bea Cukai Bogor Tindak Lebih dari 6 Juta Batang Rokok Ilegal",
         "category": "Beacukai",
-        "publish_time": "17-07-2026 06:59",
+        "publish_time": "17-07-2026 07:03",
         "news_link": "https://republika.co.id/berita//tib45s472/intensifkan-operasi-pengawasan-bea-cukai-bogor-tindak-lebih-dari-6-juta-batang-rokok-ilegal"
     },
     {
         "title": "Transportasi Pelari Dominasi Emisi Maybank Marathon, Maybank Percepat Program Hijau",
         "category": "Esgnow",
-        "publish_time": "17-07-2026 06:59",
+        "publish_time": "17-07-2026 07:03",
         "news_link": "https://esgnow.republika.co.id/berita/tib449490/transportasi-pelari-dominasi-emisi-maybank-marathon-maybank-percepat-program-hijau"
     },
     {
         "title": "Meski Inflasi Naik, Imbal Hasil Riil dari Obligasi Dinilai Lebih Atraktif Karena Hal Ini",
         "category": "Ekonomi",
-        "publish_time": "17-07-2026 06:59",
+        "publish_time": "17-07-2026 07:03",
         "news_link": "https://ekonomi.republika.co.id/berita/tib3wm370/meski-inflasi-naik-imbal-hasil-riil-dari-obligasi-dinilai-lebih-atraktif-karena-hal-ini"
     },
     {
         "title": "UPI-BPJS Ketenagakerjaan Bermitra, Lindungi Mahasiswa Magang Hingga KKN",
         "category": "News",
-        "publish_time": "17-07-2026 06:59",
+        "publish_time": "17-07-2026 07:03",
         "news_link": "https://news.republika.co.id/berita/tib3uu472/upibpjs-ketenagakerjaan-bermitra-lindungi-mahasiswa-magang-hingga-kkn"
     },
     {
         "title": "BMKG: Potensi Hujan Masih Ada di Luar Jawa",
         "category": "News",
-        "publish_time": "17-07-2026 06:59",
+        "publish_time": "17-07-2026 07:03",
         "news_link": "https://news.republika.co.id/berita/tib3rp393/bmkg-potensi-hujan-masih-ada-di-luar-jawa"
     },
     {
         "title": "Potensi Filantropi Islam Capai Ratusan Triliun, Akademisi Dorong Pembiayaan untuk Energi Bersih",
         "category": "Khazanah",
-        "publish_time": "17-07-2026 06:59",
+        "publish_time": "17-07-2026 07:03",
         "news_link": "https://khazanah.republika.co.id/berita/tib3rn483/potensi-filantropi-islam-capai-ratusan-triliun-akademisi-dorong-pembiayaan-untuk-energi-bersih"
     },
     {
         "title": "Elnusa Petrofin Ungkap Cara Tekan Risiko Distribusi Energi",
         "category": "Ekonomi",
-        "publish_time": "17-07-2026 05:59",
+        "publish_time": "17-07-2026 06:03",
         "news_link": "https://ekonomi.republika.co.id/berita/tib373416/elnusa-petrofin-ungkap-cara-tekan-risiko-distribusi-energi"
-    },
-    {
-        "title": "Mengenang John L.Esposito, Cendikiawan AS yang Mengoreksi Kesalahpahaman Barat kepada Islam",
-        "category": "Khazanah",
-        "publish_time": "17-07-2026 05:59",
-        "news_link": "https://khazanah.republika.co.id/berita/tib39w483/mengenang-john-lesposito-cendikiawan-as-yang-mengoreksi-kesalahpahaman-barat-kepada-islam"
-    },
-    {
-        "title": "BWI Ungkap Akumulasi Wakaf Nasional Capai Rp 30 Triliun, Lampaui Target RPJMN",
-        "category": "Khazanah",
-        "publish_time": "17-07-2026 05:59",
-        "news_link": "https://khazanah.republika.co.id/berita/tib38y522/bwi-ungkap-akumulasi-wakaf-nasional-capai-rp-30-triliun-lampaui-target-rpjmn"
-    },
-    {
-        "title": "TASPEN Musnahkan Serentak 221 Ribu Arsip, Wujudkan Tata Kelola yang Akuntabel",
-        "category": "Ekonomi",
-        "publish_time": "17-07-2026 05:59",
-        "news_link": "https://ekonomi.republika.co.id/berita/tib388472/taspen-musnahkan-serentak-221-ribu-arsip-wujudkan-tata-kelola-yang-akuntabel"
-    },
-    {
-        "title": "BCA Life Dorong Gaya Hidup Sehat Seiring Meningkatnya Kesadaran Perlindungan Jiwa",
-        "category": "Ameera",
-        "publish_time": "17-07-2026 05:59",
-        "news_link": "https://ameera.republika.co.id/berita/tib368522/bca-life-dorong-gaya-hidup-sehat-seiring-meningkatnya-kesadaran-perlindungan-jiwa"
-    },
-    {
-        "title": "Distribusi BBM di Sumatera Utara Semakin Membaik, Pertamina Patra Niaga Pastikan Pasokan Aman",
-        "category": "Ekonomi",
-        "publish_time": "17-07-2026 05:59",
-        "news_link": "https://ekonomi.republika.co.id/berita/tib31l522/distribusi-bbm-di-sumatera-utara-semakin-membaik-pertamina-patra-niaga-pastikan-pasokan-aman"
-    },
-    {
-        "title": "Pertamina Patra Niaga Tegaskan Distribusi BBM Tetap Berjalan, Bantah Transporter Enggan Salurkan BBM",
-        "category": "",
-        "publish_time": "17-07-2026 05:59",
-        "news_link": "https://republika.co.id/berita//tib2z3522/pertamina-patra-niaga-tegaskan-distribusi-bbm-tetap-berjalan-bantah-transporter-enggan-salurkan-bbm"
-    },
-    {
-        "title": "Sejarah Bulan Safar dan Mitos Kesialan yang Dibantah Islam",
-        "category": "Khazanah",
-        "publish_time": "17-07-2026 05:59",
-        "news_link": "https://khazanah.republika.co.id/berita/tib2wz430/sejarah-bulan-safar-dan-mitos-kesialan-yang-dibantah-islam"
-    },
-    {
-        "title": "Krakatau Steel Perkuat Ekosistem Advanced Materials untuk Dukung Hilirisasi Industri Nasional",
-        "category": "Ekonomi",
-        "publish_time": "17-07-2026 05:59",
-        "news_link": "https://ekonomi.republika.co.id/berita/tib2t9522/krakatau-steel-perkuat-ekosistem-advanced-materials-untuk-dukung-hilirisasi-industri-nasional"
-    },
-    {
-        "title": "Operasi Gabungan Gagalkan Penyelundupan 7,9 Kg Sabu dan 5 Ribu Pil Ekstasi di Kabupaten Bengkalis",
-        "category": "Beacukai",
-        "publish_time": "17-07-2026 05:59",
-        "news_link": "https://republika.co.id/berita//tib2oa472/operasi-gabungan-gagalkan-penyelundupan-79-kg-sabu-dan-5-ribu-pil-ekstasi-di-kabupaten-bengkalis"
-    },
-    {
-        "title": "Rusia dan Ukraina Saling Serang Kapal, Harga Gandum Dunia Langsung Melonjak",
-        "category": "News",
-        "publish_time": "17-07-2026 05:59",
-        "news_link": "https://news.republika.co.id/berita/tiayb0451/rusia-dan-ukraina-saling-serang-kapal-harga-gandum-dunia-langsung-melonjak"
-    },
-    {
-        "title": "Menikah di Bulan Safar Membawa Sial, Benarkah? Ini Penjelasan Ulama",
-        "category": "Khazanah",
-        "publish_time": "17-07-2026 05:59",
-        "news_link": "https://khazanah.republika.co.id/berita/tib2bt483/menikah-di-bulan-safar-membawa-sial-benarkah-ini-penjelasan-ulama"
-    },
-    {
-        "title": "Bea Cukai Semarang Ungkap Ragam Modus Peredaran Rokok dan Miras Ilegal, Nilainya Sentuh Rp 21 Miliar",
-        "category": "Beacukai",
-        "publish_time": "17-07-2026 05:59",
-        "news_link": "https://republika.co.id/berita//tib23x472/bea-cukai-semarang-ungkap-ragam-modus-peredaran-rokok-dan-miras-ilegal-nilainya-sentuh-rp-21-miliar"
-    },
-    {
-        "title": "Beli Properti dengan Skema Bunga Fleksibel, BRI KPR Solusi Kuncinya",
-        "category": "Ekonomi",
-        "publish_time": "17-07-2026 05:59",
-        "news_link": "https://ekonomi.republika.co.id/berita/tib1q2472/beli-properti-dengan-skema-bunga-fleksibel-bri-kpr-solusi-kuncinya"
-    },
-    {
-        "title": "Jadi Sekolah Garuda Transformasi, SMA Fatih Bilingual School Perkuat Pendidikan Bertaraf Global",
-        "category": "News",
-        "publish_time": "17-07-2026 05:59",
-        "news_link": "https://news.republika.co.id/berita/tiawe3291/jadi-sekolah-garuda-transformasi-sma-fatih-bilingual-school-perkuat-pendidikan-bertaraf-global"
-    },
-    {
-        "title": "BSI Explore 2026 Jangkau 38 Desa Mitra di Berbagai Daerah",
-        "category": "News",
-        "publish_time": "17-07-2026 04:59",
-        "news_link": "https://news.republika.co.id/berita/tiazu3472/bsi-explore-2026-jangkau-38-desa-mitra-di-berbagai-daerah"
-    },
-    {
-        "title": "HIPMI Minta Sistem Distribusi BBM Dievaluasi Menyeluruh",
-        "category": "Ekonomi",
-        "publish_time": "17-07-2026 04:59",
-        "news_link": "https://ekonomi.republika.co.id/berita/tiaztu423/hipmi-minta-sistem-distribusi-bbm-dievaluasi-menyeluruh"
-    },
-    {
-        "title": "Merajut Simpul Baru Transportasi Jakarta, dari Manggarai Hingga JIS",
-        "category": "News",
-        "publish_time": "17-07-2026 04:59",
-        "news_link": "https://news.republika.co.id/berita/tiazrt487/merajut-simpul-baru-transportasi-jakarta-dari-manggarai-hingga-jis"
-    },
-    {
-        "title": "Sepuluh Dosen UBSI Lolos Inspiring Lecturer Program 2026 by ParagonCorp",
-        "category": "News",
-        "publish_time": "17-07-2026 04:59",
-        "news_link": "https://news.republika.co.id/berita/tiazj4472/sepuluh-dosen-ubsi-lolos-inspiring-lecturer-program-2026-by-paragoncorp"
-    },
-    {
-        "title": "Terorisme Sayap Kiri ke Level Tertinggi, Rubio: Saatnya Menghancurkan Kejahatan Ini",
-        "category": "News",
-        "publish_time": "17-07-2026 04:59",
-        "news_link": "https://news.republika.co.id/berita/tiax5a451/terorisme-sayap-kiri-ke-level-tertinggi-rubio-saatnya-menghancurkan-kejahatan-ini"
-    },
-    {
-        "title": "UBSI Ajak Alumni Reuni Lewat Padel Day 2026! Dulu Satu Kampus, Sekarang Satu Court",
-        "category": "News",
-        "publish_time": "17-07-2026 04:59",
-        "news_link": "https://news.republika.co.id/berita/tiaz8d472/ubsi-ajak-alumni-reuni-lewat-padel-day-2026-dulu-satu-kampus-sekarang-satu-court"
-    },
-    {
-        "title": "Lima Deretan Kampus dengan Jurusan Teknologi Informasi Terbaik di Jakarta",
-        "category": "News",
-        "publish_time": "17-07-2026 04:59",
-        "news_link": "https://news.republika.co.id/berita/tiayz5472/lima-deretan-kampus-dengan-jurusan-teknologi-informasi-terbaik-di-jakarta"
-    },
-    {
-        "title": "BSI Explore 2026 Segera Dimulai, Libatkan Mahasiswa dalam Program Pengabdian ke Desa-Desa",
-        "category": "News",
-        "publish_time": "17-07-2026 04:59",
-        "news_link": "https://news.republika.co.id/berita/tiayma472/bsi-explore-2026-segera-dimulai-libatkan-mahasiswa-dalam-program-pengabdian-ke-desadesa"
-    },
-    {
-        "title": "Prancis Hadapi Kekeringan Terparah di Tengah Gelombang Panas",
-        "category": "Esgnow",
-        "publish_time": "17-07-2026 04:59",
-        "news_link": "https://esgnow.republika.co.id/berita/tiay9r423/prancis-hadapi-kekeringan-terparah-di-tengah-gelombang-panas"
-    },
-    {
-        "title": "Kampus Terbaik di Yogyakarta Versi uniRank dan Jurusan Paling Diminati",
-        "category": "News",
-        "publish_time": "17-07-2026 04:59",
-        "news_link": "https://news.republika.co.id/berita/tiay98472/kampus-terbaik-di-yogyakarta-versi-unirank-dan-jurusan-paling-diminati"
-    },
-    {
-        "title": "Simpul Pemilik Manfaat",
-        "category": "Kolom",
-        "publish_time": "17-07-2026 04:59",
-        "news_link": "https://analisis.republika.co.id/berita/tiay83415/simpul-pemilik-manfaat"
-    },
-    {
-        "title": "Apresiasi Capaian PLN, JBBA 2026 Beri Penghargaan BUMN Peduli Energi Terbarukan",
-        "category": "Rejogja",
-        "publish_time": "17-07-2026 04:59",
-        "news_link": "https://rejogja.republika.co.id/berita/tiavm5291/apresiasi-capaian-pln-jbba-2026-beri-penghargaan-bumn-peduli-energi-terbarukan"
-    },
-    {
-        "title": "Gandeng 84 LAZ, Kemenag akan 'Sulap' KUA Jadi Pusat Pemberdayaan Umat",
-        "category": "Khazanah",
-        "publish_time": "17-07-2026 04:59",
-        "news_link": "https://khazanah.republika.co.id/berita/tiaxww483/gandeng-84-laz-kemenag-akan-sulap-kua-jadi-pusat-pemberdayaan-umat"
-    },
-    {
-        "title": "China Bagi-Bagi 5.000 Pelatihan AI ke Negara Berkembang, Tantang Dominasi AS?",
-        "category": "News",
-        "publish_time": "17-07-2026 03:59",
-        "news_link": "https://news.republika.co.id/berita/tiawhu451/china-bagibagi-5000-pelatihan-ai-ke-negara-berkembang-tantang-dominasi-as"
     }
 ]
