@@ -1,15 +1,267 @@
 [
     {
+        "title": "Menhub Pastikan Layanan Angkutan Perintis Tetap Berjalan hingga Akhir 2026",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2026 07:59",
+        "news_link": "https://ekonomi.republika.co.id/berita/tikgus416/menhub-pastikan-layanan-angkutan-perintis-tetap-berjalan-hingga-akhir-2026"
+    },
+    {
+        "title": "RDG Juli 2026 Putuskan BI Rate Tetap 5,75 Persen",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2026 07:58",
+        "news_link": "https://ekonomi.republika.co.id/berita/tikgu5423/rdg-juli-2026-putuskan-bi-rate-tetap-575-persen"
+    },
+    {
+        "title": "Presiden Lantik Pimpinan Universitas Republik Indonesia, Wamenhan Jadi Gubernur?",
+        "category": "News",
+        "publish_time": "22-07-2026 07:58",
+        "news_link": "https://news.republika.co.id/berita/tikgtl484/presiden-lantik-pimpinan-universitas-republik-indonesia-wamenhan-jadi-gubernur"
+    },
+    {
+        "title": "Peringati Hari Anak Nasional, KPP Jabar Salurkan Bantuan untuk Kelompok Rentan",
+        "category": "Rejabar",
+        "publish_time": "22-07-2026 07:57",
+        "news_link": "https://rejabar.republika.co.id/berita/tikgse472/peringati-hari-anak-nasional-kpp-jabar-salurkan-bantuan-untuk-kelompok-rentan"
+    },
+    {
+        "title": "Purbaya Sambangi PBNU, Buka Peluang Kerja Sama Proyek Pengolahan Sampah",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2026 07:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/tikgq5490/purbaya-sambangi-pbnu-buka-peluang-kerja-sama-proyek-pengolahan-sampah"
+    },
+    {
+        "title": "Menlu Iran Aragchi Cerita Detik-Detik Hampir Terbunuh Bersama Khamenei Saat Dibom AS",
+        "category": "News",
+        "publish_time": "22-07-2026 07:51",
+        "news_link": "https://news.republika.co.id/berita/tikgh5377/menlu-iran-aragchi-cerita-detikdetik-hampir-terbunuh-bersama-khamenei-saat-dibom-as"
+    },
+    {
+        "title": "Peradi Profesional dan Unisba Kerja Sama Perkuat Pendidikan Profesi Advokat",
+        "category": "News",
+        "publish_time": "22-07-2026 07:47",
+        "news_link": "https://news.republika.co.id/berita/tikg0t416/peradi-profesional-dan-unisba-kerja-sama-perkuat-pendidikan-profesi-advokat"
+    },
+    {
+        "title": "Wamentan Minta Pengusaha Tani Fokus Bangun Bisnis, Bukan Berebut Proyek",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2026 07:46",
+        "news_link": "https://ekonomi.republika.co.id/berita/tikga3423/wamentan-minta-pengusaha-tani-fokus-bangun-bisnis-bukan-berebut-proyek"
+    },
+    {
+        "title": "Merawat Keberlanjutan NU Melalui Suksesi Kepemimpinan",
+        "category": "Kolom",
+        "publish_time": "22-07-2026 07:46",
+        "news_link": "https://www.republika.id/posts/60348/merawat-keberlanjutan-nu-melalui-suksesi-kepemimpinan"
+    },
+    {
+        "title": "Prancis Resmi Larang Media Sosial untuk Anak di Bawah 15 Tahun",
+        "category": "Ameera",
+        "publish_time": "22-07-2026 07:37",
+        "news_link": "https://ameera.republika.co.id/berita/tikfuc328/prancis-resmi-larang-media-sosial-untuk-anak-di-bawah-15-tahun"
+    },
+    {
+        "title": "Merusak Lingkungan Rusak Amanah Manusia Sebagai Khalifah",
+        "category": "Khazanah",
+        "publish_time": "22-07-2026 07:32",
+        "news_link": "https://khazanah.republika.co.id/berita/tikfmg483/merusak-lingkungan-rusak-amanah-manusia-sebagai-khalifah"
+    },
+    {
+        "title": "Komisi 8 Persen Ojol Dievaluasi Positif, Ekonom Minta Pemerintah Jaga Iklim Investasi",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2026 07:31",
+        "news_link": "https://ekonomi.republika.co.id/berita/tikfk0370/komisi-8-persen-ojol-dievaluasi-positif-ekonom-minta-pemerintah-jaga-iklim-investasi"
+    },
+    {
+        "title": "Mengapa Pemerintah Mempercepat Pembentukan PFII?",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2026 07:29",
+        "news_link": "https://ekonomi.republika.co.id/berita/tikfhr490/mengapa-pemerintah-mempercepat-pembentukan-pfii"
+    },
+    {
+        "title": "Bantah Tugas Menagih Masyarakat, TNI Jelaskan Awal Mula Keterlibatan Urus Pajak",
+        "category": "News",
+        "publish_time": "22-07-2026 07:21",
+        "news_link": "https://news.republika.co.id/berita/tikf31409/bantah-tugas-menagih-masyarakat-tni-jelaskan-awal-mula-keterlibatan-urus-pajak"
+    },
+    {
+        "title": "Mengapa Messi tak Terlihat Bersama Skuad Argentina Usai Laga Final?",
+        "category": "News",
+        "publish_time": "22-07-2026 07:16",
+        "news_link": "https://news.republika.co.id/berita/tik7zn409/mengapa-messi-tak-terlihat-bersama-skuad-argentina-usai-laga-final"
+    },
+    {
+        "title": "Bahlil Pastikan RKAB Batu Bara Utamakan Pasokan Domestik",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2026 07:16",
+        "news_link": "https://ekonomi.republika.co.id/berita/tikelq423/bahlil-pastikan-rkab-batu-bara-utamakan-pasokan-domestik"
+    },
+    {
+        "title": "Lamine Yamal Miliki Rumah Mewah Senilai Rp 208 M Bekas Shakira",
+        "category": "Ameera",
+        "publish_time": "22-07-2026 07:16",
+        "news_link": "https://ameera.republika.co.id/berita/tikega328/lamine-yamal-miliki-rumah-mewah-senilai-rp-208-m-bekas-shakira"
+    },
+    {
+        "title": "Kejagung Sebut Belum Ada Jadwal Pemanggilan Nanik S Deyang Usai Mundur dari BGN",
+        "category": "News",
+        "publish_time": "22-07-2026 07:16",
+        "news_link": "https://news.republika.co.id/berita/tikee0409/kejagung-sebut-belum-ada-jadwal-pemanggilan-nanik-s-deyang-usai-mundur-dari-bgn"
+    },
+    {
+        "title": "Ditunjuk Jadi Kepala BGN, Sudaryono Bakal Tinggalkan Jabatan Wamentan?",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2026 07:16",
+        "news_link": "https://ekonomi.republika.co.id/berita/tikecw490/ditunjuk-jadi-kepala-bgn-sudaryono-bakal-tinggalkan-jabatan-wamentan"
+    },
+    {
+        "title": "Kemenhan Tertarik Datangkan Helikopter AW149 untuk TNI AL",
+        "category": "News",
+        "publish_time": "22-07-2026 07:16",
+        "news_link": "https://news.republika.co.id/berita/tike9q484/kemenhan-tertarik-datangkan-helikopter-aw149-untuk-tni-al"
+    },
+    {
+        "title": "ACC dan TAF Bidik Penjualan Kendaraan di GIIAS 2026 Lewat Beragam Promo Pembiayaan",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2026 07:16",
+        "news_link": "https://ekonomi.republika.co.id/berita/tike92370/acc-dan-taf-bidik-penjualan-kendaraan-di-giias-2026-lewat-beragam-promo-pembiayaan"
+    },
+    {
+        "title": "Mahasiswa UNM Ungkap Rahasia Sukses Lolos PKM, Ternyata Kolaborasi Lebih Penting dari IPK",
+        "category": "News",
+        "publish_time": "22-07-2026 07:16",
+        "news_link": "https://news.republika.co.id/berita/tikbuf368/mahasiswa-unm-ungkap-rahasia-sukses-lolos-pkm-ternyata-kolaborasi-lebih-penting-dari-ipk"
+    },
+    {
+        "title": "Riau Bhayangkara Run 2026 Ciptakan Efek Ekonomi Rp 58,9 Miliar",
+        "category": "Ameera",
+        "publish_time": "22-07-2026 07:16",
+        "news_link": "https://ameera.republika.co.id/berita/tikdn6522/riau-bhayangkara-run-2026-ciptakan-efek-ekonomi-rp-589-miliar"
+    },
+    {
+        "title": "Preisden Prabowo Setuju Kuntadi Menjadi Jampidus Gantikan Febrie Adriansyah",
+        "category": "News",
+        "publish_time": "22-07-2026 07:16",
+        "news_link": "https://news.republika.co.id/berita/tikdlb377/preisden-prabowo-setuju-kuntadi-menjadi-jampidus-gantikan-febrie-adriansyah"
+    },
+    {
+        "title": "APHI Dorong Pengembangan Komoditas Hasil Hutan Bukan Kayu Berbasis Riset",
+        "category": "Esgnow",
+        "publish_time": "22-07-2026 06:16",
+        "news_link": "https://esgnow.republika.co.id/berita/tikdhp522/aphi-dorong-pengembangan-komoditas-hasil-hutan-bukan-kayu-berbasis-riset"
+    },
+    {
+        "title": "Pupuk Kaltim Perkuat Ekosistem Pembinaan Bulutangkis Nasional",
+        "category": "Esgnow",
+        "publish_time": "22-07-2026 06:16",
+        "news_link": "https://esgnow.republika.co.id/berita/tikdfr522/pupuk-kaltim-perkuat-ekosistem-pembinaan-bulutangkis-nasional"
+    },
+    {
+        "title": "Ditunjuk Jadi Kepala BGN, Sudaryono: Saya Sudah Ditelepon Pak Teddy",
+        "category": "News",
+        "publish_time": "22-07-2026 06:16",
+        "news_link": "https://news.republika.co.id/berita/tikd2t377/ditunjuk-jadi-kepala-bgn-sudaryono-saya-sudah-ditelepon-pak-teddy"
+    },
+    {
+        "title": "Tak Hanya Jago Digital, Mahasiswa Universitas Nusa Mandiri Turun Langsung Edukasi Hidup Sehat",
+        "category": "News",
+        "publish_time": "22-07-2026 06:16",
+        "news_link": "https://news.republika.co.id/berita/tikbmv368/tak-hanya-jago-digital-mahasiswa-universitas-nusa-mandiri-turun-langsung-edukasi-hidup-sehat"
+    },
+    {
+        "title": "Menkeu Pastikan Bea Cukai tak Dibubarkan, Pengawasan Penyelundupan Diperketat",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2026 06:16",
+        "news_link": "https://ekonomi.republika.co.id/berita/tikck6370/menkeu-pastikan-bea-cukai-tak-dibubarkan-pengawasan-penyelundupan-diperketat"
+    },
+    {
+        "title": "Ini Alasan Presiden Prabowo Tunjuk Sudaryono Sebagai Kepala BGN",
+        "category": "News",
+        "publish_time": "22-07-2026 06:16",
+        "news_link": "https://news.republika.co.id/berita/tikcch377/ini-alasan-presiden-prabowo-tunjuk-sudaryono-sebagai-kepala-bgn"
+    },
+    {
+        "title": "Masih Anggap Game Cuma Hiburan? Mahasiswa UNM Bantu Anak ADHD Lewat Inovasi MEMORion+",
+        "category": "News",
+        "publish_time": "22-07-2026 06:16",
+        "news_link": "https://news.republika.co.id/berita/tikbeb368/masih-anggap-game-cuma-hiburan-mahasiswa-unm-bantu-anak-adhd-lewat-inovasi-memorion"
+    },
+    {
+        "title": "Rachel/Febi Bikin Kejutan pada Babak Pertama China Open, Tumbangkan Unggulan Kedua Wakil Tuan Rumah",
+        "category": "News",
+        "publish_time": "22-07-2026 06:16",
+        "news_link": "https://news.republika.co.id/berita/tikbth348/rachelfebi-bikin-kejutan-pada-babak-pertama-china-open-tumbangkan-unggulan-kedua-wakil-tuan-rumah"
+    },
+    {
+        "title": "Mencari Makna sebagai Tren Baru Dinamika Spiritual Islam di Kalangan Gen Z Muslim",
+        "category": "Retizen",
+        "publish_time": "22-07-2026 06:16",
+        "news_link": "https://retizen.republika.co.id/posts/772777/mencari-makna-sebagai-tren-baru-dinamika-spiritual-islam-di-kalangan-gen-z-muslim"
+    },
+    {
+        "title": "Mengapa Penantian yang Panjang Dapat Membawa Hasil yang Baik?",
+        "category": "Retizen",
+        "publish_time": "22-07-2026 06:16",
+        "news_link": "https://retizen.republika.co.id/posts/772764/mengapa-penantian-yang-panjang-dapat-membawa-hasil-yang-baik"
+    },
+    {
+        "title": "Mahasiswa UNM Siapkan Chatbot AI Penangkal Kejahatan Siber, Cegah Masyarakat Tertipu Phishing",
+        "category": "News",
+        "publish_time": "22-07-2026 06:16",
+        "news_link": "https://news.republika.co.id/berita/tik9t7368/mahasiswa-unm-siapkan-chatbot-ai-penangkal-kejahatan-siber-cegah-masyarakat-tertipu-phishing"
+    },
+    {
+        "title": "Ketika Otak Terbiasa dengan Konten Singkat",
+        "category": "Retizen",
+        "publish_time": "22-07-2026 06:16",
+        "news_link": "https://retizen.republika.co.id/posts/772742/ketika-otak-terbiasa-dengan-konten-singkat"
+    },
+    {
+        "title": "Magang Global: Jalan Strategis Mengelola Bonus Demografi Indonesia",
+        "category": "Retizen",
+        "publish_time": "22-07-2026 06:16",
+        "news_link": "https://retizen.republika.co.id/posts/772749/magang-global-jalan-strategis-mengelola-bonus-demografi-indonesia"
+    },
+    {
+        "title": "Dari Riba ke Risiko Bersama: Mengapa Sistem Syariah Semakin Relevan Hari Ini",
+        "category": "Retizen",
+        "publish_time": "22-07-2026 06:16",
+        "news_link": "https://retizen.republika.co.id/posts/772753/dari-riba-ke-risiko-bersama-mengapa-sistem-syariah-semakin-relevan-hari-ini"
+    },
+    {
+        "title": "Mahasiswa Gen-AI: Ketika Deadline Bukan Lagi Horor",
+        "category": "Retizen",
+        "publish_time": "22-07-2026 06:16",
+        "news_link": "https://retizen.republika.co.id/posts/772757/mahasiswa-gen-ai-ketika-deadline-bukan-lagi-horor"
+    },
+    {
+        "title": "Hadir di Forum Bank Dunia, Dompet Dhuafa Paparkan Kekuatan ZISWAF untuk Entaskan Kemiskinan",
+        "category": "Khazanah",
+        "publish_time": "22-07-2026 06:16",
+        "news_link": "https://khazanah.republika.co.id/berita/tikarr368/hadir-di-forum-bank-dunia-dompet-dhuafa-paparkan-kekuatan-ziswaf-untuk-entaskan-kemiskinan"
+    },
+    {
+        "title": "Telkom Gelar CAMG 2026, Perkuat Budaya Perusahaan di Tengah Dinamika Bisnis",
+        "category": "Ekonomi",
+        "publish_time": "22-07-2026 05:16",
+        "news_link": "https://ekonomi.republika.co.id/berita/tik82l368/telkom-gelar-camg-2026-perkuat-budaya-perusahaan-di-tengah-dinamika-bisnis"
+    },
+    {
         "title": "Sudaryono akan Dilantik Jadi Kepala BGN Gantikan Nanik S Deyang",
         "category": "News",
-        "publish_time": "22-07-2026 05:37",
+        "publish_time": "22-07-2026 05:16",
         "news_link": "https://news.republika.co.id/berita/tikaac484/sudaryono-akan-dilantik-jadi-kepala-bgn-gantikan-nanik-s-deyang"
     },
     {
         "title": "Mahasiswa UNM Sulap Limbah Dapur Jadi Cuan, Program EcoWorth Sasar PKK Jakarta Timur",
         "category": "News",
-        "publish_time": "22-07-2026 05:36",
+        "publish_time": "22-07-2026 05:16",
         "news_link": "https://news.republika.co.id/berita/tika8m368/mahasiswa-unm-sulap-limbah-dapur-jadi-cuan-program-ecoworth-sasar-pkk-jakarta-timur"
+    },
+    {
+        "title": "Gerindra: Prabowo dan Gibran Saling Melengkapi",
+        "category": "News",
+        "publish_time": "22-07-2026 05:16",
+        "news_link": "https://news.republika.co.id/berita/tika0u377/gerindra-prabowo-dan-gibran-saling-melengkapi"
     },
     {
         "title": "Alih-Alih Tutup Prodi, Akademisi Dorong Reformasi Kurikulum dan Lapangan Kerja",
@@ -26,277 +278,25 @@
     {
         "title": "Pasok Blok Rem KAI Selama 26 Tahun, Koperasi Batur Jaya Kini Beralih Produksi Blok Rem Komposit",
         "category": "Rejogja",
-        "publish_time": "22-07-2026 05:14",
+        "publish_time": "22-07-2026 05:16",
         "news_link": "https://rejogja.republika.co.id/berita/tik996291/pasok-blok-rem-kai-selama-26-tahun-koperasi-batur-jaya-kini-beralih-produksi-blok-rem-komposit"
     },
     {
         "title": "DPRD Jabar Kawal Pembangunan Trase Baru Batutulis Hingga Tuntas",
         "category": "Rejabar",
-        "publish_time": "22-07-2026 05:06",
+        "publish_time": "22-07-2026 05:16",
         "news_link": "https://rejabar.republika.co.id/berita/tik8vc368/dprd-jabar-kawal-pembangunan-trase-baru-batutulis-hingga-tuntas"
     },
     {
         "title": "TelkomGroup dan Mitra Berhasil Daratkan Kabel Laut NCC di Batam, Perkuat Konektivitas Digital",
         "category": "Ekonomi",
-        "publish_time": "22-07-2026 05:00",
+        "publish_time": "22-07-2026 05:16",
         "news_link": "https://ekonomi.republika.co.id/berita/tik7tw368/telkomgroup-dan-mitra-berhasil-daratkan-kabel-laut-ncc-di-batam-perkuat-konektivitas-digital"
     },
     {
         "title": "Penghapusan Lunas Tunda Ganti pada Haji Khusus Dinilai tak Cukup Lewat Pernyataan",
         "category": "Khazanah",
-        "publish_time": "22-07-2026 04:54",
+        "publish_time": "22-07-2026 05:16",
         "news_link": "https://khazanah.republika.co.id/berita/tik8bx483/penghapusan-lunas-tunda-ganti-pada-haji-khusus-dinilai-tak-cukup-lewat-pernyataan"
-    },
-    {
-        "title": "Andy Burnham Pimpin Inggris, Ini Lima Tantangan Besar Yang Dihadapinya",
-        "category": "News",
-        "publish_time": "22-07-2026 04:53",
-        "news_link": "https://news.republika.co.id/berita/tik890451/andy-burnham-pimpin-inggris-ini-lima-tantangan-besar-yang-dihadapinya"
-    },
-    {
-        "title": "Menguji Legalitas Pemindahan Terminal Umrah",
-        "category": "Kolom",
-        "publish_time": "22-07-2026 04:42",
-        "news_link": "https://analisis.republika.co.id/berita/tik7pz368/menguji-legalitas-pemindahan-terminal-umrah"
-    },
-    {
-        "title": "TelkomGroup Perkuat Gerbang Digital Indonesia melalui Sistem Kabel Laut NCC",
-        "category": "Ekonomi",
-        "publish_time": "22-07-2026 04:42",
-        "news_link": "https://ekonomi.republika.co.id/berita/tik7g2490/telkomgroup-perkuat-gerbang-digital-indonesia-melalui-sistem-kabel-laut-ncc"
-    },
-    {
-        "title": "Peringatkan Perwira TNI-Polri, Prabowo: Jangan Tergoda Korupsi",
-        "category": "News",
-        "publish_time": "22-07-2026 04:42",
-        "news_link": "https://news.republika.co.id/berita/tik75w377/peringatkan-perwira-tnipolri-prabowo-jangan-tergoda-korupsi"
-    },
-    {
-        "title": "Telkom CorpU Dorong Transformasi Talenta Lewat\u00a0Forum CorpU Association Insight",
-        "category": "Ekonomi",
-        "publish_time": "22-07-2026 04:42",
-        "news_link": "https://ekonomi.republika.co.id/berita/tik73q368/telkom-corpu-dorong-transformasi-talenta-lewatforum-corpu-association-insight"
-    },
-    {
-        "title": "Piala AFF 2026 Jadi Momentum Timnas Akhiri Kutukan Runner-up, Mampukah Herdman Persembahkan Gelar?",
-        "category": "News",
-        "publish_time": "22-07-2026 04:42",
-        "news_link": "https://news.republika.co.id/berita/tik6nt348/piala-aff-2026-jadi-momentum-timnas-akhiri-kutukan-runnerup-mampukah-herdman-persembahkan-gelar"
-    },
-    {
-        "title": "Mentan Terbang ke Jatim, Borong Inovasi ITS: Benih Jagung, Traktor Amfibi hingga Alat Panjat Kelapa",
-        "category": "Ekonomi",
-        "publish_time": "22-07-2026 04:42",
-        "news_link": "https://ekonomi.republika.co.id/berita/tik6kt368/mentan-terbang-ke-jatim-borong-inovasi-its-benih-jagung-traktor-amfibi-hingga-alat-panjat-kelapa"
-    },
-    {
-        "title": "10,673 Hectares of Rice Crops in Indramayu Threatened with Crop Failure Due to Drought",
-        "category": "En",
-        "publish_time": "1 hours ago",
-        "news_link": "https://en.republika.co.id/berita/tik5k3415/10673-hectares-of-rice-crops-in-indramayu-threatened-with-crop-failure-due-to-drought"
-    },
-    {
-        "title": "Perjalanan LRT Jabodebek Terganggu, KAI Minta Maaf",
-        "category": "Ekonomi",
-        "publish_time": "22-07-2026 03:42",
-        "news_link": "https://ekonomi.republika.co.id/berita/tik64j370/perjalanan-lrt-jabodebek-terganggu-kai-minta-maaf"
-    },
-    {
-        "title": "Alwi Farhan Tersingkir di Babak Pertama China Open 2026, Kalah Tiga Gim dari Pemain India",
-        "category": "News",
-        "publish_time": "22-07-2026 03:42",
-        "news_link": "https://news.republika.co.id/berita/tik62j348/alwi-farhan-tersingkir-di-babak-pertama-china-open-2026-kalah-tiga-gim-dari-pemain-india"
-    },
-    {
-        "title": "Cerita Warga Pulang Dikawal Polisi Gara-Gara Takut Begal di Bandung",
-        "category": "Rejabar",
-        "publish_time": "22-07-2026 03:42",
-        "news_link": "https://rejabar.republika.co.id/berita/tik5h4487/cerita-warga-pulang-dikawal-polisi-garagara-takut-begal-di-bandung"
-    },
-    {
-        "title": "Nanik Sudaryati Deyang Resigns from the Head of BGN",
-        "category": "En",
-        "publish_time": "2 hours ago",
-        "news_link": "https://en.republika.co.id/berita/tik5de415/nanik-sudaryati-deyang-resigns-from-the-head-of-bgn"
-    },
-    {
-        "title": "Merangkai Realitas Menjadi Cerita, Frame Festival 2026 Beri Apresiasi Sineas Muda di Yogyakarta",
-        "category": "Rejogja",
-        "publish_time": "22-07-2026 03:42",
-        "news_link": "https://rejogja.republika.co.id/berita/tik5ai291/merangkai-realitas-menjadi-cerita-frame-festival-2026-beri-apresiasi-sineas-muda-di-yogyakarta"
-    },
-    {
-        "title": "Lima Protein Nabati yang Bisa Bantu Turunkan Hipertensi",
-        "category": "Ameera",
-        "publish_time": "22-07-2026 03:42",
-        "news_link": "https://ameera.republika.co.id/berita/tik3ol425/lima-protein-nabati-yang-bisa-bantu-turunkan-hipertensi"
-    },
-    {
-        "title": "BI Diperkirakan Pertahankan BI-Rate 5,75 Persen, Ini Pertimbangan Ekonom",
-        "category": "Ekonomi",
-        "publish_time": "22-07-2026 03:42",
-        "news_link": "https://ekonomi.republika.co.id/berita/tik50i370/bi-diperkirakan-pertahankan-birate-575-persen-ini-pertimbangan-ekonom"
-    },
-    {
-        "title": "Selembar Ijazah Keliling Republik",
-        "category": "Kolom",
-        "publish_time": "22-07-2026 03:42",
-        "news_link": "https://analisis.republika.co.id/berita/tik4rz415/selembar-ijazah-keliling-republik"
-    },
-    {
-        "title": "Sudah Saatnya Pekerja Platform Masuk dalam Rezim Hukum Ketenagakerjaan Indonesia",
-        "category": "Kolom",
-        "publish_time": "22-07-2026 03:42",
-        "news_link": "https://analisis.republika.co.id/berita/tik4hk502/sudah-saatnya-pekerja-platform-masuk-dalam-rezim-hukum-ketenagakerjaan-indonesia"
-    },
-    {
-        "title": "Sumur Warga di Majalengka Mengering, Krisis Air Bersih Mengintai",
-        "category": "Rejabar",
-        "publish_time": "22-07-2026 03:42",
-        "news_link": "https://rejabar.republika.co.id/berita/tik4c1487/sumur-warga-di-majalengka-mengering-krisis-air-bersih-mengintai"
-    },
-    {
-        "title": "Adara Rilis Modul Edukasi Baitul Maqdis, 131 Pendidik Ikuti Workshop di Jakarta",
-        "category": "Khazanah",
-        "publish_time": "22-07-2026 03:42",
-        "news_link": "https://khazanah.republika.co.id/berita/tik42y366/adara-rilis-modul-edukasi-baitul-maqdis-131-pendidik-ikuti-workshop-di-jakarta"
-    },
-    {
-        "title": "Dari Bantargebang hingga Rumah, Jakarta Ubah Cara Kelola Sampah",
-        "category": "News",
-        "publish_time": "22-07-2026 02:42",
-        "news_link": "https://news.republika.co.id/berita/tik3ds487/dari-bantargebang-hingga-rumah-jakarta-ubah-cara-kelola-sampah"
-    },
-    {
-        "title": "Akhirnya Putar Haluan, Inggris dan Uni Eropa Mulai Rujuk Setelah Brexit",
-        "category": "News",
-        "publish_time": "22-07-2026 02:42",
-        "news_link": "https://news.republika.co.id/berita/tik00k451/akhirnya-putar-haluan-inggris-dan-uni-eropa-mulai-rujuk-setelah-brexit"
-    },
-    {
-        "title": "Saat Raja Charles III Kunjungi Masjid Pusat Cambridge",
-        "category": "Video",
-        "publish_time": "22-07-2026 02:42",
-        "news_link": "https://republika.co.id/page/shorts/yt-tik3011633253094/saat-raja-charles-iii-kunjungi-masjid-pusat-cambridge"
-    },
-    {
-        "title": "Tanda Allah Sedang Mengingat Diri Kita",
-        "category": "Khazanah",
-        "publish_time": "22-07-2026 02:42",
-        "news_link": "https://khazanah.republika.co.id/berita/tik2jj430/tanda-allah-sedang-mengingat-diri-kita"
-    },
-    {
-        "title": "Bea Cukai Malang Terbitkan NPPBKC kepada PT Pandawa Berdaya Nusantara",
-        "category": "Beacukai",
-        "publish_time": "22-07-2026 02:42",
-        "news_link": "https://republika.co.id/berita//tik2ib368/bea-cukai-malang-terbitkan-nppbkc-kepada-pt-pandawa-berdaya-nusantara"
-    },
-    {
-        "title": "Sisi Lain Makeup, Ternyata Bermanfaat Buat Kesehatan Mental",
-        "category": "Ameera",
-        "publish_time": "22-07-2026 02:42",
-        "news_link": "https://ameera.republika.co.id/berita/tik2ax425/sisi-lain-makeup-ternyata-bermanfaat-buat-kesehatan-mental"
-    },
-    {
-        "title": "Doa Meminta Hujan yang Diamalkan Rasulullah SAW Beserta Kisah Mustajabnya",
-        "category": "Iqra",
-        "publish_time": "22-07-2026 02:42",
-        "news_link": "https://iqra.republika.co.id/berita/tik1hd366/doa-meminta-hujan-yang-diamalkan-rasulullah-saw-beserta-kisah-mustajabnya"
-    },
-    {
-        "title": "Syarat Bedah Rumah Bakal Dipermudah, Menteri PKP Ubah Aturan Alas Hak",
-        "category": "Ekonomi",
-        "publish_time": "22-07-2026 02:42",
-        "news_link": "https://ekonomi.republika.co.id/berita/tik1gp370/syarat-bedah-rumah-bakal-dipermudah-menteri-pkp-ubah-aturan-alas-hak"
-    },
-    {
-        "title": "Bintang Film Godzilla vs. Kong Kaylee Hottle Meninggal Dunia Setelah Alami Kecelakaan",
-        "category": "Ameera",
-        "publish_time": "22-07-2026 02:42",
-        "news_link": "https://ameera.republika.co.id/berita/tik1e6425/bintang-film-godzilla-vs-kong-kaylee-hottle-meninggal-dunia-setelah-alami-kecelakaan"
-    },
-    {
-        "title": "Cerita Lembaran Tua: Catatan Perjalanan Menelusuri Manuskrip Sijunjung",
-        "category": "Retizen",
-        "publish_time": "22-07-2026 02:42",
-        "news_link": "https://retizen.republika.co.id/posts/772691/cerita-lembaran-tua-catatan-perjalanan-menelusuri-manuskrip-sijunjung"
-    },
-    {
-        "title": "Bahlil Dorong Penggunaan Hidrogen di Bus Transjakarta, Siap Bahas dengan Pramono Anung",
-        "category": "Esgnow",
-        "publish_time": "22-07-2026 02:42",
-        "news_link": "https://esgnow.republika.co.id/berita/tik14g490/bahlil-dorong-penggunaan-hidrogen-di-bus-transjakarta-siap-bahas-dengan-pramono-anung"
-    },
-    {
-        "title": "Berbagi Kebahagiaan Nonton Film Bersama Anak Yatim di Sukabumi",
-        "category": "Retizen",
-        "publish_time": "22-07-2026 02:42",
-        "news_link": "https://retizen.republika.co.id/posts/772731/berbagi-kebahagiaan-nonton-film-bersama-anak-yatim-di-sukabumi"
-    },
-    {
-        "title": "Muktamar NU 2026: Saatnya Al-Khuruj Minal Khilaf dan Regenerasi Kepemimpinan Nahdlatul Ulama",
-        "category": "Kolom",
-        "publish_time": "22-07-2026 02:42",
-        "news_link": "https://analisis.republika.co.id/berita/tijylo451/muktamar-nu-2026-saatnya-alkhuruj-minal-khilaf-dan-regenerasi-kepemimpinan-nahdlatul-ulama"
-    },
-    {
-        "title": "Polri Hadirkan Sekolah Unggulan Berstandar Dunia, 297 Siswa Mulai Tempati Kampus",
-        "category": "News",
-        "publish_time": "22-07-2026 01:42",
-        "news_link": "https://news.republika.co.id/berita/tik0fh368/polri-hadirkan-sekolah-unggulan-berstandar-dunia-297-siswa-mulai-tempati-kampus"
-    },
-    {
-        "title": "Dicari Dunia, Dipinggirkan di Negeri Sendiri",
-        "category": "Kolom",
-        "publish_time": "22-07-2026 01:42",
-        "news_link": "https://analisis.republika.co.id/berita/tijzzq368/dicari-dunia-dipinggirkan-di-negeri-sendiri"
-    },
-    {
-        "title": "Personel Brimob Satgas Damai Cartenz Gugur Diserang OTK di Yahukimo Papua",
-        "category": "News",
-        "publish_time": "22-07-2026 01:42",
-        "news_link": "https://news.republika.co.id/berita/tijzjk487/personel-brimob-satgas-damai-cartenz-gugur-diserang-otk-di-yahukimo-papua"
-    },
-    {
-        "title": "Regulasi Anti-Spionase Dinilai Mendesak, Ini Alasannya",
-        "category": "News",
-        "publish_time": "22-07-2026 01:42",
-        "news_link": "https://news.republika.co.id/berita/tijzbc416/regulasi-antispionase-dinilai-mendesak-ini-alasannya"
-    },
-    {
-        "title": "Pertamina Patra Niaga Wujudkan Generasi Sehat, Berdaya dan Mandiri Melalui Program GARBATERA",
-        "category": "Esgnow",
-        "publish_time": "22-07-2026 01:42",
-        "news_link": "https://esgnow.republika.co.id/berita/tijzcc522/pertamina-patra-niaga-wujudkan-generasi-sehat-berdaya-dan-mandiri-melalui-program-garbatera"
-    },
-    {
-        "title": "Pembenahan Basis Data Jadi Kunci Reformasi Subsidi Energi",
-        "category": "Ekonomi",
-        "publish_time": "22-07-2026 01:42",
-        "news_link": "https://ekonomi.republika.co.id/berita/tijz47522/pembenahan-basis-data-jadi-kunci-reformasi-subsidi-energi"
-    },
-    {
-        "title": "Cuma Amal yang Menemani Manusia di Dalam Kubur, Ini Penjelasan Rasulullah",
-        "category": "Iqra",
-        "publish_time": "22-07-2026 01:42",
-        "news_link": "https://iqra.republika.co.id/berita/tijrh8451/cuma-amal-yang-menemani-manusia-di-dalam-kubur-ini-penjelasan-rasulullah"
-    },
-    {
-        "title": "Dompet Dhuafa Hubungkan Anak Yatim dengan Mentor Lewat Program Ruang Mimpi",
-        "category": "Khazanah",
-        "publish_time": "22-07-2026 01:42",
-        "news_link": "https://khazanah.republika.co.id/berita/tijyt2366/dompet-dhuafa-hubungkan-anak-yatim-dengan-mentor-lewat-program-ruang-mimpi"
-    },
-    {
-        "title": "Gavi Minta FIFA tak Jatuhkan Sanksi kepada Pemain Argentina Usai Final Piala Dunia 2026",
-        "category": "News",
-        "publish_time": "22-07-2026 01:42",
-        "news_link": "https://news.republika.co.id/berita/tijypj348/gavi-minta-fifa-tak-jatuhkan-sanksi-kepada-pemain-argentina-usai-final-piala-dunia-2026"
-    },
-    {
-        "title": "Yuvita Korban Penyekapan dan Penganiayaan Berat di Bandung Mulai Ceria, Begini Kondisi Terbarunya",
-        "category": "Rejabar",
-        "publish_time": "22-07-2026 01:42",
-        "news_link": "https://rejabar.republika.co.id/berita/tijyn9487/yuvita-korban-penyekapan-dan-penganiayaan-berat-di-bandung-mulai-ceria-begini-kondisi-terbarunya"
     }
 ]
