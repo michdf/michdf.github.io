@@ -1,5 +1,47 @@
 [
     {
+        "title": "Drone Baru Iran Habisi Pangkalan AS di Irak",
+        "category": "News",
+        "publish_time": "26 July 2026, 06:18",
+        "news_link": "https://news.republika.co.id/berita/tir7f0393/drone-baru-iran-habisi-pangkalan-as-di-irak"
+    },
+    {
+        "title": "Pentingnya Pendidikan Lingkungan bagi Anak Sekolah Dasar",
+        "category": "Retizen",
+        "publish_time": "26 July 2026, 06:02",
+        "news_link": "https://retizen.republika.co.id/posts/773291/pentingnya-pendidikan-lingkungan-bagi-anak-sekolah-dasar"
+    },
+    {
+        "title": "Warisan Sunyi Mohammad Natsir: Belajar Kenegarawanan di Tengah Demokrasi yang Gaduh",
+        "category": "Retizen",
+        "publish_time": "26 July 2026, 06:00",
+        "news_link": "https://retizen.republika.co.id/posts/773306/warisan-sunyi-mohammad-natsir-belajar-kenegarawanan-di-tengah-demokrasi-yang-gaduh"
+    },
+    {
+        "title": "Pantai Sayang Heulang: Ketika Elang dan Laut Menjadi Masa Depan Garut Selatan",
+        "category": "Retizen",
+        "publish_time": "26 July 2026, 05:59",
+        "news_link": "https://retizen.republika.co.id/posts/773311/pantai-sayang-heulang-ketika-elang-dan-laut-menjadi-masa-depan-garut-selatan"
+    },
+    {
+        "title": "Rumah Zakat Kunjungi Lansia Pejuang Nafkah di Desa Tumpatan",
+        "category": "Retizen",
+        "publish_time": "26 July 2026, 05:56",
+        "news_link": "https://retizen.republika.co.id/posts/773302/rumah-zakat-kunjungi-lansia-pejuang-nafkah-di-desa-tumpatan"
+    },
+    {
+        "title": "Zakat Anak",
+        "category": "Retizen",
+        "publish_time": "26 July 2026, 05:52",
+        "news_link": "https://retizen.republika.co.id/posts/773319/zakat-anak"
+    },
+    {
+        "title": "Allah Tidak Pernah Meninggalkan Hamba-Nya",
+        "category": "Iqra",
+        "publish_time": "26 July 2026, 05:51",
+        "news_link": "https://iqra.republika.co.id/berita/tipotm451/allah-tidak-pernah-meninggalkan-hambanya"
+    },
+    {
         "title": "Lebak Pacu Populasi Kerbau dengan Teknologi Inseminasi Buatan",
         "category": "News",
         "publish_time": "26 July 2026, 05:45",
@@ -256,47 +298,5 @@
         "category": "Ekonomi",
         "publish_time": "25 July 2026, 21:30",
         "news_link": "https://ekonomi.republika.co.id/berita/tiqiyz368/bersama-pnm-mekaar-mesin-jahit-tua-mampu-menghidupi-5-keluarga"
-    },
-    {
-        "title": "Guru Besar UGM Soroti Lemahnya Pengawasan Antar Lembaga di Kasus Korupsi Febrie Adriansyah",
-        "category": "Rejogja",
-        "publish_time": "25 July 2026, 21:27",
-        "news_link": "https://rejogja.republika.co.id/berita/tiqiu6282/guru-besar-ugm-soroti-lemahnya-pengawasan-antar-lembaga-di-kasus-korupsi-febrie-adriansyah"
-    },
-    {
-        "title": "'Kembali ke Negaramu!' Muslimah Dihajar hingga Babak Belur Depan Anaknya, Publik Kanada Murka",
-        "category": "Khazanah",
-        "publish_time": "25 July 2026, 21:26",
-        "news_link": "https://khazanah.republika.co.id/berita/tiqis0320/kembali-ke-negaramu-muslimah-dihajar-hingga-babak-belur-depan-anaknya-publik-kanada-murka"
-    },
-    {
-        "title": "Seniman Protes Pengelolaan TIM yang Dinilai Terlalu Komersial",
-        "category": "Visual",
-        "publish_time": "25 July 2026, 21:15",
-        "news_link": "https://visual.republika.co.id/berita/tiqg6w375/seniman-protes-pengelolaan-tim-yang-dinilai-terlalu-komersial"
-    },
-    {
-        "title": "Topan Noul Dekati Guangdong, China Tingkatkan Status Darurat dan Evakuasi Puluhan Ribu Warga",
-        "category": "News",
-        "publish_time": "25 July 2026, 21:10",
-        "news_link": "https://news.republika.co.id/berita/tiqi0x502/topan-noul-dekati-guangdong-china-tingkatkan-status-darurat-dan-evakuasi-puluhan-ribu-warga"
-    },
-    {
-        "title": "UBN: Persatuan Umat dan Ketahanan Ekonomi Benteng Hadapi Hybrid War",
-        "category": "Khazanah",
-        "publish_time": "25 July 2026, 21:03",
-        "news_link": "https://khazanah.republika.co.id/berita/tiq9re451/ubn-persatuan-umat-dan-ketahanan-ekonomi-benteng-hadapi-hybrid-war"
-    },
-    {
-        "title": "Kampung Adat Ciptamulya Sukabumi Kebakaran, 70 Rumah & Lumbung Padi Ludes Dilahap Api",
-        "category": "Rejabar",
-        "publish_time": "25 July 2026, 21:02",
-        "news_link": "https://rejabar.republika.co.id/berita/tiqhnm282/kampung-adat-ciptamulya-sukabumi-kebakaran-70-rumah-lumbung-padi-ludes-dilahap-api"
-    },
-    {
-        "title": "Ratusan Pelajar Yogya Diduga Jadi Korban Penipuan Berkedok TOEFL Saat MPLS",
-        "category": "Rejogja",
-        "publish_time": "25 July 2026, 20:53",
-        "news_link": "https://rejogja.republika.co.id/berita/tiqh9l282/ratusan-pelajar-yogya-diduga-jadi-korban-penipuan-berkedok-toefl-saat-mpls"
     }
 ]
