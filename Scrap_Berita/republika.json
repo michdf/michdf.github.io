@@ -1,62 +1,242 @@
 [
     {
+        "title": "Indofood Raup Penjualan Rp 65,53 Triliun, pada Semester I 2026, Core Profit Tetap Tumbuh",
+        "category": "Ekonomi",
+        "publish_time": "31-07-2026 12:45",
+        "news_link": "https://ekonomi.republika.co.id/berita/tj1i3c370/indofood-raup-penjualan-rp-6553-triliun-pada-semester-i-2026-core-profit-tetap-tumbuh"
+    },
+    {
+        "title": "Ancaman Mikroplastik: Bahaya yang tidak Terlihat Bagi Kesehatan Manusia",
+        "category": "Retizen",
+        "publish_time": "31-07-2026 12:36",
+        "news_link": "https://retizen.republika.co.id/posts/774341/ancaman-mikroplastik-bahaya-yang-tidak-terlihat-bagi-kesehatan-manusia"
+    },
+    {
+        "title": "Pengawasan Pajak, Aparat, dan Relasi Negara dengan Rakyat",
+        "category": "Retizen",
+        "publish_time": "31-07-2026 12:33",
+        "news_link": "https://retizen.republika.co.id/posts/774312/pengawasan-pajak-aparat-dan-relasi-negara-dengan-rakyat"
+    },
+    {
+        "title": "19 Perbuatan Baik yang Diganjar Langsung dengan Ganjaran Serupa",
+        "category": "Khazanah",
+        "publish_time": "31-07-2026 12:31",
+        "news_link": "https://khazanah.republika.co.id/berita/tj1hgn320/19-perbuatan-baik-yang-diganjar-langsung-dengan-ganjaran-serupa"
+    },
+    {
+        "title": "IHSG Ditutup Menguat, Akhiri Perdagangan Juli 2026 di Zona Hijau",
+        "category": "Visual",
+        "publish_time": "31-07-2026 12:30",
+        "news_link": "https://visual.republika.co.id/berita/tj1fq9375/ihsg-ditutup-menguat-akhiri-perdagangan-juli-2026-di-zona-hijau"
+    },
+    {
+        "title": "Trump Sepakat Mamdani Tak Layak Hadiri Peringatan 911",
+        "category": "Video",
+        "publish_time": "31-07-2026 12:15",
+        "news_link": "https://republika.co.id/page/shorts/yt-tj1gp2357375161/trump-sepakat-mamdani-tak-layak-hadiri-peringatan-911"
+    },
+    {
+        "title": "PJT II Pastikan Hak Ketenagakerjaan Almarhum Sumarna Disalurkan kepada Keluarga",
+        "category": "Rejabar",
+        "publish_time": "31-07-2026 12:13",
+        "news_link": "https://rejabar.republika.co.id/berita/tj1gn2349/pjt-ii-pastikan-hak-ketenagakerjaan-almarhum-sumarna-disalurkan-kepada-keluarga"
+    },
+    {
+        "title": "BPK Kawal Program Ketahanan Energi Lewat Pemeriksaan Tematik Nasional",
+        "category": "Ekonomi",
+        "publish_time": "31-07-2026 12:03",
+        "news_link": "https://ekonomi.republika.co.id/berita/tj1g5w490/bpk-kawal-program-ketahanan-energi-lewat-pemeriksaan-tematik-nasional"
+    },
+    {
+        "title": "Timnas Indonesia Bekuk Timor Leste 3-0 di Piala AFF",
+        "category": "News",
+        "publish_time": "31-07-2026 12:03",
+        "news_link": "https://news.republika.co.id/berita/tj1g5u348/timnas-indonesia-bekuk-timor-leste-30-di-piala-aff"
+    },
+    {
+        "title": "DKI Tinggalkan Open Dumping, Daerah Penyangga Diminta Ikut Berbenah",
+        "category": "Esgnow",
+        "publish_time": "31-07-2026 12:00",
+        "news_link": "https://esgnow.republika.co.id/berita/tj1989416/dki-tinggalkan-open-dumping-daerah-penyangga-diminta-ikut-berbenah"
+    },
+    {
+        "title": "Bank Swasta Pilih Jaga Kualitas Kredit di Tengah Ketidakpastian Ekonomi",
+        "category": "Ekonomi",
+        "publish_time": "31-07-2026 11:56",
+        "news_link": "https://ekonomi.republika.co.id/berita/tj1fun490/bank-swasta-pilih-jaga-kualitas-kredit-di-tengah-ketidakpastian-ekonomi"
+    },
+    {
+        "title": "Sambut HUT Ke-81 RI, FKUB Kabupaten Paniai dan Gereja Gelar Lomba",
+        "category": "News",
+        "publish_time": "31-07-2026 11:56",
+        "news_link": "https://news.republika.co.id/berita/tj1ftw484/sambut-hut-ke81-ri-fkub-kabupaten-paniai-dan-gereja-gelar-lomba"
+    },
+    {
+        "title": "IIF Perluas Pembiayaan Proyek Infrastruktur, PSEL Masuk Daftar",
+        "category": "Ekonomi",
+        "publish_time": "31-07-2026 11:51",
+        "news_link": "https://ekonomi.republika.co.id/berita/tj1ffe416/iif-perluas-pembiayaan-proyek-infrastruktur-psel-masuk-daftar"
+    },
+    {
+        "title": "ID Survey Incar Predikat Perusahaan TIC Kelas Dunia",
+        "category": "Ekonomi",
+        "publish_time": "31-07-2026 11:51",
+        "news_link": "https://ekonomi.republika.co.id/berita/tj1fdg490/id-survey-incar-predikat-perusahaan-tic-kelas-dunia"
+    },
+    {
+        "title": "Pernah Berseteru dengan Trump, Elon Musk Guyur Dana Besar untuk Partai Republik",
+        "category": "News",
+        "publish_time": "31-07-2026 11:51",
+        "news_link": "https://news.republika.co.id/berita/tj1fbc451/pernah-berseteru-dengan-trump-elon-musk-guyur-dana-besar-untuk-partai-republik"
+    },
+    {
+        "title": "Garnacho Jajal Rumput GBK, Aston Villa Siap Tantang Indonesia All Star",
+        "category": "Visual",
+        "publish_time": "31-07-2026 11:51",
+        "news_link": "https://visual.republika.co.id/berita/tj1f9o375/garnacho-jajal-rumput-gbk-aston-villa-siap-tantang-indonesia-all-star"
+    },
+    {
+        "title": "Perkuat Literasi, Kemendikdasmen Kirim 5,5 Juta Buku Bacaan ke 24 Ribu Sekolah Seluruh Indonesia",
+        "category": "News",
+        "publish_time": "31-07-2026 11:51",
+        "news_link": "https://news.republika.co.id/berita/tj1f4b487/perkuat-literasi-kemendikdasmen-kirim-55-juta-buku-bacaan-ke-24-ribu-sekolah-seluruh-indonesia"
+    },
+    {
+        "title": "Mal Pasang Pagar, Pramono: Nanti Kita Suruh Lepas",
+        "category": "News",
+        "publish_time": "31-07-2026 11:51",
+        "news_link": "https://news.republika.co.id/berita/tj1ewv393/mal-pasang-pagar-pramono-nanti-kita-suruh-lepas"
+    },
+    {
+        "title": "Calon Taruna Akpol Diduga Bunuh Diri, Polisi Gelar Penyelidikan",
+        "category": "News",
+        "publish_time": "31-07-2026 11:51",
+        "news_link": "https://news.republika.co.id/berita/tj1ers487/calon-taruna-akpol-diduga-bunuh-diri-polisi-gelar-penyelidikan"
+    },
+    {
+        "title": "Bongkar Rantai Perdagangan Satwa Liar, Kemenhut Tangkap Pengedar Sisik Trenggiling di Padang",
+        "category": "Esgnow",
+        "publish_time": "31-07-2026 11:51",
+        "news_link": "https://esgnow.republika.co.id/berita/tj16xo416/bongkar-rantai-perdagangan-satwa-liar-kemenhut-tangkap-pengedar-sisik-trenggiling-di-padang"
+    },
+    {
+        "title": "Benarkah Membujang Lebih Baik Jika untuk Beribadah? Ini Penjelasan Imam Al-Ghazali",
+        "category": "Khazanah",
+        "publish_time": "31-07-2026 11:51",
+        "news_link": "https://khazanah.republika.co.id/berita/tj1eky483/benarkah-membujang-lebih-baik-jika-untuk-beribadah-ini-penjelasan-imam-alghazali"
+    },
+    {
+        "title": "Kepala BGN tak Terima Program MBG Disebut Habiskan Anggaran, Singgung Sekolah Rusak",
+        "category": "News",
+        "publish_time": "31-07-2026 11:51",
+        "news_link": "https://news.republika.co.id/berita/tj1ef9487/kepala-bgn-tak-terima-program-mbg-disebut-habiskan-anggaran-singgung-sekolah-rusak"
+    },
+    {
+        "title": "Kemenpora-UI Kembangkan Ekosistem Manajemen Olahraga untuk Masa Depan Atlet Indonesia",
+        "category": "News",
+        "publish_time": "31-07-2026 10:51",
+        "news_link": "https://news.republika.co.id/berita/tj1e4n348/kemenporaui-kembangkan-ekosistem-manajemen-olahraga-untuk-masa-depan-atlet-indonesia"
+    },
+    {
+        "title": "BI Ungkap Strategi Jaga Stabilitas Sekaligus Genjot Pertumbuhan",
+        "category": "Ekonomi",
+        "publish_time": "31-07-2026 10:51",
+        "news_link": "https://ekonomi.republika.co.id/berita/tj1dji416/bi-ungkap-strategi-jaga-stabilitas-sekaligus-genjot-pertumbuhan"
+    },
+    {
+        "title": "Layanan Transjakarta Rute Blok M-Soetta Jadi Transbandara, Tarifnya Rp 15 Ribu",
+        "category": "News",
+        "publish_time": "31-07-2026 10:51",
+        "news_link": "https://news.republika.co.id/berita/tj1dhx487/layanan-transjakarta-rute-blok-msoetta-jadi-transbandara-tarifnya-rp-15-ribu"
+    },
+    {
+        "title": "Aston Villa Datang dengan Trofi Liga Europa, Garnacho Berpeluang Debut Lawan Indonesia All Stars",
+        "category": "News",
+        "publish_time": "31-07-2026 10:51",
+        "news_link": "https://news.republika.co.id/berita/tj1dfu348/aston-villa-datang-dengan-trofi-liga-europa-garnacho-berpeluang-debut-lawan-indonesia-all-stars"
+    },
+    {
+        "title": "Dukung Inisiatif FIFA Forward Enterprise, Erick Thohir Ingin Pemerataan Pengembangan Sepak Bola",
+        "category": "News",
+        "publish_time": "31-07-2026 10:51",
+        "news_link": "https://news.republika.co.id/berita/tj1d85348/dukung-inisiatif-fifa-forward-enterprise-erick-thohir-ingin-pemerataan-pengembangan-sepak-bola"
+    },
+    {
+        "title": "Aspek Keselamatan Dorong Perubahan Strategi Industri Keramik",
+        "category": "Ekonomi",
+        "publish_time": "31-07-2026 10:51",
+        "news_link": "https://ekonomi.republika.co.id/berita/tj183u416/aspek-keselamatan-dorong-perubahan-strategi-industri-keramik"
+    },
+    {
+        "title": "PUBG Mobile Hadirkan Kolaborasi Spider-Man: Brand New Day hingga 1 September",
+        "category": "Ameera",
+        "publish_time": "31-07-2026 10:51",
+        "news_link": "https://ameera.republika.co.id/berita/tj11tt370/pubg-mobile-hadirkan-kolaborasi-spiderman-brand-new-day-hingga-1-september"
+    },
+    {
+        "title": "Polda Jateng Selidiki Kasus Pembuatan Konten Deepfake Porno 7 Mahasiswi",
+        "category": "Rejogja",
+        "publish_time": "31-07-2026 10:51",
+        "news_link": "https://rejogja.republika.co.id/berita/tj1ccz282/polda-jateng-selidiki-kasus-pembuatan-konten-deepfake-porno-7-mahasiswi"
+    },
+    {
         "title": "40 Tahun, Satu Kaki Sudah di Akhirat",
         "category": "Retizen",
-        "publish_time": "31-07-2026 10:26",
+        "publish_time": "31-07-2026 10:51",
         "news_link": "https://retizen.republika.co.id/posts/774306/40-tahun-satu-kaki-sudah-di-akhirat"
     },
     {
         "title": "Satu Gaji tidak Cukup: Tren Side Hustle di Kalangan Anak Muda",
         "category": "Retizen",
-        "publish_time": "31-07-2026 10:25",
+        "publish_time": "31-07-2026 10:51",
         "news_link": "https://retizen.republika.co.id/posts/774309/satu-gaji-tidak-cukup-tren-side-hustle-di-kalangan-anak-muda"
     },
     {
         "title": "Masihkah Nadi Kampus Berdenyut?",
         "category": "Retizen",
-        "publish_time": "31-07-2026 10:24",
+        "publish_time": "31-07-2026 10:51",
         "news_link": "https://retizen.republika.co.id/posts/774320/masihkah-nadi-kampus-berdenyut"
     },
     {
         "title": "Dari Kearifan Lokal ke Inovasi, Kolaborasi Jadi Fondasi Kedaulatan Pangan Papua",
         "category": "Retizen",
-        "publish_time": "31-07-2026 10:22",
+        "publish_time": "31-07-2026 10:51",
         "news_link": "https://retizen.republika.co.id/posts/774293/dari-kearifan-lokal-ke-inovasi-kolaborasi-jadi-fondasi-kedaulatan-pangan-papua"
     },
     {
         "title": "Pemasaran Digital Era AI: Apa yang Masih Dikerjakan Manusia?",
         "category": "Retizen",
-        "publish_time": "31-07-2026 10:21",
+        "publish_time": "31-07-2026 09:51",
         "news_link": "https://retizen.republika.co.id/posts/774280/pemasaran-digital-era-ai-apa-yang-masih-dikerjakan-manusia"
     },
     {
         "title": "GIIAS 2026: Mobil Listrik Makin Diminati Seiring Harga yang Lebih Kompetitif",
         "category": "Ekonomi",
-        "publish_time": "31-07-2026 10:18",
+        "publish_time": "31-07-2026 09:51",
         "news_link": "https://ekonomi.republika.co.id/berita/tj1b9m370/giias-2026-mobil-listrik-makin-diminati-seiring-harga-yang-lebih-kompetitif"
     },
     {
         "title": "Sempat Hilang Kontak, YouTuber Thailand Hlun Solo Ditemukan dalam Kondisi Meninggal Dunia",
         "category": "Ameera",
-        "publish_time": "31-07-2026 10:05",
+        "publish_time": "31-07-2026 09:51",
         "news_link": "https://ameera.republika.co.id/berita/tj1apc425/sempat-hilang-kontak-youtuber-thailand-hlun-solo-ditemukan-dalam-kondisi-meninggal-dunia"
     },
     {
         "title": "Cekcok Habis Makan, Tiga Orang Keroyok Pemuda Bandung Barat Hingga Tewas",
         "category": "Rejabar",
-        "publish_time": "31-07-2026 10:05",
+        "publish_time": "31-07-2026 09:51",
         "news_link": "https://rejabar.republika.co.id/berita/tj1ap1282/cekcok-habis-makan-tiga-orang-keroyok-pemuda-bandung-barat-hingga-tewas"
     },
     {
         "title": "Ikhtiar Menjaga Generasi di Tengah Banjir Informasi",
         "category": "Retizen",
-        "publish_time": "31-07-2026 09:59",
+        "publish_time": "31-07-2026 09:51",
         "news_link": "https://retizen.republika.co.id/posts/774295/ikhtiar-menjaga-generasi-di-tengah-banjir-informasi"
     },
     {
         "title": "Toponomastika sebagai Cabang Onomastika",
         "category": "Retizen",
-        "publish_time": "31-07-2026 09:55",
+        "publish_time": "31-07-2026 09:51",
         "news_link": "https://retizen.republika.co.id/posts/774297/toponomastika-sebagai-cabang-onomastika"
     },
     {
@@ -74,229 +254,49 @@
     {
         "title": "Saksi Kasus TPPU Eks Jampidsus Minta Perlindungan LPSK",
         "category": "News",
-        "publish_time": "31-07-2026 09:42",
+        "publish_time": "31-07-2026 09:51",
         "news_link": "https://news.republika.co.id/berita/tj19lv393/saksi-kasus-tppu-eks-jampidsus-minta-perlindungan-lpsk"
     },
     {
         "title": "MK Putuskan MBG tak Gunakan Anggaran Pendidikan, Kepala BGN Bilang Begini",
         "category": "Ekonomi",
-        "publish_time": "31-07-2026 09:37",
+        "publish_time": "31-07-2026 09:51",
         "news_link": "https://ekonomi.republika.co.id/berita/tj19dm370/mk-putuskan-mbg-tak-gunakan-anggaran-pendidikan-kepala-bgn-bilang-begini"
     },
     {
         "title": "MUI Usul Istilah LGBT Diganti dengan Sodomi dan Pencabulan",
         "category": "Khazanah",
-        "publish_time": "31-07-2026 09:33",
+        "publish_time": "31-07-2026 09:51",
         "news_link": "https://khazanah.republika.co.id/berita/tj197m430/mui-usul-istilah-lgbt-diganti-dengan-sodomi-dan-pencabulan"
     },
     {
         "title": "Trump Ancam Netanyahu tak Gagalkan Kesepakatan dengan Hamas",
         "category": "News",
-        "publish_time": "31-07-2026 09:32",
+        "publish_time": "31-07-2026 09:51",
         "news_link": "https://news.republika.co.id/berita/tj18ss393/trump-ancam-netanyahu-tak-gagalkan-kesepakatan-dengan-hamas"
     },
     {
         "title": "Pengelolaan Sampah Jakarta Berubah Total, Kampus Ambil Peran Strategis",
         "category": "News",
-        "publish_time": "31-07-2026 09:32",
+        "publish_time": "31-07-2026 08:51",
         "news_link": "https://news.republika.co.id/berita/tj0utm451/pengelolaan-sampah-jakarta-berubah-total-kampus-ambil-peran-strategis"
     },
     {
         "title": "Ada Lagi Aja Kelakuan Bigmo",
         "category": "Video",
-        "publish_time": "31-07-2026 09:32",
+        "publish_time": "31-07-2026 08:51",
         "news_link": "https://republika.co.id/page/shorts/yt-tj18d2322804088/ada-lagi-aja-kelakuan-bigmo"
     },
     {
         "title": "Perluas Pemakaian EBT, KCIC Gunakan Biodiesel untuk Kereta Perawatan",
         "category": "Esgnow",
-        "publish_time": "31-07-2026 09:32",
+        "publish_time": "31-07-2026 08:51",
         "news_link": "https://esgnow.republika.co.id/berita/tj17e4490/perluas-pemakaian-ebt-kcic-gunakan-biodiesel-untuk-kereta-perawatan"
     },
     {
         "title": "DIGI bank bjb Dinobatkan sebagai Top Digital Application Regional Bank",
         "category": "Ekonomi",
-        "publish_time": "31-07-2026 09:32",
+        "publish_time": "31-07-2026 08:51",
         "news_link": "https://ekonomi.republika.co.id/berita/tj1826368/digi-bank-bjb-dinobatkan-sebagai-top-digital-application-regional-bank"
-    },
-    {
-        "title": "Ketika Ketidakpastian Global Menjadi Normal",
-        "category": "Kolom",
-        "publish_time": "31-07-2026 09:32",
-        "news_link": "https://analisis.republika.co.id/berita/tj12eq393/ketika-ketidakpastian-global-menjadi-normal"
-    },
-    {
-        "title": "Wamendagri Dukung Pembangunan Ekonomi Papua Berbasis Potensi Lokal",
-        "category": "News",
-        "publish_time": "31-07-2026 08:32",
-        "news_link": "https://news.republika.co.id/berita/tj17jt484/wamendagri-dukung-pembangunan-ekonomi-papua-berbasis-potensi-lokal"
-    },
-    {
-        "title": "Incar Generasi Muda, BSI Bakal Tebar Promo KPR di Danantara Housing Expo",
-        "category": "Ekonomi Syariah",
-        "publish_time": "31-07-2026 08:32",
-        "news_link": "https://sharia.republika.co.id/berita/tj16st490/incar-generasi-muda-bsi-bakal-tebar-promo-kpr-di-danantara-housing-expo"
-    },
-    {
-        "title": "Legenda AC Milan dan Italia Franco Baresi Meninggal Dunia, Rossoneri Kehilangan Ikon Sepanjang Masa",
-        "category": "News",
-        "publish_time": "31-07-2026 08:32",
-        "news_link": "https://news.republika.co.id/berita/tj16my282/legenda-ac-milan-dan-italia-franco-baresi-meninggal-dunia-rossoneri-kehilangan-ikon-sepanjang-masa"
-    },
-    {
-        "title": "Pemkot Semarang Ingin tak Ada Lagi Spekulasi Kasus Kematian Harimau Putih",
-        "category": "Rejogja",
-        "publish_time": "31-07-2026 08:32",
-        "news_link": "https://rejogja.republika.co.id/berita/tj16g4282/pemkot-semarang-ingin-tak-ada-lagi-spekulasi-kasus-kematian-harimau-putih"
-    },
-    {
-        "title": "DPR dan Kemendagri Perkuat Digitalisasi demi Bansos Tepat Sasaran",
-        "category": "News",
-        "publish_time": "31-07-2026 08:32",
-        "news_link": "https://news.republika.co.id/berita/tj165l484/dpr-dan-kemendagri-perkuat-digitalisasi-demi-bansos-tepat-sasaran"
-    },
-    {
-        "title": "Kesaksian Ibu Usai Anaknya Disiksa Ayah Kandung di Bandung Barat, Disebut Sering Terjadi",
-        "category": "Rejabar",
-        "publish_time": "31-07-2026 08:32",
-        "news_link": "https://rejabar.republika.co.id/berita/tj162s487/kesaksian-ibu-usai-anaknya-disiksa-ayah-kandung-di-bandung-barat-disebut-sering-terjadi"
-    },
-    {
-        "title": "Istana Gelar Merdeka Run Semarakkan Bulan Kemerdekaan 2026",
-        "category": "News",
-        "publish_time": "31-07-2026 08:32",
-        "news_link": "https://news.republika.co.id/berita/tj15w5484/istana-gelar-merdeka-run-semarakkan-bulan-kemerdekaan-2026"
-    },
-    {
-        "title": "Teknologi Drone Disebut Mampu Tingkatkan Efisiensi Pertanian",
-        "category": "Ekonomi",
-        "publish_time": "31-07-2026 08:32",
-        "news_link": "https://ekonomi.republika.co.id/berita/tj15lx416/teknologi-drone-disebut-mampu-tingkatkan-efisiensi-pertanian"
-    },
-    {
-        "title": "Wamendikti Stella Ajak Generasi Muda Berpikir Kritis dalam Pemanfaatan Kecerdasan Buatan",
-        "category": "News",
-        "publish_time": "31-07-2026 08:32",
-        "news_link": "https://news.republika.co.id/berita/tj15ig291/wamendikti-stella-ajak-generasi-muda-berpikir-kritis-dalam-pemanfaatan-kecerdasan-buatan"
-    },
-    {
-        "title": "Perbatasan Jebol, Spanyol Dibanjiri Ribuan Migran, Ada yang Berenang dan Berjalan Kaki",
-        "category": "News",
-        "publish_time": "31-07-2026 08:32",
-        "news_link": "https://news.republika.co.id/berita/tj15ib377/perbatasan-jebol-spanyol-dibanjiri-ribuan-migran-ada-yang-berenang-dan-berjalan-kaki"
-    },
-    {
-        "title": "Pelatihan Seni Musik Islami di Jakarta Hidupkan Tradisi Marawis, Kasidah, dan Hadrah",
-        "category": "Visual",
-        "publish_time": "31-07-2026 08:32",
-        "news_link": "https://visual.republika.co.id/berita/tj12jv375/pelatihan-seni-musik-islami-di-jakarta-hidupkan-tradisi-marawis-kasidah-dan-hadrah"
-    },
-    {
-        "title": "Penindakan Beruntun, Bea Cukai Kediri Gagalkan Peredaran Lebih dari 4,1 Juta Batang Rokok Ilegal",
-        "category": "Beacukai",
-        "publish_time": "31-07-2026 08:32",
-        "news_link": "https://republika.co.id/berita//tj14dm368/penindakan-beruntun-bea-cukai-kediri-gagalkan-peredaran-lebih-dari-41-juta-batang-rokok-ilegal"
-    },
-    {
-        "title": "Terungkap dalam Dakwaan, Pemerasan THR oleh Bupati Cilacap Syamsul Sempat Ditentang Anak Buah",
-        "category": "News",
-        "publish_time": "31-07-2026 07:32",
-        "news_link": "https://news.republika.co.id/berita/tj14so487/terungkap-dalam-dakwaan-pemerasan-thr-oleh-bupati-cilacap-syamsul-sempat-ditentang-anak-buah"
-    },
-    {
-        "title": "BTN Dominasi Akad Massal KPR FLPP dengan 30.203 Debitur",
-        "category": "Ekonomi",
-        "publish_time": "31-07-2026 07:32",
-        "news_link": "https://ekonomi.republika.co.id/berita/tj14r6370/btn-dominasi-akad-massal-kpr-flpp-dengan-30203-debitur"
-    },
-    {
-        "title": "Kisah Fatin, Mahasiswi Malaysia yang Menimba Ilmu di UM Bandung",
-        "category": "News",
-        "publish_time": "31-07-2026 07:32",
-        "news_link": "https://news.republika.co.id/berita/tj14p9458/kisah-fatin-mahasiswi-malaysia-yang-menimba-ilmu-di-um-bandung"
-    },
-    {
-        "title": "Rusia Ungguli AS Produksi Rudal, Pertahanan Ukraina Terdesak",
-        "category": "News",
-        "publish_time": "31-07-2026 07:32",
-        "news_link": "https://news.republika.co.id/berita/tj0t9t451/rusia-ungguli-as-produksi-rudal-pertahanan-ukraina-terdesak"
-    },
-    {
-        "title": "Bea Cukai Soekarno-Hatta dan Polri Gagalkan Penyelundupan 26 Kg Ekstasi oleh Pilot Asing",
-        "category": "Beacukai",
-        "publish_time": "31-07-2026 07:32",
-        "news_link": "https://republika.co.id/berita//tj14cx368/bea-cukai-soekarno-hatta-dan-polri-gagalkan-penyelundupan-26-kg-ekstasi-oleh-pilot-asing"
-    },
-    {
-        "title": "Investor Cermati Hilirisasi Mineral sebagai Penopang Prospek Saham Tambang",
-        "category": "Ekonomi",
-        "publish_time": "31-07-2026 07:32",
-        "news_link": "https://ekonomi.republika.co.id/berita/tj13z3416/investor-cermati-hilirisasi-mineral-sebagai-penopang-prospek-saham-tambang"
-    },
-    {
-        "title": "Pertama di Bandung, Klinik Kecantikan MAC Hadirkan Morpheus8, Solusi Cantik tanpa Bedah Plastik",
-        "category": "Rejabar",
-        "publish_time": "31-07-2026 07:32",
-        "news_link": "https://rejabar.republika.co.id/berita/tj13wk368/pertama-di-bandung-klinik-kecantikan-mac-hadirkan-morpheus8-solusi-cantik-tanpa-bedah-plastik"
-    },
-    {
-        "title": "Bea Cukai Jayapura Gagalkan Peredaran 24 Ribu Batang Rokok Ilegal",
-        "category": "Beacukai",
-        "publish_time": "31-07-2026 07:32",
-        "news_link": "https://republika.co.id/berita//tj13g5368/bea-cukai-jayapura-gagalkan-peredaran-24-ribu-batang-rokok-ilegal"
-    },
-    {
-        "title": "Tukin Menhan dan Panglima TNI Sebesar Rp 56,09 Juta per Bulan",
-        "category": "News",
-        "publish_time": "31-07-2026 07:32",
-        "news_link": "https://news.republika.co.id/berita/tj134i484/tukin-menhan-dan-panglima-tni-sebesar-rp-5609-juta-per-bulan"
-    },
-    {
-        "title": "Connective Power: Ketika Kekuatan Bangsa Tidak Lagi Diukur dari Dominasi",
-        "category": "Kolom",
-        "publish_time": "31-07-2026 07:32",
-        "news_link": "https://analisis.republika.co.id/berita/tj12ps393/connective-power-ketika-kekuatan-bangsa-tidak-lagi-diukur-dari-dominasi"
-    },
-    {
-        "title": "Rayakan HUT RI ke-81, Plaza Ambarrukmo Hadirkan Promo 80 Persen hingga Rangkaian Event Spesial",
-        "category": "Rejogja",
-        "publish_time": "31-07-2026 07:32",
-        "news_link": "https://rejogja.republika.co.id/berita/tj12pp291/rayakan-hut-ri-ke81-plaza-ambarrukmo-hadirkan-promo-80-persen-hingga-rangkaian-event-spesial"
-    },
-    {
-        "title": "Kejujuran Harus Jadi Modal Bisnis di Media Sosial",
-        "category": "Ameera",
-        "publish_time": "31-07-2026 07:32",
-        "news_link": "https://ameera.republika.co.id/berita/tj12gp328/kejujuran-harus-jadi-modal-bisnis-di-media-sosial"
-    },
-    {
-        "title": "Bantah Klaim UEFA, Separuh Anggota Konfederasi Eropa Dukung Komersialisasi Hak Piala Dunia FIFA",
-        "category": "News",
-        "publish_time": "31-07-2026 07:32",
-        "news_link": "https://news.republika.co.id/berita/tj12gi348/bantah-klaim-uefa-separuh-anggota-konfederasi-eropa-dukung-komersialisasi-hak-piala-dunia-fifa"
-    },
-    {
-        "title": "Batas Kemampuan Bank Sentral",
-        "category": "Kolom",
-        "publish_time": "31-07-2026 07:32",
-        "news_link": "https://analisis.republika.co.id/berita/tj12d9490/batas-kemampuan-bank-sentral"
-    },
-    {
-        "title": "PKB Jabar Dorong Literasi Politik Melalui Keteladanan Pemimpin NU",
-        "category": "Rejabar",
-        "publish_time": "31-07-2026 07:32",
-        "news_link": "https://rejabar.republika.co.id/berita/tj1291472/pkb-jabar-dorong-literasi-politik-melalui-keteladanan-pemimpin-nu"
-    },
-    {
-        "title": "Google Didenda Rp16 Triliun, Trump Murka kepada Uni Eropa",
-        "category": "News",
-        "publish_time": "31-07-2026 07:32",
-        "news_link": "https://news.republika.co.id/berita/tj0rtx451/google-didenda-rp16-triliun-trump-murka-kepada-uni-eropa"
-    },
-    {
-        "title": "Puluhan Ribu Calon Manajer Koperasi Merah Putih Rampungkan Diklat Bela Negara",
-        "category": "Visual",
-        "publish_time": "31-07-2026 06:32",
-        "news_link": "https://visual.republika.co.id/berita/tj1280375/puluhan-ribu-calon-manajer-koperasi-merah-putih-rampungkan-diklat-bela-negara"
     }
 ]
