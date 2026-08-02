@@ -1,5 +1,107 @@
 [
     {
+        "title": "Begini Kronologi Terbakarnya Kapal Mutiara Sentosa di Sumenep yang Angkut 250 Penumpang",
+        "category": "News",
+        "publish_time": "02 August 2026, 15:01",
+        "news_link": "https://news.republika.co.id/berita/tj4uat487/begini-kronologi-terbakarnya-kapal-mutiara-sentosa-di-sumenep-yang-angkut-250-penumpang"
+    },
+    {
+        "title": "Merebut Gen Z, Saat Bank Syariah Menjual Solusi Bukan Sekadar Label",
+        "category": "Ekonomi Syariah",
+        "publish_time": "02 August 2026, 15:01",
+        "news_link": "https://sharia.republika.co.id/berita/tj4ua8423/merebut-gen-z-saat-bank-syariah-menjual-solusi-bukan-sekadar-label"
+    },
+    {
+        "title": "Pesan Tertulis Imam Malik untuk Khalifah Harun ar-Rasyid yang Diabadikan Sejarah",
+        "category": "Khazanah",
+        "publish_time": "02 August 2026, 15:00",
+        "news_link": "https://khazanah.republika.co.id/berita/tj3chg320/pesan-tertulis-imam-malik-untuk-khalifah-harun-arrasyid-yang-diabadikan-sejarah"
+    },
+    {
+        "title": "Banyak WNA Jadi Mualaf di Karawang, MUI Koordinasi dengan Imigrasi",
+        "category": "Khazanah",
+        "publish_time": "02 August 2026, 14:50",
+        "news_link": "https://khazanah.republika.co.id/berita/tj4t86366/banyak-wna-jadi-mualaf-di-karawang-mui-koordinasi-dengan-imigrasi"
+    },
+    {
+        "title": "KMP Mutiara Sentosa Terbakar di Sumenep Angkut 250 Penumpang, 9 Kapal Dikerahkan untuk Evakuasi",
+        "category": "News",
+        "publish_time": "02 August 2026, 14:44",
+        "news_link": "https://news.republika.co.id/berita/tj4thw487/kmp-mutiara-sentosa-terbakar-di-sumenep-angkut-250-penumpang-9-kapal-dikerahkan-untuk-evakuasi"
+    },
+    {
+        "title": "Sean Gelael Berbagi Cerita Dunia Balap di GIIAS, Booth MyPertamina Diserbu Pengunjung",
+        "category": "Ekonomi",
+        "publish_time": "02 August 2026, 14:37",
+        "news_link": "https://ekonomi.republika.co.id/berita/tj4t22416/sean-gelael-berbagi-cerita-dunia-balap-di-giias-booth-mypertamina-diserbu-pengunjung"
+    },
+    {
+        "title": "BGN Setop Sementara Operasional Dapur MBG di Semarang Buntut Ratusan Siswa Keracunan",
+        "category": "News",
+        "publish_time": "02 August 2026, 14:32",
+        "news_link": "https://news.republika.co.id/berita/tj4sxf409/bgn-setop-sementara-operasional-dapur-mbg-di-semarang-buntut-ratusan-siswa-keracunan"
+    },
+    {
+        "title": "Bisakah AI Memahami Emosi?",
+        "category": "Retizen",
+        "publish_time": "02 August 2026, 14:24",
+        "news_link": "https://retizen.republika.co.id/posts/774608/bisakah-ai-memahami-emosi"
+    },
+    {
+        "title": "Kata-kata yang Menentukan Hidup dan Kehidupan",
+        "category": "Retizen",
+        "publish_time": "02 August 2026, 14:23",
+        "news_link": "https://retizen.republika.co.id/posts/774610/kata-kata-yang-menentukan-hidup-dan-kehidupan"
+    },
+    {
+        "title": "Mengelola Cemas dengan Tawakal, Bukan Pelarian",
+        "category": "Retizen",
+        "publish_time": "02 August 2026, 14:23",
+        "news_link": "https://retizen.republika.co.id/posts/774614/mengelola-cemas-dengan-tawakal-bukan-pelarian"
+    },
+    {
+        "title": "DPRD Jabar Apresiasi Langkah KDM Ambil Alih Penyelenggaraan MTQ 2027",
+        "category": "Rejabar",
+        "publish_time": "02 August 2026, 14:02",
+        "news_link": "https://rejabar.republika.co.id/berita/tj4rkl368/dprd-jabar-apresiasi-langkah-kdm-ambil-alih-penyelenggaraan-mtq-2027"
+    },
+    {
+        "title": "Gowes 1.700 Kilometer Demi Hutan dan Orangutan Sumatera",
+        "category": "Visual",
+        "publish_time": "02 August 2026, 14:02",
+        "news_link": "https://visual.republika.co.id/berita/tj4m78375/gowes-1700-kilometer-demi-hutan-dan-orangutan-sumatera"
+    },
+    {
+        "title": "Apakah Opsi Militer Gagal Mematahkan Sikap Iran?",
+        "category": "Khazanah",
+        "publish_time": "02 August 2026, 14:00",
+        "news_link": "https://khazanah.republika.co.id/berita/tj2nve320/apakah-opsi-militer-gagal-mematahkan-sikap-iran"
+    },
+    {
+        "title": "Trump Sebut Pejuang Palestina Setuju Lucuti Senjata, Ini Keberatan dari Jihad Islam",
+        "category": "Khazanah",
+        "publish_time": "02 August 2026, 13:12",
+        "news_link": "https://khazanah.republika.co.id/berita/tj4p8e483/trump-sebut-pejuang-palestina-setuju-lucuti-senjata-ini-keberatan-dari-jihad-islam"
+    },
+    {
+        "title": "FIF Catat Kinerja Solid Semester I 2026, Laba Naik Jadi Rp 2,37 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "02 August 2026, 13:06",
+        "news_link": "https://ekonomi.republika.co.id/berita/tj4oyb368/fif-catat-kinerja-solid-semester-i-2026-laba-naik-jadi-rp-237-triliun"
+    },
+    {
+        "title": "Jakarta Watersport Festival 2026 Kenalkan Potensi Wisata Air Ibu Kota",
+        "category": "Visual",
+        "publish_time": "02 August 2026, 13:02",
+        "news_link": "https://visual.republika.co.id/berita/tj4mjr375/jakarta-watersport-festival-2026-kenalkan-potensi-wisata-air-ibu-kota"
+    },
+    {
+        "title": "Iran Siap Hadapi Skenerio Perang Besar dengan Dampak Terburuk, Israel Siaga Satu",
+        "category": "Khazanah",
+        "publish_time": "02 August 2026, 13:00",
+        "news_link": "https://khazanah.republika.co.id/berita/tj48zj320/iran-siap-hadapi-skenerio-perang-besar-dengan-dampak-terburuk-israel-siaga-satu"
+    },
+    {
         "title": "Massive Attack Disanksi Singapura karena Palestina",
         "category": "Video",
         "publish_time": "02 August 2026, 12:45",
@@ -196,107 +298,5 @@
         "category": "Khazanah",
         "publish_time": "02 August 2026, 08:47",
         "news_link": "https://khazanah.republika.co.id/berita/tj4cyh483/iran-targetkan-bom-fasilitas-energi-di-saudi-kuwait-hingga-uea-jika-as-kembali-menyerang"
-    },
-    {
-        "title": "Sentimen Anti-Kongres AS Lampaui Kemarahan Era Perang Irak, Alarm Merah Republik",
-        "category": "News",
-        "publish_time": "02 August 2026, 08:30",
-        "news_link": "https://news.republika.co.id/berita/tj49q8451/sentimen-antikongres-as-lampaui-kemarahan-era-perang-irak-alarm-merah-republik"
-    },
-    {
-        "title": "Terungkap, Penyebab Dayat Menyiksa dan Merekam Buah Hatinya Hingga Mengeluarkan Darah",
-        "category": "Rejabar",
-        "publish_time": "02 August 2026, 08:23",
-        "news_link": "https://rejabar.republika.co.id/berita/tj4bvb483/terungkap-penyebab-dayat-menyiksa-dan-merekam-buah-hatinya-hingga-mengeluarkan-darah"
-    },
-    {
-        "title": "Spesifikasi Pesawat Tanker Ilyushin Il-78MK-90A yang Diincar Indonesia",
-        "category": "News",
-        "publish_time": "02 August 2026, 08:23",
-        "news_link": "https://news.republika.co.id/berita/tj4buj484/spesifikasi-pesawat-tanker-ilyushin-il78mk90a-yang-diincar-indonesia"
-    },
-    {
-        "title": "Utusan China Dukung Program 100 GW Tenaga Surya Presiden Prabowo",
-        "category": "Esgnow",
-        "publish_time": "02 August 2026, 08:12",
-        "news_link": "https://esgnow.republika.co.id/berita/tj4bd8483/utusan-china-dukung-program-100-gw-tenaga-surya-presiden-prabowo"
-    },
-    {
-        "title": "GenHalal Gelar Mastery Class Batch Kedua, Perkuat Syiar Gaya Hidup Halal di Indonesia",
-        "category": "Ekonomi Syariah",
-        "publish_time": "02 August 2026, 08:07",
-        "news_link": "https://sharia.republika.co.id/berita/tj4b53423/genhalal-gelar-mastery-class-batch-kedua-perkuat-syiar-gaya-hidup-halal-di-indonesia"
-    },
-    {
-        "title": "Kurniawan Ungkap Instruksi yang Bikin Indonesia All Stars Berani Hadapi Aston Villa",
-        "category": "News",
-        "publish_time": "02 August 2026, 07:58",
-        "news_link": "https://news.republika.co.id/berita/tj48am451/kurniawan-ungkap-instruksi-yang-bikin-indonesia-all-stars-berani-hadapi-aston-villa"
-    },
-    {
-        "title": "Teknologi Baru Ubah Cara Konversi Air Laut Menjadi Air Minum",
-        "category": "Video",
-        "publish_time": "02 August 2026, 07:30",
-        "news_link": "https://republika.co.id/page/shorts/yt-tj49e171877806/teknologi-baru-ubah-cara-konversi-air-laut-menjadi-air-minum"
-    },
-    {
-        "title": "Menag dan Habib Syech Pimpin Zikir dan Doa Kebangsaan di Monas",
-        "category": "Khazanah",
-        "publish_time": "02 August 2026, 07:29",
-        "news_link": "https://khazanah.republika.co.id/berita/tj48i9484/menag-dan-habib-syech-pimpin-zikir-dan-doa-kebangsaan-di-monas"
-    },
-    {
-        "title": "Kunci Baru untuk Mempercepat Pertumbuhan Bank Syariah",
-        "category": "Kolom",
-        "publish_time": "02 August 2026, 07:22",
-        "news_link": "https://analisis.republika.co.id/berita/tj490v451/kunci-baru-untuk-mempercepat-pertumbuhan-bank-syariah"
-    },
-    {
-        "title": "Data Kependudukan 2026 Semester I Bakal Dirilis demi Pelayanan Makin Akurat",
-        "category": "News",
-        "publish_time": "02 August 2026, 07:05",
-        "news_link": "https://news.republika.co.id/berita/tj47le484/data-kependudukan-2026-semester-i-bakal-dirilis-demi-pelayanan-makin-akurat"
-    },
-    {
-        "title": "Pelatihan Bertahan Hidup dari Pertamina EP Dorong Generasi Muda Siap Jadi Penolong Pertama",
-        "category": "Ekonomi",
-        "publish_time": "02 August 2026, 07:05",
-        "news_link": "https://ekonomi.republika.co.id/berita/tj47qy423/pelatihan-bertahan-hidup-dari-pertamina-ep-dorong-generasi-muda-siap-jadi-penolong-pertama"
-    },
-    {
-        "title": "BNPP Minta Kementerian Selaraskan Program Sesuai Indeks Pengelolaan Kawasan Perbatasan",
-        "category": "News",
-        "publish_time": "02 August 2026, 07:00",
-        "news_link": "https://news.republika.co.id/berita/tj481m483/bnpp-minta-kementerian-selaraskan-program-sesuai-indeks-pengelolaan-kawasan-perbatasan"
-    },
-    {
-        "title": "Indonesia All Stars Bikin Aston Villa Tak Nyaman, Kurniawan Bongkar Rahasianya",
-        "category": "News",
-        "publish_time": "02 August 2026, 06:50",
-        "news_link": "https://news.republika.co.id/berita/tj47kg451/indonesia-all-stars-bikin-aston-villa-tak-nyaman-kurniawan-bongkar-rahasianya"
-    },
-    {
-        "title": "Rano Karno Resmikan Kampung Quran Rusunawa Penjaringan, Siap Jadi Percontohan di Jakarta",
-        "category": "Khazanah",
-        "publish_time": "02 August 2026, 06:48",
-        "news_link": "https://khazanah.republika.co.id/berita/tj47h2483/rano-karno-resmikan-kampung-quran-rusunawa-penjaringan-siap-jadi-percontohan-di-jakarta"
-    },
-    {
-        "title": "Innalillahi, Basist Pas Band Trisno Meninggal Dunia Usai Menderita Gagal Ginjal",
-        "category": "Ameera",
-        "publish_time": "02 August 2026, 06:39",
-        "news_link": "https://ameera.republika.co.id/berita/tj4716483/innalillahi-basist-pas-band-trisno-meninggal-dunia-usai-menderita-gagal-ginjal"
-    },
-    {
-        "title": "Kepada Kader PSI, Jokowi: Silakan Datang ke Solo Kalau Ada Masalah",
-        "category": "News",
-        "publish_time": "02 August 2026, 06:38",
-        "news_link": "https://news.republika.co.id/berita/tj46zp484/kepada-kader-psi-jokowi-silakan-datang-ke-solo-kalau-ada-masalah"
-    },
-    {
-        "title": "Implementasi B50 Dinilai Perlu Penguatan Regulasi dan Tata Kelola Biodiesel",
-        "category": "Ekonomi",
-        "publish_time": "02 August 2026, 06:34",
-        "news_link": "https://ekonomi.republika.co.id/berita/tj46su423/implementasi-b50-dinilai-perlu-penguatan-regulasi-dan-tata-kelola-biodiesel"
     }
 ]
