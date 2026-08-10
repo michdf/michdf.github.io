@@ -1,50 +1,230 @@
 [
     {
+        "title": "Timnas Basket Putra Indonesia Tetap Bidik Lolos Fase Grup Asian Games 2026 Walau Masuk Pool Berat",
+        "category": "News",
+        "publish_time": "10-08-2026 07:07",
+        "news_link": "https://news.republika.co.id/berita/tjjl6u348/timnas-basket-putra-indonesia-tetap-bidik-lolos-fase-grup-asian-games-2026-walau-masuk-pool-berat"
+    },
+    {
+        "title": "Digitalisasi Inspeksi Jadi Bagian Pembenahan Standar Keamanan Kendaraan Niaga Hino",
+        "category": "Ekonomi",
+        "publish_time": "10-08-2026 07:17",
+        "news_link": "https://ekonomi.republika.co.id/berita/tjjl55348/digitalisasi-inspeksi-jadi-bagian-pembenahan-standar-keamanan-kendaraan-niaga-hino"
+    },
+    {
+        "title": "IPM Jabar 2025 Capai 75,90, Iwan Koswara Apresiasi Kinerja KDM",
+        "category": "Rejabar",
+        "publish_time": "10-08-2026 07:14",
+        "news_link": "https://rejabar.republika.co.id/berita/tjjlfp472/ipm-jabar-2025-capai-7590-iwan-koswara-apresiasi-kinerja-kdm"
+    },
+    {
+        "title": "Hadapi MPLS Perdana SNT, Mendikdasmen Bekali Kepala Sekolah dan TPP",
+        "category": "News",
+        "publish_time": "10-08-2026 07:11",
+        "news_link": "https://news.republika.co.id/berita/tjjlam368/hadapi-mpls-perdana-snt-mendikdasmen-bekali-kepala-sekolah-dan-tpp"
+    },
+    {
+        "title": "AS tak Permasalahkan Penolakan Netanyahu terhadap 15 Poin Board of Peace",
+        "category": "Khazanah",
+        "publish_time": "10-08-2026 07:08",
+        "news_link": "https://khazanah.republika.co.id/berita/tjjl6p483/as-tak-permasalahkan-penolakan-netanyahu-terhadap-15-poin-board-of-peace"
+    },
+    {
+        "title": "Merdeka Digital, Saatnya Jadi Pencipta Teknologi",
+        "category": "News",
+        "publish_time": "10-08-2026 07:08",
+        "news_link": "https://news.republika.co.id/berita/tjjl6a472/merdeka-digital-saatnya-jadi-pencipta-teknologi"
+    },
+    {
+        "title": "Bahaya Mengintai di Balik Pakaian Ketat Saat Penerbangan Jarak Jauh",
+        "category": "Ameera",
+        "publish_time": "10-08-2026 07:07",
+        "news_link": "https://ameera.republika.co.id/berita/tjjl46425/bahaya-mengintai-di-balik-pakaian-ketat-saat-penerbangan-jarak-jauh"
+    },
+    {
+        "title": "Diusulkan Jadi Pahlawan Nasional, Simak Peran KH Abbas Abdul Jamil pada Peristiwa 10 November",
+        "category": "Khazanah",
+        "publish_time": "10-08-2026 07:02",
+        "news_link": "https://khazanah.republika.co.id/berita/tjjcz2483/diusulkan-jadi-pahlawan-nasional-simak-peran-kh-abbas-abdul-jamil-pada-peristiwa-10-november"
+    },
+    {
+        "title": "Kisah Syekh Asnawi al-Bantani Pimpin Laskar Mujahidin Melawan Kolonial Belanda",
+        "category": "Khazanah",
+        "publish_time": "10-08-2026 06:59",
+        "news_link": "https://khazanah.republika.co.id/berita/tjjkd1430/kisah-syekh-asnawi-albantani-pimpin-laskar-mujahidin-melawan-kolonial-belanda"
+    },
+    {
+        "title": "Nyaris Terbunuh, Mojbtaba Khamenei Tampil Kali Pertama di Publik Setelah Lima Bulan",
+        "category": "News",
+        "publish_time": "10-08-2026 06:59",
+        "news_link": "https://news.republika.co.id/berita/tjjkro377/nyaris-terbunuh-mojbtaba-khamenei-tampil-kali-pertama-di-publik-setelah-lima-bulan"
+    },
+    {
+        "title": "Magang di Industri Robotik, Mahasiswa UNM Disiapkan Langsung Masuk Dunia Kerja Lewat IEP 3+1",
+        "category": "News",
+        "publish_time": "10-08-2026 06:59",
+        "news_link": "https://news.republika.co.id/berita/tjjkrb472/magang-di-industri-robotik-mahasiswa-unm-disiapkan-langsung-masuk-dunia-kerja-lewat-iep-31"
+    },
+    {
+        "title": "Membaca LGBTQ+ dalam Perspektif Hukum Islam Kontemporer",
+        "category": "Kolom",
+        "publish_time": "10-08-2026 06:52",
+        "news_link": "https://analisis.republika.co.id/berita/tjjkfw483/membaca-lgbtq-dalam-perspektif-hukum-islam-kontemporer"
+    },
+    {
+        "title": "Bongkar Rahasia Lulusan Berkualitas, Budaya Riset Senjata Utama Mahasiswa UBSI Kampus Tangerang",
+        "category": "News",
+        "publish_time": "10-08-2026 06:49",
+        "news_link": "https://news.republika.co.id/berita/tjjkb4472/bongkar-rahasia-lulusan-berkualitas-budaya-riset-senjata-utama-mahasiswa-ubsi-kampus-tangerang"
+    },
+    {
+        "title": "Ulama Perempuan di Medan Perang, Kisah Teungku Fakinah Melawan Penjajah",
+        "category": "Khazanah",
+        "publish_time": "10-08-2026 06:46",
+        "news_link": "https://khazanah.republika.co.id/berita/tjjk5n430/ulama-perempuan-di-medan-perang-kisah-teungku-fakinah-melawan-penjajah"
+    },
+    {
+        "title": "Sidik MBG, Kejagung Panggil 16 Saksi",
+        "category": "News",
+        "publish_time": "10-08-2026 06:44",
+        "news_link": "https://news.republika.co.id/berita/tjjk2y377/sidik-mbg-kejagung-panggil-16-saksi"
+    },
+    {
+        "title": "Mahasiswa UNM Raih Emas di Asian Taekwondo Indonesia Open Championships 2026",
+        "category": "News",
+        "publish_time": "10-08-2026 06:40",
+        "news_link": "https://news.republika.co.id/berita/tjjjvu472/mahasiswa-unm-raih-emas-di-asian-taekwondo-indonesia-open-championships-2026"
+    },
+    {
+        "title": "MoU UBSI dan STT Wastukancana Purwakarta Siapkan Gebrakan Besar untuk Pendidikan Indonesia",
+        "category": "News",
+        "publish_time": "10-08-2026 06:31",
+        "news_link": "https://news.republika.co.id/berita/tjjjg1472/mou-ubsi-dan-stt-wastukancana-purwakarta-siapkan-gebrakan-besar-untuk-pendidikan-indonesia"
+    },
+    {
+        "title": "MU Kepincut Adam Wharton, Harga Rp2 Triliun Jadi Batu Sandungan",
+        "category": "News",
+        "publish_time": "10-08-2026 06:21",
+        "news_link": "https://news.republika.co.id/berita/tjjiz9348/mu-kepincut-adam-wharton-harga-rp2-triliun-jadi-batu-sandungan"
+    },
+    {
+        "title": "Pemkot Bandung Terima 2.000 Bibit Pohon, Perkuat Ruang Terbuka Hijau",
+        "category": "Rejabar",
+        "publish_time": "10-08-2026 06:19",
+        "news_link": "https://rejabar.republika.co.id/berita/tjjix8472/pemkot-bandung-terima-2000-bibit-pohon-perkuat-ruang-terbuka-hijau"
+    },
+    {
+        "title": "Danantara Siapkan Investasi di BEI, Besaran Porsi Belum Diungkap",
+        "category": "Ekonomi",
+        "publish_time": "10-08-2026 06:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/tjjiqv370/danantara-siapkan-investasi-di-bei-besaran-porsi-belum-diungkap"
+    },
+    {
+        "title": "Kirab Bendera Merah Putih Sepanjang 500 Meter di Bogor",
+        "category": "Video",
+        "publish_time": "10-08-2026 06:19",
+        "news_link": "https://republika.co.id/page/shorts/yt-tjjip11846054351/kirab-bendera-merah-putih-sepanjang-500-meter-di-bogor"
+    },
+    {
+        "title": "Rekor Suhu Pecah, Eropa Barat Alami Juni-Juli Terpanas",
+        "category": "Esgnow",
+        "publish_time": "10-08-2026 06:19",
+        "news_link": "https://esgnow.republika.co.id/berita/tjjg7f423/rekor-suhu-pecah-eropa-barat-alami-junijuli-terpanas"
+    },
+    {
+        "title": "Kecelakaan Drag Race di Sulut Delapan Dilaporkan Tewas",
+        "category": "Video",
+        "publish_time": "10-08-2026 06:19",
+        "news_link": "https://republika.co.id/page/shorts/yt-tjji01503043647/kecelakaan-drag-race-di-sulut-delapan-dilaporkan-tewas"
+    },
+    {
+        "title": "Isuzu Perkenalkan Konsep Modifikasi Traga Menjadi Salon Berjalan",
+        "category": "Ekonomi",
+        "publish_time": "10-08-2026 06:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/tjjhxe348/isuzu-perkenalkan-konsep-modifikasi-traga-menjadi-salon-berjalan"
+    },
+    {
+        "title": "Sempat Ngamuk-Ngamuk, Farhan Putuskan tak Segel Tempat Padel Terkait Penebangan Pohon",
+        "category": "News",
+        "publish_time": "10-08-2026 05:19",
+        "news_link": "https://news.republika.co.id/berita/tjjhfh409/sempat-ngamukngamuk-farhan-putuskan-tak-segel-tempat-padel-terkait-penebangan-pohon"
+    },
+    {
+        "title": "Hilirisasi Bauksit Diklaim Buka Jalan Pengembangan Mineral Strategis Nasional",
+        "category": "Ekonomi",
+        "publish_time": "10-08-2026 05:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/tjjed5522/hilirisasi-bauksit-diklaim-buka-jalan-pengembangan-mineral-strategis-nasional"
+    },
+    {
+        "title": "Kemenkeu Ungkap Manfaat Sukuk Negara bagi Pembangunan Nasional",
+        "category": "Ekonomi Syariah",
+        "publish_time": "10-08-2026 05:19",
+        "news_link": "https://sharia.republika.co.id/berita/tjjfwp423/kemenkeu-ungkap-manfaat-sukuk-negara-bagi-pembangunan-nasional"
+    },
+    {
+        "title": "PKL dan Bangli di Kiaracondong Ditertibkan, 800 Kios Disiapkan untuk Relokasi Pedagang",
+        "category": "Rejabar",
+        "publish_time": "10-08-2026 05:19",
+        "news_link": "https://rejabar.republika.co.id/berita/tjjgue472/pkl-dan-bangli-di-kiaracondong-ditertibkan-800-kios-disiapkan-untuk-relokasi-pedagang"
+    },
+    {
+        "title": "Hadir di GIIAS 2026, Gotion Dukung Pertumbuhan Industri EV Indonesia",
+        "category": "Ekonomi",
+        "publish_time": "10-08-2026 05:19",
+        "news_link": "https://ekonomi.republika.co.id/berita/tjje75291/hadir-di-giias-2026-gotion-dukung-pertumbuhan-industri-ev-indonesia"
+    },
+    {
+        "title": "Tim Debat Mahasiswa FH UMJ Raih Juara II Debat Hukum Nasional Antikorupsi 2026",
+        "category": "News",
+        "publish_time": "10-08-2026 05:19",
+        "news_link": "https://news.republika.co.id/berita/tjjg4t472/tim-debat-mahasiswa-fh-umj-raih-juara-ii-debat-hukum-nasional-antikorupsi-2026"
+    },
+    {
         "title": "Indeks Keyakinan Konsumen Turun pada Juli 2026, Daya Beli Lesu?",
         "category": "Ekonomi",
-        "publish_time": "10-08-2026 05:14",
+        "publish_time": "10-08-2026 05:19",
         "news_link": "https://ekonomi.republika.co.id/berita/tjjfhg423/indeks-keyakinan-konsumen-turun-pada-juli-2026-daya-beli-lesu"
     },
     {
         "title": "Mendag 2016-2019 Bedah Dampak Geopolitik AS-Iran terhadap Ekonomi Indonesia",
         "category": "Rejogja",
-        "publish_time": "10-08-2026 05:13",
+        "publish_time": "10-08-2026 05:19",
         "news_link": "https://rejogja.republika.co.id/berita/tjjfud291/mendag-20162019-bedah-dampak-geopolitik-asiran-terhadap-ekonomi-indonesia"
     },
     {
         "title": "Prodi Ilmu Komunikasi UMJ Raih Akreditasi Unggul",
         "category": "News",
-        "publish_time": "10-08-2026 05:06",
+        "publish_time": "10-08-2026 05:19",
         "news_link": "https://news.republika.co.id/berita/tjjfj6472/prodi-ilmu-komunikasi-umj-raih-akreditasi-unggul"
     },
     {
-        "title": "Pakai Komponen China, Kamera Drone TNI AL Inggris Kirim Data ke Beijing",
+        "title": "Pakai Komponen China, Kamera Drone AL Inggris Kirim Data ke Beijing",
         "category": "News",
-        "publish_time": "10-08-2026 05:04",
-        "news_link": "https://news.republika.co.id/berita/tjjff4409/pakai-komponen-china-kamera-drone-tni-al-inggris-kirim-data-ke-beijing"
+        "publish_time": "10-08-2026 05:19",
+        "news_link": "https://news.republika.co.id/berita/tjjff4409/pakai-komponen-china-kamera-drone-al-inggris-kirim-data-ke-beijing"
     },
     {
         "title": "Kemenkum Gorontalo Perkuat Layanan Kewarganegaraan untuk Wujudkan Kepastian Status Hukum",
         "category": "News",
-        "publish_time": "10-08-2026 04:48",
+        "publish_time": "10-08-2026 04:19",
         "news_link": "https://news.republika.co.id/berita/tjjepr472/kemenkum-gorontalo-perkuat-layanan-kewarganegaraan-untuk-wujudkan-kepastian-status-hukum"
     },
     {
         "title": "ETF Emas Kantongi Kesesuaian Syariah, Bisa Jadi Alternatif Investasi",
         "category": "Ekonomi",
-        "publish_time": "10-08-2026 04:39",
+        "publish_time": "10-08-2026 04:19",
         "news_link": "https://ekonomi.republika.co.id/berita/tjjdzt423/etf-emas-kantongi-kesesuaian-syariah-bisa-jadi-alternatif-investasi"
     },
     {
         "title": "Kain Kafan Berisi 60 Ribu Nama Korban Gaza Warnai Festival Film Locarno 2026",
         "category": "Ameera",
-        "publish_time": "10-08-2026 04:27",
+        "publish_time": "10-08-2026 04:19",
         "news_link": "https://ameera.republika.co.id/berita/tjjdqb425/kain-kafan-berisi-60-ribu-nama-korban-gaza-warnai-festival-film-locarno-2026"
     },
     {
         "title": "Investor Pasar Modal Tembus 30,27 Juta, OJK Tekankan Integritas",
         "category": "Ekonomi",
-        "publish_time": "10-08-2026 04:21",
+        "publish_time": "10-08-2026 04:19",
         "news_link": "https://ekonomi.republika.co.id/berita/tjjdfi423/investor-pasar-modal-tembus-3027-juta-ojk-tekankan-integritas"
     },
     {
@@ -118,185 +298,5 @@
         "category": "Visual",
         "publish_time": "10-08-2026 03:19",
         "news_link": "https://visual.republika.co.id/berita/tjiew9375/debit-air-dermaga-kereng-bangkirai-surut-kunjungan-wisatawan-turun-50-persen"
-    },
-    {
-        "title": "Komisi III Kawal Kasus Kematian Mantan Istri Anggota Polri, Minta tak Gegabah Simpulkan Bunuh Diri",
-        "category": "News",
-        "publish_time": "10-08-2026 02:19",
-        "news_link": "https://news.republika.co.id/berita/tjj8yd472/komisi-iii-kawal-kasus-kematian-mantan-istri-anggota-polri-minta-tak-gegabah-simpulkan-bunuh-diri"
-    },
-    {
-        "title": "Sutradara James Gray Bilang Al Nggak akan Bisa Menggantikan Kreativitas Sineas",
-        "category": "Ameera",
-        "publish_time": "10-08-2026 02:19",
-        "news_link": "https://ameera.republika.co.id/berita/tjj8rt425/sutradara-james-gray-bilang-al-nggak-akan-bisa-menggantikan-kreativitas-sineas"
-    },
-    {
-        "title": "Pertumbuhan Ekonomi Triwulan II, Sektor Luar Negeri yang Diabaikan",
-        "category": "Kolom",
-        "publish_time": "10-08-2026 02:19",
-        "news_link": "https://analisis.republika.co.id/berita/tjj3pb475/pertumbuhan-ekonomi-triwulan-ii-sektor-luar-negeri-yang-diabaikan"
-    },
-    {
-        "title": "Dari Penguasaan Tanah Menuju Digdaya Algoritma",
-        "category": "Kolom",
-        "publish_time": "10-08-2026 02:19",
-        "news_link": "https://analisis.republika.co.id/berita/tjj8eb320/dari-penguasaan-tanah-menuju-digdaya-algoritma"
-    },
-    {
-        "title": "Pertamina Patra Niaga\u00a0Pasok Layanan Avtur Untuk\u00a0Raksasa Emirates A380",
-        "category": "Ekonomi",
-        "publish_time": "10-08-2026 02:19",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjj7rg522/pertamina-patra-niagapasok-layanan-avtur-untukraksasa-emirates-a380"
-    },
-    {
-        "title": "16 Atlet Raih Super Tiket Audisi Umum PB Djarum 2026 Makassar",
-        "category": "News",
-        "publish_time": "10-08-2026 02:19",
-        "news_link": "https://news.republika.co.id/berita/tjj73s456/16-atlet-raih-super-tiket-audisi-umum-pb-djarum-2026-makassar"
-    },
-    {
-        "title": "Biar Foto tak Disuruh Bayar, Ini 4 Spot Foto Plang Malioboro Gratis Milik Negara",
-        "category": "Rejogja",
-        "publish_time": "10-08-2026 02:19",
-        "news_link": "https://rejogja.republika.co.id/berita/tjj70w282/biar-foto-tak-disuruh-bayar-ini-4-spot-foto-plang-malioboro-gratis-milik-negara"
-    },
-    {
-        "title": "Kemarau Dua Bulan, Warga Gurabunga Bergantung pada Mata Air Ake Goa",
-        "category": "Visual",
-        "publish_time": "10-08-2026 02:19",
-        "news_link": "https://visual.republika.co.id/berita/tji7va375/kemarau-dua-bulan-warga-gurabunga-bergantung-pada-mata-air-ake-goa"
-    },
-    {
-        "title": "Iran: Pakta Pertahanan Saudi-Turki-Pakistan Bukti Runtuhnya Hegemoni AS",
-        "category": "News",
-        "publish_time": "10-08-2026 02:19",
-        "news_link": "https://news.republika.co.id/berita/tjj6ok393/iran-pakta-pertahanan-sauditurkipakistan-bukti-runtuhnya-hegemoni-as"
-    },
-    {
-        "title": "Bukan Sekadar Label, Keterbukaan Informasi Produk Halal Jadi Kunci Kepercayaan Publik",
-        "category": "Ameera",
-        "publish_time": "10-08-2026 02:19",
-        "news_link": "https://ameera.republika.co.id/berita/tjj6jn425/bukan-sekadar-label-keterbukaan-informasi-produk-halal-jadi-kunci-kepercayaan-publik"
-    },
-    {
-        "title": "Keluarga Nilai Kematian Istri Polisi yang Disebut Bunuh Diri Janggal, DPR Panggil Polda Sumut Besok",
-        "category": "News",
-        "publish_time": "10-08-2026 01:19",
-        "news_link": "https://news.republika.co.id/berita/tjj5vf409/keluarga-nilai-kematian-istri-polisi-yang-disebut-bunuh-diri-janggal-dpr-panggil-polda-sumut-besok"
-    },
-    {
-        "title": "Fantasi Laba-Laba",
-        "category": "Kolom",
-        "publish_time": "10-08-2026 01:19",
-        "news_link": "https://analisis.republika.co.id/berita/tjj5tf415/fantasi-labalaba"
-    },
-    {
-        "title": "Terapkan Jeda 15-30 Menit tanpa HP Setelah Bangun Tidur",
-        "category": "Ameera",
-        "publish_time": "10-08-2026 01:19",
-        "news_link": "https://ameera.republika.co.id/berita/tjj5td425/terapkan-jeda-1530-menit-tanpa-hp-setelah-bangun-tidur"
-    },
-    {
-        "title": "Sophia Katseye Hiatus demi Menjaga Kesehatan Mental",
-        "category": "Ameera",
-        "publish_time": "10-08-2026 01:19",
-        "news_link": "https://ameera.republika.co.id/berita/tjj58v425/sophia-katseye-hiatus-demi-menjaga-kesehatan-mental"
-    },
-    {
-        "title": "Tarung Derajat Siap Latih Bela Diri Linmas di 151 Kelurahan Kota Bandung",
-        "category": "Rejabar",
-        "publish_time": "10-08-2026 01:19",
-        "news_link": "https://rejabar.republika.co.id/berita/tjj585472/tarung-derajat-siap-latih-bela-diri-linmas-di-151-kelurahan-kota-bandung"
-    },
-    {
-        "title": "Presiden Perintahkan PLN-Pertamina Segera Pangkas Anak-Cucu Perusahaan",
-        "category": "Ekonomi",
-        "publish_time": "10-08-2026 01:19",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjj4ws423/presiden-perintahkan-plnpertamina-segera-pangkas-anakcucu-perusahaan"
-    },
-    {
-        "title": "ETF Emas Syariah: Babak Baru Finansialisasi Emas Indonesia",
-        "category": "Kolom",
-        "publish_time": "10-08-2026 01:19",
-        "news_link": "https://analisis.republika.co.id/berita/tjj4nn475/etf-emas-syariah-babak-baru-finansialisasi-emas-indonesia"
-    },
-    {
-        "title": "Sepekan Depan, Harga Emas Diprediksi Berada di Kisaran Rp 2,55-Rp 2,82 Juta per Gram",
-        "category": "Ekonomi",
-        "publish_time": "10-08-2026 01:19",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjj43b423/sepekan-depan-harga-emas-diprediksi-berada-di-kisaran-rp-255rp-282-juta-per-gram"
-    },
-    {
-        "title": "Soal Jodoh, Perempuan Berhak atas Dirinya",
-        "category": "Khazanah",
-        "publish_time": "10-08-2026 00:19",
-        "news_link": "https://khazanah.republika.co.id/berita/tjj3gz430/soal-jodoh-perempuan-berhak-atas-dirinya"
-    },
-    {
-        "title": "Netanyahu Tolak Dokumen 15 Poin, akankah Gaza Kembali Dilanda Perang?",
-        "category": "Khazanah",
-        "publish_time": "10-08-2026 00:19",
-        "news_link": "https://khazanah.republika.co.id/berita/tjj3ex320/netanyahu-tolak-dokumen-15-poin-akankah-gaza-kembali-dilanda-perang"
-    },
-    {
-        "title": "Menggugat Kesalehan Ritual: Saatnya Masjid Menjadi Episentrum Penyelamat Bumi",
-        "category": "Retizen",
-        "publish_time": "10-08-2026 00:19",
-        "news_link": "https://retizen.republika.co.id/posts/775778/menggugat-kesalehan-ritual-saatnya-masjid-menjadi-episentrum-penyelamat-bumi"
-    },
-    {
-        "title": "Air yang tidak Pernah Pulang",
-        "category": "Retizen",
-        "publish_time": "10-08-2026 00:19",
-        "news_link": "https://retizen.republika.co.id/posts/775780/air-yang-tidak-pernah-pulang"
-    },
-    {
-        "title": "Rasa Nasionalisme dalam Manuskrip Minangkabau",
-        "category": "Retizen",
-        "publish_time": "10-08-2026 00:19",
-        "news_link": "https://retizen.republika.co.id/posts/775770/rasa-nasionalisme-dalam-manuskrip-minangkabau"
-    },
-    {
-        "title": "Kebiasaan Memahami Orang Lain: Krisis Resiprokositas dan Erosi Empati Diri",
-        "category": "Retizen",
-        "publish_time": "10-08-2026 00:19",
-        "news_link": "https://retizen.republika.co.id/posts/775788/kebiasaan-memahami-orang-lain-krisis-resiprokositas-dan-erosi-empati-diri"
-    },
-    {
-        "title": "Menteri LH Dorong Wonosobo Garap Potensi Ekonomi Karbon",
-        "category": "Esgnow",
-        "publish_time": "10-08-2026 00:19",
-        "news_link": "https://esgnow.republika.co.id/berita/tjj2co416/menteri-lh-dorong-wonosobo-garap-potensi-ekonomi-karbon"
-    },
-    {
-        "title": "Luas Panen Padi Indonesia Hingga September 2026 Capai 9,46 Juta Hektare",
-        "category": "Visual",
-        "publish_time": "10-08-2026 00:19",
-        "news_link": "https://visual.republika.co.id/berita/tji7o2375/luas-panen-padi-indonesia-hingga-september-2026-capai-946-juta-hektare"
-    },
-    {
-        "title": "Simak Prakiraan Cuaca BMKG Hari Ini untuk Jakarta dan Mayoritas Wilayah Indonesia",
-        "category": "News",
-        "publish_time": "10-08-2026 00:19",
-        "news_link": "https://news.republika.co.id/berita/tjj19b502/simak-prakiraan-cuaca-bmkg-hari-ini-untuk-jakarta-dan-mayoritas-wilayah-indonesia"
-    },
-    {
-        "title": "Dampak Kebakaran Gedung Bapenda DKI, Lampu Lalu Lintas Sementara Diatur Manual",
-        "category": "News",
-        "publish_time": "10-08-2026 00:19",
-        "news_link": "https://news.republika.co.id/berita/tjj17a409/dampak-kebakaran-gedung-bapenda-dki-lampu-lalu-lintas-sementara-diatur-manual"
-    },
-    {
-        "title": "Kementerian Haji Saudi Setujui Hasil Evaluasi Haji 2026 untuk Penyedia Layanan Jamaah Internasional",
-        "category": "Khazanah",
-        "publish_time": "10-08-2026 00:19",
-        "news_link": "https://khazanah.republika.co.id/berita/tjj11k430/kementerian-haji-saudi-setujui-hasil-evaluasi-haji-2026-untuk-penyedia-layanan-jamaah-internasional"
-    },
-    {
-        "title": "INDEF Dorong Pemerintah Terapkan Kebijakan Outward Looking Kalau Mau Tumbuh 8 Persen",
-        "category": "Ekonomi",
-        "publish_time": "10-08-2026 00:19",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjj0qr502/indef-dorong-pemerintah-terapkan-kebijakan-outward-looking-kalau-mau-tumbuh-8-persen"
     }
 ]
