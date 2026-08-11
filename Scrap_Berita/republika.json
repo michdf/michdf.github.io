@@ -1,26 +1,236 @@
 [
     {
+        "title": "Stafsus Menhan Keluarkan Tiga Seruan Buat Separatis Papua, Termasuk untuk Sebby Sambom dkk",
+        "category": "News",
+        "publish_time": "11-08-2026 09:49",
+        "news_link": "https://news.republika.co.id/berita/tjlnbe377/stafsus-menhan-keluarkan-tiga-seruan-buat-separatis-papua-termasuk-untuk-sebby-sambom-dkk"
+    },
+    {
+        "title": "Anggi Setyawan Sumilan, Alumni UBSI Kini Bantu 500+ Brand Bangun Studio Live Streaming",
+        "category": "News",
+        "publish_time": "11-08-2026 09:42",
+        "news_link": "https://news.republika.co.id/berita/tjlmz9368/anggi-setyawan-sumilan-alumni-ubsi-kini-bantu-500-brand-bangun-studio-live-streaming"
+    },
+    {
+        "title": "1.025 SPPG di Jateng Belum Kantongi SLHS",
+        "category": "Rejogja",
+        "publish_time": "11-08-2026 09:42",
+        "news_link": "https://rejogja.republika.co.id/berita/tjlmz0282/1025-sppg-di-jateng-belum-kantongi-slhs"
+    },
+    {
+        "title": "Terungkap! Hutan Lindung Diperjualbelikan, Tiga Pelaku Ditangkap",
+        "category": "Esgnow",
+        "publish_time": "11-08-2026 09:35",
+        "news_link": "https://esgnow.republika.co.id/berita/tjlmog416/terungkap-hutan-lindung-diperjualbelikan-tiga-pelaku-ditangkap"
+    },
+    {
+        "title": "Ratusan Lapak Ilegal di Pasar Cisalak Ditertibkan, Pedagang Direlokasi",
+        "category": "Visual",
+        "publish_time": "11-08-2026 09:34",
+        "news_link": "https://visual.republika.co.id/berita/tjlmld375/ratusan-lapak-ilegal-di-pasar-cisalak-ditertibkan-pedagang-direlokasi"
+    },
+    {
+        "title": "Rumah Zakat Berbagi Air Kehidupan, Salurkan 20.000 Liter Air Bersih untuk 1.000 Warga Desa Tanjakan",
+        "category": "Khazanah",
+        "publish_time": "11-08-2026 09:33",
+        "news_link": "https://khazanah.republika.co.id/berita/tjlmk2368/rumah-zakat-berbagi-air-kehidupan-salurkan-20000-liter-air-bersih-untuk-1000-warga-desa-tanjakan"
+    },
+    {
+        "title": "Inklusi Keuangan Syariah Turun, Ekonom: Industri Gagal Tawarkan Keunggulan",
+        "category": "Ekonomi",
+        "publish_time": "11-08-2026 09:30",
+        "news_link": "https://ekonomi.republika.co.id/berita/tjlmg7423/inklusi-keuangan-syariah-turun-ekonom-industri-gagal-tawarkan-keunggulan"
+    },
+    {
+        "title": "Gubernur Sulsel: Pramuka Cikal Bakal Generasi Indonesia Emas 2045",
+        "category": "News",
+        "publish_time": "11-08-2026 09:30",
+        "news_link": "https://news.republika.co.id/berita/tjks1b451/gubernur-sulsel-pramuka-cikal-bakal-generasi-indonesia-emas-2045"
+    },
+    {
+        "title": "BCA Syariah Persiapkan Naik Kelas ke KBMI 2, Tunggu Suntikan Modal dari Induk",
+        "category": "Ekonomi Syariah",
+        "publish_time": "11-08-2026 09:27",
+        "news_link": "https://sharia.republika.co.id/berita/tjlmax490/bca-syariah-persiapkan-naik-kelas-ke-kbmi-2-tunggu-suntikan-modal-dari-induk"
+    },
+    {
+        "title": "Menteri LH dan VCarboN Dorong Industri Karbon RI Masuk Pasar Global",
+        "category": "Esgnow",
+        "publish_time": "11-08-2026 09:25",
+        "news_link": "https://esgnow.republika.co.id/berita/tjlm6l416/menteri-lh-dan-vcarbon-dorong-industri-karbon-ri-masuk-pasar-global"
+    },
+    {
+        "title": "Siapa Sebenarnya Produsen Informasi Saat In?",
+        "category": "Retizen",
+        "publish_time": "11-08-2026 09:25",
+        "news_link": "https://retizen.republika.co.id/posts/776075/siapa-sebenarnya-produsen-informasi-saat-in"
+    },
+    {
+        "title": "Pelajaran dari Krisis Kakao Dunia",
+        "category": "Retizen",
+        "publish_time": "11-08-2026 09:23",
+        "news_link": "https://retizen.republika.co.id/posts/776074/pelajaran-dari-krisis-kakao-dunia"
+    },
+    {
+        "title": "Sistem Penyiaran Nasional: Menjaga atau Mengendalikan Ruang Publik?",
+        "category": "Retizen",
+        "publish_time": "11-08-2026 09:21",
+        "news_link": "https://retizen.republika.co.id/posts/776062/sistem-penyiaran-nasional-menjaga-atau-mengendalikan-ruang-publik"
+    },
+    {
+        "title": "Trump AS Harus Kuasai Selat Hormuz",
+        "category": "Video",
+        "publish_time": "11-08-2026 09:14",
+        "news_link": "https://republika.co.id/page/shorts/yt-tjllp8741124190/trump-as-harus-kuasai-selat-hormuz"
+    },
+    {
+        "title": "Kowani Gagas Hilirisasi Singkong Berbasis Perempuan, Dorong Produk Lokal Tembus Pasar Global",
+        "category": "News",
+        "publish_time": "11-08-2026 09:09",
+        "news_link": "https://news.republika.co.id/berita/tjllgu368/kowani-gagas-hilirisasi-singkong-berbasis-perempuan-dorong-produk-lokal-tembus-pasar-global"
+    },
+    {
+        "title": "Ruben Amorim akan Hadapi Manchester United Setelah Awal Sulit Bersama Milan",
+        "category": "News",
+        "publish_time": "11-08-2026 09:09",
+        "news_link": "https://news.republika.co.id/berita/tjllfn348/ruben-amorim-akan-hadapi-manchester-united-setelah-awal-sulit-bersama-milan"
+    },
+    {
+        "title": "Inklusi Keuangan Syariah Turun, BCA Syariah Bidik Nasabah Sejak Anak-Anak",
+        "category": "Ekonomi Syariah",
+        "publish_time": "11-08-2026 09:07",
+        "news_link": "https://sharia.republika.co.id/berita/tjlldq490/inklusi-keuangan-syariah-turun-bca-syariah-bidik-nasabah-sejak-anakanak"
+    },
+    {
+        "title": "Biaya Dana Naik, Laba BCA Syariah Tetap Tumbuh 9,2 Persen",
+        "category": "Ekonomi Syariah",
+        "publish_time": "11-08-2026 09:06",
+        "news_link": "https://sharia.republika.co.id/berita/tjllbi370/biaya-dana-naik-laba-bca-syariah-tetap-tumbuh-92-persen"
+    },
+    {
+        "title": "Bea Cukai Gagalkan Pengiriman 8,96 Juta Batang Rokok Ilegal Melalui Pelabuhan Tanjung Priok",
+        "category": "Beacukai",
+        "publish_time": "11-08-2026 09:02",
+        "news_link": "https://republika.co.id/berita//tjll5g368/bea-cukai-gagalkan-pengiriman-896-juta-batang-rokok-ilegal-melalui-pelabuhan-tanjung-priok"
+    },
+    {
+        "title": "El Nino Kuat Percepat Karhutla 107 Ribu Hektare Lahan Terbakar",
+        "category": "Video",
+        "publish_time": "11-08-2026 08:59",
+        "news_link": "https://republika.co.id/page/shorts/yt-tjll0164643415/el-nino-kuat-percepat-karhutla-107-ribu-hektare-lahan-terbakar"
+    },
+    {
+        "title": "Seluruh Rekomendasi BPK Dituntaskan, BSSN Diminta Jaga Perbaikan Tata Kelola",
+        "category": "Ekonomi",
+        "publish_time": "11-08-2026 08:59",
+        "news_link": "https://ekonomi.republika.co.id/berita/tjlh1y416/seluruh-rekomendasi-bpk-dituntaskan-bssn-diminta-jaga-perbaikan-tata-kelola"
+    },
+    {
+        "title": "KPK: Dakwaan Ungkap Konstruksi Perkara Kuota Haji Eks Menag Yaqut",
+        "category": "News",
+        "publish_time": "11-08-2026 08:54",
+        "news_link": "https://news.republika.co.id/berita/tjlkm9487/kpk-dakwaan-ungkap-konstruksi-perkara-kuota-haji-eks-menag-yaqut"
+    },
+    {
+        "title": "Geliat Sertifikasi Produk Halal di Kawasan Transmigrasi",
+        "category": "Kolom",
+        "publish_time": "11-08-2026 08:54",
+        "news_link": "https://analisis.republika.co.id/berita/tjlklf320/geliat-sertifikasi-produk-halal-di-kawasan-transmigrasi"
+    },
+    {
+        "title": "Dua Anggota TNI Berada di Mobil yang Tabrak Polisi Hingga Tewas, Ini Kata Kodam III Siliwangi",
+        "category": "News",
+        "publish_time": "11-08-2026 08:54",
+        "news_link": "https://news.republika.co.id/berita/tjlkhn377/dua-anggota-tni-berada-di-mobil-yang-tabrak-polisi-hingga-tewas-ini-kata-kodam-iii-siliwangi"
+    },
+    {
+        "title": "Erick Thohir Minta Liga Putri tak Stop di Tengah Jalan: Jangan Cuma Gaya-Gayaan, Harus Berkelanjutan",
+        "category": "News",
+        "publish_time": "11-08-2026 08:54",
+        "news_link": "https://news.republika.co.id/berita/tjlk82348/erick-thohir-minta-liga-putri-tak-stop-di-tengah-jalan-jangan-cuma-gayagayaan-harus-berkelanjutan"
+    },
+    {
+        "title": "Indramayu Dilanda Kekeringan, Bupati Lucky Hakim Ajak Warganya Sholat Istisqo Minta Hujan",
+        "category": "Rejabar",
+        "publish_time": "11-08-2026 08:54",
+        "news_link": "https://rejabar.republika.co.id/berita/tjlk5z282/indramayu-dilanda-kekeringan-bupati-lucky-hakim-ajak-warganya-sholat-istisqo-minta-hujan"
+    },
+    {
+        "title": "Jasindo Syariah Dorong Inklusi Keuangan Syariah dan Kepedulian Sosial",
+        "category": "Ekonomi Syariah",
+        "publish_time": "11-08-2026 08:54",
+        "news_link": "https://sharia.republika.co.id/berita/tjljxh370/jasindo-syariah-dorong-inklusi-keuangan-syariah-dan-kepedulian-sosial"
+    },
+    {
+        "title": "Musim Pancaroba Datang, Waspada Lonjakan Tipes yang Intai Pencernaan",
+        "category": "Ameera",
+        "publish_time": "11-08-2026 08:54",
+        "news_link": "https://ameera.republika.co.id/berita/tjljfz425/musim-pancaroba-datang-waspada-lonjakan-tipes-yang-intai-pencernaan"
+    },
+    {
+        "title": "Menhut Dorong Pemulihan 12 Juta Hektare Lahan Kritis, Gandeng Swasta hingga Perdagangan Karbon",
+        "category": "Esgnow",
+        "publish_time": "11-08-2026 08:54",
+        "news_link": "https://esgnow.republika.co.id/berita/tjkrvf451/menhut-dorong-pemulihan-12-juta-hektare-lahan-kritis-gandeng-swasta-hingga-perdagangan-karbon"
+    },
+    {
+        "title": "Prototipe Literasi Digital Sikomhati untuk Pengurangan Bullying Diimplementasikan di SMAN 1 Seyegan",
+        "category": "Rejogja",
+        "publish_time": "11-08-2026 07:54",
+        "news_link": "https://rejogja.republika.co.id/berita/tjlj2r291/prototipe-literasi-digital-sikomhati-untuk-pengurangan-bullying-diimplementasikan-di-sman-1-seyegan"
+    },
+    {
+        "title": "Rencana Masjid Istiqlal Masuk ke Pasar Modal Indonesia, Ini Penjelasan OJK",
+        "category": "Ekonomi",
+        "publish_time": "11-08-2026 07:54",
+        "news_link": "https://ekonomi.republika.co.id/berita/tjlixa490/rencana-masjid-istiqlal-masuk-ke-pasar-modal-indonesia-ini-penjelasan-ojk"
+    },
+    {
+        "title": "Wamenekraf: Indonesia Miliki Basis Pengguna Gim Besar",
+        "category": "News",
+        "publish_time": "11-08-2026 07:54",
+        "news_link": "https://news.republika.co.id/berita/tjlix0484/wamenekraf-indonesia-miliki-basis-pengguna-gim-besar"
+    },
+    {
+        "title": "Airlangga Naikkan Target Pembiayaan UMKM Jadi Rp 2.000 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "11-08-2026 07:54",
+        "news_link": "https://ekonomi.republika.co.id/berita/tjliqo370/airlangga-naikkan-target-pembiayaan-umkm-jadi-rp-2000-triliun"
+    },
+    {
+        "title": "Kisah Ulama Aceh yang Paling Ditakuti Kolonial Belanda, Gugur Diracun Pengkhianat Bangsa",
+        "category": "Khazanah",
+        "publish_time": "11-08-2026 07:54",
+        "news_link": "https://khazanah.republika.co.id/berita/tjlin1483/kisah-ulama-aceh-yang-paling-ditakuti-kolonial-belanda-gugur-diracun-pengkhianat-bangsa"
+    },
+    {
+        "title": "Paparan Gawai Berlebihan Berisiko Picu Mata Juling pada Anak",
+        "category": "Ameera",
+        "publish_time": "11-08-2026 07:54",
+        "news_link": "https://ameera.republika.co.id/berita/tjlilr425/paparan-gawai-berlebihan-berisiko-picu-mata-juling-pada-anak"
+    },
+    {
         "title": "Penabrak Polisi Hingga Tewas di Bandung Ternyata Mahasiswa Sedang Mabuk Miras, Bawa 2 Anggota TNI",
         "category": "News",
-        "publish_time": "11-08-2026 08:04",
+        "publish_time": "11-08-2026 07:54",
         "news_link": "https://news.republika.co.id/berita/tjlifi377/penabrak-polisi-hingga-tewas-di-bandung-ternyata-mahasiswa-sedang-mabuk-miras-bawa-2-anggota-tni"
     },
     {
         "title": "SCG: Generasi Muda Perlu Lebih dari Sekadar Beasiswa untuk Hadapi Tantangan Masa Depan",
         "category": "Esgnow",
-        "publish_time": "11-08-2026 08:02",
+        "publish_time": "11-08-2026 07:54",
         "news_link": "https://esgnow.republika.co.id/berita/tjlic0490/scg-generasi-muda-perlu-lebih-dari-sekadar-beasiswa-untuk-hadapi-tantangan-masa-depan"
     },
     {
         "title": "iCAR Resmikan Dealer ke-2 di SCBD, Perluas Akses Kendaraan Listrik di Pusat Bisnis Jakarta",
         "category": "Ekonomi",
-        "publish_time": "11-08-2026 08:01",
+        "publish_time": "11-08-2026 07:54",
         "news_link": "https://ekonomi.republika.co.id/berita/tjlibf472/icar-resmikan-dealer-ke2-di-scbd-perluas-akses-kendaraan-listrik-di-pusat-bisnis-jakarta"
     },
     {
         "title": "Komisi III DPR Minta Polisi Usut Tuntas Kematian Winda Lorenza Gowasa",
         "category": "News",
-        "publish_time": "11-08-2026 07:59",
+        "publish_time": "11-08-2026 07:54",
         "news_link": "https://news.republika.co.id/berita/tjli7x487/komisi-iii-dpr-minta-polisi-usut-tuntas-kematian-winda-lorenza-gowasa"
     },
     {
@@ -32,271 +242,61 @@
     {
         "title": "Hati-Hati, Lomba 17 Agustus Bisa Mengandung Unsur Judi",
         "category": "Khazanah",
-        "publish_time": "11-08-2026 07:53",
+        "publish_time": "11-08-2026 07:54",
         "news_link": "https://khazanah.republika.co.id/berita/tjlhxn430/hatihati-lomba-17-agustus-bisa-mengandung-unsur-judi"
     },
     {
         "title": "Kemarau Picu Lonjakan Kebakaran di Cirebon, Sehari Bisa 14 Kejadian",
         "category": "Esgnow",
-        "publish_time": "11-08-2026 07:51",
+        "publish_time": "11-08-2026 07:54",
         "news_link": "https://esgnow.republika.co.id/berita/tjlht5416/kemarau-picu-lonjakan-kebakaran-di-cirebon-sehari-bisa-14-kejadian"
     },
     {
         "title": "Viral Anak Tendang Ibu Gara-Gara Hasil Foto, Psikolog Ungkap Alasan Emosi Remaja Masih Labil",
         "category": "Ameera",
-        "publish_time": "11-08-2026 07:46",
+        "publish_time": "11-08-2026 07:54",
         "news_link": "https://ameera.republika.co.id/berita/tjlhmi425/viral-anak-tendang-ibu-garagara-hasil-foto-psikolog-ungkap-alasan-emosi-remaja-masih-labil"
     },
     {
         "title": "BRI JF3 Fashion Festival 2026 Perkuat Peran Sebagai Platform Fashion Indonesia",
         "category": "Ameera",
-        "publish_time": "11-08-2026 07:46",
+        "publish_time": "11-08-2026 07:54",
         "news_link": "https://ameera.republika.co.id/berita/tjlhlx472/bri-jf3-fashion-festival-2026-perkuat-peran-sebagai-platform-fashion-indonesia"
     },
     {
         "title": "Properti Makassar Kian Prospektif, Hunian Terintegrasi Jadi Pilihan Pasar",
         "category": "Resulawesi",
-        "publish_time": "11-08-2026 07:45",
+        "publish_time": "11-08-2026 07:54",
         "news_link": "https://republika.co.id/berita//tjl3w5370/properti-makassar-kian-prospektif-hunian-terintegrasi-jadi-pilihan-pasar"
     },
     {
         "title": "Eks Menag Gus Yaqut Didakwa Siapkan Uang 'Panas' Rp17,8 M demi Pansus Angket Haji DPR",
         "category": "News",
-        "publish_time": "11-08-2026 07:42",
+        "publish_time": "11-08-2026 07:54",
         "news_link": "https://news.republika.co.id/berita/tjlhf2377/eks-menag-gus-yaqut-didakwa-siapkan-uang-panas-rp178-m-demi-pansus-angket-haji-dpr"
     },
     {
         "title": "\u201cJadi Muslim Kurang Inggris\u201d, Pernyataan Sayap Kanan Picu Polemik Ukuran Kewarganegaraan",
         "category": "Khazanah",
-        "publish_time": "11-08-2026 07:42",
+        "publish_time": "11-08-2026 07:54",
         "news_link": "https://khazanah.republika.co.id/berita/tjlhel320/jadi-muslim-kurang-inggris-pernyataan-sayap-kanan-picu-polemik-ukuran-kewarganegaraan"
     },
     {
         "title": "Demokrat: SBY Cek Kesehatan di AS, tak hadiri HUT Ke-81 RI di Istana",
         "category": "News",
-        "publish_time": "11-08-2026 07:40",
+        "publish_time": "11-08-2026 07:54",
         "news_link": "https://news.republika.co.id/berita/tjlhc7484/demokrat-sby-cek-kesehatan-di-as-tak-hadiri-hut-ke81-ri-di-istana"
     },
     {
         "title": "Jalani Sidang Perdana, Eks Menag Yaqut Didakwa Rugikan Negara Rp622 Miliar",
         "category": "Visual",
-        "publish_time": "11-08-2026 07:35",
+        "publish_time": "11-08-2026 07:54",
         "news_link": "https://visual.republika.co.id/berita/tjlh3i375/jalani-sidang-perdana-eks-menag-yaqut-didakwa-rugikan-negara-rp622-miliar"
     },
     {
         "title": "Mengaku Petugas BPJS, Polres Bantul Ungkap Pencurian Emas dan Uang Tunai Milik Lansia",
         "category": "Rejogja",
-        "publish_time": "11-08-2026 07:33",
+        "publish_time": "11-08-2026 07:54",
         "news_link": "https://rejogja.republika.co.id/berita/tjlh0x291/mengaku-petugas-bpjs-polres-bantul-ungkap-pencurian-emas-dan-uang-tunai-milik-lansia"
-    },
-    {
-        "title": "Semangat Kemerdekaan Satukan 113 Pelajar Internasional dalam Agustusan BIPA UI 2026",
-        "category": "News",
-        "publish_time": "11-08-2026 07:31",
-        "news_link": "https://news.republika.co.id/berita/tjlgwy472/semangat-kemerdekaan-satukan-113-pelajar-internasional-dalam-agustusan-bipa-ui-2026"
-    },
-    {
-        "title": "Polisi Bakal Jemput Paksa Anak Kepala Dinas di Lampung Tersangka Penganiayaan Kekasih",
-        "category": "Rejabar",
-        "publish_time": "11-08-2026 07:24",
-        "news_link": "https://rejabar.republika.co.id/berita/tjlgm6487/polisi-bakal-jemput-paksa-anak-kepala-dinas-di-lampung-tersangka-penganiayaan-kekasih"
-    },
-    {
-        "title": "Diskon 81 Persen Warnai HUT RI, Borobudur hingga Prambanan Ajak Wisatawan Rayakan Kemerdekaan",
-        "category": "Rejogja",
-        "publish_time": "11-08-2026 07:23",
-        "news_link": "https://rejogja.republika.co.id/berita/tjkrov451/diskon-81-persen-warnai-hut-ri-borobudur-hingga-prambanan-ajak-wisatawan-rayakan-kemerdekaan"
-    },
-    {
-        "title": "Konferensi Keamanan Nasional Ungkap 5 Hal yang Kini Sangat Ditakuti Israel",
-        "category": "Khazanah",
-        "publish_time": "11-08-2026 07:23",
-        "news_link": "https://khazanah.republika.co.id/berita/tjlgju320/konferensi-keamanan-nasional-ungkap-5-hal-yang-kini-sangat-ditakuti-israel"
-    },
-    {
-        "title": "Transjakarta Bakal Layani Transportasi ke Kepulauan Seribu Mulai Tahun Depan",
-        "category": "News",
-        "publish_time": "11-08-2026 07:23",
-        "news_link": "https://news.republika.co.id/berita/tjlgj9484/transjakarta-bakal-layani-transportasi-ke-kepulauan-seribu-mulai-tahun-depan"
-    },
-    {
-        "title": "Membangun Trust Sebagai Agenda Inti Wakaf",
-        "category": "Kolom",
-        "publish_time": "11-08-2026 07:17",
-        "news_link": "https://analisis.republika.co.id/berita/tjlg9y472/membangun-trust-sebagai-agenda-inti-wakaf"
-    },
-    {
-        "title": "Perkuat Literasi Program JKN, BPJS Kesehatan Jalin Sinergi dengan Keuskupan Agung Jakarta",
-        "category": "News",
-        "publish_time": "11-08-2026 07:17",
-        "news_link": "https://news.republika.co.id/berita/tjlg96368/perkuat-literasi-program-jkn-bpjs-kesehatan-jalin-sinergi-dengan-keuskupan-agung-jakarta"
-    },
-    {
-        "title": "Sholawat Iringi Sidang Korupsi Eks Menag Yaqut Cholil",
-        "category": "Video",
-        "publish_time": "11-08-2026 07:14",
-        "news_link": "https://republika.co.id/page/shorts/yt-tjlg521654786807/sholawat-iringi-sidang-korupsi-eks-menag-yaqut-cholil"
-    },
-    {
-        "title": "Membaca Masa Depan Ekonomi Syariah Jawa Timur",
-        "category": "Kolom",
-        "publish_time": "11-08-2026 07:14",
-        "news_link": "https://analisis.republika.co.id/berita/tjlg03502/membaca-masa-depan-ekonomi-syariah-jawa-timur"
-    },
-    {
-        "title": "Perahu Bercadik Terbalik Dihantam Ombak di Pangandaran, Satu ABK Hilang Enam Selamat",
-        "category": "Rejabar",
-        "publish_time": "11-08-2026 07:13",
-        "news_link": "https://rejabar.republika.co.id/berita/tjlfpo282/perahu-bercadik-terbalik-dihantam-ombak-di-pangandaran-satu-abk-hilang-enam-selamat"
-    },
-    {
-        "title": "Mereka yang Turut Diperkaya di Kasus Eks Menag Yaqut Menurut Dakwaan Jaksa",
-        "category": "News",
-        "publish_time": "11-08-2026 07:12",
-        "news_link": "https://news.republika.co.id/berita/tjlg1n409/mereka-yang-turut-diperkaya-di-kasus-eks-menag-yaqut-menurut-dakwaan-jaksa"
-    },
-    {
-        "title": "Pertamina Patra Niaga Jalin Kerja Sama dengan Dukcapil, Perkuat Ketepatan Penyaluran Subsidi Energi",
-        "category": "Ekonomi",
-        "publish_time": "11-08-2026 07:11",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjlg0c522/pertamina-patra-niaga-jalin-kerja-sama-dengan-dukcapil-perkuat-ketepatan-penyaluran-subsidi-energi"
-    },
-    {
-        "title": "Sebait Doa di Antara Dua Pilihan",
-        "category": "Retizen",
-        "publish_time": "11-08-2026 07:08",
-        "news_link": "https://retizen.republika.co.id/posts/776001/sebait-doa-di-antara-dua-pilihan"
-    },
-    {
-        "title": "Jawa Barat Sudah Ramah Muslim, Tapi Apakah Hotel dan Restonya Sudah Siap ?",
-        "category": "Retizen",
-        "publish_time": "11-08-2026 07:08",
-        "news_link": "https://retizen.republika.co.id/posts/776018/jawa-barat-sudah-ramah-muslim-tapi-apakah-hotel-dan-restonya-sudah-siap"
-    },
-    {
-        "title": "KEK Industropolis Batang Berpotensi Jadi Kawasan Industri Hijau",
-        "category": "Esgnow",
-        "publish_time": "11-08-2026 07:08",
-        "news_link": "https://esgnow.republika.co.id/berita/tjlftz490/kek-industropolis-batang-berpotensi-jadi-kawasan-industri-hijau"
-    },
-    {
-        "title": "Fasilitas dari Bea Cukai Tanjung Priok Dukung Kelancaran GIIAS 2026",
-        "category": "Beacukai",
-        "publish_time": "11-08-2026 07:06",
-        "news_link": "https://republika.co.id/berita//tjlfp8472/fasilitas-dari-bea-cukai-tanjung-priok-dukung-kelancaran-giias-2026"
-    },
-    {
-        "title": "Go Green Dimulai dari Hal Kecil: Menanam, Merawat, dan Peduli Lingkungan",
-        "category": "Retizen",
-        "publish_time": "11-08-2026 07:06",
-        "news_link": "https://retizen.republika.co.id/posts/776026/go-green-dimulai-dari-hal-kecil-menanam-merawat-dan-peduli-lingkungan"
-    },
-    {
-        "title": "Ecopreneurship: Tren Bisnis Hijau yang Bisa Jadi Peluang Anak Muda",
-        "category": "Retizen",
-        "publish_time": "11-08-2026 07:06",
-        "news_link": "https://retizen.republika.co.id/posts/776032/ecopreneurship-tren-bisnis-hijau-yang-bisa-jadi-peluang-anak-muda"
-    },
-    {
-        "title": "Dugaan Penistaan Agama, Polisi Usut Promosi Miras dengan Hafalan Alquran di 'The Sounds Project'",
-        "category": "News",
-        "publish_time": "11-08-2026 07:06",
-        "news_link": "https://news.republika.co.id/berita/tjlfm2409/dugaan-penistaan-agama-polisi-usut-promosi-miras-dengan-hafalan-alquran-di-the-sounds-project"
-    },
-    {
-        "title": "Dari Pelatihan ke Praktik: PR Besar Pemberdayaan UMKM Olahan Ikan",
-        "category": "Retizen",
-        "publish_time": "11-08-2026 07:06",
-        "news_link": "https://retizen.republika.co.id/posts/776044/dari-pelatihan-ke-praktik-pr-besar-pemberdayaan-umkm-olahan-ikan"
-    },
-    {
-        "title": "Interdependensi Bank Sentral",
-        "category": "Kolom",
-        "publish_time": "11-08-2026 07:06",
-        "news_link": "https://analisis.republika.co.id/berita/tjlfg4502/interdependensi-bank-sentral"
-    },
-    {
-        "title": "Skill Baru yang Harus Dimiliki Pelaku UMKM di Era AI",
-        "category": "Retizen",
-        "publish_time": "11-08-2026 07:06",
-        "news_link": "https://retizen.republika.co.id/posts/776048/skill-baru-yang-harus-dimiliki-pelaku-umkm-di-era-ai"
-    },
-    {
-        "title": "Pelindo Multi Terminal Catat Kinerja Positif pada Semester I 2026",
-        "category": "Ekonomi",
-        "publish_time": "11-08-2026 07:06",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjlffd370/pelindo-multi-terminal-catat-kinerja-positif-pada-semester-i-2026"
-    },
-    {
-        "title": "YouTube Ubah Aturan Monetisasi, Kreator Baru Harus Raih 8 Ribu Jam Tayang",
-        "category": "Ameera",
-        "publish_time": "11-08-2026 07:06",
-        "news_link": "https://ameera.republika.co.id/berita/tjlffa425/youtube-ubah-aturan-monetisasi-kreator-baru-harus-raih-8-ribu-jam-tayang"
-    },
-    {
-        "title": "Mempelajari Teks Anekdot",
-        "category": "Retizen",
-        "publish_time": "11-08-2026 07:06",
-        "news_link": "https://retizen.republika.co.id/posts/776045/mempelajari-teks-anekdot"
-    },
-    {
-        "title": "Biang Keladi Ratusan Siswa SMKN 6 Semarang Keracunan MBG Gara-Gara 3 Bakteri",
-        "category": "Rejogja",
-        "publish_time": "11-08-2026 07:06",
-        "news_link": "https://rejogja.republika.co.id/berita/tjlfaa282/biang-keladi-ratusan-siswa-smkn-6-semarang-keracunan-mbg-garagara-3-bakteri"
-    },
-    {
-        "title": "Gejolak Harga Ayam di Tingkat Peternak, Ini Langkah yang Disiapkan Menteri Amran",
-        "category": "Ekonomi",
-        "publish_time": "11-08-2026 07:06",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjlf98490/gejolak-harga-ayam-di-tingkat-peternak-ini-langkah-yang-disiapkan-menteri-amran"
-    },
-    {
-        "title": "Bahas Arah Kebijakan Kepabeanan Dunia, Indonesia Hadiri Pertemuan Tinggi Tahunan WCO di Belgia",
-        "category": "Beacukai",
-        "publish_time": "11-08-2026 07:06",
-        "news_link": "https://republika.co.id/berita//tjlf8x472/bahas-arah-kebijakan-kepabeanan-dunia-indonesia-hadiri-pertemuan-tinggi-tahunan-wco-di-belgia"
-    },
-    {
-        "title": "Pertamina Patra Niaga Rampungkan Docking 12 Kapal, Perkuat Keandalan Distribusi Energi Nasional",
-        "category": "Ekonomi",
-        "publish_time": "11-08-2026 07:06",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjl9eb522/pertamina-patra-niaga-rampungkan-docking-12-kapal-perkuat-keandalan-distribusi-energi-nasional"
-    },
-    {
-        "title": "MBG Picu Keracunan 707 Siswa-Guru di SMKN 6 Semarang Positif 3 Jenis Bakteri",
-        "category": "News",
-        "publish_time": "11-08-2026 07:06",
-        "news_link": "https://news.republika.co.id/berita/tjler9487/mbg-picu-keracunan-707-siswaguru-di-smkn-6-semarang-positif-3-jenis-bakteri"
-    },
-    {
-        "title": "Pelajar Perempuan 14 Tahun Tewas di Stasiun Jurangmangu, Polisi Selidiki Motifnya",
-        "category": "News",
-        "publish_time": "11-08-2026 07:06",
-        "news_link": "https://news.republika.co.id/berita/tjlegp370/pelajar-perempuan-14-tahun-tewas-di-stasiun-jurangmangu-polisi-selidiki-motifnya"
-    },
-    {
-        "title": "Destry Damayanti Diajukan Sebagai Calon Tunggal Gubernur BI, Kapan Fit and Proper Test di DPR?",
-        "category": "Ekonomi",
-        "publish_time": "11-08-2026 06:06",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjle3l490/destry-damayanti-diajukan-sebagai-calon-tunggal-gubernur-bi-kapan-fit-and-proper-test-di-dpr"
-    },
-    {
-        "title": "Kuasa Hukum Yaqut: KPK tak Pernah Sita Uang Ketika Geledah Rumah Yaqut",
-        "category": "News",
-        "publish_time": "11-08-2026 06:06",
-        "news_link": "https://news.republika.co.id/berita/tjle3b487/kuasa-hukum-yaqut-kpk-tak-pernah-sita-uang-ketika-geledah-rumah-yaqut"
-    },
-    {
-        "title": "Dua Biodigester Baru Disiapkan di Jakarta Utara, Sampah Organik Diolah Jadi Energi",
-        "category": "Esgnow",
-        "publish_time": "11-08-2026 06:06",
-        "news_link": "https://esgnow.republika.co.id/berita/tjldtd416/dua-biodigester-baru-disiapkan-di-jakarta-utara-sampah-organik-diolah-jadi-energi"
-    },
-    {
-        "title": "Pemprov Sulsel Kucurkan Rp 239 Miliar Perbaiki Ruas Strategis Maros-Makassar",
-        "category": "Resulawesi",
-        "publish_time": "11-08-2026 06:06",
-        "news_link": "https://republika.co.id/berita//tjkrip451/pemprov-sulsel-kucurkan-rp-239-miliar-perbaiki-ruas-strategis-maros-makassar"
     }
 ]
