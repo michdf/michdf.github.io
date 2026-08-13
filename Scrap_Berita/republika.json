@@ -1,38 +1,80 @@
 [
     {
+        "title": "Jelang HUT RI ke-81, Sekjen Partai Koalisi kumpul silaturahmi.",
+        "category": "News",
+        "publish_time": "13-08-2026 23:20",
+        "news_link": "https://news.republika.co.id/berita/tjqczc484/jelang-hut-ri-ke81-sekjen-partai-koalisi-kumpul-silaturahmi"
+    },
+    {
+        "title": "Gereja Nyalakan Tanda Bahaya, Israel Ancam Musnahkan Kristen Palestina",
+        "category": "News",
+        "publish_time": "13-08-2026 23:07",
+        "news_link": "https://news.republika.co.id/berita/tjqdku393/gereja-nyalakan-tanda-bahaya-israel-ancam-musnahkan-kristen-palestina"
+    },
+    {
+        "title": "LRT Jakarta Bakal Terhubung dengan KRL Commuter Line di Manggarai",
+        "category": "News",
+        "publish_time": "13-08-2026 23:06",
+        "news_link": "https://news.republika.co.id/berita/tjqcb5484/lrt-jakarta-bakal-terhubung-dengan-krl-commuter-line-di-manggarai"
+    },
+    {
+        "title": "Man City Berpeluang Lepas Tijjani Reijnders ke Klub Arab Saudi Al Qadsiah Seharga Rp 1,2 Triliun",
+        "category": "News",
+        "publish_time": "13-08-2026 23:03",
+        "news_link": "https://news.republika.co.id/berita/tjqdd9348/man-city-berpeluang-lepas-tijjani-reijnders-ke-klub-arab-saudi-al-qadsiah-seharga-rp-12-triliun"
+    },
+    {
+        "title": "Imigrasi Sulut Tunda Keberangkatan 500 WNI Terindikasi TPPO hingga 2026",
+        "category": "News",
+        "publish_time": "13-08-2026 22:45",
+        "news_link": "https://news.republika.co.id/berita/tjqcjl2630000/imigrasi-sulut-tunda-keberangkatan-500-wni-terindikasi-tppo-hingga-2026"
+    },
+    {
+        "title": "Trump Kalah Lawan Harvard, Hakim Tolak Gugatan",
+        "category": "News",
+        "publish_time": "13-08-2026 22:40",
+        "news_link": "https://news.republika.co.id/berita/tjq1yw451/trump-kalah-lawan-harvard-hakim-tolak-gugatan"
+    },
+    {
+        "title": "Kebakaran TPAS Kuningan Terus Meluas, Lima Hektare Dilalap Api",
+        "category": "Rejabar",
+        "publish_time": "13-08-2026 22:37",
+        "news_link": "https://rejabar.republika.co.id/berita/tjqc67393/kebakaran-tpas-kuningan-terus-meluas-lima-hektare-dilalap-api"
+    },
+    {
         "title": "Siswa Sekolah Rakyat Minahasa Buktikan Prestasi, Lolos OSN Biologi Wakili Sulut",
         "category": "News",
-        "publish_time": "13-08-2026 22:30",
+        "publish_time": "13-08-2026 22:34",
         "news_link": "https://news.republika.co.id/berita/tjqbuh6330000/siswa-sekolah-rakyat-minahasa-buktikan-prestasi-lolos-osn-biologi-wakili-sulut"
     },
     {
         "title": "BGN Tutup Permanen 504 Dapur MBG, 3.000 Lainnya Diperiksa",
         "category": "News",
-        "publish_time": "13-08-2026 22:29",
+        "publish_time": "13-08-2026 22:34",
         "news_link": "https://news.republika.co.id/berita/tjqbth393/bgn-tutup-permanen-504-dapur-mbg-3000-lainnya-diperiksa"
     },
     {
         "title": "Maarten Paes Starter, Ajax Lolos Play-off Liga Conference 2026/27",
         "category": "News",
-        "publish_time": "13-08-2026 22:15",
+        "publish_time": "13-08-2026 22:34",
         "news_link": "https://news.republika.co.id/berita/tjqb5i3030000/maarten-paes-starter-ajax-lolos-playoff-liga-conference-202627"
     },
     {
         "title": "RMIT dan BINUS Dorong Pengadaan Transparan Lewat AI",
         "category": "News",
-        "publish_time": "13-08-2026 22:00",
+        "publish_time": "13-08-2026 21:34",
         "news_link": "https://news.republika.co.id/berita/tjqah09330000/rmit-dan-binus-dorong-pengadaan-transparan-lewat-ai"
     },
     {
         "title": "Naskah Khutbah Jumat: Beristiqamahlah Sebagaimana Engkau Diperintahkan",
         "category": "Iqra",
-        "publish_time": "13-08-2026 21:54",
+        "publish_time": "13-08-2026 21:34",
         "news_link": "https://iqra.republika.co.id/berita/tjp9na366/naskah-khutbah-jumat-beristiqamahlah-sebagaimana-engkau-diperintahkan"
     },
     {
         "title": "Polres Bantaeng Gagalkan Peredaran Sabu, Seorang Pengedar Dibekuk di Perumahan Nelayan",
         "category": "News",
-        "publish_time": "13-08-2026 21:45",
+        "publish_time": "13-08-2026 21:34",
         "news_link": "https://news.republika.co.id/berita/tjq9rj5930000/polres-bantaeng-gagalkan-peredaran-sabu-seorang-pengedar-dibekuk-di-perumahan-nelayan"
     },
     {
@@ -102,16 +144,16 @@
         "news_link": "https://news.republika.co.id/berita/tjq1fe6030000/kebakaran-gudang-di-kebun-jeruk-jakbar-padam-tidak-ada-korban-jiwa"
     },
     {
-        "title": "KPK Geledah Rumah Anggota DPRD Kota Bengkulu Vinna Ledy",
+        "title": "KPK Geledah Rumah Anggota DPRD Kota Bengkulu",
         "category": "News",
         "publish_time": "13-08-2026 18:34",
-        "news_link": "https://news.republika.co.id/berita/tjq0ss4830000/kpk-geledah-rumah-anggota-dprd-kota-bengkulu-vinna-ledy"
+        "news_link": "https://news.republika.co.id/berita/tjq0ss4830000/kpk-geledah-rumah-anggota-dprd-kota-bengkulu"
     },
     {
         "title": "Menkeu Curigai Tambang Emas Ilegal Jadi Pemasok Sindikat Penyelundupan ke Luar Negeri",
-        "category": "News",
+        "category": "Ekonomi",
         "publish_time": "13-08-2026 18:34",
-        "news_link": "https://news.republika.co.id/berita/tjq01h030000/menkeu-curigai-tambang-emas-ilegal-jadi-pemasok-sindikat-penyelundupan-ke-luar-negeri"
+        "news_link": "https://ekonomi.republika.co.id/berita/tjq01h030000/menkeu-curigai-tambang-emas-ilegal-jadi-pemasok-sindikat-penyelundupan-ke-luar-negeri"
     },
     {
         "title": "KPK Sesalkan Dugaan Intimidasi Saksi Kasus Korupsi Bea Cukai",
@@ -256,47 +298,5 @@
         "category": "Esgnow",
         "publish_time": "13-08-2026 14:34",
         "news_link": "https://esgnow.republika.co.id/berita/tjp9e5522/kurir-jadi-penghubung-ekonomi-digital-jne-angkat-sisi-kemanusiaan-profesi-pengantar-paket"
-    },
-    {
-        "title": "Iran Masih Simpan 75 Persen dari Total Stok Rudal, Siap Perang dengan AS Hingga Trump Lengser",
-        "category": "News",
-        "publish_time": "13-08-2026 14:34",
-        "news_link": "https://news.republika.co.id/berita/tjppv6409/iran-masih-simpan-75-persen-dari-total-stok-rudal-siap-perang-dengan-as-hingga-trump-lengser"
-    },
-    {
-        "title": "Pelaku Penyiksaan Terhadap Anak Kandung di Purwakarta Ditangkap",
-        "category": "Rejabar",
-        "publish_time": "13-08-2026 14:34",
-        "news_link": "https://rejabar.republika.co.id/berita/tjppaz282/pelaku-penyiksaan-terhadap-anak-kandung-di-purwakarta-ditangkap"
-    },
-    {
-        "title": "BPS Catat Jumlah Backlog Perumahan Turun Jadi 9,29 Juta Rumah Tangga di 2026",
-        "category": "Ekonomi",
-        "publish_time": "13-08-2026 14:34",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjpp2w370/bps-catat-jumlah-backlog-perumahan-turun-jadi-929-juta-rumah-tangga-di-2026"
-    },
-    {
-        "title": "BNN Tangkap Bos Narkoba di Kampung Bahari",
-        "category": "Video",
-        "publish_time": "13-08-2026 14:34",
-        "news_link": "https://republika.co.id/page/shorts/yt-tjpox21199348148/bnn-tangkap-bos-narkoba-di-kampung-bahari"
-    },
-    {
-        "title": "Kasus Hafal Alquran Berhadiah Miras Ini Kata Yusril",
-        "category": "Video",
-        "publish_time": "13-08-2026 13:34",
-        "news_link": "https://republika.co.id/page/shorts/yt-tjpo811673116295/kasus-hafal-alquran-berhadiah-miras-ini-kata-yusril"
-    },
-    {
-        "title": "Produk Bagus Saja tak Cukup, Ini Tantangan UMKM di Era Digital",
-        "category": "Ekonomi",
-        "publish_time": "13-08-2026 13:34",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjpni3416/produk-bagus-saja-tak-cukup-ini-tantangan-umkm-di-era-digital"
-    },
-    {
-        "title": "Melihat Gladi Bersih Sidang Tahunan MPR di Kompleks Parlemen",
-        "category": "Visual",
-        "publish_time": "13-08-2026 13:34",
-        "news_link": "https://visual.republika.co.id/berita/tjpkvk375/melihat-gladi-bersih-sidang-tahunan-mpr-di-kompleks-parlemen"
     }
 ]
