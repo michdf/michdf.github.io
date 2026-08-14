@@ -1,50 +1,182 @@
 [
     {
+        "title": "Perguruan Tinggi Didorong Perkuat Kualitas Legislasi DPR",
+        "category": "News",
+        "publish_time": "14-08-2026 14:12",
+        "news_link": "https://news.republika.co.id/berita/tjr5nh522/perguruan-tinggi-didorong-perkuat-kualitas-legislasi-dpr"
+    },
+    {
+        "title": "Gelombang Setinggi 4 Meter Terjang Pesisir Selatan Gunungkidul, Wisatawan Harus Waspada",
+        "category": "Rejogja",
+        "publish_time": "14-08-2026 14:09",
+        "news_link": "https://rejogja.republika.co.id/berita/tjrjbi282/gelombang-setinggi-4-meter-terjang-pesisir-selatan-gunungkidul-wisatawan-harus-waspada"
+    },
+    {
+        "title": "Perang Iran Dongkrak Bunga KPR di AS, Cicilan Bulanan Bertambah Ratusan Dolar AS",
+        "category": "News",
+        "publish_time": "14-08-2026 14:05",
+        "news_link": "https://news.republika.co.id/berita/tjrj3r483/perang-iran-dongkrak-bunga-kpr-di-as-cicilan-bulanan-bertambah-ratusan-dolar-as"
+    },
+    {
+        "title": "Menkes Minta Masyarakat tak Khawatirkan Defisit BPJS Kesehatan, Iuran tak Naik",
+        "category": "News",
+        "publish_time": "14-08-2026 14:04",
+        "news_link": "https://news.republika.co.id/berita/tjrj2z409/menkes-minta-masyarakat-tak-khawatirkan-defisit-bpjs-kesehatan-iuran-tak-naik"
+    },
+    {
+        "title": "Mensyukuri Nikmat Kemerdekaan",
+        "category": "Retizen",
+        "publish_time": "14-08-2026 13:45",
+        "news_link": "https://retizen.republika.co.id/posts/776639/mensyukuri-nikmat-kemerdekaan"
+    },
+    {
+        "title": "Dari Huntara ke Usaha Produktif, BNPB dan PNM Dorong Warga Agam Bangkit Lewat Potensi Lokal",
+        "category": "Ekonomi",
+        "publish_time": "14-08-2026 13:43",
+        "news_link": "https://ekonomi.republika.co.id/berita/tjri3l368/dari-huntara-ke-usaha-produktif-bnpb-dan-pnm-dorong-warga-agam-bangkit-lewat-potensi-lokal"
+    },
+    {
+        "title": "Makna Kemerdekaan Bagi Generasi Muda dalam Pandangan Islam",
+        "category": "Retizen",
+        "publish_time": "14-08-2026 13:38",
+        "news_link": "https://retizen.republika.co.id/posts/776617/makna-kemerdekaan-bagi-generasi-muda-dalam-pandangan-islam"
+    },
+    {
+        "title": "Ketika Panggung Hiburan Lupa Batas",
+        "category": "Retizen",
+        "publish_time": "14-08-2026 13:33",
+        "news_link": "https://retizen.republika.co.id/posts/776592/ketika-panggung-hiburan-lupa-batas"
+    },
+    {
+        "title": "Ketika Algoritma Medsos Menjadi Mufti Baru Anak Muda",
+        "category": "Retizen",
+        "publish_time": "14-08-2026 13:31",
+        "news_link": "https://retizen.republika.co.id/posts/776602/ketika-algoritma-medsos-menjadi-mufti-baru-anak-muda"
+    },
+    {
+        "title": "Menabung Sejak Dini, Menanam Masa Depan",
+        "category": "Kolom",
+        "publish_time": "14-08-2026 13:31",
+        "news_link": "https://analisis.republika.co.id/berita/tjra6d451/menabung-sejak-dini-menanam-masa-depan"
+    },
+    {
+        "title": "Ratusan Elemen Masyarakat Ikuti Apel Kebangsaan Jawara di Bandung",
+        "category": "Visual",
+        "publish_time": "14-08-2026 13:29",
+        "news_link": "https://visual.republika.co.id/berita/tjrhh8375/ratusan-elemen-masyarakat-ikuti-apel-kebangsaan-jawara-di-bandung"
+    },
+    {
+        "title": "Tutorial Mindfulness 3 Langkah: Menjadikan Shalat sebagai Oase di Tengah Kesibukan",
+        "category": "Retizen",
+        "publish_time": "14-08-2026 13:26",
+        "news_link": "https://retizen.republika.co.id/posts/776564/tutorial-mindfulness-3-langkah-menjadikan-shalat-sebagai-oase-di-tengah-kesibukan"
+    },
+    {
+        "title": "Open Science dan Open Access dalam Islam",
+        "category": "Retizen",
+        "publish_time": "14-08-2026 13:24",
+        "news_link": "https://retizen.republika.co.id/posts/776575/open-science-dan-open-access-dalam-islam"
+    },
+    {
+        "title": "Etalase Digital: Fenomena Konsep Diri yang Dipajang di Media Sosial",
+        "category": "Retizen",
+        "publish_time": "14-08-2026 13:23",
+        "news_link": "https://retizen.republika.co.id/posts/776576/etalase-digital-fenomena-konsep-diri-yang-dipajang-di-media-sosial"
+    },
+    {
+        "title": "Dasco: Pemberian Kewarganegaraan Ganda untuk Pulangkan Diaspora",
+        "category": "Rejogja",
+        "publish_time": "14-08-2026 13:19",
+        "news_link": "https://rejogja.republika.co.id/berita/tjrh0h393/dasco-pemberian-kewarganegaraan-ganda-untuk-pulangkan-diaspora"
+    },
+    {
+        "title": "Perempatan Giwangan, Setengah Tujuh Pagi",
+        "category": "Retizen",
+        "publish_time": "14-08-2026 13:16",
+        "news_link": "https://retizen.republika.co.id/posts/776545/perempatan-giwangan-setengah-tujuh-pagi"
+    },
+    {
+        "title": "Jumlah Dokter Kurang, Prabowo\u00a0Buka Sekolah Dokter Hingga Undang Dokter Asing",
+        "category": "News",
+        "publish_time": "14-08-2026 13:14",
+        "news_link": "https://news.republika.co.id/berita/tjrgrk393/jumlah-dokter-kurang-prabowobuka-sekolah-dokter-hingga-undang-dokter-asing"
+    },
+    {
+        "title": "Anak Gajah di Aceh Mati Mendadak, Kemenhut Waspadai Ancaman Virus EEHV",
+        "category": "Esgnow",
+        "publish_time": "14-08-2026 13:12",
+        "news_link": "https://esgnow.republika.co.id/berita/tjrglg416/anak-gajah-di-aceh-mati-mendadak-kemenhut-waspadai-ancaman-virus-eehv"
+    },
+    {
+        "title": "Sarden vs Salmon Mana yang Lebih Tinggi Kandungan Omega-3? Ini Kata Dokter",
+        "category": "Ameera",
+        "publish_time": "14-08-2026 13:12",
+        "news_link": "https://ameera.republika.co.id/berita/tjrgko370/sarden-vs-salmon-mana-yang-lebih-tinggi-kandungan-omega3-ini-kata-dokter"
+    },
+    {
+        "title": "Mendikdasmen: Anggaran MBG Mulai Dipisahkan dari Anggaran Pendidikan pada 2028",
+        "category": "News",
+        "publish_time": "14-08-2026 13:12",
+        "news_link": "https://news.republika.co.id/berita/tjrgim393/mendikdasmen-anggaran-mbg-mulai-dipisahkan-dari-anggaran-pendidikan-pada-2028"
+    },
+    {
+        "title": "Catat! Bahasa Inggris akan Jadi Mata Pelajaran Wajib SD pada 2027",
+        "category": "News",
+        "publish_time": "14-08-2026 13:12",
+        "news_link": "https://news.republika.co.id/berita/tjrg1q377/catat-bahasa-inggris-akan-jadi-mata-pelajaran-wajib-sd-pada-2027"
+    },
+    {
+        "title": "Polisi Gadungan Colong Rp600 Ribu Milik Pejalan Kaki di Bandung, Modus Geledah Narkoba",
+        "category": "Rejabar",
+        "publish_time": "14-08-2026 13:12",
+        "news_link": "https://rejabar.republika.co.id/berita/tjrfw1282/polisi-gadungan-colong-rp600-ribu-milik-pejalan-kaki-di-bandung-modus-geledah-narkoba"
+    },
+    {
         "title": "1.100 Kopdes Merah Putih di Jateng Berdiri di Lahan Pertanian Berkelanjutan, Dinas PUPR: Masih Wajar",
         "category": "Rejogja",
-        "publish_time": "14-08-2026 12:50",
+        "publish_time": "14-08-2026 13:12",
         "news_link": "https://rejogja.republika.co.id/berita/tjrfnh282/1100-kopdes-merah-putih-di-jateng-berdiri-di-lahan-pertanian-berkelanjutan-dinas-pupr-masih-wajar"
     },
     {
         "title": "Diberitakan Keracunan Usai Cicipi MBG, Kepala SPPG Karanganyar: Mungkin Tubuh Saya Kurang Fit",
         "category": "Rejogja",
-        "publish_time": "14-08-2026 12:41",
+        "publish_time": "14-08-2026 12:12",
         "news_link": "https://rejogja.republika.co.id/berita/tjrf92282/diberitakan-keracunan-usai-cicipi-mbg-kepala-sppg-karanganyar-mungkin-tubuh-saya-kurang-fit"
     },
     {
         "title": "Bamsoet Apresiasi Capaian Pemerintah, Swasembada Pangan hingga Reformasi BUMN",
         "category": "Ekonomi",
-        "publish_time": "14-08-2026 12:41",
+        "publish_time": "14-08-2026 12:12",
         "news_link": "https://ekonomi.republika.co.id/berita/tjrf8z368/bamsoet-apresiasi-capaian-pemerintah-swasembada-pangan-hingga-reformasi-bumn"
     },
     {
         "title": "Dwiki Dharmawan hingga Sandy Sandoro Siap Meriahkan Panggung Jazz di Bandung Barat",
         "category": "Rejabar",
-        "publish_time": "14-08-2026 12:32",
+        "publish_time": "14-08-2026 12:12",
         "news_link": "https://rejabar.republika.co.id/berita/tjret7368/dwiki-dharmawan-hingga-sandy-sandoro-siap-meriahkan-panggung-jazz-di-bandung-barat"
     },
     {
         "title": "Menkum Pengadilan Ad Hoc Cegah Korupsi di BUMN",
         "category": "Video",
-        "publish_time": "14-08-2026 12:30",
+        "publish_time": "14-08-2026 12:12",
         "news_link": "https://republika.co.id/page/shorts/yt-tjreq21789547684/menkum-pengadilan-ad-hoc-cegah-korupsi-di-bumn"
     },
     {
         "title": "Kembali Berkolaborasi, bank bjb dan PERSIB Bawa Semangat Juara ke Musim Kompetisi 2026",
         "category": "Ekonomi",
-        "publish_time": "14-08-2026 12:23",
+        "publish_time": "14-08-2026 12:12",
         "news_link": "https://ekonomi.republika.co.id/berita/tjreea368/kembali-berkolaborasi-bank-bjb-dan-persib-bawa-semangat-juara-ke-musim-kompetisi-2026"
     },
     {
         "title": "SLHS Jadi Syarat Mutlak, 9 Dapur MBG di DIY yang Belum Kantongi Sertifikat Dilaporkan",
         "category": "Rejogja",
-        "publish_time": "14-08-2026 12:18",
+        "publish_time": "14-08-2026 12:12",
         "news_link": "https://rejogja.republika.co.id/berita/tjre6u282/slhs-jadi-syarat-mutlak-9-dapur-mbg-di-diy-yang-belum-kantongi-sertifikat-dilaporkan"
     },
     {
         "title": "UMJ dan GGN Foundation Jajaki Kolaborasi Sepak Bola",
         "category": "News",
-        "publish_time": "14-08-2026 12:13",
+        "publish_time": "14-08-2026 12:12",
         "news_link": "https://news.republika.co.id/berita/tjrdr9368/umj-dan-ggn-foundation-jajaki-kolaborasi-sepak-bola"
     },
     {
@@ -56,247 +188,115 @@
     {
         "title": "Sumsel Waspadai Karhutla Saat Kemarau Memasuki Puncak",
         "category": "News",
-        "publish_time": "14-08-2026 12:07",
+        "publish_time": "14-08-2026 12:12",
         "news_link": "https://news.republika.co.id/berita/tjr6yg451/sumsel-waspadai-karhutla-saat-kemarau-memasuki-puncak"
     },
     {
         "title": "Prodi Ilmu Administrasi Publik UMJ Pertahankan Akreditasi Unggul",
         "category": "News",
-        "publish_time": "14-08-2026 12:04",
+        "publish_time": "14-08-2026 12:12",
         "news_link": "https://news.republika.co.id/berita/tjrdih368/prodi-ilmu-administrasi-publik-umj-pertahankan-akreditasi-unggul"
     },
     {
         "title": "Dasco RUU Perampasan Aset Terus Berproses DPR Serap Masukan Publik",
         "category": "Video",
-        "publish_time": "14-08-2026 11:52",
+        "publish_time": "14-08-2026 12:12",
         "news_link": "https://republika.co.id/page/shorts/yt-tjrcn11286092386/dasco-ruu-perampasan-aset-terus-berproses-dpr-serap-masukan-publik"
     },
     {
         "title": "Pejuang Mushola kembali Jaga Kebersihan Tempat Ibadah di Tengah \u2018Pegunungan Sampah\u2019",
         "category": "Rejakarta",
-        "publish_time": "14-08-2026 11:52",
+        "publish_time": "14-08-2026 12:12",
         "news_link": "https://republika.co.id/berita//tjrckg456/pejuang-mushola-kembali-jaga-kebersihan-tempat-ibadah-di-tengah-%e2%80%98pegunungan-sampah%e2%80%99"
     },
     {
         "title": "Wakaf dan Pasar Modal",
         "category": "Kolom",
-        "publish_time": "14-08-2026 11:52",
+        "publish_time": "14-08-2026 11:12",
         "news_link": "https://analisis.republika.co.id/berita/tjrch1393/wakaf-dan-pasar-modal"
     },
     {
         "title": "HUT Ke-81 RI, GP Al Washliyah Bermunajat Doakan Prabowo-Gibran",
         "category": "News",
-        "publish_time": "14-08-2026 11:52",
+        "publish_time": "14-08-2026 11:12",
         "news_link": "https://news.republika.co.id/berita/tjrce7484/hut-ke81-ri-gp-al-washliyah-bermunajat-doakan-prabowogibran"
     },
     {
         "title": "RI Didorong Perkuat Strategic Autonomy di Tengah Dunia Multipolar",
         "category": "News",
-        "publish_time": "14-08-2026 11:52",
+        "publish_time": "14-08-2026 11:12",
         "news_link": "https://news.republika.co.id/berita/tjr849451/ri-didorong-perkuat-strategic-autonomy-di-tengah-dunia-multipolar"
     },
     {
         "title": "Puan Minta Pemerintah Hati-hati Kelola Defisit dan Utang APBN 2027",
         "category": "Ekonomi",
-        "publish_time": "14-08-2026 11:52",
+        "publish_time": "14-08-2026 11:12",
         "news_link": "https://ekonomi.republika.co.id/berita/tjrc2v490/puan-minta-pemerintah-hatihati-kelola-defisit-dan-utang-apbn-2027"
     },
     {
         "title": "Airlangga Ungkap Jurus Pemerintah Capai Target Pertumbuhan Ekonomi 6 Persen",
         "category": "Ekonomi",
-        "publish_time": "14-08-2026 11:52",
+        "publish_time": "14-08-2026 11:12",
         "news_link": "https://ekonomi.republika.co.id/berita/tjrbwb490/airlangga-ungkap-jurus-pemerintah-capai-target-pertumbuhan-ekonomi-6-persen"
     },
     {
         "title": "Mojtaba Khamenei Siapkan Doktrin Baru Perang, Iran akan Serang AS Duluan",
         "category": "News",
-        "publish_time": "14-08-2026 11:52",
+        "publish_time": "14-08-2026 11:12",
         "news_link": "https://news.republika.co.id/berita/tjrbmu409/mojtaba-khamenei-siapkan-doktrin-baru-perang-iran-akan-serang-as-duluan"
     },
     {
         "title": "Prabowo Janji Renovasi Seluruh Sekolah Rusak di Indonesia",
         "category": "News",
-        "publish_time": "14-08-2026 10:52",
+        "publish_time": "14-08-2026 11:12",
         "news_link": "https://news.republika.co.id/berita/tjrbgb393/prabowo-janji-renovasi-seluruh-sekolah-rusak-di-indonesia"
     },
     {
         "title": "Dampak El Nino Dinilai Tak Boleh Dianggap Remeh",
         "category": "Video",
-        "publish_time": "14-08-2026 10:52",
+        "publish_time": "14-08-2026 11:12",
         "news_link": "https://republika.co.id/page/shorts/yt-tjrb91116910178/dampak-el-nino-dinilai-tak-boleh-dianggap-remeh"
     },
     {
         "title": "Aktivis Lingkungan Desak Korporasi Pembakar Hutan Dihukum dan Dicabut Izinnya",
         "category": "Visual",
-        "publish_time": "14-08-2026 10:52",
+        "publish_time": "14-08-2026 11:12",
         "news_link": "https://visual.republika.co.id/berita/tjrb4y375/aktivis-lingkungan-desak-korporasi-pembakar-hutan-dihukum-dan-dicabut-izinnya"
     },
     {
         "title": "Perjuangkan Kenaikan Gaji Guru-Dosen Masuk APBN 2027, Anggota DPR: Fondasi Bangun Mutu Pendidikan",
         "category": "News",
-        "publish_time": "14-08-2026 10:52",
+        "publish_time": "14-08-2026 11:12",
         "news_link": "https://news.republika.co.id/berita/tjrb17451/perjuangkan-kenaikan-gaji-gurudosen-masuk-apbn-2027-anggota-dpr-fondasi-bangun-mutu-pendidikan"
     },
     {
         "title": "Prabowo Siapkan Jakarta dan Bali Jadi Pusat Finansial Internasional Indonesia",
         "category": "Ekonomi",
-        "publish_time": "14-08-2026 10:52",
+        "publish_time": "14-08-2026 11:12",
         "news_link": "https://ekonomi.republika.co.id/berita/tjraqw490/prabowo-siapkan-jakarta-dan-bali-jadi-pusat-finansial-internasional-indonesia"
     },
     {
         "title": "Bappenas: Ekonomi Hijau Bisa Jadi Motor Pertumbuhan 8 Persen",
         "category": "Esgnow",
-        "publish_time": "14-08-2026 10:52",
+        "publish_time": "14-08-2026 11:12",
         "news_link": "https://esgnow.republika.co.id/berita/tjr6yd451/bappenas-ekonomi-hijau-bisa-jadi-motor-pertumbuhan-8-persen"
     },
     {
         "title": "Mual Seusai Cicip Menu MBG, Ketua SPPG Karanganyar: Mungkin Tubuh Saya Kurang Fit",
         "category": "News",
-        "publish_time": "14-08-2026 10:52",
+        "publish_time": "14-08-2026 11:12",
         "news_link": "https://news.republika.co.id/berita/tjramm377/mual-seusai-cicip-menu-mbg-ketua-sppg-karanganyar-mungkin-tubuh-saya-kurang-fit"
     },
     {
         "title": "AKPRIND University Bantu Peternak Bantul Ubah Limbah Jadi Biogas",
         "category": "Esgnow",
-        "publish_time": "14-08-2026 10:52",
+        "publish_time": "14-08-2026 11:12",
         "news_link": "https://esgnow.republika.co.id/berita/tjr9a7416/akprind-university-bantu-peternak-bantul-ubah-limbah-jadi-biogas"
     },
     {
         "title": "Pemerintah Targetkan Bursa Mineral dan Komoditas Strategis Beroperasi 1 Januari 2027",
         "category": "Ekonomi",
-        "publish_time": "14-08-2026 10:52",
+        "publish_time": "14-08-2026 11:12",
         "news_link": "https://ekonomi.republika.co.id/berita/tjrais490/pemerintah-targetkan-bursa-mineral-dan-komoditas-strategis-beroperasi-1-januari-2027"
-    },
-    {
-        "title": "Laba BUMN Melonjak, Prabowo Apresiasi Transformasi Danantara",
-        "category": "Ekonomi",
-        "publish_time": "14-08-2026 10:52",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjraad416/laba-bumn-melonjak-prabowo-apresiasi-transformasi-danantara"
-    },
-    {
-        "title": "Presiden Minta Sensus Ekonomi 2026 Berhasil, Ini Alasannya",
-        "category": "Ekonomi",
-        "publish_time": "14-08-2026 10:52",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjr7os370/presiden-minta-sensus-ekonomi-2026-berhasil-ini-alasannya"
-    },
-    {
-        "title": "IHSG Melejit Berkat Pidato Prabowo, Naik 1,59 Persen",
-        "category": "Ekonomi",
-        "publish_time": "14-08-2026 10:52",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjr9zo490/ihsg-melejit-berkat-pidato-prabowo-naik-159-persen"
-    },
-    {
-        "title": "Prabowo Gives The Green Light For Indonesians To Have Dual Citizenship",
-        "category": "En",
-        "publish_time": "2 hours ago",
-        "news_link": "https://en.republika.co.id/berita/tjr9qu415/prabowo-gives-the-green-light-for-indonesians-to-have-dual-citizenship"
-    },
-    {
-        "title": "Prabowo Sampaikan RAPBN 2027, Rupiah Berhasil Menguat",
-        "category": "Ekonomi",
-        "publish_time": "14-08-2026 10:52",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjr9nf490/prabowo-sampaikan-rapbn-2027-rupiah-berhasil-menguat"
-    },
-    {
-        "title": "Baznas-Danantara Sepakat Aktifkan UPZ di Seluruh BUMN, Perkuat Ekosistem Zakat",
-        "category": "Khazanah",
-        "publish_time": "14-08-2026 10:52",
-        "news_link": "https://khazanah.republika.co.id/berita/tjr9me320/baznasdanantara-sepakat-aktifkan-upz-di-seluruh-bumn-perkuat-ekosistem-zakat"
-    },
-    {
-        "title": "The Script Sapa Penggemar Indonesia Lewat Konser Tahun Depan di Jakarta",
-        "category": "Ameera",
-        "publish_time": "14-08-2026 10:52",
-        "news_link": "https://ameera.republika.co.id/berita/tjr9fz348/the-script-sapa-penggemar-indonesia-lewat-konser-tahun-depan-di-jakarta"
-    },
-    {
-        "title": "Prabowo Beri Lampu Hijau WNI Bisa Punya Kewarganegaraan Ganda, Termasuk Pesepakbola, Ini Syaratnya",
-        "category": "News",
-        "publish_time": "14-08-2026 10:52",
-        "news_link": "https://news.republika.co.id/berita/tjr9eh377/prabowo-beri-lampu-hijau-wni-bisa-punya-kewarganegaraan-ganda-termasuk-pesepakbola-ini-syaratnya"
-    },
-    {
-        "title": "Tinjauan Hukum, Ekonomi, dan Demokrasi Atas Pidato Kenegaraan 14 Agustus 2026",
-        "category": "News",
-        "publish_time": "14-08-2026 10:52",
-        "news_link": "https://news.republika.co.id/berita/tjr97i320/tinjauan-hukum-ekonomi-dan-demokrasi-atas-pidato-kenegaraan-14-agustus-2026"
-    },
-    {
-        "title": "Perkuat Perlindungan Konsumen, Upbit Indonesia Umumkan Head of Operations Baru",
-        "category": "Ekonomi",
-        "publish_time": "14-08-2026 09:52",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjr8rs291/perkuat-perlindungan-konsumen-upbit-indonesia-umumkan-head-of-operations-baru"
-    },
-    {
-        "title": "Manuel Neuer Buka Peluang Pensiun Tahun Depan",
-        "category": "News",
-        "publish_time": "14-08-2026 09:52",
-        "news_link": "https://news.republika.co.id/berita/tjr8qr348/manuel-neuer-buka-peluang-pensiun-tahun-depan"
-    },
-    {
-        "title": "Pejabat Israel Terkejut, Kok Bisa Militer Iran Pulih Cepat Meski Diserang Habis-habisan",
-        "category": "News",
-        "publish_time": "14-08-2026 09:52",
-        "news_link": "https://news.republika.co.id/berita/tjr830377/pejabat-israel-terkejut-kok-bisa-militer-iran-pulih-cepat-meski-diserang-habishabisan"
-    },
-    {
-        "title": "Bandara Husein Ditargetkan Layani Penerbangan Internasional Oktober 2026",
-        "category": "Rejabar",
-        "publish_time": "14-08-2026 09:52",
-        "news_link": "https://rejabar.republika.co.id/berita/tjr6ya451/bandara-husein-ditargetkan-layani-penerbangan-internasional-oktober-2026"
-    },
-    {
-        "title": "Jelang Muktamar NU, Ali Masykur Musa: Amanatul Wathaniyah Harus Diteguhkan",
-        "category": "Khazanah",
-        "publish_time": "14-08-2026 09:52",
-        "news_link": "https://khazanah.republika.co.id/berita/tjr7gb451/jelang-muktamar-nu-ali-masykur-musa-amanatul-wathaniyah-harus-diteguhkan"
-    },
-    {
-        "title": "Danantara Mulai Buktikan Kinerja, Presiden Paparkan Laba BUMN",
-        "category": "Ekonomi",
-        "publish_time": "14-08-2026 09:52",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjr77m393/danantara-mulai-buktikan-kinerja-presiden-paparkan-laba-bumn"
-    },
-    {
-        "title": "Defisit RAPBN 2027 Ditargetkan Turun Jadi 2,40 Persen",
-        "category": "Ekonomi",
-        "publish_time": "14-08-2026 09:52",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjr75t370/defisit-rapbn-2027-ditargetkan-turun-jadi-240-persen"
-    },
-    {
-        "title": "Timnas U-16 Putri Tujuh Negara Siap Adu Kekuatan di Srikandi Merdeka Cup",
-        "category": "News",
-        "publish_time": "14-08-2026 09:52",
-        "news_link": "https://news.republika.co.id/berita/tjr6x5456/timnas-u16-putri-tujuh-negara-siap-adu-kekuatan-di-srikandi-merdeka-cup"
-    },
-    {
-        "title": "Bandara Husein Sastranegara Kembali Dibuka, Pesawat Jet Mulai Terbang dari Bandung",
-        "category": "Visual",
-        "publish_time": "14-08-2026 09:52",
-        "news_link": "https://visual.republika.co.id/berita/tjr6w7375/bandara-husein-sastranegara-kembali-dibuka-pesawat-jet-mulai-terbang-dari-bandung"
-    },
-    {
-        "title": "Oland Pimpin Dewan Kehormatan PWI Jabar",
-        "category": "Rejabar",
-        "publish_time": "14-08-2026 09:52",
-        "news_link": "https://rejabar.republika.co.id/berita/tjr6v4371/oland-pimpin-dewan-kehormatan-pwi-jabar"
-    },
-    {
-        "title": "Presiden Ajukan Revisi UU Kewarganegaraan Ganda ke DPR, Pesepakbola Termasuk",
-        "category": "News",
-        "publish_time": "14-08-2026 09:52",
-        "news_link": "https://news.republika.co.id/berita/tjr6s2484/presiden-ajukan-revisi-uu-kewarganegaraan-ganda-ke-dpr-pesepakbola-termasuk"
-    },
-    {
-        "title": "Ketua SPPG di Jateng Diduga Keracunan Setelah Cicip MBG,  Begini Kata Taj Yasin",
-        "category": "News",
-        "publish_time": "14-08-2026 09:52",
-        "news_link": "https://news.republika.co.id/berita/tjr6kz377/ketua-sppg-di-jateng-diduga-keracunan-setelah-cicip-mbg-begini-kata-taj-yasin"
-    },
-    {
-        "title": "Konser Musik Jazz Hadir di Bandung Barat, Bupati Jeje Optimistis Dongkrak Ekonomi Daerah",
-        "category": "Rejabar",
-        "publish_time": "14-08-2026 09:52",
-        "news_link": "https://rejabar.republika.co.id/berita/tjr6at368/konser-musik-jazz-hadir-di-bandung-barat-bupati-jeje-optimistis-dongkrak-ekonomi-daerah"
     }
 ]
