@@ -1,5 +1,83 @@
 [
     {
+        "title": "Digugat Investor Wondermind, Selena Gomez Bantah Tuduhan Penipuan",
+        "category": "Ameera",
+        "publish_time": "17-08-2026 08:33",
+        "news_link": "https://ameera.republika.co.id/berita/tjwnr4328/digugat-investor-wondermind-selena-gomez-bantah-tuduhan-penipuan"
+    },
+    {
+        "title": "Implementasi LCT Wujudkan Kedaulatan Keuangan Indonesia di Tengah Tekanan Global",
+        "category": "Ekonomi",
+        "publish_time": "17-08-2026 08:32",
+        "news_link": "https://ekonomi.republika.co.id/berita/tjjvtp370/implementasi-lct-wujudkan-kedaulatan-keuangan-indonesia-di-tengah-tekanan-global"
+    },
+    {
+        "title": "Saat Foto Presiden Prabowo Berkibar di Langit Jakarta",
+        "category": "Video",
+        "publish_time": "17-08-2026 08:30",
+        "news_link": "https://republika.co.id/page/shorts/yt-tjwnm2297694913/saat-foto-presiden-prabowo-berkibar-di-langit-jakarta"
+    },
+    {
+        "title": "Malam Merdeka Hadirkan Ribuan Talenta Kreatif, dari Video Mapping hingga Drone Show",
+        "category": "Ekonomi",
+        "publish_time": "17-08-2026 08:30",
+        "news_link": "https://ekonomi.republika.co.id/berita/tjwmbd423/malam-merdeka-hadirkan-ribuan-talenta-kreatif-dari-video-mapping-hingga-drone-show"
+    },
+    {
+        "title": "81 Tahun Indonesia Merdeka, Ini 8 Kontribusi BRI untuk Negeri",
+        "category": "Ekonomi",
+        "publish_time": "17-08-2026 08:27",
+        "news_link": "https://ekonomi.republika.co.id/berita/tjwnhl472/81-tahun-indonesia-merdeka-ini-8-kontribusi-bri-untuk-negeri"
+    },
+    {
+        "title": "Datalabs Launches Gemini Enterprise Xperience Center to Help Bring Enterprise AI to Life",
+        "category": "En",
+        "publish_time": "11 minutes ago",
+        "news_link": "https://en.republika.co.id/berita/tjwnc1291/datalabs-launches-gemini-enterprise-xperience-center-to-help-bring-enterprise-ai-to-life"
+    },
+    {
+        "title": "Hayden Panettiere Meninggal di Usia 36 Tahun, Pernah Berjuang Lawan Depresi",
+        "category": "Ameera",
+        "publish_time": "17-08-2026 08:22",
+        "news_link": "https://ameera.republika.co.id/berita/tjwn94328/hayden-panettiere-meninggal-di-usia-36-tahun-pernah-berjuang-lawan-depresi"
+    },
+    {
+        "title": "Pertamina Rampingkan 31 Entitas, Ekonom: Sejalan dengan Arahan Prabowo",
+        "category": "Ekonomi",
+        "publish_time": "17-08-2026 08:18",
+        "news_link": "https://ekonomi.republika.co.id/berita/tjwn39416/pertamina-rampingkan-31-entitas-ekonom-sejalan-dengan-arahan-prabowo"
+    },
+    {
+        "title": "Bendera Merah Putih Diturunkan di Aceh, KSAD: Tak Ada Penambahan Pasukan",
+        "category": "News",
+        "publish_time": "17-08-2026 08:17",
+        "news_link": "https://news.republika.co.id/berita/tjwn0d484/bendera-merah-putih-diturunkan-di-aceh-ksad-tak-ada-penambahan-pasukan"
+    },
+    {
+        "title": "Dedi Mulyadi Temukan Fakta Mengejutkan di Bandung, Sampah Menumpuk 32 Tahun di Saluran Air",
+        "category": "Esgnow",
+        "publish_time": "17-08-2026 08:03",
+        "news_link": "https://esgnow.republika.co.id/berita/tjwme0416/dedi-mulyadi-temukan-fakta-mengejutkan-di-bandung-sampah-menumpuk-32-tahun-di-saluran-air"
+    },
+    {
+        "title": "Dari Tanah Suci, Para Haji Membawa Pulang Semangat Melawan Penjajahan dan Kolonialisme",
+        "category": "Khazanah",
+        "publish_time": "17-08-2026 08:03",
+        "news_link": "https://khazanah.republika.co.id/berita/tjwlk0430/dari-tanah-suci-para-haji-membawa-pulang-semangat-melawan-penjajahan-dan-kolonialisme"
+    },
+    {
+        "title": "Ekonom INDEF Soroti Ketergantungan Energi di HUT ke-81 RI",
+        "category": "Ekonomi",
+        "publish_time": "17-08-2026 08:01",
+        "news_link": "https://ekonomi.republika.co.id/berita/tjwlvb423/ekonom-indef-soroti-ketergantungan-energi-di-hut-ke81-ri"
+    },
+    {
+        "title": "Pasar Kripto Besar, Indonesia Punya Peluang Jadi Liquidity Hub Regional",
+        "category": "Ekonomi",
+        "publish_time": "17-08-2026 08:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/tjwffv416/pasar-kripto-besar-indonesia-punya-peluang-jadi-liquidity-hub-regional"
+    },
+    {
         "title": "Sultan Alauddin Melawan Monopoli VOC: Jangan Ambil Nasi dari Mulut Orang Lain",
         "category": "Khazanah",
         "publish_time": "17-08-2026 07:42",
@@ -20,7 +98,7 @@
     {
         "title": "HUT ke-81 RI, Menaker: Hilirisasi Butuh Pekerja Kompeten",
         "category": "Ekonomi",
-        "publish_time": "17-08-2026 07:38",
+        "publish_time": "17-08-2026 07:39",
         "news_link": "https://ekonomi.republika.co.id/berita/tjwl2u423/hut-ke81-ri-menaker-hilirisasi-butuh-pekerja-kompeten"
     },
     {
@@ -32,271 +110,193 @@
     {
         "title": "Hari Kemerdekaan Ke-81 RI di Istana Diwarnai 17 Penerjun Kopassus",
         "category": "News",
-        "publish_time": "17-08-2026 07:34",
+        "publish_time": "17-08-2026 07:35",
         "news_link": "https://news.republika.co.id/berita/tjwl1l484/hari-kemerdekaan-ke81-ri-di-istana-diwarnai-17-penerjun-kopassus"
-    },
-    {
-        "title": "Hari Kemerdekaan Ke-81 RI di Istana Diwarnai 17 Penerjun Kopassus (Bantu Hapus)",
-        "category": "News",
-        "publish_time": "17-08-2026 07:34",
-        "news_link": "https://news.republika.co.id/berita/tjwl1k484/hari-kemerdekaan-ke81-ri-di-istana-diwarnai-17-penerjun-kopassus-bantu-hapus"
     },
     {
         "title": "Derap Langkah Paskibra KBRI Kairo Kibarkan Merah Putih di Negeri Piramida",
         "category": "Video",
-        "publish_time": "17-08-2026 07:30",
+        "publish_time": "17-08-2026 07:35",
         "news_link": "https://republika.co.id/page/shorts/yt-tjwku4849181876/derap-langkah-paskibra-kbri-kairo-kibarkan-merah-putih-di-negeri-piramida"
     },
     {
         "title": "Ini Isi Suvenir Tamu HUT ke81 RI di Istana",
         "category": "Video",
-        "publish_time": "17-08-2026 07:30",
+        "publish_time": "17-08-2026 07:35",
         "news_link": "https://republika.co.id/page/shorts/yt-tjwku11235619764/ini-isi-suvenir-tamu-hut-ke81-ri-di-istana"
     },
     {
         "title": "QRIS Kian Mendunia, Berikan Banyak Kemudahan Bagi Pedagang",
         "category": "Ekonomi",
-        "publish_time": "17-08-2026 07:30",
+        "publish_time": "17-08-2026 07:35",
         "news_link": "https://ekonomi.republika.co.id/berita/tjl45c370/qris-kian-mendunia-berikan-banyak-kemudahan-bagi-pedagang"
     },
     {
         "title": "Warga Kampung Ekowisata Keranggan Dilatih Gunakan Mesin Produksi",
         "category": "Esgnow",
-        "publish_time": "17-08-2026 07:30",
+        "publish_time": "17-08-2026 07:35",
         "news_link": "https://esgnow.republika.co.id/berita/tjwejl416/warga-kampung-ekowisata-keranggan-dilatih-gunakan-mesin-produksi"
     },
     {
         "title": "Magang di GMF AeroAsia, Mahasiswa UNM Asah Kompetensi Jadi System Analyst",
         "category": "News",
-        "publish_time": "17-08-2026 07:28",
+        "publish_time": "17-08-2026 07:35",
         "news_link": "https://news.republika.co.id/berita/tjwidz368/magang-di-gmf-aeroasia-mahasiswa-unm-asah-kompetensi-jadi-system-analyst"
     },
     {
         "title": "Revisi UU Haji: Mengunci Amanah, Bukan Sekadar Memperluas Investasi",
         "category": "Kolom",
-        "publish_time": "17-08-2026 07:16",
+        "publish_time": "17-08-2026 07:35",
         "news_link": "https://analisis.republika.co.id/berita/tjwk80472/revisi-uu-haji-mengunci-amanah-bukan-sekadar-memperluas-investasi"
     },
     {
         "title": "Mahasiswa Prodi Sains Data UNM Tembus Forum Internasional ICITRI 2026, Bawa Riset Bahasa Perbatasan",
         "category": "News",
-        "publish_time": "17-08-2026 07:10",
+        "publish_time": "17-08-2026 07:35",
         "news_link": "https://news.republika.co.id/berita/tjwhde368/mahasiswa-prodi-sains-data-unm-tembus-forum-internasional-icitri-2026-bawa-riset-bahasa-perbatasan"
     },
     {
         "title": "Dubes Jepang, Pakistan, Mesir, dan Belanda Apresiasi HUT ke-81 RI di Istana",
         "category": "News",
-        "publish_time": "17-08-2026 07:07",
+        "publish_time": "17-08-2026 07:35",
         "news_link": "https://news.republika.co.id/berita/tjwjt3484/dubes-jepang-pakistan-mesir-dan-belanda-apresiasi-hut-ke81-ri-di-istana"
     },
     {
         "title": "Dua Kemerdekaan",
         "category": "Kolom",
-        "publish_time": "17-08-2026 07:07",
+        "publish_time": "17-08-2026 07:35",
         "news_link": "https://analisis.republika.co.id/berita/tjwjsg415/dua-kemerdekaan"
     },
     {
         "title": "Persiapan Matang Jadi Modal Alwi Lewati Adangan Pertama di Kejuaraan Dunia BWF 2026",
         "category": "News",
-        "publish_time": "17-08-2026 07:05",
+        "publish_time": "17-08-2026 06:35",
         "news_link": "https://news.republika.co.id/berita/tjwj32348/persiapan-matang-jadi-modal-alwi-lewati-adangan-pertama-di-kejuaraan-dunia-bwf-2026"
     },
     {
         "title": "Merancang Istitha'ah: Haji sebagai Arsitektur Finansial Gen Z",
         "category": "Kolom",
-        "publish_time": "17-08-2026 07:02",
+        "publish_time": "17-08-2026 06:35",
         "news_link": "https://analisis.republika.co.id/berita/tjwjk2368/merancang-istithaah-haji-sebagai-arsitektur-finansial-gen-z"
     },
     {
         "title": "Way Kambas Didorong Jadi Pusat Konservasi Gajah Berstandar Internasional",
         "category": "Esgnow",
-        "publish_time": "17-08-2026 07:00",
+        "publish_time": "17-08-2026 06:35",
         "news_link": "https://esgnow.republika.co.id/berita/tjw5yf416/way-kambas-didorong-jadi-pusat-konservasi-gajah-berstandar-internasional"
     },
     {
         "title": "ICITRI 2026 UNM Segera Digelar, Saatnya Akademisi dan Praktisi Berebut Panggung Inovasi AI",
         "category": "News",
-        "publish_time": "17-08-2026 06:55",
+        "publish_time": "17-08-2026 06:35",
         "news_link": "https://news.republika.co.id/berita/tjwicl368/icitri-2026-unm-segera-digelar-saatnya-akademisi-dan-praktisi-berebut-panggung-inovasi-ai"
     },
     {
         "title": "Putri Kusuma Wardani Buka Kejuaraan Dunia dengan Kemenangan Meyakinkan",
         "category": "News",
-        "publish_time": "17-08-2026 06:46",
+        "publish_time": "17-08-2026 06:35",
         "news_link": "https://news.republika.co.id/berita/tjwin0348/putri-kusuma-wardani-buka-kejuaraan-dunia-dengan-kemenangan-meyakinkan"
     },
     {
         "title": "Voliklinik LLDIKTI III di UNM, Satukan Sportivitas dan Semangat Kemerdekaan",
         "category": "News",
-        "publish_time": "17-08-2026 06:46",
+        "publish_time": "17-08-2026 06:35",
         "news_link": "https://news.republika.co.id/berita/tjwi5m368/voliklinik-lldikti-iii-di-unm-satukan-sportivitas-dan-semangat-kemerdekaan"
     },
     {
         "title": "Pertamina Patra Niaga Sumbangkan Rp81/liter Pembelian BBM Pertamax & Dex Series untuk NTT",
         "category": "Esgnow",
-        "publish_time": "17-08-2026 06:46",
+        "publish_time": "17-08-2026 06:35",
         "news_link": "https://esgnow.republika.co.id/berita/tjvz57522/pertamina-patra-niaga-sumbangkan-rp81liter-pembelian-bbm-pertamax-dex-series-untuk-ntt"
     },
     {
         "title": "Perdana, Paskibra SMAN 28 Bandung Tampil di Upacara HUT RI",
         "category": "Rejabar",
-        "publish_time": "17-08-2026 06:46",
+        "publish_time": "17-08-2026 06:35",
         "news_link": "https://rejabar.republika.co.id/berita/tjwi6i371/perdana-paskibra-sman-28-bandung-tampil-di-upacara-hut-ri"
     },
     {
         "title": "Indonesia Perluas Akses Pasar, 25 Perjanjian Dagang Sudah Berlaku",
         "category": "Ekonomi",
-        "publish_time": "17-08-2026 06:46",
+        "publish_time": "17-08-2026 06:35",
         "news_link": "https://ekonomi.republika.co.id/berita/tjwg3l416/indonesia-perluas-akses-pasar-25-perjanjian-dagang-sudah-berlaku"
     },
     {
         "title": "Deretan Selebritas yang Hadir di Upacara HUT ke-81 RI di Istana Merdeka",
         "category": "Ameera",
-        "publish_time": "17-08-2026 06:46",
+        "publish_time": "17-08-2026 06:35",
         "news_link": "https://ameera.republika.co.id/berita/tjwhye348/deretan-selebritas-yang-hadir-di-upacara-hut-ke81-ri-di-istana-merdeka"
     },
     {
         "title": "Rayakan HUT ke-81 di Istana, Prabowo Duduk Diapit Gibran dan Jokowi",
         "category": "News",
-        "publish_time": "17-08-2026 06:46",
+        "publish_time": "17-08-2026 06:35",
         "news_link": "https://news.republika.co.id/berita/tjwhtw484/rayakan-hut-ke81-di-istana-prabowo-duduk-diapit-gibran-dan-jokowi"
     },
     {
         "title": "UNM Sambut Hangat LLDIKTI Wilayah III Jakarta, Dukung Semarak Kemerdekaan Lewat Lomba Voli",
         "category": "News",
-        "publish_time": "17-08-2026 06:46",
+        "publish_time": "17-08-2026 06:35",
         "news_link": "https://news.republika.co.id/berita/tjwho1368/unm-sambut-hangat-lldikti-wilayah-iii-jakarta-dukung-semarak-kemerdekaan-lewat-lomba-voli"
     },
     {
         "title": "Upacara HUT RI di Tengah Kepungan Karhutla Ogan Ilir",
         "category": "Visual",
-        "publish_time": "17-08-2026 06:46",
+        "publish_time": "17-08-2026 06:35",
         "news_link": "https://visual.republika.co.id/berita/tjwhjr375/upacara-hut-ri-di-tengah-kepungan-karhutla-ogan-ilir"
     },
     {
         "title": "Empat Rafale Kawal Dua Airbus A400M Dipantau Anka-S Beratraksi di Atas Istana",
         "category": "News",
-        "publish_time": "17-08-2026 05:46",
+        "publish_time": "17-08-2026 06:35",
         "news_link": "https://news.republika.co.id/berita/tjwhch484/empat-rafale-kawal-dua-airbus-a400m-dipantau-ankas-beratraksi-di-atas-istana"
     },
     {
         "title": "HUT RI, Naik KRL Jabodetabek Cuma Rp8",
         "category": "Ekonomi",
-        "publish_time": "17-08-2026 05:46",
+        "publish_time": "17-08-2026 06:35",
         "news_link": "https://ekonomi.republika.co.id/berita/tjwgzy416/hut-ri-naik-krl-jabodetabek-cuma-rp8"
     },
     {
         "title": "Era Zero-Click Search Dimulai, Google AI Mengubah Cara Kita Mencari Informasi di Internet",
         "category": "News",
-        "publish_time": "17-08-2026 05:46",
+        "publish_time": "17-08-2026 06:35",
         "news_link": "https://news.republika.co.id/berita/tjwh3u368/era-zeroclick-search-dimulai-google-ai-mengubah-cara-kita-mencari-informasi-di-internet"
     },
     {
         "title": "Penanganan Darurat Gempa NTT Dipercepat, Bantuan dari Swasta Berdatangan",
         "category": "Khazanah",
-        "publish_time": "17-08-2026 05:46",
+        "publish_time": "17-08-2026 05:35",
         "news_link": "https://khazanah.republika.co.id/berita/tjwgtq483/penanganan-darurat-gempa-ntt-dipercepat-bantuan-dari-swasta-berdatangan"
     },
     {
         "title": "Menilik Jalan Indonesia Menuju Kemandirian Energi",
         "category": "Ekonomi",
-        "publish_time": "17-08-2026 05:46",
+        "publish_time": "17-08-2026 05:35",
         "news_link": "https://ekonomi.republika.co.id/berita/tjkasq423/menilik-jalan-indonesia-menuju-kemandirian-energi"
     },
     {
         "title": "KDS Ajak Warga Kabupaten Bandung Jadi Pahlawan di Lingkungan Masing-Masing",
         "category": "Rejabar",
-        "publish_time": "17-08-2026 05:46",
+        "publish_time": "17-08-2026 05:35",
         "news_link": "https://rejabar.republika.co.id/berita/tjwgov368/kds-ajak-warga-kabupaten-bandung-jadi-pahlawan-di-lingkungan-masingmasing"
     },
     {
         "title": "Peringati HUT RI, Rombsis Indonesia Kirim Bantuan Dukung Penanganan Bencana NTT",
         "category": "News",
-        "publish_time": "17-08-2026 05:46",
+        "publish_time": "17-08-2026 05:35",
         "news_link": "https://news.republika.co.id/berita/tjwgjp416/peringati-hut-ri-rombsis-indonesia-kirim-bantuan-dukung-penanganan-bencana-ntt"
     },
     {
         "title": "Dari Pulau Bawean, Santriwati Tsamratul Afkar Tegakkan Merah Putih di Sangkapura",
         "category": "Khazanah",
-        "publish_time": "17-08-2026 05:46",
+        "publish_time": "17-08-2026 05:35",
         "news_link": "https://khazanah.republika.co.id/berita/tjwg2t366/dari-pulau-bawean-santriwati-tsamratul-afkar-tegakkan-merah-putih-di-sangkapura"
     },
     {
         "title": "Rumah, Sekolah, dan Layar adalah Tiga Ruang yang Membentuk Perilaku Anak",
         "category": "Retizen",
-        "publish_time": "17-08-2026 05:46",
+        "publish_time": "17-08-2026 05:35",
         "news_link": "https://retizen.republika.co.id/posts/776937/rumah-sekolah-dan-layar-adalah-tiga-ruang-yang-membentuk-perilaku-anak"
-    },
-    {
-        "title": "Pemerintah Siapkan Rp 5 Triliun Dana Siap Pakai untuk Penanganan Bencana",
-        "category": "Ekonomi",
-        "publish_time": "17-08-2026 05:46",
-        "news_link": "https://ekonomi.republika.co.id/berita/tjwfos370/pemerintah-siapkan-rp-5-triliun-dana-siap-pakai-untuk-penanganan-bencana"
-    },
-    {
-        "title": "Dialektika Merkantilisme Strategis Prabowo dan Warisan Ideologis Soekarno",
-        "category": "Retizen",
-        "publish_time": "17-08-2026 05:46",
-        "news_link": "https://retizen.republika.co.id/posts/776974/dialektika-merkantilisme-strategis-prabowo-dan-warisan-ideologis-soekarno"
-    },
-    {
-        "title": "Melangkah dari Teori Menuju Praktik: Makna PKL bagi Mahasiswa Analisis Kimia",
-        "category": "Retizen",
-        "publish_time": "17-08-2026 05:46",
-        "news_link": "https://retizen.republika.co.id/posts/776977/melangkah-dari-teori-menuju-praktik-makna-pkl-bagi-mahasiswa-analisis-kimia"
-    },
-    {
-        "title": "Sebait Doa di Antara Dua Pilihan Part 2",
-        "category": "Retizen",
-        "publish_time": "17-08-2026 05:46",
-        "news_link": "https://retizen.republika.co.id/posts/776978/sebait-doa-di-antara-dua-pilihan-part-2"
-    },
-    {
-        "title": "Negeri yang Tumbuh, Manusia yang Tertinggal",
-        "category": "Retizen",
-        "publish_time": "17-08-2026 05:46",
-        "news_link": "https://retizen.republika.co.id/posts/776982/negeri-yang-tumbuh-manusia-yang-tertinggal"
-    },
-    {
-        "title": "Kemerdekaan ke-81: Saatnya Jujur Menilai Diri dan Mengejar Ketertinggalan",
-        "category": "Retizen",
-        "publish_time": "17-08-2026 05:46",
-        "news_link": "https://retizen.republika.co.id/posts/776970/kemerdekaan-ke-81-saatnya-jujur-menilai-diri-dan-mengejar-ketertinggalan"
-    },
-    {
-        "title": "PSEL Jadi Andalan Baru Pengelolaan Sampah, Solusi atau Ancaman?",
-        "category": "Esgnow",
-        "publish_time": "17-08-2026 04:46",
-        "news_link": "https://esgnow.republika.co.id/berita/tjlm5g423/psel-jadi-andalan-baru-pengelolaan-sampah-solusi-atau-ancaman"
-    },
-    {
-        "title": "Gunung Anak Krakatau Delapan Kali Meletus, Status Siaga",
-        "category": "Resumatra",
-        "publish_time": "17-08-2026 04:46",
-        "news_link": "https://republika.co.id/berita//tjw211451/gunung-anak-krakatau-delapan-kali-meletus-status-siaga"
-    },
-    {
-        "title": "Kalahkan Malaysia, Garuda Pertiwi Melangkah ke Semifinal Srikandi Merdeka Cup Persembahan Caffino",
-        "category": "News",
-        "publish_time": "17-08-2026 04:46",
-        "news_link": "https://news.republika.co.id/berita/tjwdt9456/kalahkan-malaysia-garuda-pertiwi-melangkah-ke-semifinal-srikandi-merdeka-cup-persembahan-caffino"
-    },
-    {
-        "title": "Sempat Diturunkan Bendera Merah Putih Kembali Dikibarkan",
-        "category": "Video",
-        "publish_time": "17-08-2026 04:46",
-        "news_link": "https://republika.co.id/page/shorts/yt-tjwd71497158281/sempat-diturunkan-bendera-merah-putih-kembali-dikibarkan"
-    },
-    {
-        "title": "Cristiano Ronaldo Beri Sinyal Pensiun: Mungkin Ini Tahun Terakhir Saya",
-        "category": "News",
-        "publish_time": "17-08-2026 04:46",
-        "news_link": "https://news.republika.co.id/berita/tjwcq2348/cristiano-ronaldo-beri-sinyal-pensiun-mungkin-ini-tahun-terakhir-saya"
-    },
-    {
-        "title": "Anne Hathaway Resmi Jadi Disney Legend, Kenang Perjalanan Karier 25 Tahun",
-        "category": "Ameera",
-        "publish_time": "17-08-2026 04:46",
-        "news_link": "https://ameera.republika.co.id/berita/tjwavo366/anne-hathaway-resmi-jadi-disney-legend-kenang-perjalanan-karier-25-tahun"
     }
 ]
