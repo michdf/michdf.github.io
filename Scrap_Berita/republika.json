@@ -1,20 +1,62 @@
 [
     {
+        "title": "Israel Telah Bunuh 21.500 Anak Palestina di Gaza Sejak Oktober 2023",
+        "category": "News",
+        "publish_time": "25-08-2026 23:15",
+        "news_link": "https://news.republika.co.id/berita/tkclx1348/israel-telah-bunuh-21500-anak-palestina-di-gaza-sejak-oktober-2023"
+    },
+    {
+        "title": "Respons Sanksi Ekonomi Trump, China Tegaskan Hubungan Kerja Sama dengan Iran tak Boleh Diganggu",
+        "category": "News",
+        "publish_time": "25-08-2026 23:14",
+        "news_link": "https://news.republika.co.id/berita/tkclwr409/respons-sanksi-ekonomi-trump-china-tegaskan-hubungan-kerja-sama-dengan-iran-tak-boleh-diganggu"
+    },
+    {
+        "title": "Pelayaran Lumpuh, Peserta Muktamar NU Asal Bawean Terpaksa Bayar Pesawat Mahal",
+        "category": "Khazanah",
+        "publish_time": "25-08-2026 23:12",
+        "news_link": "https://khazanah.republika.co.id/berita/tkclsz430/pelayaran-lumpuh-peserta-muktamar-nu-asal-bawean-terpaksa-bayar-pesawat-mahal"
+    },
+    {
+        "title": "Jelang MU Vs Ipswich, Wayne Rooney Minta Michael Carrick Coret Dua Pemain Ini",
+        "category": "News",
+        "publish_time": "25-08-2026 23:05",
+        "news_link": "https://news.republika.co.id/berita/tkclh9348/jelang-mu-vs-ipswich-wayne-rooney-minta-michael-carrick-coret-dua-pemain-ini"
+    },
+    {
+        "title": "Kemampuan Nabi Muhammad SAW Menyelami Jiwa Para Sahabat",
+        "category": "Khazanah",
+        "publish_time": "25-08-2026 23:00",
+        "news_link": "https://khazanah.republika.co.id/berita/tkbucy430/kemampuan-nabi-muhammad-saw-menyelami-jiwa-para-sahabat"
+    },
+    {
+        "title": "Tradisi Maulid Dongkrak Harga Telur di Gorontalo, Tembus Rp56 Ribu Per Bak",
+        "category": "News",
+        "publish_time": "25-08-2026 22:45",
+        "news_link": "https://news.republika.co.id/berita/tkckjg9030000/tradisi-maulid-dongkrak-harga-telur-di-gorontalo-tembus-rp56-ribu-per-bak"
+    },
+    {
+        "title": "Kim Jong-un Kini Diperebutkan Trump, Putin dan Xi Jinping, Apa yang Sedang Terjadi?",
+        "category": "News",
+        "publish_time": "25-08-2026 22:20",
+        "news_link": "https://news.republika.co.id/berita/tkc1g0451/kim-jongun-kini-diperebutkan-trump-putin-dan-xi-jinping-apa-yang-sedang-terjadi"
+    },
+    {
         "title": "Artis Revaldo Kembali Ditangkap Narkoba, Ruben Onsu Belum Ditahan Polisi",
         "category": "News",
-        "publish_time": "25-08-2026 22:00",
+        "publish_time": "25-08-2026 22:19",
         "news_link": "https://news.republika.co.id/berita/tkcigf3230000/artis-revaldo-kembali-ditangkap-narkoba-ruben-onsu-belum-ditahan-polisi"
     },
     {
         "title": "Kepala CIA Diam-Diam Tiba di Moskow, Siapa yang Ditemui dan Apa Pesannya?",
         "category": "News",
-        "publish_time": "25-08-2026 21:55",
+        "publish_time": "25-08-2026 22:19",
         "news_link": "https://news.republika.co.id/berita/tkc2tj451/kepala-cia-diamdiam-tiba-di-moskow-siapa-yang-ditemui-dan-apa-pesannya"
     },
     {
         "title": "Kebakaran Duren Sawit Hanguskan 40 Bangunan, Proyek Bawah Tanah Bundaran HI Rampung 2027",
         "category": "News",
-        "publish_time": "25-08-2026 21:30",
+        "publish_time": "25-08-2026 21:19",
         "news_link": "https://news.republika.co.id/berita/tkch2n4630000/kebakaran-duren-sawit-hanguskan-40-bangunan-proyek-bawah-tanah-bundaran-hi-rampung-2027"
     },
     {
@@ -31,9 +73,9 @@
     },
     {
         "title": "Cegah Manipulasi, Peserta Muktamar NU Pakai Kartu Cip Atur Akses Arena",
-        "category": "News",
+        "category": "Khazanah",
         "publish_time": "25-08-2026 20:19",
-        "news_link": "https://news.republika.co.id/berita/tkceze6130000/cegah-manipulasi-peserta-muktamar-nu-pakai-kartu-cip-atur-akses-arena"
+        "news_link": "https://khazanah.republika.co.id/berita/tkceze6130000/cegah-manipulasi-peserta-muktamar-nu-pakai-kartu-cip-atur-akses-arena"
     },
     {
         "title": "Jelang Musim Baru, Pelatih PSIM Yogyakarta Soroti Penurunan Daya Saing Pemain",
@@ -256,47 +298,5 @@
         "category": "Visual",
         "publish_time": "25-08-2026 14:19",
         "news_link": "https://visual.republika.co.id/berita/tkbrhh375/waduk-sumur-karang-mengering-irigasi-pertanian-di-tangerang-terganggu"
-    },
-    {
-        "title": "Projo Klarifikasi Pernyataan Viral Budi Arie tentang 'Percepatan Politik', Begini Penjelasannya",
-        "category": "News",
-        "publish_time": "25-08-2026 14:19",
-        "news_link": "https://news.republika.co.id/berita/tkbw67487/projo-klarifikasi-pernyataan-viral-budi-arie-tentang-percepatan-politik-begini-penjelasannya"
-    },
-    {
-        "title": "Maulid Nabi, Momen Teladani Kepemimpinan dan Keadilan Ekonomi Rasulullah SAW",
-        "category": "Khazanah",
-        "publish_time": "25-08-2026 13:19",
-        "news_link": "https://khazanah.republika.co.id/berita/tkbvl6320/maulid-nabi-momen-teladani-kepemimpinan-dan-keadilan-ekonomi-rasulullah-saw"
-    },
-    {
-        "title": "Karhutla di Enam Provinsi Belum Teratasi, BNPB: OMC Terkendala, Sumber Air Kering",
-        "category": "News",
-        "publish_time": "25-08-2026 13:19",
-        "news_link": "https://news.republika.co.id/berita/tkbv5l487/karhutla-di-enam-provinsi-belum-teratasi-bnpb-omc-terkendala-sumber-air-kering"
-    },
-    {
-        "title": "PLN Pasok Listrik dan Jaringan Wi-Fi di Arena Muktamar ke-35 NU Jombang",
-        "category": "News",
-        "publish_time": "25-08-2026 13:19",
-        "news_link": "https://news.republika.co.id/berita/tkbbl9451/pln-pasok-listrik-dan-jaringan-wifi-di-arena-muktamar-ke35-nu-jombang"
-    },
-    {
-        "title": "Viral Gajah Dipaksa Tarik Truk Nyangkut di Kubangan",
-        "category": "Video",
-        "publish_time": "25-08-2026 13:19",
-        "news_link": "https://republika.co.id/page/shorts/yt-tkbu511335173804/viral-gajah-dipaksa-tarik-truk-nyangkut-di-kubangan"
-    },
-    {
-        "title": "Innalillahi, Kepala BIN Era SBY Wafat dan Dimakamkan di TMP Kalibata",
-        "category": "News",
-        "publish_time": "25-08-2026 13:19",
-        "news_link": "https://news.republika.co.id/berita/tkbu0k484/innalillahi-kepala-bin-era-sby-wafat-dan-dimakamkan-di-tmp-kalibata"
-    },
-    {
-        "title": "Semarak Grebeg Maulud di TMII, Warga Berebut Gunungan Buah dan Sayuran",
-        "category": "Visual",
-        "publish_time": "25-08-2026 13:19",
-        "news_link": "https://visual.republika.co.id/berita/tkbqsq375/semarak-grebeg-maulud-di-tmii-warga-berebut-gunungan-buah-dan-sayuran"
     }
 ]
