@@ -1,9 +1,243 @@
 [
     {
-        "title": "Protes Aturan Calon Ketum PBNU, Sejumlah Simpatisan Demo di Muktamar NU",
+        "title": "Jepang Kerahkan Kapal Kunisaki dan Tiga Helikopter Bantu Padamkan Karhutla Indonesia",
+        "category": "News",
+        "publish_time": "30 August 2026, 21:27",
+        "news_link": "https://news.republika.co.id/berita/tkl4e6366/jepang-kerahkan-kapal-kunisaki-dan-tiga-helikopter-bantu-padamkan-karhutla-indonesia"
+    },
+    {
+        "title": "Muktamar NU Memanas Panglima Banser Ambil Alih Pengamanan",
+        "category": "Khazanah",
+        "publish_time": "30 August 2026, 21:24",
+        "news_link": "https://khazanah.republika.co.id/berita/tkl6o5393/muktamar-nu-memanas-panglima-banser-ambil-alih-pengamanan"
+    },
+    {
+        "title": "Terdampak Kabut Asap, Sejumlah Penerbangan di Bandara Tjilik Riwut Dibatalkan",
+        "category": "Visual",
+        "publish_time": "30 August 2026, 21:03",
+        "news_link": "https://visual.republika.co.id/berita/tkl5px375/terdampak-kabut-asap-sejumlah-penerbangan-di-bandara-tjilik-riwut-dibatalkan"
+    },
+    {
+        "title": "Melihat Mata Rantai Keilmuan Ulama Nusantara",
+        "category": "Video",
+        "publish_time": "30 August 2026, 20:45",
+        "news_link": "https://republika.co.id/page/shorts/yt-tkl4v8218049449/melihat-mata-rantai-keilmuan-ulama-nusantara"
+    },
+    {
+        "title": "Sungai Ini Kasih Peringatan soal Kekeringan",
+        "category": "Video",
+        "publish_time": "30 August 2026, 20:45",
+        "news_link": "https://republika.co.id/page/shorts/yt-tkl4v2391091404/sungai-ini-kasih-peringatan-soal-kekeringan"
+    },
+    {
+        "title": "Benyamin: Pembangunan Tangsel Harus Berangkat dari Warga",
+        "category": "Rejakarta",
+        "publish_time": "30 August 2026, 20:44",
+        "news_link": "https://republika.co.id/berita//tkl2c5451/benyamin-pembangunan-tangsel-harus-berangkat-dari-warga"
+    },
+    {
+        "title": "Refleksi Kritis: Menakar Jangkar Indonesia Emas",
+        "category": "Retizen",
+        "publish_time": "30 August 2026, 20:43",
+        "news_link": "https://retizen.republika.co.id/posts/779077/refleksi-kritis-menakar-jangkar-indonesia-emas"
+    },
+    {
+        "title": "Tak Mau Lagi Sekadar Gali dan Jual, MIND ID Kejar Industrialisasi Tambang",
+        "category": "Ekonomi",
+        "publish_time": "30 August 2026, 20:18",
+        "news_link": "https://ekonomi.republika.co.id/berita/tkl3ne522/tak-mau-lagi-sekadar-gali-dan-jual-mind-id-kejar-industrialisasi-tambang"
+    },
+    {
+        "title": "Kebakaran TPA Liar di Waringinkurung Serang Belum Berhasil Dipadamkan",
+        "category": "Visual",
+        "publish_time": "30 August 2026, 20:06",
+        "news_link": "https://visual.republika.co.id/berita/tkl0ln375/kebakaran-tpa-liar-di-waringinkurung-serang-belum-berhasil-dipadamkan"
+    },
+    {
+        "title": "Ratusan Seniman Desak Festival Film Venesia Ambil Aksi Nyata Dukung Palestina",
+        "category": "Ameera",
+        "publish_time": "30 August 2026, 20:01",
+        "news_link": "https://ameera.republika.co.id/berita/tkl2v5425/ratusan-seniman-desak-festival-film-venesia-ambil-aksi-nyata-dukung-palestina"
+    },
+    {
+        "title": "Warisan Perry Warjiyo dan Masa Depan Ekonomi Syariah Indonesia",
+        "category": "Kolom",
+        "publish_time": "30 August 2026, 19:56",
+        "news_link": "https://analisis.republika.co.id/berita/tkl2ll451/warisan-perry-warjiyo-dan-masa-depan-ekonomi-syariah-indonesia"
+    },
+    {
+        "title": "Persaingan Ketat! Ini Klasemen MotoGP 2026 Usai Marquez Juara di Aragon",
+        "category": "News",
+        "publish_time": "30 August 2026, 19:51",
+        "news_link": "https://news.republika.co.id/berita/tkl2ds409/persaingan-ketat-ini-klasemen-motogp-2026-usai-marquez-juara-di-aragon"
+    },
+    {
+        "title": "Ini Sembilan Ulama Terpilih Penentu Rais Aam dan Ketum PBNU",
+        "category": "Khazanah",
+        "publish_time": "30 August 2026, 19:45",
+        "news_link": "https://khazanah.republika.co.id/berita/tkl23z393/ini-sembilan-ulama-terpilih-penentu-rais-aam-dan-ketum-pbnu"
+    },
+    {
+        "title": "SERASI UNM 2026 Siap Bakar Semangat Maba, Alumni Sukses Hadir Jadi Sumber Inspirasi",
+        "category": "News",
+        "publish_time": "30 August 2026, 19:26",
+        "news_link": "https://news.republika.co.id/berita/tkl0g3368/serasi-unm-2026-siap-bakar-semangat-maba-alumni-sukses-hadir-jadi-sumber-inspirasi"
+    },
+    {
+        "title": "Pemkab Batang Dorong Setiap Kecamatan Miliki Produk Unggulan",
+        "category": "Rejogja",
+        "publish_time": "30 August 2026, 19:12",
+        "news_link": "https://rejogja.republika.co.id/berita/tkk4t7451/pemkab-batang-dorong-setiap-kecamatan-miliki-produk-unggulan"
+    },
+    {
+        "title": "ISNUpreneur Dorong UMKM Jombang Naik Kelas, Apresiasi Wamen Koperasi hingga Bahas Ekonomi Kerakyatan",
+        "category": "News",
+        "publish_time": "30 August 2026, 19:04",
+        "news_link": "https://news.republika.co.id/berita/tkl07s291/isnupreneur-dorong-umkm-jombang-naik-kelas-apresiasi-wamen-koperasi-hingga-bahas-ekonomi-kerakyatan"
+    },
+    {
+        "title": "Perkuat Kurikulum Adaptif Industri, Cyber University Benchmarking ke Telkom University",
+        "category": "News",
+        "publish_time": "30 August 2026, 19:04",
+        "news_link": "https://news.republika.co.id/berita/tkl07g368/perkuat-kurikulum-adaptif-industri-cyber-university-benchmarking-ke-telkom-university"
+    },
+    {
+        "title": "Gandeng Baznas, J99 Corp Salurkan Bantuan Rp 2 Miliar untuk NTT dan Kalimantan",
+        "category": "Rejogja",
+        "publish_time": "30 August 2026, 19:04",
+        "news_link": "https://rejogja.republika.co.id/berita/tkkxq9291/gandeng-baznas-j99-corp-salurkan-bantuan-rp-2-miliar-untuk-ntt-dan-kalimantan"
+    },
+    {
+        "title": "Dari Proposal Penawaran hingga Mencari Pelanggan, Pelajaran yang Saya Dapat Saat Magang",
+        "category": "Retizen",
+        "publish_time": "30 August 2026, 19:03",
+        "news_link": "https://retizen.republika.co.id/posts/779064/dari-proposal-penawaran-hingga-mencari-pelanggan-pelajaran-yang-saya-dapat-saat-magang"
+    },
+    {
+        "title": "Sungai Tinalah Kulon Progo Menyusut, Warga Manfaatkan Jadi Wisata Alternatif",
+        "category": "Visual",
+        "publish_time": "30 August 2026, 19:03",
+        "news_link": "https://visual.republika.co.id/berita/tkl052375/sungai-tinalah-kulon-progo-menyusut-warga-manfaatkan-jadi-wisata-alternatif"
+    },
+    {
+        "title": "Pagar Gedung Sudirman Jadi Tumbal Proyek Underpass Cimahi, PUPR: Nanti akan Dibangun Lagi",
+        "category": "Rejabar",
+        "publish_time": "30 August 2026, 18:59",
+        "news_link": "https://rejabar.republika.co.id/berita/tkkzyl282/pagar-gedung-sudirman-jadi-tumbal-proyek-underpass-cimahi-pupr-nanti-akan-dibangun-lagi"
+    },
+    {
+        "title": "BNPB: Jarak Pandang di Kalimantan Hanya 1 Hingga 1,5 Km",
+        "category": "News",
+        "publish_time": "30 August 2026, 18:44",
+        "news_link": "https://news.republika.co.id/berita/tkkza2425/bnpb-jarak-pandang-di-kalimantan-hanya-1-hingga-15-km"
+    },
+    {
+        "title": "Akui Gunakan Air Kolam Warga untuk Atasi Karhutla, BNPB Mengaku Sudah Komunikasi",
+        "category": "News",
+        "publish_time": "30 August 2026, 18:40",
+        "news_link": "https://news.republika.co.id/berita/tkkz3j487/akui-gunakan-air-kolam-warga-untuk-atasi-karhutla-bnpb-mengaku-sudah-komunikasi"
+    },
+    {
+        "title": "Eks Penyidik KPK Sampaikan Dua Hal Krusial Dalam Pembahasan RUU Perampasan Aset",
+        "category": "News",
+        "publish_time": "30 August 2026, 18:33",
+        "news_link": "https://news.republika.co.id/berita/tkkyra487/eks-penyidik-kpk-sampaikan-dua-hal-krusial-dalam-pembahasan-ruu-perampasan-aset"
+    },
+    {
+        "title": "Fatayat NU di Muktamar: Tidak Boleh Ada Kekerasan pada Perempuan dan Anak",
+        "category": "Khazanah",
+        "publish_time": "30 August 2026, 18:25",
+        "news_link": "https://khazanah.republika.co.id/berita/tkkydp366/fatayat-nu-di-muktamar-tidak-boleh-ada-kekerasan-pada-perempuan-dan-anak"
+    },
+    {
+        "title": "UAD-Unjaya Gandeng PT Indoraya Kembangkan Aloe Vera Bantul, Bidik Masuk Pasar Kosmetik Global",
+        "category": "Rejogja",
+        "publish_time": "30 August 2026, 18:24",
+        "news_link": "https://rejogja.republika.co.id/berita/tkkydg291/uadunjaya-gandeng-pt-indoraya-kembangkan-aloe-vera-bantul-bidik-masuk-pasar-kosmetik-global"
+    },
+    {
+        "title": "Dilepas Menhub Dudy, 70 Mitra Pengemudi Gojek Berangkat Tunaikan Umrah",
+        "category": "News",
+        "publish_time": "30 August 2026, 18:20",
+        "news_link": "https://news.republika.co.id/berita/tkky6k291/dilepas-menhub-dudy-70-mitra-pengemudi-gojek-berangkat-tunaikan-umrah"
+    },
+    {
+        "title": "Muktamar NU: Rais Aam dan Ketum PBNU Dilarang Rangkap Jabatan Publik",
+        "category": "Khazanah",
+        "publish_time": "30 August 2026, 18:13",
+        "news_link": "https://khazanah.republika.co.id/berita/tkkxu5366/muktamar-nu-rais-aam-dan-ketum-pbnu-dilarang-rangkap-jabatan-publik"
+    },
+    {
+        "title": "Warga Protes Tambang Batu di Sungai Progo Magelang, Dinas ESDM Peringatkan Risiko Pidana",
+        "category": "Rejogja",
+        "publish_time": "30 August 2026, 18:03",
+        "news_link": "https://rejogja.republika.co.id/berita/tkkxdy282/warga-protes-tambang-batu-di-sungai-progo-magelang-dinas-esdm-peringatkan-risiko-pidana"
+    },
+    {
+        "title": "Imigrasi Jakut Buka Layanan Paspor di CFD Sudirman",
+        "category": "Rejakarta",
+        "publish_time": "30 August 2026, 18:00",
+        "news_link": "https://republika.co.id/berita//tkkx81416/imigrasi-jakut-buka-layanan-paspor-di-cfd-sudirman"
+    },
+    {
+        "title": "Muktamar NU Ricuh, Gus Yahya Minta Massa Pendukung Gus Yusuf Tenang",
+        "category": "Khazanah",
+        "publish_time": "30 August 2026, 17:55",
+        "news_link": "https://khazanah.republika.co.id/berita/tkkx11393/muktamar-nu-ricuh-gus-yahya-minta-massa-pendukung-gus-yusuf-tenang"
+    },
+    {
+        "title": "Warga Tewas Dianiaya pada Aksi 27 Agustus, Ini Kata Menko Yusril",
+        "category": "News",
+        "publish_time": "30 August 2026, 17:49",
+        "news_link": "https://news.republika.co.id/berita/tkkwqw393/warga-tewas-dianiaya-pada-aksi-27-agustus-ini-kata-menko-yusril"
+    },
+    {
+        "title": "Pekan Halal Indonesia 2026 Jadi Ajang UMKM Promosikan Produk Halal",
+        "category": "Visual",
+        "publish_time": "30 August 2026, 17:30",
+        "news_link": "https://visual.republika.co.id/berita/tkktyl375/pekan-halal-indonesia-2026-jadi-ajang-umkm-promosikan-produk-halal"
+    },
+    {
+        "title": "Peringati Maulid Nabi, Rombsis Salurkan Bantuan untuk NTT dan Palestina",
+        "category": "Khazanah",
+        "publish_time": "30 August 2026, 17:00",
+        "news_link": "https://khazanah.republika.co.id/berita/tkks5b416/peringati-maulid-nabi-rombsis-salurkan-bantuan-untuk-ntt-dan-palestina"
+    },
+    {
+        "title": "Manhaj Tarjih Muhammadiyah: Aqidah atau Metodologi?",
+        "category": "Retizen",
+        "publish_time": "30 August 2026, 16:54",
+        "news_link": "https://retizen.republika.co.id/posts/779030/manhaj-tarjih-muhammadiyah-aqidah-atau-metodologi"
+    },
+    {
+        "title": "Dari Keringat, Perjuangan, hingga Gelar Magister: Catatan Perjalanan Mengangkat Derajat Keluarga",
+        "category": "Retizen",
+        "publish_time": "30 August 2026, 16:49",
+        "news_link": "https://retizen.republika.co.id/posts/779036/dari-keringat-perjuangan-hingga-gelar-magister-catatan-perjalanan-mengangkat-derajat-keluarga"
+    },
+    {
+        "title": "Muktamar NU dan Ujian Akhlak Politik",
+        "category": "Retizen",
+        "publish_time": "30 August 2026, 16:48",
+        "news_link": "https://retizen.republika.co.id/posts/779038/muktamar-nu-dan-ujian-akhlak-politik"
+    },
+    {
+        "title": "Polres Indramayu Tangkap 24 Pelaku Kejahatan Jalanan",
+        "category": "Rejabar",
+        "publish_time": "30 August 2026, 16:45",
+        "news_link": "https://rejabar.republika.co.id/berita/tkks7s282/polres-indramayu-tangkap-24-pelaku-kejahatan-jalanan"
+    },
+    {
+        "title": "Ketika Hutan Terbakar, Rumah Para Satwa Ikut Hilang",
+        "category": "Retizen",
+        "publish_time": "30 August 2026, 16:43",
+        "news_link": "https://retizen.republika.co.id/posts/779043/ketika-hutan-terbakar-rumah-para-satwa-ikut-hilang"
+    },
+    {
+        "title": "Protes Aturan Pemilihan Calon Ketum PBNU, Sejumlah Simpatisan Demo di Muktamar NU",
         "category": "Visual",
         "publish_time": "30 August 2026, 16:39",
-        "news_link": "https://visual.republika.co.id/berita/tkktin375/protes-aturan-calon-ketum-pbnu-sejumlah-simpatisan-demo-di-muktamar-nu"
+        "news_link": "https://visual.republika.co.id/berita/tkktin375/protes-aturan-pemilihan-calon-ketum-pbnu-sejumlah-simpatisan-demo-di-muktamar-nu"
     },
     {
         "title": "Kementan Sebut 3.233 Hektare Sawah di Lamongan Berhasil Diselamatkan dari Dampak El Nino",
@@ -64,239 +298,5 @@
         "category": "Esgnow",
         "publish_time": "30 August 2026, 14:34",
         "news_link": "https://esgnow.republika.co.id/berita/tkknpv425/menarini-indonesia-tanam-1600-mangrove-sepanjang-2026"
-    },
-    {
-        "title": "Geografi Adalah Takdir, Konektivitas Adalah Pilihan",
-        "category": "Kolom",
-        "publish_time": "30 August 2026, 14:17",
-        "news_link": "https://analisis.republika.co.id/berita/tkkkfg393/geografi-adalah-takdir-konektivitas-adalah-pilihan"
-    },
-    {
-        "title": "Kepolisian Bongkar Pabrik Narkoba Rumahan di Lampung Selatan",
-        "category": "News",
-        "publish_time": "30 August 2026, 14:02",
-        "news_link": "https://news.republika.co.id/berita/tkkm8v487/kepolisian-bongkar-pabrik-narkoba-rumahan-di-lampung-selatan"
-    },
-    {
-        "title": "Australia Larang Lagu Buatan Al Masuk dalam Tangga Lagu",
-        "category": "Ameera",
-        "publish_time": "30 August 2026, 14:00",
-        "news_link": "https://ameera.republika.co.id/berita/tkkm4p425/australia-larang-lagu-buatan-al-masuk-dalam-tangga-lagu"
-    },
-    {
-        "title": "Soal Atlet Tuli Galang Dana di Jalanan, NPC: Pemerintah Hanya Bantu yang Diakui Federasi Dunia",
-        "category": "News",
-        "publish_time": "30 August 2026, 13:59",
-        "news_link": "https://news.republika.co.id/berita/tkkm2n348/soal-atlet-tuli-galang-dana-di-jalanan-npc-pemerintah-hanya-bantu-yang-diakui-federasi-dunia"
-    },
-    {
-        "title": "Benarkah Uban Tanda Tubuh Lawan Kanker? Simak Penjelasan Dokter",
-        "category": "Ameera",
-        "publish_time": "30 August 2026, 13:48",
-        "news_link": "https://ameera.republika.co.id/berita/tkkll1425/benarkah-uban-tanda-tubuh-lawan-kanker-simak-penjelasan-dokter"
-    },
-    {
-        "title": "Festival Musik Olivia Rodrigo Galang Donasi Rp117 Miliar untuk Perjuangan Hak Perempuan",
-        "category": "Ameera",
-        "publish_time": "30 August 2026, 13:27",
-        "news_link": "https://ameera.republika.co.id/berita/tkkkmf425/festival-musik-olivia-rodrigo-galang-donasi-rp117-miliar-untuk-perjuangan-hak-perempuan"
-    },
-    {
-        "title": "Bank Harus Mengenal Siapa di Balik Uang",
-        "category": "Kolom",
-        "publish_time": "30 August 2026, 13:16",
-        "news_link": "https://analisis.republika.co.id/berita/tkkjqf393/bank-harus-mengenal-siapa-di-balik-uang"
-    },
-    {
-        "title": "Ramai Figur Publik Adopsi Orang Utan, Bukan Dipelihara Tapi Begini Cara Kerjanya",
-        "category": "Ameera",
-        "publish_time": "30 August 2026, 13:13",
-        "news_link": "https://ameera.republika.co.id/berita/tkkjyc425/ramai-figur-publik-adopsi-orang-utan-bukan-dipelihara-tapi-begini-cara-kerjanya"
-    },
-    {
-        "title": "AI Bantu Nelayan dan Petani, Pertamina Perluas Inovasi ke Desa Energi Berdikari",
-        "category": "Ekonomi",
-        "publish_time": "30 August 2026, 13:01",
-        "news_link": "https://ekonomi.republika.co.id/berita/tkkjds368/ai-bantu-nelayan-dan-petani-pertamina-perluas-inovasi-ke-desa-energi-berdikari"
-    },
-    {
-        "title": "Jangan Bercanda Tarik Kursi Lagi di Sekolah, Bisa Berujung Maut",
-        "category": "Ameera",
-        "publish_time": "30 August 2026, 12:47",
-        "news_link": "https://ameera.republika.co.id/berita/tkkiqy425/jangan-bercanda-tarik-kursi-lagi-di-sekolah-bisa-berujung-maut"
-    },
-    {
-        "title": "Gus Rozin Respons Mekanisme Pemilihan Ketum PBNU Melalui AHWA, Begini Katanya",
-        "category": "News",
-        "publish_time": "30 August 2026, 12:30",
-        "news_link": "https://news.republika.co.id/berita/tkkhyx487/gus-rozin-respons-mekanisme-pemilihan-ketum-pbnu-melalui-ahwa-begini-katanya"
-    },
-    {
-        "title": "Anne Hathaway Gabung dengan Tom Cruise dalam Sekuel Film Days of Thunder",
-        "category": "Ameera",
-        "publish_time": "30 August 2026, 12:24",
-        "news_link": "https://ameera.republika.co.id/berita/tkkho3425/anne-hathaway-gabung-dengan-tom-cruise-dalam-sekuel-film-days-of-thunder"
-    },
-    {
-        "title": "Kemnaker Dorong Perusahaan tak Berhenti pada Sertifikasi K3",
-        "category": "Ekonomi",
-        "publish_time": "30 August 2026, 12:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/tkkh9e349/kemnaker-dorong-perusahaan-tak-berhenti-pada-sertifikasi-k3"
-    },
-    {
-        "title": "Awan Pelangi di Bogor Asli atau AI",
-        "category": "Video",
-        "publish_time": "30 August 2026, 12:15",
-        "news_link": "https://republika.co.id/page/shorts/yt-tkkh911523410177/awan-pelangi-di-bogor-asli-atau-ai"
-    },
-    {
-        "title": "Gus Ipang Sebut KH Imam Jazuli Siap Maju Calon Ketum PBNU",
-        "category": "Khazanah",
-        "publish_time": "30 August 2026, 11:57",
-        "news_link": "https://khazanah.republika.co.id/berita/tkkgfh320/gus-ipang-sebut-kh-imam-jazuli-siap-maju-calon-ketum-pbnu"
-    },
-    {
-        "title": "Tim Investigasi Segera Umumkan Hasil Pemeriksaan Dugaan Pelecehan Seksual Libatkan Wabup Sumedang",
-        "category": "Rejabar",
-        "publish_time": "30 August 2026, 11:23",
-        "news_link": "https://rejabar.republika.co.id/berita/tkkeuw487/tim-investigasi-segera-umumkan-hasil-pemeriksaan-dugaan-pelecehan-seksual-libatkan-wabup-sumedang"
-    },
-    {
-        "title": "KAI Kaji Pengembangan Layanan KRL di Stasiun Gambir",
-        "category": "Ekonomi",
-        "publish_time": "30 August 2026, 11:18",
-        "news_link": "https://ekonomi.republika.co.id/berita/tkkenh349/kai-kaji-pengembangan-layanan-krl-di-stasiun-gambir"
-    },
-    {
-        "title": "Warga Kudus Ramai-Ramai Belajar Cegah Stunting di Festival Keluarga Sehat",
-        "category": "News",
-        "publish_time": "30 August 2026, 10:48",
-        "news_link": "https://news.republika.co.id/berita/tkkd9d456/warga-kudus-ramairamai-belajar-cegah-stunting-di-festival-keluarga-sehat"
-    },
-    {
-        "title": "Rumah Buruh Tani di Wonogiri Kini tak Lagi Bocor, Warga: Alhamdulilah Bisa Tidur Nyenyak",
-        "category": "Rejogja",
-        "publish_time": "30 August 2026, 10:39",
-        "news_link": "https://rejogja.republika.co.id/berita/tkkctx456/rumah-buruh-tani-di-wonogiri-kini-tak-lagi-bocor-warga-alhamdulilah-bisa-tidur-nyenyak"
-    },
-    {
-        "title": "Setia Sejak Hari Pertama, 70 Mitra Driver Legend Gojek Berangkat Umrah",
-        "category": "Ekonomi",
-        "publish_time": "30 August 2026, 10:35",
-        "news_link": "https://ekonomi.republika.co.id/berita/tkkcnq368/setia-sejak-hari-pertama-70-mitra-driver-legend-gojek-berangkat-umrah"
-    },
-    {
-        "title": "PATRIN Tegaskan Status di Kancah Internasional, Diakui ICSD sebagai Organisasi Tunarungu Indonesia",
-        "category": "News",
-        "publish_time": "30 August 2026, 10:29",
-        "news_link": "https://news.republika.co.id/berita/tkkcd4368/patrin-tegaskan-status-di-kancah-internasional-diakui-icsd-sebagai-organisasi-tunarungu-indonesia"
-    },
-    {
-        "title": "Harga Tanah Makin Mahal, Menteri PKP Mau Bangun Rumah di Atas Sungai",
-        "category": "Rejogja",
-        "publish_time": "30 August 2026, 10:29",
-        "news_link": "https://rejogja.republika.co.id/berita/tkkbdj282/harga-tanah-makin-mahal-menteri-pkp-mau-bangun-rumah-di-atas-sungai"
-    },
-    {
-        "title": "Dedi Mulyadi Minta Jalur Pendakian di Jabar Ditutup Antisipasi Karhutla",
-        "category": "Rejabar",
-        "publish_time": "30 August 2026, 10:22",
-        "news_link": "https://rejabar.republika.co.id/berita/tkkc0z487/dedi-mulyadi-minta-jalur-pendakian-di-jabar-ditutup-antisipasi-karhutla"
-    },
-    {
-        "title": "Korban Tewas Banjir Bandang Nepal-China Capai 633, 2.426 Hilang, 261 Turis Diselamatkan",
-        "category": "News",
-        "publish_time": "30 August 2026, 10:20",
-        "news_link": "https://news.republika.co.id/berita/tkkbhq348/korban-tewas-banjir-bandang-nepalchina-capai-633-2426-hilang-261-turis-diselamatkan"
-    },
-    {
-        "title": "BP Tapera Dorong Warga Nahdliyin Miliki Rumah Pertama",
-        "category": "News",
-        "publish_time": "30 August 2026, 10:07",
-        "news_link": "https://news.republika.co.id/berita/tkk5rz451/bp-tapera-dorong-warga-nahdliyin-miliki-rumah-pertama"
-    },
-    {
-        "title": "Tarif Gerbang Tol Sementara Cipeundeuy Mulai Berlaku Hari Ini, Cek Besarannya",
-        "category": "Rejabar",
-        "publish_time": "30 August 2026, 10:03",
-        "news_link": "https://rejabar.republika.co.id/berita/tkkb5w348/tarif-gerbang-tol-sementara-cipeundeuy-mulai-berlaku-hari-ini-cek-besarannya"
-    },
-    {
-        "title": "Hasil Muktamar ke-35 Nahdlatul Ulama, Begini Mekanisme Terbaru Pemilihan Ketum PBNU",
-        "category": "Khazanah",
-        "publish_time": "30 August 2026, 09:56",
-        "news_link": "https://khazanah.republika.co.id/berita/tkkatq348/hasil-muktamar-ke35-nahdlatul-ulama-begini-mekanisme-terbaru-pemilihan-ketum-pbnu"
-    },
-    {
-        "title": "HUT ke-53 KNPI, Tiga Tokoh Terima Award untuk Dedikasi pada Pemuda dan Pembangunan",
-        "category": "News",
-        "publish_time": "30 August 2026, 09:49",
-        "news_link": "https://news.republika.co.id/berita/tkka4b430/hut-ke53-knpi-tiga-tokoh-terima-award-untuk-dedikasi-pada-pemuda-dan-pembangunan"
-    },
-    {
-        "title": "Gus Ipang Sebut Tokoh ini Siap Maju Calon Ketum PBNU",
-        "category": "Khazanah",
-        "publish_time": "30 August 2026, 09:41",
-        "news_link": "https://khazanah.republika.co.id/berita/tkk9vv451/gus-ipang-sebut-tokoh-ini-siap-maju-calon-ketum-pbnu"
-    },
-    {
-        "title": "Kemarau Panjang, Ratusan Petani Dieng Berjuang Mendapatkan Air",
-        "category": "Visual",
-        "publish_time": "30 August 2026, 09:00",
-        "news_link": "https://visual.republika.co.id/berita/tkjfsh375/kemarau-panjang-ratusan-petani-dieng-berjuang-mendapatkan-air"
-    },
-    {
-        "title": "Di Muktamar Ke-35 NU, Silatnas Lazisnu se-Dunia Perkuat Filantropi Berbasis Riset",
-        "category": "Khazanah",
-        "publish_time": "30 August 2026, 08:58",
-        "news_link": "https://khazanah.republika.co.id/berita/tkk85v320/di-muktamar-ke35-nu-silatnas-lazisnu-sedunia-perkuat-filantropi-berbasis-riset"
-    },
-    {
-        "title": "Bangladesh Dilaporkan Siap Gabung Pakta Makkah",
-        "category": "News",
-        "publish_time": "30 August 2026, 08:44",
-        "news_link": "https://news.republika.co.id/berita/tkk7hf393/bangladesh-dilaporkan-siap-gabung-pakta-makkah"
-    },
-    {
-        "title": "Pemukim Israel Lakukan 900 Pembakaran di Tepi Barat",
-        "category": "News",
-        "publish_time": "30 August 2026, 08:30",
-        "news_link": "https://news.republika.co.id/berita/tkk6vb393/pemukim-israel-lakukan-900-pembakaran-di-tepi-barat"
-    },
-    {
-        "title": "Budaya Lari Makin Populer, Jadi Gaya Hidup Anak Muda",
-        "category": "News",
-        "publish_time": "30 August 2026, 08:20",
-        "news_link": "https://news.republika.co.id/berita/tkk5qf348/budaya-lari-makin-populer-jadi-gaya-hidup-anak-muda"
-    },
-    {
-        "title": "Pelari Master Agus Prayogo Tembus Season Best di Merdeka Run, Masih Bisa Saingi Atlet Muda",
-        "category": "News",
-        "publish_time": "30 August 2026, 08:08",
-        "news_link": "https://news.republika.co.id/berita/tkk5hv348/pelari-master-agus-prayogo-tembus-season-best-di-merdeka-run-masih-bisa-saingi-atlet-muda"
-    },
-    {
-        "title": "BEI: 7 Perusahaan Antre IPO, Sektor Kesehatan Mendominasi",
-        "category": "Ekonomi",
-        "publish_time": "30 August 2026, 08:04",
-        "news_link": "https://ekonomi.republika.co.id/berita/tkk5nh490/bei-7-perusahaan-antre-ipo-sektor-kesehatan-mendominasi"
-    },
-    {
-        "title": "KAI Terapkan Transformasi 2030, Siapkan Ekosistem Perkeretaapian Terintegrasi",
-        "category": "Ekonomi",
-        "publish_time": "30 August 2026, 07:54",
-        "news_link": "https://ekonomi.republika.co.id/berita/tkk564490/kai-terapkan-transformasi-2030-siapkan-ekosistem-perkeretaapian-terintegrasi"
-    },
-    {
-        "title": "KBRI Seoul Dorong 50 Ribu Diaspora Muslim Jadi Penggerak Ekonomi Syariah",
-        "category": "Ekonomi Syariah",
-        "publish_time": "30 August 2026, 07:38",
-        "news_link": "https://sharia.republika.co.id/berita/tkk4gw451/kbri-seoul-dorong-50-ribu-diaspora-muslim-jadi-penggerak-ekonomi-syariah"
-    },
-    {
-        "title": "WIKA Beton Pamerkan Teknologi Rumah Modular Tahan Gempa di Danantara Housing Expo",
-        "category": "Ekonomi",
-        "publish_time": "30 August 2026, 07:13",
-        "news_link": "https://ekonomi.republika.co.id/berita/tkk36q416/wika-beton-pamerkan-teknologi-rumah-modular-tahan-gempa-di-danantara-housing-expo"
     }
 ]
