@@ -1,5 +1,77 @@
 [
     {
+        "title": "Di Pelantikan PB IPSI, Gus Nabiel: Pesilat Harus Luhur Akhlaknya",
+        "category": "Khazanah",
+        "publish_time": "06 September 2026, 07:20",
+        "news_link": "https://khazanah.republika.co.id/berita/tkx29j320/di-pelantikan-pb-ipsi-gus-nabiel-pesilat-harus-luhur-akhlaknya"
+    },
+    {
+        "title": "Resmikan Kantor Cabang Pangandaran, bank bjb Perkuat Ekspansi dan Dorong Potensi Ekonomi Daerah",
+        "category": "Ekonomi",
+        "publish_time": "06 September 2026, 07:10",
+        "news_link": "https://ekonomi.republika.co.id/berita/tkx1tl370/resmikan-kantor-cabang-pangandaran-bank-bjb-perkuat-ekspansi-dan-dorong-potensi-ekonomi-daerah"
+    },
+    {
+        "title": "Inter Menang Dramatis Atas Napoli, Lautaro Martinez Cetak Rekor Gol",
+        "category": "News",
+        "publish_time": "06 September 2026, 07:08",
+        "news_link": "https://news.republika.co.id/berita/tkwz5x409/inter-menang-dramatis-atas-napoli-lautaro-martinez-cetak-rekor-gol"
+    },
+    {
+        "title": "Sulut Arahkan APBD Perubahan ke Program Prioritas",
+        "category": "Resulawesi",
+        "publish_time": "06 September 2026, 07:07",
+        "news_link": "https://republika.co.id/berita//tkx1o5451/sulut-arahkan-apbd-perubahan-ke-program-prioritas"
+    },
+    {
+        "title": "Bandara Soekarno-Hatta Ditutup Sementara Akibat Debu Vulkanik Letusan Anak Krakatau",
+        "category": "Rejabar",
+        "publish_time": "06 September 2026, 06:44",
+        "news_link": "https://rejabar.republika.co.id/berita/tkx0lh282/bandara-soekarnohatta-ditutup-sementara-akibat-debu-vulkanik-letusan-anak-krakatau"
+    },
+    {
+        "title": "Peserta Olimpiade Madrasah 2026 Tembus 230 Ribu Siswa",
+        "category": "Khazanah",
+        "publish_time": "06 September 2026, 06:24",
+        "news_link": "https://khazanah.republika.co.id/berita/tkwwws483/peserta-olimpiade-madrasah-2026-tembus-230-ribu-siswa"
+    },
+    {
+        "title": "Abu Vulkanik Anak Krakatau Selimuti Serang",
+        "category": "News",
+        "publish_time": "06 September 2026, 06:18",
+        "news_link": "https://news.republika.co.id/berita/tkwze0393/abu-vulkanik-anak-krakatau-selimuti-serang"
+    },
+    {
+        "title": "Haaland Cetak 300 Gol Klub, Lampaui Ronaldo dan Mbappe",
+        "category": "News",
+        "publish_time": "06 September 2026, 06:14",
+        "news_link": "https://news.republika.co.id/berita/tkwyrz409/haaland-cetak-300-gol-klub-lampaui-ronaldo-dan-mbappe"
+    },
+    {
+        "title": "Ketika Api Membakar Rumah Satwa Kalimantan",
+        "category": "Kolom",
+        "publish_time": "06 September 2026, 06:13",
+        "news_link": "https://analisis.republika.co.id/berita/tkwah9483/ketika-api-membakar-rumah-satwa-kalimantan"
+    },
+    {
+        "title": "Kecelakaan Beruntun di Kembangan Tewaskan Tiga Orang, Polisi Ungkap Kronologinya",
+        "category": "News",
+        "publish_time": "06 September 2026, 05:58",
+        "news_link": "https://news.republika.co.id/berita/tkwyhq370/kecelakaan-beruntun-di-kembangan-tewaskan-tiga-orang-polisi-ungkap-kronologinya"
+    },
+    {
+        "title": "Sebaran Abu Anak Krakatau Picu Penutupan Bandara Soetta, 33 Penerbangan Terdampak",
+        "category": "News",
+        "publish_time": "06 September 2026, 05:48",
+        "news_link": "https://news.republika.co.id/berita/tkwy19409/sebaran-abu-anak-krakatau-picu-penutupan-bandara-soetta-33-penerbangan-terdampak"
+    },
+    {
+        "title": "Freedom Flotilla Kembali Memulai Misi Pelayaran ke Gaza",
+        "category": "Khazanah",
+        "publish_time": "06 September 2026, 05:39",
+        "news_link": "https://khazanah.republika.co.id/berita/tkwxl5483/freedom-flotilla-kembali-memulai-misi-pelayaran-ke-gaza"
+    },
+    {
         "title": "Dentuman Gunung Anak Krakatau Terdengar di Tiga Provinsi, Ini Penjelasan Badan Geologi",
         "category": "News",
         "publish_time": "06 September 2026, 05:33",
@@ -7,9 +79,9 @@
     },
     {
         "title": "Bandara Soekarno-Hatta Ditutup Sementara Akibat Sebaran Abu Vulkanik Gunung Anak Krakatau",
-        "category": "News",
+        "category": "Rejabar",
         "publish_time": "06 September 2026, 04:30",
-        "news_link": "https://news.republika.co.id/berita/tkwueg3830000/bandara-soekarnohatta-ditutup-sementara-akibat-sebaran-abu-vulkanik-gunung-anak-krakatau"
+        "news_link": "https://rejabar.republika.co.id/berita/tkwueg3830000/bandara-soekarnohatta-ditutup-sementara-akibat-sebaran-abu-vulkanik-gunung-anak-krakatau"
     },
     {
         "title": "Bos Swiss-Belhotel: Investasi Hotel di Indonesia Tetap Menarik di Tengah Krisis Global",
@@ -226,77 +298,5 @@
         "category": "Ameera",
         "publish_time": "05 September 2026, 19:37",
         "news_link": "https://ameera.republika.co.id/berita/tkw5qy425/film-palestina-thirteen-in-gaza-akan-tayang-perdana-di-festival-film-toronto"
-    },
-    {
-        "title": "Tersangka Pembunuhan Mozza Terancam 15 Tahun Penjara, Motif Awal karena Cemburu",
-        "category": "News",
-        "publish_time": "05 September 2026, 18:59",
-        "news_link": "https://news.republika.co.id/berita/tkw3zk377/tersangka-pembunuhan-mozza-terancam-15-tahun-penjara-motif-awal-karena-cemburu"
-    },
-    {
-        "title": "Drama Descendants of the Sun Diadaptasi Jadi Film di Indonesia",
-        "category": "Ameera",
-        "publish_time": "05 September 2026, 18:56",
-        "news_link": "https://ameera.republika.co.id/berita/tkw3ti328/drama-descendants-of-the-sun-diadaptasi-jadi-film-di-indonesia"
-    },
-    {
-        "title": "Pemerintah Andalkan Modifikasi Cuaca dan Pasukan Darat Tangani Karhutla di Kalbar",
-        "category": "Esgnow",
-        "publish_time": "05 September 2026, 18:55",
-        "news_link": "https://esgnow.republika.co.id/berita/tkw33p423/pemerintah-andalkan-modifikasi-cuaca-dan-pasukan-darat-tangani-karhutla-di-kalbar"
-    },
-    {
-        "title": "PB IKA PMII dan LAZ Gerakin Serukan Shalat Istisqa di Tengah Rentetan Bencana",
-        "category": "Khazanah",
-        "publish_time": "05 September 2026, 18:43",
-        "news_link": "https://khazanah.republika.co.id/berita/tkw30w416/pb-ika-pmii-dan-laz-gerakin-serukan-shalat-istisqa-di-tengah-rentetan-bencana"
-    },
-    {
-        "title": "Kemarau, Debit Waduk Benanga Lempake Terus Menyusut",
-        "category": "Visual",
-        "publish_time": "05 September 2026, 18:37",
-        "news_link": "https://visual.republika.co.id/berita/tkw2yb375/kemarau-debit-waduk-benanga-lempake-terus-menyusut"
-    },
-    {
-        "title": "Pertamina Dorong Generasi Muda Pahami Strategi Pertumbuhan Ganda dan Transisi Energi",
-        "category": "Ekonomi",
-        "publish_time": "05 September 2026, 18:32",
-        "news_link": "https://ekonomi.republika.co.id/berita/tkw2pr423/pertamina-dorong-generasi-muda-pahami-strategi-pertumbuhan-ganda-dan-transisi-energi"
-    },
-    {
-        "title": "LPS Siapkan Penjaminan Polis Asuransi, Target Aktif 2027",
-        "category": "Ekonomi",
-        "publish_time": "05 September 2026, 18:25",
-        "news_link": "https://ekonomi.republika.co.id/berita/tkw1vj423/lps-siapkan-penjaminan-polis-asuransi-target-aktif-2027"
-    },
-    {
-        "title": "Indonesia Koordinasi dengan ASEAN Tangani Kabut Asap Karhutla",
-        "category": "Esgnow",
-        "publish_time": "05 September 2026, 18:06",
-        "news_link": "https://esgnow.republika.co.id/berita/tkw1id423/indonesia-koordinasi-dengan-asean-tangani-kabut-asap-karhutla"
-    },
-    {
-        "title": "Erupsi Gunung Anak Krakatau Catat Intensitas Tertinggi di Sepanjang 2026",
-        "category": "News",
-        "publish_time": "05 September 2026, 18:00",
-        "news_link": "https://news.republika.co.id/berita/tkw182328/erupsi-gunung-anak-krakatau-catat-intensitas-tertinggi-di-sepanjang-2026"
-    },
-    {
-        "title": "Berkenalan via\u00a0TikTok, Nyawa Mozza Dihabisi Kekasih karena Cemburu",
-        "category": "Rejogja",
-        "publish_time": "05 September 2026, 17:55",
-        "news_link": "https://rejogja.republika.co.id/berita/tkw10o328/berkenalan-viatiktok-nyawa-mozza-dihabisi-kekasih-karena-cemburu"
-    },
-    {
-        "title": "DBD Bisa Memburuk Saat Demam Mereda, Kenali Tanda Bahayanya",
-        "category": "Ameera",
-        "publish_time": "05 September 2026, 17:48",
-        "news_link": "https://ameera.republika.co.id/berita/tkw0pa328/dbd-bisa-memburuk-saat-demam-mereda-kenali-tanda-bahayanya"
-    },
-    {
-        "title": "Delapan Klub Voli Jakarta Berebut Gelar di AHY Cup 2026",
-        "category": "News",
-        "publish_time": "05 September 2026, 17:00",
-        "news_link": "https://news.republika.co.id/berita/tkvrkh416/delapan-klub-voli-jakarta-berebut-gelar-di-ahy-cup-2026"
     }
 ]
