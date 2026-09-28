@@ -1,44 +1,290 @@
 [
     {
+        "title": "DPR Dorong Riwayat Transaksi QRIS Jadi Basis Analisis Pembiayaan UMKM",
+        "category": "News",
+        "publish_time": "28-09-2026 21:00",
+        "news_link": "https://news.republika.co.id/berita/tm3ecg2330000/dpr-dorong-riwayat-transaksi-qris-jadi-basis-analisis-pembiayaan-umkm"
+    },
+    {
+        "title": "BP Tapera Petakan Strategi Genjot Penyaluran KPR Subsidi FLPP di Akhir 2026",
+        "category": "News",
+        "publish_time": "28-09-2026 20:45",
+        "news_link": "https://news.republika.co.id/berita/tm3dnh2330000/bp-tapera-petakan-strategi-genjot-penyaluran-kpr-subsidi-flpp-di-akhir-2026"
+    },
+    {
+        "title": "Studi Analisis Mengenai Dampak Lingkungan Hidup (AMDAL) Rencana Pembangunan Tanggul Laut (Giant Sea Wall) Segmen 12 Teluk Semarang",
+        "category": "Native",
+        "publish_time": "28-09-2026 01:00",
+        "news_link": "https://www.republika.co.id/berita/tlr6za325/studi-analisis-mengenai-dampak-lingkungan-hidup-amdal-rencana-pembangunan-tanggul-laut-giant-sea-wall-segmen-12-teluk-semarang"
+    },
+    {
+        "title": "Pemerintah Percepat Program Bedah Rumah di Jakarta Tahun Depan",
+        "category": "News",
+        "publish_time": "28-09-2026 20:30",
+        "news_link": "https://news.republika.co.id/berita/tm3cye2930000/pemerintah-percepat-program-bedah-rumah-di-jakarta-tahun-depan"
+    },
+    {
+        "title": "Reklame Raksasa 8 Lapis Roboh di Bandung, Timpa 3 Bangunan dan Mobil",
+        "category": "News",
+        "publish_time": "28-09-2026 20:15",
+        "news_link": "https://news.republika.co.id/berita/tm3c9f9130000/reklame-raksasa-8-lapis-roboh-di-bandung-timpa-3-bangunan-dan-mobil"
+    },
+    {
+        "title": "Dekranasda Solok Seleksi Produk Kerajinan Lokal Demi Tingkatkan Daya Saing Pasar",
+        "category": "News",
+        "publish_time": "28-09-2026 20:00",
+        "news_link": "https://news.republika.co.id/berita/tm3bkv1930000/dekranasda-solok-seleksi-produk-kerajinan-lokal-demi-tingkatkan-daya-saing-pasar"
+    },
+    {
+        "title": "Kementerian PU Operasikan Tiga Pompa Atasi Kekeringan Sawah di Bekasi",
+        "category": "News",
+        "publish_time": "28-09-2026 20:00",
+        "news_link": "https://news.republika.co.id/berita/tm3avh7530000/kementerian-pu-operasikan-tiga-pompa-atasi-kekeringan-sawah-di-bekasi"
+    },
+    {
+        "title": "DPRD Maluku Minta Distribusi Pinjaman Daerah Rp269 Miliar Merata ke 11 Kabupaten/Kota",
+        "category": "News",
+        "publish_time": "28-09-2026 19:00",
+        "news_link": "https://news.republika.co.id/berita/tm3a6j5830000/dprd-maluku-minta-distribusi-pinjaman-daerah-rp269-miliar-merata-ke-11-kabupatenkota"
+    },
+    {
+        "title": "Rutan Sawahlunto Perkuat Pengawasan Internal dan Razia Gabungan Cegah Narkoba",
+        "category": "News",
+        "publish_time": "28-09-2026 19:00",
+        "news_link": "https://news.republika.co.id/berita/tm39hf8130000/rutan-sawahlunto-perkuat-pengawasan-internal-dan-razia-gabungan-cegah-narkoba"
+    },
+    {
+        "title": "Pemkot Medan Gencarkan Penertiban PKL Demi Estetika dan Kenyamanan Kota",
+        "category": "News",
+        "publish_time": "28-09-2026 19:00",
+        "news_link": "https://news.republika.co.id/berita/tm38se5430000/pemkot-medan-gencarkan-penertiban-pkl-demi-estetika-dan-kenyamanan-kota"
+    },
+    {
+        "title": "Wali Kota Medan Dorong UMKM Berani Naik Kelas dan Berinovasi",
+        "category": "News",
+        "publish_time": "28-09-2026 19:00",
+        "news_link": "https://news.republika.co.id/berita/tm383h1830000/wali-kota-medan-dorong-umkm-berani-naik-kelas-dan-berinovasi"
+    },
+    {
+        "title": "DPRD Gorontalo Utara Dorong Pemda Capai Target PAD Rp69 Miliar di 2027",
+        "category": "News",
+        "publish_time": "28-09-2026 18:00",
+        "news_link": "https://news.republika.co.id/berita/tm37eh2330000/dprd-gorontalo-utara-dorong-pemda-capai-target-pad-rp69-miliar-di-2027"
+    },
+    {
+        "title": "UTM Kembangkan Budidaya Lele Bioflok Berbasis IoT untuk Ketahanan Pangan",
+        "category": "News",
+        "publish_time": "28-09-2026 18:00",
+        "news_link": "https://news.republika.co.id/berita/tm36pj7730000/utm-kembangkan-budidaya-lele-bioflok-berbasis-iot-untuk-ketahanan-pangan"
+    },
+    {
+        "title": "Brigjen Susetio Cahyadi Resmi Jabat Wakapolda Sulut Gantikan Irjen Awi Setiyono",
+        "category": "News",
+        "publish_time": "28-09-2026 18:00",
+        "news_link": "https://news.republika.co.id/berita/tm360g7530000/brigjen-susetio-cahyadi-resmi-jabat-wakapolda-sulut-gantikan-irjen-awi-setiyono"
+    },
+    {
+        "title": "DPRD Bali Dorong Pembiayaan Murah untuk Calon Pekerja Migran Kurang Mampu",
+        "category": "News",
+        "publish_time": "28-09-2026 18:00",
+        "news_link": "https://news.republika.co.id/berita/tm35bk7030000/dprd-bali-dorong-pembiayaan-murah-untuk-calon-pekerja-migran-kurang-mampu"
+    },
+    {
+        "title": "Dion Cools Bangga Malaysia Curi Poin dari Timnas Indonesia yang Main 10 Pemain",
+        "category": "News",
+        "publish_time": "28-09-2026 17:00",
+        "news_link": "https://news.republika.co.id/berita/tm34mi5830000/dion-cools-bangga-malaysia-curi-poin-dari-timnas-indonesia-yang-main-10-pemain"
+    },
+    {
+        "title": "KemenPPPA Luncurkan Program Siap, Bekali Gen Z Hadapi Masa Depan di Luar Dunia Kerja",
+        "category": "News",
+        "publish_time": "28-09-2026 17:00",
+        "news_link": "https://news.republika.co.id/berita/tm33xh4630000/kemenpppa-luncurkan-program-siap-bekali-gen-z-hadapi-masa-depan-di-luar-dunia-kerja"
+    },
+    {
+        "title": "Dramatis! 10 Pemain Timnas Indonesia Tahan Imbang Malaysia 0-0 di FIFA ASEAN Cup",
+        "category": "Visual",
+        "publish_time": "28-09-2026 17:00",
+        "news_link": "https://visual.republika.co.id/berita/tm310j375/dramatis-10-pemain-timnas-indonesia-tahan-imbang-malaysia-00-di-fifa-asean-cup"
+    },
+    {
+        "title": "Dendam dan Incar Warisan Rumah, Remaja di Bandung Setrum dan Tusuk Ibu Tiri Hingga Tewas",
+        "category": "Rejabar",
+        "publish_time": "28-09-2026 17:00",
+        "news_link": "https://rejabar.republika.co.id/berita/tm324p282/dendam-dan-incar-warisan-rumah-remaja-di-bandung-setrum-dan-tusuk-ibu-tiri-hingga-tewas"
+    },
+    {
+        "title": "Fakta Keracunan MBG di Batang Meluas: 521 Orang Jadi Korban, SPPG Di-suspend",
+        "category": "Rejogja",
+        "publish_time": "28-09-2026 17:00",
+        "news_link": "https://rejogja.republika.co.id/berita/tm31v9282/fakta-keracunan-mbg-di-batang-meluas-521-orang-jadi-korban-sppg-disuspend"
+    },
+    {
+        "title": "Gibran Dialog dengan Korban Dugaan Keracunan MBG",
+        "category": "Video",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://republika.co.id/page/shorts/yt-tm31u21481877918/gibran-dialog-dengan-korban-dugaan-keracunan-mbg"
+    },
+    {
+        "title": "Mengapa Manusia Membenci Kematian, Padahal Semua akan Mengalaminya?",
+        "category": "Khazanah",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://khazanah.republika.co.id/berita/tm2zg6320/mengapa-manusia-membenci-kematian-padahal-semua-akan-mengalaminya"
+    },
+    {
+        "title": "Gandeng Dompet Dhuafa, Cibis Night Run 2026 Padukan Olahraga dan Aksi Sosial",
+        "category": "Ameera",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://ameera.republika.co.id/berita/tm2q8g416/gandeng-dompet-dhuafa-cibis-night-run-2026-padukan-olahraga-dan-aksi-sosial"
+    },
+    {
+        "title": "Menpar Resmi Luncurkan Indonesia Tourism Outlook 2026/2027",
+        "category": "Ekonomi",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/tm30xx423/menpar-resmi-luncurkan-indonesia-tourism-outlook-20262027"
+    },
+    {
+        "title": "Diduga Hilang Kendali Lalu Terjatuh, Pengendara Motor Tewas Terlindas Mobil di Cimahi",
+        "category": "Rejabar",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://rejabar.republika.co.id/berita/tm310w282/diduga-hilang-kendali-lalu-terjatuh-pengendara-motor-tewas-terlindas-mobil-di-cimahi"
+    },
+    {
+        "title": "Jadi Penulis Kata Pengantar 'Memburu Muhammad', Nadirsyah Hosen Minta Buku Itu Dibaca Utuh",
+        "category": "Khazanah",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://khazanah.republika.co.id/berita/tm31bw483/jadi-penulis-kata-pengantar-memburu-muhammad-nadirsyah-hosen-minta-buku-itu-dibaca-utuh"
+    },
+    {
+        "title": "Kasus Influenza A Naik, Warga Diminta Kenali Gejala dan Cara Penanganannya",
+        "category": "Rejabar",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://rejabar.republika.co.id/berita/tm30di282/kasus-influenza-a-naik-warga-diminta-kenali-gejala-dan-cara-penanganannya"
+    },
+    {
+        "title": "Kalapas Cibinong Kicep Dicecar DPR soal Rumah Dinas",
+        "category": "Video",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://republika.co.id/page/shorts/yt-tm3151290175885/kalapas-cibinong-kicep-dicecar-dpr-soal-rumah-dinas"
+    },
+    {
+        "title": "Gandeng Lima Kampus di Jabodetabek, Langkah Membumi Bawa Pesan Kehidupan yang Lebih Baik",
+        "category": "News",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://news.republika.co.id/berita/tm3134483/gandeng-lima-kampus-di-jabodetabek-langkah-membumi-bawa-pesan-kehidupan-yang-lebih-baik"
+    },
+    {
+        "title": "KAI Layani 258,99 Juta Pelanggan, Pendapatan Semester I 2026 Capai Rp18 Triliun",
+        "category": "Ekonomi",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/tm30nx349/kai-layani-25899-juta-pelanggan-pendapatan-semester-i-2026-capai-rp18-triliun"
+    },
+    {
+        "title": "Hamzah Batik Tutup Sementara Pascakebakaran, Pengelola Sampaikan Permintaan Maaf",
+        "category": "Rejogja",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://rejogja.republika.co.id/berita/tm3016282/hamzah-batik-tutup-sementara-pascakebakaran-pengelola-sampaikan-permintaan-maaf"
+    },
+    {
+        "title": "27 Kampus Ikuti The Nationals Badminton 2026, Format 3 vs 3 Jadi Warna Baru",
+        "category": "News",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://news.republika.co.id/berita/tm2ypq320/27-kampus-ikuti-the-nationals-badminton-2026-format-3-vs-3-jadi-warna-baru"
+    },
+    {
+        "title": "BI Proyeksikan Ekonomi Indonesia Tumbuh Sekitar 5,2\u20146 Persen di 2027",
+        "category": "Ekonomi",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/tm30ei423/bi-proyeksikan-ekonomi-indonesia-tumbuh-sekitar-526-persen-di-2027"
+    },
+    {
+        "title": "Parkir di Trotoar, Sejumlah Kendaraan di Senopati Diderek Petugas",
+        "category": "Visual",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://visual.republika.co.id/berita/tm309h375/parkir-di-trotoar-sejumlah-kendaraan-di-senopati-diderek-petugas"
+    },
+    {
+        "title": "DPRD Jateng: Jika Proyek Geotermal Ungaran Jadi Ancaman, Hentikan!",
+        "category": "Rejogja",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://rejogja.republika.co.id/berita/tm2zs5282/dprd-jateng-jika-proyek-geotermal-ungaran-jadi-ancaman-hentikan"
+    },
+    {
+        "title": "Sejumlah Wilayah Arab Saudi akan Dilanda Badai Petir Hujan Lebat, Termasuk Makkah Madinah",
+        "category": "Khazanah",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://khazanah.republika.co.id/berita/tm2zrd320/sejumlah-wilayah-arab-saudi-akan-dilanda-badai-petir-hujan-lebat-termasuk-makkah-madinah"
+    },
+    {
+        "title": "Grup Hotel Asal Tiongkok Perluas Bisnis ke Indonesia, Bidik Pasar Asia Tenggara",
+        "category": "Ekonomi",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/tm2zgd349/grup-hotel-asal-tiongkok-perluas-bisnis-ke-indonesia-bidik-pasar-asia-tenggara"
+    },
+    {
+        "title": "Inovasi Baru di Kuningan, Calon Pengantin Dibekali Sertifikat Siap Nikah dan Siap Hamil",
+        "category": "Rejabar",
+        "publish_time": "28-09-2026 16:00",
+        "news_link": "https://rejabar.republika.co.id/berita/tm2zdl282/inovasi-baru-di-kuningan-calon-pengantin-dibekali-sertifikat-siap-nikah-dan-siap-hamil"
+    },
+    {
+        "title": "Tiga Pedagang Ketupat Tahu Tergeletak dengan Mulut Berbusa di Kamar Kontrakan, Dua Dinyatakan Tewas",
+        "category": "Rejabar",
+        "publish_time": "28-09-2026 15:00",
+        "news_link": "https://rejabar.republika.co.id/berita/tm2ywn282/tiga-pedagang-ketupat-tahu-tergeletak-dengan-mulut-berbusa-di-kamar-kontrakan-dua-dinyatakan-tewas"
+    },
+    {
+        "title": "Pemilik KMP Virgo dan Pihak Asuransi Diberi Peringatan Keras Segera Gelar Operasi Pengangkatan Kapal",
+        "category": "News",
+        "publish_time": "28-09-2026 15:00",
+        "news_link": "https://news.republika.co.id/berita/tm2y43409/pemilik-kmp-virgo-dan-pihak-asuransi-diberi-peringatan-keras-segera-gelar-operasi-pengangkatan-kapal"
+    },
+    {
+        "title": "Persaingan Ritel Makin Ketat, Mal Ubah Strategi Jaga Traffic Pengunjung",
+        "category": "Ekonomi",
+        "publish_time": "28-09-2026 15:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/tm2mdi416/persaingan-ritel-makin-ketat-mal-ubah-strategi-jaga-traffic-pengunjung"
+    },
+    {
+        "title": "Mengapa Kisah Nabi Ibrahim AS Tersebar dalam Banyak Surah Alquran?",
+        "category": "Iqra",
+        "publish_time": "28-09-2026 15:00",
+        "news_link": "https://iqra.republika.co.id/berita/tm2xm5320/mengapa-kisah-nabi-ibrahim-as-tersebar-dalam-banyak-surah-alquran"
+    },
+    {
         "title": "Heboh Fasilitas Mewah Lapas Cibinong, Lapas Banceuy Bandung Lakukan Penertiban",
         "category": "Rejabar",
-        "publish_time": "28-09-2026 14:40",
+        "publish_time": "28-09-2026 15:00",
         "news_link": "https://rejabar.republika.co.id/berita/tm2wnn282/heboh-fasilitas-mewah-lapas-cibinong-lapas-banceuy-bandung-lakukan-penertiban"
     },
     {
         "title": "Erdogan Telepon Prabowo, Bicara Kerja Sama Pertahanan dan Diplomasi",
         "category": "News",
-        "publish_time": "28-09-2026 14:34",
+        "publish_time": "28-09-2026 15:00",
         "news_link": "https://news.republika.co.id/berita/tm2wij393/erdogan-telepon-prabowo-bicara-kerja-sama-pertahanan-dan-diplomasi"
-    },
-    {
-        "title": "Studi Analisis Mengenai Dampak Lingkungan Hidup (AMDAL) Rencana Pembangunan Tanggul Laut (Giant Sea Wall) Segmen 12 Teluk Semarang",
-        "category": "Native",
-        "publish_time": "28-09-2026 00:51",
-        "news_link": "https://www.republika.co.id/berita/tlr6za325/studi-analisis-mengenai-dampak-lingkungan-hidup-amdal-rencana-pembangunan-tanggul-laut-giant-sea-wall-segmen-12-teluk-semarang"
     },
     {
         "title": "Sepuluh Pemain Indonesia Tahan Malaysia 0-0, Peluang ke Final Masih Terbuka",
         "category": "News",
-        "publish_time": "28-09-2026 14:33",
+        "publish_time": "28-09-2026 15:00",
         "news_link": "https://news.republika.co.id/berita/tm2wg3348/sepuluh-pemain-indonesia-tahan-malaysia-00-peluang-ke-final-masih-terbuka"
     },
     {
         "title": "KPK Cium Dugaan Suap di Fasilitas Mewah Lapas Cibinong",
         "category": "Rejabar",
-        "publish_time": "28-09-2026 14:30",
+        "publish_time": "28-09-2026 14:00",
         "news_link": "https://rejabar.republika.co.id/berita/tm2wbi282/kpk-cium-dugaan-suap-di-fasilitas-mewah-lapas-cibinong"
     },
     {
         "title": "Program Air Bersih dan EQUIP STM Raih Penghargaan Desa Berkelanjutan",
         "category": "Esgnow",
-        "publish_time": "28-09-2026 14:26",
+        "publish_time": "28-09-2026 14:00",
         "news_link": "https://esgnow.republika.co.id/berita/tm2l8m370/program-air-bersih-dan-equip-stm-raih-penghargaan-desa-berkelanjutan"
     },
     {
         "title": "Buah Naga Banyuwangi Kini Naik Kereta ke Jakarta",
         "category": "News",
-        "publish_time": "28-09-2026 14:02",
+        "publish_time": "28-09-2026 14:00",
         "news_link": "https://news.republika.co.id/berita/tm2spu451/buah-naga-banyuwangi-kini-naik-kereta-ke-jakarta"
     },
     {
@@ -50,259 +296,13 @@
     {
         "title": "Apa yang Dilakukan Penguasa Ottoman Sultan Abdul Hamid II untuk Lindungi dan Persatukan Umat?",
         "category": "Khazanah",
-        "publish_time": "28-09-2026 13:59",
+        "publish_time": "28-09-2026 14:00",
         "news_link": "https://khazanah.republika.co.id/berita/tm2u0r320/apa-yang-dilakukan-penguasa-ottoman-sultan-abdul-hamid-ii-untuk-lindungi-dan-persatukan-umat"
     },
     {
         "title": "Sekpri Meminta Gus Lilur Tak Lagi Menyeret Nama Kiai Said dalam Polemik Muktamar NU",
         "category": "Khazanah",
-        "publish_time": "28-09-2026 13:56",
+        "publish_time": "28-09-2026 14:00",
         "news_link": "https://khazanah.republika.co.id/berita/tm2uqb320/sekpri-meminta-gus-lilur-tak-lagi-menyeret-nama-kiai-said-dalam-polemik-muktamar-nu"
-    },
-    {
-        "title": "Viral Suvenir Nikahan Anak Ayam Ditelantarkan, Pengantin Minta Maaf",
-        "category": "Ameera",
-        "publish_time": "28-09-2026 13:51",
-        "news_link": "https://ameera.republika.co.id/berita/tm2u3h425/viral-suvenir-nikahan-anak-ayam-ditelantarkan-pengantin-minta-maaf"
-    },
-    {
-        "title": "Majalengka Negoisasi Pusat, LP2B Turun Jadi 40.800 Hektare",
-        "category": "Rejabar",
-        "publish_time": "28-09-2026 13:51",
-        "news_link": "https://rejabar.republika.co.id/berita/tm2tj6282/majalengka-negoisasi-pusat-lp2b-turun-jadi-40800-hektare"
-    },
-    {
-        "title": "Thom Haye Kartu Merah, Indonesia Vs Malaysia tanpa Gol pada Babak Pertama",
-        "category": "News",
-        "publish_time": "28-09-2026 13:51",
-        "news_link": "https://news.republika.co.id/berita/tm2tfy348/thom-haye-kartu-merah-indonesia-vs-malaysia-tanpa-gol-pada-babak-pertama"
-    },
-    {
-        "title": "Industri Baja Hadapi Tekanan Impor, IISIA Siapkan Enam Agenda Strategis",
-        "category": "Ekonomi",
-        "publish_time": "28-09-2026 12:51",
-        "news_link": "https://ekonomi.republika.co.id/berita/tm2szt416/industri-baja-hadapi-tekanan-impor-iisia-siapkan-enam-agenda-strategis"
-    },
-    {
-        "title": "Viral Konten Banyak Manajer Kopdes Protes Penempatan Jauh dari Domisili, Menkop: 85 Persen Bersedia",
-        "category": "News",
-        "publish_time": "28-09-2026 12:51",
-        "news_link": "https://news.republika.co.id/berita/tm2swx409/viral-konten-banyak-manajer-kopdes-protes-penempatan-jauh-dari-domisili-menkop-85-persen-bersedia"
-    },
-    {
-        "title": "Kemenkes Nilai Belum Ada Lonjakan Pasien di IGD Akibat Influenza",
-        "category": "Ameera",
-        "publish_time": "28-09-2026 12:51",
-        "news_link": "https://ameera.republika.co.id/berita/tm2sq3328/kemenkes-nilai-belum-ada-lonjakan-pasien-di-igd-akibat-influenza"
-    },
-    {
-        "title": "Dana Abadi LPDP Bertambah Rp15 Triliun, Pemerintah Perkuat Riset dan Talenta",
-        "category": "Ekonomi",
-        "publish_time": "28-09-2026 12:51",
-        "news_link": "https://ekonomi.republika.co.id/berita/tm2s9k416/dana-abadi-lpdp-bertambah-rp15-triliun-pemerintah-perkuat-riset-dan-talenta"
-    },
-    {
-        "title": "KPK Pertanyakan Sumber Dana Pembangunan 13 Rumah Dinas di Lapas Cibinong",
-        "category": "News",
-        "publish_time": "28-09-2026 12:51",
-        "news_link": "https://news.republika.co.id/berita/tm2s6l484/kpk-pertanyakan-sumber-dana-pembangunan-13-rumah-dinas-di-lapas-cibinong"
-    },
-    {
-        "title": "Jelang MotoGP Mandalika 2026, Polri Gelar Simulasi Pengamanan",
-        "category": "Visual",
-        "publish_time": "28-09-2026 12:51",
-        "news_link": "https://visual.republika.co.id/berita/tm2gyz375/jelang-motogp-mandalika-2026-polri-gelar-simulasi-pengamanan"
-    },
-    {
-        "title": "Sistem Pertahanan Houthi Kini Dibekali Rudal Jelajah Canggih Iran, Peta Perang Berubah?",
-        "category": "Khazanah",
-        "publish_time": "28-09-2026 12:51",
-        "news_link": "https://khazanah.republika.co.id/berita/tm2rjj320/sistem-pertahanan-houthi-kini-dibekali-rudal-jelajah-canggih-iran-peta-perang-berubah"
-    },
-    {
-        "title": "Hotspot Karhutla Nasional Naik 228 Titik",
-        "category": "Esgnow",
-        "publish_time": "28-09-2026 12:51",
-        "news_link": "https://esgnow.republika.co.id/berita/tm2p4w423/hotspot-karhutla-nasional-naik-228-titik"
-    },
-    {
-        "title": "Kasus Influenza A Masih Tinggi, Kenali Gejala dan Cara Pencegahannya",
-        "category": "Ameera",
-        "publish_time": "28-09-2026 12:51",
-        "news_link": "https://ameera.republika.co.id/berita/tm2r8i425/kasus-influenza-a-masih-tinggi-kenali-gejala-dan-cara-pencegahannya"
-    },
-    {
-        "title": "Jangan Asal Pilih Popok Bayi, Dokter Ungkap Alasannya",
-        "category": "Ameera",
-        "publish_time": "28-09-2026 12:51",
-        "news_link": "https://ameera.republika.co.id/berita/tm2r0x451/jangan-asal-pilih-popok-bayi-dokter-ungkap-alasannya"
-    },
-    {
-        "title": "Quality Time Keluarga tak Harus Lama, yang Penting Hadir Bersama",
-        "category": "Ameera",
-        "publish_time": "28-09-2026 12:51",
-        "news_link": "https://ameera.republika.co.id/berita/tm2qh5328/quality-time-keluarga-tak-harus-lama-yang-penting-hadir-bersama"
-    },
-    {
-        "title": "Refleksi Satu Abad Gontor:\u00a0Menakar Ulang Keikhlasan Para Pegiat Dakwah",
-        "category": "Kolom",
-        "publish_time": "28-09-2026 12:51",
-        "news_link": "https://analisis.republika.co.id/berita/tm2ibo393/refleksi-satu-abad-gontormenakar-ulang-keikhlasan-para-pegiat-dakwah"
-    },
-    {
-        "title": "Menolak Menyerah pada Keadaan, Lika-Liku Hanafi Dirgantara Sampai Masuk Dunia IT",
-        "category": "News",
-        "publish_time": "28-09-2026 11:51",
-        "news_link": "https://news.republika.co.id/berita/tm2ce6370/menolak-menyerah-pada-keadaan-likaliku-hanafi-dirgantara-sampai-masuk-dunia-it"
-    },
-    {
-        "title": "Di Harlah ke-33, PERWATT Tegaskan Peran Perempuan dan Sampaikan Gagasan Ekosistem Haji",
-        "category": "Khazanah",
-        "publish_time": "28-09-2026 11:51",
-        "news_link": "https://khazanah.republika.co.id/berita/tm2psz320/di-harlah-ke33-perwatt-tegaskan-peran-perempuan-dan-sampaikan-gagasan-ekosistem-haji"
-    },
-    {
-        "title": "Google Earth Akhirnya Tampilkan Kehancuran di Gaza, Ini Penampakannya",
-        "category": "News",
-        "publish_time": "28-09-2026 11:51",
-        "news_link": "https://news.republika.co.id/berita/tm2psu393/google-earth-akhirnya-tampilkan-kehancuran-di-gaza-ini-penampakannya"
-    },
-    {
-        "title": "Sel Bak Apartemen, Simulator Golf Hingga Miras di Lapas Cibinong Milik Siapa? Ini Kata Dirjenpas",
-        "category": "News",
-        "publish_time": "28-09-2026 11:51",
-        "news_link": "https://news.republika.co.id/berita/tm2pri409/sel-bak-apartemen-simulator-golf-hingga-miras-di-lapas-cibinong-milik-siapa-ini-kata-dirjenpas"
-    },
-    {
-        "title": "Bukan Super Flu, Justru H1N1 yang Lebih Banyak Beredar",
-        "category": "Ameera",
-        "publish_time": "28-09-2026 11:51",
-        "news_link": "https://ameera.republika.co.id/berita/tm2pkf328/bukan-super-flu-justru-h1n1-yang-lebih-banyak-beredar"
-    },
-    {
-        "title": "Kasus Influenza A di Bandung Meningkat, Warga Diimbau Waspada",
-        "category": "Visual",
-        "publish_time": "28-09-2026 11:51",
-        "news_link": "https://visual.republika.co.id/berita/tm2gkd375/kasus-influenza-a-di-bandung-meningkat-warga-diimbau-waspada"
-    },
-    {
-        "title": "Indonesia Vs Malaysia: John Herdman Ubah Satu Pemain, Thom Haye Jadi Starter Gantikan Mitch",
-        "category": "News",
-        "publish_time": "28-09-2026 11:51",
-        "news_link": "https://news.republika.co.id/berita/tm2p9f348/indonesia-vs-malaysia-john-herdman-ubah-satu-pemain-thom-haye-jadi-starter-gantikan-mitch"
-    },
-    {
-        "title": "Kemenkes Tegaskan Obat Antivirus Oseltavimir tidak Boleh Dibeli Sembarangan",
-        "category": "Ameera",
-        "publish_time": "28-09-2026 11:51",
-        "news_link": "https://ameera.republika.co.id/berita/tm2p4r328/kemenkes-tegaskan-obat-antivirus-oseltavimir-tidak-boleh-dibeli-sembarangan"
-    },
-    {
-        "title": "Rupiah Melemah Hampir Rp 18.000 per Dolar AS, Ekonom Ungkap Faktor Penyebabnya",
-        "category": "Ekonomi",
-        "publish_time": "28-09-2026 11:51",
-        "news_link": "https://ekonomi.republika.co.id/berita/tm2oqa423/rupiah-melemah-hampir-rp-18000-per-dolar-as-ekonom-ungkap-faktor-penyebabnya"
-    },
-    {
-        "title": "Indonesia Asri Society Resmi Dibentuk, Dorong Kolaborasi Pembangunan Berkelanjutan",
-        "category": "News",
-        "publish_time": "28-09-2026 11:51",
-        "news_link": "https://news.republika.co.id/berita/tm1w7i451/indonesia-asri-society-resmi-dibentuk-dorong-kolaborasi-pembangunan-berkelanjutan"
-    },
-    {
-        "title": "Sertifikasi dan Promosi Jadi Fokus Kemenperin Bantu Industri Kecil Halal",
-        "category": "Ekonomi Syariah",
-        "publish_time": "28-09-2026 11:51",
-        "news_link": "https://sharia.republika.co.id/berita/tm2nmr349/sertifikasi-dan-promosi-jadi-fokus-kemenperin-bantu-industri-kecil-halal"
-    },
-    {
-        "title": "Kisah Rilla, Mahasiswi UBSI yang Sukses Bangun Bisnis MUA Mandiri",
-        "category": "News",
-        "publish_time": "28-09-2026 10:51",
-        "news_link": "https://news.republika.co.id/berita/tm2bxy370/kisah-rilla-mahasiswi-ubsi-yang-sukses-bangun-bisnis-mua-mandiri"
-    },
-    {
-        "title": "12 Ranpur Amfibi AAV M-35 Perkuat Korps Marinir TNI AL",
-        "category": "Visual",
-        "publish_time": "28-09-2026 10:51",
-        "news_link": "https://visual.republika.co.id/berita/tm2g55375/12-ranpur-amfibi-aav-m35-perkuat-korps-marinir-tni-al"
-    },
-    {
-        "title": "Beras Premium Langka di Ritel Jabar, Mentan Amran Siapkan Penguatan Pasokan hingga Tiga Kali Lipat",
-        "category": "Ekonomi",
-        "publish_time": "28-09-2026 10:51",
-        "news_link": "https://ekonomi.republika.co.id/berita/tm2mkl423/beras-premium-langka-di-ritel-jabar-mentan-amran-siapkan-penguatan-pasokan-hingga-tiga-kali-lipat"
-    },
-    {
-        "title": "Inhealth Gelar Health & Wellness Festival, Ajak Peserta Terapkan Pola Hidup Sehat",
-        "category": "Ameera",
-        "publish_time": "28-09-2026 10:51",
-        "news_link": "https://ameera.republika.co.id/berita/tm2ln1416/inhealth-gelar-health-wellness-festival-ajak-peserta-terapkan-pola-hidup-sehat"
-    },
-    {
-        "title": "ESDM Perkuat Tata Kelola Tambang untuk Tingkatkan Nilai Ekonomi Mineral",
-        "category": "Ekonomi",
-        "publish_time": "28-09-2026 10:51",
-        "news_link": "https://ekonomi.republika.co.id/berita/tm2m2j430/esdm-perkuat-tata-kelola-tambang-untuk-tingkatkan-nilai-ekonomi-mineral"
-    },
-    {
-        "title": "Anggota DPD: Persoalan Papua tak Bisa Diselesaikan dengan Pemberantasan KKB",
-        "category": "News",
-        "publish_time": "28-09-2026 10:51",
-        "news_link": "https://news.republika.co.id/berita/tm2lj5393/anggota-dpd-persoalan-papua-tak-bisa-diselesaikan-dengan-pemberantasan-kkb"
-    },
-    {
-        "title": "Ratusan Muslim India Memprotes Rencana Pembongkaran Masjid Berusia 600 Tahun",
-        "category": "Khazanah",
-        "publish_time": "28-09-2026 10:51",
-        "news_link": "https://khazanah.republika.co.id/berita/tm2lhi430/ratusan-muslim-india-memprotes-rencana-pembongkaran-masjid-berusia-600-tahun"
-    },
-    {
-        "title": "BPDP Dorong Hilirisasi Komoditas Perkebunan di Ekosistem Industri Halal",
-        "category": "Ekonomi",
-        "publish_time": "28-09-2026 10:51",
-        "news_link": "https://ekonomi.republika.co.id/berita/tm2lh3349/bpdp-dorong-hilirisasi-komoditas-perkebunan-di-ekosistem-industri-halal"
-    },
-    {
-        "title": "KH Fahmi Salim: Ibadah Haji Harus Melahirkan Kesadaran untuk Mewujudkan Perdamaian Dunia",
-        "category": "Khazanah",
-        "publish_time": "28-09-2026 10:51",
-        "news_link": "https://khazanah.republika.co.id/berita/tm2l87430/kh-fahmi-salim-ibadah-haji-harus-melahirkan-kesadaran-untuk-mewujudkan-perdamaian-dunia"
-    },
-    {
-        "title": "Tantangan Mengembangkan Ekonomi Syariah di Negara dengan Mayoritas Islam (KTP)",
-        "category": "Kolom",
-        "publish_time": "28-09-2026 10:51",
-        "news_link": "https://analisis.republika.co.id/berita/tm28d1502/tantangan-mengembangkan-ekonomi-syariah-di-negara-dengan-mayoritas-islam-ktp"
-    },
-    {
-        "title": "Pesan Tiket PELNI Kini Bisa 60 Hari Sebelum Keberangkatan, Berlaku untuk 16 Kapal",
-        "category": "Ekonomi",
-        "publish_time": "28-09-2026 10:51",
-        "news_link": "https://ekonomi.republika.co.id/berita/tm2l1r349/pesan-tiket-pelni-kini-bisa-60-hari-sebelum-keberangkatan-berlaku-untuk-16-kapal"
-    },
-    {
-        "title": "Identitas Dua Napi yang Berada di Fasilitas Mewah Lapas Cibinong Saat Sidak Ombudsman Terungkap",
-        "category": "News",
-        "publish_time": "28-09-2026 09:51",
-        "news_link": "https://news.republika.co.id/berita/tm2kjz409/identitas-dua-napi-yang-berada-di-fasilitas-mewah-lapas-cibinong-saat-sidak-ombudsman-terungkap"
-    },
-    {
-        "title": "Jasmerah Kebencanaan",
-        "category": "Kolom",
-        "publish_time": "28-09-2026 09:51",
-        "news_link": "https://analisis.republika.co.id/berita/tm2kgm430/jasmerah-kebencanaan"
-    },
-    {
-        "title": "Kisah Inspiratif Ina Zafira, Lulusan Tangguh dari UBSI Kampus Margonda",
-        "category": "News",
-        "publish_time": "28-09-2026 09:51",
-        "news_link": "https://news.republika.co.id/berita/tm2bpb370/kisah-inspiratif-ina-zafira-lulusan-tangguh-dari-ubsi-kampus-margonda"
-    },
-    {
-        "title": "Enam Kendaraan Terlibat Kecelakaan Beruntun di Cakung, Satu Pengendara Terluka",
-        "category": "Visual",
-        "publish_time": "28-09-2026 09:51",
-        "news_link": "https://visual.republika.co.id/berita/tm2frt375/enam-kendaraan-terlibat-kecelakaan-beruntun-di-cakung-satu-pengendara-terluka"
     }
 ]
