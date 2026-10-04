@@ -1,5 +1,101 @@
 [
     {
+        "title": "InJourney Airports Siapkan 3 Bandara Utama Dukung MotoGP Mandalika 2026",
+        "category": "Ekonomi",
+        "publish_time": "04 October 2026, 09:01",
+        "news_link": "https://ekonomi.republika.co.id/berita/tmd1m0370/injourney-airports-siapkan-3-bandara-utama-dukung-motogp-mandalika-2026"
+    },
+    {
+        "title": "Jembatan Rusak Tak Kunjung Diperbaiki, Warga Nagan Raya Andalkan Perahu untuk Menyeberang",
+        "category": "Visual",
+        "publish_time": "04 October 2026, 09:00",
+        "news_link": "https://visual.republika.co.id/berita/tmcb28375/jembatan-rusak-tak-kunjung-diperbaiki-warga-nagan-raya-andalkan-perahu-untuk-menyeberang"
+    },
+    {
+        "title": "Dari Wastra ke Gaya Sehari-hari, Ragam Bentala Perluas Cerita Batik Indonesia bersama Shopee",
+        "category": "Ekonomi",
+        "publish_time": "04 October 2026, 08:55",
+        "news_link": "https://ekonomi.republika.co.id/berita/tmbufc423/dari-wastra-ke-gaya-seharihari-ragam-bentala-perluas-cerita-batik-indonesia-bersama-shopee"
+    },
+    {
+        "title": "Houthi Serang Aramco di Ibu Kota Saudi dengan Drone dan Rudal Balistik",
+        "category": "Khazanah",
+        "publish_time": "04 October 2026, 08:41",
+        "news_link": "https://khazanah.republika.co.id/berita/tmcspb483/houthi-serang-aramco-di-ibu-kota-saudi-dengan-drone-dan-rudal-balistik"
+    },
+    {
+        "title": "Gereja Ortodoks Lepas Kepergian Ibu dan Anak di Gaza",
+        "category": "Video",
+        "publish_time": "04 October 2026, 08:15",
+        "news_link": "https://republika.co.id/page/shorts/yt-tmczh21685094948/gereja-ortodoks-lepas-kepergian-ibu-dan-anak-di-gaza"
+    },
+    {
+        "title": "Baru 5 Bulan Menjabat, Kapolda Jabar Irjen Pipit Rismanto Diganti Hengki",
+        "category": "News",
+        "publish_time": "04 October 2026, 08:12",
+        "news_link": "https://news.republika.co.id/berita/tmczdf377/baru-5-bulan-menjabat-kapolda-jabar-irjen-pipit-rismanto-diganti-hengki"
+    },
+    {
+        "title": "Menhub Tegaskan Keselamatan Transportasi Jadi Fokus Utama Hadapi Musim Penghujan",
+        "category": "Ekonomi",
+        "publish_time": "04 October 2026, 07:52",
+        "news_link": "https://ekonomi.republika.co.id/berita/tmcyer370/menhub-tegaskan-keselamatan-transportasi-jadi-fokus-utama-hadapi-musim-penghujan"
+    },
+    {
+        "title": "Dirjen Basnang Dorong Pesantren Urus Legalitas",
+        "category": "Khazanah",
+        "publish_time": "04 October 2026, 07:40",
+        "news_link": "https://khazanah.republika.co.id/berita/tmcbvk483/dirjen-basnang-dorong-pesantren-urus-legalitas"
+    },
+    {
+        "title": "Sekjen MUI: Pembongkaran Masjid di India Bagian dari Islamofobia",
+        "category": "Khazanah",
+        "publish_time": "04 October 2026, 07:31",
+        "news_link": "https://khazanah.republika.co.id/berita/tmcbfn483/sekjen-mui-pembongkaran-masjid-di-india-bagian-dari-islamofobia"
+    },
+    {
+        "title": "Israel Bunuh Perempuan Kristen Pelayan Gereja dan Anaknya di Gaza",
+        "category": "News",
+        "publish_time": "04 October 2026, 07:03",
+        "news_link": "https://news.republika.co.id/berita/tmcw1q393/israel-bunuh-perempuan-kristen-pelayan-gereja-dan-anaknya-di-gaza"
+    },
+    {
+        "title": "Mengenalkan Betawi Lewat Motif Batik yang Penuh Cerita",
+        "category": "Visual",
+        "publish_time": "04 October 2026, 07:00",
+        "news_link": "https://visual.republika.co.id/berita/tmcav1375/mengenalkan-betawi-lewat-motif-batik-yang-penuh-cerita"
+    },
+    {
+        "title": "Belanja Buku Ala Gen-Z: Minat Besar Pilih Platform Digital",
+        "category": "Khazanah",
+        "publish_time": "04 October 2026, 06:22",
+        "news_link": "https://khazanah.republika.co.id/berita/tmcagz483/belanja-buku-ala-genz-minat-besar-pilih-platform-digital"
+    },
+    {
+        "title": "Kapal Tradisional Bisa Jadi Feeder Transportasi ke Kepulauan Seribu",
+        "category": "News",
+        "publish_time": "04 October 2026, 06:21",
+        "news_link": "https://news.republika.co.id/berita/tmcu87393/kapal-tradisional-bisa-jadi-feeder-transportasi-ke-kepulauan-seribu"
+    },
+    {
+        "title": "Ramainya IIBF dan Bangkitnya Minat Baca Generasi Muda",
+        "category": "News",
+        "publish_time": "04 October 2026, 06:08",
+        "news_link": "https://news.republika.co.id/berita/tmctjh393/ramainya-iibf-dan-bangkitnya-minat-baca-generasi-muda"
+    },
+    {
+        "title": "Perkemahan Pramuka Santri, Sedekah Oksigen dengan Seribu Pohon",
+        "category": "Khazanah",
+        "publish_time": "04 October 2026, 06:01",
+        "news_link": "https://khazanah.republika.co.id/berita/tmc9ui483/perkemahan-pramuka-santri-sedekah-oksigen-dengan-seribu-pohon"
+    },
+    {
+        "title": "BMKG: Hujan Diprediksi Guyur Jakarta Timur dan Selatan Mulai Minggu Sore",
+        "category": "News",
+        "publish_time": "04 October 2026, 05:45",
+        "news_link": "https://news.republika.co.id/berita/tmcsjb5330000/bmkg-hujan-diprediksi-guyur-jakarta-timur-dan-selatan-mulai-minggu-sore"
+    },
+    {
         "title": "Gus Nabil Bawa Misi Pencak Silat ke Hong Kong",
         "category": "Khazanah",
         "publish_time": "04 October 2026, 05:32",
@@ -16,6 +112,12 @@
         "category": "Iqra",
         "publish_time": "04 October 2026, 04:58",
         "news_link": "https://iqra.republika.co.id/berita/tmcqd8320/jauh-sebelum-isaac-newton-alquran-berikan-isyarat-ilmiah-tentang-gravitasi-bumi"
+    },
+    {
+        "title": "Postidar 98 Resolution Network Makna 2 Tahun Prabowo-Gibran dengan Berbagi",
+        "category": "Rejakarta",
+        "publish_time": "04 October 2026, 04:42",
+        "news_link": "https://republika.co.id/berita//tmcpm7320/postidar-98-resolution-network-makna-2-tahun-prabowo-gibran-dengan-berbagi"
     },
     {
         "title": "Progres 95 Persen, Jembatan Paledang-Pasir Jaya Bogor Siap Diresmikan Oktober",
@@ -196,107 +298,5 @@
         "category": "News",
         "publish_time": "03 October 2026, 20:03",
         "news_link": "https://news.republika.co.id/berita/tmbtfd451/arf-rangkap-jabatan-menko-bahlil-perjelas-koordinasi-dan-percepat-eksekusi-hilirisasi"
-    },
-    {
-        "title": "Saat Pecinta Buku Berburu Bacaan di IIBF 2026",
-        "category": "Visual",
-        "publish_time": "03 October 2026, 20:00",
-        "news_link": "https://visual.republika.co.id/berita/tmbyng375/saat-pecinta-buku-berburu-bacaan-di-iibf-2026"
-    },
-    {
-        "title": "Literasi Kemaritiman Diperkuat, PIS Kenalkan Dunia Laut kepada Siswa Pesisir",
-        "category": "Esgnow",
-        "publish_time": "03 October 2026, 19:53",
-        "news_link": "https://esgnow.republika.co.id/berita/tmc14w522/literasi-kemaritiman-diperkuat-pis-kenalkan-dunia-laut-kepada-siswa-pesisir"
-    },
-    {
-        "title": "Mandat Bahlil Diperluas, Akademisi Soroti Pentingnya Sinkronisasi Hilirisasi dan Energi",
-        "category": "Ekonomi",
-        "publish_time": "03 October 2026, 19:51",
-        "news_link": "https://ekonomi.republika.co.id/berita/tmc11u522/mandat-bahlil-diperluas-akademisi-soroti-pentingnya-sinkronisasi-hilirisasi-dan-energi"
-    },
-    {
-        "title": "Eskalator di Stasiun Duri Tiba-Tiba Berbalik Arah Turun, 12 Orang Luka-Luka",
-        "category": "News",
-        "publish_time": "03 October 2026, 19:27",
-        "news_link": "https://news.republika.co.id/berita/tmbzxy409/eskalator-di-stasiun-duri-tibatiba-berbalik-arah-turun-12-orang-lukaluka"
-    },
-    {
-        "title": "AI Fatigue: Lelah dengan Kecerdasan Buatan",
-        "category": "Rejogja",
-        "publish_time": "03 October 2026, 19:21",
-        "news_link": "https://rejogja.republika.co.id/berita/tmbzoj291/ai-fatigue-lelah-dengan-kecerdasan-buatan"
-    },
-    {
-        "title": "Gebyar Lelang BRI 2026 di 74 Lokasi, Cek Pilihan Properti untuk Hunian hingga Investasi",
-        "category": "Ekonomi",
-        "publish_time": "03 October 2026, 19:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/tmbze4423/gebyar-lelang-bri-2026-di-74-lokasi-cek-pilihan-properti-untuk-hunian-hingga-investasi"
-    },
-    {
-        "title": "Maxim Indonesia Sayangkan Aksi Penyegelan Kantor Cabangnya di Yogyakarta",
-        "category": "Rejogja",
-        "publish_time": "03 October 2026, 19:15",
-        "news_link": "https://rejogja.republika.co.id/berita/tmbzdn291/maxim-indonesia-sayangkan-aksi-penyegelan-kantor-cabangnya-di-yogyakarta"
-    },
-    {
-        "title": "Honda Perluas Jaringan Diler ke Empat Wilayah di Sulawesi dan Kalimantan",
-        "category": "Ekonomi",
-        "publish_time": "03 October 2026, 19:15",
-        "news_link": "https://ekonomi.republika.co.id/berita/tmbyt6348/honda-perluas-jaringan-diler-ke-empat-wilayah-di-sulawesi-dan-kalimantan"
-    },
-    {
-        "title": "BPD DIY Kembali Gelar Malioboro Run, 8.000 Pelari Berpartisipasi Mayoritas dari Luar Yogyakarta",
-        "category": "Rejogja",
-        "publish_time": "03 October 2026, 19:02",
-        "news_link": "https://rejogja.republika.co.id/berita/tmbyrf291/bpd-diy-kembali-gelar-malioboro-run-8000-pelari-berpartisipasi-mayoritas-dari-luar-yogyakarta"
-    },
-    {
-        "title": "Pemkab Majalengka Fasilitasi TKW Pulang dari Yordania Bersama Lima Anak",
-        "category": "Rejabar",
-        "publish_time": "03 October 2026, 18:53",
-        "news_link": "https://rejabar.republika.co.id/berita/tmbyd1282/pemkab-majalengka-fasilitasi-tkw-pulang-dari-yordania-bersama-lima-anak"
-    },
-    {
-        "title": "Drama Tiga Set, Sepak Takraw Putra Indonesia Raih Medali Perak Asian Games 2026",
-        "category": "Visual",
-        "publish_time": "03 October 2026, 18:52",
-        "news_link": "https://visual.republika.co.id/berita/tmbyb1375/drama-tiga-set-sepak-takraw-putra-indonesia-raih-medali-perak-asian-games-2026"
-    },
-    {
-        "title": "Kalah di Final Asian Games, Fitriani/Fadona Siap Kembali Lebih Kuat di Kualifikasi Piala Dunia Padel",
-        "category": "News",
-        "publish_time": "03 October 2026, 18:50",
-        "news_link": "https://news.republika.co.id/berita/tmbxdc348/kalah-di-final-asian-games-fitrianifadona-siap-kembali-lebih-kuat-di-kualifikasi-piala-dunia-padel"
-    },
-    {
-        "title": "WIG 2026 di Yogyakarta Pertemukan Stakeholder Bicarakan Gastronomi untuk Bangun Narasi Global",
-        "category": "Rejogja",
-        "publish_time": "03 October 2026, 18:41",
-        "news_link": "https://rejogja.republika.co.id/berita/tmbxta291/wig-2026-di-yogyakarta-pertemukan-stakeholder-bicarakan-gastronomi-untuk-bangun-narasi-global"
-    },
-    {
-        "title": "85 Persen Penyebab Kecelakaan di Tol Cipali Akibat Sopir Mengantuk dan Kelelahan",
-        "category": "Rejabar",
-        "publish_time": "03 October 2026, 18:38",
-        "news_link": "https://rejabar.republika.co.id/berita/tmbxof282/85-persen-penyebab-kecelakaan-di-tol-cipali-akibat-sopir-mengantuk-dan-kelelahan"
-    },
-    {
-        "title": "Indonesia Peringkat Dua TB Dunia, UMI Siapkan Tim Multidisiplin",
-        "category": "News",
-        "publish_time": "03 October 2026, 18:33",
-        "news_link": "https://news.republika.co.id/berita/tmbuvd451/indonesia-peringkat-dua-tb-dunia-umi-siapkan-tim-multidisiplin"
-    },
-    {
-        "title": "Pagar Nusa NU Perkuat Diplomasi Budaya Indonesia di Hong Kong",
-        "category": "Khazanah",
-        "publish_time": "03 October 2026, 18:28",
-        "news_link": "https://khazanah.republika.co.id/berita/tmbx7x320/pagar-nusa-nu-perkuat-diplomasi-budaya-indonesia-di-hong-kong"
-    },
-    {
-        "title": "Mahasiswa Jerman dan Akademisi RI Rancang Masa Depan Kawasan Transmigrasi Barelang",
-        "category": "Resumatra",
-        "publish_time": "03 October 2026, 18:22",
-        "news_link": "https://republika.co.id/berita//tmbwy8483/mahasiswa-jerman-dan-akademisi-ri-rancang-masa-depan-kawasan-transmigrasi-barelang"
     }
 ]
