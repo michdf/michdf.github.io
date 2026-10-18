@@ -1,5 +1,167 @@
 [
     {
+        "title": "Sebelum Tirai Dibuka",
+        "category": "Opini",
+        "publish_time": "18 October 2026, 14:29",
+        "news_link": "https://opini.republika.co.id/berita/tn3e5u415/sebelum-tirai-dibuka"
+    },
+    {
+        "title": "Selain Indonesia, MSCI Juga Ancam Turunkan Status Bursa Turki",
+        "category": "News",
+        "publish_time": "18 October 2026, 14:16",
+        "news_link": "https://news.republika.co.id/berita/tn3djn484/selain-indonesia-msci-juga-ancam-turunkan-status-bursa-turki"
+    },
+    {
+        "title": "MUI Ingatkan Penundaan Wajib Halal 2026 Picu Krisis Kepercayaan Publik",
+        "category": "Halalhub",
+        "publish_time": "18 October 2026, 14:14",
+        "news_link": "https://halalhub.republika.co.id/berita/tn3cbn423/mui-ingatkan-penundaan-wajib-halal-2026-picu-krisis-kepercayaan-publik"
+    },
+    {
+        "title": "Demo Ricuh di Prancis, Gedung Publik Terbakar dan Toko Dijarah",
+        "category": "Visual",
+        "publish_time": "18 October 2026, 14:00",
+        "news_link": "https://visual.republika.co.id/berita/tn3au5375/demo-ricuh-di-prancis-gedung-publik-terbakar-dan-toko-dijarah"
+    },
+    {
+        "title": "LPH PP Persis Percepat Sertifikasi Halal UMKM",
+        "category": "Halalhub",
+        "publish_time": "18 October 2026, 13:55",
+        "news_link": "https://halalhub.republika.co.id/berita/tn3bsx423/lph-pp-persis-percepat-sertifikasi-halal-umkm"
+    },
+    {
+        "title": "FP Run for Good Journalism 2026 Dorong Jurnalisme Sehat",
+        "category": "Ameera",
+        "publish_time": "18 October 2026, 13:45",
+        "news_link": "https://ameera.republika.co.id/berita/tn3bkd423/fp-run-for-good-journalism-2026-dorong-jurnalisme-sehat"
+    },
+    {
+        "title": "Inovasi Board Game Anti-Bullying Berbasis NFC, SD Muhammadiyah Sapen Raih Emas pada ISIF 2026",
+        "category": "Rejogja",
+        "publish_time": "18 October 2026, 13:44",
+        "news_link": "https://rejogja.republika.co.id/berita/tn3c20291/inovasi-board-game-antibullying-berbasis-nfc-sd-muhammadiyah-sapen-raih-emas-pada-isif-2026"
+    },
+    {
+        "title": "Kolaborasi Kementan-PIAT UGM Dorong Produksi Padi Gamagora 7",
+        "category": "Rejogja",
+        "publish_time": "18 October 2026, 13:38",
+        "news_link": "https://rejogja.republika.co.id/berita/tn3brz291/kolaborasi-kementanpiat-ugm-dorong-produksi-padi-gamagora-7"
+    },
+    {
+        "title": "PSIM Jogja Akhiri Kerja Sama dengan Pelatih Jean-Paul van Gastel",
+        "category": "Rejogja",
+        "publish_time": "18 October 2026, 13:30",
+        "news_link": "https://rejogja.republika.co.id/berita/tn3bf0291/psim-jogja-akhiri-kerja-sama-dengan-pelatih-jeanpaul-van-gastel"
+    },
+    {
+        "title": "BPBD HSS Apresiasi PT SAM Bantu Pemadaman Karhutla",
+        "category": "Esgnow",
+        "publish_time": "18 October 2026, 13:28",
+        "news_link": "https://esgnow.republika.co.id/berita/tn3bao423/bpbd-hss-apresiasi-pt-sam-bantu-pemadaman-karhutla"
+    },
+    {
+        "title": "Gorontalo dan Bangka Tengah Tingkatkan Kesiapsiagaan Bencana Hidrometeorologi",
+        "category": "Esgnow",
+        "publish_time": "18 October 2026, 13:00",
+        "news_link": "https://esgnow.republika.co.id/berita/tn3699416/gorontalo-dan-bangka-tengah-tingkatkan-kesiapsiagaan-bencana-hidrometeorologi"
+    },
+    {
+        "title": "Razia Narkoba di Tempat Hiburan Malam PIK 2 dan Cibubur, Sembilan Pengunjung Positif Narkoba",
+        "category": "Visual",
+        "publish_time": "18 October 2026, 12:52",
+        "news_link": "https://visual.republika.co.id/berita/tn39mv375/razia-narkoba-di-tempat-hiburan-malam-pik-2-dan-cibubur-sembilan-pengunjung-positif-narkoba"
+    },
+    {
+        "title": "Satu Peserta ITB Ultra Marathon 2026 Meninggal Dunia, Ini Kronologinya",
+        "category": "News",
+        "publish_time": "18 October 2026, 12:42",
+        "news_link": "https://news.republika.co.id/berita/tn396k409/satu-peserta-itb-ultra-marathon-2026-meninggal-dunia-ini-kronologinya"
+    },
+    {
+        "title": "Trump Tiba-Tiba Tunda Sanksi Rusia, Zelensky: Ini Untungkan Putin",
+        "category": "News",
+        "publish_time": "18 October 2026, 12:35",
+        "news_link": "https://news.republika.co.id/berita/tn38uz451/trump-tibatiba-tunda-sanksi-rusia-zelensky-ini-untungkan-putin"
+    },
+    {
+        "title": "Kinerja Mentan Amran Diapresiasi Petani dan Berbagai Tokoh",
+        "category": "Ekonomi",
+        "publish_time": "18 October 2026, 12:28",
+        "news_link": "https://ekonomi.republika.co.id/berita/tn38k3423/kinerja-mentan-amran-diapresiasi-petani-dan-berbagai-tokoh"
+    },
+    {
+        "title": "'Online Game Berpotensi Sebarkan Narasi Ekstremisme Berbasis Kekerasan'",
+        "category": "Rejogja",
+        "publish_time": "18 October 2026, 11:59",
+        "news_link": "https://rejogja.republika.co.id/berita/tn377r291/online-game-berpotensi-sebarkan-narasi-ekstremisme-berbasis-kekerasan"
+    },
+    {
+        "title": "MUI Sesalkan Wajib Halal Ditunda hingga 2028, Ini Imbauan untuk Umat",
+        "category": "News",
+        "publish_time": "18 October 2026, 11:59",
+        "news_link": "https://news.republika.co.id/berita/tn377f393/mui-sesalkan-wajib-halal-ditunda-hingga-2028-ini-imbauan-untuk-umat"
+    },
+    {
+        "title": "Cerita Founder Taza Berburu Kain Berserat Alami Hingga ke Rusia dan Jepang",
+        "category": "Ameera",
+        "publish_time": "18 October 2026, 11:59",
+        "news_link": "https://ameera.republika.co.id/berita/tn24jv328/cerita-founder-taza-berburu-kain-berserat-alami-hingga-ke-rusia-dan-jepang"
+    },
+    {
+        "title": "Dua Alasan Jokowi Terkesan Berubah Sikap Terhadap Prabowo Menurut Analis",
+        "category": "Analisis",
+        "publish_time": "18 October 2026, 11:38",
+        "news_link": "https://analisis.republika.co.id/berita/tn367m409/dua-alasan-jokowi-terkesan-berubah-sikap-terhadap-prabowo-menurut-analis"
+    },
+    {
+        "title": "Bonus Demografi Bergantung pada Peluang Generasi Muda, UGM-UNFPA Bahas Masa Depan Indonesia",
+        "category": "Rejogja",
+        "publish_time": "18 October 2026, 11:27",
+        "news_link": "https://rejogja.republika.co.id/berita/tn35qc291/bonus-demografi-bergantung-pada-peluang-generasi-muda-ugmunfpa-bahas-masa-depan-indonesia"
+    },
+    {
+        "title": "Bank Aladin Syariah Tambah Tiga Mitra Transaksi Pasar Uang Syariah",
+        "category": "Halalhub",
+        "publish_time": "18 October 2026, 11:16",
+        "news_link": "https://halalhub.republika.co.id/berita/tn356m416/bank-aladin-syariah-tambah-tiga-mitra-transaksi-pasar-uang-syariah"
+    },
+    {
+        "title": "Gelombang Protes Prancis Berubah Menjadi Kerusuhan Besar",
+        "category": "News",
+        "publish_time": "18 October 2026, 11:03",
+        "news_link": "https://news.republika.co.id/berita/tn34m8451/gelombang-protes-prancis-berubah-menjadi-kerusuhan-besar"
+    },
+    {
+        "title": "Ashila Ramadhani Bangun Taza dengan Gaya Syar'i Modern",
+        "category": "Ameera",
+        "publish_time": "18 October 2026, 10:47",
+        "news_link": "https://ameera.republika.co.id/berita/tn23v9328/ashila-ramadhani-bangun-taza-dengan-gaya-syari-modern"
+    },
+    {
+        "title": "Trump Longgarkan Sanksi Rusia, Zelensky Desak AS Tekan Putin, Moskow Menyambut",
+        "category": "News",
+        "publish_time": "18 October 2026, 10:03",
+        "news_link": "https://news.republika.co.id/berita/tn31tv451/trump-longgarkan-sanksi-rusia-zelensky-desak-as-tekan-putin-moskow-menyambut"
+    },
+    {
+        "title": "Wajib Halal Mundur ke 2028, Ini Kata LPPOM",
+        "category": "Halalhub",
+        "publish_time": "18 October 2026, 09:50",
+        "news_link": "https://halalhub.republika.co.id/berita/tn303r423/wajib-halal-mundur-ke-2028-ini-kata-lppom"
+    },
+    {
+        "title": "Baru 5 Hari Jadi Jubir Gedung Putih, Katie Zacharia Tersingkir, tetapi Tetap Puji Trump",
+        "category": "News",
+        "publish_time": "18 October 2026, 09:46",
+        "news_link": "https://news.republika.co.id/berita/tn311z451/baru-5-hari-jadi-jubir-gedung-putih-katie-zacharia-tersingkir-tetapi-tetap-puji-trump"
+    },
+    {
+        "title": "Erick Thohir Ajak Masyarakat Dukung Indonesia Women\u2019s League",
+        "category": "News",
+        "publish_time": "18 October 2026, 09:41",
+        "news_link": "https://news.republika.co.id/berita/tn30gk409/erick-thohir-ajak-masyarakat-dukung-indonesia-womens-league"
+    },
+    {
         "title": "AI Bisa Prediksi Titik Kritis Perubahan Iklim",
         "category": "Esgnow",
         "publish_time": "18 October 2026, 09:30",
@@ -78,10 +240,10 @@
         "news_link": "https://news.republika.co.id/berita/tn2vd1483/lewat-surat-terbuka-muhammadiyah-desak-presiden-azerbaijan-segera-cabut-beleid-larangan-jilbab"
     },
     {
-        "title": "Boy Thohir Cerita Perjalanan Besarkan Adaro hingga Bangun Kekayaan",
+        "title": "Boy Thohir Cerita Perjalanan Bisnis dan Nilai Nilai Kehidupan",
         "category": "Ekonomi",
         "publish_time": "18 October 2026, 07:42",
-        "news_link": "https://ekonomi.republika.co.id/berita/tn2vai423/boy-thohir-cerita-perjalanan-besarkan-adaro-hingga-bangun-kekayaan"
+        "news_link": "https://ekonomi.republika.co.id/berita/tn2vai423/boy-thohir-cerita-perjalanan-bisnis-dan-nilai-nilai-kehidupan"
     },
     {
         "title": "Bupati Klaten Ditangkap KPK Akibat Kasus Korupsi, PDIP: Senin Kami Pecat",
@@ -136,167 +298,5 @@
         "category": "Halalhub",
         "publish_time": "18 October 2026, 06:59",
         "news_link": "https://halalhub.republika.co.id/berita/tn24mh483/tak-perlu-tunggu-kaya-wakaf-uang-bisa-dimulai-dari-rp1-juta-imbal-hasilnya-untuk-pesantren"
-    },
-    {
-        "title": "Asap Karhutla Mulai Jauhi Jakarta, Bergeser ke Banten dan Lampung",
-        "category": "News",
-        "publish_time": "18 October 2026, 06:01",
-        "news_link": "https://news.republika.co.id/berita/tn2qmk409/asap-karhutla-mulai-jauhi-jakarta-bergeser-ke-banten-dan-lampung"
-    },
-    {
-        "title": "Petani Bisa Tebus Pupuk Subsidi Lewat Koperasi Merah Putih, Cukup Pakai KTP",
-        "category": "Ekonomi",
-        "publish_time": "18 October 2026, 06:00",
-        "news_link": "https://ekonomi.republika.co.id/berita/tn20wv416/petani-bisa-tebus-pupuk-subsidi-lewat-koperasi-merah-putih-cukup-pakai-ktp"
-    },
-    {
-        "title": "Kiai Said Aqil Sirodj Luncurkan Buku Historiografi Islam Nusantara 11 Jilid",
-        "category": "Khazanah",
-        "publish_time": "18 October 2026, 05:52",
-        "news_link": "https://khazanah.republika.co.id/berita/tn2461483/kiai-said-aqil-sirodj-luncurkan-buku-historiografi-islam-nusantara-11-jilid"
-    },
-    {
-        "title": "Gubernur: Sulsel Berpotensi Jadi Pusat Ekosistem Haji dan Umrah KTI",
-        "category": "News",
-        "publish_time": "18 October 2026, 05:45",
-        "news_link": "https://news.republika.co.id/berita/tn2pvd3730000/gubernur-sulsel-berpotensi-jadi-pusat-ekosistem-haji-dan-umrah-kti"
-    },
-    {
-        "title": "Wali Kota Pontianak: Petugas Kebersihan Berperan Strategis Wujudkan Gerakan Indonesia Asri",
-        "category": "News",
-        "publish_time": "18 October 2026, 05:30",
-        "news_link": "https://news.republika.co.id/berita/tn2p6g9530000/wali-kota-pontianak-petugas-kebersihan-berperan-strategis-wujudkan-gerakan-indonesia-asri"
-    },
-    {
-        "title": "Kementerian PU Rehabilitasi 137 Prasarana Ibadah Pascabencana di Aceh",
-        "category": "News",
-        "publish_time": "18 October 2026, 05:15",
-        "news_link": "https://news.republika.co.id/berita/tn2ohg3630000/kementerian-pu-rehabilitasi-137-prasarana-ibadah-pascabencana-di-aceh"
-    },
-    {
-        "title": "Empat Petugas Gugur Saat Tangani Karhutla di Bromo, BNPB Soroti Keselamatan Personel",
-        "category": "News",
-        "publish_time": "18 October 2026, 05:11",
-        "news_link": "https://news.republika.co.id/berita/tn2oaf483/empat-petugas-gugur-saat-tangani-karhutla-di-bromo-bnpb-soroti-keselamatan-personel"
-    },
-    {
-        "title": "Dibela Netanyahu, Pemukim Yahudi Pukuli Wali Kota Prancis dengan Batang Besi di Tepi Barat",
-        "category": "News",
-        "publish_time": "18 October 2026, 05:04",
-        "news_link": "https://news.republika.co.id/berita/tn2o05483/dibela-netanyahu-pemukim-yahudi-pukuli-wali-kota-prancis-dengan-batang-besi-di-tepi-barat"
-    },
-    {
-        "title": "BP Tapera dan BSI Perkuat Sinergi Pembiayaan Rumah Syariah untuk Guru Pesantren",
-        "category": "News",
-        "publish_time": "18 October 2026, 05:00",
-        "news_link": "https://news.republika.co.id/berita/tn2nse5030000/bp-tapera-dan-bsi-perkuat-sinergi-pembiayaan-rumah-syariah-untuk-guru-pesantren"
-    },
-    {
-        "title": "Gubernur Sulsel: Pers Mitra Strategis Pembangunan Daerah",
-        "category": "News",
-        "publish_time": "18 October 2026, 04:30",
-        "news_link": "https://news.republika.co.id/berita/tn2med7930000/gubernur-sulsel-pers-mitra-strategis-pembangunan-daerah"
-    },
-    {
-        "title": "Bursa Kerja Online di Indamayu Tawarkan Pekerjaan di Dalam dan Luar Negeri, Lulusan SD Bisa Melamar",
-        "category": "Rejabar",
-        "publish_time": "18 October 2026, 03:57",
-        "news_link": "https://rejabar.republika.co.id/berita/tn2adi282/bursa-kerja-online-di-indamayu-tawarkan-pekerjaan-di-dalam-dan-luar-negeri-lulusan-sd-bisa-melamar"
-    },
-    {
-        "title": "Ayu Ting Ting Siapkan Album Baru di 2027, Ingin Dangdut Mendunia",
-        "category": "News",
-        "publish_time": "18 October 2026, 03:45",
-        "news_link": "https://news.republika.co.id/berita/tn2kcg6530000/ayu-ting-ting-siapkan-album-baru-di-2027-ingin-dangdut-mendunia"
-    },
-    {
-        "title": "SMA Unggul Garuda Bulungan Diharapkan Jadi Motor Kemajuan Kaltara",
-        "category": "News",
-        "publish_time": "18 October 2026, 02:45",
-        "news_link": "https://news.republika.co.id/berita/tn2hjo7930000/sma-unggul-garuda-bulungan-diharapkan-jadi-motor-kemajuan-kaltara"
-    },
-    {
-        "title": "Kapolres Probolinggo Kota Takziah ke Rumah Korban Karhutla Bromo",
-        "category": "News",
-        "publish_time": "18 October 2026, 02:01",
-        "news_link": "https://news.republika.co.id/berita/tn2fi04530000/kapolres-probolinggo-kota-takziah-ke-rumah-korban-karhutla-bromo"
-    },
-    {
-        "title": "SMA Unggul Garuda Bulungan Jadi Bukti Nyata Pemerataan Pendidikan di Kaltara",
-        "category": "News",
-        "publish_time": "18 October 2026, 01:45",
-        "news_link": "https://news.republika.co.id/berita/tn2esb030000/sma-unggul-garuda-bulungan-jadi-bukti-nyata-pemerataan-pendidikan-di-kaltara"
-    },
-    {
-        "title": "Pemkab Mimika Ajak Masyarakat Dukung Program Sekolah Rakyat",
-        "category": "News",
-        "publish_time": "18 October 2026, 01:30",
-        "news_link": "https://news.republika.co.id/berita/tn2e2y1630000/pemkab-mimika-ajak-masyarakat-dukung-program-sekolah-rakyat"
-    },
-    {
-        "title": "KAI Daop 7 Madiun Perbaiki Perlintasan JPL 90 Nganjuk Mulai 19 Oktober",
-        "category": "News",
-        "publish_time": "18 October 2026, 01:15",
-        "news_link": "https://news.republika.co.id/berita/tn2ddi8730000/kai-daop-7-madiun-perbaiki-perlintasan-jpl-90-nganjuk-mulai-19-oktober"
-    },
-    {
-        "title": "Pemkot dan PMI Padang Asah Kompetensi Relawan Muda Lewat Galang Kreativitas",
-        "category": "News",
-        "publish_time": "18 October 2026, 01:00",
-        "news_link": "https://news.republika.co.id/berita/tn2coh8130000/pemkot-dan-pmi-padang-asah-kompetensi-relawan-muda-lewat-galang-kreativitas"
-    },
-    {
-        "title": "Kemenhub Pantau Risiko Kabut Asap di 16 Bandara Papua Akibat Karhutla",
-        "category": "Nusantara",
-        "publish_time": "18 October 2026, 00:45",
-        "news_link": "https://daerah.republika.co.id/berita/tn2bzj9130000/kemenhub-pantau-risiko-kabut-asap-di-16-bandara-papua-akibat-karhutla"
-    },
-    {
-        "title": "Polisi Amankan 14 Pemuda Diduga Pelaku Tawuran di Makassar",
-        "category": "News",
-        "publish_time": "18 October 2026, 00:30",
-        "news_link": "https://news.republika.co.id/berita/tn2baj1330000/polisi-amankan-14-pemuda-diduga-pelaku-tawuran-di-makassar"
-    },
-    {
-        "title": "Menteri PKP Tegaskan Kualitas Material Jadi Kunci Sukses Program Gentengisasi",
-        "category": "News",
-        "publish_time": "18 October 2026, 00:15",
-        "news_link": "https://news.republika.co.id/berita/tn2alf5130000/menteri-pkp-tegaskan-kualitas-material-jadi-kunci-sukses-program-gentengisasi"
-    },
-    {
-        "title": "Pemprov Jabar Bakal Beri Pelatihan Bahasa Asing Bagi Masyarakat Desa, Tanpa Dipungut Biaya",
-        "category": "Rejabar",
-        "publish_time": "17 October 2026, 23:47",
-        "news_link": "https://rejabar.republika.co.id/berita/tn29br282/pemprov-jabar-bakal-beri-pelatihan-bahasa-asing-bagi-masyarakat-desa-tanpa-dipungut-biaya"
-    },
-    {
-        "title": "Penyerapan Pengadaan Barang dan Jasa Majalengka Baru 25 Persen, OPD Diminta Percepat Realisasi",
-        "category": "Rejabar",
-        "publish_time": "17 October 2026, 23:37",
-        "news_link": "https://rejabar.republika.co.id/berita/tn28un282/penyerapan-pengadaan-barang-dan-jasa-majalengka-baru-25-persen-opd-diminta-percepat-realisasi"
-    },
-    {
-        "title": "Dapat Bantuan Pusat, 179 Sekolah di Majalengka Masuk Program Revitalisasi",
-        "category": "Rejabar",
-        "publish_time": "17 October 2026, 23:20",
-        "news_link": "https://rejabar.republika.co.id/berita/tn282m282/dapat-bantuan-pusat-179-sekolah-di-majalengka-masuk-program-revitalisasi"
-    },
-    {
-        "title": "Bekas Lokalisasi Saritem Bandung Masih Beroperasi, Belasan Orang Diamankan Positif Konsumsi Sabu",
-        "category": "Rejabar",
-        "publish_time": "17 October 2026, 23:11",
-        "news_link": "https://rejabar.republika.co.id/berita/tn27ne282/bekas-lokalisasi-saritem-bandung-masih-beroperasi-belasan-orang-diamankan-positif-konsumsi-sabu"
-    },
-    {
-        "title": "Survei SMRC Soal Ranking Kualitas Kepemimpinan, MTI Soroti Kriteria Calon Pemimpin 2029",
-        "category": "News",
-        "publish_time": "17 October 2026, 23:07",
-        "news_link": "https://news.republika.co.id/berita/tn1af7320/survei-smrc-soal-ranking-kualitas-kepemimpinan-mti-soroti-kriteria-calon-pemimpin-2029"
-    },
-    {
-        "title": "Soroti Kebersihan Kota, Wawali Cimahi Tegur Kepala Dinas PUPR",
-        "category": "Rejabar",
-        "publish_time": "17 October 2026, 22:02",
-        "news_link": "https://rejabar.republika.co.id/berita/tn24fr370/soroti-kebersihan-kota-wawali-cimahi-tegur-kepala-dinas-pupr"
     }
 ]
