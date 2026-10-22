@@ -1,50 +1,278 @@
 [
     {
+        "title": "Walkout Terus tapi Semeja Terus: Ke Mana Arah Diplomasi Indonesia terhadap Palestina?",
+        "category": "Rejogja",
+        "publish_time": "22-10-2026 05:31",
+        "news_link": "https://rejogja.republika.co.id/berita/tnancw291/walkout-terus-tapi-semeja-terus-ke-mana-arah-diplomasi-indonesia-terhadap-palestina"
+    },
+    {
+        "title": "Danau Mawang Dipenuhi Alga, Nelayan Gowa Terancam Kehilangan Sumber Penghasilan",
+        "category": "Visual",
+        "publish_time": "22-10-2026 05:29",
+        "news_link": "https://visual.republika.co.id/berita/tnakve375/danau-mawang-dipenuhi-alga-nelayan-gowa-terancam-kehilangan-sumber-penghasilan"
+    },
+    {
+        "title": "Menyongsong 25 Tahun Perjalanan Musik MALIQ & D\u2019Essentials",
+        "category": "Ameera",
+        "publish_time": "22-10-2026 05:05",
+        "news_link": "https://ameera.republika.co.id/berita/tnam5y425/menyongsong-25-tahun-perjalanan-musik-maliq-dessentials"
+    },
+    {
+        "title": "Dari Beri Makan Ikan hingga Panen Telur, Lansiapreneur PNM Hadirkan Kesibukan Baru bagi Oma Opa",
+        "category": "Esgnow",
+        "publish_time": "22-10-2026 05:00",
+        "news_link": "https://esgnow.republika.co.id/berita/tnalx0502/dari-beri-makan-ikan-hingga-panen-telur-lansiapreneur-pnm-hadirkan-kesibukan-baru-bagi-oma-opa"
+    },
+    {
+        "title": "Jawab Kebutuhan Industri, Binus Luncurkan Wadah Kolaborasi Multihelix Hub",
+        "category": "News",
+        "publish_time": "22-10-2026 04:51",
+        "news_link": "https://news.republika.co.id/berita/tnalik291/jawab-kebutuhan-industri-binus-luncurkan-wadah-kolaborasi-multihelix-hub"
+    },
+    {
+        "title": "Nelayan dan Warga Bantu Evakuasi KMP Batumandi, ASDP Sampaikan Apresiasi",
+        "category": "Ekonomi",
+        "publish_time": "22-10-2026 04:48",
+        "news_link": "https://ekonomi.republika.co.id/berita/tnalb7416/nelayan-dan-warga-bantu-evakuasi-kmp-batumandi-asdp-sampaikan-apresiasi"
+    },
+    {
+        "title": "Refleksi Hari Santri 2026: Saat Kecerdasan Buatan Merajai Teknologi, Bagaimana Relasi Santri Kiai?",
+        "category": "News",
+        "publish_time": "22-10-2026 04:47",
+        "news_link": "https://news.republika.co.id/berita/tnalc4320/refleksi-hari-santri-2026-saat-kecerdasan-buatan-merajai-teknologi-bagaimana-relasi-santri-kiai"
+    },
+    {
+        "title": "Umumkan Rudal Baru, Iran akan Gunakan 'Bapak dari Segala Bom' Jika AS-Israel Kembali Menyerang",
+        "category": "News",
+        "publish_time": "22-10-2026 04:45",
+        "news_link": "https://news.republika.co.id/berita/tnal7y409/umumkan-rudal-baru-iran-akan-gunakan-bapak-dari-segala-bom-jika-asisrael-kembali-menyerang"
+    },
+    {
+        "title": "OJK: Inklusi Keuangan DIY Capai 98,74 Persen, Peringkat Kedua Nasional",
+        "category": "Rejogja",
+        "publish_time": "22-10-2026 04:41",
+        "news_link": "https://rejogja.republika.co.id/berita/tnal2b291/ojk-inklusi-keuangan-diy-capai-9874-persen-peringkat-kedua-nasional"
+    },
+    {
+        "title": "Edukasi Mitigasi Gempa, Siswa SDN Kalibata 11 Berlatih Simulasi Penyelamatan",
+        "category": "Visual",
+        "publish_time": "22-10-2026 04:39",
+        "news_link": "https://visual.republika.co.id/berita/tnakjc375/edukasi-mitigasi-gempa-siswa-sdn-kalibata-11-berlatih-simulasi-penyelamatan"
+    },
+    {
+        "title": "Forum Advokasi Mahasiswa UGM Tuntut Kejelasan Penanganan Kasus Dugaan Kekerasan Demo 1 September",
+        "category": "Rejogja",
+        "publish_time": "22-10-2026 04:39",
+        "news_link": "https://rejogja.republika.co.id/berita/tnajzz291/forum-advokasi-mahasiswa-ugm-tuntut-kejelasan-penanganan-kasus-dugaan-kekerasan-demo-1-september"
+    },
+    {
+        "title": "Pesan Berbahasa Jawa Legislator Malaysia ke Pemerintah Indonesia",
+        "category": "Video",
+        "publish_time": "22-10-2026 04:39",
+        "news_link": "https://republika.co.id/page/shorts/yt-tnajt1348261066/pesan-berbahasa-jawa-legislator-malaysia-ke-pemerintah-indonesia"
+    },
+    {
+        "title": "Nadeem Rebut Juara Umum SSS 2026 di Sirkuit Mandalika",
+        "category": "News",
+        "publish_time": "22-10-2026 03:39",
+        "news_link": "https://news.republika.co.id/berita/tnairs484/nadeem-rebut-juara-umum-sss-2026-di-sirkuit-mandalika"
+    },
+    {
+        "title": "Ditjen Perhubungan Darat Optimalkan Aset Negara untuk Pendidikan",
+        "category": "Ekonomi",
+        "publish_time": "22-10-2026 03:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/tnai9s416/ditjen-perhubungan-darat-optimalkan-aset-negara-untuk-pendidikan"
+    },
+    {
+        "title": "Indonesia Resmi Jadi Negara Asing Pertama Punya Hotel di Thaker Makkah",
+        "category": "News",
+        "publish_time": "22-10-2026 03:39",
+        "news_link": "https://news.republika.co.id/berita/tnai73484/indonesia-resmi-jadi-negara-asing-pertama-punya-hotel-di-thaker-makkah"
+    },
+    {
+        "title": "Upacara Hari Santri 2026, Menag Sampaikan Amanat",
+        "category": "News",
+        "publish_time": "22-10-2026 03:39",
+        "news_link": "https://news.republika.co.id/berita/tnah8s366/upacara-hari-santri-2026-menag-sampaikan-amanat"
+    },
+    {
+        "title": "Sering Pakai Bra Ketat Bikin Kena Kanker Payudara?",
+        "category": "Ameera",
+        "publish_time": "22-10-2026 03:39",
+        "news_link": "https://ameera.republika.co.id/berita/tnagxm425/sering-pakai-bra-ketat-bikin-kena-kanker-payudara"
+    },
+    {
+        "title": "Basnang Said Susun Target 100 Hari untuk Pembenahan Pesantren",
+        "category": "Khazanah",
+        "publish_time": "22-10-2026 02:39",
+        "news_link": "https://khazanah.republika.co.id/berita/tmiquj366/basnang-said-susun-target-100-hari-untuk-pembenahan-pesantren"
+    },
+    {
+        "title": "Legislator Malaysia Tegur Prabowo Pakai Bahasa Jawa Kasar soal Kabut Asap",
+        "category": "News",
+        "publish_time": "22-10-2026 02:39",
+        "news_link": "https://news.republika.co.id/berita/tnafxn393/legislator-malaysia-tegur-prabowo-pakai-bahasa-jawa-kasar-soal-kabut-asap"
+    },
+    {
+        "title": "IHSG Hijau Usai Presiden RI Bilang tidak Takut Diancam MSCI",
+        "category": "Ekonomi",
+        "publish_time": "22-10-2026 02:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/tnafmq484/ihsg-hijau-usai-presiden-ri-bilang-tidak-takut-diancam-msci"
+    },
+    {
+        "title": "Albanese Dorong RI Evaluasi Keterkaitan Ekonomi dengan Genosida Gaza",
+        "category": "Ekonomi",
+        "publish_time": "22-10-2026 02:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/tnaf19423/albanese-dorong-ri-evaluasi-keterkaitan-ekonomi-dengan-genosida-gaza"
+    },
+    {
+        "title": "Survei Matriks: Pigai dan Nusron Jadi Menteri Terburuk di Kabinet",
+        "category": "News",
+        "publish_time": "22-10-2026 02:39",
+        "news_link": "https://news.republika.co.id/berita/tnaezq484/survei-matriks-pigai-dan-nusron-jadi-menteri-terburuk-di-kabinet"
+    },
+    {
+        "title": "Kenali Titik Kritis Kehalalan Produk Fashion dan Wastra",
+        "category": "Halalhub",
+        "publish_time": "22-10-2026 01:39",
+        "news_link": "https://halalhub.republika.co.id/berita/tnadxc425/kenali-titik-kritis-kehalalan-produk-fashion-dan-wastra"
+    },
+    {
+        "title": "Perwakilan Kampus Luar Negeri Pelajari Transformasi Digital Pertamina",
+        "category": "Ekonomi",
+        "publish_time": "22-10-2026 01:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/tnad87423/perwakilan-kampus-luar-negeri-pelajari-transformasi-digital-pertamina"
+    },
+    {
+        "title": "Sambut Sultan Oman Raja Charles Kutip Nabi Muhammad",
+        "category": "Video",
+        "publish_time": "22-10-2026 01:39",
+        "news_link": "https://republika.co.id/page/shorts/yt-tnadk21339800323/sambut-sultan-oman-raja-charles-kutip-nabi-muhammad"
+    },
+    {
+        "title": "APTISI Siapkan PTS Hadapi Perubahan Pendidikan di Era AI",
+        "category": "News",
+        "publish_time": "22-10-2026 01:39",
+        "news_link": "https://news.republika.co.id/berita/tn9mu9416/aptisi-siapkan-pts-hadapi-perubahan-pendidikan-di-era-ai"
+    },
+    {
+        "title": "Jadwal French Open 2026 Indonesia Hari Ini: Delapan Wakil Indonesia Berburu Tiket Perempat Final",
+        "category": "News",
+        "publish_time": "22-10-2026 01:39",
+        "news_link": "https://news.republika.co.id/berita/tnacsi348/jadwal-french-open-2026-indonesia-hari-ini-delapan-wakil-indonesia-berburu-tiket-perempat-final"
+    },
+    {
+        "title": "Komisi I DPRD Jabar Perjuangkan Penguatan Pesantren",
+        "category": "Rejabar",
+        "publish_time": "22-10-2026 01:39",
+        "news_link": "https://rejabar.republika.co.id/berita/tnacpo423/komisi-i-dprd-jabar-perjuangkan-penguatan-pesantren"
+    },
+    {
+        "title": "Dua Tahun Prabowo-Gibran, Ini Hasil Kajian Komunikasi Evident Institute",
+        "category": "News",
+        "publish_time": "22-10-2026 01:39",
+        "news_link": "https://news.republika.co.id/berita/tnac7r416/dua-tahun-prabowogibran-ini-hasil-kajian-komunikasi-evident-institute"
+    },
+    {
+        "title": "Jadwal Asian Para Games 2026 Hari Ini: Indonesia Terus Berburu Medali Meski Sudah Lampaui Target",
+        "category": "News",
+        "publish_time": "22-10-2026 01:39",
+        "news_link": "https://news.republika.co.id/berita/tnac41348/jadwal-asian-para-games-2026-hari-ini-indonesia-terus-berburu-medali-meski-sudah-lampaui-target"
+    },
+    {
+        "title": "Macron Murka, Sindir Trump dan Netanyahu Tunggangi Kerusuhan Prancis demi Pemilu",
+        "category": "News",
+        "publish_time": "22-10-2026 01:39",
+        "news_link": "https://news.republika.co.id/berita/tnabr4451/macron-murka-sindir-trump-dan-netanyahu-tunggangi-kerusuhan-prancis-demi-pemilu"
+    },
+    {
+        "title": "Museum Rudana Apresiasi Kiprah Tokoh Nasional dalam Seni dan Kebudayaan",
+        "category": "News",
+        "publish_time": "22-10-2026 00:39",
+        "news_link": "https://news.republika.co.id/berita/tn9moy416/museum-rudana-apresiasi-kiprah-tokoh-nasional-dalam-seni-dan-kebudayaan"
+    },
+    {
+        "title": "Pasokan Gas Blok Masela Amankan Kebutuhan Energi Domestik",
+        "category": "Ekonomi",
+        "publish_time": "22-10-2026 00:39",
+        "news_link": "https://ekonomi.republika.co.id/berita/tna9pi423/pasokan-gas-blok-masela-amankan-kebutuhan-energi-domestik"
+    },
+    {
+        "title": "Klasemen Liga Champions Hingga Matchday Ketiga",
+        "category": "News",
+        "publish_time": "22-10-2026 00:39",
+        "news_link": "https://news.republika.co.id/berita/tnaa30409/klasemen-liga-champions-hingga-matchday-ketiga"
+    },
+    {
+        "title": "Terancam Iran dan Houthi, Pasukan AS Mulai Cabut dari Timur Tengah",
+        "category": "News",
+        "publish_time": "22-10-2026 00:39",
+        "news_link": "https://news.republika.co.id/berita/tna9y4393/terancam-iran-dan-houthi-pasukan-as-mulai-cabut-dari-timur-tengah"
+    },
+    {
+        "title": "WALHI Sebut Karhutla Ekosida, Desak Negara dan Korporasi Tanggung Jawab",
+        "category": "Esgnow",
+        "publish_time": "22-10-2026 00:39",
+        "news_link": "https://esgnow.republika.co.id/berita/tna9d0423/walhi-sebut-karhutla-ekosida-desak-negara-dan-korporasi-tanggung-jawab"
+    },
+    {
+        "title": "Kitab Kuning di Tengah Algoritma: Siapa Mendidik Santri?",
+        "category": "Khazanah",
+        "publish_time": "22-10-2026 00:39",
+        "news_link": "https://khazanah.republika.co.id/berita/tn8zro366/kitab-kuning-di-tengah-algoritma-siapa-mendidik-santri"
+    },
+    {
+        "title": "Warga Subulussalam Kesulitan Air Bersih, Pemerintah Bangun Dua Sumur Bor",
+        "category": "Esgnow",
+        "publish_time": "22-10-2026 00:39",
+        "news_link": "https://esgnow.republika.co.id/berita/tna8oa423/warga-subulussalam-kesulitan-air-bersih-pemerintah-bangun-dua-sumur-bor"
+    },
+    {
         "title": "Korban Keracunan MBG Cirebon Capai 270 Orang, Ada Balita yang Hilang Kesadaran",
         "category": "Rejabar",
-        "publish_time": "22-10-2026 00:15",
+        "publish_time": "22-10-2026 00:39",
         "news_link": "https://rejabar.republika.co.id/berita/tna8r7282/korban-keracunan-mbg-cirebon-capai-270-orang-ada-balita-yang-hilang-kesadaran"
     },
     {
         "title": "Tindak Lanjut Temuan BPK, BGN Kembalikan Rp 160,37 Miliar ke Kas Negara",
         "category": "News",
-        "publish_time": "22-10-2026 00:10",
+        "publish_time": "22-10-2026 00:39",
         "news_link": "https://news.republika.co.id/berita/tna8ii393/tindak-lanjut-temuan-bpk-bgn-kembalikan-rp-16037-miliar-ke-kas-negara"
     },
     {
         "title": "Pemanasan Global Makin Cepat, Ekosistem Bumi di Ambang Titik Kritis",
         "category": "Esgnow",
-        "publish_time": "22-10-2026 00:00",
+        "publish_time": "21-10-2026 23:39",
         "news_link": "https://esgnow.republika.co.id/berita/tna7t2423/pemanasan-global-makin-cepat-ekosistem-bumi-di-ambang-titik-kritis"
     },
     {
         "title": "Genosida Gaza Picu Perlawanan Anak Muda Dunia",
         "category": "Video",
-        "publish_time": "21-10-2026 23:59",
+        "publish_time": "21-10-2026 23:39",
         "news_link": "https://republika.co.id/page/shorts/yt-tna802748617972/genosida-gaza-picu-perlawanan-anak-muda-dunia"
     },
     {
         "title": "Misteri Pertemuan Tertutup Pentagon-Israel di Tengah Ancaman Netanyahu Menggulingkan Rezim Iran",
         "category": "News",
-        "publish_time": "21-10-2026 23:56",
+        "publish_time": "21-10-2026 23:39",
         "news_link": "https://news.republika.co.id/berita/tna7u7451/misteri-pertemuan-tertutup-pentagonisrael-di-tengah-ancaman-netanyahu-menggulingkan-rezim-iran"
     },
     {
         "title": "Trade Expo Indonesia, 16 UMK Binaan Rumah BUMN Gunungkidul Didorong Tembus Pasar Global",
         "category": "Rejogja",
-        "publish_time": "21-10-2026 23:47",
+        "publish_time": "21-10-2026 23:39",
         "news_link": "https://rejogja.republika.co.id/berita/tna23w291/trade-expo-indonesia-16-umk-binaan-rumah-bumn-gunungkidul-didorong-tembus-pasar-global"
     },
     {
         "title": "Kabinet Merah Putih Dituding Gemuk? Begini Jawaban Presiden RI",
         "category": "News",
-        "publish_time": "21-10-2026 23:46",
+        "publish_time": "21-10-2026 23:39",
         "news_link": "https://news.republika.co.id/berita/tna7eh484/kabinet-merah-putih-dituding-gemuk-begini-jawaban-presiden-ri"
     },
     {
         "title": "Inter Milan Tekuk Shakhtar 1-0 Meski Bermain dengan 10 Pemain",
         "category": "News",
-        "publish_time": "21-10-2026 23:45",
+        "publish_time": "21-10-2026 23:39",
         "news_link": "https://news.republika.co.id/berita/tna7cx348/inter-milan-tekuk-shakhtar-10-meski-bermain-dengan-10-pemain"
     },
     {
@@ -56,247 +284,19 @@
     {
         "title": "Arteta Terima Hasil Imbang Kontra Bayern, tapi Tegaskan Arsenal Sebenarnya Incar Kemenangan",
         "category": "News",
-        "publish_time": "21-10-2026 23:36",
+        "publish_time": "21-10-2026 23:39",
         "news_link": "https://news.republika.co.id/berita/tna6xm348/arteta-terima-hasil-imbang-kontra-bayern-tapi-tegaskan-arsenal-sebenarnya-incar-kemenangan"
     },
     {
         "title": "Real Madrid Hajar RB Leipzig 4-1, Mbappe Cetak Gol Cantik",
         "category": "News",
-        "publish_time": "21-10-2026 23:25",
+        "publish_time": "21-10-2026 23:39",
         "news_link": "https://news.republika.co.id/berita/tna6ex348/real-madrid-hajar-rb-leipzig-41-mbappe-cetak-gol-cantik"
     },
     {
         "title": "Dinkes Kota Cirebon Bantah Korban Keracunan MBG Meninggal: Hoaks",
         "category": "Rejabar",
-        "publish_time": "21-10-2026 23:20",
+        "publish_time": "21-10-2026 23:39",
         "news_link": "https://rejabar.republika.co.id/berita/tna65q282/dinkes-kota-cirebon-bantah-korban-keracunan-mbg-meninggal-hoaks"
-    },
-    {
-        "title": "Como 1907 Hajar Manchester United 4-1, Posisi Carrick Makin Tersudut",
-        "category": "News",
-        "publish_time": "21-10-2026 23:20",
-        "news_link": "https://news.republika.co.id/berita/tna618348/como-1907-hajar-manchester-united-41-posisi-carrick-makin-tersudut"
-    },
-    {
-        "title": "KPK Ungkap Alasan tak Cekal Nusron Wahid: Berstatus Saksi",
-        "category": "News",
-        "publish_time": "21-10-2026 23:20",
-        "news_link": "https://news.republika.co.id/berita/tna5xb409/kpk-ungkap-alasan-tak-cekal-nusron-wahid-berstatus-saksi"
-    },
-    {
-        "title": "Santri Harus Mendunia Tanpa Kehilangan Jati Diri",
-        "category": "Khazanah",
-        "publish_time": "21-10-2026 23:20",
-        "news_link": "https://khazanah.republika.co.id/berita/tna46e430/santri-harus-mendunia-tanpa-kehilangan-jati-diri"
-    },
-    {
-        "title": "KPK Sebut Dua TNI Diduga Terlibat Korupsi BNPB, Letjen Suharyanto?",
-        "category": "News",
-        "publish_time": "21-10-2026 23:20",
-        "news_link": "https://news.republika.co.id/berita/tna5v3484/kpk-sebut-dua-tni-diduga-terlibat-korupsi-bnpb-letjen-suharyanto"
-    },
-    {
-        "title": "Gibran Masuk Empat Besar di Sejumlah Survei Capres, Ini Kata Pengamat",
-        "category": "News",
-        "publish_time": "21-10-2026 23:20",
-        "news_link": "https://news.republika.co.id/berita/tna4mh430/gibran-masuk-empat-besar-di-sejumlah-survei-capres-ini-kata-pengamat"
-    },
-    {
-        "title": "Realisasi Investasi Capai Rp1.575 Triliun, Ekonomi Nasional Dinilai Tetap Prospektif",
-        "category": "Ekonomi",
-        "publish_time": "21-10-2026 23:20",
-        "news_link": "https://ekonomi.republika.co.id/berita/tn9fve416/realisasi-investasi-capai-rp1575-triliun-ekonomi-nasional-dinilai-tetap-prospektif"
-    },
-    {
-        "title": "Polri Tetapkan 11 Korporasi Tersangka Kebakaran Hutan, Tiga di Antaranya Perusahaan Asing",
-        "category": "News",
-        "publish_time": "21-10-2026 22:20",
-        "news_link": "https://news.republika.co.id/berita/tna4jf2230000/polri-tetapkan-11-korporasi-tersangka-kebakaran-hutan-tiga-di-antaranya-perusahaan-asing"
-    },
-    {
-        "title": "PUPESDM dan PLN Perkuat Kemitraan Pengembangan SPKLU di Yogyakarta",
-        "category": "Rejogja",
-        "publish_time": "21-10-2026 22:20",
-        "news_link": "https://rejogja.republika.co.id/berita/tna1vw291/pupesdm-dan-pln-perkuat-kemitraan-pengembangan-spklu-di-yogyakarta"
-    },
-    {
-        "title": "Militer AS Evakuasi Tentara dan Diplomat dari Timur Tengah, Perang AS-Iran akan Dimulai Lagi?",
-        "category": "News",
-        "publish_time": "21-10-2026 22:20",
-        "news_link": "https://news.republika.co.id/berita/tna45c483/militer-as-evakuasi-tentara-dan-diplomat-dari-timur-tengah-perang-asiran-akan-dimulai-lagi"
-    },
-    {
-        "title": "Santri Masa Kini: Menjaga Tradisi, Menembus Batas Profesi",
-        "category": "Khazanah",
-        "publish_time": "21-10-2026 22:20",
-        "news_link": "https://khazanah.republika.co.id/berita/tna41u430/santri-masa-kini-menjaga-tradisi-menembus-batas-profesi"
-    },
-    {
-        "title": "KKP Tangkap 154 Kapal Ilegal di Perairan Indonesia hingga September 2026",
-        "category": "News",
-        "publish_time": "21-10-2026 22:20",
-        "news_link": "https://news.republika.co.id/berita/tna3ud9430000/kkp-tangkap-154-kapal-ilegal-di-perairan-indonesia-hingga-september-2026"
-    },
-    {
-        "title": "Soal Karhutla, Muhammadiyah Tuntut Tanggung Jawab Pelaku Usaha agar Berkegiatan Secara Beretika",
-        "category": "Khazanah",
-        "publish_time": "21-10-2026 22:20",
-        "news_link": "https://khazanah.republika.co.id/berita/tna3qb430/soal-karhutla-muhammadiyah-tuntut-tanggung-jawab-pelaku-usaha-agar-berkegiatan-secara-beretika"
-    },
-    {
-        "title": "Kenangan Kiai Cholil Nafis Saat Nyantri di Sidogiri, Mengasah Ilmu Lewat Tradisi Bahtsul Masail",
-        "category": "News",
-        "publish_time": "21-10-2026 22:20",
-        "news_link": "https://news.republika.co.id/berita/tna3ey483/kenangan-kiai-cholil-nafis-saat-nyantri-di-sidogiri-mengasah-ilmu-lewat-tradisi-bahtsul-masail"
-    },
-    {
-        "title": "PLN Dorong Ekonomi Lokal Lewat 18 UMKM di Manado High Street Market 2026",
-        "category": "News",
-        "publish_time": "21-10-2026 22:20",
-        "news_link": "https://news.republika.co.id/berita/tna35h4630000/pln-dorong-ekonomi-lokal-lewat-18-umkm-di-manado-high-street-market-2026"
-    },
-    {
-        "title": "ISEI Manado: Program Makan Bergizi Gratis Mampu Gerakkan Ekonomi Lokal",
-        "category": "News",
-        "publish_time": "21-10-2026 22:20",
-        "news_link": "https://news.republika.co.id/berita/tna2ge6630000/isei-manado-program-makan-bergizi-gratis-mampu-gerakkan-ekonomi-lokal"
-    },
-    {
-        "title": "Survei Matriks: Teddy Terpopuler, Amran Terbaik, Erick Thohir Masuk Lima Besar",
-        "category": "News",
-        "publish_time": "21-10-2026 22:20",
-        "news_link": "https://news.republika.co.id/berita/tn9ncc416/survei-matriks-teddy-terpopuler-amran-terbaik-erick-thohir-masuk-lima-besar"
-    },
-    {
-        "title": "DPR Dukung Pemerintah Perkuat Fondasi Swasembada Pangan Lewat Perbaikan Irigasi",
-        "category": "News",
-        "publish_time": "21-10-2026 21:20",
-        "news_link": "https://news.republika.co.id/berita/tna1vn5030000/dpr-dukung-pemerintah-perkuat-fondasi-swasembada-pangan-lewat-perbaikan-irigasi"
-    },
-    {
-        "title": "Ekonomi Sulut Tumbuh 5,42 Persen di Era Prabowo-Gibran, Kemiskinan Turun",
-        "category": "News",
-        "publish_time": "21-10-2026 21:20",
-        "news_link": "https://news.republika.co.id/berita/tna0e94730000/ekonomi-sulut-tumbuh-542-persen-di-era-prabowogibran-kemiskinan-turun"
-    },
-    {
-        "title": "Aceh Barat Uji Tanda Tangan Elektronik di RSUD Meulaboh Bersama BSSN",
-        "category": "News",
-        "publish_time": "21-10-2026 21:20",
-        "news_link": "https://news.republika.co.id/berita/tn9zov1430000/aceh-barat-uji-tanda-tangan-elektronik-di-rsud-meulaboh-bersama-bssn"
-    },
-    {
-        "title": "DPR Sebut Penurunan Harga Pupuk Subsidi 20 Persen Baru Pertama Kali Terjadi Sejak Indonesia Merdeka",
-        "category": "News",
-        "publish_time": "21-10-2026 20:20",
-        "news_link": "https://news.republika.co.id/berita/tn9yzi4830000/dpr-sebut-penurunan-harga-pupuk-subsidi-20-persen-baru-pertama-kali-terjadi-sejak-indonesia-merdeka"
-    },
-    {
-        "title": "Gubernur Andi Sudirman Perkuat Demokrasi Inklusif Demi Kedamaian Sulsel",
-        "category": "News",
-        "publish_time": "21-10-2026 20:20",
-        "news_link": "https://news.republika.co.id/berita/tn9yc47430000/gubernur-andi-sudirman-perkuat-demokrasi-inklusif-demi-kedamaian-sulsel"
-    },
-    {
-        "title": "Wali Kota Ambon Siapkan Sayembara Berhadiah untuk Tangkap Pelaku Pembakaran Lahan",
-        "category": "News",
-        "publish_time": "21-10-2026 20:20",
-        "news_link": "https://news.republika.co.id/berita/tn9xlg6730000/wali-kota-ambon-siapkan-sayembara-berhadiah-untuk-tangkap-pelaku-pembakaran-lahan"
-    },
-    {
-        "title": "Pemkab Bulungan Minta Perusahaan Susun Proyeksi Kebutuhan Tenaga Kerja 5 Tahun",
-        "category": "News",
-        "publish_time": "21-10-2026 20:20",
-        "news_link": "https://news.republika.co.id/berita/tn9wwj9930000/pemkab-bulungan-minta-perusahaan-susun-proyeksi-kebutuhan-tenaga-kerja-5-tahun"
-    },
-    {
-        "title": "Koperasi Merah Putih dan Amanat Konstitusi: Memperluas Kepemilikan Ekonomi Rakyat",
-        "category": "Opini",
-        "publish_time": "21-10-2026 20:20",
-        "news_link": "https://opini.republika.co.id/berita/tn8rxy320/koperasi-merah-putih-dan-amanat-konstitusi-memperluas-kepemilikan-ekonomi-rakyat"
-    },
-    {
-        "title": "KAI Daop 7 Madiun Gandeng Kejari Kediri Optimalkan Penanganan Hukum Perdata",
-        "category": "News",
-        "publish_time": "21-10-2026 19:20",
-        "news_link": "https://news.republika.co.id/berita/tn9w7g3230000/kai-daop-7-madiun-gandeng-kejari-kediri-optimalkan-penanganan-hukum-perdata"
-    },
-    {
-        "title": "Pemprov Sulteng Dorong Pesantren Lahirkan Generasi Unggul Kuasai Sains dan AI",
-        "category": "News",
-        "publish_time": "21-10-2026 19:20",
-        "news_link": "https://news.republika.co.id/berita/tn9vik5030000/pemprov-sulteng-dorong-pesantren-lahirkan-generasi-unggul-kuasai-sains-dan-ai"
-    },
-    {
-        "title": "Kader PKK Banten Diajak Optimalkan Pekarangan Rumah untuk Kelola Sampah",
-        "category": "News",
-        "publish_time": "21-10-2026 19:20",
-        "news_link": "https://news.republika.co.id/berita/tn9utd3330000/kader-pkk-banten-diajak-optimalkan-pekarangan-rumah-untuk-kelola-sampah"
-    },
-    {
-        "title": "Tavares Fokus Bawa Persebaya Kalahkan PSM, Singkirkan Kenangan Manis",
-        "category": "News",
-        "publish_time": "21-10-2026 19:20",
-        "news_link": "https://news.republika.co.id/berita/tn9u4d7330000/tavares-fokus-bawa-persebaya-kalahkan-psm-singkirkan-kenangan-manis"
-    },
-    {
-        "title": "Polda Papua Barat Daya Edukasi Keselamatan Berlalu Lintas Sejak Dini Lewat Program Goes to School",
-        "category": "News",
-        "publish_time": "21-10-2026 18:20",
-        "news_link": "https://news.republika.co.id/berita/tn9tff5230000/polda-papua-barat-daya-edukasi-keselamatan-berlalu-lintas-sejak-dini-lewat-program-goes-to-school"
-    },
-    {
-        "title": "Shin Tae-yong Ungkap Alasan Rizky Ridho dan Yoshino Absen Bela Persija Vs Arema FC",
-        "category": "News",
-        "publish_time": "21-10-2026 18:20",
-        "news_link": "https://news.republika.co.id/berita/tn9sqi6530000/shin-taeyong-ungkap-alasan-rizky-ridho-dan-yoshino-absen-bela-persija-vs-arema-fc"
-    },
-    {
-        "title": "Bapenda Sumut dan Polda Gelar Operasi Sadar Pajak Kendaraan, Ingatkan Warga Tanpa Tilang",
-        "category": "News",
-        "publish_time": "21-10-2026 18:20",
-        "news_link": "https://news.republika.co.id/berita/tn9s1f8530000/bapenda-sumut-dan-polda-gelar-operasi-sadar-pajak-kendaraan-ingatkan-warga-tanpa-tilang"
-    },
-    {
-        "title": "STY Puji Semangat Pantang Menyerah Persija Usai Bantai Arema FC 5-1",
-        "category": "News",
-        "publish_time": "21-10-2026 18:20",
-        "news_link": "https://news.republika.co.id/berita/tn9rcm230000/sty-puji-semangat-pantang-menyerah-persija-usai-bantai-arema-fc-51"
-    },
-    {
-        "title": "Indonesia, Turki, Pakistan, Qatar Jalin Kerja Sama Pertahanan, Ambil Nama dari Perang Badar",
-        "category": "News",
-        "publish_time": "21-10-2026 18:20",
-        "news_link": "https://news.republika.co.id/berita/tn9r4i393/indonesia-turki-pakistan-qatar-jalin-kerja-sama-pertahanan-ambil-nama-dari-perang-badar"
-    },
-    {
-        "title": "Gubernur Koster Janji Kaji Ulang UMP Bali 2027 Demi Dekati Kebutuhan Hidup Layak",
-        "category": "News",
-        "publish_time": "21-10-2026 17:20",
-        "news_link": "https://news.republika.co.id/berita/tn9qnk8130000/gubernur-koster-janji-kaji-ulang-ump-bali-2027-demi-dekati-kebutuhan-hidup-layak"
-    },
-    {
-        "title": "BRI Region 16 Manado Perkuat Mutu Pendidikan Lewat CSR Pembangunan SD",
-        "category": "News",
-        "publish_time": "21-10-2026 17:20",
-        "news_link": "https://news.republika.co.id/berita/tn9pyf1130000/bri-region-16-manado-perkuat-mutu-pendidikan-lewat-csr-pembangunan-sd"
-    },
-    {
-        "title": "World Bank Bahas Tata Kelola Sampah TPST Kertamukti dengan Pemkab Bekasi",
-        "category": "News",
-        "publish_time": "21-10-2026 17:20",
-        "news_link": "https://news.republika.co.id/berita/tn9p9f8330000/world-bank-bahas-tata-kelola-sampah-tpst-kertamukti-dengan-pemkab-bekasi"
-    },
-    {
-        "title": "Polres Batu Ringkus Petani Beli Ganja 5 Kg via Medsos, Modus Kirim Paket Ekspedisi",
-        "category": "News",
-        "publish_time": "21-10-2026 17:20",
-        "news_link": "https://news.republika.co.id/berita/tn9okf3530000/polres-batu-ringkus-petani-beli-ganja-5-kg-via-medsos-modus-kirim-paket-ekspedisi"
-    },
-    {
-        "title": "103 Siswa SMPN 2 Cisarua Diduga Keracunan MBG, Operasional Dapur Disetop 20 Hari",
-        "category": "Visual",
-        "publish_time": "21-10-2026 17:20",
-        "news_link": "https://visual.republika.co.id/berita/tn9i4e375/103-siswa-smpn-2-cisarua-diduga-keracunan-mbg-operasional-dapur-disetop-20-hari"
     }
 ]
