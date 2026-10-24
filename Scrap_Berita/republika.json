@@ -1,5 +1,59 @@
 [
     {
+        "title": "Menpora Apresiasi dan Bangga atas Capaian Indonesia Raih 15 Emas dan Tembus 8 Besar Asian Para Games",
+        "category": "News",
+        "publish_time": "25 October 2026, 01:56",
+        "news_link": "https://news.republika.co.id/berita/tnfdxl348/menpora-apresiasi-dan-bangga-atas-capaian-indonesia-raih-15-emas-dan-tembus-8-besar-asian-para-games"
+    },
+    {
+        "title": "Timnas U15 Indonesia Gilas Fiji 7-1 di Piala Dunia FIFA 2026",
+        "category": "News",
+        "publish_time": "25 October 2026, 01:45",
+        "news_link": "https://news.republika.co.id/berita/tnfdfh1730000/timnas-u15-indonesia-gilas-fiji-71-di-piala-dunia-fifa-2026"
+    },
+    {
+        "title": "AFC Pastikan Piala Asia 2027 Tetap Digelar Sesuai Jadwal, Vietnam Mulai Panaskan Mesin",
+        "category": "News",
+        "publish_time": "25 October 2026, 01:18",
+        "news_link": "https://news.republika.co.id/berita/tnfc77348/afc-pastikan-piala-asia-2027-tetap-digelar-sesuai-jadwal-vietnam-mulai-panaskan-mesin"
+    },
+    {
+        "title": "Bandara Banyuwangi Catat 1.142 Penumpang Jelang Perhelatan Gandrung Sewu 2026",
+        "category": "News",
+        "publish_time": "25 October 2026, 01:00",
+        "news_link": "https://news.republika.co.id/berita/tnfbde530000/bandara-banyuwangi-catat-1142-penumpang-jelang-perhelatan-gandrung-sewu-2026"
+    },
+    {
+        "title": "Pemprov Papua Tengah Dukung Penuh Freeport Jadi Tuan Rumah IFRC 2026",
+        "category": "News",
+        "publish_time": "25 October 2026, 00:45",
+        "news_link": "https://news.republika.co.id/berita/tnfank7430000/pemprov-papua-tengah-dukung-penuh-freeport-jadi-tuan-rumah-ifrc-2026"
+    },
+    {
+        "title": "Pemkot Denpasar Gelontorkan Rp1,9 Miliar untuk Bedah 19 Rumah Warga",
+        "category": "News",
+        "publish_time": "25 October 2026, 00:30",
+        "news_link": "https://news.republika.co.id/berita/tnf9yg830000/pemkot-denpasar-gelontorkan-rp19-miliar-untuk-bedah-19-rumah-warga"
+    },
+    {
+        "title": "Tabalong Terima Bantuan Rp10 Miliar dari Presiden Prabowo untuk Tangani Karhutla",
+        "category": "News",
+        "publish_time": "25 October 2026, 00:15",
+        "news_link": "https://news.republika.co.id/berita/tnf99d1730000/tabalong-terima-bantuan-rp10-miliar-dari-presiden-prabowo-untuk-tangani-karhutla"
+    },
+    {
+        "title": "Polres Bangka Selatan Gencarkan \"Green Policing\" Tanam Pohon dan Bersihkan Lingkungan",
+        "category": "News",
+        "publish_time": "25 October 2026, 00:00",
+        "news_link": "https://news.republika.co.id/berita/tnf8kc8030000/polres-bangka-selatan-gencarkan-green-policing-tanam-pohon-dan-bersihkan-lingkungan"
+    },
+    {
+        "title": "Asian Para Games 2026 Resmi Berakhir, Kontingen Indonesia Raih 73 Medali",
+        "category": "Visual",
+        "publish_time": "24 October 2026, 23:30",
+        "news_link": "https://visual.republika.co.id/berita/tnf5fv375/asian-para-games-2026-resmi-berakhir-kontingen-indonesia-raih-73-medali"
+    },
+    {
         "title": "Persiapan Haji Tak Cukup dengan Niat, Informasi Jadi Bekal Penting",
         "category": "Khazanah",
         "publish_time": "24 October 2026, 23:14",
@@ -244,59 +298,5 @@
         "category": "News",
         "publish_time": "24 October 2026, 16:59",
         "news_link": "https://news.republika.co.id/berita/tnep39377/prabowo-tak-gentar-dengan-msci-dasco-di-bursa-kita-tentukan-rating-kita-sendiri"
-    },
-    {
-        "title": "Jajal Jembatan Baru, Kim Jong-un Kunjungi Dandong, China",
-        "category": "News",
-        "publish_time": "24 October 2026, 16:46",
-        "news_link": "https://news.republika.co.id/berita/tneogv484/jajal-jembatan-baru-kim-jongun-kunjungi-dandong-china"
-    },
-    {
-        "title": "Drone Rusia Melonjak dari 450 ke 2.850 dalam Dua Bulan, Ukraina Andalkan Meriam F-16",
-        "category": "News",
-        "publish_time": "24 October 2026, 16:27",
-        "news_link": "https://news.republika.co.id/berita/tnelcy451/drone-rusia-melonjak-dari-450-ke-2850-dalam-dua-bulan-ukraina-andalkan-meriam-f16"
-    },
-    {
-        "title": "Pengelolaan Sampah Jadi Kunci Kebersihan Wisata Pesisir",
-        "category": "Esgnow",
-        "publish_time": "24 October 2026, 16:00",
-        "news_link": "https://esgnow.republika.co.id/berita/tneiwt416/pengelolaan-sampah-jadi-kunci-kebersihan-wisata-pesisir"
-    },
-    {
-        "title": "Bank Indonesia Turunkan GWM, BNI Dorong Pembiayaan ke Sektor Produktif",
-        "category": "Ekonomi",
-        "publish_time": "24 October 2026, 15:56",
-        "news_link": "https://ekonomi.republika.co.id/berita/tnem5s490/bank-indonesia-turunkan-gwm-bni-dorong-pembiayaan-ke-sektor-produktif"
-    },
-    {
-        "title": "Komisi VIII: HSN 2026 Momentum Penguatan Pesantren",
-        "category": "News",
-        "publish_time": "24 October 2026, 15:52",
-        "news_link": "https://news.republika.co.id/berita/tnelyz483/komisi-viii-hsn-2026-momentum-penguatan-pesantren"
-    },
-    {
-        "title": "PJT II Siapkan Pengembangan PLTS Terapung di 2 Waduk, Ini Daftarnya",
-        "category": "Ekonomi",
-        "publish_time": "24 October 2026, 15:49",
-        "news_link": "https://ekonomi.republika.co.id/berita/tnelud490/pjt-ii-siapkan-pengembangan-plts-terapung-di-2-waduk-ini-daftarnya"
-    },
-    {
-        "title": "Eks Bos CIA: Militer Amerika dan NATO Belum Siap Hadapi Perang Drone",
-        "category": "News",
-        "publish_time": "24 October 2026, 15:31",
-        "news_link": "https://news.republika.co.id/berita/tne5w6451/eks-bos-cia-militer-amerika-dan-nato-belum-siap-hadapi-perang-drone"
-    },
-    {
-        "title": "Badr Initiative Libatkan Indonesia Buka Peluang Transfer Teknologi",
-        "category": "News",
-        "publish_time": "24 October 2026, 15:28",
-        "news_link": "https://news.republika.co.id/berita/tnekv6484/badr-initiative-libatkan-indonesia-buka-peluang-transfer-teknologi"
-    },
-    {
-        "title": "Bill Gates: AI Picu Pergolakan Sosial Ekonomi Selama 20 Tahun, Ganggu Lapangan Kerja dan Kehidupan",
-        "category": "News",
-        "publish_time": "24 October 2026, 15:28",
-        "news_link": "https://news.republika.co.id/berita/tnekuo377/bill-gates-ai-picu-pergolakan-sosial-ekonomi-selama-20-tahun-ganggu-lapangan-kerja-dan-kehidupan"
     }
 ]
