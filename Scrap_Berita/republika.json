@@ -1,8 +1,284 @@
 [
     {
+        "title": "Tiba di PN Jaktim Jokowi Didampingi Kaesang dan Kahiyang",
+        "category": "Video",
+        "publish_time": "05-11-2026 03:00",
+        "news_link": "https://republika.co.id/page/shorts/yt-to0do11626982279/tiba-di-pn-jaktim-jokowi-didampingi-kaesang-dan-kahiyang"
+    },
+    {
+        "title": "Bisnis AI Tumbuh Pesat, Tokenisasi Saham Jadi Alternatif Investasi",
+        "category": "Ekonomi",
+        "publish_time": "05-11-2026 03:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/to09g7416/bisnis-ai-tumbuh-pesat-tokenisasi-saham-jadi-alternatif-investasi"
+    },
+    {
+        "title": "Kenali Perjalanan Umrah dan Haji Lewat Gim Syumra Simulator 3D Gratis",
+        "category": "Khazanah",
+        "publish_time": "05-11-2026 02:56",
+        "news_link": "https://khazanah.republika.co.id/berita/to0djg366/kenali-perjalanan-umrah-dan-haji-lewat-gim-syumra-simulator-3d-gratis"
+    },
+    {
+        "title": "Dituding Terkait Ikhwan, Dikhianati Rekan Demokrat, El-Sayed Justru Menang di Michigan",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 02:54",
+        "news_link": "https://news.republika.co.id/berita/to0dfx451/dituding-terkait-ikhwan-dikhianati-rekan-demokrat-elsayed-justru-menang-di-michigan"
+    },
+    {
+        "title": "Jokowi Mengaku Dapat 31 Video yang Permasalahkan Ijazahnya, Salah Satunya Roy Suryo",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 02:54",
+        "news_link": "https://news.republika.co.id/berita/to0dfw409/jokowi-mengaku-dapat-31-video-yang-permasalahkan-ijazahnya-salah-satunya-roy-suryo"
+    },
+    {
+        "title": "UMJ Masuk Peringkat 78 Indonesia dalam QS Asia University Rankings 2027",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 02:47",
+        "news_link": "https://news.republika.co.id/berita/to0d0n416/umj-masuk-peringkat-78-indonesia-dalam-qs-asia-university-rankings-2027"
+    },
+    {
+        "title": "Tiba di PN Jakarta Timur Roy Suryo Semoga Rakyat Bisa Dapat Jawaban Dari Jokowi",
+        "category": "Video",
+        "publish_time": "05-11-2026 02:44",
+        "news_link": "https://republika.co.id/page/shorts/yt-to0cz41584135672/tiba-di-pn-jakarta-timur-roy-suryo-semoga-rakyat-bisa-dapat-jawaban-dari-jokowi"
+    },
+    {
+        "title": "Pendukung Jokowi Padati Area Sekitar PN Jaktim Jelang Persidangan",
+        "category": "Video",
+        "publish_time": "05-11-2026 02:44",
+        "news_link": "https://republika.co.id/page/shorts/yt-to0cz12025896202/pendukung-jokowi-padati-area-sekitar-pn-jaktim-jelang-persidangan"
+    },
+    {
+        "title": "Daftar Lengkap Pemenang AMI Awards 2026",
+        "category": "Ameera",
+        "publish_time": "05-11-2026 02:13",
+        "news_link": "https://ameera.republika.co.id/berita/to0bjh425/daftar-lengkap-pemenang-ami-awards-2026"
+    },
+    {
+        "title": "Jokowi Bungkam Ditanya Kasus Penyadapan Jenderal Listyo",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 02:07",
+        "news_link": "https://news.republika.co.id/berita/to0b9j484/jokowi-bungkam-ditanya-kasus-penyadapan-jenderal-listyo"
+    },
+    {
+        "title": "Simpatisan Cekcok dengan Perempuan Ngaku dari BIN di PN Jaktim",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 02:04",
+        "news_link": "https://news.republika.co.id/berita/to0b4b393/simpatisan-cekcok-dengan-perempuan-ngaku-dari-bin-di-pn-jaktim"
+    },
+    {
+        "title": "Pengembangan B50 dan E20 Perkuat Ketahanan Energi",
+        "category": "Ekonomi",
+        "publish_time": "05-11-2026 02:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/to0awv522/pengembangan-b50-dan-e20-perkuat-ketahanan-energi"
+    },
+    {
+        "title": "MSC Poesia Gagal Berlayar, Perusahaan Ungkap Alasan Masalah Tak Kunjung Tuntas",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 02:00",
+        "news_link": "https://news.republika.co.id/berita/to08dz451/msc-poesia-gagal-berlayar-perusahaan-ungkap-alasan-masalah-tak-kunjung-tuntas"
+    },
+    {
+        "title": "Peternak Ayam di Parigi Moutong Dilatih Tingkatkan Produksi Telur",
+        "category": "Ekonomi",
+        "publish_time": "05-11-2026 02:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/tnzi7u416/peternak-ayam-di-parigi-moutong-dilatih-tingkatkan-produksi-telur"
+    },
+    {
+        "title": "SCG Kantongi Sertifikat Halal untuk 453 Produk Kimia dan Jasa Logistik",
+        "category": "Halalhub",
+        "publish_time": "05-11-2026 02:00",
+        "news_link": "https://halalhub.republika.co.id/berita/to05ya416/scg-kantongi-sertifikat-halal-untuk-453-produk-kimia-dan-jasa-logistik"
+    },
+    {
+        "title": "Kemarau Berakhir, Hujan Lebat Disertai Angin Kencang Rusak Sekolah Hingga Sekolah di Kuningan",
+        "category": "Rejabar",
+        "publish_time": "05-11-2026 02:00",
+        "news_link": "https://rejabar.republika.co.id/berita/to0aft282/kemarau-berakhir-hujan-lebat-disertai-angin-kencang-rusak-sekolah-hingga-sekolah-di-kuningan"
+    },
+    {
+        "title": "PN Jaktim Dijaga Ketat Jelang Persidangan Ijazah Jokowi",
+        "category": "Video",
+        "publish_time": "05-11-2026 01:00",
+        "news_link": "https://republika.co.id/page/shorts/yt-to09i12084822207/pn-jaktim-dijaga-ketat-jelang-persidangan-ijazah-jokowi"
+    },
+    {
+        "title": "JPU Sebut Keterangan Terdakwa Dugaan Pemerasan Pengusaha Berbeda dengan Saksi",
+        "category": "Nusantara",
+        "publish_time": "05-11-2026 01:00",
+        "news_link": "https://daerah.republika.co.id/berita/to05qh320/jpu-sebut-keterangan-terdakwa-dugaan-pemerasan-pengusaha-berbeda-dengan-saksi"
+    },
+    {
+        "title": "SRX Cup Buka Kesempatan Pembalap Nasional Tampil di FIA Rallycross World Cup Indonesia 2026",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 01:00",
+        "news_link": "https://news.republika.co.id/berita/to093r456/srx-cup-buka-kesempatan-pembalap-nasional-tampil-di-fia-rallycross-world-cup-indonesia-2026"
+    },
+    {
+        "title": "Bank BSN Gandeng Himperra Perluas Pembiayaan Rumah Syariah",
+        "category": "Halalhub",
+        "publish_time": "05-11-2026 01:00",
+        "news_link": "https://halalhub.republika.co.id/berita/tnzer4416/bank-bsn-gandeng-himperra-perluas-pembiayaan-rumah-syariah"
+    },
+    {
+        "title": "Siapa Lebih Utama Utsman bin Affan atau Ali bin Abi Thalib Menurut Imam Hanafi?",
+        "category": "Khazanah",
+        "publish_time": "05-11-2026 01:00",
+        "news_link": "https://khazanah.republika.co.id/berita/to07us430/siapa-lebih-utama-utsman-bin-affan-atau-ali-bin-abi-thalib-menurut-imam-hanafi"
+    },
+    {
+        "title": "6.000 TNI-Polri Dikerahkan di PN Jaktim Cegah Massa Jokowi dan Roy Suryo Baku Hantam",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 01:00",
+        "news_link": "https://news.republika.co.id/berita/to078p393/6000-tnipolri-dikerahkan-di-pn-jaktim-cegah-massa-jokowi-dan-roy-suryo-baku-hantam"
+    },
+    {
+        "title": "Jokowi akan Bersaksi, Massa Kedua Kubu Padati PN Jaktim",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 01:00",
+        "news_link": "https://news.republika.co.id/berita/to070w409/jokowi-akan-bersaksi-massa-kedua-kubu-padati-pn-jaktim"
+    },
+    {
+        "title": "Mengapa Kapal Asing Bisa Ditahan AS? Data Penjaga Pantai Ungkap Fakta Menarik",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 01:00",
+        "news_link": "https://news.republika.co.id/berita/to06ve451/mengapa-kapal-asing-bisa-ditahan-as-data-penjaga-pantai-ungkap-fakta-menarik"
+    },
+    {
+        "title": "LPPOM Dorong UMKM Tembus Pasar Halal Global Lewat Halal Connect",
+        "category": "Halalhub",
+        "publish_time": "05-11-2026 00:00",
+        "news_link": "https://halalhub.republika.co.id/berita/to06jh320/lppom-dorong-umkm-tembus-pasar-halal-global-lewat-halal-connect"
+    },
+    {
+        "title": "Helikopter MI-17V5 Jatuh, Tiga Kru Puspenerbad Gugur",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 00:00",
+        "news_link": "https://news.republika.co.id/berita/to06e4484/helikopter-mi17v5-jatuh-tiga-kru-puspenerbad-gugur"
+    },
+    {
+        "title": "Ini Lima Amalan yang Dianjurkan Sebelum Ibadah Suami Istri",
+        "category": "Khazanah",
+        "publish_time": "05-11-2026 00:00",
+        "news_link": "https://khazanah.republika.co.id/berita/to0642430/ini-lima-amalan-yang-dianjurkan-sebelum-ibadah-suami-istri"
+    },
+    {
+        "title": "BMKG Prakirakan Jakarta Diguyur Hujan pada Kamis Sore Hingga Malam",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 00:00",
+        "news_link": "https://news.republika.co.id/berita/to0614409/bmkg-prakirakan-jakarta-diguyur-hujan-pada-kamis-sore-hingga-malam"
+    },
+    {
+        "title": "PN Jaktim Bagai Medan Perang Jelang Kedatangan Jokowi",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 00:00",
+        "news_link": "https://news.republika.co.id/berita/to05nn393/pn-jaktim-bagai-medan-perang-jelang-kedatangan-jokowi"
+    },
+    {
+        "title": "Produsen Prosesor Pacu Pengembangan Komputer Berbasis AI",
+        "category": "Ameera",
+        "publish_time": "05-11-2026 00:00",
+        "news_link": "https://ameera.republika.co.id/berita/to05ew416/produsen-prosesor-pacu-pengembangan-komputer-berbasis-ai"
+    },
+    {
+        "title": "BNPB Catat 2.295 Bencana Sepanjang 2026, Legislator Minta Mitigasi Diperkuat",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 00:00",
+        "news_link": "https://news.republika.co.id/berita/tnzdyu416/bnpb-catat-2295-bencana-sepanjang-2026-legislator-minta-mitigasi-diperkuat"
+    },
+    {
+        "title": "Komite Haji dan Umrah Arab Saudi Tinjau Persiapan Awal Penyelenggaraan Ibadah Haji",
+        "category": "Khazanah",
+        "publish_time": "05-11-2026 00:00",
+        "news_link": "https://khazanah.republika.co.id/berita/to055l430/komite-haji-dan-umrah-arab-saudi-tinjau-persiapan-awal-penyelenggaraan-ibadah-haji"
+    },
+    {
+        "title": "Cemas dengan Masa Depan Bumi? Penelitian Ungkap Cara Mahasiswa Mengatasinya",
+        "category": "Esgnow",
+        "publish_time": "05-11-2026 00:00",
+        "news_link": "https://esgnow.republika.co.id/berita/to04n5423/cemas-dengan-masa-depan-bumi-penelitian-ungkap-cara-mahasiswa-mengatasinya"
+    },
+    {
+        "title": "Pemprov DKI Jakarta Hapus Denda Pajak Kendaraan Hingga Akhir Tahun Ini",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 00:00",
+        "news_link": "https://news.republika.co.id/berita/to03wo348/pemprov-dki-jakarta-hapus-denda-pajak-kendaraan-hingga-akhir-tahun-ini"
+    },
+    {
+        "title": "Niat Jatuhkan Rezim Ayatullah, Serang Iran Malah Tumbangkan Trump",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 00:00",
+        "news_link": "https://news.republika.co.id/berita/to04ec393/niat-jatuhkan-rezim-ayatullah-serang-iran-malah-tumbangkan-trump"
+    },
+    {
+        "title": "Harga Tepung Tapioka Naik 30 Persen, Pedagang Cilok hingga Gorengan Kena Imbas",
+        "category": "Ekonomi",
+        "publish_time": "05-11-2026 00:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/to04da423/harga-tepung-tapioka-naik-30-persen-pedagang-cilok-hingga-gorengan-kena-imbas"
+    },
+    {
+        "title": "TNI AL Jelaskan 20 Ribu Marinir Dikerahkan ke Jakarta Jaga Stabilitas",
+        "category": "Kabar",
+        "publish_time": "05-11-2026 00:00",
+        "news_link": "https://news.republika.co.id/berita/to047u484/tni-al-jelaskan-20-ribu-marinir-dikerahkan-ke-jakarta-jaga-stabilitas"
+    },
+    {
+        "title": "Di Oase PTKIN, Menag Kembali Tegaskan Pentingnya Integrasi Sains dengan Nilai Agama",
+        "category": "Kabar",
+        "publish_time": "04-11-2026 23:00",
+        "news_link": "https://news.republika.co.id/berita/to03hl320/di-oase-ptkin-menag-kembali-tegaskan-pentingnya-integrasi-sains-dengan-nilai-agama"
+    },
+    {
+        "title": "Kasus Dugaan Penyadapan Presiden, Pakar UIN Dorong Pembentukan Lembaga Independen",
+        "category": "Kabar",
+        "publish_time": "04-11-2026 23:00",
+        "news_link": "https://news.republika.co.id/berita/to03eo430/kasus-dugaan-penyadapan-presiden-pakar-uin-dorong-pembentukan-lembaga-independen"
+    },
+    {
+        "title": "Como 1907 Ukir Sejarah, Hancurkan Lens 9-1 dan Catat Rekor Kemenangan Terbesar di Liga Champions",
+        "category": "Kabar",
+        "publish_time": "04-11-2026 23:00",
+        "news_link": "https://news.republika.co.id/berita/to037w348/como-1907-ukir-sejarah-hancurkan-lens-91-dan-catat-rekor-kemenangan-terbesar-di-liga-champions"
+    },
+    {
+        "title": "Dua Kali Unggul, Liverpool Akhirnya Tumbang 2-3 di Markas Fenerbahce",
+        "category": "Kabar",
+        "publish_time": "04-11-2026 23:00",
+        "news_link": "https://news.republika.co.id/berita/to02mq348/dua-kali-unggul-liverpool-akhirnya-tumbang-23-di-markas-fenerbahce"
+    },
+    {
+        "title": "Ketegangan Timur Tengah, Indonesia Perlu Amankan Pasokan Energi",
+        "category": "Ekonomi",
+        "publish_time": "04-11-2026 23:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/to02lz484/ketegangan-timur-tengah-indonesia-perlu-amankan-pasokan-energi"
+    },
+    {
+        "title": "PAM Jaya Masuk Daftar Pembayar Pajak Terbesar di Jakarta Pusat",
+        "category": "Ekonomi",
+        "publish_time": "04-11-2026 23:00",
+        "news_link": "https://ekonomi.republika.co.id/berita/tnzdl0416/pam-jaya-masuk-daftar-pembayar-pajak-terbesar-di-jakarta-pusat"
+    },
+    {
+        "title": "Gol Madueke dan Gyokeres Bawa Arsenal Kalahkan Slavia Praha 2-1",
+        "category": "Kabar",
+        "publish_time": "04-11-2026 23:00",
+        "news_link": "https://news.republika.co.id/berita/to01vn6130000/gol-madueke-dan-gyokeres-bawa-arsenal-kalahkan-slavia-praha-21"
+    },
+    {
+        "title": "Gol Roket Valverde pada Injury Time Pastikan Kemenangan Dramatis Real Madrid atas AEK",
+        "category": "Kabar",
+        "publish_time": "04-11-2026 23:00",
+        "news_link": "https://news.republika.co.id/berita/to01mh348/gol-roket-valverde-pada-injury-time-pastikan-kemenangan-dramatis-real-madrid-atas-aek"
+    },
+    {
+        "title": "Polda Sulut Imbau Keselamatan Berkendara Jadi Kebutuhan, Bukan Sekadar Patuh Saat Operasi",
+        "category": "Kabar",
+        "publish_time": "04-11-2026 22:00",
+        "news_link": "https://news.republika.co.id/berita/to016m3130000/polda-sulut-imbau-keselamatan-berkendara-jadi-kebutuhan-bukan-sekadar-patuh-saat-operasi"
+    },
+    {
         "title": "PSIM Yogyakarta Berharap Pelatih Anyar Risto Vidakovic Bawa Tren Positif",
         "category": "Kabar",
-        "publish_time": "04-11-2026 22:15",
+        "publish_time": "04-11-2026 22:00",
         "news_link": "https://news.republika.co.id/berita/to00hh2230000/psim-yogyakarta-berharap-pelatih-anyar-risto-vidakovic-bawa-tren-positif"
     },
     {
@@ -12,297 +288,15 @@
         "news_link": "https://news.republika.co.id/berita/tnzzse1530000/pieter-huistra-ingin-kemenangan-telak-pss-di-ileague-cup-jadi-modal-hadapi-bri-super-league"
     },
     {
-        "title": "Undangan Partisipasi Market Sounding Slot Reservation Agreement (SRA) Untuk Gas Engine dan Gas Turbine",
-        "category": "Native",
-        "publish_time": "04-11-2026 01:20",
-        "news_link": "https://www.republika.co.id/berita/tnxit2325/undangan-partisipasi-market-sounding-slot-reservation-agreement-sra-untuk-gas-engine-dan-gas-turbine"
-    },
-    {
         "title": "DKP Gorontalo Dorong Pariwisata Pesisir Libatkan Masyarakat Lokal",
         "category": "Kabar",
-        "publish_time": "04-11-2026 21:45",
+        "publish_time": "04-11-2026 22:00",
         "news_link": "https://news.republika.co.id/berita/tnzz3b9130000/dkp-gorontalo-dorong-pariwisata-pesisir-libatkan-masyarakat-lokal"
     },
     {
         "title": "Teknologi Telematika Masuk ke Bisnis Truk Pendingin, Apa Fungsinya?",
         "category": "Ekonomi",
-        "publish_time": "04-11-2026 21:45",
+        "publish_time": "04-11-2026 22:00",
         "news_link": "https://ekonomi.republika.co.id/berita/tnznvc348/teknologi-telematika-masuk-ke-bisnis-truk-pendingin-apa-fungsinya"
-    },
-    {
-        "title": "HUT ke-419 Makassar, Dinkes Gelar Sunatan Massal Gratis untuk 419 Anak",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 21:33",
-        "news_link": "https://news.republika.co.id/berita/tnzyiz2830000/hut-ke419-makassar-dinkes-gelar-sunatan-massal-gratis-untuk-419-anak"
-    },
-    {
-        "title": "Polda Maluku Tindak 40 Pelanggar Lalu Lintas di Ambon dalam Operasi Patuh Salawaku",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 21:20",
-        "news_link": "https://news.republika.co.id/berita/tnzxpc10030000/polda-maluku-tindak-40-pelanggar-lalu-lintas-di-ambon-dalam-operasi-patuh-salawaku"
-    },
-    {
-        "title": "Keluarga, Dakwah dan Kepemimpinan",
-        "category": "Opini",
-        "publish_time": "04-11-2026 21:20",
-        "news_link": "https://opini.republika.co.id/berita/tnzglh483/keluarga-dakwah-dan-kepemimpinan"
-    },
-    {
-        "title": "Pemkot Ambon Luncurkan SI-BAILEO, Sistem Digital Deteksi Dini Penyimpangan Anggaran",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 21:20",
-        "news_link": "https://news.republika.co.id/berita/tnzx0e7830000/pemkot-ambon-luncurkan-sibaileo-sistem-digital-deteksi-dini-penyimpangan-anggaran"
-    },
-    {
-        "title": "Pesantren Bebas TB Dirilis, Awali Gerakan Pesantren Sehat Nasional",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 21:20",
-        "news_link": "https://news.republika.co.id/berita/tnzge4483/pesantren-bebas-tb-dirilis-awali-gerakan-pesantren-sehat-nasional"
-    },
-    {
-        "title": "Satpol PP Karawang Tutup Tempat Hiburan Malam, Kedapatan Jual Ratusan Botol Miras Ilegal",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 20:20",
-        "news_link": "https://news.republika.co.id/berita/tnzwf31530000/satpol-pp-karawang-tutup-tempat-hiburan-malam-kedapatan-jual-ratusan-botol-miras-ilegal"
-    },
-    {
-        "title": "Pidie Jaya Fokus Pulihkan Permukiman dan Layanan Dasar Pascabanjir",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 20:20",
-        "news_link": "https://news.republika.co.id/berita/tnzvpx4130000/pidie-jaya-fokus-pulihkan-permukiman-dan-layanan-dasar-pascabanjir"
-    },
-    {
-        "title": "Kiper FC Andorra Jesus Owono Terpukul Usai Insiden Tragis yang Merenggut Nyawa Penyerang Tenerife",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 20:20",
-        "news_link": "https://news.republika.co.id/berita/tnzuxj8130000/kiper-fc-andorra-jesus-owono-terpukul-usai-insiden-tragis-yang-merenggut-nyawa-penyerang-tenerife"
-    },
-    {
-        "title": "Bhayangkara Lampung FC Tatap Serius Piala Liga Usai Tundukkan PSPS Pekanbaru",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 20:20",
-        "news_link": "https://news.republika.co.id/berita/tnzu8g1030000/bhayangkara-lampung-fc-tatap-serius-piala-liga-usai-tundukkan-psps-pekanbaru"
-    },
-    {
-        "title": "Pemkab Aceh Selatan Jamin Kebutuhan Dasar Pengungsi Banjir Trumon Terpenuhi",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 19:20",
-        "news_link": "https://news.republika.co.id/berita/tnztle5830000/pemkab-aceh-selatan-jamin-kebutuhan-dasar-pengungsi-banjir-trumon-terpenuhi"
-    },
-    {
-        "title": "Kemenhub Usulkan Target Adopsi Bus Listrik 2030 Turun Jadi 80 Persen",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 19:20",
-        "news_link": "https://news.republika.co.id/berita/tnzsw19230000/kemenhub-usulkan-target-adopsi-bus-listrik-2030-turun-jadi-80-persen"
-    },
-    {
-        "title": "Wali Kota Medan: Keterampilan Jadi Kunci, Bukan Sekadar Ijazah",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 19:20",
-        "news_link": "https://news.republika.co.id/berita/tnzs6j2330000/wali-kota-medan-keterampilan-jadi-kunci-bukan-sekadar-ijazah"
-    },
-    {
-        "title": "Kampung Nelayan Merah Putih Seraya Timur Diharapkan Jadi Pusat Ekonomi Baru Karangasem",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 19:20",
-        "news_link": "https://news.republika.co.id/berita/tnzrgt5130000/kampung-nelayan-merah-putih-seraya-timur-diharapkan-jadi-pusat-ekonomi-baru-karangasem"
-    },
-    {
-        "title": "Jabar dan Australia Kolaborasi Perkuat Sistem Kesehatan via Program KITA SEHAT",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 18:20",
-        "news_link": "https://news.republika.co.id/berita/tnzqrf7930000/jabar-dan-australia-kolaborasi-perkuat-sistem-kesehatan-via-program-kita-sehat"
-    },
-    {
-        "title": "Danrem 011/Lilawangsa: TNI Pererat Silaturahim dengan Ulama Demi Keamanan Aceh",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 18:20",
-        "news_link": "https://news.republika.co.id/berita/tnzq2h6930000/danrem-011lilawangsa-tni-pererat-silaturahim-dengan-ulama-demi-keamanan-aceh"
-    },
-    {
-        "title": "BPJS Ketenagakerjaan Catat 14.345 Pekerja Rentan di Rejang Lebong Terlindungi Jaminan Sosial",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 18:20",
-        "news_link": "https://news.republika.co.id/berita/tnzpdf2330000/bpjs-ketenagakerjaan-catat-14345-pekerja-rentan-di-rejang-lebong-terlindungi-jaminan-sosial"
-    },
-    {
-        "title": "Pemkot Bukittinggi Buka Peluang Karir Strategis ASN Lewat Manajemen Talenta",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 18:20",
-        "news_link": "https://news.republika.co.id/berita/tnzoog5930000/pemkot-bukittinggi-buka-peluang-karir-strategis-asn-lewat-manajemen-talenta"
-    },
-    {
-        "title": "Cegah Luapan Sungai Saat Hujan, Pemkot Cirebon Percepat Normalisasi Sungai Cikalong",
-        "category": "Rejabar",
-        "publish_time": "04-11-2026 18:20",
-        "news_link": "https://rejabar.republika.co.id/berita/tnzoho282/cegah-luapan-sungai-saat-hujan-pemkot-cirebon-percepat-normalisasi-sungai-cikalong"
-    },
-    {
-        "title": "Puskesau Gelar Pembinaan Kesehatan Mental 180 Personel Lanud Iswahjudi",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 17:20",
-        "news_link": "https://news.republika.co.id/berita/tnznzf7430000/puskesau-gelar-pembinaan-kesehatan-mental-180-personel-lanud-iswahjudi"
-    },
-    {
-        "title": "Literasi Tinggi, Inklusi Rendah di IIFS 2026: Paradoks Keuangan Syariah",
-        "category": "Opini",
-        "publish_time": "04-11-2026 17:20",
-        "news_link": "https://opini.republika.co.id/berita/tnznjs282/literasi-tinggi-inklusi-rendah-di-iifs-2026-paradoks-keuangan-syariah"
-    },
-    {
-        "title": "Angka Kekerasan Perempuan dan Anak di Sumut Menurun, Pemprov Perkuat Pencegahan",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 17:20",
-        "news_link": "https://news.republika.co.id/berita/tnznag9030000/angka-kekerasan-perempuan-dan-anak-di-sumut-menurun-pemprov-perkuat-pencegahan"
-    },
-    {
-        "title": "Bangka Tengah Siapkan Rp273 Juta untuk Operasional MTQH XV Babel 2026",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 17:20",
-        "news_link": "https://news.republika.co.id/berita/tnzmlc6230000/bangka-tengah-siapkan-rp273-juta-untuk-operasional-mtqh-xv-babel-2026"
-    },
-    {
-        "title": "Hasil Wakil Indonesia di Korea Open: Ginting dan Alwi Tampil Meyakinkan, Thalita Comeback Dramatis",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 17:20",
-        "news_link": "https://news.republika.co.id/berita/tnzldz348/hasil-wakil-indonesia-di-korea-open-ginting-dan-alwi-tampil-meyakinkan-thalita-comeback-dramatis"
-    },
-    {
-        "title": "Dinkes Papua Pegunungan Rumuskan Strategi Percepat Pembangunan Kesehatan",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 17:20",
-        "news_link": "https://news.republika.co.id/berita/tnzlwf830000/dinkes-papua-pegunungan-rumuskan-strategi-percepat-pembangunan-kesehatan"
-    },
-    {
-        "title": "Indonesia Political Review Minta Aparat Penegak Hukum Usut Tuntas Kasus Dugaan Penyadapan",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 17:20",
-        "news_link": "https://news.republika.co.id/berita/tnz9wo320/indonesia-political-review-minta-aparat-penegak-hukum-usut-tuntas-kasus-dugaan-penyadapan"
-    },
-    {
-        "title": "SAJID Kecam Penyadapan Jurnalis dalam Kasus Listyo Sigit, Sebut Ancaman Demokrasi",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 16:20",
-        "news_link": "https://news.republika.co.id/berita/tnzkju451/sajid-kecam-penyadapan-jurnalis-dalam-kasus-listyo-sigit-sebut-ancaman-demokrasi"
-    },
-    {
-        "title": "Kekuasaan, Penyadapan, dan Keadaban Bernegara: Kematangan Demokrasi dan Cinta NKRI Diuji",
-        "category": "Opini",
-        "publish_time": "04-11-2026 16:20",
-        "news_link": "https://opini.republika.co.id/berita/tnz8p2320/kekuasaan-penyadapan-dan-keadaban-bernegara-kematangan-demokrasi-dan-cinta-nkri-diuji"
-    },
-    {
-        "title": "Latihan Garuda Shakti 2026, Prajurit TNI AD dan India Simulasikan Penyergapan",
-        "category": "Visual",
-        "publish_time": "04-11-2026 16:20",
-        "news_link": "https://visual.republika.co.id/berita/tnze02375/latihan-garuda-shakti-2026-prajurit-tni-ad-dan-india-simulasikan-penyergapan"
-    },
-    {
-        "title": "Yayasan JHL Targetkan Penerima Beasiswa Capai 3.000 Orang pada 2027",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 16:20",
-        "news_link": "https://news.republika.co.id/berita/tnzdkr349/yayasan-jhl-targetkan-penerima-beasiswa-capai-3000-orang-pada-2027"
-    },
-    {
-        "title": "Pertamina Berdayakan Penyintas Skizofrenia\u00a0Mandiri Ekonomi",
-        "category": "Esgnow",
-        "publish_time": "04-11-2026 16:20",
-        "news_link": "https://esgnow.republika.co.id/berita/tnzj0e522/pertamina-berdayakan-penyintas-skizofreniamandiri-ekonomi"
-    },
-    {
-        "title": "Pakar Dorong Penguatan Aturan Antisipasi Spionase Digital",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 15:20",
-        "news_link": "https://news.republika.co.id/berita/tnyvu9522/pakar-dorong-penguatan-aturan-antisipasi-spionase-digital"
-    },
-    {
-        "title": "Pemilu Amerika yang Paling Dinanti dan Paling Bersejarah",
-        "category": "Opini",
-        "publish_time": "04-11-2026 15:20",
-        "news_link": "https://opini.republika.co.id/berita/tnzhru393/pemilu-amerika-yang-paling-dinanti-dan-paling-bersejarah"
-    },
-    {
-        "title": "Cegah Peredaran Narkoba, Puluhan Bangunan Liar di Kampung Bahari Dibongkar",
-        "category": "Visual",
-        "publish_time": "04-11-2026 15:20",
-        "news_link": "https://visual.republika.co.id/berita/tnzdk0375/cegah-peredaran-narkoba-puluhan-bangunan-liar-di-kampung-bahari-dibongkar"
-    },
-    {
-        "title": "Wuling Tingkatkan Kandungan Lokal, Lima Model Kendaraan Capai TKDN 60 Persen",
-        "category": "Ekonomi",
-        "publish_time": "04-11-2026 15:20",
-        "news_link": "https://ekonomi.republika.co.id/berita/tnzghf348/wuling-tingkatkan-kandungan-lokal-lima-model-kendaraan-capai-tkdn-60-persen"
-    },
-    {
-        "title": "Lebih dari 91 Ribu Balita Terserang ISPA di Wilayah Terdampak Karhutla",
-        "category": "Ameera",
-        "publish_time": "04-11-2026 15:20",
-        "news_link": "https://ameera.republika.co.id/berita/tnzggz425/lebih-dari-91-ribu-balita-terserang-ispa-di-wilayah-terdampak-karhutla"
-    },
-    {
-        "title": "Babak Baru Ekspor SDA Inddonesia, Menteri Bahlil Tertibkan Alur Ekspor SDA Tak Lagi Transit",
-        "category": "Ekonomi",
-        "publish_time": "04-11-2026 15:20",
-        "news_link": "https://ekonomi.republika.co.id/berita/tnxd7j522/babak-baru-ekspor-sda-inddonesia-menteri-bahlil-tertibkan-alur-ekspor-sda-tak-lagi-transit"
-    },
-    {
-        "title": "Pakar Hukum: Putusan MA soal Penyetaraan Ijazah Gibran Tak Otomatis Gugurkan Jabatan Wapres",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 15:20",
-        "news_link": "https://news.republika.co.id/berita/tnzcwq451/pakar-hukum-putusan-ma-soal-penyetaraan-ijazah-gibran-tak-otomatis-gugurkan-jabatan-wapres"
-    },
-    {
-        "title": "Madrid Incar Kemenangan Keempat di Liga Champions, AEK Andalkan Magis Kandang",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 14:20",
-        "news_link": "https://news.republika.co.id/berita/tnzftt348/madrid-incar-kemenangan-keempat-di-liga-champions-aek-andalkan-magis-kandang"
-    },
-    {
-        "title": "Polda Jateng Ciduk Admin Sekaligus Perekrut Endorser Judol Bermodus MLM",
-        "category": "Rejogja",
-        "publish_time": "04-11-2026 14:20",
-        "news_link": "https://rejogja.republika.co.id/berita/tnzedu349/polda-jateng-ciduk-admin-sekaligus-perekrut-endorser-judol-bermodus-mlm"
-    },
-    {
-        "title": "RI Punya Cadangan Nikel Terbesar, Bahlil akan Kendalikan Produksi Agar Harga tak Anjlok",
-        "category": "Ekonomi",
-        "publish_time": "04-11-2026 14:20",
-        "news_link": "https://ekonomi.republika.co.id/berita/tnzfd9483/ri-punya-cadangan-nikel-terbesar-bahlil-akan-kendalikan-produksi-agar-harga-tak-anjlok"
-    },
-    {
-        "title": "Yoshinoya Perbarui Konsep Layanan dan Tambah Pilihan Menu di Kemanggisan",
-        "category": "Ameera",
-        "publish_time": "04-11-2026 14:20",
-        "news_link": "https://ameera.republika.co.id/berita/tnyvo3522/yoshinoya-perbarui-konsep-layanan-dan-tambah-pilihan-menu-di-kemanggisan"
-    },
-    {
-        "title": "BNPPDT Percepat Operasionalisasi Terminal Barang Internasional Entikong",
-        "category": "Nusantara",
-        "publish_time": "04-11-2026 14:20",
-        "news_link": "https://daerah.republika.co.id/berita/tnzeyo483/bnppdt-percepat-operasionalisasi-terminal-barang-internasional-entikong"
-    },
-    {
-        "title": "Sinkhole Seluas Tiga Hektare Muncul di Aceh Tengah, Akses Antarkecamatan Terputus",
-        "category": "Visual",
-        "publish_time": "04-11-2026 14:20",
-        "news_link": "https://visual.republika.co.id/berita/tnzcq2375/sinkhole-seluas-tiga-hektare-muncul-di-aceh-tengah-akses-antarkecamatan-terputus"
-    },
-    {
-        "title": "Dukung Menko Bahlil, ARF : Keuntungan SDA Harus Kembali ke Indonesia",
-        "category": "Ekonomi",
-        "publish_time": "04-11-2026 14:20",
-        "news_link": "https://ekonomi.republika.co.id/berita/tnzc84451/dukung-menko-bahlil-arf-keuntungan-sda-harus-kembali-ke-indonesia"
-    },
-    {
-        "title": "Gubernur Texas Anti-Islam Tumbang di Pemilu Sela AS",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 14:20",
-        "news_link": "https://news.republika.co.id/berita/tnze8t393/gubernur-texas-antiislam-tumbang-di-pemilu-sela-as"
-    },
-    {
-        "title": "Innalillahi, Kepala Bappeda DKI Jakarta Atika Nur Rahmania Meninggal Dunia",
-        "category": "Kabar",
-        "publish_time": "04-11-2026 14:20",
-        "news_link": "https://news.republika.co.id/berita/tnze12487/innalillahi-kepala-bappeda-dki-jakarta-atika-nur-rahmania-meninggal-dunia"
     }
 ]
